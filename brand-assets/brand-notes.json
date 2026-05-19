@@ -1,0 +1,14 @@
+{
+  "brand_name": "Hooked Trips",
+  "domain": "hookedtrips.com",
+  "tagline": "Find it. Book it. Fish on.",
+  "recommended_usage": {
+    "site_header": "hooked-trips-logo-wordmark-no-tagline.png",
+    "hero_footer": "hooked-trips-logo-full-with-tagline.png",
+    "favicon": "favicon.ico",
+    "apple_touch_icon": "hooked-trips-icon-180x180.png",
+    "pwa_icon": "hooked-trips-icon-512x512.png",
+    "dark_backgrounds": "use *-white.png variants"
+  },
+  "note": "Raster concept assets for MVP; redraw as SVG/vector before final launch."
+}
