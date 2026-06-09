@@ -1,0 +1,86 @@
+name: Fetch operator images
+
+# Runs on GitHub's servers (full internet) to collect candidate images for
+# charter operators, then opens a PR so the results can be curated before
+# anything goes live. Nothing is wired into index.html by this workflow.
+
+on:
+  workflow_dispatch:
+    inputs:
+      slugs:
+        description: 'Comma-separated operator slugs, or "all". Default: the operators that already have a website.'
+        required: false
+        default: 'oceanhunter-sportfishing-south-west-rocks,cronulla-reef-fishing-charters,fishabout-tours-sydney'
+      discover:
+        description: 'Search the web for a website for operators that have none (less reliable; needs curation).'
+        type: boolean
+        required: false
+        default: false
+      max:
+        description: 'Max images to save per operator.'
+        required: false
+        default: '15'
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Collect candidate images
+        run: |
+          ARGS="--max=${{ inputs.max }}"
+          if [ "${{ inputs.slugs }}" != "all" ] && [ -n "${{ inputs.slugs }}" ]; then
+            ARGS="$ARGS --slugs=${{ inputs.slugs }}"
+          fi
+          if [ "${{ inputs.discover }}" = "true" ]; then
+            ARGS="$ARGS --discover"
+          fi
+          echo "Running: node scripts/fetch-operator-images.mjs $ARGS"
+          node scripts/fetch-operator-images.mjs $ARGS
+
+      - name: Optimise images (resize + strip metadata)
+        run: |
+          if command -v mogrify >/dev/null 2>&1; then
+            find images/operators -type f \( -iname '*.jpg' -o -iname '*.jpeg' -o -iname '*.png' -o -iname '*.webp' \) -print0 \
+              | xargs -0 -r mogrify -resize '1600x1600>' -strip
+            echo "Optimised with ImageMagick."
+          else
+            echo "ImageMagick not available; skipping optimisation."
+          fi
+
+      - name: Open pull request with results
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if [ -z "$(git status --porcelain images/operators)" ]; then
+            echo "No images were collected — nothing to open a PR for."
+            exit 0
+          fi
+          BRANCH="operator-images/run-${{ github.run_number }}"
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout -b "$BRANCH"
+          git add images/operators
+          git commit -m "Add candidate operator images for review (run ${{ github.run_number }})"
+          git push -u origin "$BRANCH"
+          COUNT=$(find images/operators -type f \( -iname '*.jpg' -o -iname '*.jpeg' -o -iname '*.png' -o -iname '*.webp' \) | wc -l | tr -d ' ')
+          gh pr create \
+            --draft \
+            --title "Operator images for review (run ${{ github.run_number }})" \
+            --body "Automated image collection. **${COUNT}** candidate image(s) downloaded.
+
+          Review them in [\`images/operators/IMAGE-REVIEW.md\`](../tree/${BRANCH}/images/operators/IMAGE-REVIEW.md) on this branch (relative image previews render there).
+
+          **To curate:** delete any images you don't want from the operator folders, then tell Claude to wire the keepers into \`index.html\`.
+
+          Nothing here is live yet — this only gathers candidates." \
+            --head "$BRANCH"
