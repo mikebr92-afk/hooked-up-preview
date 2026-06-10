@@ -57,12 +57,12 @@ jobs:
             echo "ImageMagick not available; skipping optimisation."
           fi
 
-      - name: Open pull request with results
+      - name: Push results to a review branch
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           if [ -z "$(git status --porcelain images/operators)" ]; then
-            echo "No images were collected — nothing to open a PR for."
+            echo "No images were collected — nothing to push."
             exit 0
           fi
           BRANCH="operator-images/run-${{ github.run_number }}"
@@ -73,14 +73,15 @@ jobs:
           git commit -m "Add candidate operator images for review (run ${{ github.run_number }})"
           git push -u origin "$BRANCH"
           COUNT=$(find images/operators -type f \( -iname '*.jpg' -o -iname '*.jpeg' -o -iname '*.png' -o -iname '*.webp' \) | wc -l | tr -d ' ')
+
+          # PR creation is best-effort: some repos block Actions from opening PRs.
+          # If it fails, we still have the branch pushed and print the manual link.
           gh pr create \
-            --draft \
             --title "Operator images for review (run ${{ github.run_number }})" \
-            --body "Automated image collection. **${COUNT}** candidate image(s) downloaded.
+            --body "Automated image collection. **${COUNT}** candidate image(s) downloaded. Review \`images/operators/IMAGE-REVIEW.md\` on this branch, delete any you don't want, then ask Claude to wire the keepers into \`index.html\`. Nothing is live yet." \
+            --head "$BRANCH" 2>/dev/null \
+            && echo "Opened a pull request." \
+            || echo "::notice::Branch '$BRANCH' pushed with $COUNT image(s). Open a PR here: https://github.com/${{ github.repository }}/pull/new/$BRANCH"
 
-          Review them in [\`images/operators/IMAGE-REVIEW.md\`](../tree/${BRANCH}/images/operators/IMAGE-REVIEW.md) on this branch (relative image previews render there).
-
-          **To curate:** delete any images you don't want from the operator folders, then tell Claude to wire the keepers into \`index.html\`.
-
-          Nothing here is live yet — this only gathers candidates." \
-            --head "$BRANCH"
+          echo "### ✅ Collected $COUNT image(s) on branch \`$BRANCH\`" >> "$GITHUB_STEP_SUMMARY"
+          echo "[Open a pull request](https://github.com/${{ github.repository }}/pull/new/$BRANCH) · review \`images/operators/IMAGE-REVIEW.md\` on the branch." >> "$GITHUB_STEP_SUMMARY"

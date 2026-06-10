@@ -117,6 +117,13 @@ function extractImageUrls(html, baseUrl) {
     for (const part of m[1].split(',')) { const u = part.trim().split(/\s+/)[0]; if (u) add(u); }
   }
   for (const m of html.matchAll(/https?:\/\/static\.wixstatic\.com\/media\/[^\s"'\\)<>]+/gi)) add(m[0]);
+  // CSS background-image: url(...) (covers hero/gallery divs that aren't <img>)
+  for (const m of html.matchAll(/background(?:-image)?\s*:\s*url\((['"]?)([^'")]+)\1\)/gi)) add(m[2]);
+  // <source srcset> inside <picture>
+  for (const m of html.matchAll(/<source[^>]+?srcset=["']([^"']+)["']/gi)) {
+    for (const part of m[1].split(',')) { const u = part.trim().split(/\s+/)[0]; if (u) add(u); }
+  }
+  // Any absolute image URL anywhere (inline JSON, lightbox configs, etc.)
   for (const m of html.matchAll(/https?:\/\/[^\s"'\\)<>]+?\.(?:jpe?g|png|webp)(?:\?[^\s"'<>]*)?/gi)) add(m[0]);
 
   return [...found].filter((u) => !REJECT.test(u) && !u.startsWith('data:'));
