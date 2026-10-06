@@ -10,7 +10,7 @@ on:
       slugs:
         description: 'Comma-separated operator slugs, or "all". Default: the operators that already have a website.'
         required: false
-        default: 'oceanhunter-sportfishing-south-west-rocks,cronulla-reef-fishing-charters,fishabout-tours-sydney'
+        default: 'cronulla-reef-fishing-charters,fishabout-tours-sydney'
       discover:
         description: 'Search the web for a website for operators that have none (less reliable; needs curation).'
         type: boolean
