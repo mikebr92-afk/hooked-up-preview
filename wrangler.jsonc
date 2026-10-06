@@ -6,6 +6,27 @@
     "directory": ".",
     "not_found_handling": "single-page-application",
     "binding": "ASSETS",
-    "run_worker_first": ["/charters/*", "/fishing-charters/*"]
+    // Every HTML route goes through the Worker (per-page <head>, server-rendered
+    // content, real 404s). Images, icons, site-seo.js etc. are served directly.
+    "run_worker_first": [
+      "/",
+      "/charters",
+      "/charters/*",
+      "/fishing-charters/*",
+      "/about",
+      "/about/*",
+      "/list-your-charter",
+      "/list-your-charter/*",
+      "/contact",
+      "/contact/*",
+      "/terms",
+      "/terms/*",
+      "/privacy",
+      "/privacy/*",
+      "/admin",
+      "/admin/*",
+      "/sitemap.xml",
+      "/llms.txt"
+    ]
   }
 }

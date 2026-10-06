@@ -1,0 +1,7 @@
+# Files in the repo that should not be published as public static assets.
+.git
+.github
+.assetsignore
+scripts
+worker.js
+wrangler.jsonc
