@@ -16,8 +16,7 @@
    ],
    "text": true,
    "max": 0,
-   "follow": false,
-   "force": true
+   "follow": false
   },
   {
    "slug": "guide-nt-fisheries",
@@ -31,8 +30,7 @@
    ],
    "text": true,
    "max": 0,
-   "follow": true,
-   "force": true
+   "follow": true
   }
  ]
 }

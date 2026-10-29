@@ -10,8 +10,7 @@
    ],
    "text": true,
    "max": 0,
-   "follow": true,
-   "force": true
+   "follow": true
   },
   {
    "slug": "groote-eylandt-sports-fishing",
@@ -25,8 +24,7 @@
    ],
    "text": true,
    "max": 0,
-   "follow": true,
-   "force": true
+   "follow": true
   },
   {
    "slug": "cobourg-fishing-safaris",
@@ -40,8 +38,7 @@
    ],
    "text": true,
    "max": 0,
-   "follow": true,
-   "force": true
+   "follow": true
   },
   {
    "slug": "dhipirri-barra-and-sportfishing-lodge",
@@ -57,8 +54,7 @@
    ],
    "text": true,
    "max": 0,
-   "follow": true,
-   "force": true
+   "follow": true
   },
   {
    "slug": "obj-adventures-nhulunbuy-fishing-charters",
@@ -72,8 +68,7 @@
    ],
    "text": true,
    "max": 0,
-   "follow": true,
-   "force": true
+   "follow": true
   },
   {
    "slug": "humbug-fishing-darwin",
@@ -87,8 +82,7 @@
    ],
    "text": true,
    "max": 0,
-   "follow": true,
-   "force": true
+   "follow": true
   },
   {
    "slug": "nt-fish-and-4x4",
@@ -101,8 +95,7 @@
    ],
    "text": true,
    "max": 0,
-   "follow": true,
-   "force": true
+   "follow": true
   },
   {
    "slug": "barra-or-blue-fishing-charters-darwin",
@@ -116,8 +109,7 @@
    ],
    "text": true,
    "max": 0,
-   "follow": true,
-   "force": true
+   "follow": true
   },
   {
    "slug": "barra-private-tours-darwin",
@@ -132,8 +124,7 @@
    ],
    "text": true,
    "max": 0,
-   "follow": true,
-   "force": true
+   "follow": true
   },
   {
    "slug": "darwin-harbour-fishing-charters",
@@ -147,8 +138,7 @@
    ],
    "text": true,
    "max": 0,
-   "follow": true,
-   "force": true
+   "follow": true
   },
   {
    "slug": "equinox-fishing-charters-darwin",
@@ -161,8 +151,7 @@
    ],
    "text": true,
    "max": 0,
-   "follow": true,
-   "force": true
+   "follow": true
   },
   {
    "slug": "offshore-boats-darwin",
@@ -179,8 +168,7 @@
    ],
    "text": true,
    "max": 0,
-   "follow": true,
-   "force": true
+   "follow": true
   },
   {
    "slug": "river-and-reef-fishing-charters",
@@ -197,8 +185,7 @@
    ],
    "text": true,
    "max": 0,
-   "follow": true,
-   "force": true
+   "follow": true
   },
   {
    "slug": "yknot-fishing-charters",
@@ -208,8 +195,7 @@
    ],
    "text": true,
    "max": 0,
-   "follow": true,
-   "force": true
+   "follow": true
   },
   {
    "slug": "anglers-choice-fishing-safaris",
@@ -222,8 +208,7 @@
    ],
    "text": true,
    "max": 0,
-   "follow": true,
-   "force": true
+   "follow": true
   },
   {
    "slug": "dundee-beach-fishing-charters",
@@ -240,8 +225,7 @@
    ],
    "text": true,
    "max": 0,
-   "follow": true,
-   "force": true
+   "follow": true
   },
   {
    "slug": "dna-barra-fishing",
@@ -257,8 +241,7 @@
    ],
    "text": true,
    "max": 0,
-   "follow": true,
-   "force": true
+   "follow": true
   },
   {
    "slug": "kakadu-fishing-tours",
@@ -272,8 +255,7 @@
    ],
    "text": true,
    "max": 0,
-   "follow": true,
-   "force": true
+   "follow": true
   },
   {
    "slug": "estuary-escapes-fishing-charters",
@@ -286,8 +268,7 @@
    ],
    "text": true,
    "max": 0,
-   "follow": true,
-   "force": true
+   "follow": true
   },
   {
    "slug": "just-doon-it-fishing-charters",
@@ -301,8 +282,7 @@
    ],
    "text": true,
    "max": 0,
-   "follow": true,
-   "force": true
+   "follow": true
   },
   {
    "slug": "obsession-fishing-safaris",
@@ -320,8 +300,7 @@
    ],
    "text": true,
    "max": 0,
-   "follow": true,
-   "force": true
+   "follow": true
   },
   {
    "slug": "point-stuart-wilderness-lodge",
@@ -334,8 +313,7 @@
    ],
    "text": true,
    "max": 0,
-   "follow": true,
-   "force": true
+   "follow": true
   },
   {
    "slug": "alure-fishing-charters-nt",
@@ -351,8 +329,7 @@
    ],
    "text": true,
    "max": 0,
-   "follow": true,
-   "force": true
+   "follow": true
   },
   {
    "slug": "tiwi-island-retreat",
@@ -364,8 +341,7 @@
    ],
    "text": true,
    "max": 0,
-   "follow": true,
-   "force": true
+   "follow": true
   }
  ]
 }

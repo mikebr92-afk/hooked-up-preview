@@ -1,0 +1,56 @@
+{
+ "requests": [
+  {
+   "slug": "guide-nt-permits",
+   "pages": [
+    "https://northernterritory.com/plan/useful-information/passes-and-permits",
+    "https://northernterritory.com/plan/useful-information/land-permits",
+    "https://parksaustralia.gov.au/kakadu/plan/passes/",
+    "https://parksaustralia.gov.au/kakadu/access/",
+    "http://tiwilandcouncil.com/permits/index.htm",
+    "https://permits.tiwilandcouncil.com/index.cfm?fuseaction=applyFishing",
+    "https://www.eastarnhemland.com.au/plan/access-permits"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false,
+   "force": true
+  },
+  {
+   "slug": "guide-nt-rules",
+   "pages": [
+    "https://nt.gov.au/marine/recreational-fishing",
+    "https://nt.gov.au/marine/recreational-fishing/rules/about-recreational-fishing",
+    "https://nt.gov.au/marine/recreational-fishing/when-and-where-to-fish/rules-for-fishing-in-specific-areas",
+    "https://nt.gov.au/marine/fishing-on-aboriginal-land/daly-river",
+    "https://nt.gov.au/__data/assets/pdf_file/0006/202587/fishing-and-boating.pdf"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false,
+   "force": true
+  },
+  {
+   "slug": "yknot-extra",
+   "pages": [
+    "https://www.yknot.com.au/ters-conditions",
+    "https://www.yknot.com.au/copy-of-harbour-cruises",
+    "https://yknotfishing.rezdy.com/catalog/509248/dundee-fishing-charters"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false,
+   "force": true
+  },
+  {
+   "slug": "ntfish-extra",
+   "pages": [
+    "https://www.ntfish4x4.com/information"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false,
+   "force": true
+  }
+ ]
+}
