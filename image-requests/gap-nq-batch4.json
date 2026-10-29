@@ -1,0 +1,6 @@
+{"requests":[
+{"slug":"cooktown-barra-charters2","pages":["https://cooktownbarracharters.com/","http://cooktownbarracharters.com/","https://www.cooktownbarracharters.com/"],"text":true,"max":16,"follow":true},
+{"slug":"cooktown-bluewater-charters2","pages":["https://cooktownbluewatercharters.com.au/","http://www.cooktownbluewatercharters.com.au/","https://cooktownbluewatercharters.com/"],"text":true,"max":16,"follow":true},
+{"slug":"cooktown-reef-charters2","pages":["https://reefcharters.com.au/","https://www.reefcharters.com.au/"],"text":true,"max":16,"follow":true},
+{"slug":"south-pacific-ii-charters","pages":["https://coastwatch.com.au/directory-services/whitsundays-lizard-island-fishing-charters/"],"text":false,"max":30,"follow":false}
+]}
