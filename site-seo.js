@@ -181,6 +181,14 @@ export const LOCS = {
     ],
   },
 
+  'gulf-nt': {
+    n: 'Gulf of Carpentaria (NT)', short: 'NT Gulf', in: 'in the NT Gulf of Carpentaria', parent: 'northern-territory', c: ['groote', 'roper river', 'borroloola', 'gulf of carpentaria', 'mcarthur river', 'king ash bay'], state: 'NT',
+    intro: [
+      "The Northern Territory's Gulf of Carpentaria coast is some of the most remote fishing in Australia. Groote Eylandt, off the western Gulf, offers reef and bluewater fishing for golden snapper, coral trout, red emperor and Spanish mackerel, while big tidal rivers such as the Roper — navigable for about 170 km into the Gulf — and the McArthur near Borroloola hold barramundi, threadfin salmon and mangrove jack.",
+      "Distances are huge (Borroloola is around 12 hours' drive from Darwin), so most visiting anglers fish here on fly-in or lodge-based trips. Charters on the Roper are run from a mothership reached by seaplane from Darwin, and Groote Eylandt trips are based at the island's lodge.",
+    ],
+    season: "Barramundi fish best in the run-off (about March to May) and the build-up (September to December), though they're caught year-round. On the Roper, trips run roughly February to October, with clearer dry-season water good for sight-casting on the flats. Reef fishing off Groote runs through the dry season.",
+  },
   // ── New South Wales hot spots ───────────────────────────────────────────────
   'central-coast': {
     n: 'Central Coast', short: 'Central Coast', in: 'on the Central Coast', parent: 'new-south-wales', c: ['central coast'], state: 'NSW',
@@ -247,6 +255,22 @@ export const LOCS = {
     season: "Kingfish are caught year-round, with winter the best time. Yellowfin tuna and wahoo are offshore targets. Spearfishing is banned in the marine park, and bag limits apply to some lagoon species.",
   },
 
+  'newcastle': {
+    n: 'Newcastle & Lake Macquarie', short: 'Newcastle', in: 'around Newcastle and Lake Macquarie', parent: 'new-south-wales', c: ['newcastle', 'lake macquarie', 'swansea', 'hunter river', 'tomago'], state: 'NSW',
+    intro: [
+      "Newcastle offers three very different kinds of fishing within half an hour of each other: the Hunter River and Newcastle Harbour, Lake Macquarie — which NSW DPI describes as Australia's largest coastal saltwater lake — and the offshore reefs reached through Swansea Channel.",
+      "Local guides chase dusky flathead and mulloway on lures in the Hunter River and the lake, kingfish around Swansea Bridge and the 'Drop Over' where the channel meets the lake, and reef species offshore. Lake Macquarie hasn't been commercially netted since 2002, and its calm water suits families and first-timers.",
+    ],
+    season: "Dusky flathead and mulloway are the signature estuary targets for much of the year, with flathead best in the warmer months. Kingfish hang around Swansea Bridge and the channel, and schools of Australian salmon often settle in Swansea Channel in the cooler months.",
+  },
+  'eden': {
+    n: 'Merimbula & Eden', short: 'Merimbula & Eden', in: 'around Merimbula and Eden', parent: 'new-south-wales', c: ['merimbula', 'eden', 'twofold bay', 'pambula', 'sapphire coast'], state: 'NSW',
+    intro: [
+      "On the far south coast of NSW, Eden's Twofold Bay is one of the deepest natural harbours in the Southern Hemisphere and has no bar to cross, so boats can get out in conditions that close other ports. Charters fish the inshore reefs for snapper, morwong and flathead year-round, run south to 'kingie country' around Mowarry Point and Green Cape, and head to the continental shelf — about 19 nautical miles out — for game fish.",
+      "Merimbula, 30 minutes north, adds short reef trips from the town jetty and calm lake fishing for dusky flathead and bream in Merimbula and Pambula lakes. Both towns are also whale-watching hubs during the humpback migration.",
+    ],
+    season: "Snapper and flathead are caught year-round. Kingfish run from about November to June, and Eden's game season (marlin, yellowfin and albacore tuna) runs from around November to July, with January to March often best for marlin.",
+  },
   // ── Queensland (south) hot spots ────────────────────────────────────────────
   'brisbane': {
     n: 'Brisbane & Moreton Bay', short: 'Brisbane', in: 'in Brisbane and Moreton Bay', parent: 'queensland', c: ['brisbane', 'moreton', 'bribie', 'redcliffe'], state: 'QLD',
@@ -289,6 +313,23 @@ export const LOCS = {
     season: "Reef fishing runs through the year, weather permitting. On the Swains liveaboards, bottom fishing for red emperor, coral trout and sweetlip is mixed with trolling for mackerel, tuna and wahoo. Coral reef fin fish closures apply around October and November.",
   },
 
+  'gladstone': {
+    n: 'Gladstone', short: 'Gladstone', in: 'in Gladstone', parent: 'queensland', c: ['gladstone', 'tannum sands', 'boyne island'], state: 'QLD',
+    intro: [
+      "Gladstone is the jumping-off point for multi-day reef fishing trips to the southern Great Barrier Reef. Liveaboard charters leave Gladstone Marina for the Capricorn and Bunker Group about 80 km offshore, the remote Swain Reefs around 120 nautical miles out, and on longer trips the Coral Sea reefs.",
+      "Trips typically run three to ten days, fishing for coral trout, red throat emperor and red emperor, with mackerel trolled off the reef edges. Some boats fish from dories so small groups can spread out across the reef, and catches are usually cleaned and frozen on board to take home.",
+    ],
+    season: "Reef fishing runs year-round outside the coral reef fin fish spawning closures (in 2026, 8–12 October and 6–10 November). Operators rate the start of spring as peak Swains season. Check Great Barrier Reef Marine Park zoning — parts of Heron Island and Wistari Reef are green zones.",
+  },
+  'agnes-water': {
+    n: 'Agnes Water & 1770', short: '1770', in: 'at Agnes Water and 1770', parent: 'queensland', min: 1,
+    c: ['agnes water', '1770', 'seventeen seventy', 'town of 1770', 'round hill'], state: 'QLD',
+    intro: [
+      "The Town of 1770 and neighbouring Agnes Water sit where the Great Barrier Reef begins, about halfway between Bundaberg and Gladstone. Charter boats leave Round Hill Creek for deep-water reefs within about 15 nautical miles of the coast, the rocks off Bustard Head, trawler wrecks, and on longer days the southern reefs of the Capricorn and Bunker Group such as Lady Musgrave Island and Fitzroy Reef.",
+      "Reef trips target coral trout, red emperor, red throat emperor, nannygai and sweetlip, with cobia, mackerel and tuna around the wrecks. Closer in, Round Hill, Eurimbula, Middle and Pancake creeks hold mangrove jack, barramundi, queenfish, grunter and whiting. Departures are timed around the tide because the Round Hill Creek bar is shallow and always shifting.",
+    ],
+    season: "Reef fishing is good year-round, but locals rate the cooler months most highly — red emperor school on the pinnacles east of Fitzroy Reef from about May to October. Cobia, tuna and trevally are on the wrecks all year. Mind the closures: coral reef fin fish (8–12 October and 6–10 November in 2026), snapper and pearl perch (15 July–15 August) and barramundi (1 November–31 January).",
+  },
   // ── Queensland (north) hot spots ─────────────────────────────────────────────
   'whitsundays': {
     n: 'Whitsundays', short: 'Whitsundays', in: 'in the Whitsundays', parent: 'queensland', c: ['whitsundays', 'whitsunday', 'airlie beach', 'hamilton island', 'shute harbour'], state: 'QLD',
@@ -347,6 +388,14 @@ export const LOCS = {
     season: "Dedicated barramundi trips run from about February to April and again in September and early October; barramundi can't be targeted during the Gulf closed season, which starts on 7 October. Offshore species are fished year-round, weather permitting.",
   },
 
+  'hinchinbrook': {
+    n: 'Hinchinbrook & Lucinda', short: 'Hinchinbrook', in: 'around Hinchinbrook and Lucinda', parent: 'queensland', c: ['hinchinbrook', 'lucinda', 'cardwell', 'ingham', 'missionary bay'], state: 'QLD',
+    intro: [
+      "The Hinchinbrook Channel — a protected, mangrove-lined passage between Hinchinbrook Island and the mainland — is one of north Queensland's best-known barramundi fisheries. Guides launch from the Dungeness ramp at Lucinda, about 15 minutes from Ingham, or from Cardwell for Missionary Bay at the island's northern end.",
+      "Besides barramundi, the channel's creeks, flats, rock bars and drains hold mangrove jack, fingermark, threadfin salmon, trevally, queenfish and grunter, and the 5 km Lucinda sugar-loading jetty acts as a giant fish-attracting structure. In good weather larger boats run out to the Great Barrier Reef. It's about 1.5 hours north of Townsville.",
+    ],
+    season: "Barramundi are the headline species outside the east-coast closed season (1 November to 1 February). Mangrove jack, fingermark, threadfin salmon, trevally and queenfish can be fished year-round, including during the barra closure. Estuarine crocodiles live in the channel, so keep well back from the water's edge.",
+  },
   // ── Species / style collections (kind: 'species') ──────────────────────────
   // sp: match operators whose species tags contain any of these · tt: match trip-type tags
   'barramundi': {
@@ -425,7 +474,8 @@ export const MIN_LOC_ITEMS = 2;
 export function liveLocKeys(cards) {
   return Object.keys(LOCS).filter((k) => {
     const n = locItems(cards, LOCS[k]).length;
-    return LOCS[k].st ? n >= 1 : n >= MIN_LOC_ITEMS;
+    // L.min lets a high-demand destination with a full guide go live with fewer listings.
+    return LOCS[k].st ? n >= 1 : n >= (LOCS[k].min || MIN_LOC_ITEMS);
   });
 }
 export const isLive = (cards, key) => liveLocKeys(cards).includes(key);
@@ -472,14 +522,19 @@ export function inLoc(card, L) {
   // Listings carry their assigned hot spot; use it exactly when present (so e.g.
   // "Manly, Brisbane & Moreton Bay" never lands on the Sydney page). Location-text
   // matching is only a fallback for listings without one.
-  if (card.hotspot) return card.hotspot === L.key;
+  if (card.hotspot) return card.hotspot === L.key || (card.also_serves || []).includes(L.key);
   const loc = (card.location || '').toLowerCase();
   return (L.c || []).some((x) => loc.includes(x));
 }
 export const activeCards = (cards) => cards.filter((c) => c.status === 'active');
 // Listings with real photos first (stable otherwise) — completeness/photo quality drives ranking.
 export const photoFirst = (cards) => cards.map((c, i) => [c, i]).sort((a, b) => (!!b[0].image - !!a[0].image) || a[1] - b[1]).map(([c]) => c);
-export const locItems = (cards, L) => photoFirst(activeCards(cards).filter((c) => inLoc(c, L)));
+// Listings based at the destination first, then nearby operators that also run trips there.
+export const locItems = (cards, L) => {
+  const items = photoFirst(activeCards(cards).filter((c) => inLoc(c, L)));
+  const home = (c) => (L.key && c.hotspot && c.hotspot !== L.key ? 1 : 0);
+  return items.map((c, i) => [c, i]).sort((a, b) => home(a[0]) - home(b[0]) || a[1] - b[1]).map(([c]) => c);
+};
 
 // Best-matching location page for an operator card: a city page first, else its state page.
 export function locFor(card) {

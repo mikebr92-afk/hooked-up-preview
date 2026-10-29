@@ -128,6 +128,20 @@ async function operator(env, origin, slug) {
   const op = (await loadOps(env, origin)).get(slug);
   return op && op.status === 'active' ? op : null;
 }
+// Destination guide sections/FAQs live in /data/guides.json (kept out of the
+// shared site-seo.js module); merged into LOCS here and inlined per page.
+let guideCache = { etag: null, data: {} };
+async function loadGuides(env, origin) {
+  const resp = await env.ASSETS.fetch(new Request(origin + '/data/guides.json', { method: 'GET' }));
+  if (!resp.ok) { await resp.body?.cancel(); return guideCache.data; }
+  const etag = resp.headers.get('etag');
+  if (etag && etag === guideCache.etag) { await resp.body?.cancel(); return guideCache.data; }
+  const data = await resp.json();
+  for (const [k, g] of Object.entries(data)) if (LOCS[k]) Object.assign(LOCS[k], g);
+  guideCache = { etag, data };
+  return data;
+}
+const GUIDE_MARK = '/*HK_GUIDE*/';
 const OPS_MARK = '/*HK_OPS*/';
 // The first listing photo is the LCP on list pages but is only rendered by the
 // app bundle, so tell the browser about it up front.
@@ -405,6 +419,7 @@ function sitemap(cards) {
 }
 
 // ── AI-assistant friendly versions (llms.txt, llms-full.txt, page.md) ───────
+const ops = (n) => `${n} ${n === 1 ? 'operator' : 'operators'}`;
 const styleList = (c) => (c.trip_type_tags || []).filter((t) => !/^(Half Day|Full Day|Family Friendly)$/.test(t)).slice(0, 4).join(', ');
 const oneLine = (c) => [
   c.location && `departs ${c.location}`,
@@ -439,13 +454,13 @@ function llms(cards) {
     '## Destinations',
     '',
     ...STATE_KEYS.filter(live).flatMap((sk) => [
-      `- [${SEO.locH1(LOCS[sk])}](${SITE}/fishing-charters/${sk}): ${SEO.locItems(cards, LOCS[sk]).length} operators`,
-      ...SEO.childLocs(cards, sk).map((k) => `  - [${SEO.locH1(LOCS[k])}](${SITE}/fishing-charters/${k}): ${SEO.locItems(cards, LOCS[k]).length} operators`),
+      `- [${SEO.locH1(LOCS[sk])}](${SITE}/fishing-charters/${sk}): ${ops(SEO.locItems(cards, LOCS[sk]).length)}`,
+      ...SEO.childLocs(cards, sk).map((k) => `  - [${SEO.locH1(LOCS[k])}](${SITE}/fishing-charters/${k}): ${ops(SEO.locItems(cards, LOCS[k]).length)}`),
     ]),
     '',
     '## Species and fishing styles',
     '',
-    ...SPECIES_KEYS.filter(live).map((k) => `- [${LOCS[k].h1}](${SITE}/fishing-charters/${k}): ${SEO.locItems(cards, LOCS[k]).length} operators`),
+    ...SPECIES_KEYS.filter(live).map((k) => `- [${LOCS[k].h1}](${SITE}/fishing-charters/${k}): ${ops(SEO.locItems(cards, LOCS[k]).length)}`),
     '',
     ...destinations(cards).flatMap(([k, L, items]) => [
       `## Fishing charters ${L.n.startsWith('elsewhere') ? L.n : L.in}`,
@@ -578,6 +593,7 @@ export default {
     }
 
     const sh = await getShell(env, url.origin);
+    const guides = await loadGuides(env, url.origin);
     const shell = sh.text;
     const c = data(shell);
     LIVE = new Set(SEO.liveLocKeys(c.cards));
@@ -610,6 +626,7 @@ export default {
     const act = SEO.activeCards(c.cards);
     let m;
     let opInline = '';
+    let guideInline = '';
 
     if (path === '/') {
       meta = SEO.pageMeta('/', { count: act.length });
@@ -636,6 +653,7 @@ export default {
         body = renderLocation(key, L, items, c.cards);
         extraHead += preloadCard(items);
         extraHead += `<link rel="alternate" type="text/markdown" href="/fishing-charters/${esc(key)}.md"/>\n`;
+        if (guides[key]) guideInline = `${JSON.stringify(key)}:${JSON.stringify(guides[key]).replace(/</g, '\\u003c')}`;
       }
     } else if (STATIC_COPY[path]) {
       meta = SEO.pageMeta(path);
@@ -656,7 +674,8 @@ export default {
 
     const { pre, script, mid, between, after } = sh.parts;
     const { head, tail } = writeHead(pre, meta, extraHead);
-    const js = opInline ? script.replace(OPS_MARK, () => opInline) : script;
+    let js = opInline ? script.replace(OPS_MARK, () => opInline) : script;
+    if (guideInline) js = js.replace(GUIDE_MARK, () => guideInline);
     const html = head + mid + tail + between + `<div id="root">${body || ''}</div>\n` + js + after;
     return htmlResponse(request, html, status, headers);
   },
