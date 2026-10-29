@@ -1,0 +1,52 @@
+{
+  "slug": "research-nt-mary-places2",
+  "request_hash": "a84a5673e8e0",
+  "collected_at": "2026-10-29T19:28:44.120Z",
+  "pages_fetched": [
+    "https://www.visittopend.com.au/wildlife-wetlands-region",
+    "https://www.pointstuart.com.au/",
+    "https://webbflow-pointstuart.squarespace.com/tours",
+    "https://www.estuaryescapes.com.au/",
+    "https://www.justdoonit.com.au/",
+    "https://northernterritory.com/darwin-and-surrounds/see-and-do/mistake-billabong"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.visittopend.com.au/wildlife-wetlands-region",
+      "status": 200,
+      "final_url": "https://www.visittopend.com.au/wildlife-wetlands-region",
+      "bytes": 54339
+    },
+    {
+      "page": "https://www.pointstuart.com.au/",
+      "status": 200,
+      "final_url": "https://www.pointstuart.com.au/",
+      "bytes": 136905
+    },
+    {
+      "page": "https://webbflow-pointstuart.squarespace.com/tours",
+      "status": 200,
+      "final_url": "https://webbflow-pointstuart.squarespace.com/barramundi-fishing",
+      "bytes": 164230
+    },
+    {
+      "page": "https://www.estuaryescapes.com.au/",
+      "status": 200,
+      "final_url": "https://estuaryescapes.com.au/",
+      "bytes": 16004
+    },
+    {
+      "page": "https://www.justdoonit.com.au/",
+      "status": 200,
+      "final_url": "https://www.justdoonit.com.au/",
+      "bytes": 1352271
+    },
+    {
+      "page": "https://northernterritory.com/darwin-and-surrounds/see-and-do/mistake-billabong",
+      "status": 200,
+      "final_url": "https://northernterritory.com/darwin-and-surrounds/see-and-do/mistake-billabong",
+      "bytes": 515806
+    }
+  ]
+}

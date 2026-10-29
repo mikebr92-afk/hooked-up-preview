@@ -1,0 +1,507 @@
+{
+  "slug": "spring-tide-safaris",
+  "request_hash": "38466981ffea",
+  "collected_at": "2026-10-29T19:28:37.254Z",
+  "pages_fetched": [
+    "https://www.springtidesafaris.com.au/",
+    "https://springtidesafaris.com.au/contact/",
+    "https://springtidesafaris.com.au/about/",
+    "https://springtidesafaris.com.au/the-boat/",
+    "https://springtidesafaris.com.au/fish-species/",
+    "https://springtidesafaris.com.au/fishing-videos/",
+    "https://springtidesafaris.com.au/our-trips/",
+    "https://springtidesafaris.com.au/itinerary/barra-run-off-fishing-mothership-or-resort-accommodation/",
+    "https://springtidesafaris.com.au/itinerary/extended-overnight-fishing-resort-or-remote-camp/",
+    "https://springtidesafaris.com.au/itinerary/full-day-trip/",
+    "https://springtidesafaris.com.au/itinerary/half-day-trip/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1200,
+      "height": 631,
+      "original": "1200x631",
+      "source": "https://springtidesafaris.com.au/wp-content/uploads/2025/02/Fish-the-northern-territory-with-springtide-safaris.jpg",
+      "page": "https://www.springtidesafaris.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 1349,
+      "height": 620,
+      "original": "1349x620",
+      "source": "https://springtidesafaris.com.au/wp-content/uploads/2020/08/extended-safaris.jpg",
+      "page": "https://www.springtidesafaris.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1349,
+      "height": 620,
+      "original": "1349x620",
+      "source": "https://springtidesafaris.com.au/wp-content/uploads/2020/08/run-off-fishing-1.jpg",
+      "page": "https://www.springtidesafaris.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1349,
+      "height": 620,
+      "original": "1349x620",
+      "source": "https://springtidesafaris.com.au/wp-content/uploads/2020/08/resort-1.jpg",
+      "page": "https://www.springtidesafaris.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1349,
+      "height": 620,
+      "original": "1349x620",
+      "source": "https://springtidesafaris.com.au/wp-content/uploads/2020/05/full-day-barra.jpg",
+      "page": "https://www.springtidesafaris.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1349,
+      "height": 620,
+      "original": "1349x620",
+      "source": "https://springtidesafaris.com.au/wp-content/uploads/2020/04/half-day-fish.jpg",
+      "page": "https://www.springtidesafaris.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1349,
+      "height": 620,
+      "original": "1349x620",
+      "source": "https://springtidesafaris.com.au/wp-content/uploads/2020/08/extended-resort-fishing.jpg",
+      "page": "https://www.springtidesafaris.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1200,
+      "height": 799,
+      "original": "1200x799",
+      "source": "https://springtidesafaris.com.au/wp-content/uploads/2020/08/run-off-fishing-2.jpg",
+      "page": "https://www.springtidesafaris.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1200,
+      "height": 630,
+      "original": "1200x630",
+      "source": "https://springtidesafaris.com.au/wp-content/uploads/2020/06/annual-run-off.jpg",
+      "page": "https://www.springtidesafaris.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1200,
+      "height": 630,
+      "original": "1200x630",
+      "source": "https://springtidesafaris.com.au/wp-content/uploads/2020/06/how-to-catch-big-ones.jpg",
+      "page": "https://www.springtidesafaris.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1200,
+      "height": 630,
+      "original": "1200x630",
+      "source": "https://springtidesafaris.com.au/wp-content/uploads/2020/05/catch-during-covid.jpg",
+      "page": "https://www.springtidesafaris.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1200,
+      "height": 630,
+      "original": "1200x630",
+      "source": "https://springtidesafaris.com.au/wp-content/uploads/2020/03/metre-long-barra.jpg",
+      "page": "https://www.springtidesafaris.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1349,
+      "height": 620,
+      "original": "1349x620",
+      "source": "https://springtidesafaris.com.au/wp-content/uploads/2020/08/what-our-customers-say.jpg",
+      "page": "https://www.springtidesafaris.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 960,
+      "height": 460,
+      "original": "960x460",
+      "source": "https://springtidesafaris.com.au/wp-content/uploads/2020/08/resort.jpg",
+      "page": "https://springtidesafaris.com.au/contact/",
+      "priority": true
+    },
+    {
+      "file": "c15.webp",
+      "width": 1200,
+      "height": 630,
+      "original": "1200x630",
+      "source": "https://springtidesafaris.com.au/wp-content/uploads/2025/02/Fish-the-NT-in-luxury-with-Springtide-Safaris.jpg",
+      "page": "https://springtidesafaris.com.au/contact/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1200,
+      "height": 630,
+      "original": "1200x630",
+      "source": "https://springtidesafaris.com.au/wp-content/uploads/2025/02/Our-charter-boat.jpg",
+      "page": "https://springtidesafaris.com.au/the-boat/",
+      "priority": true
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.springtidesafaris.com.au/",
+      "status": 200,
+      "final_url": "https://springtidesafaris.com.au/",
+      "bytes": 246894
+    },
+    {
+      "page": "https://springtidesafaris.com.au/contact/",
+      "status": 200,
+      "final_url": "https://springtidesafaris.com.au/contact/",
+      "bytes": 215120
+    },
+    {
+      "page": "https://springtidesafaris.com.au/about/",
+      "status": 200,
+      "final_url": "https://springtidesafaris.com.au/about/",
+      "bytes": 184502
+    },
+    {
+      "page": "https://springtidesafaris.com.au/the-boat/",
+      "status": 200,
+      "final_url": "https://springtidesafaris.com.au/the-boat/",
+      "bytes": 189796
+    },
+    {
+      "page": "https://springtidesafaris.com.au/fish-species/",
+      "status": 200,
+      "final_url": "https://springtidesafaris.com.au/fish-species/",
+      "bytes": 187744
+    },
+    {
+      "page": "https://springtidesafaris.com.au/fishing-videos/",
+      "status": 200,
+      "final_url": "https://springtidesafaris.com.au/fishing-videos/",
+      "bytes": 182642
+    },
+    {
+      "page": "https://springtidesafaris.com.au/our-trips/",
+      "status": 200,
+      "final_url": "https://springtidesafaris.com.au/our-trips/",
+      "bytes": 193112
+    },
+    {
+      "page": "https://springtidesafaris.com.au/itinerary/barra-run-off-fishing-mothership-or-resort-accommodation/",
+      "status": 200,
+      "final_url": "https://springtidesafaris.com.au/itinerary/barra-run-off-fishing-mothership-or-resort-accommodation/",
+      "bytes": 216009
+    },
+    {
+      "page": "https://springtidesafaris.com.au/itinerary/extended-overnight-fishing-resort-or-remote-camp/",
+      "status": 200,
+      "final_url": "https://springtidesafaris.com.au/itinerary/extended-overnight-fishing-resort-or-remote-camp/",
+      "bytes": 214145
+    },
+    {
+      "page": "https://springtidesafaris.com.au/itinerary/full-day-trip/",
+      "status": 200,
+      "final_url": "https://springtidesafaris.com.au/itinerary/full-day-trip/",
+      "bytes": 207230
+    },
+    {
+      "page": "https://springtidesafaris.com.au/itinerary/half-day-trip/",
+      "status": 200,
+      "final_url": "https://springtidesafaris.com.au/itinerary/half-day-trip/",
+      "bytes": 201995
+    },
+    {
+      "image": "https://springtidesafaris.com.au/wp-content/uploads/2020/08/cropped-spring-tide-safaris-web.jpg",
+      "error": "too small 472x143"
+    },
+    {
+      "image": "https://springtidesafaris.com.au/wp-content/uploads/2020/08/extended-safaris-600x276.jpg",
+      "error": "too small 600x276"
+    },
+    {
+      "image": "https://springtidesafaris.com.au/wp-content/uploads/2020/08/run-off-fishing-1-600x276.jpg",
+      "error": "too small 600x276"
+    },
+    {
+      "image": "https://springtidesafaris.com.au/wp-content/uploads/2020/08/resort-1-600x276.jpg",
+      "error": "too small 600x276"
+    },
+    {
+      "image": "https://springtidesafaris.com.au/wp-content/uploads/2020/05/full-day-barra-600x276.jpg",
+      "error": "too small 600x276"
+    },
+    {
+      "image": "https://springtidesafaris.com.au/wp-content/uploads/2020/04/half-day-fish-600x276.jpg",
+      "error": "too small 600x276"
+    },
+    {
+      "image": "https://springtidesafaris.com.au/wp-content/uploads/2020/08/run-off-fishing-2-150x100.jpg",
+      "error": "too small 150x100"
+    },
+    {
+      "image": "https://springtidesafaris.com.au/wp-content/uploads/2020/06/annual-run-off-150x79.jpg",
+      "error": "too small 150x79"
+    },
+    {
+      "image": "https://springtidesafaris.com.au/wp-content/uploads/2020/06/how-to-catch-big-ones-150x79.jpg",
+      "error": "too small 150x79"
+    },
+    {
+      "image": "https://springtidesafaris.com.au/wp-content/uploads/2020/05/catch-during-covid-150x79.jpg",
+      "error": "too small 150x79"
+    },
+    {
+      "dup": "https://springtidesafaris.com.au/wp-content/uploads/2020/08/run-off-fishing-2-600x400.jpg"
+    },
+    {
+      "image": "https://springtidesafaris.com.au/wp-content/uploads/2020/06/annual-run-off-600x315.jpg",
+      "error": "too small 600x315"
+    },
+    {
+      "image": "https://springtidesafaris.com.au/wp-content/uploads/2020/06/how-to-catch-big-ones-600x315.jpg",
+      "error": "too small 600x315"
+    },
+    {
+      "image": "https://springtidesafaris.com.au/wp-content/uploads/2020/05/catch-during-covid-600x315.jpg",
+      "error": "too small 600x315"
+    },
+    {
+      "image": "https://springtidesafaris.com.au/wp-content/uploads/2020/03/metre-long-barra-600x315.jpg",
+      "error": "too small 600x315"
+    },
+    {
+      "image": "https://springtidesafaris.com.au/wp-content/uploads/2020/08/gallery-1a.jpg",
+      "error": "too small 310x140"
+    },
+    {
+      "image": "https://springtidesafaris.com.au/wp-content/uploads/2020/08/gallery-2.jpg",
+      "error": "too small 310x140"
+    },
+    {
+      "image": "https://springtidesafaris.com.au/wp-content/uploads/2020/08/gallery-3.jpg",
+      "error": "too small 310x140"
+    },
+    {
+      "image": "https://springtidesafaris.com.au/wp-content/uploads/2020/08/gallery-4.jpg",
+      "error": "too small 310x140"
+    },
+    {
+      "image": "https://springtidesafaris.com.au/wp-content/uploads/2020/08/gallery-6.jpg",
+      "error": "too small 310x140"
+    },
+    {
+      "image": "https://springtidesafaris.com.au/wp-content/uploads/2020/08/gallery-5.jpg",
+      "error": "too small 310x140"
+    },
+    {
+      "dup": "https://springtidesafaris.com.au/wp-content/uploads/2020/08/welcome-to-darwin.jpg"
+    },
+    {
+      "image": "http://openweathermap.org/img/w/04d.png",
+      "error": "too small 50x50"
+    },
+    {
+      "image": "http://openweathermap.org/img/w/03d.png",
+      "error": "too small 50x50"
+    },
+    {
+      "image": "http://openweathermap.org/img/w/10d.png",
+      "error": "too small 50x50"
+    },
+    {
+      "image": "http://openweathermap.org/img/w/10n.png",
+      "error": "too small 50x50"
+    },
+    {
+      "image": "http://openweathermap.org/img/w/02d.png",
+      "error": "too small 50x50"
+    },
+    {
+      "image": "http://openweathermap.org/img/w/01d.png",
+      "error": "too small 50x50"
+    },
+    {
+      "image": "http://openweathermap.org/img/w/03n.png",
+      "error": "too small 50x50"
+    },
+    {
+      "image": "http://openweathermap.org/img/w/04n.png",
+      "error": "too small 50x50"
+    },
+    {
+      "image": "https://interiordesignbykaren.com.au/fishyfishy/wp-content/uploads/2020/08/cust-review.jpg",
+      "error": "fetch failed"
+    },
+    {
+      "image": "https://springtidesafaris.com.au/wp-content/uploads/2020/08/cropped-spring-tide-safaris-web-300x91.jpg",
+      "error": "too small 300x91"
+    },
+    {
+      "dup": "https://springtidesafaris.com.au/wp-content/uploads/2020/08/extended-safaris-1200x552.jpg"
+    },
+    {
+      "image": "https://springtidesafaris.com.au/wp-content/uploads/2020/08/extended-safaris-150x69.jpg",
+      "error": "too small 150x69"
+    },
+    {
+      "image": "https://springtidesafaris.com.au/wp-content/uploads/2020/08/extended-safaris-768x353.jpg",
+      "error": "too small 768x353"
+    },
+    {
+      "dup": "https://springtidesafaris.com.au/wp-content/uploads/2020/08/run-off-fishing-1-1200x552.jpg"
+    },
+    {
+      "image": "https://springtidesafaris.com.au/wp-content/uploads/2020/08/run-off-fishing-1-150x69.jpg",
+      "error": "too small 150x69"
+    },
+    {
+      "image": "https://springtidesafaris.com.au/wp-content/uploads/2020/08/run-off-fishing-1-768x353.jpg",
+      "error": "too small 768x353"
+    },
+    {
+      "dup": "https://springtidesafaris.com.au/wp-content/uploads/2020/08/resort-1-1200x552.jpg"
+    },
+    {
+      "image": "https://springtidesafaris.com.au/wp-content/uploads/2020/08/resort-1-150x69.jpg",
+      "error": "too small 150x69"
+    },
+    {
+      "image": "https://springtidesafaris.com.au/wp-content/uploads/2020/08/resort-1-768x353.jpg",
+      "error": "too small 768x353"
+    },
+    {
+      "dup": "https://springtidesafaris.com.au/wp-content/uploads/2020/05/full-day-barra-1200x552.jpg"
+    },
+    {
+      "image": "https://springtidesafaris.com.au/wp-content/uploads/2020/05/full-day-barra-150x69.jpg",
+      "error": "too small 150x69"
+    },
+    {
+      "image": "https://springtidesafaris.com.au/wp-content/uploads/2020/05/full-day-barra-768x353.jpg",
+      "error": "too small 768x353"
+    },
+    {
+      "dup": "https://springtidesafaris.com.au/wp-content/uploads/2020/04/half-day-fish-1200x552.jpg"
+    },
+    {
+      "image": "https://springtidesafaris.com.au/wp-content/uploads/2020/04/half-day-fish-150x69.jpg",
+      "error": "too small 150x69"
+    },
+    {
+      "image": "https://springtidesafaris.com.au/wp-content/uploads/2020/04/half-day-fish-768x353.jpg",
+      "error": "too small 768x353"
+    },
+    {
+      "image": "https://springtidesafaris.com.au/wp-content/uploads/2020/08/extended-resort-fishing-600x276.jpg",
+      "error": "too small 600x276"
+    },
+    {
+      "dup": "https://springtidesafaris.com.au/wp-content/uploads/2020/08/extended-resort-fishing-1200x552.jpg"
+    },
+    {
+      "image": "https://springtidesafaris.com.au/wp-content/uploads/2020/08/extended-resort-fishing-150x69.jpg",
+      "error": "too small 150x69"
+    },
+    {
+      "image": "https://springtidesafaris.com.au/wp-content/uploads/2020/08/extended-resort-fishing-768x353.jpg",
+      "error": "too small 768x353"
+    },
+    {
+      "image": "https://springtidesafaris.com.au/wp-content/uploads/2020/08/extended-resort-fishing-300x138.jpg",
+      "error": "too small 300x138"
+    },
+    {
+      "dup": "https://springtidesafaris.com.au/wp-content/uploads/2020/08/extended-resort-fishing-1024x471.jpg"
+    },
+    {
+      "dup": "https://springtidesafaris.com.au/wp-content/uploads/2020/08/run-off-fishing-2-768x511.jpg"
+    },
+    {
+      "dup": "https://springtidesafaris.com.au/wp-content/uploads/2020/06/annual-run-off-768x403.jpg"
+    },
+    {
+      "image": "https://springtidesafaris.com.au/wp-content/uploads/2020/06/annual-run-off-300x158.jpg",
+      "error": "too small 300x158"
+    },
+    {
+      "dup": "https://springtidesafaris.com.au/wp-content/uploads/2020/06/annual-run-off-1024x538.jpg"
+    },
+    {
+      "dup": "https://springtidesafaris.com.au/wp-content/uploads/2020/06/how-to-catch-big-ones-768x403.jpg"
+    },
+    {
+      "dup": "https://springtidesafaris.com.au/wp-content/uploads/2020/05/catch-during-covid-768x403.jpg"
+    },
+    {
+      "image": "https://springtidesafaris.com.au/wp-content/uploads/2020/03/metre-long-barra-150x79.jpg",
+      "error": "too small 150x79"
+    },
+    {
+      "dup": "https://springtidesafaris.com.au/wp-content/uploads/2020/03/metre-long-barra-768x403.jpg"
+    },
+    {
+      "image": "https://springtidesafaris.com.au/wp-content/uploads/2020/08/gallery-1a-150x68.jpg",
+      "error": "too small 150x68"
+    },
+    {
+      "image": "https://springtidesafaris.com.au/wp-content/uploads/2020/08/gallery-2-300x135.jpg",
+      "error": "too small 300x135"
+    },
+    {
+      "image": "https://springtidesafaris.com.au/wp-content/uploads/2020/08/gallery-3-300x135.jpg",
+      "error": "too small 300x135"
+    },
+    {
+      "image": "https://springtidesafaris.com.au/wp-content/uploads/2020/08/gallery-4-150x68.jpg",
+      "error": "too small 150x68"
+    },
+    {
+      "image": "https://springtidesafaris.com.au/wp-content/uploads/2020/08/gallery-6-150x68.jpg",
+      "error": "too small 150x68"
+    },
+    {
+      "image": "https://springtidesafaris.com.au/wp-content/uploads/2020/08/gallery-5-150x68.jpg",
+      "error": "too small 150x68"
+    },
+    {
+      "image": "https://springtidesafaris.com.au/wp-content/uploads/2025/02/Fish-the-northern-territory-with-springtide-safaris-600x316.jpg",
+      "error": "too small 600x316"
+    },
+    {
+      "image": "https://springtidesafaris.com.au/wp-content/uploads/2025/02/Fish-the-northern-territory-with-springtide-safaris-150x79.jpg",
+      "error": "too small 150x79"
+    },
+    {
+      "dup": "https://springtidesafaris.com.au/wp-content/uploads/2025/02/Fish-the-northern-territory-with-springtide-safaris-768x404.jpg"
+    },
+    {
+      "image": "https://springtidesafaris.com.au/wp-content/uploads/2025/02/Fish-the-NT-in-luxury-with-Springtide-Safaris-600x315.jpg",
+      "error": "too small 600x315"
+    },
+    {
+      "image": "https://springtidesafaris.com.au/wp-content/uploads/2025/02/Fish-the-NT-in-luxury-with-Springtide-Safaris-150x79.jpg",
+      "error": "too small 150x79"
+    },
+    {
+      "dup": "https://springtidesafaris.com.au/wp-content/uploads/2025/02/Fish-the-NT-in-luxury-with-Springtide-Safaris-768x403.jpg"
+    }
+  ]
+}

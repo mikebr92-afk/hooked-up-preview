@@ -1,5 +1,5 @@
 {
-  "finished_at": "2026-10-29T19:26:09.055Z",
+  "finished_at": "2026-10-29T19:28:44.120Z",
   "summary": [
     {
       "slug": "research-nt-mary-tourism",
@@ -19,23 +19,34 @@
     },
     {
       "slug": "obsession-fishing-safaris",
+      "skipped": true
+    },
+    {
+      "slug": "research-nt-mary-ops2",
+      "skipped": true
+    },
+    {
+      "slug": "research-nt-mary-places",
+      "skipped": true
+    },
+    {
+      "slug": "research-nt-katherine2",
+      "skipped": true
+    },
+    {
+      "slug": "reel-screamin-barra-fishing",
       "candidates": 16,
       "pages": 11
     },
     {
-      "slug": "research-nt-mary-ops2",
-      "candidates": 0,
-      "pages": 6
+      "slug": "spring-tide-safaris",
+      "candidates": 16,
+      "pages": 11
     },
     {
-      "slug": "research-nt-mary-places",
+      "slug": "research-nt-mary-places2",
       "candidates": 0,
       "pages": 6
-    },
-    {
-      "slug": "research-nt-katherine2",
-      "candidates": 0,
-      "pages": 4
     }
   ]
 }
