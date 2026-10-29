@@ -1,0 +1,86 @@
+{
+ "requests": [
+  {
+   "slug": "research-r5",
+   "pages": [
+    "https://visitnsw.com/things-to-do/tours/fishbermi-charters",
+    "https://www.sapphirecoast.com.au/operator/fishbermi-bermagui-fishing-charters",
+    "https://www.visitnsw.com/things-to-do/tours/wildside-sportfishing",
+    "https://www.visitnsw.com/things-to-do/tours/evans-head-deep-sea-fishing-charters",
+    "https://r.jina.ai/https://terrigaltours.rezdy.com/catalog/488049/tft",
+    "https://r.jina.ai/https://naroomacharters.rezdy.com/",
+    "https://jbfishingcharters.com.au/pricing/",
+    "https://jbfishingcharters.com.au/what-to-bring/",
+    "https://jbfishingcharters.com.au/gallery/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  },
+  {
+   "slug": "game-on-charters-batemans-bay",
+   "pages": [
+    "https://gameoncharters.net.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "narooma-charters",
+   "pages": [
+    "https://naroomacharters.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "estuary-fishing-tours",
+   "pages": [
+    "http://www.estuaryfishingtours.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "central-coast-reef-and-game-fishing-charters",
+   "pages": [
+    "http://www.reefandgamefishing.com/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "fish-port-stephens-estuary-charters",
+   "pages": [
+    "https://www.fishportstephensestuarycharters.com/",
+    "http://www.fishportstephensestuarycharters.com/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "calypso-fishing-adventures",
+   "pages": [
+    "http://www.marlinfishingaustralia.com/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "byron-bay-charters",
+   "pages": [
+    "https://byronbaycharters.com.au/",
+    "https://www.byronbaycharters.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  }
+ ]
+}
