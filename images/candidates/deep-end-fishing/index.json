@@ -1,0 +1,253 @@
+{
+  "slug": "deep-end-fishing",
+  "request_hash": "b8679c2ae30a",
+  "collected_at": "2026-10-29T03:52:54.742Z",
+  "pages_fetched": [
+    "https://deependfishing.com.au/",
+    "https://deependfishing.com.au/about-us/",
+    "https://deependfishing.com.au/packages/",
+    "https://deependfishing.com.au/5-hour-reef-fishing/",
+    "https://deependfishing.com.au/7-hour-reef-fishing/",
+    "https://deependfishing.com.au/9-hour-reef-light-game/",
+    "https://deependfishing.com.au/12-hour-reef-light-game/",
+    "https://deependfishing.com.au/night-fishing/",
+    "https://deependfishing.com.au/estuary-river-fishing/",
+    "https://deependfishing.com.au/vouchers/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 2000,
+      "height": 667,
+      "original": "2400x800",
+      "source": "https://deependfishing.com.au/wp-content/uploads/2017/04/Deep-End-Fishing.jpg",
+      "page": "https://deependfishing.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 2000,
+      "height": 667,
+      "original": "2400x800",
+      "source": "https://deependfishing.com.au/wp-content/uploads/2017/05/deep-end-fishing-boat.jpg",
+      "page": "https://deependfishing.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c03.webp",
+      "width": 2000,
+      "height": 667,
+      "original": "2400x800",
+      "source": "https://deependfishing.com.au/wp-content/uploads/2017/05/home4.jpg",
+      "page": "https://deependfishing.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c04.webp",
+      "width": 900,
+      "height": 600,
+      "original": "900x600",
+      "source": "https://deependfishing.com.au/wp-content/uploads/2017/04/DEEP-END-FISHING-5.jpg",
+      "page": "https://deependfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "3264x2448",
+      "source": "https://deependfishing.com.au/wp-content/uploads/2017/04/20170717_150454.jpg",
+      "page": "https://deependfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2448x3264",
+      "source": "https://deependfishing.com.au/wp-content/uploads/2017/04/20170716_110540-e1502775428505.jpg",
+      "page": "https://deependfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 770,
+      "height": 400,
+      "original": "770x400",
+      "source": "https://deependfishing.com.au/wp-content/uploads/2017/04/5-Hour-Trip-Day-Fishing-Trip.jpg",
+      "page": "https://deependfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 770,
+      "height": 400,
+      "original": "770x400",
+      "source": "https://deependfishing.com.au/wp-content/uploads/2017/04/12-Hour-Day-Fishing-Trip-.jpg",
+      "page": "https://deependfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2448x3264",
+      "source": "https://deependfishing.com.au/wp-content/uploads/2017/04/20170716_110006-e1502775341487.jpg",
+      "page": "https://deependfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 600,
+      "height": 900,
+      "original": "600x900",
+      "source": "https://deependfishing.com.au/wp-content/uploads/2017/04/portrait3.jpg",
+      "page": "https://deependfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1920,
+      "height": 1440,
+      "original": "1920x1440",
+      "source": "https://deependfishing.com.au/wp-content/uploads/2018/04/Resized_20171224_132643_896.jpeg",
+      "page": "https://deependfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1756,
+      "height": 2000,
+      "original": "1960x2232",
+      "source": "https://deependfishing.com.au/wp-content/uploads/2017/04/20170723_150547-1.jpg",
+      "page": "https://deependfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 2000,
+      "height": 1698,
+      "original": "2243x1904",
+      "source": "https://deependfishing.com.au/wp-content/uploads/2017/04/20170730_134034-1.jpg",
+      "page": "https://deependfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2448x3264",
+      "source": "https://deependfishing.com.au/wp-content/uploads/2018/04/20171207_145013-e1523758205350.jpg",
+      "page": "https://deependfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1276,
+      "height": 2000,
+      "original": "1562x2448",
+      "source": "https://deependfishing.com.au/wp-content/uploads/2018/04/20170320_153506-2.jpg",
+      "page": "https://deependfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2448x3264",
+      "source": "https://deependfishing.com.au/wp-content/uploads/2018/04/20170703_152000-e1523090555612.jpg",
+      "page": "https://deependfishing.com.au/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://deependfishing.com.au/",
+      "status": 200,
+      "final_url": "https://deependfishing.com.au/",
+      "bytes": 154996
+    },
+    {
+      "page": "https://deependfishing.com.au/about-us/",
+      "status": 200,
+      "final_url": "https://deependfishing.com.au/about-us/",
+      "bytes": 104807
+    },
+    {
+      "page": "https://deependfishing.com.au/packages/",
+      "status": 200,
+      "final_url": "https://deependfishing.com.au/packages/",
+      "bytes": 124089
+    },
+    {
+      "page": "https://deependfishing.com.au/5-hour-reef-fishing/",
+      "status": 200,
+      "final_url": "https://deependfishing.com.au/5-hour-reef-fishing/",
+      "bytes": 106504
+    },
+    {
+      "page": "https://deependfishing.com.au/7-hour-reef-fishing/",
+      "status": 200,
+      "final_url": "https://deependfishing.com.au/7-hour-reef-fishing/",
+      "bytes": 110852
+    },
+    {
+      "page": "https://deependfishing.com.au/9-hour-reef-light-game/",
+      "status": 200,
+      "final_url": "https://deependfishing.com.au/9-hour-reef-light-game/",
+      "bytes": 106831
+    },
+    {
+      "page": "https://deependfishing.com.au/12-hour-reef-light-game/",
+      "status": 200,
+      "final_url": "https://deependfishing.com.au/12-hour-reef-light-game/",
+      "bytes": 106409
+    },
+    {
+      "page": "https://deependfishing.com.au/night-fishing/",
+      "status": 200,
+      "final_url": "https://deependfishing.com.au/night-fishing/",
+      "bytes": 105682
+    },
+    {
+      "page": "https://deependfishing.com.au/estuary-river-fishing/",
+      "status": 200,
+      "final_url": "https://deependfishing.com.au/estuary-river-fishing/",
+      "bytes": 104936
+    },
+    {
+      "page": "https://deependfishing.com.au/vouchers/",
+      "status": 200,
+      "final_url": "https://deependfishing.com.au/vouchers/",
+      "bytes": 93930
+    },
+    {
+      "image": "https://deependfishing.com.au/wp-content/uploads/2017/04/facebook-1.png",
+      "error": "too small 64x64"
+    },
+    {
+      "image": "https://deependfishing.com.au/wp-content/uploads/2018/04/1.jpg",
+      "error": "banner/strip 2600x800"
+    },
+    {
+      "image": "https://deependfishing.com.au/wp-content/uploads/2018/04/2.jpg",
+      "error": "banner/strip 2600x800"
+    },
+    {
+      "image": "https://deependfishing.com.au/wp-content/uploads/2018/04/4-1.jpg",
+      "error": "banner/strip 2600x800"
+    },
+    {
+      "image": "https://deependfishing.com.au/wp-content/uploads/2017/04/Deep-End-Fishing-Sunshine-Coast.png",
+      "error": "too small 171x80"
+    },
+    {
+      "image": "https://deependfishing.com.au/wp-content/uploads/2018/04/fishing.png",
+      "error": "too small 600x386"
+    },
+    {
+      "image": "https://deependfishing.com.au/wp-content/uploads/2018/04/fishing-600x386.png",
+      "error": "too small 600x386"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "research-yeppoon-dir",
+  "request_hash": "1903643753da",
+  "collected_at": "2026-10-29T03:55:36.530Z",
+  "pages_fetched": [
+    "https://yeppooncapricorncoast.com.au/fishing",
+    "https://www.queensland.com/au/en/things-to-do/tours/p-5ee31f87ee940c6e4f1bac76-double-threat-charters-yeppoon",
+    "https://creektocoast.com.au/bcf-offshore-yeppoon",
+    "https://capricornenterprise.com.au/member-directory/double-threat-charters-yeppoon/",
+    "https://visitcapricorn.com.au/service/rosslyn-bay"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://yeppooncapricorncoast.com.au/fishing",
+      "status": 200,
+      "final_url": "https://yeppooncapricorncoast.com.au/fishing/",
+      "bytes": 201762
+    },
+    {
+      "page": "https://www.queensland.com/au/en/things-to-do/tours/p-5ee31f87ee940c6e4f1bac76-double-threat-charters-yeppoon",
+      "status": 200,
+      "final_url": "https://www.queensland.com/au/en/things-to-do/tours/p-5ee31f87ee940c6e4f1bac76-double-threat-charters-yeppoon",
+      "bytes": 16155
+    },
+    {
+      "page": "https://creektocoast.com.au/bcf-offshore-yeppoon",
+      "status": 200,
+      "final_url": "https://7plus.com.au/creek-to-coast",
+      "bytes": 55619
+    },
+    {
+      "page": "https://capricornenterprise.com.au/member-directory/double-threat-charters-yeppoon/",
+      "status": 200,
+      "final_url": "https://capricornenterprise.com.au/member-directory/double-threat-charters-yeppoon/",
+      "bytes": 562976
+    },
+    {
+      "page": "https://visitcapricorn.com.au/service/rosslyn-bay",
+      "status": 200,
+      "final_url": "https://visitcapricorn.com.au/service/rosslyn-bay",
+      "bytes": 399471
+    }
+  ]
+}

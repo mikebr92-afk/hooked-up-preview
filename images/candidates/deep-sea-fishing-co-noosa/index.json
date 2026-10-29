@@ -1,0 +1,225 @@
+{
+  "slug": "deep-sea-fishing-co-noosa",
+  "request_hash": "dae7a7923fb4",
+  "collected_at": "2026-10-29T03:54:05.522Z",
+  "pages_fetched": [
+    "https://www.deepseafishingco.com.au/",
+    "https://www.deepseafishingco.com.au/fishing-charters/",
+    "https://www.deepseafishingco.com.au/about-us/",
+    "https://www.deepseafishingco.com.au/gallery/",
+    "https://www.deepseafishingco.com.au/blog/",
+    "https://www.deepseafishingco.com.au/contact-us/",
+    "https://www.deepseafishingco.com.au/deep-sea-fishing-co-noosa-5/",
+    "https://www.deepseafishingco.com.au/easter-school-holidays-with-dsfcn/",
+    "https://www.deepseafishingco.com.au/a-true-offshore-deep-sea-adventure-with-deep-sea-fishing-co-noosa/",
+    "https://www.deepseafishingco.com.au/your-ultimate-christmas-gift-guide-give-the-gift-of-deep-sea-fishing/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 2000,
+      "height": 1255,
+      "original": "2560x1606",
+      "source": "https://www.deepseafishingco.com.au/wp-content/uploads/2021/10/DEEP-SEA-FISHING-STICKERS_LANDSCAPE-scaled.jpg",
+      "page": "https://www.deepseafishingco.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 600,
+      "height": 400,
+      "original": "600x400",
+      "source": "https://www.deepseafishingco.com.au/wp-content/uploads/elementor/thumbs/fishing-charter-noosa-3-q7colx7u1gj1z9x7y5d5du1z8azbac48b4nlh7wa00.jpg",
+      "page": "https://www.deepseafishingco.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 600,
+      "height": 400,
+      "original": "600x400",
+      "source": "https://www.deepseafishingco.com.au/wp-content/uploads/elementor/thumbs/fishing-charter-noosa-dsfc-2-q7tta9nfmh4migokivc465kxauaygiy6wmxdvh81b4.jpg",
+      "page": "https://www.deepseafishingco.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 600,
+      "height": 400,
+      "original": "600x400",
+      "source": "https://www.deepseafishingco.com.au/wp-content/uploads/elementor/thumbs/fishing-charter-noosa-dsfc-5-q7u6ibyr0qtoon67n5gtiiscd9udxtw40xph1lcvxc.jpg",
+      "page": "https://www.deepseafishingco.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 800,
+      "height": 490,
+      "original": "800x490",
+      "source": "https://www.deepseafishingco.com.au/wp-content/uploads/2026/09/Deep-Sea-Fishing-Noosa-Gift-Voucher.jpg",
+      "page": "https://www.deepseafishingco.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1000,
+      "height": 1000,
+      "original": "1000x1000",
+      "source": "https://www.deepseafishingco.com.au/wp-content/uploads/2023/03/fishing-charter-caught-fish.jpg",
+      "page": "https://www.deepseafishingco.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1000,
+      "height": 1000,
+      "original": "1000x1000",
+      "source": "https://www.deepseafishingco.com.au/wp-content/uploads/2023/06/fishing-charter-noosa-2-1.jpg",
+      "page": "https://www.deepseafishingco.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1290,
+      "height": 1606,
+      "original": "1290x1606",
+      "source": "https://www.deepseafishingco.com.au/wp-content/uploads/2026/01/Deep-sea-fishing-co-Noosa-map-advetising-.jpg",
+      "page": "https://www.deepseafishingco.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1536,
+      "height": 1258,
+      "original": "1536x1258",
+      "source": "https://www.deepseafishingco.com.au/wp-content/uploads/2025/11/539791152_1359946022803357_7207963580253795057_n.jpg",
+      "page": "https://www.deepseafishingco.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1200,
+      "height": 800,
+      "original": "1200x800",
+      "source": "https://www.deepseafishingco.com.au/wp-content/uploads/2026/09/noosa-lakes-resort.jpg",
+      "page": "https://www.deepseafishingco.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1200,
+      "height": 800,
+      "original": "1200x800",
+      "source": "https://www.deepseafishingco.com.au/wp-content/uploads/2026/09/ivory-palms-resort.jpg",
+      "page": "https://www.deepseafishingco.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1200,
+      "height": 800,
+      "original": "1200x800",
+      "source": "https://www.deepseafishingco.com.au/wp-content/uploads/2026/09/villa-noosa-hotel.jpg",
+      "page": "https://www.deepseafishingco.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1200,
+      "height": 800,
+      "original": "1200x800",
+      "source": "https://www.deepseafishingco.com.au/wp-content/uploads/2026/09/noosa-harbour-resort.jpg",
+      "page": "https://www.deepseafishingco.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1080,
+      "height": 1200,
+      "original": "1080x1200",
+      "source": "https://www.deepseafishingco.com.au/wp-content/uploads/2026/09/new-boat-coming-soon-2.jpg",
+      "page": "https://www.deepseafishingco.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1200,
+      "height": 800,
+      "original": "1200x800",
+      "source": "https://www.deepseafishingco.com.au/wp-content/uploads/2026/09/fishing-charter-noosa-big-fish.jpg",
+      "page": "https://www.deepseafishingco.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1200,
+      "height": 900,
+      "original": "1200x900",
+      "source": "https://www.deepseafishingco.com.au/wp-content/uploads/2026/09/deep-sea-fishing-co-noosa-boats-2.jpg",
+      "page": "https://www.deepseafishingco.com.au/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.deepseafishingco.com.au/",
+      "status": 200,
+      "final_url": "https://www.deepseafishingco.com.au/",
+      "bytes": 195099
+    },
+    {
+      "page": "https://www.deepseafishingco.com.au/fishing-charters/",
+      "status": 200,
+      "final_url": "https://www.deepseafishingco.com.au/fishing-charters/",
+      "bytes": 129977
+    },
+    {
+      "page": "https://www.deepseafishingco.com.au/about-us/",
+      "status": 200,
+      "final_url": "https://www.deepseafishingco.com.au/about-us/",
+      "bytes": 86623
+    },
+    {
+      "page": "https://www.deepseafishingco.com.au/gallery/",
+      "status": 200,
+      "final_url": "https://www.deepseafishingco.com.au/gallery/",
+      "bytes": 183706
+    },
+    {
+      "page": "https://www.deepseafishingco.com.au/blog/",
+      "status": 200,
+      "final_url": "https://www.deepseafishingco.com.au/blog/",
+      "bytes": 128274
+    },
+    {
+      "page": "https://www.deepseafishingco.com.au/contact-us/",
+      "status": 200,
+      "final_url": "https://www.deepseafishingco.com.au/contact-us/",
+      "bytes": 109499
+    },
+    {
+      "page": "https://www.deepseafishingco.com.au/deep-sea-fishing-co-noosa-5/",
+      "status": 200,
+      "final_url": "https://www.deepseafishingco.com.au/deep-sea-fishing-co-noosa-5/",
+      "bytes": 125458
+    },
+    {
+      "page": "https://www.deepseafishingco.com.au/easter-school-holidays-with-dsfcn/",
+      "status": 200,
+      "final_url": "https://www.deepseafishingco.com.au/easter-school-holidays-with-dsfcn/",
+      "bytes": 124353
+    },
+    {
+      "page": "https://www.deepseafishingco.com.au/a-true-offshore-deep-sea-adventure-with-deep-sea-fishing-co-noosa/",
+      "status": 200,
+      "final_url": "https://www.deepseafishingco.com.au/a-true-offshore-deep-sea-adventure-with-deep-sea-fishing-co-noosa/",
+      "bytes": 126417
+    },
+    {
+      "page": "https://www.deepseafishingco.com.au/your-ultimate-christmas-gift-guide-give-the-gift-of-deep-sea-fishing/",
+      "status": 200,
+      "final_url": "https://www.deepseafishingco.com.au/your-ultimate-christmas-gift-guide-give-the-gift-of-deep-sea-fishing/",
+      "bytes": 126596
+    }
+  ]
+}

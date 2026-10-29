@@ -1,0 +1,245 @@
+{
+  "slug": "fish-the-deep-charters",
+  "request_hash": "5a50e9474d18",
+  "collected_at": "2026-10-29T03:51:40.908Z",
+  "pages_fetched": [
+    "https://www.fishthedeep.com/",
+    "https://www.fishthedeep.com/deep-sea-fishing-gold-coast-vessel-crew/",
+    "https://www.fishthedeep.com/deep-sea-fishing-gold-coast-about-us-fishing-techniques/",
+    "https://www.fishthedeep.com/contact/",
+    "https://www.fishthedeep.com/gold-coast-fishing-charters/",
+    "https://www.fishthedeep.com/find-fishing-charters-gold-coast/",
+    "https://www.fishthedeep.com/tour/full-day/",
+    "https://www.fishthedeep.com/tour/private-reef-and-game-fishing-full-day/",
+    "https://www.fishthedeep.com/tour/private-reef-and-game-fishing-half-day/",
+    "https://www.fishthedeep.com/tour/private-reef-and-game-fishing-full-day-scotts-8-angler-special/",
+    "https://www.fishthedeep.com/tour/private-reef-and-game-fishing-half-day-scotts-8-angler-special/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 800,
+      "height": 599,
+      "original": "800x599",
+      "source": "https://www.fishthedeep.com/wp-content/uploads/2018/07/P7160027.jpg",
+      "page": "https://www.fishthedeep.com/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 800,
+      "height": 599,
+      "original": "800x599",
+      "source": "https://www.fishthedeep.com/wp-content/uploads/2018/07/P5020117.jpg",
+      "page": "https://www.fishthedeep.com/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 800,
+      "height": 599,
+      "original": "800x599",
+      "source": "https://www.fishthedeep.com/wp-content/uploads/2018/07/P4200009.jpg",
+      "page": "https://www.fishthedeep.com/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 800,
+      "height": 599,
+      "original": "800x599",
+      "source": "https://www.fishthedeep.com/wp-content/uploads/2018/07/P1160009.jpg",
+      "page": "https://www.fishthedeep.com/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 800,
+      "height": 600,
+      "original": "800x600",
+      "source": "https://www.fishthedeep.com/wp-content/uploads/2018/07/IMG_0007.jpg",
+      "page": "https://www.fishthedeep.com/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 800,
+      "height": 600,
+      "original": "800x600",
+      "source": "https://www.fishthedeep.com/wp-content/uploads/2018/07/Full-Day-Fishing-Charter.jpg",
+      "page": "https://www.fishthedeep.com/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 800,
+      "height": 600,
+      "original": "800x600",
+      "source": "https://www.fishthedeep.com/wp-content/uploads/2018/07/Full-Day-Charter.jpg",
+      "page": "https://www.fishthedeep.com/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1800,
+      "height": 1170,
+      "original": "1800x1170",
+      "source": "https://www.fishthedeep.com/wp-content/uploads/2018/06/bg-testimonial.jpg",
+      "page": "https://www.fishthedeep.com/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 800,
+      "height": 599,
+      "original": "800x599",
+      "source": "https://www.fishthedeep.com/wp-content/uploads/2023/06/Careel-Front.jpeg",
+      "page": "https://www.fishthedeep.com/deep-sea-fishing-gold-coast-vessel-crew/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 800,
+      "height": 600,
+      "original": "800x600",
+      "source": "https://www.fishthedeep.com/wp-content/uploads/2023/06/Careel-Back.jpeg",
+      "page": "https://www.fishthedeep.com/deep-sea-fishing-gold-coast-vessel-crew/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2448x3264",
+      "source": "https://www.fishthedeep.com/wp-content/uploads/2023/06/Scott.jpeg",
+      "page": "https://www.fishthedeep.com/deep-sea-fishing-gold-coast-vessel-crew/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1328,
+      "height": 1534,
+      "original": "1328x1534",
+      "source": "https://www.fishthedeep.com/wp-content/uploads/2023/06/Screen-Shot-2023-06-29-at-10.54.10-am.png",
+      "page": "https://www.fishthedeep.com/deep-sea-fishing-gold-coast-about-us-fishing-techniques/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.fishthedeep.com/",
+      "status": 200,
+      "final_url": "https://www.fishthedeep.com/",
+      "bytes": 88325
+    },
+    {
+      "page": "https://www.fishthedeep.com/deep-sea-fishing-gold-coast-vessel-crew/",
+      "status": 200,
+      "final_url": "https://www.fishthedeep.com/deep-sea-fishing-gold-coast-vessel-crew/",
+      "bytes": 65001
+    },
+    {
+      "page": "https://www.fishthedeep.com/deep-sea-fishing-gold-coast-about-us-fishing-techniques/",
+      "status": 200,
+      "final_url": "https://www.fishthedeep.com/deep-sea-fishing-gold-coast-about-us-fishing-techniques/",
+      "bytes": 56922
+    },
+    {
+      "page": "https://www.fishthedeep.com/contact/",
+      "status": 200,
+      "final_url": "https://www.fishthedeep.com/contact/",
+      "bytes": 62545
+    },
+    {
+      "page": "https://www.fishthedeep.com/gold-coast-fishing-charters/",
+      "status": 200,
+      "final_url": "https://www.fishthedeep.com/gold-coast-fishing-charters/",
+      "bytes": 69080
+    },
+    {
+      "page": "https://www.fishthedeep.com/find-fishing-charters-gold-coast/",
+      "status": 200,
+      "final_url": "https://www.fishthedeep.com/find-fishing-charters-gold-coast/",
+      "bytes": 52419
+    },
+    {
+      "page": "https://www.fishthedeep.com/tour/full-day/",
+      "status": 200,
+      "final_url": "https://www.fishthedeep.com/tour/full-day/",
+      "bytes": 84505
+    },
+    {
+      "page": "https://www.fishthedeep.com/tour/private-reef-and-game-fishing-full-day/",
+      "status": 200,
+      "final_url": "https://www.fishthedeep.com/tour/private-reef-and-game-fishing-full-day/",
+      "bytes": 84632
+    },
+    {
+      "page": "https://www.fishthedeep.com/tour/private-reef-and-game-fishing-half-day/",
+      "status": 200,
+      "final_url": "https://www.fishthedeep.com/tour/private-reef-and-game-fishing-half-day/",
+      "bytes": 81710
+    },
+    {
+      "page": "https://www.fishthedeep.com/tour/private-reef-and-game-fishing-full-day-scotts-8-angler-special/",
+      "status": 200,
+      "final_url": "https://www.fishthedeep.com/tour/private-reef-and-game-fishing-full-day-scotts-8-angler-special/",
+      "bytes": 81412
+    },
+    {
+      "page": "https://www.fishthedeep.com/tour/private-reef-and-game-fishing-half-day-scotts-8-angler-special/",
+      "status": 200,
+      "final_url": "https://www.fishthedeep.com/tour/private-reef-and-game-fishing-half-day-scotts-8-angler-special/",
+      "bytes": 81803
+    },
+    {
+      "image": "https://www.fishthedeep.com/wp-content/plugins/revslider/public/assets/assets/dummy.png",
+      "error": "too small 1x1"
+    },
+    {
+      "image": "https://www.fishthedeep.com/wp-content/uploads/2018/07/Careel1.jpg",
+      "error": "too small 500x338"
+    },
+    {
+      "dup": "https://www.fishthedeep.com/wp-content/uploads/2018/07/P7160027-700x500.jpg"
+    },
+    {
+      "dup": "https://www.fishthedeep.com/wp-content/uploads/2018/07/P5020117-700x500.jpg"
+    },
+    {
+      "dup": "https://www.fishthedeep.com/wp-content/uploads/2018/07/P4200009-700x500.jpg"
+    },
+    {
+      "dup": "https://www.fishthedeep.com/wp-content/uploads/2018/07/P1160009-700x500.jpg"
+    },
+    {
+      "dup": "https://www.fishthedeep.com/wp-content/uploads/2018/07/IMG_0007-700x500.jpg"
+    },
+    {
+      "dup": "https://www.fishthedeep.com/wp-content/uploads/2018/07/Full-Day-Fishing-Charter-700x500.jpg"
+    },
+    {
+      "dup": "https://www.fishthedeep.com/wp-content/uploads/2018/07/Full-Day-Charter-700x500.jpg"
+    },
+    {
+      "image": "https://www.fishthedeep.com/wp-content/uploads/2023/06/Careel3.jpeg",
+      "error": "too small 500x338"
+    },
+    {
+      "image": "https://www.fishthedeep.com/wp-content/uploads/2023/06/Scott-550x500.jpeg",
+      "error": "too small 550x500"
+    },
+    {
+      "image": "https://www.fishthedeep.com/wp-content/uploads/2023/06/Winter.png",
+      "error": "too small 512x512"
+    },
+    {
+      "image": "https://www.fishthedeep.com/wp-content/uploads/2023/06/Summer.png",
+      "error": "too small 512x512"
+    },
+    {
+      "image": "https://www.fishthedeep.com/wp-content/uploads/2023/06/Summer-512x450.png",
+      "error": "too small 512x450"
+    }
+  ]
+}

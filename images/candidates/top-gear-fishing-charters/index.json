@@ -1,0 +1,796 @@
+{
+  "slug": "top-gear-fishing-charters",
+  "request_hash": "02b55c188e25",
+  "collected_at": "2026-10-29T03:49:30.957Z",
+  "pages_fetched": [
+    "https://topgearfishingcharters.com.au/",
+    "https://topgearfishingcharters.com.au/about-us/",
+    "https://topgearfishingcharters.com.au/services/",
+    "https://topgearfishingcharters.com.au/mixed-group-charters/",
+    "https://topgearfishingcharters.com.au/private-fishing-charters/",
+    "https://topgearfishingcharters.com.au/reef-fishing-charters/",
+    "https://topgearfishingcharters.com.au/game-fishing-deep-sea-charters/",
+    "https://topgearfishingcharters.com.au/our-gallery/",
+    "https://topgearfishingcharters.com.au/book-now/",
+    "https://topgearfishingcharters.com.au/reviews/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 672,
+      "height": 630,
+      "original": "672x630",
+      "source": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/Untitled-design-6.png",
+      "page": "https://topgearfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 1440,
+      "height": 1725,
+      "original": "1440x1725",
+      "source": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/whychoose-us.jpg",
+      "page": "https://topgearfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1360,
+      "height": 1020,
+      "original": "1360x1020",
+      "source": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/unnamed-4.webp",
+      "page": "https://topgearfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1920,
+      "height": 814,
+      "original": "1920x814",
+      "source": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/bg-ttmnsh2.jpg",
+      "page": "https://topgearfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1600,
+      "height": 900,
+      "original": "1600x900",
+      "source": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/1774398081-5292.webp",
+      "page": "https://topgearfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1536x2048",
+      "source": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/mfc.webp",
+      "page": "https://topgearfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1440,
+      "height": 1080,
+      "original": "1440x1080",
+      "source": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/670918871_.jpg",
+      "page": "https://topgearfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1440,
+      "height": 1080,
+      "original": "1440x1080",
+      "source": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/03242_n.jpg",
+      "page": "https://topgearfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1600,
+      "height": 1200,
+      "original": "1600x1200",
+      "source": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/fc.webp",
+      "page": "https://topgearfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1440,
+      "height": 1080,
+      "original": "1440x1080",
+      "source": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/famali.jpg",
+      "page": "https://topgearfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1442,
+      "height": 1339,
+      "original": "1442x1339",
+      "source": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/about-bg.webp",
+      "page": "https://topgearfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1536,
+      "height": 1024,
+      "original": "1536x1024",
+      "source": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/1774398867-8749.webp",
+      "page": "https://topgearfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1440,
+      "height": 1782,
+      "original": "1440x1782",
+      "source": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/12.jpg",
+      "page": "https://topgearfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1417,
+      "height": 498,
+      "original": "1417x498",
+      "source": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/bg.jpg",
+      "page": "https://topgearfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1440,
+      "height": 1209,
+      "original": "1440x1209",
+      "source": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/658.jpg",
+      "page": "https://topgearfishingcharters.com.au/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://topgearfishingcharters.com.au/",
+      "status": 200,
+      "final_url": "https://topgearfishingcharters.com.au/",
+      "bytes": 245240
+    },
+    {
+      "page": "https://topgearfishingcharters.com.au/about-us/",
+      "status": 200,
+      "final_url": "https://topgearfishingcharters.com.au/about-us/",
+      "bytes": 144346
+    },
+    {
+      "page": "https://topgearfishingcharters.com.au/services/",
+      "status": 200,
+      "final_url": "https://topgearfishingcharters.com.au/services/",
+      "bytes": 146831
+    },
+    {
+      "page": "https://topgearfishingcharters.com.au/mixed-group-charters/",
+      "status": 200,
+      "final_url": "https://topgearfishingcharters.com.au/mixed-group-charters/",
+      "bytes": 146952
+    },
+    {
+      "page": "https://topgearfishingcharters.com.au/private-fishing-charters/",
+      "status": 200,
+      "final_url": "https://topgearfishingcharters.com.au/private-fishing-charters/",
+      "bytes": 144979
+    },
+    {
+      "page": "https://topgearfishingcharters.com.au/reef-fishing-charters/",
+      "status": 200,
+      "final_url": "https://topgearfishingcharters.com.au/reef-fishing-charters/",
+      "bytes": 144185
+    },
+    {
+      "page": "https://topgearfishingcharters.com.au/game-fishing-deep-sea-charters/",
+      "status": 200,
+      "final_url": "https://topgearfishingcharters.com.au/game-fishing-deep-sea-charters/",
+      "bytes": 144609
+    },
+    {
+      "page": "https://topgearfishingcharters.com.au/our-gallery/",
+      "status": 200,
+      "final_url": "https://topgearfishingcharters.com.au/our-gallery/",
+      "bytes": 130463
+    },
+    {
+      "page": "https://topgearfishingcharters.com.au/book-now/",
+      "status": 200,
+      "final_url": "https://topgearfishingcharters.com.au/book-now/",
+      "bytes": 109368
+    },
+    {
+      "page": "https://topgearfishingcharters.com.au/reviews/",
+      "status": 200,
+      "final_url": "https://topgearfishingcharters.com.au/reviews/",
+      "bytes": 120121
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/4054329-1.png",
+      "error": "too small 512x512"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/fishing-rod.png",
+      "error": "too small 512x512"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/77405.png",
+      "error": "too small 512x512"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/fishing.png",
+      "error": "too small 512x512"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/top-gear.png",
+      "error": "too small 300x258"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/map.png",
+      "error": "banner/strip 1920x547"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/top-gear-100x100.png",
+      "error": "too small 100x100"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/4054329-1-150x150.png",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/4054329-1-140x140.png",
+      "error": "too small 140x140"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/4054329-1-100x100.png",
+      "error": "too small 100x100"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/4054329-1-500x500.png",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/4054329-1-350x350.png",
+      "error": "too small 350x350"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/fishing-rod-150x150.png",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/fishing-rod-140x140.png",
+      "error": "too small 140x140"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/fishing-rod-100x100.png",
+      "error": "too small 100x100"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/fishing-rod-500x500.png",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/fishing-rod-350x350.png",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/77405-150x150.png",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/77405-140x140.png",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/77405-100x100.png",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/77405-500x500.png",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/77405-350x350.png",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/fishing-150x150.png",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/fishing-140x140.png",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/fishing-100x100.png",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/fishing-500x500.png",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/fishing-350x350.png",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/Untitled-design-6-150x141.png",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/whychoose-us-125x150.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/whychoose-us-768x920.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/whychoose-us-1282x1536.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/top-gear-150x129.png",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/10-Years-Of-experience-1-1.png",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/1772881821-5929.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/889_n.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/ChatGPT-Image-Apr-22-2026-11_39_21-AM.png",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/645_n.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/1773071871-2438.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/bg_about1-1.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/1752214786-9748.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/1773071871-8527.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/2tg-1.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/647523174.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/rfc.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/6227_n.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/10-Years-Of-experience-1-1-150x117.png",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/10-Years-Of-experience-1-1-768x597.png",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/09.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/blue-bg.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/04.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/fnHl.png",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/fish.png",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/man.png",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/05.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/2tg.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/fnHl-150x111.png",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/fish-150x150.png",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/fish-140x140.png",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/fish-100x100.png",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/fish-500x500.png",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/fish-350x350.png",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/man-150x150.png",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/man-140x140.png",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/man-100x100.png",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/man-500x500.png",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/man-350x350.png",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/eclipse.png",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/yatch.png",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/eclipse-150x150.png",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/eclipse-140x140.png",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/eclipse-100x100.png",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/eclipse-500x500.png",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/eclipse-350x350.png",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/yatch-150x150.png",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/yatch-140x140.png",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/yatch-100x100.png",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/yatch-500x500.png",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/yatch-350x350.png",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/06.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/IMG_20200115_090433.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/unnamed.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/unnamed-1.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/IMG_7481.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/1774398867-8749-600x400.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/1774399566-8135.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/1774399566-8135-600x400.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/647523174-600x400.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/mfc-600x400.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/670918871_-600x400.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/fc-600x400.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/03242_n-600x400.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/famali-600x400.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/whychoose-us-600x400.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/658-600x400.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/3tg.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/3tg-600x400.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/2tg-600x400.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/1tg.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/1tg-600x400.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/1772881821-5929-600x400.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/05-600x400.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/04-600x400.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/01.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/01-600x400.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/13.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/13-600x400.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/12-600x400.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/11.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/11-600x400.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/10.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/10-600x400.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/09-600x400.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/08.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/08-600x400.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/07.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/07-600x400.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/06-600x400.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/889_n-600x400.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/645_n-600x400.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/1773071871-2438-600x400.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/1752214786-9748-600x400.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/2tg-1-600x400.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/rfc-600x400.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/6227_n-600x400.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/unnamed-600x400.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/IMG_20200115_090433-600x400.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/unnamed-1-600x400.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/IMG_7481-600x400.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/unnamed-5.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/unnamed-5-574x400.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/IMG_20190427_083041_1.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/IMG_20190427_083041_1-600x400.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/IMG_20190828_110518.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/IMG_20190828_110518-600x400.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/IMG_20190616_090256.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/IMG_20190616_090256-600x400.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/unnamed-4-600x400.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/unnamed-3.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/unnamed-3-600x400.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/2023-09-17.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/2023-09-17-600x400.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/IMG_20190505_075027.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/IMG_20190505_075027-600x400.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/IMG_20200303_112027.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://topgearfishingcharters.com.au/wp-content/uploads/2026/04/IMG_20200303_112027-600x400.webp",
+      "error": "HTTP 429"
+    }
+  ]
+}

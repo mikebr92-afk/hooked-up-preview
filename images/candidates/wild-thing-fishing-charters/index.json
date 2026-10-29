@@ -1,0 +1,105 @@
+{
+  "slug": "wild-thing-fishing-charters",
+  "request_hash": "64efaea44269",
+  "collected_at": "2026-10-29T03:51:28.534Z",
+  "pages_fetched": [
+    "https://www.wildthingfishingcharters.com.au/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1920,
+      "height": 955,
+      "original": "1920x955",
+      "source": "https://wildthingfishingcharters.com.au/wp-content/uploads/2021/11/WTFC-img.jpg",
+      "page": "https://www.wildthingfishingcharters.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 848,
+      "height": 1131,
+      "original": "848x1131",
+      "source": "https://wildthingfishingcharters.com.au/wp-content/uploads/2026/07/4fdd23c1-205b-4a34-9d4f-f554599c3b6b.jpg",
+      "page": "https://www.wildthingfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1920,
+      "height": 955,
+      "original": "1920x955",
+      "source": "https://wildthingfishingcharters.com.au/wp-content/uploads/2021/11/WildThing-slider.jpg",
+      "page": "https://www.wildthingfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 799,
+      "height": 599,
+      "original": "799x599",
+      "source": "https://wildthingfishingcharters.com.au/wp-content/uploads/2026/07/60d06733-2227-477e-bd5c-9c7475c11101.jpg",
+      "page": "https://www.wildthingfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 799,
+      "height": 599,
+      "original": "799x599",
+      "source": "https://wildthingfishingcharters.com.au/wp-content/uploads/2026/07/6545e79b-b434-4d1d-b6d5-c61e1d30d2bb.jpg",
+      "page": "https://www.wildthingfishingcharters.com.au/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.wildthingfishingcharters.com.au/",
+      "status": 200,
+      "final_url": "https://wildthingfishingcharters.com.au/",
+      "bytes": 78527
+    },
+    {
+      "dup": "https://wildthingfishingcharters.com.au/wp-content/uploads/2021/11/imageonline-co-darkenimage.png?id=1555"
+    },
+    {
+      "dup": "https://wildthingfishingcharters.com.au/wp-content/uploads/2021/11/imageonline-co-darkenimage.png?id=1555)"
+    },
+    {
+      "image": "https://wildthingfishingcharters.com.au/wp-content/uploads/2026/07/60d06733-2227-477e-bd5c-9c7475c11101-500x400.jpg",
+      "error": "too small 500x400"
+    },
+    {
+      "image": "https://wildthingfishingcharters.com.au/wp-content/uploads/2026/07/5b4b11fa-d305-48c7-b9fb-7bf76e6d0534.jpg",
+      "error": "too small 564x368"
+    },
+    {
+      "image": "https://wildthingfishingcharters.com.au/wp-content/uploads/2026/07/5b4b11fa-d305-48c7-b9fb-7bf76e6d0534-500x368.jpg",
+      "error": "too small 500x368"
+    },
+    {
+      "image": "https://wildthingfishingcharters.com.au/wp-content/uploads/2026/07/6545e79b-b434-4d1d-b6d5-c61e1d30d2bb-500x400.jpg",
+      "error": "too small 500x400"
+    },
+    {
+      "image": "https://wildthingfishingcharters.com.au/wp-content/uploads/2026/07/4fdd23c1-205b-4a34-9d4f-f554599c3b6b-225x300.jpg",
+      "error": "too small 225x300"
+    },
+    {
+      "dup": "https://wildthingfishingcharters.com.au/wp-content/uploads/2026/07/4fdd23c1-205b-4a34-9d4f-f554599c3b6b-768x1024.jpg"
+    },
+    {
+      "image": "https://wildthingfishingcharters.com.au/wp-content/uploads/2026/07/4fdd23c1-205b-4a34-9d4f-f554599c3b6b-370x493.jpg",
+      "error": "too small 370x493"
+    },
+    {
+      "dup": "https://wildthingfishingcharters.com.au/wp-content/uploads/2026/07/4fdd23c1-205b-4a34-9d4f-f554599c3b6b-770x1027.jpg"
+    },
+    {
+      "dup": "https://wildthingfishingcharters.com.au/wp-content/uploads/2026/07/4fdd23c1-205b-4a34-9d4f-f554599c3b6b-740x986.jpg"
+    },
+    {
+      "dup": "https://wildthingfishingcharters.com.au/wp-content/uploads/2026/07/4fdd23c1-205b-4a34-9d4f-f554599c3b6b-600x800.jpg"
+    }
+  ]
+}

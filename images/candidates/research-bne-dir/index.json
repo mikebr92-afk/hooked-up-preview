@@ -1,0 +1,57 @@
+{
+  "slug": "research-bne-dir",
+  "request_hash": "31446a40562f",
+  "collected_at": "2026-10-29T03:52:35.109Z",
+  "pages_fetched": [
+    "https://visit.brisbane.qld.au/things-to-do/moreton-bay-region/tours/fish-moreton-728e",
+    "https://www.queensland.com/us/en/things-to-do/tours/p-68c7f5f74e846fa15caa728e-fish-moreton",
+    "https://www.smarterfishingcharters.com.au/charters/details/190",
+    "https://www.smarterfishingcharters.com.au/charters/region/4020?locale=Scarborough",
+    "https://www.smarterfishingcharters.com.au/charters/details/147",
+    "https://outsideedgeadventures.com.au/reef-fishing/brisbane/",
+    "https://redcliffeguide.com.au/best-fishing-spots-around-redcliffe/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://visit.brisbane.qld.au/things-to-do/moreton-bay-region/tours/fish-moreton-728e",
+      "status": 200,
+      "final_url": "https://visit.brisbane.qld.au/things-to-do/moreton-bay-region/tours/fish-moreton-728e",
+      "bytes": 258128
+    },
+    {
+      "page": "https://www.queensland.com/us/en/things-to-do/tours/p-68c7f5f74e846fa15caa728e-fish-moreton",
+      "status": 200,
+      "final_url": "https://www.queensland.com/us/en/things-to-do/tours/p-68c7f5f74e846fa15caa728e-fish-moreton",
+      "bytes": 17052
+    },
+    {
+      "page": "https://www.smarterfishingcharters.com.au/charters/details/190",
+      "status": 200,
+      "final_url": "https://www.smarterfishingcharters.com.au/charters/details/190",
+      "bytes": 34495
+    },
+    {
+      "page": "https://www.smarterfishingcharters.com.au/charters/region/4020?locale=Scarborough",
+      "status": 200,
+      "final_url": "https://www.smarterfishingcharters.com.au/charters/region/4020?locale=Scarborough",
+      "bytes": 21932
+    },
+    {
+      "page": "https://www.smarterfishingcharters.com.au/charters/details/147",
+      "status": 200,
+      "final_url": "https://www.smarterfishingcharters.com.au/charters/details/147",
+      "bytes": 44008
+    },
+    {
+      "page": "https://outsideedgeadventures.com.au/reef-fishing/brisbane/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://redcliffeguide.com.au/best-fishing-spots-around-redcliffe/",
+      "status": 200,
+      "final_url": "https://redcliffeguide.com.au/best-fishing-spots-around-redcliffe/",
+      "bytes": 185499
+    }
+  ]
+}

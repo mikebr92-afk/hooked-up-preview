@@ -1,0 +1,36 @@
+{
+  "slug": "research-agnes-dir",
+  "request_hash": "d80551783157",
+  "collected_at": "2026-10-29T03:55:22.620Z",
+  "pages_fetched": [
+    "https://visitagnes1770.com.au/fishing-agnes-water-1770",
+    "https://www.gladstoneregion.info/fishing/1770-agnes-water/",
+    "https://qica.com.au/tours/town-of-1770-agnes-water/hooked-on-1770-adventure-tours",
+    "https://australiatravelquestions.com/?p=34551"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://visitagnes1770.com.au/fishing-agnes-water-1770",
+      "status": 200,
+      "final_url": "https://www.visitagnes1770.com.au/fishing-agnes-water-1770/",
+      "bytes": 392468
+    },
+    {
+      "page": "https://www.gladstoneregion.info/fishing/1770-agnes-water/",
+      "status": 403,
+      "final_url": "https://www.gladstoneregion.info/fishing/1770-agnes-water/",
+      "bytes": 5884
+    },
+    {
+      "page": "https://qica.com.au/tours/town-of-1770-agnes-water/hooked-on-1770-adventure-tours",
+      "status": 200,
+      "final_url": "https://www.qica.com.au/tours/town-of-1770-agnes-water/hooked-on-1770-adventure-tours",
+      "bytes": 35908
+    },
+    {
+      "page": "https://australiatravelquestions.com/?p=34551",
+      "error": "fetch failed"
+    }
+  ]
+}

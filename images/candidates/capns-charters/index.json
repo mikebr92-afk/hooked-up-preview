@@ -1,0 +1,314 @@
+{
+  "slug": "capns-charters",
+  "request_hash": "f8e011f83417",
+  "collected_at": "2026-10-29T03:52:31.706Z",
+  "pages_fetched": [
+    "https://capnscharters.com.au/",
+    "https://capnscharters.com.au/charter-options/",
+    "https://capnscharters.com.au/one-on-one-charters/",
+    "https://capnscharters.com.au/half-day-charters/",
+    "https://capnscharters.com.au/full-day-charters/",
+    "https://capnscharters.com.au/exclusive-multi-day-trophy-fishing-adventures/",
+    "https://capnscharters.com.au/product/gift-card/",
+    "https://capnscharters.com.au/merchandise/",
+    "https://capnscharters.com.au/about-us/",
+    "https://capnscharters.com.au/locations/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1920x2560",
+      "source": "https://capnscharters.com.au/wp-content/uploads/2021/11/IMG_2456-scaled.jpg",
+      "page": "https://capnscharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 800,
+      "height": 1200,
+      "original": "800x1200",
+      "source": "https://capnscharters.com.au/wp-content/uploads/2021/10/Copy-of-Website-Images-Portrait-1.png",
+      "page": "https://capnscharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 818,
+      "height": 421,
+      "original": "818x421",
+      "source": "https://capnscharters.com.au/wp-content/uploads/2021/10/topo-graphic.png",
+      "page": "https://capnscharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 800,
+      "height": 1200,
+      "original": "800x1200",
+      "source": "https://capnscharters.com.au/wp-content/uploads/2023/02/1.png",
+      "page": "https://capnscharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 800,
+      "height": 1200,
+      "original": "800x1200",
+      "source": "https://capnscharters.com.au/wp-content/uploads/2023/02/4_9-1.png",
+      "page": "https://capnscharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 800,
+      "height": 1200,
+      "original": "800x1200",
+      "source": "https://capnscharters.com.au/wp-content/uploads/2023/02/2_3.png",
+      "page": "https://capnscharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 600,
+      "height": 500,
+      "original": "600x500",
+      "source": "https://capnscharters.com.au/wp-content/uploads/elementor/thumbs/3-pynjilq3os2anrwc5ei9l279coci89vzm2ynkokdjc.png",
+      "page": "https://capnscharters.com.au/one-on-one-charters/",
+      "priority": true
+    },
+    {
+      "file": "c08.webp",
+      "width": 800,
+      "height": 1200,
+      "original": "800x1200",
+      "source": "https://capnscharters.com.au/wp-content/uploads/2026/03/Copy-of-Website-Images-Landscape-1.png",
+      "page": "https://capnscharters.com.au/exclusive-multi-day-trophy-fishing-adventures/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 800,
+      "height": 1200,
+      "original": "800x1200",
+      "source": "https://capnscharters.com.au/wp-content/uploads/2023/02/2_1.png",
+      "page": "https://capnscharters.com.au/product/gift-card/",
+      "priority": true
+    },
+    {
+      "file": "c10.webp",
+      "width": 1024,
+      "height": 1536,
+      "original": "1024x1536",
+      "source": "https://capnscharters.com.au/wp-content/uploads/2025/12/093E8EFC-F39E-4F2D-BBE9-50E2FA3A72E3.png",
+      "page": "https://capnscharters.com.au/merchandise/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1536x2048",
+      "source": "https://capnscharters.com.au/wp-content/uploads/2022/10/Light-Blue-Back-hood-on.png",
+      "page": "https://capnscharters.com.au/merchandise/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1536x2048",
+      "source": "https://capnscharters.com.au/wp-content/uploads/2022/10/Grey-Back-Hood-On-.png",
+      "page": "https://capnscharters.com.au/merchandise/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://capnscharters.com.au/",
+      "status": 200,
+      "final_url": "https://capnscharters.com.au/",
+      "bytes": 180669
+    },
+    {
+      "page": "https://capnscharters.com.au/charter-options/",
+      "status": 200,
+      "final_url": "https://capnscharters.com.au/charter-options/",
+      "bytes": 143798
+    },
+    {
+      "page": "https://capnscharters.com.au/one-on-one-charters/",
+      "status": 200,
+      "final_url": "https://capnscharters.com.au/one-on-one-charters/",
+      "bytes": 252415
+    },
+    {
+      "page": "https://capnscharters.com.au/half-day-charters/",
+      "status": 200,
+      "final_url": "https://capnscharters.com.au/half-day-charters/",
+      "bytes": 252996
+    },
+    {
+      "page": "https://capnscharters.com.au/full-day-charters/",
+      "status": 200,
+      "final_url": "https://capnscharters.com.au/full-day-charters/",
+      "bytes": 253278
+    },
+    {
+      "page": "https://capnscharters.com.au/exclusive-multi-day-trophy-fishing-adventures/",
+      "status": 200,
+      "final_url": "https://capnscharters.com.au/exclusive-multi-day-trophy-fishing-adventures/",
+      "bytes": 178159
+    },
+    {
+      "page": "https://capnscharters.com.au/product/gift-card/",
+      "status": 200,
+      "final_url": "https://capnscharters.com.au/product/gift-card/",
+      "bytes": 203144
+    },
+    {
+      "page": "https://capnscharters.com.au/merchandise/",
+      "status": 200,
+      "final_url": "https://capnscharters.com.au/merchandise/",
+      "bytes": 142871
+    },
+    {
+      "page": "https://capnscharters.com.au/about-us/",
+      "status": 200,
+      "final_url": "https://capnscharters.com.au/about-us/",
+      "bytes": 158369
+    },
+    {
+      "page": "https://capnscharters.com.au/locations/",
+      "status": 200,
+      "final_url": "https://capnscharters.com.au/locations/",
+      "bytes": 131886
+    },
+    {
+      "image": "https://capnscharters.com.au/wp-content/uploads/elementor/thumbs/Hook-and-Anchor-02-pfug0jwrgy234f135tzweafdbu29nhzfc0qtioxn26.png",
+      "error": "too small 100x51"
+    },
+    {
+      "image": "https://capnscharters.com.au/wp-content/uploads/2021/10/3-1.png",
+      "error": "too small 490x528"
+    },
+    {
+      "image": "https://capnscharters.com.au/wp-content/uploads/2024/02/cropped-Untitled-design-4.png",
+      "error": "too small 512x512"
+    },
+    {
+      "image": "https://capnscharters.com.au/wp-content/uploads/2024/02/cropped-Untitled-design-4-32x32.png",
+      "error": "too small 32x32"
+    },
+    {
+      "image": "https://capnscharters.com.au/wp-content/uploads/2024/02/cropped-Untitled-design-4-192x192.png",
+      "error": "too small 192x192"
+    },
+    {
+      "image": "https://capnscharters.com.au/wp-content/uploads/2024/02/cropped-Untitled-design-4-180x180.png",
+      "error": "too small 180x180"
+    },
+    {
+      "image": "https://capnscharters.com.au/wp-content/uploads/2024/02/cropped-Untitled-design-4-270x270.png",
+      "error": "too small 270x270"
+    },
+    {
+      "image": "https://capnscharters.com.au/wp-content/uploads/elementor/thumbs/Hook-sml-1-pfugg52feys78bsp6hnj1cbqam43zqhg4brd33sqki.png",
+      "error": "too small 150x77"
+    },
+    {
+      "image": "https://capnscharters.com.au/wp-content/uploads/2021/10/Copy-of-Website-Images-Portrait-2.png",
+      "error": "too small 490x528"
+    },
+    {
+      "image": "https://capnscharters.com.au/wp-content/uploads/elementor/thumbs/Hook-sml-1-pfugg52f1t5fvwjv5mzwynf83kdvrz434u15ukm25e.png",
+      "error": "too small 120x61"
+    },
+    {
+      "image": "https://capnscharters.com.au/wp-content/uploads/2024/02/1.png",
+      "error": "too small 200x150"
+    },
+    {
+      "image": "https://capnscharters.com.au/wp-content/uploads/2024/02/9.png",
+      "error": "too small 200x150"
+    },
+    {
+      "image": "https://capnscharters.com.au/wp-content/uploads/2024/02/8.png",
+      "error": "too small 200x150"
+    },
+    {
+      "image": "https://capnscharters.com.au/wp-content/uploads/2024/02/6.png",
+      "error": "too small 200x150"
+    },
+    {
+      "image": "https://capnscharters.com.au/wp-content/uploads/2024/02/4.png",
+      "error": "too small 200x150"
+    },
+    {
+      "image": "https://capnscharters.com.au/wp-content/uploads/2024/02/2.png",
+      "error": "too small 200x150"
+    },
+    {
+      "image": "https://capnscharters.com.au/wp-content/uploads/elementor/thumbs/2_2-e1687316677921-q89qzb1c1li93ltbyk6w6jniu75xqkfzoclg4xek4w.png",
+      "error": "too small 525x440"
+    },
+    {
+      "image": "https://capnscharters.com.au/wp-content/uploads/elementor/thumbs/2-qy8bqbt1ypvmknq7dmmojwrlcaruubji2pcd1lvj3c.png",
+      "error": "too small 460x420"
+    },
+    {
+      "image": "https://capnscharters.com.au/wp-content/uploads/elementor/thumbs/1_7-q4jrt7t28vbl3ein67koy90b4u21ovfzvstvzzixyg.png",
+      "error": "too small 460x420"
+    },
+    {
+      "dup": "https://capnscharters.com.au/wp-content/uploads/2023/02/2_1-600x900.png"
+    },
+    {
+      "image": "https://capnscharters.com.au/wp-content/uploads/2023/02/2_1-300x300.png",
+      "error": "too small 300x300"
+    },
+    {
+      "image": "https://capnscharters.com.au/wp-content/uploads/2021/10/IMG_1486_edited.jpg",
+      "error": "too small 380x267"
+    },
+    {
+      "image": "https://capnscharters.com.au/wp-content/uploads/2021/10/IMG_1880_edited_edited.jpg",
+      "error": "too small 380x267"
+    },
+    {
+      "image": "https://capnscharters.com.au/wp-content/uploads/2021/10/Copy-of-Website-Images-Portrait-1-3.png",
+      "error": "too small 380x267"
+    },
+    {
+      "image": "https://capnscharters.com.au/wp-content/uploads/2023/02/2_1-100x100.png",
+      "error": "too small 100x100"
+    },
+    {
+      "image": "https://capnscharters.com.au/wp-content/uploads/2023/02/2_1-150x150.png",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://capnscharters.com.au/wp-content/uploads/2023/02/2_1-200x300.png",
+      "error": "too small 200x300"
+    },
+    {
+      "dup": "https://capnscharters.com.au/wp-content/uploads/2023/02/2_1-683x1024.png"
+    },
+    {
+      "dup": "https://capnscharters.com.au/wp-content/uploads/2023/02/2_1-768x1152.png"
+    },
+    {
+      "image": "https://capnscharters.com.au/wp-content/uploads/2021/10/IMG_1486_edited-300x211.jpg",
+      "error": "too small 300x211"
+    },
+    {
+      "image": "https://capnscharters.com.au/wp-content/uploads/2021/10/IMG_1880_edited_edited-300x211.jpg",
+      "error": "too small 300x211"
+    },
+    {
+      "image": "https://capnscharters.com.au/wp-content/uploads/2021/10/Copy-of-Website-Images-Portrait-1-3-300x211.png",
+      "error": "too small 300x211"
+    }
+  ]
+}

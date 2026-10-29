@@ -1,0 +1,24 @@
+{
+  "slug": "research-gc-dir",
+  "request_hash": "2e5ed6ac85d2",
+  "collected_at": "2026-10-29T03:51:41.802Z",
+  "pages_fetched": [
+    "https://www.smarterfishingcharters.com.au/charters/au/qld/gold-coast",
+    "https://www.goldcoastaustralia.com/gold-coast-fishing.html"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.smarterfishingcharters.com.au/charters/au/qld/gold-coast",
+      "status": 200,
+      "final_url": "https://www.smarterfishingcharters.com.au/charters/au/qld/gold-coast",
+      "bytes": 59407
+    },
+    {
+      "page": "https://www.goldcoastaustralia.com/gold-coast-fishing.html",
+      "status": 403,
+      "final_url": "https://www.goldcoastaustralia.com/gold-coast-fishing.html",
+      "bytes": 5794
+    }
+  ]
+}

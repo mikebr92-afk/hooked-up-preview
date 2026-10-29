@@ -1,0 +1,658 @@
+{
+  "slug": "true-blue-fishing-charters",
+  "request_hash": "13485b211485",
+  "collected_at": "2026-10-29T03:49:45.693Z",
+  "pages_fetched": [
+    "https://truebluefishing.com.au/",
+    "https://fishinggoldcoast.com.au/",
+    "https://truebluefishing.com.au/book-an-adventure/",
+    "https://truebluefishing.com.au/about-us/",
+    "https://truebluefishing.com.au/our-vessels/",
+    "https://truebluefishing.com.au/packages/",
+    "https://truebluefishing.com.au/half-day-morning-trip/",
+    "https://truebluefishing.com.au/half-day-afternoon-trip/",
+    "https://truebluefishing.com.au/full-day-fishing-trip/",
+    "https://truebluefishing.com.au/bucks-party-boat-packages/",
+    "https://truebluefishing.com.au/private-charters/",
+    "https://fishinggoldcoast.com.au/charters"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 862,
+      "height": 450,
+      "original": "862x450",
+      "source": "https://truebluefishing.com.au/wp-content/uploads/2025/11/the-ultimate-guide-to-half-day-fishing-charters.webp",
+      "page": "https://truebluefishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 960,
+      "height": 720,
+      "original": "960x720",
+      "source": "https://truebluefishing.com.au/wp-content/uploads/2026/01/FB_IMG_1713549951946.jpg",
+      "page": "https://truebluefishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1152,
+      "height": 896,
+      "original": "1152x896",
+      "source": "https://truebluefishing.com.au/wp-content/uploads/2025/10/trueblue-gift-card.png",
+      "page": "https://truebluefishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1536x2048",
+      "source": "https://truebluefishing.com.au/wp-content/uploads/2025/11/gold-coast-fishing-charter-guest-testimonials-min.webp",
+      "page": "https://truebluefishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1000,
+      "height": 800,
+      "original": "1000x800",
+      "source": "https://truebluefishing.com.au/wp-content/uploads/2025/11/true-blue-fishing-charters-big-catch-gold-coast-min.webp",
+      "page": "https://truebluefishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 945,
+      "height": 472,
+      "original": "945x472",
+      "source": "https://truebluefishing.com.au/wp-content/uploads/2025/10/Queensland-Government-Tourism-Accreditation.jpg",
+      "page": "https://truebluefishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 2000,
+      "height": 1329,
+      "original": "2048x1361",
+      "source": "https://truebluefishing.com.au/wp-content/uploads/2019/01/186515335_5488378377903584_4778927675828915211_n.jpg",
+      "page": "https://truebluefishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 2000,
+      "height": 991,
+      "original": "2422x1200",
+      "source": "https://truebluefishing.com.au/wp-content/uploads/2025/10/deep-sea-fishing-charter-gold-coast-true-blue.webp",
+      "page": "https://truebluefishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1200,
+      "height": 1600,
+      "original": "1200x1600",
+      "source": "https://truebluefishing.com.au/wp-content/uploads/2025/10/true-blue-fishing-charter-gold-coast-our-story.webp",
+      "page": "https://truebluefishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1900,
+      "height": 600,
+      "original": "1900x600",
+      "source": "https://truebluefishing.com.au/wp-content/uploads/2025/12/footer-fishing.webp",
+      "page": "https://truebluefishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://img1.wsimg.com/isteam/ip/5e9c89e9-b816-46ff-8394-760aaefcf5cf/20190614_115132.jpg",
+      "page": "https://fishinggoldcoast.com.au/",
+      "priority": true
+    }
+  ],
+  "log": [
+    {
+      "page": "https://truebluefishing.com.au/",
+      "status": 200,
+      "final_url": "https://truebluefishing.com.au/",
+      "bytes": 80369
+    },
+    {
+      "page": "https://fishinggoldcoast.com.au/",
+      "status": 200,
+      "final_url": "https://fishinggoldcoast.com.au/",
+      "bytes": 349653
+    },
+    {
+      "page": "https://truebluefishing.com.au/book-an-adventure/",
+      "status": 200,
+      "final_url": "https://truebluefishing.com.au/book-an-adventure/",
+      "bytes": 35562
+    },
+    {
+      "page": "https://truebluefishing.com.au/about-us/",
+      "status": 200,
+      "final_url": "https://truebluefishing.com.au/about-us/",
+      "bytes": 47710
+    },
+    {
+      "page": "https://truebluefishing.com.au/our-vessels/",
+      "status": 200,
+      "final_url": "https://truebluefishing.com.au/our-vessels/",
+      "bytes": 37997
+    },
+    {
+      "page": "https://truebluefishing.com.au/packages/",
+      "status": 200,
+      "final_url": "https://truebluefishing.com.au/packages/",
+      "bytes": 39654
+    },
+    {
+      "page": "https://truebluefishing.com.au/half-day-morning-trip/",
+      "status": 200,
+      "final_url": "https://truebluefishing.com.au/half-day-morning-trip/",
+      "bytes": 71923
+    },
+    {
+      "page": "https://truebluefishing.com.au/half-day-afternoon-trip/",
+      "status": 200,
+      "final_url": "https://truebluefishing.com.au/half-day-afternoon-trip/",
+      "bytes": 72518
+    },
+    {
+      "page": "https://truebluefishing.com.au/full-day-fishing-trip/",
+      "status": 200,
+      "final_url": "https://truebluefishing.com.au/full-day-fishing-trip/",
+      "bytes": 72681
+    },
+    {
+      "page": "https://truebluefishing.com.au/bucks-party-boat-packages/",
+      "status": 200,
+      "final_url": "https://truebluefishing.com.au/bucks-party-boat-packages/",
+      "bytes": 73884
+    },
+    {
+      "page": "https://truebluefishing.com.au/private-charters/",
+      "status": 200,
+      "final_url": "https://truebluefishing.com.au/private-charters/",
+      "bytes": 73516
+    },
+    {
+      "page": "https://fishinggoldcoast.com.au/charters",
+      "status": 200,
+      "final_url": "https://fishinggoldcoast.com.au/charters",
+      "bytes": 181386
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/full-day-deep-sea-fishing-big-fin-catch.webp",
+      "error": "too small 310x280"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/gold-coast-morning-fishing-trip-catch.jpg",
+      "error": "too small 400x298"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/gold-coast-morning-fishing-trip-catch.webp",
+      "error": "too small 400x300"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/afternoon-fishing-charter-gold-coast-catch.webp",
+      "error": "too small 400x298"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/full-day-deep-sea-fishing-gold-coast-1.webp",
+      "error": "too small 432x320"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/private-fishing-charter-gold-coast-true-blue.jpg",
+      "error": "too small 400x300"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/bucks-party-fishing-charter-gold-coast.webp",
+      "error": "too small 400x300"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/11/man-catching-fish.webp",
+      "error": "too small 310x280"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/11/man-holding-onto-true-blue-fish.webp",
+      "error": "too small 496x280"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/11/true-blue-fish-catch-day.webp",
+      "error": "too small 434x280"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/11/true-blue-fish-two-women-catch.webp",
+      "error": "too small 434x280"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/11/true-blue-fishing-guest-catch.webp",
+      "error": "too small 496x280"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/11/child-holding-true-blue-fish-charter.webp",
+      "error": "too small 310x280"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/12/youtube-banner.jpg",
+      "error": "too small 480x360"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/11/true-blue-fishing-charters-seaquest-gold-coast.webp",
+      "error": "too small 450x300"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/Marine-Safety-Queensland-Survey-Compliance.png",
+      "error": "too small 225x145"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/11/man-catching-fish-300x271.webp",
+      "error": "too small 300x271"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/11/man-holding-onto-true-blue-fish-300x169.webp",
+      "error": "too small 300x169"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/11/true-blue-fish-catch-day-300x194.webp",
+      "error": "too small 300x194"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/11/true-blue-fish-two-women-catch-300x194.webp",
+      "error": "too small 300x194"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/11/true-blue-fishing-guest-catch-300x169.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/11/child-holding-true-blue-fish-charter-300x271.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://img1.wsimg.com/isteam/ip/5e9c89e9-b816-46ff-8394-760aaefcf5cf/70888676_3010471825694264_1775786642649382912_.jpg/:/cr=t:25%25,l:0%25,w:100%25,h:50%25/rs=w:388,h:194,cg:true",
+      "error": "too small 388x194"
+    },
+    {
+      "image": "https://img1.wsimg.com/isteam/ip/5e9c89e9-b816-46ff-8394-760aaefcf5cf/IMG_20190602_094355_433%20(1).jpg/:/cr=t:25%25,l:0%25,w:100%25,h:50%25/rs=w:388,h:194,cg:true",
+      "error": "too small 388x194"
+    },
+    {
+      "image": "https://img1.wsimg.com/isteam/ip/5e9c89e9-b816-46ff-8394-760aaefcf5cf/20180121_105247(1).jpg/:/cr=t:14.11%25,l:0%25,w:100%25,h:71.79%25/rs=w:388,h:194,cg:true",
+      "error": "too small 388x194"
+    },
+    {
+      "image": "cg:true",
+      "error": "fetch failed"
+    },
+    {
+      "image": "i:true/qt=q:1/ll=n:true",
+      "error": "fetch failed"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/book-today-banner.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/true-blue-fishing-charters-guests-catch.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/hook.png",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/11/about-mission.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/11/about-mission-1.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/about-banner.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/about-charter.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/seaquest-fishing-charter-boat-gold-coast-1.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/fat-hooker-fishing-charter-boat-gold-coast-1.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/seaquest-fishing-charter-boat-gold-coast.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/12/footer-fishing-1.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/12/slider-3.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/12/expert-deep-sea-fishing.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/12/unveiling-the-best.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/12/gold-coast-offshore-fishing-report-winter.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/half-day-morning-testimonial.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/12/experience-winter-fishing-on-the-old-coast-with-true-blue-fishing.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/12/mens-mental-health.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/12/deep-sea-fishing-charters.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/12/fishing-therapeutic-escape.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/12/natures-therapy.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/12/winter-fishing-on-the-gold-coast.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/half-day-morningtrip.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/12/experience-winter-fishing-on-the-old-coast-with-true-blue-fishing-277x300.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/12/mens-mental-health-277x300.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/12/deep-sea-fishing-charters-277x300.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/12/fishing-therapeutic-escape-300x300.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/12/fishing-therapeutic-escape-150x150.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/12/natures-therapy-300x300.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/12/natures-therapy-150x150.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/12/winter-fishing-on-the-gold-coast-300x300.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/12/winter-fishing-on-the-gold-coast-150x150.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/half-day-afternoon-testimonials.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/half-day-afternoon-trip-pink-fish-catch.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/half-day-afternoon-trip-long-fish.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/half-day-afternoon-trip-true-blue-fish.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/half-day-afternoon-trip-women-carrying-fish.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/half-day-afternoon-trip-man-hold-onto-a-fish.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/half-day-afternoon-trip-catch.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/half-day-afternoon-banner.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/half-day-afternoon-trip-pink-fish-catch-300x271.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/half-day-afternoon-trip-long-fish-300x169.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/half-day-afternoon-trip-true-blue-fish-300x194.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/half-day-afternoon-trip-women-carrying-fish-300x194.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/half-day-afternoon-trip-man-hold-onto-a-fish-300x169.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/half-day-afternoon-trip-catch-300x271.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/full-day-deep-sea-testimonials.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/full-day-deep-sea-fishing-big-catch.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/full-day-deep-sea-fishing-duo-big-catch.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/full-day-deep-sea-fishing-true-blue-fish.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/full-day-deep-sea-fishing-big-duo-catch.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/full-day-deep-sea-fishing-man-holding-the-fish.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/Full-Day-Deep-Sea.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/full-day-deep-sea-fishing-big-catch-300x271.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/full-day-deep-sea-fishing-duo-big-catch-300x169.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/full-day-deep-sea-fishing-true-blue-fish-300x194.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/full-day-deep-sea-fishing-big-duo-catch-300x194.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/full-day-deep-sea-fishing-man-holding-the-fish-300x169.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/full-day-deep-sea-fishing-big-fin-catch-300x271.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/cooperate-fishing-group-catch.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/12/quality-gea-for-unparalleled-adventures.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/12/sea-waves-through-ship.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/bucks-testimonials.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/bucks-party-lady-holding-the-fish.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/bucks-party-true-blue-hold-onto-fish.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/bucks-party-true-blue-fishing.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/bucks-party-man-with-glasses-fishing.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/bucks-party-true-blue-fish.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/bucks-party-fishing.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/bucks-party-banner.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/bucks-party-lady-holding-the-fish-300x271.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/bucks-party-true-blue-hold-onto-fish-300x169.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/bucks-party-true-blue-fishing-300x194.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/bucks-party-man-with-glasses-fishing-300x194.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/bucks-party-true-blue-fish-300x169.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/bucks-party-fishing-300x271.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/private-charters-man-holding-the-fish.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/private-charters-big-fish-on-catch.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/private-charters-true-blue-fishing.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/private-charters-true-blue-fishing-catch.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/private-charters-night-catch.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/private-charters-true-blue-fish.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/package-banner.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/private-charters-man-holding-the-fish-300x271.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/private-charters-big-fish-on-catch-300x169.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/private-charters-true-blue-fishing-300x194.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/private-charters-true-blue-fishing-catch-300x194.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/private-charters-night-catch-300x169.webp",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://truebluefishing.com.au/wp-content/uploads/2025/10/private-charters-true-blue-fish-300x271.webp",
+      "error": "HTTP 429"
+    }
+  ]
+}

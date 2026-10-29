@@ -1,0 +1,192 @@
+{
+  "slug": "what-a-catch-fishing",
+  "request_hash": "fd1268d98884",
+  "collected_at": "2026-10-29T03:55:03.451Z",
+  "pages_fetched": [
+    "https://whatacatchfishing.com.au/",
+    "https://whatacatchfishing.com.au/pages/our-trips",
+    "https://whatacatchfishing.com.au/collections/what-we-have-been-catching",
+    "https://whatacatchfishing.com.au/pages/about-us",
+    "https://whatacatchfishing.com.au/pages/faqs",
+    "https://whatacatchfishing.com.au/pages/contact",
+    "https://whatacatchfishing.com.au/pages/terms-and-conditions-of-bookings",
+    "https://whatacatchfishing.com.au/customer_authentication/redirect?locale=en&region_country=AU",
+    "https://whatacatchfishing.com.au/cart",
+    "https://whatacatchfishing.com.au/pages/our-boat"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2160x2880",
+      "source": "https://whatacatchfishing.com.au/cdn/shop/files/preview_images/3462f53157da4cc184c8f5fe356d660c.thumbnail.0000000000.jpg?v=1786073679&width=3840",
+      "page": "https://whatacatchfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "3840x2880",
+      "source": "https://whatacatchfishing.com.au/cdn/shop/files/IMG_2242.heic?v=1744773605&width=3840",
+      "page": "https://whatacatchfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "3024x4032",
+      "source": "https://whatacatchfishing.com.au/cdn/shop/files/IMG_0471.heic?v=1744773630&width=3840",
+      "page": "https://whatacatchfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "3024x4032",
+      "source": "https://whatacatchfishing.com.au/cdn/shop/files/IMG_0934.heic?v=1744773618&width=3840",
+      "page": "https://whatacatchfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "3024x4032",
+      "source": "https://whatacatchfishing.com.au/cdn/shop/files/IMG_1806_copy.jpg?v=1744337214&width=3840",
+      "page": "https://whatacatchfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "3024x4032",
+      "source": "https://whatacatchfishing.com.au/cdn/shop/files/IMG_1862_copy.jpg?v=1744337045&width=3840",
+      "page": "https://whatacatchfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1500,
+      "height": 1500,
+      "original": "1500x1500",
+      "source": "https://whatacatchfishing.com.au/cdn/shop/files/theo_and_emma.heic?v=1744937293&width=1500",
+      "page": "https://whatacatchfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1500,
+      "height": 1125,
+      "original": "1500x1125",
+      "source": "https://whatacatchfishing.com.au/cdn/shop/files/IMG_6582.heic?v=1748930761&width=1500",
+      "page": "https://whatacatchfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "3024x4032",
+      "source": "http://whatacatchfishing.com.au/cdn/shop/collections/IMG_1899_copy.jpg?v=1744762678",
+      "page": "https://whatacatchfishing.com.au/collections/what-we-have-been-catching",
+      "priority": true
+    },
+    {
+      "file": "c10.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "3840x2880",
+      "source": "https://whatacatchfishing.com.au/cdn/shop/files/IMG_6594.heic?v=1748930892&width=3840",
+      "page": "https://whatacatchfishing.com.au/pages/faqs",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://whatacatchfishing.com.au/",
+      "status": 200,
+      "final_url": "https://whatacatchfishing.com.au/",
+      "bytes": 127088
+    },
+    {
+      "page": "https://whatacatchfishing.com.au/pages/our-trips",
+      "status": 200,
+      "final_url": "https://whatacatchfishing.com.au/pages/our-trips",
+      "bytes": 108610
+    },
+    {
+      "page": "https://whatacatchfishing.com.au/collections/what-we-have-been-catching",
+      "status": 200,
+      "final_url": "https://whatacatchfishing.com.au/collections/what-we-have-been-catching",
+      "bytes": 100349
+    },
+    {
+      "page": "https://whatacatchfishing.com.au/pages/about-us",
+      "status": 200,
+      "final_url": "https://whatacatchfishing.com.au/pages/about-us",
+      "bytes": 108135
+    },
+    {
+      "page": "https://whatacatchfishing.com.au/pages/faqs",
+      "status": 200,
+      "final_url": "https://whatacatchfishing.com.au/pages/faqs",
+      "bytes": 105520
+    },
+    {
+      "page": "https://whatacatchfishing.com.au/pages/contact",
+      "status": 200,
+      "final_url": "https://whatacatchfishing.com.au/pages/contact",
+      "bytes": 107943
+    },
+    {
+      "page": "https://whatacatchfishing.com.au/pages/terms-and-conditions-of-bookings",
+      "status": 200,
+      "final_url": "https://whatacatchfishing.com.au/pages/terms-and-conditions-of-bookings",
+      "bytes": 125187
+    },
+    {
+      "page": "https://whatacatchfishing.com.au/customer_authentication/redirect?locale=en&region_country=AU",
+      "status": 200,
+      "final_url": "https://shopify.com/authentication/92432761137/oauth/authorize?buyer_flags=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ5djl0a2EteWQubXlzaG9waWZ5LmNvbSIsImZsYWdzIjpbXSwiZXhwIjoxNzkzODUwODc4LCJuYmYiOjE3OTMyNDYwNzh9.R6jxkHVYjAfYssgO0IstbrU7JwVxeLTb4dxi1JS1olg&client_id=c640a401-2adb-4949-9d8d-0ed573fd9bd9&locale=en-AU&nonce=bf90982a-1bd9-4dbc-b318-a6b0e22de0c3&redirect_uri=https%3A%2F%2Fshopify.com%2F92432761137%2Faccount%2Fcallback&region_country=AU&response_type=code&scope=openid+email+customer-account-api%3Afull&state=hWNIW5MMqP3cOJwejrD89dfV",
+      "bytes": 11297
+    },
+    {
+      "page": "https://whatacatchfishing.com.au/cart",
+      "status": 200,
+      "final_url": "https://whatacatchfishing.com.au/cart",
+      "bytes": 106176
+    },
+    {
+      "page": "https://whatacatchfishing.com.au/pages/our-boat",
+      "status": 200,
+      "final_url": "https://whatacatchfishing.com.au/pages/our-boat",
+      "bytes": 107518
+    },
+    {
+      "image": "http://whatacatchfishing.com.au/cdn/shop/files/Copy_of_What_a_Catch_-_1_8c0cd45d-1d72-459d-8548-79db7c407b8e.png?v=1744947748",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://whatacatchfishing.com.au/cdn/shop/files/Copy_of_What_a_Catch_-_1_8c0cd45d-1d72-459d-8548-79db7c407b8e.png?v=1744947748",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://whatacatchfishing.com.au/cdn/shop/files/Copy_of_What_a_Catch_-_1.png?v=1786077486&width=600",
+      "error": "too small 500x500"
+    },
+    {
+      "dup": "https://whatacatchfishing.com.au/cdn/shop/files/preview_images/3462f53157da4cc184c8f5fe356d660c.thumbnail.0000000000.jpg?v=1786073679"
+    },
+    {
+      "dup": "https://whatacatchfishing.com.au/cdn/shop/files/IMG_0934.heic?v=1744773618&width=1500"
+    },
+    {
+      "dup": "https://whatacatchfishing.com.au/cdn/shop/collections/IMG_1899_copy.jpg?v=1744762678"
+    }
+  ]
+}

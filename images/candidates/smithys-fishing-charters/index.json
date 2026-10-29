@@ -1,0 +1,15 @@
+{
+  "slug": "smithys-fishing-charters",
+  "request_hash": "30600f0f9731",
+  "collected_at": "2026-10-29T03:52:54.826Z",
+  "pages_fetched": [
+    "https://smithysfishingcharters.com.au/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://smithysfishingcharters.com.au/",
+      "error": "fetch failed"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "research-bundaberg-dir",
+  "request_hash": "c0175ddfce58",
+  "collected_at": "2026-10-29T03:55:41.334Z",
+  "pages_fetched": [
+    "https://playsport.com/truanseacharters_ag_4bd90342",
+    "https://www.brcnow.bundaberg.qld.gov.au/2019/08/27/luke-truansea-charters/",
+    "https://www.bundabergregion.org/?p=135"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://playsport.com/truanseacharters_ag_4bd90342",
+      "status": 200,
+      "final_url": "https://playsport.com/truanseacharters_ag_4bd90342",
+      "bytes": 276004
+    },
+    {
+      "page": "https://www.brcnow.bundaberg.qld.gov.au/2019/08/27/luke-truansea-charters/",
+      "status": 200,
+      "final_url": "https://www.brcnow.bundaberg.qld.gov.au/2019/08/27/luke-truansea-charters/",
+      "bytes": 278231
+    },
+    {
+      "page": "https://www.bundabergregion.org/?p=135",
+      "status": 200,
+      "final_url": "https://www.bundabergregion.org/places-to-go/burnett-heads/",
+      "bytes": 411866
+    }
+  ]
+}

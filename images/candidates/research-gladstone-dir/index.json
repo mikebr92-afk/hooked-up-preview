@@ -1,0 +1,31 @@
+{
+  "slug": "research-gladstone-dir",
+  "request_hash": "c9ca994a36c3",
+  "collected_at": "2026-10-29T03:55:30.030Z",
+  "pages_fetched": [
+    "https://www.gladstoneregion.info/fishing/",
+    "https://www.qica.com.au/tours/gladstone/gladstone-fishing-charters-and-eco-tours",
+    "https://www.australias.guide/qld/attraction-tour/gladstone/tannum-sands/eastern-voyager-charters/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.gladstoneregion.info/fishing/",
+      "status": 403,
+      "final_url": "https://www.gladstoneregion.info/fishing/",
+      "bytes": 5812
+    },
+    {
+      "page": "https://www.qica.com.au/tours/gladstone/gladstone-fishing-charters-and-eco-tours",
+      "status": 200,
+      "final_url": "https://www.qica.com.au/tours/gladstone/gladstone-fishing-charters-and-eco-tours",
+      "bytes": 36466
+    },
+    {
+      "page": "https://www.australias.guide/qld/attraction-tour/gladstone/tannum-sands/eastern-voyager-charters/",
+      "status": 200,
+      "final_url": "https://australiasguide.com/",
+      "bytes": 146365
+    }
+  ]
+}

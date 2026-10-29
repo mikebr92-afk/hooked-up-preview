@@ -1,0 +1,491 @@
+{
+  "slug": "paradise-fishing-charters",
+  "request_hash": "a784bb0395fc",
+  "collected_at": "2026-10-29T03:51:08.317Z",
+  "pages_fetched": [
+    "https://paradisefishingcharters.com.au/",
+    "https://paradisefishingcharters.com.au/prices/",
+    "https://paradisefishingcharters.com.au/blog/",
+    "https://paradisefishingcharters.com.au/gallery/",
+    "https://paradisefishingcharters.com.au/contact-us/",
+    "https://paradisefishingcharters.com.au/services/5-hour-deep-seareef-option/",
+    "https://paradisefishingcharters.com.au/services/7-hour-deep-sea-reef-option/",
+    "https://paradisefishingcharters.com.au/services/9-hour-deep-seareef-option/",
+    "https://paradisefishingcharters.com.au/privacy-policy/",
+    "https://paradisefishingcharters.com.au/terms-conditions/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 2000,
+      "height": 924,
+      "original": "2048x946",
+      "source": "https://paradisefishingcharters.com.au/wp-content/uploads/2021/11/131568726_3077438145689590_4171859825622578890_n.jpg",
+      "page": "https://paradisefishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 960,
+      "height": 720,
+      "original": "960x720",
+      "source": "https://paradisefishingcharters.com.au/wp-content/uploads/2021/11/IMG_2832.jpg",
+      "page": "https://paradisefishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 960,
+      "height": 720,
+      "original": "960x720",
+      "source": "https://paradisefishingcharters.com.au/wp-content/uploads/2021/11/IMG_2831.jpg",
+      "page": "https://paradisefishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 960,
+      "height": 720,
+      "original": "960x720",
+      "source": "https://paradisefishingcharters.com.au/wp-content/uploads/2021/11/IMG_2835.jpg",
+      "page": "https://paradisefishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 960,
+      "height": 720,
+      "original": "960x720",
+      "source": "https://paradisefishingcharters.com.au/wp-content/uploads/2021/11/IMG_2829.jpg",
+      "page": "https://paradisefishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 960,
+      "height": 538,
+      "original": "960x538",
+      "source": "https://paradisefishingcharters.com.au/wp-content/uploads/2015/03/936589_750650228368405_2312108695258213868_n.jpg",
+      "page": "https://paradisefishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 960,
+      "height": 538,
+      "original": "960x538",
+      "source": "https://paradisefishingcharters.com.au/wp-content/uploads/2016/06/13524289_798724716894289_7779400078492718370_n.jpg",
+      "page": "https://paradisefishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 960,
+      "height": 538,
+      "original": "960x538",
+      "source": "https://paradisefishingcharters.com.au/wp-content/uploads/2016/06/12717921_737405479692880_4510148853321223347_n.jpg",
+      "page": "https://paradisefishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 960,
+      "height": 538,
+      "original": "960x538",
+      "source": "https://paradisefishingcharters.com.au/wp-content/uploads/2016/06/12472574_760676167365811_544541036867483116_n.jpg",
+      "page": "https://paradisefishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 640,
+      "height": 480,
+      "original": "640x480",
+      "source": "https://paradisefishingcharters.com.au/wp-content/uploads/2016/06/image-3.png",
+      "page": "https://paradisefishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 750,
+      "height": 500,
+      "original": "750x500",
+      "source": "https://paradisefishingcharters.com.au/wp-content/uploads/2016/06/13524289_798724716894289_7779400078492718370_n-750x500.jpg",
+      "page": "https://paradisefishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 960,
+      "height": 538,
+      "original": "960x538",
+      "source": "https://paradisefishingcharters.com.au/wp-content/uploads/2015/03/12662469_729587830474645_5748912837031147755_n.jpg",
+      "page": "https://paradisefishingcharters.com.au/prices/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 750,
+      "height": 500,
+      "original": "750x500",
+      "source": "https://paradisefishingcharters.com.au/wp-content/uploads/2021/10/5-easy-steps-for-how-to-own-your-Local-Fishing-Charters.jpg",
+      "page": "https://paradisefishingcharters.com.au/blog/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 750,
+      "height": 500,
+      "original": "750x500",
+      "source": "https://paradisefishingcharters.com.au/wp-content/uploads/2021/10/10-quick-tip-regarding-Gold-Coast-Charters-Boat-Fishing.jpg",
+      "page": "https://paradisefishingcharters.com.au/blog/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 750,
+      "height": 500,
+      "original": "750x500",
+      "source": "https://paradisefishingcharters.com.au/wp-content/uploads/2026/09/10-Mistakes-First-Time-Anglers-Make-on-Gold-Coast-Fishing-Charters.jpg",
+      "page": "https://paradisefishingcharters.com.au/blog/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 720,
+      "height": 960,
+      "original": "720x960",
+      "source": "https://paradisefishingcharters.com.au/wp-content/uploads/2021/11/IMG_2828.jpg",
+      "page": "https://paradisefishingcharters.com.au/gallery/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://paradisefishingcharters.com.au/",
+      "status": 200,
+      "final_url": "https://paradisefishingcharters.com.au/",
+      "bytes": 134090
+    },
+    {
+      "page": "https://paradisefishingcharters.com.au/prices/",
+      "status": 200,
+      "final_url": "https://paradisefishingcharters.com.au/prices/",
+      "bytes": 56838
+    },
+    {
+      "page": "https://paradisefishingcharters.com.au/blog/",
+      "status": 200,
+      "final_url": "https://paradisefishingcharters.com.au/blog/",
+      "bytes": 70588
+    },
+    {
+      "page": "https://paradisefishingcharters.com.au/gallery/",
+      "status": 200,
+      "final_url": "https://paradisefishingcharters.com.au/gallery/",
+      "bytes": 71577
+    },
+    {
+      "page": "https://paradisefishingcharters.com.au/contact-us/",
+      "status": 200,
+      "final_url": "https://paradisefishingcharters.com.au/contact-us/",
+      "bytes": 58028
+    },
+    {
+      "page": "https://paradisefishingcharters.com.au/services/5-hour-deep-seareef-option/",
+      "status": 200,
+      "final_url": "https://paradisefishingcharters.com.au/",
+      "bytes": 134090
+    },
+    {
+      "page": "https://paradisefishingcharters.com.au/services/7-hour-deep-sea-reef-option/",
+      "status": 200,
+      "final_url": "https://paradisefishingcharters.com.au/",
+      "bytes": 134090
+    },
+    {
+      "page": "https://paradisefishingcharters.com.au/services/9-hour-deep-seareef-option/",
+      "status": 200,
+      "final_url": "https://paradisefishingcharters.com.au/",
+      "bytes": 134090
+    },
+    {
+      "page": "https://paradisefishingcharters.com.au/privacy-policy/",
+      "status": 200,
+      "final_url": "https://paradisefishingcharters.com.au/privacy-policy/",
+      "bytes": 60283
+    },
+    {
+      "page": "https://paradisefishingcharters.com.au/terms-conditions/",
+      "status": 200,
+      "final_url": "https://paradisefishingcharters.com.au/terms-conditions/",
+      "bytes": 76608
+    },
+    {
+      "image": "https://paradisefishingcharters.com.au/wp-content/uploads/2015/03/16-img_0019.jpg",
+      "error": "too small 375x500"
+    },
+    {
+      "image": "https://paradisefishingcharters.com.au/wp-content/uploads/2015/03/15-photo352.jpg",
+      "error": "too small 500x375"
+    },
+    {
+      "image": "https://paradisefishingcharters.com.au/wp-content/uploads/2015/03/15-photo352-390x260.jpg",
+      "error": "too small 390x260"
+    },
+    {
+      "dup": "https://paradisefishingcharters.com.au/wp-content/uploads/2015/03/936589_750650228368405_2312108695258213868_n-750x500.jpg"
+    },
+    {
+      "image": "https://paradisefishingcharters.com.au/wp-content/uploads/2015/03/15-photo352-480x320.jpg",
+      "error": "too small 480x320"
+    },
+    {
+      "image": "https://paradisefishingcharters.com.au/wp-content/uploads/2021/11/131568726_3077438145689590_4171859825622578890_n-300x139.jpg",
+      "error": "too small 300x139"
+    },
+    {
+      "image": "https://paradisefishingcharters.com.au/wp-content/uploads/2021/11/131568726_3077438145689590_4171859825622578890_n-768x355.jpg",
+      "error": "too small 768x355"
+    },
+    {
+      "dup": "https://paradisefishingcharters.com.au/wp-content/uploads/2021/11/131568726_3077438145689590_4171859825622578890_n-1024x473.jpg"
+    },
+    {
+      "image": "https://paradisefishingcharters.com.au/wp-content/uploads/2021/11/IMG_2832-300x225.jpg",
+      "error": "too small 300x225"
+    },
+    {
+      "dup": "https://paradisefishingcharters.com.au/wp-content/uploads/2021/11/IMG_2832-768x576.jpg"
+    },
+    {
+      "image": "https://paradisefishingcharters.com.au/wp-content/uploads/2021/11/IMG_2831-300x225.jpg",
+      "error": "too small 300x225"
+    },
+    {
+      "dup": "https://paradisefishingcharters.com.au/wp-content/uploads/2021/11/IMG_2831-768x576.jpg"
+    },
+    {
+      "image": "https://paradisefishingcharters.com.au/wp-content/uploads/2021/11/IMG_2835-300x225.jpg",
+      "error": "too small 300x225"
+    },
+    {
+      "dup": "https://paradisefishingcharters.com.au/wp-content/uploads/2021/11/IMG_2835-768x576.jpg"
+    },
+    {
+      "image": "https://paradisefishingcharters.com.au/wp-content/uploads/2021/11/IMG_2829-300x225.jpg",
+      "error": "too small 300x225"
+    },
+    {
+      "dup": "https://paradisefishingcharters.com.au/wp-content/uploads/2021/11/IMG_2829-768x576.jpg"
+    },
+    {
+      "image": "https://paradisefishingcharters.com.au/wp-content/uploads/2015/03/16-img_0019-225x300.jpg",
+      "error": "too small 225x300"
+    },
+    {
+      "image": "https://paradisefishingcharters.com.au/wp-content/uploads/2015/03/936589_750650228368405_2312108695258213868_n-390x260.jpg",
+      "error": "too small 390x260"
+    },
+    {
+      "image": "https://paradisefishingcharters.com.au/wp-content/uploads/2015/03/936589_750650228368405_2312108695258213868_n-570x380.jpg",
+      "error": "too small 570x380"
+    },
+    {
+      "image": "https://paradisefishingcharters.com.au/wp-content/uploads/2015/03/936589_750650228368405_2312108695258213868_n-480x320.jpg",
+      "error": "too small 480x320"
+    },
+    {
+      "image": "https://paradisefishingcharters.com.au/wp-content/uploads/2015/03/936589_750650228368405_2312108695258213868_n-270x180.jpg",
+      "error": "too small 270x180"
+    },
+    {
+      "image": "https://paradisefishingcharters.com.au/wp-content/uploads/2016/06/13524289_798724716894289_7779400078492718370_n-390x260.jpg",
+      "error": "too small 390x260"
+    },
+    {
+      "image": "https://paradisefishingcharters.com.au/wp-content/uploads/2016/06/13524289_798724716894289_7779400078492718370_n-570x380.jpg",
+      "error": "too small 570x380"
+    },
+    {
+      "image": "https://paradisefishingcharters.com.au/wp-content/uploads/2016/06/13524289_798724716894289_7779400078492718370_n-480x320.jpg",
+      "error": "too small 480x320"
+    },
+    {
+      "image": "https://paradisefishingcharters.com.au/wp-content/uploads/2016/06/13524289_798724716894289_7779400078492718370_n-270x180.jpg",
+      "error": "too small 270x180"
+    },
+    {
+      "image": "https://paradisefishingcharters.com.au/wp-content/uploads/2015/03/15-photo352-270x180.jpg",
+      "error": "too small 270x180"
+    },
+    {
+      "image": "https://paradisefishingcharters.com.au/wp-content/uploads/2016/06/12717921_737405479692880_4510148853321223347_n-300x168.jpg",
+      "error": "too small 300x168"
+    },
+    {
+      "dup": "https://paradisefishingcharters.com.au/wp-content/uploads/2016/06/12717921_737405479692880_4510148853321223347_n-768x430.jpg"
+    },
+    {
+      "image": "https://paradisefishingcharters.com.au/wp-content/uploads/2016/06/12472574_760676167365811_544541036867483116_n-300x168.jpg",
+      "error": "too small 300x168"
+    },
+    {
+      "dup": "https://paradisefishingcharters.com.au/wp-content/uploads/2016/06/12472574_760676167365811_544541036867483116_n-768x430.jpg"
+    },
+    {
+      "image": "https://paradisefishingcharters.com.au/wp-content/uploads/2016/06/image-3-300x225.png",
+      "error": "too small 300x225"
+    },
+    {
+      "dup": "https://paradisefishingcharters.com.au/wp-content/uploads/2015/03/12004786_684624044971024_6686268287238190407_n.jpg"
+    },
+    {
+      "image": "https://paradisefishingcharters.com.au/wp-content/uploads/2015/03/1505095_737405499692878_1403578275215053074_n.jpg",
+      "error": "too small 538x960"
+    },
+    {
+      "image": "https://paradisefishingcharters.com.au/wp-content/uploads/2015/03/1505095_737405499692878_1403578275215053074_n-480x480.jpg",
+      "error": "too small 480x480"
+    },
+    {
+      "image": "https://paradisefishingcharters.com.au/wp-content/uploads/2015/03/1505095_737405499692878_1403578275215053074_n-150x150.jpg",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://paradisefishingcharters.com.au/wp-content/uploads/2015/03/1505095_737405499692878_1403578275215053074_n-90x90.jpg",
+      "error": "too small 90x90"
+    },
+    {
+      "image": "https://paradisefishingcharters.com.au/wp-content/uploads/2015/03/12662469_729587830474645_5748912837031147755_n-300x168.jpg",
+      "error": "too small 300x168"
+    },
+    {
+      "dup": "https://paradisefishingcharters.com.au/wp-content/uploads/2015/03/12662469_729587830474645_5748912837031147755_n-768x430.jpg"
+    },
+    {
+      "dup": "https://paradisefishingcharters.com.au/wp-content/uploads/2021/10/Top-5-things-you-must-do-in-Deep-Sea-Fishing-Yatchs.jpg"
+    },
+    {
+      "dup": "https://paradisefishingcharters.com.au/wp-content/uploads/2022/04/1_WzMZ6Nl2DTpFz_6ALh48qg.jpeg"
+    },
+    {
+      "dup": "https://paradisefishingcharters.com.au/wp-content/uploads/2021/11/IMG_2835-750x500.jpg"
+    },
+    {
+      "dup": "https://paradisefishingcharters.com.au/wp-content/uploads/2022/04/1_WzMZ6Nl2DTpFz_6ALh48qg-750x500.jpeg"
+    },
+    {
+      "image": "https://paradisefishingcharters.com.au/wp-content/uploads/2021/10/Top-5-things-you-must-do-in-Deep-Sea-Fishing-Yatchs-300x200.jpg",
+      "error": "too small 300x200"
+    },
+    {
+      "image": "https://paradisefishingcharters.com.au/wp-content/uploads/2021/10/Top-5-things-you-must-do-in-Deep-Sea-Fishing-Yatchs-570x380.jpg",
+      "error": "too small 570x380"
+    },
+    {
+      "image": "https://paradisefishingcharters.com.au/wp-content/uploads/2021/10/Top-5-things-you-must-do-in-Deep-Sea-Fishing-Yatchs-480x320.jpg",
+      "error": "too small 480x320"
+    },
+    {
+      "image": "https://paradisefishingcharters.com.au/wp-content/uploads/2021/10/Top-5-things-you-must-do-in-Deep-Sea-Fishing-Yatchs-390x260.jpg",
+      "error": "too small 390x260"
+    },
+    {
+      "image": "https://paradisefishingcharters.com.au/wp-content/uploads/2021/10/Top-5-things-you-must-do-in-Deep-Sea-Fishing-Yatchs-270x180.jpg",
+      "error": "too small 270x180"
+    },
+    {
+      "image": "https://paradisefishingcharters.com.au/wp-content/uploads/2021/10/5-easy-steps-for-how-to-own-your-Local-Fishing-Charters-300x200.jpg",
+      "error": "too small 300x200"
+    },
+    {
+      "image": "https://paradisefishingcharters.com.au/wp-content/uploads/2021/10/5-easy-steps-for-how-to-own-your-Local-Fishing-Charters-570x380.jpg",
+      "error": "too small 570x380"
+    },
+    {
+      "image": "https://paradisefishingcharters.com.au/wp-content/uploads/2021/10/5-easy-steps-for-how-to-own-your-Local-Fishing-Charters-480x320.jpg",
+      "error": "too small 480x320"
+    },
+    {
+      "image": "https://paradisefishingcharters.com.au/wp-content/uploads/2021/10/5-easy-steps-for-how-to-own-your-Local-Fishing-Charters-390x260.jpg",
+      "error": "too small 390x260"
+    },
+    {
+      "image": "https://paradisefishingcharters.com.au/wp-content/uploads/2021/10/5-easy-steps-for-how-to-own-your-Local-Fishing-Charters-270x180.jpg",
+      "error": "too small 270x180"
+    },
+    {
+      "image": "https://paradisefishingcharters.com.au/wp-content/uploads/2021/10/10-quick-tip-regarding-Gold-Coast-Charters-Boat-Fishing-300x200.jpg",
+      "error": "too small 300x200"
+    },
+    {
+      "image": "https://paradisefishingcharters.com.au/wp-content/uploads/2021/10/10-quick-tip-regarding-Gold-Coast-Charters-Boat-Fishing-570x380.jpg",
+      "error": "too small 570x380"
+    },
+    {
+      "image": "https://paradisefishingcharters.com.au/wp-content/uploads/2021/10/10-quick-tip-regarding-Gold-Coast-Charters-Boat-Fishing-480x320.jpg",
+      "error": "too small 480x320"
+    },
+    {
+      "image": "https://paradisefishingcharters.com.au/wp-content/uploads/2021/10/10-quick-tip-regarding-Gold-Coast-Charters-Boat-Fishing-390x260.jpg",
+      "error": "too small 390x260"
+    },
+    {
+      "image": "https://paradisefishingcharters.com.au/wp-content/uploads/2021/10/10-quick-tip-regarding-Gold-Coast-Charters-Boat-Fishing-270x180.jpg",
+      "error": "too small 270x180"
+    },
+    {
+      "image": "https://paradisefishingcharters.com.au/wp-content/uploads/2026/09/10-Mistakes-First-Time-Anglers-Make-on-Gold-Coast-Fishing-Charters-300x200.jpg",
+      "error": "too small 300x200"
+    },
+    {
+      "image": "https://paradisefishingcharters.com.au/wp-content/uploads/2026/09/10-Mistakes-First-Time-Anglers-Make-on-Gold-Coast-Fishing-Charters-570x380.jpg",
+      "error": "too small 570x380"
+    },
+    {
+      "image": "https://paradisefishingcharters.com.au/wp-content/uploads/2026/09/10-Mistakes-First-Time-Anglers-Make-on-Gold-Coast-Fishing-Charters-480x320.jpg",
+      "error": "too small 480x320"
+    },
+    {
+      "image": "https://paradisefishingcharters.com.au/wp-content/uploads/2026/09/10-Mistakes-First-Time-Anglers-Make-on-Gold-Coast-Fishing-Charters-390x260.jpg",
+      "error": "too small 390x260"
+    },
+    {
+      "image": "https://paradisefishingcharters.com.au/wp-content/uploads/2026/09/10-Mistakes-First-Time-Anglers-Make-on-Gold-Coast-Fishing-Charters-270x180.jpg",
+      "error": "too small 270x180"
+    },
+    {
+      "image": "https://paradisefishingcharters.com.au/wp-content/uploads/2022/04/1_WzMZ6Nl2DTpFz_6ALh48qg-570x380.jpeg",
+      "error": "too small 570x380"
+    },
+    {
+      "image": "https://paradisefishingcharters.com.au/wp-content/uploads/2022/04/1_WzMZ6Nl2DTpFz_6ALh48qg-480x320.jpeg",
+      "error": "too small 480x320"
+    },
+    {
+      "image": "https://paradisefishingcharters.com.au/wp-content/uploads/2022/04/1_WzMZ6Nl2DTpFz_6ALh48qg-390x260.jpeg",
+      "error": "too small 390x260"
+    },
+    {
+      "image": "https://paradisefishingcharters.com.au/wp-content/uploads/2022/04/1_WzMZ6Nl2DTpFz_6ALh48qg-270x180.jpeg",
+      "error": "too small 270x180"
+    },
+    {
+      "image": "https://paradisefishingcharters.com.au/wp-content/uploads/2021/11/IMG_2835-570x380.jpg",
+      "error": "too small 570x380"
+    },
+    {
+      "image": "https://paradisefishingcharters.com.au/wp-content/uploads/2021/11/IMG_2835-480x320.jpg",
+      "error": "too small 480x320"
+    },
+    {
+      "image": "https://paradisefishingcharters.com.au/wp-content/uploads/2021/11/IMG_2835-390x260.jpg",
+      "error": "too small 390x260"
+    },
+    {
+      "image": "https://paradisefishingcharters.com.au/wp-content/uploads/2021/11/IMG_2835-270x180.jpg",
+      "error": "too small 270x180"
+    }
+  ]
+}

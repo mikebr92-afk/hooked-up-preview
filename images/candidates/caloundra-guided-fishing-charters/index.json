@@ -1,0 +1,225 @@
+{
+  "slug": "caloundra-guided-fishing-charters",
+  "request_hash": "7d1ab0ca899b",
+  "collected_at": "2026-10-29T03:53:29.294Z",
+  "pages_fetched": [
+    "https://www.caloundraguidedfishingcharters.com/",
+    "https://www.caloundraguidedfishingcharters.com/charters.html",
+    "https://www.caloundraguidedfishingcharters.com/the-boat-tiger-shark.html",
+    "https://www.caloundraguidedfishingcharters.com/faqs.html",
+    "https://www.caloundraguidedfishingcharters.com/bookings.html",
+    "https://www.caloundraguidedfishingcharters.com/cdn-cgi/l/email-protection"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 907,
+      "height": 668,
+      "original": "907x668",
+      "source": "https://www.caloundraguidedfishingcharters.com/uploads/1/2/4/0/124087037/editor/spottie-for-print.jpg?1643632109",
+      "page": "https://www.caloundraguidedfishingcharters.com/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 1100,
+      "height": 622,
+      "original": "1100x622",
+      "source": "https://www.caloundraguidedfishingcharters.com/uploads/1/2/4/0/124087037/p1150071-copy_orig.jpg",
+      "page": "https://www.caloundraguidedfishingcharters.com/",
+      "priority": true
+    },
+    {
+      "file": "c03.webp",
+      "width": 901,
+      "height": 475,
+      "original": "901x475",
+      "source": "https://www.caloundraguidedfishingcharters.com/uploads/1/2/4/0/124087037/golden-beach-boat-ramp-map_orig.jpg",
+      "page": "https://www.caloundraguidedfishingcharters.com/",
+      "priority": true
+    },
+    {
+      "file": "c04.webp",
+      "width": 1776,
+      "height": 1184,
+      "original": "1776x1184",
+      "source": "https://www.caloundraguidedfishingcharters.com/uploads/1/2/4/0/124087037/background-images/1366250879.jpg",
+      "page": "https://www.caloundraguidedfishingcharters.com/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 800,
+      "height": 515,
+      "original": "800x515",
+      "source": "https://www.caloundraguidedfishingcharters.com/uploads/1/2/4/0/124087037/pa300089.jpg",
+      "page": "https://www.caloundraguidedfishingcharters.com/charters.html",
+      "priority": true
+    },
+    {
+      "file": "c06.webp",
+      "width": 800,
+      "height": 600,
+      "original": "800x600",
+      "source": "https://www.caloundraguidedfishingcharters.com/uploads/1/2/4/0/124087037/pb290035.jpg",
+      "page": "https://www.caloundraguidedfishingcharters.com/charters.html",
+      "priority": true
+    },
+    {
+      "file": "c07.webp",
+      "width": 800,
+      "height": 571,
+      "original": "800x571",
+      "source": "https://www.caloundraguidedfishingcharters.com/uploads/1/2/4/0/124087037/p1220089.jpg",
+      "page": "https://www.caloundraguidedfishingcharters.com/charters.html",
+      "priority": true
+    },
+    {
+      "file": "c08.webp",
+      "width": 800,
+      "height": 548,
+      "original": "800x548",
+      "source": "https://www.caloundraguidedfishingcharters.com/uploads/1/2/4/0/124087037/p21201571.jpg",
+      "page": "https://www.caloundraguidedfishingcharters.com/charters.html",
+      "priority": true
+    },
+    {
+      "file": "c09.webp",
+      "width": 1100,
+      "height": 525,
+      "original": "1100x525",
+      "source": "https://www.caloundraguidedfishingcharters.com/uploads/1/2/4/0/124087037/pa160019-copy_orig.jpg",
+      "page": "https://www.caloundraguidedfishingcharters.com/charters.html",
+      "priority": true
+    },
+    {
+      "file": "c10.webp",
+      "width": 1065,
+      "height": 656,
+      "original": "1065x656",
+      "source": "https://www.caloundraguidedfishingcharters.com/uploads/1/2/4/0/124087037/editor/p7171587.jpg?1658660662",
+      "page": "https://www.caloundraguidedfishingcharters.com/charters.html",
+      "priority": true
+    },
+    {
+      "file": "c11.webp",
+      "width": 800,
+      "height": 600,
+      "original": "800x600",
+      "source": "https://www.caloundraguidedfishingcharters.com/uploads/1/2/4/0/124087037/p2270184.jpg",
+      "page": "https://www.caloundraguidedfishingcharters.com/charters.html",
+      "priority": true
+    },
+    {
+      "file": "c12.webp",
+      "width": 800,
+      "height": 600,
+      "original": "800x600",
+      "source": "https://www.caloundraguidedfishingcharters.com/uploads/1/2/4/0/124087037/1i.jpg",
+      "page": "https://www.caloundraguidedfishingcharters.com/charters.html",
+      "priority": true
+    },
+    {
+      "file": "c13.webp",
+      "width": 1100,
+      "height": 612,
+      "original": "1100x612",
+      "source": "https://www.caloundraguidedfishingcharters.com/uploads/1/2/4/0/124087037/new-marina-2_orig.jpg",
+      "page": "https://www.caloundraguidedfishingcharters.com/charters.html",
+      "priority": true
+    },
+    {
+      "file": "c14.webp",
+      "width": 1067,
+      "height": 800,
+      "original": "1067x800",
+      "source": "https://www.caloundraguidedfishingcharters.com/uploads/1/2/4/0/124087037/pb120013_orig.jpg",
+      "page": "https://www.caloundraguidedfishingcharters.com/charters.html",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1085,
+      "height": 800,
+      "original": "1085x800",
+      "source": "https://www.caloundraguidedfishingcharters.com/uploads/1/2/4/0/124087037/p9261604-copy_orig.jpg",
+      "page": "https://www.caloundraguidedfishingcharters.com/charters.html",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1043,
+      "height": 800,
+      "original": "1043x800",
+      "source": "https://www.caloundraguidedfishingcharters.com/uploads/1/2/4/0/124087037/gift-certificate-for-website_orig.jpg",
+      "page": "https://www.caloundraguidedfishingcharters.com/charters.html",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.caloundraguidedfishingcharters.com/",
+      "status": 200,
+      "final_url": "https://www.caloundraguidedfishingcharters.com/",
+      "bytes": 41675
+    },
+    {
+      "page": "https://www.caloundraguidedfishingcharters.com/charters.html",
+      "status": 200,
+      "final_url": "https://www.caloundraguidedfishingcharters.com/charters.html",
+      "bytes": 58817
+    },
+    {
+      "page": "https://www.caloundraguidedfishingcharters.com/the-boat-tiger-shark.html",
+      "status": 200,
+      "final_url": "https://www.caloundraguidedfishingcharters.com/the-boat-tiger-shark.html",
+      "bytes": 38873
+    },
+    {
+      "page": "https://www.caloundraguidedfishingcharters.com/faqs.html",
+      "status": 200,
+      "final_url": "https://www.caloundraguidedfishingcharters.com/faqs.html",
+      "bytes": 36684
+    },
+    {
+      "page": "https://www.caloundraguidedfishingcharters.com/bookings.html",
+      "status": 200,
+      "final_url": "https://www.caloundraguidedfishingcharters.com/bookings.html",
+      "bytes": 28558
+    },
+    {
+      "page": "https://www.caloundraguidedfishingcharters.com/cdn-cgi/l/email-protection",
+      "status": 404,
+      "final_url": "https://www.caloundraguidedfishingcharters.com/cdn-cgi/l/email-protection",
+      "bytes": 4715
+    },
+    {
+      "image": "https://www.caloundraguidedfishingcharters.com/uploads/1/2/4/0/124087037/tiger-shark-photo-1_orig.jpg",
+      "error": "too small 576x411"
+    },
+    {
+      "image": "https://www.caloundraguidedfishingcharters.com/uploads/1/2/4/0/124087037/hotreels_orig.png",
+      "error": "too small 225x224"
+    },
+    {
+      "image": "https://www.caloundraguidedfishingcharters.com/&quot;/uploads/1/2/4/0/124087037/background-images/925816393.jpg&quot;",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.caloundraguidedfishingcharters.com/&quot;/uploads/1/2/4/0/124087037/background-images/2038929085.jpg&quot;",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.caloundraguidedfishingcharters.com/&quot;/uploads/1/2/4/0/124087037/background-images/609640833.jpg&quot;",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.caloundraguidedfishingcharters.com/&quot;/uploads/1/2/4/0/124087037/background-images/1428102781.png&quot;",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.caloundraguidedfishingcharters.com/uploads/1/2/4/0/124087037/pelican-waters-canals-2_orig.jpg",
+      "error": "too small 799x359"
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "slug": "deep-sea-fishing-charters-gold-coast",
+  "request_hash": "b44c7905af79",
+  "collected_at": "2026-10-29T03:49:57.968Z",
+  "pages_fetched": [
+    "https://deepseafishingchartersgoldcoast.com.au/",
+    "https://deepseafishingchartersgoldcoast.com.au/contact-us",
+    "https://deepseafishingchartersgoldcoast.com.au/half-day-morning",
+    "https://deepseafishingchartersgoldcoast.com.au/half-day-afternoon",
+    "https://deepseafishingchartersgoldcoast.com.au/corporate",
+    "https://deepseafishingchartersgoldcoast.com.au/bucks-day-fishing",
+    "https://deepseafishingchartersgoldcoast.com.au/private-charters",
+    "https://deepseafishingchartersgoldcoast.com.au/full-day-fishing",
+    "https://deepseafishingchartersgoldcoast.com.au/book-online",
+    "https://deepseafishingchartersgoldcoast.com.au/prices-and-specials"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1920x2560",
+      "source": "https://img1.wsimg.com/isteam/ip/e16282e8-7561-43cd-85d2-7deef83487f0/6ca94987-3aa3-466b-b2b5-af1b4777857d.jpg",
+      "page": "https://deepseafishingchartersgoldcoast.com.au/",
+      "priority": true
+    }
+  ],
+  "log": [
+    {
+      "page": "https://deepseafishingchartersgoldcoast.com.au/",
+      "status": 200,
+      "final_url": "https://deepseafishingchartersgoldcoast.com.au/",
+      "bytes": 228124
+    },
+    {
+      "page": "https://deepseafishingchartersgoldcoast.com.au/contact-us",
+      "status": 200,
+      "final_url": "https://deepseafishingchartersgoldcoast.com.au/contact-us",
+      "bytes": 154290
+    },
+    {
+      "page": "https://deepseafishingchartersgoldcoast.com.au/half-day-morning",
+      "status": 200,
+      "final_url": "https://deepseafishingchartersgoldcoast.com.au/half-day-morning",
+      "bytes": 149745
+    },
+    {
+      "page": "https://deepseafishingchartersgoldcoast.com.au/half-day-afternoon",
+      "status": 200,
+      "final_url": "https://deepseafishingchartersgoldcoast.com.au/half-day-afternoon",
+      "bytes": 149951
+    },
+    {
+      "page": "https://deepseafishingchartersgoldcoast.com.au/corporate",
+      "status": 200,
+      "final_url": "https://deepseafishingchartersgoldcoast.com.au/corporate",
+      "bytes": 147286
+    },
+    {
+      "page": "https://deepseafishingchartersgoldcoast.com.au/bucks-day-fishing",
+      "status": 200,
+      "final_url": "https://deepseafishingchartersgoldcoast.com.au/bucks-day-fishing",
+      "bytes": 147935
+    },
+    {
+      "page": "https://deepseafishingchartersgoldcoast.com.au/private-charters",
+      "status": 200,
+      "final_url": "https://deepseafishingchartersgoldcoast.com.au/private-charters",
+      "bytes": 146663
+    },
+    {
+      "page": "https://deepseafishingchartersgoldcoast.com.au/full-day-fishing",
+      "status": 200,
+      "final_url": "https://deepseafishingchartersgoldcoast.com.au/full-day-fishing",
+      "bytes": 151395
+    },
+    {
+      "page": "https://deepseafishingchartersgoldcoast.com.au/book-online",
+      "status": 200,
+      "final_url": "https://deepseafishingchartersgoldcoast.com.au/book-online",
+      "bytes": 138283
+    },
+    {
+      "page": "https://deepseafishingchartersgoldcoast.com.au/prices-and-specials",
+      "status": 200,
+      "final_url": "https://deepseafishingchartersgoldcoast.com.au/prices-and-specials",
+      "bytes": 171354
+    },
+    {
+      "image": "https://img1.wsimg.com/isteam/ip/e16282e8-7561-43cd-85d2-7deef83487f0/42f5c5e7-6167-4914-bd0f-f51b3dc74186.jpg/:/cr=t:0%25,l:16.67%25,w:66.67%25,h:100%25/rs=w:388,h:194,cg:true",
+      "error": "too small 388x194"
+    },
+    {
+      "image": "https://img1.wsimg.com/isteam/stock/12969/:/rs=w:388,h:194,cg:true,m/cr=w:388,h:194",
+      "error": "too small 388x194"
+    },
+    {
+      "image": "https://img1.wsimg.com/isteam/ip/e16282e8-7561-43cd-85d2-7deef83487f0/ba2db62c-b0a6-4f75-bdb6-0f52e07bb340.jpg/:/cr=t:13.98%25,l:6.77%25,w:84.27%25,h:56.18%25/rs=w:388,h:194,cg:true,m",
+      "error": "too small 388x194"
+    },
+    {
+      "image": "https://img1.wsimg.com/isteam/ip/e16282e8-7561-43cd-85d2-7deef83487f0/5ae54845-0f29-4e07-939f-5dfb1828aacf.jpg/:/cr=t:0%25,l:5.69%25,w:93.46%25,h:46.73%25/rs=w:388,h:194,cg:true,m",
+      "error": "too small 388x194"
+    },
+    {
+      "image": "https://img1.wsimg.com/isteam/ip/e16282e8-7561-43cd-85d2-7deef83487f0/de8d640b-e715-4d1b-b6a9-4121af319a43.jpg/:/cr=t:12.55%25,l:0%25,w:100%25,h:74.9%25/rs=w:388,h:194,cg:true",
+      "error": "too small 388x194"
+    },
+    {
+      "image": "https://img1.wsimg.com/isteam/ip/e16282e8-7561-43cd-85d2-7deef83487f0/1d4e5c8d-fa04-4843-8ab0-d49bb8ea2b3b.jpg/:/cr=t:16.44%25,l:0%25,w:100%25,h:67.11%25/rs=w:388,h:194,cg:true",
+      "error": "too small 388x193"
+    },
+    {
+      "image": "cg:true",
+      "error": "fetch failed"
+    },
+    {
+      "image": "h:582",
+      "error": "fetch failed"
+    },
+    {
+      "image": "https://deepseafishingchartersgoldcoast.com.au/m",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "i:true/qt=q:1/ll=n:true",
+      "error": "fetch failed"
+    },
+    {
+      "image": "https://img1.wsimg.com/isteam/ip/e16282e8-7561-43cd-85d2-7deef83487f0/bd55ad41-a185-4508-abf8-c1ab5a82f8da.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:400,cg:true",
+      "error": "too small 400x266"
+    },
+    {
+      "image": "https://img1.wsimg.com/isteam/ip/e16282e8-7561-43cd-85d2-7deef83487f0/e7f8866d-5f74-4bc3-b754-05da0d9a51b0.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:400,cg:true",
+      "error": "too small 400x400"
+    },
+    {
+      "image": "https://img1.wsimg.com/isteam/ip/e16282e8-7561-43cd-85d2-7deef83487f0/1d4e5c8d-fa04-4843-8ab0-d49bb8ea2b3b.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:400,cg:true",
+      "error": "too small 400x298"
+    },
+    {
+      "image": "https://img1.wsimg.com/isteam/ip/e16282e8-7561-43cd-85d2-7deef83487f0/4d68de90-1d0c-4164-b4ca-71cfa398ce3c.jpg/:/cr=t:7.31%25,l:11.5%25,w:60.24%25,h:60.24%25/rs=w:400,cg:true,m",
+      "error": "too small 400x228"
+    },
+    {
+      "image": "https://img1.wsimg.com/isteam/ip/e16282e8-7561-43cd-85d2-7deef83487f0/ba2db62c-b0a6-4f75-bdb6-0f52e07bb340.jpg/:/rs=w:1240,h:620,cg:true,m/cr=w:1240,h:620",
+      "error": "HTTP 502"
+    },
+    {
+      "image": "h:605",
+      "error": "fetch failed"
+    },
+    {
+      "image": "h:1079",
+      "error": "fetch failed"
+    },
+    {
+      "image": "h:1535",
+      "error": "fetch failed"
+    },
+    {
+      "image": "h:1860",
+      "error": "fetch failed"
+    }
+  ]
+}

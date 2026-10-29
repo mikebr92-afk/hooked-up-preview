@@ -1,0 +1,29 @@
+{
+  "slug": "research-rainbow-dir",
+  "request_hash": "5b709d50147d",
+  "collected_at": "2026-10-29T03:55:38.093Z",
+  "pages_fetched": [
+    "https://rainbowbeachcommunitynews.com.au/visitor-guide/fish",
+    "https://playsport.com/bigdolphinfishingcharters_ag_0a963b01",
+    "https://qldtravel.com.au/rainbow-beach/rainbow-beach-cruises"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://rainbowbeachcommunitynews.com.au/visitor-guide/fish",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://playsport.com/bigdolphinfishingcharters_ag_0a963b01",
+      "status": 200,
+      "final_url": "https://playsport.com/bigdolphinfishingcharters_ag_0a963b01",
+      "bytes": 265915
+    },
+    {
+      "page": "https://qldtravel.com.au/rainbow-beach/rainbow-beach-cruises",
+      "status": 200,
+      "final_url": "https://qldtravel.com.au/rainbow-beach/rainbow-beach-cruises/",
+      "bytes": 91857
+    }
+  ]
+}
