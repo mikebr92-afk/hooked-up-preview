@@ -1,0 +1,23 @@
+{"requests":[
+ {"slug":"hervey-bay-fly-and-sportfishing","pages":["https://herveybaysportfishing.com.au/"],"text":true,"max":16,"follow":true},
+ {"slug":"reel-deadly-fishing-charters","pages":["https://www.reeldeadlyfishing.com/"],"text":true,"max":16,"follow":true},
+ {"slug":"saltwater-playground","pages":["https://www.saltwaterplayground.com.au/"],"text":true,"max":16,"follow":true},
+ {"slug":"research-hervey-dir2","pages":["https://www.smarterfishingcharters.com.au/charters/region/4655?locale=Hervey+Bay","https://www.discoverherveybay.com/fishing-charters-hervey-bay/","https://experienceherveybay.com.au/princess-ii-fishing-trip-hervey-bay/","https://fishostackleworld.com.au/blogs/fishing-guide/snapper-season-in-hervey-bay-complete-angler-s-guide"],"text":true,"max":0,"follow":false},
+ {"slug":"truansea-charters","pages":["https://truansea.com.au/"],"text":true,"max":16,"follow":true},
+ {"slug":"reality-fishing-charters","pages":["https://www.bigcatreality.com/"],"text":true,"max":16,"follow":true},
+ {"slug":"research-bundaberg-dir2","pages":["https://tackleworldbundy.com.au/pages/local-charter-operators","https://www.smarterfishingcharters.com.au/charters/region/4670?locale=Bundaberg"],"text":true,"max":0,"follow":false},
+ {"slug":"reef-fishing-charters-1770","pages":["https://www.reeffishingcharters1770.au/","https://1770marina.com.au/listing/reef-fishing-charters-1770/"],"text":true,"max":16,"follow":true},
+ {"slug":"research-agnes-dir2","pages":["https://www.smarterfishingcharters.com.au/charters/region/4677?locale=Town+of+1770%2FAgnes+Waters","https://discover1770.com.au/activities/reef-fishing-charters-in-agnes-water-and-the-town-of-1770/","https://1770marina.com.au/explore/","https://www.seventeenseventy.au/","https://agneswaterbeachclub.com.au/experiences/offshore-fishing/"],"text":true,"max":0,"follow":false},
+ {"slug":"eastern-voyager","pages":["https://easternvoyager.com.au/"],"text":true,"max":16,"follow":true},
+ {"slug":"iluka-fishing-charters","pages":["https://www.ilukafishingcharters.com.au/"],"text":true,"max":16,"follow":true},
+ {"slug":"boobybird-charters","pages":["https://www.boobybird.com.au/home.html"],"text":true,"max":12,"follow":true},
+ {"slug":"mikat-charters","pages":["https://mikatcharters.com.au/"],"text":true,"max":12,"follow":true},
+ {"slug":"research-gladstone-dir2","pages":["https://www.gladstoneregion.info/plan/boating-fishing/","https://www.smarterfishingcharters.com.au/charters/region/4680?locale=Gladstone","https://nightcrossing.com.au/"],"text":true,"max":0,"follow":false},
+ {"slug":"double-threat-charters-yeppoon","pages":["https://www.doublethreatchartersyeppoon.com.au/"],"text":true,"max":16,"follow":true},
+ {"slug":"australiana-charters","pages":["https://www.australianacharters.com.au/"],"text":true,"max":16,"follow":true},
+ {"slug":"kanimbla-charters","pages":["https://www.kanimblacharters.net.au/"],"text":true,"max":12,"follow":true},
+ {"slug":"research-yeppoon-dir2","pages":["https://www.smarterfishingcharters.com.au/charters/region/4703?locale=Yeppoon","https://www.smarterfishingcharters.com.au/charters/details/364"],"text":true,"max":0,"follow":false},
+ {"slug":"rainbow-beach-fishing-charters","pages":["https://rainbowbeachfishing.squarespace.com/","https://rainbowbeachfishing.com/"],"text":true,"max":16,"follow":true},
+ {"slug":"keely-rose-fishing-charters","pages":["https://keelyrosefishingcharters.com.au/"],"text":true,"max":16,"follow":true},
+ {"slug":"research-rainbow-dir2","pages":["https://tackleworldrainbow.com.au/pages/fishing-charters","https://www.smarterfishingcharters.com.au/charters/region/4581?locale=Rainbow+Beach"],"text":true,"max":0,"follow":false}
+]}
