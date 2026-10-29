@@ -1,0 +1,12 @@
+{"requests":[
+ {"slug":"mousies-barra-and-bluewater","text":true,"max":16,"follow":true,"pages":["https://www.mousiesbarra.com.au/"]},
+ {"slug":"daly-river-barra-resort","text":true,"max":16,"follow":true,"pages":["https://www.dalyriverbarra.com.au/"]},
+ {"slug":"research-nt-gulf-retry","text":true,"max":0,"follow":false,"pages":[
+  "http://www.mccarthurrivercharters.com.au/",
+  "https://mccarthurrivercharters.com.au/",
+  "http://mcarthurrivercharters.com.au/",
+  "https://www.visitkatherine.com.au/daly-river-barra-resort",
+  "https://www.tiwiislandadventures.com.au/",
+  "http://tiwiislandadventures.com.au/"
+ ]}
+]}
