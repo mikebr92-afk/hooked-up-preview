@@ -1,0 +1,77 @@
+{
+  "slug": "kurrimine-boat-hire-fishing-charters",
+  "request_hash": "fd0f1d34cbb2",
+  "collected_at": "2026-10-29T19:27:46.595Z",
+  "pages_fetched": [
+    "http://kurrimineboathire.com.au/",
+    "https://kurrimineboathire.com.au/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://img1.wsimg.com/isteam/ip/4a89ec7f-ee51-4323-8264-3fb163e68702/boats%201.jpg",
+      "page": "http://kurrimineboathire.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 1240,
+      "height": 619,
+      "original": "1240x619",
+      "source": "https://img1.wsimg.com/isteam/stock/115095/:/cr=t:12.49%25,l:0%25,w:100%25,h:75.02%25/rs=w:1240,h:620,cg:true",
+      "page": "http://kurrimineboathire.com.au/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "http://kurrimineboathire.com.au/",
+      "status": 200,
+      "final_url": "https://kurrimineboathire.com.au/",
+      "bytes": 161564
+    },
+    {
+      "page": "https://kurrimineboathire.com.au/",
+      "status": 200,
+      "final_url": "https://kurrimineboathire.com.au/",
+      "bytes": 161564
+    },
+    {
+      "dup": "https://img1.wsimg.com/isteam/ip/4a89ec7f-ee51-4323-8264-3fb163e68702/boats%201.jpg/:/"
+    },
+    {
+      "image": "h:1015",
+      "error": "fetch failed"
+    },
+    {
+      "image": "h:1726",
+      "error": "fetch failed"
+    },
+    {
+      "image": "h:1535",
+      "error": "fetch failed"
+    },
+    {
+      "image": "h:1476",
+      "error": "fetch failed"
+    },
+    {
+      "image": "h:1740",
+      "error": "fetch failed"
+    },
+    {
+      "image": "h:1920",
+      "error": "fetch failed"
+    },
+    {
+      "image": "cg:true",
+      "error": "fetch failed"
+    },
+    {
+      "dup": "http://img1.wsimg.com/isteam/ip/4a89ec7f-ee51-4323-8264-3fb163e68702/boats%201.jpg"
+    }
+  ]
+}

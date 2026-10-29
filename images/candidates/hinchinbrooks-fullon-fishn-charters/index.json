@@ -1,0 +1,223 @@
+{
+  "slug": "hinchinbrooks-fullon-fishn-charters",
+  "request_hash": "9729b8357314",
+  "collected_at": "2026-10-29T19:28:27.369Z",
+  "pages_fetched": [
+    "https://fullonfishn.com.au/",
+    "https://fullonfishn.com.au/nathan-kemp-charter/",
+    "https://fullonfishn.com.au/charter-faq/",
+    "https://fullonfishn.com.au/contact/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1579,
+      "height": 1579,
+      "original": "1579x1579",
+      "source": "https://fullonfishn.com.au/wp-content/uploads/2025/03/zoew.jpg",
+      "page": "https://fullonfishn.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 2000,
+      "height": 667,
+      "original": "2057x686",
+      "source": "https://fullonfishn.com.au/wp-content/uploads/2025/02/pano-copy.webp",
+      "page": "https://fullonfishn.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1348,
+      "height": 2000,
+      "original": "1380x2048",
+      "source": "https://fullonfishn.com.au/wp-content/uploads/2025/07/518361478_10163510004481779_5500574623349650008_n.jpg",
+      "page": "https://fullonfishn.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 800,
+      "height": 600,
+      "original": "800x600",
+      "source": "https://fullonfishn.com.au/wp-content/uploads/2025/02/site2.jpg",
+      "page": "https://fullonfishn.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 960,
+      "height": 720,
+      "original": "960x720",
+      "source": "https://fullonfishn.com.au/wp-content/uploads/2025/02/nathan-scotty.jpg",
+      "page": "https://fullonfishn.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 960,
+      "height": 721,
+      "original": "960x721",
+      "source": "https://fullonfishn.com.au/wp-content/uploads/2025/02/nathans-boat.jpg",
+      "page": "https://fullonfishn.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 750,
+      "height": 479,
+      "original": "750x479",
+      "source": "https://fullonfishn.com.au/wp-content/uploads/2025/03/nathan.jpg",
+      "page": "https://fullonfishn.com.au/nathan-kemp-charter/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://fullonfishn.com.au/",
+      "status": 200,
+      "final_url": "https://fullonfishn.com.au/",
+      "bytes": 118304
+    },
+    {
+      "page": "https://fullonfishn.com.au/nathan-kemp-charter/",
+      "status": 200,
+      "final_url": "https://fullonfishn.com.au/nathan-kemp-charter/",
+      "bytes": 56658
+    },
+    {
+      "page": "https://fullonfishn.com.au/charter-faq/",
+      "status": 200,
+      "final_url": "https://fullonfishn.com.au/charter-faq/",
+      "bytes": 70977
+    },
+    {
+      "page": "https://fullonfishn.com.au/contact/",
+      "status": 200,
+      "final_url": "https://fullonfishn.com.au/contact/",
+      "bytes": 45742
+    },
+    {
+      "image": "https://fullonfishn.com.au/template-images/header-facebook.png",
+      "error": "too small 28x28"
+    },
+    {
+      "image": "https://fullonfishn.com.au/template-images/header-instagram.png",
+      "error": "too small 28x28"
+    },
+    {
+      "image": "https://fullonfishn.com.au/template-images/header-tiktok.png",
+      "error": "too small 28x28"
+    },
+    {
+      "image": "https://fullonfishn.com.au/template-images/header-email.png",
+      "error": "too small 28x28"
+    },
+    {
+      "image": "https://fullonfishn.com.au/template-images/header-phone.png",
+      "error": "fetch failed"
+    },
+    {
+      "image": "https://fullonfishn.com.au/wp-content/uploads/2025/02/panel-barra-estuary.png",
+      "error": "too small 200x90"
+    },
+    {
+      "image": "https://fullonfishn.com.au/wp-content/uploads/2025/02/panel-experienced-guide.png",
+      "error": "too small 200x90"
+    },
+    {
+      "image": "https://fullonfishn.com.au/wp-content/uploads/2025/02/panel-latest-tech.png",
+      "error": "too small 200x90"
+    },
+    {
+      "image": "https://fullonfishn.com.au/wp-content/uploads/2025/03/dale-lewis-barra-small.jpg",
+      "error": "too small 424x318"
+    },
+    {
+      "image": "https://fullonfishn.com.au/wp-content/uploads/2025/03/scott-hillier-small.jpg",
+      "error": "too small 424x318"
+    },
+    {
+      "image": "https://fullonfishn.com.au/wp-content/uploads/2025/03/tv-weekender.png",
+      "error": "too small 343x150"
+    },
+    {
+      "image": "https://fullonfishn.com.au/wp-content/uploads/2025/03/tv-creekcoast.jpg",
+      "error": "too small 247x150"
+    },
+    {
+      "image": "https://fullonfishn.com.au/wp-content/uploads/2025/03/tv-escape.jpg",
+      "error": "too small 190x150"
+    },
+    {
+      "image": "https://fullonfishn.com.au/wp-content/uploads/2025/02/cropped-bara.jpg",
+      "error": "too small 512x512"
+    },
+    {
+      "image": "https://fullonfishn.com.au/wp-content/uploads/2025/02/cropped-bara-32x32.jpg",
+      "error": "too small 32x32"
+    },
+    {
+      "image": "https://fullonfishn.com.au/wp-content/uploads/2025/02/cropped-bara-192x192.jpg",
+      "error": "too small 192x192"
+    },
+    {
+      "image": "https://fullonfishn.com.au/wp-content/uploads/2025/02/cropped-bara-180x180.jpg",
+      "error": "too small 180x180"
+    },
+    {
+      "image": "https://fullonfishn.com.au/wp-content/uploads/2025/02/cropped-bara-270x270.jpg",
+      "error": "too small 270x270"
+    },
+    {
+      "dup": "https://fullonfishn.com.au/wp-content/uploads/2025/03/zoew-700x700.jpg"
+    },
+    {
+      "dup": "https://fullonfishn.com.au/wp-content/uploads/2025/03/zoew-1400x1400.jpg"
+    },
+    {
+      "image": "https://fullonfishn.com.au/wp-content/uploads/2025/03/zoew-350x350.jpg",
+      "error": "too small 350x350"
+    },
+    {
+      "dup": "https://fullonfishn.com.au/wp-content/uploads/2025/03/zoew-768x768.jpg"
+    },
+    {
+      "dup": "https://fullonfishn.com.au/wp-content/uploads/2025/03/zoew-1536x1536.jpg"
+    },
+    {
+      "image": "https://fullonfishn.com.au/wp-content/uploads/2025/03/zoew-75x75.jpg",
+      "error": "too small 75x75"
+    },
+    {
+      "dup": "https://fullonfishn.com.au/wp-content/uploads/2025/02/site2-700x525.jpg"
+    },
+    {
+      "dup": "https://fullonfishn.com.au/wp-content/uploads/2025/02/site2-768x576.jpg"
+    },
+    {
+      "image": "https://fullonfishn.com.au/wp-content/uploads/2025/03/output_image.jpeg",
+      "error": "banner/strip 1920x450"
+    },
+    {
+      "dup": "https://fullonfishn.com.au/wp-content/uploads/2025/03/nathan-700x447.jpg"
+    },
+    {
+      "image": "https://fullonfishn.com.au/wp-content/uploads/2025/03/slide3.webp",
+      "error": "banner/strip 1920x452"
+    },
+    {
+      "image": "https://fullonfishn.com.au/wp-content/uploads/2025/03/contact.webp",
+      "error": "banner/strip 1920x453"
+    },
+    {
+      "image": "https://fullonfishn.com.au/wp-content/uploads/2025/03/contact-phone.png",
+      "error": "too small 24x24"
+    },
+    {
+      "image": "https://fullonfishn.com.au/wp-content/uploads/2025/03/contact-email.png",
+      "error": "too small 24x24"
+    }
+  ]
+}

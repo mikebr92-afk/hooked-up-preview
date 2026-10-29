@@ -1,0 +1,22 @@
+{
+  "slug": "hooked-up-fishing-adventures",
+  "request_hash": "978a2ae59445",
+  "collected_at": "2026-10-29T19:27:42.564Z",
+  "pages_fetched": [
+    "https://www.missionbeachfishing.com.au/",
+    "http://missionbeachfishing.com.au/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.missionbeachfishing.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "http://missionbeachfishing.com.au/",
+      "status": 200,
+      "final_url": "http://missionbeachfishing.com.au/cgi-sys/suspendedpage.cgi",
+      "bytes": 7646
+    }
+  ]
+}

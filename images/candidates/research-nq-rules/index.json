@@ -1,0 +1,36 @@
+{
+  "slug": "research-nq-rules",
+  "request_hash": "4c4b6940878e",
+  "collected_at": "2026-10-29T19:27:40.721Z",
+  "pages_fetched": [
+    "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/rules/closed-seasons",
+    "https://www2.gbrmpa.gov.au/access/zoning",
+    "https://www.qld.gov.au/environment/plants-animals/animals/living-with-wildlife/crocodiles",
+    "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/rules/limits-tidal"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/rules/closed-seasons",
+      "status": 404,
+      "final_url": "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/rules/closed-seasons",
+      "bytes": 177838
+    },
+    {
+      "page": "https://www2.gbrmpa.gov.au/access/zoning",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "page": "https://www.qld.gov.au/environment/plants-animals/animals/living-with-wildlife/crocodiles",
+      "status": 404,
+      "final_url": "https://www.qld.gov.au/environment/plants-animals/animals/living-with-wildlife/crocodiles",
+      "bytes": 177838
+    },
+    {
+      "page": "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/rules/limits-tidal",
+      "status": 200,
+      "final_url": "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/rules/limits-tidal",
+      "bytes": 247762
+    }
+  ]
+}

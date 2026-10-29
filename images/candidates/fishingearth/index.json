@@ -1,0 +1,196 @@
+{
+  "slug": "fishingearth",
+  "request_hash": "891edf8cee50",
+  "collected_at": "2026-10-29T19:28:15.145Z",
+  "pages_fetched": [
+    "https://www.fishingearth.com/",
+    "https://fishingearth.com/gd-login/?forgot=1",
+    "https://fishingearth.com/",
+    "https://fishingearth.com/about-us/",
+    "https://fishingearth.com/fishing-experiences/",
+    "https://fishingearth.com/journeys",
+    "https://fishingearth.com/fish-species",
+    "https://fishingearth.com/gt/",
+    "https://fishingearth.com/permit/",
+    "https://fishingearth.com/barra/",
+    "https://fishingearth.com/black-jewfish/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1920,
+      "height": 1440,
+      "original": "1920x1440",
+      "source": "https://fishingearth.com/wp-content/uploads/2018/05/35_1-2.jpg",
+      "page": "https://www.fishingearth.com/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 1920,
+      "height": 1280,
+      "original": "1920x1280",
+      "source": "https://fishingearth.com/wp-content/uploads/2018/07/300_FishingEarth-Sunset-Albany-Island-Cape-York-Gille.jpg",
+      "page": "https://www.fishingearth.com/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1920,
+      "height": 962,
+      "original": "1920x962",
+      "source": "https://fishingearth.com/wp-content/uploads/2018/06/342_15800819_1106416956137810_2649237833803945894_o.jpg",
+      "page": "https://www.fishingearth.com/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1920,
+      "height": 1280,
+      "original": "1920x1280",
+      "source": "https://fishingearth.com/wp-content/uploads/2018/08/672_Dhipirri-Barramundi-Sportfishing-Lodge-7.jpg",
+      "page": "https://www.fishingearth.com/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1280,
+      "height": 720,
+      "original": "1280x720",
+      "source": "https://fishingearth.com/wp-content/uploads/2025/07/48543_DJI_20250516190532_0216_D.jpeg",
+      "page": "https://www.fishingearth.com/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1225,
+      "height": 790,
+      "original": "1225x790",
+      "source": "https://fishingearth.com/wp-content/uploads/2025/04/48158_Screenshot-2025-04-11-at-09.31.55.png",
+      "page": "https://www.fishingearth.com/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1920,
+      "height": 800,
+      "original": "1920x800",
+      "source": "https://fishingearth.com/wp-content/uploads/2019/03/1171_22459121_10155232000412515_8010947126606352790_o.jpg",
+      "page": "https://www.fishingearth.com/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1280,
+      "height": 852,
+      "original": "1280x852",
+      "source": "https://fishingearth.com/wp-content/uploads/2024/07/31272_Albany-Island-Sports-Fishing-.-_HAL0222-3.jpeg",
+      "page": "https://www.fishingearth.com/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1280,
+      "height": 960,
+      "original": "1280x960",
+      "source": "https://fishingearth.com/wp-content/uploads/2024/05/29929_IMG_7231.jpeg",
+      "page": "https://www.fishingearth.com/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1280,
+      "height": 720,
+      "original": "1280x720",
+      "source": "https://fishingearth.com/wp-content/uploads/2024/05/29571_Fishing-Earth-Sports-Fishing-Coral-Sea-Torres-Strait-IslandsDJI_20231208112240_0022_D.jpeg",
+      "page": "https://www.fishingearth.com/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1280,
+      "height": 1280,
+      "original": "1280x1280",
+      "source": "https://fishingearth.com/wp-content/uploads/2024/03/27923_0711EAEE-B51F-4459-AC6B-A8D2DB805FE5.jpeg",
+      "page": "https://www.fishingearth.com/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1280,
+      "height": 853,
+      "original": "1280x853",
+      "source": "https://fishingearth.com/wp-content/uploads/2018/07/40_Melville-Island-FishingEarth.jpg",
+      "page": "https://fishingearth.com/about-us/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.fishingearth.com/",
+      "status": 200,
+      "final_url": "https://fishingearth.com/",
+      "bytes": 126035
+    },
+    {
+      "page": "https://fishingearth.com/gd-login/?forgot=1",
+      "status": 200,
+      "final_url": "https://fishingearth.com/gd-login/?forgot=1",
+      "bytes": 85408
+    },
+    {
+      "page": "https://fishingearth.com/",
+      "status": 200,
+      "final_url": "https://fishingearth.com/",
+      "bytes": 126035
+    },
+    {
+      "page": "https://fishingearth.com/about-us/",
+      "status": 200,
+      "final_url": "https://fishingearth.com/about-us/",
+      "bytes": 114111
+    },
+    {
+      "page": "https://fishingearth.com/fishing-experiences/",
+      "status": 200,
+      "final_url": "https://fishingearth.com/fishing-experiences/",
+      "bytes": 133959
+    },
+    {
+      "page": "https://fishingearth.com/journeys",
+      "status": 200,
+      "final_url": "https://fishingearth.com/journeys/",
+      "bytes": 130463
+    },
+    {
+      "page": "https://fishingearth.com/fish-species",
+      "status": 200,
+      "final_url": "https://fishingearth.com/fish-species/",
+      "bytes": 94795
+    },
+    {
+      "page": "https://fishingearth.com/gt/",
+      "status": 200,
+      "final_url": "https://fishingearth.com/gt/",
+      "bytes": 126046
+    },
+    {
+      "page": "https://fishingearth.com/permit/",
+      "status": 200,
+      "final_url": "https://fishingearth.com/permit/",
+      "bytes": 121777
+    },
+    {
+      "page": "https://fishingearth.com/barra/",
+      "status": 200,
+      "final_url": "https://fishingearth.com/barra/",
+      "bytes": 101563
+    },
+    {
+      "page": "https://fishingearth.com/black-jewfish/",
+      "status": 200,
+      "final_url": "https://fishingearth.com/black-jewfish/",
+      "bytes": 101778
+    }
+  ]
+}

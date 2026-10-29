@@ -1,45 +1,77 @@
 {
-  "finished_at": "2026-10-29T19:23:55.745Z",
+  "finished_at": "2026-10-29T19:28:27.528Z",
   "summary": [
     {
       "slug": "research-nq-bowen",
-      "candidates": 0,
-      "pages": 7
+      "skipped": true
     },
     {
       "slug": "research-nq-fb-dest",
-      "candidates": 0,
-      "pages": 8
+      "skipped": true
     },
     {
       "slug": "research-nq-mission",
+      "skipped": true
+    },
+    {
+      "slug": "research-nq-cooktown",
+      "skipped": true
+    },
+    {
+      "slug": "research-nq-hinch",
+      "skipped": true
+    },
+    {
+      "slug": "gone-fishing-cooktown",
+      "skipped": true
+    },
+    {
+      "slug": "cooktown-reef-charters",
+      "skipped": true
+    },
+    {
+      "slug": "ian-moody-sportfishing-charters",
+      "skipped": true
+    },
+    {
+      "slug": "research-nq-bowen2",
       "candidates": 0,
       "pages": 6
     },
     {
-      "slug": "research-nq-cooktown",
+      "slug": "research-nq-cooktown2",
       "candidates": 0,
       "pages": 8
     },
     {
-      "slug": "research-nq-hinch",
+      "slug": "research-nq-rules",
       "candidates": 0,
-      "pages": 6
+      "pages": 4
     },
     {
-      "slug": "gone-fishing-cooktown",
-      "candidates": 16,
-      "pages": 12
-    },
-    {
-      "slug": "cooktown-reef-charters",
+      "slug": "hooked-up-fishing-adventures",
       "candidates": 0,
       "pages": 2
     },
     {
-      "slug": "ian-moody-sportfishing-charters",
-      "candidates": 16,
-      "pages": 6
+      "slug": "kurrimine-boat-hire-fishing-charters",
+      "candidates": 2,
+      "pages": 2
+    },
+    {
+      "slug": "fishingearth",
+      "candidates": 12,
+      "pages": 11
+    },
+    {
+      "slug": "hinchinbrooks-fullon-fishn-charters",
+      "candidates": 7,
+      "pages": 4
+    },
+    {
+      "slug": "cooktown-reef-charters",
+      "candidates": 0,
+      "pages": 1
     }
   ]
 }

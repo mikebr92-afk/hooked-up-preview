@@ -1,0 +1,52 @@
+{
+  "slug": "research-nq-bowen2",
+  "request_hash": "f2f3ee53f90f",
+  "collected_at": "2026-10-29T19:27:08.602Z",
+  "pages_fetched": [
+    "https://www.tourismbowen.com.au/2-uncategorised/342-bowen-business-directory",
+    "https://www.tourismbowen.com.au/bowen-creek-fishing",
+    "https://www.tourismbowen.com.au/",
+    "https://parks.qld.gov.au/parks/holbourne-island/things-to-do",
+    "https://www.queensland.com/us/en/things-to-do/attractions/p-56d917d0af985ae47c84dd86-bowen-creek-fishing",
+    "https://www.fishingspots.com.au/s/bowen-gloucester/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.tourismbowen.com.au/2-uncategorised/342-bowen-business-directory",
+      "status": 404,
+      "final_url": "https://www.tourismbowen.com.au/2-uncategorised/342-bowen-business-directory",
+      "bytes": 62347
+    },
+    {
+      "page": "https://www.tourismbowen.com.au/bowen-creek-fishing",
+      "status": 404,
+      "final_url": "https://www.tourismbowen.com.au/bowen-creek-fishing",
+      "bytes": 62347
+    },
+    {
+      "page": "https://www.tourismbowen.com.au/",
+      "status": 200,
+      "final_url": "https://www.tourismbowen.com.au/",
+      "bytes": 466613
+    },
+    {
+      "page": "https://parks.qld.gov.au/parks/holbourne-island/things-to-do",
+      "status": 403,
+      "final_url": "https://parks.qld.gov.au/parks/holbourne-island/things-to-do",
+      "bytes": 5906
+    },
+    {
+      "page": "https://www.queensland.com/us/en/things-to-do/attractions/p-56d917d0af985ae47c84dd86-bowen-creek-fishing",
+      "status": 200,
+      "final_url": "https://www.queensland.com/us/en/things-to-do/attractions/p-56d917d0af985ae47c84dd86-bowen-creek-fishing",
+      "bytes": 17089
+    },
+    {
+      "page": "https://www.fishingspots.com.au/s/bowen-gloucester/",
+      "status": 200,
+      "final_url": "https://www.fishingspots.com.au/s/bowen-gloucester/",
+      "bytes": 86032
+    }
+  ]
+}

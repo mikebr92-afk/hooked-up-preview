@@ -1,0 +1,66 @@
+{
+  "slug": "research-nq-cooktown2",
+  "request_hash": "2ccfa113df01",
+  "collected_at": "2026-10-29T19:27:10.989Z",
+  "pages_fetched": [
+    "https://australian.com/?p=3717136",
+    "https://www.tripadvisor.com.au/Attraction_Review-g499647-d8121849-Reviews-Cooktown_Barra_Charters-Cooktown_Cook_Shire_Queensland.html",
+    "https://www.tripadvisor.com/Attraction_Review-g499647-d23313509-Reviews-Cooktown_Bluewater_Charters-Cooktown_Cook_Shire_Queensland.html",
+    "https://www.cooktownandcapeyork.com/do/fishing/fishing",
+    "https://www.cooktownandcapeyork.com/do/fishing/snorkelling-trips",
+    "https://parks.qld.gov.au/parks/lizard-island/visiting-safely",
+    "https://tropicalnorthqueensland.org.au/articles/fishing-in-the-tropics/",
+    "https://www.lizardisland.com.au/experiences/bella/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://australian.com/?p=3717136",
+      "status": 200,
+      "final_url": "https://www.australian.com/?p=3717136",
+      "bytes": 141795
+    },
+    {
+      "page": "https://www.tripadvisor.com.au/Attraction_Review-g499647-d8121849-Reviews-Cooktown_Barra_Charters-Cooktown_Cook_Shire_Queensland.html",
+      "status": 403,
+      "final_url": "https://www.tripadvisor.com.au/Attraction_Review-g499647-d8121849-Reviews-Cooktown_Barra_Charters-Cooktown_Cook_Shire_Queensland.html",
+      "bytes": 778
+    },
+    {
+      "page": "https://www.tripadvisor.com/Attraction_Review-g499647-d23313509-Reviews-Cooktown_Bluewater_Charters-Cooktown_Cook_Shire_Queensland.html",
+      "status": 403,
+      "final_url": "https://www.tripadvisor.com/Attraction_Review-g499647-d23313509-Reviews-Cooktown_Bluewater_Charters-Cooktown_Cook_Shire_Queensland.html",
+      "bytes": 775
+    },
+    {
+      "page": "https://www.cooktownandcapeyork.com/do/fishing/fishing",
+      "status": 200,
+      "final_url": "https://www.cooktownandcapeyork.com/do/fishing/fishing",
+      "bytes": 54955
+    },
+    {
+      "page": "https://www.cooktownandcapeyork.com/do/fishing/snorkelling-trips",
+      "status": 200,
+      "final_url": "https://www.cooktownandcapeyork.com/do/fishing/snorkelling-trips",
+      "bytes": 46521
+    },
+    {
+      "page": "https://parks.qld.gov.au/parks/lizard-island/visiting-safely",
+      "status": 403,
+      "final_url": "https://parks.qld.gov.au/parks/lizard-island/visiting-safely",
+      "bytes": 5906
+    },
+    {
+      "page": "https://tropicalnorthqueensland.org.au/articles/fishing-in-the-tropics/",
+      "status": 403,
+      "final_url": "https://tropicalnorthqueensland.org.au/articles/fishing-in-the-tropics/",
+      "bytes": 5932
+    },
+    {
+      "page": "https://www.lizardisland.com.au/experiences/bella/",
+      "status": 404,
+      "final_url": "https://www.lizardisland.com.au/experiences/bella/",
+      "bytes": 80514
+    }
+  ]
+}
