@@ -1,0 +1,37 @@
+{
+ "requests": [
+  {
+   "slug": "research-r7",
+   "pages": [
+    "https://visitnsw.com/things-to-do/tours/wildside-sportfishing/full-day-fishing-tour",
+    "https://macleayvalleycoast.com.au/tours/wildside-sportfishing",
+    "https://playsport.com/kcsfishingcharters_ag_140e04b2",
+    "https://r.jina.ai/https://experiencejervisbay.com.au/things-to-do/jb-fishing-charters/",
+    "https://r.jina.ai/https://www.dpi.nsw.gov.au/fishing/recreational/resources/info/fishing-locations/go-fishing-lake-macquarie",
+    "https://r.jina.ai/https://www.dpi.nsw.gov.au/fishing/recreational/resources/artificial-reef/ballina-offshore-artificial-reef"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  },
+  {
+   "slug": "freedom-charters-eden",
+   "pages": [
+    "https://freedomcharters.com.au/",
+    "https://www.freedomcharters.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "simos-afloat-fishing-charters",
+   "pages": [
+    "http://www.simosafloat.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  }
+ ]
+}
