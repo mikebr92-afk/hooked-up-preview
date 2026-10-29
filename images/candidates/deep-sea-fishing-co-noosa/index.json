@@ -1,0 +1,94 @@
+{
+  "slug": "deep-sea-fishing-co-noosa",
+  "request_hash": "d4573a40385f",
+  "collected_at": "2026-10-29T19:55:54.388Z",
+  "pages_fetched": [
+    "https://www.deepseafishingco.com.au/",
+    "https://www.deepseafishingco.com.au/fishing-charters/",
+    "https://www.deepseafishingco.com.au/about-us/",
+    "https://www.deepseafishingco.com.au/contact-us/",
+    "https://www.deepseafishingco.com.au/gallery/",
+    "https://www.deepseafishingco.com.au/blog/",
+    "https://www.deepseafishingco.com.au/deep-sea-fishing-co-noosa-5/",
+    "https://www.deepseafishingco.com.au/easter-school-holidays-with-dsfcn/",
+    "https://www.deepseafishingco.com.au/a-true-offshore-deep-sea-adventure-with-deep-sea-fishing-co-noosa/",
+    "https://www.deepseafishingco.com.au/your-ultimate-christmas-gift-guide-give-the-gift-of-deep-sea-fishing/",
+    "https://www.deepseafishingco.com.au/booking-and-refund-policy/",
+    "https://www.deepseafishingco.com.au/privacy-policy/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.deepseafishingco.com.au/",
+      "status": 200,
+      "final_url": "https://www.deepseafishingco.com.au/",
+      "bytes": 195073
+    },
+    {
+      "page": "https://www.deepseafishingco.com.au/fishing-charters/",
+      "status": 200,
+      "final_url": "https://www.deepseafishingco.com.au/fishing-charters/",
+      "bytes": 129977
+    },
+    {
+      "page": "https://www.deepseafishingco.com.au/about-us/",
+      "status": 200,
+      "final_url": "https://www.deepseafishingco.com.au/about-us/",
+      "bytes": 86623
+    },
+    {
+      "page": "https://www.deepseafishingco.com.au/contact-us/",
+      "status": 200,
+      "final_url": "https://www.deepseafishingco.com.au/contact-us/",
+      "bytes": 109499
+    },
+    {
+      "page": "https://www.deepseafishingco.com.au/gallery/",
+      "status": 200,
+      "final_url": "https://www.deepseafishingco.com.au/gallery/",
+      "bytes": 183680
+    },
+    {
+      "page": "https://www.deepseafishingco.com.au/blog/",
+      "status": 200,
+      "final_url": "https://www.deepseafishingco.com.au/blog/",
+      "bytes": 128248
+    },
+    {
+      "page": "https://www.deepseafishingco.com.au/deep-sea-fishing-co-noosa-5/",
+      "status": 200,
+      "final_url": "https://www.deepseafishingco.com.au/deep-sea-fishing-co-noosa-5/",
+      "bytes": 125432
+    },
+    {
+      "page": "https://www.deepseafishingco.com.au/easter-school-holidays-with-dsfcn/",
+      "status": 200,
+      "final_url": "https://www.deepseafishingco.com.au/easter-school-holidays-with-dsfcn/",
+      "bytes": 124327
+    },
+    {
+      "page": "https://www.deepseafishingco.com.au/a-true-offshore-deep-sea-adventure-with-deep-sea-fishing-co-noosa/",
+      "status": 200,
+      "final_url": "https://www.deepseafishingco.com.au/a-true-offshore-deep-sea-adventure-with-deep-sea-fishing-co-noosa/",
+      "bytes": 126391
+    },
+    {
+      "page": "https://www.deepseafishingco.com.au/your-ultimate-christmas-gift-guide-give-the-gift-of-deep-sea-fishing/",
+      "status": 200,
+      "final_url": "https://www.deepseafishingco.com.au/your-ultimate-christmas-gift-guide-give-the-gift-of-deep-sea-fishing/",
+      "bytes": 126570
+    },
+    {
+      "page": "https://www.deepseafishingco.com.au/booking-and-refund-policy/",
+      "status": 200,
+      "final_url": "https://www.deepseafishingco.com.au/booking-and-refund-policy/",
+      "bytes": 76659
+    },
+    {
+      "page": "https://www.deepseafishingco.com.au/privacy-policy/",
+      "status": 200,
+      "final_url": "https://www.deepseafishingco.com.au/privacy-policy/",
+      "bytes": 104398
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "slug": "hooker-1-fishing-charters-gold-coast",
+  "request_hash": "e55790ebb4e4",
+  "collected_at": "2026-10-29T19:54:41.603Z",
+  "pages_fetched": [
+    "https://goldcoastfishingtrips.net.au/",
+    "https://goldcoastfishingtrips.net.au/our-packages/",
+    "https://goldcoastfishingtrips.net.au/about-us/",
+    "https://goldcoastfishingtrips.net.au/terms-conditions/",
+    "https://goldcoastfishingtrips.net.au/contact-us/",
+    "https://goldcoastfishingtrips.net.au/marine-activities/",
+    "https://goldcoastfishingtrips.net.au/blog/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://goldcoastfishingtrips.net.au/",
+      "status": 200,
+      "final_url": "https://goldcoastfishingtrips.net.au/",
+      "bytes": 703501
+    },
+    {
+      "page": "https://goldcoastfishingtrips.net.au/our-packages/",
+      "status": 200,
+      "final_url": "https://goldcoastfishingtrips.net.au/our-packages/",
+      "bytes": 436223
+    },
+    {
+      "page": "https://goldcoastfishingtrips.net.au/about-us/",
+      "status": 200,
+      "final_url": "https://goldcoastfishingtrips.net.au/about-us/",
+      "bytes": 669907
+    },
+    {
+      "page": "https://goldcoastfishingtrips.net.au/terms-conditions/",
+      "status": 200,
+      "final_url": "https://goldcoastfishingtrips.net.au/terms-conditions/",
+      "bytes": 404195
+    },
+    {
+      "page": "https://goldcoastfishingtrips.net.au/contact-us/",
+      "status": 200,
+      "final_url": "https://goldcoastfishingtrips.net.au/contact-us/",
+      "bytes": 581846
+    },
+    {
+      "page": "https://goldcoastfishingtrips.net.au/marine-activities/",
+      "status": 200,
+      "final_url": "https://goldcoastfishingtrips.net.au/marine-activities/",
+      "bytes": 510883
+    },
+    {
+      "page": "https://goldcoastfishingtrips.net.au/blog/",
+      "status": 200,
+      "final_url": "https://goldcoastfishingtrips.net.au/blog/",
+      "bytes": 580435
+    }
+  ]
+}

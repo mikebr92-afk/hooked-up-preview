@@ -1,0 +1,17 @@
+{
+  "slug": "double-threat-charters-yeppoon-ext",
+  "request_hash": "b34972731384",
+  "collected_at": "2026-10-29T19:52:48.829Z",
+  "pages_fetched": [
+    "https://www.facebook.com/doublethreatchartersyeppoon/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.facebook.com/doublethreatchartersyeppoon/",
+      "status": 400,
+      "final_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fdoublethreatchartersyeppoon%2F",
+      "bytes": 1542
+    }
+  ]
+}

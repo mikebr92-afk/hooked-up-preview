@@ -1,0 +1,17 @@
+{
+  "slug": "kanimbla-charters-yeppoon-ext",
+  "request_hash": "fe3e389c09eb",
+  "collected_at": "2026-10-29T19:52:48.927Z",
+  "pages_fetched": [
+    "https://www.facebook.com/kanimblacharters"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.facebook.com/kanimblacharters",
+      "status": 400,
+      "final_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fkanimblacharters",
+      "bytes": 1542
+    }
+  ]
+}

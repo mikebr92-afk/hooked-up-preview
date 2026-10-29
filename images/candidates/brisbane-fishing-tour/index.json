@@ -1,0 +1,66 @@
+{
+  "slug": "brisbane-fishing-tour",
+  "request_hash": "a395f42128e5",
+  "collected_at": "2026-10-29T19:54:10.791Z",
+  "pages_fetched": [
+    "https://www.brisbanefishingtour.com.au/",
+    "https://www.brisbanefishingtour.com.au/book-online",
+    "https://www.brisbanefishingtour.com.au/booking-calendar/6-hrs-private-charter-3-4ppl",
+    "https://www.brisbanefishingtour.com.au/booking-calendar/6-hrs-private-charter-1-person",
+    "https://www.brisbanefishingtour.com.au/booking-calendar/6-hrs-private-charter-2-persons",
+    "https://www.brisbanefishingtour.com.au/booking-calendar/4-hrs-private-charter-3-4ppl",
+    "https://www.brisbanefishingtour.com.au/booking-calendar/4-hrs-private-charter-2-persons",
+    "https://www.brisbanefishingtour.com.au/booking-calendar/4-hrs-private-charter-1-person"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.brisbanefishingtour.com.au/",
+      "status": 200,
+      "final_url": "https://www.brisbanefishingtour.com.au/",
+      "bytes": 1211131
+    },
+    {
+      "page": "https://www.brisbanefishingtour.com.au/book-online",
+      "status": 200,
+      "final_url": "https://www.brisbanefishingtour.com.au/book-online",
+      "bytes": 906698
+    },
+    {
+      "page": "https://www.brisbanefishingtour.com.au/booking-calendar/6-hrs-private-charter-3-4ppl",
+      "status": 200,
+      "final_url": "https://www.brisbanefishingtour.com.au/booking-calendar/6-hrs-private-charter-3-4ppl",
+      "bytes": 1219204
+    },
+    {
+      "page": "https://www.brisbanefishingtour.com.au/booking-calendar/6-hrs-private-charter-1-person",
+      "status": 200,
+      "final_url": "https://www.brisbanefishingtour.com.au/booking-calendar/6-hrs-private-charter-1-person",
+      "bytes": 1217778
+    },
+    {
+      "page": "https://www.brisbanefishingtour.com.au/booking-calendar/6-hrs-private-charter-2-persons",
+      "status": 200,
+      "final_url": "https://www.brisbanefishingtour.com.au/booking-calendar/6-hrs-private-charter-2-persons",
+      "bytes": 1218642
+    },
+    {
+      "page": "https://www.brisbanefishingtour.com.au/booking-calendar/4-hrs-private-charter-3-4ppl",
+      "status": 200,
+      "final_url": "https://www.brisbanefishingtour.com.au/booking-calendar/4-hrs-private-charter-3-4ppl",
+      "bytes": 1218524
+    },
+    {
+      "page": "https://www.brisbanefishingtour.com.au/booking-calendar/4-hrs-private-charter-2-persons",
+      "status": 200,
+      "final_url": "https://www.brisbanefishingtour.com.au/booking-calendar/4-hrs-private-charter-2-persons",
+      "bytes": 1218424
+    },
+    {
+      "page": "https://www.brisbanefishingtour.com.au/booking-calendar/4-hrs-private-charter-1-person",
+      "status": 200,
+      "final_url": "https://www.brisbanefishingtour.com.au/booking-calendar/4-hrs-private-charter-1-person",
+      "bytes": 1217981
+    }
+  ]
+}

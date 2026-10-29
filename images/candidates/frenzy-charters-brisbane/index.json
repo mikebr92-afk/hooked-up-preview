@@ -1,0 +1,87 @@
+{
+  "slug": "frenzy-charters-brisbane",
+  "request_hash": "adb5ffe51dcc",
+  "collected_at": "2026-10-29T19:54:13.003Z",
+  "pages_fetched": [
+    "https://www.frenzycharters.com.au/",
+    "https://www.frenzycharters.com.au/about",
+    "https://www.frenzycharters.com.au/our_vessel",
+    "https://www.frenzycharters.com.au/conditions",
+    "https://www.frenzycharters.com.au/fishing_report",
+    "https://www.frenzycharters.com.au/site_map",
+    "https://www.frenzycharters.com.au/contact_us",
+    "https://www.frenzycharters.com.au/home",
+    "https://www.frenzycharters.com.au/snapshots",
+    "https://www.frenzycharters.com.au/links",
+    "https://www.frenzycharters.com.au/calendar"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.frenzycharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.frenzycharters.com.au/",
+      "bytes": 39926
+    },
+    {
+      "page": "https://www.frenzycharters.com.au/about",
+      "status": 200,
+      "final_url": "https://www.frenzycharters.com.au/about",
+      "bytes": 22937
+    },
+    {
+      "page": "https://www.frenzycharters.com.au/our_vessel",
+      "status": 200,
+      "final_url": "https://www.frenzycharters.com.au/our_vessel",
+      "bytes": 19877
+    },
+    {
+      "page": "https://www.frenzycharters.com.au/conditions",
+      "status": 200,
+      "final_url": "https://www.frenzycharters.com.au/conditions",
+      "bytes": 18438
+    },
+    {
+      "page": "https://www.frenzycharters.com.au/fishing_report",
+      "status": 200,
+      "final_url": "https://www.frenzycharters.com.au/fishing_report",
+      "bytes": 32169
+    },
+    {
+      "page": "https://www.frenzycharters.com.au/site_map",
+      "status": 200,
+      "final_url": "https://www.frenzycharters.com.au/site_map",
+      "bytes": 17011
+    },
+    {
+      "page": "https://www.frenzycharters.com.au/contact_us",
+      "status": 200,
+      "final_url": "https://www.frenzycharters.com.au/contact_us",
+      "bytes": 25380
+    },
+    {
+      "page": "https://www.frenzycharters.com.au/home",
+      "status": 200,
+      "final_url": "https://www.frenzycharters.com.au/home",
+      "bytes": 39926
+    },
+    {
+      "page": "https://www.frenzycharters.com.au/snapshots",
+      "status": 200,
+      "final_url": "https://www.frenzycharters.com.au/snapshots",
+      "bytes": 31959
+    },
+    {
+      "page": "https://www.frenzycharters.com.au/links",
+      "status": 200,
+      "final_url": "https://www.frenzycharters.com.au/links",
+      "bytes": 23927
+    },
+    {
+      "page": "https://www.frenzycharters.com.au/calendar",
+      "status": 200,
+      "final_url": "https://www.frenzycharters.com.au/calendar",
+      "bytes": 27488
+    }
+  ]
+}

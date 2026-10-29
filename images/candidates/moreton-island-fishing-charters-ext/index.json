@@ -1,0 +1,17 @@
+{
+  "slug": "moreton-island-fishing-charters-ext",
+  "request_hash": "21544c46a1ef",
+  "collected_at": "2026-10-29T19:52:38.961Z",
+  "pages_fetched": [
+    "https://www.facebook.com/www.moretonislandfishingcharters.com.au"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.facebook.com/www.moretonislandfishingcharters.com.au",
+      "status": 400,
+      "final_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fwww.moretonislandfishingcharters.com.au",
+      "bytes": 1542
+    }
+  ]
+}

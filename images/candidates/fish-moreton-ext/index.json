@@ -1,0 +1,24 @@
+{
+  "slug": "fish-moreton-ext",
+  "request_hash": "ba6d2080477c",
+  "collected_at": "2026-10-29T19:52:38.815Z",
+  "pages_fetched": [
+    "https://visit.brisbane.qld.au/things-to-do/moreton-bay-region/tours/fish-moreton-728e",
+    "https://www.facebook.com/profile.php?id=61576671791876"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://visit.brisbane.qld.au/things-to-do/moreton-bay-region/tours/fish-moreton-728e",
+      "status": 200,
+      "final_url": "https://visit.brisbane.qld.au/things-to-do/moreton-bay-region/tours/fish-moreton-728e",
+      "bytes": 258128
+    },
+    {
+      "page": "https://www.facebook.com/profile.php?id=61576671791876",
+      "status": 400,
+      "final_url": "https://www.facebook.com/profile.php?id=61576671791876",
+      "bytes": 1542
+    }
+  ]
+}

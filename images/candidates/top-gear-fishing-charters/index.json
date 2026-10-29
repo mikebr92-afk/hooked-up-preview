@@ -1,0 +1,80 @@
+{
+  "slug": "top-gear-fishing-charters",
+  "request_hash": "be6eb4207361",
+  "collected_at": "2026-10-29T19:54:46.366Z",
+  "pages_fetched": [
+    "https://topgearfishingcharters.com.au/",
+    "https://topgearfishingcharters.com.au/about-us/",
+    "https://topgearfishingcharters.com.au/mixed-group-charters/",
+    "https://topgearfishingcharters.com.au/private-fishing-charters/",
+    "https://topgearfishingcharters.com.au/reef-fishing-charters/",
+    "https://topgearfishingcharters.com.au/game-fishing-deep-sea-charters/",
+    "https://topgearfishingcharters.com.au/book-now/",
+    "https://topgearfishingcharters.com.au/services/",
+    "https://topgearfishingcharters.com.au/our-gallery/",
+    "https://topgearfishingcharters.com.au/reviews/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://topgearfishingcharters.com.au/",
+      "status": 200,
+      "final_url": "https://topgearfishingcharters.com.au/",
+      "bytes": 245416
+    },
+    {
+      "page": "https://topgearfishingcharters.com.au/about-us/",
+      "status": 200,
+      "final_url": "https://topgearfishingcharters.com.au/about-us/",
+      "bytes": 144522
+    },
+    {
+      "page": "https://topgearfishingcharters.com.au/mixed-group-charters/",
+      "status": 200,
+      "final_url": "https://topgearfishingcharters.com.au/mixed-group-charters/",
+      "bytes": 147128
+    },
+    {
+      "page": "https://topgearfishingcharters.com.au/private-fishing-charters/",
+      "status": 200,
+      "final_url": "https://topgearfishingcharters.com.au/private-fishing-charters/",
+      "bytes": 145155
+    },
+    {
+      "page": "https://topgearfishingcharters.com.au/reef-fishing-charters/",
+      "status": 200,
+      "final_url": "https://topgearfishingcharters.com.au/reef-fishing-charters/",
+      "bytes": 144361
+    },
+    {
+      "page": "https://topgearfishingcharters.com.au/game-fishing-deep-sea-charters/",
+      "status": 200,
+      "final_url": "https://topgearfishingcharters.com.au/game-fishing-deep-sea-charters/",
+      "bytes": 144785
+    },
+    {
+      "page": "https://topgearfishingcharters.com.au/book-now/",
+      "status": 200,
+      "final_url": "https://topgearfishingcharters.com.au/book-now/",
+      "bytes": 109544
+    },
+    {
+      "page": "https://topgearfishingcharters.com.au/services/",
+      "status": 200,
+      "final_url": "https://topgearfishingcharters.com.au/services/",
+      "bytes": 147007
+    },
+    {
+      "page": "https://topgearfishingcharters.com.au/our-gallery/",
+      "status": 200,
+      "final_url": "https://topgearfishingcharters.com.au/our-gallery/",
+      "bytes": 130639
+    },
+    {
+      "page": "https://topgearfishingcharters.com.au/reviews/",
+      "status": 200,
+      "final_url": "https://topgearfishingcharters.com.au/reviews/",
+      "bytes": 120297
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "saltwater-playground-hervey-bay-ext",
+  "request_hash": "ff959d5163e2",
+  "collected_at": "2026-10-29T19:52:47.368Z",
+  "pages_fetched": [
+    "https://www.facebook.com/profile.php?id=100093279720590",
+    "https://www.instagram.com/saltwater.playground"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.facebook.com/profile.php?id=100093279720590",
+      "status": 400,
+      "final_url": "https://www.facebook.com/profile.php?id=100093279720590",
+      "bytes": 1542
+    },
+    {
+      "page": "https://www.instagram.com/saltwater.playground",
+      "status": 429,
+      "final_url": "https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fsaltwater.playground&is_from_rle",
+      "bytes": 0
+    }
+  ]
+}

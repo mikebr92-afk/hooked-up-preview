@@ -1,0 +1,59 @@
+{
+  "slug": "saltys-fishing-charters-caloundra",
+  "request_hash": "8b6acf0a4b36",
+  "collected_at": "2026-10-29T19:56:26.721Z",
+  "pages_fetched": [
+    "https://saltyfishingcharters.com.au/",
+    "https://saltyfishingcharters.com.au/charters/",
+    "https://saltyfishingcharters.com.au/vessels/",
+    "https://saltyfishingcharters.com.au/contact-us/",
+    "https://saltyfishingcharters.com.au/coastal-bar-crossing-experience/",
+    "https://saltyfishingcharters.com.au/whale-watching-adventure/",
+    "https://saltyfishingcharters.com.au/vessels-2/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://saltyfishingcharters.com.au/",
+      "status": 200,
+      "final_url": "https://saltyfishingcharters.com.au/",
+      "bytes": 407338
+    },
+    {
+      "page": "https://saltyfishingcharters.com.au/charters/",
+      "status": 200,
+      "final_url": "https://saltyfishingcharters.com.au/charters/",
+      "bytes": 183838
+    },
+    {
+      "page": "https://saltyfishingcharters.com.au/vessels/",
+      "status": 200,
+      "final_url": "https://saltyfishingcharters.com.au/vessels/",
+      "bytes": 280632
+    },
+    {
+      "page": "https://saltyfishingcharters.com.au/contact-us/",
+      "status": 200,
+      "final_url": "https://saltyfishingcharters.com.au/contact-us/",
+      "bytes": 216835
+    },
+    {
+      "page": "https://saltyfishingcharters.com.au/coastal-bar-crossing-experience/",
+      "status": 200,
+      "final_url": "https://saltyfishingcharters.com.au/coastal-bar-crossing-experience/",
+      "bytes": 245096
+    },
+    {
+      "page": "https://saltyfishingcharters.com.au/whale-watching-adventure/",
+      "status": 200,
+      "final_url": "https://saltyfishingcharters.com.au/whale-watching-adventure/",
+      "bytes": 300345
+    },
+    {
+      "page": "https://saltyfishingcharters.com.au/vessels-2/",
+      "status": 200,
+      "final_url": "https://saltyfishingcharters.com.au/vessels-2/",
+      "bytes": 210063
+    }
+  ]
+}

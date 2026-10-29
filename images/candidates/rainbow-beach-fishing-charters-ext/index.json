@@ -1,0 +1,24 @@
+{
+  "slug": "rainbow-beach-fishing-charters-ext",
+  "request_hash": "4a4e14d52824",
+  "collected_at": "2026-10-29T19:52:48.752Z",
+  "pages_fetched": [
+    "https://www.facebook.com/rainbowbeachfishingcharters",
+    "https://www.instagram.com/rainbowbeachfishing"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.facebook.com/rainbowbeachfishingcharters",
+      "status": 400,
+      "final_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Frainbowbeachfishingcharters",
+      "bytes": 1542
+    },
+    {
+      "page": "https://www.instagram.com/rainbowbeachfishing",
+      "status": 429,
+      "final_url": "https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Frainbowbeachfishing&is_from_rle",
+      "bytes": 0
+    }
+  ]
+}

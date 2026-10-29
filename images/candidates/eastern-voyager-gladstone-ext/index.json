@@ -1,0 +1,31 @@
+{
+  "slug": "eastern-voyager-gladstone-ext",
+  "request_hash": "19c03f87a026",
+  "collected_at": "2026-10-29T19:52:40.697Z",
+  "pages_fetched": [
+    "https://www.smarterfishingcharters.com.au/charters/region/4680?locale=Gladstone",
+    "https://www.facebook.com/EasternVoyager",
+    "https://www.instagram.com/easternvoyagercharters"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.smarterfishingcharters.com.au/charters/region/4680?locale=Gladstone",
+      "status": 200,
+      "final_url": "https://www.smarterfishingcharters.com.au/charters/region/4680?locale=Gladstone",
+      "bytes": 17418
+    },
+    {
+      "page": "https://www.facebook.com/EasternVoyager",
+      "status": 400,
+      "final_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FEasternVoyager",
+      "bytes": 1542
+    },
+    {
+      "page": "https://www.instagram.com/easternvoyagercharters",
+      "status": 429,
+      "final_url": "https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Feasternvoyagercharters&is_from_rle",
+      "bytes": 0
+    }
+  ]
+}

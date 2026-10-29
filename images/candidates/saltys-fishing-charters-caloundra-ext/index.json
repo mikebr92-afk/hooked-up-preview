@@ -1,0 +1,24 @@
+{
+  "slug": "saltys-fishing-charters-caloundra-ext",
+  "request_hash": "02fa86358617",
+  "collected_at": "2026-10-29T19:52:48.288Z",
+  "pages_fetched": [
+    "https://www.facebook.com/sfccaloundra",
+    "https://www.instagram.com/saltyfishingcharters"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.facebook.com/sfccaloundra",
+      "status": 400,
+      "final_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fsfccaloundra",
+      "bytes": 1542
+    },
+    {
+      "page": "https://www.instagram.com/saltyfishingcharters",
+      "status": 429,
+      "final_url": "https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fsaltyfishingcharters&is_from_rle",
+      "bytes": 0
+    }
+  ]
+}

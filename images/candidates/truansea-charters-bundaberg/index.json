@@ -1,0 +1,45 @@
+{
+  "slug": "truansea-charters-bundaberg",
+  "request_hash": "9827707c2570",
+  "collected_at": "2026-10-29T19:54:25.108Z",
+  "pages_fetched": [
+    "https://truansea.com.au/",
+    "https://truansea.com.au/full-day-reef-fishing",
+    "https://truansea.com.au/half-day-reef-fishing",
+    "https://truansea.com.au/half-day-river-fishing",
+    "https://truansea.com.au/about"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://truansea.com.au/",
+      "status": 200,
+      "final_url": "https://truansea.com.au/",
+      "bytes": 181381
+    },
+    {
+      "page": "https://truansea.com.au/full-day-reef-fishing",
+      "status": 200,
+      "final_url": "https://truansea.com.au/full-day-reef-fishing",
+      "bytes": 84785
+    },
+    {
+      "page": "https://truansea.com.au/half-day-reef-fishing",
+      "status": 200,
+      "final_url": "https://truansea.com.au/half-day-reef-fishing",
+      "bytes": 82646
+    },
+    {
+      "page": "https://truansea.com.au/half-day-river-fishing",
+      "status": 200,
+      "final_url": "https://truansea.com.au/half-day-river-fishing",
+      "bytes": 90236
+    },
+    {
+      "page": "https://truansea.com.au/about",
+      "status": 200,
+      "final_url": "https://truansea.com.au/about",
+      "bytes": 107918
+    }
+  ]
+}

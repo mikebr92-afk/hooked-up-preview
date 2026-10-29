@@ -1,0 +1,80 @@
+{
+  "slug": "true-blue-fishing-charters",
+  "request_hash": "0232b3bbad7e",
+  "collected_at": "2026-10-29T19:54:49.230Z",
+  "pages_fetched": [
+    "https://truebluefishing.com.au/",
+    "https://truebluefishing.com.au/about-us/",
+    "https://truebluefishing.com.au/our-vessels/",
+    "https://truebluefishing.com.au/half-day-morning-trip/",
+    "https://truebluefishing.com.au/half-day-afternoon-trip/",
+    "https://truebluefishing.com.au/full-day-fishing-trip/",
+    "https://truebluefishing.com.au/book-an-adventure/",
+    "https://truebluefishing.com.au/packages/",
+    "https://truebluefishing.com.au/bucks-party-boat-packages/",
+    "https://truebluefishing.com.au/private-charters/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://truebluefishing.com.au/",
+      "status": 200,
+      "final_url": "https://truebluefishing.com.au/",
+      "bytes": 80545
+    },
+    {
+      "page": "https://truebluefishing.com.au/about-us/",
+      "status": 200,
+      "final_url": "https://truebluefishing.com.au/about-us/",
+      "bytes": 47886
+    },
+    {
+      "page": "https://truebluefishing.com.au/our-vessels/",
+      "status": 200,
+      "final_url": "https://truebluefishing.com.au/our-vessels/",
+      "bytes": 38173
+    },
+    {
+      "page": "https://truebluefishing.com.au/half-day-morning-trip/",
+      "status": 200,
+      "final_url": "https://truebluefishing.com.au/half-day-morning-trip/",
+      "bytes": 72099
+    },
+    {
+      "page": "https://truebluefishing.com.au/half-day-afternoon-trip/",
+      "status": 200,
+      "final_url": "https://truebluefishing.com.au/half-day-afternoon-trip/",
+      "bytes": 72694
+    },
+    {
+      "page": "https://truebluefishing.com.au/full-day-fishing-trip/",
+      "status": 200,
+      "final_url": "https://truebluefishing.com.au/full-day-fishing-trip/",
+      "bytes": 72857
+    },
+    {
+      "page": "https://truebluefishing.com.au/book-an-adventure/",
+      "status": 200,
+      "final_url": "https://truebluefishing.com.au/book-an-adventure/",
+      "bytes": 35738
+    },
+    {
+      "page": "https://truebluefishing.com.au/packages/",
+      "status": 200,
+      "final_url": "https://truebluefishing.com.au/packages/",
+      "bytes": 39830
+    },
+    {
+      "page": "https://truebluefishing.com.au/bucks-party-boat-packages/",
+      "status": 200,
+      "final_url": "https://truebluefishing.com.au/bucks-party-boat-packages/",
+      "bytes": 74060
+    },
+    {
+      "page": "https://truebluefishing.com.au/private-charters/",
+      "status": 200,
+      "final_url": "https://truebluefishing.com.au/private-charters/",
+      "bytes": 73692
+    }
+  ]
+}

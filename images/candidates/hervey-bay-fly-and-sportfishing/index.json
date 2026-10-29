@@ -1,0 +1,87 @@
+{
+  "slug": "hervey-bay-fly-and-sportfishing",
+  "request_hash": "fad834d036bb",
+  "collected_at": "2026-10-29T19:55:19.297Z",
+  "pages_fetched": [
+    "https://herveybaysportfishing.com.au/",
+    "https://herveybaysportfishing.com.au/fishing-packages/",
+    "https://herveybaysportfishing.com.au/fishing-guides/",
+    "https://herveybaysportfishing.com.au/our-vessels/",
+    "https://herveybaysportfishing.com.au/hervey-bay-fishing/",
+    "https://herveybaysportfishing.com.au/cart/",
+    "https://herveybaysportfishing.com.au/trip-reports/",
+    "https://herveybaysportfishing.com.au/fishing-news/",
+    "https://herveybaysportfishing.com.au/testimonials/",
+    "https://herveybaysportfishing.com.au/japanese-friendly-fishing-charters/",
+    "https://herveybaysportfishing.com.au/hervey-bays-famous-flats/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://herveybaysportfishing.com.au/",
+      "status": 200,
+      "final_url": "https://herveybaysportfishing.com.au/",
+      "bytes": 342467
+    },
+    {
+      "page": "https://herveybaysportfishing.com.au/fishing-packages/",
+      "status": 200,
+      "final_url": "https://herveybaysportfishing.com.au/fishing-packages/",
+      "bytes": 373624
+    },
+    {
+      "page": "https://herveybaysportfishing.com.au/fishing-guides/",
+      "status": 200,
+      "final_url": "https://herveybaysportfishing.com.au/fishing-guides/",
+      "bytes": 318328
+    },
+    {
+      "page": "https://herveybaysportfishing.com.au/our-vessels/",
+      "status": 200,
+      "final_url": "https://herveybaysportfishing.com.au/our-vessels/",
+      "bytes": 394090
+    },
+    {
+      "page": "https://herveybaysportfishing.com.au/hervey-bay-fishing/",
+      "status": 200,
+      "final_url": "https://herveybaysportfishing.com.au/hervey-bay-fishing/",
+      "bytes": 321663
+    },
+    {
+      "page": "https://herveybaysportfishing.com.au/cart/",
+      "status": 200,
+      "final_url": "https://herveybaysportfishing.com.au/cart/",
+      "bytes": 398909
+    },
+    {
+      "page": "https://herveybaysportfishing.com.au/trip-reports/",
+      "status": 200,
+      "final_url": "https://herveybaysportfishing.com.au/trip-reports/",
+      "bytes": 408370
+    },
+    {
+      "page": "https://herveybaysportfishing.com.au/fishing-news/",
+      "status": 200,
+      "final_url": "https://herveybaysportfishing.com.au/fishing-news/",
+      "bytes": 417019
+    },
+    {
+      "page": "https://herveybaysportfishing.com.au/testimonials/",
+      "status": 200,
+      "final_url": "https://herveybaysportfishing.com.au/testimonials/",
+      "bytes": 324767
+    },
+    {
+      "page": "https://herveybaysportfishing.com.au/japanese-friendly-fishing-charters/",
+      "status": 200,
+      "final_url": "https://herveybaysportfishing.com.au/japanese-friendly-fishing-charters/",
+      "bytes": 306067
+    },
+    {
+      "page": "https://herveybaysportfishing.com.au/hervey-bays-famous-flats/",
+      "status": 200,
+      "final_url": "https://herveybaysportfishing.com.au/hervey-bays-famous-flats/",
+      "bytes": 359071
+    }
+  ]
+}

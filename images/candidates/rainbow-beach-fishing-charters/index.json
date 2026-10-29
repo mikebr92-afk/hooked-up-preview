@@ -1,0 +1,80 @@
+{
+  "slug": "rainbow-beach-fishing-charters",
+  "request_hash": "884d88ad9913",
+  "collected_at": "2026-10-29T19:56:32.871Z",
+  "pages_fetched": [
+    "https://www.rainbowbeachfishing.com/",
+    "https://www.rainbowbeachfishing.com/services",
+    "https://www.rainbowbeachfishing.com/about",
+    "https://www.rainbowbeachfishing.com/contact",
+    "https://www.rainbowbeachfishing.com/cart",
+    "https://www.rainbowbeachfishing.com/terms-and-conditions",
+    "https://www.rainbowbeachfishing.com/?itemId=ummtflvpg3bepplsilt4tr56u2ogpo",
+    "https://www.rainbowbeachfishing.com/?itemId=ld3fywgi6i4hlw3ycuyy6bjj5k7zq1",
+    "https://www.rainbowbeachfishing.com/?itemId=j9rsp5r1ccau7c4gc34500q382tigb",
+    "https://www.rainbowbeachfishing.com/?itemId=rn1dou0j82brrzg2b3bo7cay7m5drb"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.rainbowbeachfishing.com/",
+      "status": 200,
+      "final_url": "https://www.rainbowbeachfishing.com/",
+      "bytes": 326261
+    },
+    {
+      "page": "https://www.rainbowbeachfishing.com/services",
+      "status": 200,
+      "final_url": "https://www.rainbowbeachfishing.com/services",
+      "bytes": 342092
+    },
+    {
+      "page": "https://www.rainbowbeachfishing.com/about",
+      "status": 200,
+      "final_url": "https://www.rainbowbeachfishing.com/about",
+      "bytes": 332659
+    },
+    {
+      "page": "https://www.rainbowbeachfishing.com/contact",
+      "status": 200,
+      "final_url": "https://www.rainbowbeachfishing.com/contact",
+      "bytes": 275846
+    },
+    {
+      "page": "https://www.rainbowbeachfishing.com/cart",
+      "status": 200,
+      "final_url": "https://www.rainbowbeachfishing.com/cart",
+      "bytes": 243553
+    },
+    {
+      "page": "https://www.rainbowbeachfishing.com/terms-and-conditions",
+      "status": 200,
+      "final_url": "https://www.rainbowbeachfishing.com/terms-and-conditions",
+      "bytes": 164154
+    },
+    {
+      "page": "https://www.rainbowbeachfishing.com/?itemId=ummtflvpg3bepplsilt4tr56u2ogpo",
+      "status": 200,
+      "final_url": "https://www.rainbowbeachfishing.com/?itemId=ummtflvpg3bepplsilt4tr56u2ogpo",
+      "bytes": 326261
+    },
+    {
+      "page": "https://www.rainbowbeachfishing.com/?itemId=ld3fywgi6i4hlw3ycuyy6bjj5k7zq1",
+      "status": 200,
+      "final_url": "https://www.rainbowbeachfishing.com/?itemId=ld3fywgi6i4hlw3ycuyy6bjj5k7zq1",
+      "bytes": 326261
+    },
+    {
+      "page": "https://www.rainbowbeachfishing.com/?itemId=j9rsp5r1ccau7c4gc34500q382tigb",
+      "status": 200,
+      "final_url": "https://www.rainbowbeachfishing.com/?itemId=j9rsp5r1ccau7c4gc34500q382tigb",
+      "bytes": 326261
+    },
+    {
+      "page": "https://www.rainbowbeachfishing.com/?itemId=rn1dou0j82brrzg2b3bo7cay7m5drb",
+      "status": 200,
+      "final_url": "https://www.rainbowbeachfishing.com/?itemId=rn1dou0j82brrzg2b3bo7cay7m5drb",
+      "bytes": 326261
+    }
+  ]
+}

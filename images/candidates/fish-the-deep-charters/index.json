@@ -1,0 +1,94 @@
+{
+  "slug": "fish-the-deep-charters",
+  "request_hash": "bfd34455122e",
+  "collected_at": "2026-10-29T19:54:40.311Z",
+  "pages_fetched": [
+    "https://www.fishthedeep.com/",
+    "https://www.fishthedeep.com/deep-sea-fishing-gold-coast-vessel-crew/",
+    "https://www.fishthedeep.com/contact/",
+    "https://www.fishthedeep.com/tour/full-day/",
+    "https://www.fishthedeep.com/tour/private-reef-and-game-fishing-half-day/",
+    "https://www.fishthedeep.com/deep-sea-fishing-gold-coast-about-us-fishing-techniques/",
+    "https://www.fishthedeep.com/gold-coast-fishing-charters/",
+    "https://www.fishthedeep.com/find-fishing-charters-gold-coast/",
+    "https://www.fishthedeep.com/tour/private-reef-and-game-fishing-half-day-scotts-8-angler-special/",
+    "https://www.fishthedeep.com/tour/private-reef-and-game-fishing-half-day-scotts-10-angler-special/",
+    "https://www.fishthedeep.com/tour/private-reef-and-game-fishing-full-day-10-angler/",
+    "https://www.fishthedeep.com/tour/half-day/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.fishthedeep.com/",
+      "status": 200,
+      "final_url": "https://www.fishthedeep.com/",
+      "bytes": 88192
+    },
+    {
+      "page": "https://www.fishthedeep.com/deep-sea-fishing-gold-coast-vessel-crew/",
+      "status": 200,
+      "final_url": "https://www.fishthedeep.com/deep-sea-fishing-gold-coast-vessel-crew/",
+      "bytes": 65001
+    },
+    {
+      "page": "https://www.fishthedeep.com/contact/",
+      "status": 200,
+      "final_url": "https://www.fishthedeep.com/contact/",
+      "bytes": 62545
+    },
+    {
+      "page": "https://www.fishthedeep.com/tour/full-day/",
+      "status": 200,
+      "final_url": "https://www.fishthedeep.com/tour/full-day/",
+      "bytes": 84505
+    },
+    {
+      "page": "https://www.fishthedeep.com/tour/private-reef-and-game-fishing-half-day/",
+      "status": 200,
+      "final_url": "https://www.fishthedeep.com/tour/private-reef-and-game-fishing-half-day/",
+      "bytes": 81710
+    },
+    {
+      "page": "https://www.fishthedeep.com/deep-sea-fishing-gold-coast-about-us-fishing-techniques/",
+      "status": 200,
+      "final_url": "https://www.fishthedeep.com/deep-sea-fishing-gold-coast-about-us-fishing-techniques/",
+      "bytes": 56922
+    },
+    {
+      "page": "https://www.fishthedeep.com/gold-coast-fishing-charters/",
+      "status": 200,
+      "final_url": "https://www.fishthedeep.com/gold-coast-fishing-charters/",
+      "bytes": 69080
+    },
+    {
+      "page": "https://www.fishthedeep.com/find-fishing-charters-gold-coast/",
+      "status": 200,
+      "final_url": "https://www.fishthedeep.com/find-fishing-charters-gold-coast/",
+      "bytes": 52419
+    },
+    {
+      "page": "https://www.fishthedeep.com/tour/private-reef-and-game-fishing-half-day-scotts-8-angler-special/",
+      "status": 200,
+      "final_url": "https://www.fishthedeep.com/tour/private-reef-and-game-fishing-half-day-scotts-8-angler-special/",
+      "bytes": 81803
+    },
+    {
+      "page": "https://www.fishthedeep.com/tour/private-reef-and-game-fishing-half-day-scotts-10-angler-special/",
+      "status": 200,
+      "final_url": "https://www.fishthedeep.com/tour/private-reef-and-game-fishing-half-day-scotts-10-angler-special/",
+      "bytes": 81810
+    },
+    {
+      "page": "https://www.fishthedeep.com/tour/private-reef-and-game-fishing-full-day-10-angler/",
+      "status": 200,
+      "final_url": "https://www.fishthedeep.com/tour/private-reef-and-game-fishing-full-day-10-angler/",
+      "bytes": 81359
+    },
+    {
+      "page": "https://www.fishthedeep.com/tour/half-day/",
+      "status": 200,
+      "final_url": "https://www.fishthedeep.com/tour/half-day/",
+      "bytes": 81636
+    }
+  ]
+}

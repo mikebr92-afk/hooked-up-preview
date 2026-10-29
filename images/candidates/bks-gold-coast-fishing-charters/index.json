@@ -1,0 +1,59 @@
+{
+  "slug": "bks-gold-coast-fishing-charters",
+  "request_hash": "117648dee73b",
+  "collected_at": "2026-10-29T19:54:34.756Z",
+  "pages_fetched": [
+    "https://bksfishing.com.au/",
+    "https://bksfishing.com.au/fishing-charter-crew/",
+    "https://bksfishing.com.au/fishing-charter-boat/",
+    "https://bksfishing.com.au/half-day-fishing-charter/",
+    "https://bksfishing.com.au/gold-coast-calm-water-charters/",
+    "https://bksfishing.com.au/gold-coast-fishing-tours-faqs/",
+    "https://bksfishing.com.au/terms-conditions-cancellation-policy/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://bksfishing.com.au/",
+      "status": 202,
+      "final_url": "https://bksfishing.com.au/",
+      "bytes": 168
+    },
+    {
+      "page": "https://bksfishing.com.au/fishing-charter-crew/",
+      "status": 202,
+      "final_url": "https://bksfishing.com.au/fishing-charter-crew/",
+      "bytes": 191
+    },
+    {
+      "page": "https://bksfishing.com.au/fishing-charter-boat/",
+      "status": 202,
+      "final_url": "https://bksfishing.com.au/fishing-charter-boat/",
+      "bytes": 191
+    },
+    {
+      "page": "https://bksfishing.com.au/half-day-fishing-charter/",
+      "status": 202,
+      "final_url": "https://bksfishing.com.au/half-day-fishing-charter/",
+      "bytes": 195
+    },
+    {
+      "page": "https://bksfishing.com.au/gold-coast-calm-water-charters/",
+      "status": 202,
+      "final_url": "https://bksfishing.com.au/gold-coast-calm-water-charters/",
+      "bytes": 201
+    },
+    {
+      "page": "https://bksfishing.com.au/gold-coast-fishing-tours-faqs/",
+      "status": 202,
+      "final_url": "https://bksfishing.com.au/gold-coast-fishing-tours-faqs/",
+      "bytes": 200
+    },
+    {
+      "page": "https://bksfishing.com.au/terms-conditions-cancellation-policy/",
+      "status": 202,
+      "final_url": "https://bksfishing.com.au/terms-conditions-cancellation-policy/",
+      "bytes": 207
+    }
+  ]
+}

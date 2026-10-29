@@ -1,0 +1,45 @@
+{
+  "slug": "eastern-voyager-gladstone",
+  "request_hash": "729e428070ea",
+  "collected_at": "2026-10-29T19:54:27.378Z",
+  "pages_fetched": [
+    "https://easternvoyager.com.au/",
+    "https://easternvoyager.com.au/about-us/",
+    "https://easternvoyager.com.au/faqs/",
+    "https://easternvoyager.com.au/trip-types/organised-trip/",
+    "https://easternvoyager.com.au/trip/swain-reefs/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://easternvoyager.com.au/",
+      "status": 202,
+      "final_url": "https://easternvoyager.com.au/",
+      "bytes": 168
+    },
+    {
+      "page": "https://easternvoyager.com.au/about-us/",
+      "status": 202,
+      "final_url": "https://easternvoyager.com.au/about-us/",
+      "bytes": 179
+    },
+    {
+      "page": "https://easternvoyager.com.au/faqs/",
+      "status": 202,
+      "final_url": "https://easternvoyager.com.au/faqs/",
+      "bytes": 175
+    },
+    {
+      "page": "https://easternvoyager.com.au/trip-types/organised-trip/",
+      "status": 202,
+      "final_url": "https://easternvoyager.com.au/trip-types/organised-trip/",
+      "bytes": 198
+    },
+    {
+      "page": "https://easternvoyager.com.au/trip/swain-reefs/",
+      "status": 202,
+      "final_url": "https://easternvoyager.com.au/trip/swain-reefs/",
+      "bytes": 189
+    }
+  ]
+}

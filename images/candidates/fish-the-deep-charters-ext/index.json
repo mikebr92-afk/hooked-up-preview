@@ -1,0 +1,17 @@
+{
+  "slug": "fish-the-deep-charters-ext",
+  "request_hash": "d90a5cac194a",
+  "collected_at": "2026-10-29T19:52:42.711Z",
+  "pages_fetched": [
+    "https://www.facebook.com/pages/Fish-The-Deep-Charters/315642641336"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.facebook.com/pages/Fish-The-Deep-Charters/315642641336",
+      "status": 400,
+      "final_url": "https://www.facebook.com/pages/Fish-The-Deep-Charters/315642641336",
+      "bytes": 1542
+    }
+  ]
+}

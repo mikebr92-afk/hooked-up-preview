@@ -1,0 +1,80 @@
+{
+  "slug": "keely-rose-fishing-charters",
+  "request_hash": "de760a671ebc",
+  "collected_at": "2026-10-29T19:55:27.196Z",
+  "pages_fetched": [
+    "https://keelyrosefishingcharters.com.au/",
+    "https://keelyrosefishingcharters.com.au/VesselCrew/VesselCrew-394/",
+    "https://keelyrosefishingcharters.com.au/Details/Details-373/",
+    "https://keelyrosefishingcharters.com.au/Details/Departure-448/",
+    "https://keelyrosefishingcharters.com.au/Details/PricesBooking-449/",
+    "https://keelyrosefishingcharters.com.au/Testimonials/Testimonials-450/",
+    "https://keelyrosefishingcharters.com.au/Weather/Weather-452/",
+    "https://keelyrosefishingcharters.com.au/Gallery/Gallery-388/",
+    "https://keelyrosefishingcharters.com.au/Accommodation/Accommodation-453/",
+    "https://keelyrosefishingcharters.com.au/Contact/Contact-377/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://keelyrosefishingcharters.com.au/",
+      "status": 200,
+      "final_url": "https://keelyrosefishingcharters.com.au/",
+      "bytes": 37944
+    },
+    {
+      "page": "https://keelyrosefishingcharters.com.au/VesselCrew/VesselCrew-394/",
+      "status": 200,
+      "final_url": "https://keelyrosefishingcharters.com.au/VesselCrew/VesselCrew-394/",
+      "bytes": 25755
+    },
+    {
+      "page": "https://keelyrosefishingcharters.com.au/Details/Details-373/",
+      "status": 200,
+      "final_url": "https://keelyrosefishingcharters.com.au/Details/Details-373/",
+      "bytes": 24261
+    },
+    {
+      "page": "https://keelyrosefishingcharters.com.au/Details/Departure-448/",
+      "status": 200,
+      "final_url": "https://keelyrosefishingcharters.com.au/Details/Departure-448/",
+      "bytes": 31652
+    },
+    {
+      "page": "https://keelyrosefishingcharters.com.au/Details/PricesBooking-449/",
+      "status": 200,
+      "final_url": "https://keelyrosefishingcharters.com.au/Details/PricesBooking-449/",
+      "bytes": 25359
+    },
+    {
+      "page": "https://keelyrosefishingcharters.com.au/Testimonials/Testimonials-450/",
+      "status": 200,
+      "final_url": "https://keelyrosefishingcharters.com.au/Testimonials/Testimonials-450/",
+      "bytes": 24051
+    },
+    {
+      "page": "https://keelyrosefishingcharters.com.au/Weather/Weather-452/",
+      "status": 200,
+      "final_url": "https://keelyrosefishingcharters.com.au/Weather/Weather-452/",
+      "bytes": 21216
+    },
+    {
+      "page": "https://keelyrosefishingcharters.com.au/Gallery/Gallery-388/",
+      "status": 200,
+      "final_url": "https://keelyrosefishingcharters.com.au/Gallery/Gallery-388/",
+      "bytes": 22207
+    },
+    {
+      "page": "https://keelyrosefishingcharters.com.au/Accommodation/Accommodation-453/",
+      "status": 200,
+      "final_url": "https://keelyrosefishingcharters.com.au/Accommodation/Accommodation-453/",
+      "bytes": 24755
+    },
+    {
+      "page": "https://keelyrosefishingcharters.com.au/Contact/Contact-377/",
+      "status": 200,
+      "final_url": "https://keelyrosefishingcharters.com.au/Contact/Contact-377/",
+      "bytes": 23113
+    }
+  ]
+}

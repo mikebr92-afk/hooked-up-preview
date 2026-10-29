@@ -1,0 +1,38 @@
+{
+  "slug": "mv-mikat-charters-gladstone-ext",
+  "request_hash": "754679cb6470",
+  "collected_at": "2026-10-29T19:52:41.790Z",
+  "pages_fetched": [
+    "https://www.smarterfishingcharters.com.au/charters/region/4680?locale=Gladstone",
+    "https://www.smarterfishingcharters.com.au/charters/details/97",
+    "https://www.vesselfinder.com/vessels/details/503121910",
+    "https://www.facebook.com/mikatcruises/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.smarterfishingcharters.com.au/charters/region/4680?locale=Gladstone",
+      "status": 200,
+      "final_url": "https://www.smarterfishingcharters.com.au/charters/region/4680?locale=Gladstone",
+      "bytes": 17418
+    },
+    {
+      "page": "https://www.smarterfishingcharters.com.au/charters/details/97",
+      "status": 200,
+      "final_url": "https://www.smarterfishingcharters.com.au/charters/details/97",
+      "bytes": 15543
+    },
+    {
+      "page": "https://www.vesselfinder.com/vessels/details/503121910",
+      "status": 200,
+      "final_url": "https://www.vesselfinder.com/vessels/details/503121910",
+      "bytes": 42481
+    },
+    {
+      "page": "https://www.facebook.com/mikatcruises/",
+      "status": 400,
+      "final_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fmikatcruises%2F",
+      "bytes": 1542
+    }
+  ]
+}

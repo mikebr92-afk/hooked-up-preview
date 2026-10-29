@@ -1,0 +1,24 @@
+{
+  "slug": "brisbane-fishing-tour-ext",
+  "request_hash": "71a5c417996d",
+  "collected_at": "2026-10-29T19:52:38.438Z",
+  "pages_fetched": [
+    "https://www.facebook.com/61572953307343",
+    "https://www.instagram.com/brisbanefishingtour"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.facebook.com/61572953307343",
+      "status": 400,
+      "final_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2F61572953307343",
+      "bytes": 1542
+    },
+    {
+      "page": "https://www.instagram.com/brisbanefishingtour",
+      "status": 429,
+      "final_url": "https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fbrisbanefishingtour&is_from_rle",
+      "bytes": 0
+    }
+  ]
+}

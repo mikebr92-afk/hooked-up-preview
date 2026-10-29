@@ -1,0 +1,31 @@
+{
+  "slug": "night-crossing-fishing-adventures-gladstone-ext",
+  "request_hash": "25a5dcd6329b",
+  "collected_at": "2026-10-29T19:52:42.444Z",
+  "pages_fetched": [
+    "https://www.smarterfishingcharters.com.au/charters/details/326",
+    "https://www.vesselfinder.com/vessels/details/503333000",
+    "https://www.facebook.com/nightcrossing/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.smarterfishingcharters.com.au/charters/details/326",
+      "status": 200,
+      "final_url": "https://www.smarterfishingcharters.com.au/charters/details/326",
+      "bytes": 14879
+    },
+    {
+      "page": "https://www.vesselfinder.com/vessels/details/503333000",
+      "status": 200,
+      "final_url": "https://www.vesselfinder.com/vessels/details/503333000",
+      "bytes": 42540
+    },
+    {
+      "page": "https://www.facebook.com/nightcrossing/",
+      "status": 400,
+      "final_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fnightcrossing%2F",
+      "bytes": 1542
+    }
+  ]
+}

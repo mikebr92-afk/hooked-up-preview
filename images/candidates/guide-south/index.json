@@ -1,0 +1,66 @@
+{
+  "slug": "guide-south",
+  "request_hash": "2a8a096bcae7",
+  "collected_at": "2026-10-29T19:53:57.881Z",
+  "pages_fetched": [
+    "https://www.fishingaustralia.com.au/redcliffe-peninsula-qld/",
+    "https://hookedupmagazine.com.au/locations/qld/fishing-hervey-bay/",
+    "https://fishandboat.com.au/guide-to-hervey-bay-luke-fitzpatrick-2016/",
+    "https://www.fishostackleworld.com.au/blogs/fishing-guide/snapper-season-in-hervey-bay-complete-angler-s-guide",
+    "https://www.brcnow.bundaberg.qld.gov.au/2019/08/27/luke-truansea-charters/",
+    "https://deependfishing.com.au/5-hour-reef-fishing/",
+    "https://fishinggoldcoast.com.au/",
+    "https://www.smarterfishingcharters.com.au/charters/region/4655?locale=Hervey+Bay"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.fishingaustralia.com.au/redcliffe-peninsula-qld/",
+      "status": 200,
+      "final_url": "https://www.fishingaustralia.com.au/redcliffe-peninsula-qld/",
+      "bytes": 172616
+    },
+    {
+      "page": "https://hookedupmagazine.com.au/locations/qld/fishing-hervey-bay/",
+      "status": 200,
+      "final_url": "https://hookedupmagazine.com.au/locations/qld/fishing-hervey-bay/",
+      "bytes": 121543
+    },
+    {
+      "page": "https://fishandboat.com.au/guide-to-hervey-bay-luke-fitzpatrick-2016/",
+      "status": 200,
+      "final_url": "https://fishandboat.com.au/guide-to-hervey-bay-luke-fitzpatrick-2016/",
+      "bytes": 94624
+    },
+    {
+      "page": "https://www.fishostackleworld.com.au/blogs/fishing-guide/snapper-season-in-hervey-bay-complete-angler-s-guide",
+      "status": 200,
+      "final_url": "https://www.fishostackleworld.com.au/blogs/fishing-guide/snapper-season-in-hervey-bay-complete-angler-s-guide",
+      "bytes": 356138
+    },
+    {
+      "page": "https://www.brcnow.bundaberg.qld.gov.au/2019/08/27/luke-truansea-charters/",
+      "status": 200,
+      "final_url": "https://www.brcnow.bundaberg.qld.gov.au/2019/08/27/luke-truansea-charters/",
+      "bytes": 278330
+    },
+    {
+      "page": "https://deependfishing.com.au/5-hour-reef-fishing/",
+      "status": 200,
+      "final_url": "https://deependfishing.com.au/5-hour-reef-fishing/",
+      "bytes": 106504
+    },
+    {
+      "page": "https://fishinggoldcoast.com.au/",
+      "status": 200,
+      "final_url": "https://fishinggoldcoast.com.au/",
+      "bytes": 349653
+    },
+    {
+      "page": "https://www.smarterfishingcharters.com.au/charters/region/4655?locale=Hervey+Bay",
+      "status": 200,
+      "final_url": "https://www.smarterfishingcharters.com.au/charters/region/4655?locale=Hervey+Bay",
+      "bytes": 18814
+    }
+  ]
+}

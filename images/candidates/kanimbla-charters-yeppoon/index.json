@@ -1,0 +1,94 @@
+{
+  "slug": "kanimbla-charters-yeppoon",
+  "request_hash": "c424bf0649c4",
+  "collected_at": "2026-10-29T19:56:39.097Z",
+  "pages_fetched": [
+    "https://www.kanimblacharters.net.au/",
+    "https://www.kanimblacharters.net.au/our-boats/",
+    "https://www.kanimblacharters.net.au/charter-options/",
+    "https://www.kanimblacharters.net.au/useful-information/",
+    "https://www.kanimblacharters.net.au/location/",
+    "https://www.kanimblacharters.net.au/availability/",
+    "https://www.kanimblacharters.net.au/recipes/",
+    "https://www.kanimblacharters.net.au/contact-us/",
+    "https://www.kanimblacharters.net.au/trip-reports/",
+    "https://www.kanimblacharters.net.au/contact",
+    "https://www.kanimblacharters.net.au/contact/",
+    "https://www.kanimblacharters.net.au/contact-us"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.kanimblacharters.net.au/",
+      "status": 200,
+      "final_url": "https://www.kanimblacharters.net.au/",
+      "bytes": 39812
+    },
+    {
+      "page": "https://www.kanimblacharters.net.au/our-boats/",
+      "status": 200,
+      "final_url": "https://www.kanimblacharters.net.au/our-boats/",
+      "bytes": 34772
+    },
+    {
+      "page": "https://www.kanimblacharters.net.au/charter-options/",
+      "status": 200,
+      "final_url": "https://www.kanimblacharters.net.au/charter-options/",
+      "bytes": 35178
+    },
+    {
+      "page": "https://www.kanimblacharters.net.au/useful-information/",
+      "status": 200,
+      "final_url": "https://www.kanimblacharters.net.au/useful-information/",
+      "bytes": 34952
+    },
+    {
+      "page": "https://www.kanimblacharters.net.au/location/",
+      "status": 200,
+      "final_url": "https://www.kanimblacharters.net.au/location/",
+      "bytes": 31578
+    },
+    {
+      "page": "https://www.kanimblacharters.net.au/availability/",
+      "status": 200,
+      "final_url": "https://www.kanimblacharters.net.au/availability/",
+      "bytes": 30766
+    },
+    {
+      "page": "https://www.kanimblacharters.net.au/recipes/",
+      "status": 200,
+      "final_url": "https://www.kanimblacharters.net.au/recipes/",
+      "bytes": 33165
+    },
+    {
+      "page": "https://www.kanimblacharters.net.au/contact-us/",
+      "status": 200,
+      "final_url": "https://www.kanimblacharters.net.au/contact-us/",
+      "bytes": 41749
+    },
+    {
+      "page": "https://www.kanimblacharters.net.au/trip-reports/",
+      "status": 200,
+      "final_url": "https://www.kanimblacharters.net.au/trip-reports/",
+      "bytes": 57752
+    },
+    {
+      "page": "https://www.kanimblacharters.net.au/contact",
+      "status": 200,
+      "final_url": "https://www.kanimblacharters.net.au/contact-us/",
+      "bytes": 41749
+    },
+    {
+      "page": "https://www.kanimblacharters.net.au/contact/",
+      "status": 200,
+      "final_url": "https://www.kanimblacharters.net.au/contact-us/",
+      "bytes": 41749
+    },
+    {
+      "page": "https://www.kanimblacharters.net.au/contact-us",
+      "status": 200,
+      "final_url": "https://www.kanimblacharters.net.au/contact-us/",
+      "bytes": 41749
+    }
+  ]
+}

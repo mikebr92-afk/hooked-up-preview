@@ -1,0 +1,38 @@
+{
+  "slug": "mv-mikat-charters-gladstone",
+  "request_hash": "b59fda221070",
+  "collected_at": "2026-10-29T19:54:29.604Z",
+  "pages_fetched": [
+    "https://mikatcharters.com.au/",
+    "https://mikatcharters.com.au/about-us/",
+    "https://mikatcharters.com.au/contact/",
+    "https://mikatcharters.com.au/trip-reports-gallery/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://mikatcharters.com.au/",
+      "status": 202,
+      "final_url": "https://mikatcharters.com.au/",
+      "bytes": 168
+    },
+    {
+      "page": "https://mikatcharters.com.au/about-us/",
+      "status": 202,
+      "final_url": "https://mikatcharters.com.au/about-us/",
+      "bytes": 179
+    },
+    {
+      "page": "https://mikatcharters.com.au/contact/",
+      "status": 202,
+      "final_url": "https://mikatcharters.com.au/contact/",
+      "bytes": 178
+    },
+    {
+      "page": "https://mikatcharters.com.au/trip-reports-gallery/",
+      "status": 202,
+      "final_url": "https://mikatcharters.com.au/trip-reports-gallery/",
+      "bytes": 191
+    }
+  ]
+}

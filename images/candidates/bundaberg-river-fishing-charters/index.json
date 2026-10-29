@@ -1,0 +1,45 @@
+{
+  "slug": "bundaberg-river-fishing-charters",
+  "request_hash": "e9193bc86903",
+  "collected_at": "2026-10-29T19:54:24.911Z",
+  "pages_fetched": [
+    "https://bundabergriverfishing.com.au/",
+    "https://bundabergriverfishing.com.au/about",
+    "https://bundabergriverfishing.com.au/charters",
+    "https://bundabergriverfishing.com.au/recent-catches",
+    "https://bundabergriverfishing.com.au/contact"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://bundabergriverfishing.com.au/",
+      "status": 200,
+      "final_url": "https://bundabergriverfishing.com.au/",
+      "bytes": 136989
+    },
+    {
+      "page": "https://bundabergriverfishing.com.au/about",
+      "status": 200,
+      "final_url": "https://bundabergriverfishing.com.au/about",
+      "bytes": 107597
+    },
+    {
+      "page": "https://bundabergriverfishing.com.au/charters",
+      "status": 200,
+      "final_url": "https://bundabergriverfishing.com.au/charters",
+      "bytes": 134185
+    },
+    {
+      "page": "https://bundabergriverfishing.com.au/recent-catches",
+      "status": 200,
+      "final_url": "https://bundabergriverfishing.com.au/recent-catches",
+      "bytes": 441016
+    },
+    {
+      "page": "https://bundabergriverfishing.com.au/contact",
+      "status": 200,
+      "final_url": "https://bundabergriverfishing.com.au/contact",
+      "bytes": 149122
+    }
+  ]
+}
