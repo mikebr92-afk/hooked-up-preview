@@ -1,0 +1,94 @@
+{
+  "slug": "equinox-fishing-charters-darwin",
+  "request_hash": "c62030fd5065",
+  "collected_at": "2026-10-29T19:54:40.861Z",
+  "pages_fetched": [
+    "https://www.equinoxcharters.com.au/",
+    "https://www.equinoxcharters.com.au/fishing-charters/",
+    "https://www.equinoxcharters.com.au/our-boats/",
+    "https://www.equinoxcharters.com.au/bookings/",
+    "https://northernterritory.com/tours/equinox-fishing-charters",
+    "https://www.equinoxcharters.com.au/gallery/",
+    "https://northernterritory.com/us/en/tours/equinox-fishing-charters",
+    "https://northernterritory.com/things-to-do/outdoor-activities/fishing",
+    "https://northernterritory.com/tours",
+    "https://northernterritory.com/tours/equinox-fishing-charters/full-day-10-hour-extended-day-bluewater-fishing-charter",
+    "https://northernterritory.com/tours/equinox-fishing-charters/half-day-5-hour-bluewater-charter",
+    "https://northernterritory.com/tours/equinox-fishing-charters/full-day-8-hour-bluewater-charter"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.equinoxcharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.equinoxcharters.com.au/",
+      "bytes": 161516
+    },
+    {
+      "page": "https://www.equinoxcharters.com.au/fishing-charters/",
+      "status": 200,
+      "final_url": "https://www.equinoxcharters.com.au/fishing-charters/",
+      "bytes": 184613
+    },
+    {
+      "page": "https://www.equinoxcharters.com.au/our-boats/",
+      "status": 200,
+      "final_url": "https://www.equinoxcharters.com.au/our-boats/",
+      "bytes": 236882
+    },
+    {
+      "page": "https://www.equinoxcharters.com.au/bookings/",
+      "status": 200,
+      "final_url": "https://www.equinoxcharters.com.au/bookings/",
+      "bytes": 140509
+    },
+    {
+      "page": "https://northernterritory.com/tours/equinox-fishing-charters",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/equinox-fishing-charters",
+      "bytes": 518983
+    },
+    {
+      "page": "https://www.equinoxcharters.com.au/gallery/",
+      "status": 200,
+      "final_url": "https://www.equinoxcharters.com.au/gallery/",
+      "bytes": 207685
+    },
+    {
+      "page": "https://northernterritory.com/us/en/tours/equinox-fishing-charters",
+      "status": 200,
+      "final_url": "https://northernterritory.com/us/en/tours/equinox-fishing-charters",
+      "bytes": 519396
+    },
+    {
+      "page": "https://northernterritory.com/things-to-do/outdoor-activities/fishing",
+      "status": 200,
+      "final_url": "https://northernterritory.com/things-to-do/outdoor-activities/fishing",
+      "bytes": 539882
+    },
+    {
+      "page": "https://northernterritory.com/tours",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours",
+      "bytes": 1248268
+    },
+    {
+      "page": "https://northernterritory.com/tours/equinox-fishing-charters/full-day-10-hour-extended-day-bluewater-fishing-charter",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/equinox-fishing-charters/full-day-10-hour-extended-day-bluewater-fishing-charter",
+      "bytes": 523084
+    },
+    {
+      "page": "https://northernterritory.com/tours/equinox-fishing-charters/half-day-5-hour-bluewater-charter",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/equinox-fishing-charters/half-day-5-hour-bluewater-charter",
+      "bytes": 514346
+    },
+    {
+      "page": "https://northernterritory.com/tours/equinox-fishing-charters/full-day-8-hour-bluewater-charter",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/equinox-fishing-charters/full-day-8-hour-bluewater-charter",
+      "bytes": 513453
+    }
+  ]
+}

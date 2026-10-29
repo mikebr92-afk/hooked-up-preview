@@ -1,0 +1,94 @@
+{
+  "slug": "groote-eylandt-sports-fishing",
+  "request_hash": "d311645e48bd",
+  "collected_at": "2026-10-29T19:53:27.406Z",
+  "pages_fetched": [
+    "https://www.gelnt.com.au/experiences/private-fishing-charter/",
+    "https://www.gelnt.com.au/",
+    "https://www.gelnt.com.au/experiences/",
+    "https://www.gelnt.com.au/contact/",
+    "https://northernterritory.com/tours/groote-eylandt-tours",
+    "https://northernterritory.com/arnhem-land/see-and-do/fishing",
+    "https://www.gelnt.com.au/experiences/groote-explorer-tour/",
+    "https://www.gelnt.com.au/experiences/groote-explorer-tour",
+    "https://www.gelnt.com.au/experiences/private-fishing-charters/",
+    "https://www.gelnt.com.au/experiences/private-fishing-charters",
+    "https://northernterritory.com/us/en/tours/groote-eylandt-tours",
+    "https://northernterritory.com/things-to-do/outdoor-activities/fishing"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.gelnt.com.au/experiences/private-fishing-charter/",
+      "status": 200,
+      "final_url": "https://www.gelnt.com.au/experiences/private-fishing-charter/",
+      "bytes": 337559
+    },
+    {
+      "page": "https://www.gelnt.com.au/",
+      "status": 200,
+      "final_url": "https://www.gelnt.com.au/",
+      "bytes": 412743
+    },
+    {
+      "page": "https://www.gelnt.com.au/experiences/",
+      "status": 200,
+      "final_url": "https://www.gelnt.com.au/experiences/",
+      "bytes": 313248
+    },
+    {
+      "page": "https://www.gelnt.com.au/contact/",
+      "status": 200,
+      "final_url": "https://www.gelnt.com.au/contact/",
+      "bytes": 289058
+    },
+    {
+      "page": "https://northernterritory.com/tours/groote-eylandt-tours",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/groote-eylandt-tours",
+      "bytes": 522751
+    },
+    {
+      "page": "https://northernterritory.com/arnhem-land/see-and-do/fishing",
+      "status": 200,
+      "final_url": "https://northernterritory.com/arnhem-land/see-and-do/fishing",
+      "bytes": 577891
+    },
+    {
+      "page": "https://www.gelnt.com.au/experiences/groote-explorer-tour/",
+      "status": 200,
+      "final_url": "https://www.gelnt.com.au/experiences/groote-explorer-tour/",
+      "bytes": 312244
+    },
+    {
+      "page": "https://www.gelnt.com.au/experiences/groote-explorer-tour",
+      "status": 200,
+      "final_url": "https://www.gelnt.com.au/experiences/groote-explorer-tour/",
+      "bytes": 312244
+    },
+    {
+      "page": "https://www.gelnt.com.au/experiences/private-fishing-charters/",
+      "status": 200,
+      "final_url": "https://www.gelnt.com.au/experiences/private-fishing-charter/",
+      "bytes": 337559
+    },
+    {
+      "page": "https://www.gelnt.com.au/experiences/private-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.gelnt.com.au/experiences/private-fishing-charter/",
+      "bytes": 337559
+    },
+    {
+      "page": "https://northernterritory.com/us/en/tours/groote-eylandt-tours",
+      "status": 200,
+      "final_url": "https://northernterritory.com/us/en/tours/groote-eylandt-tours",
+      "bytes": 523178
+    },
+    {
+      "page": "https://northernterritory.com/things-to-do/outdoor-activities/fishing",
+      "status": 200,
+      "final_url": "https://northernterritory.com/things-to-do/outdoor-activities/fishing",
+      "bytes": 539882
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "yknot-fishing-charters",
+  "request_hash": "3d3d13e3d2d4",
+  "collected_at": "2026-10-29T19:55:03.576Z",
+  "pages_fetched": [
+    "https://www.yknot.com.au/",
+    "https://yknotfishing.rezdy.com/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.yknot.com.au/",
+      "status": 200,
+      "final_url": "https://www.yknot.com.au/",
+      "bytes": 1262058
+    },
+    {
+      "page": "https://yknotfishing.rezdy.com/",
+      "status": 403,
+      "final_url": "https://yknotfishing.rezdy.com/",
+      "bytes": 5187
+    }
+  ]
+}

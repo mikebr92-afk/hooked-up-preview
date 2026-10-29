@@ -1,0 +1,94 @@
+{
+  "slug": "obsession-fishing-safaris",
+  "request_hash": "fb0856dcd714",
+  "collected_at": "2026-10-29T19:56:08.862Z",
+  "pages_fetched": [
+    "https://obsessionfishing.com.au/",
+    "https://obsessionfishing.com.au/run-off-barra-fishing/",
+    "https://obsessionfishing.com.au/run-off/",
+    "https://obsessionfishing.com.au/day-charters/",
+    "https://obsessionfishing.com.au/darwin-harbour-fishing-charters/",
+    "https://obsessionfishing.com.au/lure-sport-fishing-darwin-harbour-fishing-charter/",
+    "https://obsessionfishing.com.au/mothership-fishing-charters/",
+    "https://obsessionfishing.com.au/about-us-2/",
+    "https://obsessionfishing.com.au/contact-us-2/",
+    "https://darwinlocalista.com.au/listing/obsession-fishing-safaris-private-day-adventures",
+    "https://obsessionfishing.com.au/dundee-beach-fishing/",
+    "https://obsessionfishing.com.au/equipment/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://obsessionfishing.com.au/",
+      "status": 200,
+      "final_url": "https://obsessionfishing.com.au/",
+      "bytes": 389597
+    },
+    {
+      "page": "https://obsessionfishing.com.au/run-off-barra-fishing/",
+      "status": 200,
+      "final_url": "https://obsessionfishing.com.au/run-off-barra-fishing/",
+      "bytes": 200270
+    },
+    {
+      "page": "https://obsessionfishing.com.au/run-off/",
+      "status": 200,
+      "final_url": "https://obsessionfishing.com.au/run-off/",
+      "bytes": 151595
+    },
+    {
+      "page": "https://obsessionfishing.com.au/day-charters/",
+      "status": 200,
+      "final_url": "https://obsessionfishing.com.au/day-charters/",
+      "bytes": 203407
+    },
+    {
+      "page": "https://obsessionfishing.com.au/darwin-harbour-fishing-charters/",
+      "status": 200,
+      "final_url": "https://obsessionfishing.com.au/darwin-harbour-fishing-charters/",
+      "bytes": 209103
+    },
+    {
+      "page": "https://obsessionfishing.com.au/lure-sport-fishing-darwin-harbour-fishing-charter/",
+      "status": 200,
+      "final_url": "https://obsessionfishing.com.au/lure-sport-fishing-darwin-harbour-fishing-charter/",
+      "bytes": 204343
+    },
+    {
+      "page": "https://obsessionfishing.com.au/mothership-fishing-charters/",
+      "status": 200,
+      "final_url": "https://obsessionfishing.com.au/mothership-fishing-charters/",
+      "bytes": 206238
+    },
+    {
+      "page": "https://obsessionfishing.com.au/about-us-2/",
+      "status": 200,
+      "final_url": "https://obsessionfishing.com.au/about-us-2/",
+      "bytes": 137405
+    },
+    {
+      "page": "https://obsessionfishing.com.au/contact-us-2/",
+      "status": 200,
+      "final_url": "https://obsessionfishing.com.au/contact-us-2/",
+      "bytes": 161767
+    },
+    {
+      "page": "https://darwinlocalista.com.au/listing/obsession-fishing-safaris-private-day-adventures",
+      "status": 200,
+      "final_url": "https://darwinlocalista.com.au/listing/obsession-fishing-safaris-private-day-adventures?place=darwin-suburb%2C+nt%2C+au",
+      "bytes": 77246
+    },
+    {
+      "page": "https://obsessionfishing.com.au/dundee-beach-fishing/",
+      "status": 200,
+      "final_url": "https://obsessionfishing.com.au/mothership-fishing-charters/",
+      "bytes": 206238
+    },
+    {
+      "page": "https://obsessionfishing.com.au/equipment/",
+      "status": 200,
+      "final_url": "https://obsessionfishing.com.au/equipment/",
+      "bytes": 148976
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "cobourg-fishing-safaris",
+  "request_hash": "02b3588632cf",
+  "collected_at": "2026-10-29T19:53:36.095Z",
+  "pages_fetched": [
+    "https://www.cobourgfishingsafaris.com.au/",
+    "https://www.cobourgfishingsafaris.com.au/about",
+    "https://www.cobourgfishingsafaris.com.au/fishing-charters",
+    "https://www.cobourgfishingsafaris.com.au/coastal-camp",
+    "https://venturenorth.com.au/tours/fishing-charters/",
+    "https://northernterritory.com/tours/cobourg-fishing-safaris",
+    "https://www.cobourgfishingsafaris.com.au/northern-territory-tourism-blog",
+    "https://www.cobourgfishingsafaris.com.au/book-now/",
+    "https://www.cobourgfishingsafaris.com.au/northern-territory-tourism-blog/",
+    "https://www.cobourgfishingsafaris.com.au/black-point-tours/black-point-tours",
+    "https://www.cobourgfishingsafaris.com.au/privacy-policy",
+    "https://www.cobourgfishingsafaris.com.au/terms-and-conditions"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.cobourgfishingsafaris.com.au/",
+      "status": 200,
+      "final_url": "https://www.cobourgfishingsafaris.com.au/",
+      "bytes": 84591
+    },
+    {
+      "page": "https://www.cobourgfishingsafaris.com.au/about",
+      "status": 200,
+      "final_url": "https://www.cobourgfishingsafaris.com.au/about",
+      "bytes": 26231
+    },
+    {
+      "page": "https://www.cobourgfishingsafaris.com.au/fishing-charters",
+      "status": 200,
+      "final_url": "https://www.cobourgfishingsafaris.com.au/fishing-charters",
+      "bytes": 35903
+    },
+    {
+      "page": "https://www.cobourgfishingsafaris.com.au/coastal-camp",
+      "status": 200,
+      "final_url": "https://www.cobourgfishingsafaris.com.au/coastal-camp",
+      "bytes": 33670
+    },
+    {
+      "page": "https://venturenorth.com.au/tours/fishing-charters/",
+      "status": 200,
+      "final_url": "https://venturenorth.com.au/tours/fishing-charters/",
+      "bytes": 39125
+    },
+    {
+      "page": "https://northernterritory.com/tours/cobourg-fishing-safaris",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/cobourg-fishing-safaris",
+      "bytes": 524336
+    },
+    {
+      "page": "https://www.cobourgfishingsafaris.com.au/northern-territory-tourism-blog",
+      "status": 200,
+      "final_url": "https://cobourgfishingsafaris.com.au/northern-territory-tourism-blog/",
+      "bytes": 27485
+    },
+    {
+      "page": "https://www.cobourgfishingsafaris.com.au/book-now/",
+      "status": 200,
+      "final_url": "https://www.cobourgfishingsafaris.com.au/book-now/",
+      "bytes": 20520
+    },
+    {
+      "page": "https://www.cobourgfishingsafaris.com.au/northern-territory-tourism-blog/",
+      "status": 200,
+      "final_url": "https://www.cobourgfishingsafaris.com.au/northern-territory-tourism-blog/",
+      "bytes": 27485
+    },
+    {
+      "page": "https://www.cobourgfishingsafaris.com.au/black-point-tours/black-point-tours",
+      "status": 200,
+      "final_url": "https://www.cobourgfishingsafaris.com.au/black-point-tours/black-point-tours",
+      "bytes": 24031
+    },
+    {
+      "page": "https://www.cobourgfishingsafaris.com.au/privacy-policy",
+      "status": 200,
+      "final_url": "https://www.cobourgfishingsafaris.com.au/privacy-policy",
+      "bytes": 21820
+    },
+    {
+      "page": "https://www.cobourgfishingsafaris.com.au/terms-and-conditions",
+      "status": 200,
+      "final_url": "https://www.cobourgfishingsafaris.com.au/terms-and-conditions",
+      "bytes": 22086
+    }
+  ]
+}

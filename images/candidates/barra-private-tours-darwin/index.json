@@ -1,0 +1,94 @@
+{
+  "slug": "barra-private-tours-darwin",
+  "request_hash": "fa682451ab25",
+  "collected_at": "2026-10-29T19:54:09.744Z",
+  "pages_fetched": [
+    "https://www.barraprivatetours.com.au/",
+    "https://www.barraprivatetours.com.au/day-charter/",
+    "https://www.barraprivatetours.com.au/fishing-charters/half-day-shared/",
+    "https://www.barraprivatetours.com.au/fishing-charters/full-day-shared/",
+    "https://www.barraprivatetours.com.au/fishing-charters/full-day-private/",
+    "https://www.barraprivatetours.com.au/fishing-charters/multi-days-private-charter/",
+    "https://northernterritory.com/tours/barra-private-tours",
+    "https://www.barraprivatetours.com.au/fishing-charters/half-day-private/",
+    "https://www.barraprivatetours.com.au/other-things-to-do/",
+    "https://www.barraprivatetours.com.au/multiday-charters/",
+    "https://www.barraprivatetours.com.au/build-your-trip/",
+    "https://northernterritory.com/us/en/tours/barra-private-tours"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.barraprivatetours.com.au/",
+      "status": 200,
+      "final_url": "https://www.barraprivatetours.com.au/",
+      "bytes": 171150
+    },
+    {
+      "page": "https://www.barraprivatetours.com.au/day-charter/",
+      "status": 200,
+      "final_url": "https://www.barraprivatetours.com.au/day-charter/",
+      "bytes": 141173
+    },
+    {
+      "page": "https://www.barraprivatetours.com.au/fishing-charters/half-day-shared/",
+      "status": 200,
+      "final_url": "https://www.barraprivatetours.com.au/fishing-charters/half-day-shared/",
+      "bytes": 186887
+    },
+    {
+      "page": "https://www.barraprivatetours.com.au/fishing-charters/full-day-shared/",
+      "status": 200,
+      "final_url": "https://www.barraprivatetours.com.au/fishing-charters/full-day-shared/",
+      "bytes": 187768
+    },
+    {
+      "page": "https://www.barraprivatetours.com.au/fishing-charters/full-day-private/",
+      "status": 200,
+      "final_url": "https://www.barraprivatetours.com.au/fishing-charters/full-day-private/",
+      "bytes": 187316
+    },
+    {
+      "page": "https://www.barraprivatetours.com.au/fishing-charters/multi-days-private-charter/",
+      "status": 200,
+      "final_url": "https://www.barraprivatetours.com.au/fishing-charters/multi-days-private-charter/",
+      "bytes": 200906
+    },
+    {
+      "page": "https://northernterritory.com/tours/barra-private-tours",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/barra-private-tours",
+      "bytes": 527289
+    },
+    {
+      "page": "https://www.barraprivatetours.com.au/fishing-charters/half-day-private/",
+      "status": 200,
+      "final_url": "https://www.barraprivatetours.com.au/fishing-charters/half-day-private/",
+      "bytes": 182204
+    },
+    {
+      "page": "https://www.barraprivatetours.com.au/other-things-to-do/",
+      "status": 200,
+      "final_url": "https://www.barraprivatetours.com.au/other-things-to-do/",
+      "bytes": 164421
+    },
+    {
+      "page": "https://www.barraprivatetours.com.au/multiday-charters/",
+      "status": 200,
+      "final_url": "https://www.barraprivatetours.com.au/multiday-charters/",
+      "bytes": 166548
+    },
+    {
+      "page": "https://www.barraprivatetours.com.au/build-your-trip/",
+      "status": 200,
+      "final_url": "https://www.barraprivatetours.com.au/build-your-trip/",
+      "bytes": 127010
+    },
+    {
+      "page": "https://northernterritory.com/us/en/tours/barra-private-tours",
+      "status": 200,
+      "final_url": "https://northernterritory.com/us/en/tours/barra-private-tours",
+      "bytes": 527706
+    }
+  ]
+}

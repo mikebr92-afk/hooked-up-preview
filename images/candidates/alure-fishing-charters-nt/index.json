@@ -1,0 +1,94 @@
+{
+  "slug": "alure-fishing-charters-nt",
+  "request_hash": "4a59f6535869",
+  "collected_at": "2026-10-29T19:56:15.015Z",
+  "pages_fetched": [
+    "https://alurefishingchartersnt.com.au/",
+    "https://alurefishingchartersnt.com.au/tiwi-islands-charters/",
+    "https://alurefishingchartersnt.com.au/darwin-fishing-charters/",
+    "https://alurefishingchartersnt.com.au/dundee-beach-charters/",
+    "https://alurefishingchartersnt.com.au/darwin-ocean-fishing-tours/",
+    "https://alurefishingchartersnt.com.au/barramundi-fishing-charters/",
+    "https://alurefishingchartersnt.com.au/faq/",
+    "https://northernterritory.com/tours/alure-fishing-charters-nt",
+    "https://alurefishingchartersnt.com.au/fishing-charters/",
+    "https://alurefishingchartersnt.com.au/fishing-charters/gift-card/",
+    "https://alurefishingchartersnt.com.au/boat-charters/",
+    "https://northernterritory.com/us/en/tours/alure-fishing-charters-nt"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://alurefishingchartersnt.com.au/",
+      "status": 200,
+      "final_url": "https://alurefishingchartersnt.com.au/",
+      "bytes": 486644
+    },
+    {
+      "page": "https://alurefishingchartersnt.com.au/tiwi-islands-charters/",
+      "status": 200,
+      "final_url": "https://alurefishingchartersnt.com.au/tiwi-islands-charters/",
+      "bytes": 296018
+    },
+    {
+      "page": "https://alurefishingchartersnt.com.au/darwin-fishing-charters/",
+      "status": 200,
+      "final_url": "https://alurefishingchartersnt.com.au/darwin-fishing-charters/",
+      "bytes": 314576
+    },
+    {
+      "page": "https://alurefishingchartersnt.com.au/dundee-beach-charters/",
+      "status": 200,
+      "final_url": "https://alurefishingchartersnt.com.au/dundee-beach-charters/",
+      "bytes": 363184
+    },
+    {
+      "page": "https://alurefishingchartersnt.com.au/darwin-ocean-fishing-tours/",
+      "status": 200,
+      "final_url": "https://alurefishingchartersnt.com.au/darwin-ocean-fishing-tours/",
+      "bytes": 298096
+    },
+    {
+      "page": "https://alurefishingchartersnt.com.au/barramundi-fishing-charters/",
+      "status": 200,
+      "final_url": "https://alurefishingchartersnt.com.au/barramundi-fishing-charters/",
+      "bytes": 301588
+    },
+    {
+      "page": "https://alurefishingchartersnt.com.au/faq/",
+      "status": 200,
+      "final_url": "https://alurefishingchartersnt.com.au/faq/",
+      "bytes": 318769
+    },
+    {
+      "page": "https://northernterritory.com/tours/alure-fishing-charters-nt",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/alure-fishing-charters-nt",
+      "bytes": 524276
+    },
+    {
+      "page": "https://alurefishingchartersnt.com.au/fishing-charters/",
+      "status": 200,
+      "final_url": "https://alurefishingchartersnt.com.au/fishing-charters/",
+      "bytes": 304121
+    },
+    {
+      "page": "https://alurefishingchartersnt.com.au/fishing-charters/gift-card/",
+      "status": 200,
+      "final_url": "https://alurefishingchartersnt.com.au/fishing-charters/gift-card/",
+      "bytes": 331742
+    },
+    {
+      "page": "https://alurefishingchartersnt.com.au/boat-charters/",
+      "status": 200,
+      "final_url": "https://alurefishingchartersnt.com.au/boat-charters/",
+      "bytes": 274897
+    },
+    {
+      "page": "https://northernterritory.com/us/en/tours/alure-fishing-charters-nt",
+      "status": 200,
+      "final_url": "https://northernterritory.com/us/en/tours/alure-fishing-charters-nt",
+      "bytes": 524405
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "obj-adventures-nhulunbuy-fishing-charters",
+  "request_hash": "6cf4e942190e",
+  "collected_at": "2026-10-29T19:53:44.907Z",
+  "pages_fetched": [
+    "https://www.objadventures.com.au/",
+    "https://www.objadventures.com.au/east-arnhem-fishing-charters",
+    "https://www.objadventures.com.au/Nhulunbuy-Fishing-Charters",
+    "https://www.objadventures.com.au/Nhulunbuy-Fishing-vessel",
+    "https://www.objadventures.com.au/faq",
+    "https://northernterritory.com/tours/obj-adventures-nhulunbuy-fishing-charters",
+    "https://www.objadventures.com.au/Nhulunbuy-Fishing-Charters-photos",
+    "https://www.objadventures.com.au/about-nhulunbuy",
+    "https://www.objadventures.com.au/contact-us",
+    "https://northernterritory.com/us/en/tours/obj-adventures-nhulunbuy-fishing-charters",
+    "https://northernterritory.com/things-to-do/outdoor-activities/fishing",
+    "https://northernterritory.com/tours"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.objadventures.com.au/",
+      "status": 200,
+      "final_url": "https://www.objadventures.com.au/",
+      "bytes": 180814
+    },
+    {
+      "page": "https://www.objadventures.com.au/east-arnhem-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.objadventures.com.au/east-arnhem-fishing-charters",
+      "bytes": 223537
+    },
+    {
+      "page": "https://www.objadventures.com.au/Nhulunbuy-Fishing-Charters",
+      "status": 200,
+      "final_url": "https://www.objadventures.com.au/Nhulunbuy-Fishing-Charters",
+      "bytes": 180401
+    },
+    {
+      "page": "https://www.objadventures.com.au/Nhulunbuy-Fishing-vessel",
+      "status": 200,
+      "final_url": "https://www.objadventures.com.au/Nhulunbuy-Fishing-vessel",
+      "bytes": 171286
+    },
+    {
+      "page": "https://www.objadventures.com.au/faq",
+      "status": 200,
+      "final_url": "https://www.objadventures.com.au/faq",
+      "bytes": 230088
+    },
+    {
+      "page": "https://northernterritory.com/tours/obj-adventures-nhulunbuy-fishing-charters",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/obj-adventures-nhulunbuy-fishing-charters",
+      "bytes": 531386
+    },
+    {
+      "page": "https://www.objadventures.com.au/Nhulunbuy-Fishing-Charters-photos",
+      "status": 200,
+      "final_url": "https://www.objadventures.com.au/Nhulunbuy-Fishing-Charters-photos",
+      "bytes": 264899
+    },
+    {
+      "page": "https://www.objadventures.com.au/about-nhulunbuy",
+      "status": 200,
+      "final_url": "https://www.objadventures.com.au/about-nhulunbuy",
+      "bytes": 193490
+    },
+    {
+      "page": "https://www.objadventures.com.au/contact-us",
+      "status": 200,
+      "final_url": "https://www.objadventures.com.au/contact-us",
+      "bytes": 146195
+    },
+    {
+      "page": "https://northernterritory.com/us/en/tours/obj-adventures-nhulunbuy-fishing-charters",
+      "status": 200,
+      "final_url": "https://northernterritory.com/us/en/tours/obj-adventures-nhulunbuy-fishing-charters",
+      "bytes": 531749
+    },
+    {
+      "page": "https://northernterritory.com/things-to-do/outdoor-activities/fishing",
+      "status": 200,
+      "final_url": "https://northernterritory.com/things-to-do/outdoor-activities/fishing",
+      "bytes": 539882
+    },
+    {
+      "page": "https://northernterritory.com/tours",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours",
+      "bytes": 1248268
+    }
+  ]
+}

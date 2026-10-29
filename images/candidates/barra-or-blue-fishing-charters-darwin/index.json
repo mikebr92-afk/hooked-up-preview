@@ -1,0 +1,94 @@
+{
+  "slug": "barra-or-blue-fishing-charters-darwin",
+  "request_hash": "bd797526a9f5",
+  "collected_at": "2026-10-29T19:54:02.215Z",
+  "pages_fetched": [
+    "https://barraorblue.com.au/",
+    "https://barraorblue.com.au/day-charters/",
+    "https://barraorblue.com.au/vessels/",
+    "https://barraorblue.com.au/about/",
+    "https://barraorblue.com.au/extended-fishing-charters-2/",
+    "https://northernterritory.com/tours/barra-or-blue-fishing-charters",
+    "https://barraorblue.com.au/contact/",
+    "https://northernterritory.com/us/en/tours/barra-or-blue-fishing-charters",
+    "https://northernterritory.com/things-to-do/outdoor-activities/fishing",
+    "https://northernterritory.com/tours",
+    "https://northernterritory.com/tours/barra-or-blue-fishing-charters/full-day-shared-or-private-barra-or-bluewater-fishing-charter",
+    "https://northernterritory.com/tours/barra-or-blue-fishing-charters/barra-or-blue-extended-fishing-charters"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://barraorblue.com.au/",
+      "status": 200,
+      "final_url": "https://barraorblue.com.au/",
+      "bytes": 126846
+    },
+    {
+      "page": "https://barraorblue.com.au/day-charters/",
+      "status": 200,
+      "final_url": "https://barraorblue.com.au/day-charters/",
+      "bytes": 202258
+    },
+    {
+      "page": "https://barraorblue.com.au/vessels/",
+      "status": 200,
+      "final_url": "https://barraorblue.com.au/vessels/",
+      "bytes": 219815
+    },
+    {
+      "page": "https://barraorblue.com.au/about/",
+      "status": 200,
+      "final_url": "https://barraorblue.com.au/about/",
+      "bytes": 214128
+    },
+    {
+      "page": "https://barraorblue.com.au/extended-fishing-charters-2/",
+      "status": 200,
+      "final_url": "https://barraorblue.com.au/extended-fishing-charters-2/",
+      "bytes": 321724
+    },
+    {
+      "page": "https://northernterritory.com/tours/barra-or-blue-fishing-charters",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/barra-or-blue-fishing-charters",
+      "bytes": 523589
+    },
+    {
+      "page": "https://barraorblue.com.au/contact/",
+      "status": 200,
+      "final_url": "https://barraorblue.com.au/contact/",
+      "bytes": 231108
+    },
+    {
+      "page": "https://northernterritory.com/us/en/tours/barra-or-blue-fishing-charters",
+      "status": 200,
+      "final_url": "https://northernterritory.com/us/en/tours/barra-or-blue-fishing-charters",
+      "bytes": 523980
+    },
+    {
+      "page": "https://northernterritory.com/things-to-do/outdoor-activities/fishing",
+      "status": 200,
+      "final_url": "https://northernterritory.com/things-to-do/outdoor-activities/fishing",
+      "bytes": 539882
+    },
+    {
+      "page": "https://northernterritory.com/tours",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours",
+      "bytes": 1248268
+    },
+    {
+      "page": "https://northernterritory.com/tours/barra-or-blue-fishing-charters/full-day-shared-or-private-barra-or-bluewater-fishing-charter",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/barra-or-blue-fishing-charters/full-day-shared-or-private-barra-or-bluewater-fishing-charter",
+      "bytes": 519824
+    },
+    {
+      "page": "https://northernterritory.com/tours/barra-or-blue-fishing-charters/barra-or-blue-extended-fishing-charters",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/barra-or-blue-fishing-charters/barra-or-blue-extended-fishing-charters",
+      "bytes": 524893
+    }
+  ]
+}

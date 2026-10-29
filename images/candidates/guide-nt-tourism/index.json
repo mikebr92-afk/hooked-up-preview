@@ -1,0 +1,80 @@
+{
+  "slug": "guide-nt-tourism",
+  "request_hash": "3b5d614224a2",
+  "collected_at": "2026-10-29T19:53:00.725Z",
+  "pages_fetched": [
+    "https://northernterritory.com/articles/11-of-the-best-fishing-spots-to-visit-in-the-top-end",
+    "https://northernterritory.com/things-to-do/outdoor-activities/fishing/fishing-charters",
+    "https://northernterritory.com/darwin-and-surrounds/see-and-do/outdoor-activities/fishing",
+    "https://northernterritory.com/katherine-and-surrounds/see-and-do/outdoor-activities/fishing",
+    "https://northernterritory.com/arnhem-land/see-and-do/fishing",
+    "https://northernterritory.com/darwin-and-surrounds/destinations/tiwi-islands",
+    "https://northernterritory.com/katherine-and-surrounds/destinations/borroloola",
+    "https://northernterritory.com/darwin-and-surrounds/destinations/mary-river",
+    "https://northernterritory.com/katherine-and-surrounds/destinations/gulf-region",
+    "https://northernterritory.com/katherine-and-surrounds/destinations/king-ash-bay"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://northernterritory.com/articles/11-of-the-best-fishing-spots-to-visit-in-the-top-end",
+      "status": 200,
+      "final_url": "https://northernterritory.com/articles/11-of-the-best-fishing-spots-to-visit-in-the-top-end",
+      "bytes": 552139
+    },
+    {
+      "page": "https://northernterritory.com/things-to-do/outdoor-activities/fishing/fishing-charters",
+      "status": 200,
+      "final_url": "https://northernterritory.com/things-to-do/outdoor-activities/fishing/fishing-charters",
+      "bytes": 609052
+    },
+    {
+      "page": "https://northernterritory.com/darwin-and-surrounds/see-and-do/outdoor-activities/fishing",
+      "status": 200,
+      "final_url": "https://northernterritory.com/darwin-and-surrounds/see-and-do/outdoor-activities/fishing",
+      "bytes": 736858
+    },
+    {
+      "page": "https://northernterritory.com/katherine-and-surrounds/see-and-do/outdoor-activities/fishing",
+      "status": 200,
+      "final_url": "https://northernterritory.com/katherine-and-surrounds/see-and-do/outdoor-activities/fishing",
+      "bytes": 550232
+    },
+    {
+      "page": "https://northernterritory.com/arnhem-land/see-and-do/fishing",
+      "status": 200,
+      "final_url": "https://northernterritory.com/arnhem-land/see-and-do/fishing",
+      "bytes": 577891
+    },
+    {
+      "page": "https://northernterritory.com/darwin-and-surrounds/destinations/tiwi-islands",
+      "status": 200,
+      "final_url": "https://northernterritory.com/darwin-and-surrounds/destinations/tiwi-islands",
+      "bytes": 539415
+    },
+    {
+      "page": "https://northernterritory.com/katherine-and-surrounds/destinations/borroloola",
+      "status": 200,
+      "final_url": "https://northernterritory.com/katherine-and-surrounds/destinations/borroloola",
+      "bytes": 539993
+    },
+    {
+      "page": "https://northernterritory.com/darwin-and-surrounds/destinations/mary-river",
+      "status": 200,
+      "final_url": "https://northernterritory.com/darwin-and-surrounds/destinations/mary-river",
+      "bytes": 561131
+    },
+    {
+      "page": "https://northernterritory.com/katherine-and-surrounds/destinations/gulf-region",
+      "status": 200,
+      "final_url": "https://northernterritory.com/katherine-and-surrounds/destinations/gulf-region",
+      "bytes": 539956
+    },
+    {
+      "page": "https://northernterritory.com/katherine-and-surrounds/destinations/king-ash-bay",
+      "status": 200,
+      "final_url": "https://northernterritory.com/katherine-and-surrounds/destinations/king-ash-bay",
+      "bytes": 503627
+    }
+  ]
+}

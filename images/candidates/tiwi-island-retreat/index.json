@@ -1,0 +1,94 @@
+{
+  "slug": "tiwi-island-retreat",
+  "request_hash": "c81a8e9c6e21",
+  "collected_at": "2026-10-29T19:56:24.356Z",
+  "pages_fetched": [
+    "https://tiwiislandretreat.com.au/",
+    "https://tiwiislandretreat.com.au/p/fishing-adventure/",
+    "https://tiwiislandretreat.com.au/faq/",
+    "https://northernterritory.com/darwin-and-surrounds/accommodation/tiwi-island-retreat",
+    "https://tiwiislandretreat.com.au/about/",
+    "https://tiwiislandretreat.com.au/gallery/",
+    "https://tiwiislandretreat.com.au/faq",
+    "https://tiwiislandretreat.com.au/contact/",
+    "https://tiwiislandretreat.com.au/contact",
+    "https://northernterritory.com/things-to-do/outdoor-activities/fishing",
+    "https://northernterritory.com/tours",
+    "https://northernterritory.com/find-out-more/contact-us"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://tiwiislandretreat.com.au/",
+      "status": 200,
+      "final_url": "https://tiwiislandretreat.com.au/",
+      "bytes": 198987
+    },
+    {
+      "page": "https://tiwiislandretreat.com.au/p/fishing-adventure/",
+      "status": 200,
+      "final_url": "https://tiwiislandretreat.com.au/p/fishing-adventure/",
+      "bytes": 137799
+    },
+    {
+      "page": "https://tiwiislandretreat.com.au/faq/",
+      "status": 200,
+      "final_url": "https://tiwiislandretreat.com.au/faq/",
+      "bytes": 137650
+    },
+    {
+      "page": "https://northernterritory.com/darwin-and-surrounds/accommodation/tiwi-island-retreat",
+      "status": 200,
+      "final_url": "https://northernterritory.com/darwin-and-surrounds/accommodation/tiwi-island-retreat",
+      "bytes": 528127
+    },
+    {
+      "page": "https://tiwiislandretreat.com.au/about/",
+      "status": 200,
+      "final_url": "https://tiwiislandretreat.com.au/about/",
+      "bytes": 117112
+    },
+    {
+      "page": "https://tiwiislandretreat.com.au/gallery/",
+      "status": 200,
+      "final_url": "https://tiwiislandretreat.com.au/gallery/",
+      "bytes": 144809
+    },
+    {
+      "page": "https://tiwiislandretreat.com.au/faq",
+      "status": 200,
+      "final_url": "https://tiwiislandretreat.com.au/faq/",
+      "bytes": 137650
+    },
+    {
+      "page": "https://tiwiislandretreat.com.au/contact/",
+      "status": 200,
+      "final_url": "https://tiwiislandretreat.com.au/contact/",
+      "bytes": 112182
+    },
+    {
+      "page": "https://tiwiislandretreat.com.au/contact",
+      "status": 200,
+      "final_url": "https://tiwiislandretreat.com.au/contact/",
+      "bytes": 112182
+    },
+    {
+      "page": "https://northernterritory.com/things-to-do/outdoor-activities/fishing",
+      "status": 200,
+      "final_url": "https://northernterritory.com/things-to-do/outdoor-activities/fishing",
+      "bytes": 539882
+    },
+    {
+      "page": "https://northernterritory.com/tours",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours",
+      "bytes": 1248268
+    },
+    {
+      "page": "https://northernterritory.com/find-out-more/contact-us",
+      "status": 200,
+      "final_url": "https://northernterritory.com/find-out-more/contact-us",
+      "bytes": 495915
+    }
+  ]
+}

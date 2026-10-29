@@ -1,0 +1,94 @@
+{
+  "slug": "offshore-boats-darwin",
+  "request_hash": "6aaac4cf1f0c",
+  "collected_at": "2026-10-29T19:54:57.969Z",
+  "pages_fetched": [
+    "https://offshoreboats.com.au/",
+    "https://offshoreboats.com.au/reef-sport-fishing-charters/",
+    "https://offshoreboats.com.au/barramundi-fishing-charters/",
+    "https://offshoreboats.com.au/corroboree-billabong-barramundi-fishing-charters/",
+    "https://offshoreboats.com.au/billfish-charters/",
+    "https://offshoreboats.com.au/mudcrabcharters/",
+    "https://offshoreboats.com.au/about/faq/",
+    "https://northernterritory.com/tours/offshore-boats",
+    "https://offshoreboats.com.au/vessel-specs/",
+    "https://offshoreboats.com.au/extended-fishing-charters/",
+    "https://offshoreboats.com.au/mothership-fishing-charters/",
+    "https://offshoreboats.com.au/why-us/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://offshoreboats.com.au/",
+      "status": 200,
+      "final_url": "https://offshoreboats.com.au/",
+      "bytes": 123814
+    },
+    {
+      "page": "https://offshoreboats.com.au/reef-sport-fishing-charters/",
+      "status": 200,
+      "final_url": "https://offshoreboats.com.au/reef-sport-fishing-charters/",
+      "bytes": 171852
+    },
+    {
+      "page": "https://offshoreboats.com.au/barramundi-fishing-charters/",
+      "status": 200,
+      "final_url": "https://offshoreboats.com.au/barramundi-fishing-charters/",
+      "bytes": 165094
+    },
+    {
+      "page": "https://offshoreboats.com.au/corroboree-billabong-barramundi-fishing-charters/",
+      "status": 200,
+      "final_url": "https://offshoreboats.com.au/corroboree-billabong-barramundi-fishing-charters/",
+      "bytes": 157270
+    },
+    {
+      "page": "https://offshoreboats.com.au/billfish-charters/",
+      "status": 200,
+      "final_url": "https://offshoreboats.com.au/billfish-charters/",
+      "bytes": 143451
+    },
+    {
+      "page": "https://offshoreboats.com.au/mudcrabcharters/",
+      "status": 200,
+      "final_url": "https://offshoreboats.com.au/mudcrabcharters/",
+      "bytes": 165510
+    },
+    {
+      "page": "https://offshoreboats.com.au/about/faq/",
+      "status": 200,
+      "final_url": "https://offshoreboats.com.au/about/faq/",
+      "bytes": 135006
+    },
+    {
+      "page": "https://northernterritory.com/tours/offshore-boats",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/offshore-boats",
+      "bytes": 529184
+    },
+    {
+      "page": "https://offshoreboats.com.au/vessel-specs/",
+      "status": 200,
+      "final_url": "https://offshoreboats.com.au/vessel-specs/",
+      "bytes": 133776
+    },
+    {
+      "page": "https://offshoreboats.com.au/extended-fishing-charters/",
+      "status": 200,
+      "final_url": "https://offshoreboats.com.au/extended-fishing-charters/",
+      "bytes": 178544
+    },
+    {
+      "page": "https://offshoreboats.com.au/mothership-fishing-charters/",
+      "status": 200,
+      "final_url": "https://offshoreboats.com.au/mothership-fishing-charters/",
+      "bytes": 163060
+    },
+    {
+      "page": "https://offshoreboats.com.au/why-us/",
+      "status": 200,
+      "final_url": "https://offshoreboats.com.au/why-us/",
+      "bytes": 142336
+    }
+  ]
+}

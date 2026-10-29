@@ -1,0 +1,94 @@
+{
+  "slug": "just-doon-it-fishing-charters",
+  "request_hash": "6379cbd248a2",
+  "collected_at": "2026-10-29T19:55:42.458Z",
+  "pages_fetched": [
+    "https://www.justdoonit.com.au/",
+    "https://www.justdoonit.com.au/price-2/copy-of-price",
+    "https://www.justdoonit.com.au/price-2/copy-of-dry-season-tours",
+    "https://www.justdoonit.com.au/about",
+    "https://www.justdoonit.com.au/faq",
+    "https://northernterritory.com/tours/just-doon-it-barramundi-fishing-charters",
+    "https://www.justdoonit.com.au/price-2",
+    "https://northernterritory.com/us/en/tours/just-doon-it-barramundi-fishing-charters",
+    "https://northernterritory.com/things-to-do/outdoor-activities/fishing",
+    "https://northernterritory.com/tours",
+    "https://northernterritory.com/tours/just-doon-it-barramundi-fishing-charters/just-doon-it-barramundi-fishing-charters",
+    "https://northernterritory.com/find-out-more/contact-us"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.justdoonit.com.au/",
+      "status": 200,
+      "final_url": "https://www.justdoonit.com.au/",
+      "bytes": 1356057
+    },
+    {
+      "page": "https://www.justdoonit.com.au/price-2/copy-of-price",
+      "status": 200,
+      "final_url": "https://www.justdoonit.com.au/price-2/copy-of-price",
+      "bytes": 1331229
+    },
+    {
+      "page": "https://www.justdoonit.com.au/price-2/copy-of-dry-season-tours",
+      "status": 200,
+      "final_url": "https://www.justdoonit.com.au/price-2/copy-of-dry-season-tours",
+      "bytes": 1392844
+    },
+    {
+      "page": "https://www.justdoonit.com.au/about",
+      "status": 200,
+      "final_url": "https://www.justdoonit.com.au/about",
+      "bytes": 1338568
+    },
+    {
+      "page": "https://www.justdoonit.com.au/faq",
+      "status": 200,
+      "final_url": "https://www.justdoonit.com.au/faq",
+      "bytes": 1496007
+    },
+    {
+      "page": "https://northernterritory.com/tours/just-doon-it-barramundi-fishing-charters",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/just-doon-it-barramundi-fishing-charters",
+      "bytes": 521514
+    },
+    {
+      "page": "https://www.justdoonit.com.au/price-2",
+      "status": 200,
+      "final_url": "https://www.justdoonit.com.au/price-2",
+      "bytes": 1237229
+    },
+    {
+      "page": "https://northernterritory.com/us/en/tours/just-doon-it-barramundi-fishing-charters",
+      "status": 200,
+      "final_url": "https://northernterritory.com/us/en/tours/just-doon-it-barramundi-fishing-charters",
+      "bytes": 521583
+    },
+    {
+      "page": "https://northernterritory.com/things-to-do/outdoor-activities/fishing",
+      "status": 200,
+      "final_url": "https://northernterritory.com/things-to-do/outdoor-activities/fishing",
+      "bytes": 539882
+    },
+    {
+      "page": "https://northernterritory.com/tours",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours",
+      "bytes": 1248268
+    },
+    {
+      "page": "https://northernterritory.com/tours/just-doon-it-barramundi-fishing-charters/just-doon-it-barramundi-fishing-charters",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/just-doon-it-barramundi-fishing-charters/just-doon-it-barramundi-fishing-charters",
+      "bytes": 522214
+    },
+    {
+      "page": "https://northernterritory.com/find-out-more/contact-us",
+      "status": 200,
+      "final_url": "https://northernterritory.com/find-out-more/contact-us",
+      "bytes": 495915
+    }
+  ]
+}

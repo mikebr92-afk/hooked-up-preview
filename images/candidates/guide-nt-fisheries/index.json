@@ -1,0 +1,94 @@
+{
+  "slug": "guide-nt-fisheries",
+  "request_hash": "671ef74539ce",
+  "collected_at": "2026-10-29T19:53:13.528Z",
+  "pages_fetched": [
+    "https://nt.gov.au/marine/recreational-fishing/rules-for-fishing-in-specific-areas/mary-river-fish-management-zone",
+    "https://nt.gov.au/marine/fishing-on-aboriginal-land/mcarthur-river-and-sir-edward-pellew-islands",
+    "https://mediareleases.nt.gov.au/article?id=14713",
+    "https://pfes.nt.gov.au/node/32279",
+    "https://www.kingashbay.com.au/",
+    "https://www.visitkatherine.com.au/visitor-information/surrounding-regions/the-gulf",
+    "https://pfes.nt.gov.au/corporate",
+    "https://pfes.nt.gov.au/join-us/shape-your-future/accelerated-recruitment-program",
+    "https://pfes.nt.gov.au/contact-us",
+    "https://pfes.nt.gov.au/online-services/emergency-service-contacts",
+    "https://pfes.nt.gov.au/online-services/fire-and-rescue-contacts",
+    "https://pfes.nt.gov.au/online-services/police-contacts"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://nt.gov.au/marine/recreational-fishing/rules-for-fishing-in-specific-areas/mary-river-fish-management-zone",
+      "status": 403,
+      "final_url": "https://nt.gov.au/marine/recreational-fishing/rules-for-fishing-in-specific-areas/mary-river-fish-management-zone",
+      "bytes": 6143
+    },
+    {
+      "page": "https://nt.gov.au/marine/fishing-on-aboriginal-land/mcarthur-river-and-sir-edward-pellew-islands",
+      "status": 403,
+      "final_url": "https://nt.gov.au/marine/fishing-on-aboriginal-land/mcarthur-river-and-sir-edward-pellew-islands",
+      "bytes": 6071
+    },
+    {
+      "page": "https://mediareleases.nt.gov.au/article?id=14713",
+      "status": 403,
+      "final_url": "https://mediareleases.nt.gov.au/article?id=14713",
+      "bytes": 5850
+    },
+    {
+      "page": "https://pfes.nt.gov.au/node/32279",
+      "status": 200,
+      "final_url": "https://pfes.nt.gov.au/newsroom/2011/water-police-operations-daly-river-and-mary-river",
+      "bytes": 46622
+    },
+    {
+      "page": "https://www.kingashbay.com.au/",
+      "status": 200,
+      "final_url": "https://www.kingashbay.com.au/",
+      "bytes": 78668
+    },
+    {
+      "page": "https://www.visitkatherine.com.au/visitor-information/surrounding-regions/the-gulf",
+      "status": 200,
+      "final_url": "https://www.visitkatherine.com.au/visitor-information/surrounding-regions/the-gulf",
+      "bytes": 43259
+    },
+    {
+      "page": "https://pfes.nt.gov.au/corporate",
+      "status": 200,
+      "final_url": "https://pfes.nt.gov.au/corporate",
+      "bytes": 44028
+    },
+    {
+      "page": "https://pfes.nt.gov.au/join-us/shape-your-future/accelerated-recruitment-program",
+      "status": 200,
+      "final_url": "https://pfes.nt.gov.au/join-us/shape-your-future/accelerated-recruitment-program",
+      "bytes": 51480
+    },
+    {
+      "page": "https://pfes.nt.gov.au/contact-us",
+      "status": 200,
+      "final_url": "https://pfes.nt.gov.au/contact-us",
+      "bytes": 42948
+    },
+    {
+      "page": "https://pfes.nt.gov.au/online-services/emergency-service-contacts",
+      "status": 200,
+      "final_url": "https://pfes.nt.gov.au/nt-emergency-service-general-enquiries",
+      "bytes": 41733
+    },
+    {
+      "page": "https://pfes.nt.gov.au/online-services/fire-and-rescue-contacts",
+      "status": 200,
+      "final_url": "https://pfes.nt.gov.au/contact-us/fire-and-rescue-general-enquiries",
+      "bytes": 44424
+    },
+    {
+      "page": "https://pfes.nt.gov.au/online-services/police-contacts",
+      "status": 200,
+      "final_url": "https://pfes.nt.gov.au/contact-us/police-general-enquiries",
+      "bytes": 52971
+    }
+  ]
+}

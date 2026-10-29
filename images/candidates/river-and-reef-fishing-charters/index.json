@@ -1,0 +1,94 @@
+{
+  "slug": "river-and-reef-fishing-charters",
+  "request_hash": "c7b0d359e06b",
+  "collected_at": "2026-10-29T19:55:03.339Z",
+  "pages_fetched": [
+    "https://riverandreef.com.au/",
+    "https://riverandreef.com.au/run-off-barra-fishing-2/",
+    "https://riverandreef.com.au/dundee-beach-fishing-charters/",
+    "https://riverandreef.com.au/live-aboard-charters/",
+    "https://riverandreef.com.au/corroboree-barra-fishing-day-tours/",
+    "https://riverandreef.com.au/salt-water-barra-fishing/",
+    "https://riverandreef.com.au/darwin-harbour-sport-fishing/",
+    "https://riverandreef.com.au/darwin-harbour-fishing-charters-half-day/",
+    "https://northernterritory.com/tours/river--reef-fishing-charters",
+    "https://riverandreef.com.au/contact/",
+    "https://riverandreef.com.au/booking-conditions/",
+    "https://northernterritory.com/us/en/tours/river--reef-fishing-charters"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://riverandreef.com.au/",
+      "status": 200,
+      "final_url": "https://riverandreef.com.au/",
+      "bytes": 224875
+    },
+    {
+      "page": "https://riverandreef.com.au/run-off-barra-fishing-2/",
+      "status": 200,
+      "final_url": "https://riverandreef.com.au/run-off-barra-fishing-2/",
+      "bytes": 214173
+    },
+    {
+      "page": "https://riverandreef.com.au/dundee-beach-fishing-charters/",
+      "status": 200,
+      "final_url": "https://riverandreef.com.au/dundee-beach-fishing-charters/",
+      "bytes": 221241
+    },
+    {
+      "page": "https://riverandreef.com.au/live-aboard-charters/",
+      "status": 200,
+      "final_url": "https://riverandreef.com.au/live-aboard-charters/",
+      "bytes": 216844
+    },
+    {
+      "page": "https://riverandreef.com.au/corroboree-barra-fishing-day-tours/",
+      "status": 200,
+      "final_url": "https://riverandreef.com.au/corroboree-barra-fishing-day-tours/",
+      "bytes": 214326
+    },
+    {
+      "page": "https://riverandreef.com.au/salt-water-barra-fishing/",
+      "status": 200,
+      "final_url": "https://riverandreef.com.au/salt-water-barra-fishing/",
+      "bytes": 207365
+    },
+    {
+      "page": "https://riverandreef.com.au/darwin-harbour-sport-fishing/",
+      "status": 200,
+      "final_url": "https://riverandreef.com.au/darwin-harbour-sport-fishing/",
+      "bytes": 207653
+    },
+    {
+      "page": "https://riverandreef.com.au/darwin-harbour-fishing-charters-half-day/",
+      "status": 200,
+      "final_url": "https://riverandreef.com.au/darwin-harbour-fishing-charters-half-day/",
+      "bytes": 209218
+    },
+    {
+      "page": "https://northernterritory.com/tours/river--reef-fishing-charters",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/river--reef-fishing-charters",
+      "bytes": 514538
+    },
+    {
+      "page": "https://riverandreef.com.au/contact/",
+      "status": 200,
+      "final_url": "https://riverandreef.com.au/contact/",
+      "bytes": 181100
+    },
+    {
+      "page": "https://riverandreef.com.au/booking-conditions/",
+      "status": 200,
+      "final_url": "https://riverandreef.com.au/booking-conditions/",
+      "bytes": 160397
+    },
+    {
+      "page": "https://northernterritory.com/us/en/tours/river--reef-fishing-charters",
+      "status": 200,
+      "final_url": "https://northernterritory.com/us/en/tours/river--reef-fishing-charters",
+      "bytes": 514913
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "australian-sportfishing-charters",
+  "request_hash": "3d9e36881754",
+  "collected_at": "2026-10-29T19:53:17.805Z",
+  "pages_fetched": [
+    "https://australiansportfishingcharters.com/",
+    "https://australiansportfishingcharters.com/roper-river-charters/",
+    "https://northernterritory.com/tours/australian-sportfishing-charters",
+    "https://northernterritory.com/tours/australian-sportfishing-charters/roper-river-fishing",
+    "https://australiansportfishingcharters.com/arnhem-land-fishing/",
+    "https://australiansportfishingcharters.com/cairns-marlin-charters/",
+    "https://australiansportfishingcharters.com/the-iron-lady/",
+    "https://australiansportfishingcharters.com/wild-turkey/",
+    "https://australiansportfishingcharters.com/tenders/",
+    "https://australiansportfishingcharters.com/the-experience/",
+    "https://australiansportfishingcharters.com/fishing-blog/",
+    "https://australiansportfishingcharters.com/contact-us/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://australiansportfishingcharters.com/",
+      "status": 200,
+      "final_url": "https://australiansportfishingcharters.com/",
+      "bytes": 167429
+    },
+    {
+      "page": "https://australiansportfishingcharters.com/roper-river-charters/",
+      "status": 200,
+      "final_url": "https://australiansportfishingcharters.com/roper-river-charters/",
+      "bytes": 223482
+    },
+    {
+      "page": "https://northernterritory.com/tours/australian-sportfishing-charters",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/australian-sportfishing-charters",
+      "bytes": 531264
+    },
+    {
+      "page": "https://northernterritory.com/tours/australian-sportfishing-charters/roper-river-fishing",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/australian-sportfishing-charters/roper-river-fishing",
+      "bytes": 514366
+    },
+    {
+      "page": "https://australiansportfishingcharters.com/arnhem-land-fishing/",
+      "status": 200,
+      "final_url": "https://australiansportfishingcharters.com/arnhem-land-fishing/",
+      "bytes": 232438
+    },
+    {
+      "page": "https://australiansportfishingcharters.com/cairns-marlin-charters/",
+      "status": 200,
+      "final_url": "https://australiansportfishingcharters.com/cairns-marlin-charters/",
+      "bytes": 251067
+    },
+    {
+      "page": "https://australiansportfishingcharters.com/the-iron-lady/",
+      "status": 200,
+      "final_url": "https://australiansportfishingcharters.com/the-iron-lady/",
+      "bytes": 202115
+    },
+    {
+      "page": "https://australiansportfishingcharters.com/wild-turkey/",
+      "status": 200,
+      "final_url": "https://australiansportfishingcharters.com/wild-turkey/",
+      "bytes": 201548
+    },
+    {
+      "page": "https://australiansportfishingcharters.com/tenders/",
+      "status": 200,
+      "final_url": "https://australiansportfishingcharters.com/tenders/",
+      "bytes": 192729
+    },
+    {
+      "page": "https://australiansportfishingcharters.com/the-experience/",
+      "status": 200,
+      "final_url": "https://australiansportfishingcharters.com/the-experience/",
+      "bytes": 192392
+    },
+    {
+      "page": "https://australiansportfishingcharters.com/fishing-blog/",
+      "status": 200,
+      "final_url": "https://australiansportfishingcharters.com/fishing-blog/",
+      "bytes": 360163
+    },
+    {
+      "page": "https://australiansportfishingcharters.com/contact-us/",
+      "status": 200,
+      "final_url": "https://australiansportfishingcharters.com/contact-us/",
+      "bytes": 259254
+    }
+  ]
+}

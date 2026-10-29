@@ -1,0 +1,94 @@
+{
+  "slug": "humbug-fishing-darwin",
+  "request_hash": "4dfcad9b9e73",
+  "collected_at": "2026-10-29T19:53:49.617Z",
+  "pages_fetched": [
+    "https://fishingcharterdarwin.com.au/",
+    "https://fishingcharterdarwin.com.au/daly-river-reynold-flood-plains/",
+    "https://fishingcharterdarwin.com.au/live-aboard-fishing-charters/",
+    "https://fishingcharterdarwin.com.au/tag-along-fishing-charters/",
+    "https://fishingcharterdarwin.com.au/fishing-charter-options/",
+    "https://northernterritory.com/tours/humbug-fishing",
+    "https://fishingcharterdarwin.com.au/commercial-marine-services/",
+    "https://fishingcharterdarwin.com.au/fishing-destinations/",
+    "https://fishingcharterdarwin.com.au/kimberley-fishing-charters/",
+    "https://fishingcharterdarwin.com.au/fish-the-cobourg-peninsula-arnhem-land/",
+    "https://fishingcharterdarwin.com.au/mary-river-system/",
+    "https://northernterritory.com/us/en/tours/humbug-fishing"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://fishingcharterdarwin.com.au/",
+      "status": 200,
+      "final_url": "https://fishingcharterdarwin.com.au/",
+      "bytes": 329948
+    },
+    {
+      "page": "https://fishingcharterdarwin.com.au/daly-river-reynold-flood-plains/",
+      "status": 200,
+      "final_url": "https://fishingcharterdarwin.com.au/daly-river-reynold-flood-plains/",
+      "bytes": 358703
+    },
+    {
+      "page": "https://fishingcharterdarwin.com.au/live-aboard-fishing-charters/",
+      "status": 200,
+      "final_url": "https://fishingcharterdarwin.com.au/live-aboard-fishing-charters/",
+      "bytes": 336899
+    },
+    {
+      "page": "https://fishingcharterdarwin.com.au/tag-along-fishing-charters/",
+      "status": 200,
+      "final_url": "https://fishingcharterdarwin.com.au/tag-along-fishing-charters/",
+      "bytes": 343137
+    },
+    {
+      "page": "https://fishingcharterdarwin.com.au/fishing-charter-options/",
+      "status": 200,
+      "final_url": "https://fishingcharterdarwin.com.au/fishing-charter-options/",
+      "bytes": 336052
+    },
+    {
+      "page": "https://northernterritory.com/tours/humbug-fishing",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/humbug-fishing",
+      "bytes": 524354
+    },
+    {
+      "page": "https://fishingcharterdarwin.com.au/commercial-marine-services/",
+      "status": 200,
+      "final_url": "https://fishingcharterdarwin.com.au/commercial-marine-services/",
+      "bytes": 331919
+    },
+    {
+      "page": "https://fishingcharterdarwin.com.au/fishing-destinations/",
+      "status": 200,
+      "final_url": "https://fishingcharterdarwin.com.au/fishing-destinations/",
+      "bytes": 343643
+    },
+    {
+      "page": "https://fishingcharterdarwin.com.au/kimberley-fishing-charters/",
+      "status": 200,
+      "final_url": "https://fishingcharterdarwin.com.au/kimberley-fishing-charters/",
+      "bytes": 490678
+    },
+    {
+      "page": "https://fishingcharterdarwin.com.au/fish-the-cobourg-peninsula-arnhem-land/",
+      "status": 200,
+      "final_url": "https://fishingcharterdarwin.com.au/fish-the-cobourg-peninsula-arnhem-land/",
+      "bytes": 459657
+    },
+    {
+      "page": "https://fishingcharterdarwin.com.au/mary-river-system/",
+      "status": 200,
+      "final_url": "https://fishingcharterdarwin.com.au/mary-river-system/",
+      "bytes": 358371
+    },
+    {
+      "page": "https://northernterritory.com/us/en/tours/humbug-fishing",
+      "status": 200,
+      "final_url": "https://northernterritory.com/us/en/tours/humbug-fishing",
+      "bytes": 524527
+    }
+  ]
+}

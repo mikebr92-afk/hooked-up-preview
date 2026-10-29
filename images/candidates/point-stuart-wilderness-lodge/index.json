@@ -1,0 +1,94 @@
+{
+  "slug": "point-stuart-wilderness-lodge",
+  "request_hash": "0877b7d8362c",
+  "collected_at": "2026-10-29T19:56:12.315Z",
+  "pages_fetched": [
+    "https://www.pointstuart.com.au/",
+    "https://www.pointstuart.com.au/barramundi-fishing",
+    "https://www.pointstuart.com.au/contact",
+    "https://www.pointstuart.com.au/boat-tackle-hire",
+    "https://northernterritory.com/darwin-and-surrounds/accommodation/point-stuart-wilderness-lodge",
+    "https://www.pointstuart.com.au/birding-wildlife-tours",
+    "https://www.pointstuart.com.au/4wd-safari-tour",
+    "https://www.pointstuart.com.au/about",
+    "https://www.pointstuart.com.au/tours",
+    "https://northernterritory.com/things-to-do/outdoor-activities/fishing",
+    "https://northernterritory.com/tours",
+    "https://northernterritory.com/find-out-more/contact-us"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.pointstuart.com.au/",
+      "status": 200,
+      "final_url": "https://www.pointstuart.com.au/",
+      "bytes": 136905
+    },
+    {
+      "page": "https://www.pointstuart.com.au/barramundi-fishing",
+      "status": 200,
+      "final_url": "https://www.pointstuart.com.au/barramundi-fishing",
+      "bytes": 164230
+    },
+    {
+      "page": "https://www.pointstuart.com.au/contact",
+      "status": 200,
+      "final_url": "https://www.pointstuart.com.au/contact",
+      "bytes": 135015
+    },
+    {
+      "page": "https://www.pointstuart.com.au/boat-tackle-hire",
+      "status": 200,
+      "final_url": "https://www.pointstuart.com.au/boat-tackle-hire",
+      "bytes": 113116
+    },
+    {
+      "page": "https://northernterritory.com/darwin-and-surrounds/accommodation/point-stuart-wilderness-lodge",
+      "status": 200,
+      "final_url": "https://northernterritory.com/darwin-and-surrounds/accommodation/point-stuart-wilderness-lodge",
+      "bytes": 523729
+    },
+    {
+      "page": "https://www.pointstuart.com.au/birding-wildlife-tours",
+      "status": 200,
+      "final_url": "https://www.pointstuart.com.au/birding-wildlife-tours",
+      "bytes": 165338
+    },
+    {
+      "page": "https://www.pointstuart.com.au/4wd-safari-tour",
+      "status": 200,
+      "final_url": "https://www.pointstuart.com.au/4wd-safari-tour",
+      "bytes": 142808
+    },
+    {
+      "page": "https://www.pointstuart.com.au/about",
+      "status": 200,
+      "final_url": "https://www.pointstuart.com.au/our-history",
+      "bytes": 138934
+    },
+    {
+      "page": "https://www.pointstuart.com.au/tours",
+      "status": 200,
+      "final_url": "https://www.pointstuart.com.au/barramundi-fishing",
+      "bytes": 164230
+    },
+    {
+      "page": "https://northernterritory.com/things-to-do/outdoor-activities/fishing",
+      "status": 200,
+      "final_url": "https://northernterritory.com/things-to-do/outdoor-activities/fishing",
+      "bytes": 539882
+    },
+    {
+      "page": "https://northernterritory.com/tours",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours",
+      "bytes": 1248268
+    },
+    {
+      "page": "https://northernterritory.com/find-out-more/contact-us",
+      "status": 200,
+      "final_url": "https://northernterritory.com/find-out-more/contact-us",
+      "bytes": 495915
+    }
+  ]
+}
