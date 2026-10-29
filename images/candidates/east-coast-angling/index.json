@@ -1,0 +1,15 @@
+{
+  "slug": "east-coast-angling",
+  "request_hash": "ea7fde20aa44",
+  "collected_at": "2026-10-29T03:56:40.527Z",
+  "pages_fetched": [
+    "https://www.eastcoastangling.com.au/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.eastcoastangling.com.au/",
+      "error": "fetch failed"
+    }
+  ]
+}

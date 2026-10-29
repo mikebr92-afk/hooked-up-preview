@@ -1,0 +1,15 @@
+{
+  "slug": "mackay-water-adventures",
+  "request_hash": "d99fee6caafe",
+  "collected_at": "2026-10-29T04:00:12.346Z",
+  "pages_fetched": [
+    "https://www.mackaywateradventures.com.au/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.mackaywateradventures.com.au/",
+      "error": "fetch failed"
+    }
+  ]
+}

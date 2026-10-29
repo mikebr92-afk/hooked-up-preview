@@ -1,0 +1,343 @@
+{
+  "slug": "reefari-fishing-charters",
+  "request_hash": "e32eb35bfe2c",
+  "collected_at": "2026-10-29T04:00:12.160Z",
+  "pages_fetched": [
+    "https://www.reefari.com/",
+    "https://www.reefari.com/fishingmackay/spanishmackerel.html",
+    "https://www.reefari.com/charters/steber41gameboat.html",
+    "https://www.reefari.com/gamefishing/",
+    "https://www.reefari.com/sportfishing",
+    "https://www.reefari.com/reeffishing/",
+    "https://www.reefari.com/flyfishing/",
+    "https://www.reefari.com/sharkfishing/",
+    "https://www.reefari.com/spearfishing/",
+    "https://www.reefari.com/charters/charterrates.html",
+    "https://www.reefari.com/fishingtips/index.html"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.reefari.com/",
+      "status": 200,
+      "final_url": "https://www.reefari.com/",
+      "bytes": 22457
+    },
+    {
+      "page": "https://www.reefari.com/fishingmackay/spanishmackerel.html",
+      "status": 200,
+      "final_url": "https://www.reefari.com/fishingmackay/spanishmackerel.html",
+      "bytes": 20929
+    },
+    {
+      "page": "https://www.reefari.com/charters/steber41gameboat.html",
+      "status": 200,
+      "final_url": "https://www.reefari.com/charters/steber41gameboat.html",
+      "bytes": 15032
+    },
+    {
+      "page": "https://www.reefari.com/gamefishing/",
+      "status": 200,
+      "final_url": "https://www.reefari.com/gamefishing/",
+      "bytes": 14480
+    },
+    {
+      "page": "https://www.reefari.com/sportfishing",
+      "status": 200,
+      "final_url": "https://www.reefari.com/sportfishing/",
+      "bytes": 13252
+    },
+    {
+      "page": "https://www.reefari.com/reeffishing/",
+      "status": 200,
+      "final_url": "https://www.reefari.com/reeffishing/",
+      "bytes": 16374
+    },
+    {
+      "page": "https://www.reefari.com/flyfishing/",
+      "status": 200,
+      "final_url": "https://www.reefari.com/flyfishing/",
+      "bytes": 12251
+    },
+    {
+      "page": "https://www.reefari.com/sharkfishing/",
+      "status": 200,
+      "final_url": "https://www.reefari.com/sharkfishing/",
+      "bytes": 14320
+    },
+    {
+      "page": "https://www.reefari.com/spearfishing/",
+      "status": 200,
+      "final_url": "https://www.reefari.com/spearfishing/",
+      "bytes": 14039
+    },
+    {
+      "page": "https://www.reefari.com/charters/charterrates.html",
+      "status": 200,
+      "final_url": "https://www.reefari.com/charters/charterrates.html",
+      "bytes": 17721
+    },
+    {
+      "page": "https://www.reefari.com/fishingtips/index.html",
+      "status": 200,
+      "final_url": "https://www.reefari.com/fishingtips/index.html",
+      "bytes": 17060
+    },
+    {
+      "image": "https://www.reefari.com/images/RedEmporer.jpg",
+      "error": "too small 206x155"
+    },
+    {
+      "image": "http://www.reefari.com/images/coraltrout-reeffishing.jpg",
+      "error": "too small 205x154"
+    },
+    {
+      "image": "http://www.reefari.com/images/testimonialone.jpg",
+      "error": "too small 410x210"
+    },
+    {
+      "image": "http://www.reefari.com/images/stevens-groupfish.jpg",
+      "error": "too small 199x149"
+    },
+    {
+      "image": "https://www.reefari.com/images/food-index.jpg",
+      "error": "too small 198x149"
+    },
+    {
+      "image": "http://www.reefari.com/charters/images/fishingreport-blog.jpg",
+      "error": "too small 120x90"
+    },
+    {
+      "image": "https://www.reefari.com/images/giant-trevally.jpg",
+      "error": "too small 143x107"
+    },
+    {
+      "image": "http://www.reefari.com/images/theboat.jpg",
+      "error": "too small 130x98"
+    },
+    {
+      "image": "http://www.reefari.com/mothershipping/mothership-centurion.jpg",
+      "error": "too small 141x96"
+    },
+    {
+      "image": "https://www.reefari.com/images/ReefariTourismAward2010.jpg",
+      "error": "too small 145x105"
+    },
+    {
+      "image": "http://www.reefari.com/images/strike.jpg",
+      "error": "too small 130x87"
+    },
+    {
+      "image": "http://www.reefari.com/images/gamefishing-townsville.jpg",
+      "error": "too small 141x106"
+    },
+    {
+      "image": "http://www.reefari.com/images/theboatinterior.jpg",
+      "error": "too small 130x98"
+    },
+    {
+      "image": "https://www.reefari.com/spanishmackerel/images/how-to-catch-spanish-mackerel.jpg",
+      "error": "too small 131x306"
+    },
+    {
+      "image": "http://addtwitter.com/images/ex/2.png",
+      "error": "fetch failed"
+    },
+    {
+      "image": "https://www.reefari.com/images/matiss.jpg",
+      "error": "too small 131x98"
+    },
+    {
+      "image": "https://www.reefari.com/fishingmackay/images/two-large-spanish-mackerel.jpg",
+      "error": "too small 154x205"
+    },
+    {
+      "image": "https://www.reefari.com/fishingmackay/images/25kg-Spanish-mackerel.jpg",
+      "error": "too small 262x197"
+    },
+    {
+      "image": "https://www.reefari.com/video/blue_01.jpg",
+      "error": "too small 12x47"
+    },
+    {
+      "image": "https://www.reefari.com/video/blue_02.jpg",
+      "error": "too small 425x47"
+    },
+    {
+      "image": "https://www.reefari.com/video/blue_03.jpg",
+      "error": "too small 13x47"
+    },
+    {
+      "image": "https://www.reefari.com/video/blue_04.jpg",
+      "error": "too small 12x355"
+    },
+    {
+      "image": "https://www.reefari.com/video/blue_06.jpg",
+      "error": "too small 13x355"
+    },
+    {
+      "image": "https://www.reefari.com/video/blue_07.jpg",
+      "error": "too small 12x47"
+    },
+    {
+      "image": "https://www.reefari.com/video/blue_08.jpg",
+      "error": "too small 425x47"
+    },
+    {
+      "image": "https://www.reefari.com/video/blue_09.jpg",
+      "error": "too small 13x47"
+    },
+    {
+      "image": "https://www.reefari.com/fishingmackay/images/Spanish-Mackerel-Fishing.jpg",
+      "error": "too small 182x199"
+    },
+    {
+      "image": "https://www.reefari.com/fishingmackay/images/spanish-mackerel-fishing-tips.jpg",
+      "error": "too small 263x197"
+    },
+    {
+      "image": "http://www.reefari.com/charters/images/steber41-small.jpg",
+      "error": "too small 130x86"
+    },
+    {
+      "image": "https://www.reefari.com/mothershipping/mothership-centurion.jpg",
+      "error": "too small 141x96"
+    },
+    {
+      "image": "https://www.reefari.com/images/strike.jpg",
+      "error": "too small 130x87"
+    },
+    {
+      "image": "https://www.reefari.com/images/gamefishing-townsville.jpg",
+      "error": "too small 141x106"
+    },
+    {
+      "image": "https://www.reefari.com/images/theboatinterior.jpg",
+      "error": "too small 130x98"
+    },
+    {
+      "image": "https://www.reefari.com/charters/images/fishingreport-blog.jpg",
+      "error": "too small 120x90"
+    },
+    {
+      "image": "https://www.reefari.com/charters/images/steber41-main.jpg",
+      "error": "too small 165x109"
+    },
+    {
+      "image": "https://www.reefari.com/charters/images/steber41-flybridge.jpg",
+      "error": "too small 400x264"
+    },
+    {
+      "image": "https://www.reefari.com/charters/images/reeffishingboat-inside.jpg",
+      "error": "too small 400x264"
+    },
+    {
+      "image": "https://www.reefari.com/images/boatdocked.jpg",
+      "error": "too small 130x98"
+    },
+    {
+      "image": "https://www.reefari.com/charters/images/steber41-small.jpg",
+      "error": "too small 130x86"
+    },
+    {
+      "image": "https://www.reefari.com/images/twofish-sidebar.jpg",
+      "error": "too small 139x104"
+    },
+    {
+      "image": "https://www.reefari.com/gamefishing/Townsville-marlin.jpg",
+      "error": "too small 241x181"
+    },
+    {
+      "image": "https://www.reefari.com/gamefishing/mackeral-mackay.jpg",
+      "error": "too small 241x181"
+    },
+    {
+      "image": "https://www.reefari.com/images/sprtfishing-trevally.jpg",
+      "error": "too small 241x181"
+    },
+    {
+      "image": "https://www.reefari.com/images/goldentrevally-sportfishing.jpg",
+      "error": "too small 241x181"
+    },
+    {
+      "image": "http://www.reefari.com/images/giant-trevally.jpg",
+      "error": "too small 143x107"
+    },
+    {
+      "image": "http://www.reefari.com/daytrips/images/obsession-game-fishing-small.jpg",
+      "error": "too small 144x97"
+    },
+    {
+      "image": "http://www.reefari.com/images/twofish-sidebar.jpg",
+      "error": "too small 139x104"
+    },
+    {
+      "image": "https://www.reefari.com/images/Centurion-reeffishing.jpg",
+      "error": "too small 241x181"
+    },
+    {
+      "image": "https://www.reefari.com/reeffishing/GiantMaoriWrasse.jpg",
+      "error": "too small 199x227"
+    },
+    {
+      "image": "https://www.reefari.com/images/bluespot-coraltrout.jpg",
+      "error": "too small 224x168"
+    },
+    {
+      "image": "https://www.reefari.com/images/flyfishing.jpg",
+      "error": "too small 240x144"
+    },
+    {
+      "image": "https://www.reefari.com/images/reeffishing-taylor.jpg",
+      "error": "too small 251x256"
+    },
+    {
+      "image": "https://www.reefari.com/images/bronzewhaler.jpg",
+      "error": "too small 239x179"
+    },
+    {
+      "image": "https://www.reefari.com/images/tigershark.jpg",
+      "error": "too small 205x273"
+    },
+    {
+      "image": "https://www.reefari.com/sharkfishing/holdinghammerhead-shark.jpg",
+      "error": "too small 240x180"
+    },
+    {
+      "image": "https://www.reefari.com/images/baramundi-sidebar.jpg",
+      "error": "too small 139x104"
+    },
+    {
+      "image": "https://www.reefari.com/spearfishing/spearfishing-stevens.jpg",
+      "error": "too small 240x180"
+    },
+    {
+      "image": "https://www.reefari.com/spearfishing/spearfishing-mackay.jpg",
+      "error": "too small 240x180"
+    },
+    {
+      "image": "https://www.reefari.com/charters/red-emporer.jpg",
+      "error": "too small 240x180"
+    },
+    {
+      "image": "https://www.reefari.com/charters/mackeral-crayfish.jpg",
+      "error": "too small 240x180"
+    },
+    {
+      "image": "https://www.reefari.com/charters/night-fishing.jpg",
+      "error": "too small 240x180"
+    },
+    {
+      "image": "https://www.reefari.com/fishingtips/images/large_mackeral.jpg",
+      "error": "too small 208x156"
+    },
+    {
+      "image": "https://www.reefari.com/fishingtips/images/mackeral_bait_rig.jpg",
+      "error": "too small 468x264"
+    },
+    {
+      "image": "https://www.reefari.com/fishingtips/images/big%20fish.jpg",
+      "error": "HTTP 403"
+    }
+  ]
+}

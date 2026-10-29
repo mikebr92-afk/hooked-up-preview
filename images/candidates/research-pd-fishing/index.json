@@ -1,0 +1,17 @@
+{
+  "slug": "research-pd-fishing",
+  "request_hash": "e126600773c7",
+  "collected_at": "2026-10-29T03:54:38.932Z",
+  "pages_fetched": [
+    "https://tourismportdouglas.com.au/port-douglas-fishing-charters-and-tours"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://tourismportdouglas.com.au/port-douglas-fishing-charters-and-tours",
+      "status": 200,
+      "final_url": "https://tourismportdouglas.com.au/port-douglas-fishing-charters-and-tours",
+      "bytes": 285331
+    }
+  ]
+}

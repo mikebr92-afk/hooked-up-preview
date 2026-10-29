@@ -1,0 +1,251 @@
+{
+  "slug": "carpentaria-barra-fishing",
+  "request_hash": "96754b5f132f",
+  "collected_at": "2026-10-29T04:01:56.161Z",
+  "pages_fetched": [
+    "https://carpentariabarra.com.au/",
+    "https://carpentariabarra.com.au/fishing-packages",
+    "https://www.carpentariabarra.com.au/about-us/",
+    "https://www.carpentariabarra.com.au/fishing-guide/",
+    "https://www.carpentariabarra.com.au/fishing-packages/",
+    "https://www.carpentariabarra.com.au/vesselstackle/",
+    "https://www.carpentariabarra.com.au/photo-gallery/",
+    "https://www.carpentariabarra.com.au/fish-species/",
+    "https://www.carpentariabarra.com.au/faqs/",
+    "https://www.carpentariabarra.com.au/contact-us/",
+    "https://www.carpentariabarra.com.au/fishing-packages",
+    "https://www.carpentariabarra.com.au/contact-us"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 2000,
+      "height": 1125,
+      "original": "3264x1836",
+      "source": "https://www.carpentariabarra.com.au/wp-content/uploads/2012/11/20160315_144610.jpg",
+      "page": "https://carpentariabarra.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 2000,
+      "height": 1125,
+      "original": "3264x1836",
+      "source": "https://www.carpentariabarra.com.au/wp-content/uploads/2012/10/127cm-nic-CARPENTARIA-BARRA-GULF.jpg",
+      "page": "https://carpentariabarra.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 960,
+      "height": 540,
+      "original": "960x540",
+      "source": "https://www.carpentariabarra.com.au/wp-content/uploads/2017/01/new-boat.-2.jpeg",
+      "page": "https://carpentariabarra.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 2000,
+      "height": 1125,
+      "original": "3264x1836",
+      "source": "https://www.carpentariabarra.com.au/wp-content/uploads/2012/10/20170715_105308.jpg",
+      "page": "https://carpentariabarra.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1183,
+      "height": 620,
+      "original": "1183x620",
+      "source": "https://www.carpentariabarra.com.au/wp-content/uploads/2017/02/jake-scales-Gulf-of-Carpentaria-Barra-Fishing.jpg",
+      "page": "https://carpentariabarra.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 2000,
+      "height": 1125,
+      "original": "3264x1836",
+      "source": "https://www.carpentariabarra.com.au/wp-content/uploads/2012/10/124cm-John-2nd-CARPENTARIA-BARRA-GULF.jpg",
+      "page": "https://carpentariabarra.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 899,
+      "height": 507,
+      "original": "899x507",
+      "source": "https://www.carpentariabarra.com.au/wp-content/uploads/2014/10/carpentaria-barra-143cm1-e1414629966397.jpg",
+      "page": "https://carpentariabarra.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 2000,
+      "height": 1127,
+      "original": "3264x1840",
+      "source": "https://www.carpentariabarra.com.au/wp-content/uploads/2012/11/IMAG0057_BURST001.jpg",
+      "page": "https://carpentariabarra.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 2000,
+      "height": 1127,
+      "original": "2484x1400",
+      "source": "https://www.carpentariabarra.com.au/wp-content/uploads/2014/10/kachel-131cm-e1414218440901.jpg",
+      "page": "https://carpentariabarra.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 2000,
+      "height": 1333,
+      "original": "5184x3456",
+      "source": "https://www.carpentariabarra.com.au/wp-content/uploads/2012/11/009.jpg",
+      "page": "https://carpentariabarra.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1440,
+      "height": 1024,
+      "original": "1440x1024",
+      "source": "https://www.carpentariabarra.com.au/wp-content/plugins/kubio/lib/shapes/header-shapes/circles.png",
+      "page": "https://carpentariabarra.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1440,
+      "height": 1024,
+      "original": "1440x1024",
+      "source": "https://www.carpentariabarra.com.au/wp-content/plugins/kubio/lib/shapes/header-shapes/10degree-stripes.png",
+      "page": "https://carpentariabarra.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1440,
+      "height": 1024,
+      "original": "1440x1024",
+      "source": "https://www.carpentariabarra.com.au/wp-content/plugins/kubio/lib/shapes/header-shapes/rounded-squares-blue.png",
+      "page": "https://carpentariabarra.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1440,
+      "height": 1024,
+      "original": "1440x1024",
+      "source": "https://www.carpentariabarra.com.au/wp-content/plugins/kubio/lib/shapes/header-shapes/many-rounded-squares-blue.png",
+      "page": "https://carpentariabarra.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1440,
+      "height": 800,
+      "original": "1440x800",
+      "source": "https://www.carpentariabarra.com.au/wp-content/plugins/kubio/lib/shapes/header-shapes/circles-white-gradient.png",
+      "page": "https://carpentariabarra.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1440,
+      "height": 797,
+      "original": "1440x797",
+      "source": "https://www.carpentariabarra.com.au/wp-content/plugins/kubio/lib/shapes/header-shapes/waves.png",
+      "page": "https://carpentariabarra.com.au/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://carpentariabarra.com.au/",
+      "status": 200,
+      "final_url": "https://www.carpentariabarra.com.au/",
+      "bytes": 369000
+    },
+    {
+      "page": "https://carpentariabarra.com.au/fishing-packages",
+      "status": 404,
+      "final_url": "https://carpentariabarra.com.au/fishing-packages",
+      "bytes": 1251
+    },
+    {
+      "page": "https://www.carpentariabarra.com.au/about-us/",
+      "status": 404,
+      "final_url": "https://www.carpentariabarra.com.au/about-us/",
+      "bytes": 1251
+    },
+    {
+      "page": "https://www.carpentariabarra.com.au/fishing-guide/",
+      "status": 404,
+      "final_url": "https://www.carpentariabarra.com.au/fishing-guide/",
+      "bytes": 1251
+    },
+    {
+      "page": "https://www.carpentariabarra.com.au/fishing-packages/",
+      "status": 404,
+      "final_url": "https://www.carpentariabarra.com.au/fishing-packages/",
+      "bytes": 1251
+    },
+    {
+      "page": "https://www.carpentariabarra.com.au/vesselstackle/",
+      "status": 404,
+      "final_url": "https://www.carpentariabarra.com.au/vesselstackle/",
+      "bytes": 1251
+    },
+    {
+      "page": "https://www.carpentariabarra.com.au/photo-gallery/",
+      "status": 404,
+      "final_url": "https://www.carpentariabarra.com.au/photo-gallery/",
+      "bytes": 1251
+    },
+    {
+      "page": "https://www.carpentariabarra.com.au/fish-species/",
+      "status": 404,
+      "final_url": "https://www.carpentariabarra.com.au/fish-species/",
+      "bytes": 1251
+    },
+    {
+      "page": "https://www.carpentariabarra.com.au/faqs/",
+      "status": 404,
+      "final_url": "https://www.carpentariabarra.com.au/faqs/",
+      "bytes": 1251
+    },
+    {
+      "page": "https://www.carpentariabarra.com.au/contact-us/",
+      "status": 404,
+      "final_url": "https://www.carpentariabarra.com.au/contact-us/",
+      "bytes": 1251
+    },
+    {
+      "page": "https://www.carpentariabarra.com.au/fishing-packages",
+      "status": 404,
+      "final_url": "https://www.carpentariabarra.com.au/fishing-packages",
+      "bytes": 1251
+    },
+    {
+      "page": "https://www.carpentariabarra.com.au/contact-us",
+      "status": 404,
+      "final_url": "https://www.carpentariabarra.com.au/contact-us",
+      "bytes": 1251
+    },
+    {
+      "dup": "https://www.carpentariabarra.com.au/wp-content/plugins/kubio/lib/shapes/header-shapes/two-circles.png"
+    },
+    {
+      "dup": "https://www.carpentariabarra.com.au/wp-content/plugins/kubio/lib/shapes/header-shapes/circles-2.png"
+    },
+    {
+      "dup": "https://www.carpentariabarra.com.au/wp-content/plugins/kubio/lib/shapes/header-shapes/circles-3.png"
+    },
+    {
+      "dup": "https://www.carpentariabarra.com.au/wp-content/plugins/kubio/lib/shapes/header-shapes/circles-gradient.png"
+    }
+  ]
+}

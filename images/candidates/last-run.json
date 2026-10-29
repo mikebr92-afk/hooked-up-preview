@@ -1,95 +1,217 @@
 {
-  "finished_at": "2026-10-29T03:52:29.779Z",
+  "finished_at": "2026-10-29T04:02:45.492Z",
   "summary": [
     {
       "slug": "research-mackay-region",
-      "candidates": 0,
-      "pages": 12
+      "skipped": true
     },
     {
       "slug": "research-townsville-qldtravel",
-      "candidates": 0,
-      "pages": 4
+      "skipped": true
     },
     {
       "slug": "research-bowen",
-      "candidates": 0,
-      "pages": 2
+      "skipped": true
     },
     {
       "slug": "research-cooktown",
-      "candidates": 0,
-      "pages": 3
+      "skipped": true
     },
     {
       "slug": "research-fishingcairns",
-      "candidates": 0,
-      "pages": 12
+      "skipped": true
     },
     {
       "slug": "research-weipa",
-      "candidates": 0,
-      "pages": 3
+      "skipped": true
     },
     {
       "slug": "research-karumba",
-      "candidates": 0,
-      "pages": 3
+      "skipped": true
     },
     {
       "slug": "research-portdouglas",
-      "candidates": 0,
-      "pages": 12
+      "skipped": true
     },
     {
       "slug": "research-fishtales",
-      "candidates": 6,
-      "pages": 2
+      "skipped": true
     },
     {
       "slug": "tropic-barra-adventures-cairns",
-      "candidates": 20,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "fnq-fishing-adventures-cairns",
-      "candidates": 20,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "cairns-sportfishing",
-      "candidates": 20,
-      "pages": 8
+      "skipped": true
     },
     {
       "slug": "whitsunday-fishing-charters",
-      "candidates": 16,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "hook-a-barra-daintree",
-      "candidates": 16,
-      "pages": 11
+      "skipped": true
     },
     {
       "slug": "tropical-sportfisher",
-      "candidates": 16,
-      "pages": 11
+      "skipped": true
     },
     {
       "slug": "bounty-hunter-cairns",
-      "candidates": 1,
-      "pages": 2
+      "skipped": true
     },
     {
       "slug": "cooktown-reef-charters",
+      "skipped": true
+    },
+    {
+      "slug": "cairns-reef-fishing",
+      "skipped": true
+    },
+    {
+      "slug": "research-pd-fishing",
       "candidates": 0,
       "pages": 1
     },
     {
-      "slug": "cairns-reef-fishing",
+      "slug": "research-whitsunday-agency",
+      "candidates": 0,
+      "pages": 1
+    },
+    {
+      "slug": "research-cooktown2",
+      "candidates": 0,
+      "pages": 5
+    },
+    {
+      "slug": "research-atdw-tsv",
+      "candidates": 0,
+      "pages": 5
+    },
+    {
+      "slug": "fish-tales-charters-cairns",
+      "candidates": 20,
+      "pages": 10
+    },
+    {
+      "slug": "out-n-about-sportfishing",
+      "candidates": 16,
+      "pages": 10
+    },
+    {
+      "slug": "hook-up-charters",
+      "candidates": 5,
+      "pages": 4
+    },
+    {
+      "slug": "akula-sport-fishing",
+      "candidates": 14,
+      "pages": 11
+    },
+    {
+      "slug": "norseman-reef-fishing",
+      "candidates": 16,
+      "pages": 9
+    },
+    {
+      "slug": "far-north-sport-fishing",
+      "candidates": 0,
+      "pages": 1
+    },
+    {
+      "slug": "saltaire-charters",
+      "candidates": 16,
+      "pages": 10
+    },
+    {
+      "slug": "east-coast-angling",
+      "candidates": 0,
+      "pages": 1
+    },
+    {
+      "slug": "sublime-sportfishing",
+      "candidates": 16,
+      "pages": 9
+    },
+    {
+      "slug": "daintree-river-fishing",
+      "candidates": 2,
+      "pages": 7
+    },
+    {
+      "slug": "ryan-moody-fishing",
+      "candidates": 7,
+      "pages": 10
+    },
+    {
+      "slug": "ian-moody-sportfishing",
+      "candidates": 16,
+      "pages": 7
+    },
+    {
+      "slug": "phoenix-fishing-charters",
+      "candidates": 0,
+      "pages": 1
+    },
+    {
+      "slug": "airlie-beach-fishing-charters",
+      "candidates": 16,
+      "pages": 11
+    },
+    {
+      "slug": "topnotch-game-fishing",
+      "candidates": 16,
+      "pages": 11
+    },
+    {
+      "slug": "cast-and-catch-fishing-charters",
+      "candidates": 16,
+      "pages": 1
+    },
+    {
+      "slug": "reefari-fishing-charters",
+      "candidates": 0,
+      "pages": 11
+    },
+    {
+      "slug": "mackay-water-adventures",
+      "candidates": 0,
+      "pages": 1
+    },
+    {
+      "slug": "kerry-d-fishing-charters",
+      "candidates": 16,
+      "pages": 10
+    },
+    {
+      "slug": "carpentaria-barra-fishing",
       "candidates": 16,
       "pages": 12
+    },
+    {
+      "slug": "fnq-reef-adventures",
+      "candidates": 0,
+      "pages": 2
+    },
+    {
+      "slug": "northern-conquest-charters",
+      "candidates": 16,
+      "pages": 12
+    },
+    {
+      "slug": "magnetic-island-fishing-charters",
+      "candidates": 16,
+      "pages": 5
+    },
+    {
+      "slug": "townsville-fishing-charters",
+      "candidates": 0,
+      "pages": 2
     }
   ]
 }

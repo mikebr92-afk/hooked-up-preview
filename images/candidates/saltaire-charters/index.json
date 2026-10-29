@@ -1,0 +1,229 @@
+{
+  "slug": "saltaire-charters",
+  "request_hash": "e61c25841f15",
+  "collected_at": "2026-10-29T03:56:30.033Z",
+  "pages_fetched": [
+    "https://www.saltairecharters.com.au/",
+    "https://www.saltairecharters.com.au/about/",
+    "https://www.saltairecharters.com.au/fishing-charters/",
+    "https://www.saltairecharters.com.au/destinations/",
+    "https://www.saltairecharters.com.au/photo-gallery/",
+    "https://www.saltairecharters.com.au/contacts/",
+    "https://www.saltairecharters.com.au/about",
+    "https://www.saltairecharters.com.au/fishing-charters",
+    "https://www.saltairecharters.com.au/portfolio-view/spanish-mackerel-2/",
+    "https://www.saltairecharters.com.au/portfolio-view/sailfish/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1644,
+      "height": 934,
+      "original": "1644x934",
+      "source": "https://www.saltairecharters.com.au/wp-content/uploads/2015/07/Wahoo_LightTackle.jpg",
+      "page": "https://www.saltairecharters.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 1644,
+      "height": 934,
+      "original": "1644x934",
+      "source": "https://www.saltairecharters.com.au/wp-content/uploads/2015/07/Nanny_Reef.jpg",
+      "page": "https://www.saltairecharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1644,
+      "height": 934,
+      "original": "1644x934",
+      "source": "https://www.saltairecharters.com.au/wp-content/uploads/2015/07/GT_Popper.jpg",
+      "page": "https://www.saltairecharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1644,
+      "height": 934,
+      "original": "1644x934",
+      "source": "https://www.saltairecharters.com.au/wp-content/uploads/2011/09/MarlinDSC03572.jpg",
+      "page": "https://www.saltairecharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1000,
+      "height": 420,
+      "original": "1000x420",
+      "source": "https://www.saltairecharters.com.au/wp-content/uploads/2011/09/FacebookHeader_Concept.jpg",
+      "page": "https://www.saltairecharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1000,
+      "height": 750,
+      "original": "1000x750",
+      "source": "https://www.saltairecharters.com.au/wp-content/uploads/2015/10/Spanish_blighJewel-2010-242.jpg",
+      "page": "https://www.saltairecharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1000,
+      "height": 750,
+      "original": "1000x750",
+      "source": "https://www.saltairecharters.com.au/wp-content/uploads/2015/10/Sail_028.jpg",
+      "page": "https://www.saltairecharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1000,
+      "height": 750,
+      "original": "1000x750",
+      "source": "https://www.saltairecharters.com.au/wp-content/uploads/2015/10/Nanny_PA130054.jpg",
+      "page": "https://www.saltairecharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1000,
+      "height": 750,
+      "original": "1000x750",
+      "source": "https://www.saltairecharters.com.au/wp-content/uploads/2015/10/MarlinP1010826.jpg",
+      "page": "https://www.saltairecharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1000,
+      "height": 750,
+      "original": "1000x750",
+      "source": "https://www.saltairecharters.com.au/wp-content/uploads/2015/10/Marlin_P1010527.jpg",
+      "page": "https://www.saltairecharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1000,
+      "height": 750,
+      "original": "1000x750",
+      "source": "https://www.saltairecharters.com.au/wp-content/uploads/2015/10/Marlin_Black-Marlin-1-of-6.jpg",
+      "page": "https://www.saltairecharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1000,
+      "height": 750,
+      "original": "1000x750",
+      "source": "https://www.saltairecharters.com.au/wp-content/uploads/2015/10/Mack_P1000593.jpg",
+      "page": "https://www.saltairecharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1000,
+      "height": 750,
+      "original": "1000x750",
+      "source": "https://www.saltairecharters.com.au/wp-content/uploads/2015/10/GT_P1020324.jpg",
+      "page": "https://www.saltairecharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1000,
+      "height": 750,
+      "original": "1000x750",
+      "source": "https://www.saltairecharters.com.au/wp-content/uploads/2015/10/GT_P1020079.jpg",
+      "page": "https://www.saltairecharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1000,
+      "height": 750,
+      "original": "1000x750",
+      "source": "https://www.saltairecharters.com.au/wp-content/uploads/2015/10/GT_P1010624.jpg",
+      "page": "https://www.saltairecharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1000,
+      "height": 750,
+      "original": "1000x750",
+      "source": "https://www.saltairecharters.com.au/wp-content/uploads/2015/10/GT_P1010163.jpg",
+      "page": "https://www.saltairecharters.com.au/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.saltairecharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.saltairecharters.com.au/",
+      "bytes": 57633
+    },
+    {
+      "page": "https://www.saltairecharters.com.au/about/",
+      "status": 200,
+      "final_url": "https://www.saltairecharters.com.au/about/",
+      "bytes": 55531
+    },
+    {
+      "page": "https://www.saltairecharters.com.au/fishing-charters/",
+      "status": 200,
+      "final_url": "https://www.saltairecharters.com.au/fishing-charters/",
+      "bytes": 58797
+    },
+    {
+      "page": "https://www.saltairecharters.com.au/destinations/",
+      "status": 200,
+      "final_url": "https://www.saltairecharters.com.au/destinations/",
+      "bytes": 54755
+    },
+    {
+      "page": "https://www.saltairecharters.com.au/photo-gallery/",
+      "status": 200,
+      "final_url": "https://www.saltairecharters.com.au/photo-gallery/",
+      "bytes": 52744
+    },
+    {
+      "page": "https://www.saltairecharters.com.au/contacts/",
+      "status": 200,
+      "final_url": "https://www.saltairecharters.com.au/contacts/",
+      "bytes": 40706
+    },
+    {
+      "page": "https://www.saltairecharters.com.au/about",
+      "status": 200,
+      "final_url": "https://www.saltairecharters.com.au/about/",
+      "bytes": 55531
+    },
+    {
+      "page": "https://www.saltairecharters.com.au/fishing-charters",
+      "status": 200,
+      "final_url": "https://www.saltairecharters.com.au/fishing-charters/",
+      "bytes": 58797
+    },
+    {
+      "page": "https://www.saltairecharters.com.au/portfolio-view/spanish-mackerel-2/",
+      "status": 200,
+      "final_url": "https://www.saltairecharters.com.au/portfolio-view/spanish-mackerel-2/",
+      "bytes": 39109
+    },
+    {
+      "page": "https://www.saltairecharters.com.au/portfolio-view/sailfish/",
+      "status": 200,
+      "final_url": "https://www.saltairecharters.com.au/portfolio-view/sailfish/",
+      "bytes": 39008
+    },
+    {
+      "image": "https://tmbhtest.com/images/ie7.jpg",
+      "error": "HTTP 403"
+    }
+  ]
+}

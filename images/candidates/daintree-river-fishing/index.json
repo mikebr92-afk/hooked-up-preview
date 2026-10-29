@@ -1,0 +1,92 @@
+{
+  "slug": "daintree-river-fishing",
+  "request_hash": "0dbe55b27267",
+  "collected_at": "2026-10-29T03:56:58.736Z",
+  "pages_fetched": [
+    "https://www.daintreefishing.com.au/",
+    "https://daintreefishing.com.au/",
+    "https://daintreefishing.com.au/personalised-charters/",
+    "https://daintreefishing.com.au/river-fishing-share-charters/",
+    "https://daintreefishing.com.au/coastal-and-reef-charters/",
+    "https://daintreefishing.com.au/brag-board/",
+    "https://daintreefishing.com.au/map/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 910,
+      "height": 510,
+      "original": "910x510",
+      "source": "https://daintreefishing.com.au/wp-content/uploads/2025/07/20170823_112506_med_hr.jpeg",
+      "page": "https://www.daintreefishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 1789,
+      "height": 638,
+      "original": "1789x638",
+      "source": "https://daintreefishing.com.au/wp-content/themes/the-daily-news/images/header-bg-min.jpg",
+      "page": "https://www.daintreefishing.com.au/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.daintreefishing.com.au/",
+      "status": 200,
+      "final_url": "https://daintreefishing.com.au/",
+      "bytes": 65194
+    },
+    {
+      "page": "https://daintreefishing.com.au/",
+      "status": 200,
+      "final_url": "https://daintreefishing.com.au/",
+      "bytes": 65194
+    },
+    {
+      "page": "https://daintreefishing.com.au/personalised-charters/",
+      "status": 404,
+      "final_url": "https://daintreefishing.com.au/personalised-charters/",
+      "bytes": 555
+    },
+    {
+      "page": "https://daintreefishing.com.au/river-fishing-share-charters/",
+      "status": 404,
+      "final_url": "https://daintreefishing.com.au/river-fishing-share-charters/",
+      "bytes": 555
+    },
+    {
+      "page": "https://daintreefishing.com.au/coastal-and-reef-charters/",
+      "status": 404,
+      "final_url": "https://daintreefishing.com.au/coastal-and-reef-charters/",
+      "bytes": 555
+    },
+    {
+      "page": "https://daintreefishing.com.au/brag-board/",
+      "status": 404,
+      "final_url": "https://daintreefishing.com.au/brag-board/",
+      "bytes": 555
+    },
+    {
+      "page": "https://daintreefishing.com.au/map/",
+      "status": 404,
+      "final_url": "https://daintreefishing.com.au/map/",
+      "bytes": 555
+    },
+    {
+      "image": "https://daintreefishing.com.au/wp-content/uploads/2025/07/background.png",
+      "error": "too small 391x1354"
+    },
+    {
+      "image": "https://daintreefishing.com.au/wp-content/uploads/2025/07/20170823_112506_med_hr-300x168.jpeg",
+      "error": "too small 300x168"
+    },
+    {
+      "dup": "https://daintreefishing.com.au/wp-content/uploads/2025/07/20170823_112506_med_hr-768x430.jpeg"
+    },
+    {
+      "dup": "https://daintreefishing.com.au/wp-content/uploads/2025/07/20170823_112506_med_hr-850x476.jpeg"
+    }
+  ]
+}

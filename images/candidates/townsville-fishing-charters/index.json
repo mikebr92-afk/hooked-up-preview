@@ -1,0 +1,20 @@
+{
+  "slug": "townsville-fishing-charters",
+  "request_hash": "345ab9e3f558",
+  "collected_at": "2026-10-29T04:02:45.492Z",
+  "pages_fetched": [
+    "https://www.townsvillefishingcharters.com.au/",
+    "https://townsvillefishingcharters.com/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.townsvillefishingcharters.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://townsvillefishingcharters.com/",
+      "error": "fetch failed"
+    }
+  ]
+}

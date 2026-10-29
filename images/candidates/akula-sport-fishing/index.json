@@ -1,0 +1,520 @@
+{
+  "slug": "akula-sport-fishing",
+  "request_hash": "ef9f80f84c41",
+  "collected_at": "2026-10-29T03:56:01.734Z",
+  "pages_fetched": [
+    "https://www.akulasportfishing.com.au/",
+    "https://akulasportfishing.com.au/",
+    "https://akulasportfishing.com.au/experiences-charter-bookings/",
+    "https://akulasportfishing.com.au/game-fishing/",
+    "https://akulasportfishing.com.au/giant-trevally-fishing/",
+    "https://akulasportfishing.com.au/reef-fishing-port-douglas/",
+    "https://akulasportfishing.com.au/topwater-fishing/",
+    "https://akulasportfishing.com.au/extended-liveaboard-mothership-fishing-trips/",
+    "https://akulasportfishing.com.au/about-akula-sportfishing/",
+    "https://akulasportfishing.com.au/news/",
+    "https://akulasportfishing.com.au/social/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 619,
+      "height": 733,
+      "original": "619x733",
+      "source": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/Group-1321319883.png",
+      "page": "https://www.akulasportfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 709,
+      "height": 758,
+      "original": "709x758",
+      "source": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/Rectangle-7104.jpg",
+      "page": "https://akulasportfishing.com.au/game-fishing/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 710,
+      "height": 758,
+      "original": "710x758",
+      "source": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/Rectangle-7104-4.png",
+      "page": "https://akulasportfishing.com.au/giant-trevally-fishing/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1200,
+      "height": 900,
+      "original": "1200x900",
+      "source": "https://akulasportfishing.com.au/wp-content/uploads/2026/09/image-67.png",
+      "page": "https://akulasportfishing.com.au/reef-fishing-port-douglas/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 709,
+      "height": 758,
+      "original": "709x758",
+      "source": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/Rectangle-7104.png",
+      "page": "https://akulasportfishing.com.au/reef-fishing-port-douglas/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 709,
+      "height": 758,
+      "original": "709x758",
+      "source": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/Rectangle-7104-5.png",
+      "page": "https://akulasportfishing.com.au/topwater-fishing/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 709,
+      "height": 758,
+      "original": "709x758",
+      "source": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/Rectangle-7104-1.jpg",
+      "page": "https://akulasportfishing.com.au/extended-liveaboard-mothership-fishing-trips/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 709,
+      "height": 635,
+      "original": "709x635",
+      "source": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/luxurious-yacht-crystal-clear-blue-water-pictures-generative-ai-2.png",
+      "page": "https://akulasportfishing.com.au/about-akula-sportfishing/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1536,
+      "height": 1024,
+      "original": "1536x1024",
+      "source": "https://akulasportfishing.com.au/wp-content/uploads/2026/09/fishing-Great-Barrier-Reef-Australia.png",
+      "page": "https://akulasportfishing.com.au/news/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1536,
+      "height": 1024,
+      "original": "1536x1024",
+      "source": "https://akulasportfishing.com.au/wp-content/uploads/2026/09/fishing-Port-Douglas-1.png",
+      "page": "https://akulasportfishing.com.au/news/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1536,
+      "height": 1024,
+      "original": "1536x1024",
+      "source": "https://akulasportfishing.com.au/wp-content/uploads/2026/09/offshore-fishing-charters-1.png",
+      "page": "https://akulasportfishing.com.au/news/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1536,
+      "height": 1024,
+      "original": "1536x1024",
+      "source": "https://akulasportfishing.com.au/wp-content/uploads/2026/09/reef-fishing.png",
+      "page": "https://akulasportfishing.com.au/news/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1536,
+      "height": 1024,
+      "original": "1536x1024",
+      "source": "https://akulasportfishing.com.au/wp-content/uploads/2026/09/Spanish-mackerel-fishing.png",
+      "page": "https://akulasportfishing.com.au/news/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1536,
+      "height": 1024,
+      "original": "1536x1024",
+      "source": "https://akulasportfishing.com.au/wp-content/uploads/2026/09/giant-trevally.png",
+      "page": "https://akulasportfishing.com.au/news/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.akulasportfishing.com.au/",
+      "status": 200,
+      "final_url": "https://akulasportfishing.com.au/",
+      "bytes": 108481
+    },
+    {
+      "page": "https://akulasportfishing.com.au/",
+      "status": 200,
+      "final_url": "https://akulasportfishing.com.au/",
+      "bytes": 108481
+    },
+    {
+      "page": "https://akulasportfishing.com.au/experiences-charter-bookings/",
+      "status": 200,
+      "final_url": "https://akulasportfishing.com.au/experiences-charter-bookings/",
+      "bytes": 97543
+    },
+    {
+      "page": "https://akulasportfishing.com.au/game-fishing/",
+      "status": 200,
+      "final_url": "https://akulasportfishing.com.au/game-fishing/",
+      "bytes": 97874
+    },
+    {
+      "page": "https://akulasportfishing.com.au/giant-trevally-fishing/",
+      "status": 200,
+      "final_url": "https://akulasportfishing.com.au/giant-trevally-fishing/",
+      "bytes": 101313
+    },
+    {
+      "page": "https://akulasportfishing.com.au/reef-fishing-port-douglas/",
+      "status": 200,
+      "final_url": "https://akulasportfishing.com.au/reef-fishing-port-douglas/",
+      "bytes": 102814
+    },
+    {
+      "page": "https://akulasportfishing.com.au/topwater-fishing/",
+      "status": 200,
+      "final_url": "https://akulasportfishing.com.au/topwater-fishing/",
+      "bytes": 100477
+    },
+    {
+      "page": "https://akulasportfishing.com.au/extended-liveaboard-mothership-fishing-trips/",
+      "status": 200,
+      "final_url": "https://akulasportfishing.com.au/extended-liveaboard-mothership-fishing-trips/",
+      "bytes": 91618
+    },
+    {
+      "page": "https://akulasportfishing.com.au/about-akula-sportfishing/",
+      "status": 200,
+      "final_url": "https://akulasportfishing.com.au/about-akula-sportfishing/",
+      "bytes": 87340
+    },
+    {
+      "page": "https://akulasportfishing.com.au/news/",
+      "status": 200,
+      "final_url": "https://akulasportfishing.com.au/news/",
+      "bytes": 88804
+    },
+    {
+      "page": "https://akulasportfishing.com.au/social/",
+      "status": 200,
+      "final_url": "https://akulasportfishing.com.au/social/",
+      "bytes": 77680
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/luxurious-yacht-crystal-clear-blue-water-pictures-generative-ai.png",
+      "error": "too small 557x560"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/image-59-1.png",
+      "error": "too small 136x108"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/Rectangle-2.png",
+      "error": "too small 560x443"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/image-59-2.png",
+      "error": "too small 90x60"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/luxurious-yacht-crystal-clear-blue-water-pictures-generative-ai-298x300.png",
+      "error": "too small 298x300"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/luxurious-yacht-crystal-clear-blue-water-pictures-generative-ai-150x150.png",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/Rectangle-2-300x237.png",
+      "error": "too small 300x237"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/Group-1321319883-253x300.png",
+      "error": "too small 253x300"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/Rectangle-7116.png",
+      "error": "too small 559x602"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/Group-1321319857.png",
+      "error": "too small 65x64"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/Group-1321319856.png",
+      "error": "too small 64x65"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/Group-1321319854.png",
+      "error": "too small 67x65"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/Rectangle-7116-1.png",
+      "error": "too small 558x487"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/Rectangle-7116-279x300.png",
+      "error": "too small 279x300"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/Rectangle-7116-1-300x262.png",
+      "error": "too small 300x262"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/04/Game-Fishing.png",
+      "error": "too small 558x487"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/Rectangle-7116-4.png",
+      "error": "too small 558x487"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/Rectangle-7116-5.png",
+      "error": "too small 558x487"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/Rectangle-7116-4-300x262.png",
+      "error": "too small 300x262"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/Rectangle-7104-281x300.jpg",
+      "error": "too small 281x300"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/Rectangle-7116-5-300x262.png",
+      "error": "too small 300x262"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/04/Giant-Trevally.jpg",
+      "error": "too small 558x487"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/Rectangle-7116-1.jpg",
+      "error": "too small 558x487"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/Mask-group-4.jpg",
+      "error": "too small 560x473"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/Rectangle-7116-2.jpg",
+      "error": "too small 558x487"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/Rectangle-7116-1-300x262.jpg",
+      "error": "too small 300x262"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/Rectangle-7104-4-281x300.png",
+      "error": "too small 281x300"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/Mask-group-4-300x253.jpg",
+      "error": "too small 300x253"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/Rectangle-7116-2-300x262.jpg",
+      "error": "too small 300x262"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/03/reef-fishing.png",
+      "error": "too small 558x487"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/Rectangle-7116-3.png",
+      "error": "too small 558x487"
+    },
+    {
+      "dup": "https://akulasportfishing.com.au/wp-content/uploads/2026/09/image-67-1024x768.png"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/09/image-67-300x225.png",
+      "error": "too small 300x225"
+    },
+    {
+      "dup": "https://akulasportfishing.com.au/wp-content/uploads/2026/09/image-67-768x576.png"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/Rectangle-7104-281x300.png",
+      "error": "too small 281x300"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/Rectangle-7116-3-300x262.png",
+      "error": "too small 300x262"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/04/Topwater-Fishing.jpg",
+      "error": "too small 558x487"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/Rectangle-7116.jpg",
+      "error": "too small 558x487"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/Rectangle-7116-6.png",
+      "error": "too small 558x487"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/Rectangle-7116-300x262.jpg",
+      "error": "too small 300x262"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/Rectangle-7104-5-281x300.png",
+      "error": "too small 281x300"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/Rectangle-7116-6-300x262.png",
+      "error": "too small 300x262"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/Rectangle-7116-3.jpg",
+      "error": "too small 558x487"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/Rectangle-7116-5.jpg",
+      "error": "too small 558x487"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/Group-4.png",
+      "error": "too small 65x65"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/Group-1321319837.png",
+      "error": "too small 83x66"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/Layer-12.png",
+      "error": "too small 65x65"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/Eye.png",
+      "error": "too small 65x65"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/Group-5.png",
+      "error": "too small 80x66"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/Rectangle-7116-7.png",
+      "error": "too small 558x531"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/Rectangle-7116-3-300x262.jpg",
+      "error": "too small 300x262"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/Rectangle-7104-1-281x300.jpg",
+      "error": "too small 281x300"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/Rectangle-7116-5-300x262.jpg",
+      "error": "too small 300x262"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/Rectangle-7116-7-300x285.png",
+      "error": "too small 300x285"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/Rectangle-7115.jpg",
+      "error": "too small 559x484"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/luxurious-yacht-crystal-clear-blue-water-pictures-generative-ai-1.png",
+      "error": "too small 557x560"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/Group-1321319797.png",
+      "error": "too small 560x470"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/Rectangle-7115-300x260.jpg",
+      "error": "too small 300x260"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/luxurious-yacht-crystal-clear-blue-water-pictures-generative-ai-1-298x300.png",
+      "error": "too small 298x300"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/luxurious-yacht-crystal-clear-blue-water-pictures-generative-ai-1-150x150.png",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/luxurious-yacht-crystal-clear-blue-water-pictures-generative-ai-2-300x269.png",
+      "error": "too small 300x269"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/02/Group-1321319797-300x252.png",
+      "error": "too small 300x252"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/09/fishing-Great-Barrier-Reef-Australia-300x200.png",
+      "error": "too small 300x200"
+    },
+    {
+      "dup": "https://akulasportfishing.com.au/wp-content/uploads/2026/09/fishing-Great-Barrier-Reef-Australia-1024x683.png"
+    },
+    {
+      "dup": "https://akulasportfishing.com.au/wp-content/uploads/2026/09/fishing-Great-Barrier-Reef-Australia-768x512.png"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/09/fishing-Port-Douglas-1-300x200.png",
+      "error": "too small 300x200"
+    },
+    {
+      "dup": "https://akulasportfishing.com.au/wp-content/uploads/2026/09/fishing-Port-Douglas-1-1024x683.png"
+    },
+    {
+      "dup": "https://akulasportfishing.com.au/wp-content/uploads/2026/09/fishing-Port-Douglas-1-768x512.png"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/09/offshore-fishing-charters-1-300x200.png",
+      "error": "too small 300x200"
+    },
+    {
+      "dup": "https://akulasportfishing.com.au/wp-content/uploads/2026/09/offshore-fishing-charters-1-1024x683.png"
+    },
+    {
+      "dup": "https://akulasportfishing.com.au/wp-content/uploads/2026/09/offshore-fishing-charters-1-768x512.png"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/09/reef-fishing-300x200.png",
+      "error": "too small 300x200"
+    },
+    {
+      "dup": "https://akulasportfishing.com.au/wp-content/uploads/2026/09/reef-fishing-1024x683.png"
+    },
+    {
+      "dup": "https://akulasportfishing.com.au/wp-content/uploads/2026/09/reef-fishing-768x512.png"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/09/Spanish-mackerel-fishing-300x200.png",
+      "error": "too small 300x200"
+    },
+    {
+      "dup": "https://akulasportfishing.com.au/wp-content/uploads/2026/09/Spanish-mackerel-fishing-1024x683.png"
+    },
+    {
+      "dup": "https://akulasportfishing.com.au/wp-content/uploads/2026/09/Spanish-mackerel-fishing-768x512.png"
+    },
+    {
+      "image": "https://akulasportfishing.com.au/wp-content/uploads/2026/09/giant-trevally-300x200.png",
+      "error": "too small 300x200"
+    },
+    {
+      "dup": "https://akulasportfishing.com.au/wp-content/uploads/2026/09/giant-trevally-1024x683.png"
+    },
+    {
+      "dup": "https://akulasportfishing.com.au/wp-content/uploads/2026/09/giant-trevally-768x512.png"
+    }
+  ]
+}

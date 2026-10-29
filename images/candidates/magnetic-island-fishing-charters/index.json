@@ -1,0 +1,200 @@
+{
+  "slug": "magnetic-island-fishing-charters",
+  "request_hash": "41a8428338cb",
+  "collected_at": "2026-10-29T04:02:45.255Z",
+  "pages_fetched": [
+    "https://www.magneticislandfishingcharters.com.au/",
+    "https://magneticislandfishingcharters.com/",
+    "https://www.magneticislandfishingcharters.com.au/cart",
+    "https://www.magneticislandfishingcharters.com.au/contact",
+    "https://www.magneticislandfishingcharters.com.au/faq-1"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1500,
+      "height": 739,
+      "original": "1500x739",
+      "source": "http://static1.squarespace.com/static/6444c0e7f6636966647bd1cf/t/64475ab662e2e8357aca6981/1682397878937/no+background.png?format=1500w",
+      "page": "https://www.magneticislandfishingcharters.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 2000,
+      "height": 1126,
+      "original": "2500x1407",
+      "source": "https://images.squarespace-cdn.com/content/v1/6444c0e7f6636966647bd1cf/2a59ee85-5e17-461d-8b58-0778b283e360/Screenshot+2023-04-22+at+3.20.26+pm.jpg?format=2500w",
+      "page": "https://www.magneticislandfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2500x3333",
+      "source": "https://images.squarespace-cdn.com/content/v1/6444c0e7f6636966647bd1cf/d7faf89b-b506-4683-8c1b-808dfb69b190/20221002_162618.jpg?format=2500w",
+      "page": "https://www.magneticislandfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2500x3333",
+      "source": "https://images.squarespace-cdn.com/content/v1/6444c0e7f6636966647bd1cf/b56857de-c439-4d03-8036-7dc5cd068012/20230128_104052.jpg?format=2500w",
+      "page": "https://www.magneticislandfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1284,
+      "height": 1593,
+      "original": "1284x1593",
+      "source": "https://images.squarespace-cdn.com/content/v1/6444c0e7f6636966647bd1cf/3a90c955-d92c-4135-b9d1-2e07af3051d7/IMG_1148.jpg?format=2500w",
+      "page": "https://www.magneticislandfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2500x3334",
+      "source": "https://images.squarespace-cdn.com/content/v1/6444c0e7f6636966647bd1cf/4221089e-1d50-4467-9d76-49f11de2e55c/20220916_110519.jpg?format=2500w",
+      "page": "https://www.magneticislandfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2500x3333",
+      "source": "https://images.squarespace-cdn.com/content/v1/6444c0e7f6636966647bd1cf/cd3a68b5-a3af-47db-9457-b0d70cd2489c/20221016_122307.jpg?format=2500w",
+      "page": "https://www.magneticislandfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1173,
+      "height": 1454,
+      "original": "1173x1454",
+      "source": "https://images.squarespace-cdn.com/content/v1/6444c0e7f6636966647bd1cf/cac4ee79-bcec-4695-9452-f13ef437f236/IMG_1157.jpg?format=2500w",
+      "page": "https://www.magneticislandfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2500x3333",
+      "source": "https://images.squarespace-cdn.com/content/v1/6444c0e7f6636966647bd1cf/68e6d57c-a058-452c-b0f6-b92e4f202202/20220920_144435.jpg?format=2500w",
+      "page": "https://www.magneticislandfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1133,
+      "height": 1511,
+      "original": "1133x1511",
+      "source": "https://images.squarespace-cdn.com/content/v1/6444c0e7f6636966647bd1cf/449e9f71-094a-426c-8c7c-4a5551ee4f26/IMG_1151.jpg?format=2500w",
+      "page": "https://www.magneticislandfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1248,
+      "height": 1556,
+      "original": "1248x1556",
+      "source": "https://images.squarespace-cdn.com/content/v1/6444c0e7f6636966647bd1cf/539de80d-8f74-4d59-8f51-713cf707c9c4/IMG_1158.jpg?format=2500w",
+      "page": "https://www.magneticislandfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2500x3334",
+      "source": "https://images.squarespace-cdn.com/content/v1/6444c0e7f6636966647bd1cf/a15bb0be-737d-4254-a5ee-7f28a8232e1c/20220921_180514.jpg?format=2500w",
+      "page": "https://www.magneticislandfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1224,
+      "height": 1510,
+      "original": "1224x1510",
+      "source": "https://images.squarespace-cdn.com/content/v1/6444c0e7f6636966647bd1cf/c71f88e5-acd8-4a1c-a8c5-112a3c7ef226/IMG_1152.jpg?format=2500w",
+      "page": "https://www.magneticislandfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1283,
+      "height": 1603,
+      "original": "1283x1603",
+      "source": "https://images.squarespace-cdn.com/content/v1/6444c0e7f6636966647bd1cf/1e8877ca-7b8c-4390-bebc-b4e5f0395962/IMG_1159.jpg?format=2500w",
+      "page": "https://www.magneticislandfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2500x3334",
+      "source": "https://images.squarespace-cdn.com/content/v1/6444c0e7f6636966647bd1cf/c5d88f81-af55-4cbe-b7a0-62f72045d8ff/20220924_125311.jpg?format=2500w",
+      "page": "https://www.magneticislandfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1173,
+      "height": 1457,
+      "original": "1173x1457",
+      "source": "https://images.squarespace-cdn.com/content/v1/6444c0e7f6636966647bd1cf/48e18d54-c898-49c9-bf9c-72ca50ae5dc2/IMG_1154.jpg?format=2500w",
+      "page": "https://www.magneticislandfishingcharters.com.au/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.magneticislandfishingcharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.magneticislandfishingcharters.com.au/",
+      "bytes": 693462
+    },
+    {
+      "page": "https://magneticislandfishingcharters.com/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://www.magneticislandfishingcharters.com.au/cart",
+      "status": 200,
+      "final_url": "https://www.magneticislandfishingcharters.com.au/cart",
+      "bytes": 115257
+    },
+    {
+      "page": "https://www.magneticislandfishingcharters.com.au/contact",
+      "status": 200,
+      "final_url": "https://www.magneticislandfishingcharters.com.au/contact",
+      "bytes": 184789
+    },
+    {
+      "page": "https://www.magneticislandfishingcharters.com.au/faq-1",
+      "status": 200,
+      "final_url": "https://www.magneticislandfishingcharters.com.au/faq-1",
+      "bytes": 145988
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/6444c0e7f6636966647bd1cf/044be2a5-7f97-4d9b-b52e-80c6b31e2a1c/no+background.png?format=2500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/6444c0e7f6636966647bd1cf/572f98b5-910f-410f-bb2f-6db4f7009066/no+background.png?format=2500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/6444c0e7f6636966647bd1cf/044be2a5-7f97-4d9b-b52e-80c6b31e2a1c/no+background.png?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/6444c0e7f6636966647bd1cf/572f98b5-910f-410f-bb2f-6db4f7009066/no+background.png?format=1500w"
+    }
+  ]
+}

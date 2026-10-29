@@ -1,0 +1,15 @@
+{
+  "slug": "far-north-sport-fishing",
+  "request_hash": "9e8a1343c953",
+  "collected_at": "2026-10-29T03:56:21.083Z",
+  "pages_fetched": [
+    "https://www.farnorthsportfishing.com.au/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.farnorthsportfishing.com.au/",
+      "error": "fetch failed"
+    }
+  ]
+}

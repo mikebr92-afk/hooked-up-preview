@@ -1,0 +1,20 @@
+{
+  "slug": "fnq-reef-adventures",
+  "request_hash": "ab66e2e0547a",
+  "collected_at": "2026-10-29T04:01:56.382Z",
+  "pages_fetched": [
+    "https://www.fnqreefadventures.com.au/",
+    "https://fnqreefadventures.com/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.fnqreefadventures.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://fnqreefadventures.com/",
+      "error": "fetch failed"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "research-atdw-tsv",
+  "request_hash": "0ef8e4aeaff2",
+  "collected_at": "2026-10-29T03:54:51.865Z",
+  "pages_fetched": [
+    "https://www.australia.com/en/atdw/product.6045f4108fc1e7796a9d63ac.html",
+    "https://www.australia.com/en/atdw/product.616f4a148b6c65fa3189dad9.html",
+    "https://www.australia.com/en/atdw/product.584e2799dbf9274d417e7d35.html",
+    "https://www.australia.com/en/atdw/product.682e55feb2fdf61558e1dc1e.html",
+    "https://www.australia.com/en/atdw/product.56b260b3aeeeaaf773cf3a2b.html"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.australia.com/en/atdw/product.6045f4108fc1e7796a9d63ac.html",
+      "status": 200,
+      "final_url": "https://www.australia.com/en/atdw/product.6045f4108fc1e7796a9d63ac.html",
+      "bytes": 281623
+    },
+    {
+      "page": "https://www.australia.com/en/atdw/product.616f4a148b6c65fa3189dad9.html",
+      "status": 200,
+      "final_url": "https://www.australia.com/en/atdw/product.616f4a148b6c65fa3189dad9.html",
+      "bytes": 284753
+    },
+    {
+      "page": "https://www.australia.com/en/atdw/product.584e2799dbf9274d417e7d35.html",
+      "status": 404,
+      "final_url": "https://www.australia.com/en/atdw/product.584e2799dbf9274d417e7d35.html",
+      "bytes": 241721
+    },
+    {
+      "page": "https://www.australia.com/en/atdw/product.682e55feb2fdf61558e1dc1e.html",
+      "status": 200,
+      "final_url": "https://www.australia.com/en/atdw/product.682e55feb2fdf61558e1dc1e.html",
+      "bytes": 281499
+    },
+    {
+      "page": "https://www.australia.com/en/atdw/product.56b260b3aeeeaaf773cf3a2b.html",
+      "status": 200,
+      "final_url": "https://www.australia.com/en/atdw/product.56b260b3aeeeaaf773cf3a2b.html",
+      "bytes": 278411
+    }
+  ]
+}

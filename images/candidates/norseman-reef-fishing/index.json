@@ -1,0 +1,257 @@
+{
+  "slug": "norseman-reef-fishing",
+  "request_hash": "31c8b8108dbf",
+  "collected_at": "2026-10-29T03:56:20.851Z",
+  "pages_fetched": [
+    "https://www.mvnorseman.com.au/",
+    "https://mvnorseman.com.au/norseman-reef-fishing-charters/",
+    "https://mvnorseman.com.au/norseman-sportfishing/",
+    "https://mvnorseman.com.au/private-norseman-reef-fishing-charters/",
+    "https://mvnorseman.com.au/about-us/",
+    "https://mvnorseman.com.au/our-boat/",
+    "https://mvnorseman.com.au/fishing-gallery/",
+    "https://mvnorseman.com.au/faq/",
+    "https://mvnorseman.com.au/contact-us/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1400,
+      "height": 954,
+      "original": "1400x954",
+      "source": "https://mvnorseman.com.au/wp-content/uploads/sites/5747/2022/08/DSCN0416-1-1-e1660788079569.jpg?w=700&h=700&zoom=2",
+      "page": "https://www.mvnorseman.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 1200,
+      "height": 900,
+      "original": "1200x900",
+      "source": "https://mvnorseman.com.au/wp-content/uploads/sites/5747/2022/08/1000004267.jpg?resize=600%2C450&zoom=2",
+      "page": "https://www.mvnorseman.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1020,
+      "height": 572,
+      "original": "1020x572",
+      "source": "https://mvnorseman.com.au/wp-content/uploads/sites/5747/2022/08/5-norseman-port-douglas-fishing-charter-1024x768-1.jpeg?resize=600%2C337.5&zoom=2",
+      "page": "https://www.mvnorseman.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1499,
+      "height": 2000,
+      "original": "1919x2560",
+      "source": "https://mvnorseman.com.au/wp-content/uploads/sites/5747/2022/08/beach.jpg?w=1600&zoom=2",
+      "page": "https://www.mvnorseman.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1400,
+      "height": 661,
+      "original": "1400x661",
+      "source": "https://mvnorseman.com.au/wp-content/uploads/sites/5747/2022/08/171150941_3570400956398757_4735873722555428676_n.jpeg?w=700&h=700&zoom=2",
+      "page": "https://mvnorseman.com.au/norseman-reef-fishing-charters/",
+      "priority": true
+    },
+    {
+      "file": "c06.webp",
+      "width": 720,
+      "height": 480,
+      "original": "720x480",
+      "source": "https://mvnorseman.com.au/wp-content/uploads/sites/5747/2022/08/Kobe-Solo-rotated.jpg?resize=360%2C240&zoom=2",
+      "page": "https://mvnorseman.com.au/norseman-reef-fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 720,
+      "height": 480,
+      "original": "720x480",
+      "source": "https://mvnorseman.com.au/wp-content/uploads/sites/5747/2022/08/20220115_133858.jpg?resize=360%2C240&zoom=2",
+      "page": "https://mvnorseman.com.au/norseman-reef-fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 720,
+      "height": 480,
+      "original": "720x480",
+      "source": "https://mvnorseman.com.au/wp-content/uploads/sites/5747/2022/08/1000016506.jpg?resize=360%2C240&zoom=2",
+      "page": "https://mvnorseman.com.au/norseman-reef-fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 720,
+      "height": 480,
+      "original": "720x480",
+      "source": "https://mvnorseman.com.au/wp-content/uploads/sites/5747/2022/08/IMG_6885.jpeg?resize=360%2C240&zoom=2",
+      "page": "https://mvnorseman.com.au/norseman-reef-fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 720,
+      "height": 480,
+      "original": "720x480",
+      "source": "https://mvnorseman.com.au/wp-content/uploads/sites/5747/2022/08/1000016749.jpg?resize=360%2C240&zoom=2",
+      "page": "https://mvnorseman.com.au/norseman-reef-fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 720,
+      "height": 480,
+      "original": "720x480",
+      "source": "https://mvnorseman.com.au/wp-content/uploads/sites/5747/2022/08/1000010586.jpg?resize=360%2C240&zoom=2",
+      "page": "https://mvnorseman.com.au/norseman-reef-fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 720,
+      "height": 480,
+      "original": "720x480",
+      "source": "https://mvnorseman.com.au/wp-content/uploads/sites/5747/2022/08/1000009394.jpg?resize=360%2C240&zoom=2",
+      "page": "https://mvnorseman.com.au/norseman-reef-fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 720,
+      "height": 480,
+      "original": "720x480",
+      "source": "https://mvnorseman.com.au/wp-content/uploads/sites/5747/2022/08/20160307_094458-1-1-scaled.jpg?resize=360%2C240&zoom=2",
+      "page": "https://mvnorseman.com.au/norseman-reef-fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 720,
+      "height": 480,
+      "original": "720x480",
+      "source": "https://mvnorseman.com.au/wp-content/uploads/sites/5747/2022/08/DSCN6454-1-1-scaled.jpg?resize=360%2C240&zoom=2",
+      "page": "https://mvnorseman.com.au/norseman-reef-fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 828,
+      "height": 621,
+      "original": "828x621",
+      "source": "https://mvnorseman.com.au/wp-content/uploads/sites/5747/2023/08/20230801_131057-scaled.jpg?w=414&zoom=2",
+      "page": "https://mvnorseman.com.au/norseman-reef-fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 828,
+      "height": 828,
+      "original": "828x828",
+      "source": "https://mvnorseman.com.au/wp-content/uploads/sites/5747/2022/08/68975599_2152223521549848_4300894754595405824_n.jpeg?w=414&zoom=2",
+      "page": "https://mvnorseman.com.au/norseman-reef-fishing-charters/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.mvnorseman.com.au/",
+      "status": 200,
+      "final_url": "https://mvnorseman.com.au/",
+      "bytes": 155178
+    },
+    {
+      "page": "https://mvnorseman.com.au/norseman-reef-fishing-charters/",
+      "status": 200,
+      "final_url": "https://mvnorseman.com.au/norseman-reef-fishing-charters/",
+      "bytes": 148795
+    },
+    {
+      "page": "https://mvnorseman.com.au/norseman-sportfishing/",
+      "status": 200,
+      "final_url": "https://mvnorseman.com.au/norseman-sportfishing/",
+      "bytes": 149141
+    },
+    {
+      "page": "https://mvnorseman.com.au/private-norseman-reef-fishing-charters/",
+      "status": 200,
+      "final_url": "https://mvnorseman.com.au/private-norseman-reef-fishing-charters/",
+      "bytes": 136500
+    },
+    {
+      "page": "https://mvnorseman.com.au/about-us/",
+      "status": 200,
+      "final_url": "https://mvnorseman.com.au/about-us/",
+      "bytes": 121954
+    },
+    {
+      "page": "https://mvnorseman.com.au/our-boat/",
+      "status": 200,
+      "final_url": "https://mvnorseman.com.au/our-boat/",
+      "bytes": 122881
+    },
+    {
+      "page": "https://mvnorseman.com.au/fishing-gallery/",
+      "status": 200,
+      "final_url": "https://mvnorseman.com.au/fishing-gallery/",
+      "bytes": 161114
+    },
+    {
+      "page": "https://mvnorseman.com.au/faq/",
+      "status": 200,
+      "final_url": "https://mvnorseman.com.au/faq/",
+      "bytes": 130965
+    },
+    {
+      "page": "https://mvnorseman.com.au/contact-us/",
+      "status": 200,
+      "final_url": "https://mvnorseman.com.au/contact-us/",
+      "bytes": 152999
+    },
+    {
+      "image": "https://mvnorseman.com.au/wp-content/uploads/sites/5747/2022/08/newsport-douglas-tourism-award.jpg?h=150&zoom=2",
+      "error": "too small 219x222"
+    },
+    {
+      "image": "https://mvnorseman.com.au/wp-content/uploads/sites/5747/2022/08/port-douglas-tourism-awards-2017-winner-1.jpg?h=150&zoom=2",
+      "error": "too small 294x300"
+    },
+    {
+      "image": "https://mvnorseman.com.au/wp-content/uploads/sites/5747/2022/08/rounded-in-photoretrica-1.png?w=400&zoom=2",
+      "error": "too small 438x130"
+    },
+    {
+      "dup": "https://mvnorseman.com.au/wp-content/uploads/sites/5747/2022/08/DSCN0416-1-1-e1660788079569.jpg?w=1600&zoom=2"
+    },
+    {
+      "dup": "https://mvnorseman.com.au/wp-content/uploads/sites/5747/2022/08/beach.jpg?w=1600&zoom=2);"
+    },
+    {
+      "dup": "https://mvnorseman.com.au/wp-content/uploads/sites/5747/2022/08/DSCN0416-1-1-e1660788079569.jpg?w=1600&zoom=2);"
+    },
+    {
+      "dup": "https://mvnorseman.com.au/wp-content/uploads/sites/5747/2022/08/1000004267.jpg?resize=360%2C240&zoom=2"
+    },
+    {
+      "dup": "https://mvnorseman.com.au/wp-content/uploads/sites/5747/2022/08/1000015484.jpg?resize=360%2C240&zoom=2"
+    },
+    {
+      "dup": "https://mvnorseman.com.au/wp-content/uploads/sites/5747/2022/08/1000016555.jpg?resize=360%2C240&zoom=2"
+    },
+    {
+      "dup": "https://mvnorseman.com.au/wp-content/uploads/sites/5747/2022/08/171150941_3570400956398757_4735873722555428676_n.jpeg?w=1600&zoom=2"
+    },
+    {
+      "dup": "https://mvnorseman.com.au/wp-content/uploads/sites/5747/2022/08/171150941_3570400956398757_4735873722555428676_n.jpeg?w=1600&zoom=2);"
+    },
+    {
+      "dup": "https://mvnorseman.com.au/wp-content/uploads/sites/5747/2023/08/20230801_131057-scaled.jpg?w=600&zoom=2"
+    }
+  ]
+}

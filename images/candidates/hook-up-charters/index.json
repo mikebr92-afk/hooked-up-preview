@@ -1,0 +1,215 @@
+{
+  "slug": "hook-up-charters",
+  "request_hash": "7f8a97f19e1a",
+  "collected_at": "2026-10-29T03:55:33.594Z",
+  "pages_fetched": [
+    "https://www.hookupcharters.com.au/",
+    "https://www.hookupfishing.com.au/",
+    "https://www.hookupfishing.com.au/contact-us",
+    "https://www.hookupfishing.com.au/articles"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1440,
+      "height": 1080,
+      "original": "1440x1080",
+      "source": "https://static.wixstatic.com/media/30bb55_35f4e5297e8d4c8ea3af1d8ac343fd5d~mv2.jpg",
+      "page": "https://www.hookupcharters.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "4031x3023",
+      "source": "https://static.wixstatic.com/media/30bb55_750baee141bb4686a676f5102ecaf7c5~mv2.png",
+      "page": "https://www.hookupcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "4032x3024",
+      "source": "https://static.wixstatic.com/media/30bb55_5fcf7489cf314c508cf11af26ccde39f~mv2_d_4032_3024_s_4_2.jpg",
+      "page": "https://www.hookupfishing.com.au/contact-us",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1970,
+      "height": 1970,
+      "original": "1970x1970",
+      "source": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/media/sloppyframe.3214ce8e.png",
+      "page": "https://www.hookupfishing.com.au/contact-us",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 884,
+      "height": 748,
+      "original": "884x748",
+      "source": "https://static.wixstatic.com/media/30bb55_5fcf7489cf314c508cf11af26ccde39f~mv2_d_4032_3024_s_4_2.jpg/v1/crop/x_468,y_8,w_3564,h_3016/fill/w_884,h_748,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_0046_JPG.jpg",
+      "page": "https://www.hookupfishing.com.au/contact-us",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.hookupcharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.hookupfishing.com.au/",
+      "bytes": 487077
+    },
+    {
+      "page": "https://www.hookupfishing.com.au/",
+      "status": 200,
+      "final_url": "https://www.hookupfishing.com.au/",
+      "bytes": 487077
+    },
+    {
+      "page": "https://www.hookupfishing.com.au/contact-us",
+      "status": 200,
+      "final_url": "https://www.hookupfishing.com.au/contact-us",
+      "bytes": 468782
+    },
+    {
+      "page": "https://www.hookupfishing.com.au/articles",
+      "status": 200,
+      "final_url": "https://www.hookupfishing.com.au/articles",
+      "bytes": 420162
+    },
+    {
+      "image": "https://static.wixstatic.com/media/30bb55_134bbdfa7f86481e897e3cffc4eaf110~mv2.jpg",
+      "error": "too small 828x285"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/30bb55_134bbdfa7f86481e897e3cffc4eaf110~mv2.jpg/v1/crop/x_24,y_0,w_783,h_233/fill/w_608,h_182,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_2911.jpg",
+      "error": "too small 608x182"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/0fdef751204647a3bbd7eaa2827ed4f9.png",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/0fdef751204647a3bbd7eaa2827ed4f9.png/v1/fill/w_34,h_34,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/0fdef751204647a3bbd7eaa2827ed4f9.png",
+      "error": "too small 34x34"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/01c3aff52f2a4dffa526d7a9843d46ea.png",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/01c3aff52f2a4dffa526d7a9843d46ea.png/v1/fill/w_34,h_34,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/01c3aff52f2a4dffa526d7a9843d46ea.png",
+      "error": "too small 34x34"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/17cf82e0d3fc4c11a370a8eedfefa0fb.png",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/17cf82e0d3fc4c11a370a8eedfefa0fb.png/v1/fill/w_34,h_34,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/17cf82e0d3fc4c11a370a8eedfefa0fb.png",
+      "error": "too small 34x34"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/23fd2a2be53141ed810f4d3dcdcd01fa.png",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/23fd2a2be53141ed810f4d3dcdcd01fa.png/v1/fill/w_32,h_32,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/23fd2a2be53141ed810f4d3dcdcd01fa.png",
+      "error": "too small 32x32"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/81af6121f84c41a5b4391d7d37fce12a.png",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/81af6121f84c41a5b4391d7d37fce12a.png/v1/fill/w_32,h_32,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/81af6121f84c41a5b4391d7d37fce12a.png",
+      "error": "too small 32x32"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/a8d7a47b82bc4083afc6fbc2275498c7.png",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/a8d7a47b82bc4083afc6fbc2275498c7.png/v1/fill/w_32,h_32,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/a8d7a47b82bc4083afc6fbc2275498c7.png",
+      "error": "too small 32x32"
+    },
+    {
+      "image": "https://www.hookupfishing.com.au/quality_auto/IMG_2911.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.hookupfishing.com.au/quality_auto/0fdef751204647a3bbd7eaa2827ed4f9.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.hookupfishing.com.au/quality_auto/01c3aff52f2a4dffa526d7a9843d46ea.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.hookupfishing.com.au/quality_auto/17cf82e0d3fc4c11a370a8eedfefa0fb.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.hookupfishing.com.au/quality_auto/IMG_5381_heic.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.hookupfishing.com.au/quality_auto/23fd2a2be53141ed810f4d3dcdcd01fa.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.hookupfishing.com.au/quality_auto/81af6121f84c41a5b4391d7d37fce12a.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.hookupfishing.com.au/quality_auto/a8d7a47b82bc4083afc6fbc2275498c7.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/30bb55_134bbdfa7f86481e897e3cffc4eaf110~mv2.jpg/v1/crop/x_24,y_0,w_783,h_233/fill/w_934,h_280,al_c,lg_1,q_80,enc_avif,quality_auto/IMG_2911.jpg",
+      "error": "too small 934x280"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/0fdef751204647a3bbd7eaa2827ed4f9.png/v1/fill/w_68,h_68,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/0fdef751204647a3bbd7eaa2827ed4f9.png",
+      "error": "too small 68x68"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/01c3aff52f2a4dffa526d7a9843d46ea.png/v1/fill/w_68,h_68,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/01c3aff52f2a4dffa526d7a9843d46ea.png",
+      "error": "too small 68x68"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/17cf82e0d3fc4c11a370a8eedfefa0fb.png/v1/fill/w_68,h_68,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/17cf82e0d3fc4c11a370a8eedfefa0fb.png",
+      "error": "too small 68x68"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/30bb55_750baee141bb4686a676f5102ecaf7c5~mv2.png/v1/crop/x_0,y_206,w_4031,h_2612/fill/w_534,h_346,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_5381_heic.png",
+      "error": "too small 534x346"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/30bb55_750baee141bb4686a676f5102ecaf7c5~mv2.png/v1/crop/x_0,y_206,w_4031,h_2612/fill/w_1068,h_692,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_5381_heic.png"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/23fd2a2be53141ed810f4d3dcdcd01fa.png/v1/fill/w_64,h_64,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/23fd2a2be53141ed810f4d3dcdcd01fa.png",
+      "error": "too small 64x64"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/81af6121f84c41a5b4391d7d37fce12a.png/v1/fill/w_64,h_64,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/81af6121f84c41a5b4391d7d37fce12a.png",
+      "error": "too small 64x64"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/a8d7a47b82bc4083afc6fbc2275498c7.png/v1/fill/w_64,h_64,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/a8d7a47b82bc4083afc6fbc2275498c7.png",
+      "error": "too small 64x64"
+    },
+    {
+      "image": "https://www.hookupfishing.com.au/quality_auto/IMG_0046_JPG.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/30bb55_5fcf7489cf314c508cf11af26ccde39f~mv2_d_4032_3024_s_4_2.jpg/v1/crop/x_468,y_8,w_3564,h_3016/fill/w_442,h_374,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_0046_JPG.jpg",
+      "error": "too small 442x374"
+    }
+  ]
+}

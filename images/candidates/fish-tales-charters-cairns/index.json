@@ -1,0 +1,413 @@
+{
+  "slug": "fish-tales-charters-cairns",
+  "request_hash": "9916c0b0b1b0",
+  "collected_at": "2026-10-29T03:55:10.044Z",
+  "pages_fetched": [
+    "https://fishtales.com.au/",
+    "https://fishtales.com.au/cairns-reef-fishing/",
+    "https://fishtales.com.au/about-us/",
+    "https://fishtales.com.au/cairns-estuary-fishing/",
+    "https://fishtales.com.au/cairns-river-fishing/",
+    "https://fishtales.com.au/cairns-private-fishing-charters/",
+    "https://fishtales.com.au/cairns-barramundi-fishing/",
+    "https://fishtales.com.au/contact-details/",
+    "https://fishtales.com.au/gt-popper-fishing-on-the-reef/",
+    "https://fishtales.com.au/fish-gallery/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 800,
+      "height": 600,
+      "original": "800x600",
+      "source": "https://fishtales.com.au/wp-content/uploads/2020/08/Vessel-dont-know.jpg",
+      "page": "https://fishtales.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 800,
+      "height": 800,
+      "original": "800x800",
+      "source": "https://fishtales.com.au/wp-content/uploads/2017/03/Estaury-Fishing-Cairns-min2.jpg",
+      "page": "https://fishtales.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 800,
+      "height": 800,
+      "original": "800x800",
+      "source": "https://fishtales.com.au/wp-content/uploads/2017/03/River-Fishing-Cairns-min3.jpg",
+      "page": "https://fishtales.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 800,
+      "height": 800,
+      "original": "800x800",
+      "source": "https://fishtales.com.au/wp-content/uploads/2017/03/reef-fishing.jpg",
+      "page": "https://fishtales.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 800,
+      "height": 800,
+      "original": "800x800",
+      "source": "https://fishtales.com.au/wp-content/uploads/2017/03/Private-Charters-Cairns-min.jpg",
+      "page": "https://fishtales.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 2000,
+      "height": 1063,
+      "original": "2555x1358",
+      "source": "https://fishtales.com.au/wp-content/uploads/2024/11/4-Fold-to-DL-2024-PROOF4-Page-1c-resize-1-scaled.jpg",
+      "page": "https://fishtales.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 2000,
+      "height": 1090,
+      "original": "2555x1393",
+      "source": "https://fishtales.com.au/wp-content/uploads/2024/06/Cropped-4-Fold-to-DL-2024-PROOF5-Page-2-1-scaled.jpg",
+      "page": "https://fishtales.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1080,
+      "height": 608,
+      "original": "1080x608",
+      "source": "https://fishtales.com.au/wp-content/uploads/2019/05/669147463668b1b14940e23b4662da7f_screen.jpg",
+      "page": "https://fishtales.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 2000,
+      "height": 994,
+      "original": "2000x994",
+      "source": "https://fishtales.com.au/wp-content/uploads/2017/03/Slider-BG-2.jpg",
+      "page": "https://fishtales.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 2000,
+      "height": 926,
+      "original": "2000x926",
+      "source": "https://fishtales.com.au/wp-content/uploads/2024/03/slider-river.jpg",
+      "page": "https://fishtales.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 600,
+      "height": 800,
+      "original": "600x800",
+      "source": "https://fishtales.com.au/wp-content/uploads/2024/04/Large-Mouth-Nannygai.jpg",
+      "page": "https://fishtales.com.au/cairns-reef-fishing/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 673,
+      "height": 800,
+      "original": "673x800",
+      "source": "https://fishtales.com.au/wp-content/uploads/2024/10/Ian-and-his-Passionfruit-Trout.jpg",
+      "page": "https://fishtales.com.au/cairns-reef-fishing/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2555x1916",
+      "source": "https://fishtales.com.au/wp-content/uploads/2024/01/Ryan-scaled.jpg",
+      "page": "https://fishtales.com.au/cairns-reef-fishing/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 600,
+      "height": 800,
+      "original": "600x800",
+      "source": "https://fishtales.com.au/wp-content/uploads/2020/10/Ahmad-and-his-Tea-Leaf-Trevally.jpg",
+      "page": "https://fishtales.com.au/cairns-reef-fishing/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 800,
+      "height": 707,
+      "original": "800x707",
+      "source": "https://fishtales.com.au/wp-content/uploads/2024/01/Kate-and-her-Chinaman-Fish.jpg",
+      "page": "https://fishtales.com.au/cairns-reef-fishing/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 800,
+      "height": 512,
+      "original": "800x512",
+      "source": "https://fishtales.com.au/wp-content/uploads/2021/11/Steph-and-her-Cobia.jpg",
+      "page": "https://fishtales.com.au/cairns-reef-fishing/",
+      "priority": false
+    },
+    {
+      "file": "c17.webp",
+      "width": 600,
+      "height": 800,
+      "original": "600x800",
+      "source": "https://fishtales.com.au/wp-content/uploads/2023/11/Becs-Common-Coral-Trout.jpg",
+      "page": "https://fishtales.com.au/cairns-reef-fishing/",
+      "priority": false
+    },
+    {
+      "file": "c18.webp",
+      "width": 600,
+      "height": 800,
+      "original": "600x800",
+      "source": "https://fishtales.com.au/wp-content/uploads/2020/08/Flynn-and-his-Coral-Cod.jpg",
+      "page": "https://fishtales.com.au/cairns-reef-fishing/",
+      "priority": false
+    },
+    {
+      "file": "c19.webp",
+      "width": 600,
+      "height": 800,
+      "original": "600x800",
+      "source": "https://fishtales.com.au/wp-content/uploads/2023/07/Flame-Snapper.jpg",
+      "page": "https://fishtales.com.au/cairns-reef-fishing/",
+      "priority": false
+    },
+    {
+      "file": "c20.webp",
+      "width": 800,
+      "height": 642,
+      "original": "800x642",
+      "source": "https://fishtales.com.au/wp-content/uploads/2025/05/Irvine-and-Giant-Trevally.jpg",
+      "page": "https://fishtales.com.au/cairns-reef-fishing/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://fishtales.com.au/",
+      "status": 200,
+      "final_url": "https://fishtales.com.au/",
+      "bytes": 196665
+    },
+    {
+      "page": "https://fishtales.com.au/cairns-reef-fishing/",
+      "status": 200,
+      "final_url": "https://fishtales.com.au/cairns-reef-fishing/",
+      "bytes": 382401
+    },
+    {
+      "page": "https://fishtales.com.au/about-us/",
+      "status": 200,
+      "final_url": "https://fishtales.com.au/about-us/",
+      "bytes": 172240
+    },
+    {
+      "page": "https://fishtales.com.au/cairns-estuary-fishing/",
+      "status": 200,
+      "final_url": "https://fishtales.com.au/cairns-estuary-fishing/",
+      "bytes": 409357
+    },
+    {
+      "page": "https://fishtales.com.au/cairns-river-fishing/",
+      "status": 200,
+      "final_url": "https://fishtales.com.au/cairns-river-fishing/",
+      "bytes": 409980
+    },
+    {
+      "page": "https://fishtales.com.au/cairns-private-fishing-charters/",
+      "status": 200,
+      "final_url": "https://fishtales.com.au/cairns-private-fishing-charters/",
+      "bytes": 183659
+    },
+    {
+      "page": "https://fishtales.com.au/cairns-barramundi-fishing/",
+      "status": 200,
+      "final_url": "https://fishtales.com.au/cairns-barramundi-fishing/",
+      "bytes": 238925
+    },
+    {
+      "page": "https://fishtales.com.au/contact-details/",
+      "status": 200,
+      "final_url": "https://fishtales.com.au/contact-details/",
+      "bytes": 220907
+    },
+    {
+      "page": "https://fishtales.com.au/gt-popper-fishing-on-the-reef/",
+      "status": 200,
+      "final_url": "https://fishtales.com.au/gt-popper-fishing-on-the-reef/",
+      "bytes": 68998
+    },
+    {
+      "page": "https://fishtales.com.au/fish-gallery/",
+      "status": 200,
+      "final_url": "https://fishtales.com.au/fish-gallery/",
+      "bytes": 69001
+    },
+    {
+      "image": "https://fishtales.com.au/wp-content/uploads/2023/10/Sandra-and-her-2nd-fingermark.jpg",
+      "error": "Input buffer contains unsupported image format"
+    },
+    {
+      "image": "https://fishtales.com.au/wp-content/uploads/2022/10/Carol.jpg",
+      "error": "Input buffer contains unsupported image format"
+    },
+    {
+      "image": "https://fishtales.com.au/wp-content/uploads/2026/09/cropped-Darryl-Barramundi-fishing-while-in-the-estuary-of-Trinity-Inlet-Cairns.jpg",
+      "error": "too small 512x512"
+    },
+    {
+      "image": "https://fishtales.com.au/wp-content/uploads/2026/09/cropped-Darryl-Barramundi-fishing-while-in-the-estuary-of-Trinity-Inlet-Cairns-32x32.jpg",
+      "error": "too small 32x32"
+    },
+    {
+      "image": "https://fishtales.com.au/wp-content/uploads/2026/09/cropped-Darryl-Barramundi-fishing-while-in-the-estuary-of-Trinity-Inlet-Cairns-192x192.jpg",
+      "error": "too small 192x192"
+    },
+    {
+      "image": "https://fishtales.com.au/wp-content/uploads/2026/09/cropped-Darryl-Barramundi-fishing-while-in-the-estuary-of-Trinity-Inlet-Cairns-180x180.jpg",
+      "error": "too small 180x180"
+    },
+    {
+      "image": "https://fishtales.com.au/wp-content/uploads/2026/09/cropped-Darryl-Barramundi-fishing-while-in-the-estuary-of-Trinity-Inlet-Cairns-270x270.jpg",
+      "error": "too small 270x270"
+    },
+    {
+      "image": "https://fishtales.com.au/wp-content/uploads/2020/08/Vessel-dont-know-480x360.jpg",
+      "error": "too small 480x360"
+    },
+    {
+      "image": "https://fishtales.com.au/wp-content/uploads/2017/03/Estaury-Fishing-Cairns-min2-150x150.jpg",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://fishtales.com.au/wp-content/uploads/2017/03/Estaury-Fishing-Cairns-min2-300x300.jpg",
+      "error": "too small 300x300"
+    },
+    {
+      "dup": "https://fishtales.com.au/wp-content/uploads/2017/03/Estaury-Fishing-Cairns-min2-768x768.jpg"
+    },
+    {
+      "image": "https://fishtales.com.au/wp-content/uploads/2017/03/Estaury-Fishing-Cairns-min2-157x157.jpg",
+      "error": "too small 157x157"
+    },
+    {
+      "image": "https://fishtales.com.au/wp-content/uploads/2017/03/Estaury-Fishing-Cairns-min2-400x400.jpg",
+      "error": "too small 400x400"
+    },
+    {
+      "image": "https://fishtales.com.au/wp-content/uploads/2017/03/Estaury-Fishing-Cairns-min2-510x510.jpg",
+      "error": "too small 510x510"
+    },
+    {
+      "image": "https://fishtales.com.au/wp-content/uploads/2017/03/River-Fishing-Cairns-min3-150x150.jpg",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://fishtales.com.au/wp-content/uploads/2017/03/River-Fishing-Cairns-min3-300x300.jpg",
+      "error": "too small 300x300"
+    },
+    {
+      "dup": "https://fishtales.com.au/wp-content/uploads/2017/03/River-Fishing-Cairns-min3-768x768.jpg"
+    },
+    {
+      "image": "https://fishtales.com.au/wp-content/uploads/2017/03/reef-fishing-150x150.jpg",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://fishtales.com.au/wp-content/uploads/2017/03/reef-fishing-300x300.jpg",
+      "error": "too small 300x300"
+    },
+    {
+      "dup": "https://fishtales.com.au/wp-content/uploads/2017/03/reef-fishing-768x768.jpg"
+    },
+    {
+      "image": "https://fishtales.com.au/wp-content/uploads/2017/03/Private-Charters-Cairns-min-150x150.jpg",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://fishtales.com.au/wp-content/uploads/2017/03/Private-Charters-Cairns-min-300x300.jpg",
+      "error": "too small 300x300"
+    },
+    {
+      "dup": "https://fishtales.com.au/wp-content/uploads/2017/03/Private-Charters-Cairns-min-768x768.jpg"
+    },
+    {
+      "image": "https://fishtales.com.au/wp-content/uploads/2017/03/Private-Charters-Cairns-min-157x157.jpg",
+      "error": "too small 157x157"
+    },
+    {
+      "image": "https://fishtales.com.au/wp-content/uploads/2017/03/Private-Charters-Cairns-min-400x400.jpg",
+      "error": "too small 400x400"
+    },
+    {
+      "image": "https://fishtales.com.au/wp-content/uploads/2017/03/Private-Charters-Cairns-min-510x510.jpg",
+      "error": "too small 510x510"
+    },
+    {
+      "dup": "https://fishtales.com.au/wp-content/uploads/2024/11/4-Fold-to-DL-2024-PROOF4-Page-1c-resize-1.jpg"
+    },
+    {
+      "dup": "https://fishtales.com.au/wp-content/uploads/2024/11/4-Fold-to-DL-2024-PROOF4-Page-1c-resize-1-980x521.jpg"
+    },
+    {
+      "image": "https://fishtales.com.au/wp-content/uploads/2024/11/4-Fold-to-DL-2024-PROOF4-Page-1c-resize-1-480x255.jpg",
+      "error": "too small 480x255"
+    },
+    {
+      "dup": "https://fishtales.com.au/wp-content/uploads/2024/06/Cropped-4-Fold-to-DL-2024-PROOF5-Page-2-1.jpg"
+    },
+    {
+      "dup": "https://fishtales.com.au/wp-content/uploads/2024/06/Cropped-4-Fold-to-DL-2024-PROOF5-Page-2-1-980x534.jpg"
+    },
+    {
+      "image": "https://fishtales.com.au/wp-content/uploads/2024/06/Cropped-4-Fold-to-DL-2024-PROOF5-Page-2-1-480x262.jpg",
+      "error": "too small 480x262"
+    },
+    {
+      "image": "https://fishtales.com.au/wp-content/uploads/2022/07/Whale-Shark-Reef.jpg",
+      "error": "too small 450x800"
+    },
+    {
+      "image": "https://fishtales.com.au/wp-content/uploads/2021/02/Joe-and-his-Cobia.jpg",
+      "error": "too small 378x800"
+    },
+    {
+      "image": "https://fishtales.com.au/wp-content/uploads/2018/11/Anthony-with-Coral-Trout.jpg",
+      "error": "too small 496x800"
+    },
+    {
+      "image": "https://fishtales.com.au/wp-content/uploads/2020/01/STEVES-BLACK-MARLIN.jpg",
+      "error": "too small 600x358"
+    },
+    {
+      "image": "https://fishtales.com.au/wp-content/uploads/2022/07/Black-tipped-Reef-Shark.jpg",
+      "error": "too small 600x338"
+    },
+    {
+      "image": "https://fishtales.com.au/wp-content/uploads/2018/11/Harry-12-years-old-budger-trevally.jpg",
+      "error": "too small 477x800"
+    },
+    {
+      "image": "https://fishtales.com.au/wp-content/uploads/2017/12/20160116_144107_1.jpg",
+      "error": "too small 360x600"
+    },
+    {
+      "image": "https://fishtales.com.au/wp-content/uploads/2020/01/Michael-23rd-september-pan-fry-snapper.jpg",
+      "error": "too small 338x600"
+    }
+  ]
+}

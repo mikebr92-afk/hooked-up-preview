@@ -1,0 +1,45 @@
+{
+  "slug": "research-cooktown2",
+  "request_hash": "98931ebd6032",
+  "collected_at": "2026-10-29T03:54:42.232Z",
+  "pages_fetched": [
+    "https://www.cooktownandcapeyork.com/tours/local-tours/gonefishing",
+    "https://www.cooktownandcapeyork.com/tours/top/capeyorkcustomsportfishin",
+    "https://www.cooktownandcapeyork.com/tours/top/cape-york-fishing",
+    "https://www.cooktownandcapeyork.com/tours/top/tropical-boating",
+    "https://www.cooktownandcapeyork.com/go/Weipa"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.cooktownandcapeyork.com/tours/local-tours/gonefishing",
+      "status": 200,
+      "final_url": "https://www.cooktownandcapeyork.com/tours/local-tours/gonefishing",
+      "bytes": 46489
+    },
+    {
+      "page": "https://www.cooktownandcapeyork.com/tours/top/capeyorkcustomsportfishin",
+      "status": 200,
+      "final_url": "https://www.cooktownandcapeyork.com/tours/top/capeyorkcustomsportfishin",
+      "bytes": 47824
+    },
+    {
+      "page": "https://www.cooktownandcapeyork.com/tours/top/cape-york-fishing",
+      "status": 200,
+      "final_url": "https://www.cooktownandcapeyork.com/tours/top/cape-york-fishing",
+      "bytes": 46024
+    },
+    {
+      "page": "https://www.cooktownandcapeyork.com/tours/top/tropical-boating",
+      "status": 200,
+      "final_url": "https://www.cooktownandcapeyork.com/tours/top/tropical-boating",
+      "bytes": 45533
+    },
+    {
+      "page": "https://www.cooktownandcapeyork.com/go/Weipa",
+      "status": 200,
+      "final_url": "https://www.cooktownandcapeyork.com/go/Weipa",
+      "bytes": 48597
+    }
+  ]
+}

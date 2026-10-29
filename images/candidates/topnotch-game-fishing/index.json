@@ -1,0 +1,466 @@
+{
+  "slug": "topnotch-game-fishing",
+  "request_hash": "f6db28adf573",
+  "collected_at": "2026-10-29T03:59:25.991Z",
+  "pages_fetched": [
+    "https://www.topnotchgamefishing.com/",
+    "https://www.topnotchgamefishing.com.au/",
+    "https://www.topnotchgamefishing.com.au/book-now/",
+    "https://www.topnotchgamefishing.com.au/vessels/",
+    "https://www.topnotchgamefishing.com.au/the-pirate/",
+    "https://www.topnotchgamefishing.com.au/moonshine/",
+    "https://www.topnotchgamefishing.com.au/hamilton-island-fishing-charters/",
+    "https://www.topnotchgamefishing.com.au/whitsundays-sailfish-fishing-charters/",
+    "https://www.topnotchgamefishing.com.au/whitsundays-black-marlin-charters/",
+    "https://www.topnotchgamefishing.com.au/contact-us/",
+    "https://www.topnotchgamefishing.com.au/faq/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 2000,
+      "height": 1125,
+      "original": "2560x1440",
+      "source": "https://www.topnotchgamefishing.com.au/wp-content/uploads/2024/07/Test.00_06_37_17.Still005-scaled.jpg",
+      "page": "https://www.topnotchgamefishing.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 1100,
+      "height": 619,
+      "original": "1100x619",
+      "source": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2024/07/Test.00_04_38_19.Still004-scaled.jpg?resize=1100%2C619&#038;ssl=1",
+      "page": "https://www.topnotchgamefishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1014,
+      "height": 1228,
+      "original": "1014x1228",
+      "source": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2026/01/IMG_6231-copy.jpg?resize=1014%2C1228&#038;ssl=1",
+      "page": "https://www.topnotchgamefishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 821,
+      "height": 1024,
+      "original": "821x1024",
+      "source": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2022/10/Photo-3-10-2022-5-33-37-am.jpg?resize=821%2C1024&#038;ssl=1",
+      "page": "https://www.topnotchgamefishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1100,
+      "height": 1375,
+      "original": "1100x1375",
+      "source": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2022/11/Photo-21-11-2022-6-02-21-am.jpg?resize=1100%2C1375&#038;ssl=1",
+      "page": "https://www.topnotchgamefishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1682,
+      "height": 578,
+      "original": "1682x578",
+      "source": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2022/10/garmin-tab_white-tab.jpg?w=1682&ssl=1",
+      "page": "https://www.topnotchgamefishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 2000,
+      "height": 1727,
+      "original": "2560x2211",
+      "source": "https://www.topnotchgamefishing.com.au/wp-content/uploads/2025/12/IMG_8985-scaled.jpeg",
+      "page": "https://www.topnotchgamefishing.com.au/book-now/",
+      "priority": true
+    },
+    {
+      "file": "c08.webp",
+      "width": 1260,
+      "height": 900,
+      "original": "1260x900",
+      "source": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2022/01/the-pirate.jpg?fit=1260%2C900&ssl=1",
+      "page": "https://www.topnotchgamefishing.com.au/vessels/",
+      "priority": true
+    },
+    {
+      "file": "c09.webp",
+      "width": 1125,
+      "height": 978,
+      "original": "1125x978",
+      "source": "https://www.topnotchgamefishing.com.au/wp-content/uploads/2024/07/IMG_1169.jpg",
+      "page": "https://www.topnotchgamefishing.com.au/the-pirate/",
+      "priority": true
+    },
+    {
+      "file": "c10.webp",
+      "width": 1024,
+      "height": 572,
+      "original": "1024x572",
+      "source": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2021/10/Screen-Shot-2021-10-11-at-11.56.01-am.png?resize=1024%2C572&#038;ssl=1",
+      "page": "https://www.topnotchgamefishing.com.au/the-pirate/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1024,
+      "height": 731,
+      "original": "1024x731",
+      "source": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2022/01/pirate-2.jpg?resize=1024%2C731&#038;ssl=1",
+      "page": "https://www.topnotchgamefishing.com.au/the-pirate/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1024,
+      "height": 768,
+      "original": "1024x768",
+      "source": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2021/11/0DA3DCB6-394F-46E1-B64C-74688EF6F31C.jpeg?resize=1024%2C768&#038;ssl=1",
+      "page": "https://www.topnotchgamefishing.com.au/the-pirate/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1600,
+      "height": 1067,
+      "original": "1600x1067",
+      "source": "https://www.topnotchgamefishing.com.au/wp-content/uploads/2024/07/Moonshine.jpg",
+      "page": "https://www.topnotchgamefishing.com.au/moonshine/",
+      "priority": true
+    },
+    {
+      "file": "c14.webp",
+      "width": 1100,
+      "height": 733,
+      "original": "1100x733",
+      "source": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2024/07/Moonshine-Hamo-scaled.jpg?resize=1100%2C733&#038;ssl=1",
+      "page": "https://www.topnotchgamefishing.com.au/moonshine/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1100,
+      "height": 686,
+      "original": "1100x686",
+      "source": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2023/07/DJI_0013-scaled.jpg?resize=1100%2C686&#038;ssl=1",
+      "page": "https://www.topnotchgamefishing.com.au/moonshine/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1440,
+      "height": 1080,
+      "original": "1440x1080",
+      "source": "https://www.topnotchgamefishing.com.au/wp-content/uploads/2022/10/Photo-22-10-2022-8-10-22-pm-2.jpg",
+      "page": "https://www.topnotchgamefishing.com.au/hamilton-island-fishing-charters/",
+      "priority": true
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.topnotchgamefishing.com/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://www.topnotchgamefishing.com.au/",
+      "status": 200,
+      "final_url": "https://www.topnotchgamefishing.com.au/",
+      "bytes": 91292
+    },
+    {
+      "page": "https://www.topnotchgamefishing.com.au/book-now/",
+      "status": 200,
+      "final_url": "https://www.topnotchgamefishing.com.au/book-now/",
+      "bytes": 74810
+    },
+    {
+      "page": "https://www.topnotchgamefishing.com.au/vessels/",
+      "status": 200,
+      "final_url": "https://www.topnotchgamefishing.com.au/vessels/",
+      "bytes": 73150
+    },
+    {
+      "page": "https://www.topnotchgamefishing.com.au/the-pirate/",
+      "status": 200,
+      "final_url": "https://www.topnotchgamefishing.com.au/the-pirate/",
+      "bytes": 87662
+    },
+    {
+      "page": "https://www.topnotchgamefishing.com.au/moonshine/",
+      "status": 200,
+      "final_url": "https://www.topnotchgamefishing.com.au/moonshine/",
+      "bytes": 86301
+    },
+    {
+      "page": "https://www.topnotchgamefishing.com.au/hamilton-island-fishing-charters/",
+      "status": 200,
+      "final_url": "https://www.topnotchgamefishing.com.au/hamilton-island-fishing-charters/",
+      "bytes": 99304
+    },
+    {
+      "page": "https://www.topnotchgamefishing.com.au/whitsundays-sailfish-fishing-charters/",
+      "status": 200,
+      "final_url": "https://www.topnotchgamefishing.com.au/whitsundays-sailfish-fishing-charters/",
+      "bytes": 88468
+    },
+    {
+      "page": "https://www.topnotchgamefishing.com.au/whitsundays-black-marlin-charters/",
+      "status": 200,
+      "final_url": "https://www.topnotchgamefishing.com.au/whitsundays-black-marlin-charters/",
+      "bytes": 91697
+    },
+    {
+      "page": "https://www.topnotchgamefishing.com.au/contact-us/",
+      "status": 200,
+      "final_url": "https://www.topnotchgamefishing.com.au/contact-us/",
+      "bytes": 87336
+    },
+    {
+      "page": "https://www.topnotchgamefishing.com.au/faq/",
+      "status": 200,
+      "final_url": "https://www.topnotchgamefishing.com.au/faq/",
+      "bytes": 90274
+    },
+    {
+      "image": "https://www.topnotchgamefishing.com.au/wp-content/uploads/2022/01/topnotch.png",
+      "error": "too small 200x98"
+    },
+    {
+      "image": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2022/10/garmin-tab_white-tab.jpg?resize=1024%2C352&#038;ssl=1",
+      "error": "too small 1024x352"
+    },
+    {
+      "dup": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2024/07/Test.00_04_38_19.Still004-scaled.jpg?w=2560&ssl=1"
+    },
+    {
+      "dup": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2026/01/IMG_6231-copy.jpg?w=1014&ssl=1"
+    },
+    {
+      "dup": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2022/10/Photo-3-10-2022-5-33-37-am.jpg?w=1440&ssl=1"
+    },
+    {
+      "dup": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2022/11/Photo-21-11-2022-6-02-21-am.jpg?w=1440&ssl=1"
+    },
+    {
+      "image": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2017/08/cropped-IMG_E4607.jpg?fit=32%2C32&#038;ssl=1",
+      "error": "too small 32x32"
+    },
+    {
+      "image": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2017/08/cropped-IMG_E4607.jpg?fit=192%2C192&#038;ssl=1",
+      "error": "too small 192x192"
+    },
+    {
+      "image": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2017/08/cropped-IMG_E4607.jpg?fit=180%2C180&#038;ssl=1",
+      "error": "too small 180x180"
+    },
+    {
+      "image": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2017/08/cropped-IMG_E4607.jpg?fit=270%2C270&#038;ssl=1",
+      "error": "too small 270x270"
+    },
+    {
+      "image": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2024/07/Test.00_04_38_19.Still004-scaled.jpg?resize=300%2C169&ssl=1",
+      "error": "too small 300x169"
+    },
+    {
+      "dup": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2024/07/Test.00_04_38_19.Still004-scaled.jpg?resize=1024%2C576&ssl=1"
+    },
+    {
+      "dup": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2024/07/Test.00_04_38_19.Still004-scaled.jpg?resize=768%2C432&ssl=1"
+    },
+    {
+      "dup": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2024/07/Test.00_04_38_19.Still004-scaled.jpg?resize=1536%2C864&ssl=1"
+    },
+    {
+      "dup": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2024/07/Test.00_04_38_19.Still004-scaled.jpg?w=2200&ssl=1"
+    },
+    {
+      "image": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2026/01/IMG_6231-copy.jpg?resize=248%2C300&ssl=1",
+      "error": "too small 248x300"
+    },
+    {
+      "dup": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2026/01/IMG_6231-copy.jpg?resize=846%2C1024&ssl=1"
+    },
+    {
+      "dup": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2026/01/IMG_6231-copy.jpg?resize=768%2C930&ssl=1"
+    },
+    {
+      "dup": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2026/01/IMG_6231-copy.jpg?resize=600%2C727&ssl=1"
+    },
+    {
+      "dup": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2022/10/Photo-3-10-2022-5-33-37-am.jpg?resize=821%2C1024&ssl=1"
+    },
+    {
+      "image": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2022/10/Photo-3-10-2022-5-33-37-am.jpg?resize=240%2C300&ssl=1",
+      "error": "too small 240x300"
+    },
+    {
+      "dup": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2022/10/Photo-3-10-2022-5-33-37-am.jpg?resize=768%2C958&ssl=1"
+    },
+    {
+      "dup": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2022/10/Photo-3-10-2022-5-33-37-am.jpg?resize=1231%2C1536&ssl=1"
+    },
+    {
+      "image": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2022/11/Photo-21-11-2022-6-02-21-am.jpg?resize=240%2C300&ssl=1",
+      "error": "too small 240x300"
+    },
+    {
+      "dup": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2022/11/Photo-21-11-2022-6-02-21-am.jpg?resize=819%2C1024&ssl=1"
+    },
+    {
+      "dup": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2022/11/Photo-21-11-2022-6-02-21-am.jpg?resize=768%2C960&ssl=1"
+    },
+    {
+      "dup": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2022/11/Photo-21-11-2022-6-02-21-am.jpg?resize=1229%2C1536&ssl=1"
+    },
+    {
+      "image": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2022/10/garmin-tab_white-tab.jpg?resize=1024%2C352&ssl=1",
+      "error": "too small 1024x352"
+    },
+    {
+      "image": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2022/10/garmin-tab_white-tab.jpg?resize=300%2C103&ssl=1",
+      "error": "too small 300x103"
+    },
+    {
+      "image": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2022/10/garmin-tab_white-tab.jpg?resize=768%2C264&ssl=1",
+      "error": "too small 768x264"
+    },
+    {
+      "dup": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2022/10/garmin-tab_white-tab.jpg?resize=1536%2C528&ssl=1"
+    },
+    {
+      "dup": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2024/07/IMG_1169.jpg?resize=1100%2C956&#038;ssl=1"
+    },
+    {
+      "image": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2024/11/Screenshot-2024-11-16-at-7.54.31%E2%80%AFAM.png?resize=668%2C332&#038;ssl=1",
+      "error": "HTTP 400"
+    },
+    {
+      "dup": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2024/07/IMG_1169.jpg?w=1125&ssl=1"
+    },
+    {
+      "dup": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2021/10/Screen-Shot-2021-10-11-at-11.56.01-am.png?w=2200&ssl=1"
+    },
+    {
+      "dup": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2022/01/pirate-2.jpg?w=1724&ssl=1"
+    },
+    {
+      "dup": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2021/11/0DA3DCB6-394F-46E1-B64C-74688EF6F31C.jpeg?w=1440&ssl=1"
+    },
+    {
+      "image": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2024/11/Screenshot-2024-11-16-at-7.54.31%E2%80%AFAM.png?w=668&ssl=1",
+      "error": "too small 668x332"
+    },
+    {
+      "image": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2024/07/IMG_1169.jpg?resize=300%2C261&ssl=1",
+      "error": "too small 300x261"
+    },
+    {
+      "dup": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2024/07/IMG_1169.jpg?resize=1024%2C890&ssl=1"
+    },
+    {
+      "dup": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2024/07/IMG_1169.jpg?resize=768%2C668&ssl=1"
+    },
+    {
+      "dup": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2021/10/Screen-Shot-2021-10-11-at-11.56.01-am.png?resize=1024%2C572&ssl=1"
+    },
+    {
+      "image": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2021/10/Screen-Shot-2021-10-11-at-11.56.01-am.png?resize=300%2C168&ssl=1",
+      "error": "too small 300x168"
+    },
+    {
+      "dup": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2021/10/Screen-Shot-2021-10-11-at-11.56.01-am.png?resize=768%2C429&ssl=1"
+    },
+    {
+      "dup": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2021/10/Screen-Shot-2021-10-11-at-11.56.01-am.png?resize=1536%2C858&ssl=1"
+    },
+    {
+      "dup": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2022/01/pirate-2.jpg?resize=1024%2C731&ssl=1"
+    },
+    {
+      "image": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2022/01/pirate-2.jpg?resize=300%2C214&ssl=1",
+      "error": "too small 300x214"
+    },
+    {
+      "dup": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2022/01/pirate-2.jpg?resize=768%2C548&ssl=1"
+    },
+    {
+      "dup": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2022/01/pirate-2.jpg?resize=1536%2C1097&ssl=1"
+    },
+    {
+      "dup": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2021/11/0DA3DCB6-394F-46E1-B64C-74688EF6F31C.jpeg?resize=1024%2C768&ssl=1"
+    },
+    {
+      "image": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2021/11/0DA3DCB6-394F-46E1-B64C-74688EF6F31C.jpeg?resize=300%2C225&ssl=1",
+      "error": "too small 300x225"
+    },
+    {
+      "dup": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2021/11/0DA3DCB6-394F-46E1-B64C-74688EF6F31C.jpeg?resize=768%2C576&ssl=1"
+    },
+    {
+      "image": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2024/11/Screenshot-2024-11-16-at-7.54.31%E2%80%AFAM.png?resize=300%2C149&ssl=1",
+      "error": "too small 300x149"
+    },
+    {
+      "dup": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2024/07/Moonshine.jpg?resize=1100%2C734&#038;ssl=1"
+    },
+    {
+      "dup": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2024/07/Moonshine.jpg?w=1600&ssl=1"
+    },
+    {
+      "dup": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2024/07/Moonshine-Hamo-scaled.jpg?w=2560&ssl=1"
+    },
+    {
+      "dup": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2023/07/DJI_0013-scaled.jpg?w=2560&ssl=1"
+    },
+    {
+      "image": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2024/07/Moonshine.jpg?resize=300%2C200&ssl=1",
+      "error": "too small 300x200"
+    },
+    {
+      "dup": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2024/07/Moonshine.jpg?resize=1024%2C683&ssl=1"
+    },
+    {
+      "dup": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2024/07/Moonshine.jpg?resize=768%2C512&ssl=1"
+    },
+    {
+      "dup": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2024/07/Moonshine.jpg?resize=1536%2C1024&ssl=1"
+    },
+    {
+      "image": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2024/07/Moonshine-Hamo-scaled.jpg?resize=300%2C200&ssl=1",
+      "error": "too small 300x200"
+    },
+    {
+      "dup": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2024/07/Moonshine-Hamo-scaled.jpg?resize=1024%2C683&ssl=1"
+    },
+    {
+      "dup": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2024/07/Moonshine-Hamo-scaled.jpg?resize=768%2C512&ssl=1"
+    },
+    {
+      "dup": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2024/07/Moonshine-Hamo-scaled.jpg?resize=1536%2C1024&ssl=1"
+    },
+    {
+      "dup": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2024/07/Moonshine-Hamo-scaled.jpg?w=2200&ssl=1"
+    },
+    {
+      "image": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2023/07/DJI_0013-scaled.jpg?resize=300%2C187&ssl=1",
+      "error": "too small 300x187"
+    },
+    {
+      "dup": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2023/07/DJI_0013-scaled.jpg?resize=1024%2C638&ssl=1"
+    },
+    {
+      "dup": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2023/07/DJI_0013-scaled.jpg?resize=768%2C479&ssl=1"
+    },
+    {
+      "dup": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2023/07/DJI_0013-scaled.jpg?resize=1536%2C958&ssl=1"
+    },
+    {
+      "dup": "https://i0.wp.com/www.topnotchgamefishing.com.au/wp-content/uploads/2023/07/DJI_0013-scaled.jpg?w=2200&ssl=1"
+    }
+  ]
+}

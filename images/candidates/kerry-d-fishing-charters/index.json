@@ -1,0 +1,422 @@
+{
+  "slug": "kerry-d-fishing-charters",
+  "request_hash": "3b24f24076c2",
+  "collected_at": "2026-10-29T04:01:35.025Z",
+  "pages_fetched": [
+    "https://kerrydfishing.com.au/",
+    "https://kerrydfishing.com.au/bookings/",
+    "https://kerrydfishing.com.au/fishing-charters/",
+    "https://kerrydfishing.com.au/boats/",
+    "https://kerrydfishing.com.au/species-of-fish-we-catch/",
+    "https://kerrydfishing.com.au/gallery/",
+    "https://kerrydfishing.com.au/frequently-asked-questions/",
+    "https://kerrydfishing.com.au/about/",
+    "https://kerrydfishing.com.au/what-to-bring/",
+    "https://kerrydfishing.com.au/praise/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "4032x3024",
+      "source": "https://kerrydfishing.com.au/wp-content/uploads/IMG_1817.jpeg",
+      "page": "https://kerrydfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "4032x3024",
+      "source": "https://kerrydfishing.com.au/wp-content/uploads/BArra-24.jpg",
+      "page": "https://kerrydfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "4032x3024",
+      "source": "https://kerrydfishing.com.au/wp-content/uploads/Fingermark-Jem.jpg",
+      "page": "https://kerrydfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "4032x3024",
+      "source": "https://kerrydfishing.com.au/wp-content/uploads/Black-Jew.jpg",
+      "page": "https://kerrydfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1657,
+      "height": 2000,
+      "original": "3024x3649",
+      "source": "https://kerrydfishing.com.au/wp-content/uploads/IMG_6939.jpg",
+      "page": "https://kerrydfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 800,
+      "height": 600,
+      "original": "800x600",
+      "source": "https://kerrydfishing.com.au/wp-content/uploads/cobia-.jpg",
+      "page": "https://kerrydfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "3024x4032",
+      "source": "https://kerrydfishing.com.au/wp-content/uploads/FB5.jpg",
+      "page": "https://kerrydfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "3024x4032",
+      "source": "https://kerrydfishing.com.au/wp-content/uploads/macky.jpg",
+      "page": "https://kerrydfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "4032x3024",
+      "source": "https://kerrydfishing.com.au/wp-content/uploads/cod.jpg",
+      "page": "https://kerrydfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "4032x3024",
+      "source": "https://kerrydfishing.com.au/wp-content/uploads/New-Boat.jpg",
+      "page": "https://kerrydfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 2000,
+      "height": 1487,
+      "original": "3595x2672",
+      "source": "https://kerrydfishing.com.au/wp-content/uploads/IMG_6905.jpg",
+      "page": "https://kerrydfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "4032x3024",
+      "source": "https://kerrydfishing.com.au/wp-content/uploads/barra-25.jpg",
+      "page": "https://kerrydfishing.com.au/fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 720,
+      "height": 960,
+      "original": "720x960",
+      "source": "https://kerrydfishing.com.au/wp-content/uploads/IMG_3249.jpeg",
+      "page": "https://kerrydfishing.com.au/fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1080,
+      "height": 1440,
+      "original": "1080x1440",
+      "source": "https://kerrydfishing.com.au/wp-content/uploads/Resized_20230605_122036.jpeg",
+      "page": "https://kerrydfishing.com.au/fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1400,
+      "height": 1050,
+      "original": "1400x1050",
+      "source": "https://kerrydfishing.com.au/wp-content/uploads/Kerry-D-Fishing-Charters-115224.jpg",
+      "page": "https://kerrydfishing.com.au/fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "4032x3024",
+      "source": "https://kerrydfishing.com.au/wp-content/uploads/IMG_1029.jpeg",
+      "page": "https://kerrydfishing.com.au/fishing-charters/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://kerrydfishing.com.au/",
+      "status": 200,
+      "final_url": "https://kerrydfishing.com.au/",
+      "bytes": 32963
+    },
+    {
+      "page": "https://kerrydfishing.com.au/bookings/",
+      "status": 200,
+      "final_url": "https://kerrydfishing.com.au/bookings/",
+      "bytes": 21044
+    },
+    {
+      "page": "https://kerrydfishing.com.au/fishing-charters/",
+      "status": 200,
+      "final_url": "https://kerrydfishing.com.au/fishing-charters/",
+      "bytes": 28899
+    },
+    {
+      "page": "https://kerrydfishing.com.au/boats/",
+      "status": 200,
+      "final_url": "https://kerrydfishing.com.au/boats/",
+      "bytes": 23283
+    },
+    {
+      "page": "https://kerrydfishing.com.au/species-of-fish-we-catch/",
+      "status": 200,
+      "final_url": "https://kerrydfishing.com.au/species-of-fish-we-catch/",
+      "bytes": 28634
+    },
+    {
+      "page": "https://kerrydfishing.com.au/gallery/",
+      "status": 200,
+      "final_url": "https://kerrydfishing.com.au/gallery/",
+      "bytes": 28680
+    },
+    {
+      "page": "https://kerrydfishing.com.au/frequently-asked-questions/",
+      "status": 200,
+      "final_url": "https://kerrydfishing.com.au/frequently-asked-questions/",
+      "bytes": 22717
+    },
+    {
+      "page": "https://kerrydfishing.com.au/about/",
+      "status": 200,
+      "final_url": "https://kerrydfishing.com.au/about/",
+      "bytes": 23326
+    },
+    {
+      "page": "https://kerrydfishing.com.au/what-to-bring/",
+      "status": 200,
+      "final_url": "https://kerrydfishing.com.au/what-to-bring/",
+      "bytes": 20982
+    },
+    {
+      "page": "https://kerrydfishing.com.au/praise/",
+      "status": 200,
+      "final_url": "https://kerrydfishing.com.au/praise/",
+      "bytes": 28300
+    },
+    {
+      "image": "https://kerrydfishing.com.au/wp-content/uploads/IMG_2480-2.heic",
+      "error": "source: bad seek to 1716435\nsource: bad seek to 1716408\nsource: bad seek to 1716404\nheif: Error while loading plugin: Support for this compression format has not been built in (11.6003)"
+    },
+    {
+      "dup": "https://kerrydfishing.com.au/wp-content/uploads/IMG_1817-2048x1536.jpeg"
+    },
+    {
+      "dup": "https://kerrydfishing.com.au/wp-content/uploads/BArra-24-2048x1536.jpg"
+    },
+    {
+      "dup": "https://kerrydfishing.com.au/wp-content/uploads/Fingermark-Jem-2048x1536.jpg"
+    },
+    {
+      "dup": "https://kerrydfishing.com.au/wp-content/uploads/Black-Jew-2048x1536.jpg"
+    },
+    {
+      "dup": "https://kerrydfishing.com.au/wp-content/uploads/IMG_6939-1697x2048.jpg"
+    },
+    {
+      "dup": "https://kerrydfishing.com.au/wp-content/uploads/FB5-scaled.jpg"
+    },
+    {
+      "dup": "https://kerrydfishing.com.au/wp-content/uploads/macky-scaled.jpg"
+    },
+    {
+      "dup": "https://kerrydfishing.com.au/wp-content/uploads/cod-2048x1536.jpg"
+    },
+    {
+      "dup": "https://kerrydfishing.com.au/wp-content/uploads/New-Boat-2048x1536.jpg"
+    },
+    {
+      "dup": "https://kerrydfishing.com.au/wp-content/uploads/IMG_6905-2048x1522.jpg"
+    },
+    {
+      "dup": "https://kerrydfishing.com.au/wp-content/uploads/IMG_1817-1280x960.jpeg"
+    },
+    {
+      "dup": "https://kerrydfishing.com.au/wp-content/uploads/IMG_1817-715x536.jpeg"
+    },
+    {
+      "dup": "https://kerrydfishing.com.au/wp-content/uploads/IMG_1817-768x576.jpeg"
+    },
+    {
+      "dup": "https://kerrydfishing.com.au/wp-content/uploads/IMG_1817-1536x1152.jpeg"
+    },
+    {
+      "dup": "https://kerrydfishing.com.au/wp-content/uploads/BArra-24-1280x960.jpg"
+    },
+    {
+      "dup": "https://kerrydfishing.com.au/wp-content/uploads/BArra-24-715x536.jpg"
+    },
+    {
+      "dup": "https://kerrydfishing.com.au/wp-content/uploads/BArra-24-768x576.jpg"
+    },
+    {
+      "dup": "https://kerrydfishing.com.au/wp-content/uploads/BArra-24-1536x1152.jpg"
+    },
+    {
+      "dup": "https://kerrydfishing.com.au/wp-content/uploads/Fingermark-Jem-1280x960.jpg"
+    },
+    {
+      "dup": "https://kerrydfishing.com.au/wp-content/uploads/Fingermark-Jem-715x536.jpg"
+    },
+    {
+      "dup": "https://kerrydfishing.com.au/wp-content/uploads/Fingermark-Jem-768x576.jpg"
+    },
+    {
+      "dup": "https://kerrydfishing.com.au/wp-content/uploads/Fingermark-Jem-1536x1152.jpg"
+    },
+    {
+      "dup": "https://kerrydfishing.com.au/wp-content/uploads/Black-Jew-1280x960.jpg"
+    },
+    {
+      "dup": "https://kerrydfishing.com.au/wp-content/uploads/Black-Jew-715x536.jpg"
+    },
+    {
+      "dup": "https://kerrydfishing.com.au/wp-content/uploads/Black-Jew-768x576.jpg"
+    },
+    {
+      "dup": "https://kerrydfishing.com.au/wp-content/uploads/Black-Jew-1536x1152.jpg"
+    },
+    {
+      "dup": "https://kerrydfishing.com.au/wp-content/uploads/IMG_6939-1061x1280.jpg"
+    },
+    {
+      "image": "https://kerrydfishing.com.au/wp-content/uploads/IMG_6939-593x715.jpg",
+      "error": "too small 593x715"
+    },
+    {
+      "dup": "https://kerrydfishing.com.au/wp-content/uploads/IMG_6939-768x927.jpg"
+    },
+    {
+      "dup": "https://kerrydfishing.com.au/wp-content/uploads/IMG_6939-1273x1536.jpg"
+    },
+    {
+      "dup": "https://kerrydfishing.com.au/wp-content/uploads/cobia--715x536.jpg"
+    },
+    {
+      "dup": "https://kerrydfishing.com.au/wp-content/uploads/cobia--768x576.jpg"
+    },
+    {
+      "dup": "https://kerrydfishing.com.au/wp-content/uploads/FB5-960x1280.jpg"
+    },
+    {
+      "image": "https://kerrydfishing.com.au/wp-content/uploads/FB5-536x715.jpg",
+      "error": "too small 536x715"
+    },
+    {
+      "dup": "https://kerrydfishing.com.au/wp-content/uploads/FB5-768x1024.jpg"
+    },
+    {
+      "dup": "https://kerrydfishing.com.au/wp-content/uploads/FB5-1152x1536.jpg"
+    },
+    {
+      "dup": "https://kerrydfishing.com.au/wp-content/uploads/FB5-1536x2048.jpg"
+    },
+    {
+      "dup": "https://kerrydfishing.com.au/wp-content/uploads/macky-960x1280.jpg"
+    },
+    {
+      "image": "https://kerrydfishing.com.au/wp-content/uploads/macky-536x715.jpg",
+      "error": "too small 536x715"
+    },
+    {
+      "dup": "https://kerrydfishing.com.au/wp-content/uploads/macky-768x1024.jpg"
+    },
+    {
+      "dup": "https://kerrydfishing.com.au/wp-content/uploads/macky-1152x1536.jpg"
+    },
+    {
+      "dup": "https://kerrydfishing.com.au/wp-content/uploads/macky-1536x2048.jpg"
+    },
+    {
+      "dup": "https://kerrydfishing.com.au/wp-content/uploads/cod-1280x960.jpg"
+    },
+    {
+      "dup": "https://kerrydfishing.com.au/wp-content/uploads/cod-715x536.jpg"
+    },
+    {
+      "dup": "https://kerrydfishing.com.au/wp-content/uploads/cod-768x576.jpg"
+    },
+    {
+      "dup": "https://kerrydfishing.com.au/wp-content/uploads/cod-1536x1152.jpg"
+    },
+    {
+      "dup": "https://kerrydfishing.com.au/wp-content/uploads/New-Boat-1280x960.jpg"
+    },
+    {
+      "dup": "https://kerrydfishing.com.au/wp-content/uploads/New-Boat-715x536.jpg"
+    },
+    {
+      "dup": "https://kerrydfishing.com.au/wp-content/uploads/New-Boat-768x576.jpg"
+    },
+    {
+      "dup": "https://kerrydfishing.com.au/wp-content/uploads/New-Boat-1536x1152.jpg"
+    },
+    {
+      "dup": "https://kerrydfishing.com.au/wp-content/uploads/IMG_6905-1280x951.jpg"
+    },
+    {
+      "dup": "https://kerrydfishing.com.au/wp-content/uploads/IMG_6905-715x531.jpg"
+    },
+    {
+      "dup": "https://kerrydfishing.com.au/wp-content/uploads/IMG_6905-768x571.jpg"
+    },
+    {
+      "dup": "https://kerrydfishing.com.au/wp-content/uploads/IMG_6905-1536x1142.jpg"
+    },
+    {
+      "image": "https://kerrydfishing.com.au/wp-content/uploads/IMG_2511.heic",
+      "error": "source: bad seek to 2382541\nsource: bad seek to 2382522\nsource: bad seek to 2382513\nsource: bad seek to 2382510\nheif: Error while loading plugin: Support for this compression format has not been built in (11.6003)"
+    },
+    {
+      "image": "https://kerrydfishing.com.au/wp-content/uploads/IMG_0950.heic",
+      "error": "source: bad seek to 1643718\nsource: bad seek to 1643692\nsource: bad seek to 1643688\nsource: bad seek to 1643687\nheif: Error while loading plugin: Support for this compression format has not been built in (11.6003)"
+    },
+    {
+      "image": "https://kerrydfishing.com.au/wp-content/uploads/IMG_1748.heic",
+      "error": "source: bad seek to 1911762\nsource: bad seek to 1911732\nsource: bad seek to 1911731\nheif: Error while loading plugin: Support for this compression format has not been built in (11.6003)"
+    },
+    {
+      "image": "https://kerrydfishing.com.au/wp-content/uploads/IMG_6839.heic",
+      "error": "source: bad seek to 1640126\nsource: bad seek to 1640101\nsource: bad seek to 1640097\nsource: bad seek to 1640095\nheif: Error while loading plugin: Support for this compression format has not been built in (11.6003)"
+    },
+    {
+      "image": "https://kerrydfishing.com.au/wp-content/uploads/IMG_0736.heic",
+      "error": "source: bad seek to 2069175\nsource: bad seek to 2069159\nsource: bad seek to 2069151\nsource: bad seek to 2069147\nsource: bad seek to 2069145\nsource: bad seek to 2069144\nheif: Error while loading plugin: Support for this compression format has not been built in (11.6003)"
+    },
+    {
+      "image": "https://kerrydfishing.com.au/wp-content/uploads/IMG_6745.heic",
+      "error": "source: bad seek to 1633640\nsource: bad seek to 1633615\nsource: bad seek to 1633611\nsource: bad seek to 1633609\nheif: Error while loading plugin: Support for this compression format has not been built in (11.6003)"
+    },
+    {
+      "image": "https://kerrydfishing.com.au/wp-content/uploads/IMG_0778.heic",
+      "error": "source: bad seek to 1984236\nsource: bad seek to 1984205\nheif: Error while loading plugin: Support for this compression format has not been built in (11.6003)"
+    }
+  ]
+}

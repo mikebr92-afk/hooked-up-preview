@@ -1,0 +1,17 @@
+{
+  "slug": "research-whitsunday-agency",
+  "request_hash": "69fc61b21ad2",
+  "collected_at": "2026-10-29T03:54:40.338Z",
+  "pages_fetched": [
+    "https://sailing-whitsundays.com/tours/fishing-tours"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://sailing-whitsundays.com/tours/fishing-tours",
+      "status": 200,
+      "final_url": "https://sailing-whitsundays.com/tours/fishing-tours",
+      "bytes": 170930
+    }
+  ]
+}
