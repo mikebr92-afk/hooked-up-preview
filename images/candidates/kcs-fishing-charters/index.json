@@ -1,0 +1,38 @@
+{
+  "slug": "kcs-fishing-charters",
+  "request_hash": "d6af644093a2",
+  "collected_at": "2026-10-29T04:31:08.846Z",
+  "pages_fetched": [
+    "https://www.kcsfishingcharters.com.au/",
+    "http://kcsfishingcharters.com.au/",
+    "https://www.kcsfishingcharters.com.au/index2.php",
+    "http://kcsfishingcharters.com.au/index2.php"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.kcsfishingcharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.kcsfishingcharters.com.au/",
+      "bytes": 4781
+    },
+    {
+      "page": "http://kcsfishingcharters.com.au/",
+      "status": 200,
+      "final_url": "http://kcsfishingcharters.com.au/",
+      "bytes": 4781
+    },
+    {
+      "page": "https://www.kcsfishingcharters.com.au/index2.php",
+      "status": 404,
+      "final_url": "https://www.kcsfishingcharters.com.au/index2.php",
+      "bytes": 1251
+    },
+    {
+      "page": "http://kcsfishingcharters.com.au/index2.php",
+      "status": 404,
+      "final_url": "http://kcsfishingcharters.com.au/index2.php",
+      "bytes": 1251
+    }
+  ]
+}

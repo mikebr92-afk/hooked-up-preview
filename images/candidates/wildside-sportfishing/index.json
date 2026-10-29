@@ -1,0 +1,374 @@
+{
+  "slug": "wildside-sportfishing",
+  "request_hash": "3c999a8c75ba",
+  "collected_at": "2026-10-29T04:31:05.996Z",
+  "pages_fetched": [
+    "http://www.wildsidesportfishing.com/",
+    "https://wildsidesportfishing.com/",
+    "https://www.wildsidesportfishing.com/",
+    "https://www.wildsidesportfishing.com/about/",
+    "https://www.wildsidesportfishing.com/about/fish-species-we-catch/",
+    "https://www.wildsidesportfishing.com/fishing-tackle/",
+    "https://www.wildsidesportfishing.com/about/sustainability/",
+    "https://www.wildsidesportfishing.com/fishing-charters-tours/",
+    "https://www.wildsidesportfishing.com/offshore-fishing-charters-south-west-rocks/",
+    "https://www.wildsidesportfishing.com/game-fishing/",
+    "https://www.wildsidesportfishing.com/fishing-charters-tours/frequently-asked-questions-about-wildside-sportfishing/",
+    "https://www.wildsidesportfishing.com/fishing-locations/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 794,
+      "height": 1122,
+      "original": "794x1122",
+      "source": "https://www.wildsidesportfishing.com/wp-content/uploads/2023/10/deadrise-mag-cover-wildside22.jpg",
+      "page": "http://www.wildsidesportfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 1280,
+      "height": 853,
+      "original": "1280x853",
+      "source": "https://www.wildsidesportfishing.com/wp-content/uploads/2019/04/Contender-bar-crossing.jpg",
+      "page": "http://www.wildsidesportfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1035,
+      "height": 1080,
+      "original": "1035x1080",
+      "source": "https://www.wildsidesportfishing.com/wp-content/uploads/2023/08/jason-fishing3.jpg",
+      "page": "https://www.wildsidesportfishing.com/about/",
+      "priority": true
+    },
+    {
+      "file": "c04.webp",
+      "width": 1408,
+      "height": 2000,
+      "original": "1408x2000",
+      "source": "https://www.wildsidesportfishing.com/wp-content/uploads/2023/08/jason-fishing2.jpg",
+      "page": "https://www.wildsidesportfishing.com/about/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1800,
+      "height": 1013,
+      "original": "1800x1013",
+      "source": "https://www.wildsidesportfishing.com/wp-content/uploads/2019/08/Checking-the-surf-at-Little-Bay.jpg",
+      "page": "https://www.wildsidesportfishing.com/about/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1281,
+      "height": 723,
+      "original": "1281x723",
+      "source": "https://www.wildsidesportfishing.com/wp-content/uploads/2019/04/A-brooding-Fish-Rock-e1693883843503.jpg",
+      "page": "https://www.wildsidesportfishing.com/about/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1800,
+      "height": 1196,
+      "original": "1800x1196",
+      "source": "https://www.wildsidesportfishing.com/wp-content/uploads/2019/08/Wildside-Sportfishing-Contender-25T.jpg",
+      "page": "https://www.wildsidesportfishing.com/about/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1319,
+      "height": 879,
+      "original": "1319x879",
+      "source": "https://www.wildsidesportfishing.com/wp-content/uploads/2023/10/black-marlin-wildside-sportfishing.jpg",
+      "page": "https://www.wildsidesportfishing.com/about/fish-species-we-catch/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1733,
+      "height": 1155,
+      "original": "1733x1155",
+      "source": "https://www.wildsidesportfishing.com/wp-content/uploads/2023/10/wildside-blue-marlin-fish.jpg",
+      "page": "https://www.wildsidesportfishing.com/about/fish-species-we-catch/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1440,
+      "height": 753,
+      "original": "1440x753",
+      "source": "https://www.wildsidesportfishing.com/wp-content/uploads/2023/10/cobia-fish-wildside-sportfishing.jpeg",
+      "page": "https://www.wildsidesportfishing.com/about/fish-species-we-catch/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1440,
+      "height": 810,
+      "original": "1440x810",
+      "source": "https://www.wildsidesportfishing.com/wp-content/uploads/2023/10/dolphin-fish-wildside-sportfishing.jpeg",
+      "page": "https://www.wildsidesportfishing.com/about/fish-species-we-catch/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1800,
+      "height": 1273,
+      "original": "1800x1273",
+      "source": "https://www.wildsidesportfishing.com/wp-content/uploads/2019/06/Monster-Macleay-River-flathead.jpg",
+      "page": "https://www.wildsidesportfishing.com/about/fish-species-we-catch/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1440,
+      "height": 1146,
+      "original": "1440x1146",
+      "source": "https://www.wildsidesportfishing.com/wp-content/uploads/2023/10/kingfish-wildside-sportfishing.jpeg",
+      "page": "https://www.wildsidesportfishing.com/about/fish-species-we-catch/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1440,
+      "height": 878,
+      "original": "1440x878",
+      "source": "https://www.wildsidesportfishing.com/wp-content/uploads/2023/10/longtail-tuna-wildside-sportfishing-e1696140979151.jpeg",
+      "page": "https://www.wildsidesportfishing.com/about/fish-species-we-catch/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1440,
+      "height": 824,
+      "original": "1440x824",
+      "source": "https://www.wildsidesportfishing.com/wp-content/uploads/2023/10/mangrove-jack-wildside-sportfishing.jpeg",
+      "page": "https://www.wildsidesportfishing.com/about/fish-species-we-catch/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1440,
+      "height": 1136,
+      "original": "1440x1136",
+      "source": "https://www.wildsidesportfishing.com/wp-content/uploads/2023/10/mullaway-fish-wildside-sportfishing1.jpeg",
+      "page": "https://www.wildsidesportfishing.com/about/fish-species-we-catch/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "http://www.wildsidesportfishing.com/",
+      "status": 200,
+      "final_url": "https://www.wildsidesportfishing.com/",
+      "bytes": 269199
+    },
+    {
+      "page": "https://wildsidesportfishing.com/",
+      "status": 200,
+      "final_url": "https://www.wildsidesportfishing.com/",
+      "bytes": 269199
+    },
+    {
+      "page": "https://www.wildsidesportfishing.com/",
+      "status": 200,
+      "final_url": "https://www.wildsidesportfishing.com/",
+      "bytes": 269199
+    },
+    {
+      "page": "https://www.wildsidesportfishing.com/about/",
+      "status": 200,
+      "final_url": "https://www.wildsidesportfishing.com/about/",
+      "bytes": 99553
+    },
+    {
+      "page": "https://www.wildsidesportfishing.com/about/fish-species-we-catch/",
+      "status": 200,
+      "final_url": "https://www.wildsidesportfishing.com/about/fish-species-we-catch/",
+      "bytes": 104486
+    },
+    {
+      "page": "https://www.wildsidesportfishing.com/fishing-tackle/",
+      "status": 200,
+      "final_url": "https://www.wildsidesportfishing.com/fishing-tackle/",
+      "bytes": 83513
+    },
+    {
+      "page": "https://www.wildsidesportfishing.com/about/sustainability/",
+      "status": 200,
+      "final_url": "https://www.wildsidesportfishing.com/about/sustainability/",
+      "bytes": 69481
+    },
+    {
+      "page": "https://www.wildsidesportfishing.com/fishing-charters-tours/",
+      "status": 200,
+      "final_url": "https://www.wildsidesportfishing.com/fishing-charters-tours/",
+      "bytes": 76115
+    },
+    {
+      "page": "https://www.wildsidesportfishing.com/offshore-fishing-charters-south-west-rocks/",
+      "status": 200,
+      "final_url": "https://www.wildsidesportfishing.com/offshore-fishing-charters-south-west-rocks/",
+      "bytes": 99051
+    },
+    {
+      "page": "https://www.wildsidesportfishing.com/game-fishing/",
+      "status": 200,
+      "final_url": "https://www.wildsidesportfishing.com/game-fishing/",
+      "bytes": 99084
+    },
+    {
+      "page": "https://www.wildsidesportfishing.com/fishing-charters-tours/frequently-asked-questions-about-wildside-sportfishing/",
+      "status": 200,
+      "final_url": "https://www.wildsidesportfishing.com/fishing-charters-tours/frequently-asked-questions-about-wildside-sportfishing/",
+      "bytes": 76897
+    },
+    {
+      "page": "https://www.wildsidesportfishing.com/fishing-locations/",
+      "status": 200,
+      "final_url": "https://www.wildsidesportfishing.com/fishing-locations/",
+      "bytes": 91667
+    },
+    {
+      "image": "https://www.wildsidesportfishing.com/wp-content/uploads/2023/10/wildside-reviews-img-1.jpg",
+      "error": "too small 320x320"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a-/ALV-UjU2_BtdGEJRPegQqogIiwj6THudlYgGmKYcCzI2PgHRHr32KK0R=s128-c0x00000000-cc-rp-mo",
+      "error": "too small 128x128"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a-/ALV-UjW_-GreuWV1N4LgA7OE2dwEIhJ0VJSt8Fgc_M9rALAGICoI6SIk=s128-c0x00000000-cc-rp-mo",
+      "error": "too small 128x128"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocL_PVjJJEWn5ErDJhIBCcYrb8b39kUWdiXqlA1MqG64KRr8JQ=s128-c0x00000000-cc-rp-mo",
+      "error": "too small 128x128"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a-/ALV-UjXaZRONF92ZgVCNf8dTRuPIYiJAISva-4CdR0gYoXkbEYiUS8LoZA=s128-c0x00000000-cc-rp-mo-ba5",
+      "error": "too small 128x128"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a-/ALV-UjV8_zusPGpW8doeUCKT9NxfetiDFh_fbN_qC_a-D1GiQKN6lTg=s128-c0x00000000-cc-rp-mo",
+      "error": "too small 128x128"
+    },
+    {
+      "dup": "https://www.wildsidesportfishing.com/wp-content/uploads/2023/10/deadrise-mag-cover-wildside22-725x1024.jpg"
+    },
+    {
+      "image": "https://www.wildsidesportfishing.com/wp-content/uploads/2023/10/deadrise-mag-cover-wildside22-212x300.jpg",
+      "error": "too small 212x300"
+    },
+    {
+      "dup": "https://www.wildsidesportfishing.com/wp-content/uploads/2023/10/deadrise-mag-cover-wildside22-768x1085.jpg"
+    },
+    {
+      "image": "https://scontent-sin2-2.cdninstagram.com/v/t15.5256-10/862340719_1837861447394896_4005666387146195507_n.jpg?stp=dst-jpg_e35_tt6&#038;_nc_cat=103&#038;ccb=7-5&#038;_nc_sid=18de74&#038;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&#038;_nc_ohc=QYG3ZSkIbeYQ7kNvwFhoGeI&#038;_nc_oc=AdpMxrV4ubvB9N-lk_wJSn1e3IRI9AXoqrhCaaF5Rr64aWnrCor5G9hRUmf97arZJas&#038;_nc_zt=23&#038;_nc_ht=scontent-sin2-2.cdninstagram.com&#038;edm=ANo9K5cEAAAA&#038;_nc_gid=yg13i3rwFGbo16gnhC7fVA&#038;_nc_tpa=Q5bMBQKFIOKfyp9-SFJY-gjVr8yk4upI-PSlWz89sS8tA2dCw6nTEjHY0Gw0EB0m9hV4jW17xzo9GToDyw&#038;oh=00_AQSx7TUgNfqncH_oJd4ZYR_0cXSyBXTT_aTmZg8bksxHAw&#038;oe=6AE72C5F",
+      "error": "HTTP 403"
+    },
+    {
+      "image": "https://scontent-sin2-2.cdninstagram.com/v/t51.2885-19/47583786_388393381934318_2775543226864500736_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=103&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDc5LkMzIn0%3D&_nc_ohc=HZxmHSlaUIMQ7kNvwFD2JhZ&_nc_oc=AdngUa1-vSQ6lyJj8BM90HQTdFK5WoSg70dK2U3FIY9oKZCgSYumRBsWA3YzYM1NSbU&_nc_zt=24&_nc_ht=scontent-sin2-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_tpa=Q5bMBQEWpUN_fZKQ1bx0DEJUhOptnxScLIDKrZENW4WZEU08H6tAMan5g0Eh_At2g6Yz_RUo6TfFUedU9A&oh=00_Afhh5BsVBnlKIPbOJE430EuraQBNbIontaj-YQeVk5gYrg&oe=69172C2B",
+      "error": "HTTP 403"
+    },
+    {
+      "image": "https://scontent-sin6-3.cdninstagram.com/v/t15.5256-10/852561329_28966302849722033_2265707962432996109_n.jpg?stp=dst-jpg_e35_tt6&#038;_nc_cat=110&#038;ccb=7-5&#038;_nc_sid=18de74&#038;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&#038;_nc_ohc=NaKiDEie90EQ7kNvwFqSw90&#038;_nc_oc=AdrsLVpR1OGoZqFY6cZyC8rMFBpREj4omLpWgNowgdIMen8bpJQWwCa4WFTK2xsTkuE&#038;_nc_zt=23&#038;_nc_ht=scontent-sin6-3.cdninstagram.com&#038;edm=ANo9K5cEAAAA&#038;_nc_gid=yg13i3rwFGbo16gnhC7fVA&#038;_nc_tpa=Q5bMBQLkxuTqn6EryoO46S_uw4dW1XxNJhTdTlKFKKPCIyycFslD8Qnb8zC05AzdQAS2gdUamasLnbS0jw&#038;oh=00_AQROfXKJ9N1_hbDxrIVn7Kp4238lXYTxfPYJ_k5Q3PyblQ&#038;oe=6AE700BE",
+      "error": "HTTP 403"
+    },
+    {
+      "image": "https://scontent-sin6-3.cdninstagram.com/v/t51.82787-15/796542240_18589123018071516_8920967033042342633_n.jpg?stp=dst-jpg_e35_tt6&#038;_nc_cat=106&#038;ccb=7-5&#038;_nc_sid=18de74&#038;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&#038;_nc_ohc=SuB9SUL7IbMQ7kNvwHQVpHx&#038;_nc_oc=Adpowpo8RbAzfiO9yt1F-c-SbZ1zMtlbJLxmfcwuZN7Fs7wkIExNjSjpRnwK4H7Ifjw&#038;_nc_zt=23&#038;_nc_ht=scontent-sin6-3.cdninstagram.com&#038;edm=ANo9K5cEAAAA&#038;_nc_gid=yg13i3rwFGbo16gnhC7fVA&#038;_nc_tpa=Q5bMBQLPkdKct6ns_eLlve1INMdBX5yovDSDk2yRGasEhvvviBCrzZQaRI1aBULHPSLszImCn4A8kKnEDQ&#038;oh=00_AQTI8kLJbi1MJbN2lwq6wEOgxAS1SMhmSKPmkW15kkYzhA&#038;oe=6AE72B8C",
+      "error": "HTTP 403"
+    },
+    {
+      "image": "https://scontent-sin11-2.cdninstagram.com/v/t51.71878-15/746172671_1958431028198679_1746201316866409007_n.jpg?stp=dst-jpg_e35_tt6&#038;_nc_cat=101&#038;ccb=7-5&#038;_nc_sid=18de74&#038;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&#038;_nc_ohc=t8wO1uPZm6kQ7kNvwGHg5bl&#038;_nc_oc=Adrbn9-Wwa6bDEM9ka9aQ2LZUQE_AykIHtC4L9HobnCMVmbBxbaNufsU8Ir74sM9KN4&#038;_nc_zt=23&#038;_nc_ht=scontent-sin11-2.cdninstagram.com&#038;edm=ANo9K5cEAAAA&#038;_nc_gid=yg13i3rwFGbo16gnhC7fVA&#038;_nc_tpa=Q5bMBQLbFSTQUoPtXqOG-1_LaYFW3gLBub2kKIBsyY7lAuzOevjkdMSO09-uO52JEnssZgd8nP_SbyGhfQ&#038;oh=00_AQQ2E61NSpZyZARv7ZBPm2Q9rNpYYZvVsMeE0VTeDdj3bQ&#038;oe=6AE72C64",
+      "error": "HTTP 403"
+    },
+    {
+      "image": "https://scontent-sin11-1.cdninstagram.com/v/t51.82787-15/745305039_18570269140071516_2908044687996240749_n.jpg?stp=dst-jpg_e35_tt6&#038;_nc_cat=105&#038;ccb=7-5&#038;_nc_sid=18de74&#038;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&#038;_nc_ohc=YVC4zz2bJfEQ7kNvwGHpz6J&#038;_nc_oc=AdrHCgu8Oz10qtcgMLSAMiz1J4igyg3hJevwFCK0w3Rw2sXzh9zcFHUyylZDLmna7Ew&#038;_nc_zt=23&#038;_nc_ht=scontent-sin11-1.cdninstagram.com&#038;edm=ANo9K5cEAAAA&#038;_nc_gid=yg13i3rwFGbo16gnhC7fVA&#038;_nc_tpa=Q5bMBQJkxKK0MTFcnYXLUiL4X68BF_sPzmn7TeUdJI5Lsvgd42bVECpXum2UGFVZWd-9Gvun6HqmKVuYuA&#038;oh=00_AQTdR9bfLLFewJUGhHpayIUTbQf_qR3GWNfCnBAz4HWFWQ&#038;oe=6AE70452",
+      "error": "HTTP 403"
+    },
+    {
+      "image": "https://scontent-sin6-2.cdninstagram.com/v/t51.82787-15/735714760_18568209733071516_6785474766780598405_n.jpg?stp=dst-jpg_e35_tt6&#038;_nc_cat=109&#038;ccb=7-5&#038;_nc_sid=18de74&#038;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&#038;_nc_ohc=EaK-uSZNHdMQ7kNvwEdBTXb&#038;_nc_oc=Adp4pJwHW3OKqwWpFmkGpLuKuThQy50Cpc2PXCGDHMOypQwLkA-Jtu6tDHFwFXkbVSE&#038;_nc_zt=23&#038;_nc_ht=scontent-sin6-2.cdninstagram.com&#038;edm=ANo9K5cEAAAA&#038;_nc_gid=yg13i3rwFGbo16gnhC7fVA&#038;_nc_tpa=Q5bMBQIe834aIBaHPdUuJ2LC27j17N9ji2goVE87_d5kuOxd2vUyQbNGL3fGTRtEvEG0KvLjMr8tc1JNhA&#038;oh=00_AQRRgcP5gRmaDDPt_-ByFEUiL7fMiI6pxO31-OFbXPr6SQ&#038;oe=6AE72AD2",
+      "error": "HTTP 403"
+    },
+    {
+      "image": "https://scontent-sin6-2.cdninstagram.com/v/t51.71878-15/728162603_1956335088378901_6427741557478344125_n.jpg?stp=dst-jpg_e35_tt6&#038;_nc_cat=109&#038;ccb=7-5&#038;_nc_sid=18de74&#038;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&#038;_nc_ohc=BubOU6v58A4Q7kNvwExndv-&#038;_nc_oc=Adqs71Q3TGRGVXHjTUXTvlkQCJXHBhCDSmyXepCo7t0ezehveXdGkkAX3nkUKWZetfw&#038;_nc_zt=23&#038;_nc_ht=scontent-sin6-2.cdninstagram.com&#038;edm=ANo9K5cEAAAA&#038;_nc_gid=yg13i3rwFGbo16gnhC7fVA&#038;_nc_tpa=Q5bMBQIg7n-_jXU1MUHAKS_sY_F9eyDKOYEsVEWWzszxYYu4-lVBiW-MNL582EFcQ2QjjKcR45BJhmYExg&#038;oh=00_AQQFAMyIuGGNg-x9fTOmx6-b5KU9Hi0yHjoLDgBBSzLuiw&#038;oe=6AE704AD",
+      "error": "HTTP 403"
+    },
+    {
+      "image": "https://scontent-sin2-2.cdninstagram.com/v/t51.82787-15/726954074_18562949683071516_8971071566832578241_n.jpg?stp=dst-jpg_e35_tt6&#038;_nc_cat=103&#038;ccb=7-5&#038;_nc_sid=18de74&#038;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&#038;_nc_ohc=LyLkltldri8Q7kNvwFkbq-j&#038;_nc_oc=Ado5RQ65dzWpG9T768IET3ZBGevfr2muO5l3VrG3GpRV9hU-s38Bt6hoPiwcxILSI-4&#038;_nc_zt=23&#038;_nc_ht=scontent-sin2-2.cdninstagram.com&#038;edm=ANo9K5cEAAAA&#038;_nc_gid=yg13i3rwFGbo16gnhC7fVA&#038;_nc_tpa=Q5bMBQIsHlAfrH4BW4f-dQi8YAMfIWqWwezucrKIeClp_p0jpCV3R63lqQFJRRi6WGdvlkIKvyjG_dCPTA&#038;oh=00_AQSmh-rVSS5wxCE50Co25iZQR8lZeM0pPk9QxIk9n3jztA&#038;oe=6AE700C9",
+      "error": "HTTP 403"
+    },
+    {
+      "dup": "https://www.wildsidesportfishing.com/wp-content/uploads/2023/08/jason-fishing3-981x1024.jpg"
+    },
+    {
+      "image": "https://www.wildsidesportfishing.com/wp-content/uploads/2023/09/18671130_1640013089372685_7097502473607446601_n.jpeg",
+      "error": "too small 358x480"
+    },
+    {
+      "image": "https://www.wildsidesportfishing.com/wp-content/uploads/2023/08/Image-Testemonials-1.jpeg",
+      "error": "too small 63x63"
+    },
+    {
+      "image": "https://www.wildsidesportfishing.com/wp-content/uploads/2023/08/jason-fishing3-288x300.jpg",
+      "error": "too small 288x300"
+    },
+    {
+      "dup": "https://www.wildsidesportfishing.com/wp-content/uploads/2023/08/jason-fishing3-768x801.jpg"
+    },
+    {
+      "dup": "https://www.wildsidesportfishing.com/wp-content/uploads/2023/08/jason-fishing2-721x1024.jpg"
+    },
+    {
+      "image": "https://www.wildsidesportfishing.com/wp-content/uploads/2023/08/jason-fishing2-211x300.jpg",
+      "error": "too small 211x300"
+    },
+    {
+      "dup": "https://www.wildsidesportfishing.com/wp-content/uploads/2023/08/jason-fishing2-768x1091.jpg"
+    },
+    {
+      "dup": "https://www.wildsidesportfishing.com/wp-content/uploads/2023/08/jason-fishing2-1081x1536.jpg"
+    },
+    {
+      "dup": "https://www.wildsidesportfishing.com/wp-content/uploads/2019/08/Checking-the-surf-at-Little-Bay-1024x576.jpg"
+    },
+    {
+      "image": "https://www.wildsidesportfishing.com/wp-content/uploads/2019/08/Checking-the-surf-at-Little-Bay-300x169.jpg",
+      "error": "too small 300x169"
+    },
+    {
+      "dup": "https://www.wildsidesportfishing.com/wp-content/uploads/2019/08/Checking-the-surf-at-Little-Bay-768x432.jpg"
+    },
+    {
+      "dup": "https://www.wildsidesportfishing.com/wp-content/uploads/2019/04/A-brooding-Fish-Rock-e1693883843503-1024x578.jpg"
+    },
+    {
+      "image": "https://www.wildsidesportfishing.com/wp-content/uploads/2019/04/A-brooding-Fish-Rock-e1693883843503-300x169.jpg",
+      "error": "too small 300x169"
+    },
+    {
+      "dup": "https://www.wildsidesportfishing.com/wp-content/uploads/2019/04/A-brooding-Fish-Rock-e1693883843503-768x433.jpg"
+    },
+    {
+      "image": "https://www.wildsidesportfishing.com/wp-content/uploads/2019/08/Wildside-Sportfishing-Contender-25T-300x199.jpg",
+      "error": "too small 300x199"
+    },
+    {
+      "dup": "https://www.wildsidesportfishing.com/wp-content/uploads/2019/08/Wildside-Sportfishing-Contender-25T-768x510.jpg"
+    },
+    {
+      "dup": "https://www.wildsidesportfishing.com/wp-content/uploads/2019/08/Wildside-Sportfishing-Contender-25T-1024x680.jpg"
+    },
+    {
+      "image": "https://www.wildsidesportfishing.com/wp-content/uploads/2023/09/18671130_1640013089372685_7097502473607446601_n-224x300.jpeg",
+      "error": "too small 224x300"
+    }
+  ]
+}

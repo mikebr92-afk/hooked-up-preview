@@ -1,5 +1,5 @@
 {
-  "finished_at": "2026-10-29T04:28:06.068Z",
+  "finished_at": "2026-10-29T04:31:08.846Z",
   "summary": [
     {
       "slug": "cronulla-reef-fishing-charters",
@@ -291,18 +291,25 @@
     },
     {
       "slug": "research-r7",
-      "candidates": 0,
-      "pages": 6
+      "skipped": true
     },
     {
       "slug": "freedom-charters-eden",
-      "candidates": 12,
-      "pages": 12
+      "skipped": true
     },
     {
       "slug": "simos-afloat-fishing-charters",
+      "skipped": true
+    },
+    {
+      "slug": "wildside-sportfishing",
+      "candidates": 16,
+      "pages": 12
+    },
+    {
+      "slug": "kcs-fishing-charters",
       "candidates": 0,
-      "pages": 1
+      "pages": 4
     }
   ]
 }
