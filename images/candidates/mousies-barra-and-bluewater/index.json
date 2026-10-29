@@ -1,0 +1,17 @@
+{
+  "slug": "mousies-barra-and-bluewater",
+  "request_hash": "1f16eb959ce3",
+  "collected_at": "2026-10-29T04:21:37.251Z",
+  "pages_fetched": [
+    "https://www.mousiesbarra.com.au/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.mousiesbarra.com.au/",
+      "status": 404,
+      "final_url": "https://www.mousiesbarra.com.au/",
+      "bytes": 2517
+    }
+  ]
+}

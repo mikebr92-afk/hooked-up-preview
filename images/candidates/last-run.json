@@ -1,5 +1,5 @@
 {
-  "finished_at": "2026-10-29T04:13:25.985Z",
+  "finished_at": "2026-10-29T04:22:45.743Z",
   "summary": [
     {
       "slug": "research-nt-index",
@@ -31,8 +31,8 @@
     },
     {
       "slug": "cobourg-fishing-safaris",
-      "candidates": 0,
-      "pages": 1
+      "candidates": 15,
+      "pages": 10
     },
     {
       "slug": "research-nt-tours-c",
@@ -137,48 +137,54 @@
     },
     {
       "slug": "yknot-fishing-charters",
-      "candidates": 16,
-      "pages": 1
+      "skipped": true
     },
     {
       "slug": "reel-screamin-barra-fishing",
-      "candidates": 16,
-      "pages": 8
+      "skipped": true
     },
     {
       "slug": "dundee-beach-fishing-charters",
-      "candidates": 16,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "anglers-choice-fishing-safaris",
-      "candidates": 11,
-      "pages": 5
+      "skipped": true
     },
     {
       "slug": "wildman-fishing-tours",
-      "candidates": 16,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "mcarthur-river-fishing-charters",
-      "candidates": 0,
-      "pages": 2
+      "skipped": true
     },
     {
       "slug": "wiyibi-fishing-wilderness-lodge",
-      "candidates": 4,
-      "pages": 2
+      "skipped": true
     },
     {
       "slug": "spring-tide-safaris",
-      "candidates": 16,
-      "pages": 11
+      "skipped": true
     },
     {
       "slug": "research-nt-misc",
+      "skipped": true
+    },
+    {
+      "slug": "mousies-barra-and-bluewater",
       "candidates": 0,
-      "pages": 12
+      "pages": 1
+    },
+    {
+      "slug": "daly-river-barra-resort",
+      "candidates": 0,
+      "pages": 6
+    },
+    {
+      "slug": "research-nt-gulf-retry",
+      "candidates": 0,
+      "pages": 6
     }
   ]
 }

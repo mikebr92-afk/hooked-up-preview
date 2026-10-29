@@ -1,0 +1,304 @@
+{
+  "slug": "daly-river-barra-resort",
+  "request_hash": "3c28374ddeb5",
+  "collected_at": "2026-10-29T04:22:42.254Z",
+  "pages_fetched": [
+    "https://www.dalyriverbarra.com.au/",
+    "https://www.dalyriverbarra.com.au/daly_river_barra_charters.html",
+    "https://www.dalyriverbarra.com.au/fishing_charter_photo_gallery.html",
+    "https://www.dalyriverbarra.com.au/top_end_fishing_book.html",
+    "https://www.dalyriverbarra.com.au/top_end_nt_fishing_maps.html",
+    "https://www.dalyriverbarra.com.au/online_fishing_tackle.html"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.dalyriverbarra.com.au/",
+      "status": 200,
+      "final_url": "https://www.dalyriverbarra.com.au/",
+      "bytes": 11917
+    },
+    {
+      "page": "https://www.dalyriverbarra.com.au/daly_river_barra_charters.html",
+      "status": 200,
+      "final_url": "https://www.dalyriverbarra.com.au/daly_river_barra_charters.html",
+      "bytes": 12053
+    },
+    {
+      "page": "https://www.dalyriverbarra.com.au/fishing_charter_photo_gallery.html",
+      "status": 200,
+      "final_url": "https://www.dalyriverbarra.com.au/fishing_charter_photo_gallery.html",
+      "bytes": 14785
+    },
+    {
+      "page": "https://www.dalyriverbarra.com.au/top_end_fishing_book.html",
+      "status": 200,
+      "final_url": "https://www.dalyriverbarra.com.au/top_end_fishing_book.html",
+      "bytes": 10050
+    },
+    {
+      "page": "https://www.dalyriverbarra.com.au/top_end_nt_fishing_maps.html",
+      "status": 200,
+      "final_url": "https://www.dalyriverbarra.com.au/top_end_nt_fishing_maps.html",
+      "bytes": 8635
+    },
+    {
+      "page": "https://www.dalyriverbarra.com.au/online_fishing_tackle.html",
+      "status": 200,
+      "final_url": "https://www.dalyriverbarra.com.au/online_fishing_tackle.html",
+      "bytes": 7405
+    },
+    {
+      "image": "https://www.dalyriverbarra.com.au/images/side_frog1.jpg",
+      "error": "too small 200x239"
+    },
+    {
+      "image": "https://www.dalyriverbarra.com.au/images/home4.jpg",
+      "error": "too small 200x150"
+    },
+    {
+      "image": "https://www.dalyriverbarra.com.au/images/home2.jpg",
+      "error": "too small 200x136"
+    },
+    {
+      "image": "https://www.dalyriverbarra.com.au/images/home3.jpg",
+      "error": "too small 200x144"
+    },
+    {
+      "image": "https://www.dalyriverbarra.com.au/images/wood_bg1.jpg",
+      "error": "too small 156x193"
+    },
+    {
+      "image": "https://www.dalyriverbarra.com.au/images/fishing_charters4.jpg",
+      "error": "too small 200x267"
+    },
+    {
+      "image": "https://www.dalyriverbarra.com.au/images/home1.jpg",
+      "error": "too small 200x228"
+    },
+    {
+      "image": "https://www.dalyriverbarra.com.au/images/fishing_charters2.jpg",
+      "error": "too small 200x267"
+    },
+    {
+      "image": "https://www.dalyriverbarra.com.au/images/fishing_charters3.jpg",
+      "error": "too small 200x267"
+    },
+    {
+      "image": "https://www.dalyriverbarra.com.au/images/fishing_charters1.jpg",
+      "error": "too small 200x267"
+    },
+    {
+      "image": "https://www.dalyriverbarra.com.au/images/photo_gallery36.jpg",
+      "error": "too small 200x186"
+    },
+    {
+      "image": "https://www.dalyriverbarra.com.au/images/photo_gallery5.jpg",
+      "error": "too small 200x186"
+    },
+    {
+      "image": "https://www.dalyriverbarra.com.au/images/photo_gallery40.jpg",
+      "error": "too small 200x186"
+    },
+    {
+      "image": "https://www.dalyriverbarra.com.au/images/photo_gallery7.jpg",
+      "error": "too small 200x152"
+    },
+    {
+      "image": "https://www.dalyriverbarra.com.au/images/photo_gallery2.jpg",
+      "error": "too small 200x152"
+    },
+    {
+      "image": "https://www.dalyriverbarra.com.au/images/photo_gallery9.jpg",
+      "error": "too small 200x152"
+    },
+    {
+      "image": "https://www.dalyriverbarra.com.au/images/photo_gallery4.jpg",
+      "error": "too small 200x140"
+    },
+    {
+      "image": "https://www.dalyriverbarra.com.au/images/photo_gallery14.jpg",
+      "error": "too small 200x140"
+    },
+    {
+      "image": "https://www.dalyriverbarra.com.au/images/photo_gallery43.jpg",
+      "error": "too small 200x140"
+    },
+    {
+      "image": "https://www.dalyriverbarra.com.au/images/photo_gallery1.jpg",
+      "error": "too small 200x164"
+    },
+    {
+      "image": "https://www.dalyriverbarra.com.au/images/photo_gallery6.jpg",
+      "error": "too small 200x164"
+    },
+    {
+      "image": "https://www.dalyriverbarra.com.au/images/photo_gallery35.jpg",
+      "error": "too small 200x164"
+    },
+    {
+      "image": "https://www.dalyriverbarra.com.au/images/photo_gallery8.jpg",
+      "error": "too small 200x150"
+    },
+    {
+      "image": "https://www.dalyriverbarra.com.au/images/photo_gallery13.jpg",
+      "error": "too small 200x150"
+    },
+    {
+      "image": "https://www.dalyriverbarra.com.au/images/photo_gallery15.jpg",
+      "error": "too small 200x150"
+    },
+    {
+      "image": "https://www.dalyriverbarra.com.au/images/photo_gallery10.jpg",
+      "error": "too small 200x113"
+    },
+    {
+      "image": "https://www.dalyriverbarra.com.au/images/photo_gallery16.jpg",
+      "error": "too small 200x113"
+    },
+    {
+      "image": "https://www.dalyriverbarra.com.au/images/photo_gallery20.jpg",
+      "error": "too small 200x113"
+    },
+    {
+      "image": "https://www.dalyriverbarra.com.au/images/photo_gallery11.jpg",
+      "error": "too small 200x147"
+    },
+    {
+      "image": "https://www.dalyriverbarra.com.au/images/photo_gallery12.jpg",
+      "error": "too small 200x147"
+    },
+    {
+      "image": "https://www.dalyriverbarra.com.au/images/photo_gallery25.jpg",
+      "error": "too small 200x147"
+    },
+    {
+      "image": "https://www.dalyriverbarra.com.au/images/photo_gallery3.jpg",
+      "error": "too small 200x137"
+    },
+    {
+      "image": "https://www.dalyriverbarra.com.au/images/photo_gallery19.jpg",
+      "error": "too small 200x137"
+    },
+    {
+      "image": "https://www.dalyriverbarra.com.au/images/photo_gallery29.jpg",
+      "error": "too small 200x137"
+    },
+    {
+      "image": "https://www.dalyriverbarra.com.au/images/photo_gallery17.jpg",
+      "error": "too small 200x150"
+    },
+    {
+      "image": "https://www.dalyriverbarra.com.au/images/photo_gallery21.jpg",
+      "error": "too small 200x150"
+    },
+    {
+      "image": "https://www.dalyriverbarra.com.au/images/photo_gallery23.jpg",
+      "error": "too small 200x150"
+    },
+    {
+      "image": "https://www.dalyriverbarra.com.au/images/photo_gallery18.jpg",
+      "error": "too small 200x128"
+    },
+    {
+      "image": "https://www.dalyriverbarra.com.au/images/photo_gallery30.jpg",
+      "error": "too small 200x128"
+    },
+    {
+      "image": "https://www.dalyriverbarra.com.au/images/photo_gallery39.jpg",
+      "error": "too small 200x128"
+    },
+    {
+      "image": "https://www.dalyriverbarra.com.au/images/photo_gallery22.jpg",
+      "error": "too small 200x158"
+    },
+    {
+      "image": "https://www.dalyriverbarra.com.au/images/photo_gallery37.jpg",
+      "error": "too small 196x158"
+    },
+    {
+      "image": "https://www.dalyriverbarra.com.au/images/photo_gallery38.jpg",
+      "error": "too small 200x158"
+    },
+    {
+      "image": "https://www.dalyriverbarra.com.au/images/photo_gallery24.jpg",
+      "error": "too small 200x150"
+    },
+    {
+      "image": "https://www.dalyriverbarra.com.au/images/photo_gallery31.jpg",
+      "error": "too small 200x150"
+    },
+    {
+      "image": "https://www.dalyriverbarra.com.au/images/photo_gallery32.jpg",
+      "error": "too small 200x150"
+    },
+    {
+      "image": "https://www.dalyriverbarra.com.au/images/photo_gallery26.jpg",
+      "error": "too small 200x120"
+    },
+    {
+      "image": "https://www.dalyriverbarra.com.au/images/photo_gallery44.jpg",
+      "error": "too small 200x120"
+    },
+    {
+      "image": "https://www.dalyriverbarra.com.au/images/photo_gallery45.jpg",
+      "error": "too small 200x120"
+    },
+    {
+      "image": "https://www.dalyriverbarra.com.au/images/photo_gallery27.jpg",
+      "error": "too small 200x153"
+    },
+    {
+      "image": "https://www.dalyriverbarra.com.au/images/photo_gallery28.jpg",
+      "error": "too small 200x153"
+    },
+    {
+      "image": "https://www.dalyriverbarra.com.au/images/photo_gallery33.jpg",
+      "error": "too small 200x153"
+    },
+    {
+      "image": "https://www.dalyriverbarra.com.au/images/photo_gallery34.jpg",
+      "error": "too small 200x150"
+    },
+    {
+      "image": "https://www.dalyriverbarra.com.au/images/photo_gallery41.jpg",
+      "error": "too small 200x150"
+    },
+    {
+      "image": "https://www.dalyriverbarra.com.au/images/photo_gallery47.jpg",
+      "error": "too small 200x150"
+    },
+    {
+      "image": "https://www.dalyriverbarra.com.au/images/photo_gallery42.jpg",
+      "error": "too small 200x156"
+    },
+    {
+      "image": "https://www.dalyriverbarra.com.au/images/photo_gallery46.jpg",
+      "error": "too small 200x156"
+    },
+    {
+      "image": "https://www.dalyriverbarra.com.au/images/photo_gallery48.jpg",
+      "error": "too small 200x156"
+    },
+    {
+      "image": "http://www.is1.clixgalore.com/cgd.aspx?BID=168157&AfID=140743&AdID=15392",
+      "error": "fetch failed"
+    },
+    {
+      "image": "https://www.dalyriverbarra.com.au/images/rods.jpg",
+      "error": "too small 200x130"
+    },
+    {
+      "image": "http://www.is1.clixgalore.com/cgd.aspx?BID=168435&AfID=140743&AdID=15392",
+      "error": "fetch failed"
+    },
+    {
+      "image": "http://www.is1.clixgalore.com/cgd.aspx?BID=168489&AfID=140743&AdID=15392",
+      "error": "fetch failed"
+    },
+    {
+      "image": "http://www.is1.clixgalore.com/cgd.aspx?BID=62273&AfID=140743&AdID=7543",
+      "error": "fetch failed"
+    }
+  ]
+}

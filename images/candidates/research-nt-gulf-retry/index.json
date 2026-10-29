@@ -1,0 +1,42 @@
+{
+  "slug": "research-nt-gulf-retry",
+  "request_hash": "c87388cf65e0",
+  "collected_at": "2026-10-29T04:22:45.743Z",
+  "pages_fetched": [
+    "http://www.mccarthurrivercharters.com.au/",
+    "https://mccarthurrivercharters.com.au/",
+    "http://mcarthurrivercharters.com.au/",
+    "https://www.visitkatherine.com.au/daly-river-barra-resort",
+    "https://www.tiwiislandadventures.com.au/",
+    "http://tiwiislandadventures.com.au/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "http://www.mccarthurrivercharters.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://mccarthurrivercharters.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "http://mcarthurrivercharters.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://www.visitkatherine.com.au/daly-river-barra-resort",
+      "status": 200,
+      "final_url": "https://www.visitkatherine.com.au/daly-river-barra-resort",
+      "bytes": 90054
+    },
+    {
+      "page": "https://www.tiwiislandadventures.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "http://tiwiislandadventures.com.au/",
+      "error": "fetch failed"
+    }
+  ]
+}
