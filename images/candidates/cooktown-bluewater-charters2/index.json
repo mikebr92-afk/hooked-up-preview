@@ -1,0 +1,25 @@
+{
+  "slug": "cooktown-bluewater-charters2",
+  "request_hash": "c66b7482cc01",
+  "collected_at": "2026-10-29T19:33:47.529Z",
+  "pages_fetched": [
+    "https://cooktownbluewatercharters.com.au/",
+    "http://www.cooktownbluewatercharters.com.au/",
+    "https://cooktownbluewatercharters.com/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://cooktownbluewatercharters.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "http://www.cooktownbluewatercharters.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://cooktownbluewatercharters.com/",
+      "error": "fetch failed"
+    }
+  ]
+}

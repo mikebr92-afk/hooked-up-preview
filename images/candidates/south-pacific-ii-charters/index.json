@@ -1,0 +1,356 @@
+{
+  "slug": "south-pacific-ii-charters",
+  "request_hash": "cb546ac84326",
+  "collected_at": "2026-10-29T19:35:09.191Z",
+  "pages_fetched": [
+    "https://coastwatch.com.au/directory-services/whitsundays-lizard-island-fishing-charters/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 866,
+      "height": 487,
+      "original": "866x487",
+      "source": "https://coastwatch.com.au/wp-content/uploads/2025/04/whitsundays-sp2.png",
+      "page": "https://coastwatch.com.au/directory-services/whitsundays-lizard-island-fishing-charters/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://coastwatch.com.au/wp-content/uploads/2025/04/SP2_202509_08.jpg",
+      "page": "https://coastwatch.com.au/directory-services/whitsundays-lizard-island-fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://coastwatch.com.au/wp-content/uploads/2025/04/SP2_202509_07.jpg",
+      "page": "https://coastwatch.com.au/directory-services/whitsundays-lizard-island-fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://coastwatch.com.au/wp-content/uploads/2025/04/SP2_202509_10.jpg",
+      "page": "https://coastwatch.com.au/directory-services/whitsundays-lizard-island-fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://coastwatch.com.au/wp-content/uploads/2025/04/SP2_202509_06.jpg",
+      "page": "https://coastwatch.com.au/directory-services/whitsundays-lizard-island-fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://coastwatch.com.au/wp-content/uploads/2025/04/SP2_202509_09.jpg",
+      "page": "https://coastwatch.com.au/directory-services/whitsundays-lizard-island-fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://coastwatch.com.au/wp-content/uploads/2025/04/SP2_202509_05.jpg",
+      "page": "https://coastwatch.com.au/directory-services/whitsundays-lizard-island-fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://coastwatch.com.au/wp-content/uploads/2025/04/SP2_202509_01.jpg",
+      "page": "https://coastwatch.com.au/directory-services/whitsundays-lizard-island-fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2048x1536",
+      "source": "https://coastwatch.com.au/wp-content/uploads/2025/04/Photo-15-5-2024-7-33-23-am.jpg",
+      "page": "https://coastwatch.com.au/directory-services/whitsundays-lizard-island-fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1536x2048",
+      "source": "https://coastwatch.com.au/wp-content/uploads/2025/04/467026723_28261421786778302_6420066286912017941_n.jpg",
+      "page": "https://coastwatch.com.au/directory-services/whitsundays-lizard-island-fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2048x1536",
+      "source": "https://coastwatch.com.au/wp-content/uploads/2025/04/Photo-15-5-2024-7-33-29-am.jpg",
+      "page": "https://coastwatch.com.au/directory-services/whitsundays-lizard-island-fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://coastwatch.com.au/wp-content/uploads/2025/04/SP2_202509_04.jpg",
+      "page": "https://coastwatch.com.au/directory-services/whitsundays-lizard-island-fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://coastwatch.com.au/wp-content/uploads/2025/04/SP2_202509_03.jpg",
+      "page": "https://coastwatch.com.au/directory-services/whitsundays-lizard-island-fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://coastwatch.com.au/wp-content/uploads/2025/04/SP2_202509_02.jpg",
+      "page": "https://coastwatch.com.au/directory-services/whitsundays-lizard-island-fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://coastwatch.com.au/wp-content/uploads/2025/04/south-pacific-ii_02.jpg",
+      "page": "https://coastwatch.com.au/directory-services/whitsundays-lizard-island-fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://coastwatch.com.au/wp-content/uploads/2025/04/south-pacific-ii_04.jpg",
+      "page": "https://coastwatch.com.au/directory-services/whitsundays-lizard-island-fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c17.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://coastwatch.com.au/wp-content/uploads/2025/04/south-pacific-ii_08.jpg",
+      "page": "https://coastwatch.com.au/directory-services/whitsundays-lizard-island-fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c18.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://coastwatch.com.au/wp-content/uploads/2025/04/south-pacific-ii_01.jpg",
+      "page": "https://coastwatch.com.au/directory-services/whitsundays-lizard-island-fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c19.webp",
+      "width": 800,
+      "height": 495,
+      "original": "800x495",
+      "source": "https://coastwatch.com.au/wp-content/uploads/2025/04/History_2.jpg",
+      "page": "https://coastwatch.com.au/directory-services/whitsundays-lizard-island-fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c20.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://coastwatch.com.au/wp-content/uploads/2025/04/south-pacific-ii_014.jpg",
+      "page": "https://coastwatch.com.au/directory-services/whitsundays-lizard-island-fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c21.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://coastwatch.com.au/wp-content/uploads/2025/04/south-pacific-ii_012.jpg",
+      "page": "https://coastwatch.com.au/directory-services/whitsundays-lizard-island-fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c22.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://coastwatch.com.au/wp-content/uploads/2025/04/south-pacific-ii_011.jpg",
+      "page": "https://coastwatch.com.au/directory-services/whitsundays-lizard-island-fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c23.webp",
+      "width": 800,
+      "height": 516,
+      "original": "800x516",
+      "source": "https://coastwatch.com.au/wp-content/uploads/2025/04/465456289_28125306747056474_4215470812009261485_n.jpg",
+      "page": "https://coastwatch.com.au/directory-services/whitsundays-lizard-island-fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c24.webp",
+      "width": 1024,
+      "height": 665,
+      "original": "1024x665",
+      "source": "https://coastwatch.com.au/wp-content/uploads/2025/04/463439590_942950254525996_2346527223402918682_n.jpg",
+      "page": "https://coastwatch.com.au/directory-services/whitsundays-lizard-island-fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c25.webp",
+      "width": 960,
+      "height": 751,
+      "original": "960x751",
+      "source": "https://coastwatch.com.au/wp-content/uploads/2025/04/11329801_378786368976736_7678927885774727070_n.jpg",
+      "page": "https://coastwatch.com.au/directory-services/whitsundays-lizard-island-fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c26.webp",
+      "width": 960,
+      "height": 720,
+      "original": "960x720",
+      "source": "https://coastwatch.com.au/wp-content/uploads/2025/04/456728938_2447961935392492_4485844100057104598_n.jpg",
+      "page": "https://coastwatch.com.au/directory-services/whitsundays-lizard-island-fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c27.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://coastwatch.com.au/wp-content/uploads/2025/04/south-pacific-ii_015.jpg",
+      "page": "https://coastwatch.com.au/directory-services/whitsundays-lizard-island-fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c28.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://coastwatch.com.au/wp-content/uploads/2025/04/south-pacific-ii_017.jpg",
+      "page": "https://coastwatch.com.au/directory-services/whitsundays-lizard-island-fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c29.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://coastwatch.com.au/wp-content/uploads/2025/04/south-pacific-ii_016.jpg",
+      "page": "https://coastwatch.com.au/directory-services/whitsundays-lizard-island-fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c30.webp",
+      "width": 1024,
+      "height": 768,
+      "original": "1024x768",
+      "source": "https://coastwatch.com.au/wp-content/uploads/2025/02/Camp-Island-Lodge-The-Whitsundays-Tourism-and-Events-Queensland-135059-56-1024x768-2.webp",
+      "page": "https://coastwatch.com.au/directory-services/whitsundays-lizard-island-fishing-charters/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://coastwatch.com.au/directory-services/whitsundays-lizard-island-fishing-charters/",
+      "status": 200,
+      "final_url": "https://coastwatch.com.au/directory-services/whitsundays-lizard-island-fishing-charters/",
+      "bytes": 194854
+    },
+    {
+      "dup": "https://coastwatch.com.au/wp-content/uploads/2025/04/SP2_202509_08-1024x576.jpg"
+    },
+    {
+      "dup": "https://coastwatch.com.au/wp-content/uploads/2025/04/SP2_202509_07-1024x576.jpg"
+    },
+    {
+      "dup": "https://coastwatch.com.au/wp-content/uploads/2025/04/SP2_202509_10-1024x576.jpg"
+    },
+    {
+      "dup": "https://coastwatch.com.au/wp-content/uploads/2025/04/SP2_202509_06-1024x576.jpg"
+    },
+    {
+      "dup": "https://coastwatch.com.au/wp-content/uploads/2025/04/SP2_202509_09-1024x576.jpg"
+    },
+    {
+      "dup": "https://coastwatch.com.au/wp-content/uploads/2025/04/SP2_202509_05-1024x576.jpg"
+    },
+    {
+      "dup": "https://coastwatch.com.au/wp-content/uploads/2025/04/SP2_202509_01-1024x576.jpg"
+    },
+    {
+      "dup": "https://coastwatch.com.au/wp-content/uploads/2025/04/SP2_202509_04-1024x576.jpg"
+    },
+    {
+      "dup": "https://coastwatch.com.au/wp-content/uploads/2025/04/SP2_202509_03-1024x576.jpg"
+    },
+    {
+      "dup": "https://coastwatch.com.au/wp-content/uploads/2025/04/SP2_202509_02-1024x576.jpg"
+    },
+    {
+      "dup": "https://coastwatch.com.au/wp-content/uploads/2025/04/south-pacific-ii_02-1024x576.jpg"
+    },
+    {
+      "dup": "https://coastwatch.com.au/wp-content/uploads/2025/04/south-pacific-ii_04-1024x576.jpg"
+    },
+    {
+      "dup": "https://coastwatch.com.au/wp-content/uploads/2025/04/south-pacific-ii_08-1024x576.jpg"
+    },
+    {
+      "dup": "https://coastwatch.com.au/wp-content/uploads/2025/04/south-pacific-ii_01-1024x576.jpg"
+    },
+    {
+      "image": "https://coastwatch.com.au/wp-content/uploads/2025/04/464825551_28125306740389808_5520573809927873811_n.jpg",
+      "error": "too small 427x600"
+    },
+    {
+      "dup": "https://coastwatch.com.au/wp-content/uploads/2025/04/south-pacific-ii_014-1024x576.jpg"
+    },
+    {
+      "dup": "https://coastwatch.com.au/wp-content/uploads/2025/04/south-pacific-ii_012-1024x576.jpg"
+    },
+    {
+      "dup": "https://coastwatch.com.au/wp-content/uploads/2025/04/south-pacific-ii_011-1024x576.jpg"
+    },
+    {
+      "image": "https://coastwatch.com.au/wp-content/uploads/2025/04/464863697_28125306753723140_3994965306080734221_n.jpg",
+      "error": "too small 402x600"
+    },
+    {
+      "dup": "https://coastwatch.com.au/wp-content/uploads/2025/04/south-pacific-ii_015-1024x576.jpg"
+    },
+    {
+      "dup": "https://coastwatch.com.au/wp-content/uploads/2025/04/south-pacific-ii_017-1024x576.jpg"
+    },
+    {
+      "dup": "https://coastwatch.com.au/wp-content/uploads/2025/04/south-pacific-ii_016-1024x576.jpg"
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "finished_at": "2026-10-29T19:32:38.505Z",
+  "finished_at": "2026-10-29T19:35:09.191Z",
   "summary": [
     {
       "slug": "research-nq-bowen",
@@ -69,37 +69,50 @@
     },
     {
       "slug": "research-nq-facts",
-      "candidates": 0,
-      "pages": 8
+      "skipped": true
     },
     {
       "slug": "research-fullonfishn2",
+      "skipped": true
+    },
+    {
+      "slug": "research-hinch-eco",
+      "skipped": true
+    },
+    {
+      "slug": "research-southpacific2",
+      "skipped": true
+    },
+    {
+      "slug": "cooktown-barra-charters",
+      "skipped": true
+    },
+    {
+      "slug": "cooktown-bluewater-charters",
+      "skipped": true
+    },
+    {
+      "slug": "research-bungie",
+      "skipped": true
+    },
+    {
+      "slug": "cooktown-barra-charters2",
       "candidates": 0,
       "pages": 3
     },
     {
-      "slug": "research-hinch-eco",
+      "slug": "cooktown-bluewater-charters2",
+      "candidates": 0,
+      "pages": 3
+    },
+    {
+      "slug": "cooktown-reef-charters2",
       "candidates": 0,
       "pages": 2
     },
     {
-      "slug": "research-southpacific2",
-      "candidates": 0,
-      "pages": 2
-    },
-    {
-      "slug": "cooktown-barra-charters",
-      "candidates": 0,
-      "pages": 1
-    },
-    {
-      "slug": "cooktown-bluewater-charters",
-      "candidates": 0,
-      "pages": 1
-    },
-    {
-      "slug": "research-bungie",
-      "candidates": 0,
+      "slug": "south-pacific-ii-charters",
+      "candidates": 30,
       "pages": 1
     }
   ]

@@ -1,0 +1,25 @@
+{
+  "slug": "cooktown-barra-charters2",
+  "request_hash": "07d608b27e0a",
+  "collected_at": "2026-10-29T19:33:47.079Z",
+  "pages_fetched": [
+    "https://cooktownbarracharters.com/",
+    "http://cooktownbarracharters.com/",
+    "https://www.cooktownbarracharters.com/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://cooktownbarracharters.com/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "http://cooktownbarracharters.com/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://www.cooktownbarracharters.com/",
+      "error": "fetch failed"
+    }
+  ]
+}

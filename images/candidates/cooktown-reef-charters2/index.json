@@ -1,0 +1,20 @@
+{
+  "slug": "cooktown-reef-charters2",
+  "request_hash": "f1450fe579f8",
+  "collected_at": "2026-10-29T19:33:47.938Z",
+  "pages_fetched": [
+    "https://reefcharters.com.au/",
+    "https://www.reefcharters.com.au/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://reefcharters.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://www.reefcharters.com.au/",
+      "error": "fetch failed"
+    }
+  ]
+}
