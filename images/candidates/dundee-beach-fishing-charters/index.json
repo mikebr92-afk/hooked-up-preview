@@ -1,0 +1,252 @@
+{
+  "slug": "dundee-beach-fishing-charters",
+  "request_hash": "57232d94413f",
+  "collected_at": "2026-10-29T04:12:06.899Z",
+  "pages_fetched": [
+    "https://www.dundeebeachfishingcharters.com.au/",
+    "https://www.dundeebeachfishingcharters.com.au/charters",
+    "https://www.dundeebeachfishingcharters.com.au/barra-bluewater-fishing-charters",
+    "https://www.dundeebeachfishingcharters.com.au/reef-fishing-charters",
+    "https://www.dundeebeachfishingcharters.com.au/barramundi-fishing-charters",
+    "https://www.dundeebeachfishingcharters.com.au/bluewater-sportfishing",
+    "https://www.dundeebeachfishingcharters.com.au/accommodation",
+    "https://www.dundeebeachfishingcharters.com.au/about-us",
+    "https://www.dundeebeachfishingcharters.com.au/boats",
+    "https://www.dundeebeachfishingcharters.com.au/blog-posts"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1959,
+      "height": 2000,
+      "original": "2257x2304",
+      "source": "https://static.wixstatic.com/media/4a864c_5a82b5080d2b4f48bf4240c357ecd2f6%7Emv2.png",
+      "page": "https://www.dundeebeachfishingcharters.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://static.wixstatic.com/media/606192_0fd02bfafb8a4a4eb64192106785e646~mv2.png",
+      "page": "https://www.dundeebeachfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://static.wixstatic.com/media/606192_850f8545c0094af38f26c4178509b43df000.jpg",
+      "page": "https://www.dundeebeachfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 2000,
+      "height": 1333,
+      "original": "6000x4000",
+      "source": "https://static.wixstatic.com/media/4a864c_b8e9d438807c4eaa9b96a5650b2cbe29~mv2.jpg",
+      "page": "https://www.dundeebeachfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 2000,
+      "height": 1339,
+      "original": "2378x1592",
+      "source": "https://static.wixstatic.com/media/606192_c4be9200fb97409280c7dee61a6f0ad9~mv2.jpg",
+      "page": "https://www.dundeebeachfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 2000,
+      "height": 909,
+      "original": "1832x4032",
+      "source": "https://static.wixstatic.com/media/606192_694c04e88d854591afd822aa910da191~mv2.jpg",
+      "page": "https://www.dundeebeachfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 2000,
+      "height": 1125,
+      "original": "6000x3376",
+      "source": "https://static.wixstatic.com/media/606192_7b95a840a25f4ee988ae36425ee5c419~mv2.jpg",
+      "page": "https://www.dundeebeachfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "3000x2250",
+      "source": "https://static.wixstatic.com/media/606192_c82dc0c759eb4086ba88dfafd4c610af~mv2.jpg",
+      "page": "https://www.dundeebeachfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "4032x3024",
+      "source": "https://static.wixstatic.com/media/606192_6f8e5d50d4554b16bbf48e52984c3a50~mv2.jpg",
+      "page": "https://www.dundeebeachfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 2000,
+      "height": 2000,
+      "original": "2250x2250",
+      "source": "https://static.wixstatic.com/media/61bf45_dfae49c8bb944ed1ac250a5a7ad413e9~mv2.jpg",
+      "page": "https://www.dundeebeachfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "3000x2250",
+      "source": "https://static.wixstatic.com/media/606192_36163afb0bf04bc9b32f60b5cf6b534f~mv2.jpg",
+      "page": "https://www.dundeebeachfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "3000x2250",
+      "source": "https://static.wixstatic.com/media/606192_5631a5b6c2714bdd852d9f26a368d442~mv2.jpg",
+      "page": "https://www.dundeebeachfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 960,
+      "height": 720,
+      "original": "960x720",
+      "source": "https://static.wixstatic.com/media/606192_01064a4f44964a78a470e050bced5df4~mv2.jpg",
+      "page": "https://www.dundeebeachfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1200,
+      "height": 1200,
+      "original": "1200x1200",
+      "source": "https://static.wixstatic.com/media/606192_723c9406e7974da683eaac8a67950dfd~mv2.jpg",
+      "page": "https://www.dundeebeachfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 600,
+      "height": 450,
+      "original": "600x450",
+      "source": "https://static.wixstatic.com/media/606192_b9202cfc26d34844ad581ac10fc57e1f~mv2.jpg",
+      "page": "https://www.dundeebeachfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 960,
+      "height": 882,
+      "original": "960x882",
+      "source": "https://static.wixstatic.com/media/606192_6d336a6368c5475fb1a34a69d64e6360~mv2.jpg",
+      "page": "https://www.dundeebeachfishingcharters.com.au/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.dundeebeachfishingcharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.dundeebeachfishingcharters.com.au/",
+      "bytes": 1455809
+    },
+    {
+      "page": "https://www.dundeebeachfishingcharters.com.au/charters",
+      "status": 200,
+      "final_url": "https://www.dundeebeachfishingcharters.com.au/charters",
+      "bytes": 1242218
+    },
+    {
+      "page": "https://www.dundeebeachfishingcharters.com.au/barra-bluewater-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.dundeebeachfishingcharters.com.au/barra-bluewater-fishing-charters",
+      "bytes": 1439634
+    },
+    {
+      "page": "https://www.dundeebeachfishingcharters.com.au/reef-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.dundeebeachfishingcharters.com.au/reef-fishing-charters",
+      "bytes": 1225328
+    },
+    {
+      "page": "https://www.dundeebeachfishingcharters.com.au/barramundi-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.dundeebeachfishingcharters.com.au/barramundi-fishing-charters",
+      "bytes": 1227379
+    },
+    {
+      "page": "https://www.dundeebeachfishingcharters.com.au/bluewater-sportfishing",
+      "status": 200,
+      "final_url": "https://www.dundeebeachfishingcharters.com.au/bluewater-sportfishing",
+      "bytes": 1228912
+    },
+    {
+      "page": "https://www.dundeebeachfishingcharters.com.au/accommodation",
+      "status": 200,
+      "final_url": "https://www.dundeebeachfishingcharters.com.au/accommodation",
+      "bytes": 1440938
+    },
+    {
+      "page": "https://www.dundeebeachfishingcharters.com.au/about-us",
+      "status": 200,
+      "final_url": "https://www.dundeebeachfishingcharters.com.au/about-us",
+      "bytes": 1260922
+    },
+    {
+      "page": "https://www.dundeebeachfishingcharters.com.au/boats",
+      "status": 200,
+      "final_url": "https://www.dundeebeachfishingcharters.com.au/boats",
+      "bytes": 1170179
+    },
+    {
+      "page": "https://www.dundeebeachfishingcharters.com.au/blog-posts",
+      "status": 200,
+      "final_url": "https://www.dundeebeachfishingcharters.com.au/blog-posts",
+      "bytes": 1163640
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/4a864c_5a82b5080d2b4f48bf4240c357ecd2f6%7Emv2.png/v1/fit/w_2500,h_1330,al_c/4a864c_5a82b5080d2b4f48bf4240c357ecd2f6%7Emv2.png"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/e316f544f9094143b9eac01f1f19e697.png",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/e316f544f9094143b9eac01f1f19e697.png/v1/fill/w_28,h_28,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e316f544f9094143b9eac01f1f19e697.png",
+      "error": "too small 28x28"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/9f9c321c774844b793180620472aa4f1.png",
+      "error": "too small 188x200"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/9f9c321c774844b793180620472aa4f1.png/v1/fill/w_28,h_28,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/9f9c321c774844b793180620472aa4f1.png",
+      "error": "too small 28x28"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/606192_33e3395ca9df42d0ac5e219fcf43272a~mv2.jpg",
+      "error": "too small 550x412"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/606192_33e3395ca9df42d0ac5e219fcf43272a~mv2.jpg/v1/fit/w_476,h_476,q_90,enc_avif,quality_auto/606192_33e3395ca9df42d0ac5e219fcf43272a~mv2.jpg",
+      "error": "too small 476x356"
+    }
+  ]
+}

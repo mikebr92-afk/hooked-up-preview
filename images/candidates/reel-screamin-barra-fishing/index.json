@@ -1,0 +1,371 @@
+{
+  "slug": "reel-screamin-barra-fishing",
+  "request_hash": "57f2dd5d7891",
+  "collected_at": "2026-10-29T04:11:51.282Z",
+  "pages_fetched": [
+    "https://reelscreaminbarrafishing.com.au/",
+    "https://reelscreaminbarrafishing.com.au/about/",
+    "https://reelscreaminbarrafishing.com.au/half-day-fishing-charters/",
+    "https://reelscreaminbarrafishing.com.au/one-day-barra-fishing-charter/",
+    "https://reelscreaminbarrafishing.com.au/extended-barra-fishing-charters-darwin/",
+    "https://reelscreaminbarrafishing.com.au/mud-crab-tours-darwin/",
+    "https://reelscreaminbarrafishing.com.au/contact-us/",
+    "https://reelscreaminbarrafishing.com.au/privacy-policy/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2021/11/IMG_5150-scaled.jpg",
+      "page": "https://reelscreaminbarrafishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2049x1537",
+      "source": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2023/04/IMG_0203.jpg",
+      "page": "https://reelscreaminbarrafishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2021/11/IMG_4963-scaled.jpg",
+      "page": "https://reelscreaminbarrafishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2023/04/IMG_5310-scaled.jpg",
+      "page": "https://reelscreaminbarrafishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2022/11/IMG_5982-scaled.jpg",
+      "page": "https://reelscreaminbarrafishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2021/11/baby-croc-scaled.jpg",
+      "page": "https://reelscreaminbarrafishing.com.au/half-day-fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2560x1707",
+      "source": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2021/01/IMG_7315-scaled.jpg",
+      "page": "https://reelscreaminbarrafishing.com.au/half-day-fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2560x1707",
+      "source": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2021/01/IMG_7336-scaled.jpg",
+      "page": "https://reelscreaminbarrafishing.com.au/half-day-fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2560x1707",
+      "source": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2021/01/MG_6999-scaled.jpg",
+      "page": "https://reelscreaminbarrafishing.com.au/one-day-barra-fishing-charter/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 800,
+      "height": 531,
+      "original": "800x531",
+      "source": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2021/01/003.jpg",
+      "page": "https://reelscreaminbarrafishing.com.au/one-day-barra-fishing-charter/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2560x1707",
+      "source": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2021/01/MG_7565-scaled.jpg",
+      "page": "https://reelscreaminbarrafishing.com.au/one-day-barra-fishing-charter/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1334,
+      "height": 750,
+      "original": "1334x750",
+      "source": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2021/01/IMG_2381.jpg",
+      "page": "https://reelscreaminbarrafishing.com.au/extended-barra-fishing-charters-darwin/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2021/11/IMG_5137-scaled.jpg",
+      "page": "https://reelscreaminbarrafishing.com.au/extended-barra-fishing-charters-darwin/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 2000,
+      "height": 1328,
+      "original": "2560x1700",
+      "source": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2021/01/005-scaled.jpg",
+      "page": "https://reelscreaminbarrafishing.com.au/extended-barra-fishing-charters-darwin/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2024/07/Mud-Crab-Tours-scaled.jpg",
+      "page": "https://reelscreaminbarrafishing.com.au/mud-crab-tours-darwin/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2024/07/IMG_0487-scaled.jpg",
+      "page": "https://reelscreaminbarrafishing.com.au/mud-crab-tours-darwin/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://reelscreaminbarrafishing.com.au/",
+      "status": 200,
+      "final_url": "https://reelscreaminbarrafishing.com.au/",
+      "bytes": 182145
+    },
+    {
+      "page": "https://reelscreaminbarrafishing.com.au/about/",
+      "status": 200,
+      "final_url": "https://reelscreaminbarrafishing.com.au/about/",
+      "bytes": 186833
+    },
+    {
+      "page": "https://reelscreaminbarrafishing.com.au/half-day-fishing-charters/",
+      "status": 200,
+      "final_url": "https://reelscreaminbarrafishing.com.au/half-day-fishing-charters/",
+      "bytes": 212442
+    },
+    {
+      "page": "https://reelscreaminbarrafishing.com.au/one-day-barra-fishing-charter/",
+      "status": 200,
+      "final_url": "https://reelscreaminbarrafishing.com.au/one-day-barra-fishing-charter/",
+      "bytes": 200554
+    },
+    {
+      "page": "https://reelscreaminbarrafishing.com.au/extended-barra-fishing-charters-darwin/",
+      "status": 200,
+      "final_url": "https://reelscreaminbarrafishing.com.au/extended-barra-fishing-charters-darwin/",
+      "bytes": 215549
+    },
+    {
+      "page": "https://reelscreaminbarrafishing.com.au/mud-crab-tours-darwin/",
+      "status": 200,
+      "final_url": "https://reelscreaminbarrafishing.com.au/mud-crab-tours-darwin/",
+      "bytes": 248490
+    },
+    {
+      "page": "https://reelscreaminbarrafishing.com.au/contact-us/",
+      "status": 200,
+      "final_url": "https://reelscreaminbarrafishing.com.au/contact-us/",
+      "bytes": 151810
+    },
+    {
+      "page": "https://reelscreaminbarrafishing.com.au/privacy-policy/",
+      "status": 200,
+      "final_url": "https://reelscreaminbarrafishing.com.au/privacy-policy/",
+      "bytes": 185181
+    },
+    {
+      "dup": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2021/11/IMG_5150.jpg"
+    },
+    {
+      "dup": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2021/11/IMG_5150-980x735.jpg"
+    },
+    {
+      "image": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2021/11/IMG_5150-480x360.jpg",
+      "error": "too small 480x360"
+    },
+    {
+      "dup": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2023/04/IMG_0203-1280x960.jpg"
+    },
+    {
+      "dup": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2023/04/IMG_0203-980x735.jpg"
+    },
+    {
+      "image": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2023/04/IMG_0203-480x360.jpg",
+      "error": "too small 480x360"
+    },
+    {
+      "dup": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2021/11/IMG_4963.jpg"
+    },
+    {
+      "dup": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2021/11/IMG_4963-980x735.jpg"
+    },
+    {
+      "image": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2021/11/IMG_4963-480x360.jpg",
+      "error": "too small 480x360"
+    },
+    {
+      "dup": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2023/04/IMG_5310.jpg"
+    },
+    {
+      "dup": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2023/04/IMG_5310-980x735.jpg"
+    },
+    {
+      "image": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2023/04/IMG_5310-480x360.jpg",
+      "error": "too small 480x360"
+    },
+    {
+      "dup": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2022/11/IMG_5982.jpg"
+    },
+    {
+      "dup": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2022/11/IMG_5982-980x735.jpg"
+    },
+    {
+      "image": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2022/11/IMG_5982-480x360.jpg",
+      "error": "too small 480x360"
+    },
+    {
+      "image": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2021/01/Jarrod.jpg",
+      "error": "too small 248x174"
+    },
+    {
+      "image": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2021/01/IMG_0464.jpg",
+      "error": "too small 480x360"
+    },
+    {
+      "image": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2021/01/IMG_1034.jpg",
+      "error": "too small 480x360"
+    },
+    {
+      "dup": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2021/11/baby-croc.jpg"
+    },
+    {
+      "dup": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2021/11/baby-croc-980x735.jpg"
+    },
+    {
+      "image": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2021/11/baby-croc-480x360.jpg",
+      "error": "too small 480x360"
+    },
+    {
+      "dup": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2021/01/IMG_7315.jpg"
+    },
+    {
+      "dup": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2021/01/IMG_7315-980x653.jpg"
+    },
+    {
+      "image": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2021/01/IMG_7315-480x320.jpg",
+      "error": "too small 480x320"
+    },
+    {
+      "image": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2021/01/IMG_0464-300x225.jpg",
+      "error": "too small 300x225"
+    },
+    {
+      "dup": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2021/01/IMG_7336.jpg"
+    },
+    {
+      "dup": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2021/01/IMG_7336-980x653.jpg"
+    },
+    {
+      "image": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2021/01/IMG_7336-480x320.jpg",
+      "error": "too small 480x320"
+    },
+    {
+      "image": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2021/01/IMG_1034-300x225.jpg",
+      "error": "too small 300x225"
+    },
+    {
+      "dup": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2021/01/IMG_7315-1280x854.jpg"
+    },
+    {
+      "dup": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2021/01/MG_6999.jpg"
+    },
+    {
+      "dup": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2021/01/MG_6999-980x653.jpg"
+    },
+    {
+      "image": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2021/01/MG_6999-480x320.jpg",
+      "error": "too small 480x320"
+    },
+    {
+      "image": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2021/01/003-480x319.jpg",
+      "error": "too small 480x319"
+    },
+    {
+      "dup": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2021/01/MG_7565.jpg"
+    },
+    {
+      "dup": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2021/01/MG_7565-980x653.jpg"
+    },
+    {
+      "image": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2021/01/MG_7565-480x320.jpg",
+      "error": "too small 480x320"
+    },
+    {
+      "dup": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2021/11/IMG_5150-1280x960.jpg"
+    },
+    {
+      "dup": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2021/01/IMG_2381-1280x720.jpg"
+    },
+    {
+      "dup": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2021/01/IMG_2381-980x551.jpg"
+    },
+    {
+      "image": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2021/01/IMG_2381-480x270.jpg",
+      "error": "too small 480x270"
+    },
+    {
+      "dup": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2021/11/IMG_5137.jpg"
+    },
+    {
+      "dup": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2021/11/IMG_5137-980x735.jpg"
+    },
+    {
+      "image": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2021/11/IMG_5137-480x360.jpg",
+      "error": "too small 480x360"
+    },
+    {
+      "dup": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2021/01/005.jpg"
+    },
+    {
+      "dup": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2021/01/005-980x651.jpg"
+    },
+    {
+      "image": "https://reelscreaminbarrafishing.com.au/wp-content/uploads/2021/01/005-480x319.jpg",
+      "error": "too small 480x319"
+    }
+  ]
+}

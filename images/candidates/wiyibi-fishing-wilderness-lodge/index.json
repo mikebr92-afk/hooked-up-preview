@@ -1,0 +1,64 @@
+{
+  "slug": "wiyibi-fishing-wilderness-lodge",
+  "request_hash": "9cae92aca28e",
+  "collected_at": "2026-10-29T04:12:43.558Z",
+  "pages_fetched": [
+    "http://wiyibifishing.com.au/",
+    "http://www.wiyibifishing.com.au/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 960,
+      "height": 960,
+      "original": "960x960",
+      "source": "http://www.wiyibifishing.com.au/wp-content/uploads/2019/07/59675796_1226292290865833_562513838147108864_n.jpg",
+      "page": "http://wiyibifishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 2000,
+      "height": 1013,
+      "original": "2132x1080",
+      "source": "http://www.wiyibifishing.com.au/wp-content/uploads/2019/07/Wiyibi-Big-Group.jpg",
+      "page": "http://wiyibifishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1021,
+      "height": 1080,
+      "original": "1021x1080",
+      "source": "http://www.wiyibifishing.com.au/wp-content/uploads/2019/07/Wiyibi-Location-Map.jpg",
+      "page": "http://wiyibifishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 960,
+      "height": 520,
+      "original": "960x520",
+      "source": "http://www.wiyibifishing.com.au/wp-content/uploads/2019/07/59742845_1226292394199156_8189029811876790272_n.jpg",
+      "page": "http://wiyibifishing.com.au/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "http://wiyibifishing.com.au/",
+      "status": 200,
+      "final_url": "http://www.wiyibifishing.com.au/",
+      "bytes": 76313
+    },
+    {
+      "page": "http://www.wiyibifishing.com.au/",
+      "status": 200,
+      "final_url": "http://www.wiyibifishing.com.au/",
+      "bytes": 76313
+    },
+    {
+      "dup": "http://www.wiyibifishing.com.au/wp-content/uploads/2019/07/Wiyibi-Big-Group-2000x1080.jpg"
+    }
+  ]
+}

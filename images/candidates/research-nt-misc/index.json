@@ -1,0 +1,94 @@
+{
+  "slug": "research-nt-misc",
+  "request_hash": "43caa497d242",
+  "collected_at": "2026-10-29T04:13:25.985Z",
+  "pages_fetched": [
+    "https://offshoreboats.com.au/vessel-specs/",
+    "https://barralodge.com.au/accommodation/",
+    "https://barralodge.com.au/rates/",
+    "https://barralodge.com.au/contact/",
+    "https://barralodge.com.au/about/",
+    "https://www.estuaryescapes.com.au/escape-packages/",
+    "https://riverandreef.com.au/about/",
+    "https://www.ntfish4x4.com/accommodation",
+    "https://dhipirribarra.com.au/rates/",
+    "https://dhipirribarra.com.au/the-lodge/",
+    "https://tiwiislandretreat.com.au/p/fishing-package/",
+    "https://www.gelnt.com.au/experiences/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://offshoreboats.com.au/vessel-specs/",
+      "status": 200,
+      "final_url": "https://offshoreboats.com.au/vessel-specs/",
+      "bytes": 133776
+    },
+    {
+      "page": "https://barralodge.com.au/accommodation/",
+      "status": 404,
+      "final_url": "https://barralodge.com.au/accommodation/",
+      "bytes": 19301
+    },
+    {
+      "page": "https://barralodge.com.au/rates/",
+      "status": 404,
+      "final_url": "https://barralodge.com.au/rates/",
+      "bytes": 19301
+    },
+    {
+      "page": "https://barralodge.com.au/contact/",
+      "status": 200,
+      "final_url": "https://barralodge.com.au/contact-us/",
+      "bytes": 21256
+    },
+    {
+      "page": "https://barralodge.com.au/about/",
+      "status": 200,
+      "final_url": "https://barralodge.com.au/about-us/",
+      "bytes": 21781
+    },
+    {
+      "page": "https://www.estuaryescapes.com.au/escape-packages/",
+      "status": 200,
+      "final_url": "https://estuaryescapes.com.au/escape-packages/",
+      "bytes": 15325
+    },
+    {
+      "page": "https://riverandreef.com.au/about/",
+      "status": 404,
+      "final_url": "https://riverandreef.com.au/about/",
+      "bytes": 66519
+    },
+    {
+      "page": "https://www.ntfish4x4.com/accommodation",
+      "status": 404,
+      "final_url": "https://www.ntfish4x4.com/accommodation",
+      "bytes": 2206
+    },
+    {
+      "page": "https://dhipirribarra.com.au/rates/",
+      "status": 404,
+      "final_url": "https://dhipirribarra.com.au/rates/",
+      "bytes": 46466
+    },
+    {
+      "page": "https://dhipirribarra.com.au/the-lodge/",
+      "status": 404,
+      "final_url": "https://dhipirribarra.com.au/the-lodge/",
+      "bytes": 46478
+    },
+    {
+      "page": "https://tiwiislandretreat.com.au/p/fishing-package/",
+      "status": 404,
+      "final_url": "https://tiwiislandretreat.com.au/p/fishing-package/",
+      "bytes": 97372
+    },
+    {
+      "page": "https://www.gelnt.com.au/experiences/",
+      "status": 200,
+      "final_url": "https://www.gelnt.com.au/experiences/",
+      "bytes": 313248
+    }
+  ]
+}

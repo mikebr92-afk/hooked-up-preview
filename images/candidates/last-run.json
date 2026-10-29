@@ -1,5 +1,5 @@
 {
-  "finished_at": "2026-10-29T04:08:45.640Z",
+  "finished_at": "2026-10-29T04:13:25.985Z",
   "summary": [
     {
       "slug": "research-nt-index",
@@ -85,7 +85,7 @@
     {
       "slug": "cobourg-fishing-safaris",
       "candidates": 16,
-      "pages": 11
+      "pages": 12
     },
     {
       "slug": "obj-adventures-nhulunbuy-fishing-charters",
@@ -101,48 +101,84 @@
     },
     {
       "slug": "research-nt-tours-e",
-      "candidates": 0,
-      "pages": 12
+      "skipped": true
     },
     {
       "slug": "research-nt-guess",
-      "candidates": 0,
-      "pages": 12
+      "skipped": true
     },
     {
       "slug": "australian-sportfishing-charters",
-      "candidates": 16,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "groote-eylandt-sports-fishing",
-      "candidates": 16,
-      "pages": 4
+      "skipped": true
     },
     {
       "slug": "dhipirri-barra-and-sportfishing-lodge",
-      "candidates": 16,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "tiwi-island-retreat",
+      "skipped": true
+    },
+    {
+      "slug": "river-and-reef-fishing-charters",
+      "skipped": true
+    },
+    {
+      "slug": "nt-fish-and-4x4",
+      "skipped": true
+    },
+    {
+      "slug": "arnhemland-barramundi-nature-lodge",
+      "skipped": true
+    },
+    {
+      "slug": "yknot-fishing-charters",
+      "candidates": 16,
+      "pages": 1
+    },
+    {
+      "slug": "reel-screamin-barra-fishing",
       "candidates": 16,
       "pages": 8
     },
     {
-      "slug": "river-and-reef-fishing-charters",
+      "slug": "dundee-beach-fishing-charters",
       "candidates": 16,
       "pages": 10
     },
     {
-      "slug": "nt-fish-and-4x4",
-      "candidates": 16,
+      "slug": "anglers-choice-fishing-safaris",
+      "candidates": 11,
       "pages": 5
     },
     {
-      "slug": "arnhemland-barramundi-nature-lodge",
-      "candidates": 8,
+      "slug": "wildman-fishing-tours",
+      "candidates": 16,
+      "pages": 10
+    },
+    {
+      "slug": "mcarthur-river-fishing-charters",
+      "candidates": 0,
       "pages": 2
+    },
+    {
+      "slug": "wiyibi-fishing-wilderness-lodge",
+      "candidates": 4,
+      "pages": 2
+    },
+    {
+      "slug": "spring-tide-safaris",
+      "candidates": 16,
+      "pages": 11
+    },
+    {
+      "slug": "research-nt-misc",
+      "candidates": 0,
+      "pages": 12
     }
   ]
 }

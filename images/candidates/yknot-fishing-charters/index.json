@@ -1,0 +1,205 @@
+{
+  "slug": "yknot-fishing-charters",
+  "request_hash": "77451b8578b6",
+  "collected_at": "2026-10-29T04:11:30.943Z",
+  "pages_fetched": [
+    "https://www.yknot.com.au/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1476,
+      "height": 1306,
+      "original": "1476x1306",
+      "source": "https://static.wixstatic.com/media/7c3dd0_7d53c514cbd9482587f5322a0eb15bce%7Emv2.png",
+      "page": "https://www.yknot.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 827,
+      "height": 827,
+      "original": "827x827",
+      "source": "https://static.wixstatic.com/media/7c3dd0_0bfa7b5f6a904536b220947ac11e7d57~mv2.png",
+      "page": "https://www.yknot.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 2000,
+      "height": 810,
+      "original": "2770x1122",
+      "source": "https://static.wixstatic.com/media/57d612_d1ea7ef4d4f7456fadd3f20a2ffde0ee~mv2.jpg",
+      "page": "https://www.yknot.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 2000,
+      "height": 1718,
+      "original": "2825x2426",
+      "source": "https://static.wixstatic.com/media/57d612_045ef9c87ab84b86a11ae5061fa6a093~mv2.png",
+      "page": "https://www.yknot.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1934,
+      "height": 1835,
+      "original": "1934x1835",
+      "source": "https://static.wixstatic.com/media/57d612_96e0288a171a479b9fa9bd2721b40ee2~mv2.jpg",
+      "page": "https://www.yknot.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 2000,
+      "height": 1882,
+      "original": "2122x1997",
+      "source": "https://static.wixstatic.com/media/57d612_97d3748e8d324877ab73f00f7df17857~mv2.png",
+      "page": "https://www.yknot.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1440,
+      "height": 1440,
+      "original": "1440x1440",
+      "source": "https://static.wixstatic.com/media/57d612_3e4972306ec844deb2c0973042df3614~mv2.jpg",
+      "page": "https://www.yknot.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1179,
+      "height": 1158,
+      "original": "1179x1158",
+      "source": "https://static.wixstatic.com/media/57d612_cb32fc9680fd41738bd8db0732623837~mv2.jpg",
+      "page": "https://www.yknot.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1040,
+      "height": 1232,
+      "original": "1040x1232",
+      "source": "https://static.wixstatic.com/media/57d612_253abd3b4c544d8ea4c271b98eb0f9bd~mv2.png",
+      "page": "https://www.yknot.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 2000,
+      "height": 1543,
+      "original": "2886x2227",
+      "source": "https://static.wixstatic.com/media/57d612_0471fa2a75ba4f1a82a2569a2c9735be~mv2.jpg",
+      "page": "https://www.yknot.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 2000,
+      "height": 1196,
+      "original": "2199x1315",
+      "source": "https://static.wixstatic.com/media/57d612_a658bbcd553a415b832527d009a57c0f~mv2.jpg",
+      "page": "https://www.yknot.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1440,
+      "height": 1439,
+      "original": "1440x1439",
+      "source": "https://static.wixstatic.com/media/7c3dd0_b29909676f7a4874b2be1ce22b1d067e~mv2.jpg",
+      "page": "https://www.yknot.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 2000,
+      "height": 2000,
+      "original": "2493x2493",
+      "source": "https://static.wixstatic.com/media/7c3dd0_8c38a3be3a344064954238fa027658ad~mv2.jpg",
+      "page": "https://www.yknot.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 2000,
+      "height": 2000,
+      "original": "2839x2839",
+      "source": "https://static.wixstatic.com/media/7c3dd0_c3a9117cac184b07b50be30b5dd8085f~mv2.jpg",
+      "page": "https://www.yknot.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "4032x3024",
+      "source": "https://static.wixstatic.com/media/7c3dd0_1d78896bf2a24f73a050833d3db78812~mv2.jpg",
+      "page": "https://www.yknot.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 2000,
+      "height": 1911,
+      "original": "2959x2827",
+      "source": "https://static.wixstatic.com/media/7c3dd0_6c2d8e6dd45b44ebb5f2221f896d27e5~mv2.jpg",
+      "page": "https://www.yknot.com.au/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.yknot.com.au/",
+      "status": 200,
+      "final_url": "https://www.yknot.com.au/",
+      "bytes": 1262058
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/7c3dd0_7d53c514cbd9482587f5322a0eb15bce%7Emv2.png/v1/fit/w_2500,h_1330,al_c/7c3dd0_7d53c514cbd9482587f5322a0eb15bce%7Emv2.png"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/7c3dd0_d46da99b416a429290dd1c3be2c7ecbd~mv2.png",
+      "error": "too small 480x630"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/7c3dd0_d46da99b416a429290dd1c3be2c7ecbd~mv2.png/v1/crop/x_0,y_13,w_480,h_617/fill/w_108,h_139,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/QTAB.png",
+      "error": "too small 108x139"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/81af6121f84c41a5b4391d7d37fce12a.png",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/81af6121f84c41a5b4391d7d37fce12a.png/v1/fill/w_31,h_31,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/81af6121f84c41a5b4391d7d37fce12a.png",
+      "error": "too small 31x31"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/23fd2a2be53141ed810f4d3dcdcd01fa.png",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/23fd2a2be53141ed810f4d3dcdcd01fa.png/v1/fill/w_31,h_31,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/23fd2a2be53141ed810f4d3dcdcd01fa.png",
+      "error": "too small 31x31"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/57d612_fa33487f4039477ea10a577ef1937a70~mv2.png",
+      "error": "too small 478x276"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/57d612_fa33487f4039477ea10a577ef1937a70~mv2.png/v1/fill/w_104,h_60,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/AP_Web_tile_nowavailableonline_blackmint_600x449_png%20(1).png",
+      "error": "too small 104x60"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/57d612_29ca60f686234198aeb9b4a3a28fbac3~mv2.jpg",
+      "error": "too small 346x263"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/57d612_29ca60f686234198aeb9b4a3a28fbac3~mv2.jpg/v1/fit/w_346,h_261,q_90,enc_avif,quality_auto/57d612_29ca60f686234198aeb9b4a3a28fbac3~mv2.jpg",
+      "error": "too small 343x261"
+    }
+  ]
+}

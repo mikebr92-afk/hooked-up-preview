@@ -1,0 +1,20 @@
+{
+  "slug": "mcarthur-river-fishing-charters",
+  "request_hash": "79fd88273584",
+  "collected_at": "2026-10-29T04:12:40.785Z",
+  "pages_fetched": [
+    "http://mccarthurrivercharters.com.au/",
+    "https://www.mcarthurrivercharters.com.au/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "http://mccarthurrivercharters.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://www.mcarthurrivercharters.com.au/",
+      "error": "fetch failed"
+    }
+  ]
+}

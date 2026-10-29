@@ -1,0 +1,219 @@
+{
+  "slug": "anglers-choice-fishing-safaris",
+  "request_hash": "a60c4c724db2",
+  "collected_at": "2026-10-29T04:12:19.011Z",
+  "pages_fetched": [
+    "https://www.anglerschoice.com.au/",
+    "https://www.anglerschoice.com.au/contact",
+    "https://www.anglerschoice.com.au/day-tour",
+    "https://www.anglerschoice.com.au/the-fishing",
+    "https://www.anglerschoice.com.au/boats"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2560x1707",
+      "source": "https://www.anglerschoice.com.au/uploads/oUX6dTK2/767x0_2560x0/BeachHouseViewLookingBack.jpg",
+      "page": "https://www.anglerschoice.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 1920,
+      "height": 1280,
+      "original": "1920x1280",
+      "source": "https://www.anglerschoice.com.au/uploads/yz9FSLWi/767x0_2560x0/Parallax.jpg",
+      "page": "https://www.anglerschoice.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 640,
+      "height": 480,
+      "original": "640x480",
+      "source": "https://www.anglerschoice.com.au/uploads/Nz7WKyFV/727x0_640x0/Product-3__msi___jpg.webp",
+      "page": "https://www.anglerschoice.com.au/day-tour",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 640,
+      "height": 485,
+      "original": "640x485",
+      "source": "https://www.anglerschoice.com.au/uploads/RB1AxWCm/731x0_640x0/The-fishing-hero.jpg",
+      "page": "https://www.anglerschoice.com.au/day-tour",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 640,
+      "height": 479,
+      "original": "640x479",
+      "source": "https://www.anglerschoice.com.au/uploads/uMQzIC60/732x0_640x0/Product-6__msi___jpg.webp",
+      "page": "https://www.anglerschoice.com.au/day-tour",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 720,
+      "height": 720,
+      "original": "720x720",
+      "source": "https://www.anglerschoice.com.au/uploads/pF2AdU3A/Fact-Sheet-Barra-Couple-2.jpg",
+      "page": "https://www.anglerschoice.com.au/the-fishing",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 720,
+      "height": 720,
+      "original": "720x720",
+      "source": "https://www.anglerschoice.com.au/uploads/l9DDHd8O/Big-RED-emporer-fish-with-Girl-1.jpg",
+      "page": "https://www.anglerschoice.com.au/the-fishing",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 720,
+      "height": 720,
+      "original": "720x720",
+      "source": "https://www.anglerschoice.com.au/uploads/o1lDJ75C/IMG-1517.jpg",
+      "page": "https://www.anglerschoice.com.au/the-fishing",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 960,
+      "height": 720,
+      "original": "960x720",
+      "source": "https://www.anglerschoice.com.au/uploads/MY4JYDnT/IMG_2587.jpg",
+      "page": "https://www.anglerschoice.com.au/the-fishing",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 960,
+      "height": 640,
+      "original": "960x640",
+      "source": "https://www.anglerschoice.com.au/uploads/F38AwiSn/Best-fishing.jpg",
+      "page": "https://www.anglerschoice.com.au/the-fishing",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1200,
+      "height": 811,
+      "original": "1200x811",
+      "source": "https://www.anglerschoice.com.au/uploads/fmdUz1Qp/Get-to-know-our-fleet.jpg",
+      "page": "https://www.anglerschoice.com.au/boats",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.anglerschoice.com.au/",
+      "status": 200,
+      "final_url": "https://www.anglerschoice.com.au/",
+      "bytes": 89225
+    },
+    {
+      "page": "https://www.anglerschoice.com.au/contact",
+      "status": 200,
+      "final_url": "https://www.anglerschoice.com.au/contact",
+      "bytes": 77588
+    },
+    {
+      "page": "https://www.anglerschoice.com.au/day-tour",
+      "status": 200,
+      "final_url": "https://www.anglerschoice.com.au/day-tour",
+      "bytes": 89902
+    },
+    {
+      "page": "https://www.anglerschoice.com.au/the-fishing",
+      "status": 200,
+      "final_url": "https://www.anglerschoice.com.au/the-fishing",
+      "bytes": 86317
+    },
+    {
+      "page": "https://www.anglerschoice.com.au/boats",
+      "status": 200,
+      "final_url": "https://www.anglerschoice.com.au/boats",
+      "bytes": 83523
+    },
+    {
+      "image": "https://www.anglerschoice.com.au/",
+      "error": "Input buffer contains unsupported image format"
+    },
+    {
+      "image": "https://www.anglerschoice.com.au/uploads/fUVFrOCs/320x0_320x0/Anglers_Choice2-2.png",
+      "error": "too small 320x82"
+    },
+    {
+      "image": "https://www.anglerschoice.com.au/uploads/9k3jiDzB/600x0_480x0/nt-fishing.jpg",
+      "error": "too small 480x320"
+    },
+    {
+      "image": "https://www.anglerschoice.com.au/uploads/zrDjkt8R/768x0_480x0/IMG_E7474.jpg",
+      "error": "too small 480x360"
+    },
+    {
+      "image": "https://www.anglerschoice.com.au/uploads/pF2AdU3A/720x0_480x0/Fact-Sheet-Barra-Couple-2.jpg",
+      "error": "too small 480x480"
+    },
+    {
+      "image": "https://www.anglerschoice.com.au/uploads/l9DDHd8O/720x0_480x0/Big-RED-emporer-fish-with-Girl-1.jpg",
+      "error": "too small 480x480"
+    },
+    {
+      "image": "https://www.anglerschoice.com.au/uploads/o1lDJ75C/720x0_480x0/IMG-1517.jpg",
+      "error": "too small 480x480"
+    },
+    {
+      "image": "https://www.anglerschoice.com.au/uploads/fUVFrOCs/480x0_480x0/Anglers_Choice2-2.png",
+      "error": "too small 480x124"
+    },
+    {
+      "dup": "https://www.anglerschoice.com.au/uploads/oUX6dTK2/727x0_674x0/BeachHouseViewLookingBack.jpg"
+    },
+    {
+      "image": "https://www.anglerschoice.com.au/uploads/fUVFrOCs/Anglers_Choice2-2.png",
+      "error": "too small 1195x308"
+    },
+    {
+      "image": "https://www.anglerschoice.com.au/uploads/6ngnjwlU/727x0_640x0/Capture.JPG",
+      "error": "too small 536x466"
+    },
+    {
+      "image": "https://www.anglerschoice.com.au/uploads/6ngnjwlU/732x0_640x0/Capture.JPG",
+      "error": "too small 536x466"
+    },
+    {
+      "image": "https://www.anglerschoice.com.au/uploads/8jVrfTQu/727x0_640x0/Product-5__msi___jpg.webp",
+      "error": "too small 640x329"
+    },
+    {
+      "image": "https://www.anglerschoice.com.au/uploads/BYcPq4jf/IMG_2008__msi___jpg.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "dup": "https://www.anglerschoice.com.au/uploads/yz9FSLWi/Parallax.jpg"
+    },
+    {
+      "image": "https://www.anglerschoice.com.au/uploads/L3JjC43D/Photo-1-Custom-Work-Boat.jpg",
+      "error": "too small 372x220"
+    },
+    {
+      "image": "https://www.anglerschoice.com.au/uploads/kv5VcQoR/fishing-3.png",
+      "error": "too small 370x220"
+    },
+    {
+      "image": "https://www.anglerschoice.com.au/uploads/9tm2GtUA/Boat-pic-3-on-right-Custom-Work-Boat_.jpg",
+      "error": "too small 372x220"
+    },
+    {
+      "image": "https://www.anglerschoice.com.au/uploads/J8apEMLm/IMG_2315_462__msi___jpeg.jpeg",
+      "error": "HTTP 404"
+    }
+  ]
+}
