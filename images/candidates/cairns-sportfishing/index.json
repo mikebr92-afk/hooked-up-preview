@@ -1,17 +1,251 @@
 {
   "slug": "cairns-sportfishing",
-  "request_hash": "ba357a023fd2",
-  "collected_at": "2026-10-29T03:07:14.305Z",
+  "request_hash": "21f114a8cc8c",
+  "collected_at": "2026-10-29T03:09:43.806Z",
   "pages_fetched": [
-    "https://fishingbooker.com/charters/view/36475"
+    "https://www.cairnssportfishing.com.au/",
+    "https://www.cairnssportfishing.com.au/cairns-fishing-charter-reviews.html",
+    "https://fishingbooker.com/sr/charters/view/36475",
+    "https://www.cairnssportfishing.com.au/index.html",
+    "https://www.cairnssportfishing.com.au/cairns-reef-experiences.html",
+    "https://www.cairnssportfishing.com.au/what-to-expect.html",
+    "https://www.cairnssportfishing.com.au/cairns-fishing-charter-faq.html",
+    "https://www.cairnssportfishing.com.au/cairns-fishing-gallery.html"
   ],
-  "candidates": [],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 750,
+      "height": 500,
+      "original": "750x500",
+      "source": "https://www.cairnssportfishing.com.au/images/1.jpg",
+      "page": "https://www.cairnssportfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 750,
+      "height": 500,
+      "original": "750x500",
+      "source": "https://www.cairnssportfishing.com.au/images/2.jpg",
+      "page": "https://www.cairnssportfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 750,
+      "height": 500,
+      "original": "750x500",
+      "source": "https://www.cairnssportfishing.com.au/images/3.jpg",
+      "page": "https://www.cairnssportfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 750,
+      "height": 500,
+      "original": "750x500",
+      "source": "https://www.cairnssportfishing.com.au/images/4.jpg",
+      "page": "https://www.cairnssportfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 750,
+      "height": 500,
+      "original": "750x500",
+      "source": "https://www.cairnssportfishing.com.au/images/5.jpg",
+      "page": "https://www.cairnssportfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1100,
+      "height": 950,
+      "original": "1100x950",
+      "source": "https://www.cairnssportfishing.com.au/images/leadin-clip-img1.jpg",
+      "page": "https://www.cairnssportfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1100,
+      "height": 950,
+      "original": "1100x950",
+      "source": "https://www.cairnssportfishing.com.au/images/leadin-clip-img2.jpg",
+      "page": "https://www.cairnssportfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1100,
+      "height": 950,
+      "original": "1100x950",
+      "source": "https://www.cairnssportfishing.com.au/images/leadin-clip-img3.jpg",
+      "page": "https://www.cairnssportfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1100,
+      "height": 950,
+      "original": "1100x950",
+      "source": "https://www.cairnssportfishing.com.au/images/leadin-clip-img4.jpg",
+      "page": "https://www.cairnssportfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 750,
+      "height": 500,
+      "original": "750x500",
+      "source": "https://www.cairnssportfishing.com.au/images/21.jpg",
+      "page": "https://www.cairnssportfishing.com.au/cairns-fishing-charter-reviews.html",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 750,
+      "height": 500,
+      "original": "750x500",
+      "source": "https://www.cairnssportfishing.com.au/images/22.jpg",
+      "page": "https://www.cairnssportfishing.com.au/cairns-fishing-charter-reviews.html",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 750,
+      "height": 500,
+      "original": "750x500",
+      "source": "https://www.cairnssportfishing.com.au/images/23.jpg",
+      "page": "https://www.cairnssportfishing.com.au/cairns-fishing-charter-reviews.html",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 750,
+      "height": 500,
+      "original": "750x500",
+      "source": "https://www.cairnssportfishing.com.au/images/24.jpg",
+      "page": "https://www.cairnssportfishing.com.au/cairns-fishing-charter-reviews.html",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 750,
+      "height": 500,
+      "original": "750x500",
+      "source": "https://www.cairnssportfishing.com.au/images/25.jpg",
+      "page": "https://www.cairnssportfishing.com.au/cairns-fishing-charter-reviews.html",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 750,
+      "height": 500,
+      "original": "750x500",
+      "source": "https://www.cairnssportfishing.com.au/images/6.jpg",
+      "page": "https://www.cairnssportfishing.com.au/cairns-reef-experiences.html",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 750,
+      "height": 500,
+      "original": "750x500",
+      "source": "https://www.cairnssportfishing.com.au/images/7.jpg",
+      "page": "https://www.cairnssportfishing.com.au/cairns-reef-experiences.html",
+      "priority": false
+    }
+  ],
   "log": [
     {
-      "page": "https://fishingbooker.com/charters/view/36475",
+      "page": "https://www.cairnssportfishing.com.au/",
+      "status": 200,
+      "final_url": "https://www.cairnssportfishing.com.au/",
+      "bytes": 13225
+    },
+    {
+      "page": "https://www.cairnssportfishing.com.au/cairns-fishing-charter-reviews.html",
+      "status": 200,
+      "final_url": "https://www.cairnssportfishing.com.au/cairns-fishing-charter-reviews.html",
+      "bytes": 15187
+    },
+    {
+      "page": "https://fishingbooker.com/sr/charters/view/36475",
       "status": 403,
-      "final_url": "https://fishingbooker.com/charters/view/36475",
-      "bytes": 5838
+      "final_url": "https://fishingbooker.com/sr/charters/view/36475",
+      "bytes": 5847
+    },
+    {
+      "page": "https://www.cairnssportfishing.com.au/index.html",
+      "status": 200,
+      "final_url": "https://www.cairnssportfishing.com.au/index.html",
+      "bytes": 13225
+    },
+    {
+      "page": "https://www.cairnssportfishing.com.au/cairns-reef-experiences.html",
+      "status": 200,
+      "final_url": "https://www.cairnssportfishing.com.au/cairns-reef-experiences.html",
+      "bytes": 15580
+    },
+    {
+      "page": "https://www.cairnssportfishing.com.au/what-to-expect.html",
+      "status": 200,
+      "final_url": "https://www.cairnssportfishing.com.au/what-to-expect.html",
+      "bytes": 13967
+    },
+    {
+      "page": "https://www.cairnssportfishing.com.au/cairns-fishing-charter-faq.html",
+      "status": 200,
+      "final_url": "https://www.cairnssportfishing.com.au/cairns-fishing-charter-faq.html",
+      "bytes": 16301
+    },
+    {
+      "page": "https://www.cairnssportfishing.com.au/cairns-fishing-gallery.html",
+      "status": 200,
+      "final_url": "https://www.cairnssportfishing.com.au/cairns-fishing-gallery.html",
+      "bytes": 17698
+    },
+    {
+      "image": "https://www.cairnssportfishing.com.au/images/cta.png",
+      "error": "too small 1500x351"
+    },
+    {
+      "image": "https://www.cairnssportfishing.com.au/data1/images/1.jpg",
+      "error": "banner/strip 3840x1000"
+    },
+    {
+      "image": "https://www.cairnssportfishing.com.au/data1/images/2.jpg",
+      "error": "banner/strip 3840x1000"
+    },
+    {
+      "image": "https://www.cairnssportfishing.com.au/data1/images/3.jpg",
+      "error": "banner/strip 3840x1000"
+    },
+    {
+      "image": "https://www.cairnssportfishing.com.au/data1/images/4.jpg",
+      "error": "banner/strip 3840x1000"
+    },
+    {
+      "image": "https://www.cairnssportfishing.com.au/data1/images/5.jpg",
+      "error": "banner/strip 3840x1000"
+    },
+    {
+      "image": "https://www.cairnssportfishing.com.au/images/hero1.png",
+      "error": "banner/strip 3840x760"
+    },
+    {
+      "image": "https://www.cairnssportfishing.com.au/images/hero2.png",
+      "error": "banner/strip 2560x760"
+    },
+    {
+      "image": "https://www.cairnssportfishing.com.au/images/face.jpg",
+      "error": "too small 600x222"
+    },
+    {
+      "image": "https://www.cairnssportfishing.com.au/images/allcorp.png",
+      "error": "too small 502x415"
     }
   ]
 }

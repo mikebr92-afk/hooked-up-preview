@@ -1,24 +1,267 @@
 {
   "slug": "fnq-fishing-adventures-cairns",
-  "request_hash": "97ac281c260c",
-  "collected_at": "2026-10-29T03:07:06.351Z",
+  "request_hash": "b5cc1edfd5d1",
+  "collected_at": "2026-10-29T03:09:30.619Z",
   "pages_fetched": [
-    "https://www.cairnsfishingcharters.com/",
-    "https://fishingbooker.com/charters/view/38612"
+    "https://cairnsfishingcharters.com/",
+    "http://www.cairnsfishingcharters.com/",
+    "https://www.cairnsfishingcharters.com/gallery",
+    "https://www.cairnsfishingcharters.com/charters",
+    "https://www.fnqfishingadventures.com/",
+    "https://www.fnqfishingadventures.com.au/",
+    "https://www.fnqfishingadventures.com.au/cart",
+    "https://www.fnqfishingadventures.com.au/charters"
   ],
-  "candidates": [],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2500x3333",
+      "source": "https://images.squarespace-cdn.com/content/v1/67419e783be7ca0e76d00ce2/79ab0018-aeea-400d-b9d8-00ed54f45ee6/tempImagewExNtq.png?format=2500w",
+      "page": "https://www.fnqfishingadventures.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2500x3333",
+      "source": "https://images.squarespace-cdn.com/content/v1/67419e783be7ca0e76d00ce2/194b781c-75fd-4211-8d7f-390f45a59520/tempImage0t64Ks.jpg?format=2500w",
+      "page": "https://www.fnqfishingadventures.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 2000,
+      "height": 1642,
+      "original": "2045x1679",
+      "source": "https://images.squarespace-cdn.com/content/v1/67419e783be7ca0e76d00ce2/0cd90490-907a-40c0-9fec-78d4ce972070/tempImagec9Z0s9.jpg?format=2500w",
+      "page": "https://www.fnqfishingadventures.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2500x3333",
+      "source": "https://images.squarespace-cdn.com/content/v1/67419e783be7ca0e76d00ce2/230d65e3-cd90-4dcf-9b25-7d0eee290e40/tempImagehlP9oi.jpg?format=2500w",
+      "page": "https://www.fnqfishingadventures.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1536x2048",
+      "source": "https://images.squarespace-cdn.com/content/v1/67419e783be7ca0e76d00ce2/bebd7c08-5a5b-496f-bb03-7d7344490d9b/image000000.JPG?format=2500w",
+      "page": "https://www.fnqfishingadventures.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2500x3333",
+      "source": "https://images.squarespace-cdn.com/content/v1/67419e783be7ca0e76d00ce2/6907acf2-0701-49b0-8a42-8d213fe1a6c8/tempImage9D55HG.png?format=2500w",
+      "page": "https://www.fnqfishingadventures.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1821,
+      "height": 2000,
+      "original": "2500x2746",
+      "source": "https://images.squarespace-cdn.com/content/v1/67419e783be7ca0e76d00ce2/4c9f3a83-391c-4c04-99e6-86640e841a10/tempImagegzWqVe.png?format=2500w",
+      "page": "https://www.fnqfishingadventures.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2500x1875",
+      "source": "https://images.squarespace-cdn.com/content/v1/67419e783be7ca0e76d00ce2/1595e54b-5a7f-4891-9629-75d95d92bf9b/tempImagetXLHhI.png?format=2500w",
+      "page": "https://www.fnqfishingadventures.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 2000,
+      "height": 1426,
+      "original": "2500x1783",
+      "source": "https://images.squarespace-cdn.com/content/v1/67419e783be7ca0e76d00ce2/402e5acf-d55f-4b7d-bd12-94d16fc8716d/tempImageQQoH3f.png?format=2500w",
+      "page": "https://www.fnqfishingadventures.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2500x3333",
+      "source": "https://images.squarespace-cdn.com/content/v1/67419e783be7ca0e76d00ce2/4506732b-3686-47fd-8cd9-db057270bf7c/tempImageKRpkzr.png?format=2500w",
+      "page": "https://www.fnqfishingadventures.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2500x1875",
+      "source": "https://images.squarespace-cdn.com/content/v1/67419e783be7ca0e76d00ce2/03e61122-37cb-4111-b7e2-636a3e73da29/tempImagejNOqdc.png?format=2500w",
+      "page": "https://www.fnqfishingadventures.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1200,
+      "height": 1600,
+      "original": "1200x1600",
+      "source": "https://images.squarespace-cdn.com/content/v1/67419e783be7ca0e76d00ce2/4d382662-549c-427c-9420-cc25ad4abe16/6749ad5f-3959-445b-94be-7d14294b4b59.JPG?format=2500w",
+      "page": "https://www.fnqfishingadventures.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2500x1875",
+      "source": "https://images.squarespace-cdn.com/content/v1/67419e783be7ca0e76d00ce2/8f16ea32-de51-4d13-b735-de5ccc23514b/tempImagevI7RSI.png?format=2500w",
+      "page": "https://www.fnqfishingadventures.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2500x1875",
+      "source": "https://images.squarespace-cdn.com/content/v1/67419e783be7ca0e76d00ce2/a78ce3ca-4ca8-4fdc-8f64-3e29c7c40241/tempImagextX4CE.png?format=2500w",
+      "page": "https://www.fnqfishingadventures.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2500x1875",
+      "source": "https://images.squarespace-cdn.com/content/v1/67419e783be7ca0e76d00ce2/7ef0c0fc-83bb-42eb-ad9f-a5fab0996332/tempImage7TekuJ.png?format=2500w",
+      "page": "https://www.fnqfishingadventures.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2500x3333",
+      "source": "https://images.squarespace-cdn.com/content/v1/67419e783be7ca0e76d00ce2/bc7b1592-ab58-4b56-ac6c-f3c0640aacdb/tempImagecR138u.jpg?format=2500w",
+      "page": "https://www.fnqfishingadventures.com.au/",
+      "priority": false
+    }
+  ],
   "log": [
     {
-      "page": "https://www.cairnsfishingcharters.com/",
+      "page": "https://cairnsfishingcharters.com/",
       "status": 401,
       "final_url": "https://www.cairnsfishingcharters.com/",
       "bytes": 3080
     },
     {
-      "page": "https://fishingbooker.com/charters/view/38612",
-      "status": 403,
-      "final_url": "https://fishingbooker.com/charters/view/38612",
-      "bytes": 5838
+      "page": "http://www.cairnsfishingcharters.com/",
+      "status": 401,
+      "final_url": "https://www.cairnsfishingcharters.com/",
+      "bytes": 3080
+    },
+    {
+      "page": "https://www.cairnsfishingcharters.com/gallery",
+      "status": 401,
+      "final_url": "https://www.cairnsfishingcharters.com/gallery",
+      "bytes": 3080
+    },
+    {
+      "page": "https://www.cairnsfishingcharters.com/charters",
+      "status": 401,
+      "final_url": "https://www.cairnsfishingcharters.com/charters",
+      "bytes": 3080
+    },
+    {
+      "page": "https://www.fnqfishingadventures.com/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://www.fnqfishingadventures.com.au/",
+      "status": 200,
+      "final_url": "https://www.fnqfishingadventures.com.au/",
+      "bytes": 542772
+    },
+    {
+      "page": "https://www.fnqfishingadventures.com.au/cart",
+      "status": 200,
+      "final_url": "https://www.fnqfishingadventures.com.au/cart",
+      "bytes": 462294
+    },
+    {
+      "page": "https://www.fnqfishingadventures.com.au/charters",
+      "status": 200,
+      "final_url": "https://www.fnqfishingadventures.com.au/charters",
+      "bytes": 343844
+    },
+    {
+      "image": "http://static1.squarespace.com/static/67419e783be7ca0e76d00ce2/t/674676a276ab594ee0cb581d/1732671138290/1.jpg?format=1500w",
+      "error": "too small 429x215"
+    },
+    {
+      "image": "https://static1.squarespace.com/static/67419e783be7ca0e76d00ce2/t/674676a276ab594ee0cb581d/1791267333499/",
+      "error": "too small 429x215"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/67419e783be7ca0e76d00ce2/74c176df-b589-4508-971e-e80136842f27/1.jpg?format=2500w",
+      "error": "too small 429x215"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/67419e783be7ca0e76d00ce2/74c176df-b589-4508-971e-e80136842f27/1.jpg?format=1500w",
+      "error": "too small 429x215"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67419e783be7ca0e76d00ce2/79ab0018-aeea-400d-b9d8-00ed54f45ee6/tempImagewExNtq.png"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67419e783be7ca0e76d00ce2/194b781c-75fd-4211-8d7f-390f45a59520/tempImage0t64Ks.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67419e783be7ca0e76d00ce2/0cd90490-907a-40c0-9fec-78d4ce972070/tempImagec9Z0s9.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67419e783be7ca0e76d00ce2/230d65e3-cd90-4dcf-9b25-7d0eee290e40/tempImagehlP9oi.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67419e783be7ca0e76d00ce2/bebd7c08-5a5b-496f-bb03-7d7344490d9b/image000000.JPG"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67419e783be7ca0e76d00ce2/6907acf2-0701-49b0-8a42-8d213fe1a6c8/tempImage9D55HG.png"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67419e783be7ca0e76d00ce2/4c9f3a83-391c-4c04-99e6-86640e841a10/tempImagegzWqVe.png"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67419e783be7ca0e76d00ce2/1595e54b-5a7f-4891-9629-75d95d92bf9b/tempImagetXLHhI.png"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67419e783be7ca0e76d00ce2/402e5acf-d55f-4b7d-bd12-94d16fc8716d/tempImageQQoH3f.png"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67419e783be7ca0e76d00ce2/4506732b-3686-47fd-8cd9-db057270bf7c/tempImageKRpkzr.png"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67419e783be7ca0e76d00ce2/03e61122-37cb-4111-b7e2-636a3e73da29/tempImagejNOqdc.png"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67419e783be7ca0e76d00ce2/4d382662-549c-427c-9420-cc25ad4abe16/6749ad5f-3959-445b-94be-7d14294b4b59.JPG"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67419e783be7ca0e76d00ce2/8f16ea32-de51-4d13-b735-de5ccc23514b/tempImagevI7RSI.png"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67419e783be7ca0e76d00ce2/a78ce3ca-4ca8-4fdc-8f64-3e29c7c40241/tempImagextX4CE.png"
     }
   ]
 }

@@ -1,12 +1,13 @@
 {
   "slug": "fish-tales-charters-cairns",
-  "request_hash": "aba663e46221",
-  "collected_at": "2026-10-29T03:07:14.253Z",
+  "request_hash": "a42d1c3f866f",
+  "collected_at": "2026-10-29T03:09:33.103Z",
   "pages_fetched": [
-    "https://www.queensland.com/au/en/things-to-do/tours/p-5f3a1403d7250b7a09ff4db6-fish-tales-charters-cairns-fishing",
-    "https://tropicalnorthqueensland.org.au/listing/product/fish-tales-charters-cairns-fishing/",
-    "https://www.australia.com/en/atdw/product.5f3a1403d7250b7a09ff4db6.html",
-    "https://fishingbooker.com/charters/view/2845"
+    "https://www.fishtalescharters.com.au/",
+    "https://fishtalescharters.com.au/",
+    "https://www.localsearch.com.au/profile/fish-tales-charters/cairns-qld-4870/Mi4R",
+    "https://www.queensland.com/sg/en/things-to-do/tours/p-5f3a1403d7250b7a09ff4db6-fish-tales-charters-cairns-fishing",
+    "https://tropicalnorthqueensland.org.au/?p=50737"
   ],
   "candidates": [
     {
@@ -15,175 +16,36 @@
       "height": 1500,
       "original": "2048x1536",
       "source": "https://assets.atdw-online.com.au/images/df8b3fc2827b392d21745b504b1d62a8.jpeg?rect=0%2C0%2C3072%2C2304&w=2048&h=1536&rot=360&q=eyJ0eXBlIjoibGlzdGluZyIsImxpc3RpbmdJZCI6IjVmM2ExNDAzZDcyNTBiN2EwOWZmNGRiNiIsImRpc3RyaWJ1dG9ySWQiOiI1NmIxZWI5MzQ0ZmVjYTNkZjJlMzIwY2IiLCJhcGlrZXlJZCI6IjU2YjFlZmVlMGNmMjEzYWQyMGRkMjE3MCJ9",
-      "page": "https://www.queensland.com/au/en/things-to-do/tours/p-5f3a1403d7250b7a09ff4db6-fish-tales-charters-cairns-fishing",
+      "page": "https://www.queensland.com/sg/en/things-to-do/tours/p-5f3a1403d7250b7a09ff4db6-fish-tales-charters-cairns-fishing",
       "priority": true
-    },
-    {
-      "file": "c02.webp",
-      "width": 800,
-      "height": 533,
-      "original": "800x533",
-      "source": "https://www.australia.com/content/australia/en/travel-inspiration/australia-travel-stories/jcr:content/image.adapt.800.HIGH.jpg",
-      "page": "https://www.australia.com/en/atdw/product.5f3a1403d7250b7a09ff4db6.html",
-      "priority": false
-    },
-    {
-      "file": "c03.webp",
-      "width": 800,
-      "height": 533,
-      "original": "800x533",
-      "source": "https://www.australia.com/content/australia/en/travel-inspiration/jcr:content/image.adapt.800.HIGH.jpg",
-      "page": "https://www.australia.com/en/atdw/product.5f3a1403d7250b7a09ff4db6.html",
-      "priority": false
-    },
-    {
-      "file": "c04.webp",
-      "width": 800,
-      "height": 533,
-      "original": "800x533",
-      "source": "https://www.australia.com/content/australia/en/discover-your-australia/jcr:content/image.adapt.800.HIGH.jpg",
-      "page": "https://www.australia.com/en/atdw/product.5f3a1403d7250b7a09ff4db6.html",
-      "priority": false
-    },
-    {
-      "file": "c05.webp",
-      "width": 800,
-      "height": 533,
-      "original": "800x533",
-      "source": "https://www.australia.com/content/australia/en/travel-inspiration/australia-travel-videos/jcr:content/image.adapt.800.HIGH.jpg",
-      "page": "https://www.australia.com/en/atdw/product.5f3a1403d7250b7a09ff4db6.html",
-      "priority": false
-    },
-    {
-      "file": "c06.webp",
-      "width": 800,
-      "height": 533,
-      "original": "800x533",
-      "source": "https://www.australia.com/content/australia/en/deals-and-travel-packages/jcr:content/image.adapt.800.HIGH.jpg",
-      "page": "https://www.australia.com/en/atdw/product.5f3a1403d7250b7a09ff4db6.html",
-      "priority": false
-    },
-    {
-      "file": "c07.webp",
-      "width": 800,
-      "height": 533,
-      "original": "800x533",
-      "source": "https://www.australia.com/content/australia/en/places/sydney-and-surrounds/guide-to-sydney/jcr:content/image.adapt.800.HIGH.jpg",
-      "page": "https://www.australia.com/en/atdw/product.5f3a1403d7250b7a09ff4db6.html",
-      "priority": false
-    },
-    {
-      "file": "c08.webp",
-      "width": 800,
-      "height": 533,
-      "original": "800x533",
-      "source": "https://www.australia.com/content/australia/en/places/melbourne-and-surrounds/guide-to-melbourne/jcr:content/image.adapt.800.HIGH.jpg",
-      "page": "https://www.australia.com/en/atdw/product.5f3a1403d7250b7a09ff4db6.html",
-      "priority": false
-    },
-    {
-      "file": "c09.webp",
-      "width": 800,
-      "height": 533,
-      "original": "800x533",
-      "source": "https://www.australia.com/content/australia/en/places/brisbane-and-surrounds/guide-to-brisbane/jcr:content/image.adapt.800.HIGH.jpg",
-      "page": "https://www.australia.com/en/atdw/product.5f3a1403d7250b7a09ff4db6.html",
-      "priority": false
-    },
-    {
-      "file": "c10.webp",
-      "width": 800,
-      "height": 533,
-      "original": "800x533",
-      "source": "https://www.australia.com/content/australia/en/places/adelaide-and-surrounds/guide-to-adelaide/jcr:content/image.adapt.800.HIGH.jpg",
-      "page": "https://www.australia.com/en/atdw/product.5f3a1403d7250b7a09ff4db6.html",
-      "priority": false
-    },
-    {
-      "file": "c11.webp",
-      "width": 800,
-      "height": 533,
-      "original": "800x533",
-      "source": "https://www.australia.com/content/australia/en/places/cairns-and-surrounds/guide-to-cairns/jcr:content/image.adapt.800.HIGH.jpg",
-      "page": "https://www.australia.com/en/atdw/product.5f3a1403d7250b7a09ff4db6.html",
-      "priority": false
-    },
-    {
-      "file": "c12.webp",
-      "width": 800,
-      "height": 532,
-      "original": "800x532",
-      "source": "https://www.australia.com/content/australia/en/places/darwin-and-surrounds/guide-to-darwin/jcr:content/image.adapt.800.HIGH.jpg",
-      "page": "https://www.australia.com/en/atdw/product.5f3a1403d7250b7a09ff4db6.html",
-      "priority": false
-    },
-    {
-      "file": "c13.webp",
-      "width": 800,
-      "height": 533,
-      "original": "800x533",
-      "source": "https://www.australia.com/content/australia/en/places/hobart-and-surrounds/guide-to-hobart/jcr:content/image.adapt.800.HIGH.jpg",
-      "page": "https://www.australia.com/en/atdw/product.5f3a1403d7250b7a09ff4db6.html",
-      "priority": false
-    },
-    {
-      "file": "c14.webp",
-      "width": 800,
-      "height": 533,
-      "original": "800x533",
-      "source": "https://www.australia.com/content/australia/en/places/canberra-and-surrounds/guide-to-canberra/jcr:content/image.adapt.800.HIGH.jpg",
-      "page": "https://www.australia.com/en/atdw/product.5f3a1403d7250b7a09ff4db6.html",
-      "priority": false
-    },
-    {
-      "file": "c15.webp",
-      "width": 800,
-      "height": 533,
-      "original": "800x533",
-      "source": "https://www.australia.com/content/australia/en/places/australian-capital-territory/jcr:content/image.adapt.800.HIGH.jpg",
-      "page": "https://www.australia.com/en/atdw/product.5f3a1403d7250b7a09ff4db6.html",
-      "priority": false
-    },
-    {
-      "file": "c16.webp",
-      "width": 800,
-      "height": 533,
-      "original": "800x533",
-      "source": "https://www.australia.com/content/australia/en/places/new-south-wales/jcr:content/image.adapt.800.HIGH.jpg",
-      "page": "https://www.australia.com/en/atdw/product.5f3a1403d7250b7a09ff4db6.html",
-      "priority": false
     }
   ],
   "log": [
     {
-      "page": "https://www.queensland.com/au/en/things-to-do/tours/p-5f3a1403d7250b7a09ff4db6-fish-tales-charters-cairns-fishing",
+      "page": "https://www.fishtalescharters.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://fishtalescharters.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://www.localsearch.com.au/profile/fish-tales-charters/cairns-qld-4870/Mi4R",
+      "status": 405,
+      "final_url": "https://www.localsearch.com.au/profile/fish-tales-charters/cairns-qld-4870/Mi4R",
+      "bytes": 2503
+    },
+    {
+      "page": "https://www.queensland.com/sg/en/things-to-do/tours/p-5f3a1403d7250b7a09ff4db6-fish-tales-charters-cairns-fishing",
       "status": 200,
-      "final_url": "https://www.queensland.com/au/en/things-to-do/tours/p-5f3a1403d7250b7a09ff4db6-fish-tales-charters-cairns-fishing",
+      "final_url": "https://www.queensland.com/sg/en/things-to-do/tours/p-5f3a1403d7250b7a09ff4db6-fish-tales-charters-cairns-fishing",
       "bytes": 18008
     },
     {
-      "page": "https://tropicalnorthqueensland.org.au/listing/product/fish-tales-charters-cairns-fishing/",
+      "page": "https://tropicalnorthqueensland.org.au/?p=50737",
       "status": 403,
-      "final_url": "https://tropicalnorthqueensland.org.au/listing/product/fish-tales-charters-cairns-fishing/",
-      "bytes": 6010
-    },
-    {
-      "page": "https://www.australia.com/en/atdw/product.5f3a1403d7250b7a09ff4db6.html",
-      "status": 200,
-      "final_url": "https://www.australia.com/en/atdw/product.5f3a1403d7250b7a09ff4db6.html",
-      "bytes": 284307
-    },
-    {
-      "page": "https://fishingbooker.com/charters/view/2845",
-      "status": 403,
-      "final_url": "https://fishingbooker.com/charters/view/2845",
-      "bytes": 5835
-    },
-    {
-      "dup": "https://www.australia.com/content/australia/en/places/perth-and-surrounds/guide-to-perth/jcr:content/image.adapt.800.HIGH.jpg"
-    },
-    {
-      "dup": "https://www.australia.com/content/australia/en/places/gold-coast-and-surrounds/guide-to-the-gold-coast/jcr:content/image.adapt.800.HIGH.jpg"
+      "final_url": "https://tropicalnorthqueensland.org.au/?p=50737",
+      "bytes": 5854
     }
   ]
 }
