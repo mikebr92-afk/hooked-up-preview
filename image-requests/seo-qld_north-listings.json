@@ -1,0 +1,399 @@
+{
+ "requests": [
+  {
+   "slug": "cairns-reef-fishing",
+   "pages": [
+    "https://www.cairnsreeffishing.com.au/",
+    "https://www.cairnsreeffishing.com.au/shared-charters/",
+    "https://www.cairnsreeffishing.com.au/private-charters/",
+    "https://www.cairnsreeffishing.com.au/boats/",
+    "https://www.cairnsreeffishing.com.au/faqs/",
+    "https://www.cairnsreeffishing.com.au/contact/",
+    "https://www.cairnsreeffishing.com.au/crew/",
+    "https://www.facebook.com/CairnsReefFishing"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "cairns-sportfishing",
+   "pages": [
+    "https://www.cairnssportfishing.com.au/",
+    "https://www.cairnssportfishing.com.au/cairns-reef-experiences.html",
+    "https://www.cairnssportfishing.com.au/what-to-expect.html",
+    "https://www.cairnssportfishing.com.au/cairns-fishing-charter-faq.html",
+    "https://www.cairnssportfishing.com.au/cairns-fishing-charter-reviews.html",
+    "https://www.facebook.com/profile.php?id=61556546194621"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "fish-tales-charters-cairns",
+   "pages": [
+    "https://fishtales.com.au/",
+    "https://fishtales.com.au/about-us/",
+    "https://fishtales.com.au/cairns-estuary-fishing/",
+    "https://fishtales.com.au/cairns-river-fishing/",
+    "https://fishtales.com.au/cairns-reef-fishing/",
+    "https://fishtales.com.au/cairns-private-fishing-charters/",
+    "https://www.australia.com/en/atdw/product.5f3a1403d7250b7a09ff4db6.html",
+    "https://www.facebook.com/fishtalescairns"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "fnq-fishing-adventures-cairns",
+   "pages": [
+    "https://www.fnqfishingadventures.com.au/",
+    "https://www.fnqfishingadventures.com.au/about",
+    "https://www.fnqfishingadventures.com.au/charters",
+    "https://www.fnqfishingadventures.com.au/cairns",
+    "https://www.fnqfishingadventures.com.au/full-day-reef-fishing",
+    "https://www.fnqfishingadventures.com.au/topwater-gts",
+    "https://www.fnqfishingadventures.com.au/light-tackle-billfish",
+    "https://www.fnqfishingadventures.com.au/full-day-river-charter",
+    "https://www.fnqfishingadventures.com.au/contact",
+    "https://www.facebook.com/profile.php?id=61584050493428"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "tropic-barra-adventures-cairns",
+   "pages": [
+    "https://www.tropicbarraadventures.com.au/",
+    "https://www.tropicbarraadventures.com.au/about",
+    "https://www.tropicbarraadventures.com.au/charters",
+    "https://www.tropicbarraadventures.com.au/full-day-river-charter",
+    "https://www.tropicbarraadventures.com.au/tinaroo-giant-barramundi",
+    "https://www.tropicbarraadventures.com.au/saratoga-fishing",
+    "https://www.tropicbarraadventures.com.au/locations/fishing-charters-cairns",
+    "https://www.tropicbarraadventures.com.au/great-barrier-reef-trips",
+    "https://www.facebook.com/TropicBarraAdventures"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "tropical-sportfisher-cairns",
+   "pages": [
+    "https://www.tropicalsportfisher.com/",
+    "https://www.tropicalsportfisher.com/contact-us/",
+    "https://www.tropicalsportfisher.com/river-and-estuary-day-trips/",
+    "https://www.tropicalsportfisher.com/inshore-bluewater-day-trips/",
+    "https://www.tropicalsportfisher.com/fly-fishing-day-trips/",
+    "https://www.tropicalsportfisher.com/multi-day-trips/cassowary-coast-multi-day-trip/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "daintree-river-fishing-david-patterson",
+   "pages": [
+    "https://daintreefishing.com.au/",
+    "https://tourismportdouglas.com.au/daintree-river-fishing-with-david-patterson",
+    "https://www.australia.com/en/atdw/product.56b260b3aeeeaaf773cf3a2b.html"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "sublime-sportfishing-adventures",
+   "pages": [
+    "https://www.sublimesportfishing.com.au/",
+    "https://www.sublimesportfishing.com.au/about-port-douglas-fishing.html",
+    "https://www.sublimesportfishing.com.au/daintree-river-coastal-fishing.html",
+    "https://www.sublimesportfishing.com.au/great-barrier-reef-sportfishing.html",
+    "https://www.facebook.com/SublimeSportfishingAdventures/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "ian-moody-sportfishing-charters",
+   "pages": [
+    "https://www.australia.com/en/atdw/product.6045f4108fc1e7796a9d63ac.html",
+    "https://www.queensland.com/au/en/things-to-do/tours/p-6045f4108fc1e7796a9d63ac-ian-moody-sportfishing-charters",
+    "https://ianmoodysportfishing.com/",
+    "https://fishingbooker.com/charters/view/16164",
+    "https://fishingbooker.com/profile/view/248409",
+    "https://www.facebook.com/Ian-Moody-Sportfishing-Charters-1906230329651429/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "carpentaria-barra-sport-fishing-charters",
+   "pages": [
+    "https://www.carpentariabarra.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "kerry-d-fishing-charters-karumba",
+   "pages": [
+    "https://kerrydfishing.com.au/",
+    "https://kerrydfishing.com.au/fishing-charters/",
+    "https://kerrydfishing.com.au/boats/",
+    "https://kerrydfishing.com.au/about/",
+    "https://kerrydfishing.com.au/frequently-asked-questions/",
+    "https://kerrydfishing.com.au/what-to-bring/",
+    "https://www.outbackqueensland.com.au/tours/kerry-d-charters/",
+    "https://www.facebook.com/kerrydfishing/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "crackajack-sportfishing-adventures",
+   "pages": [
+    "https://crackfish.com/",
+    "https://www.australia.com/en/atdw/product.640eaf483568d2ae140d96c8.html",
+    "https://www.facebook.com/CrackajackSportfishingAdventures/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "full-on-fishn-charters",
+   "pages": [
+    "https://fullonfishn.com.au/",
+    "https://fullonfishn.com.au/nathan-kemp-charter/",
+    "https://fullonfishn.com.au/charter-faq/",
+    "https://fullonfishn.com.au/packages/",
+    "https://fullonfishn.com.au/location/",
+    "https://fullonfishn.com.au/contact/",
+    "https://www.australia.com/en/atdw/product.68896625dbcf07dd134c4c57.html",
+    "https://www.facebook.com/hinchinbrookfullonfishn"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "cast-and-catch-fishing-charters",
+   "pages": [
+    "https://castandcatch.com.au/",
+    "https://www.hookedonmackay.com/book-a-charter",
+    "https://qld2032.com/tourism/operator/cast-and-catch-fishing-charters-ba4c6a/",
+    "https://www.facebook.com/CastandCatch-Charters-101913015866790/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "mackay-fly-sportfishing",
+   "pages": [
+    "https://www.mackaysportfishing.com.au/",
+    "https://www.mackaysportfishing.com.au/about",
+    "https://www.mackaysportfishing.com.au/our-fleet",
+    "https://www.mackaysportfishing.com.au/saltwater-fishing-packages",
+    "https://www.mackaysportfishing.com.au/freshwater-fishing-packages",
+    "https://www.mackaysportfishing.com.au/mackay-fishery",
+    "https://www.hookedonmackay.com/book-a-charter",
+    "https://www.facebook.com/mackayflyandsportfishing"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "akula-sportfishing-port-douglas",
+   "pages": [
+    "https://akulasportfishing.com.au/",
+    "https://akulasportfishing.com.au/about-akula-sportfishing/",
+    "https://akulasportfishing.com.au/experiences-charter-bookings/",
+    "https://akulasportfishing.com.au/reef-fishing-port-douglas/",
+    "https://akulasportfishing.com.au/extended-liveaboard-mothership-fishing-trips/",
+    "https://tourismportdouglas.com.au/akula-sportfishing-port-douglas",
+    "https://www.facebook.com/profile.php?id=100083101352438"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "norseman-reef-fishing-port-douglas",
+   "pages": [
+    "https://mvnorseman.com.au/",
+    "https://mvnorseman.com.au/norseman-reef-fishing-charters/",
+    "https://mvnorseman.com.au/norseman-sportfishing/",
+    "https://mvnorseman.com.au/private-norseman-reef-fishing-charters/",
+    "https://mvnorseman.com.au/our-boat/",
+    "https://mvnorseman.com.au/about-us/",
+    "https://mvnorseman.com.au/faq/",
+    "https://www.facebook.com/norsemanfishing/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "out-n-about-sportfishing-port-douglas",
+   "pages": [
+    "https://www.outnaboutfishing.com.au/",
+    "https://www.outnaboutfishing.com.au/private-half-day-charter/",
+    "https://www.outnaboutfishing.com.au/private-6-hour-charter-port-douglas/",
+    "https://www.outnaboutfishing.com.au/private-full-day-charter/",
+    "https://www.outnaboutfishing.com.au/shared-half-day-charter/",
+    "https://tourismportdouglas.com.au/out-n-about-sportfishing",
+    "https://www.facebook.com/OutnAboutSportfishing"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "audacity-charters-townsville",
+   "pages": [
+    "https://audacitymarine.com.au/",
+    "https://audacitymarine.com.au/fishing-charters/",
+    "https://audacitymarine.com.au/our-fleet/",
+    "https://audacitymarine.com.au/about-us/",
+    "https://audacitymarine.com.au/contact/",
+    "https://www.facebook.com/people/Audacity-Marine/100066604187392/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "magnetic-island-fishing-charters",
+   "pages": [
+    "https://www.magneticislandfishingcharters.com.au/",
+    "https://www.magneticislandfishingcharters.com.au/faq-1",
+    "https://www.magneticislandfishingcharters.com.au/contact",
+    "https://www.australia.com/en/atdw/product.616f4a148b6c65fa3189dad9.html",
+    "https://www.facebook.com/magneticislandfishingcharters"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "far-north-fishing-weipa",
+   "pages": [
+    "https://www.farnorthfishingweipa.com.au/",
+    "https://www.farnorthfishingweipa.com.au/charters",
+    "https://www.farnorthfishingweipa.com.au/charters/four-day",
+    "https://www.farnorthfishingweipa.com.au/charters/five-day",
+    "https://capeyorkweekly.com.au/fishing-tv-show-host-full-of-praise-for-weipa/450/",
+    "https://www.facebook.com/Far-North-Fishing-Weipa-1816966635239203/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "fishs-fly-sportfishing-weipa",
+   "pages": [
+    "https://www.weipaflyfish.com.au/",
+    "https://www.weipaflyfish.com.au/fishing-packages-in-weipa",
+    "https://www.weipaflyfish.com.au/the-fishing-in-weipa",
+    "https://www.weipaflyfish.com.au/fishing-faqs",
+    "https://www.weipaflyfish.com.au/weipa-fishing-charters",
+    "https://facebook.com/Fishs-Fly-Sportfishing-1439660872938331/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "airlie-beach-fishing-charters",
+   "pages": [
+    "https://airliebeachfishingcharters.com.au/",
+    "https://airliebeachfishingcharters.com.au/half-day-fishing-charter/",
+    "https://airliebeachfishingcharters.com.au/about/",
+    "https://airliebeachfishingcharters.com.au/contact/",
+    "https://www.facebook.com/abfishingcharters/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "razorfish-whitsundays-fishing-charters",
+   "pages": [
+    "https://www.razorfishcharters.com.au/",
+    "https://www.razorfishcharters.com.au/private-charters/",
+    "https://www.razorfishcharters.com.au/shared-charters/",
+    "https://www.razorfishcharters.com.au/faqs/",
+    "https://www.facebook.com/profile.php?id=100095231556522"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "topnotch-game-fishing-hamilton-island",
+   "pages": [
+    "https://www.topnotchgamefishing.com.au/",
+    "https://www.topnotchgamefishing.com.au/hamilton-island-fishing-charters/",
+    "https://www.topnotchgamefishing.com.au/the-pirate/",
+    "https://www.topnotchgamefishing.com.au/moonshine/",
+    "https://www.topnotchgamefishing.com.au/faq/",
+    "https://www.facebook.com/topnotchgamefishing/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "whitsunday-fishing-charters",
+   "pages": [
+    "https://www.whitsundayfishingcharters.com.au/",
+    "https://www.whitsundayfishingcharters.com.au/half-day-fishing",
+    "https://www.whitsundayfishingcharters.com.au/full-day-fishing",
+    "https://www.whitsundayfishingcharters.com.au/private-charters",
+    "https://www.whitsundayfishingcharters.com.au/terms-conditions",
+    "https://whitsundayfishingcharters42.rezdy.com/628461/ra-morning-half-day-charters",
+    "https://www.facebook.com/profile.php?id=100063569853090"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  }
+ ]
+}

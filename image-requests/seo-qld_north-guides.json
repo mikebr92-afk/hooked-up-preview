@@ -1,0 +1,135 @@
+{
+ "requests": [
+  {
+   "slug": "guide-cairns",
+   "pages": [
+    "https://www.bigfishdownunder.com/experiences/black-marlin-fishing-charters",
+    "https://www.bigfishdownunder.com/experiences/sport-amp-game-fishing",
+    "https://www.cairnsreeffishing.com.au/faqs/",
+    "https://fishtales.com.au/cairns-private-fishing-charters/",
+    "https://fishtales.com.au/cairns-river-fishing/",
+    "https://www.tropicalsportfisher.com/fly-fishing-day-trips/",
+    "https://www.fishingcairns.com.au/heavy-tackle-extended-charters/",
+    "https://www.cairnsreeffishing.com.au/shared-charters/",
+    "https://fishtales.com.au/cairns-estuary-fishing/",
+    "https://fishtales.com.au/cairns-reef-fishing/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false,
+   "force": true
+  },
+  {
+   "slug": "guide-whitsundays",
+   "pages": [
+    "https://www.topnotchgamefishing.com.au/whitsundays-sailfish-fishing-charters/",
+    "https://www.topnotchgamefishing.com.au/faq/",
+    "https://www.razorfishcharters.com.au/private-charters/",
+    "https://airliebeachfishingcharters.com.au/",
+    "https://www.whitsundayfishingcharters.com.au/half-day-fishing"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false,
+   "force": true
+  },
+  {
+   "slug": "guide-port-douglas",
+   "pages": [
+    "https://www.saltairecharters.com.au/fishing-charters/",
+    "https://mvnorseman.com.au/faq/",
+    "https://www.fishingcairns.com.au/heavy-tackle-extended-charters/",
+    "https://www.outnaboutfishing.com.au/private-full-day-charter/",
+    "https://akulasportfishing.com.au/reef-fishing-port-douglas/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false,
+   "force": true
+  },
+  {
+   "slug": "guide-mackay",
+   "pages": [
+    "https://www.hookedonmackay.com/seasonal-calendar",
+    "https://www.hookedonmackay.com/offshore",
+    "https://www.hookedonmackay.com/inshore",
+    "https://www.hookedonmackay.com/book-a-charter",
+    "https://www.mackaysportfishing.com.au/mackay-fishery"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false,
+   "force": true
+  },
+  {
+   "slug": "guide-townsville",
+   "pages": [
+    "https://audacitymarine.com.au/fishing-charters/",
+    "https://www.magneticislandfishingcharters.com.au/",
+    "https://conquestcharters.com.au/fishing-quests/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false,
+   "force": true
+  },
+  {
+   "slug": "guide-daintree",
+   "pages": [
+    "https://www.sublimesportfishing.com.au/daintree-river-coastal-fishing.html",
+    "https://www.australia.com/en/atdw/product.56b260b3aeeeaaf773cf3a2b.html",
+    "https://daintreefishing.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false,
+   "force": true
+  },
+  {
+   "slug": "guide-weipa",
+   "pages": [
+    "https://www.weipaflyfish.com.au/the-fishing-in-weipa",
+    "https://www.weipaflyfish.com.au/fishing-faqs",
+    "https://www.weipaflyfish.com.au/weipa-fishing-charters",
+    "https://www.farnorthfishingweipa.com.au/charters",
+    "https://www.fishingcairns.com.au/fishing-books-maps/locality-guides/cape-york-locality-guide/weipa-cape-york-locality-guide/",
+    "https://capeyorkweekly.com.au/?p=10501"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false,
+   "force": true
+  },
+  {
+   "slug": "guide-karumba",
+   "pages": [
+    "https://kerrydfishing.com.au/fishing-charters/",
+    "https://www.carpentariabarra.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false,
+   "force": true
+  },
+  {
+   "slug": "guide-hinchinbrook",
+   "pages": [
+    "https://www.australia.com/en/atdw/product.6045f4108fc1e7796a9d63ac.html",
+    "https://crackfish.com/",
+    "https://www.australia.com/en/atdw/product.640eaf483568d2ae140d96c8.html",
+    "https://fishandboat.com.au/our-hinchinbrook-adventure-part-1-by-john-boon/",
+    "https://fullonfishn.com.au/location/",
+    "https://www.queensland.com/au/en/things-to-do/tours/p-6045f4108fc1e7796a9d63ac-ian-moody-sportfishing-charters",
+    "https://fullonfishn.com.au/charter-faq/",
+    "https://www.gbrmpa.gov.au/access/zoning/interpreting-zones",
+    "https://qld.gov.au/environment/plants-animals/animals/living-with/crocodiles/becrocwise",
+    "https://fullonfishn.com.au/packages/",
+    "https://fullonfishn.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false,
+   "force": true
+  }
+ ]
+}
