@@ -1,0 +1,31 @@
+{
+  "slug": "research-yamba",
+  "request_hash": "35282e60d238",
+  "collected_at": "2026-10-29T03:50:14.541Z",
+  "pages_fetched": [
+    "https://visitnsw.com/things-to-do/tours/reel-time-charters-yamba/reel-time-fishing-charters-yamba",
+    "https://www.visitnsw.com/things-to-do/tours/go-fish-yamba-charters/individual-go-fish-yamba-charter",
+    "https://visitnsw.com/things-to-do/tours/yamba-fishing-and-charters"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://visitnsw.com/things-to-do/tours/reel-time-charters-yamba/reel-time-fishing-charters-yamba",
+      "status": 200,
+      "final_url": "https://www.visitnsw.com/things-to-do/tours/reel-time-charters-yamba/reel-time-fishing-charters-yamba",
+      "bytes": 199370
+    },
+    {
+      "page": "https://www.visitnsw.com/things-to-do/tours/go-fish-yamba-charters/individual-go-fish-yamba-charter",
+      "status": 200,
+      "final_url": "https://www.visitnsw.com/things-to-do/tours/go-fish-yamba-charters/individual-go-fish-yamba-charter",
+      "bytes": 210409
+    },
+    {
+      "page": "https://visitnsw.com/things-to-do/tours/yamba-fishing-and-charters",
+      "status": 200,
+      "final_url": "https://www.visitnsw.com/things-to-do/tours/yamba-fishing-and-charters",
+      "bytes": 248542
+    }
+  ]
+}

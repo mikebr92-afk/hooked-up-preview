@@ -1,0 +1,31 @@
+{
+  "slug": "research-lhi",
+  "request_hash": "1589c6740611",
+  "collected_at": "2026-10-29T03:50:46.579Z",
+  "pages_fetched": [
+    "https://lordhoweisland.info/experiences/fishing/",
+    "https://visitnsw.com/destinations/lord-howe-island/fishing",
+    "https://www.lordhoweislandtours.net/charter-fishing"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://lordhoweisland.info/experiences/fishing/",
+      "status": 200,
+      "final_url": "https://lordhoweisland.info/experiences/fishing/",
+      "bytes": 125875
+    },
+    {
+      "page": "https://visitnsw.com/destinations/lord-howe-island/fishing",
+      "status": 200,
+      "final_url": "https://www.visitnsw.com/articles/must-try-experiences-on-lord-howe-island",
+      "bytes": 269149
+    },
+    {
+      "page": "https://www.lordhoweislandtours.net/charter-fishing",
+      "status": 200,
+      "final_url": "https://www.lordhoweislandtours.net/charter-fishing",
+      "bytes": 175357
+    }
+  ]
+}

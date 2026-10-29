@@ -1,0 +1,31 @@
+{
+  "slug": "research-wollongong",
+  "request_hash": "ee973a4f85e0",
+  "collected_at": "2026-10-29T03:50:33.515Z",
+  "pages_fetched": [
+    "https://www.visitnsw.com/things-to-do/tours/kiama-charter-service",
+    "https://australiasguide.com/nsw/attraction-tour/shellharbour/shell-cove/shell-cove-offshore-adventures/",
+    "https://www.visitwollongong.com.au/things-to-do/tours/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.visitnsw.com/things-to-do/tours/kiama-charter-service",
+      "status": 200,
+      "final_url": "https://www.visitnsw.com/things-to-do/tours/kiama-charter-service",
+      "bytes": 234367
+    },
+    {
+      "page": "https://australiasguide.com/nsw/attraction-tour/shellharbour/shell-cove/shell-cove-offshore-adventures/",
+      "status": 200,
+      "final_url": "https://australiasguide.com/nsw/attraction-tour/shellharbour/shell-cove/shell-cove-offshore-adventures/",
+      "bytes": 178929
+    },
+    {
+      "page": "https://www.visitwollongong.com.au/things-to-do/tours/",
+      "status": 200,
+      "final_url": "https://www.visitwollongong.com.au/things-to-do/tours/",
+      "bytes": 160848
+    }
+  ]
+}

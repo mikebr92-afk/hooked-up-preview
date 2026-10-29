@@ -1,0 +1,66 @@
+{
+  "slug": "five-island-charters-wollongong",
+  "request_hash": "c61281bbc16d",
+  "collected_at": "2026-10-29T03:49:39.779Z",
+  "pages_fetched": [
+    "https://www.fiveislandcharters.com.au/",
+    "https://www.fiveislandcharters.com.au/vessel/",
+    "https://www.fiveislandcharters.com.au/gallery/",
+    "https://www.fiveislandcharters.com.au/pricing/",
+    "https://www.fiveislandcharters.com.au/weather/",
+    "https://www.fiveislandcharters.com.au/gift-certificates/",
+    "https://www.fiveislandcharters.com.au/contact/",
+    "https://www.fiveislandcharters.com.au/pricing"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.fiveislandcharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.fiveislandcharters.com.au/",
+      "bytes": 54618
+    },
+    {
+      "page": "https://www.fiveislandcharters.com.au/vessel/",
+      "status": 200,
+      "final_url": "https://www.fiveislandcharters.com.au/vessel/",
+      "bytes": 47039
+    },
+    {
+      "page": "https://www.fiveislandcharters.com.au/gallery/",
+      "status": 200,
+      "final_url": "https://www.fiveislandcharters.com.au/gallery/",
+      "bytes": 89658
+    },
+    {
+      "page": "https://www.fiveislandcharters.com.au/pricing/",
+      "status": 200,
+      "final_url": "https://www.fiveislandcharters.com.au/pricing/",
+      "bytes": 59664
+    },
+    {
+      "page": "https://www.fiveislandcharters.com.au/weather/",
+      "status": 200,
+      "final_url": "https://www.fiveislandcharters.com.au/weather/",
+      "bytes": 43320
+    },
+    {
+      "page": "https://www.fiveislandcharters.com.au/gift-certificates/",
+      "status": 200,
+      "final_url": "https://www.fiveislandcharters.com.au/gift-certificates/",
+      "bytes": 46324
+    },
+    {
+      "page": "https://www.fiveislandcharters.com.au/contact/",
+      "status": 200,
+      "final_url": "https://www.fiveislandcharters.com.au/contact/",
+      "bytes": 47420
+    },
+    {
+      "page": "https://www.fiveislandcharters.com.au/pricing",
+      "status": 200,
+      "final_url": "https://www.fiveislandcharters.com.au/pricing/",
+      "bytes": 59664
+    }
+  ]
+}

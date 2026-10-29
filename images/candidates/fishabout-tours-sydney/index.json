@@ -1,0 +1,52 @@
+{
+  "slug": "fishabout-tours-sydney",
+  "request_hash": "021ec445eebe",
+  "collected_at": "2026-10-29T03:47:18.317Z",
+  "pages_fetched": [
+    "https://www.fishaboutsydney.com.au/",
+    "https://www.fishaboutsydney.com.au/about-craig-mcgill/",
+    "https://www.fishaboutsydney.com.au/articles/",
+    "https://www.fishaboutsydney.com.au/gallery/",
+    "https://www.fishaboutsydney.com.au/pick-up-points/",
+    "https://www.fishaboutsydney.com.au/about"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.fishaboutsydney.com.au/",
+      "status": 200,
+      "final_url": "https://www.fishaboutsydney.com.au/",
+      "bytes": 53512
+    },
+    {
+      "page": "https://www.fishaboutsydney.com.au/about-craig-mcgill/",
+      "status": 200,
+      "final_url": "https://www.fishaboutsydney.com.au/about-craig-mcgill/",
+      "bytes": 23920
+    },
+    {
+      "page": "https://www.fishaboutsydney.com.au/articles/",
+      "status": 200,
+      "final_url": "https://www.fishaboutsydney.com.au/articles/",
+      "bytes": 40289
+    },
+    {
+      "page": "https://www.fishaboutsydney.com.au/gallery/",
+      "status": 200,
+      "final_url": "https://www.fishaboutsydney.com.au/gallery/",
+      "bytes": 27235
+    },
+    {
+      "page": "https://www.fishaboutsydney.com.au/pick-up-points/",
+      "status": 200,
+      "final_url": "https://www.fishaboutsydney.com.au/pick-up-points/",
+      "bytes": 23576
+    },
+    {
+      "page": "https://www.fishaboutsydney.com.au/about",
+      "status": 200,
+      "final_url": "https://www.fishaboutsydney.com.au/about-craig-mcgill/",
+      "bytes": 23920
+    }
+  ]
+}

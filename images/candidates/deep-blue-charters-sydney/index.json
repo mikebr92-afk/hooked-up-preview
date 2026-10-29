@@ -1,0 +1,87 @@
+{
+  "slug": "deep-blue-charters-sydney",
+  "request_hash": "ee3f30398540",
+  "collected_at": "2026-10-29T03:48:10.837Z",
+  "pages_fetched": [
+    "https://deepbluecharters.com.au/",
+    "https://deepbluecharters.com.au/our-boats/",
+    "https://deepbluecharters.com.au/fishing-charters/",
+    "https://deepbluecharters.com.au/harbour-cruises/",
+    "https://deepbluecharters.com.au/special-events/",
+    "https://deepbluecharters.com.au/fishing-species-reef-species/",
+    "https://deepbluecharters.com.au/fishing-species-sports-species/",
+    "https://deepbluecharters.com.au/wharfs/",
+    "https://deepbluecharters.com.au/blog/",
+    "https://deepbluecharters.com.au/fishing-tips/",
+    "https://deepbluecharters.com.au/faq/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://deepbluecharters.com.au/",
+      "status": 200,
+      "final_url": "https://deepbluecharters.com.au/",
+      "bytes": 345739
+    },
+    {
+      "page": "https://deepbluecharters.com.au/our-boats/",
+      "status": 200,
+      "final_url": "https://deepbluecharters.com.au/our-boats/",
+      "bytes": 271485
+    },
+    {
+      "page": "https://deepbluecharters.com.au/fishing-charters/",
+      "status": 200,
+      "final_url": "https://deepbluecharters.com.au/fishing-charters/",
+      "bytes": 178823
+    },
+    {
+      "page": "https://deepbluecharters.com.au/harbour-cruises/",
+      "status": 200,
+      "final_url": "https://deepbluecharters.com.au/harbour-cruises/",
+      "bytes": 187930
+    },
+    {
+      "page": "https://deepbluecharters.com.au/special-events/",
+      "status": 200,
+      "final_url": "https://deepbluecharters.com.au/special-events/",
+      "bytes": 180030
+    },
+    {
+      "page": "https://deepbluecharters.com.au/fishing-species-reef-species/",
+      "status": 200,
+      "final_url": "https://deepbluecharters.com.au/fishing-species-reef-species/",
+      "bytes": 191922
+    },
+    {
+      "page": "https://deepbluecharters.com.au/fishing-species-sports-species/",
+      "status": 200,
+      "final_url": "https://deepbluecharters.com.au/fishing-species-sports-species/",
+      "bytes": 188881
+    },
+    {
+      "page": "https://deepbluecharters.com.au/wharfs/",
+      "status": 200,
+      "final_url": "https://deepbluecharters.com.au/wharfs/",
+      "bytes": 174942
+    },
+    {
+      "page": "https://deepbluecharters.com.au/blog/",
+      "status": 200,
+      "final_url": "https://deepbluecharters.com.au/blog/",
+      "bytes": 231341
+    },
+    {
+      "page": "https://deepbluecharters.com.au/fishing-tips/",
+      "status": 200,
+      "final_url": "https://deepbluecharters.com.au/fishing-tips/",
+      "bytes": 182902
+    },
+    {
+      "page": "https://deepbluecharters.com.au/faq/",
+      "status": 200,
+      "final_url": "https://deepbluecharters.com.au/faq/",
+      "bytes": 189765
+    }
+  ]
+}

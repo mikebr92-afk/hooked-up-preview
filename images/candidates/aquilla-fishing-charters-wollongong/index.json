@@ -1,0 +1,94 @@
+{
+  "slug": "aquilla-fishing-charters-wollongong",
+  "request_hash": "b37adba796b1",
+  "collected_at": "2026-10-29T03:49:53.086Z",
+  "pages_fetched": [
+    "https://www.visitnsw.com/things-to-do/tours/aquilla-fishing-charters",
+    "https://www.visitwollongong.com.au/operators/transport-and-tours/tour/aquilla-fishing-charters/",
+    "https://www.visitnsw.com/in/things-to-do/tours/aquilla-fishing-charters",
+    "https://www.visitnsw.com/nz/things-to-do/tours/aquilla-fishing-charters",
+    "https://www.visitnsw.com/uk/things-to-do/tours/aquilla-fishing-charters",
+    "https://www.visitnsw.com/us/things-to-do/tours/aquilla-fishing-charters",
+    "https://www.visitnsw.com/sg/things-to-do/tours/aquilla-fishing-charters",
+    "https://www.visitnsw.com/my/things-to-do/tours/aquilla-fishing-charters",
+    "https://www.visitnsw.com/id/things-to-do/tours/aquilla-fishing-charters",
+    "https://www.visitnsw.com/jp/things-to-do/tours/aquilla-fishing-charters",
+    "https://www.visitnsw.com/kr/things-to-do/tours/aquilla-fishing-charters",
+    "https://www.visitwollongong.com.au/corporate-resources/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.visitnsw.com/things-to-do/tours/aquilla-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.visitnsw.com/things-to-do/tours/aquilla-fishing-charters",
+      "bytes": 230055
+    },
+    {
+      "page": "https://www.visitwollongong.com.au/operators/transport-and-tours/tour/aquilla-fishing-charters/",
+      "status": 200,
+      "final_url": "https://www.visitwollongong.com.au/operators/transport-and-tours/tour/aquilla-fishing-charters/",
+      "bytes": 239473
+    },
+    {
+      "page": "https://www.visitnsw.com/in/things-to-do/tours/aquilla-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.visitnsw.com/in/things-to-do/tours/aquilla-fishing-charters",
+      "bytes": 230359
+    },
+    {
+      "page": "https://www.visitnsw.com/nz/things-to-do/tours/aquilla-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.visitnsw.com/nz/things-to-do/tours/aquilla-fishing-charters",
+      "bytes": 230365
+    },
+    {
+      "page": "https://www.visitnsw.com/uk/things-to-do/tours/aquilla-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.visitnsw.com/uk/things-to-do/tours/aquilla-fishing-charters",
+      "bytes": 230368
+    },
+    {
+      "page": "https://www.visitnsw.com/us/things-to-do/tours/aquilla-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.visitnsw.com/us/things-to-do/tours/aquilla-fishing-charters",
+      "bytes": 230367
+    },
+    {
+      "page": "https://www.visitnsw.com/sg/things-to-do/tours/aquilla-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.visitnsw.com/sg/things-to-do/tours/aquilla-fishing-charters",
+      "bytes": 230363
+    },
+    {
+      "page": "https://www.visitnsw.com/my/things-to-do/tours/aquilla-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.visitnsw.com/my/things-to-do/tours/aquilla-fishing-charters",
+      "bytes": 230362
+    },
+    {
+      "page": "https://www.visitnsw.com/id/things-to-do/tours/aquilla-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.visitnsw.com/id/things-to-do/tours/aquilla-fishing-charters",
+      "bytes": 230363
+    },
+    {
+      "page": "https://www.visitnsw.com/jp/things-to-do/tours/aquilla-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.visitnsw.com/jp/things-to-do/tours/aquilla-fishing-charters",
+      "bytes": 226588
+    },
+    {
+      "page": "https://www.visitnsw.com/kr/things-to-do/tours/aquilla-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.visitnsw.com/kr/things-to-do/tours/aquilla-fishing-charters",
+      "bytes": 225943
+    },
+    {
+      "page": "https://www.visitwollongong.com.au/corporate-resources/",
+      "status": 200,
+      "final_url": "https://www.visitwollongong.com.au/corporate-resources/",
+      "bytes": 233971
+    }
+  ]
+}

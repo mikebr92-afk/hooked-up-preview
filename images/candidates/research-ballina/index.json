@@ -1,0 +1,24 @@
+{
+  "slug": "research-ballina",
+  "request_hash": "e438150825b2",
+  "collected_at": "2026-10-29T03:50:21.980Z",
+  "pages_fetched": [
+    "https://www.discoverballina.com.au/explore/tour/fozies-fishing-adventures",
+    "https://wikiaustralia.com/tour/ballina-and-beyond-fishing-trips-charters/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.discoverballina.com.au/explore/tour/fozies-fishing-adventures",
+      "status": 404,
+      "final_url": "https://www.discoverballina.com.au/explore/tour/fozies-fishing-adventures",
+      "bytes": 916519
+    },
+    {
+      "page": "https://wikiaustralia.com/tour/ballina-and-beyond-fishing-trips-charters/",
+      "status": 200,
+      "final_url": "https://wikiaustralia.com/tour/ballina-and-beyond-fishing-trips-charters/",
+      "bytes": 176856
+    }
+  ]
+}

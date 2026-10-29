@@ -1,0 +1,24 @@
+{
+  "slug": "research-tweed",
+  "request_hash": "cde510066e4d",
+  "collected_at": "2026-10-29T03:50:22.517Z",
+  "pages_fetched": [
+    "https://www.visitnsw.com/things-to-do/tours/cushy-fishing-charters-tweed-heads",
+    "https://www.mapquest.com/au/new-south-wales/tweed-fishing-charters-795650007"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.visitnsw.com/things-to-do/tours/cushy-fishing-charters-tweed-heads",
+      "status": 404,
+      "final_url": "https://www.visitnsw.com/things-to-do/tours/cushy-fishing-charters-tweed-heads",
+      "bytes": 179339
+    },
+    {
+      "page": "https://www.mapquest.com/au/new-south-wales/tweed-fishing-charters-795650007",
+      "status": 200,
+      "final_url": "https://www.mapquest.com/au/new-south-wales/tweed-fishing-charters-795650007",
+      "bytes": 322007
+    }
+  ]
+}

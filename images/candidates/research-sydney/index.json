@@ -1,0 +1,31 @@
+{
+  "slug": "research-sydney",
+  "request_hash": "ed9331afb514",
+  "collected_at": "2026-10-29T03:50:48.218Z",
+  "pages_fetched": [
+    "https://fishingbooker.com/destinations/region/au/sydney-harbour",
+    "https://playsport.com/mysterybaycharters_ag_d8ce0d5b",
+    "https://www.visitnsw.com/destinations/sydney/fishing"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://fishingbooker.com/destinations/region/au/sydney-harbour",
+      "status": 403,
+      "final_url": "https://fishingbooker.com/destinations/region/au/sydney-harbour",
+      "bytes": 5913
+    },
+    {
+      "page": "https://playsport.com/mysterybaycharters_ag_d8ce0d5b",
+      "status": 200,
+      "final_url": "https://playsport.com/mysterybaycharters_ag_d8ce0d5b",
+      "bytes": 274513
+    },
+    {
+      "page": "https://www.visitnsw.com/destinations/sydney/fishing",
+      "status": 404,
+      "final_url": "https://www.sydney.com/destinations/sydney/fishing",
+      "bytes": 166687
+    }
+  ]
+}

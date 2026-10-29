@@ -1,0 +1,24 @@
+{
+  "slug": "research-coffs",
+  "request_hash": "207c549930af",
+  "collected_at": "2026-10-29T03:50:10.764Z",
+  "pages_fetched": [
+    "https://www.coffscoast.com.au/article/fishing-on-the-coffs-coast/",
+    "https://maps.campendium.com/au/coffs-harbour-nsw/nature/cougar-cat-12-charters"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.coffscoast.com.au/article/fishing-on-the-coffs-coast/",
+      "status": 200,
+      "final_url": "https://www.coffscoast.com.au/article/fishing-on-the-coffs-coast/",
+      "bytes": 193754
+    },
+    {
+      "page": "https://maps.campendium.com/au/coffs-harbour-nsw/nature/cougar-cat-12-charters",
+      "status": 200,
+      "final_url": "https://maps.campendium.com/au/coffs-harbour-nsw/nature/cougar-cat-12-charters",
+      "bytes": 354634
+    }
+  ]
+}

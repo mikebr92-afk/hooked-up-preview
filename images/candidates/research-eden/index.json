@@ -1,0 +1,38 @@
+{
+  "slug": "research-eden",
+  "request_hash": "881937209a3f",
+  "collected_at": "2026-10-29T03:50:44.121Z",
+  "pages_fetched": [
+    "https://visitnsw.com/destinations/south-coast/merimbula-and-sapphire-coast/fishing",
+    "https://www.escapetomerimbula.com.au/freedom-charters",
+    "https://fishpen-charters.squarespace.com/",
+    "https://sapphire-coast.com.au/?p=117"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://visitnsw.com/destinations/south-coast/merimbula-and-sapphire-coast/fishing",
+      "status": 200,
+      "final_url": "https://www.visitnsw.com/destinations/south-coast/merimbula-and-sapphire-coast",
+      "bytes": 259073
+    },
+    {
+      "page": "https://www.escapetomerimbula.com.au/freedom-charters",
+      "status": 404,
+      "final_url": "https://www.escapetomerimbula.com.au/freedom-charters",
+      "bytes": 2206
+    },
+    {
+      "page": "https://fishpen-charters.squarespace.com/",
+      "status": 200,
+      "final_url": "https://fishpen-charters.squarespace.com/",
+      "bytes": 124823
+    },
+    {
+      "page": "https://sapphire-coast.com.au/?p=117",
+      "status": 200,
+      "final_url": "https://sapphire-coast.com.au/eden/fishing-eden/",
+      "bytes": 80147
+    }
+  ]
+}

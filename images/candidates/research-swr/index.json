@@ -1,0 +1,31 @@
+{
+  "slug": "research-swr",
+  "request_hash": "16040dc9e4f6",
+  "collected_at": "2026-10-29T03:50:04.076Z",
+  "pages_fetched": [
+    "https://www.visitnsw.com/things-to-do/tours/south-west-rocks-fishing-charters",
+    "https://www.visitnsw.com/things-to-do/tours/wildside-sportfishing/offshore-fishing-tour",
+    "https://macleayvalleycoast.com.au/tours/south-west-rocks-fishing-charters"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.visitnsw.com/things-to-do/tours/south-west-rocks-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.visitnsw.com/things-to-do/tours/south-west-rocks-fishing-charters",
+      "bytes": 187691
+    },
+    {
+      "page": "https://www.visitnsw.com/things-to-do/tours/wildside-sportfishing/offshore-fishing-tour",
+      "status": 404,
+      "final_url": "https://www.visitnsw.com/things-to-do/tours/wildside-sportfishing/offshore-fishing-tour",
+      "bytes": 179377
+    },
+    {
+      "page": "https://macleayvalleycoast.com.au/tours/south-west-rocks-fishing-charters",
+      "status": 200,
+      "final_url": "https://macleayvalleycoast.com.au/tours/south-west-rocks-fishing-charters/",
+      "bytes": 358533
+    }
+  ]
+}

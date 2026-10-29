@@ -1,0 +1,31 @@
+{
+  "slug": "research-centralcoast",
+  "request_hash": "10bba49f5314",
+  "collected_at": "2026-10-29T03:49:54.594Z",
+  "pages_fetched": [
+    "https://visitnsw.com/destinations/central-coast/gosford-area/terrigal/hire/central-coast-reef-and-game-fishing-charters",
+    "https://www.visitnsw.com/things-to-do/tours/terrigal-fishing-tours",
+    "https://www.agfg.com.au/attraction/estuary-fishing-tours-31532"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://visitnsw.com/destinations/central-coast/gosford-area/terrigal/hire/central-coast-reef-and-game-fishing-charters",
+      "status": 404,
+      "final_url": "https://www.visitnsw.com/destinations/central-coast/gosford-area/terrigal/hire/central-coast-reef-and-game-fishing-charters",
+      "bytes": 179648
+    },
+    {
+      "page": "https://www.visitnsw.com/things-to-do/tours/terrigal-fishing-tours",
+      "status": 200,
+      "final_url": "https://www.visitnsw.com/things-to-do/tours/terrigal-fishing-tours",
+      "bytes": 218443
+    },
+    {
+      "page": "https://www.agfg.com.au/attraction/estuary-fishing-tours-31532",
+      "status": 403,
+      "final_url": "https://www.agfg.com.au/attraction/estuary-fishing-tours-31532",
+      "bytes": 5019
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "research-portstephens",
+  "request_hash": "39ba3c815c8f",
+  "collected_at": "2026-10-29T03:49:58.094Z",
+  "pages_fetched": [
+    "https://www.portstephens.org.au/see-and-do/fish-port-stephens-estuary-charters/overview",
+    "https://www.visitnsw.com/destinations/north-coast/port-stephens-area/fishing",
+    "https://www.portstephens.org.au/see-and-do/fishing"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.portstephens.org.au/see-and-do/fish-port-stephens-estuary-charters/overview",
+      "status": 404,
+      "final_url": "https://www.portstephens.com.au/see-and-do/fish-port-stephens-estuary-charters/overview",
+      "bytes": 322825
+    },
+    {
+      "page": "https://www.visitnsw.com/destinations/north-coast/port-stephens-area/fishing",
+      "status": 404,
+      "final_url": "https://www.visitnsw.com/destinations/north-coast/port-stephens-area/fishing",
+      "bytes": 179599
+    },
+    {
+      "page": "https://www.portstephens.org.au/see-and-do/fishing",
+      "status": 404,
+      "final_url": "https://www.portstephens.com.au/see-and-do/fishing",
+      "bytes": 322825
+    }
+  ]
+}

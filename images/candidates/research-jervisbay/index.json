@@ -1,0 +1,24 @@
+{
+  "slug": "research-jervisbay",
+  "request_hash": "d5dfcac96e09",
+  "collected_at": "2026-10-29T03:50:34.742Z",
+  "pages_fetched": [
+    "https://www.visitnsw.com/destinations/south-coast/jervis-bay-and-shoalhaven/huskisson/tours?page=0",
+    "https://www.visitnsw.com/destinations/south-coast/jervis-bay-and-shoalhaven/fishing"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.visitnsw.com/destinations/south-coast/jervis-bay-and-shoalhaven/huskisson/tours?page=0",
+      "status": 200,
+      "final_url": "https://www.visitnsw.com/destinations/south-coast/jervis-bay-and-shoalhaven/huskisson/activities",
+      "bytes": 175269
+    },
+    {
+      "page": "https://www.visitnsw.com/destinations/south-coast/jervis-bay-and-shoalhaven/fishing",
+      "status": 200,
+      "final_url": "https://www.visitnsw.com/destinations/south-coast/jervis-bay-and-shoalhaven",
+      "bytes": 334268
+    }
+  ]
+}

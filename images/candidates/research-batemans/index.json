@@ -1,0 +1,31 @@
+{
+  "slug": "research-batemans",
+  "request_hash": "6e98b48c6290",
+  "collected_at": "2026-10-29T03:50:41.127Z",
+  "pages_fetched": [
+    "https://www.visitnsw.com/destinations/south-coast/batemans-bay-and-eurobodalla/fishing",
+    "https://explore.eurobodalla.com.au/journey/itinerary_20qZC5XPw3MThj19RFGDGR/amp",
+    "https://www.sea-ex.com/chartersguides/ausnsw.htm"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.visitnsw.com/destinations/south-coast/batemans-bay-and-eurobodalla/fishing",
+      "status": 200,
+      "final_url": "https://www.visitnsw.com/articles/outdoor-adventures-batemans-bay",
+      "bytes": 270634
+    },
+    {
+      "page": "https://explore.eurobodalla.com.au/journey/itinerary_20qZC5XPw3MThj19RFGDGR/amp",
+      "status": 200,
+      "final_url": "https://explore.eurobodalla.com.au/journey/itinerary_20qZC5XPw3MThj19RFGDGR/amp",
+      "bytes": 97275
+    },
+    {
+      "page": "https://www.sea-ex.com/chartersguides/ausnsw.htm",
+      "status": 200,
+      "final_url": "https://www.sea-ex.com/chartersguides/ausnsw.htm",
+      "bytes": 57277
+    }
+  ]
+}

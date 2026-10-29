@@ -1,0 +1,80 @@
+{
+  "slug": "wahoo-fishing-charters-sydney",
+  "request_hash": "38850b4ffcd3",
+  "collected_at": "2026-10-29T03:47:23.404Z",
+  "pages_fetched": [
+    "https://wahoocharters.com.au/",
+    "https://wahoocharters.com.au/fishing-charters/",
+    "https://wahoocharters.com.au/fishing-charters/deep-sea-fishing-charters-sydney/",
+    "https://wahoocharters.com.au/fishing-charters/reef-fishing/",
+    "https://wahoocharters.com.au/fishing-charters/sports-fishing/",
+    "https://wahoocharters.com.au/fishing-charters/game-fishing/",
+    "https://wahoocharters.com.au/fishing-charters/bucks-parties/",
+    "https://wahoocharters.com.au/fishing-charters/kingfish-charters/",
+    "https://wahoocharters.com.au/fishing-charters/corporate-fishing-charters/",
+    "https://wahoocharters.com.au/fishing-charters/jig-fishing/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://wahoocharters.com.au/",
+      "status": 200,
+      "final_url": "https://wahoocharters.com.au/",
+      "bytes": 587608
+    },
+    {
+      "page": "https://wahoocharters.com.au/fishing-charters/",
+      "status": 200,
+      "final_url": "https://wahoocharters.com.au/fishing-charters/",
+      "bytes": 499068
+    },
+    {
+      "page": "https://wahoocharters.com.au/fishing-charters/deep-sea-fishing-charters-sydney/",
+      "status": 200,
+      "final_url": "https://wahoocharters.com.au/fishing-charters/deep-sea-fishing-charters-sydney/",
+      "bytes": 494300
+    },
+    {
+      "page": "https://wahoocharters.com.au/fishing-charters/reef-fishing/",
+      "status": 200,
+      "final_url": "https://wahoocharters.com.au/fishing-charters/reef-fishing/",
+      "bytes": 492822
+    },
+    {
+      "page": "https://wahoocharters.com.au/fishing-charters/sports-fishing/",
+      "status": 200,
+      "final_url": "https://wahoocharters.com.au/fishing-charters/sports-fishing/",
+      "bytes": 497021
+    },
+    {
+      "page": "https://wahoocharters.com.au/fishing-charters/game-fishing/",
+      "status": 200,
+      "final_url": "https://wahoocharters.com.au/fishing-charters/game-fishing/",
+      "bytes": 496381
+    },
+    {
+      "page": "https://wahoocharters.com.au/fishing-charters/bucks-parties/",
+      "status": 200,
+      "final_url": "https://wahoocharters.com.au/fishing-charters/bucks-parties/",
+      "bytes": 496849
+    },
+    {
+      "page": "https://wahoocharters.com.au/fishing-charters/kingfish-charters/",
+      "status": 200,
+      "final_url": "https://wahoocharters.com.au/fishing-charters/kingfish-charters/",
+      "bytes": 494169
+    },
+    {
+      "page": "https://wahoocharters.com.au/fishing-charters/corporate-fishing-charters/",
+      "status": 200,
+      "final_url": "https://wahoocharters.com.au/fishing-charters/corporate-fishing-charters/",
+      "bytes": 497781
+    },
+    {
+      "page": "https://wahoocharters.com.au/fishing-charters/jig-fishing/",
+      "status": 200,
+      "final_url": "https://wahoocharters.com.au/fishing-charters/jig-fishing/",
+      "bytes": 495931
+    }
+  ]
+}

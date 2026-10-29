@@ -1,0 +1,24 @@
+{
+  "slug": "research-newcastle",
+  "request_hash": "2c184b57557e",
+  "collected_at": "2026-10-29T03:49:55.734Z",
+  "pages_fetched": [
+    "https://day-trippin-charters.squarespace.com/",
+    "https://b-l-fishing.treepl.co/eco_tours.html"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://day-trippin-charters.squarespace.com/",
+      "status": 200,
+      "final_url": "https://day-trippin-charters.squarespace.com/",
+      "bytes": 655501
+    },
+    {
+      "page": "https://b-l-fishing.treepl.co/eco_tours.html",
+      "status": 200,
+      "final_url": "https://b-l-fishing.treepl.co/eco_tours.html",
+      "bytes": 11423
+    }
+  ]
+}

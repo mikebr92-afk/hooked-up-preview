@@ -1,0 +1,38 @@
+{
+  "slug": "research-portmacquarie",
+  "request_hash": "414323df293e",
+  "collected_at": "2026-10-29T03:50:00.587Z",
+  "pages_fetched": [
+    "https://www.portmacquarieinfo.com.au/products/port-macquarie-fishing-charters",
+    "https://www.portmacquarieinfo.com.au/products/castaway-estuary-fishing-charters",
+    "https://www.visitnsw.com/things-to-do/tours/port-macquarie-fishing-charters/deep-sea-fishing-charters",
+    "https://www.visitnsw.com/things-to-do/tours/castaway-estuary-fishing-charters"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.portmacquarieinfo.com.au/products/port-macquarie-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.portmacquarieinfo.com.au/products/port-macquarie-fishing-charters",
+      "bytes": 251957
+    },
+    {
+      "page": "https://www.portmacquarieinfo.com.au/products/castaway-estuary-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.portmacquarieinfo.com.au/products/castaway-estuary-fishing-charters",
+      "bytes": 253721
+    },
+    {
+      "page": "https://www.visitnsw.com/things-to-do/tours/port-macquarie-fishing-charters/deep-sea-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.visitnsw.com/things-to-do/tours/port-macquarie-fishing-charters/deep-sea-fishing-charters",
+      "bytes": 177886
+    },
+    {
+      "page": "https://www.visitnsw.com/things-to-do/tours/castaway-estuary-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.visitnsw.com/things-to-do/tours/castaway-estuary-fishing-charters",
+      "bytes": 229232
+    }
+  ]
+}
