@@ -1,0 +1,235 @@
+{
+  "slug": "mv-night-crossing-img",
+  "request_hash": "ec3079c670af",
+  "collected_at": "2026-10-29T19:31:33.121Z",
+  "pages_fetched": [
+    "https://nightcrossing.com.au/gallery/",
+    "https://nightcrossing.com.au/",
+    "https://nightcrossing.com.au/fishing-trips/",
+    "https://nightcrossing.com.au/gallery/fish-photos/",
+    "https://nightcrossing.com.au/gallery/publications/",
+    "https://nightcrossing.com.au/gallery/dory-pics/",
+    "https://nightcrossing.com.au/gallery/the-food/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1500x2000",
+      "source": "https://nightcrossing.com.au/wp-content/uploads/2016/12/IMG_0918-copy.jpg",
+      "page": "https://nightcrossing.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 1500,
+      "height": 1125,
+      "original": "1500x1125",
+      "source": "https://nightcrossing.com.au/wp-content/uploads/2016/12/IMG_0010.jpg",
+      "page": "https://nightcrossing.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1500,
+      "height": 1125,
+      "original": "1500x1125",
+      "source": "https://nightcrossing.com.au/wp-content/uploads/2016/10/DSC00582.jpg",
+      "page": "https://nightcrossing.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1900,
+      "height": 1425,
+      "original": "1900x1425",
+      "source": "https://nightcrossing.com.au/wp-content/uploads/2016/10/Night-Crossing.jpg",
+      "page": "https://nightcrossing.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 800,
+      "height": 511,
+      "original": "800x511",
+      "source": "https://nightcrossing.com.au/wp-content/uploads/2016/12/DSC_6949.jpg",
+      "page": "https://nightcrossing.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 960,
+      "height": 720,
+      "original": "960x720",
+      "source": "https://nightcrossing.com.au/wp-content/uploads/2016/12/17904205_10155199550579747_335155971943800639_n.jpg",
+      "page": "https://nightcrossing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1536,
+      "height": 1536,
+      "original": "1536x1536",
+      "source": "https://nightcrossing.com.au/wp-content/uploads/2016/10/theFood.jpg",
+      "page": "https://nightcrossing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1000,
+      "height": 1000,
+      "original": "1000x1000",
+      "source": "https://nightcrossing.com.au/wp-content/uploads/2016/10/theGoodTimes.jpg",
+      "page": "https://nightcrossing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1500x2000",
+      "source": "https://nightcrossing.com.au/wp-content/uploads/2016/12/P2030298-1.jpg",
+      "page": "https://nightcrossing.com.au/gallery/fish-photos/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1500,
+      "height": 1125,
+      "original": "1500x1125",
+      "source": "https://nightcrossing.com.au/wp-content/uploads/2016/12/adrians-nightcrossing-photos-031.jpg",
+      "page": "https://nightcrossing.com.au/gallery/fish-photos/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1500,
+      "height": 1125,
+      "original": "1500x1125",
+      "source": "https://nightcrossing.com.au/wp-content/uploads/2016/12/photo-5.jpg",
+      "page": "https://nightcrossing.com.au/gallery/fish-photos/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1500,
+      "height": 1125,
+      "original": "1500x1125",
+      "source": "https://nightcrossing.com.au/wp-content/uploads/2016/12/DSC00572-1.jpg",
+      "page": "https://nightcrossing.com.au/gallery/fish-photos/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1500,
+      "height": 1000,
+      "original": "1500x1000",
+      "source": "https://nightcrossing.com.au/wp-content/uploads/2016/12/BAOZ-047.jpg",
+      "page": "https://nightcrossing.com.au/gallery/fish-photos/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1500,
+      "height": 1000,
+      "original": "1500x1000",
+      "source": "https://nightcrossing.com.au/wp-content/uploads/2016/12/BAOZ-085-1.jpg",
+      "page": "https://nightcrossing.com.au/gallery/fish-photos/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1500,
+      "height": 1125,
+      "original": "1500x1125",
+      "source": "https://nightcrossing.com.au/wp-content/uploads/2016/12/DSC00569.jpg",
+      "page": "https://nightcrossing.com.au/gallery/fish-photos/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1500,
+      "height": 1000,
+      "original": "1500x1000",
+      "source": "https://nightcrossing.com.au/wp-content/uploads/2016/12/BAOZ-046.jpg",
+      "page": "https://nightcrossing.com.au/gallery/fish-photos/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://nightcrossing.com.au/gallery/",
+      "status": 200,
+      "final_url": "https://nightcrossing.com.au/gallery/",
+      "bytes": 47545
+    },
+    {
+      "page": "https://nightcrossing.com.au/",
+      "status": 200,
+      "final_url": "https://nightcrossing.com.au/",
+      "bytes": 47570
+    },
+    {
+      "page": "https://nightcrossing.com.au/fishing-trips/",
+      "status": 200,
+      "final_url": "https://nightcrossing.com.au/fishing-trips/",
+      "bytes": 47962
+    },
+    {
+      "page": "https://nightcrossing.com.au/gallery/fish-photos/",
+      "status": 200,
+      "final_url": "https://nightcrossing.com.au/gallery/fish-photos/",
+      "bytes": 47350
+    },
+    {
+      "page": "https://nightcrossing.com.au/gallery/publications/",
+      "status": 200,
+      "final_url": "https://nightcrossing.com.au/gallery/publications/",
+      "bytes": 42334
+    },
+    {
+      "page": "https://nightcrossing.com.au/gallery/dory-pics/",
+      "status": 200,
+      "final_url": "https://nightcrossing.com.au/gallery/dory-pics/",
+      "bytes": 45868
+    },
+    {
+      "page": "https://nightcrossing.com.au/gallery/the-food/",
+      "status": 200,
+      "final_url": "https://nightcrossing.com.au/gallery/the-food/",
+      "bytes": 44653
+    },
+    {
+      "image": "https://nightcrossing.com.au/wp-content/uploads/2016/12/chris-swain-reef-024.jpg",
+      "error": "too small 365x274"
+    },
+    {
+      "image": "https://nightcrossing.com.au/wp-content/uploads/2016/12/video.png",
+      "error": "too small 430x248"
+    },
+    {
+      "image": "https://nightcrossing.com.au/wp-content/uploads/2016/10/theShip.jpg",
+      "error": "too small 531x531"
+    },
+    {
+      "image": "https://nightcrossing.com.au/wp-content/uploads/2016/10/theShip-230x230.jpg",
+      "error": "too small 230x230"
+    },
+    {
+      "dup": "https://nightcrossing.com.au/wp-content/uploads/2015/04/Night-Crossing.jpg"
+    },
+    {
+      "image": "https://nightcrossing.com.au/wp-content/uploads/2016/12/17904205_10155199550579747_335155971943800639_n-230x230.jpg",
+      "error": "too small 230x230"
+    },
+    {
+      "image": "https://nightcrossing.com.au/wp-content/uploads/2016/10/theFood-230x230.jpg",
+      "error": "too small 230x230"
+    },
+    {
+      "image": "https://nightcrossing.com.au/wp-content/uploads/2016/10/theGoodTimes-230x230.jpg",
+      "error": "too small 230x230"
+    }
+  ]
+}

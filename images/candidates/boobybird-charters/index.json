@@ -1,0 +1,15 @@
+{
+  "slug": "boobybird-charters",
+  "request_hash": "97f72ecff3b3",
+  "collected_at": "2026-10-29T19:31:18.755Z",
+  "pages_fetched": [
+    "https://www.boobybird.com.au/home.html"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.boobybird.com.au/home.html",
+      "error": "fetch failed"
+    }
+  ]
+}

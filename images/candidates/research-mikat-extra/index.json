@@ -1,0 +1,31 @@
+{
+  "slug": "research-mikat-extra",
+  "request_hash": "7779d073b398",
+  "collected_at": "2026-10-29T19:31:34.325Z",
+  "pages_fetched": [
+    "https://www.vesselfinder.com/vessels/details/503121910",
+    "http://www.mikat.com.au/",
+    "http://www.mikat.com.au/general-information/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.vesselfinder.com/vessels/details/503121910",
+      "status": 200,
+      "final_url": "https://www.vesselfinder.com/vessels/details/503121910",
+      "bytes": 42481
+    },
+    {
+      "page": "http://www.mikat.com.au/",
+      "status": 403,
+      "final_url": "http://www.mikat.com.au/",
+      "bytes": 261
+    },
+    {
+      "page": "http://www.mikat.com.au/general-information/",
+      "status": 403,
+      "final_url": "http://www.mikat.com.au/general-information/",
+      "bytes": 261
+    }
+  ]
+}

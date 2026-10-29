@@ -1,0 +1,25 @@
+{
+  "slug": "reef-fish-and-dive-1770-b",
+  "request_hash": "ac72da168c43",
+  "collected_at": "2026-10-29T19:31:18.546Z",
+  "pages_fetched": [
+    "https://www.reeffishanddive1770.com.au/",
+    "http://reeffishanddive1770.com.au/",
+    "http://www.reeffishanddive1770.com.au/charters"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.reeffishanddive1770.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "http://reeffishanddive1770.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "http://www.reeffishanddive1770.com.au/charters",
+      "error": "fetch failed"
+    }
+  ]
+}

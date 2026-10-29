@@ -1,0 +1,80 @@
+{
+  "slug": "hooked-on-1770-img",
+  "request_hash": "2e6bc2d19f5c",
+  "collected_at": "2026-10-29T19:31:41.079Z",
+  "pages_fetched": [
+    "https://www.1770tours.com/Photo%20Album.html",
+    "https://www.1770tours.com/our%20vessel.html"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.1770tours.com/Photo%20Album.html",
+      "status": 200,
+      "final_url": "https://www.1770tours.com/Photo%20Album.html",
+      "bytes": 11013
+    },
+    {
+      "page": "https://www.1770tours.com/our%20vessel.html",
+      "status": 200,
+      "final_url": "https://www.1770tours.com/our%20vessel.html",
+      "bytes": 9818
+    },
+    {
+      "image": "https://www.1770tours.com/Library/hooked-on-webpage.jpg",
+      "error": "too small 1000x280"
+    },
+    {
+      "image": "https://www.1770tours.com/Library/Availability.jpg",
+      "error": "too small 100x30"
+    },
+    {
+      "image": "https://www.1770tours.com/Library/01%20010%20(Custom).jpg",
+      "error": "too small 208x156"
+    },
+    {
+      "image": "https://www.1770tours.com/Library/Black%20Marlin%20(custom).jpg",
+      "error": "too small 208x156"
+    },
+    {
+      "image": "https://www.1770tours.com/Library/01%20005%20(Custom).jpg",
+      "error": "too small 208x156"
+    },
+    {
+      "image": "https://www.1770tours.com/Library/01%20006%20(Custom).jpg",
+      "error": "too small 208x156"
+    },
+    {
+      "image": "https://www.1770tours.com/Library/Vessel-Rocks.jpg",
+      "error": "too small 488x199"
+    },
+    {
+      "image": "https://www.1770tours.com/Library/Vessel%203.jpg",
+      "error": "too small 300x199"
+    },
+    {
+      "image": "https://www.1770tours.com/Library/Vessel%201.jpg",
+      "error": "too small 342x199"
+    },
+    {
+      "image": "https://www.1770tours.com/Library/Vessel%202.jpg",
+      "error": "too small 300x199"
+    },
+    {
+      "image": "https://www.1770tours.com/Library/01%20005.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.1770tours.com/Library/01%20010.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.1770tours.com/Library/01%20006.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.1770tours.com/Library/Black%20Marlin.jpg",
+      "error": "HTTP 404"
+    }
+  ]
+}

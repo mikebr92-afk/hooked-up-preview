@@ -1,0 +1,24 @@
+{
+  "slug": "research-gladstone-facts",
+  "request_hash": "72d7466421c1",
+  "collected_at": "2026-10-29T19:31:36.743Z",
+  "pages_fetched": [
+    "https://easternvoyager.com.au/action-packed-reef-charter-trips-from-gladstone/",
+    "https://www.smarterfishingcharters.com.au/charters/details/99"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://easternvoyager.com.au/action-packed-reef-charter-trips-from-gladstone/",
+      "status": 200,
+      "final_url": "https://easternvoyager.com.au/action-packed-reef-charter-trips-from-gladstone/",
+      "bytes": 160257
+    },
+    {
+      "page": "https://www.smarterfishingcharters.com.au/charters/details/99",
+      "status": 200,
+      "final_url": "https://www.smarterfishingcharters.com.au/charters/details/99",
+      "bytes": 14684
+    }
+  ]
+}
