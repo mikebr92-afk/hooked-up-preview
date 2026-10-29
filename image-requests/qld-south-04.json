@@ -1,0 +1,9 @@
+{"requests":[
+ {"slug":"reef-fishing-charters-1770","pages":["https://www.reeffishingcharters1770.com.au/","https://reeffishingcharters1770.com.au/"],"text":true,"max":16,"follow":true},
+ {"slug":"fishing-offshore-1770","pages":["https://www.fishingoffshore1770.com.au/","https://fishingoffshore1770.com.au/","https://www.fishingoffshore1770.com/"],"text":true,"max":16,"follow":true},
+ {"slug":"research-princess-ii","pages":["https://www.discoverherveybay.com/mv-princess-ii-fishing-charters/","http://www.herveybaydownunder.com.au/fishing_operators.htm","https://herveybaytouristcentre.com.au/category/fishing-charters-hervey-diving-tobruk/","https://pocketbooks.com.au/profile/princess-ii-fishing-charters-hervey-bay-boat-hire-and-charter-services-in-hervey-bay-fraser-coast-wide-bay-region-qhbay23602"],"text":true,"max":0,"follow":false},
+ {"slug":"frenzy-charters","pages":["https://www.frenzycharters.com.au/"],"text":true,"max":16,"follow":true},
+ {"slug":"outside-edge-adventures","pages":["https://outsideedgeadventures.com.au/","https://outsideedgeadventures.com.au/reef-fishing/brisbane/"],"text":true,"max":12,"follow":true},
+ {"slug":"brisbane-fishing-tour","pages":["https://www.brisbanefishingtour.com.au/"],"text":true,"max":12,"follow":true},
+ {"slug":"big-cat-charters-brisbane","pages":["http://bigcatcharters.com/","https://bigcatcharters.com/"],"text":true,"max":16,"follow":true}
+]}
