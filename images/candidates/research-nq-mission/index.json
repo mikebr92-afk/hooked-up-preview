@@ -1,0 +1,52 @@
+{
+  "slug": "research-nq-mission",
+  "request_hash": "bae2dd24b34f",
+  "collected_at": "2026-10-29T19:22:53.344Z",
+  "pages_fetched": [
+    "https://www.localsearch.com.au/find/fishing-trips-charters/mission-beach-qld",
+    "https://playsport.com/hookedupfishingadventures_ag_7ea3e4c7/about",
+    "https://reviews.birdeye.com/kurrimine-boat-hire-and-fishing-charters-166772965181458",
+    "https://playsport.com/fishingearth_ag_c96b1cd6",
+    "https://localsearch.com.au/find/fishing-trips-charters/dunk-qld",
+    "https://www.missionbeachtourism.com/things-to-do/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.localsearch.com.au/find/fishing-trips-charters/mission-beach-qld",
+      "status": 405,
+      "final_url": "https://www.localsearch.com.au/find/fishing-trips-charters/mission-beach-qld",
+      "bytes": 2503
+    },
+    {
+      "page": "https://playsport.com/hookedupfishingadventures_ag_7ea3e4c7/about",
+      "status": 200,
+      "final_url": "https://playsport.com/hookedupfishingadventures_ag_7ea3e4c7/about",
+      "bytes": 254674
+    },
+    {
+      "page": "https://reviews.birdeye.com/kurrimine-boat-hire-and-fishing-charters-166772965181458",
+      "status": 200,
+      "final_url": "https://reviews.birdeye.com/kurrimine-boat-hire-and-fishing-charters-166772965181458",
+      "bytes": 263733
+    },
+    {
+      "page": "https://playsport.com/fishingearth_ag_c96b1cd6",
+      "status": 200,
+      "final_url": "https://playsport.com/fishingearth_ag_c96b1cd6",
+      "bytes": 256459
+    },
+    {
+      "page": "https://localsearch.com.au/find/fishing-trips-charters/dunk-qld",
+      "status": 405,
+      "final_url": "https://www.localsearch.com.au/find/fishing-trips-charters/dunk-qld",
+      "bytes": 2503
+    },
+    {
+      "page": "https://www.missionbeachtourism.com/things-to-do/",
+      "status": 404,
+      "final_url": "https://www.missionbeachtourism.com/things-to-do/",
+      "bytes": 11816
+    }
+  ]
+}

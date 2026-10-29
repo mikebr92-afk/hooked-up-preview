@@ -1,0 +1,59 @@
+{
+  "slug": "research-nq-bowen",
+  "request_hash": "840baa074adc",
+  "collected_at": "2026-10-29T19:22:49.692Z",
+  "pages_fetched": [
+    "https://tourismbowen.com.au/fishing",
+    "https://www.tourismwhitsundays.com.au/blog/bowen-a-day-trippers-guide",
+    "https://ontheroadmagazine.com.au/blowin-bowen/",
+    "https://fishandboat.com.au/?p=939",
+    "https://www.tourismwhitsundays.com.au/bowen/",
+    "https://www.localsearch.com.au/find/boat-charters-cruises/bowen-qld",
+    "https://www.localsearch.com.au/find/fishing-trips-charters/bowen-qld"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://tourismbowen.com.au/fishing",
+      "status": 200,
+      "final_url": "https://www.tourismbowen.com.au/search",
+      "bytes": 66162
+    },
+    {
+      "page": "https://www.tourismwhitsundays.com.au/blog/bowen-a-day-trippers-guide",
+      "status": 200,
+      "final_url": "https://www.tourismwhitsundays.com.au/blog/bowen-a-day-trippers-guide",
+      "bytes": 229333
+    },
+    {
+      "page": "https://ontheroadmagazine.com.au/blowin-bowen/",
+      "status": 404,
+      "final_url": "https://ontheroadmagazine.com.au/blowin-bowen/",
+      "bytes": 359958
+    },
+    {
+      "page": "https://fishandboat.com.au/?p=939",
+      "status": 200,
+      "final_url": "https://fishandboat.com.au/gps_marks/bowen-offshore/",
+      "bytes": 78993
+    },
+    {
+      "page": "https://www.tourismwhitsundays.com.au/bowen/",
+      "status": 200,
+      "final_url": "https://www.tourismwhitsundays.com.au/mainland/bowen",
+      "bytes": 368314
+    },
+    {
+      "page": "https://www.localsearch.com.au/find/boat-charters-cruises/bowen-qld",
+      "status": 405,
+      "final_url": "https://www.localsearch.com.au/find/boat-charters-cruises/bowen-qld",
+      "bytes": 2503
+    },
+    {
+      "page": "https://www.localsearch.com.au/find/fishing-trips-charters/bowen-qld",
+      "status": 405,
+      "final_url": "https://www.localsearch.com.au/find/fishing-trips-charters/bowen-qld",
+      "bytes": 2503
+    }
+  ]
+}

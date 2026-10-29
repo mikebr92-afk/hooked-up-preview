@@ -1,0 +1,52 @@
+{
+  "slug": "research-nq-hinch",
+  "request_hash": "88fb60b5a7e3",
+  "collected_at": "2026-10-29T19:23:09.972Z",
+  "pages_fetched": [
+    "https://www.hinchinbrookway.com.au/things-to-do/fishing/",
+    "https://www.hinchinbrookway.com.au/fish",
+    "https://www.queensland.com/au/en/things-to-do/tours/p-68896625dbcf07dd134c4c57-hinchinbrooks-fullon-fishn-charters",
+    "https://www.australias.guide/qld/attraction-tour/hinchinbrook/lucinda/wild-hinchinbrook-adventures/",
+    "https://www.clubmarine.com.au/explore-boating/articles/2026-08-family-fishing-holidays-on-hinchinbrook-island.html",
+    "https://www.australia.com/en/atdw/product.68896625dbcf07dd134c4c57.html"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.hinchinbrookway.com.au/things-to-do/fishing/",
+      "status": 403,
+      "final_url": "https://www.hinchinbrook.qld.gov.au/The-Hinchinbrook-Way/things-to-do/fishing/",
+      "bytes": 457
+    },
+    {
+      "page": "https://www.hinchinbrookway.com.au/fish",
+      "status": 403,
+      "final_url": "https://www.hinchinbrook.qld.gov.au/The-Hinchinbrook-Way/fish",
+      "bytes": 424
+    },
+    {
+      "page": "https://www.queensland.com/au/en/things-to-do/tours/p-68896625dbcf07dd134c4c57-hinchinbrooks-fullon-fishn-charters",
+      "status": 200,
+      "final_url": "https://www.queensland.com/au/en/things-to-do/tours/p-68896625dbcf07dd134c4c57-hinchinbrooks-fullon-fishn-charters",
+      "bytes": 16705
+    },
+    {
+      "page": "https://www.australias.guide/qld/attraction-tour/hinchinbrook/lucinda/wild-hinchinbrook-adventures/",
+      "status": 200,
+      "final_url": "https://australiasguide.com/",
+      "bytes": 64918
+    },
+    {
+      "page": "https://www.clubmarine.com.au/explore-boating/articles/2026-08-family-fishing-holidays-on-hinchinbrook-island.html",
+      "status": 403,
+      "final_url": "https://www.clubmarine.com.au/explore-boating/articles/2026-08-family-fishing-holidays-on-hinchinbrook-island.html",
+      "bytes": 6122
+    },
+    {
+      "page": "https://www.australia.com/en/atdw/product.68896625dbcf07dd134c4c57.html",
+      "status": 200,
+      "final_url": "https://www.australia.com/en/atdw/product.68896625dbcf07dd134c4c57.html",
+      "bytes": 280218
+    }
+  ]
+}

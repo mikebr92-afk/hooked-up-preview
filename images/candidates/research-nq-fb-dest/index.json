@@ -1,0 +1,66 @@
+{
+  "slug": "research-nq-fb-dest",
+  "request_hash": "67938abac64f",
+  "collected_at": "2026-10-29T19:22:50.329Z",
+  "pages_fetched": [
+    "https://fishingbooker.com/destinations/location/au/QL/bowen",
+    "https://fishingbooker.com/destinations/location/au/QL/mission-beach",
+    "https://fishingbooker.com/destinations/location/au/QL/cooktown",
+    "https://fishingbooker.com/destinations/location/au/QL/cardwell",
+    "https://fishingbooker.com/destinations/location/au/QL/lucinda",
+    "https://fishingbooker.com/charters/view/42904",
+    "https://fishingbooker.com/profile/view/2057645",
+    "https://fishingbooker.com/charters/view/26614"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://fishingbooker.com/destinations/location/au/QL/bowen",
+      "status": 403,
+      "final_url": "https://fishingbooker.com/destinations/location/au/QL/bowen",
+      "bytes": 5901
+    },
+    {
+      "page": "https://fishingbooker.com/destinations/location/au/QL/mission-beach",
+      "status": 403,
+      "final_url": "https://fishingbooker.com/destinations/location/au/QL/mission-beach",
+      "bytes": 5925
+    },
+    {
+      "page": "https://fishingbooker.com/destinations/location/au/QL/cooktown",
+      "status": 403,
+      "final_url": "https://fishingbooker.com/destinations/location/au/QL/cooktown",
+      "bytes": 5910
+    },
+    {
+      "page": "https://fishingbooker.com/destinations/location/au/QL/cardwell",
+      "status": 403,
+      "final_url": "https://fishingbooker.com/destinations/location/au/QL/cardwell",
+      "bytes": 5910
+    },
+    {
+      "page": "https://fishingbooker.com/destinations/location/au/QL/lucinda",
+      "status": 403,
+      "final_url": "https://fishingbooker.com/destinations/location/au/QL/lucinda",
+      "bytes": 5907
+    },
+    {
+      "page": "https://fishingbooker.com/charters/view/42904",
+      "status": 403,
+      "final_url": "https://fishingbooker.com/charters/view/42904",
+      "bytes": 5838
+    },
+    {
+      "page": "https://fishingbooker.com/profile/view/2057645",
+      "status": 403,
+      "final_url": "https://fishingbooker.com/profile/view/2057645",
+      "bytes": 5913
+    },
+    {
+      "page": "https://fishingbooker.com/charters/view/26614",
+      "status": 403,
+      "final_url": "https://fishingbooker.com/charters/view/26614",
+      "bytes": 5838
+    }
+  ]
+}

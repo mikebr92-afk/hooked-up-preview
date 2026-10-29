@@ -1,0 +1,66 @@
+{
+  "slug": "research-nq-cooktown",
+  "request_hash": "6bad2e81a99b",
+  "collected_at": "2026-10-29T19:23:02.024Z",
+  "pages_fetched": [
+    "https://www.cooktownandcapeyork.com/tours/local-tours",
+    "https://www.cooktownandcapeyork.com/tours/local-tours/fnqreef",
+    "https://www.cooktownandcapeyork.com/do/fishing",
+    "https://www.cooktownandcapeyork.com/do/fishing/endeavour-river-cruises",
+    "https://localista.com.au/listing/au/cooktown/tours/cooktown-barrier-reef-charters",
+    "https://www.fishingcairns.com.au/locations/cooktown-guied/",
+    "https://www.cooktownandcapeyork.com/travel",
+    "https://www.cooktownandcapeyork.com/go/cooktown"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.cooktownandcapeyork.com/tours/local-tours",
+      "status": 200,
+      "final_url": "https://www.cooktownandcapeyork.com/tours/local-tours",
+      "bytes": 56323
+    },
+    {
+      "page": "https://www.cooktownandcapeyork.com/tours/local-tours/fnqreef",
+      "status": 200,
+      "final_url": "https://www.cooktownandcapeyork.com/acl_users/credentials_cookie_auth/require_login?came_from=https%3A//www.cooktownandcapeyork.com/tours/local-tours/fnqreef",
+      "bytes": 44632
+    },
+    {
+      "page": "https://www.cooktownandcapeyork.com/do/fishing",
+      "status": 200,
+      "final_url": "https://www.cooktownandcapeyork.com/do/fishing",
+      "bytes": 48522
+    },
+    {
+      "page": "https://www.cooktownandcapeyork.com/do/fishing/endeavour-river-cruises",
+      "status": 200,
+      "final_url": "https://www.cooktownandcapeyork.com/do/fishing/endeavour-river-cruises",
+      "bytes": 48297
+    },
+    {
+      "page": "https://localista.com.au/listing/au/cooktown/tours/cooktown-barrier-reef-charters",
+      "status": 200,
+      "final_url": "https://brisbanelocalista.com.au/listing/cooktown-barrier-reef-charters?place=cooktown%2C+qld%2C+au",
+      "bytes": 68963
+    },
+    {
+      "page": "https://www.fishingcairns.com.au/locations/cooktown-guied/",
+      "status": 200,
+      "final_url": "https://www.fishingcairns.com.au/locations/cooktown-guied/",
+      "bytes": 105468
+    },
+    {
+      "page": "https://www.cooktownandcapeyork.com/travel",
+      "status": 200,
+      "final_url": "https://www.cooktownandcapeyork.com/travel",
+      "bytes": 60957
+    },
+    {
+      "page": "https://www.cooktownandcapeyork.com/go/cooktown",
+      "status": 200,
+      "final_url": "https://www.cooktownandcapeyork.com/go/cooktown",
+      "bytes": 50668
+    }
+  ]
+}

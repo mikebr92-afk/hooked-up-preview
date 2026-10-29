@@ -1,0 +1,273 @@
+{
+  "slug": "gone-fishing-cooktown",
+  "request_hash": "46b360916d59",
+  "collected_at": "2026-10-29T19:23:26.773Z",
+  "pages_fetched": [
+    "http://fishingcooktown.com/",
+    "http://fishingcooktown.com/prices/",
+    "https://www.facebook.com/fishingcooktown/",
+    "http://fishingcooktown.com/fishing-charters-2/",
+    "http://fishingcooktown.com/lure-fishing/",
+    "http://fishingcooktown.com/live-baiting/",
+    "http://fishingcooktown.com/location/",
+    "http://fishingcooktown.com/rivers/",
+    "http://fishingcooktown.com/reef-headlands/",
+    "http://fishingcooktown.com/packages/",
+    "http://fishingcooktown.com/contact-us/",
+    "http://fishingcooktown.com/about-gone-fishing-cooktown/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1600,
+      "height": 901,
+      "original": "1600x901",
+      "source": "http://fishingcooktown.com/wp-content/uploads/2018/01/big-barra-2-e1517035452325.jpg",
+      "page": "http://fishingcooktown.com/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 1600,
+      "height": 900,
+      "original": "1600x900",
+      "source": "http://fishingcooktown.com/wp-content/uploads/2018/01/jack-e1517035577123.jpg",
+      "page": "http://fishingcooktown.com/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1490,
+      "height": 937,
+      "original": "1490x937",
+      "source": "http://fishingcooktown.com/wp-content/uploads/2021/02/117908027_3453706808001863_7329163131048441021_o-2.jpg",
+      "page": "http://fishingcooktown.com/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 2000,
+      "height": 1125,
+      "original": "2560x1440",
+      "source": "http://fishingcooktown.com/wp-content/uploads/2021/02/131588451_698982907487295_2936104512017051643_n.png",
+      "page": "http://fishingcooktown.com/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1600,
+      "height": 899,
+      "original": "1600x899",
+      "source": "http://fishingcooktown.com/wp-content/uploads/2018/01/barra2-e1517035772979.jpg",
+      "page": "http://fishingcooktown.com/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 800,
+      "height": 503,
+      "original": "800x503",
+      "source": "http://fishingcooktown.com/wp-content/uploads/2016/02/Fishing-1-e1514448043764.jpg",
+      "page": "http://fishingcooktown.com/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 801,
+      "height": 516,
+      "original": "801x516",
+      "source": "http://fishingcooktown.com/wp-content/uploads/2018/01/home-e1517095565356.jpg",
+      "page": "http://fishingcooktown.com/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 800,
+      "height": 503,
+      "original": "800x503",
+      "source": "http://fishingcooktown.com/wp-content/uploads/2016/02/wildlife-tours-e1514449572778.jpg",
+      "page": "http://fishingcooktown.com/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1600,
+      "height": 1600,
+      "original": "1600x1600",
+      "source": "http://fishingcooktown.com/wp-content/uploads/2017/10/bottom-of-page.jpg",
+      "page": "http://fishingcooktown.com/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1600,
+      "height": 1600,
+      "original": "1600x1600",
+      "source": "http://fishingcooktown.com/wp-content/uploads/2017/10/home-page-facebook-shots-3.jpg",
+      "page": "http://fishingcooktown.com/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1599,
+      "height": 1600,
+      "original": "1599x1600",
+      "source": "http://fishingcooktown.com/wp-content/uploads/2017/10/home-page-facebook-shots-1.jpg",
+      "page": "http://fishingcooktown.com/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1600,
+      "height": 1596,
+      "original": "1600x1596",
+      "source": "http://fishingcooktown.com/wp-content/uploads/2017/10/home-page-facebook-shots-6.jpg",
+      "page": "http://fishingcooktown.com/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1600,
+      "height": 901,
+      "original": "1600x901",
+      "source": "http://fishingcooktown.com/wp-content/uploads/2018/01/fly-e1517038070502.jpg?id=815",
+      "page": "http://fishingcooktown.com/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1270,
+      "height": 734,
+      "original": "1270x734",
+      "source": "http://fishingcooktown.com/wp-content/uploads/2021/02/65185133_2450528268319727_2364829574660882432_o.jpg",
+      "page": "http://fishingcooktown.com/prices/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1600,
+      "height": 899,
+      "original": "1600x899",
+      "source": "http://fishingcooktown.com/wp-content/uploads/2018/01/IMG_8987-e1517037838230.jpg",
+      "page": "http://fishingcooktown.com/fishing-charters-2/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1600,
+      "height": 900,
+      "original": "1600x900",
+      "source": "http://fishingcooktown.com/wp-content/uploads/2018/01/IMG_5882-e1517038339771.jpg",
+      "page": "http://fishingcooktown.com/lure-fishing/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "http://fishingcooktown.com/",
+      "status": 200,
+      "final_url": "http://fishingcooktown.com/",
+      "bytes": 67913
+    },
+    {
+      "page": "http://fishingcooktown.com/prices/",
+      "status": 200,
+      "final_url": "http://fishingcooktown.com/prices/",
+      "bytes": 49006
+    },
+    {
+      "page": "https://www.facebook.com/fishingcooktown/",
+      "status": 400,
+      "final_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Ffishingcooktown%2F",
+      "bytes": 1542
+    },
+    {
+      "page": "http://fishingcooktown.com/fishing-charters-2/",
+      "status": 200,
+      "final_url": "http://fishingcooktown.com/fishing-charters-2/",
+      "bytes": 55937
+    },
+    {
+      "page": "http://fishingcooktown.com/lure-fishing/",
+      "status": 200,
+      "final_url": "http://fishingcooktown.com/lure-fishing/",
+      "bytes": 50339
+    },
+    {
+      "page": "http://fishingcooktown.com/live-baiting/",
+      "status": 200,
+      "final_url": "http://fishingcooktown.com/live-baiting/",
+      "bytes": 50051
+    },
+    {
+      "page": "http://fishingcooktown.com/location/",
+      "status": 200,
+      "final_url": "http://fishingcooktown.com/location/",
+      "bytes": 51400
+    },
+    {
+      "page": "http://fishingcooktown.com/rivers/",
+      "status": 200,
+      "final_url": "http://fishingcooktown.com/rivers/",
+      "bytes": 52510
+    },
+    {
+      "page": "http://fishingcooktown.com/reef-headlands/",
+      "status": 200,
+      "final_url": "http://fishingcooktown.com/reef-headlands/",
+      "bytes": 49668
+    },
+    {
+      "page": "http://fishingcooktown.com/packages/",
+      "status": 404,
+      "final_url": "http://fishingcooktown.com/packages/",
+      "bytes": 39544
+    },
+    {
+      "page": "http://fishingcooktown.com/contact-us/",
+      "status": 200,
+      "final_url": "http://fishingcooktown.com/contact-us/",
+      "bytes": 60794
+    },
+    {
+      "page": "http://fishingcooktown.com/about-gone-fishing-cooktown/",
+      "status": 200,
+      "final_url": "http://fishingcooktown.com/about-gone-fishing-cooktown/",
+      "bytes": 59800
+    },
+    {
+      "dup": "http://fishingcooktown.com/wp-content/uploads/2018/01/barra2-1-e1517101126270.jpg"
+    },
+    {
+      "image": "http://fishingcooktown.com/wp-content/uploads/2017/10/cropped-fa.png",
+      "error": "too small 512x512"
+    },
+    {
+      "image": "http://fishingcooktown.com/wp-content/uploads/2017/10/cropped-fa-32x32.png",
+      "error": "too small 32x32"
+    },
+    {
+      "image": "http://fishingcooktown.com/wp-content/uploads/2017/10/cropped-fa-192x192.png",
+      "error": "too small 192x192"
+    },
+    {
+      "image": "http://fishingcooktown.com/wp-content/uploads/2017/10/cropped-fa-180x180.png",
+      "error": "too small 180x180"
+    },
+    {
+      "image": "http://fishingcooktown.com/wp-content/uploads/2017/10/cropped-fa-270x270.png",
+      "error": "too small 270x270"
+    },
+    {
+      "dup": "http://fishingcooktown.com/wp-content/uploads/2018/01/fly-e1517038070502.jpg?id=815)"
+    },
+    {
+      "image": "http://fishingcooktown.com/wp-content/uploads/2016/02/pin-1.png",
+      "error": "too small 38x55"
+    },
+    {
+      "image": "http://www.fishingcooktown.com/f.ashx?v=2174835",
+      "error": "HTTP 404"
+    }
+  ]
+}
