@@ -1,0 +1,350 @@
+{
+  "slug": "double-threat-charters-yeppoon",
+  "request_hash": "b38f91d34ec2",
+  "collected_at": "2026-10-29T04:00:27.520Z",
+  "pages_fetched": [
+    "https://www.doublethreatchartersyeppoon.com.au/",
+    "https://www.doublethreatchartersyeppoon.com.au/about-us",
+    "https://www.doublethreatchartersyeppoon.com.au/fishing",
+    "https://www.doublethreatchartersyeppoon.com.au/book",
+    "https://www.doublethreatchartersyeppoon.com.au/contact-us",
+    "https://www.doublethreatchartersyeppoon.com.au/general-8",
+    "https://www.doublethreatchartersyeppoon.com.au/fish-t-c",
+    "https://www.doublethreatchartersyeppoon.com.au/gift-voucher-t7c",
+    "https://www.doublethreatchartersyeppoon.com.au/shop"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2250x3000",
+      "source": "https://static.wixstatic.com/media/800336_e0ee5079f79d43cd98822676a56e833f%7Emv2.jpg",
+      "page": "https://www.doublethreatchartersyeppoon.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 1097,
+      "height": 723,
+      "original": "1097x723",
+      "source": "https://static.wixstatic.com/media/800336_5debb5167d104d739a91559028ca5860~mv2.jpg",
+      "page": "https://www.doublethreatchartersyeppoon.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1080,
+      "height": 605,
+      "original": "1080x605",
+      "source": "https://static.wixstatic.com/media/800336_1ecb6a0b99ae4106be331174fb1d2a2b~mv2.jpeg",
+      "page": "https://www.doublethreatchartersyeppoon.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1266,
+      "height": 2000,
+      "original": "1402x2214",
+      "source": "https://static.wixstatic.com/media/800336_77041d5473ca48f1942228162f1c2a28~mv2.jpg",
+      "page": "https://www.doublethreatchartersyeppoon.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1121,
+      "height": 563,
+      "original": "1121x563",
+      "source": "https://static.wixstatic.com/media/800336_4d4308ed71a4426ebb542d27f9f1db6d~mv2.jpeg",
+      "page": "https://www.doublethreatchartersyeppoon.com.au/about-us",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 920,
+      "height": 1440,
+      "original": "920x1440",
+      "source": "https://static.wixstatic.com/media/800336_e0ee5079f79d43cd98822676a56e833f~mv2.jpg/v1/crop/x_65,y_0,w_1916,h_2999/fill/w_920,h_1440,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/20C032DE-A7F2-4ADE-BC02-9747616FB5AC_edi.jpg",
+      "page": "https://www.doublethreatchartersyeppoon.com.au/about-us",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1920,
+      "height": 1440,
+      "original": "1920x1440",
+      "source": "https://static.wixstatic.com/media/800336_015a8389bfba4cb89fec0cacc5635ed1~mv2_d_1920_1440_s_2.jpg",
+      "page": "https://www.doublethreatchartersyeppoon.com.au/fishing",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "3024x4032",
+      "source": "https://static.wixstatic.com/media/800336_69bdc9d6773144b484fc6b6dc5aecda1~mv2.png",
+      "page": "https://www.doublethreatchartersyeppoon.com.au/fishing",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "3024x4032",
+      "source": "https://static.wixstatic.com/media/800336_df8354ae8c0b4d62abafc2c23c3e40a2~mv2.png",
+      "page": "https://www.doublethreatchartersyeppoon.com.au/fishing",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "3024x4032",
+      "source": "https://static.wixstatic.com/media/800336_d2d8bcf1162540e38e5207f21dac88d8~mv2.png",
+      "page": "https://www.doublethreatchartersyeppoon.com.au/fishing",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 920,
+      "height": 1000,
+      "original": "920x1000",
+      "source": "https://static.wixstatic.com/media/800336_69bdc9d6773144b484fc6b6dc5aecda1~mv2.png/v1/fill/w_920,h_1000,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/8C6B71EB-8EFF-438B-917F-D46A4A6E3D6F_heic.png",
+      "page": "https://www.doublethreatchartersyeppoon.com.au/fishing",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 756,
+      "height": 1008,
+      "original": "756x1008",
+      "source": "https://static.wixstatic.com/media/800336_63c8ed2f905b4d1ab1a5132e15fd2848~mv2.jpeg",
+      "page": "https://www.doublethreatchartersyeppoon.com.au/contact-us",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2016x1512",
+      "source": "https://static.wixstatic.com/media/800336_b80a632b651641c9a45852843192b186~mv2.jpg",
+      "page": "https://www.doublethreatchartersyeppoon.com.au/shop",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1499,
+      "height": 2000,
+      "original": "2249x3000",
+      "source": "https://static.wixstatic.com/media/800336_431ee872ccb34ea9894c37f1c135c2c8~mv2.jpg",
+      "page": "https://www.doublethreatchartersyeppoon.com.au/shop",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2016x1512",
+      "source": "https://static.wixstatic.com/media/800336_bd11c49b12ec4e189c859b9236fd744a~mv2.jpg",
+      "page": "https://www.doublethreatchartersyeppoon.com.au/shop",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2016x1512",
+      "source": "https://static.wixstatic.com/media/800336_2e4814309ebf4f799bb6b6d5c76359ae~mv2.jpg",
+      "page": "https://www.doublethreatchartersyeppoon.com.au/shop",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.doublethreatchartersyeppoon.com.au/",
+      "status": 200,
+      "final_url": "https://www.doublethreatchartersyeppoon.com.au/",
+      "bytes": 619612
+    },
+    {
+      "page": "https://www.doublethreatchartersyeppoon.com.au/about-us",
+      "status": 200,
+      "final_url": "https://www.doublethreatchartersyeppoon.com.au/about-us",
+      "bytes": 627682
+    },
+    {
+      "page": "https://www.doublethreatchartersyeppoon.com.au/fishing",
+      "status": 200,
+      "final_url": "https://www.doublethreatchartersyeppoon.com.au/fishing",
+      "bytes": 629004
+    },
+    {
+      "page": "https://www.doublethreatchartersyeppoon.com.au/book",
+      "status": 200,
+      "final_url": "https://www.doublethreatchartersyeppoon.com.au/book",
+      "bytes": 601218
+    },
+    {
+      "page": "https://www.doublethreatchartersyeppoon.com.au/contact-us",
+      "status": 200,
+      "final_url": "https://www.doublethreatchartersyeppoon.com.au/contact-us",
+      "bytes": 638789
+    },
+    {
+      "page": "https://www.doublethreatchartersyeppoon.com.au/general-8",
+      "status": 200,
+      "final_url": "https://www.doublethreatchartersyeppoon.com.au/general-8",
+      "bytes": 629804
+    },
+    {
+      "page": "https://www.doublethreatchartersyeppoon.com.au/fish-t-c",
+      "status": 200,
+      "final_url": "https://www.doublethreatchartersyeppoon.com.au/fish-t-c",
+      "bytes": 613524
+    },
+    {
+      "page": "https://www.doublethreatchartersyeppoon.com.au/gift-voucher-t7c",
+      "status": 200,
+      "final_url": "https://www.doublethreatchartersyeppoon.com.au/gift-voucher-t7c",
+      "bytes": 599336
+    },
+    {
+      "page": "https://www.doublethreatchartersyeppoon.com.au/shop",
+      "status": 200,
+      "final_url": "https://www.doublethreatchartersyeppoon.com.au/shop",
+      "bytes": 1044838
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/800336_e0ee5079f79d43cd98822676a56e833f%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/800336_e0ee5079f79d43cd98822676a56e833f%7Emv2.jpg"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/0fdef751204647a3bbd7eaa2827ed4f9.png",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/0fdef751204647a3bbd7eaa2827ed4f9.png/v1/fill/w_20,h_20,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/facebook.png",
+      "error": "too small 20x20"
+    },
+    {
+      "image": "https://www.doublethreatchartersyeppoon.com.au/quality_auto/Untitled%203.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.doublethreatchartersyeppoon.com.au/quality_auto/facebook.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/800336_5b2a2f36b4cf41a08e07b4b5454fea1e%7Emv2_d_2048_1448_s_2.jpg",
+      "error": "HTTP 403"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/800336_5b2a2f36b4cf41a08e07b4b5454fea1e%7Emv2_d_2048_1448_s_2.jpg/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/800336_5b2a2f36b4cf41a08e07b4b5454fea1e%7Emv2_d_2048_1448_s_2.jpg",
+      "error": "HTTP 403"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/800336_5b2a2f36b4cf41a08e07b4b5454fea1e%7Emv2_d_2048_1448_s_2.jpg/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/800336_5b2a2f36b4cf41a08e07b4b5454fea1e%7Emv2_d_2048_1448_s_2.jpg",
+      "error": "HTTP 403"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/800336_5b2a2f36b4cf41a08e07b4b5454fea1e%7Emv2_d_2048_1448_s_2.jpg/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/800336_5b2a2f36b4cf41a08e07b4b5454fea1e%7Emv2_d_2048_1448_s_2.jpg",
+      "error": "HTTP 403"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/800336_5debb5167d104d739a91559028ca5860~mv2.jpg/v1/fill/w_121,h_80,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Untitled%203.jpg",
+      "error": "too small 121x80"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/800336_5debb5167d104d739a91559028ca5860~mv2.jpg/v1/fill/w_242,h_159,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Untitled%203.jpg",
+      "error": "too small 242x159"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/0fdef751204647a3bbd7eaa2827ed4f9.png/v1/fill/w_40,h_40,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/facebook.png",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/800336_1ecb6a0b99ae4106be331174fb1d2a2b~mv2.jpeg/v1/fill/w_147,h_82,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/800336_1ecb6a0b99ae4106be331174fb1d2a2b~mv2.jpeg",
+      "error": "too small 147x82"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/800336_77041d5473ca48f1942228162f1c2a28~mv2.jpg/v1/fill/w_120,h_190,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/800336_77041d5473ca48f1942228162f1c2a28~mv2.jpg",
+      "error": "too small 120x190"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/800336_2c3dc8794b5a470bb4dab509da015530~mv2.jpeg",
+      "error": "too small 480x360"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/800336_2c3dc8794b5a470bb4dab509da015530~mv2.jpeg/v1/fill/w_368,h_432,al_c,lg_1,q_80,enc_avif,quality_auto/371F6CA7-EBA4-4BF4-9EFD-8177E9B096A4.jpeg",
+      "error": "too small 368x432"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/800336_e0ee5079f79d43cd98822676a56e833f~mv2.jpg"
+    },
+    {
+      "image": "https://www.doublethreatchartersyeppoon.com.au/quality_auto/371F6CA7-EBA4-4BF4-9EFD-8177E9B096A4.jpeg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.doublethreatchartersyeppoon.com.au/quality_auto/20C032DE-A7F2-4ADE-BC02-9747616FB5AC_edi.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/800336_e0ee5079f79d43cd98822676a56e833f~mv2.jpg/v1/crop/x_65,y_0,w_1916,h_2999/fill/w_460,h_720,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/20C032DE-A7F2-4ADE-BC02-9747616FB5AC_edi.jpg",
+      "error": "too small 460x720"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/800336_4d4308ed71a4426ebb542d27f9f1db6d~mv2.jpeg/v1/fill/w_147,h_74,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/800336_4d4308ed71a4426ebb542d27f9f1db6d~mv2.jpeg",
+      "error": "too small 147x74"
+    },
+    {
+      "image": "https://www.doublethreatchartersyeppoon.com.au/quality_auto/8C6B71EB-8EFF-438B-917F-D46A4A6E3D6F_heic.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.doublethreatchartersyeppoon.com.au/quality_auto/0FBD1F58-E9B3-42DB-A0FD-C80FB1C2A0FD_heic.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.doublethreatchartersyeppoon.com.au/quality_auto/61C52F29-8A3D-4AC6-9104-EC1D6BEB78E2_heic.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/800336_015a8389bfba4cb89fec0cacc5635ed1~mv2_d_1920_1440_s_2.jpg/v1/fill/w_96,h_72,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/800336_015a8389bfba4cb89fec0cacc5635ed1~mv2_d_1920_1440_s_2.jpg",
+      "error": "too small 96x72"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/800336_69bdc9d6773144b484fc6b6dc5aecda1~mv2.png/v1/fill/w_460,h_500,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8C6B71EB-8EFF-438B-917F-D46A4A6E3D6F_heic.png",
+      "error": "too small 460x500"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/800336_df8354ae8c0b4d62abafc2c23c3e40a2~mv2.png/v1/crop/x_0,y_307,w_3024,h_3418/fill/w_460,h_520,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/0FBD1F58-E9B3-42DB-A0FD-C80FB1C2A0FD_heic.png",
+      "error": "too small 460x520"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/800336_df8354ae8c0b4d62abafc2c23c3e40a2~mv2.png/v1/crop/x_0,y_307,w_3024,h_3418/fill/w_920,h_1040,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/0FBD1F58-E9B3-42DB-A0FD-C80FB1C2A0FD_heic.png"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/800336_d2d8bcf1162540e38e5207f21dac88d8~mv2.png/v1/crop/x_0,y_307,w_3024,h_3418/fill/w_460,h_520,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/61C52F29-8A3D-4AC6-9104-EC1D6BEB78E2_heic.png",
+      "error": "too small 460x520"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/800336_d2d8bcf1162540e38e5207f21dac88d8~mv2.png/v1/crop/x_0,y_307,w_3024,h_3418/fill/w_920,h_1040,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/61C52F29-8A3D-4AC6-9104-EC1D6BEB78E2_heic.png"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/0fdef751204647a3bbd7eaa2827ed4f9.png/v1/fill/w_26,h_26,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/facebook.png",
+      "error": "too small 26x26"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/800336_63c8ed2f905b4d1ab1a5132e15fd2848~mv2.jpeg/v1/fill/w_123,h_163,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/800336_63c8ed2f905b4d1ab1a5132e15fd2848~mv2.jpeg",
+      "error": "too small 123x163"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/0fdef751204647a3bbd7eaa2827ed4f9.png/v1/fill/w_52,h_52,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/facebook.png",
+      "error": "too small 52x52"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/800336_63c8ed2f905b4d1ab1a5132e15fd2848~mv2.jpeg/v1/fill/w_136,h_181,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/800336_63c8ed2f905b4d1ab1a5132e15fd2848~mv2.jpeg",
+      "error": "too small 136x181"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "research-hervey-dir2",
+  "request_hash": "a8ab13d192b0",
+  "collected_at": "2026-10-29T03:58:17.358Z",
+  "pages_fetched": [
+    "https://www.smarterfishingcharters.com.au/charters/region/4655?locale=Hervey+Bay",
+    "https://www.discoverherveybay.com/fishing-charters-hervey-bay/",
+    "https://experienceherveybay.com.au/princess-ii-fishing-trip-hervey-bay/",
+    "https://fishostackleworld.com.au/blogs/fishing-guide/snapper-season-in-hervey-bay-complete-angler-s-guide"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.smarterfishingcharters.com.au/charters/region/4655?locale=Hervey+Bay",
+      "status": 200,
+      "final_url": "https://www.smarterfishingcharters.com.au/charters/region/4655?locale=Hervey+Bay",
+      "bytes": 18814
+    },
+    {
+      "page": "https://www.discoverherveybay.com/fishing-charters-hervey-bay/",
+      "status": 403,
+      "final_url": "https://www.discoverherveybay.com/fishing-charters-hervey-bay/",
+      "bytes": 5808
+    },
+    {
+      "page": "https://experienceherveybay.com.au/princess-ii-fishing-trip-hervey-bay/",
+      "status": 200,
+      "final_url": "https://experienceherveybay.com.au/princess-ii-fishing-trip-hervey-bay/",
+      "bytes": 239538
+    },
+    {
+      "page": "https://fishostackleworld.com.au/blogs/fishing-guide/snapper-season-in-hervey-bay-complete-angler-s-guide",
+      "status": 200,
+      "final_url": "https://www.fishostackleworld.com.au/blogs/fishing-guide/snapper-season-in-hervey-bay-complete-angler-s-guide",
+      "bytes": 356116
+    }
+  ]
+}

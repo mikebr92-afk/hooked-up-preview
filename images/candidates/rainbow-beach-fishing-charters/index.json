@@ -1,0 +1,421 @@
+{
+  "slug": "rainbow-beach-fishing-charters",
+  "request_hash": "dab2dc131e81",
+  "collected_at": "2026-10-29T04:01:37.882Z",
+  "pages_fetched": [
+    "https://rainbowbeachfishing.squarespace.com/",
+    "https://rainbowbeachfishing.com/",
+    "https://rainbowbeachfishing.squarespace.com/cart",
+    "https://rainbowbeachfishing.squarespace.com/pricingandinfo-old",
+    "https://rainbowbeachfishing.squarespace.com/thevessel-old",
+    "https://rainbowbeachfishing.squarespace.com/contactandlocation-old",
+    "https://rainbowbeachfishing.squarespace.com/termsandconditions-old",
+    "https://rainbowbeachfishing.squarespace.com/contactandlocation",
+    "https://rainbowbeachfishing.squarespace.com/home",
+    "https://rainbowbeachfishing.squarespace.com/pricingandinfo",
+    "https://rainbowbeachfishing.squarespace.com/thevessel",
+    "https://www.rainbowbeachfishing.com/cart"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1887,
+      "height": 749,
+      "original": "1887x749",
+      "source": "https://images.squarespace-cdn.com/content/v1/51dcb6fce4b0a512f81f33ab/1f62db26-03d2-45e5-9187-bc0e4838fc0a/Baitrunner+no+number.jpg?format=2500w",
+      "page": "https://rainbowbeachfishing.squarespace.com/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1536x2048",
+      "source": "https://images.squarespace-cdn.com/content/v1/51dcb6fce4b0a512f81f33ab/806b05c9-263e-417a-b4a7-dcbe6dcf3705/448932454_1249537253120174_4014382881054004787_n.jpg?format=2500w",
+      "page": "https://rainbowbeachfishing.squarespace.com/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 960,
+      "height": 720,
+      "original": "960x720",
+      "source": "https://images.squarespace-cdn.com/content/v1/51dcb6fce4b0a512f81f33ab/ff284442-6de9-4cff-b2c6-0aa7889b97b4/471591825_1388182602588971_391240920914770207_n.jpg?format=2500w",
+      "page": "https://rainbowbeachfishing.squarespace.com/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1536x2048",
+      "source": "https://images.squarespace-cdn.com/content/v1/51dcb6fce4b0a512f81f33ab/a15ceff2-4824-4939-9ff5-e42718e0a41a/468429127_1363076318432933_2928594665429141076_n.jpg?format=2500w",
+      "page": "https://rainbowbeachfishing.squarespace.com/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1536x2048",
+      "source": "https://images.squarespace-cdn.com/content/v1/51dcb6fce4b0a512f81f33ab/44bb78f3-9758-411a-9a3c-457aac2c2e9c/459322430_1303607407713158_8262145508485164796_n.jpg?format=2500w",
+      "page": "https://rainbowbeachfishing.squarespace.com/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1536x2048",
+      "source": "https://images.squarespace-cdn.com/content/v1/51dcb6fce4b0a512f81f33ab/2f42f522-0929-40cf-badc-46145f6061b3/471610870_1388183022588929_7031501927755142967_n.jpg?format=2500w",
+      "page": "https://rainbowbeachfishing.squarespace.com/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2048x1536",
+      "source": "https://images.squarespace-cdn.com/content/v1/51dcb6fce4b0a512f81f33ab/016562d9-e806-4d3d-958e-2da794d77e42/466009149_1353358436071388_3860212477944296180_n.jpg?format=2500w",
+      "page": "https://rainbowbeachfishing.squarespace.com/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2500x3333",
+      "source": "https://images.squarespace-cdn.com/content/v1/6a8197879a6e910e1944fce2/c056f875-844d-4c4d-88a2-757be3fdd861/IMG_1676.jpeg?format=2500w",
+      "page": "https://rainbowbeachfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2500x3333",
+      "source": "https://images.squarespace-cdn.com/content/v1/6a8197879a6e910e1944fce2/6b9f9fee-a020-4710-960e-cc15d58c3c51/IMG_9927.jpeg?format=2500w",
+      "page": "https://rainbowbeachfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2500x3333",
+      "source": "https://images.squarespace-cdn.com/content/v1/6a8197879a6e910e1944fce2/4a311ef2-6cf2-4777-87ff-60f3beedb82e/IMG_4346.jpeg?format=2500w",
+      "page": "https://rainbowbeachfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2500x1875",
+      "source": "https://images.squarespace-cdn.com/content/v1/6a8197879a6e910e1944fce2/858bab89-e315-48ac-8af7-a4ac53231a62/IMG_4345.jpeg?format=2500w",
+      "page": "https://rainbowbeachfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2500x3333",
+      "source": "https://images.squarespace-cdn.com/content/v1/6a8197879a6e910e1944fce2/31e1a96e-7d7e-4faa-b6fe-26c7603598aa/IMG_9948.jpeg?format=2500w",
+      "page": "https://rainbowbeachfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2500x3333",
+      "source": "https://images.squarespace-cdn.com/content/v1/6a8197879a6e910e1944fce2/7dfeca03-6bd8-486e-bd50-cd93ffc6c1bf/IMG_1732.jpeg?format=2500w",
+      "page": "https://rainbowbeachfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2500x3333",
+      "source": "https://images.squarespace-cdn.com/content/v1/6a8197879a6e910e1944fce2/1247bae6-da2e-4501-873e-0e069f165bbb/IMG_1720.jpeg?format=2500w",
+      "page": "https://rainbowbeachfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2500x3333",
+      "source": "https://images.squarespace-cdn.com/content/v1/6a8197879a6e910e1944fce2/cf140e59-60a3-4a6b-9b25-0f66cd7512d7/IMG_1703.jpeg?format=2500w",
+      "page": "https://rainbowbeachfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2500x1875",
+      "source": "https://images.squarespace-cdn.com/content/v1/6a8197879a6e910e1944fce2/bcc4488c-c547-4123-87ed-620fc4a40f9d/IMG_1033.jpeg?format=2500w",
+      "page": "https://rainbowbeachfishing.com/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://rainbowbeachfishing.squarespace.com/",
+      "status": 200,
+      "final_url": "https://rainbowbeachfishing.squarespace.com/",
+      "bytes": 473930
+    },
+    {
+      "page": "https://rainbowbeachfishing.com/",
+      "status": 200,
+      "final_url": "https://www.rainbowbeachfishing.com/",
+      "bytes": 262619
+    },
+    {
+      "page": "https://rainbowbeachfishing.squarespace.com/cart",
+      "status": 200,
+      "final_url": "https://rainbowbeachfishing.squarespace.com/cart",
+      "bytes": 392173
+    },
+    {
+      "page": "https://rainbowbeachfishing.squarespace.com/pricingandinfo-old",
+      "status": 200,
+      "final_url": "https://rainbowbeachfishing.squarespace.com/pricingandinfo-old",
+      "bytes": 353083
+    },
+    {
+      "page": "https://rainbowbeachfishing.squarespace.com/thevessel-old",
+      "status": 200,
+      "final_url": "https://rainbowbeachfishing.squarespace.com/thevessel-old",
+      "bytes": 404596
+    },
+    {
+      "page": "https://rainbowbeachfishing.squarespace.com/contactandlocation-old",
+      "status": 200,
+      "final_url": "https://rainbowbeachfishing.squarespace.com/contactandlocation-old",
+      "bytes": 487654
+    },
+    {
+      "page": "https://rainbowbeachfishing.squarespace.com/termsandconditions-old",
+      "status": 200,
+      "final_url": "https://rainbowbeachfishing.squarespace.com/termsandconditions-old",
+      "bytes": 353886
+    },
+    {
+      "page": "https://rainbowbeachfishing.squarespace.com/contactandlocation",
+      "status": 200,
+      "final_url": "https://www.rainbowbeachfishing.com/contact",
+      "bytes": 227248
+    },
+    {
+      "page": "https://rainbowbeachfishing.squarespace.com/home",
+      "status": 200,
+      "final_url": "https://rainbowbeachfishing.squarespace.com/home",
+      "bytes": 202062
+    },
+    {
+      "page": "https://rainbowbeachfishing.squarespace.com/pricingandinfo",
+      "status": 200,
+      "final_url": "https://www.rainbowbeachfishing.com/services",
+      "bytes": 291140
+    },
+    {
+      "page": "https://rainbowbeachfishing.squarespace.com/thevessel",
+      "status": 200,
+      "final_url": "https://www.rainbowbeachfishing.com/about",
+      "bytes": 256849
+    },
+    {
+      "page": "https://www.rainbowbeachfishing.com/cart",
+      "status": 200,
+      "final_url": "https://www.rainbowbeachfishing.com/cart",
+      "bytes": 122607
+    },
+    {
+      "image": "http://static1.squarespace.com/static/51dcb6fce4b0a512f81f33ab/t/678b17ea89430230a59fe8d8/1737168874244/BAITRUNNER.png?format=1500w",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/51dcb6fce4b0a512f81f33ab/a8b0286b-386c-4814-ab5d-0462eb5747de/Baitrunner+Black.png?format=2500w",
+      "error": "too small 1000x200"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/51dcb6fce4b0a512f81f33ab/a8b0286b-386c-4814-ab5d-0462eb5747de/Baitrunner+Black.png?format=1500w",
+      "error": "too small 1000x200"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/51dcb6fce4b0a512f81f33ab/1f62db26-03d2-45e5-9187-bc0e4838fc0a/Baitrunner+no+number.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/51dcb6fce4b0a512f81f33ab/1f62db26-03d2-45e5-9187-bc0e4838fc0a/Baitrunner+no+number.jpg?format=100w",
+      "error": "too small 100x40"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/51dcb6fce4b0a512f81f33ab/1f62db26-03d2-45e5-9187-bc0e4838fc0a/Baitrunner+no+number.jpg?format=300w",
+      "error": "too small 300x119"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/51dcb6fce4b0a512f81f33ab/1f62db26-03d2-45e5-9187-bc0e4838fc0a/Baitrunner+no+number.jpg?format=500w",
+      "error": "too small 500x198"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/51dcb6fce4b0a512f81f33ab/1f62db26-03d2-45e5-9187-bc0e4838fc0a/Baitrunner+no+number.jpg?format=750w",
+      "error": "too small 750x298"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/51dcb6fce4b0a512f81f33ab/1f62db26-03d2-45e5-9187-bc0e4838fc0a/Baitrunner+no+number.jpg?format=1000w",
+      "error": "too small 1000x397"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/51dcb6fce4b0a512f81f33ab/1f62db26-03d2-45e5-9187-bc0e4838fc0a/Baitrunner+no+number.jpg?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/51dcb6fce4b0a512f81f33ab/806b05c9-263e-417a-b4a7-dcbe6dcf3705/448932454_1249537253120174_4014382881054004787_n.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/51dcb6fce4b0a512f81f33ab/806b05c9-263e-417a-b4a7-dcbe6dcf3705/448932454_1249537253120174_4014382881054004787_n.jpg?format=100w",
+      "error": "too small 100x133"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/51dcb6fce4b0a512f81f33ab/806b05c9-263e-417a-b4a7-dcbe6dcf3705/448932454_1249537253120174_4014382881054004787_n.jpg?format=300w",
+      "error": "too small 300x400"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/51dcb6fce4b0a512f81f33ab/806b05c9-263e-417a-b4a7-dcbe6dcf3705/448932454_1249537253120174_4014382881054004787_n.jpg?format=500w",
+      "error": "too small 500x667"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/51dcb6fce4b0a512f81f33ab/806b05c9-263e-417a-b4a7-dcbe6dcf3705/448932454_1249537253120174_4014382881054004787_n.jpg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/51dcb6fce4b0a512f81f33ab/806b05c9-263e-417a-b4a7-dcbe6dcf3705/448932454_1249537253120174_4014382881054004787_n.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/51dcb6fce4b0a512f81f33ab/806b05c9-263e-417a-b4a7-dcbe6dcf3705/448932454_1249537253120174_4014382881054004787_n.jpg?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/51dcb6fce4b0a512f81f33ab/ff284442-6de9-4cff-b2c6-0aa7889b97b4/471591825_1388182602588971_391240920914770207_n.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/51dcb6fce4b0a512f81f33ab/ff284442-6de9-4cff-b2c6-0aa7889b97b4/471591825_1388182602588971_391240920914770207_n.jpg?format=100w",
+      "error": "too small 100x75"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/51dcb6fce4b0a512f81f33ab/ff284442-6de9-4cff-b2c6-0aa7889b97b4/471591825_1388182602588971_391240920914770207_n.jpg?format=300w",
+      "error": "too small 300x225"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/51dcb6fce4b0a512f81f33ab/ff284442-6de9-4cff-b2c6-0aa7889b97b4/471591825_1388182602588971_391240920914770207_n.jpg?format=500w",
+      "error": "too small 500x375"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/51dcb6fce4b0a512f81f33ab/ff284442-6de9-4cff-b2c6-0aa7889b97b4/471591825_1388182602588971_391240920914770207_n.jpg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/51dcb6fce4b0a512f81f33ab/ff284442-6de9-4cff-b2c6-0aa7889b97b4/471591825_1388182602588971_391240920914770207_n.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/51dcb6fce4b0a512f81f33ab/ff284442-6de9-4cff-b2c6-0aa7889b97b4/471591825_1388182602588971_391240920914770207_n.jpg?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/51dcb6fce4b0a512f81f33ab/a15ceff2-4824-4939-9ff5-e42718e0a41a/468429127_1363076318432933_2928594665429141076_n.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/51dcb6fce4b0a512f81f33ab/a15ceff2-4824-4939-9ff5-e42718e0a41a/468429127_1363076318432933_2928594665429141076_n.jpg?format=100w",
+      "error": "too small 100x133"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/51dcb6fce4b0a512f81f33ab/a15ceff2-4824-4939-9ff5-e42718e0a41a/468429127_1363076318432933_2928594665429141076_n.jpg?format=300w",
+      "error": "too small 300x400"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/51dcb6fce4b0a512f81f33ab/a15ceff2-4824-4939-9ff5-e42718e0a41a/468429127_1363076318432933_2928594665429141076_n.jpg?format=500w",
+      "error": "too small 500x667"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/51dcb6fce4b0a512f81f33ab/a15ceff2-4824-4939-9ff5-e42718e0a41a/468429127_1363076318432933_2928594665429141076_n.jpg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/51dcb6fce4b0a512f81f33ab/a15ceff2-4824-4939-9ff5-e42718e0a41a/468429127_1363076318432933_2928594665429141076_n.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/51dcb6fce4b0a512f81f33ab/a15ceff2-4824-4939-9ff5-e42718e0a41a/468429127_1363076318432933_2928594665429141076_n.jpg?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/51dcb6fce4b0a512f81f33ab/44bb78f3-9758-411a-9a3c-457aac2c2e9c/459322430_1303607407713158_8262145508485164796_n.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/51dcb6fce4b0a512f81f33ab/44bb78f3-9758-411a-9a3c-457aac2c2e9c/459322430_1303607407713158_8262145508485164796_n.jpg?format=100w",
+      "error": "too small 100x133"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/51dcb6fce4b0a512f81f33ab/44bb78f3-9758-411a-9a3c-457aac2c2e9c/459322430_1303607407713158_8262145508485164796_n.jpg?format=300w",
+      "error": "too small 300x400"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/51dcb6fce4b0a512f81f33ab/44bb78f3-9758-411a-9a3c-457aac2c2e9c/459322430_1303607407713158_8262145508485164796_n.jpg?format=500w",
+      "error": "too small 500x667"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/51dcb6fce4b0a512f81f33ab/44bb78f3-9758-411a-9a3c-457aac2c2e9c/459322430_1303607407713158_8262145508485164796_n.jpg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/51dcb6fce4b0a512f81f33ab/44bb78f3-9758-411a-9a3c-457aac2c2e9c/459322430_1303607407713158_8262145508485164796_n.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/51dcb6fce4b0a512f81f33ab/44bb78f3-9758-411a-9a3c-457aac2c2e9c/459322430_1303607407713158_8262145508485164796_n.jpg?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/51dcb6fce4b0a512f81f33ab/2f42f522-0929-40cf-badc-46145f6061b3/471610870_1388183022588929_7031501927755142967_n.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/51dcb6fce4b0a512f81f33ab/2f42f522-0929-40cf-badc-46145f6061b3/471610870_1388183022588929_7031501927755142967_n.jpg?format=100w",
+      "error": "too small 100x133"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/51dcb6fce4b0a512f81f33ab/2f42f522-0929-40cf-badc-46145f6061b3/471610870_1388183022588929_7031501927755142967_n.jpg?format=300w",
+      "error": "too small 300x400"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/51dcb6fce4b0a512f81f33ab/2f42f522-0929-40cf-badc-46145f6061b3/471610870_1388183022588929_7031501927755142967_n.jpg?format=500w",
+      "error": "too small 500x667"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/51dcb6fce4b0a512f81f33ab/2f42f522-0929-40cf-badc-46145f6061b3/471610870_1388183022588929_7031501927755142967_n.jpg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/51dcb6fce4b0a512f81f33ab/2f42f522-0929-40cf-badc-46145f6061b3/471610870_1388183022588929_7031501927755142967_n.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/51dcb6fce4b0a512f81f33ab/2f42f522-0929-40cf-badc-46145f6061b3/471610870_1388183022588929_7031501927755142967_n.jpg?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/51dcb6fce4b0a512f81f33ab/016562d9-e806-4d3d-958e-2da794d77e42/466009149_1353358436071388_3860212477944296180_n.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/51dcb6fce4b0a512f81f33ab/016562d9-e806-4d3d-958e-2da794d77e42/466009149_1353358436071388_3860212477944296180_n.jpg?format=100w",
+      "error": "too small 100x75"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/51dcb6fce4b0a512f81f33ab/016562d9-e806-4d3d-958e-2da794d77e42/466009149_1353358436071388_3860212477944296180_n.jpg?format=300w",
+      "error": "too small 300x225"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/51dcb6fce4b0a512f81f33ab/016562d9-e806-4d3d-958e-2da794d77e42/466009149_1353358436071388_3860212477944296180_n.jpg?format=500w",
+      "error": "too small 500x375"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/51dcb6fce4b0a512f81f33ab/016562d9-e806-4d3d-958e-2da794d77e42/466009149_1353358436071388_3860212477944296180_n.jpg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/51dcb6fce4b0a512f81f33ab/016562d9-e806-4d3d-958e-2da794d77e42/466009149_1353358436071388_3860212477944296180_n.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/51dcb6fce4b0a512f81f33ab/016562d9-e806-4d3d-958e-2da794d77e42/466009149_1353358436071388_3860212477944296180_n.jpg?format=1500w"
+    }
+  ]
+}

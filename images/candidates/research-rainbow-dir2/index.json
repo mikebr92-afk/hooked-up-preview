@@ -1,0 +1,24 @@
+{
+  "slug": "research-rainbow-dir2",
+  "request_hash": "1cf4feed62b9",
+  "collected_at": "2026-10-29T04:01:53.404Z",
+  "pages_fetched": [
+    "https://tackleworldrainbow.com.au/pages/fishing-charters",
+    "https://www.smarterfishingcharters.com.au/charters/region/4581?locale=Rainbow+Beach"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://tackleworldrainbow.com.au/pages/fishing-charters",
+      "status": 200,
+      "final_url": "https://tackleworldrainbow.com.au/pages/fishing-charters",
+      "bytes": 388215
+    },
+    {
+      "page": "https://www.smarterfishingcharters.com.au/charters/region/4581?locale=Rainbow+Beach",
+      "status": 200,
+      "final_url": "https://www.smarterfishingcharters.com.au/charters/region/4581?locale=Rainbow+Beach",
+      "bytes": 22105
+    }
+  ]
+}

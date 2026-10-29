@@ -1,0 +1,45 @@
+{
+  "slug": "research-agnes-dir2",
+  "request_hash": "afaa1e0050a1",
+  "collected_at": "2026-10-29T03:58:38.498Z",
+  "pages_fetched": [
+    "https://www.smarterfishingcharters.com.au/charters/region/4677?locale=Town+of+1770%2FAgnes+Waters",
+    "https://discover1770.com.au/activities/reef-fishing-charters-in-agnes-water-and-the-town-of-1770/",
+    "https://1770marina.com.au/explore/",
+    "https://www.seventeenseventy.au/",
+    "https://agneswaterbeachclub.com.au/experiences/offshore-fishing/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.smarterfishingcharters.com.au/charters/region/4677?locale=Town+of+1770%2FAgnes+Waters",
+      "status": 200,
+      "final_url": "https://www.smarterfishingcharters.com.au/charters/region/4677?locale=Town+of+1770%2FAgnes+Waters",
+      "bytes": 14375
+    },
+    {
+      "page": "https://discover1770.com.au/activities/reef-fishing-charters-in-agnes-water-and-the-town-of-1770/",
+      "status": 403,
+      "final_url": "https://discover1770.com.au/activities/reef-fishing-charters-in-agnes-water-and-the-town-of-1770/",
+      "bytes": 6054
+    },
+    {
+      "page": "https://1770marina.com.au/explore/",
+      "status": 403,
+      "final_url": "https://1770marina.com.au/explore/",
+      "bytes": 5783
+    },
+    {
+      "page": "https://www.seventeenseventy.au/",
+      "status": 200,
+      "final_url": "https://www.seventeenseventy.au/",
+      "bytes": 50416
+    },
+    {
+      "page": "https://agneswaterbeachclub.com.au/experiences/offshore-fishing/",
+      "status": 200,
+      "final_url": "https://agneswaterbeachclub.com.au/experiences/offshore-fishing/",
+      "bytes": 79729
+    }
+  ]
+}

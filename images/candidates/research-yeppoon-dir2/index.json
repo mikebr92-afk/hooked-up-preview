@@ -1,0 +1,24 @@
+{
+  "slug": "research-yeppoon-dir2",
+  "request_hash": "c70a4684e988",
+  "collected_at": "2026-10-29T04:00:53.859Z",
+  "pages_fetched": [
+    "https://www.smarterfishingcharters.com.au/charters/region/4703?locale=Yeppoon",
+    "https://www.smarterfishingcharters.com.au/charters/details/364"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.smarterfishingcharters.com.au/charters/region/4703?locale=Yeppoon",
+      "status": 200,
+      "final_url": "https://www.smarterfishingcharters.com.au/charters/region/4703?locale=Yeppoon",
+      "bytes": 16043
+    },
+    {
+      "page": "https://www.smarterfishingcharters.com.au/charters/details/364",
+      "status": 200,
+      "final_url": "https://www.smarterfishingcharters.com.au/charters/details/364",
+      "bytes": 16157
+    }
+  ]
+}

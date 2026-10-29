@@ -1,0 +1,31 @@
+{
+  "slug": "research-gladstone-dir2",
+  "request_hash": "836cbbaf43ca",
+  "collected_at": "2026-10-29T04:00:10.097Z",
+  "pages_fetched": [
+    "https://www.gladstoneregion.info/plan/boating-fishing/",
+    "https://www.smarterfishingcharters.com.au/charters/region/4680?locale=Gladstone",
+    "https://nightcrossing.com.au/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.gladstoneregion.info/plan/boating-fishing/",
+      "status": 403,
+      "final_url": "https://www.gladstoneregion.info/plan/boating-fishing/",
+      "bytes": 5872
+    },
+    {
+      "page": "https://www.smarterfishingcharters.com.au/charters/region/4680?locale=Gladstone",
+      "status": 200,
+      "final_url": "https://www.smarterfishingcharters.com.au/charters/region/4680?locale=Gladstone",
+      "bytes": 17418
+    },
+    {
+      "page": "https://nightcrossing.com.au/",
+      "status": 200,
+      "final_url": "https://nightcrossing.com.au/",
+      "bytes": 47570
+    }
+  ]
+}

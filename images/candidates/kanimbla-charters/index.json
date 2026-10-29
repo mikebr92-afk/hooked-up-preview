@@ -1,0 +1,262 @@
+{
+  "slug": "kanimbla-charters",
+  "request_hash": "44e1c64a8887",
+  "collected_at": "2026-10-29T04:00:53.070Z",
+  "pages_fetched": [
+    "https://www.kanimblacharters.net.au/",
+    "https://www.kanimblacharters.net.au/our-boats/",
+    "https://www.kanimblacharters.net.au/charter-options/",
+    "https://www.kanimblacharters.net.au/availability/",
+    "https://www.kanimblacharters.net.au/useful-information/",
+    "https://www.kanimblacharters.net.au/location/",
+    "https://www.kanimblacharters.net.au/recipes/",
+    "https://www.kanimblacharters.net.au/contact-us/",
+    "https://www.kanimblacharters.net.au/trip-reports/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 2000,
+      "height": 1511,
+      "original": "2500x1889",
+      "source": "https://www.kanimblacharters.net.au/wp-content/uploads/Kanimbla-home-page-hero.jpg",
+      "page": "https://www.kanimblacharters.net.au/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 2000,
+      "height": 909,
+      "original": "2048x931",
+      "source": "https://www.kanimblacharters.net.au/wp-content/uploads/Kanimbla-Slideshow-Wide-001-1.jpg",
+      "page": "https://www.kanimblacharters.net.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 2000,
+      "height": 909,
+      "original": "2048x931",
+      "source": "https://www.kanimblacharters.net.au/wp-content/uploads/Kanimbla-Slideshow-Wide-002.jpg",
+      "page": "https://www.kanimblacharters.net.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 2000,
+      "height": 909,
+      "original": "2048x931",
+      "source": "https://www.kanimblacharters.net.au/wp-content/uploads/Kanimbla-Slideshow-Wide-003.jpg",
+      "page": "https://www.kanimblacharters.net.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 2000,
+      "height": 909,
+      "original": "2560x1163",
+      "source": "https://www.kanimblacharters.net.au/wp-content/uploads/Revised-photo-scaled.jpg",
+      "page": "https://www.kanimblacharters.net.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1000,
+      "height": 1000,
+      "original": "1000x1000",
+      "source": "https://www.kanimblacharters.net.au/wp-content/uploads/Kanimbla-Slideshow-Mobile-001-1.jpg",
+      "page": "https://www.kanimblacharters.net.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1000,
+      "height": 1000,
+      "original": "1000x1000",
+      "source": "https://www.kanimblacharters.net.au/wp-content/uploads/Kanimbla-Slideshow-Mobile-003.jpg",
+      "page": "https://www.kanimblacharters.net.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 2000,
+      "height": 1321,
+      "original": "2000x1321",
+      "source": "https://www.kanimblacharters.net.au/wp-content/uploads/Our-Boats-hero-new.jpg",
+      "page": "https://www.kanimblacharters.net.au/our-boats/",
+      "priority": true
+    },
+    {
+      "file": "c09.webp",
+      "width": 2000,
+      "height": 1511,
+      "original": "3271x2471",
+      "source": "https://www.kanimblacharters.net.au/wp-content/uploads/Kanimbla-1.jpg",
+      "page": "https://www.kanimblacharters.net.au/our-boats/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "4320x3240",
+      "source": "https://www.kanimblacharters.net.au/wp-content/uploads/P1070138.jpg",
+      "page": "https://www.kanimblacharters.net.au/our-boats/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1920,
+      "height": 1440,
+      "original": "1920x1440",
+      "source": "https://www.kanimblacharters.net.au/wp-content/uploads/P9210085.jpg",
+      "page": "https://www.kanimblacharters.net.au/our-boats/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 2000,
+      "height": 1041,
+      "original": "2000x1041",
+      "source": "https://www.kanimblacharters.net.au/wp-content/uploads/Charter-options-hero.jpg",
+      "page": "https://www.kanimblacharters.net.au/charter-options/",
+      "priority": true
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.kanimblacharters.net.au/",
+      "status": 200,
+      "final_url": "https://www.kanimblacharters.net.au/",
+      "bytes": 39812
+    },
+    {
+      "page": "https://www.kanimblacharters.net.au/our-boats/",
+      "status": 200,
+      "final_url": "https://www.kanimblacharters.net.au/our-boats/",
+      "bytes": 34772
+    },
+    {
+      "page": "https://www.kanimblacharters.net.au/charter-options/",
+      "status": 200,
+      "final_url": "https://www.kanimblacharters.net.au/charter-options/",
+      "bytes": 35178
+    },
+    {
+      "page": "https://www.kanimblacharters.net.au/availability/",
+      "status": 200,
+      "final_url": "https://www.kanimblacharters.net.au/availability/",
+      "bytes": 30766
+    },
+    {
+      "page": "https://www.kanimblacharters.net.au/useful-information/",
+      "status": 200,
+      "final_url": "https://www.kanimblacharters.net.au/useful-information/",
+      "bytes": 34952
+    },
+    {
+      "page": "https://www.kanimblacharters.net.au/location/",
+      "status": 200,
+      "final_url": "https://www.kanimblacharters.net.au/location/",
+      "bytes": 31578
+    },
+    {
+      "page": "https://www.kanimblacharters.net.au/recipes/",
+      "status": 200,
+      "final_url": "https://www.kanimblacharters.net.au/recipes/",
+      "bytes": 33165
+    },
+    {
+      "page": "https://www.kanimblacharters.net.au/contact-us/",
+      "status": 200,
+      "final_url": "https://www.kanimblacharters.net.au/contact-us/",
+      "bytes": 41749
+    },
+    {
+      "page": "https://www.kanimblacharters.net.au/trip-reports/",
+      "status": 200,
+      "final_url": "https://www.kanimblacharters.net.au/trip-reports/",
+      "bytes": 57752
+    },
+    {
+      "dup": "https://www.kanimblacharters.net.au/wp-content/uploads/Kanimbla-Slideshow-Mobile-002.jpg"
+    },
+    {
+      "image": "https://www.kanimblacharters.net.au/wp-content/uploads/gladstone_qld_map-1.jpg",
+      "error": "too small 903x346"
+    },
+    {
+      "dup": "https://www.kanimblacharters.net.au/wp-content/uploads/IMG_0079.jpg"
+    },
+    {
+      "dup": "https://www.kanimblacharters.net.au/wp-content/uploads/Kanimbla-1-2048x1547.jpg"
+    },
+    {
+      "dup": "https://www.kanimblacharters.net.au/wp-content/uploads/P1070138-2048x1536.jpg"
+    },
+    {
+      "dup": "https://www.kanimblacharters.net.au/wp-content/uploads/IMG_0079-2048x1536.jpg"
+    },
+    {
+      "dup": "https://www.kanimblacharters.net.au/wp-content/uploads/Kanimbla-1-1024x774.jpg"
+    },
+    {
+      "image": "https://www.kanimblacharters.net.au/wp-content/uploads/Kanimbla-1-300x227.jpg",
+      "error": "too small 300x227"
+    },
+    {
+      "dup": "https://www.kanimblacharters.net.au/wp-content/uploads/Kanimbla-1-768x580.jpg"
+    },
+    {
+      "dup": "https://www.kanimblacharters.net.au/wp-content/uploads/Kanimbla-1-1536x1160.jpg"
+    },
+    {
+      "dup": "https://www.kanimblacharters.net.au/wp-content/uploads/P1070138-1024x768.jpg"
+    },
+    {
+      "image": "https://www.kanimblacharters.net.au/wp-content/uploads/P1070138-300x225.jpg",
+      "error": "too small 300x225"
+    },
+    {
+      "dup": "https://www.kanimblacharters.net.au/wp-content/uploads/P1070138-768x576.jpg"
+    },
+    {
+      "dup": "https://www.kanimblacharters.net.au/wp-content/uploads/P1070138-1536x1152.jpg"
+    },
+    {
+      "image": "https://www.kanimblacharters.net.au/wp-content/uploads/P9210085-300x225.jpg",
+      "error": "too small 300x225"
+    },
+    {
+      "dup": "https://www.kanimblacharters.net.au/wp-content/uploads/P9210085-768x576.jpg"
+    },
+    {
+      "dup": "https://www.kanimblacharters.net.au/wp-content/uploads/P9210085-1024x768.jpg"
+    },
+    {
+      "dup": "https://www.kanimblacharters.net.au/wp-content/uploads/IMG_0079-1024x768.jpg"
+    },
+    {
+      "image": "https://www.kanimblacharters.net.au/wp-content/uploads/IMG_0079-300x225.jpg",
+      "error": "too small 300x225"
+    },
+    {
+      "dup": "https://www.kanimblacharters.net.au/wp-content/uploads/IMG_0079-768x576.jpg"
+    },
+    {
+      "dup": "https://www.kanimblacharters.net.au/wp-content/uploads/IMG_0079-1536x1152.jpg"
+    },
+    {
+      "image": "https://www.kanimblacharters.net.au/wp-content/uploads/IMG_0079-24x18.jpg",
+      "error": "too small 24x18"
+    },
+    {
+      "image": "https://www.kanimblacharters.net.au/wp-content/uploads/IMG_0079-36x27.jpg",
+      "error": "too small 36x27"
+    },
+    {
+      "image": "https://www.kanimblacharters.net.au/wp-content/uploads/IMG_0079-48x36.jpg",
+      "error": "too small 48x36"
+    }
+  ]
+}

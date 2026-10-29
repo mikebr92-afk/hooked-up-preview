@@ -1,0 +1,15 @@
+{
+  "slug": "truansea-charters",
+  "request_hash": "2497a4cc429c",
+  "collected_at": "2026-10-29T03:58:27.842Z",
+  "pages_fetched": [
+    "https://truansea.com.au/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://truansea.com.au/",
+      "error": "fetch failed"
+    }
+  ]
+}

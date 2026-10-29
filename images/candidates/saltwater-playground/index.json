@@ -1,0 +1,282 @@
+{
+  "slug": "saltwater-playground",
+  "request_hash": "749da3d9c3e2",
+  "collected_at": "2026-10-29T03:58:14.343Z",
+  "pages_fetched": [
+    "https://www.saltwaterplayground.com.au/",
+    "https://www.saltwaterplayground.com.au/hervey-bay-fishing-charters",
+    "https://www.saltwaterplayground.com.au/pricing",
+    "https://www.saltwaterplayground.com.au/aboutus",
+    "https://www.saltwaterplayground.com.au/faq",
+    "https://www.saltwaterplayground.com.au/contact",
+    "https://www.saltwaterplayground.com.au/fishingcharters"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 850,
+      "height": 400,
+      "original": "850x400",
+      "source": "http://static1.squarespace.com/static/64880c845a05d0018bc70323/t/674028fe82e4b0102dee96a4/1732258046376/White+with+green+transparent+-+shaun.png?format=1500w",
+      "page": "https://www.saltwaterplayground.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 2000,
+      "height": 1125,
+      "original": "2500x1406",
+      "source": "https://images.squarespace-cdn.com/content/v1/64880c845a05d0018bc70323/c0d949c4-b5e4-4837-9bfc-2f9e7d440b3f/DJI_20241012141232_0014_D.JPG?format=2500w",
+      "page": "https://www.saltwaterplayground.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 2000,
+      "height": 1333,
+      "original": "2500x1666",
+      "source": "https://images.squarespace-cdn.com/content/v1/64880c845a05d0018bc70323/2bc577db-2937-4040-a797-70c95679ea09/SaltwaterPlayground-Stills-HQPRINT-11.jpg?format=2500w",
+      "page": "https://www.saltwaterplayground.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 2000,
+      "height": 1713,
+      "original": "2500x2141",
+      "source": "https://images.squarespace-cdn.com/content/v1/64880c845a05d0018bc70323/e15cc18e-81c9-4ec3-8cec-2b2caef59e1d/AAC983DF-95F5-445A-BA20-093F09B8BAFA+%281%29.JPEG?format=2500w",
+      "page": "https://www.saltwaterplayground.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 2000,
+      "height": 2000,
+      "original": "2500x2500",
+      "source": "https://images.squarespace-cdn.com/content/v1/64880c845a05d0018bc70323/8bb66057-b015-4673-a502-325b79fac088/2A6F6554-FCB2-4508-B93C-350060FECA39.JPEG?format=2500w",
+      "page": "https://www.saltwaterplayground.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2500x1667",
+      "source": "https://images.squarespace-cdn.com/content/v1/64880c845a05d0018bc70323/5b171966-d73f-41e5-bdb6-73573376b7b7/IMG_1169.JPEG?format=2500w",
+      "page": "https://www.saltwaterplayground.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2344x1564",
+      "source": "https://images.squarespace-cdn.com/content/v1/64880c845a05d0018bc70323/1760753346503-R00ZK56U8GT5401RUV36/IMG_1833.jpg?format=2500w",
+      "page": "https://www.saltwaterplayground.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 2000,
+      "height": 2000,
+      "original": "2500x2500",
+      "source": "https://images.squarespace-cdn.com/content/v1/64880c845a05d0018bc70323/1bb30e57-0317-4800-be2d-dee6c63c5535/A96C8266-3D0F-42D6-9145-633368EC1A71.JPEG?format=2500w",
+      "page": "https://www.saltwaterplayground.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 2000,
+      "height": 1601,
+      "original": "2083x1667",
+      "source": "https://images.squarespace-cdn.com/content/v1/64880c845a05d0018bc70323/1787631401663-2EU2TBI3XRYWUR5D69P6/IMG_1322.jpg?format=2500w",
+      "page": "https://www.saltwaterplayground.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 2000,
+      "height": 1600,
+      "original": "2082x1666",
+      "source": "https://images.squarespace-cdn.com/content/v1/64880c845a05d0018bc70323/1787631520954-3U26IVRKPJO67Y3TA1S9/IMG_1124.jpg?format=2500w",
+      "page": "https://www.saltwaterplayground.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 2000,
+      "height": 2000,
+      "original": "2500x2500",
+      "source": "https://images.squarespace-cdn.com/content/v1/64880c845a05d0018bc70323/1749103898612-YG0BE8SIPLZXG899TJN1/A0D969B6-92DA-42C0-8D33-1606097D0195.jpg?format=2500w",
+      "page": "https://www.saltwaterplayground.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 2000,
+      "height": 2000,
+      "original": "2500x2500",
+      "source": "https://images.squarespace-cdn.com/content/v1/64880c845a05d0018bc70323/21da4720-bbea-4cf2-858a-5a8adc6686f0/F322CBA5-DD14-491A-BF96-EBF51FB14490.JPEG?format=2500w",
+      "page": "https://www.saltwaterplayground.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2500x3333",
+      "source": "https://images.squarespace-cdn.com/content/v1/64880c845a05d0018bc70323/f312c956-d1d0-4a64-bfcd-51c485156417/BD0B1F36-F4A2-428F-8AED-CB3B73C55A44.JPEG?format=2500w",
+      "page": "https://www.saltwaterplayground.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 2000,
+      "height": 1333,
+      "original": "2500x1666",
+      "source": "https://images.squarespace-cdn.com/content/v1/64880c845a05d0018bc70323/329716c6-ed81-49da-a927-b6c6e79abe24/SaltwaterPlayground-StillsD2-HQPRINT-15.jpg?format=2500w",
+      "page": "https://www.saltwaterplayground.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2500x1668",
+      "source": "https://images.squarespace-cdn.com/content/v1/64880c845a05d0018bc70323/334bcfaa-ada3-4f55-be7c-257b7d8c6ded/IMG_5144.JPG?format=2500w",
+      "page": "https://www.saltwaterplayground.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 2000,
+      "height": 1333,
+      "original": "2500x1666",
+      "source": "https://images.squarespace-cdn.com/content/v1/64880c845a05d0018bc70323/359cb8fe-cb92-491d-9865-6a401f677783/SaltwaterPlayground-StillsD2-HQPRINT-4.jpg?format=2500w",
+      "page": "https://www.saltwaterplayground.com.au/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.saltwaterplayground.com.au/",
+      "status": 200,
+      "final_url": "https://www.saltwaterplayground.com.au/",
+      "bytes": 531127
+    },
+    {
+      "page": "https://www.saltwaterplayground.com.au/hervey-bay-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.saltwaterplayground.com.au/hervey-bay-fishing-charters",
+      "bytes": 696227
+    },
+    {
+      "page": "https://www.saltwaterplayground.com.au/pricing",
+      "status": 200,
+      "final_url": "https://www.saltwaterplayground.com.au/pricing",
+      "bytes": 380459
+    },
+    {
+      "page": "https://www.saltwaterplayground.com.au/aboutus",
+      "status": 200,
+      "final_url": "https://www.saltwaterplayground.com.au/aboutus",
+      "bytes": 223099
+    },
+    {
+      "page": "https://www.saltwaterplayground.com.au/faq",
+      "status": 200,
+      "final_url": "https://www.saltwaterplayground.com.au/faq",
+      "bytes": 261010
+    },
+    {
+      "page": "https://www.saltwaterplayground.com.au/contact",
+      "status": 200,
+      "final_url": "https://www.saltwaterplayground.com.au/contact",
+      "bytes": 358563
+    },
+    {
+      "page": "https://www.saltwaterplayground.com.au/fishingcharters",
+      "status": 404,
+      "final_url": "https://www.saltwaterplayground.com.au/fishingcharters",
+      "bytes": 390241
+    },
+    {
+      "dup": "https://static1.squarespace.com/static/64880c845a05d0018bc70323/t/674028fe82e4b0102dee96a4/1787631525075/"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/64880c845a05d0018bc70323/7b937a9a-31d0-4ca9-88a5-bcd142b45c24/White+with+green+transparent+-+shaun.png?format=2500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/64880c845a05d0018bc70323/6c4f8f3e-185d-4ef1-8e0d-680a00206a86/White+with+green+transparent+-+shaun.png?format=2500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/64880c845a05d0018bc70323/7b937a9a-31d0-4ca9-88a5-bcd142b45c24/White+with+green+transparent+-+shaun.png?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/64880c845a05d0018bc70323/6c4f8f3e-185d-4ef1-8e0d-680a00206a86/White+with+green+transparent+-+shaun.png?format=1500w"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/64880c845a05d0018bc70323/4f81e8f7-71d1-4eec-ab19-5c29de1e7e3c/knot+white+blue.png?format=2500w",
+      "error": "too small 300x75"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/64880c845a05d0018bc70323/4f81e8f7-71d1-4eec-ab19-5c29de1e7e3c/knot+white+blue.png",
+      "error": "too small 300x75"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/64880c845a05d0018bc70323/2bc577db-2937-4040-a797-70c95679ea09/SaltwaterPlayground-Stills-HQPRINT-11.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/64880c845a05d0018bc70323/8bb66057-b015-4673-a502-325b79fac088/2A6F6554-FCB2-4508-B93C-350060FECA39.JPEG"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/64880c845a05d0018bc70323/1749103898612-YG0BE8SIPLZXG899TJN1/A0D969B6-92DA-42C0-8D33-1606097D0195.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/64880c845a05d0018bc70323/1bb30e57-0317-4800-be2d-dee6c63c5535/A96C8266-3D0F-42D6-9145-633368EC1A71.JPEG"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/64880c845a05d0018bc70323/1760753346503-R00ZK56U8GT5401RUV36/IMG_1833.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/64880c845a05d0018bc70323/6f5e485f-47a8-4c2b-a7b5-576df9cc54c1/boat+circle.png?format=2500w",
+      "error": "too small 402x384"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/64880c845a05d0018bc70323/6f5e485f-47a8-4c2b-a7b5-576df9cc54c1/boat+circle.png",
+      "error": "too small 402x384"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/64880c845a05d0018bc70323/bba565d1-1a61-49a5-b3da-920df37707f8/family+circle.png?format=2500w",
+      "error": "too small 415x396"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/64880c845a05d0018bc70323/bba565d1-1a61-49a5-b3da-920df37707f8/family+circle.png",
+      "error": "too small 415x396"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/64880c845a05d0018bc70323/08df6b63-88e8-499b-8a33-5f6f44481320/luxary+experience.png?format=2500w",
+      "error": "too small 375x376"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/64880c845a05d0018bc70323/08df6b63-88e8-499b-8a33-5f6f44481320/luxary+experience.png",
+      "error": "too small 375x376"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/64880c845a05d0018bc70323/1606d1bc-29b6-46ac-af05-7f729f90774c/skipper+hat.png?format=2500w",
+      "error": "too small 403x397"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/64880c845a05d0018bc70323/1606d1bc-29b6-46ac-af05-7f729f90774c/skipper+hat.png",
+      "error": "too small 403x397"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/64880c845a05d0018bc70323/553b4309-001f-406d-a6f9-adc4640dd02c/knot+white+blue+2.png?format=2500w",
+      "error": "too small 1000x250"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/64880c845a05d0018bc70323/553b4309-001f-406d-a6f9-adc4640dd02c/knot+white+blue+2.png",
+      "error": "too small 1000x250"
+    }
+  ]
+}

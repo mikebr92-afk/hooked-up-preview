@@ -1,0 +1,24 @@
+{
+  "slug": "research-bundaberg-dir2",
+  "request_hash": "c67b745c2bd9",
+  "collected_at": "2026-10-29T03:58:28.876Z",
+  "pages_fetched": [
+    "https://tackleworldbundy.com.au/pages/local-charter-operators",
+    "https://www.smarterfishingcharters.com.au/charters/region/4670?locale=Bundaberg"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://tackleworldbundy.com.au/pages/local-charter-operators",
+      "status": 200,
+      "final_url": "https://tackleworldbundy.com.au/pages/local-charter-operators",
+      "bytes": 349172
+    },
+    {
+      "page": "https://www.smarterfishingcharters.com.au/charters/region/4670?locale=Bundaberg",
+      "status": 200,
+      "final_url": "https://www.smarterfishingcharters.com.au/charters/region/4670?locale=Bundaberg",
+      "bytes": 13371
+    }
+  ]
+}

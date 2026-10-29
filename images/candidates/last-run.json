@@ -1,140 +1,218 @@
 {
-  "finished_at": "2026-10-29T03:55:41.334Z",
+  "finished_at": "2026-10-29T04:01:53.404Z",
   "summary": [
     {
       "slug": "hooker-1-fishing-charters-gold-coast",
-      "candidates": 16,
-      "pages": 7
+      "skipped": true
     },
     {
       "slug": "gold-coast-fishing-charters",
-      "candidates": 16,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "top-gear-fishing-charters",
-      "candidates": 15,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "true-blue-fishing-charters",
-      "candidates": 11,
-      "pages": 12
+      "skipped": true
     },
     {
       "slug": "deep-sea-fishing-charters-gold-coast",
-      "candidates": 1,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "paradise-fishing-charters",
-      "candidates": 16,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "wild-thing-fishing-charters",
-      "candidates": 5,
-      "pages": 1
+      "skipped": true
     },
     {
       "slug": "fish-the-deep-charters",
-      "candidates": 12,
-      "pages": 11
+      "skipped": true
     },
     {
       "slug": "research-gc-dir",
-      "candidates": 0,
-      "pages": 2
+      "skipped": true
     },
     {
       "slug": "moreton-island-fishing-charters",
-      "candidates": 16,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "capns-charters",
-      "candidates": 12,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "research-bne-dir",
-      "candidates": 0,
-      "pages": 7
+      "skipped": true
     },
     {
       "slug": "deep-end-fishing",
+      "skipped": true
+    },
+    {
+      "slug": "smithys-fishing-charters",
+      "skipped": true
+    },
+    {
+      "slug": "salty-fishing-charters",
+      "skipped": true
+    },
+    {
+      "slug": "caloundra-guided-fishing-charters",
+      "skipped": true
+    },
+    {
+      "slug": "deep-sea-fishing-co-noosa",
+      "skipped": true
+    },
+    {
+      "slug": "noosa-bluewater-charters",
+      "skipped": true
+    },
+    {
+      "slug": "fishing-offshore-noosa",
+      "skipped": true
+    },
+    {
+      "slug": "what-a-catch-fishing",
+      "skipped": true
+    },
+    {
+      "slug": "research-sc-dir",
+      "skipped": true
+    },
+    {
+      "slug": "research-hervey-dir",
+      "skipped": true
+    },
+    {
+      "slug": "research-agnes-dir",
+      "skipped": true
+    },
+    {
+      "slug": "research-gladstone-dir",
+      "skipped": true
+    },
+    {
+      "slug": "research-yeppoon-dir",
+      "skipped": true
+    },
+    {
+      "slug": "research-rainbow-dir",
+      "skipped": true
+    },
+    {
+      "slug": "research-bundaberg-dir",
+      "skipped": true
+    },
+    {
+      "slug": "hervey-bay-fly-and-sportfishing",
       "candidates": 16,
       "pages": 10
     },
     {
-      "slug": "smithys-fishing-charters",
+      "slug": "reel-deadly-fishing-charters",
       "candidates": 0,
       "pages": 1
     },
     {
-      "slug": "salty-fishing-charters",
+      "slug": "saltwater-playground",
       "candidates": 16,
       "pages": 7
     },
     {
-      "slug": "caloundra-guided-fishing-charters",
-      "candidates": 16,
-      "pages": 6
-    },
-    {
-      "slug": "deep-sea-fishing-co-noosa",
-      "candidates": 16,
-      "pages": 10
-    },
-    {
-      "slug": "noosa-bluewater-charters",
-      "candidates": 16,
-      "pages": 10
-    },
-    {
-      "slug": "fishing-offshore-noosa",
-      "candidates": 16,
-      "pages": 11
-    },
-    {
-      "slug": "what-a-catch-fishing",
-      "candidates": 10,
-      "pages": 10
-    },
-    {
-      "slug": "research-sc-dir",
-      "candidates": 0,
-      "pages": 3
-    },
-    {
-      "slug": "research-hervey-dir",
-      "candidates": 0,
-      "pages": 3
-    },
-    {
-      "slug": "research-agnes-dir",
+      "slug": "research-hervey-dir2",
       "candidates": 0,
       "pages": 4
     },
     {
-      "slug": "research-gladstone-dir",
+      "slug": "truansea-charters",
       "candidates": 0,
-      "pages": 3
+      "pages": 1
     },
     {
-      "slug": "research-yeppoon-dir",
+      "slug": "reality-fishing-charters",
+      "candidates": 0,
+      "pages": 1
+    },
+    {
+      "slug": "research-bundaberg-dir2",
+      "candidates": 0,
+      "pages": 2
+    },
+    {
+      "slug": "reef-fishing-charters-1770",
+      "candidates": 1,
+      "pages": 7
+    },
+    {
+      "slug": "research-agnes-dir2",
       "candidates": 0,
       "pages": 5
     },
     {
-      "slug": "research-rainbow-dir",
+      "slug": "eastern-voyager",
+      "candidates": 16,
+      "pages": 11
+    },
+    {
+      "slug": "iluka-fishing-charters",
+      "candidates": 16,
+      "pages": 6
+    },
+    {
+      "slug": "boobybird-charters",
+      "candidates": 0,
+      "pages": 1
+    },
+    {
+      "slug": "mikat-charters",
+      "candidates": 12,
+      "pages": 7
+    },
+    {
+      "slug": "research-gladstone-dir2",
       "candidates": 0,
       "pages": 3
     },
     {
-      "slug": "research-bundaberg-dir",
+      "slug": "double-threat-charters-yeppoon",
+      "candidates": 16,
+      "pages": 9
+    },
+    {
+      "slug": "australiana-charters",
+      "candidates": 16,
+      "pages": 4
+    },
+    {
+      "slug": "kanimbla-charters",
+      "candidates": 12,
+      "pages": 9
+    },
+    {
+      "slug": "research-yeppoon-dir2",
       "candidates": 0,
-      "pages": 3
+      "pages": 2
+    },
+    {
+      "slug": "rainbow-beach-fishing-charters",
+      "candidates": 16,
+      "pages": 12
+    },
+    {
+      "slug": "keely-rose-fishing-charters",
+      "candidates": 16,
+      "pages": 10
+    },
+    {
+      "slug": "research-rainbow-dir2",
+      "candidates": 0,
+      "pages": 2
     }
   ]
 }

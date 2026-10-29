@@ -1,0 +1,276 @@
+{
+  "slug": "keely-rose-fishing-charters",
+  "request_hash": "9cfe50031153",
+  "collected_at": "2026-10-29T04:01:51.753Z",
+  "pages_fetched": [
+    "https://keelyrosefishingcharters.com.au/",
+    "https://keelyrosefishingcharters.com.au/VesselCrew/VesselCrew-394/",
+    "https://keelyrosefishingcharters.com.au/Details/Details-373/",
+    "https://keelyrosefishingcharters.com.au/Details/Departure-448/",
+    "https://keelyrosefishingcharters.com.au/Details/PricesBooking-449/",
+    "https://keelyrosefishingcharters.com.au/Testimonials/Testimonials-450/",
+    "https://keelyrosefishingcharters.com.au/Weather/Weather-452/",
+    "https://keelyrosefishingcharters.com.au/Gallery/Gallery-388/",
+    "https://keelyrosefishingcharters.com.au/Accommodation/Accommodation-453/",
+    "https://keelyrosefishingcharters.com.au/Contact/Contact-377/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 2000,
+      "height": 1113,
+      "original": "2048x1140",
+      "source": "https://keelyrosefishingcharters.com.au/_photopages/363/slidertwo.jpg",
+      "page": "https://keelyrosefishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 2000,
+      "height": 1113,
+      "original": "2048x1140",
+      "source": "https://keelyrosefishingcharters.com.au/_photopages/363/sliderone.jpg",
+      "page": "https://keelyrosefishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 2000,
+      "height": 1113,
+      "original": "2048x1140",
+      "source": "https://keelyrosefishingcharters.com.au/_photopages/363/sliderfour.jpg",
+      "page": "https://keelyrosefishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2048x1536",
+      "source": "https://keelyrosefishingcharters.com.au/adm/thumb2.aspx?src=/userfiles/Images/boatkeelyrose.jpg&wid=2048",
+      "page": "https://keelyrosefishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1000,
+      "height": 750,
+      "original": "1000x750",
+      "source": "https://keelyrosefishingcharters.com.au/adm/thumb2.aspx?src=/userfiles/Images/fishcaughtonboat.jpg&wid=1000",
+      "page": "https://keelyrosefishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1000,
+      "height": 750,
+      "original": "1000x750",
+      "source": "https://keelyrosefishingcharters.com.au/adm/thumb2.aspx?src=/userfiles/Images/fishcaught.jpg&wid=1000",
+      "page": "https://keelyrosefishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2048x1536",
+      "source": "https://keelyrosefishingcharters.com.au/adm/thumb2.aspx?src=/userfiles/Images/24879589_1628383730557809_2943103829780227837_o.jpg&wid=2048",
+      "page": "https://keelyrosefishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 960,
+      "height": 720,
+      "original": "960x720",
+      "source": "https://keelyrosefishingcharters.com.au/_photopages/447/5084644797_n.jpg",
+      "page": "https://keelyrosefishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 960,
+      "height": 720,
+      "original": "960x720",
+      "source": "https://keelyrosefishingcharters.com.au/_photopages/447/201148287_n.jpg",
+      "page": "https://keelyrosefishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 960,
+      "height": 720,
+      "original": "960x720",
+      "source": "https://keelyrosefishingcharters.com.au/_photopages/447/largeorangefishcaught.jpg",
+      "page": "https://keelyrosefishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 960,
+      "height": 720,
+      "original": "960x720",
+      "source": "https://keelyrosefishingcharters.com.au/_photopages/447/galleryladiescatchfish.jpg",
+      "page": "https://keelyrosefishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 960,
+      "height": 720,
+      "original": "960x720",
+      "source": "https://keelyrosefishingcharters.com.au/_photopages/447/groupcatchingfish.jpg",
+      "page": "https://keelyrosefishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 2000,
+      "height": 650,
+      "original": "2000x650",
+      "source": "https://keelyrosefishingcharters.com.au/adm/thumb2.aspx?src=/userfiles/Images/sliderone.jpg&wid=2000",
+      "page": "https://keelyrosefishingcharters.com.au/VesselCrew/VesselCrew-394/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 960,
+      "height": 720,
+      "original": "960x720",
+      "source": "https://keelyrosefishingcharters.com.au/adm/thumb2.aspx?src=/userfiles/Images/62052381_2338105999585575_1962676157350412288_n.jpg&wid=960",
+      "page": "https://keelyrosefishingcharters.com.au/Details/Departure-448/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 960,
+      "height": 720,
+      "original": "960x720",
+      "source": "https://keelyrosefishingcharters.com.au/adm/thumb2.aspx?src=/userfiles/Images/61537303_2338105566252285_8998923149114343424_n.jpg&wid=960",
+      "page": "https://keelyrosefishingcharters.com.au/Details/Departure-448/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 960,
+      "height": 720,
+      "original": "960x720",
+      "source": "https://keelyrosefishingcharters.com.au/adm/thumb2.aspx?src=/userfiles/Images/105293568_3161714147224752_8777891460251242925_n.jpg&wid=960",
+      "page": "https://keelyrosefishingcharters.com.au/Details/Departure-448/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://keelyrosefishingcharters.com.au/",
+      "status": 200,
+      "final_url": "https://keelyrosefishingcharters.com.au/",
+      "bytes": 37944
+    },
+    {
+      "page": "https://keelyrosefishingcharters.com.au/VesselCrew/VesselCrew-394/",
+      "status": 200,
+      "final_url": "https://keelyrosefishingcharters.com.au/VesselCrew/VesselCrew-394/",
+      "bytes": 25755
+    },
+    {
+      "page": "https://keelyrosefishingcharters.com.au/Details/Details-373/",
+      "status": 200,
+      "final_url": "https://keelyrosefishingcharters.com.au/Details/Details-373/",
+      "bytes": 24261
+    },
+    {
+      "page": "https://keelyrosefishingcharters.com.au/Details/Departure-448/",
+      "status": 200,
+      "final_url": "https://keelyrosefishingcharters.com.au/Details/Departure-448/",
+      "bytes": 31652
+    },
+    {
+      "page": "https://keelyrosefishingcharters.com.au/Details/PricesBooking-449/",
+      "status": 200,
+      "final_url": "https://keelyrosefishingcharters.com.au/Details/PricesBooking-449/",
+      "bytes": 25359
+    },
+    {
+      "page": "https://keelyrosefishingcharters.com.au/Testimonials/Testimonials-450/",
+      "status": 200,
+      "final_url": "https://keelyrosefishingcharters.com.au/Testimonials/Testimonials-450/",
+      "bytes": 24051
+    },
+    {
+      "page": "https://keelyrosefishingcharters.com.au/Weather/Weather-452/",
+      "status": 200,
+      "final_url": "https://keelyrosefishingcharters.com.au/Weather/Weather-452/",
+      "bytes": 21216
+    },
+    {
+      "page": "https://keelyrosefishingcharters.com.au/Gallery/Gallery-388/",
+      "status": 200,
+      "final_url": "https://keelyrosefishingcharters.com.au/Gallery/Gallery-388/",
+      "bytes": 22207
+    },
+    {
+      "page": "https://keelyrosefishingcharters.com.au/Accommodation/Accommodation-453/",
+      "status": 200,
+      "final_url": "https://keelyrosefishingcharters.com.au/Accommodation/Accommodation-453/",
+      "bytes": 24755
+    },
+    {
+      "page": "https://keelyrosefishingcharters.com.au/Contact/Contact-377/",
+      "status": 200,
+      "final_url": "https://keelyrosefishingcharters.com.au/Contact/Contact-377/",
+      "bytes": 23113
+    },
+    {
+      "dup": "https://keelyrosefishingcharters.com.au/adm/thumb2.aspx?src=/_photopages/363/slidertwo.jpg&wid=2000&type=webp"
+    },
+    {
+      "dup": "https://keelyrosefishingcharters.com.au/adm/thumb2.aspx?src=/_photopages/363/sliderone.jpg&wid=2000&type=webp"
+    },
+    {
+      "dup": "https://keelyrosefishingcharters.com.au/adm/thumb2.aspx?src=/_photopages/363/sliderfour.jpg&wid=2000&type=webp"
+    },
+    {
+      "dup": "https://keelyrosefishingcharters.com.au/adm/thumb2.aspx?src=%2fuserfiles%2fImages%2fboatkeelyrose.jpg&type=webp&wid=2048"
+    },
+    {
+      "dup": "https://keelyrosefishingcharters.com.au/adm/thumb2.aspx?src=%2fuserfiles%2fImages%2fboatkeelyrose.jpg&wid=2048"
+    },
+    {
+      "dup": "https://keelyrosefishingcharters.com.au/adm/thumb2.aspx?src=%2fuserfiles%2fImages%2ffishcaughtonboat.jpg&type=webp&wid=1000"
+    },
+    {
+      "dup": "https://keelyrosefishingcharters.com.au/adm/thumb2.aspx?src=%2fuserfiles%2fImages%2ffishcaughtonboat.jpg&wid=1000"
+    },
+    {
+      "dup": "https://keelyrosefishingcharters.com.au/adm/thumb2.aspx?src=%2fuserfiles%2fImages%2ffishcaught.jpg&type=webp&wid=1000"
+    },
+    {
+      "dup": "https://keelyrosefishingcharters.com.au/adm/thumb2.aspx?src=%2fuserfiles%2fImages%2ffishcaught.jpg&wid=1000"
+    },
+    {
+      "dup": "https://keelyrosefishingcharters.com.au/adm/thumb2.aspx?src=%2fuserfiles%2fImages%2f24879589_1628383730557809_2943103829780227837_o.jpg&type=webp&wid=2048"
+    },
+    {
+      "dup": "https://keelyrosefishingcharters.com.au/adm/thumb2.aspx?src=%2fuserfiles%2fImages%2f24879589_1628383730557809_2943103829780227837_o.jpg&wid=2048"
+    },
+    {
+      "image": "https://keelyrosefishingcharters.com.au/adm/thumb2.aspx?src=/userfiles/Images/boatkeelyrose.jpg&wid=500",
+      "error": "too small 500x375"
+    },
+    {
+      "dup": "https://keelyrosefishingcharters.com.au/adm/thumb2.aspx?src=%2fuserfiles%2fImages%2fsliderone.jpg&type=webp&wid=2000"
+    },
+    {
+      "dup": "https://keelyrosefishingcharters.com.au/adm/thumb2.aspx?src=%2fuserfiles%2fImages%2fsliderone.jpg&wid=2000"
+    },
+    {
+      "image": "https://keelyrosefishingcharters.com.au/adm/thumb2.aspx?src=%2fuserfiles%2fImages%2fboatkeelyrose.jpg&type=webp&wid=500",
+      "error": "too small 500x375"
+    },
+    {
+      "image": "https://keelyrosefishingcharters.com.au/adm/thumb2.aspx?src=%2fuserfiles%2fImages%2fboatkeelyrose.jpg&wid=500",
+      "error": "too small 500x375"
+    }
+  ]
+}

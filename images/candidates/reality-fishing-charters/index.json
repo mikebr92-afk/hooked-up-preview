@@ -1,0 +1,17 @@
+{
+  "slug": "reality-fishing-charters",
+  "request_hash": "137a52602ead",
+  "collected_at": "2026-10-29T03:58:27.980Z",
+  "pages_fetched": [
+    "https://www.bigcatreality.com/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.bigcatreality.com/",
+      "status": 403,
+      "final_url": "https://www.bigcatreality.com/",
+      "bytes": 5657
+    }
+  ]
+}

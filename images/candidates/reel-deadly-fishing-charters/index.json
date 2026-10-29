@@ -1,0 +1,15 @@
+{
+  "slug": "reel-deadly-fishing-charters",
+  "request_hash": "a77608210033",
+  "collected_at": "2026-10-29T03:57:47.725Z",
+  "pages_fetched": [
+    "https://www.reeldeadlyfishing.com/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.reeldeadlyfishing.com/",
+      "error": "fetch failed"
+    }
+  ]
+}

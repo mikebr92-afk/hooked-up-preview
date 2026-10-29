@@ -1,0 +1,223 @@
+{
+  "slug": "australiana-charters",
+  "request_hash": "0c81b5fbd5b1",
+  "collected_at": "2026-10-29T04:00:39.791Z",
+  "pages_fetched": [
+    "https://www.australianacharters.com.au/",
+    "https://www.australianacharters.com.au/group-fishing-charters",
+    "https://www.australianacharters.com.au/local-boat-charters-gallery",
+    "https://www.australianacharters.com.au/find-a-fishing-charter"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1200,
+      "height": 630,
+      "original": "1200x630",
+      "source": "https://irp.cdn-website.com/61e93ea1/dms3rep/multi/opt/Australiana-Charters---opengraph-1920w.jpg",
+      "page": "https://www.australianacharters.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1536x2048",
+      "source": "https://irp.cdn-website.com/61e93ea1/dms3rep/multi/opt/589963978_1309678827867425_389123260248529728_n-1920w.jpg",
+      "page": "https://www.australianacharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1920,
+      "height": 1440,
+      "original": "1920x1440",
+      "source": "https://irp.cdn-website.com/61e93ea1/dms3rep/multi/opt/518104835_1190304723138170_120029050467834658_n-1920w.jpg",
+      "page": "https://www.australianacharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 810,
+      "height": 449,
+      "original": "810x449",
+      "source": "https://irp.cdn-website.com/61e93ea1/dms3rep/multi/459950761_961988819303096_9052346510360398084_n-92add12e.jpg",
+      "page": "https://www.australianacharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1536x2048",
+      "source": "https://irp.cdn-website.com/61e93ea1/dms3rep/multi/opt/590552293_1309678644534110_439001558775587843_n-1920w.jpg",
+      "page": "https://www.australianacharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1536x2048",
+      "source": "https://irp.cdn-website.com/61e93ea1/dms3rep/multi/opt/591783718_1309678501200791_1361388231534960350_n-1920w.jpg",
+      "page": "https://www.australianacharters.com.au/group-fishing-charters",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1333,
+      "height": 2000,
+      "original": "1920x2880",
+      "source": "https://irp.cdn-website.com/61e93ea1/dms3rep/multi/opt/095A1755-1920w.JPG",
+      "page": "https://www.australianacharters.com.au/group-fishing-charters",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1536x2048",
+      "source": "https://irp.cdn-website.com/61e93ea1/dms3rep/multi/opt/589959462_1309678537867454_4439315692654934988_n-1920w.jpg",
+      "page": "https://www.australianacharters.com.au/group-fishing-charters",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1536x2048",
+      "source": "https://irp.cdn-website.com/61e93ea1/dms3rep/multi/opt/592047368_1309678617867446_3010964220283296951_n-1920w.jpg",
+      "page": "https://www.australianacharters.com.au/group-fishing-charters",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1536x2048",
+      "source": "https://irp.cdn-website.com/61e93ea1/dms3rep/multi/opt/591637006_1309678584534116_8075774734852489047_n-2880w.jpg",
+      "page": "https://www.australianacharters.com.au/group-fishing-charters",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1536x2048",
+      "source": "https://irp.cdn-website.com/61e93ea1/dms3rep/multi/opt/536271216_1222426486592660_9212310607808304179_n-1920w.jpg",
+      "page": "https://www.australianacharters.com.au/local-boat-charters-gallery",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1536x2048",
+      "source": "https://irp.cdn-website.com/61e93ea1/dms3rep/multi/opt/590574544_1309678791200762_7162046443444432227_n-1920w.jpg",
+      "page": "https://www.australianacharters.com.au/local-boat-charters-gallery",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1536x2048",
+      "source": "https://irp.cdn-website.com/61e93ea1/dms3rep/multi/opt/589504681_1309679007867407_8987330363782445214_n-1920w.jpg",
+      "page": "https://www.australianacharters.com.au/local-boat-charters-gallery",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1536x2048",
+      "source": "https://irp.cdn-website.com/61e93ea1/dms3rep/multi/opt/591049479_1309678707867437_7934193711148426160_n-1920w.jpg",
+      "page": "https://www.australianacharters.com.au/local-boat-charters-gallery",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 720,
+      "height": 960,
+      "original": "720x960",
+      "source": "https://irp.cdn-website.com/61e93ea1/dms3rep/multi/opt/590886004_1309675647867743_7290401248460169672_n-1920w.jpg",
+      "page": "https://www.australianacharters.com.au/local-boat-charters-gallery",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 720,
+      "height": 960,
+      "original": "720x960",
+      "source": "https://irp.cdn-website.com/61e93ea1/dms3rep/multi/opt/591284371_1309675517867756_5373322665712438235_n-1920w.jpg",
+      "page": "https://www.australianacharters.com.au/local-boat-charters-gallery",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.australianacharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.australianacharters.com.au/",
+      "bytes": 159498
+    },
+    {
+      "page": "https://www.australianacharters.com.au/group-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.australianacharters.com.au/group-fishing-charters",
+      "bytes": 152125
+    },
+    {
+      "page": "https://www.australianacharters.com.au/local-boat-charters-gallery",
+      "status": 200,
+      "final_url": "https://www.australianacharters.com.au/local-boat-charters-gallery",
+      "bytes": 129125
+    },
+    {
+      "page": "https://www.australianacharters.com.au/find-a-fishing-charter",
+      "status": 200,
+      "final_url": "https://www.australianacharters.com.au/find-a-fishing-charter",
+      "bytes": 113801
+    },
+    {
+      "image": "https://irp.cdn-website.com/61e93ea1/dms3rep/multi/opt/459950761_961988819303096_9052346510360398084_n-92add12e-360w.jpg",
+      "error": "too small 360x200"
+    },
+    {
+      "dup": "https://irp.cdn-website.com/61e93ea1/dms3rep/multi/589963978_1309678827867425_389123260248529728_n.jpg"
+    },
+    {
+      "dup": "https://irp.cdn-website.com/61e93ea1/dms3rep/multi/opt/589963978_1309678827867425_389123260248529728_n-640w.jpg"
+    },
+    {
+      "dup": "https://irp.cdn-website.com/61e93ea1/dms3rep/multi/opt/459950761_961988819303096_9052346510360398084_n-92add12e-1920w.jpg"
+    },
+    {
+      "dup": "https://irp.cdn-website.com/61e93ea1/dms3rep/multi/opt/590552293_1309678644534110_439001558775587843_n-2880w.jpg"
+    },
+    {
+      "dup": "https://irp.cdn-website.com/61e93ea1/dms3rep/multi/opt/591783718_1309678501200791_1361388231534960350_n-640w.jpg"
+    },
+    {
+      "dup": "https://irp.cdn-website.com/61e93ea1/dms3rep/multi/opt/095A1755-640w.JPG"
+    },
+    {
+      "dup": "https://irp.cdn-website.com/61e93ea1/dms3rep/multi/opt/589959462_1309678537867454_4439315692654934988_n-640w.jpg"
+    },
+    {
+      "dup": "https://irp.cdn-website.com/61e93ea1/dms3rep/multi/opt/592047368_1309678617867446_3010964220283296951_n-640w.jpg"
+    },
+    {
+      "dup": "https://irp.cdn-website.com/61e93ea1/dms3rep/multi/591783718_1309678501200791_1361388231534960350_n.jpg"
+    },
+    {
+      "dup": "https://irp.cdn-website.com/61e93ea1/dms3rep/multi/095A1755.JPG"
+    },
+    {
+      "dup": "https://irp.cdn-website.com/61e93ea1/dms3rep/multi/589959462_1309678537867454_4439315692654934988_n.jpg"
+    },
+    {
+      "dup": "https://irp.cdn-website.com/61e93ea1/dms3rep/multi/592047368_1309678617867446_3010964220283296951_n.jpg"
+    }
+  ]
+}

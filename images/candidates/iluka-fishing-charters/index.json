@@ -1,0 +1,236 @@
+{
+  "slug": "iluka-fishing-charters",
+  "request_hash": "69eaf877c6d2",
+  "collected_at": "2026-10-29T03:59:45.231Z",
+  "pages_fetched": [
+    "https://www.ilukafishingcharters.com.au/",
+    "https://www.ilukafishingcharters.com.au/index.php",
+    "https://www.ilukafishingcharters.com.au/index.php/fishing-charters",
+    "https://www.ilukafishingcharters.com.au/index.php/our-boat",
+    "https://www.ilukafishingcharters.com.au/index.php/charter-fishing-photo-gallery",
+    "https://www.ilukafishingcharters.com.au/index.php/iluka-fishing-charters-contact"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1500,
+      "height": 1000,
+      "original": "1500x1000",
+      "source": "https://www.ilukafishingcharters.com.au/images//spsimpleportfolio/gallery/26a.jpg",
+      "page": "https://www.ilukafishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 650,
+      "height": 435,
+      "original": "650x435",
+      "source": "https://www.ilukafishingcharters.com.au/images/2023/09/05/11935031_1675713635981175_1013820285747297155_n.jpg",
+      "page": "https://www.ilukafishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1500,
+      "height": 1000,
+      "original": "1500x1000",
+      "source": "https://www.ilukafishingcharters.com.au/images/2023/09/08/header-inner-1.jpg",
+      "page": "https://www.ilukafishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1500,
+      "height": 1000,
+      "original": "1500x1000",
+      "source": "https://www.ilukafishingcharters.com.au/images/header-inner-1.jpg",
+      "page": "https://www.ilukafishingcharters.com.au/index.php/fishing-charters",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 691,
+      "height": 700,
+      "original": "691x700",
+      "source": "https://www.ilukafishingcharters.com.au/images/2024/06/12/12.jpg",
+      "page": "https://www.ilukafishingcharters.com.au/index.php/charter-fishing-photo-gallery",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 800,
+      "height": 450,
+      "original": "800x450",
+      "source": "https://www.ilukafishingcharters.com.au/images/2024/06/12/21-copy.jpg",
+      "page": "https://www.ilukafishingcharters.com.au/index.php/charter-fishing-photo-gallery",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 600,
+      "height": 800,
+      "original": "600x800",
+      "source": "https://www.ilukafishingcharters.com.au/images/2024/06/12/15.jpg",
+      "page": "https://www.ilukafishingcharters.com.au/index.php/charter-fishing-photo-gallery",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1000,
+      "height": 750,
+      "original": "1000x750",
+      "source": "https://www.ilukafishingcharters.com.au/images/2024/06/12/25.jpg",
+      "page": "https://www.ilukafishingcharters.com.au/index.php/charter-fishing-photo-gallery",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 650,
+      "height": 488,
+      "original": "650x488",
+      "source": "https://www.ilukafishingcharters.com.au/images/gallery/54a.jpg",
+      "page": "https://www.ilukafishingcharters.com.au/index.php/charter-fishing-photo-gallery",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 650,
+      "height": 488,
+      "original": "650x488",
+      "source": "https://www.ilukafishingcharters.com.au/images/gallery/63a.jpg",
+      "page": "https://www.ilukafishingcharters.com.au/index.php/charter-fishing-photo-gallery",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 650,
+      "height": 488,
+      "original": "650x488",
+      "source": "https://www.ilukafishingcharters.com.au/images/gallery/64a.jpg",
+      "page": "https://www.ilukafishingcharters.com.au/index.php/charter-fishing-photo-gallery",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 650,
+      "height": 488,
+      "original": "650x488",
+      "source": "https://www.ilukafishingcharters.com.au/images/gallery/61a.jpg",
+      "page": "https://www.ilukafishingcharters.com.au/index.php/charter-fishing-photo-gallery",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 650,
+      "height": 432,
+      "original": "650x432",
+      "source": "https://www.ilukafishingcharters.com.au/images/gallery/9a.jpg",
+      "page": "https://www.ilukafishingcharters.com.au/index.php/charter-fishing-photo-gallery",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 650,
+      "height": 488,
+      "original": "650x488",
+      "source": "https://www.ilukafishingcharters.com.au/images/gallery/39a.jpg",
+      "page": "https://www.ilukafishingcharters.com.au/index.php/charter-fishing-photo-gallery",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 650,
+      "height": 488,
+      "original": "650x488",
+      "source": "https://www.ilukafishingcharters.com.au/images/gallery/65a.jpg",
+      "page": "https://www.ilukafishingcharters.com.au/index.php/charter-fishing-photo-gallery",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 650,
+      "height": 488,
+      "original": "650x488",
+      "source": "https://www.ilukafishingcharters.com.au/images/gallery/55a.jpg",
+      "page": "https://www.ilukafishingcharters.com.au/index.php/charter-fishing-photo-gallery",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.ilukafishingcharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.ilukafishingcharters.com.au/",
+      "bytes": 48965
+    },
+    {
+      "page": "https://www.ilukafishingcharters.com.au/index.php",
+      "status": 200,
+      "final_url": "https://www.ilukafishingcharters.com.au/index.php",
+      "bytes": 48974
+    },
+    {
+      "page": "https://www.ilukafishingcharters.com.au/index.php/fishing-charters",
+      "status": 200,
+      "final_url": "https://www.ilukafishingcharters.com.au/index.php/fishing-charters",
+      "bytes": 51756
+    },
+    {
+      "page": "https://www.ilukafishingcharters.com.au/index.php/our-boat",
+      "status": 200,
+      "final_url": "https://www.ilukafishingcharters.com.au/index.php/our-boat",
+      "bytes": 32467
+    },
+    {
+      "page": "https://www.ilukafishingcharters.com.au/index.php/charter-fishing-photo-gallery",
+      "status": 200,
+      "final_url": "https://www.ilukafishingcharters.com.au/index.php/charter-fishing-photo-gallery",
+      "bytes": 99214
+    },
+    {
+      "page": "https://www.ilukafishingcharters.com.au/index.php/iluka-fishing-charters-contact",
+      "status": 200,
+      "final_url": "https://www.ilukafishingcharters.com.au/index.php/iluka-fishing-charters-contact",
+      "bytes": 35889
+    },
+    {
+      "image": "https://www.ilukafishingcharters.com.au/images/transparent.png#joomlaImage://local-images/transparent.png?width=5&height=5",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.ilukafishingcharters.com.au/images/1.jpg",
+      "error": "too small 300x300"
+    },
+    {
+      "image": "https://www.ilukafishingcharters.com.au/images/transparent.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.ilukafishingcharters.com.au/images/3.jpg",
+      "error": "too small 300x300"
+    },
+    {
+      "image": "https://www.ilukafishingcharters.com.au/images/2.jpg",
+      "error": "too small 300x300"
+    },
+    {
+      "image": "https://www.ilukafishingcharters.com.au/images/2024/06/12/23.jpg",
+      "error": "too small 525x700"
+    },
+    {
+      "image": "https://www.ilukafishingcharters.com.au/images/2024/06/12/20.jpg",
+      "error": "too small 525x700"
+    },
+    {
+      "dup": "https://www.ilukafishingcharters.com.au/images/2024/06/12/11.jpg"
+    },
+    {
+      "image": "https://www.ilukafishingcharters.com.au/images/2024/06/12/5.jpg",
+      "error": "too small 525x700"
+    },
+    {
+      "image": "https://www.ilukafishingcharters.com.au/images/2024/06/12/24.jpg",
+      "error": "too small 525x700"
+    }
+  ]
+}
