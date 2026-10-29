@@ -75,9 +75,9 @@ export const LOCS = {
     n: 'Darwin', short: 'Darwin', in: 'in Darwin', c: ['darwin'], state: 'NT',
     intro: [
       "Darwin puts you within reach of both world-class barramundi water and productive offshore reefs. Harbour and estuary charters fish the creeks and mangroves around Darwin Harbour for barra, mangrove jack and threadfin salmon, while bluewater trips head offshore for Spanish mackerel, giant trevally, golden trevally, longtail tuna and sailfish.",
-      "Several Darwin operators also run day trips and guided safaris out to the floodplains and rivers of the Top End.",
+      "Most charters leave from Cullen Bay, Stokes Hill Wharf or the Dinah Beach ramp, and offshore trips work reefs such as Fish Reef, Lorna Shoals and Charles Point, roughly 20–50km out. Tides here often run six to seven metres, which shapes where and when guides fish. Several operators also run day trips to Shoal Bay, Bynoe Harbour, the Adelaide River and Corroboree Billabong.",
     ],
-    season: "The run-off after the wet season (roughly March to May) is prime barramundi time. The dry season (May to September) brings settled weather that suits offshore and reef fishing, and the build-up (October to December) can produce big barra on lures.",
+    season: "Golden snapper and black jewfish are caught year-round, and barramundi are in Darwin Harbour all year, with the run-off (roughly March to May) the classic barra window. The dry season (about May to August) is best for trevally, queenfish, mackerel and tuna, while sailfish and marlin show up in the tropical summer.",
   },
   'gold-coast': {
     parent: 'queensland',
@@ -116,6 +116,71 @@ export const LOCS = {
     season: "Snapper are caught year-round, with a peak in the cooler months. Kingfish are best from spring to autumn, and the game-fishing season for marlin and mahi mahi generally runs from December to April.",
   },
 
+  // ── Northern Territory hot spots ──────────────────────────────────────────────
+  'mary-river': {
+    n: 'Mary River', short: 'Mary River', in: 'on the Mary River', parent: 'northern-territory', c: ['mary river'], state: 'NT',
+    intro: [
+      "The Mary River wetlands east of Darwin are some of the Territory's most famous barramundi water. Charters fish from the Shady Camp ramp — where a barrage separates the fresh and salt water — down towards the river mouth, as well as billabongs like Corroboree, part of the Mary system and about 90 minutes from Darwin.",
+      "As well as barramundi, anglers catch threadfin salmon, jewfish and, in the billabongs, saratoga. NT tourism notes that barra up to 1.4m are landed in the wetlands each year. The system also holds one of Australia's largest concentrations of saltwater crocodiles, which is one reason most visitors fish it with an experienced local guide.",
+    ],
+    season: "The run-off after the wet season — roughly late February to early May — is peak barramundi time, as fish push out of the flooded wetlands. The build-up (about September to November) can also fish well, and saratoga in Corroboree Billabong are a target from around mid-May to November.",
+    faq: [
+      ["Do I need a permit to fish Shady Camp?", "Mary River National Park requires an NT Parks pass, and camping at Shady Camp has to be booked online. Check with your operator about what's included in your trip."],
+    ],
+  },
+  'kakadu': {
+    n: 'Kakadu', short: 'Kakadu', in: 'in Kakadu', parent: 'northern-territory', c: ['kakadu'], state: 'NT',
+    intro: [
+      "Kakadu National Park, about two and a half hours from Darwin, offers barramundi fishing in a world-heritage landscape: the big tidal South and East Alligator rivers, the Yellow Water floodplain and, beneath the Arnhem Land escarpment, the upper East Alligator above Cahill's Crossing.",
+      "Guided fishing inside the park is limited to a small number of operators that meet the park's criteria, and trips generally run from Jabiru. On smaller tides, guides may also head to the reefs off the river mouths for golden snapper and black jewfish.",
+    ],
+    season: "The run-off, from about March to May, is prime time on the big tidal rivers. Through the dry season (around June to October) the upper East Alligator fishes well, and some barramundi fishing continues at Yellow Water over the wet, when most operators close.",
+    faq: [
+      ["Do I need a park pass to fish in Kakadu?", "Yes — visitors need a Kakadu park pass, which can be bought online. If you're launching your own boat, check the Bowali Visitor Centre's daily access report for river conditions first."],
+    ],
+  },
+  'daly-river': {
+    n: 'Daly River', short: 'Daly River', in: 'on the Daly River', parent: 'northern-territory', c: ['daly river'], state: 'NT',
+    intro: [
+      "The Daly River, about 210–220km south-west of Darwin, is one of the Territory's great barramundi rivers — and it's reserved for recreational fishing, with no commercial barra fishing allowed. The river runs more than 40km from the Daly River crossing down to Anson Bay, through the Daly–Reynolds floodplains.",
+      "Tides of up to seven metres are common and the river can rise and fall by as much as 16m with the seasons, so local knowledge matters. Charters fish the river itself and the coastal creeks of Anson Bay for barramundi, mangrove jack and threadfin salmon.",
+    ],
+    season: "The run-off, from about March to May, is the classic time, when big tides draw barra off the floodplains. Note that the lower tidal section of the Daly is closed to fishing from 1 October to 31 January.",
+    faq: [
+      ["What facilities are there at Daly River?", "The township has tourist parks, a pub and motel, boat ramps, a general store, boat hire and guided fishing."],
+    ],
+  },
+  'dundee': {
+    n: 'Dundee Beach & Bynoe Harbour', short: 'Dundee Beach', in: 'at Dundee Beach', parent: 'northern-territory', c: ['dundee', 'bynoe'], state: 'NT',
+    intro: [
+      "Dundee Beach is about 90 minutes from Darwin by sealed road, with a boat ramp protected by a seawall, a beachfront tavern and a holiday park. Barramundi fishing centres on the Finniss River and nearby coastal creeks, while reef and sportfishing grounds stretch out to the Peron Islands and Bateman Shoals.",
+      "Nearby Bynoe Harbour is sheltered enough for smaller boats and is launched from Keswick Point or the south-shore ramps. Several Dundee operators offer multi-day packages with their own accommodation.",
+    ],
+    season: "Barramundi are caught year-round, with October often described as the sweet spot when the tides suit. Big black jewfish are taken close to shore, and the wider grounds produce queenfish, giant trevally, Spanish mackerel, tuna and sailfish. Bynoe Harbour sits in a 'storm alley', so keep an eye on the weather radar.",
+  },
+  'tiwi-islands': {
+    n: 'Tiwi Islands', short: 'Tiwi Islands', in: 'in the Tiwi Islands', parent: 'northern-territory', c: ['tiwi'], state: 'NT',
+    intro: [
+      "Bathurst and Melville islands lie about 80km north of Darwin and offer remote, lightly fished water. Day charters run from Leaders Creek — the closest ramp to the Tiwis, about an hour from Darwin — past the Vernon Islands and the Adelaide River mouth, while fly-in guests stay at Port Hurd on western Bathurst Island.",
+      "The estuaries hold barramundi, threadfin salmon and mangrove jack, while queenfish, giant trevally, golden snapper and black jewfish patrol the rocky headlands.",
+    ],
+    season: "Golden snapper and black jewfish are caught year-round, joined by queenfish, trevally and Spanish mackerel in the dry season. Tiwi fishing operators generally close over the wet season (roughly December to March).",
+    faq: [
+      ["Do I need a permit to fish the Tiwi Islands?", "Yes — a permit is needed to visit and fish the Tiwi Islands. Check with your operator about how this is arranged for your trip."],
+    ],
+  },
+  'arnhem-land': {
+    n: 'Arnhem Land, Cobourg & Gove', short: 'Arnhem Land', in: 'in Arnhem Land', parent: 'northern-territory', c: ['arnhem', 'cobourg', 'gove', 'nhulunbuy'], state: 'NT',
+    intro: [
+      "Arnhem Land offers some of the most remote fishing in Australia. Much of the coast can only be visited and fished legally with permits, usually through accredited fishing tour operators — which is why most anglers come on a guided trip or stay at a fly-in lodge.",
+      "Options range from Nhulunbuy (Gove), which fishes the reefs off the Gove Peninsula and the Wessel and English Company islands, to fly-in camps and lodges on the Cobourg Peninsula and in East Arnhem. The Cobourg is better known for bluewater species than barra; the rivers of Arnhem and Buckingham bays are barramundi country.",
+    ],
+    season: "Barramundi fishing peaks in the estuaries during the run-off (around March to June on the Glyde River). Bluewater and reef species — Spanish mackerel, giant trevally, queenfish, longtail tuna, coral trout and golden snapper — are targeted through the dry season. Camping on the Cobourg Peninsula is limited to May to October.",
+    faq: [
+      ["Do I need a permit to fish in Arnhem Land?", "Yes. Much of the Arnhem Land coast can only be fished with permits, usually arranged through accredited fishing tour operators, and visitors to Nhulunbuy need a general permit for the region."],
+    ],
+  },
+
   // ── Species / style collections (kind: 'species') ──────────────────────────
   // sp: match operators whose species tags contain any of these · tt: match trip-type tags
   'barramundi': {
@@ -132,7 +197,7 @@ export const LOCS = {
   },
   'marlin': {
     kind: 'species', n: 'Marlin', short: 'Marlin', h1: 'Marlin Fishing Charters', in: 'for marlin', noun: 'marlin charter',
-    sp: ['marlin'],
+    sp: ['marlin', 'black marlin', 'striped marlin', 'blue marlin'],
     intro: [
       "Australia has some of the best marlin fishing in the world. Cairns is famous for giant black marlin on the Ribbon Reefs, while along the NSW coast — Port Stephens, Sydney and Wollongong — game boats target striped, black and blue marlin on the continental shelf.",
       "Marlin charters are usually private, full-day game-fishing trips on purpose-built sportfishing boats with outriggers and fighting chairs. Most operators tag and release the marlin their clients catch.",
@@ -179,6 +244,8 @@ export const LOCS = {
     ],
   },
 };
+
+for (const [k, L] of Object.entries(LOCS)) L.key = k;
 
 export const STATE_KEYS = ['new-south-wales', 'queensland', 'northern-territory'];
 export const CITY_KEYS = ['sydney', 'gold-coast', 'cairns', 'darwin', 'port-stephens', 'sunshine-coast', 'wollongong'];
@@ -227,14 +294,16 @@ const clip = (s, n) => {
 // ── location matching + stats ────────────────────────────────────────────────
 export function inLoc(card, L) {
   if (L.sp) {
+    // exact species names (so "Golden Snapper" doesn't land on the Snapper page)
     const tags = [...(card.species_tags || []), ...(card.species || [])].map((s) => s.toLowerCase());
-    return L.sp.some((x) => tags.some((t) => t.includes(x)));
+    return L.sp.some((x) => tags.includes(x));
   }
   if (L.tt) {
     const tags = (card.trip_type_tags || []).map((s) => s.toLowerCase());
     return L.tt.some((x) => tags.includes(x));
   }
   if (L.st) return card.state === L.st;
+  if (card.hotspot && card.hotspot === L.key) return true;
   const loc = (card.location || '').toLowerCase();
   return (L.c || []).some((x) => loc.includes(x));
 }
@@ -245,6 +314,7 @@ export const locItems = (cards, L) => photoFirst(activeCards(cards).filter((c) =
 
 // Best-matching location page for an operator card: a city page first, else its state page.
 export function locFor(card) {
+  if (card.hotspot && LOCS[card.hotspot] && !isSpecies(LOCS[card.hotspot])) return [card.hotspot, LOCS[card.hotspot]];
   const entries = Object.entries(LOCS).filter(([, L]) => !isSpecies(L));
   return entries.find(([, L]) => !L.st && inLoc(card, L)) || entries.find(([, L]) => L.st && inLoc(card, L)) || null;
 }
@@ -523,7 +593,7 @@ export function fitsGroup(op, size) {
   return cap >= need;
 }
 
-export const FILTER_SPECIES = ['Barramundi', 'Marlin', 'Kingfish', 'Snapper', 'Coral Trout', 'Red Emperor', 'Giant Trevally', 'Spanish Mackerel', 'Mahi Mahi', 'Tuna', 'Mangrove Jack', 'Flathead'];
+export const FILTER_SPECIES = ['Barramundi', 'Marlin', 'Kingfish', 'Snapper', 'Golden Snapper', 'Coral Trout', 'Red Emperor', 'Giant Trevally', 'Spanish Mackerel', 'Mahi Mahi', 'Tuna', 'Mangrove Jack', 'Flathead'];
 export const FILTER_TRIP_TYPES = [['Private', 'Private charter'], ['Shared', 'Shared trip'], ['Reef', 'Reef fishing'], ['Game', 'Game fishing'], ['Estuary', 'Estuary fishing'], ['River', 'River fishing']];
 
 // Suggestions for the homepage search box.
