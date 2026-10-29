@@ -1,0 +1,59 @@
+{
+  "slug": "research-newcastle-fishing",
+  "request_hash": "64e5db603c9c",
+  "collected_at": "2026-10-29T19:22:56.408Z",
+  "pages_fetched": [
+    "https://fishingbooker.com/destinations/location/au/NS/newcastle",
+    "https://b-l-fishing.treepl.co/",
+    "https://www.weekendnotes.com/sandy-bottom-boat-charters/",
+    "https://www.visitlakemac.com.au/day-trippin-charters",
+    "https://www.dpi.nsw.gov.au/fishing/recreational/resources/info/fishing-locations/go-fishing-lake-macquarie",
+    "https://localsearch.com.au/find/fishing-trips-charters/newcastle-nsw",
+    "https://www.visitnewcastle.com.au/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://fishingbooker.com/destinations/location/au/NS/newcastle",
+      "status": 403,
+      "final_url": "https://fishingbooker.com/destinations/location/au/NS/newcastle",
+      "bytes": 5913
+    },
+    {
+      "page": "https://b-l-fishing.treepl.co/",
+      "status": 200,
+      "final_url": "https://b-l-fishing.treepl.co/",
+      "bytes": 15738
+    },
+    {
+      "page": "https://www.weekendnotes.com/sandy-bottom-boat-charters/",
+      "status": 403,
+      "final_url": "https://www.weekendnotes.com/sandy-bottom-boat-charters/",
+      "bytes": 4918
+    },
+    {
+      "page": "https://www.visitlakemac.com.au/day-trippin-charters",
+      "status": 403,
+      "final_url": "https://www.visitlakemac.com.au/day-trippin-charters",
+      "bytes": 5889
+    },
+    {
+      "page": "https://www.dpi.nsw.gov.au/fishing/recreational/resources/info/fishing-locations/go-fishing-lake-macquarie",
+      "status": 403,
+      "final_url": "https://www.dpi.nsw.gov.au/fishing/recreational/resources/info/fishing-locations/go-fishing-lake-macquarie",
+      "bytes": 6104
+    },
+    {
+      "page": "https://localsearch.com.au/find/fishing-trips-charters/newcastle-nsw",
+      "status": 405,
+      "final_url": "https://www.localsearch.com.au/find/fishing-trips-charters/newcastle-nsw",
+      "bytes": 2503
+    },
+    {
+      "page": "https://www.visitnewcastle.com.au/",
+      "status": 200,
+      "final_url": "https://visitnewcastle.com.au/",
+      "bytes": 85200
+    }
+  ]
+}

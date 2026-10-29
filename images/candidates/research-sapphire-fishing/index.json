@@ -1,0 +1,59 @@
+{
+  "slug": "research-sapphire-fishing",
+  "request_hash": "44030dc91d88",
+  "collected_at": "2026-10-29T19:22:38.788Z",
+  "pages_fetched": [
+    "https://www.visitnsw.com/destinations/south-coast/merimbula-and-sapphire-coast/fishing",
+    "https://sapphire-coast.com.au/merimbula/fishing-charters-merimbula",
+    "https://sapphirecoast.com.au/operator/headland-fishing-charters-merimbula",
+    "https://www.visiteden.com.au/experience/fishing/",
+    "https://www.escapetomerimbula.com.au/merimbula-marina",
+    "https://www.escapetomerimbula.com.au/sapphire-fishing-charters",
+    "https://sapphire-coast.com.au/?p=117"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.visitnsw.com/destinations/south-coast/merimbula-and-sapphire-coast/fishing",
+      "status": 200,
+      "final_url": "https://www.visitnsw.com/destinations/south-coast/merimbula-and-sapphire-coast",
+      "bytes": 259066
+    },
+    {
+      "page": "https://sapphire-coast.com.au/merimbula/fishing-charters-merimbula",
+      "status": 200,
+      "final_url": "https://sapphire-coast.com.au/merimbula/fishing-charters-merimbula/",
+      "bytes": 70660
+    },
+    {
+      "page": "https://sapphirecoast.com.au/operator/headland-fishing-charters-merimbula",
+      "status": 404,
+      "final_url": "https://www.sapphirecoast.com.au/operator/headland-fishing-charters-merimbula",
+      "bytes": 523484
+    },
+    {
+      "page": "https://www.visiteden.com.au/experience/fishing/",
+      "status": 200,
+      "final_url": "https://www.visiteden.com.au/experience/fishing/",
+      "bytes": 60244
+    },
+    {
+      "page": "https://www.escapetomerimbula.com.au/merimbula-marina",
+      "status": 200,
+      "final_url": "https://www.escapetomerimbula.com.au/sapphire-coastal-adventures",
+      "bytes": 776871
+    },
+    {
+      "page": "https://www.escapetomerimbula.com.au/sapphire-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.escapetomerimbula.com.au/south-coast-tap-house",
+      "bytes": 770445
+    },
+    {
+      "page": "https://sapphire-coast.com.au/?p=117",
+      "status": 200,
+      "final_url": "https://sapphire-coast.com.au/eden/fishing-eden/",
+      "bytes": 80147
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "research-nsw-dpi-charter",
+  "request_hash": "d3d88ca0917f",
+  "collected_at": "2026-10-29T19:22:28.655Z",
+  "pages_fetched": [
+    "https://www.dpi.nsw.gov.au/fishing/recreational/charter/go-charter-fishing-in-nsw",
+    "https://www.dpi.nsw.gov.au/fishing/recreational/charter"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.dpi.nsw.gov.au/fishing/recreational/charter/go-charter-fishing-in-nsw",
+      "status": 403,
+      "final_url": "https://www.dpi.nsw.gov.au/fishing/recreational/charter/go-charter-fishing-in-nsw",
+      "bytes": 5986
+    },
+    {
+      "page": "https://www.dpi.nsw.gov.au/fishing/recreational/charter",
+      "status": 403,
+      "final_url": "https://www.dpi.nsw.gov.au/fishing/recreational/charter",
+      "bytes": 5887
+    }
+  ]
+}

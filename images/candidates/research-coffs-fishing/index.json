@@ -1,0 +1,45 @@
+{
+  "slug": "research-coffs-fishing",
+  "request_hash": "3fcdb1a95838",
+  "collected_at": "2026-10-29T19:22:47.235Z",
+  "pages_fetched": [
+    "https://www.coffscoast.com.au/article/fishing-on-the-coffs-coast/",
+    "https://www.coffscoast.com.au/?p=6104",
+    "https://www.visitnsw.com/destinations/north-coast/clarence-valley/wooli/attractions/solitary-island-fishing-charters",
+    "https://wikiaustralia.com/tour/coffs-harbour-fishing-charters/",
+    "https://app.advcollective.com/local-experts/fishing-charter-6-hours-b-a-boat-hire-and-charters"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.coffscoast.com.au/article/fishing-on-the-coffs-coast/",
+      "status": 200,
+      "final_url": "https://www.coffscoast.com.au/article/fishing-on-the-coffs-coast/",
+      "bytes": 193755
+    },
+    {
+      "page": "https://www.coffscoast.com.au/?p=6104",
+      "status": 404,
+      "final_url": "https://www.coffscoast.com.au/?p=6104",
+      "bytes": 132276
+    },
+    {
+      "page": "https://www.visitnsw.com/destinations/north-coast/clarence-valley/wooli/attractions/solitary-island-fishing-charters",
+      "status": 404,
+      "final_url": "https://www.visitnsw.com/destinations/north-coast/clarence-valley/wooli/attractions/solitary-island-fishing-charters",
+      "bytes": 179630
+    },
+    {
+      "page": "https://wikiaustralia.com/tour/coffs-harbour-fishing-charters/",
+      "status": 200,
+      "final_url": "https://wikiaustralia.com/tour/coffs-harbour-fishing-charters/",
+      "bytes": 172398
+    },
+    {
+      "page": "https://app.advcollective.com/local-experts/fishing-charter-6-hours-b-a-boat-hire-and-charters",
+      "status": 403,
+      "final_url": "https://app.advcollective.com/local-experts/fishing-charter-6-hours-b-a-boat-hire-and-charters",
+      "bytes": 5934
+    }
+  ]
+}

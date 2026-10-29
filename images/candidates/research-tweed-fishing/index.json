@@ -1,0 +1,45 @@
+{
+  "slug": "research-tweed-fishing",
+  "request_hash": "36006e352a31",
+  "collected_at": "2026-10-29T19:22:52.653Z",
+  "pages_fetched": [
+    "https://localsearch.com.au/find/fishing-trips-charters/tweed-heads-nsw",
+    "https://localsearch.com.au/find/fishing-trips-charters/tweed-coast-nsw",
+    "https://www.visitnsw.com/things-to-do/tours/northern-rivers-sportfishing",
+    "https://fishingbooker.com/destinations/location/au/NS/tweed-heads",
+    "https://fishingworld.com.au/?p=4215"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://localsearch.com.au/find/fishing-trips-charters/tweed-heads-nsw",
+      "status": 405,
+      "final_url": "https://www.localsearch.com.au/find/fishing-trips-charters/tweed-heads-nsw",
+      "bytes": 2503
+    },
+    {
+      "page": "https://localsearch.com.au/find/fishing-trips-charters/tweed-coast-nsw",
+      "status": 405,
+      "final_url": "https://www.localsearch.com.au/find/fishing-trips-charters/tweed-coast-nsw",
+      "bytes": 2503
+    },
+    {
+      "page": "https://www.visitnsw.com/things-to-do/tours/northern-rivers-sportfishing",
+      "status": 404,
+      "final_url": "https://www.visitnsw.com/things-to-do/tours/northern-rivers-sportfishing",
+      "bytes": 179319
+    },
+    {
+      "page": "https://fishingbooker.com/destinations/location/au/NS/tweed-heads",
+      "status": 403,
+      "final_url": "https://fishingbooker.com/destinations/location/au/NS/tweed-heads",
+      "bytes": 5919
+    },
+    {
+      "page": "https://fishingworld.com.au/?p=4215",
+      "status": 200,
+      "final_url": "https://fishingworld.com.au/news/tweed-river-charter-operation/",
+      "bytes": 269117
+    }
+  ]
+}
