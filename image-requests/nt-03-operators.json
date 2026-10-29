@@ -1,0 +1,37 @@
+{"requests":[
+ {"slug":"research-nt-tours-e","text":true,"max":0,"follow":false,"pages":[
+  "https://www.kingashbay.com.au/mcarthur-river-fishing-charters/",
+  "https://www.kingashbay.com.au/wiyibi-fishing-wilderness-lodge-north-island/",
+  "https://northernterritory.com/arnhem-land/accommodation/arnhemland-barramundi-nature-lodge",
+  "https://northernterritory.com/tours/skippers-at-dundee-tours--charters",
+  "https://www.tourismtopend.com.au/tours/dundee-beach-fishing-charters",
+  "https://www.visitkatherine.com.au/dundee-beach-fishing-charters",
+  "https://reelscreaminbarrafishing.rezdy.com/",
+  "https://yknotfishing.rezdy.com/",
+  "https://www.tourismtopend.com.au/tours/spring-tide-safaris",
+  "https://northernterritory.com/fr/fr/tours/daly-river-barra-resort-tours",
+  "https://www.tourismtopend.com.au/tours/darwin-region/river-reef-fishing-charters",
+  "https://visitkatherine.com.au/darwins-north-australian-barra-fishing"
+ ]},
+ {"slug":"research-nt-guess","text":true,"max":0,"follow":false,"pages":[
+  "https://www.reelscreaminbarrafishing.com.au/",
+  "https://www.yknotfishing.com.au/",
+  "https://www.wildmanfishing.com.au/",
+  "https://www.tiwiislandadventures.com.au/",
+  "https://www.dalyriverbarraresort.com.au/",
+  "https://www.springtidesafaris.com.au/",
+  "https://www.dundeebeachfishingcharters.com.au/",
+  "https://www.anglerschoice.com.au/",
+  "https://www.icfish.com.au/",
+  "https://www.wildmanfishingtours.com.au/",
+  "https://www.reelscreamin.com.au/",
+  "https://www.barramundiadventures.com.au/"
+ ]},
+ {"slug":"australian-sportfishing-charters","text":true,"max":16,"follow":true,"pages":["https://australiansportfishingcharters.com/"]},
+ {"slug":"groote-eylandt-sports-fishing","text":true,"max":16,"follow":true,"pages":["https://www.gelnt.com.au/"]},
+ {"slug":"dhipirri-barra-and-sportfishing-lodge","text":true,"max":16,"follow":true,"pages":["https://www.dhipirribarra.com.au/"]},
+ {"slug":"tiwi-island-retreat","text":true,"max":16,"follow":true,"pages":["https://tiwiislandretreat.com.au/"]},
+ {"slug":"river-and-reef-fishing-charters","text":true,"max":16,"follow":true,"pages":["https://riverandreef.com.au/"]},
+ {"slug":"nt-fish-and-4x4","text":true,"max":16,"follow":true,"pages":["https://www.ntfish4x4.com/"]},
+ {"slug":"arnhemland-barramundi-nature-lodge","text":true,"max":16,"follow":true,"pages":["https://www.barralodge.com.au/"]}
+]}
