@@ -1,0 +1,24 @@
+{
+  "slug": "boobybird-wb",
+  "request_hash": "9acfea941224",
+  "collected_at": "2026-10-29T19:33:14.879Z",
+  "pages_fetched": [
+    "https://web.archive.org/web/2026/https://www.boobybird.com.au/home.html",
+    "https://web.archive.org/web/2026/https://www.boobybird.com.au/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://web.archive.org/web/2026/https://www.boobybird.com.au/home.html",
+      "status": 429,
+      "final_url": "https://web.archive.org/web/2026/https://www.boobybird.com.au/home.html",
+      "bytes": 620
+    },
+    {
+      "page": "https://web.archive.org/web/2026/https://www.boobybird.com.au/",
+      "status": 429,
+      "final_url": "https://web.archive.org/web/2026/https://www.boobybird.com.au/",
+      "bytes": 620
+    }
+  ]
+}

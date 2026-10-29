@@ -1,0 +1,24 @@
+{
+  "slug": "research-wb-1770-others",
+  "request_hash": "3932d6170a6f",
+  "collected_at": "2026-10-29T19:33:16.923Z",
+  "pages_fetched": [
+    "https://web.archive.org/web/2026/https://www.1770creek2reef.com.au/",
+    "https://web.archive.org/web/2026/https://www.reeffishingcharters1770.com.au/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://web.archive.org/web/2026/https://www.1770creek2reef.com.au/",
+      "status": 429,
+      "final_url": "https://web.archive.org/web/2026/https://www.1770creek2reef.com.au/",
+      "bytes": 620
+    },
+    {
+      "page": "https://web.archive.org/web/2026/https://www.reeffishingcharters1770.com.au/",
+      "status": 429,
+      "final_url": "https://web.archive.org/web/2026/https://www.reeffishingcharters1770.com.au/",
+      "bytes": 620
+    }
+  ]
+}

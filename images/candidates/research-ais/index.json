@@ -1,0 +1,31 @@
+{
+  "slug": "research-ais",
+  "request_hash": "e48ec09d6762",
+  "collected_at": "2026-10-29T19:33:17.884Z",
+  "pages_fetched": [
+    "https://www.vesselfinder.com/vessels?name=NIGHT%20CROSSING",
+    "https://www.vesselfinder.com/vessels?name=SOUTHERN%20COMFORT",
+    "https://www.vesselfinder.com/vessels?name=BOOBYBIRD"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.vesselfinder.com/vessels?name=NIGHT%20CROSSING",
+      "status": 200,
+      "final_url": "https://www.vesselfinder.com/vessels?name=NIGHT%20CROSSING",
+      "bytes": 38645
+    },
+    {
+      "page": "https://www.vesselfinder.com/vessels?name=SOUTHERN%20COMFORT",
+      "status": 200,
+      "final_url": "https://www.vesselfinder.com/vessels?name=SOUTHERN%20COMFORT",
+      "bytes": 50094
+    },
+    {
+      "page": "https://www.vesselfinder.com/vessels?name=BOOBYBIRD",
+      "status": 200,
+      "final_url": "https://www.vesselfinder.com/vessels?name=BOOBYBIRD",
+      "bytes": 33838
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "finished_at": "2026-10-29T19:31:41.079Z",
+  "finished_at": "2026-10-29T19:33:17.884Z",
   "summary": [
     {
       "slug": "research-gr-1770",
@@ -103,13 +103,11 @@
     },
     {
       "slug": "reef-fish-and-dive-1770-b",
-      "candidates": 0,
-      "pages": 3
+      "skipped": true
     },
     {
       "slug": "boobybird-charters",
-      "candidates": 0,
-      "pages": 1
+      "skipped": true
     },
     {
       "slug": "mv-night-crossing-img",
@@ -118,18 +116,35 @@
     },
     {
       "slug": "research-mikat-extra",
-      "candidates": 0,
-      "pages": 3
+      "skipped": true
     },
     {
       "slug": "research-gladstone-facts",
+      "skipped": true
+    },
+    {
+      "slug": "hooked-on-1770-img",
+      "skipped": true
+    },
+    {
+      "slug": "reef-fish-and-dive-1770-wb",
+      "candidates": 0,
+      "pages": 4
+    },
+    {
+      "slug": "boobybird-wb",
       "candidates": 0,
       "pages": 2
     },
     {
-      "slug": "hooked-on-1770-img",
+      "slug": "research-wb-1770-others",
       "candidates": 0,
       "pages": 2
+    },
+    {
+      "slug": "research-ais",
+      "candidates": 0,
+      "pages": 3
     }
   ]
 }

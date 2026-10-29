@@ -1,0 +1,38 @@
+{
+  "slug": "reef-fish-and-dive-1770-wb",
+  "request_hash": "b5f3ab9f72cb",
+  "collected_at": "2026-10-29T19:33:12.833Z",
+  "pages_fetched": [
+    "https://web.archive.org/web/2026/https://reeffishanddive1770.com.au/",
+    "https://web.archive.org/web/2026/https://reeffishanddive1770.com.au/charters",
+    "https://web.archive.org/web/2026/https://reeffishanddive1770.com.au/about",
+    "https://web.archive.org/web/2026/https://reeffishanddive1770.com.au/contact"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://web.archive.org/web/2026/https://reeffishanddive1770.com.au/",
+      "status": 429,
+      "final_url": "https://web.archive.org/web/2026/https://reeffishanddive1770.com.au/",
+      "bytes": 620
+    },
+    {
+      "page": "https://web.archive.org/web/2026/https://reeffishanddive1770.com.au/charters",
+      "status": 429,
+      "final_url": "https://web.archive.org/web/20190306140922/https://www.reeffishanddive1770.com.au/charters/",
+      "bytes": 620
+    },
+    {
+      "page": "https://web.archive.org/web/2026/https://reeffishanddive1770.com.au/about",
+      "status": 404,
+      "final_url": "https://web.archive.org/web/2026/https://reeffishanddive1770.com.au/about",
+      "bytes": 142547
+    },
+    {
+      "page": "https://web.archive.org/web/2026/https://reeffishanddive1770.com.au/contact",
+      "status": 429,
+      "final_url": "https://web.archive.org/web/2026/https://reeffishanddive1770.com.au/contact",
+      "bytes": 620
+    }
+  ]
+}
