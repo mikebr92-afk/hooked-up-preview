@@ -1,0 +1,38 @@
+{
+  "slug": "research-hotspot-guides",
+  "request_hash": "cee9098dc827",
+  "collected_at": "2026-10-29T04:19:18.796Z",
+  "pages_fetched": [
+    "https://fishandboat.com.au/guide-to-hervey-bay-luke-fitzpatrick-2016/",
+    "https://www.fishingaustralia.com.au/redcliffe-peninsula-qld/",
+    "https://visitcapricorn.com.au/service/rosslyn-bay",
+    "https://www.bundabergregion.org/places-to-go/burnett-heads/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://fishandboat.com.au/guide-to-hervey-bay-luke-fitzpatrick-2016/",
+      "status": 200,
+      "final_url": "https://fishandboat.com.au/guide-to-hervey-bay-luke-fitzpatrick-2016/",
+      "bytes": 94624
+    },
+    {
+      "page": "https://www.fishingaustralia.com.au/redcliffe-peninsula-qld/",
+      "status": 200,
+      "final_url": "https://www.fishingaustralia.com.au/redcliffe-peninsula-qld/",
+      "bytes": 172632
+    },
+    {
+      "page": "https://visitcapricorn.com.au/service/rosslyn-bay",
+      "status": 200,
+      "final_url": "https://visitcapricorn.com.au/service/rosslyn-bay",
+      "bytes": 399471
+    },
+    {
+      "page": "https://www.bundabergregion.org/places-to-go/burnett-heads/",
+      "status": 200,
+      "final_url": "https://www.bundabergregion.org/places-to-go/burnett-heads/",
+      "bytes": 411866
+    }
+  ]
+}

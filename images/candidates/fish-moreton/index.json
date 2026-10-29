@@ -1,0 +1,583 @@
+{
+  "slug": "fish-moreton",
+  "request_hash": "d47bb443705c",
+  "collected_at": "2026-10-29T04:05:30.201Z",
+  "pages_fetched": [
+    "http://www.fishmoreton.com.au/",
+    "https://fishmoreton.rezdy.com/index",
+    "https://www.fishmoreton.com.au/offshore-fishing",
+    "https://www.fishmoreton.com.au/bay-fishing",
+    "https://www.fishmoreton.com.au/copy-of-bay-fishing",
+    "https://www.fishmoreton.com.au/tourscharters",
+    "https://www.fishmoreton.com.au/contact"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1417,
+      "height": 826,
+      "original": "1417x826",
+      "source": "https://static.wixstatic.com/media/bc81c3_70866ca5b3ac4cccb7fa73b51432a98f%7Emv2.png",
+      "page": "http://www.fishmoreton.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 2000,
+      "height": 740,
+      "original": "3000x1110",
+      "source": "https://static.wixstatic.com/media/bc81c3_3aa8bc1b01b3435695cebe3ef1ee2524~mv2.jpg",
+      "page": "http://www.fishmoreton.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1900,
+      "height": 900,
+      "original": "1900x900",
+      "source": "https://static.wixstatic.com/media/bc81c3_705f44206c314dd9bc439b7924779ddb~mv2.jpg",
+      "page": "http://www.fishmoreton.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 2000,
+      "height": 709,
+      "original": "3000x1064",
+      "source": "https://static.wixstatic.com/media/bc81c3_d5e34f0af604457fb01e37d81a30f971~mv2.jpg",
+      "page": "http://www.fishmoreton.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "3024x4032",
+      "source": "https://static.wixstatic.com/media/bc81c3_d623cb83db124c9c91b68ffe298a8169~mv2.jpg",
+      "page": "http://www.fishmoreton.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1440,
+      "height": 1080,
+      "original": "1440x1080",
+      "source": "https://static.wixstatic.com/media/bc81c3_1d6bf3ebe887458896bcc86fccef6542~mv2.jpg",
+      "page": "http://www.fishmoreton.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1536x2048",
+      "source": "https://static.wixstatic.com/media/bc81c3_e83ebfa155ea4c389f50edd16f9db351~mv2.jpg",
+      "page": "http://www.fishmoreton.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 2000,
+      "height": 1325,
+      "original": "4221x2796",
+      "source": "https://static.wixstatic.com/media/bc81c3_3a59489b8f18457b8ea5ce07dfd5acaf~mv2.jpg",
+      "page": "http://www.fishmoreton.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1440,
+      "height": 1080,
+      "original": "1440x1080",
+      "source": "https://static.wixstatic.com/media/bc81c3_31d68dbee65e49f3b658b20cc21ec9ac~mv2.jpg",
+      "page": "http://www.fishmoreton.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 2000,
+      "height": 1333,
+      "original": "4272x2848",
+      "source": "https://static.wixstatic.com/media/bc81c3_1f6e5a4969e64e599d2fd02f0dc1f1aa~mv2.jpg",
+      "page": "http://www.fishmoreton.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1181,
+      "height": 1181,
+      "original": "1181x1181",
+      "source": "https://static.wixstatic.com/media/bc81c3_999f9b07d91b42be8c3b1939b0344af1~mv2.png",
+      "page": "http://www.fishmoreton.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1080,
+      "height": 1920,
+      "original": "1080x1920",
+      "source": "https://static.wixstatic.com/media/bc81c3_bb228928de6a4326a5c4229b98d68710f003.jpg",
+      "page": "http://www.fishmoreton.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://static.wixstatic.com/media/11062b_a99a5bf5c6e640eea97cec2352836173f000.jpg",
+      "page": "http://www.fishmoreton.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1080,
+      "height": 1351,
+      "original": "1080x1351",
+      "source": "https://static.wixstatic.com/media/bc81c3_311ba4dee3b74bef94cfdd42565f78a3~mv2.jpg",
+      "page": "https://www.fishmoreton.com.au/offshore-fishing",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1080,
+      "height": 1351,
+      "original": "1080x1351",
+      "source": "https://static.wixstatic.com/media/bc81c3_9909fb178da646d6abf68c66d75e0d44~mv2.jpg",
+      "page": "https://www.fishmoreton.com.au/offshore-fishing",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1080,
+      "height": 1350,
+      "original": "1080x1350",
+      "source": "https://static.wixstatic.com/media/bc81c3_86a14cd99c2a43eab78a23b847b2bb70~mv2.jpg",
+      "page": "https://www.fishmoreton.com.au/offshore-fishing",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "http://www.fishmoreton.com.au/",
+      "status": 200,
+      "final_url": "https://www.fishmoreton.com.au/",
+      "bytes": 1048929
+    },
+    {
+      "page": "https://fishmoreton.rezdy.com/index",
+      "status": 403,
+      "final_url": "https://fishmoreton.rezdy.com/index",
+      "bytes": 5484
+    },
+    {
+      "page": "https://www.fishmoreton.com.au/offshore-fishing",
+      "status": 200,
+      "final_url": "https://www.fishmoreton.com.au/offshore-fishing",
+      "bytes": 966314
+    },
+    {
+      "page": "https://www.fishmoreton.com.au/bay-fishing",
+      "status": 200,
+      "final_url": "https://www.fishmoreton.com.au/bay-fishing",
+      "bytes": 961554
+    },
+    {
+      "page": "https://www.fishmoreton.com.au/copy-of-bay-fishing",
+      "status": 200,
+      "final_url": "https://www.fishmoreton.com.au/copy-of-bay-fishing",
+      "bytes": 749456
+    },
+    {
+      "page": "https://www.fishmoreton.com.au/tourscharters",
+      "status": 200,
+      "final_url": "https://www.fishmoreton.com.au/tourscharters",
+      "bytes": 802014
+    },
+    {
+      "page": "https://www.fishmoreton.com.au/contact",
+      "status": 200,
+      "final_url": "https://www.fishmoreton.com.au/contact",
+      "bytes": 801068
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/bc81c3_70866ca5b3ac4cccb7fa73b51432a98f%7Emv2.png/v1/fit/w_2500,h_1330,al_c/bc81c3_70866ca5b3ac4cccb7fa73b51432a98f%7Emv2.png"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/bc81c3_495e505718e04bfaa38ceee2e738fad5~mv2.png",
+      "error": "too small 358x280"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/bc81c3_495e505718e04bfaa38ceee2e738fad5~mv2.png/v1/fill/w_170,h_133,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/bc81c3_495e505718e04bfaa38ceee2e738fad5~mv2.png",
+      "error": "too small 170x133"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/bc81c3_3aa8bc1b01b3435695cebe3ef1ee2524~mv2.jpg/v1/fill/w_147,h_54,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/bc81c3_3aa8bc1b01b3435695cebe3ef1ee2524~mv2.jpg",
+      "error": "too small 147x54"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/bc81c3_17b111382d33451599d4a90ee322ac52~mv2.png",
+      "error": "too small 358x280"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/bc81c3_17b111382d33451599d4a90ee322ac52~mv2.png/v1/fill/w_123,h_97,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/shark-cat.png",
+      "error": "too small 123x97"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/bc81c3_9880248cecd64fcbb7273ba6bd44cd7f~mv2.png",
+      "error": "too small 358x280"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/bc81c3_9880248cecd64fcbb7273ba6bd44cd7f~mv2.png/v1/fill/w_123,h_97,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/bait-tackle-water.png",
+      "error": "too small 123x97"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/bc81c3_72b1422b1c5f4bae86c96e9901e92aa8~mv2.png",
+      "error": "too small 358x280"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/bc81c3_72b1422b1c5f4bae86c96e9901e92aa8~mv2.png/v1/fill/w_123,h_97,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/location-sandstone-point.png",
+      "error": "too small 123x97"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/bc81c3_db78812c37b34e3caf9db096bfb858c3~mv2.png",
+      "error": "too small 358x280"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/bc81c3_db78812c37b34e3caf9db096bfb858c3~mv2.png/v1/fill/w_123,h_97,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/depart-sandstone-point.png",
+      "error": "too small 123x97"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/bc81c3_dd664157ec63482693d2c6d12f36bbc3~mv2.jpg",
+      "error": "too small 434x902"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/bc81c3_dd664157ec63482693d2c6d12f36bbc3~mv2.jpg/v1/fill/w_122,h_253,q_90,enc_avif,quality_auto/bc81c3_dd664157ec63482693d2c6d12f36bbc3~mv2.jpg",
+      "error": "too small 122x253"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/64a918_ecce71321e844673b977c572d915fa2b~mv2.png",
+      "error": "too small 125x125"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/64a918_ecce71321e844673b977c572d915fa2b~mv2.png/v1/fill/w_22,h_22,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/64a918_ecce71321e844673b977c572d915fa2b~mv2.png",
+      "error": "too small 22x22"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/64a918_b802763ffe1b4e9292c9d7f1605587fb~mv2.png",
+      "error": "too small 125x125"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/64a918_b802763ffe1b4e9292c9d7f1605587fb~mv2.png/v1/fill/w_22,h_22,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/64a918_b802763ffe1b4e9292c9d7f1605587fb~mv2.png",
+      "error": "too small 22x22"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/2e2a49_eeae1c6722bf4f14a618685f82a5e91f~mv2.png",
+      "error": "too small 125x125"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/2e2a49_eeae1c6722bf4f14a618685f82a5e91f~mv2.png/v1/fill/w_22,h_22,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2e2a49_eeae1c6722bf4f14a618685f82a5e91f~mv2.png",
+      "error": "too small 22x22"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/2e2a49_4dfa4833c09a4a259cb9fadd7d91000b~mv2.png",
+      "error": "too small 125x125"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/2e2a49_4dfa4833c09a4a259cb9fadd7d91000b~mv2.png/v1/fill/w_22,h_22,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2e2a49_4dfa4833c09a4a259cb9fadd7d91000b~mv2.png",
+      "error": "too small 22x22"
+    },
+    {
+      "image": "https://www.fishmoreton.com.au/quality_auto/bc81c3_495e505718e04bfaa38ceee2e738fad5~mv2.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.fishmoreton.com.au/quality_auto/shark-cat.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.fishmoreton.com.au/quality_auto/bait-tackle-water.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.fishmoreton.com.au/quality_auto/location-sandstone-point.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.fishmoreton.com.au/quality_auto/depart-sandstone-point.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.fishmoreton.com.au/quality_auto/bc81c3_d623cb83db124c9c91b68ffe298a8169~mv2.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.fishmoreton.com.au/quality_auto/bc81c3_1d6bf3ebe887458896bcc86fccef6542~mv2.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.fishmoreton.com.au/quality_auto/bc81c3_e83ebfa155ea4c389f50edd16f9db351~mv2.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.fishmoreton.com.au/quality_auto/bc81c3_3a59489b8f18457b8ea5ce07dfd5acaf~mv2.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.fishmoreton.com.au/quality_auto/bc81c3_31d68dbee65e49f3b658b20cc21ec9ac~mv2.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.fishmoreton.com.au/quality_auto/bc81c3_1f6e5a4969e64e599d2fd02f0dc1f1aa~mv2.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.fishmoreton.com.au/quality_auto/bc81c3_dd664157ec63482693d2c6d12f36bbc3~mv2.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.fishmoreton.com.au/quality_auto/bc81c3_999f9b07d91b42be8c3b1939b0344af1~mv2.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.fishmoreton.com.au/quality_auto/bc81c3_bb228928de6a4326a5c4229b98d68710f003.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.fishmoreton.com.au/quality_auto/64a918_ecce71321e844673b977c572d915fa2b~mv2.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.fishmoreton.com.au/quality_auto/64a918_b802763ffe1b4e9292c9d7f1605587fb~mv2.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.fishmoreton.com.au/quality_auto/2e2a49_eeae1c6722bf4f14a618685f82a5e91f~mv2.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.fishmoreton.com.au/quality_auto/2e2a49_4dfa4833c09a4a259cb9fadd7d91000b~mv2.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/bc81c3_dfe7ab0dbace450787755b1db37baa40%7Emv2.png",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/bc81c3_dfe7ab0dbace450787755b1db37baa40%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/bc81c3_dfe7ab0dbace450787755b1db37baa40%7Emv2.png",
+      "error": "too small 192x192"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/bc81c3_dfe7ab0dbace450787755b1db37baa40%7Emv2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/bc81c3_dfe7ab0dbace450787755b1db37baa40%7Emv2.png",
+      "error": "too small 32x32"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/bc81c3_dfe7ab0dbace450787755b1db37baa40%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/bc81c3_dfe7ab0dbace450787755b1db37baa40%7Emv2.png",
+      "error": "too small 180x180"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/bc81c3_495e505718e04bfaa38ceee2e738fad5~mv2.png/v1/fill/w_340,h_266,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/bc81c3_495e505718e04bfaa38ceee2e738fad5~mv2.png",
+      "error": "too small 340x266"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/bc81c3_705f44206c314dd9bc439b7924779ddb~mv2.jpg/v1/fill/w_147,h_70,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/bc81c3_705f44206c314dd9bc439b7924779ddb~mv2.jpg",
+      "error": "too small 147x70"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/bc81c3_d5e34f0af604457fb01e37d81a30f971~mv2.jpg/v1/fill/w_147,h_52,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/bc81c3_d5e34f0af604457fb01e37d81a30f971~mv2.jpg",
+      "error": "too small 147x52"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/bc81c3_17b111382d33451599d4a90ee322ac52~mv2.png/v1/fill/w_246,h_194,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/shark-cat.png",
+      "error": "too small 246x194"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/bc81c3_9880248cecd64fcbb7273ba6bd44cd7f~mv2.png/v1/fill/w_246,h_194,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/bait-tackle-water.png",
+      "error": "too small 246x194"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/bc81c3_72b1422b1c5f4bae86c96e9901e92aa8~mv2.png/v1/fill/w_246,h_194,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/location-sandstone-point.png",
+      "error": "too small 246x194"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/bc81c3_db78812c37b34e3caf9db096bfb858c3~mv2.png/v1/fill/w_246,h_194,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/depart-sandstone-point.png",
+      "error": "too small 246x194"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/bc81c3_d623cb83db124c9c91b68ffe298a8169~mv2.jpg/v1/fill/w_285,h_380,q_90,enc_avif,quality_auto/bc81c3_d623cb83db124c9c91b68ffe298a8169~mv2.jpg",
+      "error": "too small 285x380"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/bc81c3_d623cb83db124c9c91b68ffe298a8169~mv2.jpg/v1/fill/w_570,h_760,q_90,enc_avif,quality_auto/bc81c3_d623cb83db124c9c91b68ffe298a8169~mv2.jpg",
+      "error": "too small 570x760"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/bc81c3_d623cb83db124c9c91b68ffe298a8169~mv2.jpg/v1/fill/w_855,h_1140,q_90,enc_avif,quality_auto/bc81c3_d623cb83db124c9c91b68ffe298a8169~mv2.jpg"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/bc81c3_d623cb83db124c9c91b68ffe298a8169~mv2.jpg/v1/fill/w_1140,h_1520,q_90,enc_avif,quality_auto/bc81c3_d623cb83db124c9c91b68ffe298a8169~mv2.jpg"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/bc81c3_d623cb83db124c9c91b68ffe298a8169~mv2.jpg/v1/fill/w_1425,h_1900,q_90,enc_avif,quality_auto/bc81c3_d623cb83db124c9c91b68ffe298a8169~mv2.jpg"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/bc81c3_1d6bf3ebe887458896bcc86fccef6542~mv2.jpg/v1/fill/w_180,h_135,q_90,enc_avif,quality_auto/bc81c3_1d6bf3ebe887458896bcc86fccef6542~mv2.jpg",
+      "error": "too small 180x135"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/bc81c3_1d6bf3ebe887458896bcc86fccef6542~mv2.jpg/v1/fill/w_360,h_270,q_90,enc_avif,quality_auto/bc81c3_1d6bf3ebe887458896bcc86fccef6542~mv2.jpg",
+      "error": "too small 360x270"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/bc81c3_1d6bf3ebe887458896bcc86fccef6542~mv2.jpg/v1/fill/w_540,h_405,q_90,enc_avif,quality_auto/bc81c3_1d6bf3ebe887458896bcc86fccef6542~mv2.jpg",
+      "error": "too small 540x405"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/bc81c3_1d6bf3ebe887458896bcc86fccef6542~mv2.jpg/v1/fill/w_720,h_540,q_90,enc_avif,quality_auto/bc81c3_1d6bf3ebe887458896bcc86fccef6542~mv2.jpg"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/bc81c3_1d6bf3ebe887458896bcc86fccef6542~mv2.jpg/v1/fill/w_900,h_675,q_90,enc_avif,quality_auto/bc81c3_1d6bf3ebe887458896bcc86fccef6542~mv2.jpg"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/bc81c3_e83ebfa155ea4c389f50edd16f9db351~mv2.jpg/v1/fill/w_180,h_240,q_90,enc_avif,quality_auto/bc81c3_e83ebfa155ea4c389f50edd16f9db351~mv2.jpg",
+      "error": "too small 180x240"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/bc81c3_e83ebfa155ea4c389f50edd16f9db351~mv2.jpg/v1/fill/w_360,h_480,q_90,enc_avif,quality_auto/bc81c3_e83ebfa155ea4c389f50edd16f9db351~mv2.jpg",
+      "error": "too small 360x480"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/bc81c3_e83ebfa155ea4c389f50edd16f9db351~mv2.jpg/v1/fill/w_540,h_720,q_90,enc_avif,quality_auto/bc81c3_e83ebfa155ea4c389f50edd16f9db351~mv2.jpg",
+      "error": "too small 540x720"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/bc81c3_e83ebfa155ea4c389f50edd16f9db351~mv2.jpg/v1/fill/w_720,h_960,q_90,enc_avif,quality_auto/bc81c3_e83ebfa155ea4c389f50edd16f9db351~mv2.jpg"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/bc81c3_e83ebfa155ea4c389f50edd16f9db351~mv2.jpg/v1/fill/w_900,h_1200,q_90,enc_avif,quality_auto/bc81c3_e83ebfa155ea4c389f50edd16f9db351~mv2.jpg"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/bc81c3_3a59489b8f18457b8ea5ce07dfd5acaf~mv2.jpg/v1/fill/w_371,h_246,q_90,enc_avif,quality_auto/bc81c3_3a59489b8f18457b8ea5ce07dfd5acaf~mv2.jpg",
+      "error": "too small 371x246"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/bc81c3_3a59489b8f18457b8ea5ce07dfd5acaf~mv2.jpg/v1/fill/w_742,h_492,q_90,enc_avif,quality_auto/bc81c3_3a59489b8f18457b8ea5ce07dfd5acaf~mv2.jpg"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/bc81c3_3a59489b8f18457b8ea5ce07dfd5acaf~mv2.jpg/v1/fill/w_1113,h_738,q_90,enc_avif,quality_auto/bc81c3_3a59489b8f18457b8ea5ce07dfd5acaf~mv2.jpg"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/bc81c3_3a59489b8f18457b8ea5ce07dfd5acaf~mv2.jpg/v1/fill/w_1484,h_984,q_90,enc_avif,quality_auto/bc81c3_3a59489b8f18457b8ea5ce07dfd5acaf~mv2.jpg"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/bc81c3_3a59489b8f18457b8ea5ce07dfd5acaf~mv2.jpg/v1/fill/w_1855,h_1230,q_90,enc_avif,quality_auto/bc81c3_3a59489b8f18457b8ea5ce07dfd5acaf~mv2.jpg"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/bc81c3_31d68dbee65e49f3b658b20cc21ec9ac~mv2.jpg/v1/fill/w_172,h_129,q_90,enc_avif,quality_auto/bc81c3_31d68dbee65e49f3b658b20cc21ec9ac~mv2.jpg",
+      "error": "too small 172x129"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/bc81c3_31d68dbee65e49f3b658b20cc21ec9ac~mv2.jpg/v1/fill/w_344,h_258,q_90,enc_avif,quality_auto/bc81c3_31d68dbee65e49f3b658b20cc21ec9ac~mv2.jpg",
+      "error": "too small 344x258"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/bc81c3_31d68dbee65e49f3b658b20cc21ec9ac~mv2.jpg/v1/fill/w_516,h_387,q_90,enc_avif,quality_auto/bc81c3_31d68dbee65e49f3b658b20cc21ec9ac~mv2.jpg",
+      "error": "too small 516x387"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/bc81c3_31d68dbee65e49f3b658b20cc21ec9ac~mv2.jpg/v1/fill/w_688,h_516,q_90,enc_avif,quality_auto/bc81c3_31d68dbee65e49f3b658b20cc21ec9ac~mv2.jpg"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/bc81c3_31d68dbee65e49f3b658b20cc21ec9ac~mv2.jpg/v1/fill/w_860,h_645,q_90,enc_avif,quality_auto/bc81c3_31d68dbee65e49f3b658b20cc21ec9ac~mv2.jpg"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/bc81c3_1f6e5a4969e64e599d2fd02f0dc1f1aa~mv2.jpg/v1/fill/w_194,h_129,q_90,enc_avif,quality_auto/bc81c3_1f6e5a4969e64e599d2fd02f0dc1f1aa~mv2.jpg",
+      "error": "too small 194x129"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/bc81c3_1f6e5a4969e64e599d2fd02f0dc1f1aa~mv2.jpg/v1/fill/w_388,h_258,q_90,enc_avif,quality_auto/bc81c3_1f6e5a4969e64e599d2fd02f0dc1f1aa~mv2.jpg",
+      "error": "too small 388x258"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/bc81c3_1f6e5a4969e64e599d2fd02f0dc1f1aa~mv2.jpg/v1/fill/w_582,h_387,q_90,enc_avif,quality_auto/bc81c3_1f6e5a4969e64e599d2fd02f0dc1f1aa~mv2.jpg",
+      "error": "too small 582x387"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/bc81c3_1f6e5a4969e64e599d2fd02f0dc1f1aa~mv2.jpg/v1/fill/w_776,h_516,q_90,enc_avif,quality_auto/bc81c3_1f6e5a4969e64e599d2fd02f0dc1f1aa~mv2.jpg"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/bc81c3_1f6e5a4969e64e599d2fd02f0dc1f1aa~mv2.jpg/v1/fill/w_970,h_645,q_90,enc_avif,quality_auto/bc81c3_1f6e5a4969e64e599d2fd02f0dc1f1aa~mv2.jpg"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/bc81c3_dd664157ec63482693d2c6d12f36bbc3~mv2.jpg/v1/fill/w_244,h_506,q_90,enc_avif,quality_auto/bc81c3_dd664157ec63482693d2c6d12f36bbc3~mv2.jpg",
+      "error": "too small 244x506"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/bc81c3_dd664157ec63482693d2c6d12f36bbc3~mv2.jpg/v1/fill/w_366,h_759,q_90,enc_avif,quality_auto/bc81c3_dd664157ec63482693d2c6d12f36bbc3~mv2.jpg",
+      "error": "too small 366x759"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/bc81c3_dd664157ec63482693d2c6d12f36bbc3~mv2.jpg/v1/fill/w_434,h_900,q_90,enc_avif,quality_auto/bc81c3_dd664157ec63482693d2c6d12f36bbc3~mv2.jpg",
+      "error": "too small 434x900"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/bc81c3_999f9b07d91b42be8c3b1939b0344af1~mv2.png/v1/fill/w_122,h_122,q_90,enc_avif,quality_auto/bc81c3_999f9b07d91b42be8c3b1939b0344af1~mv2.png",
+      "error": "too small 122x122"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/bc81c3_999f9b07d91b42be8c3b1939b0344af1~mv2.png/v1/fill/w_244,h_244,q_90,enc_avif,quality_auto/bc81c3_999f9b07d91b42be8c3b1939b0344af1~mv2.png",
+      "error": "too small 244x244"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/bc81c3_999f9b07d91b42be8c3b1939b0344af1~mv2.png/v1/fill/w_366,h_366,q_90,enc_avif,quality_auto/bc81c3_999f9b07d91b42be8c3b1939b0344af1~mv2.png",
+      "error": "too small 366x366"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/bc81c3_999f9b07d91b42be8c3b1939b0344af1~mv2.png/v1/fill/w_488,h_488,q_90,enc_avif,quality_auto/bc81c3_999f9b07d91b42be8c3b1939b0344af1~mv2.png",
+      "error": "too small 488x488"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/bc81c3_999f9b07d91b42be8c3b1939b0344af1~mv2.png/v1/fill/w_610,h_610,q_90,enc_avif,quality_auto/bc81c3_999f9b07d91b42be8c3b1939b0344af1~mv2.png"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/bc81c3_bb228928de6a4326a5c4229b98d68710f003.jpg/v1/fill/w_213,h_380,q_90,enc_avif,quality_auto/bc81c3_bb228928de6a4326a5c4229b98d68710f003.jpg",
+      "error": "too small 213x380"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/bc81c3_bb228928de6a4326a5c4229b98d68710f003.jpg/v1/fill/w_426,h_760,q_90,enc_avif,quality_auto/bc81c3_bb228928de6a4326a5c4229b98d68710f003.jpg",
+      "error": "too small 426x760"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/bc81c3_bb228928de6a4326a5c4229b98d68710f003.jpg/v1/fill/w_639,h_1140,q_90,enc_avif,quality_auto/bc81c3_bb228928de6a4326a5c4229b98d68710f003.jpg"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/bc81c3_bb228928de6a4326a5c4229b98d68710f003.jpg/v1/fill/w_852,h_1520,q_90,enc_avif,quality_auto/bc81c3_bb228928de6a4326a5c4229b98d68710f003.jpg"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/bc81c3_bb228928de6a4326a5c4229b98d68710f003.jpg/v1/fill/w_1065,h_1900,q_90,enc_avif,quality_auto/bc81c3_bb228928de6a4326a5c4229b98d68710f003.jpg"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/11062b_a99a5bf5c6e640eea97cec2352836173f000.jpg/v1/fill/w_135,h_76,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/11062b_a99a5bf5c6e640eea97cec2352836173f000.jpg",
+      "error": "too small 135x76"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/64a918_ecce71321e844673b977c572d915fa2b~mv2.png/v1/fill/w_44,h_44,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/64a918_ecce71321e844673b977c572d915fa2b~mv2.png",
+      "error": "too small 44x44"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/64a918_b802763ffe1b4e9292c9d7f1605587fb~mv2.png/v1/fill/w_44,h_44,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/64a918_b802763ffe1b4e9292c9d7f1605587fb~mv2.png",
+      "error": "too small 44x44"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/2e2a49_eeae1c6722bf4f14a618685f82a5e91f~mv2.png/v1/fill/w_44,h_44,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2e2a49_eeae1c6722bf4f14a618685f82a5e91f~mv2.png",
+      "error": "too small 44x44"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/2e2a49_4dfa4833c09a4a259cb9fadd7d91000b~mv2.png/v1/fill/w_44,h_44,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2e2a49_4dfa4833c09a4a259cb9fadd7d91000b~mv2.png",
+      "error": "too small 44x44"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/bc81c3_74d08f9d09214f009a8a00d193789b03~mv2.jpg"
+    }
+  ]
+}

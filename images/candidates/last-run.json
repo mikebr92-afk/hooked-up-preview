@@ -1,5 +1,5 @@
 {
-  "finished_at": "2026-10-29T04:01:53.404Z",
+  "finished_at": "2026-10-29T04:19:18.796Z",
   "summary": [
     {
       "slug": "hooker-1-fishing-charters-gold-coast",
@@ -111,108 +111,142 @@
     },
     {
       "slug": "hervey-bay-fly-and-sportfishing",
-      "candidates": 16,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "reel-deadly-fishing-charters",
-      "candidates": 0,
-      "pages": 1
+      "skipped": true
     },
     {
       "slug": "saltwater-playground",
-      "candidates": 16,
-      "pages": 7
+      "skipped": true
     },
     {
       "slug": "research-hervey-dir2",
-      "candidates": 0,
-      "pages": 4
+      "skipped": true
     },
     {
       "slug": "truansea-charters",
-      "candidates": 0,
-      "pages": 1
+      "skipped": true
     },
     {
       "slug": "reality-fishing-charters",
-      "candidates": 0,
-      "pages": 1
+      "skipped": true
     },
     {
       "slug": "research-bundaberg-dir2",
-      "candidates": 0,
-      "pages": 2
+      "skipped": true
     },
     {
       "slug": "reef-fishing-charters-1770",
-      "candidates": 1,
-      "pages": 7
+      "skipped": true
     },
     {
       "slug": "research-agnes-dir2",
-      "candidates": 0,
-      "pages": 5
+      "skipped": true
     },
     {
       "slug": "eastern-voyager",
-      "candidates": 16,
-      "pages": 11
+      "skipped": true
     },
     {
       "slug": "iluka-fishing-charters",
-      "candidates": 16,
-      "pages": 6
+      "skipped": true
     },
     {
       "slug": "boobybird-charters",
-      "candidates": 0,
-      "pages": 1
+      "skipped": true
     },
     {
       "slug": "mikat-charters",
-      "candidates": 12,
-      "pages": 7
+      "skipped": true
     },
     {
       "slug": "research-gladstone-dir2",
-      "candidates": 0,
-      "pages": 3
+      "skipped": true
     },
     {
       "slug": "double-threat-charters-yeppoon",
-      "candidates": 16,
-      "pages": 9
+      "skipped": true
     },
     {
       "slug": "australiana-charters",
-      "candidates": 16,
-      "pages": 4
+      "skipped": true
     },
     {
       "slug": "kanimbla-charters",
-      "candidates": 12,
-      "pages": 9
+      "skipped": true
     },
     {
       "slug": "research-yeppoon-dir2",
-      "candidates": 0,
-      "pages": 2
+      "skipped": true
     },
     {
       "slug": "rainbow-beach-fishing-charters",
+      "skipped": true
+    },
+    {
+      "slug": "keely-rose-fishing-charters",
+      "skipped": true
+    },
+    {
+      "slug": "research-rainbow-dir2",
+      "skipped": true
+    },
+    {
+      "slug": "bks-gold-coast-fishing-charters",
       "candidates": 16,
       "pages": 12
     },
     {
-      "slug": "keely-rose-fishing-charters",
-      "candidates": 16,
-      "pages": 10
+      "slug": "big-cat-charters-brisbane",
+      "candidates": 0,
+      "pages": 1
     },
     {
-      "slug": "research-rainbow-dir2",
+      "slug": "research-saltwater-charters-qld",
+      "candidates": 0,
+      "pages": 1
+    },
+    {
+      "slug": "fish-moreton",
+      "candidates": 16,
+      "pages": 7
+    },
+    {
+      "slug": "smithys-fishing-charters",
       "candidates": 0,
       "pages": 2
+    },
+    {
+      "slug": "reel-deadly-fishing-charters",
+      "candidates": 0,
+      "pages": 2
+    },
+    {
+      "slug": "research-hbfs-packages",
+      "candidates": 0,
+      "pages": 3
+    },
+    {
+      "slug": "truansea-charters",
+      "candidates": 3,
+      "pages": 5
+    },
+    {
+      "slug": "bundaberg-river-fishing-charters",
+      "candidates": 3,
+      "pages": 5
+    },
+    {
+      "slug": "research-agnes-dir3",
+      "candidates": 0,
+      "pages": 7
+    },
+    {
+      "slug": "research-hotspot-guides",
+      "candidates": 0,
+      "pages": 4
     }
   ]
 }

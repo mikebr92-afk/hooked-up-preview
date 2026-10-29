@@ -1,14 +1,19 @@
 {
   "slug": "smithys-fishing-charters",
-  "request_hash": "30600f0f9731",
-  "collected_at": "2026-10-29T03:52:54.826Z",
+  "request_hash": "b5a9015a51d6",
+  "collected_at": "2026-10-29T04:05:30.975Z",
   "pages_fetched": [
-    "https://smithysfishingcharters.com.au/"
+    "https://www.smithysfishingcharters.com.au/",
+    "http://smithysfishingcharters.com.au/"
   ],
   "candidates": [],
   "log": [
     {
-      "page": "https://smithysfishingcharters.com.au/",
+      "page": "https://www.smithysfishingcharters.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "http://smithysfishingcharters.com.au/",
       "error": "fetch failed"
     }
   ]

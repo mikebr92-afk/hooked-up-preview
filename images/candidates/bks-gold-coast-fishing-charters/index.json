@@ -1,0 +1,417 @@
+{
+  "slug": "bks-gold-coast-fishing-charters",
+  "request_hash": "af03f7ecf485",
+  "collected_at": "2026-10-29T04:04:44.663Z",
+  "pages_fetched": [
+    "https://www.bksfishing.com.au/",
+    "https://bksgoldcoastfishingcharters.rezdy.com/",
+    "https://bksfishing.com.au/",
+    "https://bksfishing.com.au/fishing-on-the-gold-coast/",
+    "https://bksfishing.com.au/fishing-charter-crew/",
+    "https://bksfishing.com.au/fishing-charter-boat/",
+    "https://bksfishing.com.au/gold-coast-fishing-tours-faqs/",
+    "https://bksfishing.com.au/terms-conditions-cancellation-policy/",
+    "https://bksfishing.com.au/half-day-fishing-charter/",
+    "https://bksfishing.com.au/gold-coast-calm-water-charters/",
+    "https://bksfishing.com.au/fishing-gift-card/",
+    "https://bksfishing.com.au/fishing-charters-brisbane/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 750,
+      "height": 563,
+      "original": "750x563",
+      "source": "https://bksfishing.com.au/wp-content/uploads/2022/09/BKs-gold-coast-fishing-charters-spanish-mackerel-85.jpg",
+      "page": "https://www.bksfishing.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 900,
+      "height": 675,
+      "original": "900x675",
+      "source": "https://bksfishing.com.au/wp-content/uploads/2022/08/BKs-Gold-Coast-Fishing-Charters-Reef-Cat-2.jpg",
+      "page": "https://www.bksfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1000,
+      "height": 750,
+      "original": "1000x750",
+      "source": "https://bksfishing.com.au/wp-content/uploads/2025/07/black-betty-1-1.jpg",
+      "page": "https://www.bksfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 700,
+      "height": 517,
+      "original": "700x517",
+      "source": "https://bksfishing.com.au/wp-content/uploads/2025/08/Gift-card-graphic-website-new.png",
+      "page": "https://www.bksfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 900,
+      "height": 674,
+      "original": "900x674",
+      "source": "https://bksfishing.com.au/wp-content/uploads/2022/07/BKs-Gold-Coast-Fishing-Charters-Crew.jpg",
+      "page": "https://bksfishing.com.au/fishing-on-the-gold-coast/",
+      "priority": true
+    },
+    {
+      "file": "c06.webp",
+      "width": 900,
+      "height": 675,
+      "original": "900x675",
+      "source": "https://bksfishing.com.au/wp-content/uploads/2022/08/BKs-Gold-Coast-Fishing-Charters-Crew-3.jpg",
+      "page": "https://bksfishing.com.au/fishing-charter-crew/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 900,
+      "height": 675,
+      "original": "900x675",
+      "source": "https://bksfishing.com.au/wp-content/uploads/2022/08/BKs-Gold-Coast-Fishing-Charters-Crew-4.jpg",
+      "page": "https://bksfishing.com.au/fishing-charter-crew/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1139,
+      "height": 641,
+      "original": "1139x641",
+      "source": "https://bksfishing.com.au/wp-content/uploads/2020/01/BKs-Gold-Coast-Fishing-Charters-Reef-Cat-II-1.jpg",
+      "page": "https://bksfishing.com.au/fishing-charter-boat/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "3650x2737",
+      "source": "https://bksfishing.com.au/wp-content/uploads/2025/07/black-betty-1.jpg",
+      "page": "https://bksfishing.com.au/fishing-charter-boat/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 768,
+      "height": 432,
+      "original": "768x432",
+      "source": "https://bksfishing.com.au/wp-content/uploads/2020/01/BKs-Gold-Coast-Fishing-Charters-Reef-Cat-II-1-768x432.jpg",
+      "page": "https://bksfishing.com.au/fishing-charter-boat/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 900,
+      "height": 675,
+      "original": "900x675",
+      "source": "https://bksfishing.com.au/wp-content/uploads/2022/07/BKs-Gold-Coast-Fishing-Charters-Spanish-Mackerel-022.jpg",
+      "page": "https://bksfishing.com.au/gold-coast-fishing-tours-faqs/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 960,
+      "height": 720,
+      "original": "960x720",
+      "source": "https://bksfishing.com.au/wp-content/uploads/2020/01/IMG_2810.jpg",
+      "page": "https://bksfishing.com.au/terms-conditions-cancellation-policy/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1000,
+      "height": 750,
+      "original": "1000x750",
+      "source": "https://bksfishing.com.au/wp-content/uploads/2026/04/bks-gold-coast-fishing-charters-spanish-mackerel-o-324.jpg",
+      "page": "https://bksfishing.com.au/half-day-fishing-charter/",
+      "priority": true
+    },
+    {
+      "file": "c14.webp",
+      "width": 750,
+      "height": 563,
+      "original": "750x563",
+      "source": "https://bksfishing.com.au/wp-content/uploads/2022/09/BKs-gold-coast-fishing-charters-cobia-94.jpg",
+      "page": "https://bksfishing.com.au/half-day-fishing-charter/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1000,
+      "height": 750,
+      "original": "1000x750",
+      "source": "https://bksfishing.com.au/wp-content/uploads/2024/11/bks-gold-coast-fishing-charters-kingfish-25.jpg",
+      "page": "https://bksfishing.com.au/half-day-fishing-charter/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1000,
+      "height": 800,
+      "original": "1000x800",
+      "source": "https://bksfishing.com.au/wp-content/uploads/2022/11/BKs-gold-coast-fishing-charters-spotted-mackerel-90.jpg",
+      "page": "https://bksfishing.com.au/half-day-fishing-charter/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.bksfishing.com.au/",
+      "status": 200,
+      "final_url": "https://bksfishing.com.au/",
+      "bytes": 126968
+    },
+    {
+      "page": "https://bksgoldcoastfishingcharters.rezdy.com/",
+      "status": 403,
+      "final_url": "https://bksgoldcoastfishingcharters.rezdy.com/",
+      "bytes": 5484
+    },
+    {
+      "page": "https://bksfishing.com.au/",
+      "status": 200,
+      "final_url": "https://bksfishing.com.au/",
+      "bytes": 126968
+    },
+    {
+      "page": "https://bksfishing.com.au/fishing-on-the-gold-coast/",
+      "status": 200,
+      "final_url": "https://bksfishing.com.au/fishing-on-the-gold-coast/",
+      "bytes": 70437
+    },
+    {
+      "page": "https://bksfishing.com.au/fishing-charter-crew/",
+      "status": 200,
+      "final_url": "https://bksfishing.com.au/fishing-charter-crew/",
+      "bytes": 83218
+    },
+    {
+      "page": "https://bksfishing.com.au/fishing-charter-boat/",
+      "status": 200,
+      "final_url": "https://bksfishing.com.au/fishing-charter-boat/",
+      "bytes": 79277
+    },
+    {
+      "page": "https://bksfishing.com.au/gold-coast-fishing-tours-faqs/",
+      "status": 200,
+      "final_url": "https://bksfishing.com.au/gold-coast-fishing-tours-faqs/",
+      "bytes": 98862
+    },
+    {
+      "page": "https://bksfishing.com.au/terms-conditions-cancellation-policy/",
+      "status": 200,
+      "final_url": "https://bksfishing.com.au/terms-conditions-cancellation-policy/",
+      "bytes": 76382
+    },
+    {
+      "page": "https://bksfishing.com.au/half-day-fishing-charter/",
+      "status": 200,
+      "final_url": "https://bksfishing.com.au/half-day-fishing-charter/",
+      "bytes": 86657
+    },
+    {
+      "page": "https://bksfishing.com.au/gold-coast-calm-water-charters/",
+      "status": 200,
+      "final_url": "https://bksfishing.com.au/gold-coast-calm-water-charters/",
+      "bytes": 83858
+    },
+    {
+      "page": "https://bksfishing.com.au/fishing-gift-card/",
+      "status": 200,
+      "final_url": "https://bksfishing.com.au/fishing-gift-card/",
+      "bytes": 73610
+    },
+    {
+      "page": "https://bksfishing.com.au/fishing-charters-brisbane/",
+      "status": 200,
+      "final_url": "https://bksfishing.com.au/fishing-charters-brisbane/",
+      "bytes": 424238
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a-/ALV-UjWjbVIXabIS0F8c9X83y0d26dNc4rtezEdAVkAhqgyDS8fRNuLHqw=w40-h40-c-rp-mo-ba4-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a-/ALV-UjVEyUAWKyFyYuy5B-GBeLKwqCbTTyObahyxxRmh-jeUdihlMFOL=w40-h40-c-rp-mo-ba3-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocI_H8-BuWNE6xnecfFtOtyTW4wN6NvXvVjvudMIRhQijuTK6w=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a-/ALV-UjW0DwMm1Hm1Mo-UCYiGKtHKcd_LZwB13OJW-UEtO7s3pmUun7lQ=w40-h40-c-rp-mo-ba3-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocKUtvdAZLhe0rBdOrdc2k5gBaKkY4uIPZL5Rf6eekFyrDegUw=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocI_u36AjomHplOFB_WNDN6Pav4tcvFl_oBaRW62wLHW4U_Irg=w40-h40-c-rp-mo-ba2-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a-/ALV-UjXq2YMfY_8XJsL9KQVOEOjw-f8EhsILtgHFyv3HqeRMhfvCVZA=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a-/ALV-UjWjbVIXabIS0F8c9X83y0d26dNc4rtezEdAVkAhqgyDS8fRNuLHqw=w80-h80-c-rp-mo-ba4-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a-/ALV-UjVEyUAWKyFyYuy5B-GBeLKwqCbTTyObahyxxRmh-jeUdihlMFOL=w80-h80-c-rp-mo-ba3-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocI_H8-BuWNE6xnecfFtOtyTW4wN6NvXvVjvudMIRhQijuTK6w=w80-h80-c-rp-mo-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a-/ALV-UjW0DwMm1Hm1Mo-UCYiGKtHKcd_LZwB13OJW-UEtO7s3pmUun7lQ=w80-h80-c-rp-mo-ba3-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocKUtvdAZLhe0rBdOrdc2k5gBaKkY4uIPZL5Rf6eekFyrDegUw=w80-h80-c-rp-mo-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocI_u36AjomHplOFB_WNDN6Pav4tcvFl_oBaRW62wLHW4U_Irg=w80-h80-c-rp-mo-ba2-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a-/ALV-UjXq2YMfY_8XJsL9KQVOEOjw-f8EhsILtgHFyv3HqeRMhfvCVZA=w80-h80-c-rp-mo-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "dup": "https://bksfishing.com.au/wp-content/uploads/2022/08/BKs-Gold-Coast-Fishing-Charters-Reef-Cat-2-768x576.jpg"
+    },
+    {
+      "image": "https://bksfishing.com.au/wp-content/uploads/2022/08/BKs-Gold-Coast-Fishing-Charters-Reef-Cat-2-300x225.jpg",
+      "error": "too small 300x225"
+    },
+    {
+      "dup": "https://bksfishing.com.au/wp-content/uploads/2025/07/black-betty-1-1-768x576.jpg"
+    },
+    {
+      "image": "https://bksfishing.com.au/wp-content/uploads/2025/07/black-betty-1-1-300x225.jpg",
+      "error": "too small 300x225"
+    },
+    {
+      "image": "https://bksfishing.com.au/wp-content/uploads/2025/08/Gift-card-graphic-website-new-300x222.png",
+      "error": "too small 300x222"
+    },
+    {
+      "image": "https://bksfishing.com.au/wp-content/uploads/2022/07/BKs-Gold-Coast-Fishing-Charters-Crew-300x225.jpg",
+      "error": "too small 300x225"
+    },
+    {
+      "dup": "https://bksfishing.com.au/wp-content/uploads/2022/07/BKs-Gold-Coast-Fishing-Charters-Crew-768x575.jpg"
+    },
+    {
+      "image": "https://bksfishing.com.au/wp-content/uploads/2022/08/BKs-Gold-Coast-Fishing-Charters-Crew-e1660249715182.jpg",
+      "error": "too small 375x500"
+    },
+    {
+      "image": "https://bksfishing.com.au/wp-content/uploads/2022/08/BKs-Gold-Coast-Fishing-Charters-Crew-e1660249715182-225x300.jpg",
+      "error": "too small 225x300"
+    },
+    {
+      "image": "https://bksfishing.com.au/wp-content/uploads/2022/05/BKs-Gold-Coast-Fishing-Charters-Vertical-Crew-1.jpg",
+      "error": "too small 375x500"
+    },
+    {
+      "image": "https://bksfishing.com.au/wp-content/uploads/2022/05/BKs-Gold-Coast-Fishing-Charters-Vertical-Crew-1-225x300.jpg",
+      "error": "too small 225x300"
+    },
+    {
+      "image": "https://bksfishing.com.au/wp-content/uploads/2022/05/BKs-Gold-Coast-Fishing-Charters-Jewfish-Vertical-1.jpg",
+      "error": "too small 375x500"
+    },
+    {
+      "image": "https://bksfishing.com.au/wp-content/uploads/2022/05/BKs-Gold-Coast-Fishing-Charters-Jewfish-Vertical-1-225x300.jpg",
+      "error": "too small 225x300"
+    },
+    {
+      "image": "https://bksfishing.com.au/wp-content/uploads/2022/08/BKs-Gold-Coast-Fishing-Charters-Crew-3-300x225.jpg",
+      "error": "too small 300x225"
+    },
+    {
+      "dup": "https://bksfishing.com.au/wp-content/uploads/2022/08/BKs-Gold-Coast-Fishing-Charters-Crew-3-768x576.jpg"
+    },
+    {
+      "image": "https://bksfishing.com.au/wp-content/uploads/2022/08/BKs-Gold-Coast-Fishing-Charters-Crew-4-300x225.jpg",
+      "error": "too small 300x225"
+    },
+    {
+      "dup": "https://bksfishing.com.au/wp-content/uploads/2022/08/BKs-Gold-Coast-Fishing-Charters-Crew-4-768x576.jpg"
+    },
+    {
+      "dup": "https://bksfishing.com.au/wp-content/uploads/2025/07/black-betty-1-2048x1536.jpg"
+    },
+    {
+      "dup": "https://bksfishing.com.au/wp-content/uploads/2020/01/BKs-Gold-Coast-Fishing-Charters-Reef-Cat-II-1-1024x576.jpg"
+    },
+    {
+      "image": "https://bksfishing.com.au/wp-content/uploads/2020/01/BKs-Gold-Coast-Fishing-Charters-Reef-Cat-II-1-300x169.jpg",
+      "error": "too small 300x169"
+    },
+    {
+      "image": "https://bksfishing.com.au/wp-content/uploads/2020/01/BKs-Gold-Coast-Fishing-Charters-Reef-Cat-II-1-600x338.jpg",
+      "error": "too small 600x338"
+    },
+    {
+      "dup": "https://bksfishing.com.au/wp-content/uploads/2025/07/black-betty-1-1024x768.jpg"
+    },
+    {
+      "image": "https://bksfishing.com.au/wp-content/uploads/2025/07/black-betty-1-300x225.jpg",
+      "error": "too small 300x225"
+    },
+    {
+      "dup": "https://bksfishing.com.au/wp-content/uploads/2025/07/black-betty-1-768x576.jpg"
+    },
+    {
+      "dup": "https://bksfishing.com.au/wp-content/uploads/2025/07/black-betty-1-1536x1152.jpg"
+    },
+    {
+      "image": "https://bksfishing.com.au/wp-content/uploads/2022/07/BKs-Gold-Coast-Fishing-Charters-Spanish-Mackerel-022-300x225.jpg",
+      "error": "too small 300x225"
+    },
+    {
+      "dup": "https://bksfishing.com.au/wp-content/uploads/2022/07/BKs-Gold-Coast-Fishing-Charters-Spanish-Mackerel-022-768x576.jpg"
+    },
+    {
+      "image": "https://bksfishing.com.au/wp-content/uploads/2020/01/IMG_2810-300x225.jpg",
+      "error": "too small 300x225"
+    },
+    {
+      "dup": "https://bksfishing.com.au/wp-content/uploads/2020/01/IMG_2810-768x576.jpg"
+    },
+    {
+      "dup": "https://bksfishing.com.au/wp-content/uploads/2020/01/IMG_2810-600x450.jpg"
+    },
+    {
+      "image": "https://bksfishing.com.au/wp-content/uploads/2026/04/bks-gold-coast-fishing-charters-spanish-mackerel-o-324-300x225.jpg",
+      "error": "too small 300x225"
+    },
+    {
+      "dup": "https://bksfishing.com.au/wp-content/uploads/2026/04/bks-gold-coast-fishing-charters-spanish-mackerel-o-324-768x576.jpg"
+    },
+    {
+      "image": "https://bksfishing.com.au/wp-content/uploads/2022/09/BKs-gold-coast-fishing-charters-cobia-94-300x225.jpg",
+      "error": "too small 300x225"
+    },
+    {
+      "image": "https://bksfishing.com.au/wp-content/uploads/2024/11/bks-gold-coast-fishing-charters-kingfish-25-300x225.jpg",
+      "error": "too small 300x225"
+    }
+  ]
+}

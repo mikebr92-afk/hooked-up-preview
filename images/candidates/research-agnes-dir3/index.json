@@ -1,0 +1,59 @@
+{
+  "slug": "research-agnes-dir3",
+  "request_hash": "3738c8415c8d",
+  "collected_at": "2026-10-29T04:19:10.130Z",
+  "pages_fetched": [
+    "https://qica.com.au/tours/town-of-1770-agnes-water/fishing-offshore-1770",
+    "https://www.boatsonline.com.au/boats-for-sale/used/commercial-vessel/noosa-cat-3100-sports-cruiser/303292",
+    "https://boatsonline.com.au/boats-for-sale/used/charter-vessel/clayton-marine-gallant-9-7m-2c-survey-7-1-fishing-charter-business/314191",
+    "https://www.visitagnes1770.com.au/category/fishing-1/",
+    "https://playsport.com/reeffishingcharters1770_ag_d2815b29/about",
+    "https://www.australias.guide/qld/attraction-tour/gladstone/seventeen-seventy/hooked-on-1770-adventure-tours/",
+    "https://fishandboat.com.au/1770-a-beginners-guide-by-gyula-vari"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://qica.com.au/tours/town-of-1770-agnes-water/fishing-offshore-1770",
+      "status": 200,
+      "final_url": "https://www.qica.com.au/tours/town-of-1770-agnes-water/fishing-offshore-1770",
+      "bytes": 37682
+    },
+    {
+      "page": "https://www.boatsonline.com.au/boats-for-sale/used/commercial-vessel/noosa-cat-3100-sports-cruiser/303292",
+      "status": 403,
+      "final_url": "https://www.boatsonline.com.au/boats-for-sale/used/commercial-vessel/noosa-cat-3100-sports-cruiser/303292",
+      "bytes": 6093
+    },
+    {
+      "page": "https://boatsonline.com.au/boats-for-sale/used/charter-vessel/clayton-marine-gallant-9-7m-2c-survey-7-1-fishing-charter-business/314191",
+      "status": 403,
+      "final_url": "https://boatsonline.com.au/boats-for-sale/used/charter-vessel/clayton-marine-gallant-9-7m-2c-survey-7-1-fishing-charter-business/314191",
+      "bytes": 6212
+    },
+    {
+      "page": "https://www.visitagnes1770.com.au/category/fishing-1/",
+      "status": 200,
+      "final_url": "https://www.visitagnes1770.com.au/category/fishing-1/",
+      "bytes": 376033
+    },
+    {
+      "page": "https://playsport.com/reeffishingcharters1770_ag_d2815b29/about",
+      "status": 200,
+      "final_url": "https://playsport.com/reeffishingcharters1770_ag_d2815b29/about",
+      "bytes": 255236
+    },
+    {
+      "page": "https://www.australias.guide/qld/attraction-tour/gladstone/seventeen-seventy/hooked-on-1770-adventure-tours/",
+      "status": 200,
+      "final_url": "https://australiasguide.com/",
+      "bytes": 146365
+    },
+    {
+      "page": "https://fishandboat.com.au/1770-a-beginners-guide-by-gyula-vari",
+      "status": 200,
+      "final_url": "https://fishandboat.com.au/1770-a-beginners-guide-by-gyula-vari/",
+      "bytes": 100700
+    }
+  ]
+}

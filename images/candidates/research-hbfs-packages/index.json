@@ -1,0 +1,31 @@
+{
+  "slug": "research-hbfs-packages",
+  "request_hash": "254cd94f4d1c",
+  "collected_at": "2026-10-29T04:05:42.098Z",
+  "pages_fetched": [
+    "https://herveybaysportfishing.com.au/fishing-packages/",
+    "https://herveybaysportfishing.com.au/contact-us/",
+    "https://herveybaysportfishing.com.au/about-us/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://herveybaysportfishing.com.au/fishing-packages/",
+      "status": 200,
+      "final_url": "https://herveybaysportfishing.com.au/fishing-packages/",
+      "bytes": 373624
+    },
+    {
+      "page": "https://herveybaysportfishing.com.au/contact-us/",
+      "status": 200,
+      "final_url": "https://herveybaysportfishing.com.au/contact-us/",
+      "bytes": 367468
+    },
+    {
+      "page": "https://herveybaysportfishing.com.au/about-us/",
+      "status": 404,
+      "final_url": "https://herveybaysportfishing.com.au/about-us/",
+      "bytes": 424315
+    }
+  ]
+}
