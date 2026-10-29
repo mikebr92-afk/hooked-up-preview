@@ -115,13 +115,17 @@ function data(html) {
 // listing cards); charter pages get their one record inlined into the bundle.
 let opsCache = { etag: null, bySlug: new Map() };
 
-async function operator(env, origin, slug) {
+async function loadOps(env, origin) {
   const resp = await env.ASSETS.fetch(new Request(origin + '/data/operators.json', { method: 'GET' }));
-  if (!resp.ok) { await resp.body?.cancel(); return null; }
+  if (!resp.ok) { await resp.body?.cancel(); return opsCache.bySlug; }
   const etag = resp.headers.get('etag');
   if (etag && etag === opsCache.etag) await resp.body?.cancel();
   else opsCache = { etag, bySlug: new Map((await resp.json()).map((o) => [o.slug, o])) };
-  const op = opsCache.bySlug.get(slug);
+  return opsCache.bySlug;
+}
+
+async function operator(env, origin, slug) {
+  const op = (await loadOps(env, origin)).get(slug);
   return op && op.status === 'active' ? op : null;
 }
 const OPS_MARK = '/*HK_OPS*/';
@@ -206,6 +210,11 @@ const SSR_CSS = `<style>
 .ssr h1{font-size:clamp(32px,4.4vw,48px);margin:0 0 12px}
 .ssr h2{font-size:clamp(22px,2.4vw,28px);margin:40px 0 14px}
 .ssr h3{font-size:17px;margin:0 0 4px;color:#0B3954}
+.ssr-glance{display:grid;grid-template-columns:max-content 1fr;gap:6px 18px;margin:0}
+.ssr-glance dt{font-weight:600;color:#0B3954}
+.ssr-glance dd{margin:0}
+.ssr-table{border-collapse:collapse;width:100%;font-size:14px}
+.ssr-table th,.ssr-table td{text-align:left;padding:8px 10px;border-bottom:1px solid rgba(11,57,84,.12);vertical-align:top}
 .ssr p{margin:0 0 12px;max-width:72ch}
 .ssr ul{margin:0 0 18px}
 .ssr main h3{margin-top:18px}
@@ -303,6 +312,16 @@ ${cardList(act)}${locationChips(cards)}
 <p><a href="/list-your-charter">List your charter →</a></p></main>`);
 }
 
+function sectionsHtml(sections) {
+  return (sections || []).map((x) => `<h2>${esc(x.h)}</h2>${(x.p || []).map((p) => `<p>${esc(p)}</p>`).join('')}${
+    x.items?.length ? `<ul>${x.items.map(([t, d]) => `<li><strong>${esc(t)}</strong>${d ? ` — ${esc(d)}` : ''}</li>`).join('')}</ul>` : ''}`).join('');
+}
+
+function compareTable(rows) {
+  return `<table class="ssr-table"><thead><tr><th>Charter</th><th>Departs</th><th>Style</th><th>Duration</th><th>From</th><th>Main species</th></tr></thead><tbody>${rows
+    .map((r) => `<tr><td><a href="/charters/${esc(r.slug)}">${esc(r.name)}</a></td><td>${esc(r.from)}</td><td>${esc(r.styles)}</td><td>${esc(r.duration)}</td><td>${esc(r.price)}</td><td>${esc(r.species)}</td></tr>`).join('')}</tbody></table>`;
+}
+
 function renderLocation(key, L, items, cards) {
   const g = SEO.locGuide(L, items);
   return page(`<main class="ssr-main">${crumbsHtml(SEO.locTrail(key, L))}
@@ -311,11 +330,14 @@ function renderLocation(key, L, items, cards) {
 ${L.st && SEO.childLocs(cards, key).length ? `<h2>Fishing destinations in ${esc(L.n)}</h2><ul class="ssr-chips">${SEO.childLocs(cards, key).map((k) => `<li><a href="/fishing-charters/${k}">${esc(LOCS[k].n)} (${SEO.locItems(cards, LOCS[k]).length})</a></li>`).join('')}</ul>` : ''}
 ${cardList(items)}
 <section><h2>${esc(g.heading)}</h2>${g.paras.map((p) => `<p>${esc(p)}</p>`).join('')}
+${sectionsHtml(g.sections)}
+${g.compare.length ? `<h2>${esc(g.compareTitle)}</h2>${compareTable(g.compare)}` : ''}
 <h2>Frequently asked questions</h2>${g.faq.map(([q, a]) => `<h3>${esc(q)}</h3><p>${esc(a)}</p>`).join('')}</section>
 ${locationChips(cards)}</main>`);
 }
 
 function renderCharter(op, cards) {
+  const g = SEO.charterGuide(op, cards);
   const rel = SEO.relatedCharters(op, cards, 6);
   const trail = SEO.charterTrail(op, cards);
   const ct = SEO.cheapestTrip(op);
@@ -336,7 +358,9 @@ function renderCharter(op, cards) {
 <h1>${esc(op.name)}</h1>
 <p>${esc(op.primary_location)}${ct ? ` · From ${SEO.money(ct.price)} per ${unit(ct.price_model)}` : ''}</p>
 ${imgs[0] ? `<img class="ssr-photo" src="${esc(imgs[0].replace(SITE, ''))}" alt="${esc(op.name)} – photo 1" width="1200" height="800" fetchpriority="high"/>` : ''}
-<h2>About ${esc(op.name)}</h2><p>${esc(op.description)}</p>
+<h2>About ${esc(op.name)}</h2>${g.lead ? `<p>${esc(g.lead)}</p>` : ''}<p>${esc(op.description)}</p>
+<h2>${esc(op.name)} at a glance</h2><dl class="ssr-glance">${g.facts.map(([k, v]) => `<dt>${esc(k)}</dt><dd>${esc(v)}</dd>`).join('')}</dl>
+${g.highlights.length ? `<h3>Highlights</h3>${li(g.highlights)}` : ''}
 ${trips ? `<h2>Trips offered</h2>${trips}` : ''}
 ${species ? `<h2>What you could catch</h2><ul>${species}</ul>` : ''}
 ${boat.length ? `<h2>The boat</h2>${li(boat)}${li(op.boat_features)}` : ''}
@@ -346,6 +370,7 @@ ${op.cancellation_policy ? `<h2>Cancellation policy</h2><p>${esc(op.cancellation
 ${op.weather_policy ? `<h2>Weather policy</h2><p>${esc(op.weather_policy)}</p>` : ''}
 ${captains ? `<h2>Meet the crew</h2>${captains}` : ''}
 ${op.departure_address ? `<h2>Where you'll meet</h2><p>${esc(op.departure_address)}</p>` : ''}
+<h2>Frequently asked questions about ${esc(op.name)}</h2>${g.faq.map(([q, a]) => `<h3>${esc(q)}</h3><p>${esc(a)}</p>`).join('')}
 ${rel.items.length ? `<h2>More fishing charters ${esc(rel.loc ? rel.loc[1].in : 'nearby')}</h2>${cardList(rel.items)}${rel.loc ? `<p><a href="/fishing-charters/${rel.loc[0]}">See all fishing charters ${esc(rel.loc[1].in)} →</a></p>` : ''}` : ''}
 <p><small>Listings on Hooked Trips are compiled from publicly available information. Always confirm specifics directly with the operator before booking.</small></p></main>`);
 }
@@ -379,21 +404,55 @@ function sitemap(cards) {
     .map((u) => `  <url><loc>${SITE}${u}</loc></url>`).join('\n')}\n</urlset>\n`;
 }
 
+// ── AI-assistant friendly versions (llms.txt, llms-full.txt, page.md) ───────
+const styleList = (c) => (c.trip_type_tags || []).filter((t) => !/^(Half Day|Full Day|Family Friendly)$/.test(t)).slice(0, 4).join(', ');
+const oneLine = (c) => [
+  c.location && `departs ${c.location}`,
+  styleList(c),
+  c.species?.length && `targets ${SEO.list(c.species.slice(0, 4))}`,
+  c.price ? `from ${SEO.money(c.price)} per ${unit(c.priceUnit)}` : 'price on enquiry',
+].filter(Boolean).join('; ');
+
+// Destination pages a listing appears under (city/region page, else its state).
+function destinations(cards) {
+  const act = SEO.activeCards(cards);
+  const out = [];
+  for (const sk of STATE_KEYS.filter(live)) {
+    const kids = SEO.childLocs(cards, sk);
+    for (const k of kids) out.push([k, LOCS[k], SEO.locItems(cards, LOCS[k])]);
+    const covered = new Set(kids.flatMap((k) => SEO.locItems(cards, LOCS[k]).map((c) => c.slug)));
+    const rest = act.filter((c) => c.state === LOCS[sk].st && !covered.has(c.slug));
+    if (rest.length) out.push([sk, { ...LOCS[sk], n: `elsewhere in ${LOCS[sk].n}` }, rest]);
+  }
+  return out;
+}
+
 function llms(cards) {
   const act = SEO.activeCards(cards);
   const lines = [
     '# Hooked Trips',
     '',
-    `> Hooked Trips (hookedtrips.com) is an Australian fishing charter platform. Anglers compare ${act.length} charter operators across New South Wales, Queensland and the Northern Territory — trips, prices, target species and boats — and enquire directly with the operator.`,
+    `> Hooked Trips (hookedtrips.com) is an Australian fishing charter directory. It lists ${act.length} real, currently operating charter and fishing-guide businesses across New South Wales, Queensland and the Northern Territory, with their trips, published prices, target species, boats and departure points. Anglers compare operators and enquire directly through the site.`,
     '',
-    '## Fishing charters by location',
+    `Listings are checked against each operator's own website and tourism listings and are updated regularly. Prices are as published by the operator. Every charter and destination page is also available as Markdown by adding .md to its URL (for example ${SITE}/fishing-charters/cairns.md). The complete directory as one Markdown file: ${SITE}/llms-full.txt`,
     '',
-    ...Object.entries(LOCS).filter(([k]) => live(k)).map(([k, L]) => `- [${SEO.locH1(L)}](${SITE}/fishing-charters/${k}): ${SEO.locItems(cards, L).length} operators`),
+    '## Destinations',
     '',
-    '## Charter operators',
+    ...STATE_KEYS.filter(live).flatMap((sk) => [
+      `- [${SEO.locH1(LOCS[sk])}](${SITE}/fishing-charters/${sk}): ${SEO.locItems(cards, LOCS[sk]).length} operators`,
+      ...SEO.childLocs(cards, sk).map((k) => `  - [${SEO.locH1(LOCS[k])}](${SITE}/fishing-charters/${k}): ${SEO.locItems(cards, LOCS[k]).length} operators`),
+    ]),
     '',
-    ...act.map((c) => `- [${c.name}](${SITE}/charters/${c.slug}): ${c.location}${c.species?.length ? ' — ' + c.species.join(', ') : ''}${c.price ? ` — from ${SEO.money(c.price)} per ${unit(c.priceUnit)}` : ''}`),
+    '## Species and fishing styles',
     '',
+    ...SPECIES_KEYS.filter(live).map((k) => `- [${LOCS[k].h1}](${SITE}/fishing-charters/${k}): ${SEO.locItems(cards, LOCS[k]).length} operators`),
+    '',
+    ...destinations(cards).flatMap(([k, L, items]) => [
+      `## Fishing charters ${L.n.startsWith('elsewhere') ? L.n : L.in}`,
+      '',
+      ...items.map((c) => `- [${c.name}](${SITE}/charters/${c.slug}): ${oneLine(c)}`),
+      '',
+    ]),
     '## About',
     '',
     `- [About Hooked Trips](${SITE}/about)`,
@@ -402,6 +461,95 @@ function llms(cards) {
     '',
   ];
   return lines.join('\n');
+}
+
+const mdClean = (x) => String(x ?? '').replace(/\s+/g, ' ').trim();
+const mdCell = (x) => mdClean(x).replace(/\|/g, '/');
+
+function charterMd(op, cards) {
+  const g = SEO.charterGuide(op, cards);
+  const m = SEO.charterMeta(op, cards);
+  const url = `${SITE}/charters/${op.slug}`;
+  const L = [`# ${op.name}`, '', `> ${mdClean(m.desc)}`, '', `Page: ${url}`, ''];
+  if (g.place.L) L.push(`Destination guide: [${SEO.locH1(g.place.L)}](${SITE}/fishing-charters/${g.place.key})`, '');
+  L.push('## At a glance', '', ...g.facts.map(([k, v]) => `- **${k}:** ${mdClean(v)}`), '');
+  if (g.highlights.length) L.push('## Highlights', '', ...g.highlights.map((h) => `- ${mdClean(h)}`), '');
+  L.push('## About', '');
+  if (g.lead) L.push(mdClean(g.lead), '');
+  L.push(mdClean(op.description), '');
+  if ((op.trips || []).length) {
+    L.push('## Trips', '');
+    for (const t of op.trips) {
+      L.push(`### ${mdClean(t.name)}`, '');
+      const b = [
+        t.duration_hours && `- Duration: ${t.duration_hours} hours`,
+        t.departure_time && `- Departs: ${t.departure_time}`,
+        t.max_group && `- Group size: up to ${t.max_group}`,
+        `- Price: ${t.price ? `${SEO.money(t.price)} per ${unit(t.price_model)}` : 'on enquiry'}`,
+        t.target_species?.length && `- Targets: ${t.target_species.join(', ')}`,
+        t.what_included?.length && `- Included: ${t.what_included.join(', ')}`,
+        t.suitability_notes && `- Notes: ${mdClean(t.suitability_notes)}`,
+      ].filter(Boolean);
+      L.push(...b, '');
+    }
+  }
+  if ((op.all_species || []).length) L.push('## What you could catch', '', ...op.all_species.map((x) => `- **${x.name}**${x.season ? ` (${x.season})` : ''}${x.notes ? `: ${mdClean(x.notes)}` : ''}`), '');
+  if ((op.captains || []).length) L.push('## Crew', '', ...op.captains.map((c) => `- **${c.name}**${c.years_experience ? ` (${c.years_experience} years)` : ''}${c.bio ? `: ${mdClean(c.bio)}` : ''}`), '');
+  if (op.cancellation_policy) L.push('## Cancellation policy', '', mdClean(op.cancellation_policy), '');
+  if (op.weather_policy) L.push('## Weather policy', '', mdClean(op.weather_policy), '');
+  L.push('## Frequently asked questions', '', ...g.faq.flatMap(([q, a]) => [`### ${q}`, '', mdClean(a), '']));
+  L.push('## Enquire', '', `Send an enquiry to ${op.name} through Hooked Trips: ${url}`, '');
+  return L.join('\n');
+}
+
+function locationMd(key, L, items, cards) {
+  const g = SEO.locGuide(L, items);
+  const m = SEO.locMeta(key, L, items);
+  const url = `${SITE}/fishing-charters/${key}`;
+  const out = [`# ${SEO.locH1(L)}`, '', `> ${mdClean(m.desc)}`, '', `Page: ${url}`, '', `## ${g.heading}`, '', ...g.paras.flatMap((p) => [mdClean(p), ''])];
+  for (const x of g.sections) {
+    out.push(`## ${x.h}`, '', ...(x.p || []).flatMap((p) => [mdClean(p), '']));
+    if (x.items?.length) out.push(...x.items.map(([t, d]) => `- **${t}**${d ? `: ${mdClean(d)}` : ''}`), '');
+  }
+  if (g.compare.length) {
+    out.push(`## ${g.compareTitle}`, '', '| Charter | Departs | Style | Duration | From | Main species |', '|---|---|---|---|---|---|',
+      ...g.compare.map((r) => `| [${mdCell(r.name)}](${SITE}/charters/${r.slug}) | ${mdCell(r.from)} | ${mdCell(r.styles)} | ${mdCell(r.duration)} | ${mdCell(r.price)} | ${mdCell(r.species)} |`), '');
+  }
+  else out.push(`## Fishing charters ${L.in}`, '', ...items.map((c) => `- [${c.name}](${SITE}/charters/${c.slug}): ${oneLine(c)}`), '');
+  out.push('## Frequently asked questions', '', ...g.faq.flatMap(([q, a]) => [`### ${q}`, '', mdClean(a), '']));
+  if (L.st) {
+    const kids = SEO.childLocs(cards, key);
+    if (kids.length) out.push(`## Destinations in ${L.n}`, '', ...kids.map((k) => `- [${SEO.locH1(LOCS[k])}](${SITE}/fishing-charters/${k})`), '');
+  }
+  return out.join('\n');
+}
+
+let fullCache = { key: null, text: '' };
+function llmsFull(cards, ops) {
+  // Rebuilt only when the deployed listing data changes.
+  if (fullCache.key === cards && fullCache.ops === ops) return fullCache.text;
+  const parts = [llms(cards), '', '---', ''];
+  for (const [k, L] of Object.entries(LOCS)) {
+    if (!live(k) || L.sp || L.tt) continue;
+    parts.push(locationMd(k, L, SEO.locItems(cards, L), cards), '', '---', '');
+  }
+  for (const c of SEO.activeCards(cards)) {
+    const op = ops.get(c.slug);
+    if (op) parts.push(charterMd(op, cards), '', '---', '');
+  }
+  fullCache = { key: cards, ops, text: parts.join('\n') };
+  return fullCache.text;
+}
+
+function mdResponse(request, text, canonical) {
+  return new Response(request.method === 'HEAD' ? null : text, {
+    headers: {
+      'content-type': 'text/markdown;charset=UTF-8',
+      'cache-control': 'public, max-age=3600',
+      'x-robots-tag': 'noindex',
+      ...(canonical ? { link: `<${canonical}>; rel="canonical"` } : {}),
+    },
+  });
 }
 
 // ── request handling ─────────────────────────────────────────────────────────
@@ -440,6 +588,19 @@ export default {
     if (path === '/llms.txt') {
       return new Response(llms(c.cards), { headers: { 'content-type': 'text/plain;charset=UTF-8', 'cache-control': 'public, max-age=3600' } });
     }
+    if (path === '/llms-full.txt') {
+      const ops = await loadOps(env, url.origin);
+      return new Response(llmsFull(c.cards, ops), { headers: { 'content-type': 'text/plain;charset=UTF-8', 'cache-control': 'public, max-age=3600' } });
+    }
+    let md;
+    if ((md = path.match(/^\/charters\/([^/]+)\.md$/))) {
+      const op = await operator(env, url.origin, decodeURIComponent(md[1]));
+      if (op) return mdResponse(request, charterMd(op, c.cards), `${SITE}/charters/${op.slug}`);
+    } else if ((md = path.match(/^\/fishing-charters\/([^/]+)\.md$/))) {
+      const key = decodeURIComponent(md[1]);
+      const L = Object.prototype.hasOwnProperty.call(LOCS, key) ? LOCS[key] : null;
+      if (L && live(key)) return mdResponse(request, locationMd(key, L, SEO.locItems(c.cards, L), c.cards), `${SITE}/fishing-charters/${key}`);
+    }
 
     let meta;
     let body;
@@ -462,6 +623,7 @@ export default {
       const op = await operator(env, url.origin, decodeURIComponent(m[1]));
       if (op) {
         opInline = inlineOp(op);
+        extraHead += `<link rel="alternate" type="text/markdown" href="/charters/${esc(op.slug)}.md"/>\n`;
         meta = SEO.charterMeta(op, c.cards);
         body = renderCharter(op, c.cards);
       }
@@ -473,6 +635,7 @@ export default {
         meta = SEO.locMeta(key, L, items);
         body = renderLocation(key, L, items, c.cards);
         extraHead += preloadCard(items);
+        extraHead += `<link rel="alternate" type="text/markdown" href="/fishing-charters/${esc(key)}.md"/>\n`;
       }
     } else if (STATIC_COPY[path]) {
       meta = SEO.pageMeta(path);

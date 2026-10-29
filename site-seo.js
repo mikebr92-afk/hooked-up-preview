@@ -563,7 +563,7 @@ function speciesGuide(L, items) {
   faq.push([`When is the best time ${L.in}?`, L.season]);
   faq.push(LICENCE_ANY);
   for (const qa of L.faq || []) faq.push(qa);
-  return { heading: `${L.n}: what to know`, paras: L.intro, faq };
+  return { heading: `${L.n}: what to know`, paras: L.intro, sections: L.sections || [], compare: [], compareTitle: '', faq };
 }
 
 export function locGuide(L, items) {
@@ -582,7 +582,23 @@ export function locGuide(L, items) {
   faq.push([`When is the best time to go fishing ${L.in}?`, L.season]);
   if (LICENCE[L.state]) faq.push(LICENCE[L.state]);
   for (const qa of L.faq || []) faq.push(qa);
-  return { heading: `Fishing ${L.in}`, paras: L.intro, faq };
+  // sections: [{ h: 'Where the charters fish', p: ['…'], items: [['Name', 'detail'], …] }]
+  return { heading: `Fishing ${L.in}`, paras: L.intro, sections: L.sections || [], compare: !L.st && items.length <= 20 ? compareRows(items) : [], compareTitle: `Compare fishing charters ${L.in}`, faq };
+}
+
+// One row per listing for the "compare charters" table on destination pages.
+const STYLE_SHORT = [['Private Charter', 'Private'], ['Shared Charter', 'Shared'], ['Game Fishing', 'Game'], ['Reef Fishing', 'Reef'],
+  ['Sportfishing', 'Sportfishing'], ['Barramundi Fishing', 'Barra'], ['Estuary Fishing', 'Estuary'], ['River Fishing', 'River'],
+  ['Fly Fishing', 'Fly'], ['Offshore', 'Offshore'], ['Multi-Day', 'Multi-day']];
+export function compareRows(items) {
+  return (items || []).map((c) => ({
+    slug: c.slug, name: c.name,
+    from: (c.location || '').split(',')[0].trim(),
+    styles: STYLE_SHORT.filter(([t]) => (c.trip_type_tags || []).includes(t)).map(([, s]) => s).slice(0, 4).join(', '),
+    duration: c.duration || '',
+    price: c.price ? `${money(c.price)} / ${/person/.test(c.priceUnit) ? 'person' : 'group'}` : 'On enquiry',
+    species: (c.species || []).slice(0, 3).join(', '),
+  }));
 }
 
 export function locMeta(key, L, items) {
@@ -612,6 +628,12 @@ export function locMeta(key, L, items) {
       '@graph': [
         crumbs(locTrail(key, L)),
         itemList(items),
+        ...(isSpecies(L) ? [] : [{
+          '@type': 'TouristDestination', '@id': SITE + path + '#destination', name: L.n,
+          description: clip((L.intro || [])[0] || '', 300),
+          ...(L.state ? { containedInPlace: { '@type': 'State', name: STATE_NAMES[L.state] || L.state } } : {}),
+          touristType: 'Recreational fishing',
+        }]),
         { '@type': 'FAQPage', mainEntity: g.faq.map(([q, a]) => ({ '@type': 'Question', name: q, acceptedAnswer: { '@type': 'Answer', text: a } })) },
       ],
     },
@@ -635,23 +657,152 @@ export function charterImages(op) {
   return g.map((u) => (u.startsWith('http') ? u : SITE + u));
 }
 
-export function charterMeta(op, cards) {
-  const place = placeFor(op);
-  let t;
-  if (!place) t = `${op.name} – Trips & Prices`;
-  else if (/fishing/i.test(op.name)) t = `${op.name}, ${place}`;
-  else t = `${op.name} – ${place} Fishing Charter`;
-  const title = `${t} | ${BRAND}`;
+// ── charter page guide content (shared by the SSR worker and the app) ───────
+// Everything here is derived from the verified listing record, so it can be
+// shown to people, search engines and AI assistants without extra checking.
+const STYLE_ORDER = ['Game Fishing', 'Reef Fishing', 'Sportfishing', 'Barramundi Fishing', 'Estuary Fishing', 'River Fishing',
+  'Fly Fishing', 'Lure Fishing', 'Offshore', 'Deep Sea', 'Bay Fishing', 'Harbour Fishing', 'Light Tackle', 'Great Barrier Reef'];
+const hrs = (h) => (h >= 24 ? `${Math.round(h / 24)} ${Math.round(h / 24) === 1 ? 'day' : 'days'}` : `${h} ${h === 1 ? 'hour' : 'hours'}`);
+function durationRange(trips) {
+  const h = trips.map((t) => t.duration_hours).filter((x) => x > 0);
+  if (!h.length) return '';
+  const lo = Math.min(...h), hi = Math.max(...h);
+  return lo === hi ? hrs(lo) : `${hrs(lo).replace(/ hours?$/, hi < 24 ? '' : ' hours')}${hi < 24 ? '–' : ' – '}${hrs(hi)}`;
+}
+const capacityOf = (op) => Math.max(0, op.max_capacity || 0, ...(op.trips || []).map((t) => t.max_group || 0));
+function townOf(op) {
+  const t = (op.primary_location || '').split(',')[0].trim();
+  return t;
+}
+// The destination page a charter belongs to (city/region page if it has one).
+function charterPlace(op, cards) {
+  const card = (cards || []).find((c) => c.slug === op.slug) || { location: op.primary_location, state: op.state, hotspot: op.hotspot };
+  const lf = locFor(card);
+  const L = lf && !lf[1].st ? lf[1] : null;
+  return { key: L ? lf[0] : null, L, in: L ? L.in : `in ${STATE_NAMES[op.state] === 'Northern Territory' ? 'the Northern Territory' : STATE_NAMES[op.state] || op.state}`, short: L ? L.short : '' };
+}
+function styleWords(op) {
+  const tags = op.trip_type_tags || [];
+  const mode = tags.includes('Private Charter') && tags.includes('Shared Charter') ? 'private and shared'
+    : tags.includes('Private Charter') ? 'private' : tags.includes('Shared Charter') ? 'shared' : '';
+  const kinds = STYLE_ORDER.filter((t) => tags.includes(t)).slice(0, 2)
+    .map((t) => ({ Sportfishing: 'sport', 'Light Tackle': 'light-tackle', 'Deep Sea': 'deep-sea', 'Great Barrier Reef': 'Great Barrier Reef' })[t]
+      || t.replace(/ Fishing$/, '').toLowerCase());
+  return { mode, kinds };
+}
+const MONTHS = /^(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)/i;
+// Lower-case a list item's first letter for mid-sentence use, but leave
+// acronyms ("BYO"), proper nouns we can spot and month names alone.
+const lc = (x) => (/^[A-Z][a-z]/.test(x) && !MONTHS.test(x) ? x[0].toLowerCase() + x.slice(1) : x);
+function seasonOf(op, name) {
+  const s = (op.all_species || []).find((x) => x.name === name);
+  return s && s.season ? s.season : '';
+}
 
-  const n = (op.trips || []).length;
+export function charterGuide(op, cards) {
+  const place = charterPlace(op, cards);
+  const trips = op.trips || [];
+  const ct = cheapestTrip(op);
+  const cap = capacityOf(op);
+  const town = townOf(op);
+  const tags = op.trip_type_tags || [];
+  const exp = op.experience_tags || [];
+  const areas = op.areas_fished || [];
+
+  const facts = [];
+  facts.push(['Location', [town, place.L ? place.L.n : ''].filter((x, i, a) => x && a.indexOf(x) === i).join(', ') + (op.state ? `, ${op.state}` : '')]);
+  if (op.departure_address) facts.push(['Departs from', op.departure_address]);
+  if (areas.length) facts.push(['Fishing grounds', list(areas.slice(0, 6))]);
+  const styles = tags.filter((t) => t !== 'Half Day' && t !== 'Full Day' && t !== 'Family Friendly');
+  if (styles.length) facts.push(['Trip styles', styles.join(', ')]);
+  if (trips.length) facts.push(['Trips', `${trips.length} ${plural(trips.length, 'trip', 'trips')}${durationRange(trips) ? ` · ${durationRange(trips)}` : ''}`]);
+  facts.push(['Price', ct ? `From ${money(ct.price)} ${unitText(ct.price_model)}` : 'Price on enquiry']);
+  if (cap) facts.push(['Group size', `Up to ${cap} guests`]);
+  if ((op.primary_species || []).length) facts.push(['Target species', op.primary_species.join(', ')]);
+  if (exp.length) facts.push(['Suits', exp.join(', ')]);
+  const boat = [op.boat_name, [op.boat_length_m && `${op.boat_length_m}m`, op.boat_type].filter(Boolean).join(' ')].filter(Boolean);
+  if (boat.length) facts.push(['Boat', boat.join(' — ')]);
+  if (op.years_in_business) facts.push(['In business', `${op.years_in_business}+ years`]);
+
+  const N = op.name;
+  const faq = [];
+  // Where
+  {
+    const base = [town, place.L && !town.includes(place.short) ? place.L.n : ''].filter(Boolean).join(', ');
+    let a = `${N} departs from ${base || (STATE_NAMES[op.state] || op.state)}.`;
+    if (op.departure_address) a += ` Meeting point: ${op.departure_address.replace(/\.$/, '')}.`;
+    if (areas.length) a += ` Trips fish ${list(areas.slice(0, 6))}.`;
+    if (place.L) a += ` See all fishing charters ${place.in} on Hooked Trips to compare nearby operators.`;
+    faq.push([`Where does ${N} depart from?`, a]);
+  }
+  // Price
+  {
+    const priced = trips.filter((t) => t.price > 0).sort((a, b) => a.price - b.price).slice(0, 4);
+    const a = priced.length
+      ? `${list(priced.map((t) => `${t.name}${t.duration_hours ? ` (${hrs(t.duration_hours)})` : ''} is ${money(t.price)} ${unitText(t.price_model)}`))}. Prices are as published by the operator — confirm the current price when you enquire.`
+      : `${N} doesn't publish prices online. Send an enquiry through Hooked Trips with your dates and group size for a quote.`;
+    faq.push([`How much does a fishing charter with ${N} cost?`, a]);
+  }
+  // Species
+  if ((op.primary_species || []).length) {
+    const sp = (op.species_tags && op.species_tags.length ? op.species_tags : op.primary_species).slice(0, 8)
+      .map((x) => (seasonOf(op, x) ? `${x} (${lc(seasonOf(op, x))})` : x));
+    faq.push([`What fish can you catch with ${N}?`, `${N} targets ${list(sp)}. What's biting depends on the season and conditions on the day.`]);
+  }
+  // Group size / private vs shared
+  {
+    const bits = [];
+    if (cap) bits.push(`Trips take up to ${cap} guests.`);
+    if (tags.includes('Private Charter')) bits.push('Private charters book the whole boat for your group.');
+    if (tags.includes('Shared Charter')) bits.push('Shared trips let individuals and small groups join other anglers.');
+    if (bits.length) faq.push([`How many people can go on a ${N} trip?`, bits.join(' ')]);
+  }
+  // Suitability
+  {
+    const ok = ['Beginner Friendly', 'Families', 'Kids Welcome'].filter((t) => exp.includes(t));
+    if (ok.length) {
+      const who = ok.map((t) => ({ 'Beginner Friendly': 'beginners', Families: 'families', 'Kids Welcome': 'kids' })[t]);
+      faq.push([`Is ${N} suitable for ${list(who)}?`, `Yes. ${N} welcomes ${list(who)}${exp.includes('Experienced Anglers') ? ', and also suits experienced anglers' : ''}. Mention who's coming when you enquire so the crew can plan the right trip.`]);
+    }
+  }
+  // Inclusions
+  if ((op.whats_included || []).length) {
+    let a = `${N} includes ${list(op.whats_included.slice(0, 8).map(lc))}.`;
+    if ((op.what_to_bring || []).length) a += ` Bring ${list(op.what_to_bring.slice(0, 6).map(lc))}.`;
+    faq.push([`What's included on a ${N} trip?`, a]);
+  }
+  // Operator-specific questions (researched and sourced per listing)
+  for (const f of op.faqs || []) if (f && f.q && f.a) faq.push([f.q, f.a]);
+  if (LICENCE[op.state]) faq.push(LICENCE[op.state]);
+
+  return { facts, faq, place, highlights: op.highlights || [], lead: op.lead || '' };
+}
+
+export function charterMeta(op, cards) {
+  const place = charterPlace(op, cards);
+  const town = townOf(op);
+  const nameL = (op.name || '').toLowerCase();
+  // Lead with the destination people search for ("Hervey Bay"), not the marina suburb.
+  // Only fall back to the departure town when the listing has no destination page.
+  const where = place.L ? (nameL.includes(place.short.toLowerCase()) ? '' : place.short) : (town && !nameL.includes(town.toLowerCase()) ? town : '');
+  let t;
+  if (!where) t = `${op.name} – ${/fishing|charter/i.test(op.name) ? 'Trips & Prices' : 'Fishing Charter Trips & Prices'}`;
+  else if (/fishing|charter/i.test(op.name)) t = `${op.name}, ${where}`;
+  else t = `${op.name} – ${where} Fishing Charter`;
+  // Long operator names: drop the brand suffix rather than truncate the useful part.
+  const title = `${t} | ${BRAND}`.length <= 65 ? `${t} | ${BRAND}` : t;
+
   const sp = (op.primary_species || []).slice(0, 3);
   const ct = cheapestTrip(op);
-  let desc = `${op.name} offers ${n === 1 ? 'a fishing trip' : n + ' fishing trips'} from ${op.primary_location}`;
-  if (sp.length) desc += `, targeting ${list(sp)}`;
-  desc += '.';
-  if (ct) desc += ` From ${money(ct.price)} ${unitText(ct.price_model)}.`;
+  const { mode, kinds } = styleWords(op);
+  const what = [mode, kinds.length ? list(kinds) : '', 'fishing charters'].filter(Boolean).join(' ');
+  const from = town && place.short && !place.short.toLowerCase().includes(town.toLowerCase()) && !town.toLowerCase().includes(place.short.toLowerCase()) ? ` from ${town}` : '';
+  const mk = (fromTxt, nSp) => `${op.name} runs ${what} ${place.L ? place.in : town ? `from ${town}` : place.in}${place.L ? fromTxt : ''}`
+    + (nSp ? `, targeting ${list(sp.slice(0, nSp))}` : '') + '.' + (ct ? ` From ${money(ct.price)} ${unitText(ct.price_model)}.` : '');
+  // Keep it to ~160 characters: drop the suburb, then trim the species list.
+  let desc = [[from, 3], ['', 3], ['', 2], ['', 1], ['', 0]].map(([f, k]) => mk(f, Math.min(k, sp.length))).find((d) => d.length <= 160) || mk('', 0);
   const tail = ' Compare trips and enquire direct.';
-  if ((desc + tail).length <= 165) desc += tail;
+  if ((desc + tail).length <= 160) desc += tail;
 
   const path = '/charters/' + op.slug;
   const url = SITE + path;
@@ -660,43 +811,53 @@ export function charterMeta(op, cards) {
     ? { url: SITE + op.og_image, width: 1200, height: 630, alt: op.name }
     : imgs[0] ? { url: imgs[0], alt: op.name } : DEFAULT_IMAGE;
 
-  const prices = (op.trips || []).map((x) => x.price).filter((x) => x > 0);
-  const parts = (op.primary_location || '').split(',').map((s) => s.trim());
+  const trips = op.trips || [];
+  const prices = trips.map((x) => x.price).filter((x) => x > 0);
+  const g = charterGuide(op, cards);
+  const sameAs = [op.website, op.facebook, op.instagram, ...(op.same_as || [])].filter((u) => /^https?:\/\//.test(u || ''));
+  const areas = [place.L && place.L.n, ...(op.areas_fished || []), ...(op.location_tags || [])].filter((x, i, a) => x && a.indexOf(x) === i);
   const biz = {
     '@type': 'LocalBusiness',
     '@id': url + '#business',
     name: op.name,
-    description: clip(op.description, 300),
+    description: clip(op.lead || op.description, 300),
     url,
     address: {
       '@type': 'PostalAddress',
-      addressLocality: parts[0],
+      ...(op.departure_address ? { streetAddress: op.departure_address } : {}),
+      addressLocality: town || undefined,
       addressRegion: STATE_NAMES[op.state] || op.state,
       addressCountry: 'AU',
     },
-    areaServed: op.primary_location,
+    areaServed: areas.map((n) => ({ '@type': 'Place', name: n })),
   };
+  if (sameAs.length) biz.sameAs = sameAs;
+  if ((op.species_tags || op.primary_species || []).length) biz.knowsAbout = [...new Set([...(op.species_tags || []), ...(op.primary_species || [])])].map((s) => `${s} fishing`);
   if (op.latitude && op.longitude) biz.geo = { '@type': 'GeoCoordinates', latitude: op.latitude, longitude: op.longitude };
   if (imgs.length) biz.image = imgs;
   if (prices.length) {
     const lo = Math.min(...prices), hi = Math.max(...prices);
     biz.priceRange = lo === hi ? money(lo) : `${money(lo)}–${money(hi)}`;
   }
-  if (n) {
-    biz.makesOffer = op.trips.filter((x) => x.price > 0).map((x) => ({
-      '@type': 'Offer',
-      name: x.name,
-      price: x.price,
-      priceCurrency: 'AUD',
-      description: [x.duration_hours && `${x.duration_hours} hours`, x.departure_time && `departs ${x.departure_time}`,
-        x.max_group && `up to ${x.max_group} guests`, unitText(x.price_model)].filter(Boolean).join(', '),
-    }));
+  if (trips.length) {
+    biz.makesOffer = trips.map((x) => {
+      const d = [x.duration_hours && hrs(x.duration_hours), x.departure_time && `departs ${x.departure_time}`,
+        x.max_group && `up to ${x.max_group} guests`, (x.target_species || []).length && `targets ${list(x.target_species.slice(0, 4))}`].filter(Boolean).join(', ');
+      const o = { '@type': 'Offer', name: x.name, itemOffered: { '@type': 'TouristTrip', name: x.name, ...(d ? { description: d } : {}), provider: { '@id': url + '#business' } } };
+      if (x.price > 0) {
+        o.price = x.price;
+        o.priceCurrency = 'AUD';
+        o.priceSpecification = { '@type': 'UnitPriceSpecification', price: x.price, priceCurrency: 'AUD', unitText: unitText(x.price_model) };
+      }
+      return o;
+    });
   }
   const trail = charterTrail(op, cards);
+  const faqLd = { '@type': 'FAQPage', '@id': url + '#faq', mainEntity: g.faq.map(([q, a]) => ({ '@type': 'Question', name: q, acceptedAnswer: { '@type': 'Answer', text: a } })) };
 
   return {
     title, desc, path, robots: ROBOTS_INDEX, image,
-    ld: { '@context': 'https://schema.org', '@graph': [biz, crumbs(trail)] },
+    ld: { '@context': 'https://schema.org', '@graph': [biz, crumbs(trail), faqLd] },
   };
 }
 
