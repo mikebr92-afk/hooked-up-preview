@@ -1,0 +1,28 @@
+{
+ "requests": [
+  {"slug": "seo2-game-on-charters-batemans-bay", "pages": [
+    "https://gameoncharters.net.au/reef-fishing/",
+    "https://gameoncharters.net.au/game-fishing/",
+    "https://gameoncharters.net.au/deep-drop-fishing/",
+    "https://gameoncharters.net.au/charter-info/",
+    "https://gameoncharters.net.au/policies/",
+    "https://gameoncharters.net.au/terms-conditions/",
+    "https://gameoncharters.net.au/your-complete-guide/",
+    "https://gameoncharters.net.au/reel-in-the-adventure-with-game-on-charters-batemans-bay/"
+   ], "text": true, "max": 0, "follow": false, "force": true},
+  {"slug": "seo2-reel-adventure-fishing-sydney", "pages": [
+    "https://www.fishsydney.com.au/",
+    "https://www.fishsydney.com.au/sydney-fishing-charters"
+   ], "text": true, "max": 0, "follow": true, "force": true},
+  {"slug": "seo2-guide-batemans", "pages": [
+    "https://naroomacharters.com.au/a-day-of-fishing-at-narooma-nsw-what-you-can-expect",
+    "https://naroomacharters.com.au/fishing-narooma-offshore",
+    "https://gameoncharters.net.au/tollgate-islands-and-surrounds/",
+    "https://www.visitnsw.com/articles/outdoor-adventures-batemans-bay"
+   ], "text": true, "max": 0, "follow": false, "force": true},
+  {"slug": "seo2-guide-dpi", "pages": [
+    "https://www.dpi.nsw.gov.au/fishing/recreational/fishing-rules-and-regs/saltwater-bag-and-size-limits",
+    "https://www.dpi.nsw.gov.au/fishing/marine-protected-areas/marine-parks/jervis-bay-marine-park/recreational-fishing"
+   ], "text": true, "max": 0, "follow": false, "force": true}
+ ]
+}
