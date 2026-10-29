@@ -1,7 +1,7 @@
 {
   "slug": "bks-gold-coast-fishing-charters-ext",
   "request_hash": "679427ff65b5",
-  "collected_at": "2026-10-29T19:52:42.642Z",
+  "collected_at": "2026-10-29T20:02:43.280Z",
   "pages_fetched": [
     "https://www.facebook.com/bksgoldcoastfishingcharters",
     "https://www.instagram.com/bksgoldcoastfishingcharters"
@@ -16,9 +16,9 @@
     },
     {
       "page": "https://www.instagram.com/bksgoldcoastfishingcharters",
-      "status": 429,
+      "status": 200,
       "final_url": "https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fbksgoldcoastfishingcharters&is_from_rle",
-      "bytes": 0
+      "bytes": 511742
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "finished_at": "2026-10-29T19:56:39.097Z",
+  "finished_at": "2026-10-29T20:07:15.814Z",
   "summary": [
     {
       "slug": "hooked-on-1770-agnes-water-ext",
@@ -179,22 +179,22 @@
     {
       "slug": "eastern-voyager-gladstone",
       "candidates": 0,
-      "pages": 5
+      "pages": 12
     },
     {
       "slug": "mv-mikat-charters-gladstone",
       "candidates": 0,
-      "pages": 4
+      "pages": 7
     },
     {
       "slug": "night-crossing-fishing-adventures-gladstone",
       "candidates": 0,
-      "pages": 6
+      "pages": 12
     },
     {
       "slug": "bks-gold-coast-fishing-charters",
       "candidates": 0,
-      "pages": 7
+      "pages": 10
     },
     {
       "slug": "fish-the-deep-charters",
@@ -265,6 +265,26 @@
       "slug": "kanimbla-charters-yeppoon",
       "candidates": 0,
       "pages": 12
+    },
+    {
+      "slug": "guide-qld-rules2",
+      "candidates": 0,
+      "pages": 11
+    },
+    {
+      "slug": "guide-noosa-blog",
+      "candidates": 0,
+      "pages": 3
+    },
+    {
+      "slug": "fish-the-deep-extra",
+      "candidates": 0,
+      "pages": 2
+    },
+    {
+      "slug": "gbrmpa-zones",
+      "candidates": 0,
+      "pages": 1
     }
   ]
 }

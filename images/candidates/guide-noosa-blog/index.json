@@ -1,0 +1,31 @@
+{
+  "slug": "guide-noosa-blog",
+  "request_hash": "e3638e8c0131",
+  "collected_at": "2026-10-29T20:06:48.637Z",
+  "pages_fetched": [
+    "https://noosabluefishing.com.au/offshore-fishing-in-noosa-a-guide-to-the-best-seasons-and-species/",
+    "https://noosabluefishing.com.au/noosas-top-deep-sea-fishing-spots/",
+    "https://noosabluefishing.com.au/best-time-to-catch-snapper-tactics-depths-and-times-of-year/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://noosabluefishing.com.au/offshore-fishing-in-noosa-a-guide-to-the-best-seasons-and-species/",
+      "status": 200,
+      "final_url": "https://noosabluefishing.com.au/offshore-fishing-in-noosa-a-guide-to-the-best-seasons-and-species/",
+      "bytes": 133456
+    },
+    {
+      "page": "https://noosabluefishing.com.au/noosas-top-deep-sea-fishing-spots/",
+      "status": 200,
+      "final_url": "https://noosabluefishing.com.au/noosas-top-deep-sea-fishing-spots/",
+      "bytes": 133084
+    },
+    {
+      "page": "https://noosabluefishing.com.au/best-time-to-catch-snapper-tactics-depths-and-times-of-year/",
+      "status": 200,
+      "final_url": "https://noosabluefishing.com.au/best-time-to-catch-snapper-tactics-depths-and-times-of-year/",
+      "bytes": 132939
+    }
+  ]
+}

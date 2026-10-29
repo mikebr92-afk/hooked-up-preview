@@ -1,7 +1,7 @@
 {
   "slug": "true-blue-fishing-charters-ext",
   "request_hash": "4bad95f803a4",
-  "collected_at": "2026-10-29T19:52:46.486Z",
+  "collected_at": "2026-10-29T20:02:46.911Z",
   "pages_fetched": [
     "https://fishinggoldcoast.com.au/",
     "https://www.goldcoastfishingcharters.com.au/",
@@ -37,9 +37,9 @@
     },
     {
       "page": "https://www.instagram.com/true_blue_fishing_charters",
-      "status": 429,
+      "status": 200,
       "final_url": "https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftrue_blue_fishing_charters&is_from_rle",
-      "bytes": 0
+      "bytes": 511738
     }
   ]
 }

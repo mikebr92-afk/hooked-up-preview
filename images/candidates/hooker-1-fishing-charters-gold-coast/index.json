@@ -1,7 +1,7 @@
 {
   "slug": "hooker-1-fishing-charters-gold-coast",
   "request_hash": "e55790ebb4e4",
-  "collected_at": "2026-10-29T19:54:41.603Z",
+  "collected_at": "2026-10-29T20:04:54.346Z",
   "pages_fetched": [
     "https://goldcoastfishingtrips.net.au/",
     "https://goldcoastfishingtrips.net.au/our-packages/",
@@ -41,7 +41,7 @@
       "page": "https://goldcoastfishingtrips.net.au/contact-us/",
       "status": 200,
       "final_url": "https://goldcoastfishingtrips.net.au/contact-us/",
-      "bytes": 581846
+      "bytes": 581959
     },
     {
       "page": "https://goldcoastfishingtrips.net.au/marine-activities/",

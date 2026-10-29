@@ -1,0 +1,87 @@
+{
+  "slug": "guide-qld-rules2",
+  "request_hash": "2bab5fddb762",
+  "collected_at": "2026-10-29T20:06:44.326Z",
+  "pages_fetched": [
+    "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/rules",
+    "https://www.qld.gov.au/contact-us",
+    "https://www.qld.gov.au/recreation/activities/boating-fishing",
+    "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing",
+    "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/rules/illegal-activity",
+    "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/rules/equipment",
+    "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/rules/closures",
+    "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/rules/limits-tidal",
+    "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/rules/limits-fresh",
+    "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/rules/measure",
+    "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/rules/protected-and-no-take-species"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/rules",
+      "status": 200,
+      "final_url": "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/rules",
+      "bytes": 180956
+    },
+    {
+      "page": "https://www.qld.gov.au/contact-us",
+      "status": 200,
+      "final_url": "https://www.qld.gov.au/contact-us",
+      "bytes": 198713
+    },
+    {
+      "page": "https://www.qld.gov.au/recreation/activities/boating-fishing",
+      "status": 200,
+      "final_url": "https://www.qld.gov.au/recreation/activities/boating-fishing",
+      "bytes": 178089
+    },
+    {
+      "page": "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing",
+      "status": 200,
+      "final_url": "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing",
+      "bytes": 182844
+    },
+    {
+      "page": "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/rules/illegal-activity",
+      "status": 200,
+      "final_url": "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/rules/illegal-activity",
+      "bytes": 183877
+    },
+    {
+      "page": "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/rules/equipment",
+      "status": 200,
+      "final_url": "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/rules/equipment",
+      "bytes": 204063
+    },
+    {
+      "page": "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/rules/closures",
+      "status": 200,
+      "final_url": "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/rules/closures",
+      "bytes": 187719
+    },
+    {
+      "page": "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/rules/limits-tidal",
+      "status": 200,
+      "final_url": "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/rules/limits-tidal",
+      "bytes": 247762
+    },
+    {
+      "page": "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/rules/limits-fresh",
+      "status": 200,
+      "final_url": "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/rules/limits-fresh",
+      "bytes": 209943
+    },
+    {
+      "page": "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/rules/measure",
+      "status": 200,
+      "final_url": "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/rules/measure",
+      "bytes": 191182
+    },
+    {
+      "page": "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/rules/protected-and-no-take-species",
+      "status": 200,
+      "final_url": "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/fish-species-guide/no-take-species",
+      "bytes": 4270357
+    }
+  ]
+}

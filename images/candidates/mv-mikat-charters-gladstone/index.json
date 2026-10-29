@@ -1,38 +1,59 @@
 {
   "slug": "mv-mikat-charters-gladstone",
   "request_hash": "b59fda221070",
-  "collected_at": "2026-10-29T19:54:29.604Z",
+  "collected_at": "2026-10-29T20:04:38.193Z",
   "pages_fetched": [
     "https://mikatcharters.com.au/",
     "https://mikatcharters.com.au/about-us/",
     "https://mikatcharters.com.au/contact/",
-    "https://mikatcharters.com.au/trip-reports-gallery/"
+    "https://mikatcharters.com.au/trip-reports-gallery/",
+    "https://mikatcharters.com.au/about-us",
+    "https://mikatcharters.com.au/trip-reports-gallery",
+    "https://mikatcharters.com.au/contact"
   ],
   "candidates": [],
   "log": [
     {
       "page": "https://mikatcharters.com.au/",
-      "status": 202,
+      "status": 200,
       "final_url": "https://mikatcharters.com.au/",
-      "bytes": 168
+      "bytes": 150033
     },
     {
       "page": "https://mikatcharters.com.au/about-us/",
-      "status": 202,
+      "status": 200,
       "final_url": "https://mikatcharters.com.au/about-us/",
-      "bytes": 179
+      "bytes": 127246
     },
     {
       "page": "https://mikatcharters.com.au/contact/",
-      "status": 202,
+      "status": 200,
       "final_url": "https://mikatcharters.com.au/contact/",
-      "bytes": 178
+      "bytes": 99187
     },
     {
       "page": "https://mikatcharters.com.au/trip-reports-gallery/",
-      "status": 202,
+      "status": 200,
       "final_url": "https://mikatcharters.com.au/trip-reports-gallery/",
-      "bytes": 191
+      "bytes": 111460
+    },
+    {
+      "page": "https://mikatcharters.com.au/about-us",
+      "status": 200,
+      "final_url": "https://mikatcharters.com.au/about-us/",
+      "bytes": 127246
+    },
+    {
+      "page": "https://mikatcharters.com.au/trip-reports-gallery",
+      "status": 200,
+      "final_url": "https://mikatcharters.com.au/trip-reports-gallery/",
+      "bytes": 111460
+    },
+    {
+      "page": "https://mikatcharters.com.au/contact",
+      "status": 200,
+      "final_url": "https://mikatcharters.com.au/contact/",
+      "bytes": 99187
     }
   ]
 }

@@ -1,0 +1,24 @@
+{
+  "slug": "fish-the-deep-extra",
+  "request_hash": "76d5f1e7314e",
+  "collected_at": "2026-10-29T20:06:50.811Z",
+  "pages_fetched": [
+    "https://www.fishthedeep.com/fishing-charters-queensland-faq/",
+    "https://www.fishthedeep.com/refund-policy/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.fishthedeep.com/fishing-charters-queensland-faq/",
+      "status": 200,
+      "final_url": "https://www.fishthedeep.com/fishing-charters-queensland-faq/",
+      "bytes": 67567
+    },
+    {
+      "page": "https://www.fishthedeep.com/refund-policy/",
+      "status": 200,
+      "final_url": "https://www.fishthedeep.com/refund-policy/",
+      "bytes": 52208
+    }
+  ]
+}

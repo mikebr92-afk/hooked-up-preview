@@ -1,7 +1,7 @@
 {
   "slug": "deep-sea-fishing-co-noosa-ext",
   "request_hash": "95f7685d1060",
-  "collected_at": "2026-10-29T19:52:47.876Z",
+  "collected_at": "2026-10-29T20:02:49.466Z",
   "pages_fetched": [
     "https://www.facebook.com/Deepseafishingconoosa",
     "https://www.instagram.com/deepseafishingconoosa"
@@ -16,9 +16,9 @@
     },
     {
       "page": "https://www.instagram.com/deepseafishingconoosa",
-      "status": 429,
+      "status": 200,
       "final_url": "https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fdeepseafishingconoosa&is_from_rle",
-      "bytes": 0
+      "bytes": 511733
     }
   ]
 }

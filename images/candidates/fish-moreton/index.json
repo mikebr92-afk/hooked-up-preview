@@ -1,7 +1,7 @@
 {
   "slug": "fish-moreton",
   "request_hash": "36eff329e3d3",
-  "collected_at": "2026-10-29T19:54:11.279Z",
+  "collected_at": "2026-10-29T20:04:15.008Z",
   "pages_fetched": [
     "https://www.fishmoreton.com.au/",
     "https://www.fishmoreton.com.au/offshore-fishing",
@@ -16,7 +16,7 @@
       "page": "https://www.fishmoreton.com.au/",
       "status": 200,
       "final_url": "https://www.fishmoreton.com.au/",
-      "bytes": 1047596
+      "bytes": 1048929
     },
     {
       "page": "https://www.fishmoreton.com.au/offshore-fishing",
@@ -28,7 +28,7 @@
       "page": "https://www.fishmoreton.com.au/bay-fishing",
       "status": 200,
       "final_url": "https://www.fishmoreton.com.au/bay-fishing",
-      "bytes": 961554
+      "bytes": 964757
     },
     {
       "page": "https://www.fishmoreton.com.au/copy-of-bay-fishing",
@@ -40,13 +40,13 @@
       "page": "https://www.fishmoreton.com.au/tourscharters",
       "status": 200,
       "final_url": "https://www.fishmoreton.com.au/tourscharters",
-      "bytes": 801124
+      "bytes": 802014
     },
     {
       "page": "https://www.fishmoreton.com.au/contact",
       "status": 200,
       "final_url": "https://www.fishmoreton.com.au/contact",
-      "bytes": 801068
+      "bytes": 799781
     }
   ]
 }

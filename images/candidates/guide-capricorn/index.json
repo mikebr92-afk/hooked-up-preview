@@ -1,7 +1,7 @@
 {
   "slug": "guide-capricorn",
   "request_hash": "5b6c0d307c67",
-  "collected_at": "2026-10-29T19:53:47.133Z",
+  "collected_at": "2026-10-29T20:03:54.053Z",
   "pages_fetched": [
     "https://fishandboat.com.au/the-capricorn-bunker-group-peter-kaye/",
     "https://yeppooncapricorncoast.com.au/fishing/",
@@ -15,7 +15,7 @@
       "page": "https://fishandboat.com.au/the-capricorn-bunker-group-peter-kaye/",
       "status": 200,
       "final_url": "https://fishandboat.com.au/the-capricorn-bunker-group-peter-kaye/",
-      "bytes": 98844
+      "bytes": 98758
     },
     {
       "page": "https://yeppooncapricorncoast.com.au/fishing/",
@@ -27,13 +27,13 @@
       "page": "https://en.wikipedia.org/wiki/Gladstone,_Queensland",
       "status": 200,
       "final_url": "https://en.wikipedia.org/wiki/Gladstone,_Queensland",
-      "bytes": 461690
+      "bytes": 461660
     },
     {
       "page": "https://en.wikipedia.org/wiki/Capricorn_and_Bunker_Group",
       "status": 200,
       "final_url": "https://en.wikipedia.org/wiki/Capricorn_and_Bunker_Group",
-      "bytes": 254562
+      "bytes": 254636
     },
     {
       "page": "https://www.smarterfishingcharters.com.au/charters/region/4680?locale=Gladstone",

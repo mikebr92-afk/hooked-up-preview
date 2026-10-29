@@ -1,45 +1,94 @@
 {
   "slug": "eastern-voyager-gladstone",
   "request_hash": "729e428070ea",
-  "collected_at": "2026-10-29T19:54:27.378Z",
+  "collected_at": "2026-10-29T20:04:33.100Z",
   "pages_fetched": [
     "https://easternvoyager.com.au/",
     "https://easternvoyager.com.au/about-us/",
     "https://easternvoyager.com.au/faqs/",
     "https://easternvoyager.com.au/trip-types/organised-trip/",
-    "https://easternvoyager.com.au/trip/swain-reefs/"
+    "https://easternvoyager.com.au/trip/swain-reefs/",
+    "https://easternvoyager.com.au/species-size-limits/",
+    "https://easternvoyager.com.au/gallery/",
+    "https://easternvoyager.com.au/contact-us/",
+    "https://easternvoyager.com.au/trip-types/",
+    "https://easternvoyager.com.au/trip/fish-the-swain-reefs-6-nights/",
+    "https://easternvoyager.com.au/trip-types/group-charter/",
+    "https://easternvoyager.com.au/organised-trips/"
   ],
   "candidates": [],
   "log": [
     {
       "page": "https://easternvoyager.com.au/",
-      "status": 202,
+      "status": 200,
       "final_url": "https://easternvoyager.com.au/",
-      "bytes": 168
+      "bytes": 195720
     },
     {
       "page": "https://easternvoyager.com.au/about-us/",
-      "status": 202,
+      "status": 200,
       "final_url": "https://easternvoyager.com.au/about-us/",
-      "bytes": 179
+      "bytes": 142740
     },
     {
       "page": "https://easternvoyager.com.au/faqs/",
-      "status": 202,
+      "status": 200,
       "final_url": "https://easternvoyager.com.au/faqs/",
-      "bytes": 175
+      "bytes": 140798
     },
     {
       "page": "https://easternvoyager.com.au/trip-types/organised-trip/",
-      "status": 202,
+      "status": 200,
       "final_url": "https://easternvoyager.com.au/trip-types/organised-trip/",
-      "bytes": 198
+      "bytes": 145046
     },
     {
       "page": "https://easternvoyager.com.au/trip/swain-reefs/",
-      "status": 202,
+      "status": 200,
       "final_url": "https://easternvoyager.com.au/trip/swain-reefs/",
-      "bytes": 189
+      "bytes": 263396
+    },
+    {
+      "page": "https://easternvoyager.com.au/species-size-limits/",
+      "status": 200,
+      "final_url": "https://easternvoyager.com.au/species-size-limits/",
+      "bytes": 173222
+    },
+    {
+      "page": "https://easternvoyager.com.au/gallery/",
+      "status": 200,
+      "final_url": "https://easternvoyager.com.au/gallery/",
+      "bytes": 233944
+    },
+    {
+      "page": "https://easternvoyager.com.au/contact-us/",
+      "status": 200,
+      "final_url": "https://easternvoyager.com.au/contact-us/",
+      "bytes": 137768
+    },
+    {
+      "page": "https://easternvoyager.com.au/trip-types/",
+      "status": 200,
+      "final_url": "https://easternvoyager.com.au/trip-types/",
+      "bytes": 135999
+    },
+    {
+      "page": "https://easternvoyager.com.au/trip/fish-the-swain-reefs-6-nights/",
+      "status": 200,
+      "final_url": "https://easternvoyager.com.au/trip/fish-the-swain-reefs-6-nights/",
+      "bytes": 201800
+    },
+    {
+      "page": "https://easternvoyager.com.au/trip-types/group-charter/",
+      "status": 200,
+      "final_url": "https://easternvoyager.com.au/trip-types/group-charter/",
+      "bytes": 140747
+    },
+    {
+      "page": "https://easternvoyager.com.au/organised-trips/",
+      "status": 404,
+      "final_url": "https://easternvoyager.com.au/organised-trips/",
+      "bytes": 130375
     }
   ]
 }

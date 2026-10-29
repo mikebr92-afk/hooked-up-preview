@@ -1,7 +1,7 @@
 {
   "slug": "what-a-catch-deep-sea-fishing",
   "request_hash": "71f28bfdd01c",
-  "collected_at": "2026-10-29T19:56:30.310Z",
+  "collected_at": "2026-10-29T20:05:58.669Z",
   "pages_fetched": [
     "https://whatacatchfishing.com.au/",
     "https://whatacatchfishing.com.au/pages/our-trips",
@@ -21,7 +21,7 @@
       "page": "https://whatacatchfishing.com.au/",
       "status": 200,
       "final_url": "https://whatacatchfishing.com.au/",
-      "bytes": 127113
+      "bytes": 128294
     },
     {
       "page": "https://whatacatchfishing.com.au/pages/our-trips",
@@ -63,19 +63,19 @@
       "page": "https://whatacatchfishing.com.au/pages/terms-and-conditions-of-bookings",
       "status": 200,
       "final_url": "https://whatacatchfishing.com.au/pages/terms-and-conditions-of-bookings",
-      "bytes": 125212
+      "bytes": 126393
     },
     {
       "page": "https://whatacatchfishing.com.au/customer_authentication/redirect?locale=en&region_country=AU",
       "status": 200,
-      "final_url": "https://shopify.com/authentication/92432761137/oauth/authorize?buyer_flags=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ5djl0a2EteWQubXlzaG9waWZ5LmNvbSIsImZsYWdzIjpbXSwiZXhwIjoxNzkzOTA4NTg5LCJuYmYiOjE3OTMzMDM3ODl9.kQeD9shU4avN7GOlMNOezik0BrtFRgJVXDQX6U_jAdg&client_id=c640a401-2adb-4949-9d8d-0ed573fd9bd9&locale=en-AU&nonce=17ef33cd-b548-492b-96a5-e10422928365&redirect_uri=https%3A%2F%2Fshopify.com%2F92432761137%2Faccount%2Fcallback&region_country=AU&response_type=code&scope=openid+email+customer-account-api%3Afull&state=hWNIXepAvCqtoZgcC13R2Y41",
+      "final_url": "https://shopify.com/authentication/92432761137/oauth/authorize?buyer_flags=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ5djl0a2EteWQubXlzaG9waWZ5LmNvbSIsImZsYWdzIjpbXSwiZXhwIjoxNzkzOTA5MTU3LCJuYmYiOjE3OTMzMDQzNTd9.BHgLGwb9OJzmdGe1teWeXX7vbR1-USZmQlRzosniML0&client_id=c640a401-2adb-4949-9d8d-0ed573fd9bd9&locale=en-AU&nonce=7aec5239-ddb6-4e90-85c6-a6da57fbccd7&redirect_uri=https%3A%2F%2Fshopify.com%2F92432761137%2Faccount%2Fcallback&region_country=AU&response_type=code&scope=openid+email+customer-account-api%3Afull&state=hWNIXfmikSo4RFtC5L47v2XJ",
       "bytes": 11297
     },
     {
       "page": "https://whatacatchfishing.com.au/cart",
       "status": 200,
       "final_url": "https://whatacatchfishing.com.au/cart",
-      "bytes": 106201
+      "bytes": 107382
     },
     {
       "page": "https://whatacatchfishing.com.au/policies/privacy-policy",

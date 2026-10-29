@@ -1,7 +1,7 @@
 {
   "slug": "saltwater-playground-hervey-bay",
   "request_hash": "c89fa2f7619f",
-  "collected_at": "2026-10-29T19:55:22.918Z",
+  "collected_at": "2026-10-29T20:05:23.525Z",
   "pages_fetched": [
     "https://www.saltwaterplayground.com.au/",
     "https://www.saltwaterplayground.com.au/hervey-bay-fishing-charters",
@@ -17,7 +17,7 @@
       "page": "https://www.saltwaterplayground.com.au/",
       "status": 200,
       "final_url": "https://www.saltwaterplayground.com.au/",
-      "bytes": 737167
+      "bytes": 639183
     },
     {
       "page": "https://www.saltwaterplayground.com.au/hervey-bay-fishing-charters",

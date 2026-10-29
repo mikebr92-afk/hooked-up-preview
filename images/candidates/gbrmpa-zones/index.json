@@ -1,0 +1,15 @@
+{
+  "slug": "gbrmpa-zones",
+  "request_hash": "b2bf6d8d3e42",
+  "collected_at": "2026-10-29T20:07:15.813Z",
+  "pages_fetched": [
+    "https://www.gbrmpa.gov.au/know-your-zones"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.gbrmpa.gov.au/know-your-zones",
+      "error": "The operation was aborted due to timeout"
+    }
+  ]
+}

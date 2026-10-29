@@ -1,7 +1,7 @@
 {
   "slug": "truansea-charters-bundaberg-ext",
   "request_hash": "2f1bee0a0dc7",
-  "collected_at": "2026-10-29T19:52:39.950Z",
+  "collected_at": "2026-10-29T20:02:39.582Z",
   "pages_fetched": [
     "https://tackleworldbundy.com.au/pages/local-charter-operators",
     "https://www.facebook.com/100944004617970",
@@ -23,9 +23,9 @@
     },
     {
       "page": "https://www.instagram.com/truanseacharters",
-      "status": 429,
+      "status": 200,
       "final_url": "https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftruanseacharters&is_from_rle",
-      "bytes": 0
+      "bytes": 511728
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "slug": "double-threat-charters-yeppoon",
   "request_hash": "a3552c00dd66",
-  "collected_at": "2026-10-29T19:56:33.426Z",
+  "collected_at": "2026-10-29T20:06:04.960Z",
   "pages_fetched": [
     "https://www.doublethreatchartersyeppoon.com.au/",
     "https://www.doublethreatchartersyeppoon.com.au/about-us",
@@ -19,55 +19,55 @@
       "page": "https://www.doublethreatchartersyeppoon.com.au/",
       "status": 200,
       "final_url": "https://www.doublethreatchartersyeppoon.com.au/",
-      "bytes": 619612
+      "bytes": 609295
     },
     {
       "page": "https://www.doublethreatchartersyeppoon.com.au/about-us",
       "status": 200,
       "final_url": "https://www.doublethreatchartersyeppoon.com.au/about-us",
-      "bytes": 627682
+      "bytes": 619189
     },
     {
       "page": "https://www.doublethreatchartersyeppoon.com.au/fishing",
       "status": 200,
       "final_url": "https://www.doublethreatchartersyeppoon.com.au/fishing",
-      "bytes": 629004
+      "bytes": 620435
     },
     {
       "page": "https://www.doublethreatchartersyeppoon.com.au/fish-t-c",
       "status": 200,
       "final_url": "https://www.doublethreatchartersyeppoon.com.au/fish-t-c",
-      "bytes": 613524
+      "bytes": 614319
     },
     {
       "page": "https://www.doublethreatchartersyeppoon.com.au/contact-us",
       "status": 200,
       "final_url": "https://www.doublethreatchartersyeppoon.com.au/contact-us",
-      "bytes": 638789
+      "bytes": 643282
     },
     {
       "page": "https://www.doublethreatchartersyeppoon.com.au/book",
       "status": 200,
       "final_url": "https://www.doublethreatchartersyeppoon.com.au/book",
-      "bytes": 601218
+      "bytes": 591192
     },
     {
       "page": "https://www.doublethreatchartersyeppoon.com.au/general-8",
       "status": 200,
       "final_url": "https://www.doublethreatchartersyeppoon.com.au/general-8",
-      "bytes": 629804
+      "bytes": 630240
     },
     {
       "page": "https://www.doublethreatchartersyeppoon.com.au/gift-voucher-t7c",
       "status": 200,
       "final_url": "https://www.doublethreatchartersyeppoon.com.au/gift-voucher-t7c",
-      "bytes": 599336
+      "bytes": 601098
     },
     {
       "page": "https://www.doublethreatchartersyeppoon.com.au/shop",
       "status": 200,
       "final_url": "https://www.doublethreatchartersyeppoon.com.au/shop",
-      "bytes": 1044838
+      "bytes": 1035183
     }
   ]
 }

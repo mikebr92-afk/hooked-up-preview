@@ -1,7 +1,7 @@
 {
   "slug": "brisbane-fishing-tour",
   "request_hash": "a395f42128e5",
-  "collected_at": "2026-10-29T19:54:10.791Z",
+  "collected_at": "2026-10-29T20:04:12.688Z",
   "pages_fetched": [
     "https://www.brisbanefishingtour.com.au/",
     "https://www.brisbanefishingtour.com.au/book-online",
@@ -18,43 +18,43 @@
       "page": "https://www.brisbanefishingtour.com.au/",
       "status": 200,
       "final_url": "https://www.brisbanefishingtour.com.au/",
-      "bytes": 1211131
+      "bytes": 1210956
     },
     {
       "page": "https://www.brisbanefishingtour.com.au/book-online",
       "status": 200,
       "final_url": "https://www.brisbanefishingtour.com.au/book-online",
-      "bytes": 906698
+      "bytes": 906523
     },
     {
       "page": "https://www.brisbanefishingtour.com.au/booking-calendar/6-hrs-private-charter-3-4ppl",
       "status": 200,
       "final_url": "https://www.brisbanefishingtour.com.au/booking-calendar/6-hrs-private-charter-3-4ppl",
-      "bytes": 1219204
+      "bytes": 1218280
     },
     {
       "page": "https://www.brisbanefishingtour.com.au/booking-calendar/6-hrs-private-charter-1-person",
       "status": 200,
       "final_url": "https://www.brisbanefishingtour.com.au/booking-calendar/6-hrs-private-charter-1-person",
-      "bytes": 1217778
+      "bytes": 1217422
     },
     {
       "page": "https://www.brisbanefishingtour.com.au/booking-calendar/6-hrs-private-charter-2-persons",
       "status": 200,
       "final_url": "https://www.brisbanefishingtour.com.au/booking-calendar/6-hrs-private-charter-2-persons",
-      "bytes": 1218642
+      "bytes": 1217424
     },
     {
       "page": "https://www.brisbanefishingtour.com.au/booking-calendar/4-hrs-private-charter-3-4ppl",
       "status": 200,
       "final_url": "https://www.brisbanefishingtour.com.au/booking-calendar/4-hrs-private-charter-3-4ppl",
-      "bytes": 1218524
+      "bytes": 1217817
     },
     {
       "page": "https://www.brisbanefishingtour.com.au/booking-calendar/4-hrs-private-charter-2-persons",
       "status": 200,
       "final_url": "https://www.brisbanefishingtour.com.au/booking-calendar/4-hrs-private-charter-2-persons",
-      "bytes": 1218424
+      "bytes": 1218454
     },
     {
       "page": "https://www.brisbanefishingtour.com.au/booking-calendar/4-hrs-private-charter-1-person",
