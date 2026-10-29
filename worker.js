@@ -229,12 +229,15 @@ function nav(over = false) {
   return `<header class="ssr-nav${over ? ' ssr-nav--over' : ''}"><a href="/">${LOGO}</a><span><a class="ssr-navlink" href="/charters">Find a charter</a><a class="ssr-cta" href="/list-your-charter">Add your charter</a></span></header>`;
 }
 
+let LIVE = new Set(Object.keys(LOCS)); // set per request from the live listing data
+const live = (k) => LIVE.has(k);
+
 function footer() {
   const links = [
     ['/charters', 'Browse all charters'],
-    ...STATE_KEYS.map((k) => ['/fishing-charters/' + k, LOCS[k].n]),
-    ...CITY_KEYS.map((k) => ['/fishing-charters/' + k, LOCS[k].short + ' fishing charters']),
-    ...SPECIES_KEYS.map((k) => ['/fishing-charters/' + k, LOCS[k].h1]),
+    ...STATE_KEYS.filter(live).map((k) => ['/fishing-charters/' + k, LOCS[k].n]),
+    ...CITY_KEYS.filter(live).map((k) => ['/fishing-charters/' + k, LOCS[k].short + ' fishing charters']),
+    ...SPECIES_KEYS.filter(live).map((k) => ['/fishing-charters/' + k, LOCS[k].h1]),
     ['/about', 'About'], ['/list-your-charter', 'List your charter'], ['/contact', 'Contact'],
     ['/terms', 'Terms'], ['/privacy', 'Privacy'],
   ];
@@ -258,10 +261,12 @@ function cardList(cards) {
     c.species?.length ? ' · ' + esc(c.species.join(', ')) : ''}${c.price ? ` · From ${SEO.money(c.price)} / ${unit(c.priceUnit)}` : ''}</p></li>`).join('')}</ul>`;
 }
 
-function locationChips() {
+function locationChips(cards) {
   const chip = (k, label) => `<li><a href="/fishing-charters/${k}">${esc(label)}</a></li>`;
-  return `<h2>Browse fishing charters by location</h2><ul class="ssr-chips">${[...STATE_KEYS, ...CITY_KEYS].map((k) => chip(k, LOCS[k].short + ' Fishing Charters')).join('')}</ul>
-<h2>Browse by species</h2><ul class="ssr-chips">${SPECIES_KEYS.map((k) => chip(k, LOCS[k].h1)).join('')}</ul>`;
+  const groups = STATE_KEYS.filter(live).map((sk) => `<h3><a href="/fishing-charters/${sk}">${esc(LOCS[sk].n)} fishing charters</a></h3>`
+    + `<ul class="ssr-chips">${SEO.childLocs(cards, sk).map((k) => chip(k, LOCS[k].short + ' Fishing Charters')).join('')}</ul>`).join('');
+  return `<h2>Browse fishing charters by location</h2>${groups}
+<h2>Browse by species</h2><ul class="ssr-chips">${SPECIES_KEYS.filter(live).map((k) => chip(k, LOCS[k].h1)).join('')}</ul>`;
 }
 
 function renderHome(cards) {
@@ -273,8 +278,8 @@ function renderHome(cards) {
 <main class="ssr-main">
 <h2>Browse by region</h2><ul class="ssr-grid">${STATE_KEYS.map((k) => `<li><h3><a href="/fishing-charters/${k}">${esc(LOCS[k].n)}</a></h3><p>${byState(LOCS[k].st)} charters</p></li>`).join('')}
 <li><h3>Western Australia</h3><p>Coming soon</p></li><li><h3>Tasmania</h3><p>Coming soon</p></li><li><h3>Victoria</h3><p>Coming soon</p></li></ul>
-<h2>Popular destinations &amp; species</h2><h3>Top destinations</h3><ul class="ssr-chips">${CITY_KEYS.map((k) => `<li><a href="/fishing-charters/${k}">${esc(LOCS[k].short)} (${SEO.locItems(cards, LOCS[k]).length})</a></li>`).join('')}</ul>
-<h3>Target species &amp; styles</h3><ul class="ssr-chips">${SPECIES_KEYS.map((k) => `<li><a href="/fishing-charters/${k}">${esc(LOCS[k].n)} (${SEO.locItems(cards, LOCS[k]).length})</a></li>`).join('')}</ul>
+<h2>Popular destinations &amp; species</h2><h3>Top destinations</h3><ul class="ssr-chips">${CITY_KEYS.filter(live).map((k) => `<li><a href="/fishing-charters/${k}">${esc(LOCS[k].short)} (${SEO.locItems(cards, LOCS[k]).length})</a></li>`).join('')}</ul>
+<h3>Target species &amp; styles</h3><ul class="ssr-chips">${SPECIES_KEYS.filter(live).map((k) => `<li><a href="/fishing-charters/${k}">${esc(LOCS[k].n)} (${SEO.locItems(cards, LOCS[k]).length})</a></li>`).join('')}</ul>
 <h2>Built by anglers, for anglers</h2>
 <h3>1. Tell us where &amp; what</h3><p>Pick a region, a species you're chasing, or just browse. We feature licensed operators based on quality and reviews — not who pays us most.</p>
 <h3>2. Compare honestly</h3><p>Boat specs, target species by season, and what each operator actually offers.</p>
@@ -288,19 +293,20 @@ function renderCharters(cards) {
   const act = SEO.photoFirst(SEO.activeCards(cards));
   return page(`<main class="ssr-main">${crumbsHtml([['Home', '/'], ['Fishing Charters', '/charters']])}
 <h1>Find your fishing charter</h1><p>${act.length} operators across Australia</p>
-${cardList(act)}${locationChips()}
+${cardList(act)}${locationChips(cards)}
 <p><a href="/list-your-charter">List your charter →</a></p></main>`);
 }
 
-function renderLocation(key, L, items) {
+function renderLocation(key, L, items, cards) {
   const g = SEO.locGuide(L, items);
   return page(`<main class="ssr-main">${crumbsHtml(SEO.locTrail(key, L))}
 <h1>${esc(SEO.locH1(L))}</h1>
 <p>Compare ${items.length} fishing ${items.length === 1 ? 'charter' : 'charters'} ${esc(L.in)}. Browse trips, target species and prices — then enquire direct with the operator.</p>
+${L.st && SEO.childLocs(cards, key).length ? `<h2>Fishing destinations in ${esc(L.n)}</h2><ul class="ssr-chips">${SEO.childLocs(cards, key).map((k) => `<li><a href="/fishing-charters/${k}">${esc(LOCS[k].n)} (${SEO.locItems(cards, LOCS[k]).length})</a></li>`).join('')}</ul>` : ''}
 ${cardList(items)}
 <section><h2>${esc(g.heading)}</h2>${g.paras.map((p) => `<p>${esc(p)}</p>`).join('')}
 <h2>Frequently asked questions</h2>${g.faq.map(([q, a]) => `<h3>${esc(q)}</h3><p>${esc(a)}</p>`).join('')}</section>
-${locationChips()}</main>`);
+${locationChips(cards)}</main>`);
 }
 
 function renderCharter(op, cards) {
@@ -351,16 +357,16 @@ function renderStatic(path) {
   return page(`<main class="ssr-main"><h1>${esc(h1)}</h1><p>${esc(p)}</p><p><a href="/charters">Browse fishing charters</a> · <a href="/list-your-charter">List your charter</a> · <a href="mailto:hello@hookedtrips.com">hello@hookedtrips.com</a></p></main>`);
 }
 
-function render404() {
+function render404(cards) {
   return page(`<main class="ssr-main"><h1>Nothing on the line.</h1><p>That page doesn't exist — you might have followed a bad link or the URL changed.</p>
-<p><a href="/charters">Browse all fishing charters</a> · <a href="/">Home</a></p>${locationChips()}</main>`);
+<p><a href="/charters">Browse all fishing charters</a> · <a href="/">Home</a></p>${locationChips(cards)}</main>`);
 }
 
 // ── generated files ──────────────────────────────────────────────────────────
 function sitemap(cards) {
   const urls = [
     ...STATIC_PAGES,
-    ...Object.keys(LOCS).map((k) => '/fishing-charters/' + k),
+    ...Object.keys(LOCS).filter(live).map((k) => '/fishing-charters/' + k),
     ...SEO.activeCards(cards).map((c) => '/charters/' + c.slug),
   ];
   return `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls
@@ -376,7 +382,7 @@ function llms(cards) {
     '',
     '## Fishing charters by location',
     '',
-    ...Object.entries(LOCS).map(([k, L]) => `- [Fishing charters ${L.in}](${SITE}/fishing-charters/${k}): ${SEO.locItems(cards, L).length} operators`),
+    ...Object.entries(LOCS).filter(([k]) => live(k)).map(([k, L]) => `- [${SEO.locH1(L)}](${SITE}/fishing-charters/${k}): ${SEO.locItems(cards, L).length} operators`),
     '',
     '## Charter operators',
     '',
@@ -420,6 +426,7 @@ export default {
     const sh = await getShell(env, url.origin);
     const shell = sh.text;
     const c = data(shell);
+    LIVE = new Set(SEO.liveLocKeys(c.cards));
 
     if (path === '/sitemap.xml') {
       return new Response(sitemap(c.cards), { headers: { 'content-type': 'application/xml;charset=UTF-8', 'cache-control': 'public, max-age=3600' } });
@@ -452,10 +459,10 @@ export default {
     } else if ((m = path.match(/^\/fishing-charters\/([^/]+)$/))) {
       const key = decodeURIComponent(m[1]);
       const L = Object.prototype.hasOwnProperty.call(LOCS, key) ? LOCS[key] : null;
-      if (L) {
+      if (L && live(key)) {
         const items = SEO.locItems(c.cards, L);
         meta = SEO.locMeta(key, L, items);
-        body = renderLocation(key, L, items);
+        body = renderLocation(key, L, items, c.cards);
       }
     } else if (STATIC_COPY[path]) {
       meta = SEO.pageMeta(path);
@@ -469,7 +476,7 @@ export default {
 
     if (!meta) {
       meta = SEO.pageMeta('404');
-      body = render404();
+      body = render404(c.cards);
       status = 404;
       headers['x-robots-tag'] = 'noindex';
     }

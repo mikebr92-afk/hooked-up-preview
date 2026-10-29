@@ -50,6 +50,7 @@ export const LOCS = {
     season: "The Top End has three key periods. The run-off after the wet season (roughly March to May) is prime barramundi time as fish move through flooded creeks and floodplains. The dry season (May to September) brings stable weather that suits offshore and reef trips. The build-up (October to December) is hot and humid but can produce big barra on lures.",
   },
   'sydney': {
+    parent: 'new-south-wales',
     n: 'Sydney', short: 'Sydney', in: 'in Sydney', c: ['sydney', 'cronulla', 'manly'], state: 'NSW',
     intro: [
       "Sydney is one of the few big cities in the world where you can catch kingfish, jewfish (mulloway) and snapper within sight of the Opera House. Harbour charters work the headlands, bays and structure of Port Jackson and Middle Harbour, while offshore boats head to the reefs off Sydney Heads and Cronulla for snapper, kingfish, mahi mahi and tuna — and marlin in summer.",
@@ -61,6 +62,7 @@ export const LOCS = {
     ],
   },
   'cairns': {
+    parent: 'queensland',
     n: 'Cairns', short: 'Cairns', in: 'in Cairns', c: ['cairns'], state: 'QLD',
     intro: [
       "Cairns is the gateway to some of the best fishing on the Great Barrier Reef. Reef charters target coral trout, red emperor, nannygai and giant trevally, while out on the Ribbon Reefs and the edge of the Coral Sea, Cairns is known worldwide for giant black marlin.",
@@ -69,6 +71,7 @@ export const LOCS = {
     season: "Reef fishing is good year-round, although winter trade winds can make offshore trips bumpy. The heavy-tackle black marlin season runs roughly September to December. Barramundi have a closed season on Queensland's east coast from 1 November to 1 February.",
   },
   'darwin': {
+    parent: 'northern-territory',
     n: 'Darwin', short: 'Darwin', in: 'in Darwin', c: ['darwin'], state: 'NT',
     intro: [
       "Darwin puts you within reach of both world-class barramundi water and productive offshore reefs. Harbour and estuary charters fish the creeks and mangroves around Darwin Harbour for barra, mangrove jack and threadfin salmon, while bluewater trips head offshore for Spanish mackerel, giant trevally, golden trevally, longtail tuna and sailfish.",
@@ -77,6 +80,7 @@ export const LOCS = {
     season: "The run-off after the wet season (roughly March to May) is prime barramundi time. The dry season (May to September) brings settled weather that suits offshore and reef fishing, and the build-up (October to December) can produce big barra on lures.",
   },
   'gold-coast': {
+    parent: 'queensland',
     n: 'Gold Coast', short: 'Gold Coast', in: 'on the Gold Coast', c: ['gold coast'], state: 'QLD',
     intro: [
       "The Gold Coast combines quick offshore access through the Gold Coast Seaway with reliable reef and pelagic fishing. Charters target snapper and pearl perch on the inshore and wider reefs, while the warmer months bring mahi mahi, cobia, Spanish mackerel and marlin.",
@@ -85,6 +89,7 @@ export const LOCS = {
     season: "Snapper are at their best through the cooler months, roughly May to September. From late spring to autumn (about November to April), warm currents bring mahi mahi, wahoo, cobia and marlin within reach.",
   },
   'port-stephens': {
+    parent: 'new-south-wales',
     n: 'Port Stephens', short: 'Port Stephens', in: 'in Port Stephens', c: ['port stephens', 'nelson bay'], state: 'NSW',
     intro: [
       "Port Stephens, just north of Newcastle, is one of the best-known game-fishing ports on the east coast. Charters out of Nelson Bay target marlin on the continental shelf in summer and autumn, plus yellowtail kingfish, snapper and tuna around the offshore islands and reefs.",
@@ -93,6 +98,7 @@ export const LOCS = {
     season: "Marlin season generally runs from around December to May, peaking from February to April. Kingfish are strongest from spring to autumn, snapper are caught year-round, and bluefin tuna can show up in winter (around May to August).",
   },
   'sunshine-coast': {
+    parent: 'queensland',
     n: 'Sunshine Coast', short: 'Sunshine Coast', in: 'on the Sunshine Coast', c: ['sunshine coast', 'noosa', 'mooloolaba'], state: 'QLD',
     intro: [
       "The Sunshine Coast offers offshore reef fishing out of Mooloolaba and calmer river and estuary trips around Noosa. Offshore charters fish reefs such as the Barwon Banks for snapper, pearl perch, coral trout and Spanish mackerel.",
@@ -101,6 +107,7 @@ export const LOCS = {
     season: "Snapper and pearl perch are reliable through the cooler months, while late spring to autumn (about October to April) brings Spanish mackerel, mahi mahi and wahoo.",
   },
   'wollongong': {
+    parent: 'new-south-wales',
     n: 'Wollongong', short: 'Wollongong', in: 'in Wollongong', c: ['wollongong', 'illawarra'], state: 'NSW',
     intro: [
       "Wollongong and the Illawarra coast offer quick access to deep water south of Sydney. Charters fish the Five Islands and nearby reefs for snapper, kingfish, morwong and flathead.",
@@ -177,6 +184,23 @@ export const STATE_KEYS = ['new-south-wales', 'queensland', 'northern-territory'
 export const CITY_KEYS = ['sydney', 'gold-coast', 'cairns', 'darwin', 'port-stephens', 'sunshine-coast', 'wollongong'];
 export const SPECIES_KEYS = Object.keys(LOCS).filter((k) => LOCS[k].kind === 'species');
 export const isSpecies = (L) => L && L.kind === 'species';
+
+// A destination/species page only exists while it has enough real operators
+// (states: 1+, everything else: MIN_LOC_ITEMS+). Below that it 404s and drops
+// out of links, the sitemap and the footer automatically.
+export const MIN_LOC_ITEMS = 2;
+export function liveLocKeys(cards) {
+  return Object.keys(LOCS).filter((k) => {
+    const n = locItems(cards, LOCS[k]).length;
+    return LOCS[k].st ? n >= 1 : n >= MIN_LOC_ITEMS;
+  });
+}
+export const isLive = (cards, key) => liveLocKeys(cards).includes(key);
+// Live destination pages inside a state (for state hub pages), largest first.
+export function childLocs(cards, stateKey) {
+  return liveLocKeys(cards).filter((k) => LOCS[k].parent === stateKey)
+    .sort((a, b) => locItems(cards, LOCS[b]).length - locItems(cards, LOCS[a]).length);
+}
 export const locH1 = (L) => L.h1 || `Fishing Charters ${L.in}`;
 
 const LICENCE = {
@@ -347,7 +371,7 @@ export function locMeta(key, L, items) {
     ld: {
       '@context': 'https://schema.org',
       '@graph': [
-        crumbs([['Home', '/'], ['Fishing Charters', '/charters'], [L.n, path]]),
+        crumbs(locTrail(key, L)),
         itemList(items),
         { '@type': 'FAQPage', mainEntity: g.faq.map(([q, a]) => ({ '@type': 'Question', name: q, acceptedAnswer: { '@type': 'Answer', text: a } })) },
       ],
@@ -442,12 +466,16 @@ export function charterMeta(op, cards) {
 export function charterTrail(op, cards) {
   const card = (cards || []).find((c) => c.slug === op.slug) || { location: op.primary_location, state: op.state };
   const lf = locFor(card);
-  const trail = [['Home', '/'], ['Fishing Charters', '/charters']];
-  if (lf) trail.push([lf[1].n, '/fishing-charters/' + lf[0]]);
+  const trail = lf ? locTrail(lf[0], lf[1]) : [['Home', '/'], ['Fishing Charters', '/charters']];
   trail.push([op.name, '/charters/' + op.slug]);
   return trail;
 }
-export const locTrail = (key, L) => [['Home', '/'], ['Fishing Charters', '/charters'], [L.n, '/fishing-charters/' + key]];
+export function locTrail(key, L) {
+  const t = [['Home', '/'], ['Fishing Charters', '/charters']];
+  if (L.parent && LOCS[L.parent]) t.push([LOCS[L.parent].n, '/fishing-charters/' + L.parent]);
+  t.push([L.n, '/fishing-charters/' + key]);
+  return t;
+}
 
 // ── search + filters (homepage search box and /charters filter bar) ─────────
 const STOP = new Set(['fishing', 'fish', 'charter', 'charters', 'trip', 'trips', 'tour', 'tours', 'in', 'at', 'near', 'the', 'and', 'for', 'a', 'boat']);
