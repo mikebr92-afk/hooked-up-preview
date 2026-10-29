@@ -1,0 +1,74 @@
+{
+ "requests": [
+  {
+   "slug": "audacity-charters-townsville",
+   "pages": [
+    "https://audacitymarine.com.au/fishing-charters/",
+    "https://audacitymarine.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "conquest-townsville",
+   "pages": [
+    "https://www.nccharters.com.au/trip/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  },
+  {
+   "slug": "research-townsville3",
+   "pages": [
+    "https://www.smarterfishingcharters.com.au/charters/region/4810?locale=Townsville",
+    "https://www.fishcitysportfishing.com.au/",
+    "https://www.orpheusreefcharters.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  },
+  {
+   "slug": "razorfish-fishing-charters",
+   "pages": [
+    "https://www.razorfishcharters.com.au/",
+    "https://www.razorfishcharters.com.au/faqs/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "weipa-sports-fishing",
+   "pages": [
+    "https://www.weipasportsfishing.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "far-north-fishing-weipa",
+   "pages": [
+    "https://www.farnorthfishingweipa.com.au/",
+    "https://www.farnorthfishingweipa.com.au/charters/four-day"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "research-weipa2",
+   "pages": [
+    "https://www.campweipa.com.au/tours",
+    "https://eclipsefnq.com.au/",
+    "https://www.albatrossbayresort.com.au/the-lure/august-2020/top-five-guided-fishing-charters-in-weipa/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  }
+ ]
+}
