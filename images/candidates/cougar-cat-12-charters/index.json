@@ -1,14 +1,19 @@
 {
   "slug": "cougar-cat-12-charters",
-  "request_hash": "c86aec51f140",
-  "collected_at": "2026-10-29T04:00:29.378Z",
+  "request_hash": "2d637897ad34",
+  "collected_at": "2026-10-29T04:13:18.047Z",
   "pages_fetched": [
-    "https://cougarcat12.com.au/"
+    "http://www.cougarcat12.com.au/",
+    "https://www.cougarcat12.com.au/"
   ],
   "candidates": [],
   "log": [
     {
-      "page": "https://cougarcat12.com.au/",
+      "page": "http://www.cougarcat12.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://www.cougarcat12.com.au/",
       "error": "fetch failed"
     }
   ]

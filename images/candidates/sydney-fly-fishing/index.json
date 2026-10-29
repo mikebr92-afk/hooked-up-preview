@@ -1,0 +1,415 @@
+{
+  "slug": "sydney-fly-fishing",
+  "request_hash": "55be6fa4a165",
+  "collected_at": "2026-10-29T04:12:18.991Z",
+  "pages_fetched": [
+    "https://www.sydneyflyfishing.com.au/",
+    "https://www.sydneyflyfishing.com.au/general-8",
+    "https://www.sydneyflyfishing.com.au/newsletter",
+    "https://www.sydneyflyfishing.com.au/about-2",
+    "https://www.sydneyflyfishing.com.au/tours-pricing",
+    "https://www.sydneyflyfishing.com.au/casting-tuition",
+    "https://www.sydneyflyfishing.com.au/gift-voucher",
+    "https://www.sydneyflyfishing.com.au/your-guide",
+    "https://www.sydneyflyfishing.com.au/contact-us",
+    "https://www.sydneyflyfishing.com.au/gallery"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "4032x3024",
+      "source": "https://static.wixstatic.com/media/d5e875_dbb02686b5724173b318cbc94761ce71%7Emv2.jpeg",
+      "page": "https://www.sydneyflyfishing.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1536x2048",
+      "source": "https://static.wixstatic.com/media/d5e875_b463117f82ab4f08b22a44e38c6ad6bb~mv2.jpg",
+      "page": "https://www.sydneyflyfishing.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c03.webp",
+      "width": 1107,
+      "height": 554,
+      "original": "1107x554",
+      "source": "https://static.wixstatic.com/media/d5e875_409d679ca54b4eccb43f9aadd42012d0~mv2.png",
+      "page": "https://www.sydneyflyfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 2000,
+      "height": 1333,
+      "original": "2048x1365",
+      "source": "https://static.wixstatic.com/media/f38f13_ecf28874a2c6412fbf676e65126913da~mv2.jpg",
+      "page": "https://www.sydneyflyfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1900,
+      "height": 1267,
+      "original": "1900x1267",
+      "source": "https://static.wixstatic.com/media/f38f13_9e5344483f3647c487468585963d3ee7~mv2.jpg",
+      "page": "https://www.sydneyflyfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1024,
+      "height": 683,
+      "original": "1024x683",
+      "source": "https://static.wixstatic.com/media/f38f13_ce8dccf0bf174520a82c84834c4251a9~mv2.jpg",
+      "page": "https://www.sydneyflyfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1225,
+      "height": 1838,
+      "original": "1225x1838",
+      "source": "https://static.wixstatic.com/media/d5e875_b50446c2d98f489e922fe8c424e69059~mv2.jpg",
+      "page": "https://www.sydneyflyfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 780,
+      "height": 424,
+      "original": "780x424",
+      "source": "https://static.wixstatic.com/media/f38f13_ecf28874a2c6412fbf676e65126913da~mv2.jpg/v1/crop/x_0,y_0,w_2048,h_1165/fill/w_780,h_424,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/september-2016_6892.jpg",
+      "page": "https://www.sydneyflyfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 780,
+      "height": 424,
+      "original": "780x424",
+      "source": "https://static.wixstatic.com/media/f38f13_9e5344483f3647c487468585963d3ee7~mv2.jpg/v1/crop/x_0,y_93,w_1900,h_1080/fill/w_780,h_424,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_7649-2.jpg",
+      "page": "https://www.sydneyflyfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 636,
+      "height": 636,
+      "original": "636x636",
+      "source": "https://static.wixstatic.com/media/d5e875_b50446c2d98f489e922fe8c424e69059~mv2.jpg/v1/crop/x_0,y_463,w_1225,h_1225/fill/w_636,h_636,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_1194_JPG.jpg",
+      "page": "https://www.sydneyflyfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 980,
+      "height": 400,
+      "original": "980x400",
+      "source": "https://static.wixstatic.com/media/d5e875_dbb02686b5724173b318cbc94761ce71~mv2.jpeg/v1/fill/w_980,h_400,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_9743_JPEG.jpeg",
+      "page": "https://www.sydneyflyfishing.com.au/general-8",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 690,
+      "height": 518,
+      "original": "690x518",
+      "source": "https://static.wixstatic.com/media/f38f13_e575bf45e3fe4f27b01749a2d111de3a~mv2.webp/v1/fill/w_690,h_518,fp_0.50_0.50,lg_1,q_30,blur_30,enc_avif,quality_auto/f38f13_e575bf45e3fe4f27b01749a2d111de3a~mv2.webp",
+      "page": "https://www.sydneyflyfishing.com.au/newsletter",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 2000,
+      "height": 1125,
+      "original": "2667x1500",
+      "source": "https://static.wixstatic.com/media/d5e875_6880e04e18f54b84aed4777e93752c55~mv2.jpg",
+      "page": "https://www.sydneyflyfishing.com.au/about-2",
+      "priority": true
+    },
+    {
+      "file": "c14.webp",
+      "width": 768,
+      "height": 1375,
+      "original": "768x1375",
+      "source": "https://static.wixstatic.com/media/d5e875_d0d12111f2f6439699c53f341a81247f~mv2.png",
+      "page": "https://www.sydneyflyfishing.com.au/about-2",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1007,
+      "height": 412,
+      "original": "1007x412",
+      "source": "https://static.wixstatic.com/media/d5e875_6880e04e18f54b84aed4777e93752c55~mv2.jpg/v1/fill/w_1007,h_412,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/_edited_edited.jpg",
+      "page": "https://www.sydneyflyfishing.com.au/about-2",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 768,
+      "height": 1051,
+      "original": "768x1051",
+      "source": "https://static.wixstatic.com/media/d5e875_d0d12111f2f6439699c53f341a81247f~mv2.png/v1/fill/w_768,h_1051,al_c,q_90,enc_avif,quality_auto/IMG_9149_PNG.png",
+      "page": "https://www.sydneyflyfishing.com.au/about-2",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.sydneyflyfishing.com.au/",
+      "status": 200,
+      "final_url": "https://www.sydneyflyfishing.com.au/",
+      "bytes": 1078095
+    },
+    {
+      "page": "https://www.sydneyflyfishing.com.au/general-8",
+      "status": 200,
+      "final_url": "https://www.sydneyflyfishing.com.au/general-8",
+      "bytes": 950339
+    },
+    {
+      "page": "https://www.sydneyflyfishing.com.au/newsletter",
+      "status": 200,
+      "final_url": "https://www.sydneyflyfishing.com.au/newsletter",
+      "bytes": 1162727
+    },
+    {
+      "page": "https://www.sydneyflyfishing.com.au/about-2",
+      "status": 200,
+      "final_url": "https://www.sydneyflyfishing.com.au/about-2",
+      "bytes": 1017841
+    },
+    {
+      "page": "https://www.sydneyflyfishing.com.au/tours-pricing",
+      "status": 200,
+      "final_url": "https://www.sydneyflyfishing.com.au/tours-pricing",
+      "bytes": 1217012
+    },
+    {
+      "page": "https://www.sydneyflyfishing.com.au/casting-tuition",
+      "status": 200,
+      "final_url": "https://www.sydneyflyfishing.com.au/casting-tuition",
+      "bytes": 1195117
+    },
+    {
+      "page": "https://www.sydneyflyfishing.com.au/gift-voucher",
+      "status": 200,
+      "final_url": "https://www.sydneyflyfishing.com.au/gift-voucher",
+      "bytes": 1695196
+    },
+    {
+      "page": "https://www.sydneyflyfishing.com.au/your-guide",
+      "status": 200,
+      "final_url": "https://www.sydneyflyfishing.com.au/your-guide",
+      "bytes": 955082
+    },
+    {
+      "page": "https://www.sydneyflyfishing.com.au/contact-us",
+      "status": 200,
+      "final_url": "https://www.sydneyflyfishing.com.au/contact-us",
+      "bytes": 999900
+    },
+    {
+      "page": "https://www.sydneyflyfishing.com.au/gallery",
+      "status": 200,
+      "final_url": "https://www.sydneyflyfishing.com.au/gallery",
+      "bytes": 1344105
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/d5e875_dbb02686b5724173b318cbc94761ce71%7Emv2.jpeg/v1/fit/w_2500,h_1330,al_c/d5e875_dbb02686b5724173b318cbc94761ce71%7Emv2.jpeg"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/f38f13_ccd43237234c4281b6f3aec4a8645658~mv2.jpg",
+      "error": "too small 1130x76"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/f38f13_ccd43237234c4281b6f3aec4a8645658~mv2.jpg/v1/fill/w_199,h_13,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/f38f13_ccd43237234c4281b6f3aec4a8645658~mv2.jpg",
+      "error": "too small 199x13"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/f38f13_851bdb0cd2914394bf7cb2754bde7d0d~mv2.jpg/v1/crop/x_0,y_18,w_360,h_205/fill/w_390,h_212,al_c,lg_1,q_80,enc_avif,quality_auto/IMG_2782_-November.jpg",
+      "error": "too small 390x212"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/f38f13_851bdb0cd2914394bf7cb2754bde7d0d~mv2.jpg",
+      "error": "too small 360x240"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/f38f13_851bdb0cd2914394bf7cb2754bde7d0d~mv2.jpg/v1/crop/x_0,y_18,w_360,h_205/fill/w_390,h_212,al_c,lg_1,q_80,enc_avif,quality_auto/IMG_2782_-November-1024x683.jpg",
+      "error": "too small 390x212"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/f38f13_ce8dccf0bf174520a82c84834c4251a9~mv2.jpg/v1/fill/w_91,h_60,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/f38f13_ce8dccf0bf174520a82c84834c4251a9~mv2.jpg",
+      "error": "too small 91x60"
+    },
+    {
+      "image": "https://www.sydneyflyfishing.com.au/quality_auto/september-2016_6892.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.sydneyflyfishing.com.au/quality_auto/IMG_7649-2.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.sydneyflyfishing.com.au/quality_auto/IMG_2782_-November.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.sydneyflyfishing.com.au/quality_auto/IMG_2782_-November-1024x683.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.sydneyflyfishing.com.au/quality_auto/IMG_1194_JPG.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/d5e875_dbb02686b5724173b318cbc94761ce71%7Emv2.jpeg/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/d5e875_dbb02686b5724173b318cbc94761ce71%7Emv2.jpeg",
+      "error": "too small 192x192"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/d5e875_dbb02686b5724173b318cbc94761ce71%7Emv2.jpeg/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/d5e875_dbb02686b5724173b318cbc94761ce71%7Emv2.jpeg",
+      "error": "too small 32x32"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/d5e875_dbb02686b5724173b318cbc94761ce71%7Emv2.jpeg/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/d5e875_dbb02686b5724173b318cbc94761ce71%7Emv2.jpeg",
+      "error": "too small 180x180"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/d5e875_409d679ca54b4eccb43f9aadd42012d0~mv2.png/v1/crop/x_0,y_20,w_1107,h_515,q_90,blur_2,enc_avif,quality_auto/d5e875_409d679ca54b4eccb43f9aadd42012d0~mv2.png"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/f38f13_ecf28874a2c6412fbf676e65126913da~mv2.jpg/v1/crop/x_0,y_0,w_2048,h_1165/fill/w_390,h_212,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/september-2016_6892.jpg",
+      "error": "too small 390x212"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/f38f13_9e5344483f3647c487468585963d3ee7~mv2.jpg/v1/crop/x_0,y_93,w_1900,h_1080/fill/w_390,h_212,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_7649-2.jpg",
+      "error": "too small 390x212"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/f38f13_851bdb0cd2914394bf7cb2754bde7d0d~mv2.jpg/v1/crop/x_0,y_18,w_360,h_205/fill/w_504,h_274,al_c,lg_1,q_80,enc_avif,quality_auto/IMG_2782_-November.jpg",
+      "error": "too small 504x274"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/f38f13_851bdb0cd2914394bf7cb2754bde7d0d~mv2.jpg/v1/crop/x_0,y_18,w_360,h_205/fill/w_504,h_274,al_c,lg_1,q_80,enc_avif,quality_auto/IMG_2782_-November-1024x683.jpg",
+      "error": "too small 504x274"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/f38f13_ce8dccf0bf174520a82c84834c4251a9~mv2.jpg/v1/fill/w_142,h_95,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/f38f13_ce8dccf0bf174520a82c84834c4251a9~mv2.jpg",
+      "error": "too small 142x95"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/d5e875_b50446c2d98f489e922fe8c424e69059~mv2.jpg/v1/crop/x_0,y_463,w_1225,h_1225/fill/w_318,h_318,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_1194_JPG.jpg",
+      "error": "too small 318x318"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/d5e875_dbb02686b5724173b318cbc94761ce71~mv2.jpeg"
+    },
+    {
+      "image": "https://www.sydneyflyfishing.com.au/quality_auto/IMG_9743_JPEG.jpeg",
+      "error": "HTTP 404"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/d5e875_dbb02686b5724173b318cbc94761ce71~mv2.jpeg/v1/fill/w_1960,h_800,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_9743_JPEG.jpeg"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/f38f13_e575bf45e3fe4f27b01749a2d111de3a~mv2.webp",
+      "error": "too small 575x436"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/f38f13_e575bf45e3fe4f27b01749a2d111de3a~mv2.webp/v1/fill/w_333,h_250,fp_0.50_0.50,q_30,blur_30,enc_avif,quality_auto/f38f13_e575bf45e3fe4f27b01749a2d111de3a~mv2.webp",
+      "error": "too small 333x250"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/f38f13_e575bf45e3fe4f27b01749a2d111de3a~mv2.webp/v1/fill/w_454,h_341,fp_0.50_0.50,q_90,enc_avif,quality_auto/f38f13_e575bf45e3fe4f27b01749a2d111de3a~mv2.webp",
+      "error": "too small 454x341"
+    },
+    {
+      "image": "https://www.sydneyflyfishing.com.au/quality_auto/f38f13_e575bf45e3fe4f27b01749a2d111de3a~mv2.webp",
+      "error": "HTTP 404"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/f38f13_e575bf45e3fe4f27b01749a2d111de3a~mv2.webp/v1/fill/w_690,h_518,fp_0.50_0.50,lg_1,q_90,enc_avif,quality_auto/f38f13_e575bf45e3fe4f27b01749a2d111de3a~mv2.webp"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/d5e875_6880e04e18f54b84aed4777e93752c55~mv2.jpg/v1/fill/w_2500,h_1406,al_c/d5e875_6880e04e18f54b84aed4777e93752c55~mv2.jpg"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/d5e875_b463117f82ab4f08b22a44e38c6ad6bb~mv2.jpg/v1/crop/x_18,y_0,w_1500,h_2048/fill/w_282,h_385,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_6350_JPG.jpg",
+      "error": "too small 282x385"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/0fdef751204647a3bbd7eaa2827ed4f9.png",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/0fdef751204647a3bbd7eaa2827ed4f9.png/v1/fill/w_24,h_24,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/0fdef751204647a3bbd7eaa2827ed4f9.png",
+      "error": "too small 24x24"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/c7d035ba85f6486680c2facedecdcf4d.png",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/c7d035ba85f6486680c2facedecdcf4d.png/v1/fill/w_24,h_24,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/c7d035ba85f6486680c2facedecdcf4d.png",
+      "error": "too small 24x24"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/6ea5b4a88f0b4f91945b40499aa0af00.png",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/6ea5b4a88f0b4f91945b40499aa0af00.png/v1/fill/w_24,h_24,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/6ea5b4a88f0b4f91945b40499aa0af00.png",
+      "error": "too small 24x24"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/01c3aff52f2a4dffa526d7a9843d46ea.png",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/01c3aff52f2a4dffa526d7a9843d46ea.png/v1/fill/w_24,h_24,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/01c3aff52f2a4dffa526d7a9843d46ea.png",
+      "error": "too small 24x24"
+    },
+    {
+      "image": "https://www.sydneyflyfishing.com.au/quality_auto/IMG_6350_JPG.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.sydneyflyfishing.com.au/quality_auto/IMG_9149_PNG.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.sydneyflyfishing.com.au/quality_auto/_edited_edited.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.sydneyflyfishing.com.au/quality_auto/0fdef751204647a3bbd7eaa2827ed4f9.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.sydneyflyfishing.com.au/quality_auto/c7d035ba85f6486680c2facedecdcf4d.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.sydneyflyfishing.com.au/quality_auto/6ea5b4a88f0b4f91945b40499aa0af00.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.sydneyflyfishing.com.au/quality_auto/01c3aff52f2a4dffa526d7a9843d46ea.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/d5e875_b463117f82ab4f08b22a44e38c6ad6bb~mv2.jpg/v1/crop/x_18,y_0,w_1500,h_2048/fill/w_564,h_770,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_6350_JPG.jpg",
+      "error": "too small 564x770"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/d5e875_d0d12111f2f6439699c53f341a81247f~mv2.png/v1/fill/w_461,h_631,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_9149_PNG.png",
+      "error": "too small 461x631"
+    }
+  ]
+}

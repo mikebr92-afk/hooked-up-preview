@@ -1,0 +1,38 @@
+{
+  "slug": "research-north2",
+  "request_hash": "8b998a741ee7",
+  "collected_at": "2026-10-29T04:11:51.326Z",
+  "pages_fetched": [
+    "https://www.visitnsw.com/things-to-do/tours/calypso-fishing-adventures",
+    "https://playsport.com/byronbaycharters_ag_98d5502e",
+    "https://r.jina.ai/https://byronbaycharters70.rezdy.com/",
+    "https://www.visitnsw.com/things-to-do/tours/fozies-fishing-adventures"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.visitnsw.com/things-to-do/tours/calypso-fishing-adventures",
+      "status": 200,
+      "final_url": "https://www.visitnsw.com/things-to-do/tours/calypso-fishing-adventures",
+      "bytes": 224922
+    },
+    {
+      "page": "https://playsport.com/byronbaycharters_ag_98d5502e",
+      "status": 200,
+      "final_url": "https://playsport.com/byronbaycharters_ag_98d5502e",
+      "bytes": 276564
+    },
+    {
+      "page": "https://r.jina.ai/https://byronbaycharters70.rezdy.com/",
+      "status": 200,
+      "final_url": "https://r.jina.ai/https://byronbaycharters70.rezdy.com/",
+      "bytes": 1301
+    },
+    {
+      "page": "https://www.visitnsw.com/things-to-do/tours/fozies-fishing-adventures",
+      "status": 404,
+      "final_url": "https://www.visitnsw.com/things-to-do/tours/fozies-fishing-adventures",
+      "bytes": 179313
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "research-sydney3",
+  "request_hash": "58032e8cd910",
+  "collected_at": "2026-10-29T04:11:23.157Z",
+  "pages_fetched": [
+    "https://fishabout.com.au/sydney/",
+    "https://fishingstatus.com/fishing/directory/groupID/10214",
+    "https://r.jina.ai/https://www.agfg.com.au/attraction/estuary-fishing-tours-31532",
+    "https://r.jina.ai/https://agfg.com.au/attraction/central-coast-reef-game-fishing-charters-26535"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://fishabout.com.au/sydney/",
+      "status": 202,
+      "final_url": "https://fishabout.com.au/sydney/",
+      "bytes": 176
+    },
+    {
+      "page": "https://fishingstatus.com/fishing/directory/groupID/10214",
+      "status": 200,
+      "final_url": "https://fishingstatus.com/Home/Login?returnurl=%2ffishing%2fdirectory%2fgroupID%2f10214",
+      "bytes": 40241
+    },
+    {
+      "page": "https://r.jina.ai/https://www.agfg.com.au/attraction/estuary-fishing-tours-31532",
+      "status": 200,
+      "final_url": "https://r.jina.ai/https://www.agfg.com.au/attraction/estuary-fishing-tours-31532",
+      "bytes": 10211
+    },
+    {
+      "page": "https://r.jina.ai/https://agfg.com.au/attraction/central-coast-reef-game-fishing-charters-26535",
+      "status": 200,
+      "final_url": "https://r.jina.ai/https://agfg.com.au/attraction/central-coast-reef-game-fishing-charters-26535",
+      "bytes": 14389
+    }
+  ]
+}

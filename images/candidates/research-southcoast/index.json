@@ -1,0 +1,73 @@
+{
+  "slug": "research-southcoast",
+  "request_hash": "88fcd0a27a2c",
+  "collected_at": "2026-10-29T04:11:45.784Z",
+  "pages_fetched": [
+    "https://www.visitnsw.com/things-to-do/tours/game-charters-batemans-bay",
+    "https://visitnsw.com/things-to-do/tours/batemans-bay-fishing",
+    "https://www.visitnsw.com/things-to-do/tours/narooma-charters-and-barunguba-montague-island-tours",
+    "https://www.visitnsw.com/things-to-do/tours/simos-afloat-fishing-charters",
+    "https://www.shoalhaven.com/place/simos-afloat/",
+    "https://www.visiteden.com.au/experience/fishing/",
+    "https://www.sapphirecoast.com.au/fishing",
+    "https://r.jina.ai/https://naroomatours.rezdy.com/",
+    "https://r.jina.ai/https://fishingbooker.com/charters/view/8235"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.visitnsw.com/things-to-do/tours/game-charters-batemans-bay",
+      "status": 200,
+      "final_url": "https://www.visitnsw.com/things-to-do/tours/game-charters-batemans-bay",
+      "bytes": 219629
+    },
+    {
+      "page": "https://visitnsw.com/things-to-do/tours/batemans-bay-fishing",
+      "status": 404,
+      "final_url": "https://www.visitnsw.com/things-to-do/tours/batemans-bay-fishing",
+      "bytes": 179310
+    },
+    {
+      "page": "https://www.visitnsw.com/things-to-do/tours/narooma-charters-and-barunguba-montague-island-tours",
+      "status": 200,
+      "final_url": "https://www.visitnsw.com/things-to-do/tours/narooma-charters-and-barunguba-montague-island-tours",
+      "bytes": 286633
+    },
+    {
+      "page": "https://www.visitnsw.com/things-to-do/tours/simos-afloat-fishing-charters",
+      "status": 404,
+      "final_url": "https://www.visitnsw.com/things-to-do/tours/simos-afloat-fishing-charters",
+      "bytes": 179329
+    },
+    {
+      "page": "https://www.shoalhaven.com/place/simos-afloat/",
+      "status": 404,
+      "final_url": "https://www.shoalhaven.com/place/simos-afloat/",
+      "bytes": 254361
+    },
+    {
+      "page": "https://www.visiteden.com.au/experience/fishing/",
+      "status": 200,
+      "final_url": "https://www.visiteden.com.au/experience/fishing/",
+      "bytes": 60244
+    },
+    {
+      "page": "https://www.sapphirecoast.com.au/fishing",
+      "status": 200,
+      "final_url": "https://www.sapphirecoast.com.au/fishing",
+      "bytes": 159950
+    },
+    {
+      "page": "https://r.jina.ai/https://naroomatours.rezdy.com/",
+      "status": 200,
+      "final_url": "https://r.jina.ai/https://naroomatours.rezdy.com/",
+      "bytes": 5821
+    },
+    {
+      "page": "https://r.jina.ai/https://fishingbooker.com/charters/view/8235",
+      "status": 200,
+      "final_url": "https://r.jina.ai/https://fishingbooker.com/charters/view/8235",
+      "bytes": 23475
+    }
+  ]
+}

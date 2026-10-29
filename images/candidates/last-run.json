@@ -1,5 +1,5 @@
 {
-  "finished_at": "2026-10-29T04:05:04.777Z",
+  "finished_at": "2026-10-29T04:13:18.047Z",
   "summary": [
     {
       "slug": "cronulla-reef-fishing-charters",
@@ -67,7 +67,8 @@
     },
     {
       "slug": "aquilla-fishing-charters-wollongong",
-      "skipped": true
+      "candidates": 0,
+      "pages": 12
     },
     {
       "slug": "research-centralcoast",
@@ -131,43 +132,35 @@
     },
     {
       "slug": "research-dpi-register",
-      "candidates": 0,
-      "pages": 1
+      "skipped": true
     },
     {
       "slug": "research-sydney2",
-      "candidates": 0,
-      "pages": 3
+      "skipped": true
     },
     {
       "slug": "research-portstephens2",
-      "candidates": 0,
-      "pages": 3
+      "skipped": true
     },
     {
       "slug": "research-wahoo2",
-      "candidates": 0,
-      "pages": 4
+      "skipped": true
     },
     {
       "slug": "research-cronulla-rezdy",
-      "candidates": 0,
-      "pages": 2
+      "skipped": true
     },
     {
       "slug": "research-coffs-rezdy",
-      "candidates": 0,
-      "pages": 2
+      "skipped": true
     },
     {
       "slug": "research-pacificblue2",
-      "candidates": 0,
-      "pages": 1
+      "skipped": true
     },
     {
       "slug": "research-discovery3",
-      "candidates": 0,
-      "pages": 5
+      "skipped": true
     },
     {
       "slug": "aquilla-fishing-charters-wollongong",
@@ -176,63 +169,86 @@
     },
     {
       "slug": "terrigal-fishing-tours",
-      "candidates": 16,
-      "pages": 8
+      "skipped": true
     },
     {
       "slug": "day-trippin-charters",
-      "candidates": 16,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "b-and-l-fishing-charters",
-      "candidates": 9,
-      "pages": 12
+      "skipped": true
     },
     {
       "slug": "castaway-estuary-fishing-charters",
+      "skipped": true
+    },
+    {
+      "slug": "port-macquarie-fishing-charters",
+      "skipped": true
+    },
+    {
+      "slug": "south-west-rocks-fishing-charters",
+      "skipped": true
+    },
+    {
+      "slug": "cougar-cat-12-charters",
+      "skipped": true
+    },
+    {
+      "slug": "go-fish-yamba-charters",
+      "skipped": true
+    },
+    {
+      "slug": "yamba-fishing-and-charters",
+      "skipped": true
+    },
+    {
+      "slug": "kiama-charter-service",
+      "skipped": true
+    },
+    {
+      "slug": "fishpen-charters-merimbula",
+      "skipped": true
+    },
+    {
+      "slug": "sea-to-summit-lord-howe-fishing",
+      "skipped": true
+    },
+    {
+      "slug": "research-sydney3",
+      "candidates": 0,
+      "pages": 4
+    },
+    {
+      "slug": "research-southcoast",
+      "candidates": 0,
+      "pages": 9
+    },
+    {
+      "slug": "research-north2",
+      "candidates": 0,
+      "pages": 4
+    },
+    {
+      "slug": "sydney-fly-fishing",
       "candidates": 16,
       "pages": 10
     },
     {
-      "slug": "port-macquarie-fishing-charters",
-      "candidates": 16,
-      "pages": 9
-    },
-    {
-      "slug": "south-west-rocks-fishing-charters",
+      "slug": "cushy-fishing-charters",
       "candidates": 16,
       "pages": 11
     },
     {
+      "slug": "sea-buoys-ocean-charters",
+      "candidates": 16,
+      "pages": 7
+    },
+    {
       "slug": "cougar-cat-12-charters",
       "candidates": 0,
-      "pages": 1
-    },
-    {
-      "slug": "go-fish-yamba-charters",
-      "candidates": 16,
-      "pages": 6
-    },
-    {
-      "slug": "yamba-fishing-and-charters",
-      "candidates": 15,
-      "pages": 9
-    },
-    {
-      "slug": "kiama-charter-service",
-      "candidates": 16,
-      "pages": 10
-    },
-    {
-      "slug": "fishpen-charters-merimbula",
-      "candidates": 10,
-      "pages": 6
-    },
-    {
-      "slug": "sea-to-summit-lord-howe-fishing",
-      "candidates": 16,
-      "pages": 6
+      "pages": 2
     }
   ]
 }

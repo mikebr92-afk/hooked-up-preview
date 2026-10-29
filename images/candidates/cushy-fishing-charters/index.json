@@ -1,0 +1,295 @@
+{
+  "slug": "cushy-fishing-charters",
+  "request_hash": "fde75420964a",
+  "collected_at": "2026-10-29T04:12:35.101Z",
+  "pages_fetched": [
+    "https://www.cushyfishingcharters.com.au/",
+    "https://cushyfishingcharters.com.au/",
+    "https://cushyfishingcharters.com.au/fishing-charters/",
+    "https://cushyfishingcharters.com.au/commercial-work/",
+    "https://cushyfishingcharters.com.au/whale-watching/",
+    "https://cushyfishingcharters.com.au/our-boat/",
+    "https://cushyfishingcharters.com.au/photo-gallery/",
+    "https://cushyfishingcharters.com.au/contact-us/",
+    "https://cushyfishingcharters.com.au/weather-fishing/",
+    "https://cushyfishingcharters.com.au/portfolio/fishing-38/",
+    "https://cushyfishingcharters.com.au/portfolio/fishing-37/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 640,
+      "height": 480,
+      "original": "640x480",
+      "source": "https://cushyfishingcharters.com.au/wp-content/uploads/2018/08/IMG_0161.jpg",
+      "page": "https://www.cushyfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 640,
+      "height": 480,
+      "original": "640x480",
+      "source": "https://cushyfishingcharters.com.au/wp-content/uploads/2018/08/IMG_0167.jpg",
+      "page": "https://www.cushyfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 640,
+      "height": 480,
+      "original": "640x480",
+      "source": "https://cushyfishingcharters.com.au/wp-content/uploads/2018/08/IMG_0226.jpg",
+      "page": "https://www.cushyfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 640,
+      "height": 480,
+      "original": "640x480",
+      "source": "https://cushyfishingcharters.com.au/wp-content/uploads/2018/08/IMG_0107.jpg",
+      "page": "https://www.cushyfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1800,
+      "height": 1054,
+      "original": "1800x1054",
+      "source": "https://cushyfishingcharters.com.au/wp-content/uploads/2015/12/8008947498_380e57321b_o.jpg",
+      "page": "https://www.cushyfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 640,
+      "height": 480,
+      "original": "640x480",
+      "source": "https://cushyfishingcharters.com.au/wp-content/uploads/2018/08/IMG_1443.jpg",
+      "page": "https://cushyfishingcharters.com.au/fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 640,
+      "height": 480,
+      "original": "640x480",
+      "source": "https://cushyfishingcharters.com.au/wp-content/uploads/2018/08/IMG_1328.jpg",
+      "page": "https://cushyfishingcharters.com.au/fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 640,
+      "height": 480,
+      "original": "640x480",
+      "source": "https://cushyfishingcharters.com.au/wp-content/uploads/2018/08/IMG_1395.jpg",
+      "page": "https://cushyfishingcharters.com.au/fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 640,
+      "height": 480,
+      "original": "640x480",
+      "source": "https://cushyfishingcharters.com.au/wp-content/uploads/2018/08/IMG_1247.jpg",
+      "page": "https://cushyfishingcharters.com.au/fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 800,
+      "height": 600,
+      "original": "800x600",
+      "source": "https://cushyfishingcharters.com.au/wp-content/uploads/2021/11/commercial-charter.jpg",
+      "page": "https://cushyfishingcharters.com.au/commercial-work/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 800,
+      "height": 600,
+      "original": "800x600",
+      "source": "https://cushyfishingcharters.com.au/wp-content/uploads/2021/11/commercial-charter-1.jpg",
+      "page": "https://cushyfishingcharters.com.au/commercial-work/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 800,
+      "height": 600,
+      "original": "800x600",
+      "source": "https://cushyfishingcharters.com.au/wp-content/uploads/2021/11/commercial-charter-2.jpg",
+      "page": "https://cushyfishingcharters.com.au/commercial-work/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 800,
+      "height": 600,
+      "original": "800x600",
+      "source": "https://cushyfishingcharters.com.au/wp-content/uploads/2021/11/commercial-charter-3.jpg",
+      "page": "https://cushyfishingcharters.com.au/commercial-work/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 979,
+      "height": 734,
+      "original": "979x734",
+      "source": "https://cushyfishingcharters.com.au/wp-content/uploads/2015/12/2331.jpg",
+      "page": "https://cushyfishingcharters.com.au/whale-watching/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 979,
+      "height": 734,
+      "original": "979x734",
+      "source": "https://cushyfishingcharters.com.au/wp-content/uploads/2015/12/1601.jpg",
+      "page": "https://cushyfishingcharters.com.au/whale-watching/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 863,
+      "height": 864,
+      "original": "863x864",
+      "source": "https://cushyfishingcharters.com.au/wp-content/uploads/2016/03/IMG_3046.jpg",
+      "page": "https://cushyfishingcharters.com.au/our-boat/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.cushyfishingcharters.com.au/",
+      "status": 200,
+      "final_url": "https://cushyfishingcharters.com.au/",
+      "bytes": 101179
+    },
+    {
+      "page": "https://cushyfishingcharters.com.au/",
+      "status": 200,
+      "final_url": "https://cushyfishingcharters.com.au/",
+      "bytes": 101179
+    },
+    {
+      "page": "https://cushyfishingcharters.com.au/fishing-charters/",
+      "status": 200,
+      "final_url": "https://cushyfishingcharters.com.au/fishing-charters/",
+      "bytes": 75644
+    },
+    {
+      "page": "https://cushyfishingcharters.com.au/commercial-work/",
+      "status": 200,
+      "final_url": "https://cushyfishingcharters.com.au/commercial-work/",
+      "bytes": 77813
+    },
+    {
+      "page": "https://cushyfishingcharters.com.au/whale-watching/",
+      "status": 200,
+      "final_url": "https://cushyfishingcharters.com.au/whale-watching/",
+      "bytes": 77065
+    },
+    {
+      "page": "https://cushyfishingcharters.com.au/our-boat/",
+      "status": 200,
+      "final_url": "https://cushyfishingcharters.com.au/our-boat/",
+      "bytes": 81732
+    },
+    {
+      "page": "https://cushyfishingcharters.com.au/photo-gallery/",
+      "status": 200,
+      "final_url": "https://cushyfishingcharters.com.au/photo-gallery/",
+      "bytes": 175239
+    },
+    {
+      "page": "https://cushyfishingcharters.com.au/contact-us/",
+      "status": 200,
+      "final_url": "https://cushyfishingcharters.com.au/contact-us/",
+      "bytes": 77099
+    },
+    {
+      "page": "https://cushyfishingcharters.com.au/weather-fishing/",
+      "status": 200,
+      "final_url": "https://cushyfishingcharters.com.au/weather-fishing/",
+      "bytes": 135037
+    },
+    {
+      "page": "https://cushyfishingcharters.com.au/portfolio/fishing-38/",
+      "status": 200,
+      "final_url": "https://cushyfishingcharters.com.au/portfolio/fishing-38/",
+      "bytes": 80097
+    },
+    {
+      "page": "https://cushyfishingcharters.com.au/portfolio/fishing-37/",
+      "status": 200,
+      "final_url": "https://cushyfishingcharters.com.au/portfolio/fishing-37/",
+      "bytes": 80101
+    },
+    {
+      "image": "https://cushyfishingcharters.com.au/wp-content/plugins/revslider/public/assets/assets/dummy.png",
+      "error": "too small 1x1"
+    },
+    {
+      "image": "https://cushyfishingcharters.com.au/wp-content/uploads/bfi_thumb/033-mjn7pknqft975wwcuachdgkekml28cpx3cz05eh66g.jpg",
+      "error": "too small 363x276"
+    },
+    {
+      "image": "https://cushyfishingcharters.com.au/wp-content/uploads/bfi_thumb/0321-mjn7pis2256mioz359j88h1hduubsyigf3o16ujyiw.jpg",
+      "error": "too small 363x276"
+    },
+    {
+      "image": "https://cushyfishingcharters.com.au/wp-content/uploads/bfi_thumb/095-mjn7pxth3hr7ogd8pg19cd8uw0s78465t63sv9xnrc.jpg",
+      "error": "too small 363x276"
+    },
+    {
+      "image": "https://cushyfishingcharters.com.au/wp-content/uploads/bfi_thumb/2005_0612Image0041-mjn7rk3gv7yzoa0l9584myjfpwsyhclip6jwmfj91k.jpg",
+      "error": "too small 363x276"
+    },
+    {
+      "image": "https://cushyfishingcharters.com.au/wp-content/uploads/bfi_thumb/2331-mjn7rrm6dw9a95po18h56wn4gzrw6xfde7rsgn83ns.jpg",
+      "error": "too small 363x276"
+    },
+    {
+      "image": "https://cushyfishingcharters.com.au/wp-content/uploads/2015/12/cushy.png",
+      "error": "too small 402x163"
+    },
+    {
+      "image": "https://cushyfishingcharters.com.au/wp-content/uploads/2015/12/brochure.png",
+      "error": "too small 385x100"
+    },
+    {
+      "image": "https://cushyfishingcharters.com.au/wp-content/uploads/2021/11/commercial-charter-150x150.jpg",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://cushyfishingcharters.com.au/wp-content/uploads/2021/11/commercial-charter-1-150x150.jpg",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://cushyfishingcharters.com.au/wp-content/uploads/2021/11/commercial-charter-2-150x150.jpg",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://cushyfishingcharters.com.au/wp-content/uploads/2021/11/commercial-charter-3-150x150.jpg",
+      "error": "too small 150x150"
+    },
+    {
+      "dup": "https://cushyfishingcharters.com.au/wp-content/uploads/2016/03/DSCF1123.jpg"
+    },
+    {
+      "image": "https://cushyfishingcharters.com.au/wp-content/uploads/2015/12/2331-150x150.jpg",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://cushyfishingcharters.com.au/wp-content/uploads/2015/12/1601-150x150.jpg",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://cushyfishingcharters.com.au/wp-content/uploads/2016/03/DSCF1123-150x150.jpg",
+      "error": "too small 150x150"
+    }
+  ]
+}
