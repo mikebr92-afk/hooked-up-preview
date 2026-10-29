@@ -85,14 +85,43 @@ function extract(html, base) {
   return { priority: clean(priority), found: clean(found) };
 }
 
-function sameSiteLinks(html, base) {
+function sameSiteLinks(html, base, research = false) {
   const origin = new URL(base).origin;
+  const want = research
+    ? /charter|trip|tour|price|pricing|rate|book|boat|vessel|fleet|about|crew|team|faq|fishing|species|contact|gallery/i
+    : /gallery|photo|image|boat|vessel|fleet|catch|fishing|charter|trip|tour|about|crew/i;
   const out = [];
   for (const m of html.matchAll(/<a[^>]+href=["']([^"'#]+)["']/gi)) {
     const u = absolutize(m[1], base);
-    if (u && u.startsWith(origin) && /gallery|photo|image|boat|vessel|fleet|catch|fishing|charter|trip|tour|about|crew/i.test(u) && !/\.(pdf|jpe?g|png)$/i.test(u)) out.push(u.split('#')[0]);
+    if (u && u.startsWith(origin) && want.test(u) && !/\.(pdf|jpe?g|png|webp)$/i.test(u)) out.push(u.split('#')[0]);
   }
   return [...new Set(out)];
+}
+
+// ── page text (for research: read an operator's own trips/prices/boat pages) ─
+const ENT = { amp: '&', nbsp: ' ', quot: '"', apos: "'", lt: '<', gt: '>', rsquo: "'", lsquo: "'", rdquo: '"', ldquo: '"', ndash: '–', mdash: '—', hellip: '…', deg: '°', dollar: '$' };
+function decode(t) {
+  return t.replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(+n)).replace(/&#x([0-9a-f]+);/gi, (_, n) => String.fromCodePoint(parseInt(n, 16)))
+    .replace(/&([a-z]+);/gi, (m, n) => ENT[n.toLowerCase()] ?? m);
+}
+function pageText(html, url) {
+  const title = decode((html.match(/<title[^>]*>([\s\S]*?)<\/title>/i) || [])[1] || '').trim();
+  const desc = decode((html.match(/<meta[^>]+name=["']description["'][^>]*content=["']([^"']*)["']/i) || [])[1] || '');
+  let body = html.replace(/<(script|style|noscript|svg|iframe|template)[\s\S]*?<\/\1>/gi, ' ')
+    .replace(/<br\s*\/?>/gi, '\n').replace(/<\/(p|div|li|h[1-6]|tr|section|article|header|footer|td)>/gi, '\n')
+    .replace(/<li[^>]*>/gi, '• ').replace(/<[^>]+>/g, ' ');
+  body = decode(body).replace(/[ \t ]+/g, ' ').replace(/\n\s*/g, '\n').replace(/\n{3,}/g, '\n\n').trim().slice(0, 45000);
+  const links = [];
+  const seen = new Set();
+  for (const m of html.matchAll(/<a[^>]+href=["']([^"'#][^"']*)["'][^>]*>([\s\S]*?)<\/a>/gi)) {
+    const u = absolutize(m[1], url);
+    if (!u || seen.has(u) || /^(mailto|tel|javascript):/i.test(m[1])) continue;
+    seen.add(u);
+    links.push(`${decode(m[2].replace(/<[^>]+>/g, ' ')).replace(/\s+/g, ' ').trim().slice(0, 80)} -> ${u}`);
+    if (links.length >= 400) break;
+  }
+  const contacts = [...new Set([...html.matchAll(/(?:mailto:|tel:)([^"'>\s]+)/gi)].map((m) => m[0]))].slice(0, 20);
+  return `URL: ${url}\nTITLE: ${title}\nDESCRIPTION: ${desc}\nCONTACT LINKS: ${contacts.join('  ')}\n\n--- TEXT ---\n${body}\n\n--- LINKS ---\n${links.join('\n')}\n`;
 }
 
 // ── image download + validation ──────────────────────────────────────────────
@@ -136,20 +165,24 @@ async function collect(req) {
   const slug = String(req.slug || '').replace(/[^a-z0-9-]/g, '');
   if (!slug) return null;
   const dir = path.join(OUT_ROOT, slug);
-  const hash = crypto.createHash('sha1').update(JSON.stringify({ p: req.pages || [], i: req.images || [], f: !!req.follow, m: req.max || 16 })).digest('hex').slice(0, 12);
+  const research = !!req.text;
+  const max = Math.min(req.max ?? 16, 30); // max 0 = text only, no images
+  const hash = crypto.createHash('sha1').update(JSON.stringify({ p: req.pages || [], i: req.images || [], f: !!req.follow, m: max, t: research })).digest('hex').slice(0, 12);
+  const tdir = path.join('research', slug);
   const idx = path.join(dir, 'index.json');
   if (!req.force && fs.existsSync(idx)) {
     try { if (JSON.parse(fs.readFileSync(idx, 'utf8')).request_hash === hash) return { slug, skipped: true }; } catch {}
   }
   fs.rmSync(dir, { recursive: true, force: true });
   fs.mkdirSync(dir, { recursive: true });
-  const max = Math.min(req.max || 16, 30);
+  if (research) { fs.rmSync(tdir, { recursive: true, force: true }); fs.mkdirSync(tdir, { recursive: true }); }
+  const pageLimit = research ? 12 : 8;
   const log = [];
   const queue = []; // { url, referer, priority, page }
   const pages = [...(req.pages || [])];
   const seenPages = new Set();
 
-  for (let pi = 0; pi < pages.length && seenPages.size < 8; pi++) {
+  for (let pi = 0; pi < pages.length && seenPages.size < pageLimit; pi++) {
     const page = pages[pi];
     if (seenPages.has(page)) continue;
     seenPages.add(page);
@@ -157,12 +190,13 @@ async function collect(req) {
       const res = await get(page);
       const html = await res.text();
       log.push({ page, status: res.status, final_url: res.url, bytes: html.length });
+      if (research) fs.writeFileSync(path.join(tdir, `p${String(seenPages.size).padStart(2, '0')}.txt`), `HTTP ${res.status}\n` + pageText(html, res.url));
       if (!res.ok) continue;
       const { priority, found } = extract(html, res.url);
       for (const u of priority) queue.push({ url: u, referer: res.url, priority: true, page });
       for (const u of found) queue.push({ url: u, referer: res.url, priority: false, page });
       if (req.follow !== false && pi < (req.pages || []).length) {
-        for (const l of sameSiteLinks(html, res.url).slice(0, 6)) if (!pages.includes(l)) pages.push(l);
+        for (const l of sameSiteLinks(html, res.url, research).slice(0, research ? 10 : 6)) if (!pages.includes(l)) pages.push(l);
       }
     } catch (e) { log.push({ page, error: String(e.message || e) }); }
   }
