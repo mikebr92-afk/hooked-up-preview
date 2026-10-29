@@ -1,0 +1,24 @@
+{
+ "requests": [
+  {
+   "slug": "wildside-sportfishing",
+   "pages": [
+    "http://www.wildsidesportfishing.com/",
+    "https://wildsidesportfishing.com/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "kcs-fishing-charters",
+   "pages": [
+    "https://www.kcsfishingcharters.com.au/",
+    "http://kcsfishingcharters.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  }
+ ]
+}
