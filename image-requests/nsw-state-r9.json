@@ -1,0 +1,17 @@
+{
+ "requests": [
+  {
+   "slug": "research-r9",
+   "pages": [
+    "https://www.visitnsw.com/destinations/north-coast/clarence-valley/wooli/attractions/solitary-island-fishing-charters",
+    "https://www.nsw.gov.au/visiting-and-exploring-nsw/locations-and-attractions/solitary-island-fishing-charters",
+    "https://r.jina.ai/https://fishabout.com.au/sydney/",
+    "https://r.jina.ai/https://cronullareeffishingcharters.rezdy.com/539770/full-day-reef-and-sport-fishing",
+    "https://r.jina.ai/https://cronullareeffishingcharters.rezdy.com/537983/full-day-reef-and-sport-fishing-for-individuals"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  }
+ ]
+}
