@@ -1,0 +1,8 @@
+{"requests":[
+{"slug":"reef-fish-and-dive-1770-b","pages":["https://www.reeffishanddive1770.com.au/","http://reeffishanddive1770.com.au/","http://www.reeffishanddive1770.com.au/charters"],"text":true,"max":16,"follow":true},
+{"slug":"boobybird-charters","pages":["https://www.boobybird.com.au/home.html"],"text":true,"max":16,"follow":true},
+{"slug":"mv-night-crossing-img","pages":["https://nightcrossing.com.au/gallery/","https://nightcrossing.com.au/"],"text":false,"max":16,"follow":true,"force":true},
+{"slug":"research-mikat-extra","pages":["https://www.vesselfinder.com/vessels/details/503121910","http://www.mikat.com.au/","http://www.mikat.com.au/general-information/"],"text":true,"max":0,"follow":false},
+{"slug":"research-gladstone-facts","pages":["https://easternvoyager.com.au/action-packed-reef-charter-trips-from-gladstone/","https://www.smarterfishingcharters.com.au/charters/details/99"],"text":true,"max":0,"follow":false},
+{"slug":"hooked-on-1770-img","pages":["https://www.1770tours.com/Photo%20Album.html","https://www.1770tours.com/our%20vessel.html"],"images":["https://www.1770tours.com/Library/01%20005.jpg","https://www.1770tours.com/Library/01%20010.jpg","https://www.1770tours.com/Library/01%20006.jpg","https://www.1770tours.com/Library/Black%20Marlin.jpg","https://www.1770tours.com/Library/Vessel-Rocks.jpg"],"text":false,"max":16,"follow":false}
+]}
