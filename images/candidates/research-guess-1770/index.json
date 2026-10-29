@@ -1,0 +1,35 @@
+{
+  "slug": "research-guess-1770",
+  "request_hash": "7f6f12f68758",
+  "collected_at": "2026-10-29T19:23:30.321Z",
+  "pages_fetched": [
+    "https://www.hookedon1770.com.au/",
+    "https://hookedon1770.com/",
+    "https://www.fishingoffshore1770.com.au/",
+    "https://www.mvjamescook.com.au/",
+    "https://www.1770fishingcharters.com.au/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.hookedon1770.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://hookedon1770.com/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://www.fishingoffshore1770.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://www.mvjamescook.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://www.1770fishingcharters.com.au/",
+      "error": "fetch failed"
+    }
+  ]
+}

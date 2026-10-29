@@ -1,0 +1,24 @@
+{
+  "slug": "mikat-recheck",
+  "request_hash": "06a597193f69",
+  "collected_at": "2026-10-29T19:23:55.104Z",
+  "pages_fetched": [
+    "https://mikatcharters.com.au/",
+    "https://www.facebook.com/mikatcruises/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://mikatcharters.com.au/",
+      "status": 202,
+      "final_url": "https://mikatcharters.com.au/",
+      "bytes": 168
+    },
+    {
+      "page": "https://www.facebook.com/mikatcruises/",
+      "status": 400,
+      "final_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fmikatcruises%2F",
+      "bytes": 1542
+    }
+  ]
+}

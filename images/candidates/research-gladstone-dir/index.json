@@ -1,0 +1,45 @@
+{
+  "slug": "research-gladstone-dir",
+  "request_hash": "9ee2b0229e05",
+  "collected_at": "2026-10-29T19:23:53.944Z",
+  "pages_fetched": [
+    "https://localsearch.com.au/find/fishing-trips-charters/central-queensland-qld",
+    "https://localsearch.com.au/find/fishing-trips-charters/boyne-island-qld",
+    "https://playsport.com/mvnightcrossing_ag_0e98db1e",
+    "https://outdoorsqueensland.com.au/?p=29602",
+    "https://www.inkl.com/news/crewman-still-missing-from-charter-boat-off-central-queensland"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://localsearch.com.au/find/fishing-trips-charters/central-queensland-qld",
+      "status": 405,
+      "final_url": "https://www.localsearch.com.au/find/fishing-trips-charters/central-queensland-qld",
+      "bytes": 2503
+    },
+    {
+      "page": "https://localsearch.com.au/find/fishing-trips-charters/boyne-island-qld",
+      "status": 405,
+      "final_url": "https://www.localsearch.com.au/find/fishing-trips-charters/boyne-island-qld",
+      "bytes": 2503
+    },
+    {
+      "page": "https://playsport.com/mvnightcrossing_ag_0e98db1e",
+      "status": 200,
+      "final_url": "https://playsport.com/mvnightcrossing_ag_0e98db1e",
+      "bytes": 277497
+    },
+    {
+      "page": "https://outdoorsqueensland.com.au/?p=29602",
+      "status": 404,
+      "final_url": "https://outdoorsqueensland.com.au/?p=29602",
+      "bytes": 244011
+    },
+    {
+      "page": "https://www.inkl.com/news/crewman-still-missing-from-charter-boat-off-central-queensland",
+      "status": 403,
+      "final_url": "https://www.inkl.com/news/crewman-still-missing-from-charter-boat-off-central-queensland",
+      "bytes": 6019
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "reef-fishing-charters-1770",
+  "request_hash": "b33b4073ff2b",
+  "collected_at": "2026-10-29T19:23:29.758Z",
+  "pages_fetched": [
+    "https://reeffishingcharters.com.au/",
+    "https://www.boatsonline.com.au/boats-for-sale/used/commercial-vessel/noosa-cat-3100-sports-cruiser/303292"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://reeffishingcharters.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://www.boatsonline.com.au/boats-for-sale/used/commercial-vessel/noosa-cat-3100-sports-cruiser/303292",
+      "status": 403,
+      "final_url": "https://www.boatsonline.com.au/boats-for-sale/used/commercial-vessel/noosa-cat-3100-sports-cruiser/303292",
+      "bytes": 6072
+    }
+  ]
+}

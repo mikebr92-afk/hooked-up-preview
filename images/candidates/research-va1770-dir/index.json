@@ -1,0 +1,52 @@
+{
+  "slug": "research-va1770-dir",
+  "request_hash": "ad56ef9e2af7",
+  "collected_at": "2026-10-29T19:23:51.258Z",
+  "pages_fetched": [
+    "https://www.visitagnes1770.com.au/places/tags/on-water/",
+    "https://www.visitagnes1770.com.au/category/fishing-1/",
+    "https://www.visitagnes1770.com.au/places/1770-creek2reef-fishing-charters/",
+    "https://www.visitagnes1770.com.au/how-to-get-to-agnes-water-1770/",
+    "https://www.visitagnes1770.com.au/fishing/",
+    "https://www.visitagnes1770.com.au/home/fishing/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.visitagnes1770.com.au/places/tags/on-water/",
+      "status": 200,
+      "final_url": "https://www.visitagnes1770.com.au/places/tags/on-water/",
+      "bytes": 426601
+    },
+    {
+      "page": "https://www.visitagnes1770.com.au/category/fishing-1/",
+      "status": 200,
+      "final_url": "https://www.visitagnes1770.com.au/category/fishing-1/",
+      "bytes": 377142
+    },
+    {
+      "page": "https://www.visitagnes1770.com.au/places/1770-creek2reef-fishing-charters/",
+      "status": 404,
+      "final_url": "https://www.visitagnes1770.com.au/places/1770-creek2reef-fishing-charters/",
+      "bytes": 358605
+    },
+    {
+      "page": "https://www.visitagnes1770.com.au/how-to-get-to-agnes-water-1770/",
+      "status": 404,
+      "final_url": "https://www.visitagnes1770.com.au/how-to-get-to-agnes-water-1770/",
+      "bytes": 358206
+    },
+    {
+      "page": "https://www.visitagnes1770.com.au/fishing/",
+      "status": 200,
+      "final_url": "https://www.visitagnes1770.com.au/places/category/fishing-1770/",
+      "bytes": 378115
+    },
+    {
+      "page": "https://www.visitagnes1770.com.au/home/fishing/",
+      "status": 200,
+      "final_url": "https://www.visitagnes1770.com.au/places/category/fishing-1770/",
+      "bytes": 378115
+    }
+  ]
+}
