@@ -1,0 +1,73 @@
+{
+  "slug": "seo-yamba-fishing-and-charters",
+  "request_hash": "66d4ce474b9f",
+  "collected_at": "2026-10-29T19:54:59.964Z",
+  "pages_fetched": [
+    "https://www.yambafishingandcharters.com.au/",
+    "https://www.yambafishingandcharters.com.au/faq",
+    "https://www.yambafishingandcharters.com.au/book-online",
+    "https://www.yambafishingandcharters.com.au/what-do-i-need-to-bring",
+    "https://www.yambafishingandcharters.com.au/terms-and-conditions",
+    "https://www.yambafishingandcharters.com.au/covid-19-restrictions",
+    "https://www.yambafishingandcharters.com.au/services",
+    "https://www.yambafishingandcharters.com.au/shop",
+    "https://www.yambafishingandcharters.com.au/gift-card"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.yambafishingandcharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.yambafishingandcharters.com.au/",
+      "bytes": 737859
+    },
+    {
+      "page": "https://www.yambafishingandcharters.com.au/faq",
+      "status": 200,
+      "final_url": "https://www.yambafishingandcharters.com.au/faq",
+      "bytes": 632328
+    },
+    {
+      "page": "https://www.yambafishingandcharters.com.au/book-online",
+      "status": 200,
+      "final_url": "https://www.yambafishingandcharters.com.au/book-online",
+      "bytes": 897034
+    },
+    {
+      "page": "https://www.yambafishingandcharters.com.au/what-do-i-need-to-bring",
+      "status": 200,
+      "final_url": "https://www.yambafishingandcharters.com.au/what-do-i-need-to-bring",
+      "bytes": 629746
+    },
+    {
+      "page": "https://www.yambafishingandcharters.com.au/terms-and-conditions",
+      "status": 200,
+      "final_url": "https://www.yambafishingandcharters.com.au/terms-and-conditions",
+      "bytes": 630607
+    },
+    {
+      "page": "https://www.yambafishingandcharters.com.au/covid-19-restrictions",
+      "status": 200,
+      "final_url": "https://www.yambafishingandcharters.com.au/covid-19-restrictions",
+      "bytes": 633159
+    },
+    {
+      "page": "https://www.yambafishingandcharters.com.au/services",
+      "status": 200,
+      "final_url": "https://www.yambafishingandcharters.com.au/services",
+      "bytes": 636335
+    },
+    {
+      "page": "https://www.yambafishingandcharters.com.au/shop",
+      "status": 200,
+      "final_url": "https://www.yambafishingandcharters.com.au/shop",
+      "bytes": 1121693
+    },
+    {
+      "page": "https://www.yambafishingandcharters.com.au/gift-card",
+      "status": 200,
+      "final_url": "https://www.yambafishingandcharters.com.au/gift-card",
+      "bytes": 1376994
+    }
+  ]
+}

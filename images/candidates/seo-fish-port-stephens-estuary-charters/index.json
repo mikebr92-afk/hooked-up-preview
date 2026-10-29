@@ -1,0 +1,80 @@
+{
+  "slug": "seo-fish-port-stephens-estuary-charters",
+  "request_hash": "eef329548c33",
+  "collected_at": "2026-10-29T19:53:42.168Z",
+  "pages_fetched": [
+    "https://fishportstephensestuarycharters.com/",
+    "https://fishportstephensestuarycharters.com/new/",
+    "https://fishportstephensestuarycharters.com/the-boat/",
+    "https://fishportstephensestuarycharters.com/my-blog/",
+    "https://fishportstephensestuarycharters.com/contact-us/",
+    "https://fishportstephensestuarycharters.com/gallery/",
+    "https://fishportstephensestuarycharters.com/links-2/",
+    "https://fishportstephensestuarycharters.com/projects/fish-port-stephens-estuary-charters-6/",
+    "https://fishportstephensestuarycharters.com/projects/fish-port-stephens-estuary-charters-5/",
+    "https://fishportstephensestuarycharters.com/projects/fish-port-stephens-estuary-charters-4/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://fishportstephensestuarycharters.com/",
+      "status": 200,
+      "final_url": "https://fishportstephensestuarycharters.com/",
+      "bytes": 121461
+    },
+    {
+      "page": "https://fishportstephensestuarycharters.com/new/",
+      "status": 200,
+      "final_url": "https://fishportstephensestuarycharters.com/new/",
+      "bytes": 73287
+    },
+    {
+      "page": "https://fishportstephensestuarycharters.com/the-boat/",
+      "status": 200,
+      "final_url": "https://fishportstephensestuarycharters.com/the-boat/",
+      "bytes": 60154
+    },
+    {
+      "page": "https://fishportstephensestuarycharters.com/my-blog/",
+      "status": 200,
+      "final_url": "https://fishportstephensestuarycharters.com/my-blog/",
+      "bytes": 119235
+    },
+    {
+      "page": "https://fishportstephensestuarycharters.com/contact-us/",
+      "status": 200,
+      "final_url": "https://fishportstephensestuarycharters.com/contact-us/",
+      "bytes": 62860
+    },
+    {
+      "page": "https://fishportstephensestuarycharters.com/gallery/",
+      "status": 200,
+      "final_url": "https://fishportstephensestuarycharters.com/gallery/",
+      "bytes": 95822
+    },
+    {
+      "page": "https://fishportstephensestuarycharters.com/links-2/",
+      "status": 200,
+      "final_url": "https://fishportstephensestuarycharters.com/links-2/",
+      "bytes": 57726
+    },
+    {
+      "page": "https://fishportstephensestuarycharters.com/projects/fish-port-stephens-estuary-charters-6/",
+      "status": 200,
+      "final_url": "https://fishportstephensestuarycharters.com/projects/fish-port-stephens-estuary-charters-6/",
+      "bytes": 55495
+    },
+    {
+      "page": "https://fishportstephensestuarycharters.com/projects/fish-port-stephens-estuary-charters-5/",
+      "status": 200,
+      "final_url": "https://fishportstephensestuarycharters.com/projects/fish-port-stephens-estuary-charters-5/",
+      "bytes": 55490
+    },
+    {
+      "page": "https://fishportstephensestuarycharters.com/projects/fish-port-stephens-estuary-charters-4/",
+      "status": 200,
+      "final_url": "https://fishportstephensestuarycharters.com/projects/fish-port-stephens-estuary-charters-4/",
+      "bytes": 55486
+    }
+  ]
+}

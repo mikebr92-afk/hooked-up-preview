@@ -1,0 +1,17 @@
+{
+  "slug": "seo-wildside-sportfishing-ext",
+  "request_hash": "4a97875a3ec5",
+  "collected_at": "2026-10-29T19:55:24.700Z",
+  "pages_fetched": [
+    "https://macleayvalleycoast.com.au/tours/wildside-sportfishing/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://macleayvalleycoast.com.au/tours/wildside-sportfishing/",
+      "status": 200,
+      "final_url": "https://macleayvalleycoast.com.au/tours/wildside-sportfishing/",
+      "bytes": 359168
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "seo-coffs-harbour-fishing-charters-ext",
+  "request_hash": "df3efe145182",
+  "collected_at": "2026-10-29T19:55:02.908Z",
+  "pages_fetched": [
+    "https://coffsharbourfishing.rezdy.com/",
+    "https://www.coffscoast.com.au/article/fishing-on-the-coffs-coast/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://coffsharbourfishing.rezdy.com/",
+      "status": 403,
+      "final_url": "https://coffsharbourfishing.rezdy.com/",
+      "bytes": 5187
+    },
+    {
+      "page": "https://www.coffscoast.com.au/article/fishing-on-the-coffs-coast/",
+      "status": 200,
+      "final_url": "https://www.coffscoast.com.au/article/fishing-on-the-coffs-coast/",
+      "bytes": 193755
+    }
+  ]
+}

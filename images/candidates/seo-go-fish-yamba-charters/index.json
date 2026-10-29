@@ -1,0 +1,52 @@
+{
+  "slug": "seo-go-fish-yamba-charters",
+  "request_hash": "63b0978587c0",
+  "collected_at": "2026-10-29T19:54:50.864Z",
+  "pages_fetched": [
+    "https://www.gofishyamba.com.au/",
+    "https://www.gofishyamba.com.au/about",
+    "https://www.gofishyamba.com.au/our-team",
+    "https://www.gofishyamba.com.au/trip-pricings",
+    "https://www.gofishyamba.com.au/faqs",
+    "https://www.gofishyamba.com.au/contact"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.gofishyamba.com.au/",
+      "status": 200,
+      "final_url": "https://www.gofishyamba.com.au/",
+      "bytes": 302935
+    },
+    {
+      "page": "https://www.gofishyamba.com.au/about",
+      "status": 200,
+      "final_url": "https://www.gofishyamba.com.au/about",
+      "bytes": 251800
+    },
+    {
+      "page": "https://www.gofishyamba.com.au/our-team",
+      "status": 200,
+      "final_url": "https://www.gofishyamba.com.au/our-team",
+      "bytes": 213037
+    },
+    {
+      "page": "https://www.gofishyamba.com.au/trip-pricings",
+      "status": 200,
+      "final_url": "https://www.gofishyamba.com.au/trip-pricings",
+      "bytes": 167606
+    },
+    {
+      "page": "https://www.gofishyamba.com.au/faqs",
+      "status": 200,
+      "final_url": "https://www.gofishyamba.com.au/faqs",
+      "bytes": 351878
+    },
+    {
+      "page": "https://www.gofishyamba.com.au/contact",
+      "status": 200,
+      "final_url": "https://www.gofishyamba.com.au/contact",
+      "bytes": 281045
+    }
+  ]
+}

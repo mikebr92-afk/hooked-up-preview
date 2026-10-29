@@ -1,0 +1,80 @@
+{
+  "slug": "seo-cushy-fishing-charters",
+  "request_hash": "999dbe15d21f",
+  "collected_at": "2026-10-29T19:54:48.349Z",
+  "pages_fetched": [
+    "https://cushyfishingcharters.com.au/",
+    "https://cushyfishingcharters.com.au/fishing-charters/",
+    "https://cushyfishingcharters.com.au/our-boat/",
+    "https://cushyfishingcharters.com.au/contact-us/",
+    "https://cushyfishingcharters.com.au/commercial-work/",
+    "https://cushyfishingcharters.com.au/whale-watching/",
+    "https://cushyfishingcharters.com.au/photo-gallery/",
+    "https://cushyfishingcharters.com.au/weather-fishing/",
+    "https://cushyfishingcharters.com.au/portfolio/fishing-38/",
+    "https://cushyfishingcharters.com.au/portfolio/fishing-37/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://cushyfishingcharters.com.au/",
+      "status": 200,
+      "final_url": "https://cushyfishingcharters.com.au/",
+      "bytes": 101179
+    },
+    {
+      "page": "https://cushyfishingcharters.com.au/fishing-charters/",
+      "status": 200,
+      "final_url": "https://cushyfishingcharters.com.au/fishing-charters/",
+      "bytes": 75644
+    },
+    {
+      "page": "https://cushyfishingcharters.com.au/our-boat/",
+      "status": 200,
+      "final_url": "https://cushyfishingcharters.com.au/our-boat/",
+      "bytes": 81732
+    },
+    {
+      "page": "https://cushyfishingcharters.com.au/contact-us/",
+      "status": 200,
+      "final_url": "https://cushyfishingcharters.com.au/contact-us/",
+      "bytes": 77100
+    },
+    {
+      "page": "https://cushyfishingcharters.com.au/commercial-work/",
+      "status": 200,
+      "final_url": "https://cushyfishingcharters.com.au/commercial-work/",
+      "bytes": 77813
+    },
+    {
+      "page": "https://cushyfishingcharters.com.au/whale-watching/",
+      "status": 200,
+      "final_url": "https://cushyfishingcharters.com.au/whale-watching/",
+      "bytes": 77065
+    },
+    {
+      "page": "https://cushyfishingcharters.com.au/photo-gallery/",
+      "status": 200,
+      "final_url": "https://cushyfishingcharters.com.au/photo-gallery/",
+      "bytes": 175239
+    },
+    {
+      "page": "https://cushyfishingcharters.com.au/weather-fishing/",
+      "status": 200,
+      "final_url": "https://cushyfishingcharters.com.au/weather-fishing/",
+      "bytes": 135037
+    },
+    {
+      "page": "https://cushyfishingcharters.com.au/portfolio/fishing-38/",
+      "status": 200,
+      "final_url": "https://cushyfishingcharters.com.au/portfolio/fishing-38/",
+      "bytes": 80097
+    },
+    {
+      "page": "https://cushyfishingcharters.com.au/portfolio/fishing-37/",
+      "status": 200,
+      "final_url": "https://cushyfishingcharters.com.au/portfolio/fishing-37/",
+      "bytes": 80101
+    }
+  ]
+}

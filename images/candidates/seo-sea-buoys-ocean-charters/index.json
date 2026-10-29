@@ -1,0 +1,52 @@
+{
+  "slug": "seo-sea-buoys-ocean-charters",
+  "request_hash": "624e8d09abc1",
+  "collected_at": "2026-10-29T19:53:00.362Z",
+  "pages_fetched": [
+    "https://seabuoys.com.au/",
+    "https://seabuoys.com.au/offshore-fishing/",
+    "https://seabuoys.com.au/day-fishing-lord-howe-island/",
+    "https://seabuoys.com.au/about/",
+    "https://seabuoys.com.au/faqs/",
+    "https://seabuoys.com.au/contact/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://seabuoys.com.au/",
+      "status": 200,
+      "final_url": "https://seabuoys.com.au/",
+      "bytes": 193092
+    },
+    {
+      "page": "https://seabuoys.com.au/offshore-fishing/",
+      "status": 200,
+      "final_url": "https://seabuoys.com.au/offshore-fishing/",
+      "bytes": 119661
+    },
+    {
+      "page": "https://seabuoys.com.au/day-fishing-lord-howe-island/",
+      "status": 200,
+      "final_url": "https://seabuoys.com.au/day-fishing-lord-howe-island/",
+      "bytes": 113040
+    },
+    {
+      "page": "https://seabuoys.com.au/about/",
+      "status": 200,
+      "final_url": "https://seabuoys.com.au/about/",
+      "bytes": 114488
+    },
+    {
+      "page": "https://seabuoys.com.au/faqs/",
+      "status": 200,
+      "final_url": "https://seabuoys.com.au/faqs/",
+      "bytes": 110048
+    },
+    {
+      "page": "https://seabuoys.com.au/contact/",
+      "status": 200,
+      "final_url": "https://seabuoys.com.au/contact/",
+      "bytes": 138310
+    }
+  ]
+}

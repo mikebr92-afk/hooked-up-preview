@@ -1,0 +1,66 @@
+{
+  "slug": "seo-port-macquarie-fishing-charters",
+  "request_hash": "1dfda7176c5c",
+  "collected_at": "2026-10-29T19:53:33.670Z",
+  "pages_fetched": [
+    "https://www.portmacquariefishingcharters.com.au/",
+    "https://www.portmacquariefishingcharters.com.au/port-macquarie-deep-sea-fishing-charter-boats-port-macquarie/",
+    "https://www.portmacquariefishingcharters.com.au/the-crew-on-port-macquarie-fishing-charters-ocean-star/",
+    "https://www.portmacquariefishingcharters.com.au/port-macquarie-fishing-on-ocean-star-contact/",
+    "https://www.portmacquariefishingcharters.com.au/port-macquarie-fishing-information-holidays-charter-boat-port-macquarie-fishing-charters/",
+    "https://www.portmacquariefishingcharters.com.au/port-macquarie-fishing-charters-video-and-photo-gallery/",
+    "https://www.portmacquariefishingcharters.com.au/port-macquarie-fishing-information-and-website-links/",
+    "https://www.portmacquariefishingcharters.com.au/reviews-for-port-macquarie-fishing-charters-from-tripadvisor-facebook-google/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.portmacquariefishingcharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.portmacquariefishingcharters.com.au/",
+      "bytes": 59107
+    },
+    {
+      "page": "https://www.portmacquariefishingcharters.com.au/port-macquarie-deep-sea-fishing-charter-boats-port-macquarie/",
+      "status": 200,
+      "final_url": "https://www.portmacquariefishingcharters.com.au/port-macquarie-deep-sea-fishing-charter-boats-port-macquarie/",
+      "bytes": 89520
+    },
+    {
+      "page": "https://www.portmacquariefishingcharters.com.au/the-crew-on-port-macquarie-fishing-charters-ocean-star/",
+      "status": 200,
+      "final_url": "https://www.portmacquariefishingcharters.com.au/the-crew-on-port-macquarie-fishing-charters-ocean-star/",
+      "bytes": 50806
+    },
+    {
+      "page": "https://www.portmacquariefishingcharters.com.au/port-macquarie-fishing-on-ocean-star-contact/",
+      "status": 200,
+      "final_url": "https://www.portmacquariefishingcharters.com.au/port-macquarie-fishing-on-ocean-star-contact/",
+      "bytes": 45959
+    },
+    {
+      "page": "https://www.portmacquariefishingcharters.com.au/port-macquarie-fishing-information-holidays-charter-boat-port-macquarie-fishing-charters/",
+      "status": 200,
+      "final_url": "https://www.portmacquariefishingcharters.com.au/port-macquarie-fishing-information-holidays-charter-boat-port-macquarie-fishing-charters/",
+      "bytes": 65967
+    },
+    {
+      "page": "https://www.portmacquariefishingcharters.com.au/port-macquarie-fishing-charters-video-and-photo-gallery/",
+      "status": 200,
+      "final_url": "https://www.portmacquariefishingcharters.com.au/port-macquarie-fishing-charters-video-and-photo-gallery/",
+      "bytes": 85295
+    },
+    {
+      "page": "https://www.portmacquariefishingcharters.com.au/port-macquarie-fishing-information-and-website-links/",
+      "status": 200,
+      "final_url": "https://www.portmacquariefishingcharters.com.au/port-macquarie-fishing-information-and-website-links/",
+      "bytes": 54939
+    },
+    {
+      "page": "https://www.portmacquariefishingcharters.com.au/reviews-for-port-macquarie-fishing-charters-from-tripadvisor-facebook-google/",
+      "status": 200,
+      "final_url": "https://www.portmacquariefishingcharters.com.au/reviews-for-port-macquarie-fishing-charters-from-tripadvisor-facebook-google/",
+      "bytes": 91683
+    }
+  ]
+}

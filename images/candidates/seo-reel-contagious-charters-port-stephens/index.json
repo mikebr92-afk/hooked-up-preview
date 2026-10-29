@@ -1,0 +1,45 @@
+{
+  "slug": "seo-reel-contagious-charters-port-stephens",
+  "request_hash": "7e45549b3434",
+  "collected_at": "2026-10-29T19:54:01.866Z",
+  "pages_fetched": [
+    "https://www.reelcontagiouscharters.com.au/",
+    "https://www.reelcontagiouscharters.com.au/charters/",
+    "https://www.reelcontagiouscharters.com.au/contact-us/",
+    "https://www.reelcontagiouscharters.com.au/raizem-marlin-teasers/",
+    "https://www.reelcontagiouscharters.com.au/gallery/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.reelcontagiouscharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.reelcontagiouscharters.com.au/",
+      "bytes": 68250
+    },
+    {
+      "page": "https://www.reelcontagiouscharters.com.au/charters/",
+      "status": 200,
+      "final_url": "https://www.reelcontagiouscharters.com.au/charters/",
+      "bytes": 75256
+    },
+    {
+      "page": "https://www.reelcontagiouscharters.com.au/contact-us/",
+      "status": 200,
+      "final_url": "https://www.reelcontagiouscharters.com.au/contact-us/",
+      "bytes": 55746
+    },
+    {
+      "page": "https://www.reelcontagiouscharters.com.au/raizem-marlin-teasers/",
+      "status": 200,
+      "final_url": "https://www.reelcontagiouscharters.com.au/raizem-marlin-teasers/",
+      "bytes": 62480
+    },
+    {
+      "page": "https://www.reelcontagiouscharters.com.au/gallery/",
+      "status": 200,
+      "final_url": "https://www.reelcontagiouscharters.com.au/gallery/",
+      "bytes": 108836
+    }
+  ]
+}

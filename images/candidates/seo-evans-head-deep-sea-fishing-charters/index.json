@@ -1,0 +1,59 @@
+{
+  "slug": "seo-evans-head-deep-sea-fishing-charters",
+  "request_hash": "b92b711c6748",
+  "collected_at": "2026-10-29T19:52:22.225Z",
+  "pages_fetched": [
+    "https://www.evansheadfishingcharters.com.au/",
+    "https://www.evansheadfishingcharters.com.au/about-us/",
+    "https://www.evansheadfishingcharters.com.au/fishing-charter-prices/",
+    "https://www.evansheadfishingcharters.com.au/fishing-photos/",
+    "https://www.evansheadfishingcharters.com.au/contact-us/",
+    "https://www.evansheadfishingcharters.com.au/contact-us",
+    "https://www.evansheadfishingcharters.com.au/ts-cs/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.evansheadfishingcharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.evansheadfishingcharters.com.au/",
+      "bytes": 60408
+    },
+    {
+      "page": "https://www.evansheadfishingcharters.com.au/about-us/",
+      "status": 200,
+      "final_url": "https://www.evansheadfishingcharters.com.au/about-us/",
+      "bytes": 69892
+    },
+    {
+      "page": "https://www.evansheadfishingcharters.com.au/fishing-charter-prices/",
+      "status": 200,
+      "final_url": "https://www.evansheadfishingcharters.com.au/fishing-charter-prices/",
+      "bytes": 71752
+    },
+    {
+      "page": "https://www.evansheadfishingcharters.com.au/fishing-photos/",
+      "status": 200,
+      "final_url": "https://www.evansheadfishingcharters.com.au/fishing-photos/",
+      "bytes": 97197
+    },
+    {
+      "page": "https://www.evansheadfishingcharters.com.au/contact-us/",
+      "status": 200,
+      "final_url": "https://www.evansheadfishingcharters.com.au/contact-us/",
+      "bytes": 69349
+    },
+    {
+      "page": "https://www.evansheadfishingcharters.com.au/contact-us",
+      "status": 200,
+      "final_url": "https://www.evansheadfishingcharters.com.au/contact-us/",
+      "bytes": 69349
+    },
+    {
+      "page": "https://www.evansheadfishingcharters.com.au/ts-cs/",
+      "status": 200,
+      "final_url": "https://www.evansheadfishingcharters.com.au/ts-cs/",
+      "bytes": 69226
+    }
+  ]
+}

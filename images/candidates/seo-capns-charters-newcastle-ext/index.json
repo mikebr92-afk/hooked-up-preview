@@ -1,0 +1,17 @@
+{
+  "slug": "seo-capns-charters-newcastle-ext",
+  "request_hash": "5a9036ab2f66",
+  "collected_at": "2026-10-29T19:55:15.297Z",
+  "pages_fetched": [
+    "https://www.poyst.com/business/capns-charters-newcastle"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.poyst.com/business/capns-charters-newcastle",
+      "status": 200,
+      "final_url": "https://www.poyst.com/business/capns-charters-newcastle",
+      "bytes": 333801
+    }
+  ]
+}

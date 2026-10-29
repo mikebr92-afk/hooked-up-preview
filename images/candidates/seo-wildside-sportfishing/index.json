@@ -1,0 +1,78 @@
+{
+  "slug": "seo-wildside-sportfishing",
+  "request_hash": "2433aa802066",
+  "collected_at": "2026-10-29T19:54:40.692Z",
+  "pages_fetched": [
+    "https://www.wildsidesportfishing.com/",
+    "https://www.wildsidesportfishing.com/about/",
+    "https://www.wildsidesportfishing.com/fishing-charters-tours/",
+    "https://www.wildsidesportfishing.com/offshore-fishing-charters-south-west-rocks/",
+    "https://www.wildsidesportfishing.com/game-fishing/",
+    "https://www.wildsidesportfishing.com/fishing-charters-tours/frequently-asked-questions-about-wildside-sportfishing/",
+    "https://www.wildsidesportfishing.com/about/fish-species-we-catch/",
+    "https://www.wildsidesportfishing.com/fishing-tackle/",
+    "https://www.wildsidesportfishing.com/about/sustainability/",
+    "https://www.wildsidesportfishing.com/fishing-locations/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.wildsidesportfishing.com/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://www.wildsidesportfishing.com/about/",
+      "status": 200,
+      "final_url": "https://www.wildsidesportfishing.com/about/",
+      "bytes": 99553
+    },
+    {
+      "page": "https://www.wildsidesportfishing.com/fishing-charters-tours/",
+      "status": 200,
+      "final_url": "https://www.wildsidesportfishing.com/fishing-charters-tours/",
+      "bytes": 76115
+    },
+    {
+      "page": "https://www.wildsidesportfishing.com/offshore-fishing-charters-south-west-rocks/",
+      "status": 200,
+      "final_url": "https://www.wildsidesportfishing.com/offshore-fishing-charters-south-west-rocks/",
+      "bytes": 99051
+    },
+    {
+      "page": "https://www.wildsidesportfishing.com/game-fishing/",
+      "status": 200,
+      "final_url": "https://www.wildsidesportfishing.com/game-fishing/",
+      "bytes": 99084
+    },
+    {
+      "page": "https://www.wildsidesportfishing.com/fishing-charters-tours/frequently-asked-questions-about-wildside-sportfishing/",
+      "status": 200,
+      "final_url": "https://www.wildsidesportfishing.com/fishing-charters-tours/frequently-asked-questions-about-wildside-sportfishing/",
+      "bytes": 76880
+    },
+    {
+      "page": "https://www.wildsidesportfishing.com/about/fish-species-we-catch/",
+      "status": 200,
+      "final_url": "https://www.wildsidesportfishing.com/about/fish-species-we-catch/",
+      "bytes": 104479
+    },
+    {
+      "page": "https://www.wildsidesportfishing.com/fishing-tackle/",
+      "status": 200,
+      "final_url": "https://www.wildsidesportfishing.com/fishing-tackle/",
+      "bytes": 83496
+    },
+    {
+      "page": "https://www.wildsidesportfishing.com/about/sustainability/",
+      "status": 200,
+      "final_url": "https://www.wildsidesportfishing.com/about/sustainability/",
+      "bytes": 69481
+    },
+    {
+      "page": "https://www.wildsidesportfishing.com/fishing-locations/",
+      "status": 200,
+      "final_url": "https://www.wildsidesportfishing.com/fishing-locations/",
+      "bytes": 91667
+    }
+  ]
+}

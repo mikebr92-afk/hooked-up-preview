@@ -1,0 +1,24 @@
+{
+  "slug": "seo-terrigal-fishing-tours-ext",
+  "request_hash": "96b1324d6d17",
+  "collected_at": "2026-10-29T19:55:01.745Z",
+  "pages_fetched": [
+    "https://terrigaltours.rezdy.com/catalog/488049/tft",
+    "https://www.visitnsw.com/things-to-do/tours/terrigal-fishing-tours"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://terrigaltours.rezdy.com/catalog/488049/tft",
+      "status": 403,
+      "final_url": "https://terrigaltours.rezdy.com/catalog/488049/tft",
+      "bytes": 5187
+    },
+    {
+      "page": "https://www.visitnsw.com/things-to-do/tours/terrigal-fishing-tours",
+      "status": 200,
+      "final_url": "https://www.visitnsw.com/things-to-do/tours/terrigal-fishing-tours",
+      "bytes": 218443
+    }
+  ]
+}

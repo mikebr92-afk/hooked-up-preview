@@ -1,0 +1,80 @@
+{
+  "slug": "seo-byron-bay-charters",
+  "request_hash": "4dd9bb001fb7",
+  "collected_at": "2026-10-29T19:52:11.355Z",
+  "pages_fetched": [
+    "https://byronbaycharters.com.au/",
+    "https://byronbaycharters.com.au/about/",
+    "https://byronbaycharters.com.au/pricelist/",
+    "https://byronbaycharters.com.au/fishing-charters/",
+    "https://byronbaycharters.com.au/news/",
+    "https://byronbaycharters.com.au/charters/",
+    "https://byronbaycharters.com.au/whale-watching/",
+    "https://byronbaycharters.com.au/humpback-whale-fact-sheet/",
+    "https://byronbaycharters.com.au/snorkelling/",
+    "https://byronbaycharters.com.au/scuba-diving/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://byronbaycharters.com.au/",
+      "status": 200,
+      "final_url": "https://byronbaycharters.com.au/",
+      "bytes": 32330
+    },
+    {
+      "page": "https://byronbaycharters.com.au/about/",
+      "status": 200,
+      "final_url": "https://byronbaycharters.com.au/about/",
+      "bytes": 33403
+    },
+    {
+      "page": "https://byronbaycharters.com.au/pricelist/",
+      "status": 200,
+      "final_url": "https://byronbaycharters.com.au/pricelist/",
+      "bytes": 31697
+    },
+    {
+      "page": "https://byronbaycharters.com.au/fishing-charters/",
+      "status": 200,
+      "final_url": "https://byronbaycharters.com.au/fishing-charters/",
+      "bytes": 39493
+    },
+    {
+      "page": "https://byronbaycharters.com.au/news/",
+      "status": 200,
+      "final_url": "https://byronbaycharters.com.au/news/",
+      "bytes": 38209
+    },
+    {
+      "page": "https://byronbaycharters.com.au/charters/",
+      "status": 200,
+      "final_url": "https://byronbaycharters.com.au/charters/",
+      "bytes": 30838
+    },
+    {
+      "page": "https://byronbaycharters.com.au/whale-watching/",
+      "status": 200,
+      "final_url": "https://byronbaycharters.com.au/whale-watching/",
+      "bytes": 49370
+    },
+    {
+      "page": "https://byronbaycharters.com.au/humpback-whale-fact-sheet/",
+      "status": 200,
+      "final_url": "https://byronbaycharters.com.au/humpback-whale-fact-sheet/",
+      "bytes": 37514
+    },
+    {
+      "page": "https://byronbaycharters.com.au/snorkelling/",
+      "status": 200,
+      "final_url": "https://byronbaycharters.com.au/snorkelling/",
+      "bytes": 30254
+    },
+    {
+      "page": "https://byronbaycharters.com.au/scuba-diving/",
+      "status": 200,
+      "final_url": "https://byronbaycharters.com.au/scuba-diving/",
+      "bytes": 30147
+    }
+  ]
+}

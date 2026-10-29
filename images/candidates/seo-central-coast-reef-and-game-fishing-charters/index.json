@@ -1,0 +1,59 @@
+{
+  "slug": "seo-central-coast-reef-and-game-fishing-charters",
+  "request_hash": "9f3027ca65e6",
+  "collected_at": "2026-10-29T19:52:25.632Z",
+  "pages_fetched": [
+    "http://www.reefandgamefishing.com/",
+    "http://www.reefandgamefishing.com/about.html",
+    "http://www.reefandgamefishing.com/info.html",
+    "http://www.reefandgamefishing.com/fishing.html",
+    "http://www.reefandgamefishing.com/index.html",
+    "http://www.reefandgamefishing.com/gallery.html",
+    "http://www.reefandgamefishing.com/contact.html"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "http://www.reefandgamefishing.com/",
+      "status": 200,
+      "final_url": "http://www.reefandgamefishing.com/",
+      "bytes": 9461
+    },
+    {
+      "page": "http://www.reefandgamefishing.com/about.html",
+      "status": 200,
+      "final_url": "http://www.reefandgamefishing.com/about.html",
+      "bytes": 8395
+    },
+    {
+      "page": "http://www.reefandgamefishing.com/info.html",
+      "status": 200,
+      "final_url": "http://www.reefandgamefishing.com/info.html",
+      "bytes": 9430
+    },
+    {
+      "page": "http://www.reefandgamefishing.com/fishing.html",
+      "status": 200,
+      "final_url": "http://www.reefandgamefishing.com/fishing.html",
+      "bytes": 9727
+    },
+    {
+      "page": "http://www.reefandgamefishing.com/index.html",
+      "status": 200,
+      "final_url": "http://www.reefandgamefishing.com/index.html",
+      "bytes": 9461
+    },
+    {
+      "page": "http://www.reefandgamefishing.com/gallery.html",
+      "status": 200,
+      "final_url": "http://www.reefandgamefishing.com/gallery.html",
+      "bytes": 11668
+    },
+    {
+      "page": "http://www.reefandgamefishing.com/contact.html",
+      "status": 200,
+      "final_url": "http://www.reefandgamefishing.com/contact.html",
+      "bytes": 5965
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "seo-calypso-fishing-adventures-ext",
+  "request_hash": "0524b27d1812",
+  "collected_at": "2026-10-29T19:55:17.942Z",
+  "pages_fetched": [
+    "https://www.visitnsw.com/things-to-do/tours/calypso-fishing-adventures"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.visitnsw.com/things-to-do/tours/calypso-fishing-adventures",
+      "status": 200,
+      "final_url": "https://www.visitnsw.com/things-to-do/tours/calypso-fishing-adventures",
+      "bytes": 224922
+    }
+  ]
+}

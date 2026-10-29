@@ -1,0 +1,52 @@
+{
+  "slug": "seo-pacific-blue-fishing-charters-nelson-bay",
+  "request_hash": "eeedd190a0ae",
+  "collected_at": "2026-10-29T19:53:57.689Z",
+  "pages_fetched": [
+    "https://pacificbluecharters.com.au/",
+    "https://pacificbluecharters.com.au/services/",
+    "https://pacificbluecharters.com.au/contact/",
+    "https://pacificbluecharters.com.au/accommodation/",
+    "https://pacificbluecharters.com.au/accommodation-2/",
+    "https://pacificbluecharters.com.au/about/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://pacificbluecharters.com.au/",
+      "status": 200,
+      "final_url": "https://pacificbluecharters.com.au/",
+      "bytes": 130566
+    },
+    {
+      "page": "https://pacificbluecharters.com.au/services/",
+      "status": 200,
+      "final_url": "https://pacificbluecharters.com.au/services/",
+      "bytes": 125488
+    },
+    {
+      "page": "https://pacificbluecharters.com.au/contact/",
+      "status": 200,
+      "final_url": "https://pacificbluecharters.com.au/contact/",
+      "bytes": 130242
+    },
+    {
+      "page": "https://pacificbluecharters.com.au/accommodation/",
+      "status": 200,
+      "final_url": "https://pacificbluecharters.com.au/accommodation/",
+      "bytes": 139996
+    },
+    {
+      "page": "https://pacificbluecharters.com.au/accommodation-2/",
+      "status": 200,
+      "final_url": "https://pacificbluecharters.com.au/accommodation-2/",
+      "bytes": 124981
+    },
+    {
+      "page": "https://pacificbluecharters.com.au/about/",
+      "status": 404,
+      "final_url": "https://pacificbluecharters.com.au/about/",
+      "bytes": 140564
+    }
+  ]
+}

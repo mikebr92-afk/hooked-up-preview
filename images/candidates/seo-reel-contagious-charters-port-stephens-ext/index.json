@@ -1,0 +1,17 @@
+{
+  "slug": "seo-reel-contagious-charters-port-stephens-ext",
+  "request_hash": "e765a7955c6a",
+  "collected_at": "2026-10-29T19:55:22.865Z",
+  "pages_fetched": [
+    "https://www.portstephensfishingcharters.com.au/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.portstephensfishingcharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.portstephensfishingcharters.com.au/",
+      "bytes": 47264
+    }
+  ]
+}

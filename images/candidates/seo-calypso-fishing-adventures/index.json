@@ -1,0 +1,80 @@
+{
+  "slug": "seo-calypso-fishing-adventures",
+  "request_hash": "3bc322968e31",
+  "collected_at": "2026-10-29T19:53:37.068Z",
+  "pages_fetched": [
+    "https://www.marlinfishingaustralia.com.au/",
+    "https://www.marlinfishingaustralia.com.au/meet-calypso/",
+    "https://www.marlinfishingaustralia.com.au/capt-tim-dean/",
+    "https://www.marlinfishingaustralia.com.au/marlin-fishing-port-stephens/",
+    "https://www.marlinfishingaustralia.com.au/cairns-giant-black-marlin-fishing/",
+    "https://www.marlinfishingaustralia.com.au/cooktown-ribbon-reefs/",
+    "https://www.marlinfishingaustralia.com.au/lizard-island-black-marlin-fishing/",
+    "https://www.marlinfishingaustralia.com.au/giant-black-marlin-fishing/",
+    "https://www.marlinfishingaustralia.com.au/gallery/",
+    "https://www.marlinfishingaustralia.com.au/contact/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.marlinfishingaustralia.com.au/",
+      "status": 200,
+      "final_url": "https://www.marlinfishingaustralia.com.au/",
+      "bytes": 153384
+    },
+    {
+      "page": "https://www.marlinfishingaustralia.com.au/meet-calypso/",
+      "status": 200,
+      "final_url": "https://www.marlinfishingaustralia.com.au/meet-calypso/",
+      "bytes": 144250
+    },
+    {
+      "page": "https://www.marlinfishingaustralia.com.au/capt-tim-dean/",
+      "status": 200,
+      "final_url": "https://www.marlinfishingaustralia.com.au/capt-tim-dean/",
+      "bytes": 142728
+    },
+    {
+      "page": "https://www.marlinfishingaustralia.com.au/marlin-fishing-port-stephens/",
+      "status": 200,
+      "final_url": "https://www.marlinfishingaustralia.com.au/marlin-fishing-port-stephens/",
+      "bytes": 146615
+    },
+    {
+      "page": "https://www.marlinfishingaustralia.com.au/cairns-giant-black-marlin-fishing/",
+      "status": 200,
+      "final_url": "https://www.marlinfishingaustralia.com.au/cairns-giant-black-marlin-fishing/",
+      "bytes": 144572
+    },
+    {
+      "page": "https://www.marlinfishingaustralia.com.au/cooktown-ribbon-reefs/",
+      "status": 200,
+      "final_url": "https://www.marlinfishingaustralia.com.au/cooktown-ribbon-reefs/",
+      "bytes": 144679
+    },
+    {
+      "page": "https://www.marlinfishingaustralia.com.au/lizard-island-black-marlin-fishing/",
+      "status": 200,
+      "final_url": "https://www.marlinfishingaustralia.com.au/lizard-island-black-marlin-fishing/",
+      "bytes": 144231
+    },
+    {
+      "page": "https://www.marlinfishingaustralia.com.au/giant-black-marlin-fishing/",
+      "status": 200,
+      "final_url": "https://www.marlinfishingaustralia.com.au/giant-black-marlin-fishing/",
+      "bytes": 138785
+    },
+    {
+      "page": "https://www.marlinfishingaustralia.com.au/gallery/",
+      "status": 200,
+      "final_url": "https://www.marlinfishingaustralia.com.au/gallery/",
+      "bytes": 184927
+    },
+    {
+      "page": "https://www.marlinfishingaustralia.com.au/contact/",
+      "status": 200,
+      "final_url": "https://www.marlinfishingaustralia.com.au/contact/",
+      "bytes": 135452
+    }
+  ]
+}

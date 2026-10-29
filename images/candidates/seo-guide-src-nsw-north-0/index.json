@@ -1,0 +1,71 @@
+{
+  "slug": "seo-guide-src-nsw-north-0",
+  "request_hash": "9a18c4173803",
+  "collected_at": "2026-10-29T19:55:39.892Z",
+  "pages_fetched": [
+    "https://en.wikivoyage.org/wiki/Newcastle_(New_South_Wales)",
+    "https://lordhoweisland.info/experiences/fishing/",
+    "https://lordhoweisland.info/experiences/tours/sea-buoys-ocean-charters/",
+    "https://www.dpi.nsw.gov.au/fishing/marine-protected-areas/marine-parks/lord-howe-island-marine-park/recreational-fishing",
+    "https://www.dpi.nsw.gov.au/fishing/recreational/resources/artificial-reef/ballina-offshore-artificial-reef",
+    "https://www.dpi.nsw.gov.au/fishing/recreational/resources/artificial-reef/newcastle-offshore-artificial-reef",
+    "https://www.dpi.nsw.gov.au/fishing/recreational/resources/info/fishing-locations/go-fishing-lake-macquarie",
+    "https://www.fishingcharter.net.au/pricing_boats",
+    "https://www.poyst.com/business/capns-charters-newcastle"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://en.wikivoyage.org/wiki/Newcastle_(New_South_Wales)",
+      "status": 200,
+      "final_url": "https://en.wikivoyage.org/wiki/Newcastle_(New_South_Wales)",
+      "bytes": 409785
+    },
+    {
+      "page": "https://lordhoweisland.info/experiences/fishing/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://lordhoweisland.info/experiences/tours/sea-buoys-ocean-charters/",
+      "status": 200,
+      "final_url": "https://lordhoweisland.info/experiences/tours/sea-buoys-ocean-charters/",
+      "bytes": 130074
+    },
+    {
+      "page": "https://www.dpi.nsw.gov.au/fishing/marine-protected-areas/marine-parks/lord-howe-island-marine-park/recreational-fishing",
+      "status": 403,
+      "final_url": "https://www.dpi.nsw.gov.au/fishing/marine-protected-areas/marine-parks/lord-howe-island-marine-park/recreational-fishing",
+      "bytes": 6167
+    },
+    {
+      "page": "https://www.dpi.nsw.gov.au/fishing/recreational/resources/artificial-reef/ballina-offshore-artificial-reef",
+      "status": 403,
+      "final_url": "https://www.dpi.nsw.gov.au/fishing/recreational/resources/artificial-reef/ballina-offshore-artificial-reef",
+      "bytes": 6104
+    },
+    {
+      "page": "https://www.dpi.nsw.gov.au/fishing/recreational/resources/artificial-reef/newcastle-offshore-artificial-reef",
+      "status": 403,
+      "final_url": "https://www.dpi.nsw.gov.au/fishing/recreational/resources/artificial-reef/newcastle-offshore-artificial-reef",
+      "bytes": 6110
+    },
+    {
+      "page": "https://www.dpi.nsw.gov.au/fishing/recreational/resources/info/fishing-locations/go-fishing-lake-macquarie",
+      "status": 403,
+      "final_url": "https://www.dpi.nsw.gov.au/fishing/recreational/resources/info/fishing-locations/go-fishing-lake-macquarie",
+      "bytes": 6104
+    },
+    {
+      "page": "https://www.fishingcharter.net.au/pricing_boats",
+      "status": 200,
+      "final_url": "https://www.fishingcharter.net.au/pricing_boats",
+      "bytes": 13537
+    },
+    {
+      "page": "https://www.poyst.com/business/capns-charters-newcastle",
+      "status": 200,
+      "final_url": "https://www.poyst.com/business/capns-charters-newcastle",
+      "bytes": 333398
+    }
+  ]
+}

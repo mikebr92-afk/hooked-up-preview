@@ -1,0 +1,94 @@
+{
+  "slug": "seo-hammerhead-charters-nelson-bay",
+  "request_hash": "5d1f95c21815",
+  "collected_at": "2026-10-29T19:53:50.720Z",
+  "pages_fetched": [
+    "https://hammerheadcharters.com.au/",
+    "https://hammerheadcharters.com.au/reef-fishing/",
+    "https://hammerheadcharters.com.au/estuary-fishing/",
+    "https://hammerheadcharters.com.au/gametournament-charter/",
+    "https://hammerheadcharters.com.au/contact-us/",
+    "https://hammerheadcharters.com.au/news-feed/",
+    "https://hammerheadcharters.com.au/whale-cruses/",
+    "https://hammerheadcharters.com.au/private-charters/",
+    "https://hammerheadcharters.com.au/galleries/",
+    "https://hammerheadcharters.com.au/events",
+    "https://hammerheadcharters.com.au/reef-fishing/creative.htw.net.au",
+    "https://hammerheadcharters.com.au/estuary-fishing/creative.htw.net.au"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://hammerheadcharters.com.au/",
+      "status": 200,
+      "final_url": "https://hammerheadcharters.com.au/",
+      "bytes": 52260
+    },
+    {
+      "page": "https://hammerheadcharters.com.au/reef-fishing/",
+      "status": 200,
+      "final_url": "https://hammerheadcharters.com.au/reef-fishing/",
+      "bytes": 41251
+    },
+    {
+      "page": "https://hammerheadcharters.com.au/estuary-fishing/",
+      "status": 200,
+      "final_url": "https://hammerheadcharters.com.au/estuary-fishing/",
+      "bytes": 39978
+    },
+    {
+      "page": "https://hammerheadcharters.com.au/gametournament-charter/",
+      "status": 200,
+      "final_url": "https://hammerheadcharters.com.au/gametournament-charter/",
+      "bytes": 41691
+    },
+    {
+      "page": "https://hammerheadcharters.com.au/contact-us/",
+      "status": 200,
+      "final_url": "https://hammerheadcharters.com.au/contact-us/",
+      "bytes": 49543
+    },
+    {
+      "page": "https://hammerheadcharters.com.au/news-feed/",
+      "status": 200,
+      "final_url": "https://hammerheadcharters.com.au/news-feed/",
+      "bytes": 131314
+    },
+    {
+      "page": "https://hammerheadcharters.com.au/whale-cruses/",
+      "status": 200,
+      "final_url": "https://hammerheadcharters.com.au/whale-cruses/",
+      "bytes": 41559
+    },
+    {
+      "page": "https://hammerheadcharters.com.au/private-charters/",
+      "status": 200,
+      "final_url": "https://hammerheadcharters.com.au/private-charters/",
+      "bytes": 40277
+    },
+    {
+      "page": "https://hammerheadcharters.com.au/galleries/",
+      "status": 200,
+      "final_url": "https://hammerheadcharters.com.au/galleries/",
+      "bytes": 74726
+    },
+    {
+      "page": "https://hammerheadcharters.com.au/events",
+      "status": 200,
+      "final_url": "https://hammerheadcharters.com.au/events/",
+      "bytes": 49498
+    },
+    {
+      "page": "https://hammerheadcharters.com.au/reef-fishing/creative.htw.net.au",
+      "status": 200,
+      "final_url": "https://hammerheadcharters.com.au/",
+      "bytes": 52260
+    },
+    {
+      "page": "https://hammerheadcharters.com.au/estuary-fishing/creative.htw.net.au",
+      "status": 200,
+      "final_url": "https://hammerheadcharters.com.au/",
+      "bytes": 52260
+    }
+  ]
+}

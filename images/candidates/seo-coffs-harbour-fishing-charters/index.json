@@ -1,0 +1,94 @@
+{
+  "slug": "seo-coffs-harbour-fishing-charters",
+  "request_hash": "7f1df4876175",
+  "collected_at": "2026-10-29T19:52:55.218Z",
+  "pages_fetched": [
+    "https://coffsharbourfishing.com.au/",
+    "https://coffsharbourfishing.com.au/about-us/",
+    "https://coffsharbourfishing.com.au/our-boats/",
+    "https://coffsharbourfishing.com.au/book",
+    "https://coffsharbourfishing.com.au/index.html",
+    "https://coffsharbourfishing.com.au/about_us.html",
+    "https://coffsharbourfishing.com.au/our_boats.html",
+    "https://coffsharbourfishing.com.au/types_of_fishing.html",
+    "https://coffsharbourfishing.com.au/charters.html",
+    "https://coffsharbourfishing.com.au/contact_us.html",
+    "https://coffsharbourfishing.com.au/about-us/index.html",
+    "https://coffsharbourfishing.com.au/about-us/about_us.html"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://coffsharbourfishing.com.au/",
+      "status": 200,
+      "final_url": "https://coffsharbourfishing.com.au/",
+      "bytes": 34251
+    },
+    {
+      "page": "https://coffsharbourfishing.com.au/about-us/",
+      "status": 200,
+      "final_url": "https://coffsharbourfishing.com.au/about-us/",
+      "bytes": 29971
+    },
+    {
+      "page": "https://coffsharbourfishing.com.au/our-boats/",
+      "status": 200,
+      "final_url": "https://coffsharbourfishing.com.au/our-boats/",
+      "bytes": 26595
+    },
+    {
+      "page": "https://coffsharbourfishing.com.au/book",
+      "status": 200,
+      "final_url": "https://coffsharbourfishing.com.au/book/",
+      "bytes": 23747
+    },
+    {
+      "page": "https://coffsharbourfishing.com.au/index.html",
+      "status": 404,
+      "final_url": "https://coffsharbourfishing.com.au/index.html",
+      "bytes": 29702
+    },
+    {
+      "page": "https://coffsharbourfishing.com.au/about_us.html",
+      "status": 404,
+      "final_url": "https://coffsharbourfishing.com.au/about_us.html",
+      "bytes": 29702
+    },
+    {
+      "page": "https://coffsharbourfishing.com.au/our_boats.html",
+      "status": 404,
+      "final_url": "https://coffsharbourfishing.com.au/our_boats.html",
+      "bytes": 29702
+    },
+    {
+      "page": "https://coffsharbourfishing.com.au/types_of_fishing.html",
+      "status": 404,
+      "final_url": "https://coffsharbourfishing.com.au/types_of_fishing.html",
+      "bytes": 29702
+    },
+    {
+      "page": "https://coffsharbourfishing.com.au/charters.html",
+      "status": 404,
+      "final_url": "https://coffsharbourfishing.com.au/charters.html",
+      "bytes": 29702
+    },
+    {
+      "page": "https://coffsharbourfishing.com.au/contact_us.html",
+      "status": 404,
+      "final_url": "https://coffsharbourfishing.com.au/contact_us.html",
+      "bytes": 29702
+    },
+    {
+      "page": "https://coffsharbourfishing.com.au/about-us/index.html",
+      "status": 404,
+      "final_url": "https://coffsharbourfishing.com.au/about-us/index.html",
+      "bytes": 29702
+    },
+    {
+      "page": "https://coffsharbourfishing.com.au/about-us/about_us.html",
+      "status": 404,
+      "final_url": "https://coffsharbourfishing.com.au/about-us/about_us.html",
+      "bytes": 29702
+    }
+  ]
+}

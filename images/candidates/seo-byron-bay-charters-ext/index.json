@@ -1,0 +1,24 @@
+{
+  "slug": "seo-byron-bay-charters-ext",
+  "request_hash": "1c9668e2f203",
+  "collected_at": "2026-10-29T19:55:00.619Z",
+  "pages_fetched": [
+    "https://byronbaycharters70.rezdy.com/",
+    "https://playsport.com/byronbaycharters_ag_98d5502e"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://byronbaycharters70.rezdy.com/",
+      "status": 403,
+      "final_url": "https://byronbaycharters70.rezdy.com/",
+      "bytes": 5187
+    },
+    {
+      "page": "https://playsport.com/byronbaycharters_ag_98d5502e",
+      "status": 200,
+      "final_url": "https://playsport.com/byronbaycharters_ag_98d5502e",
+      "bytes": 276564
+    }
+  ]
+}

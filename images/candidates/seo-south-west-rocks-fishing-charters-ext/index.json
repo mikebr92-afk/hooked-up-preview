@@ -1,0 +1,17 @@
+{
+  "slug": "seo-south-west-rocks-fishing-charters-ext",
+  "request_hash": "afdd1a799595",
+  "collected_at": "2026-10-29T19:55:23.114Z",
+  "pages_fetched": [
+    "https://www.visitnsw.com/things-to-do/tours/south-west-rocks-fishing-charters"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.visitnsw.com/things-to-do/tours/south-west-rocks-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.visitnsw.com/things-to-do/tours/south-west-rocks-fishing-charters",
+      "bytes": 187691
+    }
+  ]
+}

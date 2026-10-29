@@ -1,0 +1,17 @@
+{
+  "slug": "seo-pacific-blue-fishing-charters-nelson-bay-ext",
+  "request_hash": "89e7480d525e",
+  "collected_at": "2026-10-29T19:55:20.072Z",
+  "pages_fetched": [
+    "https://fishingstatus.com/fishing/directory/groupid/48"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://fishingstatus.com/fishing/directory/groupid/48",
+      "status": 200,
+      "final_url": "https://fishingstatus.com/Home/Login?returnurl=%2ffishing%2fdirectory%2fgroupid%2f48",
+      "bytes": 40229
+    }
+  ]
+}

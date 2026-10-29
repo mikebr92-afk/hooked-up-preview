@@ -1,0 +1,80 @@
+{
+  "slug": "seo-capns-charters-newcastle",
+  "request_hash": "99d14fb6f2f9",
+  "collected_at": "2026-10-29T19:53:08.241Z",
+  "pages_fetched": [
+    "https://www.capnschartersnewcastle.com.au/",
+    "https://www.capnschartersnewcastle.com.au/bookings/",
+    "https://www.capnschartersnewcastle.com.au/one-on-one-charters/",
+    "https://www.capnschartersnewcastle.com.au/half-day-charters/",
+    "https://www.capnschartersnewcastle.com.au/full-day-charters/",
+    "https://www.capnschartersnewcastle.com.au/kids-fishing-charter/",
+    "https://www.capnschartersnewcastle.com.au/about-us/",
+    "https://www.capnschartersnewcastle.com.au/gallery/",
+    "https://www.capnschartersnewcastle.com.au/contactus/",
+    "https://www.capnschartersnewcastle.com.au/product/gift-card/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.capnschartersnewcastle.com.au/",
+      "status": 200,
+      "final_url": "https://www.capnschartersnewcastle.com.au/",
+      "bytes": 188449
+    },
+    {
+      "page": "https://www.capnschartersnewcastle.com.au/bookings/",
+      "status": 200,
+      "final_url": "https://www.capnschartersnewcastle.com.au/bookings/",
+      "bytes": 195105
+    },
+    {
+      "page": "https://www.capnschartersnewcastle.com.au/one-on-one-charters/",
+      "status": 200,
+      "final_url": "https://www.capnschartersnewcastle.com.au/one-on-one-charters/",
+      "bytes": 259950
+    },
+    {
+      "page": "https://www.capnschartersnewcastle.com.au/half-day-charters/",
+      "status": 200,
+      "final_url": "https://www.capnschartersnewcastle.com.au/half-day-charters/",
+      "bytes": 260517
+    },
+    {
+      "page": "https://www.capnschartersnewcastle.com.au/full-day-charters/",
+      "status": 200,
+      "final_url": "https://www.capnschartersnewcastle.com.au/full-day-charters/",
+      "bytes": 261191
+    },
+    {
+      "page": "https://www.capnschartersnewcastle.com.au/kids-fishing-charter/",
+      "status": 200,
+      "final_url": "https://www.capnschartersnewcastle.com.au/kids-fishing-charter/",
+      "bytes": 261794
+    },
+    {
+      "page": "https://www.capnschartersnewcastle.com.au/about-us/",
+      "status": 200,
+      "final_url": "https://www.capnschartersnewcastle.com.au/about-us/",
+      "bytes": 136377
+    },
+    {
+      "page": "https://www.capnschartersnewcastle.com.au/gallery/",
+      "status": 200,
+      "final_url": "https://www.capnschartersnewcastle.com.au/gallery/",
+      "bytes": 153849
+    },
+    {
+      "page": "https://www.capnschartersnewcastle.com.au/contactus/",
+      "status": 200,
+      "final_url": "https://www.capnschartersnewcastle.com.au/contactus/",
+      "bytes": 169118
+    },
+    {
+      "page": "https://www.capnschartersnewcastle.com.au/product/gift-card/",
+      "status": 200,
+      "final_url": "https://www.capnschartersnewcastle.com.au/product/gift-card/",
+      "bytes": 206372
+    }
+  ]
+}
