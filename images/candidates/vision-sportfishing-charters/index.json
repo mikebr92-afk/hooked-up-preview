@@ -1,0 +1,136 @@
+{
+  "slug": "vision-sportfishing-charters",
+  "request_hash": "77029c508ce4",
+  "collected_at": "2026-10-29T03:53:44.475Z",
+  "pages_fetched": [
+    "https://www.visionsportfishing.com/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1618,
+      "height": 1080,
+      "original": "1618x1080",
+      "source": "https://b4694476.assetcdn.net/2.0/4694476/wp-content/uploads/2019/05/BDC_1154.jpg?lossy=1&strip=1&webp=1",
+      "page": "https://www.visionsportfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 828,
+      "height": 548,
+      "original": "828x548",
+      "source": "https://b4694476.assetcdn.net/2.0/4694476/wp-content/uploads/2021/02/Live-Aboard-Mothership-Charters.jpg?lossy=1&strip=1&webp=1",
+      "page": "https://www.visionsportfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1620,
+      "height": 1080,
+      "original": "1620x1080",
+      "source": "https://b4694476.assetcdn.net/2.0/4694476/wp-content/uploads/2017/04/IMG_4268-1-Large.jpg?lossy=1&strip=1&webp=1",
+      "page": "https://www.visionsportfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 2000,
+      "height": 1370,
+      "original": "2560x1754",
+      "source": "https://b4694476.assetcdn.net/2.0/4694476/wp-content/uploads/2017/04/9-1-scaled.jpg?lossy=1&strip=1&webp=1",
+      "page": "https://www.visionsportfishing.com/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.visionsportfishing.com/",
+      "status": 200,
+      "final_url": "https://www.visionsportfishing.com/",
+      "bytes": 276074
+    },
+    {
+      "image": "http://visionsportfishing.com/wp-content/uploads/2021/02/distressed-background-7958.png",
+      "error": "too small 487x451"
+    },
+    {
+      "image": "https://b4694476.assetcdn.net/2.0/4694476/wp-content/uploads/2017/04/cropped-eye.png?lossy=1&strip=1&webp=1",
+      "error": "too small 512x512"
+    },
+    {
+      "image": "https://b4694476.assetcdn.net/2.0/4694476/wp-content/uploads/2017/04/cropped-eye-100x100.png?lossy=1&strip=1&webp=1",
+      "error": "too small 100x100"
+    },
+    {
+      "image": "https://b4694476.assetcdn.net/2.0/4694476/wp-content/uploads/2017/04/cropped-eye-300x300.png?lossy=1&strip=1&webp=1",
+      "error": "too small 300x300"
+    },
+    {
+      "image": "https://visionsportfishing.com/wp-content/uploads/2017/04/cropped-eye.png",
+      "error": "too small 512x512"
+    },
+    {
+      "image": "https://visionsportfishing.com/wp-content/uploads/2017/04/cropped-eye-300x300.png",
+      "error": "too small 300x300"
+    },
+    {
+      "image": "https://b4694476.assetcdn.net/2.0/4694476/wp-content/uploads/2019/05/BDC_1154-300x200.jpg?lossy=1&strip=1&webp=1",
+      "error": "too small 300x200"
+    },
+    {
+      "dup": "https://b4694476.assetcdn.net/2.0/4694476/wp-content/uploads/2019/05/BDC_1154-1537x1026.jpg?lossy=1&strip=1&webp=1"
+    },
+    {
+      "dup": "https://b4694476.assetcdn.net/2.0/4694476/wp-content/uploads/2019/05/BDC_1154-768x513.jpg?lossy=1&strip=1&webp=1"
+    },
+    {
+      "dup": "https://b4694476.assetcdn.net/2.0/4694476/wp-content/uploads/2019/05/BDC_1154-1536x1025.jpg?lossy=1&strip=1&webp=1"
+    },
+    {
+      "dup": "https://b4694476.assetcdn.net/2.0/4694476/wp-content/uploads/2019/05/BDC_1154-600x400.jpg?lossy=1&strip=1&webp=1"
+    },
+    {
+      "image": "https://b4694476.assetcdn.net/2.0/4694476/wp-content/uploads/2021/02/Live-Aboard-Mothership-Charters-300x199.jpg?lossy=1&strip=1&webp=1",
+      "error": "too small 300x199"
+    },
+    {
+      "dup": "https://b4694476.assetcdn.net/2.0/4694476/wp-content/uploads/2021/02/Live-Aboard-Mothership-Charters-768x508.jpg?lossy=1&strip=1&webp=1"
+    },
+    {
+      "image": "https://b4694476.assetcdn.net/2.0/4694476/wp-content/uploads/2021/02/Live-Aboard-Mothership-Charters-600x397.jpg?lossy=1&strip=1&webp=1",
+      "error": "too small 600x397"
+    },
+    {
+      "image": "https://b4694476.assetcdn.net/2.0/4694476/wp-content/uploads/2017/04/IMG_4268-1-Large-300x200.jpg?lossy=1&strip=1&webp=1",
+      "error": "too small 300x200"
+    },
+    {
+      "dup": "https://b4694476.assetcdn.net/2.0/4694476/wp-content/uploads/2017/04/IMG_4268-1-Large-1539x1026.jpg?lossy=1&strip=1&webp=1"
+    },
+    {
+      "dup": "https://b4694476.assetcdn.net/2.0/4694476/wp-content/uploads/2017/04/IMG_4268-1-Large-768x512.jpg?lossy=1&strip=1&webp=1"
+    },
+    {
+      "dup": "https://b4694476.assetcdn.net/2.0/4694476/wp-content/uploads/2017/04/IMG_4268-1-Large-1536x1024.jpg?lossy=1&strip=1&webp=1"
+    },
+    {
+      "dup": "https://b4694476.assetcdn.net/2.0/4694476/wp-content/uploads/2017/04/IMG_4268-1-Large-600x400.jpg?lossy=1&strip=1&webp=1"
+    },
+    {
+      "dup": "https://b4694476.assetcdn.net/2.0/4694476/wp-content/uploads/2017/04/9-1.jpg?lossy=1&strip=1&webp=1"
+    },
+    {
+      "dup": "https://b4694476.assetcdn.net/2.0/4694476/wp-content/uploads/2017/04/9-1-1497x1026.jpg?lossy=1&strip=1&webp=1"
+    },
+    {
+      "dup": "https://b4694476.assetcdn.net/2.0/4694476/wp-content/uploads/2017/04/9-1-768x526.jpg?lossy=1&strip=1&webp=1"
+    },
+    {
+      "dup": "https://b4694476.assetcdn.net/2.0/4694476/wp-content/uploads/2017/04/9-1-1536x1053.jpg?lossy=1&strip=1&webp=1"
+    },
+    {
+      "dup": "https://b4694476.assetcdn.net/2.0/4694476/wp-content/uploads/2017/04/9-1-600x411.jpg?lossy=1&strip=1&webp=1"
+    }
+  ]
+}

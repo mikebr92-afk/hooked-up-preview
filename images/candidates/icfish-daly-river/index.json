@@ -1,0 +1,15 @@
+{
+  "slug": "icfish-daly-river",
+  "request_hash": "e37aadfa94ff",
+  "collected_at": "2026-10-29T03:59:34.102Z",
+  "pages_fetched": [
+    "https://www.icfish.com.au/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.icfish.com.au/",
+      "error": "fetch failed"
+    }
+  ]
+}

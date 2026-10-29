@@ -1,0 +1,389 @@
+{
+  "slug": "barefoot-fishing-safaris",
+  "request_hash": "5894f12d7b21",
+  "collected_at": "2026-10-29T03:55:46.684Z",
+  "pages_fetched": [
+    "https://www.barefootfishingsafaris.com.au/",
+    "https://barefootfishingsafaris.com.au/index.html",
+    "https://barefootfishingsafaris.com.au/media.html",
+    "https://barefootfishingsafaris.com.au/gallery.html",
+    "https://barefootfishingsafaris.com.au/about-barefoot.html",
+    "https://barefootfishingsafaris.com.au/run-off-barra-fishing.html",
+    "https://barefootfishingsafaris.com.au/dundee-bynoe-barra-bluewater.html",
+    "https://barefootfishingsafaris.com.au/fly-fishing-darwin.html",
+    "https://barefootfishingsafaris.com.au/tides-cheat-sheet.html",
+    "https://barefootfishingsafaris.com.au/barra-brain.html",
+    "https://barefootfishingsafaris.com.au/privacy-policy.html"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1600,
+      "height": 1090,
+      "original": "1600x1090",
+      "source": "https://barefootfishingsafaris.com.au/assets/img/run-off-barra-hero-1600.jpg",
+      "page": "https://www.barefootfishingsafaris.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 1000,
+      "height": 750,
+      "original": "1000x750",
+      "source": "https://barefootfishingsafaris.com.au/assets/img/run-off-floodplain-feast-1000.jpg",
+      "page": "https://www.barefootfishingsafaris.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1000,
+      "height": 500,
+      "original": "1000x500",
+      "source": "https://barefootfishingsafaris.com.au/assets/img/dundee-bynoe-hero-1000.jpg",
+      "page": "https://www.barefootfishingsafaris.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1000,
+      "height": 536,
+      "original": "1000x536",
+      "source": "https://barefootfishingsafaris.com.au/assets/img/fly-fishing-hero-1000.jpg",
+      "page": "https://www.barefootfishingsafaris.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1000,
+      "height": 562,
+      "original": "1000x562",
+      "source": "https://barefootfishingsafaris.com.au/assets/img/aa-blackbass-1000.jpg",
+      "page": "https://www.barefootfishingsafaris.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1000,
+      "height": 562,
+      "original": "1000x562",
+      "source": "https://barefootfishingsafaris.com.au/assets/img/watty-guide-1000.jpg",
+      "page": "https://www.barefootfishingsafaris.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1600,
+      "height": 1066,
+      "original": "1600x1066",
+      "source": "https://barefootfishingsafaris.com.au/assets/img/band-enquire-topdown-turquoise-1600.jpg",
+      "page": "https://www.barefootfishingsafaris.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1600,
+      "height": 900,
+      "original": "1600x900",
+      "source": "https://barefootfishingsafaris.com.au/assets/img/band-bynoe-bluewater-birds-1600.jpg",
+      "page": "https://barefootfishingsafaris.com.au/media.html",
+      "priority": true
+    },
+    {
+      "file": "c09.webp",
+      "width": 640,
+      "height": 426,
+      "original": "640x426",
+      "source": "https://barefootfishingsafaris.com.au/assets/img/band-kakadu-escarpment-640.jpg",
+      "page": "https://barefootfishingsafaris.com.au/media.html",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 640,
+      "height": 426,
+      "original": "640x426",
+      "source": "https://barefootfishingsafaris.com.au/assets/img/band-video-flats-drone-640.jpg",
+      "page": "https://barefootfishingsafaris.com.au/media.html",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 640,
+      "height": 426,
+      "original": "640x426",
+      "source": "https://barefootfishingsafaris.com.au/assets/img/band-pricing-glass-river-640.jpg",
+      "page": "https://barefootfishingsafaris.com.au/media.html",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 640,
+      "height": 480,
+      "original": "640x480",
+      "source": "https://barefootfishingsafaris.com.au/assets/img/about-mates-640.jpg",
+      "page": "https://barefootfishingsafaris.com.au/media.html",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1600,
+      "height": 1200,
+      "original": "1600x1200",
+      "source": "https://barefootfishingsafaris.com.au/assets/img/band-texture-flats-1600.jpg",
+      "page": "https://barefootfishingsafaris.com.au/media.html",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1000,
+      "height": 750,
+      "original": "1000x750",
+      "source": "https://barefootfishingsafaris.com.au/assets/img/rig-boat-beach-1000.avif",
+      "page": "https://barefootfishingsafaris.com.au/media.html",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1000,
+      "height": 562,
+      "original": "1000x562",
+      "source": "https://barefootfishingsafaris.com.au/assets/img/yt-7W2A5gFBkqU-1000.avif",
+      "page": "https://barefootfishingsafaris.com.au/media.html",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1000,
+      "height": 562,
+      "original": "1000x562",
+      "source": "https://barefootfishingsafaris.com.au/assets/img/yt-7rpRs1V1Q8g-1000.avif",
+      "page": "https://barefootfishingsafaris.com.au/media.html",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.barefootfishingsafaris.com.au/",
+      "status": 200,
+      "final_url": "https://barefootfishingsafaris.com.au/",
+      "bytes": 28691
+    },
+    {
+      "page": "https://barefootfishingsafaris.com.au/index.html",
+      "status": 200,
+      "final_url": "https://barefootfishingsafaris.com.au/",
+      "bytes": 28691
+    },
+    {
+      "page": "https://barefootfishingsafaris.com.au/media.html",
+      "status": 200,
+      "final_url": "https://barefootfishingsafaris.com.au/media",
+      "bytes": 70425
+    },
+    {
+      "page": "https://barefootfishingsafaris.com.au/gallery.html",
+      "status": 200,
+      "final_url": "https://barefootfishingsafaris.com.au/gallery",
+      "bytes": 24408
+    },
+    {
+      "page": "https://barefootfishingsafaris.com.au/about-barefoot.html",
+      "status": 200,
+      "final_url": "https://barefootfishingsafaris.com.au/about-barefoot",
+      "bytes": 19123
+    },
+    {
+      "page": "https://barefootfishingsafaris.com.au/run-off-barra-fishing.html",
+      "status": 200,
+      "final_url": "https://barefootfishingsafaris.com.au/run-off-barra-fishing",
+      "bytes": 57821
+    },
+    {
+      "page": "https://barefootfishingsafaris.com.au/dundee-bynoe-barra-bluewater.html",
+      "status": 200,
+      "final_url": "https://barefootfishingsafaris.com.au/dundee-bynoe-barra-bluewater",
+      "bytes": 47198
+    },
+    {
+      "page": "https://barefootfishingsafaris.com.au/fly-fishing-darwin.html",
+      "status": 200,
+      "final_url": "https://barefootfishingsafaris.com.au/fly-fishing-darwin",
+      "bytes": 52921
+    },
+    {
+      "page": "https://barefootfishingsafaris.com.au/tides-cheat-sheet.html",
+      "status": 200,
+      "final_url": "https://barefootfishingsafaris.com.au/tides-cheat-sheet",
+      "bytes": 11055
+    },
+    {
+      "page": "https://barefootfishingsafaris.com.au/barra-brain.html",
+      "status": 200,
+      "final_url": "https://barefootfishingsafaris.com.au/barra-brain",
+      "bytes": 13481
+    },
+    {
+      "page": "https://barefootfishingsafaris.com.au/privacy-policy.html",
+      "status": 200,
+      "final_url": "https://barefootfishingsafaris.com.au/privacy-policy",
+      "bytes": 7670
+    },
+    {
+      "image": "https://barefootfishingsafaris.com.au/assets/img/press/hot100.png",
+      "error": "too small 900x300"
+    },
+    {
+      "image": "https://barefootfishingsafaris.com.au/assets/img/press/abc-darwin.png",
+      "error": "too small 900x300"
+    },
+    {
+      "image": "https://barefootfishingsafaris.com.au/assets/img/press/2gb.png",
+      "error": "too small 900x300"
+    },
+    {
+      "image": "https://barefootfishingsafaris.com.au/assets/img/press/fish-and-boat.png",
+      "error": "too small 900x300"
+    },
+    {
+      "image": "https://barefootfishingsafaris.com.au/assets/img/press/igfa.png",
+      "error": "too small 900x300"
+    },
+    {
+      "image": "https://barefootfishingsafaris.com.au/assets/img/press/barra-bass-bream.png",
+      "error": "too small 900x300"
+    },
+    {
+      "image": "https://barefootfishingsafaris.com.au/assets/img/press/fishing-australia.png",
+      "error": "too small 900x300"
+    },
+    {
+      "dup": "https://barefootfishingsafaris.com.au/assets/img/run-off-barra-hero-1600.avif"
+    },
+    {
+      "dup": "https://barefootfishingsafaris.com.au/assets/img/run-off-floodplain-feast-1000.avif"
+    },
+    {
+      "dup": "https://barefootfishingsafaris.com.au/assets/img/dundee-bynoe-hero-1000.avif"
+    },
+    {
+      "dup": "https://barefootfishingsafaris.com.au/assets/img/fly-fishing-hero-1000.avif"
+    },
+    {
+      "dup": "https://barefootfishingsafaris.com.au/assets/img/aa-blackbass-1000.avif"
+    },
+    {
+      "dup": "https://barefootfishingsafaris.com.au/assets/img/watty-guide-1600.avif"
+    },
+    {
+      "dup": "https://barefootfishingsafaris.com.au/assets/img/watty-guide-1600.jpg"
+    },
+    {
+      "dup": "https://barefootfishingsafaris.com.au/assets/img/band-enquire-topdown-turquoise-1600.avif"
+    },
+    {
+      "dup": "https://barefootfishingsafaris.com.au/assets/img/band-enquire-topdown-turquoise-640.jpg"
+    },
+    {
+      "dup": "https://barefootfishingsafaris.com.au/assets/img/rig-boat-beach-640.jpg"
+    },
+    {
+      "image": "https://barefootfishingsafaris.com.au/assets/img/yt-7W2A5gFBkqU-640.jpg",
+      "error": "too small 640x360"
+    },
+    {
+      "image": "https://barefootfishingsafaris.com.au/assets/img/yt-7rpRs1V1Q8g-640.jpg",
+      "error": "too small 640x360"
+    },
+    {
+      "image": "https://barefootfishingsafaris.com.au/assets/img/yt-BRhw5r-zTe4-640.jpg",
+      "error": "too small 640x360"
+    },
+    {
+      "image": "https://barefootfishingsafaris.com.au/assets/img/yt-BV3-A9KhUtk-640.jpg",
+      "error": "too small 640x360"
+    },
+    {
+      "image": "https://barefootfishingsafaris.com.au/assets/img/yt-Eam-j-8x4qs-640.jpg",
+      "error": "too small 640x360"
+    },
+    {
+      "image": "https://barefootfishingsafaris.com.au/assets/img/yt-F-oghVGjd8A-640.jpg",
+      "error": "too small 640x360"
+    },
+    {
+      "image": "https://barefootfishingsafaris.com.au/assets/img/yt-GpyEWNm5FeI-640.jpg",
+      "error": "too small 640x360"
+    },
+    {
+      "image": "https://barefootfishingsafaris.com.au/assets/img/yt-iSMPMnN7c4M-640.jpg",
+      "error": "too small 640x360"
+    },
+    {
+      "image": "https://barefootfishingsafaris.com.au/assets/img/yt-NCZ-Vk5F28g-640.jpg",
+      "error": "too small 640x360"
+    },
+    {
+      "image": "https://barefootfishingsafaris.com.au/assets/img/yt-Nm3_tCGY3qQ-640.jpg",
+      "error": "too small 640x360"
+    },
+    {
+      "image": "https://barefootfishingsafaris.com.au/assets/img/yt-ikAPqUuRbgc-640.jpg",
+      "error": "too small 640x360"
+    },
+    {
+      "image": "https://barefootfishingsafaris.com.au/assets/img/yt-Q08FF8k0pSg-640.jpg",
+      "error": "too small 640x360"
+    },
+    {
+      "image": "https://barefootfishingsafaris.com.au/assets/img/yt-TZm0UuMxBEk-640.jpg",
+      "error": "too small 640x360"
+    },
+    {
+      "image": "https://barefootfishingsafaris.com.au/assets/img/yt-YFeyiLLm31w-640.jpg",
+      "error": "too small 640x360"
+    },
+    {
+      "image": "https://barefootfishingsafaris.com.au/assets/img/yt-wAf7E-hD5Wo-640.jpg",
+      "error": "too small 640x360"
+    },
+    {
+      "dup": "https://barefootfishingsafaris.com.au/assets/img/band-bynoe-bluewater-birds-1600.avif"
+    },
+    {
+      "dup": "https://barefootfishingsafaris.com.au/assets/img/band-kakadu-escarpment-1000.avif"
+    },
+    {
+      "dup": "https://barefootfishingsafaris.com.au/assets/img/band-kakadu-escarpment-1000.jpg"
+    },
+    {
+      "dup": "https://barefootfishingsafaris.com.au/assets/img/band-enquire-topdown-turquoise-1000.avif"
+    },
+    {
+      "dup": "https://barefootfishingsafaris.com.au/assets/img/band-enquire-topdown-turquoise-1000.jpg"
+    },
+    {
+      "dup": "https://barefootfishingsafaris.com.au/assets/img/band-video-flats-drone-1000.avif"
+    },
+    {
+      "dup": "https://barefootfishingsafaris.com.au/assets/img/band-video-flats-drone-1000.jpg"
+    },
+    {
+      "dup": "https://barefootfishingsafaris.com.au/assets/img/band-pricing-glass-river-1000.avif"
+    },
+    {
+      "dup": "https://barefootfishingsafaris.com.au/assets/img/band-pricing-glass-river-1000.jpg"
+    },
+    {
+      "dup": "https://barefootfishingsafaris.com.au/assets/img/about-mates-1000.avif"
+    },
+    {
+      "dup": "https://barefootfishingsafaris.com.au/assets/img/about-mates-1000.jpg"
+    },
+    {
+      "dup": "https://barefootfishingsafaris.com.au/assets/img/rig-boat-beach-1000.jpg"
+    },
+    {
+      "dup": "https://barefootfishingsafaris.com.au/assets/img/yt-7W2A5gFBkqU-1000.jpg"
+    }
+  ]
+}

@@ -1,0 +1,310 @@
+{
+  "slug": "humbug-fishing-darwin",
+  "request_hash": "17604f1bf7b6",
+  "collected_at": "2026-10-29T03:54:07.046Z",
+  "pages_fetched": [
+    "https://www.fishingcharterdarwin.com.au/",
+    "https://fishingcharterdarwin.com.au/",
+    "https://fishingcharterdarwin.com.au/commercial-marine-services/",
+    "https://fishingcharterdarwin.com.au/fishing-charter-options/",
+    "https://fishingcharterdarwin.com.au/live-aboard-fishing-charters/",
+    "https://fishingcharterdarwin.com.au/tag-along-fishing-charters/",
+    "https://fishingcharterdarwin.com.au/fishing-destinations/",
+    "https://fishingcharterdarwin.com.au/daly-river-reynold-flood-plains/",
+    "https://fishingcharterdarwin.com.au/kimberley-fishing-charters/",
+    "https://fishingcharterdarwin.com.au/fish-the-cobourg-peninsula-arnhem-land/",
+    "https://fishingcharterdarwin.com.au/mary-river-system/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 2000,
+      "height": 1099,
+      "original": "2200x1209",
+      "source": "https://fishingcharterdarwin.com.au/wp-content/uploads/2019/04/kimberleys-fishing-experien.jpg",
+      "page": "https://www.fishingcharterdarwin.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://fishingcharterdarwin.com.au/wp-content/uploads/2024/07/FATCAT.jpg",
+      "page": "https://www.fishingcharterdarwin.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1261,
+      "height": 631,
+      "original": "1261x631",
+      "source": "https://fishingcharterdarwin.com.au/wp-content/uploads/2025/06/QTAB-Horizontal-GreenYellow-Pos-RGB-1.webp",
+      "page": "https://www.fishingcharterdarwin.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1485,
+      "height": 762,
+      "original": "1485x762",
+      "source": "https://fishingcharterdarwin.com.au/wp-content/uploads/2024/07/FATCAT-e1787531533232.jpg",
+      "page": "https://www.fishingcharterdarwin.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://fishingcharterdarwin.com.au/wp-content/uploads/2024/07/1000015731-scaled.jpg",
+      "page": "https://www.fishingcharterdarwin.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 2000,
+      "height": 1091,
+      "original": "2200x1200",
+      "source": "https://fishingcharterdarwin.com.au/wp-content/uploads/2019/05/brute-force-on-ocean.jpg",
+      "page": "https://fishingcharterdarwin.com.au/commercial-marine-services/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 2000,
+      "height": 1220,
+      "original": "2000x1220",
+      "source": "https://fishingcharterdarwin.com.au/wp-content/uploads/2024/07/img_0750-e1722394529277.jpg",
+      "page": "https://fishingcharterdarwin.com.au/commercial-marine-services/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1600,
+      "height": 976,
+      "original": "1600x976",
+      "source": "https://fishingcharterdarwin.com.au/wp-content/uploads/2024/07/1000015735-e1722406976500.jpg",
+      "page": "https://fishingcharterdarwin.com.au/commercial-marine-services/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 898,
+      "height": 497,
+      "original": "898x497",
+      "source": "https://fishingcharterdarwin.com.au/wp-content/uploads/2019/04/brute-force-moving.jpg",
+      "page": "https://fishingcharterdarwin.com.au/commercial-marine-services/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 980,
+      "height": 551,
+      "original": "980x551",
+      "source": "https://fishingcharterdarwin.com.au/wp-content/uploads/2024/07/img_0750-e1722394529277-980x551.jpg",
+      "page": "https://fishingcharterdarwin.com.au/commercial-marine-services/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 980,
+      "height": 551,
+      "original": "980x551",
+      "source": "https://fishingcharterdarwin.com.au/wp-content/uploads/2024/07/1000015735-e1722406976500-980x551.jpg",
+      "page": "https://fishingcharterdarwin.com.au/commercial-marine-services/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2000x1500",
+      "source": "https://fishingcharterdarwin.com.au/wp-content/uploads/2024/06/img_1061.jpg",
+      "page": "https://fishingcharterdarwin.com.au/fishing-charter-options/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2000x1500",
+      "source": "https://fishingcharterdarwin.com.au/wp-content/uploads/2024/06/img_0954.jpg",
+      "page": "https://fishingcharterdarwin.com.au/fishing-charter-options/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1170,
+      "height": 878,
+      "original": "1170x878",
+      "source": "https://fishingcharterdarwin.com.au/wp-content/uploads/2024/06/img_4288-1.jpg",
+      "page": "https://fishingcharterdarwin.com.au/fishing-charter-options/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1248,
+      "height": 678,
+      "original": "1248x678",
+      "source": "https://fishingcharterdarwin.com.au/wp-content/uploads/2019/04/live-aboard-charters.jpg",
+      "page": "https://fishingcharterdarwin.com.au/live-aboard-fishing-charters/",
+      "priority": true
+    },
+    {
+      "file": "c16.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2000x1500",
+      "source": "https://fishingcharterdarwin.com.au/wp-content/uploads/2024/06/img_0530.jpg",
+      "page": "https://fishingcharterdarwin.com.au/live-aboard-fishing-charters/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.fishingcharterdarwin.com.au/",
+      "status": 200,
+      "final_url": "https://fishingcharterdarwin.com.au/",
+      "bytes": 329948
+    },
+    {
+      "page": "https://fishingcharterdarwin.com.au/",
+      "status": 200,
+      "final_url": "https://fishingcharterdarwin.com.au/",
+      "bytes": 329948
+    },
+    {
+      "page": "https://fishingcharterdarwin.com.au/commercial-marine-services/",
+      "status": 200,
+      "final_url": "https://fishingcharterdarwin.com.au/commercial-marine-services/",
+      "bytes": 331919
+    },
+    {
+      "page": "https://fishingcharterdarwin.com.au/fishing-charter-options/",
+      "status": 200,
+      "final_url": "https://fishingcharterdarwin.com.au/fishing-charter-options/",
+      "bytes": 336052
+    },
+    {
+      "page": "https://fishingcharterdarwin.com.au/live-aboard-fishing-charters/",
+      "status": 200,
+      "final_url": "https://fishingcharterdarwin.com.au/live-aboard-fishing-charters/",
+      "bytes": 336899
+    },
+    {
+      "page": "https://fishingcharterdarwin.com.au/tag-along-fishing-charters/",
+      "status": 200,
+      "final_url": "https://fishingcharterdarwin.com.au/tag-along-fishing-charters/",
+      "bytes": 343137
+    },
+    {
+      "page": "https://fishingcharterdarwin.com.au/fishing-destinations/",
+      "status": 200,
+      "final_url": "https://fishingcharterdarwin.com.au/fishing-destinations/",
+      "bytes": 343643
+    },
+    {
+      "page": "https://fishingcharterdarwin.com.au/daly-river-reynold-flood-plains/",
+      "status": 200,
+      "final_url": "https://fishingcharterdarwin.com.au/daly-river-reynold-flood-plains/",
+      "bytes": 358703
+    },
+    {
+      "page": "https://fishingcharterdarwin.com.au/kimberley-fishing-charters/",
+      "status": 200,
+      "final_url": "https://fishingcharterdarwin.com.au/kimberley-fishing-charters/",
+      "bytes": 490678
+    },
+    {
+      "page": "https://fishingcharterdarwin.com.au/fish-the-cobourg-peninsula-arnhem-land/",
+      "status": 200,
+      "final_url": "https://fishingcharterdarwin.com.au/fish-the-cobourg-peninsula-arnhem-land/",
+      "bytes": 459657
+    },
+    {
+      "page": "https://fishingcharterdarwin.com.au/mary-river-system/",
+      "status": 200,
+      "final_url": "https://fishingcharterdarwin.com.au/mary-river-system/",
+      "bytes": 358371
+    },
+    {
+      "dup": "https://fishingcharterdarwin.com.au/wp-content/uploads/2019/04/kimberleys-fishing-experien-1024x563.jpg"
+    },
+    {
+      "image": "https://fishingcharterdarwin.com.au/startafresh/wp-content/uploads/2019/04/stars.png",
+      "error": "HTTP 404"
+    },
+    {
+      "dup": "https://fishingcharterdarwin.com.au/wp-content/uploads/2024/07/FATCAT-e1787531533232-1280x720.jpg"
+    },
+    {
+      "dup": "https://fishingcharterdarwin.com.au/wp-content/uploads/2024/07/FATCAT-e1787531533232-980x551.jpg"
+    },
+    {
+      "image": "https://fishingcharterdarwin.com.au/wp-content/uploads/2024/07/FATCAT-e1787531533232-480x270.jpg",
+      "error": "too small 480x270"
+    },
+    {
+      "dup": "https://fishingcharterdarwin.com.au/wp-content/uploads/2025/06/QTAB-Horizontal-GreenYellow-Pos-RGB-1-980x490.webp"
+    },
+    {
+      "image": "https://fishingcharterdarwin.com.au/wp-content/uploads/2025/06/QTAB-Horizontal-GreenYellow-Pos-RGB-1-480x240.webp",
+      "error": "too small 480x240"
+    },
+    {
+      "image": "https://fishingcharterdarwin.com.au/wp-content/uploads/2019/05/brute-force-on-ocean-400x218.jpg",
+      "error": "too small 400x218"
+    },
+    {
+      "dup": "https://fishingcharterdarwin.com.au/wp-content/uploads/2019/05/brute-force-on-ocean-768x419.jpg"
+    },
+    {
+      "dup": "https://fishingcharterdarwin.com.au/wp-content/uploads/2019/05/brute-force-on-ocean-1024x559.jpg"
+    },
+    {
+      "dup": "https://fishingcharterdarwin.com.au/wp-content/uploads/2019/05/brute-force-on-ocean-1080x589.jpg"
+    },
+    {
+      "dup": "https://fishingcharterdarwin.com.au/wp-content/uploads/2024/07/img_0750-e1722394529277-1280x720.jpg"
+    },
+    {
+      "image": "https://fishingcharterdarwin.com.au/wp-content/uploads/2024/07/img_0750-e1722394529277-480x270.jpg",
+      "error": "too small 480x270"
+    },
+    {
+      "dup": "https://fishingcharterdarwin.com.au/wp-content/uploads/2024/07/1000015735-e1722406976500-1280x720.jpg"
+    },
+    {
+      "image": "https://fishingcharterdarwin.com.au/wp-content/uploads/2024/07/1000015735-e1722406976500-480x270.jpg",
+      "error": "too small 480x270"
+    },
+    {
+      "dup": "https://fishingcharterdarwin.com.au/wp-content/uploads/2024/06/img_1061-1280x960.jpg"
+    },
+    {
+      "dup": "https://fishingcharterdarwin.com.au/wp-content/uploads/2024/06/img_1061-980x735.jpg"
+    },
+    {
+      "image": "https://fishingcharterdarwin.com.au/wp-content/uploads/2024/06/img_1061-480x360.jpg",
+      "error": "too small 480x360"
+    },
+    {
+      "dup": "https://fishingcharterdarwin.com.au/wp-content/uploads/2024/06/img_0954-1280x960.jpg"
+    },
+    {
+      "dup": "https://fishingcharterdarwin.com.au/wp-content/uploads/2024/06/img_0954-980x735.jpg"
+    },
+    {
+      "image": "https://fishingcharterdarwin.com.au/wp-content/uploads/2024/06/img_0954-480x360.jpg",
+      "error": "too small 480x360"
+    },
+    {
+      "dup": "https://fishingcharterdarwin.com.au/wp-content/uploads/2024/06/img_4288-1-980x735.jpg"
+    },
+    {
+      "image": "https://fishingcharterdarwin.com.au/wp-content/uploads/2024/06/img_4288-1-480x360.jpg",
+      "error": "too small 480x360"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "research-nt-tours-c",
+  "request_hash": "32e6a8e168b0",
+  "collected_at": "2026-10-29T03:51:02.774Z",
+  "pages_fetched": [
+    "https://northernterritory.com/tours/river--reef-fishing-charters",
+    "https://northernterritory.com/tours/nt-fish-and-4x4",
+    "https://northernterritory.com/tours/australian-sportfishing-charters",
+    "https://northernterritory.com/tours/groote-eylandt-tours",
+    "https://northernterritory.com/tours/dhipirri-barra-and-sportfishing-lodge-arnhemland",
+    "https://northernterritory.com/tours/arnhemland-barramundi-nature-lodge-tours",
+    "https://northernterritory.com/tours/davidsons-arnhemland-safaris",
+    "https://northernterritory.com/tours/daly-river-barra-resort-tours",
+    "https://northernterritory.com/darwin-and-surrounds/accommodation/tiwi-island-retreat",
+    "https://northernterritory.com/darwin-and-surrounds/accommodation/point-stuart-wilderness-lodge",
+    "https://northernterritory.com/tours/reel-screamin-barra-fishing",
+    "https://northernterritory.com/tours/dundee-beach-fishing-charters"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://northernterritory.com/tours/river--reef-fishing-charters",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/river--reef-fishing-charters",
+      "bytes": 514486
+    },
+    {
+      "page": "https://northernterritory.com/tours/nt-fish-and-4x4",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/nt-fish-and-4x4",
+      "bytes": 520637
+    },
+    {
+      "page": "https://northernterritory.com/tours/australian-sportfishing-charters",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/australian-sportfishing-charters",
+      "bytes": 531212
+    },
+    {
+      "page": "https://northernterritory.com/tours/groote-eylandt-tours",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/groote-eylandt-tours",
+      "bytes": 522699
+    },
+    {
+      "page": "https://northernterritory.com/tours/dhipirri-barra-and-sportfishing-lodge-arnhemland",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/dhipirri-barra-and-sportfishing-lodge-arnhemland",
+      "bytes": 525483
+    },
+    {
+      "page": "https://northernterritory.com/tours/arnhemland-barramundi-nature-lodge-tours",
+      "status": 404,
+      "final_url": "https://northernterritory.com/tours/arnhemland-barramundi-nature-lodge-tours",
+      "bytes": 517251
+    },
+    {
+      "page": "https://northernterritory.com/tours/davidsons-arnhemland-safaris",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/davidsons-arnhemland-safaris",
+      "bytes": 526008
+    },
+    {
+      "page": "https://northernterritory.com/tours/daly-river-barra-resort-tours",
+      "status": 404,
+      "final_url": "https://northernterritory.com/tours/daly-river-barra-resort-tours",
+      "bytes": 517251
+    },
+    {
+      "page": "https://northernterritory.com/darwin-and-surrounds/accommodation/tiwi-island-retreat",
+      "status": 200,
+      "final_url": "https://northernterritory.com/darwin-and-surrounds/accommodation/tiwi-island-retreat",
+      "bytes": 528163
+    },
+    {
+      "page": "https://northernterritory.com/darwin-and-surrounds/accommodation/point-stuart-wilderness-lodge",
+      "status": 200,
+      "final_url": "https://northernterritory.com/darwin-and-surrounds/accommodation/point-stuart-wilderness-lodge",
+      "bytes": 523765
+    },
+    {
+      "page": "https://northernterritory.com/tours/reel-screamin-barra-fishing",
+      "status": 404,
+      "final_url": "https://northernterritory.com/tours/reel-screamin-barra-fishing",
+      "bytes": 517251
+    },
+    {
+      "page": "https://northernterritory.com/tours/dundee-beach-fishing-charters",
+      "status": 404,
+      "final_url": "https://northernterritory.com/tours/dundee-beach-fishing-charters",
+      "bytes": 517251
+    }
+  ]
+}

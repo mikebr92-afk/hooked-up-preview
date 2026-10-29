@@ -1,0 +1,327 @@
+{
+  "slug": "point-stuart-wilderness-lodge",
+  "request_hash": "d2e4808e6c04",
+  "collected_at": "2026-10-29T04:00:00.955Z",
+  "pages_fetched": [
+    "https://www.pointstuart.com.au/",
+    "https://webbflow-pointstuart.squarespace.com/tours",
+    "https://www.pointstuart.com.au/contact",
+    "https://www.pointstuart.com.au/barramundi-fishing",
+    "https://www.pointstuart.com.au/birding-wildlife-tours",
+    "https://www.pointstuart.com.au/4wd-safari-tour",
+    "https://www.pointstuart.com.au/boat-tackle-hire",
+    "https://www.pointstuart.com.au/about",
+    "https://www.pointstuart.com.au/tours",
+    "https://webbflow-pointstuart.squarespace.com/contact",
+    "https://webbflow-pointstuart.squarespace.com/barramundi-fishing",
+    "https://webbflow-pointstuart.squarespace.com/birding-wildlife-tours"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 2000,
+      "height": 855,
+      "original": "2500x1069",
+      "source": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1778460777252-HKRRF1JWOPI7HCZ08MMT/20260313_192211.jpg?format=2500w",
+      "page": "https://www.pointstuart.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 2000,
+      "height": 990,
+      "original": "2500x1237",
+      "source": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1778461142361-07RIZ2OVDGNC9LJZ6QT6/20260326_144548.jpg?format=2500w",
+      "page": "https://www.pointstuart.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 2000,
+      "height": 1125,
+      "original": "2500x1406",
+      "source": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1778461710520-Z9IAE1AXANQVIXGKHAFK/PSWL+6.jpeg?format=2500w",
+      "page": "https://www.pointstuart.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 2000,
+      "height": 1218,
+      "original": "2500x1523",
+      "source": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1778461582792-1FLBMZBYQWL9D49DHS7I/Cruise+early+morning+-+Copy.jpg?format=2500w",
+      "page": "https://www.pointstuart.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 2000,
+      "height": 1157,
+      "original": "2313x1338",
+      "source": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1553751968174-YPEIOFZD2K74ZM3E05KY/Lodge+room.JPG?format=2500w",
+      "page": "https://www.pointstuart.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1600,
+      "height": 900,
+      "original": "1600x900",
+      "source": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1553752571984-O6NID8EUGNRX2M4EP21D/DJI_0248+-+Copy.JPG?format=2500w",
+      "page": "https://www.pointstuart.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1000,
+      "height": 669,
+      "original": "1000x669",
+      "source": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1549807404339-TT3MJBLXWIRQ7IQHR8SX/DSC_2591+%282%29.jpg?format=2500w",
+      "page": "https://www.pointstuart.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 982,
+      "height": 668,
+      "original": "982x668",
+      "source": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1553752346939-6LMX96HVMB43NUVZGBCY/Pool+1+%282%29.JPG?format=2500w",
+      "page": "https://www.pointstuart.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1460,
+      "height": 1095,
+      "original": "1460x1095",
+      "source": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1553751232074-T9ZGT7UUFM1TL03NMA7E/058+-+Copy.JPG?format=2500w",
+      "page": "https://www.pointstuart.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1000,
+      "height": 669,
+      "original": "1000x669",
+      "source": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1550551894811-9MM6PNKM7KQ46BP5X8TR/DSC_2581.jpg?format=2500w",
+      "page": "https://www.pointstuart.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1000,
+      "height": 563,
+      "original": "1000x563",
+      "source": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1549811845289-S5ISQBULPXAZGGVO52OY/DJI_0028+%282%29.jpg?format=2500w",
+      "page": "https://www.pointstuart.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2500x1667",
+      "source": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1626064716340-8PKKIRJBFWSZETOSRJ5Q/New+Jumping+Pillow.JPG?format=2500w",
+      "page": "https://www.pointstuart.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1000,
+      "height": 750,
+      "original": "1000x750",
+      "source": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1549988065813-01MQMDBF2XY17PEKK6XN/Tim+OGrady.jpg?format=2500w",
+      "page": "https://webbflow-pointstuart.squarespace.com/tours",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1000,
+      "height": 750,
+      "original": "1000x750",
+      "source": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1549988066713-LBSP064UZKQH25WTADYZ/Deans+phone+photos+344.jpg?format=2500w",
+      "page": "https://webbflow-pointstuart.squarespace.com/tours",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1000,
+      "height": 667,
+      "original": "1000x667",
+      "source": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1549982038270-ALIATX83AWR5BON70JNX/Fishing+runoff+2018.jpg?format=2500w",
+      "page": "https://webbflow-pointstuart.squarespace.com/tours",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1000,
+      "height": 750,
+      "original": "1000x750",
+      "source": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1550549387944-3P4S58U512B3ZELKZYYH/011.jpg?format=2500w",
+      "page": "https://webbflow-pointstuart.squarespace.com/tours",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.pointstuart.com.au/",
+      "status": 200,
+      "final_url": "https://www.pointstuart.com.au/",
+      "bytes": 136905
+    },
+    {
+      "page": "https://webbflow-pointstuart.squarespace.com/tours",
+      "status": 200,
+      "final_url": "https://webbflow-pointstuart.squarespace.com/barramundi-fishing",
+      "bytes": 164230
+    },
+    {
+      "page": "https://www.pointstuart.com.au/contact",
+      "status": 200,
+      "final_url": "https://www.pointstuart.com.au/contact",
+      "bytes": 135015
+    },
+    {
+      "page": "https://www.pointstuart.com.au/barramundi-fishing",
+      "status": 200,
+      "final_url": "https://www.pointstuart.com.au/barramundi-fishing",
+      "bytes": 164230
+    },
+    {
+      "page": "https://www.pointstuart.com.au/birding-wildlife-tours",
+      "status": 200,
+      "final_url": "https://www.pointstuart.com.au/birding-wildlife-tours",
+      "bytes": 165338
+    },
+    {
+      "page": "https://www.pointstuart.com.au/4wd-safari-tour",
+      "status": 200,
+      "final_url": "https://www.pointstuart.com.au/4wd-safari-tour",
+      "bytes": 142808
+    },
+    {
+      "page": "https://www.pointstuart.com.au/boat-tackle-hire",
+      "status": 200,
+      "final_url": "https://www.pointstuart.com.au/boat-tackle-hire",
+      "bytes": 113116
+    },
+    {
+      "page": "https://www.pointstuart.com.au/about",
+      "status": 200,
+      "final_url": "https://www.pointstuart.com.au/our-history",
+      "bytes": 138934
+    },
+    {
+      "page": "https://www.pointstuart.com.au/tours",
+      "status": 200,
+      "final_url": "https://www.pointstuart.com.au/barramundi-fishing",
+      "bytes": 164230
+    },
+    {
+      "page": "https://webbflow-pointstuart.squarespace.com/contact",
+      "status": 200,
+      "final_url": "https://webbflow-pointstuart.squarespace.com/contact",
+      "bytes": 135015
+    },
+    {
+      "page": "https://webbflow-pointstuart.squarespace.com/barramundi-fishing",
+      "status": 200,
+      "final_url": "https://webbflow-pointstuart.squarespace.com/barramundi-fishing",
+      "bytes": 164230
+    },
+    {
+      "page": "https://webbflow-pointstuart.squarespace.com/birding-wildlife-tours",
+      "status": 200,
+      "final_url": "https://webbflow-pointstuart.squarespace.com/birding-wildlife-tours",
+      "bytes": 165338
+    },
+    {
+      "image": "https://static1.squarespace.com/static/5c5eea3290f904ec7d82ead6/t/5c8138c84e17b66aace2dca7/1791341559081/",
+      "error": "too small 960x323"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1778461850598-CKWONK1N3QOCZQTG82G4/PXL_20240519_084653491%7E2.jpg?format=2500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1553751968174-YPEIOFZD2K74ZM3E05KY/Lodge+room.JPG"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1553752571984-O6NID8EUGNRX2M4EP21D/DJI_0248+-+Copy.JPG"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1549807404339-TT3MJBLXWIRQ7IQHR8SX/DSC_2591+%282%29.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1553752346939-6LMX96HVMB43NUVZGBCY/Pool+1+%282%29.JPG"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1553751232074-T9ZGT7UUFM1TL03NMA7E/058+-+Copy.JPG"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1550551894811-9MM6PNKM7KQ46BP5X8TR/DSC_2581.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1778460777252-HKRRF1JWOPI7HCZ08MMT/20260313_192211.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1778461142361-07RIZ2OVDGNC9LJZ6QT6/20260326_144548.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1778461710520-Z9IAE1AXANQVIXGKHAFK/PSWL+6.jpeg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1778461582792-1FLBMZBYQWL9D49DHS7I/Cruise+early+morning+-+Copy.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1778461850598-CKWONK1N3QOCZQTG82G4/PXL_20240519_084653491%7E2.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1549811845289-S5ISQBULPXAZGGVO52OY/DJI_0028+%282%29.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1549811845289-S5ISQBULPXAZGGVO52OY/DJI_0028+%282%29.jpg?format=100w",
+      "error": "too small 100x56"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1549811845289-S5ISQBULPXAZGGVO52OY/DJI_0028+%282%29.jpg?format=300w",
+      "error": "too small 300x169"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1549811845289-S5ISQBULPXAZGGVO52OY/DJI_0028+%282%29.jpg?format=500w",
+      "error": "too small 500x282"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1549811845289-S5ISQBULPXAZGGVO52OY/DJI_0028+%282%29.jpg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1549811845289-S5ISQBULPXAZGGVO52OY/DJI_0028+%282%29.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1549811845289-S5ISQBULPXAZGGVO52OY/DJI_0028+%282%29.jpg?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1626064716340-8PKKIRJBFWSZETOSRJ5Q/New+Jumping+Pillow.JPG"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1626064716340-8PKKIRJBFWSZETOSRJ5Q/New+Jumping+Pillow.JPG?format=100w",
+      "error": "too small 100x67"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1626064716340-8PKKIRJBFWSZETOSRJ5Q/New+Jumping+Pillow.JPG?format=300w",
+      "error": "too small 300x200"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1626064716340-8PKKIRJBFWSZETOSRJ5Q/New+Jumping+Pillow.JPG?format=500w",
+      "error": "too small 500x333"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1626064716340-8PKKIRJBFWSZETOSRJ5Q/New+Jumping+Pillow.JPG?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1626064716340-8PKKIRJBFWSZETOSRJ5Q/New+Jumping+Pillow.JPG?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1626064716340-8PKKIRJBFWSZETOSRJ5Q/New+Jumping+Pillow.JPG?format=1500w"
+    }
+  ]
+}

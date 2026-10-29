@@ -1,45 +1,117 @@
 {
-  "finished_at": "2026-10-29T03:48:47.236Z",
+  "finished_at": "2026-10-29T04:00:00.955Z",
   "summary": [
     {
       "slug": "research-nt-index",
-      "candidates": 0,
-      "pages": 12
+      "skipped": true
     },
     {
       "slug": "research-nt-tours-a",
-      "candidates": 0,
-      "pages": 12
+      "skipped": true
     },
     {
       "slug": "research-nt-tours-b",
+      "skipped": true
+    },
+    {
+      "slug": "research-top-end-sportfishing",
+      "skipped": true
+    },
+    {
+      "slug": "darwin-harbour-fishing-charters",
+      "skipped": true
+    },
+    {
+      "slug": "barra-private-tours-darwin",
+      "skipped": true
+    },
+    {
+      "slug": "barra-or-blue-fishing-charters-darwin",
+      "skipped": true
+    },
+    {
+      "slug": "cobourg-fishing-safaris",
+      "skipped": true
+    },
+    {
+      "slug": "research-nt-tours-c",
       "candidates": 0,
       "pages": 12
     },
     {
-      "slug": "research-top-end-sportfishing",
+      "slug": "research-nt-tours-d",
       "candidates": 0,
+      "pages": 12
+    },
+    {
+      "slug": "equinox-fishing-charters-darwin",
+      "candidates": 16,
       "pages": 5
     },
     {
-      "slug": "darwin-harbour-fishing-charters",
-      "candidates": 0,
-      "pages": 10
+      "slug": "offshore-boats-darwin",
+      "candidates": 16,
+      "pages": 11
     },
     {
-      "slug": "barra-private-tours-darwin",
-      "candidates": 0,
-      "pages": 10
-    },
-    {
-      "slug": "barra-or-blue-fishing-charters-darwin",
-      "candidates": 0,
+      "slug": "estuary-escapes-fishing-charters",
+      "candidates": 16,
       "pages": 6
+    },
+    {
+      "slug": "alure-fishing-charters-nt",
+      "candidates": 16,
+      "pages": 11
+    },
+    {
+      "slug": "just-doon-it-fishing-charters",
+      "candidates": 16,
+      "pages": 6
+    },
+    {
+      "slug": "vision-sportfishing-charters",
+      "candidates": 4,
+      "pages": 1
+    },
+    {
+      "slug": "humbug-fishing-darwin",
+      "candidates": 16,
+      "pages": 11
+    },
+    {
+      "slug": "dna-barra-fishing",
+      "candidates": 16,
+      "pages": 10
+    },
+    {
+      "slug": "kakadu-fishing-tours",
+      "candidates": 16,
+      "pages": 7
+    },
+    {
+      "slug": "barefoot-fishing-safaris",
+      "candidates": 16,
+      "pages": 11
     },
     {
       "slug": "cobourg-fishing-safaris",
       "candidates": 16,
-      "pages": 10
+      "pages": 12
+    },
+    {
+      "slug": "obj-adventures-nhulunbuy-fishing-charters",
+      "candidates": 16,
+      "pages": 8
+    },
+    {
+      "slug": "icfish-daly-river",
+      "candidates": 0,
+      "pages": 1
+    },
+    {
+      "slug": "point-stuart-wilderness-lodge",
+      "candidates": 16,
+      "pages": 12
     }
   ]
 }

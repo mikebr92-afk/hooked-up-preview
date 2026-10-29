@@ -1,22 +1,51 @@
 {
   "slug": "cobourg-fishing-safaris",
-  "request_hash": "ad4d2a6611c6",
-  "collected_at": "2026-10-29T03:48:47.236Z",
+  "request_hash": "b1e1fc3fdf9c",
+  "collected_at": "2026-10-29T03:59:24.856Z",
   "pages_fetched": [
+    "https://www.cobourgfishingsafaris.com.au/",
     "https://venturenorth.com.au/tours/fishing-charters/",
-    "https://venturenorth.com.au/book-now/",
-    "https://venturenorth.com.au/about/",
-    "https://venturenorth.com.au/tours/",
-    "https://venturenorth.com.au/contact/",
-    "https://venturenorth.com.au/northern-territory-tourism-blog/",
-    "https://venturenorth.com.au/venture-north/our-boat",
-    "https://venturenorth.com.au/venture-north/faq/",
-    "https://venturenorth.com.au/venture-north/tourism-awards/",
-    "https://venturenorth.com.au/tours/fishing-charters/Member%20Discover%20Aboriginal%20Experiences"
+    "https://www.cobourgfishingsafaris.com.au/about",
+    "https://www.cobourgfishingsafaris.com.au/fishing-charters",
+    "https://www.cobourgfishingsafaris.com.au/coastal-camp",
+    "https://www.cobourgfishingsafaris.com.au/northern-territory-tourism-blog",
+    "https://www.cobourgfishingsafaris.com.au/book-now/",
+    "https://www.cobourgfishingsafaris.com.au/northern-territory-tourism-blog/",
+    "https://www.cobourgfishingsafaris.com.au/black-point-tours/black-point-tours",
+    "https://www.cobourgfishingsafaris.com.au/privacy-policy",
+    "https://www.cobourgfishingsafaris.com.au/terms-and-conditions",
+    "https://venturenorth.com.au/book-now/"
   ],
   "candidates": [
     {
       "file": "c01.webp",
+      "width": 1200,
+      "height": 630,
+      "original": "1200x630",
+      "source": "https://cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/26_26-1.bigfish.ede22f3b6d1081de287e26c3281c0748.jpg",
+      "page": "https://www.cobourgfishingsafaris.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 1920,
+      "height": 1440,
+      "original": "1920x1440",
+      "source": "https://www.cobourgfishingsafaris.com.au/assets/uploads/2026/cfs-hero-2026.webp",
+      "page": "https://www.cobourgfishingsafaris.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1920,
+      "height": 1189,
+      "original": "1920x1189",
+      "source": "https://www.cobourgfishingsafaris.com.au/2025/images/cta-bg-2.jpg",
+      "page": "https://www.cobourgfishingsafaris.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
       "width": 1200,
       "height": 630,
       "original": "1200x630",
@@ -25,7 +54,7 @@
       "priority": true
     },
     {
-      "file": "c02.webp",
+      "file": "c05.webp",
       "width": 2000,
       "height": 1500,
       "original": "4000x3000",
@@ -34,138 +63,171 @@
       "priority": false
     },
     {
-      "file": "c03.webp",
-      "width": 1078,
-      "height": 566,
-      "original": "1078x566",
-      "source": "https://venturenorth.com.au/assets/components/phpthumbof/cache/26_26-15.thin-contact2.363807a2c51c60ee0e9f5afbcae864cb.jpg",
-      "page": "https://venturenorth.com.au/book-now/",
-      "priority": true
-    },
-    {
-      "file": "c04.webp",
-      "width": 1200,
-      "height": 630,
-      "original": "1200x630",
-      "source": "https://venturenorth.com.au/assets/components/phpthumbof/cache/26_26-8.staff%205.abdad39be93e0d6e90417ddf29620aa3.jpg",
-      "page": "https://venturenorth.com.au/about/",
-      "priority": true
-    },
-    {
-      "file": "c05.webp",
-      "width": 1600,
-      "height": 1200,
-      "original": "1600x1200",
-      "source": "https://venturenorth.com.au/assets/uploads/images/8/26_26-8.staff%205.jpg",
-      "page": "https://venturenorth.com.au/about/",
-      "priority": false
-    },
-    {
       "file": "c06.webp",
       "width": 1200,
       "height": 630,
       "original": "1200x630",
-      "source": "https://venturenorth.com.au/assets/components/phpthumbof/cache/26_26-7.Photo%2027-8-2026%2C%206%2032%2039%20pm.53ac47ded0aba11dfb95baf042f37af3.jpg",
-      "page": "https://venturenorth.com.au/tours/",
+      "source": "https://cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/26_26-8.Cliff%20fishing%20-%20Aerial.6ec42bcf1909c6cc3f3d72be4b1d3eb0.jpg",
+      "page": "https://www.cobourgfishingsafaris.com.au/about",
       "priority": true
     },
     {
       "file": "c07.webp",
-      "width": 2000,
-      "height": 1500,
-      "original": "5712x4284",
-      "source": "https://venturenorth.com.au/assets/uploads/images/7/26_26-7.Photo%2027-8-2026,%206%2032%2039%20pm.jpg",
-      "page": "https://venturenorth.com.au/tours/",
+      "width": 1600,
+      "height": 1200,
+      "original": "1600x1200",
+      "source": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/26_26-8.Cliff%20fishing%20-%20Aerial.ad007c247ae963d1a8c65eb58cb091bf.jpg",
+      "page": "https://www.cobourgfishingsafaris.com.au/about",
       "priority": false
     },
     {
       "file": "c08.webp",
-      "width": 1600,
-      "height": 624,
-      "original": "1600x624",
-      "source": "https://venturenorth.com.au/assets/components/phpthumbof/cache/26_26-19.sunset.71fca2be89e31ad432ac1ab92ddb65f5.jpg",
-      "page": "https://venturenorth.com.au/tours/",
-      "priority": false
+      "width": 1200,
+      "height": 630,
+      "original": "1200x630",
+      "source": "https://cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/26_26-57.Jo%20Starling%20Huge%20Queenfish.2a18d00c45ec3b086450088f7f3f70ff.jpg",
+      "page": "https://www.cobourgfishingsafaris.com.au/fishing-charters",
+      "priority": true
     },
     {
       "file": "c09.webp",
       "width": 1600,
-      "height": 1066,
-      "original": "1600x1066",
-      "source": "https://venturenorth.com.au/assets/components/phpthumbof/cache/26_26-264.Ubirr%202.14f5699f74bdcacb8c33cc3a24e1aba7.jpg",
-      "page": "https://venturenorth.com.au/tours/",
+      "height": 1006,
+      "original": "1600x1006",
+      "source": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/26_26-57.Jo%20Starling%20Huge%20Queenfish.5fdb63dc6ca79f13171c65d14c906321.jpg",
+      "page": "https://www.cobourgfishingsafaris.com.au/fishing-charters",
       "priority": false
     },
     {
       "file": "c10.webp",
-      "width": 1448,
-      "height": 1086,
-      "original": "1448x1086",
-      "source": "https://venturenorth.com.au/assets/components/phpthumbof/cache/26_26-42.Warm%20Sunset%20Over%20the%20Gorge-2.2600ed08d42a422e89a6de5a7cee52f0.png",
-      "page": "https://venturenorth.com.au/tours/",
-      "priority": false
+      "width": 1200,
+      "height": 630,
+      "original": "1200x630",
+      "source": "https://cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/26_26-10.ffe6b63a-fa80-4d9d-8c55-bc2b322a00a5.60f55d67e1802bdee271df8f9225414a.jpg",
+      "page": "https://www.cobourgfishingsafaris.com.au/coastal-camp",
+      "priority": true
     },
     {
       "file": "c11.webp",
-      "width": 1600,
-      "height": 1200,
-      "original": "1600x1200",
-      "source": "https://venturenorth.com.au/assets/components/phpthumbof/cache/26_26-76.801IhQIQ.29c4c3276339b205cc6f2d165640c674.jpg",
-      "page": "https://venturenorth.com.au/tours/",
+      "width": 943,
+      "height": 600,
+      "original": "943x600",
+      "source": "https://cobourgfishingsafaris.com.au/assets/uploads/content/images/CFS_Fish_CCC.JPG",
+      "page": "https://www.cobourgfishingsafaris.com.au/coastal-camp",
       "priority": false
     },
     {
       "file": "c12.webp",
-      "width": 1600,
-      "height": 1067,
-      "original": "1600x1067",
-      "source": "https://venturenorth.com.au/assets/components/phpthumbof/cache/26_26-18.650369-19%20-%20Copy.70d53da1256fae42c48fdc75cacb771e.jpg",
-      "page": "https://venturenorth.com.au/tours/",
+      "width": 1039,
+      "height": 475,
+      "original": "1039x475",
+      "source": "https://www.cobourgfishingsafaris.com.au/assets/uploads/content/images/Fishing_2019.JPG",
+      "page": "https://www.cobourgfishingsafaris.com.au/coastal-camp",
       "priority": false
     },
     {
       "file": "c13.webp",
-      "width": 1600,
-      "height": 1280,
-      "original": "1600x1280",
-      "source": "https://venturenorth.com.au/assets/components/phpthumbof/cache/26_26-40.hot%20springs.64b711b1cbb5934e5fca690d592e9d8d.jpg",
-      "page": "https://venturenorth.com.au/tours/",
-      "priority": false
-    },
-    {
-      "file": "c14.webp",
       "width": 1200,
       "height": 630,
       "original": "1200x630",
-      "source": "https://venturenorth.com.au/assets/components/phpthumbof/cache/26_26-16.coast.613e2386d4ea95d4641d8ba52eeb344a.jpg",
-      "page": "https://venturenorth.com.au/northern-territory-tourism-blog/",
+      "source": "https://cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/26_26-16.Cockels%20From%20The%20Beach.0c3c7027fbda24929ae932a622da6e6a.jpg",
+      "page": "https://www.cobourgfishingsafaris.com.au/northern-territory-tourism-blog",
+      "priority": true
+    },
+    {
+      "file": "c14.webp",
+      "width": 1166,
+      "height": 612,
+      "original": "1166x612",
+      "source": "https://cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/26_26-60.bg-fishing.23bc95f91bb25fb9e5837e598ee9a786.jpg",
+      "page": "https://www.cobourgfishingsafaris.com.au/book-now/",
       "priority": true
     },
     {
       "file": "c15.webp",
-      "width": 2000,
-      "height": 780,
-      "original": "2000x780",
-      "source": "https://venturenorth.com.au/assets/uploads/images/16/26_26-16.coast.jpg",
-      "page": "https://venturenorth.com.au/northern-territory-tourism-blog/",
+      "width": 1563,
+      "height": 612,
+      "original": "1563x612",
+      "source": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/26_26-60.bg-fishing.6d76e309b53f4642c99a707042c008da.jpg",
+      "page": "https://www.cobourgfishingsafaris.com.au/book-now/",
       "priority": false
     },
     {
       "file": "c16.webp",
-      "width": 1200,
-      "height": 630,
-      "original": "1200x630",
-      "source": "https://venturenorth.com.au/assets/components/phpthumbof/cache/26_26-37.billabongSunset.0ec083bbe84c0b9c650b680eaad12ce2.jpg",
-      "page": "https://venturenorth.com.au/venture-north/faq/",
+      "width": 972,
+      "height": 510,
+      "original": "972x510",
+      "source": "https://cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/26_26-106.boat.deed1c38aaf447c49aefb0dcf1d65ddd.jpg",
+      "page": "https://www.cobourgfishingsafaris.com.au/black-point-tours/black-point-tours",
       "priority": true
     }
   ],
   "log": [
     {
+      "page": "https://www.cobourgfishingsafaris.com.au/",
+      "status": 200,
+      "final_url": "https://www.cobourgfishingsafaris.com.au/",
+      "bytes": 84591
+    },
+    {
       "page": "https://venturenorth.com.au/tours/fishing-charters/",
       "status": 200,
       "final_url": "https://venturenorth.com.au/tours/fishing-charters/",
       "bytes": 39125
+    },
+    {
+      "page": "https://www.cobourgfishingsafaris.com.au/about",
+      "status": 200,
+      "final_url": "https://www.cobourgfishingsafaris.com.au/about",
+      "bytes": 26231
+    },
+    {
+      "page": "https://www.cobourgfishingsafaris.com.au/fishing-charters",
+      "status": 200,
+      "final_url": "https://www.cobourgfishingsafaris.com.au/fishing-charters",
+      "bytes": 35903
+    },
+    {
+      "page": "https://www.cobourgfishingsafaris.com.au/coastal-camp",
+      "status": 200,
+      "final_url": "https://www.cobourgfishingsafaris.com.au/coastal-camp",
+      "bytes": 33670
+    },
+    {
+      "page": "https://www.cobourgfishingsafaris.com.au/northern-territory-tourism-blog",
+      "status": 200,
+      "final_url": "https://cobourgfishingsafaris.com.au/northern-territory-tourism-blog/",
+      "bytes": 27485
+    },
+    {
+      "page": "https://www.cobourgfishingsafaris.com.au/book-now/",
+      "status": 200,
+      "final_url": "https://www.cobourgfishingsafaris.com.au/book-now/",
+      "bytes": 20520
+    },
+    {
+      "page": "https://www.cobourgfishingsafaris.com.au/northern-territory-tourism-blog/",
+      "status": 200,
+      "final_url": "https://www.cobourgfishingsafaris.com.au/northern-territory-tourism-blog/",
+      "bytes": 27485
+    },
+    {
+      "page": "https://www.cobourgfishingsafaris.com.au/black-point-tours/black-point-tours",
+      "status": 200,
+      "final_url": "https://www.cobourgfishingsafaris.com.au/black-point-tours/black-point-tours",
+      "bytes": 24031
+    },
+    {
+      "page": "https://www.cobourgfishingsafaris.com.au/privacy-policy",
+      "status": 200,
+      "final_url": "https://www.cobourgfishingsafaris.com.au/privacy-policy",
+      "bytes": 21820
+    },
+    {
+      "page": "https://www.cobourgfishingsafaris.com.au/terms-and-conditions",
+      "status": 200,
+      "final_url": "https://www.cobourgfishingsafaris.com.au/terms-and-conditions",
+      "bytes": 22086
     },
     {
       "page": "https://venturenorth.com.au/book-now/",
@@ -174,52 +236,36 @@
       "bytes": 30749
     },
     {
-      "page": "https://venturenorth.com.au/about/",
-      "status": 200,
-      "final_url": "https://venturenorth.com.au/about/",
-      "bytes": 33819
+      "image": "https://www.cobourgfishingsafaris.com.au/2025/images/accreditations-01.png",
+      "error": "too small 94x95"
     },
     {
-      "page": "https://venturenorth.com.au/tours/",
-      "status": 200,
-      "final_url": "https://venturenorth.com.au/tours/",
-      "bytes": 32593
+      "image": "https://www.cobourgfishingsafaris.com.au/2025/images/accreditations-02.png",
+      "error": "too small 95x95"
     },
     {
-      "page": "https://venturenorth.com.au/contact/",
-      "status": 200,
-      "final_url": "https://venturenorth.com.au/contact/",
-      "bytes": 25157
+      "image": "https://www.cobourgfishingsafaris.com.au/2025/images/accreditations-03.png",
+      "error": "too small 95x95"
     },
     {
-      "page": "https://venturenorth.com.au/northern-territory-tourism-blog/",
-      "status": 200,
-      "final_url": "https://venturenorth.com.au/northern-territory-tourism-blog/",
-      "bytes": 46542
+      "image": "https://www.cobourgfishingsafaris.com.au/2025/images/accreditations-04.png",
+      "error": "too small 95x95"
     },
     {
-      "page": "https://venturenorth.com.au/venture-north/our-boat",
-      "status": 404,
-      "final_url": "https://venturenorth.com.au/venture-north/our-boat",
-      "bytes": 5659
+      "image": "https://www.cobourgfishingsafaris.com.au/2025/images/accreditations-05.png",
+      "error": "too small 95x95"
     },
     {
-      "page": "https://venturenorth.com.au/venture-north/faq/",
-      "status": 200,
-      "final_url": "https://venturenorth.com.au/venture-north/faq/",
-      "bytes": 69391
+      "image": "https://www.cobourgfishingsafaris.com.au/2025/images/accreditations-06.png",
+      "error": "too small 95x95"
     },
     {
-      "page": "https://venturenorth.com.au/venture-north/tourism-awards/",
-      "status": 200,
-      "final_url": "https://venturenorth.com.au/venture-north/tourism-awards/",
-      "bytes": 27418
+      "image": "https://www.cobourgfishingsafaris.com.au/static/img/bg-texture.jpg",
+      "error": "too small 496x335"
     },
     {
-      "page": "https://venturenorth.com.au/tours/fishing-charters/Member%20Discover%20Aboriginal%20Experiences",
-      "status": 404,
-      "final_url": "https://venturenorth.com.au/tours/fishing-charters/Member%20Discover%20Aboriginal%20Experiences",
-      "bytes": 5659
+      "image": "https://customer-scwb94clidwa8d1o.cloudflarestream.com/d5caade6e69ae131b78b552cf70c4850/iframe?muted=true&preload=true&loop=true&autoplay=true&poster=https%3A%2F%2Fcustomer-scwb94clidwa8d1o.cloudflarestream.com%2Fd5caade6e69ae131b78b552cf70c4850%2Fthumbnails%2Fthumbnail.jpg",
+      "error": "Input buffer contains unsupported image format"
     },
     {
       "image": "https://venturenorth.com.au/tours/fishing-charters/assets/uploads/content/images/Cobourg_Fishing.jpg",
@@ -283,53 +329,317 @@
     },
     {
       "image": "https://venturenorth.com.au/assets/components/phpthumbof/cache/qtab-shield.c93a5a2793c164de1918bf5f2495209b.jpg",
-      "error": "too small 250x250"
+      "error": "HTTP 525"
     },
     {
-      "image": "https://venturenorth.com.au/assets/uploads/images/15/26_26-15.thin-contact2.jpg",
-      "error": "banner/strip 2530x566"
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/uploads/images/banner-xmas.jpg",
+      "error": "too small 936x90"
     },
     {
-      "image": "https://venturenorth.com.au/assets/components/phpthumbof/cache/3-8.Staff%203.27805f55063e09e4acfb222f2655dab0.jpg",
-      "error": "too small 78x78"
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/3-8.download%20%285%29.a0c7a35529d360a1d70c804807faba0d.jpg",
+      "error": "too small 128x72"
     },
     {
-      "image": "https://venturenorth.com.au/assets/components/phpthumbof/cache/3-8.d2%20Injalak%20Hill%20Tour%2C%20Arnhem%20Land.27805f55063e09e4acfb222f2655dab0.jpg",
-      "error": "too small 78x78"
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/3-8.download%20%283%29.a0c7a35529d360a1d70c804807faba0d.jpg",
+      "error": "too small 128x72"
     },
     {
-      "image": "https://venturenorth.com.au/assets/components/phpthumbof/cache/3-8.Venture%20North%20182.27805f55063e09e4acfb222f2655dab0.jpg",
-      "error": "too small 78x78"
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/3-8.download.a0c7a35529d360a1d70c804807faba0d.jpg",
+      "error": "too small 128x72"
     },
     {
-      "image": "https://venturenorth.com.au/assets/components/phpthumbof/cache/3-8.lecour.416e8f82c0252ada048eec8e5622d291.jpg",
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/3-8.download%20%286%29.a0c7a35529d360a1d70c804807faba0d.jpg",
+      "error": "too small 128x72"
+    },
+    {
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/3-8.476858639_1076756824467256_2856935558265863721_n.a0c7a35529d360a1d70c804807faba0d.jpg",
+      "error": "too small 128x72"
+    },
+    {
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/3-8.Cobourg%20Fishing%20Safaris%20GT%20Double%20Hookup.a0c7a35529d360a1d70c804807faba0d.jpg",
+      "error": "too small 128x72"
+    },
+    {
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/3-8.download%20%284%29.a0c7a35529d360a1d70c804807faba0d.jpg",
+      "error": "too small 128x72"
+    },
+    {
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/3-8.smaller%20cod%20fishing.a0c7a35529d360a1d70c804807faba0d.jpg",
+      "error": "too small 128x72"
+    },
+    {
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/3-8.3-1.steve.74a10f9ebc6c755fc39890a251b06d4f.jpg",
       "error": "too small 75x75"
     },
     {
-      "dup": "https://venturenorth.com.au/assets/components/phpthumbof/cache/26_26-45.Headland%20Fishing%20-%20Aerial.2037bc9049ea8c7fe1d3b72c14461a5f.jpg"
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/eco.870424b347f1c432f0f55a5ad2e8329f.png",
+      "error": "too small 80x80"
     },
     {
-      "dup": "https://venturenorth.com.au/assets/components/phpthumbof/cache/26_26-33.thin-contact2.d947ebcd235cd5c3c46ab3e27e9c43a3.jpg"
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/roc.870424b347f1c432f0f55a5ad2e8329f.png",
+      "error": "too small 80x80"
     },
     {
-      "image": "https://venturenorth.com.au/assets/uploads/images/33/26_26-33.thin-contact2.jpg",
-      "error": "banner/strip 2530x566"
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/tall.870424b347f1c432f0f55a5ad2e8329f.png",
+      "error": "too small 80x80"
     },
     {
-      "image": "https://venturenorth.com.au/assets/components/phpthumbof/cache/40_40-275.fb.710afe8e3061c4d99c813691412eb344.png",
-      "error": "too small 365x365"
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/tourismTopEnd.870424b347f1c432f0f55a5ad2e8329f.png",
+      "error": "too small 80x80"
     },
     {
-      "image": "https://venturenorth.com.au/assets/components/phpthumbof/cache/40_40-270.VN_short.00_00_03_47.Still004.a6fa4ea27b7630f44d15fcebd952a3b7.jpg",
-      "error": "too small 365x205"
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/Sustainable1.4508f2c66c4cbc264d069a34c93cc9ce.jpg",
+      "error": "too small 320x320"
     },
     {
-      "image": "https://venturenorth.com.au/assets/components/phpthumbof/cache/40_40-269.sunset_at_ubirr.42217b4457c82a9ded28885e7c4197ad.jpg",
-      "error": "too small 365x163"
+      "dup": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/26_26-8.Cliff%20fishing%20-%20Aerial.5f8016748a38c5adbe8725db16ef4e84.jpg"
     },
     {
-      "image": "https://venturenorth.com.au/assets/components/phpthumbof/cache/40_40-262.East%20Arnhem%20Land%20Womens%20Day.3e00699c29a5090fa7b5a0330fab560b.jpg",
-      "error": "too small 365x205"
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/3-57.Cobourg%20Fishing%20Safaris%20ET%20Jew%20Fish.b8162588b601cd746338d02f70a899f5.jpg",
+      "error": "too small 128x72"
+    },
+    {
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/3-57.boat-fish1.b8162588b601cd746338d02f70a899f5.jpg",
+      "error": "too small 128x72"
+    },
+    {
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/3-57.paul.b8162588b601cd746338d02f70a899f5.jpg",
+      "error": "too small 128x72"
+    },
+    {
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/3-57.Cobourg%20Fishing%20Safaris%20Father%20and%20Son.b8162588b601cd746338d02f70a899f5.jpg",
+      "error": "too small 128x72"
+    },
+    {
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/3-57.fishing4.b8162588b601cd746338d02f70a899f5.jpg",
+      "error": "too small 128x72"
+    },
+    {
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/3-57.image005.5ae1dde5a35dfa1ec5cc8a02b1f5caf0.png",
+      "error": "too small 128x72"
+    },
+    {
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/3-57.smaller%20cod%20fishing.b8162588b601cd746338d02f70a899f5.jpg",
+      "error": "too small 128x72"
+    },
+    {
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/3-57.fishing3.b8162588b601cd746338d02f70a899f5.jpg",
+      "error": "too small 128x72"
+    },
+    {
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/3-57.Barra%20Fishing%20-%20Rocky%20Headlands.b8162588b601cd746338d02f70a899f5.jpg",
+      "error": "too small 128x72"
+    },
+    {
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/3-57.fishing7.b8162588b601cd746338d02f70a899f5.jpg",
+      "error": "too small 128x72"
+    },
+    {
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/3-57.Queen%20Fish.b8162588b601cd746338d02f70a899f5.jpg",
+      "error": "too small 128x72"
+    },
+    {
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/3-57.Hugh%20and%20ET%20With%20dc.b8162588b601cd746338d02f70a899f5.jpg",
+      "error": "too small 128x72"
+    },
+    {
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/2019-Brolga-CulturalTourism.c480eb354fbac2835d830a283d4639bd.png",
+      "error": "too small 60x36"
+    },
+    {
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/ata2019-web.c480eb354fbac2835d830a283d4639bd.png",
+      "error": "too small 60x36"
+    },
+    {
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/brolga-gold.c480eb354fbac2835d830a283d4639bd.png",
+      "error": "too small 60x36"
+    },
+    {
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/2017-tourism-award.c480eb354fbac2835d830a283d4639bd.png",
+      "error": "too small 60x36"
+    },
+    {
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/2016-toursim-award.c480eb354fbac2835d830a283d4639bd.png",
+      "error": "too small 60x36"
+    },
+    {
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/gold-2016.c480eb354fbac2835d830a283d4639bd.png",
+      "error": "too small 60x34"
+    },
+    {
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/3-57.steve.919cc5fd497381175b2ad935f06b4ca1.jpg",
+      "error": "too small 75x75"
+    },
+    {
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/3-57.al.919cc5fd497381175b2ad935f06b4ca1.jpg",
+      "error": "too small 75x75"
+    },
+    {
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/26_26-57.Jo%20Starling%20Huge%20Queenfish.338b9041f0e6c3e19e97f38d03480d2e.jpg",
+      "error": "too small 600x377"
+    },
+    {
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/3-10.Tent%202%20small.b371256705c81bd468314f1beff9701d.jpg",
+      "error": "too small 78x78"
+    },
+    {
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/3-10.tx4tJ-E_%20-%20Copy.b371256705c81bd468314f1beff9701d.jpg",
+      "error": "too small 78x78"
+    },
+    {
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/3-10.Tent%201%20small.b371256705c81bd468314f1beff9701d.jpg",
+      "error": "too small 78x78"
+    },
+    {
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/3-10.qp_e80Po%20-%20Copy.b371256705c81bd468314f1beff9701d.jpg",
+      "error": "too small 78x78"
+    },
+    {
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/3-10.L6iCRlk6%20-%20Copy.b371256705c81bd468314f1beff9701d.jpg",
+      "error": "too small 78x78"
+    },
+    {
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/3-10.YTOKNSzU%20-%20Copy.b371256705c81bd468314f1beff9701d.jpg",
+      "error": "too small 78x78"
+    },
+    {
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/3-10.hhFo27_w%20-%20Copy.b371256705c81bd468314f1beff9701d.jpg",
+      "error": "too small 78x78"
+    },
+    {
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/3-10.MVLwb1JB%20-%20Copy.b371256705c81bd468314f1beff9701d.jpg",
+      "error": "too small 78x78"
+    },
+    {
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/3-10.seafood2.b371256705c81bd468314f1beff9701d.jpg",
+      "error": "too small 78x78"
+    },
+    {
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/3-10.Cobourg%20Coastal%20Camp%20Sunset.b371256705c81bd468314f1beff9701d.jpg",
+      "error": "too small 78x78"
+    },
+    {
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/3-10.DJI_0062%20-%20Copy.b371256705c81bd468314f1beff9701d.jpg",
+      "error": "too small 78x78"
+    },
+    {
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/3-10.OR8biL8J%20-%20Copy.b371256705c81bd468314f1beff9701d.jpg",
+      "error": "too small 78x78"
+    },
+    {
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/3-10.xIMG_1848%20-%20Copy.b371256705c81bd468314f1beff9701d.jpg",
+      "error": "too small 78x78"
+    },
+    {
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/3-10.iDSC_9142.b371256705c81bd468314f1beff9701d.jpg",
+      "error": "too small 78x78"
+    },
+    {
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/3-10.a7S2A9606%20-%20Copy.b371256705c81bd468314f1beff9701d.jpg",
+      "error": "too small 78x78"
+    },
+    {
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/3-10.Cobourg%20Peninsula%20Oyster.b371256705c81bd468314f1beff9701d.jpg",
+      "error": "too small 78x78"
+    },
+    {
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/3-10.Cobourg%20Mud%20Crabs.b371256705c81bd468314f1beff9701d.jpg",
+      "error": "too small 78x78"
+    },
+    {
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/3-10.pilotWhale.b371256705c81bd468314f1beff9701d.jpg",
+      "error": "too small 78x78"
+    },
+    {
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/3-10.Cobourg%20Peninsula%20Mud%20Crabbing.b371256705c81bd468314f1beff9701d.jpg",
+      "error": "too small 78x78"
+    },
+    {
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/3-10.Victoria%20Settlement%203.b371256705c81bd468314f1beff9701d.jpg",
+      "error": "too small 78x78"
+    },
+    {
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/3-10.0ffh4PGO.b371256705c81bd468314f1beff9701d.jpg",
+      "error": "too small 78x78"
+    },
+    {
+      "dup": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/26_26-10.ffe6b63a-fa80-4d9d-8c55-bc2b322a00a5.6b0bc825a47ec22fd1610c839ca34ecb.png"
+    },
+    {
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/26_26-10.ffe6b63a-fa80-4d9d-8c55-bc2b322a00a5.47e804272fb30e1385c297eec66144f6.png",
+      "error": "too small 600x369"
+    },
+    {
+      "image": "https://cobourgfishingsafaris.com.au/assets/uploads/images/banner-xmas.jpg",
+      "error": "too small 936x90"
+    },
+    {
+      "image": "https://cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/40_40-138.IMG_3711.749425beee47c3e494206d234bb32977.jpg",
+      "error": "too small 365x288"
+    },
+    {
+      "image": "https://cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/40_40-139.fishing.0b846bb541edff740512b81a52f42e9f.png",
+      "error": "too small 365x207"
+    },
+    {
+      "image": "https://cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/40_40-137.Cobourg_Coastal_Camp_Birds_Eye_View.7e36292f78d906910238e38c8e54a11e.jpg",
+      "error": "too small 365x274"
+    },
+    {
+      "image": "https://cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/40_40-99.Cobourg%20Chilli%20Mud%20Crab.2c347177dbe6947c4687784291a8ba02.jpg",
+      "error": "too small 365x244"
+    },
+    {
+      "image": "https://cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/eco.870424b347f1c432f0f55a5ad2e8329f.png",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/roc.870424b347f1c432f0f55a5ad2e8329f.png",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/tall.870424b347f1c432f0f55a5ad2e8329f.png",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/tourismTopEnd.870424b347f1c432f0f55a5ad2e8329f.png",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/Sustainable1.4508f2c66c4cbc264d069a34c93cc9ce.jpg",
+      "error": "too small 320x320"
+    },
+    {
+      "dup": "https://cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/26_26-16.Cockels%20From%20The%20Beach.02005a82062cfd1bae376f6e64a816c7.jpg"
+    },
+    {
+      "dup": "https://cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/26_26-16.Cockels%20From%20The%20Beach.081d7a00984e6b070c872fb2604d5cb6.jpg"
+    },
+    {
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/26_26-60.bg-fishing.3a51d4f476a834996b0825f0476795e9.jpg",
+      "error": "too small 600x235"
+    },
+    {
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/40_40-138.IMG_3711.749425beee47c3e494206d234bb32977.jpg",
+      "error": "too small 365x288"
+    },
+    {
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/40_40-139.fishing.0b846bb541edff740512b81a52f42e9f.png",
+      "error": "too small 365x207"
+    },
+    {
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/40_40-137.Cobourg_Coastal_Camp_Birds_Eye_View.7e36292f78d906910238e38c8e54a11e.jpg",
+      "error": "too small 365x274"
+    },
+    {
+      "image": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/40_40-99.Cobourg%20Chilli%20Mud%20Crab.2c347177dbe6947c4687784291a8ba02.jpg",
+      "error": "too small 365x244"
+    },
+    {
+      "dup": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/26_26-16.Cockels%20From%20The%20Beach.02005a82062cfd1bae376f6e64a816c7.jpg"
+    },
+    {
+      "dup": "https://www.cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/26_26-16.Cockels%20From%20The%20Beach.081d7a00984e6b070c872fb2604d5cb6.jpg"
     }
   ]
 }

@@ -1,0 +1,299 @@
+{
+  "slug": "dna-barra-fishing",
+  "request_hash": "8b6c9ac1f909",
+  "collected_at": "2026-10-29T03:55:23.738Z",
+  "pages_fetched": [
+    "https://dnabarrafishing.com.au/",
+    "https://dnabarrafishing.com.au/acitivities/barra-fishing-day-tours/",
+    "https://dnabarrafishing.com.au/acitivities/arnhem-land-barra-fishing-camp/",
+    "https://dnabarrafishing.com.au/acitivities/run-off-barra-fishing-kakadu/",
+    "https://dnabarrafishing.com.au/acitivities/darwin-harbour-fishing-charters/",
+    "https://dnabarrafishing.com.au/about/",
+    "https://dnabarrafishing.com.au/booking-conditions/",
+    "https://dnabarrafishing.com.au/kakadu-things-to-do/",
+    "https://dnabarrafishing.com.au/contacts/",
+    "https://dnabarrafishing.com.au/acitivities/anhemland-barra-fishing-camp/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 2000,
+      "height": 1125,
+      "original": "2048x1152",
+      "source": "https://dnabarrafishing.com.au/wp-content/uploads/2020/03/314810773_640848934188766_1865785698938214478_n.jpg",
+      "page": "https://dnabarrafishing.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 2000,
+      "height": 1125,
+      "original": "2048x1152",
+      "source": "https://dnabarrafishing.com.au/wp-content/uploads/2020/03/314511866_655545882949518_4184811227416956506_n.jpg",
+      "page": "https://dnabarrafishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2048x1536",
+      "source": "https://dnabarrafishing.com.au/wp-content/uploads/2022/12/13913815_1215551568533336_5852942563572029610_o-2.jpg",
+      "page": "https://dnabarrafishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1000,
+      "height": 750,
+      "original": "1000x750",
+      "source": "https://b4693482.assetcdn.net/2.0/4693482/wp-content/uploads/2019/09/duanes-009.jpg?lossy=2&strip=1&webp=1",
+      "page": "https://dnabarrafishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 640,
+      "height": 480,
+      "original": "640x480",
+      "source": "https://b4693482.assetcdn.net/2.0/4693482/wp-content/uploads/2019/06/IMG_3614.jpg?lossy=2&strip=1&webp=1",
+      "page": "https://dnabarrafishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2000x1500",
+      "source": "https://b4693482.assetcdn.net/2.0/4693482/wp-content/uploads/2017/08/17917387_1465626620192495_4867005744323781352_o.jpg?lossy=2&strip=1&webp=1",
+      "page": "https://dnabarrafishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1000,
+      "height": 667,
+      "original": "1000x667",
+      "source": "https://b4693482.assetcdn.net/2.0/4693482/wp-content/uploads/2022/12/img_7223-1.png?lossy=2&strip=1&webp=1",
+      "page": "https://dnabarrafishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1024,
+      "height": 768,
+      "original": "1024x768",
+      "source": "https://b4693482.assetcdn.net/2.0/4693482/wp-content/uploads/2021/02/PB220017.jpg?lossy=2&strip=1&webp=1",
+      "page": "https://dnabarrafishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 2000,
+      "height": 1125,
+      "original": "2048x1152",
+      "source": "https://b4693482.assetcdn.net/2.0/4693482/wp-content/uploads/2020/03/314635054_639622157857849_746893100895318664_n.jpg?lossy=2&strip=1&webp=1",
+      "page": "https://dnabarrafishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 768,
+      "height": 512,
+      "original": "768x512",
+      "source": "https://b4693482.assetcdn.net/2.0/4693482/wp-content/uploads/2022/12/img_7223-1-768x512.png?lossy=2&strip=1&webp=1",
+      "page": "https://dnabarrafishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1440,
+      "height": 1078,
+      "original": "1440x1078",
+      "source": "https://b4693482.assetcdn.net/2.0/4693482/wp-content/uploads/2020/03/118604203_3375480755873729_5791452480002922360_n.jpg?lossy=2&strip=1&webp=1",
+      "page": "https://dnabarrafishing.com.au/acitivities/barra-fishing-day-tours/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1440,
+      "height": 1078,
+      "original": "1440x1078",
+      "source": "https://b4693482.assetcdn.net/2.0/4693482/wp-content/uploads/2020/03/119023920_3398742420214229_8439491696868614923_n.jpg?lossy=2&strip=1&webp=1",
+      "page": "https://dnabarrafishing.com.au/acitivities/barra-fishing-day-tours/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1440,
+      "height": 1078,
+      "original": "1440x1078",
+      "source": "https://b4693482.assetcdn.net/2.0/4693482/wp-content/uploads/2020/03/118660502_3375480815873723_3227787230129563297_n.jpg?lossy=2&strip=1&webp=1",
+      "page": "https://dnabarrafishing.com.au/acitivities/barra-fishing-day-tours/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1440,
+      "height": 1078,
+      "original": "1440x1078",
+      "source": "https://b4693482.assetcdn.net/2.0/4693482/wp-content/uploads/2020/03/118119423_3331023436986128_994639085342573290_n.jpg?lossy=2&strip=1&webp=1",
+      "page": "https://dnabarrafishing.com.au/acitivities/barra-fishing-day-tours/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1440,
+      "height": 1078,
+      "original": "1440x1078",
+      "source": "https://b4693482.assetcdn.net/2.0/4693482/wp-content/uploads/2020/03/118086433_3354341687987636_1031201371476964959_n.jpg?lossy=2&strip=1&webp=1",
+      "page": "https://dnabarrafishing.com.au/acitivities/barra-fishing-day-tours/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 960,
+      "height": 720,
+      "original": "960x720",
+      "source": "https://b4693482.assetcdn.net/2.0/4693482/wp-content/uploads/2020/03/65664908_2437056169716197_446696119410360320_n.jpg?lossy=2&strip=1&webp=1",
+      "page": "https://dnabarrafishing.com.au/acitivities/barra-fishing-day-tours/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://dnabarrafishing.com.au/",
+      "status": 200,
+      "final_url": "https://dnabarrafishing.com.au/",
+      "bytes": 342285
+    },
+    {
+      "page": "https://dnabarrafishing.com.au/acitivities/barra-fishing-day-tours/",
+      "status": 200,
+      "final_url": "https://dnabarrafishing.com.au/acitivities/barra-fishing-day-tours/",
+      "bytes": 324540
+    },
+    {
+      "page": "https://dnabarrafishing.com.au/acitivities/arnhem-land-barra-fishing-camp/",
+      "status": 200,
+      "final_url": "https://dnabarrafishing.com.au/acitivities/arnhem-land-barra-fishing-camp/",
+      "bytes": 386404
+    },
+    {
+      "page": "https://dnabarrafishing.com.au/acitivities/run-off-barra-fishing-kakadu/",
+      "status": 200,
+      "final_url": "https://dnabarrafishing.com.au/acitivities/run-off-barra-fishing-kakadu/",
+      "bytes": 331410
+    },
+    {
+      "page": "https://dnabarrafishing.com.au/acitivities/darwin-harbour-fishing-charters/",
+      "status": 200,
+      "final_url": "https://dnabarrafishing.com.au/acitivities/darwin-harbour-fishing-charters/",
+      "bytes": 326083
+    },
+    {
+      "page": "https://dnabarrafishing.com.au/about/",
+      "status": 200,
+      "final_url": "https://dnabarrafishing.com.au/about/",
+      "bytes": 281882
+    },
+    {
+      "page": "https://dnabarrafishing.com.au/booking-conditions/",
+      "status": 200,
+      "final_url": "https://dnabarrafishing.com.au/booking-conditions/",
+      "bytes": 298144
+    },
+    {
+      "page": "https://dnabarrafishing.com.au/kakadu-things-to-do/",
+      "status": 200,
+      "final_url": "https://dnabarrafishing.com.au/kakadu-things-to-do/",
+      "bytes": 278406
+    },
+    {
+      "page": "https://dnabarrafishing.com.au/contacts/",
+      "status": 200,
+      "final_url": "https://dnabarrafishing.com.au/contacts/",
+      "bytes": 299484
+    },
+    {
+      "page": "https://dnabarrafishing.com.au/acitivities/anhemland-barra-fishing-camp/",
+      "status": 200,
+      "final_url": "https://dnabarrafishing.com.au/acitivities/arnhem-land-barra-fishing-camp/",
+      "bytes": 386627
+    },
+    {
+      "image": "https://dnabarrafishing.com.au/wp-content/uploads/2020/03/314810773_640848934188766_1865785698938214478_n-300x420.jpg",
+      "error": "too small 300x420"
+    },
+    {
+      "dup": "https://b4693482.assetcdn.net/2.0/4693482/wp-content/uploads/2020/03/314511866_655545882949518_4184811227416956506_n.jpg?lossy=2&strip=1&webp=1"
+    },
+    {
+      "dup": "https://b4693482.assetcdn.net/2.0/4693482/wp-content/uploads/2022/12/13913815_1215551568533336_5852942563572029610_o-2.jpg?lossy=2&strip=1&webp=1"
+    },
+    {
+      "dup": "https://b4693482.assetcdn.net/2.0/4693482/wp-content/uploads/2020/03/314810773_640848934188766_1865785698938214478_n.jpg?lossy=2&strip=1&webp=1"
+    },
+    {
+      "image": "http://dnabarrafishing.com.au/wp-content/uploads/2022/12/pexels-roberto-nickson-27751962-1.jpg",
+      "error": "banner/strip 2500x766"
+    },
+    {
+      "image": "https://b4693482.assetcdn.net/2.0/4693482/wp-content/uploads/2020/03/314810773_640848934188766_1865785698938214478_n-300x420.jpg?lossy=2&strip=1&webp=1",
+      "error": "too small 300x420"
+    },
+    {
+      "image": "https://b4693482.assetcdn.net/2.0/4693482/wp-content/uploads/2019/09/duanes-009-300x225.jpg?lossy=2&strip=1&webp=1",
+      "error": "too small 300x225"
+    },
+    {
+      "dup": "https://b4693482.assetcdn.net/2.0/4693482/wp-content/uploads/2019/09/duanes-009-768x576.jpg?lossy=2&strip=1&webp=1"
+    },
+    {
+      "dup": "https://b4693482.assetcdn.net/2.0/4693482/wp-content/uploads/2019/09/duanes-009-760x570.jpg?lossy=2&strip=1&webp=1"
+    },
+    {
+      "image": "https://b4693482.assetcdn.net/2.0/4693482/wp-content/uploads/2019/09/duanes-009-500x375.jpg?lossy=2&strip=1&webp=1",
+      "error": "too small 500x375"
+    },
+    {
+      "image": "https://b4693482.assetcdn.net/2.0/4693482/wp-content/uploads/2019/09/duanes-009-550x413.jpg?lossy=2&strip=1&webp=1",
+      "error": "too small 550x413"
+    },
+    {
+      "image": "https://b4693482.assetcdn.net/2.0/4693482/wp-content/uploads/2019/09/duanes-009-400x300.jpg?lossy=2&strip=1&webp=1",
+      "error": "too small 400x300"
+    },
+    {
+      "dup": "https://b4693482.assetcdn.net/2.0/4693482/wp-content/uploads/2019/09/duanes-009-600x450.jpg?lossy=2&strip=1&webp=1"
+    },
+    {
+      "image": "https://b4693482.assetcdn.net/2.0/4693482/wp-content/uploads/2019/09/duanes-009-480x360.jpg?lossy=2&strip=1&webp=1",
+      "error": "too small 480x360"
+    },
+    {
+      "dup": "https://b4693482.assetcdn.net/2.0/4693482/wp-content/uploads/2019/09/duanes-009-709x532.jpg?lossy=2&strip=1&webp=1"
+    },
+    {
+      "image": "https://b4693482.assetcdn.net/2.0/4693482/wp-content/uploads/2019/06/IMG_3614-300x225.jpg?lossy=2&strip=1&webp=1",
+      "error": "too small 300x225"
+    },
+    {
+      "dup": "https://b4693482.assetcdn.net/2.0/4693482/wp-content/uploads/2017/08/17917387_1465626620192495_4867005744323781352_o-709x532.jpg?lossy=2&strip=1&webp=1"
+    },
+    {
+      "image": "https://b4693482.assetcdn.net/2.0/4693482/wp-content/uploads/2017/08/17917387_1465626620192495_4867005744323781352_o-300x225.jpg?lossy=2&strip=1&webp=1",
+      "error": "too small 300x225"
+    },
+    {
+      "dup": "https://b4693482.assetcdn.net/2.0/4693482/wp-content/uploads/2017/08/17917387_1465626620192495_4867005744323781352_o-1024x768.jpg?lossy=2&strip=1&webp=1"
+    },
+    {
+      "image": "https://b4693482.assetcdn.net/2.0/4693482/wp-content/uploads/2022/12/img_7223-1-300x200.png?lossy=2&strip=1&webp=1",
+      "error": "too small 300x200"
+    },
+    {
+      "dup": "https://dnabarrafishing.com.au/wp-content/uploads/2017/08/17917387_1465626620192495_4867005744323781352_o.jpg"
+    }
+  ]
+}

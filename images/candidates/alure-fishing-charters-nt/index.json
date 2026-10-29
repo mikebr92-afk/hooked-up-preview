@@ -1,0 +1,419 @@
+{
+  "slug": "alure-fishing-charters-nt",
+  "request_hash": "32fd258c7b74",
+  "collected_at": "2026-10-29T03:53:05.267Z",
+  "pages_fetched": [
+    "https://www.alurefishingchartersnt.com.au/",
+    "https://alurefishingchartersnt.com.au/",
+    "https://alurefishingchartersnt.com.au/fishing-charters/",
+    "https://alurefishingchartersnt.com.au/barramundi-fishing-charters/",
+    "https://alurefishingchartersnt.com.au/darwin-ocean-fishing-tours/",
+    "https://alurefishingchartersnt.com.au/tiwi-islands-charters/",
+    "https://alurefishingchartersnt.com.au/dundee-beach-charters/",
+    "https://alurefishingchartersnt.com.au/darwin-fishing-charters/",
+    "https://alurefishingchartersnt.com.au/fishing-charters/gift-card/",
+    "https://alurefishingchartersnt.com.au/boat-charters/",
+    "https://alurefishingchartersnt.com.au/faq/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://alurefishingchartersnt.com.au/wp-content/uploads/2024/07/home-banner-redesign.jpg",
+      "page": "https://www.alurefishingchartersnt.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 700,
+      "height": 1000,
+      "original": "700x1000",
+      "source": "https://alurefishingchartersnt.com.au/wp-content/uploads/al_opt_content/IMAGE/alurefishingchartersnt.com.au/wp-content/uploads/2024/07/banner-1for-mobile.jpg.bv.webp",
+      "page": "https://www.alurefishingchartersnt.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1536,
+      "height": 864,
+      "original": "1536x864",
+      "source": "https://alurefishingchartersnt.com.au/wp-content/uploads/al_opt_content/IMAGE/alurefishingchartersnt.com.au/wp-content/uploads/2024/07/replacement-homepage-banner-1-1_new.jpg.bv.webp",
+      "page": "https://www.alurefishingchartersnt.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 700,
+      "height": 1000,
+      "original": "700x1000",
+      "source": "https://alurefishingchartersnt.com.au/wp-content/uploads/al_opt_content/IMAGE/alurefishingchartersnt.com.au/wp-content/uploads/2024/07/home-banner-2-2.jpg.bv.webp",
+      "page": "https://www.alurefishingchartersnt.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://alurefishingchartersnt.com.au/wp-content/uploads/al_opt_content/IMAGE/alurefishingchartersnt.com.au/wp-content/uploads/2024/08/new-homepage-banner-2_new.jpg.bv.webp",
+      "page": "https://www.alurefishingchartersnt.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 700,
+      "height": 1000,
+      "original": "700x1000",
+      "source": "https://alurefishingchartersnt.com.au/wp-content/uploads/al_opt_content/IMAGE/alurefishingchartersnt.com.au/wp-content/uploads/2024/07/banner-3-replace-again.jpg.bv.webp",
+      "page": "https://www.alurefishingchartersnt.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://alurefishingchartersnt.com.au/wp-content/uploads/al_opt_content/IMAGE/alurefishingchartersnt.com.au/wp-content/uploads/2024/08/new-homepage-banner-3_new.jpg.bv.webp",
+      "page": "https://www.alurefishingchartersnt.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 842,
+      "height": 879,
+      "original": "842x879",
+      "source": "https://alurefishingchartersnt.com.au/wp-content/uploads/al_opt_content/IMAGE/alurefishingchartersnt.com.au/wp-content/uploads/2024/08/singlefess_new.jpg.bv.webp",
+      "page": "https://www.alurefishingchartersnt.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 830,
+      "height": 623,
+      "original": "830x623",
+      "source": "https://alurefishingchartersnt.com.au/wp-content/uploads/al_opt_content/IMAGE/alurefishingchartersnt.com.au/wp-content/uploads/2024/07/Photo-Gallery1.jpg.bv.webp",
+      "page": "https://www.alurefishingchartersnt.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 830,
+      "height": 623,
+      "original": "830x623",
+      "source": "https://alurefishingchartersnt.com.au/wp-content/uploads/al_opt_content/IMAGE/alurefishingchartersnt.com.au/wp-content/uploads/2024/07/Photo-Gallery2.jpg.bv.webp",
+      "page": "https://www.alurefishingchartersnt.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 830,
+      "height": 623,
+      "original": "830x623",
+      "source": "https://alurefishingchartersnt.com.au/wp-content/uploads/al_opt_content/IMAGE/alurefishingchartersnt.com.au/wp-content/uploads/2024/07/photo-gallery-img2.jpg.bv.webp",
+      "page": "https://www.alurefishingchartersnt.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 830,
+      "height": 623,
+      "original": "830x623",
+      "source": "https://alurefishingchartersnt.com.au/wp-content/uploads/al_opt_content/IMAGE/alurefishingchartersnt.com.au/wp-content/uploads/2024/07/photo-gallery-img.jpg.bv.webp",
+      "page": "https://www.alurefishingchartersnt.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://alurefishingchartersnt.com.au/wp-content/uploads/al_opt_content/IMAGE/alurefishingchartersnt.com.au/wp-content/uploads/2024/07/Mark-Bergs-Fishing-Addiction-September-2024.jpg.bv.webp",
+      "page": "https://www.alurefishingchartersnt.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 850,
+      "height": 823,
+      "original": "850x823",
+      "source": "https://alurefishingchartersnt.com.au/wp-content/uploads/2024/08/Gerard-Barra-personalise_new.jpg",
+      "page": "https://www.alurefishingchartersnt.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 830,
+      "height": 623,
+      "original": "830x623",
+      "source": "https://alurefishingchartersnt.com.au/wp-content/uploads/2024/07/slider3.jpg",
+      "page": "https://www.alurefishingchartersnt.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 830,
+      "height": 623,
+      "original": "830x623",
+      "source": "https://alurefishingchartersnt.com.au/wp-content/uploads/2024/07/slider4.jpg",
+      "page": "https://www.alurefishingchartersnt.com.au/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.alurefishingchartersnt.com.au/",
+      "status": 200,
+      "final_url": "https://alurefishingchartersnt.com.au/",
+      "bytes": 486644
+    },
+    {
+      "page": "https://alurefishingchartersnt.com.au/",
+      "status": 200,
+      "final_url": "https://alurefishingchartersnt.com.au/",
+      "bytes": 486644
+    },
+    {
+      "page": "https://alurefishingchartersnt.com.au/fishing-charters/",
+      "status": 200,
+      "final_url": "https://alurefishingchartersnt.com.au/fishing-charters/",
+      "bytes": 304121
+    },
+    {
+      "page": "https://alurefishingchartersnt.com.au/barramundi-fishing-charters/",
+      "status": 200,
+      "final_url": "https://alurefishingchartersnt.com.au/barramundi-fishing-charters/",
+      "bytes": 301588
+    },
+    {
+      "page": "https://alurefishingchartersnt.com.au/darwin-ocean-fishing-tours/",
+      "status": 200,
+      "final_url": "https://alurefishingchartersnt.com.au/darwin-ocean-fishing-tours/",
+      "bytes": 298096
+    },
+    {
+      "page": "https://alurefishingchartersnt.com.au/tiwi-islands-charters/",
+      "status": 200,
+      "final_url": "https://alurefishingchartersnt.com.au/tiwi-islands-charters/",
+      "bytes": 296018
+    },
+    {
+      "page": "https://alurefishingchartersnt.com.au/dundee-beach-charters/",
+      "status": 200,
+      "final_url": "https://alurefishingchartersnt.com.au/dundee-beach-charters/",
+      "bytes": 363184
+    },
+    {
+      "page": "https://alurefishingchartersnt.com.au/darwin-fishing-charters/",
+      "status": 200,
+      "final_url": "https://alurefishingchartersnt.com.au/darwin-fishing-charters/",
+      "bytes": 314576
+    },
+    {
+      "page": "https://alurefishingchartersnt.com.au/fishing-charters/gift-card/",
+      "status": 200,
+      "final_url": "https://alurefishingchartersnt.com.au/fishing-charters/gift-card/",
+      "bytes": 331742
+    },
+    {
+      "page": "https://alurefishingchartersnt.com.au/boat-charters/",
+      "status": 200,
+      "final_url": "https://alurefishingchartersnt.com.au/boat-charters/",
+      "bytes": 274897
+    },
+    {
+      "page": "https://alurefishingchartersnt.com.au/faq/",
+      "status": 200,
+      "final_url": "https://alurefishingchartersnt.com.au/faq/",
+      "bytes": 318769
+    },
+    {
+      "dup": "https://alurefishingchartersnt.com.au/wp-content/uploads/al_opt_content/IMAGE/alurefishingchartersnt.com.au/wp-content/uploads/2024/07/home-banner-redesign.jpg.bv.webp"
+    },
+    {
+      "image": "https://alurefishingchartersnt.com.au/wp-content/uploads/al_opt_content/IMAGE/alurefishingchartersnt.com.au/wp-content/uploads/2024/08/charters1_new.jpg.bv.webp",
+      "error": "too small 556x384"
+    },
+    {
+      "image": "https://alurefishingchartersnt.com.au/wp-content/uploads/al_opt_content/IMAGE/alurefishingchartersnt.com.au/wp-content/uploads/2024/08/charters2_new.jpg.bv.webp",
+      "error": "too small 556x384"
+    },
+    {
+      "image": "https://alurefishingchartersnt.com.au/wp-content/uploads/al_opt_content/IMAGE/alurefishingchartersnt.com.au/wp-content/uploads/2024/08/charters3_new.jpg.bv.webp",
+      "error": "too small 556x384"
+    },
+    {
+      "image": "https://alurefishingchartersnt.com.au/wp-content/uploads/al_opt_content/IMAGE/alurefishingchartersnt.com.au/wp-content/uploads/2024/08/Darwin-Harbour-Charters_new.jpg.bv.webp",
+      "error": "too small 556x384"
+    },
+    {
+      "image": "https://alurefishingchartersnt.com.au/wp-content/uploads/al_opt_content/IMAGE/alurefishingchartersnt.com.au/wp-content/uploads/2024/08/Dundee-Beach-Charters_new.jpg.bv.webp",
+      "error": "too small 556x384"
+    },
+    {
+      "image": "https://alurefishingchartersnt.com.au/wp-content/uploads/al_opt_content/IMAGE/alurefishingchartersnt.com.au/wp-content/uploads/2024/08/Gift-Card_new.jpg.bv.webp",
+      "error": "too small 556x384"
+    },
+    {
+      "image": "https://alurefishingchartersnt.com.au/wp-content/uploads/al_opt_content/IMAGE/alurefishingchartersnt.com.au/wp-content/uploads/sb-instagram-feed-images/alurefishingchartersnt.webp.bv.webp",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocJzrtL51vOkmcKBQl8K7VgSibzinzrwpJEII0zEh2F5U0qe-g=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocL9hOrsc2ekVgp7pRAZ_4qk_M-OdZrlR0tdqNor59K4Dxx9Uw=w40-h40-c-rp-mo-ba2-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocIyQ40bR4Ddmyvcmb3Cy3H6zMtZ3E8JvXeNn-IyAfRHCpcSiw=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocLmut15eXJhCtsRQUgyXJP6zDEMkbB9NPkbXvVkEVUqQGeC=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocJBNPpIhi_4RseMeV6CN4o64FcK8crR76sfJrvW9d48-KSnLg=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocIqxrvhEV99GYnx8_iuAPO7isiP4nI4DHIChlYSi9qkhrbvcQ=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a-/ALV-UjW3J_RtfOt9X6XdBMFuf4O5k0-iSkgf2h3MqF6A3FEQtKHqBeDN=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocJ4FFlxJk0IJO1WLf7qHec2_ADF0X0syT8UWaeB59l-IHjDkQ=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocKGpNdHIxSXuz6bK17Vi4JHYplh9wcJU9L-ZakfZXk-GD2nhw=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocKyLcszxM--ROg6j1mBBETZnXXWmbfhCLwgJbtRBoTIhgNd4g=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://alurefishingchartersnt.com.au/wp-content/uploads/al_opt_content/IMAGE/alurefishingchartersnt.com.au/wp-content/uploads/2024/08/charters1_new-1536.jpg.bv.webp",
+      "error": "too small 556x384"
+    },
+    {
+      "image": "https://alurefishingchartersnt.com.au/wp-content/uploads/al_opt_content/IMAGE/alurefishingchartersnt.com.au/wp-content/uploads/2024/08/charters2_new-1536.jpg.bv.webp",
+      "error": "too small 556x384"
+    },
+    {
+      "image": "https://alurefishingchartersnt.com.au/wp-content/uploads/al_opt_content/IMAGE/alurefishingchartersnt.com.au/wp-content/uploads/2024/08/charters3_new-1536.jpg.bv.webp",
+      "error": "too small 556x384"
+    },
+    {
+      "image": "https://alurefishingchartersnt.com.au/wp-content/uploads/al_opt_content/IMAGE/alurefishingchartersnt.com.au/wp-content/uploads/2024/08/Darwin-Harbour-Charters_new-1536.jpg.bv.webp",
+      "error": "too small 556x384"
+    },
+    {
+      "image": "https://alurefishingchartersnt.com.au/wp-content/uploads/al_opt_content/IMAGE/alurefishingchartersnt.com.au/wp-content/uploads/2024/08/Dundee-Beach-Charters_new-1536.jpg.bv.webp",
+      "error": "too small 556x384"
+    },
+    {
+      "image": "https://alurefishingchartersnt.com.au/wp-content/uploads/al_opt_content/IMAGE/alurefishingchartersnt.com.au/wp-content/uploads/2024/08/Gift-Card_new-1536.jpg.bv.webp",
+      "error": "too small 556x384"
+    },
+    {
+      "image": "https://alurefishingchartersnt.com.au/wp-content/uploads/2024/07/home-banner-redesign.avif",
+      "error": "source: bad seek to 80770\nsource: bad seek to 80750\nsource: bad seek to 80740\nsource: bad seek to 80739\nheif: Invalid input: Unspecified: Bitstream not supported by this decoder (2.0)"
+    },
+    {
+      "image": "https://alurefishingchartersnt.com.au/wp-content/uploads/2024/07/banner-1for-mobile.avif",
+      "error": "source: bad seek to 59054\nsource: bad seek to 59025\nsource: bad seek to 59023\nheif: Invalid input: Unspecified: Bitstream not supported by this decoder (2.0)"
+    },
+    {
+      "image": "https://alurefishingchartersnt.com.au/wp-content/uploads/2024/07/replacement-homepage-banner-1-1_new.avif",
+      "error": "source: bad seek to 111539\nsource: bad seek to 111511\nsource: bad seek to 111509\nsource: bad seek to 111508\nheif: Invalid input: Unspecified: Bitstream not supported by this decoder (2.0)"
+    },
+    {
+      "image": "https://alurefishingchartersnt.com.au/wp-content/uploads/2024/07/home-banner-2-2.avif",
+      "error": "source: bad seek to 88042\nsource: bad seek to 88020\nsource: bad seek to 88014\nsource: bad seek to 88011\nheif: Invalid input: Unspecified: Bitstream not supported by this decoder (2.0)"
+    },
+    {
+      "image": "https://alurefishingchartersnt.com.au/wp-content/uploads/2024/08/new-homepage-banner-2_new.avif",
+      "error": "source: bad seek to 165740\nsource: bad seek to 165719\nsource: bad seek to 165709\nheif: Invalid input: Unspecified: Bitstream not supported by this decoder (2.0)"
+    },
+    {
+      "image": "https://alurefishingchartersnt.com.au/wp-content/uploads/2024/07/banner-3-replace-again.avif",
+      "error": "source: bad seek to 56083\nsource: bad seek to 56055\nsource: bad seek to 56053\nsource: bad seek to 56052\nheif: Invalid input: Unspecified: Bitstream not supported by this decoder (2.0)"
+    },
+    {
+      "image": "https://alurefishingchartersnt.com.au/wp-content/uploads/2024/08/new-homepage-banner-3_new.avif",
+      "error": "source: bad seek to 77668\nsource: bad seek to 77649\nsource: bad seek to 77639\nsource: bad seek to 77637\nheif: Invalid input: Unspecified: Bitstream not supported by this decoder (2.0)"
+    },
+    {
+      "image": "https://alurefishingchartersnt.com.au/wp-content/uploads/2024/08/singlefess_new.avif",
+      "error": "source: bad seek to 74269\nsource: bad seek to 74250\nsource: bad seek to 74241\nsource: bad seek to 74238\nheif: Invalid input: Unspecified: Bitstream not supported by this decoder (2.0)"
+    },
+    {
+      "image": "https://alurefishingchartersnt.com.au/wp-content/uploads/2024/08/Bluewater1_new.jpg",
+      "error": "too small 540x405"
+    },
+    {
+      "image": "https://alurefishingchartersnt.com.au/wp-content/uploads/2024/08/Bluewater2_new.jpg",
+      "error": "too small 540x405"
+    },
+    {
+      "image": "https://alurefishingchartersnt.com.au/wp-content/uploads/2024/08/Bluewater3_new.jpg",
+      "error": "too small 540x405"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocJzrtL51vOkmcKBQl8K7VgSibzinzrwpJEII0zEh2F5U0qe-g=w80-h80-c-rp-mo-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocL9hOrsc2ekVgp7pRAZ_4qk_M-OdZrlR0tdqNor59K4Dxx9Uw=w80-h80-c-rp-mo-ba2-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocIyQ40bR4Ddmyvcmb3Cy3H6zMtZ3E8JvXeNn-IyAfRHCpcSiw=w80-h80-c-rp-mo-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocLmut15eXJhCtsRQUgyXJP6zDEMkbB9NPkbXvVkEVUqQGeC=w80-h80-c-rp-mo-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocJBNPpIhi_4RseMeV6CN4o64FcK8crR76sfJrvW9d48-KSnLg=w80-h80-c-rp-mo-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocIqxrvhEV99GYnx8_iuAPO7isiP4nI4DHIChlYSi9qkhrbvcQ=w80-h80-c-rp-mo-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a-/ALV-UjW3J_RtfOt9X6XdBMFuf4O5k0-iSkgf2h3MqF6A3FEQtKHqBeDN=w80-h80-c-rp-mo-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocJ4FFlxJk0IJO1WLf7qHec2_ADF0X0syT8UWaeB59l-IHjDkQ=w80-h80-c-rp-mo-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocKGpNdHIxSXuz6bK17Vi4JHYplh9wcJU9L-ZakfZXk-GD2nhw=w80-h80-c-rp-mo-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocKyLcszxM--ROg6j1mBBETZnXXWmbfhCLwgJbtRBoTIhgNd4g=w80-h80-c-rp-mo-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://alurefishingchartersnt.com.au/wp-content/uploads/2024/07/Photo-Gallery1.avif",
+      "error": "source: bad seek to 38896\nsource: bad seek to 38877\nsource: bad seek to 38867\nsource: bad seek to 38865\nheif: Invalid input: Unspecified: Bitstream not supported by this decoder (2.0)"
+    },
+    {
+      "image": "https://alurefishingchartersnt.com.au/wp-content/uploads/2024/07/Photo-Gallery2.avif",
+      "error": "source: bad seek to 29523\nsource: bad seek to 29494\nsource: bad seek to 29492\nheif: Invalid input: Unspecified: Bitstream not supported by this decoder (2.0)"
+    }
+  ]
+}

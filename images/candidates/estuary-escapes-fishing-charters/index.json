@@ -1,0 +1,221 @@
+{
+  "slug": "estuary-escapes-fishing-charters",
+  "request_hash": "41eb16a4e82a",
+  "collected_at": "2026-10-29T03:52:40.010Z",
+  "pages_fetched": [
+    "https://www.estuaryescapes.com.au/",
+    "https://estuaryescapes.com.au/booking/",
+    "https://estuaryescapes.com.au/about-us/",
+    "https://estuaryescapes.com.au/gallery/",
+    "https://estuaryescapes.com.au/fishing-reports/",
+    "https://estuaryescapes.com.au/contact-us/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 2000,
+      "height": 1123,
+      "original": "2560x1438",
+      "source": "https://estuaryescapes.com.au/wp-content/uploads/2020/02/aerial-view-of-an-estuary-and-its-surrounding-lush-landscape-3030282-scaled.jpg",
+      "page": "https://www.estuaryescapes.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 1200,
+      "height": 800,
+      "original": "1200x800",
+      "source": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/IMG_1431.jpg",
+      "page": "https://www.estuaryescapes.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1200,
+      "height": 903,
+      "original": "1200x903",
+      "source": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/Magpie_Geese.jpg",
+      "page": "https://www.estuaryescapes.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1200,
+      "height": 680,
+      "original": "1200x680",
+      "source": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/Magpie_Goose.jpg",
+      "page": "https://www.estuaryescapes.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1200,
+      "height": 681,
+      "original": "1200x681",
+      "source": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/Fenceline.jpg",
+      "page": "https://www.estuaryescapes.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1200,
+      "height": 796,
+      "original": "1200x796",
+      "source": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/Pied_Heron_flight.jpg",
+      "page": "https://www.estuaryescapes.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1200,
+      "height": 826,
+      "original": "1200x826",
+      "source": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/Pied_Heron_2.jpg",
+      "page": "https://www.estuaryescapes.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1200,
+      "height": 862,
+      "original": "1200x862",
+      "source": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/Saratoga_60cm_+.jpg",
+      "page": "https://www.estuaryescapes.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1177,
+      "height": 1200,
+      "original": "1177x1200",
+      "source": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/Saratoga_mouth.jpg",
+      "page": "https://www.estuaryescapes.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1200,
+      "height": 784,
+      "original": "1200x784",
+      "source": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/Saratoga_moustache.jpg",
+      "page": "https://www.estuaryescapes.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1200,
+      "height": 449,
+      "original": "1200x449",
+      "source": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/Saratoga.jpg",
+      "page": "https://www.estuaryescapes.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1200,
+      "height": 723,
+      "original": "1200x723",
+      "source": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/Saratoga_on_black_frog.jpg",
+      "page": "https://www.estuaryescapes.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1200,
+      "height": 800,
+      "original": "1200x800",
+      "source": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/Sea_Eagle.jpg",
+      "page": "https://www.estuaryescapes.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1200,
+      "height": 800,
+      "original": "1200x800",
+      "source": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/Palm_Lagoon_Entrance_1.jpg",
+      "page": "https://www.estuaryescapes.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1200,
+      "height": 800,
+      "original": "1200x800",
+      "source": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/Saratoga_Tail_colours.jpg",
+      "page": "https://www.estuaryescapes.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1200,
+      "height": 800,
+      "original": "1200x800",
+      "source": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/Main_Billabong_-_lillies_everywhere.jpg",
+      "page": "https://www.estuaryescapes.com.au/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.estuaryescapes.com.au/",
+      "status": 200,
+      "final_url": "https://estuaryescapes.com.au/",
+      "bytes": 16003
+    },
+    {
+      "page": "https://estuaryescapes.com.au/booking/",
+      "status": 200,
+      "final_url": "https://estuaryescapes.com.au/booking/",
+      "bytes": 17402
+    },
+    {
+      "page": "https://estuaryescapes.com.au/about-us/",
+      "status": 200,
+      "final_url": "https://estuaryescapes.com.au/about-us/",
+      "bytes": 12896
+    },
+    {
+      "page": "https://estuaryescapes.com.au/gallery/",
+      "status": 200,
+      "final_url": "https://estuaryescapes.com.au/gallery/",
+      "bytes": 53116
+    },
+    {
+      "page": "https://estuaryescapes.com.au/fishing-reports/",
+      "status": 200,
+      "final_url": "https://estuaryescapes.com.au/fishing-reports/",
+      "bytes": 14642
+    },
+    {
+      "page": "https://estuaryescapes.com.au/contact-us/",
+      "status": 200,
+      "final_url": "https://estuaryescapes.com.au/contact-us/",
+      "bytes": 10355
+    },
+    {
+      "image": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/img5.jpg",
+      "error": "too small 414x321"
+    },
+    {
+      "image": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/img6.jpg",
+      "error": "too small 414x321"
+    },
+    {
+      "image": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/img7.jpg",
+      "error": "too small 414x321"
+    },
+    {
+      "image": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/img8.jpg",
+      "error": "too small 414x321"
+    },
+    {
+      "image": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/img9.jpg",
+      "error": "too small 414x321"
+    },
+    {
+      "image": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/Satatoga_#2_60cm+.jpg",
+      "error": "HTTP 404"
+    }
+  ]
+}

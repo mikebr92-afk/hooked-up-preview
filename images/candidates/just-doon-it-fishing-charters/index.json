@@ -1,0 +1,428 @@
+{
+  "slug": "just-doon-it-fishing-charters",
+  "request_hash": "07ad7834c078",
+  "collected_at": "2026-10-29T03:53:25.342Z",
+  "pages_fetched": [
+    "https://www.justdoonit.com.au/",
+    "https://www.justdoonit.com.au/price-2",
+    "https://www.justdoonit.com.au/price-2/copy-of-price",
+    "https://www.justdoonit.com.au/price-2/copy-of-dry-season-tours",
+    "https://www.justdoonit.com.au/about",
+    "https://www.justdoonit.com.au/faq"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2268x1701",
+      "source": "https://static.wixstatic.com/media/003dc0_a387c8fbc99d446abfffbee9236b7d99%7Emv2.png",
+      "page": "https://www.justdoonit.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 1563,
+      "height": 1563,
+      "original": "1563x1563",
+      "source": "https://static.wixstatic.com/media/003dc0_efea98932aaf4c76ba362ac8af344973~mv2.png",
+      "page": "https://www.justdoonit.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://static.wixstatic.com/media/003dc0_b2fd2a837b32484bb9635dc7321c184bf000.jpg",
+      "page": "https://www.justdoonit.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 2000,
+      "height": 1110,
+      "original": "2360x1310",
+      "source": "https://static.wixstatic.com/media/003dc0_78657462f2f2442eabd35ae8a6915fcc~mv2.jpg",
+      "page": "https://www.justdoonit.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://static.wixstatic.com/media/003dc0_660e2f31034941df8f707b684e2e3b7df000.jpg",
+      "page": "https://www.justdoonit.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 2000,
+      "height": 1125,
+      "original": "3840x2160",
+      "source": "https://static.wixstatic.com/media/003dc0_28f73bcb43b24e2bbe2df8a10b5b7b10f000.jpg",
+      "page": "https://www.justdoonit.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1563,
+      "height": 1563,
+      "original": "1563x1563",
+      "source": "https://static.wixstatic.com/media/003dc0_bc76872ab1ba49cdbd380c1bf322d9b5~mv2.png",
+      "page": "https://www.justdoonit.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 2000,
+      "height": 2000,
+      "original": "2000x2000",
+      "source": "https://static.wixstatic.com/media/003dc0_c2203d8236874139b2e88f742b6702df~mv2.png",
+      "page": "https://www.justdoonit.com.au/price-2/copy-of-price",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 2000,
+      "height": 2000,
+      "original": "2000x2000",
+      "source": "https://static.wixstatic.com/media/003dc0_d8de598c3d054986993d0ea1384d54dd~mv2.png",
+      "page": "https://www.justdoonit.com.au/price-2/copy-of-price",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 600,
+      "height": 600,
+      "original": "600x600",
+      "source": "https://static.wixstatic.com/media/003dc0_556c96b8467847f4927bad02de152e5f~mv2.png",
+      "page": "https://www.justdoonit.com.au/price-2/copy-of-price",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 2000,
+      "height": 714,
+      "original": "2360x842",
+      "source": "https://static.wixstatic.com/media/003dc0_2b48f3297ea64e65a130971f453fc078~mv2.jpg",
+      "page": "https://www.justdoonit.com.au/price-2/copy-of-dry-season-tours",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1448,
+      "height": 1086,
+      "original": "1448x1086",
+      "source": "https://static.wixstatic.com/media/003dc0_b7537b144a4d4abfb98f4185ac317ffc~mv2.png",
+      "page": "https://www.justdoonit.com.au/price-2/copy-of-dry-season-tours",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1086,
+      "height": 1448,
+      "original": "1086x1448",
+      "source": "https://static.wixstatic.com/media/003dc0_1d7f84b05c294c62ac1909c3f56d0d8b~mv2.jpeg",
+      "page": "https://www.justdoonit.com.au/price-2/copy-of-dry-season-tours",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1448,
+      "height": 1086,
+      "original": "1448x1086",
+      "source": "https://static.wixstatic.com/media/003dc0_4e5b9caf70114ad29c79c12fb39de1d0~mv2.png",
+      "page": "https://www.justdoonit.com.au/price-2/copy-of-dry-season-tours",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 2000,
+      "height": 2000,
+      "original": "2217x2217",
+      "source": "https://static.wixstatic.com/media/003dc0_b2ee849b8091479f942f823e196df080~mv2.jpg",
+      "page": "https://www.justdoonit.com.au/price-2/copy-of-dry-season-tours",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1536,
+      "height": 1536,
+      "original": "1536x1536",
+      "source": "https://static.wixstatic.com/media/003dc0_d10434bbc8d447009c9dc2f25404fcd8~mv2.jpg",
+      "page": "https://www.justdoonit.com.au/price-2/copy-of-dry-season-tours",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.justdoonit.com.au/",
+      "status": 200,
+      "final_url": "https://www.justdoonit.com.au/",
+      "bytes": 1342558
+    },
+    {
+      "page": "https://www.justdoonit.com.au/price-2",
+      "status": 200,
+      "final_url": "https://www.justdoonit.com.au/price-2",
+      "bytes": 1237229
+    },
+    {
+      "page": "https://www.justdoonit.com.au/price-2/copy-of-price",
+      "status": 200,
+      "final_url": "https://www.justdoonit.com.au/price-2/copy-of-price",
+      "bytes": 1331229
+    },
+    {
+      "page": "https://www.justdoonit.com.au/price-2/copy-of-dry-season-tours",
+      "status": 200,
+      "final_url": "https://www.justdoonit.com.au/price-2/copy-of-dry-season-tours",
+      "bytes": 1392844
+    },
+    {
+      "page": "https://www.justdoonit.com.au/about",
+      "status": 200,
+      "final_url": "https://www.justdoonit.com.au/about",
+      "bytes": 1338568
+    },
+    {
+      "page": "https://www.justdoonit.com.au/faq",
+      "status": 200,
+      "final_url": "https://www.justdoonit.com.au/faq",
+      "bytes": 1496007
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/003dc0_a387c8fbc99d446abfffbee9236b7d99%7Emv2.png/v1/fit/w_2500,h_1330,al_c/003dc0_a387c8fbc99d446abfffbee9236b7d99%7Emv2.png"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/40898a93cfff4578b1779073137eb1b4.png",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/40898a93cfff4578b1779073137eb1b4.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/40898a93cfff4578b1779073137eb1b4.png",
+      "error": "too small 39x39"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/aebe5b6fd55f471a936c72ff2c8289d7.png",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/aebe5b6fd55f471a936c72ff2c8289d7.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/aebe5b6fd55f471a936c72ff2c8289d7.png",
+      "error": "too small 39x39"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/11062b_c7468ec61d494ead83af6058b76cadc0~mv2.png",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/11062b_c7468ec61d494ead83af6058b76cadc0~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_c7468ec61d494ead83af6058b76cadc0~mv2.png",
+      "error": "too small 39x39"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/e1aa082f7c0747168d9cf43e77046142.png",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/e1aa082f7c0747168d9cf43e77046142.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e1aa082f7c0747168d9cf43e77046142.png",
+      "error": "too small 39x39"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/4057345bcf57474b96976284050c00df.png",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/4057345bcf57474b96976284050c00df.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/4057345bcf57474b96976284050c00df.png",
+      "error": "too small 39x39"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/11062b_66167d61316d4665841f3397360d54a9~mv2.png",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/11062b_66167d61316d4665841f3397360d54a9~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_66167d61316d4665841f3397360d54a9~mv2.png",
+      "error": "too small 39x39"
+    },
+    {
+      "image": "https://www.justdoonit.com.au/quality_auto/hook%202_edited.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.justdoonit.com.au/quality_auto/40898a93cfff4578b1779073137eb1b4.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.justdoonit.com.au/quality_auto/aebe5b6fd55f471a936c72ff2c8289d7.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.justdoonit.com.au/quality_auto/11062b_c7468ec61d494ead83af6058b76cadc0~mv2.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.justdoonit.com.au/quality_auto/IMG_2657.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.justdoonit.com.au/quality_auto/hook_edited.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.justdoonit.com.au/quality_auto/e1aa082f7c0747168d9cf43e77046142.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.justdoonit.com.au/quality_auto/4057345bcf57474b96976284050c00df.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.justdoonit.com.au/quality_auto/11062b_66167d61316d4665841f3397360d54a9~mv2.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/003dc0_2debd983b1cc4157b8c5e2f5a3ee5d81%7Emv2.png",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/003dc0_2debd983b1cc4157b8c5e2f5a3ee5d81%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/003dc0_2debd983b1cc4157b8c5e2f5a3ee5d81%7Emv2.png",
+      "error": "too small 192x192"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/003dc0_2debd983b1cc4157b8c5e2f5a3ee5d81%7Emv2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/003dc0_2debd983b1cc4157b8c5e2f5a3ee5d81%7Emv2.png",
+      "error": "too small 32x32"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/003dc0_2debd983b1cc4157b8c5e2f5a3ee5d81%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/003dc0_2debd983b1cc4157b8c5e2f5a3ee5d81%7Emv2.png",
+      "error": "too small 180x180"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/003dc0_efea98932aaf4c76ba362ac8af344973~mv2.png/v1/fill/w_70,h_70,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/hook%202_edited.png",
+      "error": "too small 70x70"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/003dc0_efea98932aaf4c76ba362ac8af344973~mv2.png/v1/fill/w_140,h_140,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/hook%202_edited.png",
+      "error": "too small 140x140"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/40898a93cfff4578b1779073137eb1b4.png/v1/fill/w_78,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/40898a93cfff4578b1779073137eb1b4.png",
+      "error": "too small 78x78"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/aebe5b6fd55f471a936c72ff2c8289d7.png/v1/fill/w_78,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/aebe5b6fd55f471a936c72ff2c8289d7.png",
+      "error": "too small 78x78"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/11062b_c7468ec61d494ead83af6058b76cadc0~mv2.png/v1/fill/w_78,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_c7468ec61d494ead83af6058b76cadc0~mv2.png",
+      "error": "too small 78x78"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/003dc0_b2fd2a837b32484bb9635dc7321c184bf000.jpg/v1/fill/w_147,h_83,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/003dc0_b2fd2a837b32484bb9635dc7321c184bf000.jpg",
+      "error": "too small 147x83"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/003dc0_78657462f2f2442eabd35ae8a6915fcc~mv2.jpg/v1/fill/w_1911,h_924,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_2657.jpg"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/003dc0_78657462f2f2442eabd35ae8a6915fcc~mv2.jpg/v1/fill/w_2360,h_1141,al_c,q_90,enc_avif,quality_auto/IMG_2657.jpg"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/003dc0_660e2f31034941df8f707b684e2e3b7df000.jpg/v1/fill/w_126,h_71,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/003dc0_660e2f31034941df8f707b684e2e3b7df000.jpg",
+      "error": "too small 126x71"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/003dc0_28f73bcb43b24e2bbe2df8a10b5b7b10f000.jpg/v1/fill/w_146,h_82,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/003dc0_28f73bcb43b24e2bbe2df8a10b5b7b10f000.jpg",
+      "error": "too small 146x82"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/003dc0_bc76872ab1ba49cdbd380c1bf322d9b5~mv2.png/v1/fill/w_76,h_76,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/hook_edited.png",
+      "error": "too small 76x76"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/003dc0_bc76872ab1ba49cdbd380c1bf322d9b5~mv2.png/v1/fill/w_152,h_152,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/hook_edited.png",
+      "error": "too small 152x152"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/e1aa082f7c0747168d9cf43e77046142.png/v1/fill/w_78,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e1aa082f7c0747168d9cf43e77046142.png",
+      "error": "too small 78x78"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/4057345bcf57474b96976284050c00df.png/v1/fill/w_78,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/4057345bcf57474b96976284050c00df.png",
+      "error": "too small 78x78"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/11062b_66167d61316d4665841f3397360d54a9~mv2.png/v1/fill/w_78,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_66167d61316d4665841f3397360d54a9~mv2.png",
+      "error": "too small 78x78"
+    },
+    {
+      "image": "https://www.justdoonit.com.au/price-2/quality_auto/hook%202_edited.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.justdoonit.com.au/price-2/quality_auto/40898a93cfff4578b1779073137eb1b4.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.justdoonit.com.au/price-2/quality_auto/aebe5b6fd55f471a936c72ff2c8289d7.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.justdoonit.com.au/price-2/quality_auto/11062b_c7468ec61d494ead83af6058b76cadc0~mv2.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.justdoonit.com.au/price-2/quality_auto/3.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.justdoonit.com.au/price-2/quality_auto/4.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.justdoonit.com.au/price-2/quality_auto/Lifering_edited.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.justdoonit.com.au/price-2/quality_auto/hook_edited.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.justdoonit.com.au/price-2/quality_auto/e1aa082f7c0747168d9cf43e77046142.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.justdoonit.com.au/price-2/quality_auto/4057345bcf57474b96976284050c00df.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.justdoonit.com.au/price-2/quality_auto/11062b_66167d61316d4665841f3397360d54a9~mv2.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/003dc0_c2203d8236874139b2e88f742b6702df~mv2.png/v1/crop/x_87,y_0,w_1827,h_2000/fill/w_304,h_334,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/3.png",
+      "error": "too small 304x334"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/003dc0_c2203d8236874139b2e88f742b6702df~mv2.png/v1/crop/x_87,y_0,w_1827,h_2000/fill/w_608,h_668,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/3.png"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/003dc0_d8de598c3d054986993d0ea1384d54dd~mv2.png/v1/crop/x_87,y_0,w_1827,h_2000/fill/w_304,h_334,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/4.png",
+      "error": "too small 304x334"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/003dc0_d8de598c3d054986993d0ea1384d54dd~mv2.png/v1/crop/x_87,y_0,w_1827,h_2000/fill/w_608,h_668,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/4.png"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/003dc0_556c96b8467847f4927bad02de152e5f~mv2.png/v1/fill/w_100,h_97,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Lifering_edited.png",
+      "error": "too small 100x97"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/003dc0_556c96b8467847f4927bad02de152e5f~mv2.png/v1/fill/w_200,h_194,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Lifering_edited.png",
+      "error": "too small 200x194"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/003dc0_b7537b144a4d4abfb98f4185ac317ffc~mv2.png/v1/fill/w_49,h_37,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/003dc0_b7537b144a4d4abfb98f4185ac317ffc~mv2.png",
+      "error": "too small 49x37"
+    }
+  ]
+}

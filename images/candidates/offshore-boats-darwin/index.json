@@ -1,0 +1,375 @@
+{
+  "slug": "offshore-boats-darwin",
+  "request_hash": "62aeb77c49d0",
+  "collected_at": "2026-10-29T03:52:31.327Z",
+  "pages_fetched": [
+    "https://www.offshoreboats.com.au/",
+    "https://offshoreboats.com.au/",
+    "https://offshoreboats.com.au/reef-sport-fishing-charters/",
+    "https://offshoreboats.com.au/barramundi-fishing-charters/",
+    "https://offshoreboats.com.au/corroboree-billabong-barramundi-fishing-charters/",
+    "https://offshoreboats.com.au/mudcrabcharters/",
+    "https://offshoreboats.com.au/billfish-charters/",
+    "https://offshoreboats.com.au/extended-fishing-charters/",
+    "https://offshoreboats.com.au/mothership-fishing-charters/",
+    "https://offshoreboats.com.au/about/faq/",
+    "https://offshoreboats.com.au/why-us/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 2000,
+      "height": 1248,
+      "original": "2048x1278",
+      "source": "https://offshoreboats.com.au/wp-content/uploads/2019/02/48426901_754076941624565_3488307442071109632_o.jpg",
+      "page": "https://www.offshoreboats.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 1280,
+      "height": 491,
+      "original": "1280x491",
+      "source": "https://offshoreboats.com.au/wp-content/uploads/2020/01/cropped-darwinCMYK-transparent-background.png",
+      "page": "https://www.offshoreboats.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://offshoreboats.com.au/wp-content/uploads/2021/04/20210315_104228-scaled.jpg",
+      "page": "https://www.offshoreboats.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "3000x2250",
+      "source": "https://offshoreboats.com.au/wp-content/uploads/2019/03/IMG_3468.jpg",
+      "page": "https://www.offshoreboats.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1400,
+      "height": 976,
+      "original": "1400x976",
+      "source": "https://offshoreboats.com.au/wp-content/uploads/2026/04/motion_photo_3215381694765914635-e1777347562641.jpg",
+      "page": "https://www.offshoreboats.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1200,
+      "height": 900,
+      "original": "1200x900",
+      "source": "https://offshoreboats.com.au/wp-content/uploads/2025/07/corroboree.jpg",
+      "page": "https://www.offshoreboats.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 2000,
+      "height": 1151,
+      "original": "4089x2353",
+      "source": "https://offshoreboats.com.au/wp-content/uploads/2019/02/AdobeStock_1772384901.jpg",
+      "page": "https://www.offshoreboats.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1638,
+      "height": 1638,
+      "original": "1638x1638",
+      "source": "https://offshoreboats.com.au/wp-content/uploads/2025/12/Million-Dollar-Fish-with-Offshore-Boats-Fishing-Charters-2.jpg",
+      "page": "https://www.offshoreboats.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 600,
+      "height": 503,
+      "original": "600x503",
+      "source": "https://offshoreboats.com.au/wp-content/uploads/2024/12/25-percent-off.jpg",
+      "page": "https://www.offshoreboats.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 2000,
+      "height": 1513,
+      "original": "2560x1937",
+      "source": "https://offshoreboats.com.au/wp-content/uploads/2025/06/1000053802_74633230812674242abffaf7e066286d-6_13_2025-9_59_42-AM-scaled.jpg",
+      "page": "https://offshoreboats.com.au/reef-sport-fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 2000,
+      "height": 1262,
+      "original": "2560x1616",
+      "source": "https://offshoreboats.com.au/wp-content/uploads/2025/06/Golden-Snapper-scaled.jpg",
+      "page": "https://offshoreboats.com.au/reef-sport-fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://offshoreboats.com.au/wp-content/uploads/2025/06/2-2-scaled.jpg",
+      "page": "https://offshoreboats.com.au/reef-sport-fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 2000,
+      "height": 1209,
+      "original": "3000x1813",
+      "source": "https://offshoreboats.com.au/wp-content/uploads/2019/04/IMG_2422.jpg",
+      "page": "https://offshoreboats.com.au/reef-sport-fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 2000,
+      "height": 1319,
+      "original": "2048x1351",
+      "source": "https://offshoreboats.com.au/wp-content/uploads/2019/11/76618987_965716240460633_4944386571861229568_o.jpg",
+      "page": "https://offshoreboats.com.au/reef-sport-fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1334,
+      "height": 750,
+      "original": "1334x750",
+      "source": "https://offshoreboats.com.au/wp-content/uploads/2018/07/36003032_622723608093233_4411350709174272000_o.jpg",
+      "page": "https://offshoreboats.com.au/reef-sport-fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 2000,
+      "height": 1697,
+      "original": "2048x1738",
+      "source": "https://offshoreboats.com.au/wp-content/uploads/2018/12/red.jpg",
+      "page": "https://offshoreboats.com.au/reef-sport-fishing-charters/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.offshoreboats.com.au/",
+      "status": 200,
+      "final_url": "https://offshoreboats.com.au/",
+      "bytes": 123814
+    },
+    {
+      "page": "https://offshoreboats.com.au/",
+      "status": 200,
+      "final_url": "https://offshoreboats.com.au/",
+      "bytes": 123814
+    },
+    {
+      "page": "https://offshoreboats.com.au/reef-sport-fishing-charters/",
+      "status": 200,
+      "final_url": "https://offshoreboats.com.au/reef-sport-fishing-charters/",
+      "bytes": 171852
+    },
+    {
+      "page": "https://offshoreboats.com.au/barramundi-fishing-charters/",
+      "status": 200,
+      "final_url": "https://offshoreboats.com.au/barramundi-fishing-charters/",
+      "bytes": 165094
+    },
+    {
+      "page": "https://offshoreboats.com.au/corroboree-billabong-barramundi-fishing-charters/",
+      "status": 200,
+      "final_url": "https://offshoreboats.com.au/corroboree-billabong-barramundi-fishing-charters/",
+      "bytes": 157270
+    },
+    {
+      "page": "https://offshoreboats.com.au/mudcrabcharters/",
+      "status": 200,
+      "final_url": "https://offshoreboats.com.au/mudcrabcharters/",
+      "bytes": 165510
+    },
+    {
+      "page": "https://offshoreboats.com.au/billfish-charters/",
+      "status": 200,
+      "final_url": "https://offshoreboats.com.au/billfish-charters/",
+      "bytes": 143451
+    },
+    {
+      "page": "https://offshoreboats.com.au/extended-fishing-charters/",
+      "status": 200,
+      "final_url": "https://offshoreboats.com.au/extended-fishing-charters/",
+      "bytes": 178544
+    },
+    {
+      "page": "https://offshoreboats.com.au/mothership-fishing-charters/",
+      "status": 200,
+      "final_url": "https://offshoreboats.com.au/mothership-fishing-charters/",
+      "bytes": 163060
+    },
+    {
+      "page": "https://offshoreboats.com.au/about/faq/",
+      "status": 200,
+      "final_url": "https://offshoreboats.com.au/about/faq/",
+      "bytes": 135006
+    },
+    {
+      "page": "https://offshoreboats.com.au/why-us/",
+      "status": 200,
+      "final_url": "https://offshoreboats.com.au/why-us/",
+      "bytes": 142336
+    },
+    {
+      "image": "https://offshoreboats.com.au/wp-content/uploads/2025/02/12.-Tour-and-Transport-Operators-1.png",
+      "error": "too small 413x413"
+    },
+    {
+      "image": "https://offshoreboats.com.au/wp-content/uploads/2025/02/QTAB.png",
+      "error": "too small 480x630"
+    },
+    {
+      "image": "https://offshoreboats.com.au/wp-content/uploads/2025/02/Sustainable3.png",
+      "error": "too small 443x640"
+    },
+    {
+      "image": "https://offshoreboats.com.au/wp-content/uploads/2019/02/35971200_621731601525767_1269579512220221440_n.jpg",
+      "error": "too small 947x288"
+    },
+    {
+      "dup": "https://offshoreboats.com.au/wp-content/uploads/2021/04/20210315_104228.jpg"
+    },
+    {
+      "image": "https://offshoreboats.com.au/wp-content/uploads/2019/03/IMG_3468-450x450.jpg",
+      "error": "too small 450x450"
+    },
+    {
+      "image": "https://offshoreboats.com.au/wp-content/uploads/2025/12/538547769_1116986877243757_7164616801314504762_n.jpg",
+      "error": "too small 512x640"
+    },
+    {
+      "image": "https://offshoreboats.com.au/wp-content/uploads/2025/12/538547769_1116986877243757_7164616801314504762_n-450x450.jpg",
+      "error": "too small 450x450"
+    },
+    {
+      "image": "https://offshoreboats.com.au/wp-content/uploads/2024/12/465919067_1063779152207322_3242248391446274995_n.jpg",
+      "error": "too small 450x600"
+    },
+    {
+      "image": "https://offshoreboats.com.au/wp-content/uploads/2024/12/465919067_1063779152207322_3242248391446274995_n-450x450.jpg",
+      "error": "too small 450x450"
+    },
+    {
+      "image": "https://offshoreboats.com.au/wp-content/uploads/2020/01/cropped-darwinCMYK-transparent-background-300x115.png",
+      "error": "too small 300x115"
+    },
+    {
+      "image": "https://offshoreboats.com.au/wp-content/uploads/2020/01/cropped-darwinCMYK-transparent-background-1024x393.png",
+      "error": "too small 1024x393"
+    },
+    {
+      "image": "https://offshoreboats.com.au/wp-content/uploads/2020/01/cropped-darwinCMYK-transparent-background-768x295.png",
+      "error": "too small 768x295"
+    },
+    {
+      "image": "https://offshoreboats.com.au/wp-content/uploads/2019/02/AdobeStock_1772384901-450x450.jpg",
+      "error": "too small 450x450"
+    },
+    {
+      "image": "https://offshoreboats.com.au/wp-content/uploads/2021/04/20210315_104228-450x450.jpg",
+      "error": "too small 450x450"
+    },
+    {
+      "image": "https://offshoreboats.com.au/wp-content/uploads/2025/12/Million-Dollar-Fish-with-Offshore-Boats-Fishing-Charters-2-450x450.jpg",
+      "error": "too small 450x450"
+    },
+    {
+      "image": "https://offshoreboats.com.au/wp-content/uploads/2024/12/25-percent-off-450x450.jpg",
+      "error": "too small 450x450"
+    },
+    {
+      "image": "https://offshoreboats.com.au/wp-content/uploads/2025/02/12.-Tour-and-Transport-Operators-1-300x300.png",
+      "error": "too small 300x300"
+    },
+    {
+      "image": "https://offshoreboats.com.au/wp-content/uploads/2025/02/12.-Tour-and-Transport-Operators-1-150x150.png",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://offshoreboats.com.au/wp-content/uploads/2025/02/QTAB-229x300.png",
+      "error": "too small 229x300"
+    },
+    {
+      "image": "https://offshoreboats.com.au/wp-content/uploads/2025/02/tchotel_2024_LL.png",
+      "error": "too small 200x220"
+    },
+    {
+      "image": "https://offshoreboats.com.au/wp-content/uploads/2025/02/Sustainable3-208x300.png",
+      "error": "too small 208x300"
+    },
+    {
+      "dup": "https://offshoreboats.com.au/wp-content/uploads/2025/06/1000053802_74633230812674242abffaf7e066286d-6_13_2025-9_59_42-AM.jpg"
+    },
+    {
+      "dup": "https://offshoreboats.com.au/wp-content/uploads/2025/06/1000053802_74633230812674242abffaf7e066286d-6_13_2025-9_59_42-AM-1024x775.jpg"
+    },
+    {
+      "image": "https://offshoreboats.com.au/wp-content/uploads/2025/06/1000053802_74633230812674242abffaf7e066286d-6_13_2025-9_59_42-AM-scaled-269x269.jpg",
+      "error": "too small 269x269"
+    },
+    {
+      "dup": "https://offshoreboats.com.au/wp-content/uploads/2025/06/Golden-Snapper.jpg"
+    },
+    {
+      "dup": "https://offshoreboats.com.au/wp-content/uploads/2025/06/Golden-Snapper-1024x646.jpg"
+    },
+    {
+      "image": "https://offshoreboats.com.au/wp-content/uploads/2025/06/Golden-Snapper-scaled-269x269.jpg",
+      "error": "too small 269x269"
+    },
+    {
+      "dup": "https://offshoreboats.com.au/wp-content/uploads/2025/06/2-2.jpg"
+    },
+    {
+      "dup": "https://offshoreboats.com.au/wp-content/uploads/2025/06/2-2-1024x768.jpg"
+    },
+    {
+      "image": "https://offshoreboats.com.au/wp-content/uploads/2025/06/2-2-scaled-269x269.jpg",
+      "error": "too small 269x269"
+    },
+    {
+      "image": "https://offshoreboats.com.au/wp-content/uploads/2019/04/IMG_2422-300x181.jpg",
+      "error": "too small 300x181"
+    },
+    {
+      "dup": "https://offshoreboats.com.au/wp-content/uploads/2019/04/IMG_2422-1024x619.jpg"
+    },
+    {
+      "image": "https://offshoreboats.com.au/wp-content/uploads/2019/04/IMG_2422-269x269.jpg",
+      "error": "too small 269x269"
+    },
+    {
+      "image": "https://offshoreboats.com.au/wp-content/uploads/2019/11/76618987_965716240460633_4944386571861229568_o-300x198.jpg",
+      "error": "too small 300x198"
+    },
+    {
+      "dup": "https://offshoreboats.com.au/wp-content/uploads/2019/11/76618987_965716240460633_4944386571861229568_o-1024x676.jpg"
+    },
+    {
+      "image": "https://offshoreboats.com.au/wp-content/uploads/2019/11/76618987_965716240460633_4944386571861229568_o-269x269.jpg",
+      "error": "too small 269x269"
+    },
+    {
+      "image": "https://offshoreboats.com.au/wp-content/uploads/2018/07/36003032_622723608093233_4411350709174272000_o-269x269.jpg",
+      "error": "too small 269x269"
+    }
+  ]
+}

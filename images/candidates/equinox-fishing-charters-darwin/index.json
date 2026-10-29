@@ -1,0 +1,213 @@
+{
+  "slug": "equinox-fishing-charters-darwin",
+  "request_hash": "9ebb15ca84f9",
+  "collected_at": "2026-10-29T03:52:07.452Z",
+  "pages_fetched": [
+    "https://www.equinoxcharters.com.au/",
+    "https://www.equinoxcharters.com.au/fishing-charters/",
+    "https://www.equinoxcharters.com.au/our-boats/",
+    "https://www.equinoxcharters.com.au/gallery/",
+    "https://www.equinoxcharters.com.au/bookings/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1000,
+      "height": 800,
+      "original": "1000x800",
+      "source": "https://www.equinoxcharters.com.au/wp-content/uploads/7-hour-3.jpg",
+      "page": "https://www.equinoxcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 640,
+      "height": 405,
+      "original": "640x405",
+      "source": "https://www.equinoxcharters.com.au/wp-content/uploads/Sustainable2.png",
+      "page": "https://www.equinoxcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1920,
+      "height": 805,
+      "original": "1920x805",
+      "source": "https://www.equinoxcharters.com.au/wp-content/uploads/Equinox-Fishing-Charters-Darwin.jpg",
+      "page": "https://www.equinoxcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1000,
+      "height": 800,
+      "original": "1000x800",
+      "source": "https://www.equinoxcharters.com.au/wp-content/uploads/5-hour2.jpg",
+      "page": "https://www.equinoxcharters.com.au/fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1000,
+      "height": 800,
+      "original": "1000x800",
+      "source": "https://www.equinoxcharters.com.au/wp-content/uploads/5-hour-4.jpg",
+      "page": "https://www.equinoxcharters.com.au/fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1000,
+      "height": 800,
+      "original": "1000x800",
+      "source": "https://www.equinoxcharters.com.au/wp-content/uploads/5-hour-1.jpg",
+      "page": "https://www.equinoxcharters.com.au/fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1000,
+      "height": 800,
+      "original": "1000x800",
+      "source": "https://www.equinoxcharters.com.au/wp-content/uploads/5-hour-6.jpg",
+      "page": "https://www.equinoxcharters.com.au/fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1000,
+      "height": 800,
+      "original": "1000x800",
+      "source": "https://www.equinoxcharters.com.au/wp-content/uploads/5-hour-7.jpg",
+      "page": "https://www.equinoxcharters.com.au/fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1000,
+      "height": 800,
+      "original": "1000x800",
+      "source": "https://www.equinoxcharters.com.au/wp-content/uploads/5-hour-3.jpg",
+      "page": "https://www.equinoxcharters.com.au/fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1000,
+      "height": 800,
+      "original": "1000x800",
+      "source": "https://www.equinoxcharters.com.au/wp-content/uploads/Red-Emperor1.jpg",
+      "page": "https://www.equinoxcharters.com.au/fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1000,
+      "height": 800,
+      "original": "1000x800",
+      "source": "https://www.equinoxcharters.com.au/wp-content/uploads/7-hour-2.jpg",
+      "page": "https://www.equinoxcharters.com.au/fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1000,
+      "height": 800,
+      "original": "1000x800",
+      "source": "https://www.equinoxcharters.com.au/wp-content/uploads/7-hour-4.jpg",
+      "page": "https://www.equinoxcharters.com.au/fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1000,
+      "height": 800,
+      "original": "1000x800",
+      "source": "https://www.equinoxcharters.com.au/wp-content/uploads/7-hour-5.jpg",
+      "page": "https://www.equinoxcharters.com.au/fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1000,
+      "height": 800,
+      "original": "1000x800",
+      "source": "https://www.equinoxcharters.com.au/wp-content/uploads/7-hour-6.jpg",
+      "page": "https://www.equinoxcharters.com.au/fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1535,
+      "height": 1090,
+      "original": "1535x1090",
+      "source": "https://www.equinoxcharters.com.au/wp-content/uploads/life-of-water4.jpg",
+      "page": "https://www.equinoxcharters.com.au/our-boats/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1535,
+      "height": 1090,
+      "original": "1535x1090",
+      "source": "https://www.equinoxcharters.com.au/wp-content/uploads/life-of-water1.jpg",
+      "page": "https://www.equinoxcharters.com.au/our-boats/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.equinoxcharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.equinoxcharters.com.au/",
+      "bytes": 161516
+    },
+    {
+      "page": "https://www.equinoxcharters.com.au/fishing-charters/",
+      "status": 200,
+      "final_url": "https://www.equinoxcharters.com.au/fishing-charters/",
+      "bytes": 184613
+    },
+    {
+      "page": "https://www.equinoxcharters.com.au/our-boats/",
+      "status": 200,
+      "final_url": "https://www.equinoxcharters.com.au/our-boats/",
+      "bytes": 236882
+    },
+    {
+      "page": "https://www.equinoxcharters.com.au/gallery/",
+      "status": 200,
+      "final_url": "https://www.equinoxcharters.com.au/gallery/",
+      "bytes": 207685
+    },
+    {
+      "page": "https://www.equinoxcharters.com.au/bookings/",
+      "status": 200,
+      "final_url": "https://www.equinoxcharters.com.au/bookings/",
+      "bytes": 140565
+    },
+    {
+      "image": "https://www.equinoxcharters.com.au/wp-content/uploads/Sustainable1.png",
+      "error": "too small 640x201"
+    },
+    {
+      "image": "https://www.equinoxcharters.com.au/wp-content/uploads/horiz-Startlight-Foundation.png",
+      "error": "too small 220x111"
+    },
+    {
+      "image": "https://www.equinoxcharters.com.au/wp-content/uploads/7-hour-3-300x240.jpg",
+      "error": "too small 300x240"
+    },
+    {
+      "dup": "https://www.equinoxcharters.com.au/wp-content/uploads/7-hour-3-768x614.jpg"
+    },
+    {
+      "image": "https://www.equinoxcharters.com.au/wp-content/uploads/Sustainable1-480x151.png",
+      "error": "too small 480x151"
+    },
+    {
+      "image": "https://www.equinoxcharters.com.au/wp-content/uploads/Sustainable2-480x304.png",
+      "error": "too small 480x304"
+    }
+  ]
+}

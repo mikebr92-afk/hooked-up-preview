@@ -1,0 +1,94 @@
+{
+  "slug": "research-nt-tours-d",
+  "request_hash": "3f0a9950226b",
+  "collected_at": "2026-10-29T03:51:21.802Z",
+  "pages_fetched": [
+    "https://northernterritory.com/tours/fish-the-top-end",
+    "https://northernterritory.com/tours/wildman-fishing/barramundi-fishing-charter",
+    "https://www.australias.guide/nt/attraction-tour/wildman-fishing/",
+    "https://northernterritory.com/katherine-and-surrounds/see-and-do/king-ash-bay-fishing-club-incorporated",
+    "https://www.kingashbay.com.au/",
+    "https://www.australiantraveller.com/nt/kings-ash-bay/",
+    "https://visitkatherine.com.au/tiwi-island-adventures-melville-island-lodge",
+    "https://northernterritory.com/tours/territory-guided-fishing",
+    "https://northernterritory.com/tours/anglers-choice-fishing-safaris",
+    "https://northernterritory.com/tours/barramundi-adventures",
+    "https://northernterritory.com/arnhem-land/accommodation/groote-eylandt-lodge",
+    "https://northernterritory.com/tours/helifish"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://northernterritory.com/tours/fish-the-top-end",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/fish-the-top-end",
+      "bytes": 512092
+    },
+    {
+      "page": "https://northernterritory.com/tours/wildman-fishing/barramundi-fishing-charter",
+      "status": 404,
+      "final_url": "https://northernterritory.com/tours/wildman-fishing/barramundi-fishing-charter",
+      "bytes": 517251
+    },
+    {
+      "page": "https://www.australias.guide/nt/attraction-tour/wildman-fishing/",
+      "status": 200,
+      "final_url": "https://australiasguide.com/",
+      "bytes": 146365
+    },
+    {
+      "page": "https://northernterritory.com/katherine-and-surrounds/see-and-do/king-ash-bay-fishing-club-incorporated",
+      "status": 404,
+      "final_url": "https://northernterritory.com/katherine-and-surrounds/see-and-do/king-ash-bay-fishing-club-incorporated",
+      "bytes": 517251
+    },
+    {
+      "page": "https://www.kingashbay.com.au/",
+      "status": 200,
+      "final_url": "https://www.kingashbay.com.au/",
+      "bytes": 78668
+    },
+    {
+      "page": "https://www.australiantraveller.com/nt/kings-ash-bay/",
+      "status": 200,
+      "final_url": "https://www.australiantraveller.com/nt/kings-ash-bay/",
+      "bytes": 371302
+    },
+    {
+      "page": "https://visitkatherine.com.au/tiwi-island-adventures-melville-island-lodge",
+      "status": 404,
+      "final_url": "https://www.visitkatherine.com.au/tiwi-island-adventures-melville-island-lodge",
+      "bytes": 30898
+    },
+    {
+      "page": "https://northernterritory.com/tours/territory-guided-fishing",
+      "status": 404,
+      "final_url": "https://northernterritory.com/tours/territory-guided-fishing",
+      "bytes": 517251
+    },
+    {
+      "page": "https://northernterritory.com/tours/anglers-choice-fishing-safaris",
+      "status": 404,
+      "final_url": "https://northernterritory.com/tours/anglers-choice-fishing-safaris",
+      "bytes": 517251
+    },
+    {
+      "page": "https://northernterritory.com/tours/barramundi-adventures",
+      "status": 404,
+      "final_url": "https://northernterritory.com/tours/barramundi-adventures",
+      "bytes": 517251
+    },
+    {
+      "page": "https://northernterritory.com/arnhem-land/accommodation/groote-eylandt-lodge",
+      "status": 200,
+      "final_url": "https://northernterritory.com/arnhem-land/accommodation/groote-eylandt-lodge",
+      "bytes": 528885
+    },
+    {
+      "page": "https://northernterritory.com/tours/helifish",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/helifish",
+      "bytes": 528071
+    }
+  ]
+}
