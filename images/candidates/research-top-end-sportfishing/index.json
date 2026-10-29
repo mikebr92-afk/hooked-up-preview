@@ -1,0 +1,41 @@
+{
+  "slug": "research-top-end-sportfishing",
+  "request_hash": "560d3a2067e1",
+  "collected_at": "2026-10-29T03:47:48.867Z",
+  "pages_fetched": [
+    "https://darwinlocalista.com.au/listing/top-end-sportfishing",
+    "https://www.tomscatch.com/fishing-in-australia/top-end-sportfishing-621",
+    "https://waholidayguide.com.au/top-end-sportfishing",
+    "http://topendsportfishing.net.au/",
+    "https://fishingbooker.com/profile/view/1722242"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://darwinlocalista.com.au/listing/top-end-sportfishing",
+      "status": 200,
+      "final_url": "https://darwinlocalista.com.au/listing/top-end-sportfishing?place=darwin-suburb%2C+nt%2C+au",
+      "bytes": 72124
+    },
+    {
+      "page": "https://www.tomscatch.com/fishing-in-australia/top-end-sportfishing-621",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://waholidayguide.com.au/top-end-sportfishing",
+      "status": 200,
+      "final_url": "https://www.waholidayguide.com.au/western-australia-accommodation",
+      "bytes": 588294
+    },
+    {
+      "page": "http://topendsportfishing.net.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://fishingbooker.com/profile/view/1722242",
+      "status": 403,
+      "final_url": "https://fishingbooker.com/profile/view/1722242",
+      "bytes": 5913
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "barra-or-blue-fishing-charters-darwin",
+  "request_hash": "faff696d395a",
+  "collected_at": "2026-10-29T03:48:05.389Z",
+  "pages_fetched": [
+    "https://barraorblue.com.au/",
+    "https://barraorblue.com.au/extended-fishing-charters-2/",
+    "https://barraorblue.com.au/day-charters/",
+    "https://barraorblue.com.au/vessels/",
+    "https://barraorblue.com.au/about/",
+    "https://barraorblue.com.au/contact/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://barraorblue.com.au/",
+      "status": 200,
+      "final_url": "https://barraorblue.com.au/",
+      "bytes": 227587
+    },
+    {
+      "page": "https://barraorblue.com.au/extended-fishing-charters-2/",
+      "status": 200,
+      "final_url": "https://barraorblue.com.au/extended-fishing-charters-2/",
+      "bytes": 320504
+    },
+    {
+      "page": "https://barraorblue.com.au/day-charters/",
+      "status": 200,
+      "final_url": "https://barraorblue.com.au/day-charters/",
+      "bytes": 202086
+    },
+    {
+      "page": "https://barraorblue.com.au/vessels/",
+      "status": 200,
+      "final_url": "https://barraorblue.com.au/vessels/",
+      "bytes": 219649
+    },
+    {
+      "page": "https://barraorblue.com.au/about/",
+      "status": 200,
+      "final_url": "https://barraorblue.com.au/about/",
+      "bytes": 213958
+    },
+    {
+      "page": "https://barraorblue.com.au/contact/",
+      "status": 200,
+      "final_url": "https://barraorblue.com.au/contact/",
+      "bytes": 230919
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "research-nt-tours-a",
+  "request_hash": "3997de4f75f8",
+  "collected_at": "2026-10-29T03:47:30.352Z",
+  "pages_fetched": [
+    "https://northernterritory.com/tours/wildman-fishing",
+    "https://northernterritory.com/tours/dna-barra-fishing",
+    "https://northernterritory.com/tours/kakadu-fishing-tours",
+    "https://northernterritory.com/tours/cobourg-fishing-safaris",
+    "https://northernterritory.com/tours/estuary-escapes-fishing-charters",
+    "https://northernterritory.com/tours/just-doon-it-barramundi-fishing-charters",
+    "https://northernterritory.com/tours/just-doon-it-fishing-charters",
+    "https://northernterritory.com/tours/alure-fishing-charters-nt",
+    "https://northernterritory.com/tours/nt-fish--4x4",
+    "https://northernterritory.com/tours/vision-sportfishing-charters",
+    "https://northernterritory.com/tours/obj-adventures-nhulunbuy-fishing-charters",
+    "https://northernterritory.com/tours/equinox-fishing-charters"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://northernterritory.com/tours/wildman-fishing",
+      "status": 404,
+      "final_url": "https://northernterritory.com/tours/wildman-fishing",
+      "bytes": 517251
+    },
+    {
+      "page": "https://northernterritory.com/tours/dna-barra-fishing",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/dna-barra-fishing",
+      "bytes": 527310
+    },
+    {
+      "page": "https://northernterritory.com/tours/kakadu-fishing-tours",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/kakadu-fishing-tours",
+      "bytes": 524193
+    },
+    {
+      "page": "https://northernterritory.com/tours/cobourg-fishing-safaris",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/cobourg-fishing-safaris",
+      "bytes": 524284
+    },
+    {
+      "page": "https://northernterritory.com/tours/estuary-escapes-fishing-charters",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/estuary-escapes-fishing-charters",
+      "bytes": 528415
+    },
+    {
+      "page": "https://northernterritory.com/tours/just-doon-it-barramundi-fishing-charters",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/just-doon-it-barramundi-fishing-charters",
+      "bytes": 521462
+    },
+    {
+      "page": "https://northernterritory.com/tours/just-doon-it-fishing-charters",
+      "status": 404,
+      "final_url": "https://northernterritory.com/tours/just-doon-it-fishing-charters",
+      "bytes": 517251
+    },
+    {
+      "page": "https://northernterritory.com/tours/alure-fishing-charters-nt",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/alure-fishing-charters-nt",
+      "bytes": 524224
+    },
+    {
+      "page": "https://northernterritory.com/tours/nt-fish--4x4",
+      "status": 404,
+      "final_url": "https://northernterritory.com/tours/nt-fish--4x4",
+      "bytes": 517251
+    },
+    {
+      "page": "https://northernterritory.com/tours/vision-sportfishing-charters",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/vision-sportfishing-charters",
+      "bytes": 521391
+    },
+    {
+      "page": "https://northernterritory.com/tours/obj-adventures-nhulunbuy-fishing-charters",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/obj-adventures-nhulunbuy-fishing-charters",
+      "bytes": 531334
+    },
+    {
+      "page": "https://northernterritory.com/tours/equinox-fishing-charters",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/equinox-fishing-charters",
+      "bytes": 518931
+    }
+  ]
+}

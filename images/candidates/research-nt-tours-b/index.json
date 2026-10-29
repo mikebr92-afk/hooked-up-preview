@@ -1,0 +1,94 @@
+{
+  "slug": "research-nt-tours-b",
+  "request_hash": "39edc281eeec",
+  "collected_at": "2026-10-29T03:47:42.309Z",
+  "pages_fetched": [
+    "https://northernterritory.com/tours/offshore-boats",
+    "https://northernterritory.com/tours/barefoot-fishing-safaris",
+    "https://northernterritory.com/tours/humbug-fishing",
+    "https://northernterritory.com/tours/australian-wild-tours",
+    "https://northernterritory.com/tours/cape-adieu-cruises-and-charters",
+    "https://northernterritory.com/tours/darwin-harbour-fishing-charters",
+    "https://northernterritory.com/tours/barra-private-tours",
+    "https://northernterritory.com/tours/barra-or-blue-fishing-charters",
+    "https://northernterritory.com/tours/top-end-sportfishing",
+    "https://northernterritory.com/tours/tiwi-island-adventures",
+    "https://northernterritory.com/tours/top-end-reel-escape",
+    "https://northernterritory.com/tours/arafura-bluewater-charters"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://northernterritory.com/tours/offshore-boats",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/offshore-boats",
+      "bytes": 529132
+    },
+    {
+      "page": "https://northernterritory.com/tours/barefoot-fishing-safaris",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/barefoot-fishing-safaris",
+      "bytes": 521052
+    },
+    {
+      "page": "https://northernterritory.com/tours/humbug-fishing",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/humbug-fishing",
+      "bytes": 524302
+    },
+    {
+      "page": "https://northernterritory.com/tours/australian-wild-tours",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/australian-wild-tours",
+      "bytes": 518158
+    },
+    {
+      "page": "https://northernterritory.com/tours/cape-adieu-cruises-and-charters",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/cape-adieu-cruises-and-charters",
+      "bytes": 527188
+    },
+    {
+      "page": "https://northernterritory.com/tours/darwin-harbour-fishing-charters",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/darwin-harbour-fishing-charters",
+      "bytes": 533339
+    },
+    {
+      "page": "https://northernterritory.com/tours/barra-private-tours",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/barra-private-tours",
+      "bytes": 527237
+    },
+    {
+      "page": "https://northernterritory.com/tours/barra-or-blue-fishing-charters",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/barra-or-blue-fishing-charters",
+      "bytes": 523537
+    },
+    {
+      "page": "https://northernterritory.com/tours/top-end-sportfishing",
+      "status": 404,
+      "final_url": "https://northernterritory.com/tours/top-end-sportfishing",
+      "bytes": 517251
+    },
+    {
+      "page": "https://northernterritory.com/tours/tiwi-island-adventures",
+      "status": 404,
+      "final_url": "https://northernterritory.com/tours/tiwi-island-adventures",
+      "bytes": 517251
+    },
+    {
+      "page": "https://northernterritory.com/tours/top-end-reel-escape",
+      "status": 404,
+      "final_url": "https://northernterritory.com/tours/top-end-reel-escape",
+      "bytes": 517251
+    },
+    {
+      "page": "https://northernterritory.com/tours/arafura-bluewater-charters",
+      "status": 404,
+      "final_url": "https://northernterritory.com/tours/arafura-bluewater-charters",
+      "bytes": 517251
+    }
+  ]
+}

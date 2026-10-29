@@ -1,0 +1,94 @@
+{
+  "slug": "research-nt-index",
+  "request_hash": "f9e8206e0124",
+  "collected_at": "2026-10-29T03:47:16.098Z",
+  "pages_fetched": [
+    "https://northernterritory.com/things-to-do/outdoor-activities/fishing/fishing-charters",
+    "https://northernterritory.com/arnhem-land/see-and-do/fishing",
+    "https://northernterritory.com/katherine-and-surrounds/see-and-do/outdoor-activities/fishing",
+    "https://northernterritory.com/articles/11-of-the-best-fishing-spots-to-visit-in-the-top-end",
+    "https://northernterritory.com/darwin-and-surrounds/destinations/mary-river",
+    "https://northernterritory.com/katherine-and-surrounds/destinations/borroloola",
+    "https://northernterritory.com/katherine-and-surrounds/destinations/king-ash-bay",
+    "https://northernterritory.com/darwin-and-surrounds/destinations/daly-river",
+    "https://northernterritory.com/darwin-and-surrounds/destinations/tiwi-islands",
+    "https://northernterritory.com/kakadu-and-surrounds/see-and-do/fishing",
+    "https://northernterritory.com/darwin-and-surrounds/see-and-do/fishing",
+    "https://www.visittopend.com.au/book/tiwi-islands/tiwi-island-adventures"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://northernterritory.com/things-to-do/outdoor-activities/fishing/fishing-charters",
+      "status": 200,
+      "final_url": "https://northernterritory.com/things-to-do/outdoor-activities/fishing/fishing-charters",
+      "bytes": 609052
+    },
+    {
+      "page": "https://northernterritory.com/arnhem-land/see-and-do/fishing",
+      "status": 200,
+      "final_url": "https://northernterritory.com/arnhem-land/see-and-do/fishing",
+      "bytes": 577891
+    },
+    {
+      "page": "https://northernterritory.com/katherine-and-surrounds/see-and-do/outdoor-activities/fishing",
+      "status": 200,
+      "final_url": "https://northernterritory.com/katherine-and-surrounds/see-and-do/outdoor-activities/fishing",
+      "bytes": 550232
+    },
+    {
+      "page": "https://northernterritory.com/articles/11-of-the-best-fishing-spots-to-visit-in-the-top-end",
+      "status": 200,
+      "final_url": "https://northernterritory.com/articles/11-of-the-best-fishing-spots-to-visit-in-the-top-end",
+      "bytes": 552139
+    },
+    {
+      "page": "https://northernterritory.com/darwin-and-surrounds/destinations/mary-river",
+      "status": 200,
+      "final_url": "https://northernterritory.com/darwin-and-surrounds/destinations/mary-river",
+      "bytes": 561131
+    },
+    {
+      "page": "https://northernterritory.com/katherine-and-surrounds/destinations/borroloola",
+      "status": 200,
+      "final_url": "https://northernterritory.com/katherine-and-surrounds/destinations/borroloola",
+      "bytes": 539993
+    },
+    {
+      "page": "https://northernterritory.com/katherine-and-surrounds/destinations/king-ash-bay",
+      "status": 200,
+      "final_url": "https://northernterritory.com/katherine-and-surrounds/destinations/king-ash-bay",
+      "bytes": 503627
+    },
+    {
+      "page": "https://northernterritory.com/darwin-and-surrounds/destinations/daly-river",
+      "status": 404,
+      "final_url": "https://northernterritory.com/darwin-and-surrounds/destinations/daly-river",
+      "bytes": 517251
+    },
+    {
+      "page": "https://northernterritory.com/darwin-and-surrounds/destinations/tiwi-islands",
+      "status": 200,
+      "final_url": "https://northernterritory.com/darwin-and-surrounds/destinations/tiwi-islands",
+      "bytes": 539415
+    },
+    {
+      "page": "https://northernterritory.com/kakadu-and-surrounds/see-and-do/fishing",
+      "status": 404,
+      "final_url": "https://northernterritory.com/kakadu-and-surrounds/see-and-do/fishing",
+      "bytes": 517251
+    },
+    {
+      "page": "https://northernterritory.com/darwin-and-surrounds/see-and-do/fishing",
+      "status": 404,
+      "final_url": "https://northernterritory.com/darwin-and-surrounds/see-and-do/fishing",
+      "bytes": 517251
+    },
+    {
+      "page": "https://www.visittopend.com.au/book/tiwi-islands/tiwi-island-adventures",
+      "status": 200,
+      "final_url": "https://www.visittopend.com.au/book/tiwi-islands/tiwi-island-adventures",
+      "bytes": 94635
+    }
+  ]
+}
