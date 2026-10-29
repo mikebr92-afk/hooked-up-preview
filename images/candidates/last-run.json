@@ -1,5 +1,5 @@
 {
-  "finished_at": "2026-10-29T19:26:59.709Z",
+  "finished_at": "2026-10-29T19:30:32.529Z",
   "summary": [
     {
       "slug": "research-nsw-dpi-charter",
@@ -27,27 +27,73 @@
     },
     {
       "slug": "research-newcastle-2",
-      "candidates": 0,
-      "pages": 8
+      "skipped": true
     },
     {
       "slug": "research-coffs-2",
-      "candidates": 0,
-      "pages": 6
+      "skipped": true
     },
     {
       "slug": "research-tweed-2",
-      "candidates": 0,
-      "pages": 8
+      "skipped": true
     },
     {
       "slug": "research-eden-2",
-      "candidates": 0,
+      "skipped": true
+    },
+    {
+      "slug": "capns-charters-newcastle",
+      "candidates": 16,
       "pages": 10
     },
     {
-      "slug": "sapphire-coastal-adventures",
+      "slug": "b-and-l-fishing-charters-swansea",
+      "candidates": 9,
+      "pages": 12
+    },
+    {
+      "slug": "solitary-island-fishing-charters",
+      "candidates": 0,
+      "pages": 1
+    },
+    {
+      "slug": "reel-fishn-charters",
+      "candidates": 0,
+      "pages": 2
+    },
+    {
+      "slug": "northern-rivers-sportfishing",
       "candidates": 16,
+      "pages": 11
+    },
+    {
+      "slug": "sapphire-coastal-adventures",
+      "candidates": 20,
+      "pages": 4
+    },
+    {
+      "slug": "research-freedom-dates",
+      "candidates": 0,
+      "pages": 4
+    },
+    {
+      "slug": "research-dpi-tweed",
+      "candidates": 0,
+      "pages": 3
+    },
+    {
+      "slug": "research-dpi-coffs",
+      "candidates": 0,
+      "pages": 4
+    },
+    {
+      "slug": "research-dpi-newcastle",
+      "candidates": 0,
+      "pages": 4
+    },
+    {
+      "slug": "research-eden-facts",
+      "candidates": 0,
       "pages": 7
     }
   ]

@@ -1,0 +1,279 @@
+{
+  "slug": "b-and-l-fishing-charters-swansea",
+  "request_hash": "3ec19a3e1891",
+  "collected_at": "2026-10-29T19:29:46.763Z",
+  "pages_fetched": [
+    "https://www.fishingcharter.net.au/",
+    "https://www.fishingcharter.net.au/gallery",
+    "https://www.fishingcharter.net.au/specials",
+    "https://www.fishingcharter.net.au/contact",
+    "https://www.fishingcharter.net.au/fish_of_the_month.html",
+    "https://www.fishingcharter.net.au/index",
+    "https://www.fishingcharter.net.au/pricing_boats",
+    "https://www.fishingcharter.net.au/faqs",
+    "https://www.fishingcharter.net.au/gift_vouchers",
+    "https://www.fishingcharter.net.au/sales_items",
+    "https://www.fishingcharter.net.au/charter_booking",
+    "https://www.fishingcharter.net.au/latest-news/call-0427713323-for-bookings"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 600,
+      "height": 400,
+      "original": "600x400",
+      "source": "https://www.fishingcharter.net.au/images/galleries/default_gallery/Explorer.jpg",
+      "page": "https://www.fishingcharter.net.au/gallery",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 2000,
+      "height": 1125,
+      "original": "2592x1458",
+      "source": "https://www.fishingcharter.net.au/images/galleries/default_gallery/Great%20Lake%20Macquarie%20Day.jpg",
+      "page": "https://www.fishingcharter.net.au/gallery",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 800,
+      "height": 598,
+      "original": "800x598",
+      "source": "https://www.fishingcharter.net.au/images/galleries/default_gallery/OH%20%20DEAR.jpg",
+      "page": "https://www.fishingcharter.net.au/gallery",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 800,
+      "height": 598,
+      "original": "800x598",
+      "source": "https://www.fishingcharter.net.au/images/galleries/default_gallery/OH_dear_OH_dear.jpg",
+      "page": "https://www.fishingcharter.net.au/gallery",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 600,
+      "height": 400,
+      "original": "600x400",
+      "source": "https://www.fishingcharter.net.au/images/galleries/default_gallery/On%20The%20Way%20Down.jpg",
+      "page": "https://www.fishingcharter.net.au/gallery",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 800,
+      "height": 600,
+      "original": "800x600",
+      "source": "https://www.fishingcharter.net.au/images/galleries/default_gallery/s1.jpg",
+      "page": "https://www.fishingcharter.net.au/gallery",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 2000,
+      "height": 1494,
+      "original": "2592x1936",
+      "source": "https://www.fishingcharter.net.au/images/galleries/default_gallery/Sex%20Symbol%20Onboard%20Explorer.jpg",
+      "page": "https://www.fishingcharter.net.au/gallery",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 800,
+      "height": 501,
+      "original": "800x501",
+      "source": "https://www.fishingcharter.net.au/images/galleries/default_gallery/Whale%20Dist.JPG",
+      "page": "https://www.fishingcharter.net.au/gallery",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 800,
+      "height": 534,
+      "original": "800x534",
+      "source": "https://www.fishingcharter.net.au/images/galleries/default_gallery/Whale.jpg",
+      "page": "https://www.fishingcharter.net.au/gallery",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.fishingcharter.net.au/",
+      "status": 200,
+      "final_url": "https://www.fishingcharter.net.au/",
+      "bytes": 15690
+    },
+    {
+      "page": "https://www.fishingcharter.net.au/gallery",
+      "status": 200,
+      "final_url": "https://www.fishingcharter.net.au/gallery",
+      "bytes": 14676
+    },
+    {
+      "page": "https://www.fishingcharter.net.au/specials",
+      "status": 200,
+      "final_url": "https://www.fishingcharter.net.au/specials",
+      "bytes": 10622
+    },
+    {
+      "page": "https://www.fishingcharter.net.au/contact",
+      "status": 200,
+      "final_url": "https://www.fishingcharter.net.au/contact",
+      "bytes": 12449
+    },
+    {
+      "page": "https://www.fishingcharter.net.au/fish_of_the_month.html",
+      "status": 200,
+      "final_url": "https://www.fishingcharter.net.au/fish_of_the_month.html",
+      "bytes": 9930
+    },
+    {
+      "page": "https://www.fishingcharter.net.au/index",
+      "status": 200,
+      "final_url": "https://www.fishingcharter.net.au/index",
+      "bytes": 15690
+    },
+    {
+      "page": "https://www.fishingcharter.net.au/pricing_boats",
+      "status": 200,
+      "final_url": "https://www.fishingcharter.net.au/pricing_boats",
+      "bytes": 13537
+    },
+    {
+      "page": "https://www.fishingcharter.net.au/faqs",
+      "status": 200,
+      "final_url": "https://www.fishingcharter.net.au/faqs",
+      "bytes": 14351
+    },
+    {
+      "page": "https://www.fishingcharter.net.au/gift_vouchers",
+      "status": 200,
+      "final_url": "https://www.fishingcharter.net.au/gift_vouchers",
+      "bytes": 10841
+    },
+    {
+      "page": "https://www.fishingcharter.net.au/sales_items",
+      "status": 404,
+      "final_url": "https://www.fishingcharter.net.au/sales_items",
+      "bytes": 615
+    },
+    {
+      "page": "https://www.fishingcharter.net.au/charter_booking",
+      "status": 200,
+      "final_url": "https://www.fishingcharter.net.au/charter_booking",
+      "bytes": 12764
+    },
+    {
+      "page": "https://www.fishingcharter.net.au/latest-news/call-0427713323-for-bookings",
+      "status": 200,
+      "final_url": "https://www.fishingcharter.net.au/latest-news/call-0427713323-for-bookings",
+      "bytes": 9626
+    },
+    {
+      "image": "https://www.fishingcharter.net.au/images/bl_fishing_charters_header2.jpg",
+      "error": "too small 1300x167"
+    },
+    {
+      "image": "https://www.fishingcharter.net.au/images/tiles_specials.png",
+      "error": "too small 280x199"
+    },
+    {
+      "image": "https://www.fishingcharter.net.au/images/tiles_whale_watching_tours.png",
+      "error": "too small 280x199"
+    },
+    {
+      "image": "https://www.fishingcharter.net.au/images/tiles_eco_tours.png",
+      "error": "too small 280x199"
+    },
+    {
+      "image": "https://www.fishingcharter.net.au/images/fish_of_the_month_rhs.png",
+      "error": "too small 257x139"
+    },
+    {
+      "image": "https://www.fishingcharter.net.au/images/gallery.jpg",
+      "error": "too small 240x332"
+    },
+    {
+      "image": "https://www.fishingcharter.net.au/images/facebook.png",
+      "error": "too small 214x68"
+    },
+    {
+      "image": "https://www.fishingcharter.net.au/images/title_Gallery.jpg",
+      "error": "too small 315x27"
+    },
+    {
+      "image": "https://www.fishingcharter.net.au/images/galleries/default_gallery/fish2web.jpg",
+      "error": "too small 424x293"
+    },
+    {
+      "image": "https://www.fishingcharter.net.au/images/galleries/default_gallery/hammer_head.jpg",
+      "error": "too small 576x432"
+    },
+    {
+      "image": "https://www.fishingcharter.net.au/images/galleries/default_gallery/Image012.jpg",
+      "error": "too small 450x600"
+    },
+    {
+      "image": "https://www.fishingcharter.net.au/images/galleries/default_gallery/Image014.jpg",
+      "error": "too small 450x600"
+    },
+    {
+      "image": "https://www.fishingcharter.net.au/images/galleries/default_gallery/Image033.jpg",
+      "error": "too small 450x600"
+    },
+    {
+      "image": "https://www.fishingcharter.net.au/images/galleries/default_gallery/jews%204web.jpg",
+      "error": "too small 576x432"
+    },
+    {
+      "image": "https://www.fishingcharter.net.au/images/galleries/default_gallery/little_mako.jpg",
+      "error": "too small 461x346"
+    },
+    {
+      "image": "https://www.fishingcharter.net.au/images/galleries/default_gallery/mako_web.jpg",
+      "error": "too small 576x432"
+    },
+    {
+      "image": "https://www.fishingcharter.net.au/images/galleries/default_gallery/micks_young_blokeweb.jpg",
+      "error": "too small 576x432"
+    },
+    {
+      "image": "https://www.fishingcharter.net.au/images/galleries/default_gallery/Snapper.jpg",
+      "error": "too small 450x600"
+    },
+    {
+      "image": "https://www.fishingcharter.net.au/images/galleries/default_gallery/snapper2.jpg",
+      "error": "too small 450x600"
+    },
+    {
+      "dup": "https://www.fishingcharter.net.au/images/galleries/default_gallery/snapper3.jpg"
+    },
+    {
+      "image": "https://www.fishingcharter.net.au/images/galleries/default_gallery/super%20bruce%20bondy%20web.jpg",
+      "error": "too small 576x432"
+    },
+    {
+      "image": "https://www.fishingcharter.net.au/images/title_contact.jpg",
+      "error": "too small 315x27"
+    },
+    {
+      "image": "https://www.fishingcharter.net.au/images/title_Pricing_Boats.jpg",
+      "error": "too small 315x27"
+    },
+    {
+      "image": "https://www.fishingcharter.net.au/images/giftvoucher.jpg",
+      "error": "too small 670x391"
+    },
+    {
+      "image": "https://www.fishingcharter.net.au/images/title_Charter_booking.jpg",
+      "error": "too small 315x27"
+    },
+    {
+      "image": "https://www.fishingcharter.net.au/images/Charter_Organiser.png",
+      "error": "too small 100x121"
+    }
+  ]
+}

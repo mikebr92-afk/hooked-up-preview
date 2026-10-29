@@ -1,0 +1,22 @@
+{
+  "slug": "reel-fishn-charters",
+  "request_hash": "ad433178cc79",
+  "collected_at": "2026-10-29T19:29:49.412Z",
+  "pages_fetched": [
+    "https://reelfishn.com.au/",
+    "http://www.reelfishn.com.au/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://reelfishn.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "http://www.reelfishn.com.au/",
+      "status": 200,
+      "final_url": "http://www.reelfishn.com.au/",
+      "bytes": 163
+    }
+  ]
+}

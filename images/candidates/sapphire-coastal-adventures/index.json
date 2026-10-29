@@ -1,15 +1,12 @@
 {
   "slug": "sapphire-coastal-adventures",
-  "request_hash": "704f6c3ed705",
-  "collected_at": "2026-10-29T19:26:59.709Z",
+  "request_hash": "5a867316be6d",
+  "collected_at": "2026-10-29T19:30:21.463Z",
   "pages_fetched": [
-    "https://merimbulamarina.com/",
     "https://www.sapphirecoastaladventures.com.au/fishing-charters",
     "https://www.sapphirecoastaladventures.com.au/merimbula-fishing-charter",
-    "https://www.sapphirecoastaladventures.com.au/about",
-    "https://www.sapphirecoastaladventures.com.au/faqs",
-    "https://www.sapphirecoastaladventures.com.au/contact",
-    "https://www.sapphirecoastaladventures.com.au/booking-terms-and-conditions"
+    "https://www.sapphirecoastaladventures.com.au/merimbula",
+    "https://www.sapphirecoastaladventures.com.au/"
   ],
   "candidates": [
     {
@@ -18,61 +15,61 @@
       "height": 630,
       "original": "1200x630",
       "source": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/opt/sapphire-coast-whale-watching-tours-social-1920w.png",
-      "page": "https://merimbulamarina.com/",
+      "page": "https://www.sapphirecoastaladventures.com.au/fishing-charters",
       "priority": true
     },
     {
       "file": "c02.webp",
-      "width": 1920,
-      "height": 1120,
-      "original": "1920x1120",
-      "source": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/opt/sapphire_coastal_adventures_whale_tours_merimbula_eden_bermagui-2304w.webp",
-      "page": "https://merimbulamarina.com/",
+      "width": 800,
+      "height": 1000,
+      "original": "800x1000",
+      "source": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/opt/IMG_3997_Crunched-1920w.jpg",
+      "page": "https://www.sapphirecoastaladventures.com.au/fishing-charters",
       "priority": false
     },
     {
       "file": "c03.webp",
-      "width": 1024,
-      "height": 640,
-      "original": "1024x640",
-      "source": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/opt/MerimbulaMarin2020_Whales_DavidRogersPhotography-4713_crunched-640h.jpg",
-      "page": "https://merimbulamarina.com/",
+      "width": 800,
+      "height": 1000,
+      "original": "800x1000",
+      "source": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/opt/IMG_8553_crunched-1920w.jpg",
+      "page": "https://www.sapphirecoastaladventures.com.au/fishing-charters",
       "priority": false
     },
     {
       "file": "c04.webp",
-      "width": 1024,
-      "height": 640,
-      "original": "1024x640",
-      "source": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/opt/Sapphire+Coast_Humpback+Whales_Tail+Slap_Print+File+300dpi_David+Rogers+Photography-6880_crunched-640h.jpg",
-      "page": "https://merimbulamarina.com/",
+      "width": 800,
+      "height": 1000,
+      "original": "800x1000",
+      "source": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/opt/IMG_3898_crunched-1920w.jpg",
+      "page": "https://www.sapphirecoastaladventures.com.au/fishing-charters",
       "priority": false
     },
     {
       "file": "c05.webp",
-      "width": 1024,
-      "height": 640,
-      "original": "1024x640",
-      "source": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/opt/Sapphirecoast_MerimbulaMarina_Whales2020_DavidRogersPhotography-2127_crunched-640h.jpg",
-      "page": "https://merimbulamarina.com/",
+      "width": 1920,
+      "height": 960,
+      "original": "1920x960",
+      "source": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/opt/FullSizeRender_crunched-1920w.jpg",
+      "page": "https://www.sapphirecoastaladventures.com.au/fishing-charters",
       "priority": false
     },
     {
       "file": "c06.webp",
       "width": 1920,
-      "height": 827,
-      "original": "1920x827",
-      "source": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/opt/sapphire_coast_whale_watching_tours_merimbula-2304w.webp",
-      "page": "https://merimbulamarina.com/",
+      "height": 960,
+      "original": "1920x960",
+      "source": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/opt/Sapphire+Coastal+Adventured_Merimbula+Aerial+Shots_Low+Res_David+Rogers+Photography-2-4_crunched-1920w.jpg",
+      "page": "https://www.sapphirecoastaladventures.com.au/fishing-charters",
       "priority": false
     },
     {
       "file": "c07.webp",
-      "width": 1600,
-      "height": 1000,
-      "original": "1600x1000",
-      "source": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/opt/A56I2409_crunched-1920w.jpg",
-      "page": "https://merimbulamarina.com/",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/opt/HEADER+IMAGE_Sapphire+Coastal+Adventured_Merimbula+Aerial+Shots_Low+Res_David+Rogers+Photography-0575_crunched-2880w.jpg",
+      "page": "https://www.sapphirecoastaladventures.com.au/fishing-charters",
       "priority": false
     },
     {
@@ -80,53 +77,53 @@
       "width": 1600,
       "height": 1000,
       "original": "1600x1000",
-      "source": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/opt/MERIMBULA+2020-9525_crunched-80c51d63-1920w.jpg",
-      "page": "https://merimbulamarina.com/",
+      "source": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/opt/IMG_4031_Crunched-1920w.jpg",
+      "page": "https://www.sapphirecoastaladventures.com.au/fishing-charters",
       "priority": false
     },
     {
       "file": "c09.webp",
-      "width": 1920,
-      "height": 1120,
-      "original": "1920x1120",
-      "source": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/PRODUCT+TILES_EDEN+WHALE+WATCHING_IMG_2664_crunched-bbe9a56e.jpg",
-      "page": "https://merimbulamarina.com/",
+      "width": 1600,
+      "height": 1000,
+      "original": "1600x1000",
+      "source": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/opt/IMG_0988_crunched2-1920w.jpg",
+      "page": "https://www.sapphirecoastaladventures.com.au/fishing-charters",
       "priority": false
     },
     {
       "file": "c10.webp",
-      "width": 1920,
-      "height": 1120,
-      "original": "1920x1120",
-      "source": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/PRODUCT+TILES_MERIMBULA+WHALE+WATCHING_A56I7111_crunched-115c08e6.jpg",
-      "page": "https://merimbulamarina.com/",
+      "width": 1600,
+      "height": 1000,
+      "original": "1600x1000",
+      "source": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/opt/Sapphire+Coastal+Adventured_Merimbula+Aerial+Shots_Low+Res_David+Rogers+Photography-5_crunched-2e1b10ac-1920w.jpg",
+      "page": "https://www.sapphirecoastaladventures.com.au/fishing-charters",
       "priority": false
     },
     {
       "file": "c11.webp",
-      "width": 1920,
-      "height": 1120,
-      "original": "1920x1120",
-      "source": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/PRODUCT+TILES_BERMAGUI+WHALE+WATCHING_IMG_3154Sapphire+Coastal+Adventures_Bermagui_20.08.2023_David+Rogers+Photography-3006_crunched.jpg",
-      "page": "https://merimbulamarina.com/",
+      "width": 800,
+      "height": 1000,
+      "original": "800x1000",
+      "source": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/opt/IMG_8820_crunched-1920w.jpg",
+      "page": "https://www.sapphirecoastaladventures.com.au/fishing-charters",
       "priority": false
     },
     {
       "file": "c12.webp",
-      "width": 1920,
-      "height": 1120,
-      "original": "1920x1120",
-      "source": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/PRODUCT+TILES_MERIMBULA+WILDLIFE_IMG_2757+4_crunched.jpg",
-      "page": "https://merimbulamarina.com/",
+      "width": 800,
+      "height": 1000,
+      "original": "800x1000",
+      "source": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/opt/IMG_9598_crunched-1920w.jpg",
+      "page": "https://www.sapphirecoastaladventures.com.au/fishing-charters",
       "priority": false
     },
     {
       "file": "c13.webp",
-      "width": 1920,
-      "height": 1120,
-      "original": "1920x1120",
-      "source": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/PRODUCT+TILES_EDEN+WILDLIFE_SCA+2022+17th+of+September+-+Social+Media+Edit--16_crunched.jpg",
-      "page": "https://merimbulamarina.com/",
+      "width": 1600,
+      "height": 1000,
+      "original": "1600x1000",
+      "source": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/opt/SCDM_BenBoydNP_HaycockPoint_DavidRogersPhotography-6877_Crunched-1920w.jpg",
+      "page": "https://www.sapphirecoastaladventures.com.au/fishing-charters",
       "priority": false
     },
     {
@@ -134,36 +131,66 @@
       "width": 1920,
       "height": 1120,
       "original": "1920x1120",
-      "source": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/PRODUCT+TILES_MERIMBULA+FISHING_FullSizeRender_crunched.jpg",
-      "page": "https://merimbulamarina.com/",
+      "source": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/opt/PRODUCT+TILES_MERIMBULA+WHALE+WATCHING_A56I7111_crunched-115c08e6-1920w.jpg",
+      "page": "https://www.sapphirecoastaladventures.com.au/merimbula",
       "priority": false
     },
     {
       "file": "c15.webp",
-      "width": 1600,
-      "height": 1000,
-      "original": "1600x1000",
-      "source": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/opt/Humpback+Feeding+Mikah+Millar-7_crunched-27c55bcc-1920w.jpg",
-      "page": "https://merimbulamarina.com/",
+      "width": 1920,
+      "height": 1120,
+      "original": "1920x1120",
+      "source": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/opt/PRODUCT+TILES_MERIMBULA+WILDLIFE_IMG_2757+4_crunched-1920w.jpg",
+      "page": "https://www.sapphirecoastaladventures.com.au/merimbula",
       "priority": false
     },
     {
       "file": "c16.webp",
-      "width": 800,
+      "width": 1920,
+      "height": 960,
+      "original": "1920x960",
+      "source": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/opt/BANNER+IMAGE_192425-56_crunched-1920w.jpg",
+      "page": "https://www.sapphirecoastaladventures.com.au/merimbula",
+      "priority": false
+    },
+    {
+      "file": "c17.webp",
+      "width": 1600,
       "height": 1000,
-      "original": "800x1000",
-      "source": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/opt/IMG_3997_Crunched-1920w.jpg",
-      "page": "https://www.sapphirecoastaladventures.com.au/fishing-charters",
+      "original": "1600x1000",
+      "source": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/opt/OUR+LOCATIONS_MERIMBULA_Sapphire+Coastal+Adventured_Merimbula+Aerial+Shots_Low+Res_David+Rogers+Photography-0575_crunched-a9650e55-1920w.jpg",
+      "page": "https://www.sapphirecoastaladventures.com.au/merimbula",
+      "priority": false
+    },
+    {
+      "file": "c18.webp",
+      "width": 1600,
+      "height": 1000,
+      "original": "1600x1000",
+      "source": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/opt/Sapphire+Coastal+Adventures_Merimbula+Orcas_27.06.2023_David+Rogers+Photography-7859_crunched-1920w.jpg",
+      "page": "https://www.sapphirecoastaladventures.com.au/merimbula",
+      "priority": false
+    },
+    {
+      "file": "c19.webp",
+      "width": 1600,
+      "height": 1000,
+      "original": "1600x1000",
+      "source": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/opt/MERIMBULA+2020-8685_crunched-1920w.jpg",
+      "page": "https://www.sapphirecoastaladventures.com.au/merimbula",
+      "priority": false
+    },
+    {
+      "file": "c20.webp",
+      "width": 1600,
+      "height": 1000,
+      "original": "1600x1000",
+      "source": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/opt/28th+August+2023+-+Aubrey+Social+Media+Edit-2_crunched-1920w.jpg",
+      "page": "https://www.sapphirecoastaladventures.com.au/merimbula",
       "priority": false
     }
   ],
   "log": [
-    {
-      "page": "https://merimbulamarina.com/",
-      "status": 200,
-      "final_url": "https://www.sapphirecoastaladventures.com.au/",
-      "bytes": 240846
-    },
     {
       "page": "https://www.sapphirecoastaladventures.com.au/fishing-charters",
       "status": 200,
@@ -177,103 +204,44 @@
       "bytes": 240127
     },
     {
-      "page": "https://www.sapphirecoastaladventures.com.au/about",
+      "page": "https://www.sapphirecoastaladventures.com.au/merimbula",
       "status": 200,
-      "final_url": "https://www.sapphirecoastaladventures.com.au/about",
-      "bytes": 254726
+      "final_url": "https://www.sapphirecoastaladventures.com.au/merimbula",
+      "bytes": 206784
     },
     {
-      "page": "https://www.sapphirecoastaladventures.com.au/faqs",
+      "page": "https://www.sapphirecoastaladventures.com.au/",
       "status": 200,
-      "final_url": "https://www.sapphirecoastaladventures.com.au/faqs",
-      "bytes": 200761
-    },
-    {
-      "page": "https://www.sapphirecoastaladventures.com.au/contact",
-      "status": 200,
-      "final_url": "https://www.sapphirecoastaladventures.com.au/contact",
-      "bytes": 214537
-    },
-    {
-      "page": "https://www.sapphirecoastaladventures.com.au/booking-terms-and-conditions",
-      "status": 200,
-      "final_url": "https://www.sapphirecoastaladventures.com.au/booking-terms-and-conditions",
-      "bytes": 114899
-    },
-    {
-      "image": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/opt/PRODUCT+TILES_EDEN+WHALE+WATCHING_IMG_2664_crunched-bbe9a56e-460w.jpg",
-      "error": "too small 460x268"
-    },
-    {
-      "image": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/opt/PRODUCT+TILES_MERIMBULA+WHALE+WATCHING_A56I7111_crunched-115c08e6-460w.jpg",
-      "error": "too small 460x268"
-    },
-    {
-      "image": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/opt/PRODUCT+TILES_BERMAGUI+WHALE+WATCHING_IMG_3154Sapphire+Coastal+Adventures_Bermagui_20.08.2023_David+Rogers+Photography-3006_crunched-460w.jpg",
-      "error": "too small 460x268"
-    },
-    {
-      "image": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/opt/PRODUCT+TILES_MERIMBULA+WILDLIFE_IMG_2757+4_crunched-460w.jpg",
-      "error": "too small 460x268"
-    },
-    {
-      "image": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/opt/PRODUCT+TILES_EDEN+WILDLIFE_SCA+2022+17th+of+September+-+Social+Media+Edit--16_crunched-460w.jpg",
-      "error": "too small 460x268"
-    },
-    {
-      "image": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/opt/PRODUCT+TILES_MERIMBULA+FISHING_FullSizeRender_crunched-460w.jpg",
-      "error": "too small 460x268"
-    },
-    {
-      "dup": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/opt/MerimbulaMarin2020_Whales_DavidRogersPhotography-4713_crunched-1920w.jpg"
-    },
-    {
-      "image": "https://irt-cdn.multiscreensite.com/ce0bb35f932b47bb809d0e37905542ba/dms3rep/multi/site_background_education.jpg",
-      "error": "HTTP 403"
-    },
-    {
-      "image": "https://irt-cdn.multiscreensite.com/ce0bb35f932b47bb809d0e37905542ba/dms3rep/multi/site_background_education-2087x1173.jpg",
-      "error": "HTTP 403"
-    },
-    {
-      "dup": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/opt/MerimbulaMarin2020_Whales_DavidRogersPhotography-4713_crunched-640w.jpg"
-    },
-    {
-      "dup": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/opt/A56I2409_crunched-640w.jpg"
-    },
-    {
-      "dup": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/opt/MERIMBULA+2020-9525_crunched-80c51d63-640w.jpg"
+      "final_url": "https://www.sapphirecoastaladventures.com.au/",
+      "bytes": 240846
     },
     {
       "image": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/sapphire-coast-whale-watching-tours-apple-v2.png",
       "error": "too small 57x57"
     },
     {
-      "dup": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/sapphire_coastal_adventures_whale_tours_merimbula_eden_bermagui.webp"
+      "dup": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/FullSizeRender_crunched.jpg"
     },
     {
-      "image": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/opt/Sapphire+Coastal+Adventured_Merimbula+Aerial+Shots_Low+Res_David+Rogers+Photography-5_crunched2-480h.jpg",
-      "error": "too small 480x480"
+      "dup": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/Sapphire+Coastal+Adventured_Merimbula+Aerial+Shots_Low+Res_David+Rogers+Photography-2-4_crunched.jpg"
     },
     {
-      "image": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/opt/BANNER+IMAGE_198750-56_crunched-4f19a25c-480h.jpg",
-      "error": "too small 480x480"
+      "dup": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/opt/PRODUCT+TILES_MERIMBULA+FISHING_FullSizeRender_crunched-1920w.jpg"
     },
     {
-      "image": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/opt/OUR+LOCATIONS_BERMAGUI_Sapphire+Coastal+Adventures_Boat+Shots_David+Rogers+Photography-0928_crunched2-480h.jpg",
-      "error": "too small 480x480"
+      "dup": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/opt/Sapphire+Coastal+Adventured_Merimbula+Aerial+Shots_Low+Res_David+Rogers+Photography-5_crunched-8581d668-2880w.jpg"
     },
     {
-      "dup": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/sapphire_coast_whale_watching_tours_merimbula.webp"
+      "dup": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/PRODUCT+TILES_MERIMBULA+WHALE+WATCHING_A56I7111_crunched-115c08e6.jpg"
     },
     {
-      "dup": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/MerimbulaMarin2020_Whales_DavidRogersPhotography-4713_crunched.jpg"
+      "dup": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/PRODUCT+TILES_MERIMBULA+WILDLIFE_IMG_2757+4_crunched.jpg"
     },
     {
-      "dup": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/A56I2409_crunched.jpg"
+      "dup": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/PRODUCT+TILES_MERIMBULA+FISHING_FullSizeRender_crunched.jpg"
     },
     {
-      "dup": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/MERIMBULA+2020-9525_crunched-80c51d63.jpg"
+      "dup": "https://irp.cdn-website.com/d9384d37/dms3rep/multi/BANNER+IMAGE_192425-56_crunched.jpg"
     }
   ]
 }

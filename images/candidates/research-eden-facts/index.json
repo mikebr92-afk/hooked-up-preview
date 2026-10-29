@@ -1,0 +1,59 @@
+{
+  "slug": "research-eden-facts",
+  "request_hash": "91990159340d",
+  "collected_at": "2026-10-29T19:30:32.529Z",
+  "pages_fetched": [
+    "https://begavalley.nsw.gov.au/community/merimbula-boat-ramp",
+    "https://begavalley.nsw.gov.au/community/pambula-lake-boat-ramp",
+    "https://www.visitnsw.com/destinations/south-coast/merimbula-and-sapphire-coast/pambula/attractions/pambula-lake",
+    "https://www.tradeaboat.com.au/news-reviews/8081-eden-nsw-fishing-and-boating",
+    "https://www.discoveryholidayparks.com.au/holiday-inspiration/travel-tips/eden-fishing",
+    "https://www.escapetomerimbula.com.au/getting-here",
+    "https://www.mbglac.com.au/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://begavalley.nsw.gov.au/community/merimbula-boat-ramp",
+      "status": 403,
+      "final_url": "https://www.begavalley.nsw.gov.au/community/merimbula-boat-ramp",
+      "bytes": 426
+    },
+    {
+      "page": "https://begavalley.nsw.gov.au/community/pambula-lake-boat-ramp",
+      "status": 403,
+      "final_url": "https://www.begavalley.nsw.gov.au/community/pambula-lake-boat-ramp",
+      "bytes": 433
+    },
+    {
+      "page": "https://www.visitnsw.com/destinations/south-coast/merimbula-and-sapphire-coast/pambula/attractions/pambula-lake",
+      "status": 200,
+      "final_url": "https://www.visitnsw.com/destinations/south-coast/merimbula-and-sapphire-coast/pambula/attractions/pambula-lake",
+      "bytes": 233463
+    },
+    {
+      "page": "https://www.tradeaboat.com.au/news-reviews/8081-eden-nsw-fishing-and-boating",
+      "status": 200,
+      "final_url": "https://www.tradeaboat.com.au/news-reviews/8081-eden-nsw-fishing-and-boating",
+      "bytes": 123142
+    },
+    {
+      "page": "https://www.discoveryholidayparks.com.au/holiday-inspiration/travel-tips/eden-fishing",
+      "status": 200,
+      "final_url": "https://www.discoveryholidayparks.com.au/holiday-inspiration/travel-tips/eden-fishing",
+      "bytes": 188831
+    },
+    {
+      "page": "https://www.escapetomerimbula.com.au/getting-here",
+      "status": 200,
+      "final_url": "https://www.escapetomerimbula.com.au/getting-here",
+      "bytes": 783203
+    },
+    {
+      "page": "https://www.mbglac.com.au/",
+      "status": 200,
+      "final_url": "https://www.mbglac.com.au/",
+      "bytes": 210574
+    }
+  ]
+}

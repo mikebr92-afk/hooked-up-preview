@@ -1,0 +1,31 @@
+{
+  "slug": "research-dpi-tweed",
+  "request_hash": "a838610dd3e3",
+  "collected_at": "2026-10-29T19:30:23.880Z",
+  "pages_fetched": [
+    "https://dpird-web.matrix.squiz.cloud/fishing/recreational/resources/info/local-fishing-guides/tweed",
+    "https://dpird-web.matrix.squiz.cloud/fishing/closures/location-closures/tweed-river",
+    "https://dpird-web.matrix.squiz.cloud/fishing/recreational/resources/info/recreational-fishing-areas/rfh/tweed2"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://dpird-web.matrix.squiz.cloud/fishing/recreational/resources/info/local-fishing-guides/tweed",
+      "status": 403,
+      "final_url": "https://dpird-web.matrix.squiz.cloud/fishing/recreational/resources/info/local-fishing-guides/tweed",
+      "bytes": 6063
+    },
+    {
+      "page": "https://dpird-web.matrix.squiz.cloud/fishing/closures/location-closures/tweed-river",
+      "status": 403,
+      "final_url": "https://dpird-web.matrix.squiz.cloud/fishing/closures/location-closures/tweed-river",
+      "bytes": 5993
+    },
+    {
+      "page": "https://dpird-web.matrix.squiz.cloud/fishing/recreational/resources/info/recreational-fishing-areas/rfh/tweed2",
+      "status": 403,
+      "final_url": "https://dpird-web.matrix.squiz.cloud/fishing/recreational/resources/info/recreational-fishing-areas/rfh/tweed2",
+      "bytes": 6117
+    }
+  ]
+}

@@ -1,0 +1,314 @@
+{
+  "slug": "capns-charters-newcastle",
+  "request_hash": "35022d5a4d13",
+  "collected_at": "2026-10-29T19:29:32.676Z",
+  "pages_fetched": [
+    "https://capnschartersnewcastle.com.au/",
+    "https://www.capnschartersnewcastle.com.au/",
+    "https://www.capnschartersnewcastle.com.au/bookings/",
+    "https://www.capnschartersnewcastle.com.au/one-on-one-charters/",
+    "https://www.capnschartersnewcastle.com.au/half-day-charters/",
+    "https://www.capnschartersnewcastle.com.au/full-day-charters/",
+    "https://www.capnschartersnewcastle.com.au/kids-fishing-charter/",
+    "https://www.capnschartersnewcastle.com.au/about-us/",
+    "https://www.capnschartersnewcastle.com.au/gallery/",
+    "https://www.capnschartersnewcastle.com.au/contactus/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 640,
+      "height": 614,
+      "original": "640x614",
+      "source": "https://www.capnschartersnewcastle.com.au/wp-content/uploads/2024/03/IMG_8446.jpg",
+      "page": "https://capnschartersnewcastle.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 640,
+      "height": 614,
+      "original": "640x614",
+      "source": "https://www.capnschartersnewcastle.com.au/wp-content/uploads/2024/03/IMG_8447.jpg",
+      "page": "https://capnschartersnewcastle.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 800,
+      "height": 672,
+      "original": "800x672",
+      "source": "https://www.capnschartersnewcastle.com.au/wp-content/uploads/2024/03/IMG_9001.jpg",
+      "page": "https://capnschartersnewcastle.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 800,
+      "height": 1200,
+      "original": "800x1200",
+      "source": "https://www.capnschartersnewcastle.com.au/wp-content/uploads/2021/10/Copy-of-Website-Images-Portrait-1.png",
+      "page": "https://capnschartersnewcastle.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 612,
+      "height": 812,
+      "original": "612x812",
+      "source": "https://www.capnschartersnewcastle.com.au/wp-content/uploads/2024/03/2.png",
+      "page": "https://capnschartersnewcastle.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 818,
+      "height": 421,
+      "original": "818x421",
+      "source": "https://www.capnschartersnewcastle.com.au/wp-content/uploads/2021/10/topo-graphic.png",
+      "page": "https://capnschartersnewcastle.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 612,
+      "height": 812,
+      "original": "612x812",
+      "source": "https://www.capnschartersnewcastle.com.au/wp-content/uploads/2024/03/3.png",
+      "page": "https://capnschartersnewcastle.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 640,
+      "height": 480,
+      "original": "640x480",
+      "source": "https://www.capnschartersnewcastle.com.au/wp-content/uploads/2024/03/IMG_8902.jpg",
+      "page": "https://capnschartersnewcastle.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 800,
+      "height": 1200,
+      "original": "800x1200",
+      "source": "https://www.capnschartersnewcastle.com.au/wp-content/uploads/2023/02/2_3.png",
+      "page": "https://capnschartersnewcastle.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1350,
+      "height": 650,
+      "original": "1350x650",
+      "source": "https://www.capnschartersnewcastle.com.au/wp-content/uploads/2021/10/5.png",
+      "page": "https://www.capnschartersnewcastle.com.au/bookings/",
+      "priority": true
+    },
+    {
+      "file": "c11.webp",
+      "width": 600,
+      "height": 800,
+      "original": "600x800",
+      "source": "https://capnschartersnewcastle.com.au/wp-content/uploads/elementor/thumbs/Website-Images-Portrait-pee68v36qk1tbpc7t1e5lvz0myhv3e8hzbejxh5g00.png",
+      "page": "https://www.capnschartersnewcastle.com.au/about-us/",
+      "priority": true
+    },
+    {
+      "file": "c12.webp",
+      "width": 612,
+      "height": 812,
+      "original": "612x812",
+      "source": "https://capnschartersnewcastle.com.au/wp-content/uploads/2024/03/5-1.png",
+      "page": "https://www.capnschartersnewcastle.com.au/about-us/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 612,
+      "height": 812,
+      "original": "612x812",
+      "source": "https://capnschartersnewcastle.com.au/wp-content/uploads/2024/03/4.png",
+      "page": "https://www.capnschartersnewcastle.com.au/about-us/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 800,
+      "height": 637,
+      "original": "800x637",
+      "source": "https://capnschartersnewcastle.com.au/wp-content/uploads/2024/03/IMG_8994.jpg",
+      "page": "https://www.capnschartersnewcastle.com.au/about-us/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1024,
+      "height": 706,
+      "original": "1024x706",
+      "source": "https://capnschartersnewcastle.com.au/wp-content/uploads/2024/03/IMG_8991.jpg",
+      "page": "https://www.capnschartersnewcastle.com.au/about-us/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 800,
+      "height": 784,
+      "original": "800x784",
+      "source": "https://capnschartersnewcastle.com.au/wp-content/uploads/2024/03/IMG_8997.jpg",
+      "page": "https://www.capnschartersnewcastle.com.au/about-us/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://capnschartersnewcastle.com.au/",
+      "status": 200,
+      "final_url": "https://www.capnschartersnewcastle.com.au/",
+      "bytes": 188449
+    },
+    {
+      "page": "https://www.capnschartersnewcastle.com.au/",
+      "status": 200,
+      "final_url": "https://www.capnschartersnewcastle.com.au/",
+      "bytes": 188449
+    },
+    {
+      "page": "https://www.capnschartersnewcastle.com.au/bookings/",
+      "status": 200,
+      "final_url": "https://www.capnschartersnewcastle.com.au/bookings/",
+      "bytes": 195105
+    },
+    {
+      "page": "https://www.capnschartersnewcastle.com.au/one-on-one-charters/",
+      "status": 200,
+      "final_url": "https://www.capnschartersnewcastle.com.au/one-on-one-charters/",
+      "bytes": 259950
+    },
+    {
+      "page": "https://www.capnschartersnewcastle.com.au/half-day-charters/",
+      "status": 200,
+      "final_url": "https://www.capnschartersnewcastle.com.au/half-day-charters/",
+      "bytes": 260517
+    },
+    {
+      "page": "https://www.capnschartersnewcastle.com.au/full-day-charters/",
+      "status": 200,
+      "final_url": "https://www.capnschartersnewcastle.com.au/full-day-charters/",
+      "bytes": 261191
+    },
+    {
+      "page": "https://www.capnschartersnewcastle.com.au/kids-fishing-charter/",
+      "status": 200,
+      "final_url": "https://www.capnschartersnewcastle.com.au/kids-fishing-charter/",
+      "bytes": 261794
+    },
+    {
+      "page": "https://www.capnschartersnewcastle.com.au/about-us/",
+      "status": 200,
+      "final_url": "https://www.capnschartersnewcastle.com.au/about-us/",
+      "bytes": 136377
+    },
+    {
+      "page": "https://www.capnschartersnewcastle.com.au/gallery/",
+      "status": 200,
+      "final_url": "https://www.capnschartersnewcastle.com.au/gallery/",
+      "bytes": 153849
+    },
+    {
+      "page": "https://www.capnschartersnewcastle.com.au/contactus/",
+      "status": 200,
+      "final_url": "https://www.capnschartersnewcastle.com.au/contactus/",
+      "bytes": 169118
+    },
+    {
+      "image": "https://www.capnschartersnewcastle.com.au/wp-content/uploads/elementor/thumbs/Hook-and-Anchor-02-pfug0jwrgy234f135tzweafdbu29nhzfc0qtioxn26.png",
+      "error": "too small 100x51"
+    },
+    {
+      "image": "https://www.capnschartersnewcastle.com.au/wp-content/uploads/elementor/thumbs/Hook-sml-1-pfugg52feys78bsp6hnj1cbqam43zqhg4brd33sqki.png",
+      "error": "too small 150x77"
+    },
+    {
+      "image": "https://www.capnschartersnewcastle.com.au/wp-content/uploads/elementor/thumbs/Hook-sml-1-pfugg52f1t5fvwjv5mzwynf83kdvrz434u15ukm25e.png",
+      "error": "too small 120x61"
+    },
+    {
+      "image": "https://www.capnschartersnewcastle.com.au/wp-content/uploads/2024/03/IMG_8483.jpg",
+      "error": "too small 488x640"
+    },
+    {
+      "image": "https://www.capnschartersnewcastle.com.au/wp-content/uploads/2025/03/image0-9.jpeg",
+      "error": "too small 428x640"
+    },
+    {
+      "image": "https://www.capnschartersnewcastle.com.au/wp-content/uploads/2021/11/Hook-sml-1.png",
+      "error": "too small 150x77"
+    },
+    {
+      "image": "https://www.capnschartersnewcastle.com.au/wp-content/uploads/elementor/thumbs/IMG_8991-1-qlyl7ycf5jnekx5ckna4sfao36dfyc3lm7uxqzn3k4.jpg",
+      "error": "too small 300x250"
+    },
+    {
+      "image": "https://www.capnschartersnewcastle.com.au/wp-content/uploads/elementor/thumbs/IMG_2584-rotated-r30pwr9x109xy9e6tc219ln7utgzjkrcsu822bsl38.jpg",
+      "error": "too small 300x250"
+    },
+    {
+      "image": "https://www.capnschartersnewcastle.com.au/wp-content/uploads/elementor/thumbs/IMG_8483-qlmbgm9a8n6kejmpvubnx2quzlw2v3yjg0ixtloc78.jpg",
+      "error": "too small 300x250"
+    },
+    {
+      "image": "https://www.capnschartersnewcastle.com.au/wp-content/uploads/elementor/thumbs/Copy-of-Website-Images-Portrait-1-3-peecs6yg4rsg1nofkc3yp00em5tp1dw4izrqtsh0hw.png",
+      "error": "too small 300x250"
+    },
+    {
+      "image": "https://www.capnschartersnewcastle.com.au/wp-content/uploads/2021/10/5-600x289.png",
+      "error": "too small 600x289"
+    },
+    {
+      "image": "https://www.capnschartersnewcastle.com.au/wp-content/uploads/2021/10/5-300x144.png",
+      "error": "too small 300x144"
+    },
+    {
+      "dup": "https://www.capnschartersnewcastle.com.au/wp-content/uploads/2021/10/5-1024x493.png"
+    },
+    {
+      "image": "https://www.capnschartersnewcastle.com.au/wp-content/uploads/2021/10/5-768x370.png",
+      "error": "too small 768x370"
+    },
+    {
+      "image": "https://www.capnschartersnewcastle.com.au/wp-content/uploads/elementor/thumbs/1-qlx64sevw2yd5dpg7h6e4s61jb4ycvrn3fbwvc1rss.png",
+      "error": "too small 550x550"
+    },
+    {
+      "image": "https://www.capnschartersnewcastle.com.au/wp-content/uploads/elementor/thumbs/6-qlx6xul8krcaadeyb2yknwqw6hso04j15d4qxlpzew.png",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://www.capnschartersnewcastle.com.au/wp-content/uploads/elementor/thumbs/5-qlx6lpi9t975huumpc7lp767duknlt9335qri6x65k.png",
+      "error": "too small 460x420"
+    },
+    {
+      "image": "https://www.capnschartersnewcastle.com.au/wp-content/uploads/elementor/thumbs/2_2-e1687316677921-q89qzb1bqmtml7ijjhuowkefwmslnmtkev4bblbzbc.png",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://capnschartersnewcastle.com.au/wp-content/uploads/elementor/thumbs/Hook-sml-1-pfugg52f1t5fvwjv5mzwynf83kdvrz434u15ukm25o.png",
+      "error": "too small 120x62"
+    },
+    {
+      "dup": "https://capnschartersnewcastle.com.au/wp-content/uploads/2024/03/2.png"
+    },
+    {
+      "image": "https://capnschartersnewcastle.com.au/wp-content/uploads/2024/03/IMG_8483.jpg",
+      "error": "too small 488x640"
+    },
+    {
+      "image": "https://capnschartersnewcastle.com.au/wp-content/uploads/2024/03/5-1-226x300.png",
+      "error": "too small 226x300"
+    },
+    {
+      "dup": "https://capnschartersnewcastle.com.au/wp-content/uploads/2024/03/5-1-600x796.png"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "research-dpi-newcastle",
+  "request_hash": "b01565c358c7",
+  "collected_at": "2026-10-29T19:30:24.961Z",
+  "pages_fetched": [
+    "https://dpird-web.matrix.squiz.cloud/fishing/recreational/resources/info/fishing-locations/go-fishing-lake-macquarie",
+    "https://dpird-web.matrix.squiz.cloud/fishing/recreational/resources/artificial-reef/newcastle-offshore-artificial-reef",
+    "https://dpird-web.matrix.squiz.cloud/fishing/recreational/resources/info/local-fishing-guides",
+    "https://dpird-web.matrix.squiz.cloud/fishing/recreational/charter"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://dpird-web.matrix.squiz.cloud/fishing/recreational/resources/info/fishing-locations/go-fishing-lake-macquarie",
+      "status": 403,
+      "final_url": "https://dpird-web.matrix.squiz.cloud/fishing/recreational/resources/info/fishing-locations/go-fishing-lake-macquarie",
+      "bytes": 6156
+    },
+    {
+      "page": "https://dpird-web.matrix.squiz.cloud/fishing/recreational/resources/artificial-reef/newcastle-offshore-artificial-reef",
+      "status": 403,
+      "final_url": "https://dpird-web.matrix.squiz.cloud/fishing/recreational/resources/artificial-reef/newcastle-offshore-artificial-reef",
+      "bytes": 6162
+    },
+    {
+      "page": "https://dpird-web.matrix.squiz.cloud/fishing/recreational/resources/info/local-fishing-guides",
+      "status": 403,
+      "final_url": "https://dpird-web.matrix.squiz.cloud/fishing/recreational/resources/info/local-fishing-guides",
+      "bytes": 6045
+    },
+    {
+      "page": "https://dpird-web.matrix.squiz.cloud/fishing/recreational/charter",
+      "status": 403,
+      "final_url": "https://dpird-web.matrix.squiz.cloud/fishing/recreational/charter",
+      "bytes": 5918
+    }
+  ]
+}

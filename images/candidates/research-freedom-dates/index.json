@@ -1,0 +1,38 @@
+{
+  "slug": "research-freedom-dates",
+  "request_hash": "041b4f92fda6",
+  "collected_at": "2026-10-29T19:30:23.394Z",
+  "pages_fetched": [
+    "https://freedomcharters.com.au/sitemap.xml",
+    "https://freedomcharters.com.au/feed.xml",
+    "https://freedomcharters.com.au/feed.json",
+    "https://www.escapetomerimbula.com.au/freedom-charters"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://freedomcharters.com.au/sitemap.xml",
+      "status": 403,
+      "final_url": "https://freedomcharters.com.au/sitemap.xml",
+      "bytes": 15847
+    },
+    {
+      "page": "https://freedomcharters.com.au/feed.xml",
+      "status": 403,
+      "final_url": "https://freedomcharters.com.au/feed.xml",
+      "bytes": 15847
+    },
+    {
+      "page": "https://freedomcharters.com.au/feed.json",
+      "status": 403,
+      "final_url": "https://freedomcharters.com.au/feed.json",
+      "bytes": 15847
+    },
+    {
+      "page": "https://www.escapetomerimbula.com.au/freedom-charters",
+      "status": 404,
+      "final_url": "https://www.escapetomerimbula.com.au/freedom-charters",
+      "bytes": 2205
+    }
+  ]
+}
