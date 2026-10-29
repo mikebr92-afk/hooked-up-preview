@@ -1,0 +1,38 @@
+{
+ "requests": [
+  {
+   "slug": "guide-nt-tourism",
+   "pages": [
+    "https://northernterritory.com/articles/11-of-the-best-fishing-spots-to-visit-in-the-top-end",
+    "https://northernterritory.com/things-to-do/outdoor-activities/fishing/fishing-charters",
+    "https://northernterritory.com/darwin-and-surrounds/see-and-do/outdoor-activities/fishing",
+    "https://northernterritory.com/katherine-and-surrounds/see-and-do/outdoor-activities/fishing",
+    "https://northernterritory.com/arnhem-land/see-and-do/fishing",
+    "https://northernterritory.com/darwin-and-surrounds/destinations/tiwi-islands",
+    "https://northernterritory.com/katherine-and-surrounds/destinations/borroloola",
+    "https://northernterritory.com/darwin-and-surrounds/destinations/mary-river",
+    "https://northernterritory.com/katherine-and-surrounds/destinations/gulf-region",
+    "https://northernterritory.com/katherine-and-surrounds/destinations/king-ash-bay"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false,
+   "force": true
+  },
+  {
+   "slug": "guide-nt-fisheries",
+   "pages": [
+    "https://nt.gov.au/marine/recreational-fishing/rules-for-fishing-in-specific-areas/mary-river-fish-management-zone",
+    "https://nt.gov.au/marine/fishing-on-aboriginal-land/mcarthur-river-and-sir-edward-pellew-islands",
+    "https://mediareleases.nt.gov.au/article?id=14713",
+    "https://pfes.nt.gov.au/node/32279",
+    "https://www.kingashbay.com.au/",
+    "https://www.visitkatherine.com.au/visitor-information/surrounding-regions/the-gulf"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  }
+ ]
+}
