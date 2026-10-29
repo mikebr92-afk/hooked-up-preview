@@ -1,7 +1,7 @@
 {
   "slug": "seo-terrigal-fishing-tours",
   "request_hash": "8eb708ab4b2d",
-  "collected_at": "2026-10-29T19:52:41.183Z",
+  "collected_at": "2026-10-29T20:00:01.612Z",
   "pages_fetched": [
     "https://terrigalfishingtours.com.au/",
     "https://terrigalfishingtours.com.au/fishing-charters-sydney/",
@@ -16,7 +16,9 @@
   "log": [
     {
       "page": "https://terrigalfishingtours.com.au/",
-      "error": "fetch failed"
+      "status": 200,
+      "final_url": "https://terrigalfishingtours.com.au/",
+      "bytes": 185865
     },
     {
       "page": "https://terrigalfishingtours.com.au/fishing-charters-sydney/",

@@ -1,5 +1,5 @@
 {
-  "finished_at": "2026-10-29T19:55:39.892Z",
+  "finished_at": "2026-10-29T20:01:46.456Z",
   "summary": [
     {
       "slug": "seo-byron-bay-charters",
@@ -9,7 +9,7 @@
     {
       "slug": "seo-evans-head-deep-sea-fishing-charters",
       "candidates": 0,
-      "pages": 7
+      "pages": 3
     },
     {
       "slug": "seo-central-coast-reef-and-game-fishing-charters",
@@ -195,6 +195,11 @@
       "slug": "seo-guide-src-nsw-north-0",
       "candidates": 0,
       "pages": 9
+    },
+    {
+      "slug": "seo-coffs-harbour-fishing-charters-2",
+      "candidates": 0,
+      "pages": 1
     }
   ]
 }

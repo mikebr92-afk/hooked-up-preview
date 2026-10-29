@@ -1,0 +1,17 @@
+{
+  "slug": "seo-coffs-harbour-fishing-charters-2",
+  "request_hash": "c2f3b2b114ef",
+  "collected_at": "2026-10-29T20:01:46.456Z",
+  "pages_fetched": [
+    "https://coffsharbourfishing.com.au/charters/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://coffsharbourfishing.com.au/charters/",
+      "status": 200,
+      "final_url": "https://coffsharbourfishing.com.au/charters/",
+      "bytes": 29644
+    }
+  ]
+}

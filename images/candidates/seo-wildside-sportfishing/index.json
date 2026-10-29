@@ -1,7 +1,7 @@
 {
   "slug": "seo-wildside-sportfishing",
   "request_hash": "2433aa802066",
-  "collected_at": "2026-10-29T19:54:40.692Z",
+  "collected_at": "2026-10-29T20:01:11.452Z",
   "pages_fetched": [
     "https://www.wildsidesportfishing.com/",
     "https://www.wildsidesportfishing.com/about/",
@@ -18,7 +18,9 @@
   "log": [
     {
       "page": "https://www.wildsidesportfishing.com/",
-      "error": "fetch failed"
+      "status": 200,
+      "final_url": "https://www.wildsidesportfishing.com/",
+      "bytes": 269201
     },
     {
       "page": "https://www.wildsidesportfishing.com/about/",

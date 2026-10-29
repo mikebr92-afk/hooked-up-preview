@@ -1,7 +1,7 @@
 {
   "slug": "seo-sea-buoys-ocean-charters-ext",
   "request_hash": "a4d537254715",
-  "collected_at": "2026-10-29T19:55:13.395Z",
+  "collected_at": "2026-10-29T20:01:28.769Z",
   "pages_fetched": [
     "https://lordhoweisland.info/experiences/tours/sea-buoys-ocean-charters/"
   ],
@@ -9,7 +9,9 @@
   "log": [
     {
       "page": "https://lordhoweisland.info/experiences/tours/sea-buoys-ocean-charters/",
-      "error": "fetch failed"
+      "status": 200,
+      "final_url": "https://lordhoweisland.info/experiences/tours/sea-buoys-ocean-charters/",
+      "bytes": 130074
     }
   ]
 }

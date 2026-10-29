@@ -1,7 +1,7 @@
 {
   "slug": "seo-guide-src-nsw-north-0",
   "request_hash": "9a18c4173803",
-  "collected_at": "2026-10-29T19:55:39.892Z",
+  "collected_at": "2026-10-29T20:01:44.720Z",
   "pages_fetched": [
     "https://en.wikivoyage.org/wiki/Newcastle_(New_South_Wales)",
     "https://lordhoweisland.info/experiences/fishing/",
@@ -19,11 +19,13 @@
       "page": "https://en.wikivoyage.org/wiki/Newcastle_(New_South_Wales)",
       "status": 200,
       "final_url": "https://en.wikivoyage.org/wiki/Newcastle_(New_South_Wales)",
-      "bytes": 409785
+      "bytes": 409816
     },
     {
       "page": "https://lordhoweisland.info/experiences/fishing/",
-      "error": "fetch failed"
+      "status": 200,
+      "final_url": "https://lordhoweisland.info/experiences/fishing/",
+      "bytes": 126995
     },
     {
       "page": "https://lordhoweisland.info/experiences/tours/sea-buoys-ocean-charters/",
@@ -65,7 +67,7 @@
       "page": "https://www.poyst.com/business/capns-charters-newcastle",
       "status": 200,
       "final_url": "https://www.poyst.com/business/capns-charters-newcastle",
-      "bytes": 333398
+      "bytes": 333801
     }
   ]
 }

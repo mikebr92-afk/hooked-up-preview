@@ -1,7 +1,7 @@
 {
   "slug": "seo-yamba-fishing-and-charters",
   "request_hash": "66d4ce474b9f",
-  "collected_at": "2026-10-29T19:54:59.964Z",
+  "collected_at": "2026-10-29T20:01:23.812Z",
   "pages_fetched": [
     "https://www.yambafishingandcharters.com.au/",
     "https://www.yambafishingandcharters.com.au/faq",
@@ -67,7 +67,7 @@
       "page": "https://www.yambafishingandcharters.com.au/gift-card",
       "status": 200,
       "final_url": "https://www.yambafishingandcharters.com.au/gift-card",
-      "bytes": 1376994
+      "bytes": 1376952
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "slug": "seo-day-trippin-charters",
   "request_hash": "399bee10684e",
-  "collected_at": "2026-10-29T19:53:12.523Z",
+  "collected_at": "2026-10-29T20:00:27.789Z",
   "pages_fetched": [
     "https://day-trippin-charters.squarespace.com/",
     "https://day-trippin-charters.squarespace.com/the-boat",
@@ -20,7 +20,7 @@
       "page": "https://day-trippin-charters.squarespace.com/",
       "status": 200,
       "final_url": "https://day-trippin-charters.squarespace.com/",
-      "bytes": 226469
+      "bytes": 327850
     },
     {
       "page": "https://day-trippin-charters.squarespace.com/the-boat",
@@ -50,13 +50,13 @@
       "page": "https://day-trippin-charters.squarespace.com/the-fish",
       "status": 200,
       "final_url": "https://day-trippin-charters.squarespace.com/the-fish",
-      "bytes": 171173
+      "bytes": 222565
     },
     {
       "page": "https://day-trippin-charters.squarespace.com/cart",
       "status": 200,
       "final_url": "https://day-trippin-charters.squarespace.com/cart",
-      "bytes": 129681
+      "bytes": 207681
     },
     {
       "page": "https://day-trippin-charters.squarespace.com/gallery",

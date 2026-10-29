@@ -1,7 +1,7 @@
 {
   "slug": "seo-reel-contagious-charters-port-stephens",
   "request_hash": "7e45549b3434",
-  "collected_at": "2026-10-29T19:54:01.866Z",
+  "collected_at": "2026-10-29T20:01:07.042Z",
   "pages_fetched": [
     "https://www.reelcontagiouscharters.com.au/",
     "https://www.reelcontagiouscharters.com.au/charters/",
@@ -27,7 +27,7 @@
       "page": "https://www.reelcontagiouscharters.com.au/contact-us/",
       "status": 200,
       "final_url": "https://www.reelcontagiouscharters.com.au/contact-us/",
-      "bytes": 55746
+      "bytes": 55852
     },
     {
       "page": "https://www.reelcontagiouscharters.com.au/raizem-marlin-teasers/",
