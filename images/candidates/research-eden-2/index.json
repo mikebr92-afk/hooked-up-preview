@@ -1,0 +1,80 @@
+{
+  "slug": "research-eden-2",
+  "request_hash": "ca8acbc3650f",
+  "collected_at": "2026-10-29T19:26:48.566Z",
+  "pages_fetched": [
+    "https://visitnsw.com/things-to-do/tours/headland-fishing-charters-merimbula",
+    "https://www.visitnsw.com/things-to-do/tours/sapphire-coastal-adventures-merimbula/three-hour-fishing-charter",
+    "https://au.trip.com/travel-guide/attraction/eden/freedom-charters-61827485/",
+    "https://wanderlog.com/place/details/5649613/freedom-charters",
+    "https://www.eden.nsw.au/?p=2079",
+    "https://www.coastalstays.com/merimbula/activities/fishing",
+    "https://maps.roadtrippers.com/au/nsw/nature/rathlin-ii-fishing-charters-nsw--1",
+    "https://playsport.com/headlandfishingcharter_ag_3c2ba6bc",
+    "https://uk.trip.com/travel-guide/attraction/merimbula/reel-affair-fishing-charters-50690974/",
+    "https://www.escapetomerimbula.com.au/fishing-boating"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://visitnsw.com/things-to-do/tours/headland-fishing-charters-merimbula",
+      "status": 404,
+      "final_url": "https://www.visitnsw.com/things-to-do/tours/headland-fishing-charters-merimbula",
+      "bytes": 179333
+    },
+    {
+      "page": "https://www.visitnsw.com/things-to-do/tours/sapphire-coastal-adventures-merimbula/three-hour-fishing-charter",
+      "status": 200,
+      "final_url": "https://www.visitnsw.com/things-to-do/tours/sapphire-coastal-adventures-merimbula/three-hour-fishing-charter",
+      "bytes": 211323
+    },
+    {
+      "page": "https://au.trip.com/travel-guide/attraction/eden/freedom-charters-61827485/",
+      "status": 200,
+      "final_url": "https://verify.trip.com/static/tripVerify.html?returnUrl=https%3A%2F%2Fau.trip.com%2Ftravel-guide%2Fattraction%2Feden%2Ffreedom-charters-61827485%2F&ref=&bgref=w2ceUSide1dfV%2Bsmqgz6IuDlex5pPDiHmiDP6SXtWGiQwLvpntOT2dWQYaWdAScSIlsMHAWfd3DBpC7fe%2FEudEcS2cRJzB0bN4hDGeXTaako4kz5kzTjOjHnWSkghXLQ45zBqyAC9AYCF3ZPQiGDhyzY1c3inQRvaSvdhaYeVRszhuF8hSxwhyf20A0pAdslfa7JRG6F2%2B5ZLffmBCIjM8vpml0APa0gGN7ZLCHVz%2Brc0QV3o9s93pHyyWi20w2w",
+      "bytes": 7625
+    },
+    {
+      "page": "https://wanderlog.com/place/details/5649613/freedom-charters",
+      "status": 200,
+      "final_url": "https://wanderlog.com/place/details/5649613/freedom-charters",
+      "bytes": 152698
+    },
+    {
+      "page": "https://www.eden.nsw.au/?p=2079",
+      "status": 200,
+      "final_url": "https://www.eden.nsw.au/directory/freedom-charters-eden/",
+      "bytes": 298705
+    },
+    {
+      "page": "https://www.coastalstays.com/merimbula/activities/fishing",
+      "status": 200,
+      "final_url": "https://www.coastalstays.com/merimbula/activities/fishing/",
+      "bytes": 22501
+    },
+    {
+      "page": "https://maps.roadtrippers.com/au/nsw/nature/rathlin-ii-fishing-charters-nsw--1",
+      "status": 200,
+      "final_url": "https://maps.roadtrippers.com/au/nsw/nature/rathlin-ii-fishing-charters-nsw--1",
+      "bytes": 400319
+    },
+    {
+      "page": "https://playsport.com/headlandfishingcharter_ag_3c2ba6bc",
+      "status": 200,
+      "final_url": "https://playsport.com/headlandfishingcharter_ag_3c2ba6bc",
+      "bytes": 277519
+    },
+    {
+      "page": "https://uk.trip.com/travel-guide/attraction/merimbula/reel-affair-fishing-charters-50690974/",
+      "status": 432,
+      "final_url": "https://uk.trip.com/travel-guide/attraction/merimbula/reel-affair-fishing-charters-50690974/",
+      "bytes": 17
+    },
+    {
+      "page": "https://www.escapetomerimbula.com.au/fishing-boating",
+      "status": 200,
+      "final_url": "https://www.escapetomerimbula.com.au/fishing-boating",
+      "bytes": 790601
+    }
+  ]
+}

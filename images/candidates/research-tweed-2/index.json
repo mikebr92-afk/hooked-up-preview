@@ -1,0 +1,62 @@
+{
+  "slug": "research-tweed-2",
+  "request_hash": "c3fe73fd787c",
+  "collected_at": "2026-10-29T19:26:35.973Z",
+  "pages_fetched": [
+    "https://playsport.com/reelfishn_ag_a9edf3e6",
+    "https://www.reelfishn.com.au/",
+    "http://www.ru4reel.com.au/",
+    "https://northernriverssportfishing.com.au/",
+    "https://goldcoastrivercharters.com/",
+    "https://www.visitnsw.com/things-to-do/tours/cushy-fishing-charters-tweed-heads",
+    "https://www.tweed.nsw.gov.au/community/recreation-outdoors/outdoor-activities/water-recreation",
+    "https://www.addicttackle.com.au/pages/fishing-the-tweed-river-where-and-how-to-get-started"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://playsport.com/reelfishn_ag_a9edf3e6",
+      "status": 200,
+      "final_url": "https://playsport.com/reelfishn_ag_a9edf3e6",
+      "bytes": 268975
+    },
+    {
+      "page": "https://www.reelfishn.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "http://www.ru4reel.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://northernriverssportfishing.com.au/",
+      "status": 200,
+      "final_url": "https://northernriverssportfishing.com.au/",
+      "bytes": 77780
+    },
+    {
+      "page": "https://goldcoastrivercharters.com/",
+      "status": 200,
+      "final_url": "https://goldcoastrivercharters.com/",
+      "bytes": 382939
+    },
+    {
+      "page": "https://www.visitnsw.com/things-to-do/tours/cushy-fishing-charters-tweed-heads",
+      "status": 404,
+      "final_url": "https://www.visitnsw.com/things-to-do/tours/cushy-fishing-charters-tweed-heads",
+      "bytes": 179332
+    },
+    {
+      "page": "https://www.tweed.nsw.gov.au/community/recreation-outdoors/outdoor-activities/water-recreation",
+      "status": 403,
+      "final_url": "https://www.tweed.nsw.gov.au/community/recreation-outdoors/outdoor-activities/water-recreation",
+      "bytes": 469
+    },
+    {
+      "page": "https://www.addicttackle.com.au/pages/fishing-the-tweed-river-where-and-how-to-get-started",
+      "status": 200,
+      "final_url": "https://www.addicttackle.com.au/pages/fishing-the-tweed-river-where-and-how-to-get-started",
+      "bytes": 372981
+    }
+  ]
+}

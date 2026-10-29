@@ -1,0 +1,52 @@
+{
+  "slug": "research-coffs-2",
+  "request_hash": "ca0ab2095d08",
+  "collected_at": "2026-10-29T19:26:30.260Z",
+  "pages_fetched": [
+    "https://www.nsw.gov.au/visiting-and-exploring-nsw/locations-and-attractions/solitary-island-fishing-charters",
+    "https://www.big4.com.au/caravan-parks/nsw/northern-rivers/solitary-islands-resort-wooli/whats-local/solitary-island-fishing-charters-670eeedd323d15860fc607e5",
+    "https://reflectionsholidays.com.au/parks/corindi-beach/attractions/solitary-island-fishing-charters",
+    "https://playsport.com/kcsfishingcharters_ag_140e04b2",
+    "https://www.coffscoast.com/operator/coffs-harbour-fishing-charters/",
+    "https://wikiaustralia.com/tour/cougar-cat-12/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.nsw.gov.au/visiting-and-exploring-nsw/locations-and-attractions/solitary-island-fishing-charters",
+      "status": 403,
+      "final_url": "https://www.nsw.gov.au/visiting-and-exploring-nsw/locations-and-attractions/solitary-island-fishing-charters",
+      "bytes": 123924
+    },
+    {
+      "page": "https://www.big4.com.au/caravan-parks/nsw/northern-rivers/solitary-islands-resort-wooli/whats-local/solitary-island-fishing-charters-670eeedd323d15860fc607e5",
+      "status": 404,
+      "final_url": "https://www.big4.com.au/caravan-parks/nsw/northern-rivers/solitary-islands-resort-wooli/whats-local/solitary-island-fishing-charters-670eeedd323d15860fc607e5",
+      "bytes": 122895
+    },
+    {
+      "page": "https://reflectionsholidays.com.au/parks/corindi-beach/attractions/solitary-island-fishing-charters",
+      "status": 200,
+      "final_url": "https://reflectionsholidays.com.au/parks/corindi-beach/attractions/solitary-island-fishing-charters/",
+      "bytes": 522027
+    },
+    {
+      "page": "https://playsport.com/kcsfishingcharters_ag_140e04b2",
+      "status": 200,
+      "final_url": "https://playsport.com/kcsfishingcharters_ag_140e04b2",
+      "bytes": 270303
+    },
+    {
+      "page": "https://www.coffscoast.com/operator/coffs-harbour-fishing-charters/",
+      "status": 404,
+      "final_url": "https://www.coffscoast.com/operator/coffs-harbour-fishing-charters/",
+      "bytes": 132604
+    },
+    {
+      "page": "https://wikiaustralia.com/tour/cougar-cat-12/",
+      "status": 200,
+      "final_url": "https://wikiaustralia.com/tour/cougar-cat-12/",
+      "bytes": 173758
+    }
+  ]
+}

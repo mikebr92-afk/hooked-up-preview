@@ -1,35 +1,54 @@
 {
-  "finished_at": "2026-10-29T19:23:06.690Z",
+  "finished_at": "2026-10-29T19:26:59.709Z",
   "summary": [
     {
       "slug": "research-nsw-dpi-charter",
-      "candidates": 0,
-      "pages": 2
+      "skipped": true
     },
     {
       "slug": "research-sapphire-fishing",
-      "candidates": 0,
-      "pages": 7
+      "skipped": true
     },
     {
       "slug": "research-coffs-fishing",
-      "candidates": 0,
-      "pages": 5
+      "skipped": true
     },
     {
       "slug": "research-tweed-fishing",
-      "candidates": 0,
-      "pages": 5
+      "skipped": true
     },
     {
       "slug": "research-newcastle-fishing",
-      "candidates": 0,
-      "pages": 7
+      "skipped": true
     },
     {
       "slug": "freedom-charters-eden",
-      "candidates": 12,
-      "pages": 12
+      "skipped": true
+    },
+    {
+      "slug": "research-newcastle-2",
+      "candidates": 0,
+      "pages": 8
+    },
+    {
+      "slug": "research-coffs-2",
+      "candidates": 0,
+      "pages": 6
+    },
+    {
+      "slug": "research-tweed-2",
+      "candidates": 0,
+      "pages": 8
+    },
+    {
+      "slug": "research-eden-2",
+      "candidates": 0,
+      "pages": 10
+    },
+    {
+      "slug": "sapphire-coastal-adventures",
+      "candidates": 16,
+      "pages": 7
     }
   ]
 }

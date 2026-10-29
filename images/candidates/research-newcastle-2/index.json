@@ -1,0 +1,66 @@
+{
+  "slug": "research-newcastle-2",
+  "request_hash": "482f8c839235",
+  "collected_at": "2026-10-29T19:26:20.254Z",
+  "pages_fetched": [
+    "https://www.poyst.com/business/capns-charters-newcastle",
+    "https://www.poyst.com/business/b-and-l-fishing-and-cruises-pl",
+    "http://www.fishingcharter.net.au/",
+    "https://b-l-fishing.treepl.co/pricing_boats",
+    "https://b-l-fishing.treepl.co/faqs",
+    "https://www.visitlakemac.com.au/blog/let-s-fish-2024-weekend-guide?format=amp",
+    "https://www.stayz.com.au/holiday-ideas/travel-guides/activity/fishing-in-newcastle",
+    "https://day-trippin-charters.squarespace.com/the-fish"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.poyst.com/business/capns-charters-newcastle",
+      "status": 200,
+      "final_url": "https://www.poyst.com/business/capns-charters-newcastle",
+      "bytes": 333911
+    },
+    {
+      "page": "https://www.poyst.com/business/b-and-l-fishing-and-cruises-pl",
+      "status": 200,
+      "final_url": "https://www.poyst.com/business/b-and-l-fishing-and-cruises-pl",
+      "bytes": 332752
+    },
+    {
+      "page": "http://www.fishingcharter.net.au/",
+      "status": 200,
+      "final_url": "https://www.fishingcharter.net.au/",
+      "bytes": 15690
+    },
+    {
+      "page": "https://b-l-fishing.treepl.co/pricing_boats",
+      "status": 200,
+      "final_url": "https://b-l-fishing.treepl.co/pricing_boats",
+      "bytes": 13585
+    },
+    {
+      "page": "https://b-l-fishing.treepl.co/faqs",
+      "status": 200,
+      "final_url": "https://b-l-fishing.treepl.co/faqs",
+      "bytes": 14399
+    },
+    {
+      "page": "https://www.visitlakemac.com.au/blog/let-s-fish-2024-weekend-guide?format=amp",
+      "status": 403,
+      "final_url": "https://www.visitlakemac.com.au/blog/let-s-fish-2024-weekend-guide?format=amp",
+      "bytes": 6001
+    },
+    {
+      "page": "https://www.stayz.com.au/holiday-ideas/travel-guides/activity/fishing-in-newcastle",
+      "status": 429,
+      "final_url": "https://www.stayz.com.au/holiday-ideas/travel-guides/activity/fishing-in-newcastle",
+      "bytes": 113829
+    },
+    {
+      "page": "https://day-trippin-charters.squarespace.com/the-fish",
+      "status": 200,
+      "final_url": "https://day-trippin-charters.squarespace.com/the-fish",
+      "bytes": 171173
+    }
+  ]
+}
