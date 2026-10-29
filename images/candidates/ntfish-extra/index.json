@@ -1,0 +1,17 @@
+{
+  "slug": "ntfish-extra",
+  "request_hash": "11d6636fdc6a",
+  "collected_at": "2026-10-29T20:07:41.076Z",
+  "pages_fetched": [
+    "https://www.ntfish4x4.com/information"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.ntfish4x4.com/information",
+      "status": 200,
+      "final_url": "https://www.ntfish4x4.com/information",
+      "bytes": 684268
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "yknot-extra",
+  "request_hash": "2cc4c4d50f0f",
+  "collected_at": "2026-10-29T20:07:40.015Z",
+  "pages_fetched": [
+    "https://www.yknot.com.au/ters-conditions",
+    "https://www.yknot.com.au/copy-of-harbour-cruises",
+    "https://yknotfishing.rezdy.com/catalog/509248/dundee-fishing-charters"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.yknot.com.au/ters-conditions",
+      "status": 200,
+      "final_url": "https://www.yknot.com.au/ters-conditions",
+      "bytes": 414900
+    },
+    {
+      "page": "https://www.yknot.com.au/copy-of-harbour-cruises",
+      "status": 200,
+      "final_url": "https://www.yknot.com.au/copy-of-harbour-cruises",
+      "bytes": 413667
+    },
+    {
+      "page": "https://yknotfishing.rezdy.com/catalog/509248/dundee-fishing-charters",
+      "status": 403,
+      "final_url": "https://yknotfishing.rezdy.com/catalog/509248/dundee-fishing-charters",
+      "bytes": 5185
+    }
+  ]
+}

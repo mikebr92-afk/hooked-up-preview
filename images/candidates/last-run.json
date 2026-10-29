@@ -1,135 +1,129 @@
 {
-  "finished_at": "2026-10-29T19:56:24.356Z",
+  "finished_at": "2026-10-29T20:07:41.076Z",
   "summary": [
     {
       "slug": "guide-nt-tourism",
-      "candidates": 0,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "guide-nt-fisheries",
-      "candidates": 0,
-      "pages": 12
+      "skipped": true
     },
     {
       "slug": "australian-sportfishing-charters",
-      "candidates": 0,
-      "pages": 12
+      "skipped": true
     },
     {
       "slug": "groote-eylandt-sports-fishing",
-      "candidates": 0,
-      "pages": 12
+      "skipped": true
     },
     {
       "slug": "cobourg-fishing-safaris",
-      "candidates": 0,
-      "pages": 12
+      "skipped": true
     },
     {
       "slug": "dhipirri-barra-and-sportfishing-lodge",
-      "candidates": 0,
-      "pages": 12
+      "skipped": true
     },
     {
       "slug": "obj-adventures-nhulunbuy-fishing-charters",
-      "candidates": 0,
-      "pages": 12
+      "skipped": true
     },
     {
       "slug": "humbug-fishing-darwin",
-      "candidates": 0,
-      "pages": 12
+      "skipped": true
     },
     {
       "slug": "nt-fish-and-4x4",
-      "candidates": 0,
-      "pages": 12
+      "skipped": true
     },
     {
       "slug": "barra-or-blue-fishing-charters-darwin",
-      "candidates": 0,
-      "pages": 12
+      "skipped": true
     },
     {
       "slug": "barra-private-tours-darwin",
-      "candidates": 0,
-      "pages": 12
+      "skipped": true
     },
     {
       "slug": "darwin-harbour-fishing-charters",
-      "candidates": 0,
-      "pages": 12
+      "skipped": true
     },
     {
       "slug": "equinox-fishing-charters-darwin",
-      "candidates": 0,
-      "pages": 12
+      "skipped": true
     },
     {
       "slug": "offshore-boats-darwin",
-      "candidates": 0,
-      "pages": 12
+      "skipped": true
     },
     {
       "slug": "river-and-reef-fishing-charters",
-      "candidates": 0,
-      "pages": 12
+      "skipped": true
     },
     {
       "slug": "yknot-fishing-charters",
-      "candidates": 0,
-      "pages": 2
+      "skipped": true
     },
     {
       "slug": "anglers-choice-fishing-safaris",
+      "skipped": true
+    },
+    {
+      "slug": "dundee-beach-fishing-charters",
+      "skipped": true
+    },
+    {
+      "slug": "dna-barra-fishing",
+      "skipped": true
+    },
+    {
+      "slug": "kakadu-fishing-tours",
+      "skipped": true
+    },
+    {
+      "slug": "estuary-escapes-fishing-charters",
+      "skipped": true
+    },
+    {
+      "slug": "just-doon-it-fishing-charters",
+      "skipped": true
+    },
+    {
+      "slug": "obsession-fishing-safaris",
+      "skipped": true
+    },
+    {
+      "slug": "point-stuart-wilderness-lodge",
+      "skipped": true
+    },
+    {
+      "slug": "alure-fishing-charters-nt",
+      "skipped": true
+    },
+    {
+      "slug": "tiwi-island-retreat",
+      "skipped": true
+    },
+    {
+      "slug": "guide-nt-permits",
+      "candidates": 0,
+      "pages": 7
+    },
+    {
+      "slug": "guide-nt-rules",
       "candidates": 0,
       "pages": 5
     },
     {
-      "slug": "dundee-beach-fishing-charters",
+      "slug": "yknot-extra",
       "candidates": 0,
-      "pages": 10
+      "pages": 3
     },
     {
-      "slug": "dna-barra-fishing",
+      "slug": "ntfish-extra",
       "candidates": 0,
-      "pages": 12
-    },
-    {
-      "slug": "kakadu-fishing-tours",
-      "candidates": 0,
-      "pages": 12
-    },
-    {
-      "slug": "estuary-escapes-fishing-charters",
-      "candidates": 0,
-      "pages": 12
-    },
-    {
-      "slug": "just-doon-it-fishing-charters",
-      "candidates": 0,
-      "pages": 12
-    },
-    {
-      "slug": "obsession-fishing-safaris",
-      "candidates": 0,
-      "pages": 12
-    },
-    {
-      "slug": "point-stuart-wilderness-lodge",
-      "candidates": 0,
-      "pages": 12
-    },
-    {
-      "slug": "alure-fishing-charters-nt",
-      "candidates": 0,
-      "pages": 12
-    },
-    {
-      "slug": "tiwi-island-retreat",
-      "candidates": 0,
-      "pages": 12
+      "pages": 1
     }
   ]
 }

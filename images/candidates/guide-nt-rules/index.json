@@ -1,0 +1,45 @@
+{
+  "slug": "guide-nt-rules",
+  "request_hash": "16c1d15855d8",
+  "collected_at": "2026-10-29T20:07:38.547Z",
+  "pages_fetched": [
+    "https://nt.gov.au/marine/recreational-fishing",
+    "https://nt.gov.au/marine/recreational-fishing/rules/about-recreational-fishing",
+    "https://nt.gov.au/marine/recreational-fishing/when-and-where-to-fish/rules-for-fishing-in-specific-areas",
+    "https://nt.gov.au/marine/fishing-on-aboriginal-land/daly-river",
+    "https://nt.gov.au/__data/assets/pdf_file/0006/202587/fishing-and-boating.pdf"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://nt.gov.au/marine/recreational-fishing",
+      "status": 403,
+      "final_url": "https://nt.gov.au/marine/recreational-fishing",
+      "bytes": 5854
+    },
+    {
+      "page": "https://nt.gov.au/marine/recreational-fishing/rules/about-recreational-fishing",
+      "status": 403,
+      "final_url": "https://nt.gov.au/marine/recreational-fishing/rules/about-recreational-fishing",
+      "bytes": 5995
+    },
+    {
+      "page": "https://nt.gov.au/marine/recreational-fishing/when-and-where-to-fish/rules-for-fishing-in-specific-areas",
+      "status": 403,
+      "final_url": "https://nt.gov.au/marine/recreational-fishing/when-and-where-to-fish/rules-for-fishing-in-specific-areas",
+      "bytes": 6116
+    },
+    {
+      "page": "https://nt.gov.au/marine/fishing-on-aboriginal-land/daly-river",
+      "status": 403,
+      "final_url": "https://nt.gov.au/marine/fishing-on-aboriginal-land/daly-river",
+      "bytes": 5926
+    },
+    {
+      "page": "https://nt.gov.au/__data/assets/pdf_file/0006/202587/fishing-and-boating.pdf",
+      "status": 403,
+      "final_url": "https://nt.gov.au/__data/assets/pdf_file/0006/202587/fishing-and-boating.pdf",
+      "bytes": 5989
+    }
+  ]
+}

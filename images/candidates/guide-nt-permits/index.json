@@ -1,0 +1,59 @@
+{
+  "slug": "guide-nt-permits",
+  "request_hash": "e6dcfc7d0002",
+  "collected_at": "2026-10-29T20:07:37.778Z",
+  "pages_fetched": [
+    "https://northernterritory.com/plan/useful-information/passes-and-permits",
+    "https://northernterritory.com/plan/useful-information/land-permits",
+    "https://parksaustralia.gov.au/kakadu/plan/passes/",
+    "https://parksaustralia.gov.au/kakadu/access/",
+    "http://tiwilandcouncil.com/permits/index.htm",
+    "https://permits.tiwilandcouncil.com/index.cfm?fuseaction=applyFishing",
+    "https://www.eastarnhemland.com.au/plan/access-permits"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://northernterritory.com/plan/useful-information/passes-and-permits",
+      "status": 200,
+      "final_url": "https://northernterritory.com/plan/useful-information/passes-and-permits",
+      "bytes": 520770
+    },
+    {
+      "page": "https://northernterritory.com/plan/useful-information/land-permits",
+      "status": 200,
+      "final_url": "https://northernterritory.com/plan/useful-information/passes-and-permits",
+      "bytes": 520770
+    },
+    {
+      "page": "https://parksaustralia.gov.au/kakadu/plan/passes/",
+      "status": 200,
+      "final_url": "https://kakadu.gov.au/plan/passes/",
+      "bytes": 837093
+    },
+    {
+      "page": "https://parksaustralia.gov.au/kakadu/access/",
+      "status": 200,
+      "final_url": "https://kakadu.gov.au/news/access-and-alerts/",
+      "bytes": 872149
+    },
+    {
+      "page": "http://tiwilandcouncil.com/permits/index.htm",
+      "status": 404,
+      "final_url": "https://www.tiwilandcouncil.com/permits/index.htm",
+      "bytes": 2205
+    },
+    {
+      "page": "https://permits.tiwilandcouncil.com/index.cfm?fuseaction=applyFishing",
+      "status": 200,
+      "final_url": "https://permits.tiwilandcouncil.com/index.cfm?fuseaction=applyFishing",
+      "bytes": 28512
+    },
+    {
+      "page": "https://www.eastarnhemland.com.au/plan/access-permits",
+      "status": 200,
+      "final_url": "https://www.visiteastarnhem.com.au/plan/access-permits",
+      "bytes": 38427
+    }
+  ]
+}
