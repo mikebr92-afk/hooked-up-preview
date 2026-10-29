@@ -1,0 +1,25 @@
+{
+  "slug": "fishing-offshore-1770",
+  "request_hash": "fcf69bdbde1f",
+  "collected_at": "2026-10-29T04:23:10.386Z",
+  "pages_fetched": [
+    "https://www.fishingoffshore1770.com.au/",
+    "https://fishingoffshore1770.com.au/",
+    "https://www.fishingoffshore1770.com/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.fishingoffshore1770.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://fishingoffshore1770.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://www.fishingoffshore1770.com/",
+      "error": "fetch failed"
+    }
+  ]
+}

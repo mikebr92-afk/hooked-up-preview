@@ -1,0 +1,36 @@
+{
+  "slug": "research-princess-ii",
+  "request_hash": "a40ac76870d0",
+  "collected_at": "2026-10-29T04:23:20.081Z",
+  "pages_fetched": [
+    "https://www.discoverherveybay.com/mv-princess-ii-fishing-charters/",
+    "http://www.herveybaydownunder.com.au/fishing_operators.htm",
+    "https://herveybaytouristcentre.com.au/category/fishing-charters-hervey-diving-tobruk/",
+    "https://pocketbooks.com.au/profile/princess-ii-fishing-charters-hervey-bay-boat-hire-and-charter-services-in-hervey-bay-fraser-coast-wide-bay-region-qhbay23602"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.discoverherveybay.com/mv-princess-ii-fishing-charters/",
+      "status": 403,
+      "final_url": "https://www.discoverherveybay.com/mv-princess-ii-fishing-charters/",
+      "bytes": 5820
+    },
+    {
+      "page": "http://www.herveybaydownunder.com.au/fishing_operators.htm",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://herveybaytouristcentre.com.au/category/fishing-charters-hervey-diving-tobruk/",
+      "status": 200,
+      "final_url": "https://experienceherveybay.com.au/",
+      "bytes": 289307
+    },
+    {
+      "page": "https://pocketbooks.com.au/profile/princess-ii-fishing-charters-hervey-bay-boat-hire-and-charter-services-in-hervey-bay-fraser-coast-wide-bay-region-qhbay23602",
+      "status": 200,
+      "final_url": "https://pocketbooks.com.au/profile/princess-ii-fishing-charters-hervey-bay-boat-hire-and-charter-services-in-hervey-bay-fraser-coast-wide-bay-region-qhbay23602",
+      "bytes": 18769
+    }
+  ]
+}

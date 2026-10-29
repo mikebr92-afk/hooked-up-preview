@@ -1,14 +1,19 @@
 {
   "slug": "big-cat-charters-brisbane",
-  "request_hash": "f4002837a19f",
-  "collected_at": "2026-10-29T04:04:44.710Z",
+  "request_hash": "bd6b62bfa149",
+  "collected_at": "2026-10-29T04:23:34.998Z",
   "pages_fetched": [
-    "https://www.bigcatcharters.com/"
+    "http://bigcatcharters.com/",
+    "https://bigcatcharters.com/"
   ],
   "candidates": [],
   "log": [
     {
-      "page": "https://www.bigcatcharters.com/",
+      "page": "http://bigcatcharters.com/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://bigcatcharters.com/",
       "error": "fetch failed"
     }
   ]

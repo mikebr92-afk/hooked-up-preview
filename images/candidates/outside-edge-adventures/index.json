@@ -1,0 +1,20 @@
+{
+  "slug": "outside-edge-adventures",
+  "request_hash": "1525bab3b8c2",
+  "collected_at": "2026-10-29T04:23:29.547Z",
+  "pages_fetched": [
+    "https://outsideedgeadventures.com.au/",
+    "https://outsideedgeadventures.com.au/reef-fishing/brisbane/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://outsideedgeadventures.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://outsideedgeadventures.com.au/reef-fishing/brisbane/",
+      "error": "fetch failed"
+    }
+  ]
+}

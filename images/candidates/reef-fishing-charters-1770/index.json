@@ -1,181 +1,20 @@
 {
   "slug": "reef-fishing-charters-1770",
-  "request_hash": "c766648640b6",
-  "collected_at": "2026-10-29T03:58:35.218Z",
+  "request_hash": "138251fdb1a6",
+  "collected_at": "2026-10-29T04:23:09.869Z",
   "pages_fetched": [
-    "https://www.reeffishingcharters1770.au/",
-    "https://1770marina.com.au/listing/reef-fishing-charters-1770/",
-    "https://www.reeffishingcharters1770.au/$%7Bad.link%7D",
-    "https://www.reeffishingcharters1770.au/$%7BadSecond.link%7D",
-    "https://www.reeffishingcharters1770.au/$%7BadThird.link%7D",
-    "https://www.reeffishingcharters1770.au/$%7BadFourth.link%7D",
-    "https://www.reeffishingcharters1770.au/$%7Bimage.link%7D"
+    "https://www.reeffishingcharters1770.com.au/",
+    "https://reeffishingcharters1770.com.au/"
   ],
-  "candidates": [
-    {
-      "file": "c01.webp",
-      "width": 1200,
-      "height": 630,
-      "original": "1200x630",
-      "source": "https://www.b2u.au/im/og/aeof.jpg",
-      "page": "https://www.reeffishingcharters1770.au/",
-      "priority": true
-    }
-  ],
+  "candidates": [],
   "log": [
     {
-      "page": "https://www.reeffishingcharters1770.au/",
-      "status": 200,
-      "final_url": "https://www.reeffishingcharters1770.au/",
-      "bytes": 49408
+      "page": "https://www.reeffishingcharters1770.com.au/",
+      "error": "fetch failed"
     },
     {
-      "page": "https://1770marina.com.au/listing/reef-fishing-charters-1770/",
-      "status": 403,
-      "final_url": "https://1770marina.com.au/listing/reef-fishing-charters-1770/",
-      "bytes": 5907
-    },
-    {
-      "page": "https://www.reeffishingcharters1770.au/$%7Bad.link%7D",
-      "status": 404,
-      "final_url": "https://www.reeffishingcharters1770.au/$%7Bad.link%7D",
-      "bytes": 83800
-    },
-    {
-      "page": "https://www.reeffishingcharters1770.au/$%7BadSecond.link%7D",
-      "status": 404,
-      "final_url": "https://www.reeffishingcharters1770.au/$%7BadSecond.link%7D",
-      "bytes": 83800
-    },
-    {
-      "page": "https://www.reeffishingcharters1770.au/$%7BadThird.link%7D",
-      "status": 404,
-      "final_url": "https://www.reeffishingcharters1770.au/$%7BadThird.link%7D",
-      "bytes": 83800
-    },
-    {
-      "page": "https://www.reeffishingcharters1770.au/$%7BadFourth.link%7D",
-      "status": 404,
-      "final_url": "https://www.reeffishingcharters1770.au/$%7BadFourth.link%7D",
-      "bytes": 83800
-    },
-    {
-      "page": "https://www.reeffishingcharters1770.au/$%7Bimage.link%7D",
-      "status": 404,
-      "final_url": "https://www.reeffishingcharters1770.au/$%7Bimage.link%7D",
-      "bytes": 83800
-    },
-    {
-      "image": "https://www.b2u.au/im/nav/fishing.jpg",
-      "error": "too small 86x80"
-    },
-    {
-      "image": "https://www.b2u.au/im/nav/aeof-solunar.jpg",
-      "error": "too small 80x80"
-    },
-    {
-      "image": "https://www.b2u.au/im/nav/aeof-guides.jpg",
-      "error": "too small 80x80"
-    },
-    {
-      "image": "https://www.b2u.au/im/nav/aeof-fishid.jpg",
-      "error": "too small 80x80"
-    },
-    {
-      "image": "https://www.b2u.au/im/nav/aeof-location.jpg",
-      "error": "too small 80x80"
-    },
-    {
-      "image": "https://www.b2u.au/im/nav/aeof-styles.jpg",
-      "error": "too small 80x80"
-    },
-    {
-      "image": "https://www.b2u.au/im/nav/aeof-tackle.jpg",
-      "error": "too small 80x80"
-    },
-    {
-      "image": "https://www.b2u.au/im/nav/aeof-media.jpg",
-      "error": "too small 80x80"
-    },
-    {
-      "image": "https://www.b2u.au/im/nav/AEOF-information.jpg",
-      "error": "too small 80x80"
-    },
-    {
-      "image": "https://www.b2u.au/im/nav/x72-marketplace.jpg",
-      "error": "too small 80x80"
-    },
-    {
-      "image": "https://www.b2u.au/im/nav/72f-portal.jpg",
-      "error": "too small 80x80"
-    },
-    {
-      "image": "https://www.b2u.au/im/atf/1200x250/kuranda-scenic-rail.jpg",
-      "error": "too small 1200x250"
-    },
-    {
-      "image": "https://www.reeffishingcharters1770.au/$%7Bad.src%7D",
-      "error": "HTTP 404"
-    },
-    {
-      "image": "https://www.reeffishingcharters1770.au/$%7BadSecond.src%7D",
-      "error": "HTTP 404"
-    },
-    {
-      "image": "https://www.reeffishingcharters1770.au/$%7BadThird.src%7D",
-      "error": "HTTP 404"
-    },
-    {
-      "image": "https://www.reeffishingcharters1770.au/$%7BadFourth.src%7D",
-      "error": "HTTP 404"
-    },
-    {
-      "image": "https://www.reeffishingcharters1770.au/$%7Bimage.src%7D",
-      "error": "HTTP 404"
-    },
-    {
-      "image": "https://www.b2u.au/im/16/aeof.png",
-      "error": "too small 16x16"
-    },
-    {
-      "image": "https://www.b2u.au/im/32/aeof.png",
-      "error": "too small 32x32"
-    },
-    {
-      "image": "https://www.b2u.au/im/64/aeof.png",
-      "error": "too small 64x64"
-    },
-    {
-      "image": "https://www.b2u.au/im/96/aeof.png",
-      "error": "too small 96x96"
-    },
-    {
-      "image": "https://www.b2u.au/im/128/aeof.png",
-      "error": "too small 128x128"
-    },
-    {
-      "image": "https://www.b2u.au/im/180/aeof.png",
-      "error": "too small 180x180"
-    },
-    {
-      "image": "https://www.b2u.au/im/192/aeof.png",
-      "error": "too small 192x192"
-    },
-    {
-      "image": "https://www.b2u.au/im/512/aeof.png",
-      "error": "HTTP 404"
-    },
-    {
-      "image": "https://www.b2u.au/im/1200x250/aeof/fishingspots3.jpg",
-      "error": "too small 1200x250"
-    },
-    {
-      "image": "https://www.b2u.au/im/400x400/content/red-fish-catch-reef-fishing-charters-1770-recreational-angling-success.jpg",
-      "error": "too small 400x400"
-    },
-    {
-      "image": "https://www.b2u.au/im/400x400/content/reef-fishing-charters-1770-four-anglers-red-emperor-catch-boat-deck-offshore-fishing-success-group.jpg",
-      "error": "too small 400x400"
+      "page": "https://reeffishingcharters1770.com.au/",
+      "error": "fetch failed"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "finished_at": "2026-10-29T04:19:18.796Z",
+  "finished_at": "2026-10-29T04:23:34.998Z",
   "summary": [
     {
       "slug": "hooker-1-fishing-charters-gold-coast",
@@ -55,7 +55,8 @@
     },
     {
       "slug": "smithys-fishing-charters",
-      "skipped": true
+      "candidates": 0,
+      "pages": 1
     },
     {
       "slug": "salty-fishing-charters",
@@ -115,7 +116,8 @@
     },
     {
       "slug": "reel-deadly-fishing-charters",
-      "skipped": true
+      "candidates": 0,
+      "pages": 1
     },
     {
       "slug": "saltwater-playground",
@@ -127,7 +129,8 @@
     },
     {
       "slug": "truansea-charters",
-      "skipped": true
+      "candidates": 3,
+      "pages": 5
     },
     {
       "slug": "reality-fishing-charters",
@@ -195,28 +198,24 @@
     },
     {
       "slug": "bks-gold-coast-fishing-charters",
-      "candidates": 16,
-      "pages": 12
+      "skipped": true
     },
     {
       "slug": "big-cat-charters-brisbane",
-      "candidates": 0,
-      "pages": 1
+      "skipped": true
     },
     {
       "slug": "research-saltwater-charters-qld",
-      "candidates": 0,
-      "pages": 1
+      "skipped": true
     },
     {
       "slug": "fish-moreton",
-      "candidates": 16,
-      "pages": 7
+      "skipped": true
     },
     {
       "slug": "smithys-fishing-charters",
-      "candidates": 0,
-      "pages": 2
+      "candidates": 2,
+      "pages": 12
     },
     {
       "slug": "reel-deadly-fishing-charters",
@@ -225,8 +224,7 @@
     },
     {
       "slug": "research-hbfs-packages",
-      "candidates": 0,
-      "pages": 3
+      "skipped": true
     },
     {
       "slug": "truansea-charters",
@@ -235,18 +233,50 @@
     },
     {
       "slug": "bundaberg-river-fishing-charters",
-      "candidates": 3,
-      "pages": 5
+      "skipped": true
     },
     {
       "slug": "research-agnes-dir3",
-      "candidates": 0,
-      "pages": 7
+      "skipped": true
     },
     {
       "slug": "research-hotspot-guides",
+      "skipped": true
+    },
+    {
+      "slug": "reef-fishing-charters-1770",
+      "candidates": 0,
+      "pages": 2
+    },
+    {
+      "slug": "fishing-offshore-1770",
+      "candidates": 0,
+      "pages": 3
+    },
+    {
+      "slug": "research-princess-ii",
       "candidates": 0,
       "pages": 4
+    },
+    {
+      "slug": "frenzy-charters",
+      "candidates": 1,
+      "pages": 11
+    },
+    {
+      "slug": "outside-edge-adventures",
+      "candidates": 0,
+      "pages": 2
+    },
+    {
+      "slug": "brisbane-fishing-tour",
+      "candidates": 12,
+      "pages": 2
+    },
+    {
+      "slug": "big-cat-charters-brisbane",
+      "candidates": 0,
+      "pages": 2
     }
   ]
 }
