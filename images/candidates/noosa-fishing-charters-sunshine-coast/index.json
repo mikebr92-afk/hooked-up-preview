@@ -1,0 +1,17 @@
+{
+  "slug": "noosa-fishing-charters-sunshine-coast",
+  "request_hash": "9630027f7ef2",
+  "collected_at": "2026-10-29T03:07:01.220Z",
+  "pages_fetched": [
+    "https://visitnoosa.com.au/directory/noosa-fishing-adventures"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://visitnoosa.com.au/directory/noosa-fishing-adventures",
+      "status": 404,
+      "final_url": "https://visitnoosa.com.au/directory/noosa-fishing-adventures",
+      "bytes": 155315
+    }
+  ]
+}

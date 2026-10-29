@@ -1,0 +1,425 @@
+{
+  "slug": "hervey-bay-fishing-charters",
+  "request_hash": "95796e7a85c6",
+  "collected_at": "2026-10-29T03:06:59.678Z",
+  "pages_fetched": [
+    "https://herveybayfishingcharters.com.au/",
+    "http://www.herveybayfishingcharters.com.au/",
+    "https://www.discoverherveybay.com/hervey-bay-fishing-charters",
+    "https://herveybaysportfishing.com.au/cart/",
+    "https://herveybaysportfishing.com.au/",
+    "https://herveybaysportfishing.com.au/trip-reports/",
+    "https://herveybaysportfishing.com.au/fishing-news/",
+    "https://herveybaysportfishing.com.au/fishing-guides/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://herveybaysportfishing.com.au/wp-content/uploads/2023/02/917C4062-EB1B-4889-803A-3549C59E1C56-scaled.jpg",
+      "page": "https://herveybayfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 1793,
+      "height": 1572,
+      "original": "1793x1572",
+      "source": "https://herveybaysportfishing.com.au/wp-content/uploads/2024/05/Wilson-New_square.png",
+      "page": "https://herveybayfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1600,
+      "height": 899,
+      "original": "1600x899",
+      "source": "https://herveybaysportfishing.com.au/wp-content/uploads/2020/05/hervey-bay-flats-sportfishing3.jpg",
+      "page": "https://herveybayfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://herveybaysportfishing.com.au/wp-content/uploads/2020/05/Vessels-Header-Background.jpg",
+      "page": "https://herveybayfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 894,
+      "height": 894,
+      "original": "894x894",
+      "source": "https://herveybaysportfishing.com.au/wp-content/uploads/2020/05/seamless-sand.jpg",
+      "page": "https://herveybaysportfishing.com.au/cart/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 600,
+      "height": 600,
+      "original": "600x600",
+      "source": "https://herveybaysportfishing.com.au/wp-content/uploads/2020/05/Japanese-fishing-charters-fish-closeup.jpg",
+      "page": "https://herveybaysportfishing.com.au/trip-reports/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1920,
+      "height": 1118,
+      "original": "1920x1118",
+      "source": "https://herveybaysportfishing.com.au/wp-content/uploads/2020/06/trip-reports-header-hervey-bay-fishing.jpg",
+      "page": "https://herveybaysportfishing.com.au/trip-reports/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 968,
+      "height": 726,
+      "original": "968x726",
+      "source": "https://herveybaysportfishing.com.au/wp-content/uploads/2021/01/gotcha-boat-hire-polycraft-boat.jpg",
+      "page": "https://herveybaysportfishing.com.au/fishing-news/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1368,
+      "height": 700,
+      "original": "1368x700",
+      "source": "https://herveybaysportfishing.com.au/wp-content/uploads/2020/05/FAQ-background-sunset-hervey-bay3.jpg",
+      "page": "https://herveybaysportfishing.com.au/fishing-news/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 2000,
+      "height": 2000,
+      "original": "2048x2048",
+      "source": "https://herveybaysportfishing.com.au/wp-content/uploads/2022/04/IMG_0641.jpg",
+      "page": "https://herveybaysportfishing.com.au/fishing-guides/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 2000,
+      "height": 1555,
+      "original": "2560x1991",
+      "source": "https://herveybaysportfishing.com.au/wp-content/uploads/2023/01/image_6487327-scaled.jpg",
+      "page": "https://herveybaysportfishing.com.au/fishing-guides/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 650,
+      "height": 463,
+      "original": "650x463",
+      "source": "https://herveybaysportfishing.com.au/wp-content/uploads/2020/05/peter-fry-fishing-guide-hervey-bay-fly-and-sportfishing.jpg",
+      "page": "https://herveybaysportfishing.com.au/fishing-guides/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://herveybaysportfishing.com.au/wp-content/uploads/2023/01/PA200022-scaled.jpg",
+      "page": "https://herveybaysportfishing.com.au/fishing-guides/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1920x2560",
+      "source": "https://herveybaysportfishing.com.au/wp-content/uploads/2023/01/PA200022-2-scaled.jpg",
+      "page": "https://herveybaysportfishing.com.au/fishing-guides/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://herveybayfishingcharters.com.au/",
+      "status": 200,
+      "final_url": "https://herveybaysportfishing.com.au/",
+      "bytes": 342467
+    },
+    {
+      "page": "http://www.herveybayfishingcharters.com.au/",
+      "status": 200,
+      "final_url": "https://herveybaysportfishing.com.au/",
+      "bytes": 342467
+    },
+    {
+      "page": "https://www.discoverherveybay.com/hervey-bay-fishing-charters",
+      "status": 403,
+      "final_url": "https://www.discoverherveybay.com/hervey-bay-fishing-charters",
+      "bytes": 5805
+    },
+    {
+      "page": "https://herveybaysportfishing.com.au/cart/",
+      "status": 200,
+      "final_url": "https://herveybaysportfishing.com.au/cart/",
+      "bytes": 398909
+    },
+    {
+      "page": "https://herveybaysportfishing.com.au/",
+      "status": 200,
+      "final_url": "https://herveybaysportfishing.com.au/",
+      "bytes": 342467
+    },
+    {
+      "page": "https://herveybaysportfishing.com.au/trip-reports/",
+      "status": 200,
+      "final_url": "https://herveybaysportfishing.com.au/trip-reports/",
+      "bytes": 408370
+    },
+    {
+      "page": "https://herveybaysportfishing.com.au/fishing-news/",
+      "status": 200,
+      "final_url": "https://herveybaysportfishing.com.au/fishing-news/",
+      "bytes": 417019
+    },
+    {
+      "page": "https://herveybaysportfishing.com.au/fishing-guides/",
+      "status": 200,
+      "final_url": "https://herveybaysportfishing.com.au/fishing-guides/",
+      "bytes": 318328
+    },
+    {
+      "image": "https://herveybaysportfishing.com.au/wp-content/uploads/2020/05/hervey-bay-sport-fly-fishing-navy-new-font.png",
+      "error": "too small 924x165"
+    },
+    {
+      "image": "https://herveybaysportfishing.com.au/wp-content/uploads/2020/05/shimano2.png",
+      "error": "too small 225x104"
+    },
+    {
+      "image": "https://herveybaysportfishing.com.au/wp-content/uploads/2020/05/sage-fly-rods.png",
+      "error": "too small 225x104"
+    },
+    {
+      "image": "https://herveybaysportfishing.com.au/wp-content/uploads/2020/05/tt-lures-e1601076991456.png",
+      "error": "too small 123x104"
+    },
+    {
+      "image": "https://herveybaysportfishing.com.au/wp-content/uploads/2020/05/jm-gillies.png",
+      "error": "too small 225x104"
+    },
+    {
+      "image": "https://herveybaysportfishing.com.au/wp-content/uploads/2020/09/Yamaha-Revs-Your-Heart3.png",
+      "error": "too small 400x139"
+    },
+    {
+      "image": "https://herveybaysportfishing.com.au/wp-content/uploads/2023/01/humminbird3.png",
+      "error": "too small 225x104"
+    },
+    {
+      "image": "https://herveybaysportfishing.com.au/wp-content/uploads/2023/01/humminbird3-200x92.png",
+      "error": "too small 200x92"
+    },
+    {
+      "image": "https://herveybaysportfishing.com.au/wp-content/uploads/2024/01/273033461_329232382551784_8694329581365202300_n-1.png",
+      "error": "too small 587x176"
+    },
+    {
+      "image": "https://herveybaysportfishing.com.au/wp-content/uploads/2024/01/273033461_329232382551784_8694329581365202300_n-1-200x60.png",
+      "error": "too small 200x60"
+    },
+    {
+      "image": "https://herveybaysportfishing.com.au/wp-content/uploads/2020/05/BestOfFishing-MEMBER-white.png",
+      "error": "too small 392x517"
+    },
+    {
+      "dup": "https://herveybaysportfishing.com.au/wp-content/uploads/2023/02/917C4062-EB1B-4889-803A-3549C59E1C56.jpg"
+    },
+    {
+      "dup": "https://herveybaysportfishing.com.au/wp-content/uploads/2023/02/917C4062-EB1B-4889-803A-3549C59E1C56-980x735.jpg"
+    },
+    {
+      "image": "https://herveybaysportfishing.com.au/wp-content/uploads/2023/02/917C4062-EB1B-4889-803A-3549C59E1C56-480x360.jpg",
+      "error": "too small 480x360"
+    },
+    {
+      "image": "https://herveybaysportfishing.com.au/wp-content/uploads/2024/05/Wilson-New_square-200x175.png",
+      "error": "too small 200x175"
+    },
+    {
+      "image": "https://herveybaysportfishing.com.au/wp-content/uploads/2020/05/BestOfFishing-MEMBER-white-227x300.png",
+      "error": "too small 227x300"
+    },
+    {
+      "dup": "https://herveybaysportfishing.com.au/wp-content/uploads/2023/02/917C4062-EB1B-4889-803A-3549C59E1C56-1280x960.jpg"
+    },
+    {
+      "image": "https://herveybaysportfishing.com.au/wp-content/uploads/2020/05/hervey-bay-sport-fly-fishing-navy-new-font-480x86.png",
+      "error": "too small 480x86"
+    },
+    {
+      "image": "https://herveybaysportfishing.com.au/wp-content/uploads/2025/11/autumn-winter-2025-newsletter-hb-fly-sportfishing-hervey-bay.jpg",
+      "error": "too small 400x274"
+    },
+    {
+      "image": "https://herveybaysportfishing.com.au/wp-content/uploads/2025/11/jan-feb-2025-fishing-report-newsletter-hb-fly-sportfishing.jpg",
+      "error": "too small 400x274"
+    },
+    {
+      "image": "https://herveybaysportfishing.com.au/wp-content/uploads/2023/05/january-february-2023-fishing-report-featured-image-marlin-fishing-fraser-island.jpg",
+      "error": "too small 400x274"
+    },
+    {
+      "image": "https://herveybaysportfishing.com.au/wp-content/uploads/2025/01/spring-fishing-newsletter-hervey-bay-queensland-fishing.jpg",
+      "error": "too small 400x274"
+    },
+    {
+      "image": "https://herveybaysportfishing.com.au/wp-content/uploads/2024/09/autumn-winter-fishing-trip-report-2024.jpg",
+      "error": "too small 400x274"
+    },
+    {
+      "image": "https://herveybaysportfishing.com.au/wp-content/uploads/2024/05/steve-holding-a-monster-longtail-the-biggest-catch-for-hervey-bay-fly-and-sportfishing.jpg",
+      "error": "too small 400x274"
+    },
+    {
+      "image": "https://herveybaysportfishing.com.au/wp-content/uploads/2024/05/happy-new-year-from-hervey-bay-fly-and-sportfishing.jpg",
+      "error": "too small 400x274"
+    },
+    {
+      "image": "https://herveybaysportfishing.com.au/wp-content/uploads/2023/12/winter-spring-2023-fishing-report-newsletter-fraser-island-fishing.jpg",
+      "error": "too small 400x274"
+    },
+    {
+      "image": "https://herveybaysportfishing.com.au/wp-content/uploads/2023/07/autumn-fishing-report-newsletter-hervey-bay-fraser-coast-fishing.jpg",
+      "error": "too small 400x274"
+    },
+    {
+      "image": "https://herveybaysportfishing.com.au/wp-content/uploads/2022/12/hervey-bay-fly-sportfishing-black-marlin-fishing-merry-christmas-2022.jpg",
+      "error": "too small 400x274"
+    },
+    {
+      "image": "https://herveybaysportfishing.com.au/wp-content/uploads/2020/05/Japanese-fishing-charters-fish-closeup-480x480.jpg",
+      "error": "too small 480x480"
+    },
+    {
+      "image": "https://herveybaysportfishing.com.au/wp-content/uploads/2025/11/autumn-winter-2025-newsletter-hb-fly-sportfishing-hervey-bay-300x206.jpg",
+      "error": "too small 300x206"
+    },
+    {
+      "image": "https://herveybaysportfishing.com.au/wp-content/uploads/2025/11/autumn-winter-2025-newsletter-hb-fly-sportfishing-hervey-bay-200x137.jpg",
+      "error": "too small 200x137"
+    },
+    {
+      "image": "https://herveybaysportfishing.com.au/wp-content/uploads/2025/11/jan-feb-2025-fishing-report-newsletter-hb-fly-sportfishing-300x206.jpg",
+      "error": "too small 300x206"
+    },
+    {
+      "image": "https://herveybaysportfishing.com.au/wp-content/uploads/2025/11/jan-feb-2025-fishing-report-newsletter-hb-fly-sportfishing-200x137.jpg",
+      "error": "too small 200x137"
+    },
+    {
+      "image": "https://herveybaysportfishing.com.au/wp-content/uploads/2023/05/january-february-2023-fishing-report-featured-image-marlin-fishing-fraser-island-300x206.jpg",
+      "error": "too small 300x206"
+    },
+    {
+      "image": "https://herveybaysportfishing.com.au/wp-content/uploads/2023/05/january-february-2023-fishing-report-featured-image-marlin-fishing-fraser-island-200x137.jpg",
+      "error": "too small 200x137"
+    },
+    {
+      "image": "https://herveybaysportfishing.com.au/wp-content/uploads/2025/01/spring-fishing-newsletter-hervey-bay-queensland-fishing-300x206.jpg",
+      "error": "too small 300x206"
+    },
+    {
+      "image": "https://herveybaysportfishing.com.au/wp-content/uploads/2025/01/spring-fishing-newsletter-hervey-bay-queensland-fishing-200x137.jpg",
+      "error": "too small 200x137"
+    },
+    {
+      "image": "https://herveybaysportfishing.com.au/wp-content/uploads/2024/09/autumn-winter-fishing-trip-report-2024-300x206.jpg",
+      "error": "too small 300x206"
+    },
+    {
+      "image": "https://herveybaysportfishing.com.au/wp-content/uploads/2024/09/autumn-winter-fishing-trip-report-2024-200x137.jpg",
+      "error": "too small 200x137"
+    },
+    {
+      "image": "https://herveybaysportfishing.com.au/wp-content/uploads/2024/05/steve-holding-a-monster-longtail-the-biggest-catch-for-hervey-bay-fly-and-sportfishing-300x206.jpg",
+      "error": "too small 300x206"
+    },
+    {
+      "image": "https://herveybaysportfishing.com.au/wp-content/uploads/2024/05/steve-holding-a-monster-longtail-the-biggest-catch-for-hervey-bay-fly-and-sportfishing-200x137.jpg",
+      "error": "too small 200x137"
+    },
+    {
+      "image": "https://herveybaysportfishing.com.au/wp-content/uploads/2024/05/happy-new-year-from-hervey-bay-fly-and-sportfishing-300x206.jpg",
+      "error": "too small 300x206"
+    },
+    {
+      "image": "https://herveybaysportfishing.com.au/wp-content/uploads/2024/05/happy-new-year-from-hervey-bay-fly-and-sportfishing-200x137.jpg",
+      "error": "too small 200x137"
+    },
+    {
+      "image": "https://herveybaysportfishing.com.au/wp-content/uploads/2023/12/winter-spring-2023-fishing-report-newsletter-fraser-island-fishing-300x206.jpg",
+      "error": "too small 300x206"
+    },
+    {
+      "image": "https://herveybaysportfishing.com.au/wp-content/uploads/2023/12/winter-spring-2023-fishing-report-newsletter-fraser-island-fishing-200x137.jpg",
+      "error": "too small 200x137"
+    },
+    {
+      "image": "https://herveybaysportfishing.com.au/wp-content/uploads/2023/07/autumn-fishing-report-newsletter-hervey-bay-fraser-coast-fishing-300x206.jpg",
+      "error": "too small 300x206"
+    },
+    {
+      "image": "https://herveybaysportfishing.com.au/wp-content/uploads/2023/07/autumn-fishing-report-newsletter-hervey-bay-fraser-coast-fishing-200x137.jpg",
+      "error": "too small 200x137"
+    },
+    {
+      "image": "https://herveybaysportfishing.com.au/wp-content/uploads/2022/12/hervey-bay-fly-sportfishing-black-marlin-fishing-merry-christmas-2022-300x206.jpg",
+      "error": "too small 300x206"
+    },
+    {
+      "image": "https://herveybaysportfishing.com.au/wp-content/uploads/2022/12/hervey-bay-fly-sportfishing-black-marlin-fishing-merry-christmas-2022-200x137.jpg",
+      "error": "too small 200x137"
+    },
+    {
+      "image": "https://herveybaysportfishing.com.au/wp-content/uploads/2020/05/c0405ab8-d279-4c9b-b997-07de9b756a24.jpg",
+      "error": "too small 498x280"
+    },
+    {
+      "image": "https://herveybaysportfishing.com.au/wp-content/uploads/2020/05/c0405ab8-d279-4c9b-b997-07de9b756a24-400x250.jpg",
+      "error": "too small 400x250"
+    },
+    {
+      "image": "https://herveybaysportfishing.com.au/wp-content/uploads/2021/01/gotcha-boat-hire-polycraft-boat-400x250.jpg",
+      "error": "too small 400x250"
+    },
+    {
+      "dup": "https://herveybaysportfishing.com.au/wp-content/uploads/2022/04/IMG_0641-2048x2048.jpg"
+    },
+    {
+      "dup": "https://herveybaysportfishing.com.au/wp-content/uploads/2022/04/IMG_0641-1280x1280.jpg"
+    },
+    {
+      "dup": "https://herveybaysportfishing.com.au/wp-content/uploads/2022/04/IMG_0641-980x980.jpg"
+    },
+    {
+      "image": "https://herveybaysportfishing.com.au/wp-content/uploads/2022/04/IMG_0641-480x480.jpg",
+      "error": "too small 480x480"
+    },
+    {
+      "dup": "https://herveybaysportfishing.com.au/wp-content/uploads/2023/01/image_6487327.jpg"
+    },
+    {
+      "dup": "https://herveybaysportfishing.com.au/wp-content/uploads/2023/01/image_6487327-980x762.jpg"
+    },
+    {
+      "image": "https://herveybaysportfishing.com.au/wp-content/uploads/2023/01/image_6487327-480x373.jpg",
+      "error": "too small 480x373"
+    },
+    {
+      "image": "https://herveybaysportfishing.com.au/wp-content/uploads/2020/05/peter-fry-fishing-guide-hervey-bay-fly-and-sportfishing-480x342.jpg",
+      "error": "too small 480x342"
+    }
+  ]
+}

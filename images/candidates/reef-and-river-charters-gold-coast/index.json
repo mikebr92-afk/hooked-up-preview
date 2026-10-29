@@ -1,0 +1,17 @@
+{
+  "slug": "reef-and-river-charters-gold-coast",
+  "request_hash": "d9daa59ae91e",
+  "collected_at": "2026-10-29T03:05:38.301Z",
+  "pages_fetched": [
+    "https://fishingbooker.com/charters/view/46011"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://fishingbooker.com/charters/view/46011",
+      "status": 403,
+      "final_url": "https://fishingbooker.com/charters/view/46011",
+      "bytes": 5838
+    }
+  ]
+}

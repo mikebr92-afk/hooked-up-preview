@@ -1,0 +1,470 @@
+{
+  "slug": "hooker-1-fishing-charters-gold-coast",
+  "request_hash": "622420cec08c",
+  "collected_at": "2026-10-29T03:05:38.233Z",
+  "pages_fetched": [
+    "https://goldcoastfishingtrips.net.au/",
+    "https://goldcoastfishingtrips.net.au/about-us/",
+    "https://goldcoastfishingtrips.net.au/marine-activities/",
+    "https://www.facebook.com/hooker1fishingcharters/",
+    "https://goldcoastfishingtrips.net.au/our-packages/",
+    "https://goldcoastfishingtrips.net.au/blog/",
+    "https://goldcoastfishingtrips.net.au/contact-us/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1330,
+      "height": 998,
+      "original": "1330x998",
+      "source": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2025/05/image-64.png",
+      "page": "https://goldcoastfishingtrips.net.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 1330,
+      "height": 998,
+      "original": "1330x998",
+      "source": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2025/05/image-63.png",
+      "page": "https://goldcoastfishingtrips.net.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1330,
+      "height": 998,
+      "original": "1330x998",
+      "source": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2024/11/AdobeStock_247791741-1-e1732856140465.jpeg",
+      "page": "https://goldcoastfishingtrips.net.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 600,
+      "height": 800,
+      "original": "600x800",
+      "source": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2025/05/0085e36105a757d50245d31f300944c4.png",
+      "page": "https://goldcoastfishingtrips.net.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 600,
+      "height": 800,
+      "original": "600x800",
+      "source": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2025/05/904db6e542cfa2dcddffb29502f7282b.png",
+      "page": "https://goldcoastfishingtrips.net.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 600,
+      "height": 800,
+      "original": "600x800",
+      "source": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2025/05/674dd55dd79cdc20c43828c37dfbb07a.png",
+      "page": "https://goldcoastfishingtrips.net.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 600,
+      "height": 800,
+      "original": "600x800",
+      "source": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2025/05/7cd9cbd316f6b53e0a421269210df35b.png",
+      "page": "https://goldcoastfishingtrips.net.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 600,
+      "height": 800,
+      "original": "600x800",
+      "source": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2025/05/0c0d27c5a83eb7827cee1594be747f7f.png",
+      "page": "https://goldcoastfishingtrips.net.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 600,
+      "height": 800,
+      "original": "600x800",
+      "source": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2025/05/763c3c450b2e2be0bbbef466b0c19afb.png",
+      "page": "https://goldcoastfishingtrips.net.au/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 600,
+      "height": 800,
+      "original": "600x800",
+      "source": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2025/05/40af96c158cc2c8194d4819f0c6ea807-2.png",
+      "page": "https://goldcoastfishingtrips.net.au/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 600,
+      "height": 800,
+      "original": "600x800",
+      "source": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2025/05/5e2298c700efe2695ffe4ace6d5c9fb9-2.png",
+      "page": "https://goldcoastfishingtrips.net.au/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 600,
+      "height": 800,
+      "original": "600x800",
+      "source": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2025/05/ccf8aad22c37a93752b3d3d9a5cd543b.png",
+      "page": "https://goldcoastfishingtrips.net.au/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 600,
+      "height": 800,
+      "original": "600x800",
+      "source": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2025/05/3f9a0685051e54c1e5b3cfb5fa7694a4-2.png",
+      "page": "https://goldcoastfishingtrips.net.au/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1600,
+      "height": 904,
+      "original": "1600x904",
+      "source": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2025/05/image-61-1.png",
+      "page": "https://goldcoastfishingtrips.net.au/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1083,
+      "height": 723,
+      "original": "1083x723",
+      "source": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2024/11/20241128-100021.jpg",
+      "page": "https://goldcoastfishingtrips.net.au/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 600,
+      "height": 800,
+      "original": "600x800",
+      "source": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2025/05/6ebf62020bbb3e96c35d9bed974c34ea.png",
+      "page": "https://goldcoastfishingtrips.net.au/about-us/",
+      "priority": false
+    },
+    {
+      "file": "c17.webp",
+      "width": 600,
+      "height": 800,
+      "original": "600x800",
+      "source": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2025/05/8af00823a0bbdace224fb02a42f839ed.png",
+      "page": "https://goldcoastfishingtrips.net.au/about-us/",
+      "priority": false
+    },
+    {
+      "file": "c18.webp",
+      "width": 600,
+      "height": 800,
+      "original": "600x800",
+      "source": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2025/05/cd9dffe0168c28041cc297ea8d8b196c.png",
+      "page": "https://goldcoastfishingtrips.net.au/about-us/",
+      "priority": false
+    },
+    {
+      "file": "c19.webp",
+      "width": 600,
+      "height": 800,
+      "original": "600x800",
+      "source": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2025/05/c36ee4c0853f0a42fa6a4f9691dc8921.png",
+      "page": "https://goldcoastfishingtrips.net.au/about-us/",
+      "priority": false
+    },
+    {
+      "file": "c20.webp",
+      "width": 600,
+      "height": 800,
+      "original": "600x800",
+      "source": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2025/05/ef357d492973997c21c8557c0a4b38c4.png",
+      "page": "https://goldcoastfishingtrips.net.au/about-us/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://goldcoastfishingtrips.net.au/",
+      "status": 200,
+      "final_url": "https://goldcoastfishingtrips.net.au/",
+      "bytes": 703497
+    },
+    {
+      "page": "https://goldcoastfishingtrips.net.au/about-us/",
+      "status": 200,
+      "final_url": "https://goldcoastfishingtrips.net.au/about-us/",
+      "bytes": 669907
+    },
+    {
+      "page": "https://goldcoastfishingtrips.net.au/marine-activities/",
+      "status": 200,
+      "final_url": "https://goldcoastfishingtrips.net.au/marine-activities/",
+      "bytes": 510883
+    },
+    {
+      "page": "https://www.facebook.com/hooker1fishingcharters/",
+      "status": 400,
+      "final_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fhooker1fishingcharters%2F",
+      "bytes": 1542
+    },
+    {
+      "page": "https://goldcoastfishingtrips.net.au/our-packages/",
+      "status": 200,
+      "final_url": "https://goldcoastfishingtrips.net.au/our-packages/",
+      "bytes": 436223
+    },
+    {
+      "page": "https://goldcoastfishingtrips.net.au/blog/",
+      "status": 200,
+      "final_url": "https://goldcoastfishingtrips.net.au/blog/",
+      "bytes": 580435
+    },
+    {
+      "page": "https://goldcoastfishingtrips.net.au/contact-us/",
+      "status": 200,
+      "final_url": "https://goldcoastfishingtrips.net.au/contact-us/",
+      "bytes": 581846
+    },
+    {
+      "image": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2025/05/20241127-170343.webp",
+      "error": "too small 1600x378"
+    },
+    {
+      "image": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2024/11/fishing.png",
+      "error": "too small 512x512"
+    },
+    {
+      "image": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2024/11/tackle-box.png",
+      "error": "too small 512x512"
+    },
+    {
+      "image": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2024/11/fishing-boat.png",
+      "error": "too small 512x512"
+    },
+    {
+      "image": "https://goldcoastfishingtrips.net.au/wp-content/cache/seraphinite-accelerator/s/m/d/img/20d1be1b00551a09928330d55a9d2ba7.25e7.png",
+      "error": "too small 64x64"
+    },
+    {
+      "image": "https://goldcoastfishingtrips.net.au/wp-content/cache/seraphinite-accelerator/s/m/d/img/37bf1bc366ee7fb5845d80c505626a28.7e8.png",
+      "error": "too small 64x64"
+    },
+    {
+      "image": "https://goldcoastfishingtrips.net.au/wp-content/cache/seraphinite-accelerator/s/m/d/img/425785424f70b173b77ee3e1c9907e6f.2008.png",
+      "error": "too small 64x64"
+    },
+    {
+      "image": "https://goldcoastfishingtrips.net.au/wp-content/cache/seraphinite-accelerator/s/m/d/img/1d887fae0ade4f7a026418ca8fe1a9fe.29b3.png",
+      "error": "too small 64x64"
+    },
+    {
+      "image": "https://goldcoastfishingtrips.net.au/wp-content/cache/seraphinite-accelerator/s/m/d/img/139d2228d016c8889e2895303d63e2c9.b60.png",
+      "error": "too small 64x64"
+    },
+    {
+      "image": "https://goldcoastfishingtrips.net.au/wp-content/cache/seraphinite-accelerator/s/m/d/img/2615000879d1a9a187bfbbbb2ff30e73.28d9.png",
+      "error": "too small 64x64"
+    },
+    {
+      "image": "https://goldcoastfishingtrips.net.au/wp-content/cache/seraphinite-accelerator/s/m/d/img/eed61137c841a0def151da448a5fd132.760.png",
+      "error": "too small 64x64"
+    },
+    {
+      "image": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2024/11/20241127-170343.png",
+      "error": "banner/strip 2089x494"
+    },
+    {
+      "image": "https://goldcoastfishingtrips.net.au/%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201600%20378%22%20width%3D%221600%22%20height%3D%22378%22%3E%3C%2Fsvg%3E",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://goldcoastfishingtrips.net.au/%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201330%20998%22%20width%3D%221330%22%20height%3D%22998%22%3E%3C%2Fsvg%3E",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://goldcoastfishingtrips.net.au/%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20600%20800%22%20width%3D%22600%22%20height%3D%22800%22%3E%3C%2Fsvg%3E",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://goldcoastfishingtrips.net.au/wp-content/cache/seraphinite-accelerator/s/m/d/img/3e818acac572fcd4216794527847dae3.7ddd.png",
+      "error": "too small 128x128"
+    },
+    {
+      "image": "https://goldcoastfishingtrips.net.au/wp-content/cache/seraphinite-accelerator/s/m/d/img/1b8ef935662239085cd1a348202cd257.1111.png",
+      "error": "too small 128x128"
+    },
+    {
+      "image": "https://goldcoastfishingtrips.net.au/wp-content/cache/seraphinite-accelerator/s/m/d/img/e27ae0f128a3ef708acce04960bed3dd.6d71.png",
+      "error": "too small 128x128"
+    },
+    {
+      "image": "https://goldcoastfishingtrips.net.au/wp-content/cache/seraphinite-accelerator/s/m/d/img/e04a7e1c929d47be1ae61cf5ee00c3ec.8d69.png",
+      "error": "too small 128x128"
+    },
+    {
+      "image": "https://goldcoastfishingtrips.net.au/wp-content/cache/seraphinite-accelerator/s/m/d/img/037bae7020e05490fecd2ae940cce685.1de8.png",
+      "error": "too small 128x128"
+    },
+    {
+      "image": "https://goldcoastfishingtrips.net.au/wp-content/cache/seraphinite-accelerator/s/m/d/img/3d8dee4709dd39c96034a2c50eca483f.84a1.png",
+      "error": "too small 128x128"
+    },
+    {
+      "image": "https://goldcoastfishingtrips.net.au/wp-content/cache/seraphinite-accelerator/s/m/d/img/34120c260c482ee6d67296ea9c8cef3c.fcd.png",
+      "error": "too small 128x128"
+    },
+    {
+      "image": "https://goldcoastfishingtrips.net.au/%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%202089%20494%22%20width%3D%222089%22%20height%3D%22494%22%3E%3C%2Fsvg%3E",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2024/12/cropped-20241127-170343-1.png",
+      "error": "too small 512x512"
+    },
+    {
+      "image": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2024/12/cropped-20241127-170343-1-32x32.png",
+      "error": "too small 32x32"
+    },
+    {
+      "image": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2024/12/cropped-20241127-170343-1-192x192.png",
+      "error": "too small 192x192"
+    },
+    {
+      "image": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2024/12/cropped-20241127-170343-1-180x180.png",
+      "error": "too small 180x180"
+    },
+    {
+      "image": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2024/12/cropped-20241127-170343-1-270x270.png",
+      "error": "too small 270x270"
+    },
+    {
+      "dup": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2024/11/IMG_1729-scaled-1-e1732843045964.jpg"
+    },
+    {
+      "image": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2025/05/20241127-170343-1280x302.webp",
+      "error": "too small 1280x302"
+    },
+    {
+      "image": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2025/05/20241127-170343-980x232.webp",
+      "error": "too small 980x232"
+    },
+    {
+      "image": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2025/05/20241127-170343-480x113.webp",
+      "error": "too small 480x113"
+    },
+    {
+      "dup": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2025/05/image-64-1280x960.png"
+    },
+    {
+      "dup": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2025/05/image-64-980x735.png"
+    },
+    {
+      "image": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2025/05/image-64-480x360.png",
+      "error": "too small 480x360"
+    },
+    {
+      "dup": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2025/05/image-63-1280x960.png"
+    },
+    {
+      "dup": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2025/05/image-63-980x735.png"
+    },
+    {
+      "image": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2025/05/image-63-480x360.png",
+      "error": "too small 480x360"
+    },
+    {
+      "dup": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2024/11/AdobeStock_247791741-1-e1732856140465-1280x720.jpeg"
+    },
+    {
+      "dup": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2024/11/AdobeStock_247791741-1-e1732856140465-980x551.jpeg"
+    },
+    {
+      "image": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2024/11/AdobeStock_247791741-1-e1732856140465-480x270.jpeg",
+      "error": "too small 480x270"
+    },
+    {
+      "image": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2025/05/0085e36105a757d50245d31f300944c4-480x640.png",
+      "error": "too small 480x640"
+    },
+    {
+      "image": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2025/05/904db6e542cfa2dcddffb29502f7282b-480x640.png",
+      "error": "too small 480x640"
+    },
+    {
+      "image": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2024/11/fishing-480x480.png",
+      "error": "too small 480x480"
+    },
+    {
+      "image": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2024/11/tackle-box-480x480.png",
+      "error": "too small 480x480"
+    },
+    {
+      "image": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2024/11/fishing-boat-480x480.png",
+      "error": "too small 480x480"
+    },
+    {
+      "image": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2025/05/674dd55dd79cdc20c43828c37dfbb07a-480x640.png",
+      "error": "too small 480x640"
+    },
+    {
+      "image": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2025/05/7cd9cbd316f6b53e0a421269210df35b-480x640.png",
+      "error": "too small 480x640"
+    },
+    {
+      "image": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2025/05/0c0d27c5a83eb7827cee1594be747f7f-480x640.png",
+      "error": "too small 480x640"
+    },
+    {
+      "image": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2025/05/763c3c450b2e2be0bbbef466b0c19afb-480x640.png",
+      "error": "too small 480x640"
+    },
+    {
+      "image": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2025/05/40af96c158cc2c8194d4819f0c6ea807-2-480x640.png",
+      "error": "too small 480x640"
+    },
+    {
+      "image": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2025/05/5e2298c700efe2695ffe4ace6d5c9fb9-2-480x640.png",
+      "error": "too small 480x640"
+    },
+    {
+      "image": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2025/05/ccf8aad22c37a93752b3d3d9a5cd543b-480x640.png",
+      "error": "too small 480x640"
+    },
+    {
+      "image": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2025/05/3f9a0685051e54c1e5b3cfb5fa7694a4-2-480x640.png",
+      "error": "too small 480x640"
+    },
+    {
+      "image": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2024/11/20241127-170343-1280x303.png",
+      "error": "too small 1280x303"
+    },
+    {
+      "image": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2024/11/20241127-170343-980x232.png",
+      "error": "too small 980x232"
+    },
+    {
+      "image": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2024/11/20241127-170343-480x114.png",
+      "error": "too small 480x114"
+    },
+    {
+      "dup": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2025/05/5e2298c700efe2695ffe4ace6d5c9fb9.png"
+    },
+    {
+      "dup": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2025/05/3f9a0685051e54c1e5b3cfb5fa7694a4.png"
+    },
+    {
+      "dup": "https://goldcoastfishingtrips.net.au/wp-content/uploads/2025/05/e1ef9d56339bec83738aab734818fedb.png"
+    }
+  ]
+}
