@@ -1,0 +1,45 @@
+{
+  "slug": "research-tropicbarra2",
+  "request_hash": "8d6b14f92e22",
+  "collected_at": "2026-10-29T04:04:25.836Z",
+  "pages_fetched": [
+    "https://www.tropicbarraadventures.com.au/tinaroo-giant-barramundi",
+    "https://www.tropicbarraadventures.com.au/multi-day-multi-river",
+    "https://www.tropicbarraadventures.com.au/family-and-beginners",
+    "https://www.tropicbarraadventures.com.au/saratoga-fishing",
+    "https://www.tropicbarraadventures.com.au/great-barrier-reef-trips"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.tropicbarraadventures.com.au/tinaroo-giant-barramundi",
+      "status": 200,
+      "final_url": "https://www.tropicbarraadventures.com.au/tinaroo-giant-barramundi",
+      "bytes": 328327
+    },
+    {
+      "page": "https://www.tropicbarraadventures.com.au/multi-day-multi-river",
+      "status": 200,
+      "final_url": "https://www.tropicbarraadventures.com.au/multi-day-multi-river",
+      "bytes": 228521
+    },
+    {
+      "page": "https://www.tropicbarraadventures.com.au/family-and-beginners",
+      "status": 200,
+      "final_url": "https://www.tropicbarraadventures.com.au/family-and-beginners",
+      "bytes": 596875
+    },
+    {
+      "page": "https://www.tropicbarraadventures.com.au/saratoga-fishing",
+      "status": 200,
+      "final_url": "https://www.tropicbarraadventures.com.au/saratoga-fishing",
+      "bytes": 392700
+    },
+    {
+      "page": "https://www.tropicbarraadventures.com.au/great-barrier-reef-trips",
+      "status": 200,
+      "final_url": "https://www.tropicbarraadventures.com.au/great-barrier-reef-trips",
+      "bytes": 1928372
+    }
+  ]
+}

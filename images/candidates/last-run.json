@@ -1,5 +1,5 @@
 {
-  "finished_at": "2026-10-29T04:02:45.492Z",
+  "finished_at": "2026-10-29T04:06:31.704Z",
   "summary": [
     {
       "slug": "research-mackay-region",
@@ -75,143 +75,150 @@
     },
     {
       "slug": "research-pd-fishing",
-      "candidates": 0,
-      "pages": 1
+      "skipped": true
     },
     {
       "slug": "research-whitsunday-agency",
-      "candidates": 0,
-      "pages": 1
+      "skipped": true
     },
     {
       "slug": "research-cooktown2",
-      "candidates": 0,
-      "pages": 5
+      "skipped": true
     },
     {
       "slug": "research-atdw-tsv",
-      "candidates": 0,
-      "pages": 5
+      "skipped": true
     },
     {
       "slug": "fish-tales-charters-cairns",
-      "candidates": 20,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "out-n-about-sportfishing",
-      "candidates": 16,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "hook-up-charters",
-      "candidates": 5,
-      "pages": 4
+      "skipped": true
     },
     {
       "slug": "akula-sport-fishing",
-      "candidates": 14,
-      "pages": 11
+      "skipped": true
     },
     {
       "slug": "norseman-reef-fishing",
-      "candidates": 16,
-      "pages": 9
+      "skipped": true
     },
     {
       "slug": "far-north-sport-fishing",
-      "candidates": 0,
-      "pages": 1
+      "skipped": true
     },
     {
       "slug": "saltaire-charters",
-      "candidates": 16,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "east-coast-angling",
-      "candidates": 0,
-      "pages": 1
+      "skipped": true
     },
     {
       "slug": "sublime-sportfishing",
-      "candidates": 16,
-      "pages": 9
+      "skipped": true
     },
     {
       "slug": "daintree-river-fishing",
-      "candidates": 2,
-      "pages": 7
+      "skipped": true
     },
     {
       "slug": "ryan-moody-fishing",
-      "candidates": 7,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "ian-moody-sportfishing",
-      "candidates": 16,
-      "pages": 7
+      "skipped": true
     },
     {
       "slug": "phoenix-fishing-charters",
-      "candidates": 0,
-      "pages": 1
+      "skipped": true
     },
     {
       "slug": "airlie-beach-fishing-charters",
-      "candidates": 16,
-      "pages": 11
+      "skipped": true
     },
     {
       "slug": "topnotch-game-fishing",
-      "candidates": 16,
-      "pages": 11
+      "skipped": true
     },
     {
       "slug": "cast-and-catch-fishing-charters",
-      "candidates": 16,
-      "pages": 1
+      "skipped": true
     },
     {
       "slug": "reefari-fishing-charters",
-      "candidates": 0,
-      "pages": 11
+      "skipped": true
     },
     {
       "slug": "mackay-water-adventures",
-      "candidates": 0,
-      "pages": 1
+      "skipped": true
     },
     {
       "slug": "kerry-d-fishing-charters",
-      "candidates": 16,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "carpentaria-barra-fishing",
-      "candidates": 16,
-      "pages": 12
+      "skipped": true
     },
     {
       "slug": "fnq-reef-adventures",
-      "candidates": 0,
-      "pages": 2
+      "skipped": true
     },
     {
       "slug": "northern-conquest-charters",
+      "skipped": true
+    },
+    {
+      "slug": "magnetic-island-fishing-charters",
+      "skipped": true
+    },
+    {
+      "slug": "townsville-fishing-charters",
+      "skipped": true
+    },
+    {
+      "slug": "research-tropicbarra2",
+      "candidates": 0,
+      "pages": 5
+    },
+    {
+      "slug": "research-fnq2",
+      "candidates": 0,
+      "pages": 6
+    },
+    {
+      "slug": "big-fish-down-under",
       "candidates": 16,
       "pages": 12
     },
     {
-      "slug": "magnetic-island-fishing-charters",
-      "candidates": 16,
-      "pages": 5
+      "slug": "crackajack-sportfishing-adventures",
+      "candidates": 10,
+      "pages": 1
     },
     {
-      "slug": "townsville-fishing-charters",
-      "candidates": 0,
-      "pages": 2
+      "slug": "gone-fishing-cooktown",
+      "candidates": 16,
+      "pages": 11
+    },
+    {
+      "slug": "cape-york-custom-sportfishing",
+      "candidates": 2,
+      "pages": 3
+    },
+    {
+      "slug": "fishs-fly-sportfishing-weipa",
+      "candidates": 16,
+      "pages": 8
     }
   ]
 }

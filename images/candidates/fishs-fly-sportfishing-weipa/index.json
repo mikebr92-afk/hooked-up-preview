@@ -1,0 +1,417 @@
+{
+  "slug": "fishs-fly-sportfishing-weipa",
+  "request_hash": "a245f6c48fc3",
+  "collected_at": "2026-10-29T04:06:31.703Z",
+  "pages_fetched": [
+    "https://weipaflyfish.com.au/",
+    "https://www.weipaflyfish.com.au/",
+    "https://www.weipaflyfish.com.au/fishing-packages-in-weipa",
+    "https://www.weipaflyfish.com.au/the-fishing-in-weipa",
+    "https://www.weipaflyfish.com.au/fishing-faqs",
+    "https://www.weipaflyfish.com.au/booking-enquiry",
+    "https://www.weipaflyfish.com.au/weipa-fishing-charters",
+    "https://www.weipaflyfish.com.au/contact-us"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1200,
+      "height": 630,
+      "original": "1200x630",
+      "source": "https://irp.cdn-website.com//ab68d415/dms3rep/multi/opt/fishs-fly-sportfishing-social-1200x630-1920w.jpg?jxl&v=jxl",
+      "page": "https://weipaflyfish.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 1080,
+      "height": 1350,
+      "original": "1080x1350",
+      "source": "https://irp.cdn-website.com/ab68d415/dms3rep/multi/opt/the-lodge-1920w.jpg?jxl&v=jxl",
+      "page": "https://weipaflyfish.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 899,
+      "height": 899,
+      "original": "899x899",
+      "source": "https://irp.cdn-website.com//ab68d415/dms3rep/multi/opt/weipa-fishing-tours-the-fishing-1920w.jpg?jxl&v=jxl",
+      "page": "https://weipaflyfish.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1000,
+      "height": 1000,
+      "original": "1000x1000",
+      "source": "https://irp.cdn-website.com/ab68d415/dms3rep/multi/opt/weipa-fishing-guide-mark-bargenquast-1920w.webp?jxl&v=jxl",
+      "page": "https://weipaflyfish.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1920,
+      "height": 1000,
+      "original": "1920x1000",
+      "source": "https://irp.cdn-website.com/ab68d415/dms3rep/multi/opt/vessels_21-1920w.jpg?jxl&v=jxl",
+      "page": "https://weipaflyfish.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 840,
+      "height": 1080,
+      "original": "840x1080",
+      "source": "https://lirp.cdn-website.com/ab68d415/dms3rep/multi/opt/mobile-bg-1920w.jpg",
+      "page": "https://weipaflyfish.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1920,
+      "height": 800,
+      "original": "1920x800",
+      "source": "https://lirp.cdn-website.com/ab68d415/dms3rep/multi/opt/Topographic_map_grey-1920x800-1920w.jpg",
+      "page": "https://weipaflyfish.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://lirp.cdn-website.com/ab68d415/dms3rep/multi/opt/fishs-fly-sportfishing-home-1920w.jpg",
+      "page": "https://weipaflyfish.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1920,
+      "height": 1000,
+      "original": "1920x1000",
+      "source": "https://lirp.cdn-website.com/ab68d415/dms3rep/multi/opt/flyr_rods-1920w.jpg",
+      "page": "https://weipaflyfish.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1920,
+      "height": 1000,
+      "original": "1920x1000",
+      "source": "https://lirp.cdn-website.com/ab68d415/dms3rep/multi/opt/boat_2-edf208f8-1920w.jpg",
+      "page": "https://weipaflyfish.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 853,
+      "height": 853,
+      "original": "853x853",
+      "source": "https://irp.cdn-website.com//ab68d415/dms3rep/multi/opt/weipa-albatross-bay-resort-1920w.jpg?jxl&v=jxl",
+      "page": "https://www.weipaflyfish.com.au/fishing-packages-in-weipa",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1920,
+      "height": 668,
+      "original": "1920x668",
+      "source": "https://irp.cdn-website.com//ab68d415/dms3rep/multi/opt/weipa-fishing-guides-boat-2880w.jpg?jxl&v=jxl",
+      "page": "https://www.weipaflyfish.com.au/fishing-packages-in-weipa",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1920,
+      "height": 1440,
+      "original": "1920x1440",
+      "source": "https://irp.cdn-website.com//ab68d415/dms3rep/multi/opt/weipa-fishing-adventures-barramundi-1920w.jpg?jxl&v=jxl",
+      "page": "https://www.weipaflyfish.com.au/the-fishing-in-weipa",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1920,
+      "height": 1440,
+      "original": "1920x1440",
+      "source": "https://irp.cdn-website.com/ab68d415/dms3rep/multi/opt/weipa-fly-fishing-tour-blue-bastard-1920w.webp?jxl&v=jxl",
+      "page": "https://www.weipaflyfish.com.au/the-fishing-in-weipa",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 800,
+      "height": 800,
+      "original": "800x800",
+      "source": "https://irp.cdn-website.com//ab68d415/dms3rep/multi/opt/weipa-fly-sportfishing-blue-salmon-new-1920w.jpg?jxl&v=jxl",
+      "page": "https://www.weipaflyfish.com.au/the-fishing-in-weipa",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1920,
+      "height": 1440,
+      "original": "1920x1440",
+      "source": "https://irp.cdn-website.com//ab68d415/dms3rep/multi/opt/weipa-fishing-adventures-cobia-1920w.jpg?jxl&v=jxl",
+      "page": "https://www.weipaflyfish.com.au/the-fishing-in-weipa",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://weipaflyfish.com.au/",
+      "status": 200,
+      "final_url": "https://www.weipaflyfish.com.au/",
+      "bytes": 180043
+    },
+    {
+      "page": "https://www.weipaflyfish.com.au/",
+      "status": 200,
+      "final_url": "https://www.weipaflyfish.com.au/",
+      "bytes": 180043
+    },
+    {
+      "page": "https://www.weipaflyfish.com.au/fishing-packages-in-weipa",
+      "status": 200,
+      "final_url": "https://www.weipaflyfish.com.au/fishing-packages-in-weipa",
+      "bytes": 110221
+    },
+    {
+      "page": "https://www.weipaflyfish.com.au/the-fishing-in-weipa",
+      "status": 200,
+      "final_url": "https://www.weipaflyfish.com.au/the-fishing-in-weipa",
+      "bytes": 168109
+    },
+    {
+      "page": "https://www.weipaflyfish.com.au/fishing-faqs",
+      "status": 200,
+      "final_url": "https://www.weipaflyfish.com.au/fishing-faqs",
+      "bytes": 124511
+    },
+    {
+      "page": "https://www.weipaflyfish.com.au/booking-enquiry",
+      "status": 200,
+      "final_url": "https://www.weipaflyfish.com.au/booking-enquiry",
+      "bytes": 87319
+    },
+    {
+      "page": "https://www.weipaflyfish.com.au/weipa-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.weipaflyfish.com.au/weipa-fishing-charters",
+      "bytes": 103546
+    },
+    {
+      "page": "https://www.weipaflyfish.com.au/contact-us",
+      "status": 200,
+      "final_url": "https://www.weipaflyfish.com.au/contact-us",
+      "bytes": 147506
+    },
+    {
+      "image": "https://irp-cdn.multiscreensite.com/ab68d415/dms3rep/multi/mobile/fishs-fly-sportfishing-social.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://irp-cdn.multiscreensite.com/ab68d415/dms3rep/multi/mobile/fishs-fly-sportfishing-social-1200x630.jpg",
+      "error": "too small 640x336"
+    },
+    {
+      "image": "https://irp.cdn-website.com//ab68d415/dms3rep/multi/opt/clear_bakground-525x213-1440w.png?jxl&v=jxl",
+      "error": "too small 525x213"
+    },
+    {
+      "image": "https://irp.cdn-website.com//ab68d415/dms3rep/multi/opt/weipa-fly-fish-insta-3-1920w.jpg?jxl&v=jxl",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://irp.cdn-website.com//ab68d415/dms3rep/multi/opt/weipa-fly-fish-insta-4-1920w.jpg?jxl&v=jxl",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://irp.cdn-website.com//ab68d415/dms3rep/multi/opt/weipa-fly-fish-insta-5-1920w.jpg?jxl&v=jxl",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://irp.cdn-website.com//ab68d415/dms3rep/multi/opt/weipa-fly-fish-insta-2-1920w.jpg?jxl&v=jxl",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://irp.cdn-website.com//ab68d415/dms3rep/multi/opt/weipa-fly-fish-insta-1-1920w.jpg?jxl&v=jxl",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://irp.cdn-website.com/ab68d415/dms3rep/multi/opt/weipa-fishing-sponsor-sage-1920w.webp?jxl&v=jxl",
+      "error": "too small 600x300"
+    },
+    {
+      "image": "https://irp.cdn-website.com/ab68d415/dms3rep/multi/opt/weipa-fishing-sponsor-redington-1920w.webp?jxl&v=jxl",
+      "error": "too small 600x300"
+    },
+    {
+      "image": "https://irp.cdn-website.com/ab68d415/dms3rep/multi/opt/weipa-fishing-sponsor-rio-1920w.webp?jxl&v=jxl",
+      "error": "too small 600x300"
+    },
+    {
+      "image": "https://irp.cdn-website.com/ab68d415/dms3rep/multi/opt/weipa-fishing-sponsor-powerpole-1920w.webp?jxl&v=jxl",
+      "error": "too small 600x300"
+    },
+    {
+      "image": "https://irp.cdn-website.com/ab68d415/dms3rep/multi/opt/weipa-fishing-sponsor-shimano-1920w.webp?jxl&v=jxl",
+      "error": "too small 600x300"
+    },
+    {
+      "image": "https://irp.cdn-website.com/ab68d415/dms3rep/multi/opt/weipa-fishing-sponsor-tt-lures-1920w.webp?jxl&v=jxl",
+      "error": "too small 600x300"
+    },
+    {
+      "image": "https://irp.cdn-website.com/ab68d415/dms3rep/multi/opt/221-1920w.webp?jxl&v=jxl",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://irp.cdn-website.com//ab68d415/dms3rep/multi/opt/weipa-fly-fish-insta-3-640w.jpg?jxl&v=jxl",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://irp.cdn-website.com//ab68d415/dms3rep/multi/opt/weipa-fly-fish-insta-4-640w.jpg?jxl&v=jxl",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://irp.cdn-website.com//ab68d415/dms3rep/multi/opt/weipa-fly-fish-insta-5-640w.jpg?jxl&v=jxl",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://irp.cdn-website.com//ab68d415/dms3rep/multi/opt/weipa-fly-fish-insta-2-640w.jpg?jxl&v=jxl",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://irp.cdn-website.com//ab68d415/dms3rep/multi/opt/weipa-fly-fish-insta-1-640w.jpg?jxl&v=jxl",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://irp.cdn-website.com/ab68d415/dms3rep/multi/opt/weipa-fishing-sponsor-sage-640w.webp?jxl&v=jxl",
+      "error": "too small 600x300"
+    },
+    {
+      "image": "https://irp.cdn-website.com/ab68d415/dms3rep/multi/opt/weipa-fishing-sponsor-redington-640w.webp?jxl&v=jxl",
+      "error": "too small 600x300"
+    },
+    {
+      "image": "https://irp.cdn-website.com/ab68d415/dms3rep/multi/opt/weipa-fishing-sponsor-rio-640w.webp?jxl&v=jxl",
+      "error": "too small 600x300"
+    },
+    {
+      "image": "https://irp.cdn-website.com/ab68d415/dms3rep/multi/opt/weipa-fishing-sponsor-powerpole-640w.webp?jxl&v=jxl",
+      "error": "too small 600x300"
+    },
+    {
+      "image": "https://irp.cdn-website.com/ab68d415/dms3rep/multi/opt/weipa-fishing-sponsor-shimano-640w.webp?jxl&v=jxl",
+      "error": "too small 600x300"
+    },
+    {
+      "image": "https://irp.cdn-website.com/ab68d415/dms3rep/multi/opt/weipa-fishing-sponsor-tt-lures-640w.webp?jxl&v=jxl",
+      "error": "too small 600x300"
+    },
+    {
+      "image": "https://irp.cdn-website.com/ab68d415/dms3rep/multi/opt/221-640w.webp?jxl&v=jxl",
+      "error": "too small 200x200"
+    },
+    {
+      "dup": "https://irp.cdn-website.com/ab68d415/dms3rep/multi/the-lodge.jpg"
+    },
+    {
+      "dup": "https://irp-cdn.multiscreensite.com/ab68d415/dms3rep/multi/weipa-fishing-tours-the-fishing.jpg"
+    },
+    {
+      "dup": "https://irp.cdn-website.com/ab68d415/dms3rep/multi/weipa-fishing-guide-mark-bargenquast.webp"
+    },
+    {
+      "dup": "https://irp.cdn-website.com/ab68d415/dms3rep/multi/vessels_21.jpg"
+    },
+    {
+      "image": "https://irp-cdn.multiscreensite.com/ab68d415/dms3rep/multi/weipa-fly-fish-insta-3.jpg",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://irp-cdn.multiscreensite.com/ab68d415/dms3rep/multi/weipa-fly-fish-insta-4.jpg",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://irp-cdn.multiscreensite.com/ab68d415/dms3rep/multi/weipa-fly-fish-insta-5.jpg",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://irp-cdn.multiscreensite.com/ab68d415/dms3rep/multi/weipa-fly-fish-insta-2.jpg",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://irp-cdn.multiscreensite.com/ab68d415/dms3rep/multi/weipa-fly-fish-insta-1.jpg",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://irp.cdn-website.com/ab68d415/dms3rep/multi/weipa-fishing-sponsor-sage.webp",
+      "error": "too small 600x300"
+    },
+    {
+      "image": "https://irp.cdn-website.com/ab68d415/dms3rep/multi/weipa-fishing-sponsor-redington.webp",
+      "error": "too small 600x300"
+    },
+    {
+      "image": "https://irp.cdn-website.com/ab68d415/dms3rep/multi/weipa-fishing-sponsor-rio.webp",
+      "error": "too small 600x300"
+    },
+    {
+      "image": "https://irp.cdn-website.com/ab68d415/dms3rep/multi/weipa-fishing-sponsor-powerpole.webp",
+      "error": "too small 600x300"
+    },
+    {
+      "image": "https://irp.cdn-website.com/ab68d415/dms3rep/multi/weipa-fishing-sponsor-shimano.webp",
+      "error": "too small 600x300"
+    },
+    {
+      "image": "https://irp.cdn-website.com/ab68d415/dms3rep/multi/weipa-fishing-sponsor-tt-lures.webp",
+      "error": "too small 600x300"
+    },
+    {
+      "image": "https://irp.cdn-website.com/ab68d415/dms3rep/multi/221.webp",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://irp.cdn-website.com//ab68d415/dms3rep/multi/opt/weipa-caravan-park-400-1920w.jpg?jxl&v=jxl",
+      "error": "too small 480x480"
+    },
+    {
+      "image": "https://irp.cdn-website.com//ab68d415/dms3rep/multi/opt/weipa-sport-fishing-beachfront-villas-2-1920w.jpg?jxl&v=jxl",
+      "error": "too small 333x333"
+    },
+    {
+      "image": "https://irp.cdn-website.com//ab68d415/dms3rep/multi/opt/weipa-accommodation-heritage-lodge-2-1920w.jpg?jxl&v=jxl",
+      "error": "too small 400x400"
+    },
+    {
+      "image": "https://irp.cdn-website.com//ab68d415/dms3rep/multi/opt/weipa-caravan-park-camping-1920w.jpg?jxl&v=jxl",
+      "error": "too small 353x353"
+    },
+    {
+      "dup": "https://irp.cdn-website.com//ab68d415/dms3rep/multi/opt/weipa-fishing-guides-boat-2880w.jpg?jxl&v=jxl)"
+    },
+    {
+      "image": "https://irp-cdn.multiscreensite.com/ab68d415/dms3rep/multi/weipa-caravan-park-400.jpg",
+      "error": "too small 480x480"
+    },
+    {
+      "dup": "https://irp-cdn.multiscreensite.com/ab68d415/dms3rep/multi/weipa-albatross-bay-resort.jpg"
+    },
+    {
+      "image": "https://irp-cdn.multiscreensite.com/ab68d415/dms3rep/multi/weipa-sport-fishing-beachfront-villas-2.jpg",
+      "error": "too small 333x333"
+    },
+    {
+      "image": "https://irp-cdn.multiscreensite.com/ab68d415/dms3rep/multi/weipa-accommodation-heritage-lodge-2.jpg",
+      "error": "too small 400x400"
+    },
+    {
+      "image": "https://irp-cdn.multiscreensite.com/ab68d415/dms3rep/multi/weipa-caravan-park-camping.jpg",
+      "error": "too small 353x353"
+    }
+  ]
+}

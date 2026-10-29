@@ -1,0 +1,158 @@
+{
+  "slug": "cape-york-custom-sportfishing",
+  "request_hash": "9cf864adbbcc",
+  "collected_at": "2026-10-29T04:05:35.040Z",
+  "pages_fetched": [
+    "http://www.capeyorkcustomsportfishing.com.au/",
+    "https://www.dynamicwebs.com.au/about-us/",
+    "https://www.dynamicwebs.com.au/contact/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 600,
+      "height": 400,
+      "original": "600x400",
+      "source": "https://www.dynamicwebs.com.au/wp-content/uploads/string-instruments-sm.jpg",
+      "page": "http://www.capeyorkcustomsportfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 1600,
+      "height": 525,
+      "original": "1600x525",
+      "source": "https://www.dynamicwebs.com.au/wp-content/uploads/banner-web-design-newcastle-3.jpg",
+      "page": "http://www.capeyorkcustomsportfishing.com.au/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "http://www.capeyorkcustomsportfishing.com.au/",
+      "status": 200,
+      "final_url": "https://www.dynamicwebs.com.au/",
+      "bytes": 112256
+    },
+    {
+      "page": "https://www.dynamicwebs.com.au/about-us/",
+      "status": 200,
+      "final_url": "https://www.dynamicwebs.com.au/about-us/",
+      "bytes": 78890
+    },
+    {
+      "page": "https://www.dynamicwebs.com.au/contact/",
+      "status": 200,
+      "final_url": "https://www.dynamicwebs.com.au/contact/",
+      "bytes": 101715
+    },
+    {
+      "image": "https://www.dynamicwebs.com.au/wp-content/uploads/2010/05/dwsolutions-homepage-graphic.jpg",
+      "error": "too small 347x346"
+    },
+    {
+      "image": "https://www.dynamicwebs.com.au/wp-content/uploads/lotus-flower-200.png",
+      "error": "too small 200x190"
+    },
+    {
+      "image": "https://www.dynamicwebs.com.au/wp-content/uploads/lotus-flower-200-150x150.png",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://www.dynamicwebs.com.au/wp-content/uploads/dr-mary-daly-dot.jpg",
+      "error": "too small 400x400"
+    },
+    {
+      "image": "https://www.dynamicwebs.com.au/wp-content/uploads/dr-mary-daly-dot-150x150.jpg",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://www.dynamicwebs.com.au/wp-content/uploads/lantern-testimonial-thumbnail.jpg",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://www.dynamicwebs.com.au/wp-content/uploads/lantern-testimonial-thumbnail-150x150.jpg",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://www.dynamicwebs.com.au/wp-content/uploads/d.i.y.jpg",
+      "error": "too small 800x354"
+    },
+    {
+      "image": "https://www.dynamicwebs.com.au/wp-content/uploads/d.i.y-150x150.jpg",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://www.dynamicwebs.com.au/wp-content/uploads/successful-websites-featured-image.jpg",
+      "error": "too small 351x250"
+    },
+    {
+      "image": "https://www.dynamicwebs.com.au/wp-content/uploads/writing-for-the-web-featured-image.jpg",
+      "error": "too small 375x250"
+    },
+    {
+      "image": "https://www.dynamicwebs.com.au/wp-content/uploads/social-networking-featured-image.jpg",
+      "error": "too small 375x250"
+    },
+    {
+      "image": "https://www.dynamicwebs.com.au/wp-content/uploads/must-love-dogs-screenshot.jpg",
+      "error": "too small 533x800"
+    },
+    {
+      "image": "https://www.dynamicwebs.com.au/wp-content/uploads/jason-mcclung-screenshot.jpg",
+      "error": "too small 553x800"
+    },
+    {
+      "image": "https://www.dynamicwebs.com.au/wp-content/uploads/iesha-homes-au-screenshot.jpg",
+      "error": "too small 533x800"
+    },
+    {
+      "image": "https://www.dynamicwebs.com.au/wp-content/uploads/damicos-screenshot.jpg",
+      "error": "too small 533x800"
+    },
+    {
+      "image": "https://www.dynamicwebs.com.au/wp-content/uploads/string-instruments-sm-400x400.jpg",
+      "error": "too small 400x400"
+    },
+    {
+      "image": "https://www.dynamicwebs.com.au/wp-content/uploads/hsoting-sliders.jpg",
+      "error": "too small 1100x300"
+    },
+    {
+      "image": "https://www.dynamicwebs.com.au/wp-content/uploads/domain-name-slider2.jpg",
+      "error": "too small 1100x300"
+    },
+    {
+      "image": "https://www.dynamicwebs.com.au/wp-content/uploads/string-instruments-sm-150x150.jpg",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://www.dynamicwebs.com.au/wp-content/uploads/dr-mary-daly-dot-300x300.jpg",
+      "error": "too small 300x300"
+    },
+    {
+      "image": "https://www.dynamicwebs.com.au/wp-content/uploads/dr-mary-daly-dot-75x75.jpg",
+      "error": "too small 75x75"
+    },
+    {
+      "image": "https://www.dynamicwebs.com.au/wp-content/uploads/lantern-testimonial-thumbnail-75x75.jpg",
+      "error": "too small 75x75"
+    },
+    {
+      "image": "https://dynamicwebs.com.au/wp-content/uploads/experience-that-counts.jpg",
+      "error": "too small 300x300"
+    },
+    {
+      "image": "https://www.dynamicwebs.com.au/wp-content/uploads/2014/09/hsoting-sliders.jpg",
+      "error": "too small 1100x300"
+    },
+    {
+      "image": "https://www.dynamicwebs.com.au/wp-content/uploads/2014/09/contact-auckland-web-design.jpg",
+      "error": "too small 600x339"
+    },
+    {
+      "image": "https://www.dynamicwebs.com.au/wp-content/uploads/2014/09/contact-auckland-web-design-300x169.jpg",
+      "error": "too small 300x169"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "research-fnq2",
+  "request_hash": "b5d500379aa7",
+  "collected_at": "2026-10-29T04:04:28.905Z",
+  "pages_fetched": [
+    "https://www.fnqfishingadventures.com.au/full-day-reef-fishing",
+    "https://www.fnqfishingadventures.com.au/light-tackle-billfish",
+    "https://www.fnqfishingadventures.com.au/topwater-gts",
+    "https://www.fnqfishingadventures.com.au/multi-day-charter-experience",
+    "https://www.fnqfishingadventures.com.au/tinaroo-giant-barramundi",
+    "https://www.fnqfishingadventures.com.au/full-day-river-charter"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.fnqfishingadventures.com.au/full-day-reef-fishing",
+      "status": 200,
+      "final_url": "https://www.fnqfishingadventures.com.au/full-day-reef-fishing",
+      "bytes": 807919
+    },
+    {
+      "page": "https://www.fnqfishingadventures.com.au/light-tackle-billfish",
+      "status": 200,
+      "final_url": "https://www.fnqfishingadventures.com.au/light-tackle-billfish",
+      "bytes": 820563
+    },
+    {
+      "page": "https://www.fnqfishingadventures.com.au/topwater-gts",
+      "status": 200,
+      "final_url": "https://www.fnqfishingadventures.com.au/topwater-gts",
+      "bytes": 724738
+    },
+    {
+      "page": "https://www.fnqfishingadventures.com.au/multi-day-charter-experience",
+      "status": 200,
+      "final_url": "https://www.fnqfishingadventures.com.au/multi-day-charter-experience",
+      "bytes": 246593
+    },
+    {
+      "page": "https://www.fnqfishingadventures.com.au/tinaroo-giant-barramundi",
+      "status": 200,
+      "final_url": "https://www.fnqfishingadventures.com.au/tinaroo-giant-barramundi",
+      "bytes": 583541
+    },
+    {
+      "page": "https://www.fnqfishingadventures.com.au/full-day-river-charter",
+      "status": 200,
+      "final_url": "https://www.fnqfishingadventures.com.au/full-day-river-charter",
+      "bytes": 251022
+    }
+  ]
+}
