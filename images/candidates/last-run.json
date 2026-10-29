@@ -1,5 +1,5 @@
 {
-  "finished_at": "2026-10-29T04:32:13.205Z",
+  "finished_at": "2026-10-29T04:34:29.577Z",
   "summary": [
     {
       "slug": "hooker-1-fishing-charters-gold-coast",
@@ -216,8 +216,8 @@
     },
     {
       "slug": "smithys-fishing-charters",
-      "candidates": 0,
-      "pages": 2
+      "candidates": 2,
+      "pages": 12
     },
     {
       "slug": "reel-deadly-fishing-charters",
@@ -230,7 +230,7 @@
     },
     {
       "slug": "truansea-charters",
-      "candidates": 2,
+      "candidates": 3,
       "pages": 5
     },
     {
@@ -277,8 +277,7 @@
     },
     {
       "slug": "research-hervey-dir3",
-      "candidates": 0,
-      "pages": 5
+      "skipped": true
     },
     {
       "slug": "reef-fishing-charters-1770",
@@ -287,13 +286,16 @@
     },
     {
       "slug": "research-creek2reef",
-      "candidates": 0,
-      "pages": 2
+      "skipped": true
     },
     {
       "slug": "research-princess-ii-2",
-      "candidates": 0,
-      "pages": 2
+      "skipped": true
+    },
+    {
+      "slug": "hot-reels-pro-fish-charters",
+      "candidates": 16,
+      "pages": 4
     }
   ]
 }

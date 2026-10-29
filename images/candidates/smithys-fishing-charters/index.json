@@ -1,12 +1,41 @@
 {
   "slug": "smithys-fishing-charters",
   "request_hash": "b5a9015a51d6",
-  "collected_at": "2026-10-29T04:31:38.434Z",
+  "collected_at": "2026-10-29T04:33:55.581Z",
   "pages_fetched": [
     "https://www.smithysfishingcharters.com.au/",
-    "http://smithysfishingcharters.com.au/"
+    "http://smithysfishingcharters.com.au/",
+    "https://smithysfishingcharters.com.au/",
+    "https://smithysfishingcharters.com.au/sunshine-coast-fishing-reports/",
+    "https://smithysfishingcharters.com.au/fishing-trip-photos/",
+    "https://smithysfishingcharters.com.au/charter-boats-sunshine-coast/",
+    "https://smithysfishingcharters.com.au/sunshine-coast-charter-boat-skipper/",
+    "https://smithysfishingcharters.com.au/fishing-trip-faqs/",
+    "https://smithysfishingcharters.com.au/sunshine-coast-fishing-trips-qld/",
+    "https://smithysfishingcharters.com.au/fishing-mooloolaba-sunshine-coast/",
+    "https://smithysfishingcharters.com.au//fishing-mooloolaba-sunshine-coast/",
+    "https://smithysfishingcharters.com.au/sitemap/"
   ],
-  "candidates": [],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1076,
+      "height": 760,
+      "original": "1076x760",
+      "source": "https://smithysfishingcharters.com.au/wp-content/uploads/smithys-fishing-charters-facebook.jpg",
+      "page": "http://smithysfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 734,
+      "height": 734,
+      "original": "734x734",
+      "source": "https://smithysfishingcharters.com.au/wp-content/uploads/25552156_10157083546969968_426496875628733188_n.jpg",
+      "page": "https://smithysfishingcharters.com.au/charter-boats-sunshine-coast/",
+      "priority": false
+    }
+  ],
   "log": [
     {
       "page": "https://www.smithysfishingcharters.com.au/",
@@ -14,7 +43,152 @@
     },
     {
       "page": "http://smithysfishingcharters.com.au/",
+      "status": 200,
+      "final_url": "https://smithysfishingcharters.com.au/",
+      "bytes": 81036
+    },
+    {
+      "page": "https://smithysfishingcharters.com.au/",
+      "status": 200,
+      "final_url": "https://smithysfishingcharters.com.au/",
+      "bytes": 81036
+    },
+    {
+      "page": "https://smithysfishingcharters.com.au/sunshine-coast-fishing-reports/",
+      "status": 200,
+      "final_url": "https://smithysfishingcharters.com.au/sunshine-coast-fishing-reports/",
+      "bytes": 82055
+    },
+    {
+      "page": "https://smithysfishingcharters.com.au/fishing-trip-photos/",
+      "status": 200,
+      "final_url": "https://smithysfishingcharters.com.au/fishing-trip-photos/",
+      "bytes": 68808
+    },
+    {
+      "page": "https://smithysfishingcharters.com.au/charter-boats-sunshine-coast/",
+      "status": 200,
+      "final_url": "https://smithysfishingcharters.com.au/charter-boats-sunshine-coast/",
+      "bytes": 74517
+    },
+    {
+      "page": "https://smithysfishingcharters.com.au/sunshine-coast-charter-boat-skipper/",
+      "status": 200,
+      "final_url": "https://smithysfishingcharters.com.au/sunshine-coast-charter-boat-skipper/",
+      "bytes": 73552
+    },
+    {
+      "page": "https://smithysfishingcharters.com.au/fishing-trip-faqs/",
+      "status": 200,
+      "final_url": "https://smithysfishingcharters.com.au/fishing-trip-faqs/",
+      "bytes": 102594
+    },
+    {
+      "page": "https://smithysfishingcharters.com.au/sunshine-coast-fishing-trips-qld/",
+      "status": 200,
+      "final_url": "https://smithysfishingcharters.com.au/sunshine-coast-fishing-trips-qld/",
+      "bytes": 84162
+    },
+    {
+      "page": "https://smithysfishingcharters.com.au/fishing-mooloolaba-sunshine-coast/",
+      "status": 200,
+      "final_url": "https://smithysfishingcharters.com.au/fishing-mooloolaba-sunshine-coast/",
+      "bytes": 70477
+    },
+    {
+      "page": "https://smithysfishingcharters.com.au//fishing-mooloolaba-sunshine-coast/",
       "error": "fetch failed"
+    },
+    {
+      "page": "https://smithysfishingcharters.com.au/sitemap/",
+      "status": 200,
+      "final_url": "https://smithysfishingcharters.com.au/sitemap/",
+      "bytes": 99982
+    },
+    {
+      "image": "https://smithysfishingcharters.com.au/wp-content/uploads/smithys-fishing-charters-1.jpg",
+      "error": "too small 1200x230"
+    },
+    {
+      "image": "https://smithysfishingcharters.com.au/wp-content/uploads/Robert-Smith-Smithys-Fishing-Charters.jpg",
+      "error": "too small 288x288"
+    },
+    {
+      "image": "https://smithysfishingcharters.com.au/wp-content/uploads/smithys-fishing-charters-1-300x58.jpg",
+      "error": "too small 300x58"
+    },
+    {
+      "image": "https://smithysfishingcharters.com.au/wp-content/uploads/smithys-fishing-charters-1-1024x196.jpg",
+      "error": "too small 1024x196"
+    },
+    {
+      "image": "https://smithysfishingcharters.com.au/wp-content/uploads/smithys-fishing-charters-1-768x147.jpg",
+      "error": "too small 768x147"
+    },
+    {
+      "image": "https://smithysfishingcharters.com.au/wp-content/uploads/Robert-Smith-Smithys-Fishing-Charters-150x150.jpg",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://smithysfishingcharters.com.au/wp-content/uploads/smithys-fishing-charters-facebook-300x212.jpg",
+      "error": "too small 300x212"
+    },
+    {
+      "dup": "https://smithysfishingcharters.com.au/wp-content/uploads/smithys-fishing-charters-facebook-1024x723.jpg"
+    },
+    {
+      "dup": "https://smithysfishingcharters.com.au/wp-content/uploads/smithys-fishing-charters-facebook-768x542.jpg"
+    },
+    {
+      "image": "https://smithysfishingcharters.com.au/wp-content/plugins/ultimate-elementor/assets/img/gift.png",
+      "error": "too small 100x102"
+    },
+    {
+      "image": "https://smithysfishingcharters.com.au/wp-content/plugins/ultimate-elementor/assets/img/tree.png",
+      "error": "too small 239x217"
+    },
+    {
+      "image": "https://smithysfishingcharters.com.au/wp-content/plugins/ultimate-elementor/assets/img/skull.png",
+      "error": "too small 80x77"
+    },
+    {
+      "image": "https://smithysfishingcharters.com.au/wp-content/plugins/ultimate-elementor/assets/img/ghost.png",
+      "error": "too small 80x104"
+    },
+    {
+      "image": "https://smithysfishingcharters.com.au/wp-content/plugins/ultimate-elementor/assets/img/moon.png",
+      "error": "too small 70x80"
+    },
+    {
+      "image": "https://smithysfishingcharters.com.au/wp-content/plugins/ultimate-elementor/assets/img/bat.png",
+      "error": "too small 100x60"
+    },
+    {
+      "image": "https://smithysfishingcharters.com.au/wp-content/plugins/ultimate-elementor/assets/img/pumpkin.png",
+      "error": "too small 90x75"
+    },
+    {
+      "dup": "https://smithysfishingcharters.com.au/wp-content/uploads//25552156_10157083546969968_426496875628733188_n.jpg"
+    },
+    {
+      "image": "https://smithysfishingcharters.com.au/wp-content/uploads//25552156_10157083546969968_426496875628733188_n-300x300.jpg",
+      "error": "too small 300x300"
+    },
+    {
+      "image": "https://smithysfishingcharters.com.au/wp-content/uploads//25552156_10157083546969968_426496875628733188_n-150x150.jpg",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://smithysfishingcharters.com.au/wp-content/uploads/DSCF00611.jpg",
+      "error": "too small 317x335"
+    },
+    {
+      "image": "https://smithysfishingcharters.com.au/wp-content/uploads/DSCF00611-284x300.jpg",
+      "error": "too small 284x300"
+    },
+    {
+      "image": "https://smithysfishingcharters.com.au//wp-content/uploads/species-chart-6401.jpg",
+      "error": "too small 640x288"
     }
   ]
 }

@@ -1,0 +1,362 @@
+{
+  "slug": "hot-reels-pro-fish-charters",
+  "request_hash": "0c1d02fe638b",
+  "collected_at": "2026-10-29T04:34:29.577Z",
+  "pages_fetched": [
+    "https://fishingchartersherveybay.com.au/",
+    "https://fishingchartersherveybay.com.au/terms-and-conditions/",
+    "https://fishingchartersherveybay.com.au/gallery/",
+    "https://fishingchartersherveybay.com.au/contact/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 2000,
+      "height": 893,
+      "original": "2001x893",
+      "source": "https://fishingchartersherveybay.com.au/wp-content/uploads/2019/11/subscribe-bg.jpg",
+      "page": "https://fishingchartersherveybay.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 1903,
+      "height": 1190,
+      "original": "1903x1190",
+      "source": "https://fishingchartersherveybay.com.au/wp-content/uploads/2019/10/home-slide3.jpg",
+      "page": "https://fishingchartersherveybay.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1031,
+      "height": 638,
+      "original": "1031x638",
+      "source": "https://fishingchartersherveybay.com.au/wp-content/uploads/2019/09/gallery-home1.jpg",
+      "page": "https://fishingchartersherveybay.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1031,
+      "height": 638,
+      "original": "1031x638",
+      "source": "https://fishingchartersherveybay.com.au/wp-content/uploads/2019/09/gallery-home2.jpg",
+      "page": "https://fishingchartersherveybay.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1031,
+      "height": 638,
+      "original": "1031x638",
+      "source": "https://fishingchartersherveybay.com.au/wp-content/uploads/2019/09/gallery-home3.jpg",
+      "page": "https://fishingchartersherveybay.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1031,
+      "height": 638,
+      "original": "1031x638",
+      "source": "https://fishingchartersherveybay.com.au/wp-content/uploads/2019/09/gallery-home4.jpg",
+      "page": "https://fishingchartersherveybay.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1031,
+      "height": 638,
+      "original": "1031x638",
+      "source": "https://fishingchartersherveybay.com.au/wp-content/uploads/2019/10/gal5-1.jpg",
+      "page": "https://fishingchartersherveybay.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 700,
+      "height": 467,
+      "original": "700x467",
+      "source": "https://fishingchartersherveybay.com.au/wp-content/uploads/2020/10/blog-4-1.jpg",
+      "page": "https://fishingchartersherveybay.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 900,
+      "height": 600,
+      "original": "900x600",
+      "source": "https://fishingchartersherveybay.com.au/wp-content/uploads/2020/04/finding-gold-blog2.jpg",
+      "page": "https://fishingchartersherveybay.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1620,
+      "height": 1080,
+      "original": "1620x1080",
+      "source": "https://fishingchartersherveybay.com.au/wp-content/uploads/2020/02/trev-blog.jpg",
+      "page": "https://fishingchartersherveybay.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 2000,
+      "height": 670,
+      "original": "2000x670",
+      "source": "https://fishingchartersherveybay.com.au/wp-content/uploads/2019/09/testimonials-bg.jpg",
+      "page": "https://fishingchartersherveybay.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 992,
+      "height": 625,
+      "original": "992x625",
+      "source": "https://fishingchartersherveybay.com.au/wp-content/uploads/2019/07/blog3-3.jpg",
+      "page": "https://fishingchartersherveybay.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 960,
+      "height": 540,
+      "original": "960x540",
+      "source": "https://fishingchartersherveybay.com.au/wp-content/uploads/2019/11/gal-page11.jpg",
+      "page": "https://fishingchartersherveybay.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 960,
+      "height": 540,
+      "original": "960x540",
+      "source": "https://fishingchartersherveybay.com.au/wp-content/uploads/2019/11/gal-page6.jpg",
+      "page": "https://fishingchartersherveybay.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 745,
+      "height": 419,
+      "original": "745x419",
+      "source": "https://fishingchartersherveybay.com.au/wp-content/uploads/2019/11/gal-page3.jpg",
+      "page": "https://fishingchartersherveybay.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 720,
+      "height": 960,
+      "original": "720x960",
+      "source": "https://fishingchartersherveybay.com.au/wp-content/uploads/2019/11/gal-page4.jpg",
+      "page": "https://fishingchartersherveybay.com.au/gallery/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://fishingchartersherveybay.com.au/",
+      "status": 200,
+      "final_url": "https://fishingchartersherveybay.com.au/",
+      "bytes": 131398
+    },
+    {
+      "page": "https://fishingchartersherveybay.com.au/terms-and-conditions/",
+      "status": 200,
+      "final_url": "https://fishingchartersherveybay.com.au/terms-and-conditions/",
+      "bytes": 85062
+    },
+    {
+      "page": "https://fishingchartersherveybay.com.au/gallery/",
+      "status": 200,
+      "final_url": "https://fishingchartersherveybay.com.au/gallery/",
+      "bytes": 78395
+    },
+    {
+      "page": "https://fishingchartersherveybay.com.au/contact/",
+      "status": 200,
+      "final_url": "https://fishingchartersherveybay.com.au/contact/",
+      "bytes": 73517
+    },
+    {
+      "image": "https://fishingchartersherveybay.com.au/wp-content/uploads/2024/08/fishing-charters-hervey-bay.png",
+      "error": "too small 300x84"
+    },
+    {
+      "image": "https://fishingchartersherveybay.com.au/wp-content/uploads/2020/01/gobblers-lures.png",
+      "error": "too small 350x169"
+    },
+    {
+      "image": "https://fishingchartersherveybay.com.au/wp-content/uploads/2020/01/gobblers-lures-300x145.png",
+      "error": "too small 300x145"
+    },
+    {
+      "image": "https://fishingchartersherveybay.com.au/wp-content/uploads/2019/10/swell-reversed.jpg",
+      "error": "too small 2000x127"
+    },
+    {
+      "image": "https://fishingchartersherveybay.com.au/wp-content/uploads/2019/10/swell-2-1.jpg",
+      "error": "too small 2000x127"
+    },
+    {
+      "image": "https://fishingchartersherveybay.com.au/wp-content/uploads/2019/09/newsletter-bg.jpg?id=121",
+      "error": "too small 2001x306"
+    },
+    {
+      "image": "https://fishingchartersherveybay.com.au/wp-content/uploads/2019/09/newsletter-bg.jpg?id=121)",
+      "error": "too small 2001x306"
+    },
+    {
+      "image": "https://fishingchartersherveybay.com.au/wp-content/uploads/2019/10/swell-reversed-300x19.jpg",
+      "error": "too small 300x19"
+    },
+    {
+      "image": "https://fishingchartersherveybay.com.au/wp-content/uploads/2019/10/swell-reversed-768x49.jpg",
+      "error": "too small 768x49"
+    },
+    {
+      "image": "https://fishingchartersherveybay.com.au/wp-content/uploads/2019/10/swell-reversed-1024x65.jpg",
+      "error": "too small 1024x65"
+    },
+    {
+      "image": "https://fishingchartersherveybay.com.au/wp-content/uploads/2019/10/swell-reversed-700x44.jpg",
+      "error": "too small 700x44"
+    },
+    {
+      "image": "https://fishingchartersherveybay.com.au/wp-content/uploads/2020/10/blog-4-1-300x200.jpg",
+      "error": "too small 300x200"
+    },
+    {
+      "dup": "https://fishingchartersherveybay.com.au/wp-content/uploads/2020/04/finding-gold-blog2-700x467.jpg"
+    },
+    {
+      "image": "https://fishingchartersherveybay.com.au/wp-content/uploads/2020/04/finding-gold-blog2-300x200.jpg",
+      "error": "too small 300x200"
+    },
+    {
+      "dup": "https://fishingchartersherveybay.com.au/wp-content/uploads/2020/04/finding-gold-blog2-768x512.jpg"
+    },
+    {
+      "dup": "https://fishingchartersherveybay.com.au/wp-content/uploads/2020/02/trev-blog-700x467.jpg"
+    },
+    {
+      "image": "https://fishingchartersherveybay.com.au/wp-content/uploads/2020/02/trev-blog-300x200.jpg",
+      "error": "too small 300x200"
+    },
+    {
+      "dup": "https://fishingchartersherveybay.com.au/wp-content/uploads/2020/02/trev-blog-768x512.jpg"
+    },
+    {
+      "dup": "https://fishingchartersherveybay.com.au/wp-content/uploads/2020/02/trev-blog-1024x683.jpg"
+    },
+    {
+      "image": "https://fishingchartersherveybay.com.au/wp-content/uploads/2019/10/swell-2-1-300x19.jpg",
+      "error": "too small 300x19"
+    },
+    {
+      "image": "https://fishingchartersherveybay.com.au/wp-content/uploads/2019/10/swell-2-1-768x49.jpg",
+      "error": "too small 768x49"
+    },
+    {
+      "image": "https://fishingchartersherveybay.com.au/wp-content/uploads/2019/10/swell-2-1-1024x65.jpg",
+      "error": "too small 1024x65"
+    },
+    {
+      "image": "https://fishingchartersherveybay.com.au/wp-content/uploads/2019/10/swell-2-1-700x44.jpg",
+      "error": "too small 700x44"
+    },
+    {
+      "image": "https://fishingchartersherveybay.com.au/wp-content/uploads/2019/09/testimonials-bg-300x101.jpg",
+      "error": "too small 300x101"
+    },
+    {
+      "image": "https://fishingchartersherveybay.com.au/wp-content/uploads/2019/09/testimonials-bg-768x257.jpg",
+      "error": "too small 768x257"
+    },
+    {
+      "image": "https://fishingchartersherveybay.com.au/wp-content/uploads/2019/09/testimonials-bg-1024x343.jpg",
+      "error": "too small 1024x343"
+    },
+    {
+      "image": "https://fishingchartersherveybay.com.au/wp-content/uploads/2019/09/testimonials-bg-700x235.jpg",
+      "error": "too small 700x235"
+    },
+    {
+      "image": "https://fishingchartersherveybay.com.au/wp-content/uploads/2019/09/blog-header.jpg",
+      "error": "banner/strip 2001x468"
+    },
+    {
+      "image": "https://fishingchartersherveybay.com.au/wp-content/uploads/2019/09/wave2.jpg",
+      "error": "too small 2001x127"
+    },
+    {
+      "image": "https://fishingchartersherveybay.com.au/wp-content/uploads/2019/10/gps-no.png",
+      "error": "too small 80x92"
+    },
+    {
+      "image": "https://fishingchartersherveybay.com.au/wp-content/uploads/2019/09/wave2-300x19.jpg",
+      "error": "too small 300x19"
+    },
+    {
+      "image": "https://fishingchartersherveybay.com.au/wp-content/uploads/2019/09/wave2-768x49.jpg",
+      "error": "too small 768x49"
+    },
+    {
+      "image": "https://fishingchartersherveybay.com.au/wp-content/uploads/2019/09/wave2-1024x65.jpg",
+      "error": "too small 1024x65"
+    },
+    {
+      "image": "https://fishingchartersherveybay.com.au/wp-content/uploads/2019/09/wave2-700x44.jpg",
+      "error": "too small 700x44"
+    },
+    {
+      "image": "https://fishingchartersherveybay.com.au/wp-content/uploads/2019/09/gallery-home2-310x310.jpg",
+      "error": "too small 310x310"
+    },
+    {
+      "image": "https://fishingchartersherveybay.com.au/wp-content/uploads/2019/11/gal-page1.jpg",
+      "error": "too small 584x328"
+    },
+    {
+      "image": "https://fishingchartersherveybay.com.au/wp-content/uploads/2019/11/gal-page1-310x310.jpg",
+      "error": "too small 310x310"
+    },
+    {
+      "image": "https://fishingchartersherveybay.com.au/wp-content/uploads/2019/09/gallery-home3-310x310.jpg",
+      "error": "too small 310x310"
+    },
+    {
+      "image": "https://fishingchartersherveybay.com.au/wp-content/uploads/2019/09/gallery-home4-310x310.jpg",
+      "error": "too small 310x310"
+    },
+    {
+      "image": "https://fishingchartersherveybay.com.au/wp-content/uploads/2019/07/gal4.jpg",
+      "error": "too small 600x336"
+    },
+    {
+      "image": "https://fishingchartersherveybay.com.au/wp-content/uploads/2019/07/gal4-310x310.jpg",
+      "error": "too small 310x310"
+    },
+    {
+      "image": "https://fishingchartersherveybay.com.au/wp-content/uploads/2019/11/gal-page2.jpg",
+      "error": "too small 324x440"
+    },
+    {
+      "image": "https://fishingchartersherveybay.com.au/wp-content/uploads/2019/11/gal-page2-310x310.jpg",
+      "error": "too small 310x310"
+    },
+    {
+      "image": "https://fishingchartersherveybay.com.au/wp-content/uploads/2019/10/gal5-1-310x310.jpg",
+      "error": "too small 310x310"
+    },
+    {
+      "image": "https://fishingchartersherveybay.com.au/wp-content/uploads/2019/11/gal-page7.jpg",
+      "error": "too small 528x960"
+    },
+    {
+      "image": "https://fishingchartersherveybay.com.au/wp-content/uploads/2019/11/gal-page7-310x310.jpg",
+      "error": "too small 310x310"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "slug": "truansea-charters",
   "request_hash": "cb8a53e26862",
-  "collected_at": "2026-10-29T04:32:00.516Z",
+  "collected_at": "2026-10-29T04:34:07.634Z",
   "pages_fetched": [
     "https://www.truansea.com.au/",
     "https://truansea.com.au/full-day-reef-fishing",
@@ -16,11 +16,20 @@
       "height": 1500,
       "original": "2048x1536",
       "source": "https://img1.wsimg.com/isteam/ip/e8be81f1-4104-4a97-a858-32f107df5bee/fb_277979943581041_2048x1536.jpg",
-      "page": "https://truansea.com.au/half-day-reef-fishing",
+      "page": "https://truansea.com.au/full-day-reef-fishing",
       "priority": true
     },
     {
       "file": "c02.webp",
+      "width": 1240,
+      "height": 930,
+      "original": "1240x930",
+      "source": "https://img1.wsimg.com/isteam/ip/e8be81f1-4104-4a97-a858-32f107df5bee/IMG_20210731_103203780.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1240,cg:true",
+      "page": "https://truansea.com.au/full-day-reef-fishing",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
       "width": 1240,
       "height": 620,
       "original": "1240x620",
@@ -36,7 +45,9 @@
     },
     {
       "page": "https://truansea.com.au/full-day-reef-fishing",
-      "error": "fetch failed"
+      "status": 200,
+      "final_url": "https://truansea.com.au/full-day-reef-fishing",
+      "bytes": 84785
     },
     {
       "page": "https://truansea.com.au/half-day-reef-fishing",
