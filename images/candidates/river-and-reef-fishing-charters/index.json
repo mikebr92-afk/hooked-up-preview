@@ -1,0 +1,317 @@
+{
+  "slug": "river-and-reef-fishing-charters",
+  "request_hash": "02480068b108",
+  "collected_at": "2026-10-29T04:08:06.604Z",
+  "pages_fetched": [
+    "https://riverandreef.com.au/",
+    "https://riverandreef.com.au/run-off-barra-fishing-2/",
+    "https://riverandreef.com.au/dundee-beach-fishing-charters/",
+    "https://riverandreef.com.au/live-aboard-charters/",
+    "https://riverandreef.com.au/corroboree-barra-fishing-day-tours/",
+    "https://riverandreef.com.au/salt-water-barra-fishing/",
+    "https://riverandreef.com.au/darwin-harbour-sport-fishing/",
+    "https://riverandreef.com.au/darwin-harbour-fishing-charters-half-day/",
+    "https://riverandreef.com.au/contact/",
+    "https://riverandreef.com.au/booking-conditions/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://riverandreef.com.au/wp-content/uploads/2025/06/Photo-19-3-2025-12-07-42-scaled.jpg",
+      "page": "https://riverandreef.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://riverandreef.com.au/wp-content/uploads/2025/06/Photo-1-10-2024-08-17-57-scaled.jpg",
+      "page": "https://riverandreef.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://cdn-ilbbnoh.nitrocdn.com/yJOdcqKzaMjvWJeHtAvjLxVNjlUIqYUj/assets/images/optimized/rev-8293f92/riverandreef.com.au/wp-content/uploads/2024/05/Small-group-private-charters-scaled.jpg",
+      "page": "https://riverandreef.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1440,
+      "height": 1313,
+      "original": "1440x1313",
+      "source": "https://cdn-ilbbnoh.nitrocdn.com/yJOdcqKzaMjvWJeHtAvjLxVNjlUIqYUj/assets/images/optimized/rev-8293f92/riverandreef.com.au/wp-content/uploads/2025/06/Photo-14-6-2025-10-07-53.jpg",
+      "page": "https://riverandreef.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 768,
+      "height": 479,
+      "original": "768x479",
+      "source": "https://cdn-ilbbnoh.nitrocdn.com/yJOdcqKzaMjvWJeHtAvjLxVNjlUIqYUj/assets/images/optimized/rev-8293f92/riverandreef.com.au/wp-content/uploads/2025/10/Photo-16-10-2025-06-06-01-Medium-crop.jpg",
+      "page": "https://riverandreef.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://cdn-ilbbnoh.nitrocdn.com/yJOdcqKzaMjvWJeHtAvjLxVNjlUIqYUj/assets/images/optimized/rev-8293f92/riverandreef.com.au/wp-content/uploads/2025/06/Photo-2-5-2025-11-55-50-scaled.jpg",
+      "page": "https://riverandreef.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://cdn-ilbbnoh.nitrocdn.com/yJOdcqKzaMjvWJeHtAvjLxVNjlUIqYUj/assets/images/optimized/rev-8293f92/riverandreef.com.au/wp-content/uploads/2025/06/Photo-1-10-2024-08-28-39-1-scaled.jpg",
+      "page": "https://riverandreef.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://cdn-ilbbnoh.nitrocdn.com/yJOdcqKzaMjvWJeHtAvjLxVNjlUIqYUj/assets/images/optimized/rev-8293f92/riverandreef.com.au/wp-content/uploads/2025/06/Photo-12-11-2024-09-26-15-scaled.jpg",
+      "page": "https://riverandreef.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://riverandreef.com.au/wp-content/uploads/2025/06/Photo-13-6-2024-13-56-03-scaled.jpg",
+      "page": "https://riverandreef.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://riverandreef.com.au/wp-content/uploads/2025/06/Photo-9-4-2025-12-43-03-scaled.jpg",
+      "page": "https://riverandreef.com.au/run-off-barra-fishing-2/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 2000,
+      "height": 1062,
+      "original": "2560x1359",
+      "source": "https://riverandreef.com.au/wp-content/uploads/2025/10/Photo-16-10-2025-06-06-01-crop-scaled.jpg",
+      "page": "https://riverandreef.com.au/dundee-beach-fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1920x2560",
+      "source": "https://riverandreef.com.au/wp-content/uploads/2025/06/Photo-20-10-2024-08-57-25-scaled.jpg",
+      "page": "https://riverandreef.com.au/corroboree-barra-fishing-day-tours/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://riverandreef.com.au/wp-content/uploads/2025/06/Photo-28-9-2024-09-40-30-scaled.jpg",
+      "page": "https://riverandreef.com.au/salt-water-barra-fishing/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 2000,
+      "height": 1589,
+      "original": "2560x2034",
+      "source": "https://riverandreef.com.au/wp-content/uploads/2025/06/Photo-6-6-2023-11-24-25-scaled.jpg",
+      "page": "https://riverandreef.com.au/darwin-harbour-sport-fishing/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1024,
+      "height": 683,
+      "original": "1024x683",
+      "source": "https://riverandreef.com.au/wp-content/uploads/2022/07/IMG_1997-1024x683-No-Watermark.jpg",
+      "page": "https://riverandreef.com.au/darwin-harbour-fishing-charters-half-day/",
+      "priority": true
+    },
+    {
+      "file": "c16.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://riverandreef.com.au/wp-content/uploads/2025/06/Photo-12-11-2024-09-01-42-scaled.jpg",
+      "page": "https://riverandreef.com.au/darwin-harbour-fishing-charters-half-day/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://riverandreef.com.au/",
+      "status": 200,
+      "final_url": "https://riverandreef.com.au/",
+      "bytes": 224875
+    },
+    {
+      "page": "https://riverandreef.com.au/run-off-barra-fishing-2/",
+      "status": 200,
+      "final_url": "https://riverandreef.com.au/run-off-barra-fishing-2/",
+      "bytes": 214173
+    },
+    {
+      "page": "https://riverandreef.com.au/dundee-beach-fishing-charters/",
+      "status": 200,
+      "final_url": "https://riverandreef.com.au/dundee-beach-fishing-charters/",
+      "bytes": 221241
+    },
+    {
+      "page": "https://riverandreef.com.au/live-aboard-charters/",
+      "status": 200,
+      "final_url": "https://riverandreef.com.au/live-aboard-charters/",
+      "bytes": 216844
+    },
+    {
+      "page": "https://riverandreef.com.au/corroboree-barra-fishing-day-tours/",
+      "status": 200,
+      "final_url": "https://riverandreef.com.au/corroboree-barra-fishing-day-tours/",
+      "bytes": 214326
+    },
+    {
+      "page": "https://riverandreef.com.au/salt-water-barra-fishing/",
+      "status": 200,
+      "final_url": "https://riverandreef.com.au/salt-water-barra-fishing/",
+      "bytes": 207365
+    },
+    {
+      "page": "https://riverandreef.com.au/darwin-harbour-sport-fishing/",
+      "status": 200,
+      "final_url": "https://riverandreef.com.au/darwin-harbour-sport-fishing/",
+      "bytes": 207653
+    },
+    {
+      "page": "https://riverandreef.com.au/darwin-harbour-fishing-charters-half-day/",
+      "status": 200,
+      "final_url": "https://riverandreef.com.au/darwin-harbour-fishing-charters-half-day/",
+      "bytes": 209218
+    },
+    {
+      "page": "https://riverandreef.com.au/contact/",
+      "status": 200,
+      "final_url": "https://riverandreef.com.au/contact/",
+      "bytes": 181100
+    },
+    {
+      "page": "https://riverandreef.com.au/booking-conditions/",
+      "status": 200,
+      "final_url": "https://riverandreef.com.au/booking-conditions/",
+      "bytes": 160397
+    },
+    {
+      "image": "https://riverandreef.com.au/Ly9yaXZlcmFuZHJlZWYuY29tLmF1L3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDIyLzA3L3JpdmVycmVlZl9sb2dvLW1pa2UtMi1kcm9wLXNoYWRvdy1TbWFsbC03Njh4NDQ4LnBuZw==",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://riverandreef.com.au/Ly9yaXZlcmFuZHJlZWYuY29tLmF1L3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzA2L1Bob3RvLTE5LTMtMjAyNS0xMi0wNy00Mi1zY2FsZWQuanBn",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://riverandreef.com.au/Ly9yaXZlcmFuZHJlZWYuY29tLmF1L3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzA2L1Bob3RvLTEtMTAtMjAyNC0wOC0xNy01Ny1zY2FsZWQuanBn",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://riverandreef.com.au/&quot;data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==&quot;",
+      "error": "HTTP 404"
+    },
+    {
+      "dup": "https://cdn-ilbbnoh.nitrocdn.com/yJOdcqKzaMjvWJeHtAvjLxVNjlUIqYUj/assets/images/optimized/rev-8293f92/riverandreef.com.au/wp-content/uploads/2025/06/Photo-19-3-2025-12-07-42-scaled.jpg"
+    },
+    {
+      "dup": "https://cdn-ilbbnoh.nitrocdn.com/yJOdcqKzaMjvWJeHtAvjLxVNjlUIqYUj/assets/images/optimized/rev-8293f92/riverandreef.com.au/wp-content/uploads/2025/06/Photo-1-10-2024-08-17-57-scaled.jpg"
+    },
+    {
+      "image": "https://riverandreef.com.au/run-off-barra-fishing-2/Ly9yaXZlcmFuZHJlZWYuY29tLmF1L3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDIyLzA3L3JpdmVycmVlZl9sb2dvLW1pa2UtMi1kcm9wLXNoYWRvdy1TbWFsbC5wbmc=",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://riverandreef.com.au/run-off-barra-fishing-2/Ly9yaXZlcmFuZHJlZWYuY29tLmF1L3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzA2L1Bob3RvLTktNC0yMDI1LTEyLTQzLTAzLXNjYWxlZC5qcGc=",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://cdn-ilbbnoh.nitrocdn.com/yJOdcqKzaMjvWJeHtAvjLxVNjlUIqYUj/assets/images/optimized/rev-8293f92/riverandreef.com.au/wp-content/themes/ancora-tattoo/images/select.png",
+      "error": "too small 9x5"
+    },
+    {
+      "dup": "https://cdn-ilbbnoh.nitrocdn.com/yJOdcqKzaMjvWJeHtAvjLxVNjlUIqYUj/assets/images/optimized/rev-8293f92/riverandreef.com.au/wp-content/uploads/2025/06/Photo-9-4-2025-12-43-03-scaled.jpg"
+    },
+    {
+      "image": "https://riverandreef.com.au/dundee-beach-fishing-charters/Ly9yaXZlcmFuZHJlZWYuY29tLmF1L3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDIyLzA3L3JpdmVycmVlZl9sb2dvLW1pa2UtMi1kcm9wLXNoYWRvdy1TbWFsbC5wbmc=",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://riverandreef.com.au/dundee-beach-fishing-charters/Ly9yaXZlcmFuZHJlZWYuY29tLmF1L3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzEwL1Bob3RvLTE2LTEwLTIwMjUtMDYtMDYtMDEtY3JvcC1zY2FsZWQuanBn",
+      "error": "HTTP 404"
+    },
+    {
+      "dup": "https://cdn-ilbbnoh.nitrocdn.com/yJOdcqKzaMjvWJeHtAvjLxVNjlUIqYUj/assets/images/optimized/rev-8293f92/riverandreef.com.au/wp-content/uploads/2025/10/Photo-16-10-2025-06-06-01-crop-scaled.jpg"
+    },
+    {
+      "dup": "https://riverandreef.com.au/wp-content/uploads/2024/05/Small-group-private-charters-scaled.jpg"
+    },
+    {
+      "image": "https://riverandreef.com.au/live-aboard-charters/Ly9yaXZlcmFuZHJlZWYuY29tLmF1L3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDIyLzA3L3JpdmVycmVlZl9sb2dvLW1pa2UtMi1kcm9wLXNoYWRvdy1TbWFsbC5wbmc=",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://riverandreef.com.au/live-aboard-charters/Ly9yaXZlcmFuZHJlZWYuY29tLmF1L3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI0LzA1L1NtYWxsLWdyb3VwLXByaXZhdGUtY2hhcnRlcnMtc2NhbGVkLmpwZw==",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://riverandreef.com.au/corroboree-barra-fishing-day-tours/Ly9yaXZlcmFuZHJlZWYuY29tLmF1L3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDIyLzA3L3JpdmVycmVlZl9sb2dvLW1pa2UtMi1kcm9wLXNoYWRvdy1TbWFsbC5wbmc=",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://riverandreef.com.au/corroboree-barra-fishing-day-tours/Ly9yaXZlcmFuZHJlZWYuY29tLmF1L3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzA2L1Bob3RvLTIwLTEwLTIwMjQtMDgtNTctMjUtc2NhbGVkLmpwZw==",
+      "error": "HTTP 404"
+    },
+    {
+      "dup": "https://cdn-ilbbnoh.nitrocdn.com/yJOdcqKzaMjvWJeHtAvjLxVNjlUIqYUj/assets/images/optimized/rev-8293f92/riverandreef.com.au/wp-content/uploads/2025/06/Photo-20-10-2024-08-57-25-scaled.jpg"
+    },
+    {
+      "image": "https://riverandreef.com.au/salt-water-barra-fishing/Ly9yaXZlcmFuZHJlZWYuY29tLmF1L3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDIyLzA3L3JpdmVycmVlZl9sb2dvLW1pa2UtMi1kcm9wLXNoYWRvdy1TbWFsbC5wbmc=",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://riverandreef.com.au/salt-water-barra-fishing/Ly9yaXZlcmFuZHJlZWYuY29tLmF1L3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzA2L1Bob3RvLTI4LTktMjAyNC0wOS00MC0zMC1zY2FsZWQuanBn",
+      "error": "HTTP 404"
+    },
+    {
+      "dup": "https://cdn-ilbbnoh.nitrocdn.com/yJOdcqKzaMjvWJeHtAvjLxVNjlUIqYUj/assets/images/optimized/rev-8293f92/riverandreef.com.au/wp-content/uploads/2025/06/Photo-28-9-2024-09-40-30-scaled.jpg"
+    },
+    {
+      "image": "https://riverandreef.com.au/darwin-harbour-sport-fishing/Ly9yaXZlcmFuZHJlZWYuY29tLmF1L3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDIyLzA3L3JpdmVycmVlZl9sb2dvLW1pa2UtMi1kcm9wLXNoYWRvdy1TbWFsbC5wbmc=",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://riverandreef.com.au/darwin-harbour-sport-fishing/Ly9yaXZlcmFuZHJlZWYuY29tLmF1L3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzA2L1Bob3RvLTYtNi0yMDIzLTExLTI0LTI1LXNjYWxlZC5qcGc=",
+      "error": "HTTP 404"
+    },
+    {
+      "dup": "https://cdn-ilbbnoh.nitrocdn.com/yJOdcqKzaMjvWJeHtAvjLxVNjlUIqYUj/assets/images/optimized/rev-8293f92/riverandreef.com.au/wp-content/uploads/2025/06/Photo-6-6-2023-11-24-25-scaled.jpg"
+    }
+  ]
+}

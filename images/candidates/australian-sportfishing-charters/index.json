@@ -1,0 +1,298 @@
+{
+  "slug": "australian-sportfishing-charters",
+  "request_hash": "41833d4b6431",
+  "collected_at": "2026-10-29T04:05:05.381Z",
+  "pages_fetched": [
+    "https://australiansportfishingcharters.com/",
+    "https://australiansportfishingcharters.com/arnhem-land-fishing/",
+    "https://australiansportfishingcharters.com/cairns-marlin-charters/",
+    "https://australiansportfishingcharters.com/the-iron-lady/",
+    "https://australiansportfishingcharters.com/wild-turkey/",
+    "https://australiansportfishingcharters.com/tenders/",
+    "https://australiansportfishingcharters.com/the-experience/",
+    "https://australiansportfishingcharters.com/fishing-blog/",
+    "https://australiansportfishingcharters.com/contact-us/",
+    "https://australiansportfishingcharters.com/barra-fishing-nt/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1920,
+      "height": 1079,
+      "original": "1920x1079",
+      "source": "https://australiansportfishingcharters.com/wp-content/uploads/2026/08/Australian-sportfishing-charters-remote-mothership-fishing-expeditions.webp",
+      "page": "https://australiansportfishingcharters.com/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 600,
+      "height": 400,
+      "original": "600x400",
+      "source": "https://australiansportfishingcharters.com/wp-content/uploads/2026/08/marlin-hunting-with-australian-sportfishing-charters-wild-turkey-600.webp",
+      "page": "https://australiansportfishingcharters.com/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1000,
+      "height": 750,
+      "original": "1000x750",
+      "source": "https://australiansportfishingcharters.com/wp-content/uploads/2026/08/giant-barramundi-fishing-in-arnhem-land-during-dry-season-by-Marty-4-3.webp",
+      "page": "https://australiansportfishingcharters.com/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 2000,
+      "height": 1333,
+      "original": "2048x1365",
+      "source": "https://australiansportfishingcharters.com/wp-content/uploads/2026/08/beautiful-river-barramundi-arnhem-land.webp",
+      "page": "https://australiansportfishingcharters.com/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1500,
+      "height": 1000,
+      "original": "1500x1000",
+      "source": "https://australiansportfishingcharters.com/wp-content/uploads/2026/08/marlin-fishing-on-the-great-barrier-reef-cairns.webp",
+      "page": "https://australiansportfishingcharters.com/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1000,
+      "height": 750,
+      "original": "1000x750",
+      "source": "https://australiansportfishingcharters.com/wp-content/uploads/2026/08/margarets-team-prized-barra-review.webp",
+      "page": "https://australiansportfishingcharters.com/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 750,
+      "height": 1000,
+      "original": "750x1000",
+      "source": "https://australiansportfishingcharters.com/wp-content/uploads/2026/08/barramundi-by-bill-oleary-team.webp",
+      "page": "https://australiansportfishingcharters.com/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 731,
+      "height": 1000,
+      "original": "731x1000",
+      "source": "https://australiansportfishingcharters.com/wp-content/uploads/2026/08/The-Ashgroves.webp",
+      "page": "https://australiansportfishingcharters.com/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 2000,
+      "height": 1333,
+      "original": "2000x1333",
+      "source": "https://australiansportfishingcharters.com/wp-content/uploads/2026/08/arnhem-land-sunset-from-ironlady-353kb-18ce.jpg",
+      "page": "https://australiansportfishingcharters.com/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 2000,
+      "height": 1125,
+      "original": "2560x1440",
+      "source": "https://australiansportfishingcharters.com/wp-content/uploads/2026/08/Nhulunby-NT-scaled-1.jpg",
+      "page": "https://australiansportfishingcharters.com/arnhem-land-fishing/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 960,
+      "height": 750,
+      "original": "960x750",
+      "source": "https://australiansportfishingcharters.com/wp-content/uploads/2026/08/iron-lady-.jpg",
+      "page": "https://australiansportfishingcharters.com/arnhem-land-fishing/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1400,
+      "height": 1050,
+      "original": "1400x1050",
+      "source": "https://australiansportfishingcharters.com/wp-content/uploads/2026/08/two-fish-australian-sportfishing.jpg",
+      "page": "https://australiansportfishingcharters.com/arnhem-land-fishing/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1920x2560",
+      "source": "https://australiansportfishingcharters.com/wp-content/uploads/2026/08/heading-out-for-the-days-fish-scaled-1.webp",
+      "page": "https://australiansportfishingcharters.com/arnhem-land-fishing/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1024,
+      "height": 768,
+      "original": "1024x768",
+      "source": "https://australiansportfishingcharters.com/wp-content/uploads/2026/08/122cm-barramundi-caught-by-first-time-angler-malcolm-wallace-on-3-zman-lure-1.webp",
+      "page": "https://australiansportfishingcharters.com/arnhem-land-fishing/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2000x1500",
+      "source": "https://australiansportfishingcharters.com/wp-content/uploads/2026/08/Trevally-caught-by-Johno-on-a-soft-plastic.webp",
+      "page": "https://australiansportfishingcharters.com/arnhem-land-fishing/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1000,
+      "height": 667,
+      "original": "1000x667",
+      "source": "https://australiansportfishingcharters.com/wp-content/uploads/2026/08/Mangrove-Jack-caught-by-Matt-during-the-neap-tides-april.webp",
+      "page": "https://australiansportfishingcharters.com/arnhem-land-fishing/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://australiansportfishingcharters.com/",
+      "status": 200,
+      "final_url": "https://australiansportfishingcharters.com/",
+      "bytes": 167433
+    },
+    {
+      "page": "https://australiansportfishingcharters.com/arnhem-land-fishing/",
+      "status": 200,
+      "final_url": "https://australiansportfishingcharters.com/arnhem-land-fishing/",
+      "bytes": 232432
+    },
+    {
+      "page": "https://australiansportfishingcharters.com/cairns-marlin-charters/",
+      "status": 200,
+      "final_url": "https://australiansportfishingcharters.com/cairns-marlin-charters/",
+      "bytes": 251069
+    },
+    {
+      "page": "https://australiansportfishingcharters.com/the-iron-lady/",
+      "status": 200,
+      "final_url": "https://australiansportfishingcharters.com/the-iron-lady/",
+      "bytes": 202115
+    },
+    {
+      "page": "https://australiansportfishingcharters.com/wild-turkey/",
+      "status": 200,
+      "final_url": "https://australiansportfishingcharters.com/wild-turkey/",
+      "bytes": 201546
+    },
+    {
+      "page": "https://australiansportfishingcharters.com/tenders/",
+      "status": 200,
+      "final_url": "https://australiansportfishingcharters.com/tenders/",
+      "bytes": 192729
+    },
+    {
+      "page": "https://australiansportfishingcharters.com/the-experience/",
+      "status": 200,
+      "final_url": "https://australiansportfishingcharters.com/the-experience/",
+      "bytes": 192392
+    },
+    {
+      "page": "https://australiansportfishingcharters.com/fishing-blog/",
+      "status": 200,
+      "final_url": "https://australiansportfishingcharters.com/fishing-blog/",
+      "bytes": 360161
+    },
+    {
+      "page": "https://australiansportfishingcharters.com/contact-us/",
+      "status": 200,
+      "final_url": "https://australiansportfishingcharters.com/contact-us/",
+      "bytes": 259254
+    },
+    {
+      "page": "https://australiansportfishingcharters.com/barra-fishing-nt/",
+      "status": 200,
+      "final_url": "https://australiansportfishingcharters.com/barra-fishing-nt/",
+      "bytes": 240586
+    },
+    {
+      "image": "https://australiansportfishingcharters.com/wp-content/uploads/2026/08/cropped-australian-sportfishing-charters-ico-512x512-1.png",
+      "error": "too small 512x512"
+    },
+    {
+      "image": "https://australiansportfishingcharters.com/wp-content/uploads/2026/08/cropped-australian-sportfishing-charters-ico-512x512-1-32x32.png",
+      "error": "too small 32x32"
+    },
+    {
+      "image": "https://australiansportfishingcharters.com/wp-content/uploads/2026/08/cropped-australian-sportfishing-charters-ico-512x512-1-192x192.png",
+      "error": "too small 192x192"
+    },
+    {
+      "image": "https://australiansportfishingcharters.com/wp-content/uploads/2026/08/cropped-australian-sportfishing-charters-ico-512x512-1-180x180.png",
+      "error": "too small 180x180"
+    },
+    {
+      "image": "https://australiansportfishingcharters.com/wp-content/uploads/2026/08/cropped-australian-sportfishing-charters-ico-512x512-1-270x270.png",
+      "error": "too small 270x270"
+    },
+    {
+      "image": "https://australiansportfishingcharters.com/wp-content/uploads/2026/08/marlin-hunting-with-australian-sportfishing-charters-wild-turkey-600-480x320.webp",
+      "error": "too small 480x320"
+    },
+    {
+      "dup": "https://australiansportfishingcharters.com/wp-content/uploads/2026/08/giant-barramundi-fishing-in-arnhem-land-during-dry-season-by-Marty-4-3-980x735.webp"
+    },
+    {
+      "image": "https://australiansportfishingcharters.com/wp-content/uploads/2026/08/giant-barramundi-fishing-in-arnhem-land-during-dry-season-by-Marty-4-3-480x360.webp",
+      "error": "too small 480x360"
+    },
+    {
+      "dup": "https://australiansportfishingcharters.com/wp-content/uploads/2026/08/beautiful-river-barramundi-arnhem-land-1280x853.webp"
+    },
+    {
+      "dup": "https://australiansportfishingcharters.com/wp-content/uploads/2026/08/beautiful-river-barramundi-arnhem-land-980x653.webp"
+    },
+    {
+      "image": "https://australiansportfishingcharters.com/wp-content/uploads/2026/08/beautiful-river-barramundi-arnhem-land-480x320.webp",
+      "error": "too small 480x320"
+    },
+    {
+      "dup": "https://australiansportfishingcharters.com/wp-content/uploads/2026/08/marlin-fishing-on-the-great-barrier-reef-cairns-1280x853.webp"
+    },
+    {
+      "dup": "https://australiansportfishingcharters.com/wp-content/uploads/2026/08/marlin-fishing-on-the-great-barrier-reef-cairns-980x653.webp"
+    },
+    {
+      "image": "https://australiansportfishingcharters.com/wp-content/uploads/2026/08/marlin-fishing-on-the-great-barrier-reef-cairns-480x320.webp",
+      "error": "too small 480x320"
+    },
+    {
+      "dup": "https://australiansportfishingcharters.com/wp-content/uploads/2026/08/margarets-team-prized-barra-review-980x735.webp"
+    },
+    {
+      "image": "https://australiansportfishingcharters.com/wp-content/uploads/2026/08/margarets-team-prized-barra-review-480x360.webp",
+      "error": "too small 480x360"
+    },
+    {
+      "image": "https://australiansportfishingcharters.com/wp-content/uploads/2026/08/barramundi-by-bill-oleary-team-480x640.webp",
+      "error": "too small 480x640"
+    },
+    {
+      "image": "https://australiansportfishingcharters.com/wp-content/uploads/2026/08/The-Ashgroves-480x657.webp",
+      "error": "too small 480x657"
+    },
+    {
+      "dup": "https://australiansportfishingcharters.com/wp-content/uploads/2026/08/Australian-sportfishing-charters-remote-mothership-fishing-expeditions-arnhem-land-608.webp"
+    },
+    {
+      "image": "https://australiansportfishingcharters.com/wp-content/uploads/2026/08/fresh-fish-prepared-onboard-sq.webp",
+      "error": "too small 400x400"
+    }
+  ]
+}

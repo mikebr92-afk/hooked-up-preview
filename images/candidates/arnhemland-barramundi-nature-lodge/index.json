@@ -1,0 +1,109 @@
+{
+  "slug": "arnhemland-barramundi-nature-lodge",
+  "request_hash": "a0eeef53a053",
+  "collected_at": "2026-10-29T04:08:45.640Z",
+  "pages_fetched": [
+    "https://www.barralodge.com.au/",
+    "https://barralodge.com.au/fishing/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1800,
+      "height": 700,
+      "original": "1800x700",
+      "source": "https://barralodge.com.au/wp-content/themes/barralodge/images/slider-2.jpg",
+      "page": "https://www.barralodge.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 1800,
+      "height": 700,
+      "original": "1800x700",
+      "source": "https://barralodge.com.au/wp-content/themes/barralodge/images/slider-5.jpg",
+      "page": "https://www.barralodge.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1800,
+      "height": 700,
+      "original": "1800x700",
+      "source": "https://barralodge.com.au/wp-content/themes/barralodge/images/slider-3.jpg",
+      "page": "https://www.barralodge.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1600,
+      "height": 700,
+      "original": "1600x700",
+      "source": "https://barralodge.com.au/wp-content/themes/barralodge/images/slider-4.jpg",
+      "page": "https://www.barralodge.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1800,
+      "height": 700,
+      "original": "1800x700",
+      "source": "https://barralodge.com.au/wp-content/themes/barralodge/images/slider-1.jpg",
+      "page": "https://www.barralodge.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1800,
+      "height": 700,
+      "original": "1800x700",
+      "source": "https://barralodge.com.au/wp-content/themes/barralodge/images/slider-7.jpg",
+      "page": "https://www.barralodge.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1800,
+      "height": 700,
+      "original": "1800x700",
+      "source": "https://barralodge.com.au/wp-content/themes/barralodge/images/slider-6.jpg",
+      "page": "https://www.barralodge.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1200,
+      "height": 799,
+      "original": "1200x799",
+      "source": "https://barralodge.com.au/wp-content/uploads/2016/04/OST-Barra-Fishing41.jpg",
+      "page": "https://barralodge.com.au/fishing/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.barralodge.com.au/",
+      "status": 200,
+      "final_url": "https://barralodge.com.au/",
+      "bytes": 26194
+    },
+    {
+      "page": "https://barralodge.com.au/fishing/",
+      "status": 200,
+      "final_url": "https://barralodge.com.au/fishing/",
+      "bytes": 28744
+    },
+    {
+      "image": "https://barralodge.com.au/wp-content/themes/barralodge/images/home-accomodation.jpg",
+      "error": "too small 600x360"
+    },
+    {
+      "image": "https://barralodge.com.au/wp-content/themes/barralodge/images/home-fishing.jpg",
+      "error": "too small 600x360"
+    },
+    {
+      "image": "https://barralodge.com.au/wp-content/themes/barralodge/images/home-location.jpg",
+      "error": "too small 300x180"
+    }
+  ]
+}

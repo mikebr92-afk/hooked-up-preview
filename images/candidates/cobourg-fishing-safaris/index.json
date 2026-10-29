@@ -1,7 +1,7 @@
 {
   "slug": "cobourg-fishing-safaris",
   "request_hash": "b1e1fc3fdf9c",
-  "collected_at": "2026-10-29T03:59:24.856Z",
+  "collected_at": "2026-10-29T04:04:15.615Z",
   "pages_fetched": [
     "https://www.cobourgfishingsafaris.com.au/",
     "https://venturenorth.com.au/tours/fishing-charters/",
@@ -13,8 +13,7 @@
     "https://www.cobourgfishingsafaris.com.au/northern-territory-tourism-blog/",
     "https://www.cobourgfishingsafaris.com.au/black-point-tours/black-point-tours",
     "https://www.cobourgfishingsafaris.com.au/privacy-policy",
-    "https://www.cobourgfishingsafaris.com.au/terms-and-conditions",
-    "https://venturenorth.com.au/book-now/"
+    "https://www.cobourgfishingsafaris.com.au/terms-and-conditions"
   ],
   "candidates": [
     {
@@ -49,30 +48,12 @@
       "width": 1200,
       "height": 630,
       "original": "1200x630",
-      "source": "https://venturenorth.com.au/assets/components/phpthumbof/cache/26_26-45.Headland%20Fishing%20-%20Aerial.54e36212e74bd74b21bedbeb901bd212.jpg",
-      "page": "https://venturenorth.com.au/tours/fishing-charters/",
-      "priority": true
-    },
-    {
-      "file": "c05.webp",
-      "width": 2000,
-      "height": 1500,
-      "original": "4000x3000",
-      "source": "https://venturenorth.com.au/assets/uploads/images/45/26_26-45.Headland%20Fishing%20-%20Aerial.jpg",
-      "page": "https://venturenorth.com.au/tours/fishing-charters/",
-      "priority": false
-    },
-    {
-      "file": "c06.webp",
-      "width": 1200,
-      "height": 630,
-      "original": "1200x630",
       "source": "https://cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/26_26-8.Cliff%20fishing%20-%20Aerial.6ec42bcf1909c6cc3f3d72be4b1d3eb0.jpg",
       "page": "https://www.cobourgfishingsafaris.com.au/about",
       "priority": true
     },
     {
-      "file": "c07.webp",
+      "file": "c05.webp",
       "width": 1600,
       "height": 1200,
       "original": "1600x1200",
@@ -81,7 +62,7 @@
       "priority": false
     },
     {
-      "file": "c08.webp",
+      "file": "c06.webp",
       "width": 1200,
       "height": 630,
       "original": "1200x630",
@@ -90,7 +71,7 @@
       "priority": true
     },
     {
-      "file": "c09.webp",
+      "file": "c07.webp",
       "width": 1600,
       "height": 1006,
       "original": "1600x1006",
@@ -99,7 +80,7 @@
       "priority": false
     },
     {
-      "file": "c10.webp",
+      "file": "c08.webp",
       "width": 1200,
       "height": 630,
       "original": "1200x630",
@@ -108,7 +89,7 @@
       "priority": true
     },
     {
-      "file": "c11.webp",
+      "file": "c09.webp",
       "width": 943,
       "height": 600,
       "original": "943x600",
@@ -117,7 +98,7 @@
       "priority": false
     },
     {
-      "file": "c12.webp",
+      "file": "c10.webp",
       "width": 1039,
       "height": 475,
       "original": "1039x475",
@@ -126,7 +107,7 @@
       "priority": false
     },
     {
-      "file": "c13.webp",
+      "file": "c11.webp",
       "width": 1200,
       "height": 630,
       "original": "1200x630",
@@ -135,7 +116,7 @@
       "priority": true
     },
     {
-      "file": "c14.webp",
+      "file": "c12.webp",
       "width": 1166,
       "height": 612,
       "original": "1166x612",
@@ -144,7 +125,7 @@
       "priority": true
     },
     {
-      "file": "c15.webp",
+      "file": "c13.webp",
       "width": 1563,
       "height": 612,
       "original": "1563x612",
@@ -153,13 +134,31 @@
       "priority": false
     },
     {
-      "file": "c16.webp",
+      "file": "c14.webp",
       "width": 972,
       "height": 510,
       "original": "972x510",
       "source": "https://cobourgfishingsafaris.com.au/assets/components/phpthumbof/cache/26_26-106.boat.deed1c38aaf447c49aefb0dcf1d65ddd.jpg",
       "page": "https://www.cobourgfishingsafaris.com.au/black-point-tours/black-point-tours",
       "priority": true
+    },
+    {
+      "file": "c15.webp",
+      "width": 1064,
+      "height": 708,
+      "original": "1064x708",
+      "source": "https://www.cobourgfishingsafaris.com.au/assets/uploads/content/images/victoria-settlement-cobourg-tours.jpg",
+      "page": "https://www.cobourgfishingsafaris.com.au/black-point-tours/black-point-tours",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 840,
+      "height": 560,
+      "original": "840x560",
+      "source": "https://www.cobourgfishingsafaris.com.au/assets/uploads/content/images/ray-cobourg-tours.jpg",
+      "page": "https://www.cobourgfishingsafaris.com.au/black-point-tours/black-point-tours",
+      "priority": false
     }
   ],
   "log": [
@@ -171,9 +170,7 @@
     },
     {
       "page": "https://venturenorth.com.au/tours/fishing-charters/",
-      "status": 200,
-      "final_url": "https://venturenorth.com.au/tours/fishing-charters/",
-      "bytes": 39125
+      "error": "The operation was aborted due to timeout"
     },
     {
       "page": "https://www.cobourgfishingsafaris.com.au/about",
@@ -230,12 +227,6 @@
       "bytes": 22086
     },
     {
-      "page": "https://venturenorth.com.au/book-now/",
-      "status": 200,
-      "final_url": "https://venturenorth.com.au/book-now/",
-      "bytes": 30749
-    },
-    {
       "image": "https://www.cobourgfishingsafaris.com.au/2025/images/accreditations-01.png",
       "error": "too small 94x95"
     },
@@ -266,70 +257,6 @@
     {
       "image": "https://customer-scwb94clidwa8d1o.cloudflarestream.com/d5caade6e69ae131b78b552cf70c4850/iframe?muted=true&preload=true&loop=true&autoplay=true&poster=https%3A%2F%2Fcustomer-scwb94clidwa8d1o.cloudflarestream.com%2Fd5caade6e69ae131b78b552cf70c4850%2Fthumbnails%2Fthumbnail.jpg",
       "error": "Input buffer contains unsupported image format"
-    },
-    {
-      "image": "https://venturenorth.com.au/tours/fishing-charters/assets/uploads/content/images/Cobourg_Fishing.jpg",
-      "error": "HTTP 404"
-    },
-    {
-      "image": "https://venturenorth.com.au/tours/fishing-charters/assets/uploads/content/images/MGlash.jpg",
-      "error": "HTTP 404"
-    },
-    {
-      "image": "https://venturenorth.com.au/assets/components/phpthumbof/cache/3-45.Barra%20Fishing%20-%20Rocky%20Headlands.25b02cb95cbbbd9b55fbb40426c9f9cd.jpg",
-      "error": "too small 78x78"
-    },
-    {
-      "image": "https://venturenorth.com.au/assets/components/phpthumbof/cache/3-45.2711.25b02cb95cbbbd9b55fbb40426c9f9cd.jpg",
-      "error": "too small 78x78"
-    },
-    {
-      "image": "https://venturenorth.com.au/assets/components/phpthumbof/cache/3-45.download%20%281%29.25b02cb95cbbbd9b55fbb40426c9f9cd.jpg",
-      "error": "too small 78x78"
-    },
-    {
-      "image": "https://venturenorth.com.au/assets/components/phpthumbof/cache/3-45.download%20%282%29.25b02cb95cbbbd9b55fbb40426c9f9cd.jpg",
-      "error": "too small 78x78"
-    },
-    {
-      "image": "https://venturenorth.com.au/assets/components/phpthumbof/cache/3-45.Cobourg%20Fishing%20Safaris.25b02cb95cbbbd9b55fbb40426c9f9cd.jpg",
-      "error": "too small 78x78"
-    },
-    {
-      "image": "https://venturenorth.com.au/assets/components/phpthumbof/cache/3-45.DSC_9358.25b02cb95cbbbd9b55fbb40426c9f9cd.jpg",
-      "error": "too small 78x78"
-    },
-    {
-      "image": "https://venturenorth.com.au/assets/components/phpthumbof/cache/3-45.176-86_DSC_5631.25b02cb95cbbbd9b55fbb40426c9f9cd.jpg",
-      "error": "too small 78x78"
-    },
-    {
-      "image": "https://venturenorth.com.au/assets/components/phpthumbof/cache/3-45.7S2A8778.25b02cb95cbbbd9b55fbb40426c9f9cd.jpg",
-      "error": "too small 78x78"
-    },
-    {
-      "image": "https://venturenorth.com.au/assets/components/phpthumbof/cache/3-45.7S2A9510.25b02cb95cbbbd9b55fbb40426c9f9cd.jpg",
-      "error": "too small 78x78"
-    },
-    {
-      "image": "https://venturenorth.com.au/assets/components/phpthumbof/cache/3-45.DSC_9193.25b02cb95cbbbd9b55fbb40426c9f9cd.jpg",
-      "error": "too small 78x78"
-    },
-    {
-      "image": "https://venturenorth.com.au/assets/components/phpthumbof/cache/3-45.Cobourg%20Coastal%20Camp%20Nibbles%203.25b02cb95cbbbd9b55fbb40426c9f9cd.jpg",
-      "error": "too small 78x78"
-    },
-    {
-      "image": "https://venturenorth.com.au/assets/components/phpthumbof/cache/3-45.download.25b02cb95cbbbd9b55fbb40426c9f9cd.jpg",
-      "error": "too small 78x78"
-    },
-    {
-      "image": "https://venturenorth.com.au/assets/components/phpthumbof/cache/accessibility-qtab.0b271ec707c3a651770bcc078657ed1b.png",
-      "error": "too small 640x202"
-    },
-    {
-      "image": "https://venturenorth.com.au/assets/components/phpthumbof/cache/qtab-shield.c93a5a2793c164de1918bf5f2495209b.jpg",
-      "error": "HTTP 525"
     },
     {
       "image": "https://www.cobourgfishingsafaris.com.au/assets/uploads/images/banner-xmas.jpg",

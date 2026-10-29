@@ -1,5 +1,5 @@
 {
-  "finished_at": "2026-10-29T04:00:00.955Z",
+  "finished_at": "2026-10-29T04:08:45.640Z",
   "summary": [
     {
       "slug": "research-nt-index",
@@ -31,87 +31,118 @@
     },
     {
       "slug": "cobourg-fishing-safaris",
-      "skipped": true
-    },
-    {
-      "slug": "research-nt-tours-c",
       "candidates": 0,
-      "pages": 12
-    },
-    {
-      "slug": "research-nt-tours-d",
-      "candidates": 0,
-      "pages": 12
-    },
-    {
-      "slug": "equinox-fishing-charters-darwin",
-      "candidates": 16,
-      "pages": 5
-    },
-    {
-      "slug": "offshore-boats-darwin",
-      "candidates": 16,
-      "pages": 11
-    },
-    {
-      "slug": "estuary-escapes-fishing-charters",
-      "candidates": 16,
-      "pages": 6
-    },
-    {
-      "slug": "alure-fishing-charters-nt",
-      "candidates": 16,
-      "pages": 11
-    },
-    {
-      "slug": "just-doon-it-fishing-charters",
-      "candidates": 16,
-      "pages": 6
-    },
-    {
-      "slug": "vision-sportfishing-charters",
-      "candidates": 4,
       "pages": 1
     },
     {
+      "slug": "research-nt-tours-c",
+      "skipped": true
+    },
+    {
+      "slug": "research-nt-tours-d",
+      "skipped": true
+    },
+    {
+      "slug": "equinox-fishing-charters-darwin",
+      "skipped": true
+    },
+    {
+      "slug": "offshore-boats-darwin",
+      "skipped": true
+    },
+    {
+      "slug": "estuary-escapes-fishing-charters",
+      "skipped": true
+    },
+    {
+      "slug": "alure-fishing-charters-nt",
+      "skipped": true
+    },
+    {
+      "slug": "just-doon-it-fishing-charters",
+      "skipped": true
+    },
+    {
+      "slug": "vision-sportfishing-charters",
+      "skipped": true
+    },
+    {
       "slug": "humbug-fishing-darwin",
-      "candidates": 16,
-      "pages": 11
+      "skipped": true
     },
     {
       "slug": "dna-barra-fishing",
-      "candidates": 16,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "kakadu-fishing-tours",
-      "candidates": 16,
-      "pages": 7
+      "skipped": true
     },
     {
       "slug": "barefoot-fishing-safaris",
-      "candidates": 16,
-      "pages": 11
+      "skipped": true
     },
     {
       "slug": "cobourg-fishing-safaris",
       "candidates": 16,
-      "pages": 12
+      "pages": 11
     },
     {
       "slug": "obj-adventures-nhulunbuy-fishing-charters",
+      "skipped": true
+    },
+    {
+      "slug": "icfish-daly-river",
+      "skipped": true
+    },
+    {
+      "slug": "point-stuart-wilderness-lodge",
+      "skipped": true
+    },
+    {
+      "slug": "research-nt-tours-e",
+      "candidates": 0,
+      "pages": 12
+    },
+    {
+      "slug": "research-nt-guess",
+      "candidates": 0,
+      "pages": 12
+    },
+    {
+      "slug": "australian-sportfishing-charters",
+      "candidates": 16,
+      "pages": 10
+    },
+    {
+      "slug": "groote-eylandt-sports-fishing",
+      "candidates": 16,
+      "pages": 4
+    },
+    {
+      "slug": "dhipirri-barra-and-sportfishing-lodge",
+      "candidates": 16,
+      "pages": 10
+    },
+    {
+      "slug": "tiwi-island-retreat",
       "candidates": 16,
       "pages": 8
     },
     {
-      "slug": "icfish-daly-river",
-      "candidates": 0,
-      "pages": 1
+      "slug": "river-and-reef-fishing-charters",
+      "candidates": 16,
+      "pages": 10
     },
     {
-      "slug": "point-stuart-wilderness-lodge",
+      "slug": "nt-fish-and-4x4",
       "candidates": 16,
-      "pages": 12
+      "pages": 5
+    },
+    {
+      "slug": "arnhemland-barramundi-nature-lodge",
+      "candidates": 8,
+      "pages": 2
     }
   ]
 }

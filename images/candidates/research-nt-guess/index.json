@@ -1,0 +1,86 @@
+{
+  "slug": "research-nt-guess",
+  "request_hash": "929156e1c32b",
+  "collected_at": "2026-10-29T04:04:50.744Z",
+  "pages_fetched": [
+    "https://www.reelscreaminbarrafishing.com.au/",
+    "https://www.yknotfishing.com.au/",
+    "https://www.wildmanfishing.com.au/",
+    "https://www.tiwiislandadventures.com.au/",
+    "https://www.dalyriverbarraresort.com.au/",
+    "https://www.springtidesafaris.com.au/",
+    "https://www.dundeebeachfishingcharters.com.au/",
+    "https://www.anglerschoice.com.au/",
+    "https://www.icfish.com.au/",
+    "https://www.wildmanfishingtours.com.au/",
+    "https://www.reelscreamin.com.au/",
+    "https://www.barramundiadventures.com.au/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.reelscreaminbarrafishing.com.au/",
+      "status": 200,
+      "final_url": "https://reelscreaminbarrafishing.com.au/",
+      "bytes": 182145
+    },
+    {
+      "page": "https://www.yknotfishing.com.au/",
+      "status": 200,
+      "final_url": "https://www.yknot.com.au/",
+      "bytes": 1262058
+    },
+    {
+      "page": "https://www.wildmanfishing.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://www.tiwiislandadventures.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://www.dalyriverbarraresort.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://www.springtidesafaris.com.au/",
+      "status": 200,
+      "final_url": "https://springtidesafaris.com.au/",
+      "bytes": 246967
+    },
+    {
+      "page": "https://www.dundeebeachfishingcharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.dundeebeachfishingcharters.com.au/",
+      "bytes": 1455809
+    },
+    {
+      "page": "https://www.anglerschoice.com.au/",
+      "status": 200,
+      "final_url": "https://www.anglerschoice.com.au/",
+      "bytes": 89225
+    },
+    {
+      "page": "https://www.icfish.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://www.wildmanfishingtours.com.au/",
+      "status": 200,
+      "final_url": "https://wildmanfishingtours.com.au/",
+      "bytes": 197741
+    },
+    {
+      "page": "https://www.reelscreamin.com.au/",
+      "status": 200,
+      "final_url": "https://reelscreaminbarrafishing.com.au/",
+      "bytes": 182145
+    },
+    {
+      "page": "https://www.barramundiadventures.com.au/",
+      "status": 200,
+      "final_url": "https://www.barramundiadventures.com.au/",
+      "bytes": 43941
+    }
+  ]
+}

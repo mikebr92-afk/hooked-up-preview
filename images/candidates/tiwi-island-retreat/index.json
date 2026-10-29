@@ -1,0 +1,264 @@
+{
+  "slug": "tiwi-island-retreat",
+  "request_hash": "0950bf8775b7",
+  "collected_at": "2026-10-29T04:06:51.600Z",
+  "pages_fetched": [
+    "https://tiwiislandretreat.com.au/",
+    "https://tiwiislandretreat.com.au/about/",
+    "https://tiwiislandretreat.com.au/gallery/",
+    "https://tiwiislandretreat.com.au/faq",
+    "https://tiwiislandretreat.com.au/p/fishing-adventure/",
+    "https://tiwiislandretreat.com.au/contact/",
+    "https://tiwiislandretreat.com.au/contact",
+    "https://tiwiislandretreat.com.au/faq/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1200,
+      "height": 630,
+      "original": "1200x630",
+      "source": "https://tiwiislandretreat.com.au/assets/uploads/2024/08/TIR_HOMEPAGE_SOCIAL_TILE.jpg",
+      "page": "https://tiwiislandretreat.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 1280,
+      "height": 720,
+      "original": "1280x720",
+      "source": "https://tiwiislandretreat.com.au/assets/uploads/revslider/video-media/TIR-Compile_Website-1_19.jpeg",
+      "page": "https://tiwiislandretreat.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1080,
+      "height": 780,
+      "original": "1080x780",
+      "source": "https://tiwiislandretreat.com.au/assets/uploads/2022/05/Home_SEC1_1080x780.jpg?id=3834",
+      "page": "https://tiwiislandretreat.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1080,
+      "height": 720,
+      "original": "1080x720",
+      "source": "https://tiwiislandretreat.com.au/assets/uploads/2024/10/Untitled-design-2.png?id=6534",
+      "page": "https://tiwiislandretreat.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1080,
+      "height": 721,
+      "original": "1080x721",
+      "source": "https://tiwiislandretreat.com.au/assets/uploads/2022/05/TIR-fishing-e1671433791964.png?id=5125",
+      "page": "https://tiwiislandretreat.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1080,
+      "height": 780,
+      "original": "1080x780",
+      "source": "https://tiwiislandretreat.com.au/assets/uploads/2022/05/home_about_1080x780.jpg?id=3804",
+      "page": "https://tiwiislandretreat.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1080,
+      "height": 720,
+      "original": "1080x720",
+      "source": "https://tiwiislandretreat.com.au/assets/uploads/2024/10/imresizer-1728546534054.png?id=6531",
+      "page": "https://tiwiislandretreat.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 2000,
+      "height": 667,
+      "original": "2160x720",
+      "source": "https://tiwiislandretreat.com.au/assets/uploads/2022/05/Newsletter_2160x720.jpg",
+      "page": "https://tiwiislandretreat.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2560x1707",
+      "source": "https://tiwiislandretreat.com.au/assets/uploads/2026/08/TIWI-200-scaled.jpg",
+      "page": "https://tiwiislandretreat.com.au/about/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 2000,
+      "height": 1123,
+      "original": "2560x1438",
+      "source": "https://tiwiislandretreat.com.au/assets/uploads/2026/08/Tiwi-Island-12-1-scaled.jpg?id=7155",
+      "page": "https://tiwiislandretreat.com.au/about/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2560x1707",
+      "source": "https://tiwiislandretreat.com.au/assets/uploads/2026/08/TIWI-424-1-scaled.jpg?id=7059)",
+      "page": "https://tiwiislandretreat.com.au/about/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 800,
+      "height": 500,
+      "original": "800x500",
+      "source": "https://tiwiislandretreat.com.au/assets/uploads/2022/05/Credit-Maxandfaye-DJI_0165-thegem-portfolio-metro.jpg",
+      "page": "https://tiwiislandretreat.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 692,
+      "height": 500,
+      "original": "692x500",
+      "source": "https://tiwiislandretreat.com.au/assets/uploads/2022/05/About_sec2_1080x780-thegem-portfolio-metro.jpg",
+      "page": "https://tiwiislandretreat.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 750,
+      "height": 500,
+      "original": "750x500",
+      "source": "https://tiwiislandretreat.com.au/assets/uploads/2022/06/Tiwi-Island-Retreat-Aussie-Fly-Fisher-3247-scaled-thegem-portfolio-metro.jpg",
+      "page": "https://tiwiislandretreat.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 750,
+      "height": 500,
+      "original": "750x500",
+      "source": "https://tiwiislandretreat.com.au/assets/uploads/2020/10/Gallery_LuxuryGlampingTents_1600x1000_002-thegem-portfolio-metro.jpg",
+      "page": "https://tiwiislandretreat.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 692,
+      "height": 500,
+      "original": "692x500",
+      "source": "https://tiwiislandretreat.com.au/assets/uploads/2022/05/Dining_1080x780_00-thegem-portfolio-metro.jpg",
+      "page": "https://tiwiislandretreat.com.au/gallery/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://tiwiislandretreat.com.au/",
+      "status": 200,
+      "final_url": "https://tiwiislandretreat.com.au/",
+      "bytes": 198737
+    },
+    {
+      "page": "https://tiwiislandretreat.com.au/about/",
+      "status": 200,
+      "final_url": "https://tiwiislandretreat.com.au/about/",
+      "bytes": 114478
+    },
+    {
+      "page": "https://tiwiislandretreat.com.au/gallery/",
+      "status": 200,
+      "final_url": "https://tiwiislandretreat.com.au/gallery/",
+      "bytes": 164252
+    },
+    {
+      "page": "https://tiwiislandretreat.com.au/faq",
+      "status": 200,
+      "final_url": "https://tiwiislandretreat.com.au/faq/",
+      "bytes": 137640
+    },
+    {
+      "page": "https://tiwiislandretreat.com.au/p/fishing-adventure/",
+      "status": 200,
+      "final_url": "https://tiwiislandretreat.com.au/p/fishing-adventure/",
+      "bytes": 137787
+    },
+    {
+      "page": "https://tiwiislandretreat.com.au/contact/",
+      "status": 200,
+      "final_url": "https://tiwiislandretreat.com.au/contact/",
+      "bytes": 112184
+    },
+    {
+      "page": "https://tiwiislandretreat.com.au/contact",
+      "status": 200,
+      "final_url": "https://tiwiislandretreat.com.au/contact/",
+      "bytes": 112184
+    },
+    {
+      "page": "https://tiwiislandretreat.com.au/faq/",
+      "status": 200,
+      "final_url": "https://tiwiislandretreat.com.au/faq/",
+      "bytes": 137640
+    },
+    {
+      "image": "https://tiwiislandretreat.com.au/assets/uploads/2024/11/Tiwi-Island-Retreat-Aussie-Fly-Fisher-0503-1-scaled.jpg?id=6567",
+      "error": "banner/strip 2560x606"
+    },
+    {
+      "image": "https://tiwiislandretreat.com.au/assets/uploads/2024/11/Tiwi-Island-Retreat-Aussie-Fly-Fisher-0503-1-scaled.jpg?id=6567)",
+      "error": "banner/strip 2560x606"
+    },
+    {
+      "dup": "https://tiwiislandretreat.com.au/assets/uploads/2022/05/Home_SEC1_1080x780.jpg?id=3834)"
+    },
+    {
+      "dup": "https://tiwiislandretreat.com.au/assets/uploads/2024/10/Untitled-design-2.png?id=6534)"
+    },
+    {
+      "dup": "https://tiwiislandretreat.com.au/assets/uploads/2022/05/TIR-fishing-e1671433791964.png?id=5125)"
+    },
+    {
+      "dup": "https://tiwiislandretreat.com.au/assets/uploads/2022/05/home_about_1080x780.jpg?id=3804)"
+    },
+    {
+      "dup": "https://tiwiislandretreat.com.au/assets/uploads/2024/10/imresizer-1728546534054.png?id=6531)"
+    },
+    {
+      "image": "https://scontent-syd2-1.cdninstagram.com/v/t51.82787-15/870410823_18220055980355904_851800136246981098_n.jpg?stp=dst-jpg_e35_tt6&#038;_nc_cat=103&#038;ccb=7-5&#038;_nc_sid=18de74&#038;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&#038;_nc_ohc=mwvqOjZL-pcQ7kNvwHAdvvX&#038;_nc_oc=Adq3Fx0zLpnkKZeNilM_HZBdngFCgbiD75Pe7Bb9SoNjAaG7hH3Io-jIsovyDOl6n-0&#038;_nc_zt=23&#038;_nc_ht=scontent-syd2-1.cdninstagram.com&#038;edm=ANo9K5cEAAAA&#038;_nc_gid=C0HtagHnf7p139fr0JH6eA&#038;_nc_tpa=Q5bMBQIqMPy7bJacVcDc4d3c1dH5O0Mmpts0wIyFXDy6L7lpVyYKpPMxEs3Muu_NxLZ8JL6K3j8JG8ncug&#038;oh=00_AQRdG5TH35d0LCJ3hHHTZAYF0pfA_aofuVeWqpUzk07vjA&#038;oe=6AE8116F",
+      "error": "HTTP 403"
+    },
+    {
+      "image": "https://scontent-syd2-1.cdninstagram.com/v/t51.82787-15/858088603_18219417115355904_3169699649400004687_n.jpg?stp=dst-jpg_e35_tt6&#038;_nc_cat=102&#038;ccb=7-5&#038;_nc_sid=18de74&#038;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&#038;_nc_ohc=AgxWek50C4cQ7kNvwFwO8LX&#038;_nc_oc=AdrqJTrHyZTeKtnMcSRXXm12XC4eb3Z1M-YqVAQqZJejM8rvt8qOeVCYFFpSyVo1CSc&#038;_nc_zt=23&#038;_nc_ht=scontent-syd2-1.cdninstagram.com&#038;edm=ANo9K5cEAAAA&#038;_nc_gid=C0HtagHnf7p139fr0JH6eA&#038;_nc_tpa=Q5bMBQJ_hzeCqzrf874Bs3fqhdZASQoXO7W2bUw0-cmSoMW8V_l0YANfge83LDI9ECvz5L5AzdmPAfhhMA&#038;oh=00_AQRRhvs8LZA4C2Cf2RbB4Znm72nnPAKWE8cVBOds0wfSnA&#038;oe=6AE7EB94",
+      "error": "HTTP 403"
+    },
+    {
+      "image": "https://scontent-syd2-1.cdninstagram.com/v/t51.82787-15/861473935_18219415585355904_210751849546021900_n.jpg?stp=dst-jpg_e35_tt6&#038;_nc_cat=101&#038;ccb=7-5&#038;_nc_sid=18de74&#038;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&#038;_nc_ohc=hYbgMY56uFoQ7kNvwFSl9K0&#038;_nc_oc=Adr0WijVVmT4LjXtrBykf1IT3kh4DoWMa1F8ChVCcFxnG4-w8MnXSWJTRvH4ivp0WLg&#038;_nc_zt=23&#038;_nc_ht=scontent-syd2-1.cdninstagram.com&#038;edm=ANo9K5cEAAAA&#038;_nc_gid=C0HtagHnf7p139fr0JH6eA&#038;_nc_tpa=Q5bMBQKYs1r0c-VBC-c6K2xpKHdhz6QQ0FDiMH66YXHpqe779-wYOJH16niKV0Q3VdA4d8GJ9fVU-GQhcw&#038;oh=00_AQRcyZcDxpAjUxRc42MRGvpMO5AJVOBR25cAt4qCxC5Hzw&#038;oe=6AE7E3FA",
+      "error": "HTTP 403"
+    },
+    {
+      "image": "https://scontent-syd2-1.cdninstagram.com/v/t51.82787-15/856770517_18219089845355904_8053736409069084409_n.jpg?stp=dst-jpg_e35_tt6&#038;_nc_cat=100&#038;ccb=7-5&#038;_nc_sid=18de74&#038;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&#038;_nc_ohc=xfLrGCLTEMgQ7kNvwHQrfFe&#038;_nc_oc=Adr5V-BPpnRwYgZWbQOX4cy5Fh9B_kYDRR-sqAxQM3rX9MrAgOsGYXY00Q8mQjSMkG8&#038;_nc_zt=23&#038;_nc_ht=scontent-syd2-1.cdninstagram.com&#038;edm=ANo9K5cEAAAA&#038;_nc_gid=C0HtagHnf7p139fr0JH6eA&#038;_nc_tpa=Q5bMBQLKfUeZJuB5ebVriXZuFB1mZQIQGEo0RyT9e_x57pWFAUHXvV9moX8DcY69YMA3Rg-Ad-iEqaQgFQ&#038;oh=00_AQS4QwLThCwnx4UuDNaGOA8OX5n_lYnXfZ4A4pNbA-2_gA&#038;oe=6AE7E169",
+      "error": "HTTP 403"
+    },
+    {
+      "image": "https://scontent-syd2-1.cdninstagram.com/v/t51.82787-15/851984960_18218569669355904_5312576268320097458_n.jpg?stp=dst-jpg_e35_tt6&#038;_nc_cat=100&#038;ccb=7-5&#038;_nc_sid=18de74&#038;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&#038;_nc_ohc=6WWpDp9dstwQ7kNvwGX_SkB&#038;_nc_oc=AdpIW_J4HpaYVEy2453BD9EUZk9jLVBGer90CDwx8r8h1b43nnbF_cI0qKky1L7ytYM&#038;_nc_zt=23&#038;_nc_ht=scontent-syd2-1.cdninstagram.com&#038;edm=ANo9K5cEAAAA&#038;_nc_gid=C0HtagHnf7p139fr0JH6eA&#038;_nc_tpa=Q5bMBQLcFu_OBu7vsE-9qdr4wONNq8Izl3SHHJi4dQxb7UMgPsUJzG9311vtSCCjZ55d5GZFsCbptGSXaA&#038;oh=00_AQQ7afT_9BRo-UVHUmClMR0q-neUWP49o00IrFiMXzsFQQ&#038;oe=6AE7F4E6",
+      "error": "HTTP 403"
+    },
+    {
+      "image": "https://scontent-syd2-1.cdninstagram.com/v/t51.82787-15/849535034_18218492230355904_2902841991696527845_n.jpg?stp=dst-jpg_e35_tt6&#038;_nc_cat=109&#038;ccb=7-5&#038;_nc_sid=18de74&#038;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&#038;_nc_ohc=oLWh1Wlp1UEQ7kNvwEYlCTP&#038;_nc_oc=Adoc0bLsHyNiPx9ee46QSOVuCJhATi5pzotRWvdc_iRRjokSwCkEEFWCSg78XRentH4&#038;_nc_zt=23&#038;_nc_ht=scontent-syd2-1.cdninstagram.com&#038;edm=ANo9K5cEAAAA&#038;_nc_gid=C0HtagHnf7p139fr0JH6eA&#038;_nc_tpa=Q5bMBQILgY7VrjYqElUPlI8EThikR2FSgxtNFmZYMaFw_Lb8SpfwDhmxlgqlrNr3JkoJ89xWsj7kd1eguQ&#038;oh=00_AQRNHvD5rasTZ579imMg7_qdmy3OVyw-FlZ_MChrlHVbyQ&#038;oe=6AE7E703",
+      "error": "HTTP 403"
+    },
+    {
+      "dup": "https://tiwiislandretreat.com.au/assets/uploads/2026/08/TIWI-83-1.jpg?id=7157)"
+    },
+    {
+      "dup": "https://tiwiislandretreat.com.au/assets/uploads/2026/08/Tiwi-Island-12-1-scaled.jpg?id=7155)"
+    }
+  ]
+}

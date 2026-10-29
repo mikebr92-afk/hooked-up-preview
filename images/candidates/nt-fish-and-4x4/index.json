@@ -1,0 +1,382 @@
+{
+  "slug": "nt-fish-and-4x4",
+  "request_hash": "70a13eec25fa",
+  "collected_at": "2026-10-29T04:08:29.994Z",
+  "pages_fetched": [
+    "https://www.ntfish4x4.com/",
+    "https://www.ntfish4x4.com/about",
+    "https://www.ntfish4x4.com/charters-tours",
+    "https://www.ntfish4x4.com/gallery",
+    "https://www.ntfish4x4.com/contact"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "4032x3024",
+      "source": "https://static.wixstatic.com/media/8047ed_b64e469c69bf4309a08a147846e5befd~mv2_d_4032_3024_s_4_2.jpg",
+      "page": "https://www.ntfish4x4.com/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "4032x3024",
+      "source": "https://static.wixstatic.com/media/8047ed_f49691629f0d41a1b95f5c88bed4ffac~mv2.jpg",
+      "page": "https://www.ntfish4x4.com/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 630,
+      "height": 453,
+      "original": "630x453",
+      "source": "https://static.wixstatic.com/media/8047ed_ffb5b66c86fd498da9afd613cad67895~mv2.png",
+      "page": "https://www.ntfish4x4.com/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 2000,
+      "height": 2000,
+      "original": "2160x2160",
+      "source": "https://static.wixstatic.com/media/8047ed_11d7a125994a459ab3bd405eb3552bbdf000.jpg",
+      "page": "https://www.ntfish4x4.com/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 2000,
+      "height": 2000,
+      "original": "5000x5000",
+      "source": "https://static.wixstatic.com/media/8047ed_2e358bad9f88413ba0ef212ef5be7244%7Emv2_d_5000_5000_s_4_2.png",
+      "page": "https://www.ntfish4x4.com/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1170,
+      "height": 757,
+      "original": "1170x757",
+      "source": "https://static.wixstatic.com/media/8047ed_bf0ce1e502d843459a06700f80c6f885%7Emv2.jpg",
+      "page": "https://www.ntfish4x4.com/about",
+      "priority": true
+    },
+    {
+      "file": "c07.webp",
+      "width": 720,
+      "height": 540,
+      "original": "720x540",
+      "source": "https://static.wixstatic.com/media/8047ed_4519f89443a448768d6c60a12b4a9d80~mv2.jpg",
+      "page": "https://www.ntfish4x4.com/about",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1920,
+      "height": 1121,
+      "original": "1920x1121",
+      "source": "https://static.wixstatic.com/media/8047ed_394c6797ea6845f296d9ceca4fa0d476~mv2.jpg",
+      "page": "https://www.ntfish4x4.com/about",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1440,
+      "height": 1920,
+      "original": "1440x1920",
+      "source": "https://static.wixstatic.com/media/8047ed_a9f69686b7b9486ca70dc0648514b8bb~mv2.jpg",
+      "page": "https://www.ntfish4x4.com/about",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 740,
+      "height": 757,
+      "original": "740x757",
+      "source": "https://static.wixstatic.com/media/8047ed_606ff110248049e5b2c92ad29abec55b~mv2.jpg",
+      "page": "https://www.ntfish4x4.com/about",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 911,
+      "height": 942,
+      "original": "911x942",
+      "source": "https://static.wixstatic.com/media/8047ed_395f8bdc524f42dfa41f0d00e3ec859d~mv2.jpg",
+      "page": "https://www.ntfish4x4.com/about",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 798,
+      "height": 472,
+      "original": "798x472",
+      "source": "https://static.wixstatic.com/media/8047ed_a9f69686b7b9486ca70dc0648514b8bb~mv2.jpg/v1/crop/x_55,y_445,w_1125,h_737/fill/w_798,h_472,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8047ed_a9f69686b7b9486ca70dc0648514b8bb~mv2.jpg",
+      "page": "https://www.ntfish4x4.com/about",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "4032x3024",
+      "source": "https://static.wixstatic.com/media/8047ed_c2e55e70f3704b6e828019018b04fefc~mv2_d_4032_3024_s_4_2.jpg",
+      "page": "https://www.ntfish4x4.com/charters-tours",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 960,
+      "height": 960,
+      "original": "960x960",
+      "source": "https://static.wixstatic.com/media/8047ed_6327c43264fe40d0b30626cef8892b66~mv2.jpg",
+      "page": "https://www.ntfish4x4.com/gallery",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "4608x3456",
+      "source": "https://static.wixstatic.com/media/8047ed_5b23ab9a76764dc290b9c84bf1da908e~mv2_d_4608_3456_s_4_2.jpg",
+      "page": "https://www.ntfish4x4.com/contact",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1970,
+      "height": 1970,
+      "original": "1970x1970",
+      "source": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/media/sloppyframe.3214ce8e.png",
+      "page": "https://www.ntfish4x4.com/contact",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.ntfish4x4.com/",
+      "status": 200,
+      "final_url": "https://www.ntfish4x4.com/",
+      "bytes": 623240
+    },
+    {
+      "page": "https://www.ntfish4x4.com/about",
+      "status": 200,
+      "final_url": "https://www.ntfish4x4.com/about",
+      "bytes": 668507
+    },
+    {
+      "page": "https://www.ntfish4x4.com/charters-tours",
+      "status": 200,
+      "final_url": "https://www.ntfish4x4.com/charters-tours",
+      "bytes": 677105
+    },
+    {
+      "page": "https://www.ntfish4x4.com/gallery",
+      "status": 200,
+      "final_url": "https://www.ntfish4x4.com/gallery",
+      "bytes": 627254
+    },
+    {
+      "page": "https://www.ntfish4x4.com/contact",
+      "status": 200,
+      "final_url": "https://www.ntfish4x4.com/contact",
+      "bytes": 670924
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/8047ed_b64e469c69bf4309a08a147846e5befd~mv2_d_4032_3024_s_4_2.jpg/v1/fill/w_2500,h_1875,al_c/8047ed_b64e469c69bf4309a08a147846e5befd~mv2_d_4032_3024_s_4_2.jpg"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/e316f544f9094143b9eac01f1f19e697.png",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/e316f544f9094143b9eac01f1f19e697.png/v1/fill/w_62,h_62,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e316f544f9094143b9eac01f1f19e697.png",
+      "error": "too small 62x62"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/a1b09fe8b7f04378a9fe076748ad4a6a.png",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/a1b09fe8b7f04378a9fe076748ad4a6a.png/v1/fill/w_62,h_62,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/a1b09fe8b7f04378a9fe076748ad4a6a.png",
+      "error": "too small 62x62"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/8d6893330740455c96d218258a458aa4.png",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/8d6893330740455c96d218258a458aa4.png/v1/fill/w_62,h_62,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8d6893330740455c96d218258a458aa4.png",
+      "error": "too small 62x62"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/8047ed_bc74d89da643434592d950f2f4b2be96~mv2.png",
+      "error": "too small 384x170"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/8047ed_bc74d89da643434592d950f2f4b2be96~mv2.png/v1/fill/w_277,h_123,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8047ed_bc74d89da643434592d950f2f4b2be96~mv2.png",
+      "error": "too small 277x123"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/8047ed_e3e38b40168440528cff87ce27a4162e~mv2.png",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/8047ed_e3e38b40168440528cff87ce27a4162e~mv2.png/v1/fill/w_144,h_144,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/craigs.png",
+      "error": "too small 144x144"
+    },
+    {
+      "image": "https://www.ntfish4x4.com/quality_auto/e316f544f9094143b9eac01f1f19e697.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.ntfish4x4.com/quality_auto/a1b09fe8b7f04378a9fe076748ad4a6a.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.ntfish4x4.com/quality_auto/8d6893330740455c96d218258a458aa4.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.ntfish4x4.com/quality_auto/8047ed_ffb5b66c86fd498da9afd613cad67895~mv2.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.ntfish4x4.com/quality_auto/8047ed_bc74d89da643434592d950f2f4b2be96~mv2.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.ntfish4x4.com/quality_auto/craigs.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/media/ironpatern.bb7ea6a2.png",
+      "error": "too small 167x171"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/8047ed_2e358bad9f88413ba0ef212ef5be7244%7Emv2_d_5000_5000_s_4_2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/8047ed_2e358bad9f88413ba0ef212ef5be7244%7Emv2_d_5000_5000_s_4_2.png",
+      "error": "too small 32x32"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/8047ed_2e358bad9f88413ba0ef212ef5be7244%7Emv2_d_5000_5000_s_4_2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/8047ed_2e358bad9f88413ba0ef212ef5be7244%7Emv2_d_5000_5000_s_4_2.png",
+      "error": "too small 180x180"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/8047ed_f49691629f0d41a1b95f5c88bed4ffac~mv2.jpg/v1/fill/w_288,h_216,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/8047ed_f49691629f0d41a1b95f5c88bed4ffac~mv2.jpg",
+      "error": "too small 288x216"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/e316f544f9094143b9eac01f1f19e697.png/v1/fill/w_124,h_124,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e316f544f9094143b9eac01f1f19e697.png",
+      "error": "too small 124x124"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/a1b09fe8b7f04378a9fe076748ad4a6a.png/v1/fill/w_124,h_124,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/a1b09fe8b7f04378a9fe076748ad4a6a.png",
+      "error": "too small 124x124"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/8d6893330740455c96d218258a458aa4.png/v1/fill/w_124,h_124,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8d6893330740455c96d218258a458aa4.png",
+      "error": "too small 124x124"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/8047ed_ffb5b66c86fd498da9afd613cad67895~mv2.png/v1/crop/x_23,y_17,w_587,h_422/fill/w_341,h_245,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8047ed_ffb5b66c86fd498da9afd613cad67895~mv2.png",
+      "error": "too small 341x245"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/8047ed_ffb5b66c86fd498da9afd613cad67895~mv2.png/v1/crop/x_23,y_17,w_587,h_422/fill/w_682,h_490,al_c,lg_1,q_85,enc_avif,quality_auto/8047ed_ffb5b66c86fd498da9afd613cad67895~mv2.png"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/8047ed_bc74d89da643434592d950f2f4b2be96~mv2.png/v1/fill/w_536,h_238,al_c,lg_1,q_85,enc_avif,quality_auto/8047ed_bc74d89da643434592d950f2f4b2be96~mv2.png",
+      "error": "too small 536x238"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/8047ed_11d7a125994a459ab3bd405eb3552bbdf000.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/8047ed_11d7a125994a459ab3bd405eb3552bbdf000.jpg",
+      "error": "too small 147x147"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/8047ed_e3e38b40168440528cff87ce27a4162e~mv2.png/v1/fill/w_280,h_280,al_c,lg_1,q_85,enc_avif,quality_auto/craigs.png",
+      "error": "too small 280x280"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/8047ed_bf0ce1e502d843459a06700f80c6f885%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/8047ed_bf0ce1e502d843459a06700f80c6f885%7Emv2.jpg"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/8047ed_14ce79b5b38e48819a7ba3067d46027b~mv2.jpg",
+      "error": "too small 563x800"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/8047ed_14ce79b5b38e48819a7ba3067d46027b~mv2.jpg/v1/fill/w_188,h_188,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Daly%20river%20%26%20Amangal%20Images%20-%20Web-23_edi.jpg",
+      "error": "too small 188x188"
+    },
+    {
+      "image": "https://www.ntfish4x4.com/quality_auto/8047ed_394c6797ea6845f296d9ceca4fa0d476~mv2.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.ntfish4x4.com/quality_auto/8047ed_a9f69686b7b9486ca70dc0648514b8bb~mv2.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.ntfish4x4.com/quality_auto/Daly%20river%20%26%20Amangal%20Images%20-%20Web-23_edi.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.ntfish4x4.com/quality_auto/18292324858095836_edited.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.ntfish4x4.com/quality_auto/18468669253013941_edited.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/8047ed_2e358bad9f88413ba0ef212ef5be7244%7Emv2_d_5000_5000_s_4_2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/8047ed_2e358bad9f88413ba0ef212ef5be7244%7Emv2_d_5000_5000_s_4_2.png",
+      "error": "too small 192x192"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/8047ed_4519f89443a448768d6c60a12b4a9d80~mv2.jpg/v1/fill/w_288,h_216,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/8047ed_4519f89443a448768d6c60a12b4a9d80~mv2.jpg",
+      "error": "too small 288x216"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/8047ed_394c6797ea6845f296d9ceca4fa0d476~mv2.jpg/v1/crop/x_2,y_36,w_1918,h_1085/fill/w_438,h_236,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8047ed_394c6797ea6845f296d9ceca4fa0d476~mv2.jpg",
+      "error": "too small 438x236"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/8047ed_394c6797ea6845f296d9ceca4fa0d476~mv2.jpg/v1/crop/x_2,y_36,w_1918,h_1085/fill/w_876,h_472,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8047ed_394c6797ea6845f296d9ceca4fa0d476~mv2.jpg"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/8047ed_a9f69686b7b9486ca70dc0648514b8bb~mv2.jpg/v1/crop/x_55,y_445,w_1125,h_737/fill/w_399,h_236,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8047ed_a9f69686b7b9486ca70dc0648514b8bb~mv2.jpg",
+      "error": "too small 399x236"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/8047ed_14ce79b5b38e48819a7ba3067d46027b~mv2.jpg/v1/fill/w_376,h_376,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Daly%20river%20%26%20Amangal%20Images%20-%20Web-23_edi.jpg",
+      "error": "too small 376x376"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/8047ed_606ff110248049e5b2c92ad29abec55b~mv2.jpg/v1/fill/w_196,h_190,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/18292324858095836_edited.jpg",
+      "error": "too small 196x190"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/8047ed_606ff110248049e5b2c92ad29abec55b~mv2.jpg/v1/fill/w_392,h_380,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/18292324858095836_edited.jpg",
+      "error": "too small 392x380"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/8047ed_395f8bdc524f42dfa41f0d00e3ec859d~mv2.jpg/v1/fill/w_188,h_188,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/18468669253013941_edited.jpg",
+      "error": "too small 188x188"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/8047ed_395f8bdc524f42dfa41f0d00e3ec859d~mv2.jpg/v1/fill/w_376,h_376,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/18468669253013941_edited.jpg",
+      "error": "too small 376x376"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/8047ed_c2e55e70f3704b6e828019018b04fefc~mv2_d_4032_3024_s_4_2.jpg/v1/fill/w_288,h_216,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/8047ed_c2e55e70f3704b6e828019018b04fefc~mv2_d_4032_3024_s_4_2.jpg",
+      "error": "too small 288x216"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/8047ed_6327c43264fe40d0b30626cef8892b66~mv2.jpg/v1/fill/w_288,h_288,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/8047ed_6327c43264fe40d0b30626cef8892b66~mv2.jpg",
+      "error": "too small 288x288"
+    }
+  ]
+}
