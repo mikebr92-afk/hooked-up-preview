@@ -1,0 +1,17 @@
+{
+  "slug": "research-ais-nc",
+  "request_hash": "da6ccfeeaaf6",
+  "collected_at": "2026-10-29T19:34:17.447Z",
+  "pages_fetched": [
+    "https://www.vesselfinder.com/vessels/details/503333000"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.vesselfinder.com/vessels/details/503333000",
+      "status": 200,
+      "final_url": "https://www.vesselfinder.com/vessels/details/503333000",
+      "bytes": 42540
+    }
+  ]
+}

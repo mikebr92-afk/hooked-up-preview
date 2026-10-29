@@ -1,0 +1,166 @@
+{
+  "slug": "mikat-charters",
+  "request_hash": "1d0e040c420b",
+  "collected_at": "2026-10-29T19:34:28.963Z",
+  "pages_fetched": [
+    "https://mikatcharters.com.au/about-us/",
+    "https://mikatcharters.com.au/trip-reports-gallery/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 940,
+      "height": 788,
+      "original": "940x788",
+      "source": "https://mikatcharters.com.au/wp-content/uploads/2023/04/Untitled-design-17.png",
+      "page": "https://mikatcharters.com.au/about-us/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 1001,
+      "height": 1001,
+      "original": "1001x1001",
+      "source": "https://mikatcharters.com.au/wp-content/uploads/2023/03/numbers_1.png",
+      "page": "https://mikatcharters.com.au/about-us/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1001,
+      "height": 1001,
+      "original": "1001x1001",
+      "source": "https://mikatcharters.com.au/wp-content/uploads/2023/03/numbers_2.png",
+      "page": "https://mikatcharters.com.au/about-us/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1001,
+      "height": 1001,
+      "original": "1001x1001",
+      "source": "https://mikatcharters.com.au/wp-content/uploads/2023/03/numbers_4.png",
+      "page": "https://mikatcharters.com.au/about-us/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 768,
+      "height": 768,
+      "original": "768x768",
+      "source": "https://mikatcharters.com.au/wp-content/uploads/2023/03/numbers_2-768x768.png",
+      "page": "https://mikatcharters.com.au/about-us/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 768,
+      "height": 768,
+      "original": "768x768",
+      "source": "https://mikatcharters.com.au/wp-content/uploads/2023/03/numbers_3-768x768.png",
+      "page": "https://mikatcharters.com.au/about-us/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 2000,
+      "height": 1000,
+      "original": "6912x3456",
+      "source": "https://mikatcharters.com.au/wp-content/uploads/2023/03/Untitled-design-2.png",
+      "page": "direct",
+      "priority": true
+    },
+    {
+      "file": "c08.webp",
+      "width": 2000,
+      "height": 1000,
+      "original": "6912x3456",
+      "source": "https://mikatcharters.com.au/wp-content/uploads/2023/03/Untitled-design-3.png",
+      "page": "direct",
+      "priority": true
+    },
+    {
+      "file": "c09.webp",
+      "width": 940,
+      "height": 788,
+      "original": "940x788",
+      "source": "https://mikatcharters.com.au/wp-content/uploads/2023/03/2-1.png",
+      "page": "direct",
+      "priority": true
+    }
+  ],
+  "log": [
+    {
+      "page": "https://mikatcharters.com.au/about-us/",
+      "status": 200,
+      "final_url": "https://mikatcharters.com.au/about-us/",
+      "bytes": 127246
+    },
+    {
+      "page": "https://mikatcharters.com.au/trip-reports-gallery/",
+      "status": 200,
+      "final_url": "https://mikatcharters.com.au/trip-reports-gallery/",
+      "bytes": 111460
+    },
+    {
+      "image": "https://mikatcharters.com.au/wp-content/uploads/2023/04/Untitled_design__14_-removebg-preview-1.png",
+      "error": "too small 500x500"
+    },
+    {
+      "dup": "https://mikatcharters.com.au/wp-content/uploads/2023/03/numbers_3.png"
+    },
+    {
+      "image": "https://mikatcharters.com.au/wp-content/uploads/2023/04/Untitled_design__14_-removebg-preview-1-300x300.png",
+      "error": "too small 300x300"
+    },
+    {
+      "image": "https://mikatcharters.com.au/wp-content/uploads/2023/04/Untitled_design__14_-removebg-preview-1-150x150.png",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://mikatcharters.com.au/wp-content/uploads/2023/04/Untitled-design-17-300x251.png",
+      "error": "too small 300x251"
+    },
+    {
+      "dup": "https://mikatcharters.com.au/wp-content/uploads/2023/04/Untitled-design-17-768x644.png"
+    },
+    {
+      "image": "https://mikatcharters.com.au/wp-content/uploads/2023/03/numbers_1-300x300.png",
+      "error": "too small 300x300"
+    },
+    {
+      "image": "https://mikatcharters.com.au/wp-content/uploads/2023/03/numbers_1-150x150.png",
+      "error": "too small 150x150"
+    },
+    {
+      "dup": "https://mikatcharters.com.au/wp-content/uploads/2023/03/numbers_1-768x768.png"
+    },
+    {
+      "image": "https://mikatcharters.com.au/wp-content/uploads/2023/03/numbers_2-300x300.png",
+      "error": "too small 300x300"
+    },
+    {
+      "image": "https://mikatcharters.com.au/wp-content/uploads/2023/03/numbers_2-150x150.png",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://mikatcharters.com.au/wp-content/uploads/2023/03/numbers_3-300x300.png",
+      "error": "too small 300x300"
+    },
+    {
+      "image": "https://mikatcharters.com.au/wp-content/uploads/2023/03/numbers_3-150x150.png",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://mikatcharters.com.au/wp-content/uploads/2023/03/numbers_4-300x300.png",
+      "error": "too small 300x300"
+    },
+    {
+      "image": "https://mikatcharters.com.au/wp-content/uploads/2023/03/numbers_4-150x150.png",
+      "error": "too small 150x150"
+    },
+    {
+      "dup": "https://mikatcharters.com.au/wp-content/uploads/2023/03/numbers_4-768x768.png"
+    }
+  ]
+}

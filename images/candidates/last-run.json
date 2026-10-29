@@ -1,5 +1,5 @@
 {
-  "finished_at": "2026-10-29T19:33:17.884Z",
+  "finished_at": "2026-10-29T19:34:28.964Z",
   "summary": [
     {
       "slug": "research-gr-1770",
@@ -128,23 +128,29 @@
     },
     {
       "slug": "reef-fish-and-dive-1770-wb",
-      "candidates": 0,
-      "pages": 4
+      "skipped": true
     },
     {
       "slug": "boobybird-wb",
-      "candidates": 0,
-      "pages": 2
+      "skipped": true
     },
     {
       "slug": "research-wb-1770-others",
-      "candidates": 0,
-      "pages": 2
+      "skipped": true
     },
     {
       "slug": "research-ais",
+      "skipped": true
+    },
+    {
+      "slug": "research-ais-nc",
       "candidates": 0,
-      "pages": 3
+      "pages": 1
+    },
+    {
+      "slug": "mikat-charters",
+      "candidates": 9,
+      "pages": 2
     }
   ]
 }
