@@ -1,0 +1,17 @@
+{
+  "slug": "cairns-sportfishing",
+  "request_hash": "ba357a023fd2",
+  "collected_at": "2026-10-29T03:07:14.305Z",
+  "pages_fetched": [
+    "https://fishingbooker.com/charters/view/36475"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://fishingbooker.com/charters/view/36475",
+      "status": 403,
+      "final_url": "https://fishingbooker.com/charters/view/36475",
+      "bytes": 5838
+    }
+  ]
+}

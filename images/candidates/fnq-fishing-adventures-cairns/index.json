@@ -1,0 +1,24 @@
+{
+  "slug": "fnq-fishing-adventures-cairns",
+  "request_hash": "97ac281c260c",
+  "collected_at": "2026-10-29T03:07:06.351Z",
+  "pages_fetched": [
+    "https://www.cairnsfishingcharters.com/",
+    "https://fishingbooker.com/charters/view/38612"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.cairnsfishingcharters.com/",
+      "status": 401,
+      "final_url": "https://www.cairnsfishingcharters.com/",
+      "bytes": 3080
+    },
+    {
+      "page": "https://fishingbooker.com/charters/view/38612",
+      "status": 403,
+      "final_url": "https://fishingbooker.com/charters/view/38612",
+      "bytes": 5838
+    }
+  ]
+}

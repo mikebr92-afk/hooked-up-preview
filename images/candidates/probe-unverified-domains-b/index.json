@@ -1,0 +1,30 @@
+{
+  "slug": "probe-unverified-domains-b",
+  "request_hash": "bcc4f62d50b2",
+  "collected_at": "2026-10-29T03:07:29.591Z",
+  "pages_fetched": [
+    "https://www.daintreebarramundiadventures.com.au/",
+    "https://www.cooktownoffshorefishingcharters.com.au/",
+    "https://www.topshotcharters.com.au/",
+    "https://www.eyespyfishingcharters.com.au/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.daintreebarramundiadventures.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://www.cooktownoffshorefishingcharters.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://www.topshotcharters.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://www.eyespyfishingcharters.com.au/",
+      "error": "fetch failed"
+    }
+  ]
+}

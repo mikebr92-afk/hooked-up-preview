@@ -1,0 +1,134 @@
+{
+  "slug": "probe-unverified-domains-a",
+  "request_hash": "a59eeccd6717",
+  "collected_at": "2026-10-29T03:07:28.768Z",
+  "pages_fetched": [
+    "https://www.townsvillebigfishcharters.com.au/",
+    "https://www.whitsundayfishingadventures.com.au/",
+    "https://www.bowenreeffishingcharters.com.au/",
+    "https://www.extremesportfishing.com.au/",
+    "https://www.portdouglasfishingcharters.com.au/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1200,
+      "height": 630,
+      "original": "1200x630",
+      "source": "https://extremesportfishing.com.au/api/og?type=default&v=2",
+      "page": "https://www.extremesportfishing.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 2000,
+      "height": 1126,
+      "original": "2355x1326",
+      "source": "https://cdn.shopify.com/s/files/1/0748/5410/5261/files/20260711_215013.png?v=1787062385",
+      "page": "https://www.extremesportfishing.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c03.webp",
+      "width": 2000,
+      "height": 1125,
+      "original": "5085x2860",
+      "source": "https://cdn.shopify.com/s/files/1/0748/5410/5261/files/20260711_224615.png?v=1787062156",
+      "page": "https://www.extremesportfishing.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c04.webp",
+      "width": 944,
+      "height": 2000,
+      "original": "1263x2675",
+      "source": "https://cdn.shopify.com/s/files/1/0748/5410/5261/files/20260711_225306.png?v=1787062296",
+      "page": "https://www.extremesportfishing.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c05.webp",
+      "width": 2000,
+      "height": 1125,
+      "original": "2722x1531",
+      "source": "https://cdn.shopify.com/s/files/1/0748/5410/5261/files/20260711_215608.png?v=1787062203",
+      "page": "https://www.extremesportfishing.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c06.webp",
+      "width": 1216,
+      "height": 1273,
+      "original": "1216x1273",
+      "source": "https://cdn.shopify.com/s/files/1/0748/5410/5261/files/20260818_230649.png?v=1787062421",
+      "page": "https://www.extremesportfishing.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c07.webp",
+      "width": 2000,
+      "height": 1125,
+      "original": "5068x2851",
+      "source": "https://cdn.shopify.com/s/files/1/0748/5410/5261/files/20260711_224421.png?v=1787062270",
+      "page": "https://www.extremesportfishing.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c08.webp",
+      "width": 716,
+      "height": 1273,
+      "original": "716x1273",
+      "source": "https://cdn.shopify.com/s/files/1/0748/5410/5261/files/20260818_230725.jpg?v=1787060080",
+      "page": "https://www.extremesportfishing.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c09.webp",
+      "width": 2000,
+      "height": 1129,
+      "original": "2109x1191",
+      "source": "https://cdn.shopify.com/s/files/1/0748/5410/5261/files/20260818_230705.jpg?v=1787059752",
+      "page": "https://www.extremesportfishing.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c10.webp",
+      "width": 716,
+      "height": 1273,
+      "original": "716x1273",
+      "source": "https://cdn.shopify.com/s/files/1/0748/5410/5261/files/20260818_230857.jpg?v=1787059769",
+      "page": "https://www.extremesportfishing.com.au/",
+      "priority": true
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.townsvillebigfishcharters.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://www.whitsundayfishingadventures.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://www.bowenreeffishingcharters.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://www.extremesportfishing.com.au/",
+      "status": 200,
+      "final_url": "https://extremesportfishing.com.au/",
+      "bytes": 58316
+    },
+    {
+      "page": "https://www.portdouglasfishingcharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.portdouglasfishingcharters.com.au/",
+      "bytes": 114
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0748/5410/5261/files/20260711_225412.png?v=1787062348",
+      "error": "banner/strip 1228x2807"
+    }
+  ]
+}
