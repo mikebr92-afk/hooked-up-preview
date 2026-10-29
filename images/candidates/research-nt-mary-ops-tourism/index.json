@@ -1,0 +1,52 @@
+{
+  "slug": "research-nt-mary-ops-tourism",
+  "request_hash": "56d782efd9ae",
+  "collected_at": "2026-10-29T19:22:39.064Z",
+  "pages_fetched": [
+    "https://northernterritory.com/tours/fish-the-top-end",
+    "https://northernterritory.com/tours/fish-the-top-end/corroboree-billabong-barra-fishing",
+    "https://northernterritory.com/tours/wildman-fishing",
+    "https://www.tourismtopend.com.au/tours/spring-tide-safaris",
+    "https://localista.com.au/listing/au/darwin-2/tours/obsession-fishing-safaris-private-day-adventures",
+    "https://barrahotline.rezdy.com/catalog/134041/obsession-fishing-safaris?iframe=1"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://northernterritory.com/tours/fish-the-top-end",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/fish-the-top-end",
+      "bytes": 512144
+    },
+    {
+      "page": "https://northernterritory.com/tours/fish-the-top-end/corroboree-billabong-barra-fishing",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/fish-the-top-end/corroboree-billabong-barra-fishing",
+      "bytes": 513190
+    },
+    {
+      "page": "https://northernterritory.com/tours/wildman-fishing",
+      "status": 404,
+      "final_url": "https://northernterritory.com/tours/wildman-fishing",
+      "bytes": 517251
+    },
+    {
+      "page": "https://www.tourismtopend.com.au/tours/spring-tide-safaris",
+      "status": 200,
+      "final_url": "https://www.visittopend.com.au/tours/spring-tide-safaris",
+      "bytes": 119741
+    },
+    {
+      "page": "https://localista.com.au/listing/au/darwin-2/tours/obsession-fishing-safaris-private-day-adventures",
+      "status": 200,
+      "final_url": "https://darwinlocalista.com.au/listing/obsession-fishing-safaris-private-day-adventures?place=darwin-suburb%2C+nt%2C+au",
+      "bytes": 77246
+    },
+    {
+      "page": "https://barrahotline.rezdy.com/catalog/134041/obsession-fishing-safaris?iframe=1",
+      "status": 403,
+      "final_url": "https://barrahotline.rezdy.com/catalog/134041/obsession-fishing-safaris?iframe=1",
+      "bytes": 5185
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "research-nt-mary-rules",
+  "request_hash": "0d7edd724f18",
+  "collected_at": "2026-10-29T19:22:28.946Z",
+  "pages_fetched": [
+    "https://nt.gov.au/marine/recreational-fishing/rules-for-fishing-in-specific-areas/mary-river-fish-management-zone",
+    "https://nt.gov.au/marine/recreational-fishing/rules-for-fishing-in-specific-areas",
+    "https://nt.gov.au/marine/recreational-fishing/fishing-rules-and-regulations/barramundi-seasonal-closures",
+    "https://nt.gov.au/marine/recreational-fishing/fishing-rules-and-regulations/possession-limits-for-fish"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://nt.gov.au/marine/recreational-fishing/rules-for-fishing-in-specific-areas/mary-river-fish-management-zone",
+      "status": 403,
+      "final_url": "https://nt.gov.au/marine/recreational-fishing/rules-for-fishing-in-specific-areas/mary-river-fish-management-zone",
+      "bytes": 6143
+    },
+    {
+      "page": "https://nt.gov.au/marine/recreational-fishing/rules-for-fishing-in-specific-areas",
+      "status": 403,
+      "final_url": "https://nt.gov.au/marine/recreational-fishing/rules-for-fishing-in-specific-areas",
+      "bytes": 6004
+    },
+    {
+      "page": "https://nt.gov.au/marine/recreational-fishing/fishing-rules-and-regulations/barramundi-seasonal-closures",
+      "status": 403,
+      "final_url": "https://nt.gov.au/marine/recreational-fishing/fishing-rules-and-regulations/barramundi-seasonal-closures",
+      "bytes": 6116
+    },
+    {
+      "page": "https://nt.gov.au/marine/recreational-fishing/fishing-rules-and-regulations/possession-limits-for-fish",
+      "status": 403,
+      "final_url": "https://nt.gov.au/marine/recreational-fishing/fishing-rules-and-regulations/possession-limits-for-fish",
+      "bytes": 6110
+    }
+  ]
+}

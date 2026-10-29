@@ -1,0 +1,43 @@
+{
+  "slug": "research-nt-katherine-tourism",
+  "request_hash": "b441dc1e533b",
+  "collected_at": "2026-10-29T19:22:45.541Z",
+  "pages_fetched": [
+    "https://northernterritory.com/katherine-and-surrounds/see-and-do/outdoor-activities/fishing",
+    "https://tourismtopend.com.au/katherine-and-surrounds-tours-things-to-do-adventure",
+    "https://www.visittopend.com.au/plan-trip/regions/katherine-region/timber-creek-the-victoria-river/timber-creek-connection/timber-creek-fishing",
+    "https://www.visitkatherine.com.au/spring-tide-safaris",
+    "https://www.visitkatherine.com.au/tours"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://northernterritory.com/katherine-and-surrounds/see-and-do/outdoor-activities/fishing",
+      "status": 200,
+      "final_url": "https://northernterritory.com/katherine-and-surrounds/see-and-do/outdoor-activities/fishing",
+      "bytes": 550232
+    },
+    {
+      "page": "https://tourismtopend.com.au/katherine-and-surrounds-tours-things-to-do-adventure",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://www.visittopend.com.au/plan-trip/regions/katherine-region/timber-creek-the-victoria-river/timber-creek-connection/timber-creek-fishing",
+      "status": 200,
+      "final_url": "https://www.visittopend.com.au/plan-trip/regions/katherine-region/timber-creek-the-victoria-river/timber-creek-connection/timber-creek-fishing",
+      "bytes": 109513
+    },
+    {
+      "page": "https://www.visitkatherine.com.au/spring-tide-safaris",
+      "status": 200,
+      "final_url": "https://www.visitkatherine.com.au/spring-tide-safaris",
+      "bytes": 95682
+    },
+    {
+      "page": "https://www.visitkatherine.com.au/tours",
+      "status": 404,
+      "final_url": "https://www.visitkatherine.com.au/tours",
+      "bytes": 30898
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "research-nt-mary-tourism",
+  "request_hash": "55f62d47ab18",
+  "collected_at": "2026-10-29T19:22:28.538Z",
+  "pages_fetched": [
+    "https://northernterritory.com/darwin-and-surrounds/destinations/mary-river",
+    "https://northernterritory.com/darwin-and-surrounds/destinations/mary-river-national-park",
+    "https://nt.gov.au/parks/find-a-park/mary-river-national-park",
+    "https://fishabout.com.au/?p=6490"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://northernterritory.com/darwin-and-surrounds/destinations/mary-river",
+      "status": 200,
+      "final_url": "https://northernterritory.com/darwin-and-surrounds/destinations/mary-river",
+      "bytes": 561131
+    },
+    {
+      "page": "https://northernterritory.com/darwin-and-surrounds/destinations/mary-river-national-park",
+      "status": 200,
+      "final_url": "https://northernterritory.com/darwin-and-surrounds/destinations/mary-river",
+      "bytes": 561131
+    },
+    {
+      "page": "https://nt.gov.au/parks/find-a-park/mary-river-national-park",
+      "status": 403,
+      "final_url": "https://nt.gov.au/parks/find-a-park/mary-river-national-park",
+      "bytes": 5920
+    },
+    {
+      "page": "https://fishabout.com.au/?p=6490",
+      "status": 200,
+      "final_url": "https://fishabout.com.au/destinations/corroboree-billabong/",
+      "bytes": 223485
+    }
+  ]
+}
