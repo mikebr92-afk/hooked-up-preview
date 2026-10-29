@@ -11,9 +11,8 @@
 // It also returns real 404s for unknown charters/locations and generates
 // /sitemap.xml and /llms.txt from the live listing data in index.html.
 //
-// Listing data is read from the operator records embedded in the app bundle
-// (Rr = listing cards, p1 = full operator records) — index.html stays the single
-// source of truth.
+// Listing cards (Rr) are read from the app bundle in index.html; full operator
+// records come from /data/operators.json. Both are written by the listings build.
 
 import * as SEO from './site-seo.js';
 
@@ -101,47 +100,54 @@ function parseLiteralAt(src, start) {
 }
 
 // ── listing data (cached per isolate, keyed on the deployed index.html) ─────
-let cache = { key: null, cards: [], ops: new Map() };
+let cache = { key: null, cards: [] };
 
 function data(html) {
   const key = html.length + ':' + html.slice(html.length >> 1, (html.length >> 1) + 64);
   if (cache.key !== key) {
     const at = html.indexOf('Rr=[');
-    cache = { key, cards: at >= 0 ? parseLiteralAt(html, at + 3) : [], ops: new Map() };
+    cache = { key, cards: at >= 0 ? parseLiteralAt(html, at + 3) : [] };
   }
   return cache;
 }
 
-function operator(html, c, slug) {
-  if (c.ops.has(slug)) return c.ops.get(slug);
-  const marker = `id:"op-`;
-  const s = `",slug:"${slug}",`;
-  let op = null;
-  for (let i = html.indexOf(s); i >= 0; i = html.indexOf(s, i + 1)) {
-    const start = html.lastIndexOf(marker, i);
-    if (start > 0 && html[start - 1] === '{' && i - start < 20) {
-      op = parseLiteralAt(html, start - 1);
-      break;
-    }
-  }
-  if (op && op.status !== 'active') op = null;
-  c.ops.set(slug, op);
-  return op;
+// Full operator records are a separate static file (the bundle only carries the
+// listing cards); charter pages get their one record inlined into the bundle.
+let opsCache = { etag: null, bySlug: new Map() };
+
+async function operator(env, origin, slug) {
+  const resp = await env.ASSETS.fetch(new Request(origin + '/data/operators.json', { method: 'GET' }));
+  if (!resp.ok) { await resp.body?.cancel(); return null; }
+  const etag = resp.headers.get('etag');
+  if (etag && etag === opsCache.etag) await resp.body?.cancel();
+  else opsCache = { etag, bySlug: new Map((await resp.json()).map((o) => [o.slug, o])) };
+  const op = opsCache.bySlug.get(slug);
+  return op && op.status === 'active' ? op : null;
 }
+const OPS_MARK = '/*HK_OPS*/';
+// The first listing photo is the LCP on list pages but is only rendered by the
+// app bundle, so tell the browser about it up front.
+const preloadCard = (items) => (items[0] && items[0].image ? `<link rel="preload" as="image" href="${esc(items[0].image)}" fetchpriority="high"/>\n` : '');
+// JSON is valid JS; escape "<" so a record can never close the <script>.
+const inlineOp = (op) => JSON.stringify(op).replace(/</g, '\\u003c');
 
 // ── page shell ───────────────────────────────────────────────────────────────
-// index.html is ~800 KB, almost all of it the inline app bundle. To keep CPU low
+// index.html is ~1.2 MB, almost all of it the inline app bundle. To keep CPU low
 // we split it once per deploy into: the small <head> prefix (everything before
-// the bundle — where all rewritable tags live), the bundle, and the body around
-// <div id="root"></div>. Each request only rewrites the small prefix.
+// the bundle — where all rewritable tags live), the bundle, the rest of <head>
+// (CSS), and the body around <div id="root"></div>. Each request only rewrites
+// the small prefix. The bundle is emitted at the end of <body> so the CSS and
+// server-rendered content can paint before the bundle has downloaded (module
+// scripts are deferred anyway, so execution order is unchanged).
 const ROOT_DIV = '<div id="root"></div>';
 let shellCache = { etag: null, text: null, parts: null };
 
 function splitShell(html) {
   const s = html.indexOf('<script type="module"');
+  const e = html.indexOf('</script>', s) + '</script>'.length;
   const h = html.lastIndexOf('</head>');
   const r = html.lastIndexOf(ROOT_DIV);
-  return { pre: html.slice(0, s), mid: html.slice(s, h), between: html.slice(h, r), after: html.slice(r + ROOT_DIV.length) };
+  return { pre: html.slice(0, s), script: html.slice(s, e), mid: html.slice(e, h), between: html.slice(h, r), after: html.slice(r + ROOT_DIV.length) };
 }
 
 async function getShell(env, origin) {
@@ -442,6 +448,7 @@ export default {
     const headers = {};
     const act = SEO.activeCards(c.cards);
     let m;
+    let opInline = '';
 
     if (path === '/') {
       meta = SEO.pageMeta('/', { count: act.length });
@@ -450,9 +457,11 @@ export default {
     } else if (path === '/charters') {
       meta = SEO.pageMeta('/charters', { count: act.length, cards: SEO.photoFirst(act) });
       body = renderCharters(c.cards);
+      extraHead += preloadCard(SEO.photoFirst(act));
     } else if ((m = path.match(/^\/charters\/([^/]+)$/))) {
-      const op = operator(shell, c, decodeURIComponent(m[1]));
+      const op = await operator(env, url.origin, decodeURIComponent(m[1]));
       if (op) {
+        opInline = inlineOp(op);
         meta = SEO.charterMeta(op, c.cards);
         body = renderCharter(op, c.cards);
       }
@@ -463,6 +472,7 @@ export default {
         const items = SEO.locItems(c.cards, L);
         meta = SEO.locMeta(key, L, items);
         body = renderLocation(key, L, items, c.cards);
+        extraHead += preloadCard(items);
       }
     } else if (STATIC_COPY[path]) {
       meta = SEO.pageMeta(path);
@@ -481,9 +491,10 @@ export default {
       headers['x-robots-tag'] = 'noindex';
     }
 
-    const { pre, mid, between, after } = sh.parts;
+    const { pre, script, mid, between, after } = sh.parts;
     const { head, tail } = writeHead(pre, meta, extraHead);
-    const html = head + mid + tail + between + `<div id="root">${body || ''}</div>` + after;
+    const js = opInline ? script.replace(OPS_MARK, () => opInline) : script;
+    const html = head + mid + tail + between + `<div id="root">${body || ''}</div>\n` + js + after;
     return htmlResponse(request, html, status, headers);
   },
 };

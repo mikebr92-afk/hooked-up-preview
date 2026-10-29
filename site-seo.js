@@ -66,9 +66,9 @@ export const LOCS = {
     n: 'Cairns', short: 'Cairns', in: 'in Cairns', c: ['cairns'], state: 'QLD',
     intro: [
       "Cairns is the gateway to some of the best fishing on the Great Barrier Reef. Reef charters target coral trout, red emperor, nannygai and giant trevally, while out on the Ribbon Reefs and the edge of the Coral Sea, Cairns is known worldwide for giant black marlin.",
-      "Closer to town, Trinity Inlet and the surrounding rivers and estuaries hold barramundi, mangrove jack and fingermark — ideal for half-day or family trips when it's too windy to head out to the reef.",
+      "Closer to town, Trinity Inlet — a State Marine Park with more than 100km of creeks and channels — holds barramundi, mangrove jack, fingermark and threadfin, and the Mulgrave and Russell rivers about 40km south are a popular day trip. Up on the Atherton Tablelands, Lake Tinaroo is known for metre-plus impoundment barramundi.",
     ],
-    season: "Reef fishing is good year-round, although winter trade winds can make offshore trips bumpy. The heavy-tackle black marlin season runs roughly September to December. Barramundi have a closed season on Queensland's east coast from 1 November to 1 February.",
+    season: "Coral trout, red emperor and nannygai are caught year-round, though bottom fishing can be less predictable in the wet season (January to March), when Spanish mackerel and tuna are often more active. Giant black marlin run from early September to mid-December between Cairns and Lizard Island, and juvenile black marlin are caught within about an hour of Cairns through much of the year. The east-coast barramundi closed season runs from 1 November to 31 January.",
   },
   'darwin': {
     parent: 'northern-territory',
@@ -181,6 +181,172 @@ export const LOCS = {
     ],
   },
 
+  // ── New South Wales hot spots ───────────────────────────────────────────────
+  'central-coast': {
+    n: 'Central Coast', short: 'Central Coast', in: 'on the Central Coast', parent: 'new-south-wales', c: ['central coast'], state: 'NSW',
+    intro: [
+      "Central Coast charters launch from the Haven at Terrigal and are offshore within minutes, fishing the reefs for snapper, jewfish, kingfish, teraglin, morwong, flathead and John Dory. Further south, Hardys Bay on Broken Bay gives access to the reefs and wrecks off the Bouddi Peninsula.",
+      "When it's windy outside, Broken Bay and the Hawkesbury River offer calmer water, making the Central Coast a flexible option just north of Sydney.",
+    ],
+    season: "Snapper are a year-round reef target. Summer brings mahi mahi and seasonal marlin (usually tagged and released). Some operators only run fishing charters over the warmer months, roughly December to April, so check availability.",
+  },
+  'port-macquarie': {
+    n: 'Port Macquarie', short: 'Port Macquarie', in: 'in Port Macquarie', parent: 'new-south-wales', c: ['port macquarie'], state: 'NSW',
+    intro: [
+      "Port Macquarie offers both offshore reef fishing and some of the best estuary fishing on the Mid North Coast. Offshore boats leave from the town centre and fish the reefs for snapper, pearl perch, kingfish and jewfish.",
+      "The Hastings River is tidal for about 32km inland, and guides also fish the Maria River, Limeburners Creek and the Camden Haven, Manning and Macleay rivers for flathead, jewfish, whiting and — from September to May — catch-and-release Australian bass.",
+    ],
+    season: "Dusky flathead and jewfish are caught year-round in the estuaries, and whiting fire on the sand flats from about October to April. Offshore, snapper are best through spring and summer, with mahi mahi in the warmer months.",
+  },
+  'south-west-rocks': {
+    n: 'South West Rocks', short: 'South West Rocks', in: 'at South West Rocks', parent: 'new-south-wales', c: ['south west rocks'], state: 'NSW',
+    intro: [
+      "South West Rocks has unusually quick access to good water: the first ocean reef is about ten minutes from the bar, most fishing is done 1–5km out, and the continental shelf is only about 12 nautical miles offshore. The East Australian Current pushes warm water close in, and deep canyons along the shelf hold blue marlin.",
+      "When it's rough outside, the Macleay River estuary offers flathead, trevally, bream, whiting, jewfish and mangrove jack.",
+    ],
+    season: "Snapper and pearl perch are best in winter and spring. Summer is surface-fishing season, with Spanish and spotted mackerel, marlin, sailfish, wahoo and mahi mahi.",
+  },
+  'yamba': {
+    n: 'Yamba & Iluka', short: 'Yamba', in: 'in Yamba', parent: 'new-south-wales', c: ['yamba', 'iluka'], state: 'NSW',
+    intro: [
+      "Yamba and Iluka sit either side of the Clarence River mouth on the NSW North Coast. Charter grounds run from Evans Head in the north to Sandon in the south and out to the continental shelf, with many reef trips fishing 5–10km off the Clarence River bar.",
+      "Snapper and pearl perch are the main reef targets, with mackerel in season, and some operators also run humpback whale watching between Woody Head and Angourie.",
+    ],
+    season: "Reef fishing for snapper and pearl perch runs through much of the year; mackerel are a seasonal summer target. Ask your operator what's biting when you plan to visit.",
+  },
+  'ballina-byron': {
+    n: 'Ballina & Byron Bay', short: 'Byron Bay', in: 'around Byron Bay and Ballina', parent: 'new-south-wales', c: ['byron', 'ballina', 'evans head', 'brunswick'], state: 'NSW',
+    intro: [
+      "Charters on the far North Coast work out of Brunswick Heads and Evans Head. Brunswick Heads boats fish off Byron Bay and around the Cape Byron Marine Park for snapper, pearl perch, jewfish and kingfish, while Evans Head operators specialise in deep-water pearl perch about 30km offshore.",
+      "In March 2026, NSW DPI deployed a new offshore artificial reef off Ballina — two steel towers in 32m of water about 5km south of the Richmond River mouth — expected to hold mackerel, snapper and jewfish.",
+    ],
+    season: "Pearl perch are a year-round speciality in deeper water. Reef species are caught through the year, and the warmer months add mackerel, wahoo, tuna and marlin.",
+  },
+  'jervis-bay': {
+    n: 'Jervis Bay & Shoalhaven', short: 'Jervis Bay', in: 'in Jervis Bay', parent: 'new-south-wales', c: ['jervis bay', 'huskisson', 'greenwell point', 'shoalhaven'], state: 'NSW',
+    intro: [
+      "Jervis Bay pairs a sheltered, crystal-clear bay with deep water and the continental shelf close by. Charters leave from Huskisson on Currambene Creek and from Greenwell Point, and the bay is renowned for squid over the seagrass edges and good bottom fishing for snapper.",
+      "Offshore, kingfish, tuna, bonito, salmon and mahi mahi are within easy reach, and the area's ledges are famous for land-based game fishing. The bay is a marine park, so zoning rules apply — your operator will know where you can fish.",
+    ],
+    season: "Squid and snapper are caught through much of the year in the bay and offshore. The warmer months bring pelagics like mahi mahi and tuna, and the area is known for marlin over summer and autumn.",
+  },
+  'batemans-bay': {
+    n: 'Batemans Bay & Narooma', short: 'Batemans Bay', in: 'around Batemans Bay and Narooma', parent: 'new-south-wales', c: ['batemans bay', 'narooma', 'bermagui'], state: 'NSW',
+    intro: [
+      "The NSW South Coast offers three great charter ports. Batemans Bay boats leave d'Albora Marina to fish the reefs of the bay and the Tollgate Islands for snapper, kingfish, morwong and flathead. Narooma's town wharf is the closest port to Barunguba (Montague Island), a key reef and game fishing area.",
+      "Further south, Bermagui operators run reef, kingfish, tuna and deep-water trips from the harbour at O'Shea Wharf.",
+    ],
+    season: "Kingfish and reef species are targeted around the islands through much of the year, while yellowfin tuna and other game fish are fished offshore from Bermagui in season. Ask your operator for the best months for your target species.",
+  },
+  'lord-howe-island': {
+    n: 'Lord Howe Island', short: 'Lord Howe Island', in: 'on Lord Howe Island', parent: 'new-south-wales', c: ['lord howe'], state: 'NSW',
+    intro: [
+      "Lord Howe Island sits on the world's southernmost coral reef, where the East Australian Current pushes deep water up the island's slopes and tropical and temperate species overlap. Its kingfish are famously large, and the marine park also holds some of NSW's biggest silver trevally.",
+      "Charters leave from the lagoon jetty. Balls Pyramid, the world's tallest sea stack, is about 23km away and is a premier offshore destination, while the lagoon offers sight-casting for trevally, silver drummer, bluefish and the endemic double header wrasse.",
+    ],
+    season: "Kingfish are caught year-round, with winter the best time. Yellowfin tuna and wahoo are offshore targets. Spearfishing is banned in the marine park, and bag limits apply to some lagoon species.",
+  },
+
+  // ── Queensland (south) hot spots ────────────────────────────────────────────
+  'brisbane': {
+    n: 'Brisbane & Moreton Bay', short: 'Brisbane', in: 'in Brisbane and Moreton Bay', parent: 'queensland', c: ['brisbane', 'moreton', 'bribie', 'redcliffe'], state: 'QLD',
+    intro: [
+      "Brisbane's fishing centres on Moreton Bay. Offshore charters leave Manly Boat Harbour or Sandstone Point near Bribie Island, cross the bay and exit through the South Passage bar to reach grounds like the Point Lookout reefs, Flinders Reef, Hutchinsons Shoals and Square Patch — a run of roughly 75 minutes to two and a half hours.",
+      "Inside the bay, Scarborough Reef and the Turner Artificial Reef hold snapper, sweetlip and school mackerel, while the calm Pumicestone Passage behind Bribie Island suits families chasing flathead, bream, whiting and tailor.",
+    ],
+    season: "Snapper, pearl perch, amberjack, kingfish and teraglin are the main offshore targets in the cooler months. In summer, charters often switch to trolling for marlin, mahi mahi, tuna, wahoo and mackerel. Snapper and pearl perch have a closed season from 15 July to 15 August.",
+  },
+  'rainbow-beach': {
+    n: 'Rainbow Beach & Tin Can Bay', short: 'Rainbow Beach', in: 'at Rainbow Beach', parent: 'queensland', c: ['rainbow beach', 'tin can bay'], state: 'QLD',
+    intro: [
+      "Charters from Carlo Point at Rainbow Beach and the Tin Can Bay pontoon fish the reefs off Rainbow Beach, Double Island Point and the southern end of K'gari (Fraser Island) for snapper, pearl perch, parrotfish, coral trout and red emperor.",
+      "Trips here are usually full days, leaving around first light and returning mid-afternoon, with operators confirming sea conditions the day before. Charter fishing has a long history in the area, with some local boats running for more than 25 years.",
+    ],
+    season: "Reef fishing runs through the year, weather permitting, with snapper and pearl perch the headline species. Snapper and pearl perch have a Queensland closed season from 15 July to 15 August.",
+  },
+  'hervey-bay': {
+    n: "Hervey Bay & K'gari", short: 'Hervey Bay', in: 'in Hervey Bay', parent: 'queensland', c: ['hervey bay', 'urangan', "k'gari"], state: 'QLD',
+    intro: [
+      "Hervey Bay is sheltered from the south-east trade winds by K'gari (Fraser Island), so there's usually somewhere fishable. It's also one of the few places where northern and southern species overlap: snapper and whiting alongside threadfin, queenfish, golden trevally and even barramundi.",
+      "Charters leave Urangan Boat Harbour for the bay's artificial reefs, ledges such as Moon Ledge, Platypus Bay and the 25 Fathom Hole, while the flats offer sight fishing for golden trevally and longtail tuna on fly or spin.",
+    ],
+    season: "The snapper run builds from late autumn and peaks in mid-winter as fish follow baitfish into the bay. Longtail tuna, golden trevally, queenfish and juvenile black marlin are seasonal sportfishing targets on the flats and in the bay.",
+  },
+  'bundaberg': {
+    n: 'Bundaberg', short: 'Bundaberg', in: 'in Bundaberg', parent: 'queensland', c: ['bundaberg', 'burnett heads'], state: 'QLD',
+    intro: [
+      "Bundaberg has a deep-water port at Burnett Heads with no bar crossing and no tidal restrictions, so getting offshore is straightforward. Reef grounds run from a few miles out to around 50 nautical miles at the shelf, and full-day trips often travel two hours or more each way.",
+      "The fishing mixes southern species like big snapper with northern ones such as Spanish mackerel and coral trout, and the Burnett River offers calm-water trips for bream, whiting, flathead, mangrove jack and grunter.",
+    ],
+    season: "Coral trout and red emperor are targeted on the wider reefs, with sweetlip, snapper and Spanish mackerel on the inshore reefs. Snapper and pearl perch have a Queensland closed season from 15 July to 15 August.",
+  },
+  'yeppoon': {
+    n: 'Yeppoon & Capricorn Coast', short: 'Yeppoon', in: 'in Yeppoon', parent: 'queensland', c: ['yeppoon', 'rosslyn bay', 'capricorn coast'], state: 'QLD',
+    intro: [
+      "Charters leave Rosslyn Bay Marina near Yeppoon to fish the deeper reefs, wrecks and shoals of Keppel Bay for red emperor, goldband snapper, large-mouth nannygai and coral trout. Longer trips of 18–36 hours can reach Heron Reef, Island Head and the Swain Reefs.",
+      "The Capricorn Coast is also a base for week-long liveaboard trips to the Swains, which suit experienced groups wanting days of reef fishing far offshore.",
+    ],
+    season: "Reef fishing runs through the year, weather permitting. On the Swains liveaboards, bottom fishing for red emperor, coral trout and sweetlip is mixed with trolling for mackerel, tuna and wahoo. Coral reef fin fish closures apply around October and November.",
+  },
+
+  // ── Queensland (north) hot spots ─────────────────────────────────────────────
+  'whitsundays': {
+    n: 'Whitsundays', short: 'Whitsundays', in: 'in the Whitsundays', parent: 'queensland', c: ['whitsundays', 'whitsunday', 'airlie beach', 'hamilton island', 'shute harbour'], state: 'QLD',
+    intro: [
+      "The Whitsundays combine island-hopping scenery with serious reef fishing. Charters leave from Coral Sea Marina at Airlie Beach and from Hamilton Island, and fish the island grounds — mostly 40–70m deep — as well as the outer Great Barrier Reef, about 40 nautical miles out.",
+      "Coral trout, red emperor, nannygai and sweetlip are year-round targets, Spanish mackerel and sailfish add a pelagic option, and some operators hold access to Marine Park zones others can't fish. On Hamilton Island, several restaurants will even cook your catch.",
+    ],
+    season: "Reef fishing runs year-round. Sailfish are around all year but peak from about August to December. Coral reef fin fish and Spanish mackerel are subject to seasonal closures around October and November — check the current Queensland rules or ask your operator.",
+  },
+  'port-douglas': {
+    n: 'Port Douglas', short: 'Port Douglas', in: 'in Port Douglas', parent: 'queensland', c: ['port douglas'], state: 'QLD',
+    intro: [
+      "Port Douglas sits closer to the outer Great Barrier Reef than most mainland ports — larger boats reach the reef grounds in about an hour, and game boats run to the continental shelf for marlin. Charters depart from the Crystalbrook Superyacht Marina on Wharf Street and nearby wharves.",
+      "Inshore options include the Port Douglas estuaries, fringing reefs and the Low Isles, making it a good base whether you want a family reef day or a crack at a black marlin.",
+    ],
+    season: "Reef fishing is year-round, apart from coral reef fin fish closures around October and November. Light-tackle juvenile black marlin run from about July to October, and the giant black marlin season between Cairns and Lizard Island is from around September to mid-December.",
+  },
+  'mackay': {
+    n: 'Mackay', short: 'Mackay', in: 'in Mackay', parent: 'queensland', c: ['mackay'], state: 'QLD',
+    intro: [
+      "Mackay offers a rare mix: offshore reef fishing among the Cumberland and Sir James Smith island groups, Great Barrier Reef anchorages like Square, Stevens and Chauvel reefs, and the Mackay Net Free Zone — fifteen creek systems from Cape Hillsborough to St Helens Bay — for barramundi, mangrove jack and salmon.",
+      "Charters run from Mackay Marina and the Hay Point ramp south of town, and nearby Kinchant, Teemburra and Eungella dams provide stocked impoundment barramundi when the saltwater season is closed.",
+    ],
+    season: "Creek barramundi, jacks and salmon fish best from about February to May while the water stays warm. Reef species and Spanish mackerel come on from around June as the weather settles, with August and September good for offshore jigging. During the saltwater barra closure (1 November to 31 January) anglers turn to the dams.",
+  },
+  'townsville': {
+    n: 'Townsville', short: 'Townsville', in: 'in Townsville', parent: 'queensland', c: ['townsville', 'magnetic island'], state: 'QLD',
+    intro: [
+      "Townsville is a gateway to the central Great Barrier Reef. From Breakwater Marina, larger charter boats reach the first reef drop in about 1.5–2 hours, and longer day and overnight trips chase red emperor, nannygai and coral trout on reefs such as Centipede, Grub and Hopkinson.",
+      "Across the bay, Magnetic Island has 23 bays and beaches — 14 of them fishable — with wrecks, shoals and mangroves, plus offshore runs of up to 50 nautical miles to the reef shoals.",
+    ],
+    season: "Reef species are targeted year-round, weather permitting, on both day and night trips. Spotted mackerel and tuna are trolled around Magnetic Island's bays. Coral reef fin fish closures apply around October and November.",
+  },
+  'daintree': {
+    n: 'Daintree', short: 'Daintree', in: 'on the Daintree', parent: 'queensland', c: ['daintree'], state: 'QLD',
+    intro: [
+      "The Daintree River is the region's largest river, with more than 25km of navigable water lined by mangroves and World Heritage rainforest. Trips leave from the wharf and ramp near the Daintree River ferry crossing.",
+      "Barramundi are the main target, caught on lures year-round outside the closed season, and on calm days guides can add the islands, wrecks and inshore reefs off the river mouth, such as Snapper Island. With plenty of saltwater crocodiles and birdlife, many trips double as nature tours.",
+    ],
+    season: "Barramundi bite every month, with the best fishing from about September to March — but the east-coast barramundi closed season runs from 1 November to 31 January, when guides switch to other species.",
+  },
+  'weipa': {
+    n: 'Weipa & Cape York', short: 'Weipa', in: 'in Weipa', parent: 'queensland', c: ['weipa', 'cape york'], state: 'QLD',
+    intro: [
+      "Weipa sits on Albatross Bay on the Gulf side of Cape York, about an hour's flight from Cairns, which makes it one of the most accessible remote fishing towns in Australia. South-easterly winds blow offshore for around nine months of the year, keeping the Gulf side fishable.",
+      "Guides fish the Mission, Embley, Wenlock and Archer river systems for barramundi, threadfin and jacks, and the flats, beaches and headlands for permit, golden trevally, queenfish and tuna. Most visitors book multi-day packages with accommodation, meals and transfers, and much of the fishing is catch and release.",
+    ],
+    season: "The guiding season runs from about late March to mid-December; most operators don't run in the wet. Longtail tuna are most prolific from April to July, and Spanish mackerel are around year-round, moving inshore in winter.",
+  },
+  'karumba': {
+    n: 'Karumba & the Gulf', short: 'Karumba', in: 'in Karumba', parent: 'queensland', c: ['karumba'], state: 'QLD',
+    intro: [
+      "Karumba, at the mouth of the Norman River on the Gulf of Carpentaria, is a classic Gulf fishing town. Estuary trips fish the sheltered Norman River and nearby creeks for barramundi, king and blue threadfin, black jewfish and grunter.",
+      "Offshore trips run 40–50km into the Gulf for Spanish mackerel, cobia, fingermark and queenfish when the weather allows, and remote camping trips reach lightly fished rivers around Karumba and Normanton.",
+    ],
+    season: "Dedicated barramundi trips run from about February to April and again in September and early October; barramundi can't be targeted during the Gulf closed season, which starts on 7 October. Offshore species are fished year-round, weather permitting.",
+  },
+
   // ── Species / style collections (kind: 'species') ──────────────────────────
   // sp: match operators whose species tags contain any of these · tt: match trip-type tags
   'barramundi': {
@@ -248,7 +414,7 @@ export const LOCS = {
 for (const [k, L] of Object.entries(LOCS)) L.key = k;
 
 export const STATE_KEYS = ['new-south-wales', 'queensland', 'northern-territory'];
-export const CITY_KEYS = ['sydney', 'gold-coast', 'cairns', 'darwin', 'port-stephens', 'sunshine-coast', 'wollongong'];
+export const CITY_KEYS = ['sydney', 'gold-coast', 'brisbane', 'sunshine-coast', 'cairns', 'whitsundays', 'port-douglas', 'darwin', 'port-stephens', 'hervey-bay'];
 export const SPECIES_KEYS = Object.keys(LOCS).filter((k) => LOCS[k].kind === 'species');
 export const isSpecies = (L) => L && L.kind === 'species';
 
@@ -303,7 +469,10 @@ export function inLoc(card, L) {
     return L.tt.some((x) => tags.includes(x));
   }
   if (L.st) return card.state === L.st;
-  if (card.hotspot && card.hotspot === L.key) return true;
+  // Listings carry their assigned hot spot; use it exactly when present (so e.g.
+  // "Manly, Brisbane & Moreton Bay" never lands on the Sydney page). Location-text
+  // matching is only a fallback for listings without one.
+  if (card.hotspot) return card.hotspot === L.key;
   const loc = (card.location || '').toLowerCase();
   return (L.c || []).some((x) => loc.includes(x));
 }
@@ -586,11 +755,13 @@ export const groupLabel = (v) => (GROUP_OPTIONS.find(([k]) => k === v) || [v, v]
 // Can this operator take a group of the requested size?
 export function fitsGroup(op, size) {
   if (!op || !size) return true;
+  // Works on a full record or a listing card (cards carry max_capacity + whole).
   const trips = op.trips || [];
-  if (size === 'whole') return trips.some((t) => !/person/.test(t.price_model || '')) || (op.trip_type_tags || []).some((t) => /private/i.test(t));
+  if (size === 'whole') return op.whole ?? (trips.some((t) => !/person/.test(t.price_model || '')) || (op.trip_type_tags || []).some((t) => /private/i.test(t)));
   const need = parseInt(String(size).split('-').pop(), 10) || 1;
   const cap = Math.max(0, ...trips.map((t) => t.max_group || 0), op.max_capacity || 0);
-  return cap >= need;
+  // Unknown capacity: keep the listing rather than hide a possible fit.
+  return cap === 0 || cap >= need;
 }
 
 export const FILTER_SPECIES = ['Barramundi', 'Marlin', 'Kingfish', 'Snapper', 'Golden Snapper', 'Coral Trout', 'Red Emperor', 'Giant Trevally', 'Spanish Mackerel', 'Mahi Mahi', 'Tuna', 'Mangrove Jack', 'Flathead'];
