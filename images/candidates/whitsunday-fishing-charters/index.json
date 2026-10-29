@@ -1,7 +1,7 @@
 {
   "slug": "whitsunday-fishing-charters",
   "request_hash": "07802eb5fd12",
-  "collected_at": "2026-10-29T19:56:56.412Z",
+  "collected_at": "2026-10-29T20:06:56.253Z",
   "pages_fetched": [
     "https://www.whitsundayfishingcharters.com.au/",
     "https://www.whitsundayfishingcharters.com.au/half-day-fishing",
@@ -52,7 +52,7 @@
       "page": "https://whitsundayfishingcharters42.rezdy.com/628461/ra-morning-half-day-charters",
       "status": 403,
       "final_url": "https://whitsundayfishingcharters42.rezdy.com/628461/ra-morning-half-day-charters",
-      "bytes": 5188
+      "bytes": 5185
     },
     {
       "page": "https://www.facebook.com/profile.php?id=100063569853090",

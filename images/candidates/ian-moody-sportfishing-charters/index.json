@@ -1,7 +1,7 @@
 {
   "slug": "ian-moody-sportfishing-charters",
   "request_hash": "80d5fdcc4286",
-  "collected_at": "2026-10-29T19:54:50.444Z",
+  "collected_at": "2026-10-29T20:05:14.438Z",
   "pages_fetched": [
     "https://www.australia.com/en/atdw/product.6045f4108fc1e7796a9d63ac.html",
     "https://www.queensland.com/au/en/things-to-do/tours/p-6045f4108fc1e7796a9d63ac-ian-moody-sportfishing-charters",
@@ -22,7 +22,7 @@
       "page": "https://www.australia.com/en/atdw/product.6045f4108fc1e7796a9d63ac.html",
       "status": 200,
       "final_url": "https://www.australia.com/en/atdw/product.6045f4108fc1e7796a9d63ac.html",
-      "bytes": 281622
+      "bytes": 281620
     },
     {
       "page": "https://www.queensland.com/au/en/things-to-do/tours/p-6045f4108fc1e7796a9d63ac-ian-moody-sportfishing-charters",
@@ -34,13 +34,13 @@
       "page": "https://ianmoodysportfishing.com/",
       "status": 200,
       "final_url": "https://ianmoodysportfishing.com/",
-      "bytes": 88593
+      "bytes": 88714
     },
     {
       "page": "https://fishingbooker.com/charters/view/16164",
       "status": 403,
       "final_url": "https://fishingbooker.com/charters/view/16164",
-      "bytes": 5838
+      "bytes": 5816
     },
     {
       "page": "https://fishingbooker.com/profile/view/248409",
@@ -58,37 +58,37 @@
       "page": "https://www.australia.com/en/trips-and-itineraries/self-drive-itineraries.html",
       "status": 200,
       "final_url": "https://www.australia.com/en/trips-and-itineraries/self-drive-itineraries.html",
-      "bytes": 339240
+      "bytes": 339238
     },
     {
       "page": "https://www.australia.com/en/things-to-do/family/best-family-road-trips-in-australia.html",
       "status": 200,
       "final_url": "https://www.australia.com/en/things-to-do/family/best-family-road-trips-in-australia.html",
-      "bytes": 367395
+      "bytes": 367393
     },
     {
       "page": "https://www.australia.com/en/youth-travel/working-holiday-visa/faq.html",
       "status": 200,
       "final_url": "https://www.australia.com/en/youth-travel/working-holiday-visa/faq.html",
-      "bytes": 301945
+      "bytes": 301943
     },
     {
       "page": "https://www.australia.com/en/facts-and-planning/getting-to-australia/australia-trip-planner-tools-and-tips.html",
       "status": 200,
       "final_url": "https://www.australia.com/en/facts-and-planning/getting-to-australia/australia-trip-planner-tools-and-tips.html",
-      "bytes": 300000
+      "bytes": 299998
     },
     {
       "page": "https://www.australia.com/en/facts-and-planning/about-australia/australia-on-budget.html",
       "status": 200,
       "final_url": "https://www.australia.com/en/facts-and-planning/about-australia/australia-on-budget.html",
-      "bytes": 297689
+      "bytes": 297687
     },
     {
       "page": "https://www.australia.com/en/trips-and-itineraries.html",
       "status": 200,
       "final_url": "https://www.australia.com/en/trips-and-itineraries.html",
-      "bytes": 318373
+      "bytes": 318371
     }
   ]
 }

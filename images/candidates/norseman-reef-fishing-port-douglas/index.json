@@ -1,7 +1,7 @@
 {
   "slug": "norseman-reef-fishing-port-douglas",
   "request_hash": "978efaef0d8b",
-  "collected_at": "2026-10-29T19:55:52.637Z",
+  "collected_at": "2026-10-29T20:05:59.620Z",
   "pages_fetched": [
     "https://mvnorseman.com.au/",
     "https://mvnorseman.com.au/norseman-reef-fishing-charters/",
@@ -21,43 +21,43 @@
       "page": "https://mvnorseman.com.au/",
       "status": 200,
       "final_url": "https://mvnorseman.com.au/",
-      "bytes": 156887
+      "bytes": 157097
     },
     {
       "page": "https://mvnorseman.com.au/norseman-reef-fishing-charters/",
       "status": 200,
       "final_url": "https://mvnorseman.com.au/norseman-reef-fishing-charters/",
-      "bytes": 150464
+      "bytes": 149044
     },
     {
       "page": "https://mvnorseman.com.au/norseman-sportfishing/",
       "status": 200,
       "final_url": "https://mvnorseman.com.au/norseman-sportfishing/",
-      "bytes": 150730
+      "bytes": 149193
     },
     {
       "page": "https://mvnorseman.com.au/private-norseman-reef-fishing-charters/",
       "status": 200,
       "final_url": "https://mvnorseman.com.au/private-norseman-reef-fishing-charters/",
-      "bytes": 138245
+      "bytes": 138237
     },
     {
       "page": "https://mvnorseman.com.au/our-boat/",
       "status": 200,
       "final_url": "https://mvnorseman.com.au/our-boat/",
-      "bytes": 124590
+      "bytes": 124554
     },
     {
       "page": "https://mvnorseman.com.au/about-us/",
       "status": 200,
       "final_url": "https://mvnorseman.com.au/about-us/",
-      "bytes": 123607
+      "bytes": 122055
     },
     {
       "page": "https://mvnorseman.com.au/faq/",
       "status": 200,
       "final_url": "https://mvnorseman.com.au/faq/",
-      "bytes": 132614
+      "bytes": 132670
     },
     {
       "page": "https://www.facebook.com/norsemanfishing/",
@@ -69,19 +69,19 @@
       "page": "https://mvnorseman.com.au/fishing-gallery/",
       "status": 200,
       "final_url": "https://mvnorseman.com.au/fishing-gallery/",
-      "bytes": 162828
+      "bytes": 161083
     },
     {
       "page": "https://mvnorseman.com.au/contact-us/",
       "status": 200,
       "final_url": "https://mvnorseman.com.au/contact-us/",
-      "bytes": 154575
+      "bytes": 154420
     },
     {
       "page": "https://mvnorseman.com.au/norseman-reef-fishing-charters-gift-voucher/",
       "status": 200,
       "final_url": "https://mvnorseman.com.au/norseman-reef-fishing-charters-gift-voucher/",
-      "bytes": 132504
+      "bytes": 132616
     }
   ]
 }

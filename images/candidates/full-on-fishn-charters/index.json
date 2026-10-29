@@ -1,7 +1,7 @@
 {
   "slug": "full-on-fishn-charters",
   "request_hash": "bae1448d1c76",
-  "collected_at": "2026-10-29T19:55:23.075Z",
+  "collected_at": "2026-10-29T20:05:42.781Z",
   "pages_fetched": [
     "https://fullonfishn.com.au/",
     "https://fullonfishn.com.au/nathan-kemp-charter/",
@@ -58,7 +58,7 @@
       "page": "https://www.australia.com/en/atdw/product.68896625dbcf07dd134c4c57.html",
       "status": 200,
       "final_url": "https://www.australia.com/en/atdw/product.68896625dbcf07dd134c4c57.html",
-      "bytes": 280218
+      "bytes": 280216
     },
     {
       "page": "https://www.facebook.com/hinchinbrookfullonfishn",
@@ -70,25 +70,25 @@
       "page": "https://www.australia.com/en/trips-and-itineraries/self-drive-itineraries.html",
       "status": 200,
       "final_url": "https://www.australia.com/en/trips-and-itineraries/self-drive-itineraries.html",
-      "bytes": 339240
+      "bytes": 339238
     },
     {
       "page": "https://www.australia.com/en/things-to-do/family/best-family-road-trips-in-australia.html",
       "status": 200,
       "final_url": "https://www.australia.com/en/things-to-do/family/best-family-road-trips-in-australia.html",
-      "bytes": 367395
+      "bytes": 367393
     },
     {
       "page": "https://www.australia.com/en/youth-travel/working-holiday-visa/faq.html",
       "status": 200,
       "final_url": "https://www.australia.com/en/youth-travel/working-holiday-visa/faq.html",
-      "bytes": 301945
+      "bytes": 301943
     },
     {
       "page": "https://www.australia.com/en/facts-and-planning/getting-to-australia/australia-trip-planner-tools-and-tips.html",
       "status": 200,
       "final_url": "https://www.australia.com/en/facts-and-planning/getting-to-australia/australia-trip-planner-tools-and-tips.html",
-      "bytes": 300000
+      "bytes": 299998
     }
   ]
 }

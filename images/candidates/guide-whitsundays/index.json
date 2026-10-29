@@ -1,7 +1,7 @@
 {
   "slug": "guide-whitsundays",
   "request_hash": "acbf8c6a90d8",
-  "collected_at": "2026-10-29T19:52:37.174Z",
+  "collected_at": "2026-10-29T20:03:27.087Z",
   "pages_fetched": [
     "https://www.topnotchgamefishing.com.au/whitsundays-sailfish-fishing-charters/",
     "https://www.topnotchgamefishing.com.au/faq/",
@@ -33,7 +33,7 @@
       "page": "https://airliebeachfishingcharters.com.au/",
       "status": 200,
       "final_url": "https://airliebeachfishingcharters.com.au/",
-      "bytes": 187343
+      "bytes": 185697
     },
     {
       "page": "https://www.whitsundayfishingcharters.com.au/half-day-fishing",

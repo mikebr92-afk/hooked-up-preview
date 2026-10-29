@@ -1,5 +1,5 @@
 {
-  "finished_at": "2026-10-29T19:56:56.412Z",
+  "finished_at": "2026-10-29T20:07:52.772Z",
   "summary": [
     {
       "slug": "guide-cairns",
@@ -139,7 +139,7 @@
     {
       "slug": "audacity-charters-townsville",
       "candidates": 0,
-      "pages": 7
+      "pages": 6
     },
     {
       "slug": "magnetic-island-fishing-charters",
@@ -175,6 +175,16 @@
       "slug": "whitsunday-fishing-charters",
       "candidates": 0,
       "pages": 12
+    },
+    {
+      "slug": "fishs-fly-sportfishing-weipa-r2",
+      "candidates": 0,
+      "pages": 12
+    },
+    {
+      "slug": "guide-qld-rules",
+      "candidates": 0,
+      "pages": 6
     }
   ]
 }

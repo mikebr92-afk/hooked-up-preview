@@ -1,7 +1,7 @@
 {
   "slug": "out-n-about-sportfishing-port-douglas",
   "request_hash": "2538066b98d8",
-  "collected_at": "2026-10-29T19:55:59.147Z",
+  "collected_at": "2026-10-29T20:06:02.937Z",
   "pages_fetched": [
     "https://www.outnaboutfishing.com.au/",
     "https://www.outnaboutfishing.com.au/private-half-day-charter/",
@@ -28,7 +28,7 @@
       "page": "https://www.outnaboutfishing.com.au/private-half-day-charter/",
       "status": 200,
       "final_url": "https://www.outnaboutfishing.com.au/private-half-day-charter/",
-      "bytes": 162929
+      "bytes": 164613
     },
     {
       "page": "https://www.outnaboutfishing.com.au/private-6-hour-charter-port-douglas/",
@@ -74,19 +74,21 @@
     },
     {
       "page": "https://www.outnaboutfishing.com.au/cairns-charters/private-6-hour-cairns-fishing-charter/",
-      "error": "fetch failed"
+      "status": 200,
+      "final_url": "https://www.outnaboutfishing.com.au/cairns-charters/private-6-hour-cairns-fishing-charter/",
+      "bytes": 145960
     },
     {
       "page": "https://www.outnaboutfishing.com.au/cairns-charters/",
       "status": 200,
       "final_url": "https://www.outnaboutfishing.com.au/cairns-charters/",
-      "bytes": 139349
+      "bytes": 137681
     },
     {
       "page": "https://www.outnaboutfishing.com.au/gift-voucher/",
       "status": 200,
       "final_url": "https://www.outnaboutfishing.com.au/gift-voucher/",
-      "bytes": 141956
+      "bytes": 141932
     }
   ]
 }

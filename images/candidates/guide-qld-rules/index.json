@@ -1,0 +1,48 @@
+{
+  "slug": "guide-qld-rules",
+  "request_hash": "e15ae38336b1",
+  "collected_at": "2026-10-29T20:07:52.772Z",
+  "pages_fetched": [
+    "https://www.daf.qld.gov.au/business-priorities/fisheries/recreational/recreational-fishing-rules/closed-seasons-waters/tidal-waters",
+    "https://www.daf.qld.gov.au/business-priorities/fisheries/recreational/rules-regulations/closed-seasons-tidal-waters",
+    "https://www.daf.qld.gov.au/business-priorities/fisheries/sustainable/legislation/management-changes-for-east-coast-spanish-mackerel",
+    "https://www2.gbrmpa.gov.au/access/environmental-management-charge",
+    "https://www.topnotchgamefishing.com.au/coral-reef-fin-spanish-mackerel-closures/",
+    "https://www.gbrmpa.gov.au/access/zoning/interpreting-zones"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.daf.qld.gov.au/business-priorities/fisheries/recreational/recreational-fishing-rules/closed-seasons-waters/tidal-waters",
+      "status": 403,
+      "final_url": "https://www.daf.qld.gov.au/business-priorities/fisheries/recreational/recreational-fishing-rules/closed-seasons-waters/tidal-waters",
+      "bytes": 6200
+    },
+    {
+      "page": "https://www.daf.qld.gov.au/business-priorities/fisheries/recreational/rules-regulations/closed-seasons-tidal-waters",
+      "status": 403,
+      "final_url": "https://www.daf.qld.gov.au/business-priorities/fisheries/recreational/rules-regulations/closed-seasons-tidal-waters",
+      "bytes": 6131
+    },
+    {
+      "page": "https://www.daf.qld.gov.au/business-priorities/fisheries/sustainable/legislation/management-changes-for-east-coast-spanish-mackerel",
+      "status": 403,
+      "final_url": "https://www.daf.qld.gov.au/business-priorities/fisheries/sustainable/legislation/management-changes-for-east-coast-spanish-mackerel",
+      "bytes": 6200
+    },
+    {
+      "page": "https://www2.gbrmpa.gov.au/access/environmental-management-charge",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "page": "https://www.topnotchgamefishing.com.au/coral-reef-fin-spanish-mackerel-closures/",
+      "status": 200,
+      "final_url": "https://www.topnotchgamefishing.com.au/coral-reef-fin-spanish-mackerel-closures/",
+      "bytes": 97659
+    },
+    {
+      "page": "https://www.gbrmpa.gov.au/access/zoning/interpreting-zones",
+      "error": "The operation was aborted due to timeout"
+    }
+  ]
+}

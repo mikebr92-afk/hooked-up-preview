@@ -1,7 +1,7 @@
 {
   "slug": "daintree-river-fishing-david-patterson",
   "request_hash": "47cc3a12fbc1",
-  "collected_at": "2026-10-29T19:54:46.607Z",
+  "collected_at": "2026-10-29T20:05:11.048Z",
   "pages_fetched": [
     "https://daintreefishing.com.au/",
     "https://tourismportdouglas.com.au/daintree-river-fishing-with-david-patterson",
@@ -34,7 +34,7 @@
       "page": "https://www.australia.com/en/atdw/product.56b260b3aeeeaaf773cf3a2b.html",
       "status": 200,
       "final_url": "https://www.australia.com/en/atdw/product.56b260b3aeeeaaf773cf3a2b.html",
-      "bytes": 278410
+      "bytes": 278408
     },
     {
       "page": "https://daintreefishing.com.au/personalised-charters/",

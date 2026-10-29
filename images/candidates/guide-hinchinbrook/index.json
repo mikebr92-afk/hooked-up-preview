@@ -1,7 +1,7 @@
 {
   "slug": "guide-hinchinbrook",
   "request_hash": "313cb82fa3ca",
-  "collected_at": "2026-10-29T19:53:54.514Z",
+  "collected_at": "2026-10-29T20:04:29.340Z",
   "pages_fetched": [
     "https://www.australia.com/en/atdw/product.6045f4108fc1e7796a9d63ac.html",
     "https://crackfish.com/",
@@ -21,7 +21,7 @@
       "page": "https://www.australia.com/en/atdw/product.6045f4108fc1e7796a9d63ac.html",
       "status": 200,
       "final_url": "https://www.australia.com/en/atdw/product.6045f4108fc1e7796a9d63ac.html",
-      "bytes": 281622
+      "bytes": 281620
     },
     {
       "page": "https://crackfish.com/",
@@ -33,7 +33,7 @@
       "page": "https://www.australia.com/en/atdw/product.640eaf483568d2ae140d96c8.html",
       "status": 200,
       "final_url": "https://www.australia.com/en/atdw/product.640eaf483568d2ae140d96c8.html",
-      "bytes": 282251
+      "bytes": 282249
     },
     {
       "page": "https://fishandboat.com.au/our-hinchinbrook-adventure-part-1-by-john-boon/",

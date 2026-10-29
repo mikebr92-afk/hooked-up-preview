@@ -1,7 +1,7 @@
 {
   "slug": "cairns-reef-fishing",
   "request_hash": "cc377431b979",
-  "collected_at": "2026-10-29T19:53:57.805Z",
+  "collected_at": "2026-10-29T20:04:33.000Z",
   "pages_fetched": [
     "https://www.cairnsreeffishing.com.au/",
     "https://www.cairnsreeffishing.com.au/shared-charters/",
@@ -88,7 +88,7 @@
       "page": "https://www.cairnsreeffishing.com.au/cdn-cgi/l/email-protection",
       "status": 404,
       "final_url": "https://www.cairnsreeffishing.com.au/cdn-cgi/l/email-protection",
-      "bytes": 4730
+      "bytes": 4727
     }
   ]
 }

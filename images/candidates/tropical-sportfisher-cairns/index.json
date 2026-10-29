@@ -1,7 +1,7 @@
 {
   "slug": "tropical-sportfisher-cairns",
   "request_hash": "c147b8a44233",
-  "collected_at": "2026-10-29T19:54:37.652Z",
+  "collected_at": "2026-10-29T20:05:03.857Z",
   "pages_fetched": [
     "https://www.tropicalsportfisher.com/",
     "https://www.tropicalsportfisher.com/contact-us/",
@@ -81,7 +81,7 @@
       "page": "https://www.tropicalsportfisher.com/multi-day-trips/tropical-island-camp/",
       "status": 200,
       "final_url": "https://www.tropicalsportfisher.com/multi-day-trips/tropical-island-camp/",
-      "bytes": 239612
+      "bytes": 239613
     }
   ]
 }

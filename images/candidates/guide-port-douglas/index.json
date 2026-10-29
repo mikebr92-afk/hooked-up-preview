@@ -1,7 +1,7 @@
 {
   "slug": "guide-port-douglas",
   "request_hash": "2b5d805e5a1f",
-  "collected_at": "2026-10-29T19:52:46.140Z",
+  "collected_at": "2026-10-29T20:03:34.601Z",
   "pages_fetched": [
     "https://www.saltairecharters.com.au/fishing-charters/",
     "https://mvnorseman.com.au/faq/",
@@ -21,13 +21,13 @@
       "page": "https://mvnorseman.com.au/faq/",
       "status": 200,
       "final_url": "https://mvnorseman.com.au/faq/",
-      "bytes": 132614
+      "bytes": 132670
     },
     {
       "page": "https://www.fishingcairns.com.au/heavy-tackle-extended-charters/",
       "status": 200,
       "final_url": "https://www.fishingcairns.com.au/heavy-tackle-extended-charters/",
-      "bytes": 133521
+      "bytes": 133522
     },
     {
       "page": "https://www.outnaboutfishing.com.au/private-full-day-charter/",

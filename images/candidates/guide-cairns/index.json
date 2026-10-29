@@ -1,7 +1,7 @@
 {
   "slug": "guide-cairns",
   "request_hash": "99c52b1c86f9",
-  "collected_at": "2026-10-29T19:52:27.506Z",
+  "collected_at": "2026-10-29T20:03:20.549Z",
   "pages_fetched": [
     "https://www.bigfishdownunder.com/experiences/black-marlin-fishing-charters",
     "https://www.bigfishdownunder.com/experiences/sport-amp-game-fishing",
@@ -20,13 +20,13 @@
       "page": "https://www.bigfishdownunder.com/experiences/black-marlin-fishing-charters",
       "status": 200,
       "final_url": "https://www.bigfishdownunder.com/experiences/black-marlin-fishing-charters",
-      "bytes": 43252
+      "bytes": 43292
     },
     {
       "page": "https://www.bigfishdownunder.com/experiences/sport-amp-game-fishing",
       "status": 200,
       "final_url": "https://www.bigfishdownunder.com/experiences/sport-amp-game-fishing",
-      "bytes": 28148
+      "bytes": 28306
     },
     {
       "page": "https://www.cairnsreeffishing.com.au/faqs/",
@@ -56,7 +56,7 @@
       "page": "https://www.fishingcairns.com.au/heavy-tackle-extended-charters/",
       "status": 200,
       "final_url": "https://www.fishingcairns.com.au/heavy-tackle-extended-charters/",
-      "bytes": 133521
+      "bytes": 133522
     },
     {
       "page": "https://www.cairnsreeffishing.com.au/shared-charters/",

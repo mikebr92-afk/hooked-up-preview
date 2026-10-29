@@ -1,0 +1,94 @@
+{
+  "slug": "fishs-fly-sportfishing-weipa-r2",
+  "request_hash": "0914981458d1",
+  "collected_at": "2026-10-29T20:07:00.726Z",
+  "pages_fetched": [
+    "https://www.fluxflyfishing.com/",
+    "https://www.weipaflyfish.com.au/blog",
+    "https://www.fluxflyfishing.com/cart",
+    "https://www.fluxflyfishing.com/about-us",
+    "https://www.fluxflyfishing.com/tripoverview",
+    "https://www.fluxflyfishing.com/our-guides",
+    "https://www.fluxflyfishing.com/vessels",
+    "https://www.fluxflyfishing.com/the-fishing",
+    "https://www.fluxflyfishing.com/our-history",
+    "https://www.fluxflyfishing.com/faq",
+    "https://www.fluxflyfishing.com/weipa-lodge-based",
+    "https://www.weipaflyfish.com.au/fishing-packages-in-weipa"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.fluxflyfishing.com/",
+      "status": 200,
+      "final_url": "https://www.fluxflyfishing.com/",
+      "bytes": 463522
+    },
+    {
+      "page": "https://www.weipaflyfish.com.au/blog",
+      "status": 200,
+      "final_url": "https://www.weipaflyfish.com.au/blog",
+      "bytes": 83810
+    },
+    {
+      "page": "https://www.fluxflyfishing.com/cart",
+      "status": 200,
+      "final_url": "https://www.fluxflyfishing.com/cart",
+      "bytes": 201396
+    },
+    {
+      "page": "https://www.fluxflyfishing.com/about-us",
+      "status": 200,
+      "final_url": "https://www.fluxflyfishing.com/about-us",
+      "bytes": 322707
+    },
+    {
+      "page": "https://www.fluxflyfishing.com/tripoverview",
+      "status": 200,
+      "final_url": "https://www.fluxflyfishing.com/tripoverview",
+      "bytes": 403269
+    },
+    {
+      "page": "https://www.fluxflyfishing.com/our-guides",
+      "status": 200,
+      "final_url": "https://www.fluxflyfishing.com/our-guides",
+      "bytes": 389242
+    },
+    {
+      "page": "https://www.fluxflyfishing.com/vessels",
+      "status": 200,
+      "final_url": "https://www.fluxflyfishing.com/vessels",
+      "bytes": 284446
+    },
+    {
+      "page": "https://www.fluxflyfishing.com/the-fishing",
+      "status": 200,
+      "final_url": "https://www.fluxflyfishing.com/the-fishing",
+      "bytes": 363652
+    },
+    {
+      "page": "https://www.fluxflyfishing.com/our-history",
+      "status": 200,
+      "final_url": "https://www.fluxflyfishing.com/our-history",
+      "bytes": 430997
+    },
+    {
+      "page": "https://www.fluxflyfishing.com/faq",
+      "status": 200,
+      "final_url": "https://www.fluxflyfishing.com/faq",
+      "bytes": 477616
+    },
+    {
+      "page": "https://www.fluxflyfishing.com/weipa-lodge-based",
+      "status": 200,
+      "final_url": "https://www.fluxflyfishing.com/weipa-lodge-based",
+      "bytes": 257428
+    },
+    {
+      "page": "https://www.weipaflyfish.com.au/fishing-packages-in-weipa",
+      "status": 200,
+      "final_url": "https://www.weipaflyfish.com.au/fishing-packages-in-weipa",
+      "bytes": 110221
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "slug": "fnq-fishing-adventures-cairns",
   "request_hash": "ca6aad6d36a8",
-  "collected_at": "2026-10-29T19:54:11.931Z",
+  "collected_at": "2026-10-29T20:04:41.406Z",
   "pages_fetched": [
     "https://www.fnqfishingadventures.com.au/",
     "https://www.fnqfishingadventures.com.au/about",
@@ -22,7 +22,7 @@
       "page": "https://www.fnqfishingadventures.com.au/",
       "status": 200,
       "final_url": "https://www.fnqfishingadventures.com.au/",
-      "bytes": 677260
+      "bytes": 684458
     },
     {
       "page": "https://www.fnqfishingadventures.com.au/about",

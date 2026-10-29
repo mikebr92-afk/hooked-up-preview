@@ -1,59 +1,52 @@
 {
   "slug": "audacity-charters-townsville",
   "request_hash": "8c069ee768cd",
-  "collected_at": "2026-10-29T19:56:04.112Z",
+  "collected_at": "2026-10-29T20:06:05.366Z",
   "pages_fetched": [
     "https://audacitymarine.com.au/",
     "https://audacitymarine.com.au/fishing-charters/",
     "https://audacitymarine.com.au/our-fleet/",
     "https://audacitymarine.com.au/about-us/",
     "https://audacitymarine.com.au/contact/",
-    "https://www.facebook.com/people/Audacity-Marine/100066604187392/",
-    "https://audacitymarine.com.au/gallery/"
+    "https://www.facebook.com/people/Audacity-Marine/100066604187392/"
   ],
   "candidates": [],
   "log": [
     {
       "page": "https://audacitymarine.com.au/",
-      "status": 200,
+      "status": 202,
       "final_url": "https://audacitymarine.com.au/",
-      "bytes": 468251
+      "bytes": 167
     },
     {
       "page": "https://audacitymarine.com.au/fishing-charters/",
-      "status": 200,
+      "status": 202,
       "final_url": "https://audacitymarine.com.au/fishing-charters/",
-      "bytes": 412021
+      "bytes": 186
     },
     {
       "page": "https://audacitymarine.com.au/our-fleet/",
-      "status": 200,
+      "status": 202,
       "final_url": "https://audacitymarine.com.au/our-fleet/",
-      "bytes": 408615
+      "bytes": 179
     },
     {
       "page": "https://audacitymarine.com.au/about-us/",
-      "status": 200,
+      "status": 202,
       "final_url": "https://audacitymarine.com.au/about-us/",
-      "bytes": 363160
+      "bytes": 178
     },
     {
       "page": "https://audacitymarine.com.au/contact/",
-      "status": 200,
+      "status": 202,
       "final_url": "https://audacitymarine.com.au/contact/",
-      "bytes": 318456
+      "bytes": 177
     },
     {
       "page": "https://www.facebook.com/people/Audacity-Marine/100066604187392/",
       "status": 400,
       "final_url": "https://www.facebook.com/people/Audacity-Marine/100066604187392/",
       "bytes": 1542
-    },
-    {
-      "page": "https://audacitymarine.com.au/gallery/",
-      "status": 200,
-      "final_url": "https://audacitymarine.com.au/gallery/",
-      "bytes": 408404
     }
   ]
 }
