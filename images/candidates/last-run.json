@@ -1,5 +1,5 @@
 {
-  "finished_at": "2026-10-29T04:31:08.846Z",
+  "finished_at": "2026-10-29T04:33:01.883Z",
   "summary": [
     {
       "slug": "cronulla-reef-fishing-charters",
@@ -303,13 +303,16 @@
     },
     {
       "slug": "wildside-sportfishing",
-      "candidates": 16,
-      "pages": 12
+      "skipped": true
     },
     {
       "slug": "kcs-fishing-charters",
+      "skipped": true
+    },
+    {
+      "slug": "research-r9",
       "candidates": 0,
-      "pages": 4
+      "pages": 5
     }
   ]
 }

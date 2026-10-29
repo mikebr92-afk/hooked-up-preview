@@ -1,0 +1,45 @@
+{
+  "slug": "research-r9",
+  "request_hash": "0b0f1adb0046",
+  "collected_at": "2026-10-29T04:33:01.883Z",
+  "pages_fetched": [
+    "https://www.visitnsw.com/destinations/north-coast/clarence-valley/wooli/attractions/solitary-island-fishing-charters",
+    "https://www.nsw.gov.au/visiting-and-exploring-nsw/locations-and-attractions/solitary-island-fishing-charters",
+    "https://r.jina.ai/https://fishabout.com.au/sydney/",
+    "https://r.jina.ai/https://cronullareeffishingcharters.rezdy.com/539770/full-day-reef-and-sport-fishing",
+    "https://r.jina.ai/https://cronullareeffishingcharters.rezdy.com/537983/full-day-reef-and-sport-fishing-for-individuals"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.visitnsw.com/destinations/north-coast/clarence-valley/wooli/attractions/solitary-island-fishing-charters",
+      "status": 404,
+      "final_url": "https://www.visitnsw.com/destinations/north-coast/clarence-valley/wooli/attractions/solitary-island-fishing-charters",
+      "bytes": 179637
+    },
+    {
+      "page": "https://www.nsw.gov.au/visiting-and-exploring-nsw/locations-and-attractions/solitary-island-fishing-charters",
+      "status": 403,
+      "final_url": "https://www.nsw.gov.au/visiting-and-exploring-nsw/locations-and-attractions/solitary-island-fishing-charters",
+      "bytes": 123924
+    },
+    {
+      "page": "https://r.jina.ai/https://fishabout.com.au/sydney/",
+      "status": 200,
+      "final_url": "https://r.jina.ai/https://fishabout.com.au/sydney/",
+      "bytes": 4575
+    },
+    {
+      "page": "https://r.jina.ai/https://cronullareeffishingcharters.rezdy.com/539770/full-day-reef-and-sport-fishing",
+      "status": 200,
+      "final_url": "https://r.jina.ai/https://cronullareeffishingcharters.rezdy.com/539770/full-day-reef-and-sport-fishing",
+      "bytes": 1371
+    },
+    {
+      "page": "https://r.jina.ai/https://cronullareeffishingcharters.rezdy.com/537983/full-day-reef-and-sport-fishing-for-individuals",
+      "status": 200,
+      "final_url": "https://r.jina.ai/https://cronullareeffishingcharters.rezdy.com/537983/full-day-reef-and-sport-fishing-for-individuals",
+      "bytes": 1987
+    }
+  ]
+}
