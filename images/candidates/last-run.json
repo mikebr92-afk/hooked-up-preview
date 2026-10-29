@@ -1,5 +1,5 @@
 {
-  "finished_at": "2026-10-29T19:23:55.104Z",
+  "finished_at": "2026-10-29T19:26:38.448Z",
   "summary": [
     {
       "slug": "research-gr-1770",
@@ -23,33 +23,57 @@
     },
     {
       "slug": "creek2reef-1770",
-      "candidates": 0,
-      "pages": 1
+      "skipped": true
     },
     {
       "slug": "reef-fishing-charters-1770",
-      "candidates": 0,
-      "pages": 2
+      "skipped": true
     },
     {
       "slug": "research-guess-1770",
-      "candidates": 0,
-      "pages": 5
+      "skipped": true
     },
     {
       "slug": "research-va1770-dir",
+      "skipped": true
+    },
+    {
+      "slug": "research-gladstone-dir",
+      "skipped": true
+    },
+    {
+      "slug": "mikat-recheck",
+      "skipped": true
+    },
+    {
+      "slug": "mv-night-crossing",
+      "candidates": 8,
+      "pages": 3
+    },
+    {
+      "slug": "research-alt-domains",
+      "candidates": 0,
+      "pages": 9
+    },
+    {
+      "slug": "research-aggregators-1770",
       "candidates": 0,
       "pages": 6
     },
     {
-      "slug": "research-gladstone-dir",
+      "slug": "research-rules",
       "candidates": 0,
-      "pages": 5
+      "pages": 4
     },
     {
-      "slug": "mikat-recheck",
+      "slug": "mikat-recheck2",
       "candidates": 0,
-      "pages": 2
+      "pages": 3
+    },
+    {
+      "slug": "research-gladstone2",
+      "candidates": 0,
+      "pages": 4
     }
   ]
 }

@@ -1,0 +1,55 @@
+{
+  "slug": "research-alt-domains",
+  "request_hash": "c138ac8093ff",
+  "collected_at": "2026-10-29T19:25:46.977Z",
+  "pages_fetched": [
+    "https://1770creek2reef.com.au/",
+    "http://www.1770creek2reef.com.au/",
+    "https://www.reeffishingcharters1770.com.au/",
+    "https://reeffishingcharters1770.com/",
+    "https://www.reeffishingcharters.com.au/",
+    "https://www.fishingoffshore1770.com/",
+    "https://www.hookedon1770adventuretours.com.au/",
+    "https://www.mvjamescook.com/",
+    "https://www.jamescook1770.com.au/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://1770creek2reef.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "http://www.1770creek2reef.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://www.reeffishingcharters1770.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://reeffishingcharters1770.com/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://www.reeffishingcharters.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://www.fishingoffshore1770.com/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://www.hookedon1770adventuretours.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://www.mvjamescook.com/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://www.jamescook1770.com.au/",
+      "error": "fetch failed"
+    }
+  ]
+}

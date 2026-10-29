@@ -1,0 +1,38 @@
+{
+  "slug": "research-gladstone2",
+  "request_hash": "579277bf0881",
+  "collected_at": "2026-10-29T19:26:38.448Z",
+  "pages_fetched": [
+    "https://www.australias.guide/qld/attraction-tour/gladstone/tannum-sands/eastern-voyager-charters/",
+    "https://www.yellowpages.com.au/lake-mary-qld/bpp/australiana-charters-580292375",
+    "https://www.smarterfishingcharters.com.au/charters/region/4680?locale=Gladstone",
+    "https://www.smarterfishingcharters.com.au/charters/region/4677?locale=Agnes%20Water"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.australias.guide/qld/attraction-tour/gladstone/tannum-sands/eastern-voyager-charters/",
+      "status": 200,
+      "final_url": "https://australiasguide.com/",
+      "bytes": 64918
+    },
+    {
+      "page": "https://www.yellowpages.com.au/lake-mary-qld/bpp/australiana-charters-580292375",
+      "status": 200,
+      "final_url": "https://www.yellowpages.com.au/lake-mary-qld/bpp/australiana-charters-580292375",
+      "bytes": 102284
+    },
+    {
+      "page": "https://www.smarterfishingcharters.com.au/charters/region/4680?locale=Gladstone",
+      "status": 200,
+      "final_url": "https://www.smarterfishingcharters.com.au/charters/region/4680?locale=Gladstone",
+      "bytes": 17418
+    },
+    {
+      "page": "https://www.smarterfishingcharters.com.au/charters/region/4677?locale=Agnes%20Water",
+      "status": 200,
+      "final_url": "https://www.smarterfishingcharters.com.au/charters/region/4677?locale=Agnes%20Water",
+      "bytes": 14151
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "research-rules",
+  "request_hash": "63c87da5e716",
+  "collected_at": "2026-10-29T19:26:31.519Z",
+  "pages_fetched": [
+    "https://www.daf.qld.gov.au/business-priorities/fisheries/closures/tidal/seasons",
+    "https://www.gbrmpa.gov.au/news/stunning-fish-spawning-spectacle-set-unfold-great-barrier-reef",
+    "https://visitagnes1770.com.au/how-to-get-here",
+    "https://www.gawb.qld.gov.au/wp-content/uploads/2022/02/Native_Flora_Fauna_and_Fishing_Brochure.pdf"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.daf.qld.gov.au/business-priorities/fisheries/closures/tidal/seasons",
+      "status": 403,
+      "final_url": "https://www.daf.qld.gov.au/business-priorities/fisheries/closures/tidal/seasons",
+      "bytes": 5980
+    },
+    {
+      "page": "https://www.gbrmpa.gov.au/news/stunning-fish-spawning-spectacle-set-unfold-great-barrier-reef",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "page": "https://visitagnes1770.com.au/how-to-get-here",
+      "status": 200,
+      "final_url": "https://www.visitagnes1770.com.au/how-to-get-here/",
+      "bytes": 377989
+    },
+    {
+      "page": "https://www.gawb.qld.gov.au/wp-content/uploads/2022/02/Native_Flora_Fauna_and_Fishing_Brochure.pdf",
+      "status": 200,
+      "final_url": "https://www.gawb.qld.gov.au/wp-content/uploads/2022/02/Native_Flora_Fauna_and_Fishing_Brochure.pdf",
+      "bytes": 834315
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "mikat-recheck2",
+  "request_hash": "296d309a383e",
+  "collected_at": "2026-10-29T19:26:35.408Z",
+  "pages_fetched": [
+    "https://mikatcharters.com.au/about-us/",
+    "https://mikatcharters.com.au/contact/",
+    "https://www.mikatcharters.com.au/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://mikatcharters.com.au/about-us/",
+      "status": 200,
+      "final_url": "https://mikatcharters.com.au/about-us/",
+      "bytes": 127246
+    },
+    {
+      "page": "https://mikatcharters.com.au/contact/",
+      "status": 200,
+      "final_url": "https://mikatcharters.com.au/contact/",
+      "bytes": 99187
+    },
+    {
+      "page": "https://www.mikatcharters.com.au/",
+      "status": 200,
+      "final_url": "https://mikatcharters.com.au/",
+      "bytes": 150033
+    }
+  ]
+}

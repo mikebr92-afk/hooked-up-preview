@@ -1,0 +1,50 @@
+{
+  "slug": "research-aggregators-1770",
+  "request_hash": "3eaae47d5ec4",
+  "collected_at": "2026-10-29T19:26:01.188Z",
+  "pages_fetched": [
+    "https://playsport.com/reeffishingcharters1770_ag_d2815b29",
+    "https://wanderlog.com/es/list/geoCategory/1772753/cosas-divertidas-para-hacer-en-seventeen-seventy-atracciones-y-actividades-divertidas",
+    "https://app.wanderlog.com/place/details/620209",
+    "https://australian.rezdy.com/view/PSE0WD",
+    "https://mylittleadventure.com/best-things/agnes-water/tours/fishing-tour-1770-castaway-y2ucV3yAAo",
+    "https://www.australias.guide/qld/attraction-tour/gladstone/seventeen-seventy/hooked-on-1770-adventure-tours/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://playsport.com/reeffishingcharters1770_ag_d2815b29",
+      "status": 200,
+      "final_url": "https://playsport.com/reeffishingcharters1770_ag_d2815b29",
+      "bytes": 291984
+    },
+    {
+      "page": "https://wanderlog.com/es/list/geoCategory/1772753/cosas-divertidas-para-hacer-en-seventeen-seventy-atracciones-y-actividades-divertidas",
+      "status": 200,
+      "final_url": "https://wanderlog.com/es/list/geoCategory/1772753/cosas-divertidas-para-hacer-en-seventeen-seventy-atracciones-y-actividades-divertidas",
+      "bytes": 490618
+    },
+    {
+      "page": "https://app.wanderlog.com/place/details/620209",
+      "status": 200,
+      "final_url": "https://wanderlog.com/place/details/620209",
+      "bytes": 282351
+    },
+    {
+      "page": "https://australian.rezdy.com/view/PSE0WD",
+      "status": 403,
+      "final_url": "https://australian.rezdy.com/view/PSE0WD",
+      "bytes": 5185
+    },
+    {
+      "page": "https://mylittleadventure.com/best-things/agnes-water/tours/fishing-tour-1770-castaway-y2ucV3yAAo",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://www.australias.guide/qld/attraction-tour/gladstone/seventeen-seventy/hooked-on-1770-adventure-tours/",
+      "status": 200,
+      "final_url": "https://australiasguide.com/",
+      "bytes": 64918
+    }
+  ]
+}
