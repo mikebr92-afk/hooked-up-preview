@@ -1,0 +1,24 @@
+{
+  "slug": "seo2-guide-dpi",
+  "request_hash": "bad2160d9fe0",
+  "collected_at": "2026-10-29T22:14:11.576Z",
+  "pages_fetched": [
+    "https://www.dpi.nsw.gov.au/fishing/recreational/fishing-rules-and-regs/saltwater-bag-and-size-limits",
+    "https://www.dpi.nsw.gov.au/fishing/marine-protected-areas/marine-parks/jervis-bay-marine-park/recreational-fishing"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.dpi.nsw.gov.au/fishing/recreational/fishing-rules-and-regs/saltwater-bag-and-size-limits",
+      "status": 403,
+      "final_url": "https://www.dpi.nsw.gov.au/fishing/recreational/fishing-rules-and-regs/saltwater-bag-and-size-limits",
+      "bytes": 6086
+    },
+    {
+      "page": "https://www.dpi.nsw.gov.au/fishing/marine-protected-areas/marine-parks/jervis-bay-marine-park/recreational-fishing",
+      "status": 403,
+      "final_url": "https://www.dpi.nsw.gov.au/fishing/marine-protected-areas/marine-parks/jervis-bay-marine-park/recreational-fishing",
+      "bytes": 6128
+    }
+  ]
+}

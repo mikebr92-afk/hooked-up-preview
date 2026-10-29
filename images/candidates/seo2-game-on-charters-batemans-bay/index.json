@@ -1,0 +1,66 @@
+{
+  "slug": "seo2-game-on-charters-batemans-bay",
+  "request_hash": "965941b0eccc",
+  "collected_at": "2026-10-29T22:13:58.116Z",
+  "pages_fetched": [
+    "https://gameoncharters.net.au/reef-fishing/",
+    "https://gameoncharters.net.au/game-fishing/",
+    "https://gameoncharters.net.au/deep-drop-fishing/",
+    "https://gameoncharters.net.au/charter-info/",
+    "https://gameoncharters.net.au/policies/",
+    "https://gameoncharters.net.au/terms-conditions/",
+    "https://gameoncharters.net.au/your-complete-guide/",
+    "https://gameoncharters.net.au/reel-in-the-adventure-with-game-on-charters-batemans-bay/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://gameoncharters.net.au/reef-fishing/",
+      "status": 200,
+      "final_url": "https://gameoncharters.net.au/reef-fishing-half-full-day-shared-private/",
+      "bytes": 132290
+    },
+    {
+      "page": "https://gameoncharters.net.au/game-fishing/",
+      "status": 200,
+      "final_url": "https://gameoncharters.net.au/game-fishing-full-day-private-charter/",
+      "bytes": 132866
+    },
+    {
+      "page": "https://gameoncharters.net.au/deep-drop-fishing/",
+      "status": 200,
+      "final_url": "https://gameoncharters.net.au/deep-drop-fishing-full-day-only-shared-private/",
+      "bytes": 133731
+    },
+    {
+      "page": "https://gameoncharters.net.au/charter-info/",
+      "status": 200,
+      "final_url": "https://gameoncharters.net.au/charter-info/",
+      "bytes": 163198
+    },
+    {
+      "page": "https://gameoncharters.net.au/policies/",
+      "status": 200,
+      "final_url": "https://gameoncharters.net.au/policies/",
+      "bytes": 119967
+    },
+    {
+      "page": "https://gameoncharters.net.au/terms-conditions/",
+      "status": 200,
+      "final_url": "https://gameoncharters.net.au/terms-conditions/",
+      "bytes": 156347
+    },
+    {
+      "page": "https://gameoncharters.net.au/your-complete-guide/",
+      "status": 200,
+      "final_url": "https://gameoncharters.net.au/your-complete-guide/",
+      "bytes": 131207
+    },
+    {
+      "page": "https://gameoncharters.net.au/reel-in-the-adventure-with-game-on-charters-batemans-bay/",
+      "status": 200,
+      "final_url": "https://gameoncharters.net.au/reel-in-the-adventure-with-game-on-charters-batemans-bay/",
+      "bytes": 132640
+    }
+  ]
+}

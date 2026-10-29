@@ -1,0 +1,38 @@
+{
+  "slug": "seo2-guide-batemans",
+  "request_hash": "0a0b6d794cd3",
+  "collected_at": "2026-10-29T22:14:11.145Z",
+  "pages_fetched": [
+    "https://naroomacharters.com.au/a-day-of-fishing-at-narooma-nsw-what-you-can-expect",
+    "https://naroomacharters.com.au/fishing-narooma-offshore",
+    "https://gameoncharters.net.au/tollgate-islands-and-surrounds/",
+    "https://www.visitnsw.com/articles/outdoor-adventures-batemans-bay"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://naroomacharters.com.au/a-day-of-fishing-at-narooma-nsw-what-you-can-expect",
+      "status": 200,
+      "final_url": "https://naroomacharters.com.au/a-day-of-fishing-at-narooma-nsw-what-you-can-expect",
+      "bytes": 106874
+    },
+    {
+      "page": "https://naroomacharters.com.au/fishing-narooma-offshore",
+      "status": 200,
+      "final_url": "https://naroomacharters.com.au/fishing-narooma-offshore",
+      "bytes": 101280
+    },
+    {
+      "page": "https://gameoncharters.net.au/tollgate-islands-and-surrounds/",
+      "status": 200,
+      "final_url": "https://gameoncharters.net.au/tollgate-islands-and-surrounds/",
+      "bytes": 133585
+    },
+    {
+      "page": "https://www.visitnsw.com/articles/outdoor-adventures-batemans-bay",
+      "status": 200,
+      "final_url": "https://www.visitnsw.com/articles/outdoor-adventures-batemans-bay",
+      "bytes": 273429
+    }
+  ]
+}

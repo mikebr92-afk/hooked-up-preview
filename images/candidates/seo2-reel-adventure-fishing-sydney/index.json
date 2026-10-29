@@ -1,0 +1,45 @@
+{
+  "slug": "seo2-reel-adventure-fishing-sydney",
+  "request_hash": "1900bd14c698",
+  "collected_at": "2026-10-29T22:14:06.972Z",
+  "pages_fetched": [
+    "https://www.fishsydney.com.au/",
+    "https://www.fishsydney.com.au/sydney-fishing-charters",
+    "https://www.fishsydney.com.au/sydney-fishing-charters/FAQ",
+    "https://www.fishsydney.com.au/about-captain-vinnie",
+    "https://www.fishsydney.com.au/Contact-us"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.fishsydney.com.au/",
+      "status": 200,
+      "final_url": "https://www.fishsydney.com.au/",
+      "bytes": 1376111
+    },
+    {
+      "page": "https://www.fishsydney.com.au/sydney-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.fishsydney.com.au/sydney-fishing-charters",
+      "bytes": 1770138
+    },
+    {
+      "page": "https://www.fishsydney.com.au/sydney-fishing-charters/FAQ",
+      "status": 200,
+      "final_url": "https://www.fishsydney.com.au/sydney-fishing-charters/FAQ",
+      "bytes": 1413076
+    },
+    {
+      "page": "https://www.fishsydney.com.au/about-captain-vinnie",
+      "status": 200,
+      "final_url": "https://www.fishsydney.com.au/about-captain-vinnie",
+      "bytes": 1255745
+    },
+    {
+      "page": "https://www.fishsydney.com.au/Contact-us",
+      "status": 200,
+      "final_url": "https://www.fishsydney.com.au/Contact-us",
+      "bytes": 1375184
+    }
+  ]
+}
