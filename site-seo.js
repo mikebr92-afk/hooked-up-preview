@@ -108,7 +108,76 @@ export const LOCS = {
     ],
     season: "Snapper are caught year-round, with a peak in the cooler months. Kingfish are best from spring to autumn, and the game-fishing season for marlin and mahi mahi generally runs from December to April.",
   },
+
+  // ── Species / style collections (kind: 'species') ──────────────────────────
+  // sp: match operators whose species tags contain any of these · tt: match trip-type tags
+  'barramundi': {
+    kind: 'species', n: 'Barramundi', short: 'Barramundi', h1: 'Barramundi Fishing Charters', in: 'for barramundi', noun: 'barramundi charter',
+    sp: ['barramundi'],
+    intro: [
+      "Barramundi are Australia's most iconic sportfish — famous for explosive strikes on lures, head-shaking jumps and growing well over a metre long. A guided barra trip is on the bucket list of most Australian anglers.",
+      "Most barramundi charters on Hooked Trips run out of Darwin and the Top End, fishing rivers, floodplains and wilderness areas like the Mary, Daly and Wildman rivers, Kakadu and Arnhem Land. There are also barra trips in Far North Queensland around Cairns and the Daintree.",
+    ],
+    season: "In the Top End, the run-off after the wet season (roughly March to May) is the classic barra window, as fish push through flooded creeks and floodplains. The build-up (October to December) is hot and humid but can produce big fish on lures. On Queensland's east coast, barramundi have a closed season from 1 November to 1 February.",
+    faq: [
+      ["Do barramundi charters keep the fish?", "Possession and size limits apply in both the Northern Territory and Queensland, and many guides encourage releasing big breeding fish. Your guide will know the current rules for the waters you're fishing."],
+    ],
+  },
+  'marlin': {
+    kind: 'species', n: 'Marlin', short: 'Marlin', h1: 'Marlin Fishing Charters', in: 'for marlin', noun: 'marlin charter',
+    sp: ['marlin'],
+    intro: [
+      "Australia has some of the best marlin fishing in the world. Cairns is famous for giant black marlin on the Ribbon Reefs, while along the NSW coast — Port Stephens, Sydney and Wollongong — game boats target striped, black and blue marlin on the continental shelf.",
+      "Marlin charters are usually private, full-day game-fishing trips on purpose-built sportfishing boats with outriggers and fighting chairs. Most operators tag and release the marlin their clients catch.",
+    ],
+    season: "Out of Cairns, the heavy-tackle black marlin season runs roughly September to December. Along the NSW and southern Queensland coast, marlin season generally runs from around December to May, depending on when the warm currents push in.",
+    faq: [
+      ["Are marlin released?", "Almost always. Charter operators generally tag and release marlin, and many contribute to research tagging programs that track their migrations."],
+    ],
+  },
+  'kingfish': {
+    kind: 'species', n: 'Kingfish', short: 'Kingfish', h1: 'Kingfish Fishing Charters', in: 'for kingfish', noun: 'kingfish charter',
+    sp: ['kingfish'],
+    intro: [
+      "Yellowtail kingfish are one of the hardest-pulling fish in Australian waters and a staple of NSW charter fishing. Hooked on light gear around structure, a big 'kingie' will test any angler.",
+      "Charters target kingfish around Sydney's headlands and harbour, on the offshore reefs off Cronulla and Wollongong, and around the islands off Port Stephens — using live bait, jigs and topwater lures.",
+    ],
+    season: "Kingfish are caught year-round in NSW, with the most consistent surface action from late spring to autumn (roughly October to May).",
+    faq: [
+      ["Do I need my own tackle for kingfish?", "No. Operators supply rods, reels and tackle matched to the fish they're targeting. Kingfish are powerful, so expect heavier gear on offshore trips."],
+    ],
+  },
+  'snapper': {
+    kind: 'species', n: 'Snapper', short: 'Snapper', h1: 'Snapper Fishing Charters', in: 'for snapper', noun: 'snapper charter',
+    sp: ['snapper'],
+    intro: [
+      "Snapper are a favourite on reef charters along the east coast — great fun to catch and excellent eating. Big 'reds' are among the most prized catches for Australian anglers.",
+      "Operators on Hooked Trips target snapper on the inshore and offshore reefs from Sydney and the NSW coast up through the Gold Coast, Sunshine Coast and Hervey Bay.",
+    ],
+    season: "Snapper are caught year-round, but the cooler months (roughly May to September) are usually best, when bigger fish move onto the inshore reefs.",
+    faq: [
+      ["Can I keep the snapper I catch?", "Usually, yes — within the size and bag limits for the state you're fishing in. Many operators also clean and fillet your catch at the end of the trip."],
+    ],
+  },
+  'reef-fishing': {
+    kind: 'species', n: 'Reef Fishing', short: 'Reef Fishing', h1: 'Reef Fishing Charters', in: 'for reef fishing', noun: 'reef fishing charter',
+    tt: ['reef fishing', 'great barrier reef'],
+    intro: [
+      "Reef fishing charters are the most popular trips on Hooked Trips. In the tropics, the Great Barrier Reef serves up coral trout, red emperor, nannygai and sweetlip; further south, the rocky reefs of NSW and southern Queensland hold snapper, pearl perch, kingfish and flathead.",
+      "Most reef trips bottom-fish with bait or soft plastics, so they suit mixed groups, families and first-timers as well as experienced anglers — and the catch is usually excellent eating.",
+    ],
+    season: "Reef fishing runs year-round. In the tropics, calmer seas are more common from late winter through spring; further south, the cooler months are prime time for snapper.",
+    faq: [
+      ["Is reef fishing good for beginners?", "Yes. It's the easiest style of fishing to pick up — the crew handle the rigging and show you what to do, and there's usually plenty of action."],
+    ],
+  },
 };
+
+export const STATE_KEYS = ['new-south-wales', 'queensland', 'northern-territory'];
+export const CITY_KEYS = ['sydney', 'gold-coast', 'cairns', 'darwin', 'port-stephens', 'sunshine-coast', 'wollongong'];
+export const SPECIES_KEYS = Object.keys(LOCS).filter((k) => LOCS[k].kind === 'species');
+export const isSpecies = (L) => L && L.kind === 'species';
+export const locH1 = (L) => L.h1 || `Fishing Charters ${L.in}`;
 
 const LICENCE = {
   NSW: ["Do I need a fishing licence on a charter in NSW?", "No. Anglers fishing from a boat that holds a NSW charter fishing boat licence are covered by the operator's licence, so you don't need to pay the NSW recreational fishing fee for the trip. You'll need your own licence if you fish from the shore or a private boat."],
@@ -133,6 +202,14 @@ const clip = (s, n) => {
 
 // ── location matching + stats ────────────────────────────────────────────────
 export function inLoc(card, L) {
+  if (L.sp) {
+    const tags = [...(card.species_tags || []), ...(card.species || [])].map((s) => s.toLowerCase());
+    return L.sp.some((x) => tags.some((t) => t.includes(x)));
+  }
+  if (L.tt) {
+    const tags = (card.trip_type_tags || []).map((s) => s.toLowerCase());
+    return L.tt.some((x) => tags.includes(x));
+  }
   if (L.st) return card.state === L.st;
   const loc = (card.location || '').toLowerCase();
   return (L.c || []).some((x) => loc.includes(x));
@@ -142,7 +219,7 @@ export const locItems = (cards, L) => activeCards(cards).filter((c) => inLoc(c, 
 
 // Best-matching location page for an operator card: a city page first, else its state page.
 export function locFor(card) {
-  const entries = Object.entries(LOCS);
+  const entries = Object.entries(LOCS).filter(([, L]) => !isSpecies(L));
   return entries.find(([, L]) => !L.st && inLoc(card, L)) || entries.find(([, L]) => L.st && inLoc(card, L)) || null;
 }
 
@@ -196,7 +273,36 @@ function itemList(cards) {
   };
 }
 
+const LICENCE_ANY = ["Do I need a fishing licence on a charter?", "It depends on the state. In NSW, anglers on a licensed charter boat are covered by the operator's licence. Queensland and the Northern Territory don't require a recreational fishing licence for saltwater fishing. Size and bag limits apply everywhere."];
+
+// Where a species collection's operators are, as [[label, count], …] using the city/state pages.
+function placesOf(items) {
+  const m = new Map();
+  for (const c of items) {
+    const lf = locFor(c);
+    const city = lf && !lf[1].st;
+    const label = city ? lf[1].n : `elsewhere in ${STATE_NAMES[c.state] === 'Northern Territory' ? 'the Northern Territory' : STATE_NAMES[c.state] || c.state}`;
+    m.set(label, (m.get(label) || 0) + 1);
+  }
+  // cities first (largest first), then the "elsewhere in …" groups
+  return [...m.entries()].sort((a, b) => (a[0].startsWith('elsewhere') - b[0].startsWith('elsewhere')) || b[1] - a[1]);
+}
+
+function speciesGuide(L, items) {
+  const st = locStats(items);
+  const faq = [];
+  const p = priceClause(st);
+  if (p) faq.push([`How much does a ${L.noun} cost?`, `Across the ${st.count} ${L.noun}s listed on Hooked Trips, ${p}. Prices depend on trip length, boat size and location, so check each operator's trips for exact pricing.`]);
+  const where = placesOf(items);
+  if (where.length) faq.push([`Where can I book a ${L.noun}?`, `Hooked Trips lists ${L.noun}s in ${list(where.slice(0, 9).map(([n, c]) => `${n} (${c})`))}.`]);
+  faq.push([`When is the best time ${L.in}?`, L.season]);
+  faq.push(LICENCE_ANY);
+  for (const qa of L.faq || []) faq.push(qa);
+  return { heading: `${L.n}: what to know`, paras: L.intro, faq };
+}
+
 export function locGuide(L, items) {
+  if (isSpecies(L)) return speciesGuide(L, items);
   const st = locStats(items);
   const faq = [];
   const p = priceClause(st);
@@ -216,10 +322,17 @@ export function locGuide(L, items) {
 
 export function locMeta(key, L, items) {
   const st = locStats(items);
-  const title = `${L.short} Fishing Charters: Compare ${st.count} ${plural(st.count, 'Operator', 'Operators')} | ${BRAND}`;
-  let desc = `Compare ${st.count} fishing ${plural(st.count, 'charter', 'charters')} ${L.in}`;
-  if (st.species.length) desc += ` for ${list(st.species.slice(0, 3))}`;
-  desc += '.';
+  const base = isSpecies(L) ? L.h1 : `${L.short} Fishing Charters`;
+  const title = `${base}: Compare ${st.count} ${plural(st.count, 'Operator', 'Operators')} | ${BRAND}`;
+  let desc;
+  if (isSpecies(L)) {
+    const states = [...new Set(items.map((c) => c.state))].map((s) => (s === 'NT' ? 'the NT' : s));
+    desc = `Compare ${st.count} ${plural(st.count, L.noun, L.noun + 's')} across ${list(states)}.`;
+  } else {
+    desc = `Compare ${st.count} fishing ${plural(st.count, 'charter', 'charters')} ${L.in}`;
+    if (st.species.length) desc += ` for ${list(st.species.slice(0, 3))}`;
+    desc += '.';
+  }
   const ps = priceSentence(st);
   if (ps) desc += ' ' + ps;
   const tail = ' Enquire direct with the operator.';
@@ -228,7 +341,7 @@ export function locMeta(key, L, items) {
   const g = locGuide(L, items);
   return {
     title, desc, path, robots: ROBOTS_INDEX, image: DEFAULT_IMAGE,
-    h1: `Fishing Charters ${L.in}`,
+    h1: locH1(L),
     ld: {
       '@context': 'https://schema.org',
       '@graph': [
@@ -314,11 +427,7 @@ export function charterMeta(op, cards) {
         x.max_group && `up to ${x.max_group} guests`, unitText(x.price_model)].filter(Boolean).join(', '),
     }));
   }
-  const card = (cards || []).find((c) => c.slug === op.slug) || { location: op.primary_location, state: op.state };
-  const lf = locFor(card);
-  const trail = [['Home', '/'], ['Fishing Charters', '/charters']];
-  if (lf) trail.push([lf[1].n, '/fishing-charters/' + lf[0]]);
-  trail.push([op.name, path]);
+  const trail = charterTrail(op, cards);
 
   return {
     title, desc, path, robots: ROBOTS_INDEX, image,
@@ -327,6 +436,78 @@ export function charterMeta(op, cards) {
 }
 
 // Up to `max` other charters for internal linking: same city page first, then same state.
+// Breadcrumb trail for a charter page: Home › Fishing Charters › <city or state> › <operator>
+export function charterTrail(op, cards) {
+  const card = (cards || []).find((c) => c.slug === op.slug) || { location: op.primary_location, state: op.state };
+  const lf = locFor(card);
+  const trail = [['Home', '/'], ['Fishing Charters', '/charters']];
+  if (lf) trail.push([lf[1].n, '/fishing-charters/' + lf[0]]);
+  trail.push([op.name, '/charters/' + op.slug]);
+  return trail;
+}
+export const locTrail = (key, L) => [['Home', '/'], ['Fishing Charters', '/charters'], [L.n, '/fishing-charters/' + key]];
+
+// ── search + filters (homepage search box and /charters filter bar) ─────────
+const STOP = new Set(['fishing', 'fish', 'charter', 'charters', 'trip', 'trips', 'tour', 'tours', 'in', 'at', 'near', 'the', 'and', 'for', 'a', 'boat']);
+const norm = (s) => String(s || '').toLowerCase().replace(/[^a-z0-9 ]+/g, ' ').replace(/\s+/g, ' ').trim();
+
+// Where the homepage search should go: an exact destination/species page if the
+// query names one, otherwise the filtered charter list.
+export function searchRoute(query, groupSize) {
+  const q = norm(query);
+  const gs = groupSize ? `group_size=${encodeURIComponent(groupSize)}` : '';
+  if (q) {
+    const core = q.split(' ').filter((w) => !STOP.has(w)).join(' ');
+    for (const [k, L] of Object.entries(LOCS)) {
+      const names = [k.replace(/-/g, ' '), norm(L.n), norm(L.short), ...(L.c || []), ...(L.sp || [])];
+      if (names.includes(core) || names.includes(q)) return `/fishing-charters/${k}` + (gs ? '?' + gs : '');
+    }
+  }
+  const p = [];
+  if (q) p.push('location=' + encodeURIComponent(String(query).trim()));
+  if (gs) p.push(gs);
+  return '/charters' + (p.length ? '?' + p.join('&') : '');
+}
+
+// Does a listing card match free-text search? Every meaningful word must match
+// its name, location, state, species or trip type (so "barra darwin" works).
+export function matchesQuery(card, query) {
+  const words = norm(query).split(' ').filter((w) => w && !STOP.has(w));
+  if (!words.length) return true;
+  const lf = locFor(card);
+  const hay = norm([card.name, card.location, card.state, STATE_NAMES[card.state], lf && lf[1].n,
+    ...(card.species || []), ...(card.species_tags || []), ...(card.trip_type_tags || [])].join(' '));
+  return words.every((w) => hay.includes(w) || (w === 'barra' && hay.includes('barramundi')) || (w === 'gt' && hay.includes('giant trevally')));
+}
+
+export const GROUP_OPTIONS = [['1', '1 angler'], ['2', '2 anglers'], ['3-4', '3–4 anglers'], ['5-6', '5–6 anglers'], ['7-10', '7–10 anglers'], ['whole', 'Whole boat charter']];
+export const groupLabel = (v) => (GROUP_OPTIONS.find(([k]) => k === v) || [v, v])[1];
+
+// Can this operator take a group of the requested size?
+export function fitsGroup(op, size) {
+  if (!op || !size) return true;
+  const trips = op.trips || [];
+  if (size === 'whole') return trips.some((t) => !/person/.test(t.price_model || '')) || (op.trip_type_tags || []).some((t) => /private/i.test(t));
+  const need = parseInt(String(size).split('-').pop(), 10) || 1;
+  const cap = Math.max(0, ...trips.map((t) => t.max_group || 0), op.max_capacity || 0);
+  return cap >= need;
+}
+
+export const FILTER_SPECIES = ['Barramundi', 'Marlin', 'Kingfish', 'Snapper', 'Coral Trout', 'Red Emperor', 'Giant Trevally', 'Spanish Mackerel', 'Mahi Mahi', 'Tuna', 'Mangrove Jack', 'Flathead'];
+export const FILTER_TRIP_TYPES = [['Private', 'Private charter'], ['Shared', 'Shared trip'], ['Reef', 'Reef fishing'], ['Game', 'Game fishing'], ['Estuary', 'Estuary fishing'], ['River', 'River fishing']];
+
+// Suggestions for the homepage search box.
+export function searchSuggestions(cards) {
+  const out = new Set();
+  for (const k of [...CITY_KEYS, ...STATE_KEYS]) out.add(LOCS[k].n);
+  for (const c of activeCards(cards || [])) {
+    const town = (c.location || '').split(',')[0].trim();
+    if (town) out.add(town);
+  }
+  for (const k of SPECIES_KEYS) out.add(LOCS[k].n);
+  return [...out];
+}
+
 export function relatedCharters(op, cards, max = 6) {
   const act = activeCards(cards).filter((c) => c.slug !== op.slug);
   const me = (cards || []).find((c) => c.slug === op.slug) || { location: op.primary_location, state: op.state };

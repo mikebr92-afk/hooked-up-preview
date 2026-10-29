@@ -20,8 +20,7 @@ import * as SEO from './site-seo.js';
 const { SITE, LOCS } = SEO;
 
 const STATIC_PAGES = ['/', '/charters', '/about', '/list-your-charter', '/contact', '/terms', '/privacy'];
-const CITY_KEYS = ['sydney', 'gold-coast', 'cairns', 'darwin', 'port-stephens', 'sunshine-coast', 'wollongong'];
-const STATE_KEYS = ['new-south-wales', 'queensland', 'northern-territory'];
+const { CITY_KEYS, STATE_KEYS, SPECIES_KEYS } = SEO;
 
 // ── escaping ─────────────────────────────────────────────────────────────────
 const esc = (s) => String(s ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
@@ -194,6 +193,7 @@ const SSR_CSS = `<style>
 .ssr-nav{background:#082B3F;display:flex;justify-content:space-between;align-items:center;padding:18px 32px}
 .ssr-nav--over{position:absolute;top:0;left:0;right:0;background:transparent;z-index:2}
 .ssr-nav img{display:block}
+.ssr-navlink{color:#F5F0E8!important;margin-right:18px;font-size:14px;text-decoration:none}
 .ssr-cta{color:#F5F0E8!important;border:1px solid rgba(245,240,232,.5);border-radius:999px;padding:8px 18px;text-decoration:none;font-size:14px}
 .ssr-main{max-width:1180px;margin:0 auto;padding:40px 32px 64px}
 .ssr h1,.ssr h2{font-family:"Familjen Grotesk",Inter,sans-serif;color:#0B3954;line-height:1.12;font-weight:600}
@@ -226,7 +226,7 @@ const SSR_CSS = `<style>
 const LOGO = '<img src="/hooked-trips-logo-wordmark-no-tagline-white.png" alt="Hooked Trips" width="67" height="38"/>';
 
 function nav(over = false) {
-  return `<header class="ssr-nav${over ? ' ssr-nav--over' : ''}"><a href="/">${LOGO}</a><a class="ssr-cta" href="/list-your-charter">Add your charter</a></header>`;
+  return `<header class="ssr-nav${over ? ' ssr-nav--over' : ''}"><a href="/">${LOGO}</a><span><a class="ssr-navlink" href="/charters">Find a charter</a><a class="ssr-cta" href="/list-your-charter">Add your charter</a></span></header>`;
 }
 
 function footer() {
@@ -234,6 +234,7 @@ function footer() {
     ['/charters', 'Browse all charters'],
     ...STATE_KEYS.map((k) => ['/fishing-charters/' + k, LOCS[k].n]),
     ...CITY_KEYS.map((k) => ['/fishing-charters/' + k, LOCS[k].short + ' fishing charters']),
+    ...SPECIES_KEYS.map((k) => ['/fishing-charters/' + k, LOCS[k].h1]),
     ['/about', 'About'], ['/list-your-charter', 'List your charter'], ['/contact', 'Contact'],
     ['/terms', 'Terms'], ['/privacy', 'Privacy'],
   ];
@@ -258,8 +259,9 @@ function cardList(cards) {
 }
 
 function locationChips() {
-  return `<h2>Browse fishing charters by location</h2><ul class="ssr-chips">${Object.entries(LOCS)
-    .map(([k, L]) => `<li><a href="/fishing-charters/${k}">${esc(L.short)} Fishing Charters</a></li>`).join('')}</ul>`;
+  const chip = (k, label) => `<li><a href="/fishing-charters/${k}">${esc(label)}</a></li>`;
+  return `<h2>Browse fishing charters by location</h2><ul class="ssr-chips">${[...STATE_KEYS, ...CITY_KEYS].map((k) => chip(k, LOCS[k].short + ' Fishing Charters')).join('')}</ul>
+<h2>Browse by species</h2><ul class="ssr-chips">${SPECIES_KEYS.map((k) => chip(k, LOCS[k].h1)).join('')}</ul>`;
 }
 
 function renderHome(cards) {
@@ -271,7 +273,8 @@ function renderHome(cards) {
 <main class="ssr-main">
 <h2>Browse by region</h2><ul class="ssr-grid">${STATE_KEYS.map((k) => `<li><h3><a href="/fishing-charters/${k}">${esc(LOCS[k].n)}</a></h3><p>${byState(LOCS[k].st)} charters</p></li>`).join('')}
 <li><h3>Western Australia</h3><p>Coming soon</p></li><li><h3>Tasmania</h3><p>Coming soon</p></li><li><h3>Victoria</h3><p>Coming soon</p></li></ul>
-<h2>Popular fishing destinations</h2><ul class="ssr-chips">${CITY_KEYS.map((k) => `<li><a href="/fishing-charters/${k}">${esc(LOCS[k].short)} fishing charters</a></li>`).join('')}</ul>
+<h2>Popular destinations &amp; species</h2><h3>Top destinations</h3><ul class="ssr-chips">${CITY_KEYS.map((k) => `<li><a href="/fishing-charters/${k}">${esc(LOCS[k].short)} (${SEO.locItems(cards, LOCS[k]).length})</a></li>`).join('')}</ul>
+<h3>Target species &amp; styles</h3><ul class="ssr-chips">${SPECIES_KEYS.map((k) => `<li><a href="/fishing-charters/${k}">${esc(LOCS[k].n)} (${SEO.locItems(cards, LOCS[k]).length})</a></li>`).join('')}</ul>
 <h2>Built by anglers, for anglers</h2>
 <h3>1. Tell us where &amp; what</h3><p>Pick a region, a species you're chasing, or just browse. We feature licensed operators based on quality and reviews — not who pays us most.</p>
 <h3>2. Compare honestly</h3><p>Boat specs, target species by season, and what each operator actually offers.</p>
@@ -291,8 +294,8 @@ ${cardList(act)}${locationChips()}
 
 function renderLocation(key, L, items) {
   const g = SEO.locGuide(L, items);
-  return page(`<main class="ssr-main">${crumbsHtml([['Home', '/'], ['Fishing Charters', '/charters'], [L.n, '/fishing-charters/' + key]])}
-<h1>Fishing Charters ${esc(L.in)}</h1>
+  return page(`<main class="ssr-main">${crumbsHtml(SEO.locTrail(key, L))}
+<h1>${esc(SEO.locH1(L))}</h1>
 <p>Compare ${items.length} fishing ${items.length === 1 ? 'charter' : 'charters'} ${esc(L.in)}. Browse trips, target species and prices — then enquire direct with the operator.</p>
 ${cardList(items)}
 <section><h2>${esc(g.heading)}</h2>${g.paras.map((p) => `<p>${esc(p)}</p>`).join('')}
@@ -302,9 +305,7 @@ ${locationChips()}</main>`);
 
 function renderCharter(op, cards) {
   const rel = SEO.relatedCharters(op, cards, 6);
-  const trail = [['Home', '/'], ['Fishing Charters', '/charters']];
-  if (rel.loc) trail.push([rel.loc[1].n, '/fishing-charters/' + rel.loc[0]]);
-  trail.push([op.name, '/charters/' + op.slug]);
+  const trail = SEO.charterTrail(op, cards);
   const ct = SEO.cheapestTrip(op);
   const imgs = SEO.charterImages(op);
   const li = (arr) => (arr?.length ? `<ul>${arr.map((x) => `<li>${esc(x)}</li>`).join('')}</ul>` : '');
