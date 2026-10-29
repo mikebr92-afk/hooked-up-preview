@@ -1,5 +1,5 @@
 {
-  "finished_at": "2026-10-29T19:26:38.448Z",
+  "finished_at": "2026-10-29T19:29:04.169Z",
   "summary": [
     {
       "slug": "research-gr-1770",
@@ -47,33 +47,67 @@
     },
     {
       "slug": "mv-night-crossing",
-      "candidates": 8,
-      "pages": 3
+      "skipped": true
     },
     {
       "slug": "research-alt-domains",
-      "candidates": 0,
-      "pages": 9
+      "skipped": true
     },
     {
       "slug": "research-aggregators-1770",
+      "skipped": true
+    },
+    {
+      "slug": "research-rules",
+      "skipped": true
+    },
+    {
+      "slug": "mikat-recheck2",
+      "skipped": true
+    },
+    {
+      "slug": "research-gladstone2",
+      "skipped": true
+    },
+    {
+      "slug": "reef-fish-and-dive-1770",
+      "candidates": 0,
+      "pages": 2
+    },
+    {
+      "slug": "hooked-on-1770",
+      "candidates": 0,
+      "pages": 8
+    },
+    {
+      "slug": "fishing-offshore-1770",
+      "candidates": 11,
+      "pages": 2
+    },
+    {
+      "slug": "research-sfc-details",
+      "candidates": 0,
+      "pages": 10
+    },
+    {
+      "slug": "research-tripadvisor-1770",
+      "candidates": 0,
+      "pages": 3
+    },
+    {
+      "slug": "research-facts2",
       "candidates": 0,
       "pages": 6
     },
     {
-      "slug": "research-rules",
+      "slug": "mv-night-crossing-2",
       "candidates": 0,
       "pages": 4
     },
     {
-      "slug": "mikat-recheck2",
+      "slug": "mikat-trip-reports",
       "candidates": 0,
-      "pages": 3
-    },
-    {
-      "slug": "research-gladstone2",
-      "candidates": 0,
-      "pages": 4
+      "pages": 1
     }
   ]
 }

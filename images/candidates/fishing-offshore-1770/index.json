@@ -1,0 +1,172 @@
+{
+  "slug": "fishing-offshore-1770",
+  "request_hash": "ac794f81da57",
+  "collected_at": "2026-10-29T19:28:52.181Z",
+  "pages_fetched": [
+    "https://www.facebook.com/fishingoffshore/",
+    "https://agneswaterbeachclub.com.au/local-attractions/offshore-fishing/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1024,
+      "height": 1577,
+      "original": "1024x1577",
+      "source": "https://agneswaterbeachclub.com.au/wp-content/uploads/2025/06/agnes-water-attractions-liquid-adventures-fishing.jpg",
+      "page": "https://agneswaterbeachclub.com.au/local-attractions/offshore-fishing/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 2000,
+      "height": 1286,
+      "original": "2048x1317",
+      "source": "https://agneswaterbeachclub.com.au/wp-content/uploads/2026/05/agnes-water-1770.jpg",
+      "page": "https://agneswaterbeachclub.com.au/local-attractions/offshore-fishing/",
+      "priority": true
+    },
+    {
+      "file": "c03.webp",
+      "width": 2000,
+      "height": 1286,
+      "original": "2048x1317",
+      "source": "https://agneswaterbeachclub.com.au/wp-content/uploads/2026/05/agnes-water-beach-club-apartments-superior-family-room.jpg",
+      "page": "https://agneswaterbeachclub.com.au/local-attractions/offshore-fishing/",
+      "priority": true
+    },
+    {
+      "file": "c04.webp",
+      "width": 2000,
+      "height": 1286,
+      "original": "2048x1317",
+      "source": "https://agneswaterbeachclub.com.au/wp-content/uploads/2026/05/agnes-water-accommodation-beach-club-family-room.jpg",
+      "page": "https://agneswaterbeachclub.com.au/local-attractions/offshore-fishing/",
+      "priority": true
+    },
+    {
+      "file": "c05.webp",
+      "width": 2000,
+      "height": 1286,
+      "original": "2048x1317",
+      "source": "https://agneswaterbeachclub.com.au/wp-content/uploads/2026/05/agnes-water-beach-club-accommodation-family-room-tv.jpg",
+      "page": "https://agneswaterbeachclub.com.au/local-attractions/offshore-fishing/",
+      "priority": true
+    },
+    {
+      "file": "c06.webp",
+      "width": 2000,
+      "height": 1286,
+      "original": "2048x1317",
+      "source": "https://agneswaterbeachclub.com.au/wp-content/uploads/2026/05/agnes-water-beach-apartments-living-area-tv.jpg",
+      "page": "https://agneswaterbeachclub.com.au/local-attractions/offshore-fishing/",
+      "priority": true
+    },
+    {
+      "file": "c07.webp",
+      "width": 1267,
+      "height": 1433,
+      "original": "1267x1433",
+      "source": "https://agneswaterbeachclub.com.au/wp-content/uploads/2025/07/Agnes-Water.png.webp",
+      "page": "https://agneswaterbeachclub.com.au/local-attractions/offshore-fishing/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 900,
+      "height": 600,
+      "original": "900x600",
+      "source": "https://agneswaterbeachclub.com.au/wp-content/uploads/2025/06/agnes-water-attractions-liquid-adventures-fishing-900x600.jpg.webp",
+      "page": "https://agneswaterbeachclub.com.au/local-attractions/offshore-fishing/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1024,
+      "height": 1024,
+      "original": "1024x1024",
+      "source": "https://agneswaterbeachclub.com.au/wp-content/uploads/2025/06/agnes-water-attractions-liquid-adventures-fishing-1024x1024.jpg.webp",
+      "page": "https://agneswaterbeachclub.com.au/local-attractions/offshore-fishing/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 900,
+      "height": 450,
+      "original": "900x450",
+      "source": "https://agneswaterbeachclub.com.au/wp-content/uploads/2026/05/agnes-water-beach-morning-sunrise-900x450.jpg.webp",
+      "page": "https://agneswaterbeachclub.com.au/local-attractions/offshore-fishing/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 2000,
+      "height": 1286,
+      "original": "2048x1317",
+      "source": "https://agneswaterbeachclub.com.au/wp-content/uploads/2026/05/agnes-water-beach-morning-sunrise.jpg",
+      "page": "https://agneswaterbeachclub.com.au/local-attractions/offshore-fishing/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.facebook.com/fishingoffshore/",
+      "status": 400,
+      "final_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Ffishingoffshore%2F",
+      "bytes": 1542
+    },
+    {
+      "page": "https://agneswaterbeachclub.com.au/local-attractions/offshore-fishing/",
+      "status": 200,
+      "final_url": "https://agneswaterbeachclub.com.au/experiences/offshore-fishing/",
+      "bytes": 79751
+    },
+    {
+      "image": "https://agneswaterbeachclub.com.au/wp-content/themes/pebbledesign/assets/dist/images/blank.png",
+      "error": "too small 5x3"
+    },
+    {
+      "image": "https://agneswaterbeachclub.com.au/wp-content/uploads/2025/07/2025-BOQE-Stamp.png.webp",
+      "error": "too small 384x384"
+    },
+    {
+      "image": "https://agneswaterbeachclub.com.au/wp-content/uploads/2025/06/agnes-water-attractions-liquid-adventures-fishing-500x600.jpg.webp",
+      "error": "too small 500x600"
+    },
+    {
+      "image": "https://agneswaterbeachclub.com.au/wp-content/uploads/2026/05/agnes-water-beach-morning-sunrise-500x333.jpg.webp",
+      "error": "too small 500x333"
+    },
+    {
+      "image": "https://agneswaterbeachclub.com.au/wp-content/themes/pebbledesign/assets/dist/images/gallery-ui-dark.png",
+      "error": "too small 264x88"
+    },
+    {
+      "image": "https://agneswaterbeachclub.com.au/wp-content/themes/pebbledesign/assets/dist/images/gallery-ui-light.png",
+      "error": "too small 264x88"
+    },
+    {
+      "dup": "https://agneswaterbeachclub.com.au/wp-content/uploads/2025/07/Agnes-Water.png"
+    },
+    {
+      "image": "https://agneswaterbeachclub.com.au/wp-content/uploads/2025/07/2025-BOQE-Stamp.png",
+      "error": "too small 384x384"
+    },
+    {
+      "image": "https://agneswaterbeachclub.com.au/wp-content/uploads/2025/06/agnes-water-attractions-liquid-adventures-fishing-500x600.jpg",
+      "error": "too small 500x600"
+    },
+    {
+      "dup": "https://agneswaterbeachclub.com.au/wp-content/uploads/2025/06/agnes-water-attractions-liquid-adventures-fishing-900x600.jpg"
+    },
+    {
+      "dup": "https://agneswaterbeachclub.com.au/wp-content/uploads/2025/06/agnes-water-attractions-liquid-adventures-fishing-1024x1024.jpg"
+    },
+    {
+      "dup": "https://agneswaterbeachclub.com.au/wp-content/uploads/2026/05/agnes-water-beach-morning-sunrise-900x450.jpg"
+    },
+    {
+      "image": "https://agneswaterbeachclub.com.au/wp-content/uploads/2026/05/agnes-water-beach-morning-sunrise-500x333.jpg",
+      "error": "too small 500x333"
+    }
+  ]
+}

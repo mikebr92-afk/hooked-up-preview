@@ -1,0 +1,31 @@
+{
+  "slug": "research-tripadvisor-1770",
+  "request_hash": "a516ddc64611",
+  "collected_at": "2026-10-29T19:28:55.715Z",
+  "pages_fetched": [
+    "https://www.tripadvisor.com/Attractions-g495001-Activities-c61-t217-Seventeen_Seventy_Queensland.html",
+    "https://www.tripadvisor.com/Attraction_Review-g494979-d12995036-Reviews-1770_Creek2Reef-Agnes_Water_Queensland.html",
+    "https://playsport.com/hookedon1770offshorecharters_ag_cf0fa0aa"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.tripadvisor.com/Attractions-g495001-Activities-c61-t217-Seventeen_Seventy_Queensland.html",
+      "status": 403,
+      "final_url": "https://www.tripadvisor.com/Attractions-g495001-Activities-c61-t217-Seventeen_Seventy_Queensland.html",
+      "bytes": 775
+    },
+    {
+      "page": "https://www.tripadvisor.com/Attraction_Review-g494979-d12995036-Reviews-1770_Creek2Reef-Agnes_Water_Queensland.html",
+      "status": 403,
+      "final_url": "https://www.tripadvisor.com/Attraction_Review-g494979-d12995036-Reviews-1770_Creek2Reef-Agnes_Water_Queensland.html",
+      "bytes": 775
+    },
+    {
+      "page": "https://playsport.com/hookedon1770offshorecharters_ag_cf0fa0aa",
+      "status": 200,
+      "final_url": "https://playsport.com/hookedon1770offshorecharters_ag_cf0fa0aa",
+      "bytes": 272495
+    }
+  ]
+}

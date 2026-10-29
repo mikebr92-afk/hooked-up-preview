@@ -1,0 +1,17 @@
+{
+  "slug": "mikat-trip-reports",
+  "request_hash": "9e654dc7339c",
+  "collected_at": "2026-10-29T19:29:04.168Z",
+  "pages_fetched": [
+    "https://mikatcharters.com.au/trip-reports-gallery/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://mikatcharters.com.au/trip-reports-gallery/",
+      "status": 200,
+      "final_url": "https://mikatcharters.com.au/trip-reports-gallery/",
+      "bytes": 111460
+    }
+  ]
+}

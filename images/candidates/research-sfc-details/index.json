@@ -1,0 +1,80 @@
+{
+  "slug": "research-sfc-details",
+  "request_hash": "16b6a486c0c4",
+  "collected_at": "2026-10-29T19:28:55.097Z",
+  "pages_fetched": [
+    "https://www.smarterfishingcharters.com.au/charters/details/218",
+    "https://www.smarterfishingcharters.com.au/charters/details/248",
+    "https://www.smarterfishingcharters.com.au/charters/details/362",
+    "https://www.smarterfishingcharters.com.au/charters/details/323",
+    "https://www.smarterfishingcharters.com.au/charters/details/326",
+    "https://www.smarterfishingcharters.com.au/charters/details/80",
+    "https://www.smarterfishingcharters.com.au/charters/details/96",
+    "https://www.smarterfishingcharters.com.au/charters/details/98",
+    "https://www.smarterfishingcharters.com.au/charters/details/97",
+    "https://www.smarterfishingcharters.com.au/charters/region/4677?locale=Town+of+1770%2FAgnes+Waters"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.smarterfishingcharters.com.au/charters/details/218",
+      "status": 200,
+      "final_url": "https://www.smarterfishingcharters.com.au/charters/details/218",
+      "bytes": 15157
+    },
+    {
+      "page": "https://www.smarterfishingcharters.com.au/charters/details/248",
+      "status": 200,
+      "final_url": "https://www.smarterfishingcharters.com.au/charters/details/248",
+      "bytes": 13603
+    },
+    {
+      "page": "https://www.smarterfishingcharters.com.au/charters/details/362",
+      "status": 200,
+      "final_url": "https://www.smarterfishingcharters.com.au/charters/details/362",
+      "bytes": 13917
+    },
+    {
+      "page": "https://www.smarterfishingcharters.com.au/charters/details/323",
+      "status": 200,
+      "final_url": "https://www.smarterfishingcharters.com.au/charters/details/323",
+      "bytes": 13333
+    },
+    {
+      "page": "https://www.smarterfishingcharters.com.au/charters/details/326",
+      "status": 200,
+      "final_url": "https://www.smarterfishingcharters.com.au/charters/details/326",
+      "bytes": 14879
+    },
+    {
+      "page": "https://www.smarterfishingcharters.com.au/charters/details/80",
+      "status": 200,
+      "final_url": "https://www.smarterfishingcharters.com.au/charters/details/80",
+      "bytes": 13548
+    },
+    {
+      "page": "https://www.smarterfishingcharters.com.au/charters/details/96",
+      "status": 200,
+      "final_url": "https://www.smarterfishingcharters.com.au/charters/details/96",
+      "bytes": 12935
+    },
+    {
+      "page": "https://www.smarterfishingcharters.com.au/charters/details/98",
+      "status": 200,
+      "final_url": "https://www.smarterfishingcharters.com.au/charters/details/98",
+      "bytes": 13322
+    },
+    {
+      "page": "https://www.smarterfishingcharters.com.au/charters/details/97",
+      "status": 200,
+      "final_url": "https://www.smarterfishingcharters.com.au/charters/details/97",
+      "bytes": 15543
+    },
+    {
+      "page": "https://www.smarterfishingcharters.com.au/charters/region/4677?locale=Town+of+1770%2FAgnes+Waters",
+      "status": 200,
+      "final_url": "https://www.smarterfishingcharters.com.au/charters/region/4677?locale=Town+of+1770%2FAgnes+Waters",
+      "bytes": 14375
+    }
+  ]
+}
