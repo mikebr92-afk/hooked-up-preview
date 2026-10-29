@@ -1,5 +1,5 @@
 {
-  "finished_at": "2026-10-29T19:33:45.489Z",
+  "finished_at": "2026-10-29T19:35:33.115Z",
   "summary": [
     {
       "slug": "research-nsw-dpi-charter",
@@ -54,10 +54,6 @@
       "skipped": true
     },
     {
-      "slug": "reel-fishn-charters",
-      "skipped": true
-    },
-    {
       "slug": "northern-rivers-sportfishing",
       "skipped": true
     },
@@ -87,18 +83,30 @@
     },
     {
       "slug": "research-cdx",
-      "candidates": 0,
-      "pages": 6
+      "skipped": true
     },
     {
       "slug": "research-wayback-lists",
-      "candidates": 0,
-      "pages": 7
+      "skipped": true
     },
     {
       "slug": "reel-fishn-charters",
+      "skipped": true
+    },
+    {
+      "slug": "research-tweed-facts",
       "candidates": 0,
-      "pages": 4
+      "pages": 12
+    },
+    {
+      "slug": "research-coffs-facts",
+      "candidates": 0,
+      "pages": 5
+    },
+    {
+      "slug": "research-newcastle-facts",
+      "candidates": 0,
+      "pages": 3
     }
   ]
 }

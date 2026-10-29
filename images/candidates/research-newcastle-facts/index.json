@@ -1,0 +1,31 @@
+{
+  "slug": "research-newcastle-facts",
+  "request_hash": "7521e9949caf",
+  "collected_at": "2026-10-29T19:35:33.115Z",
+  "pages_fetched": [
+    "https://day-trippin-charters.squarespace.com/",
+    "https://en.wikivoyage.org/wiki/Newcastle_(New_South_Wales)",
+    "https://newywithkids.com.au/best-fishing-spots-for-kids-in-newcastle-lake-macquarie-hunter/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://day-trippin-charters.squarespace.com/",
+      "status": 200,
+      "final_url": "https://day-trippin-charters.squarespace.com/",
+      "bytes": 327850
+    },
+    {
+      "page": "https://en.wikivoyage.org/wiki/Newcastle_(New_South_Wales)",
+      "status": 200,
+      "final_url": "https://en.wikivoyage.org/wiki/Newcastle_(New_South_Wales)",
+      "bytes": 409785
+    },
+    {
+      "page": "https://newywithkids.com.au/best-fishing-spots-for-kids-in-newcastle-lake-macquarie-hunter/",
+      "status": 200,
+      "final_url": "https://newywithkids.com.au/best-fishing-spots-for-kids-in-newcastle-lake-macquarie-hunter/",
+      "bytes": 241017
+    }
+  ]
+}

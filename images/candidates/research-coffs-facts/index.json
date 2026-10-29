@@ -1,0 +1,45 @@
+{
+  "slug": "research-coffs-facts",
+  "request_hash": "cde16a0467e9",
+  "collected_at": "2026-10-29T19:35:31.353Z",
+  "pages_fetched": [
+    "https://coffsharbourfishing.com.au/",
+    "https://coffsharbourfishing.com.au/charters/",
+    "https://coffsharbourfishing.com.au/about-us/",
+    "https://coffsharbourfishing.rezdy.com/545447/south-solitary-sportfishing-experience",
+    "https://www.coffscoast.com.au/plan-your-trip/holiday-tips/travelling-and-getting-around/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://coffsharbourfishing.com.au/",
+      "status": 200,
+      "final_url": "https://coffsharbourfishing.com.au/",
+      "bytes": 34251
+    },
+    {
+      "page": "https://coffsharbourfishing.com.au/charters/",
+      "status": 200,
+      "final_url": "https://coffsharbourfishing.com.au/charters/",
+      "bytes": 29644
+    },
+    {
+      "page": "https://coffsharbourfishing.com.au/about-us/",
+      "status": 200,
+      "final_url": "https://coffsharbourfishing.com.au/about-us/",
+      "bytes": 29971
+    },
+    {
+      "page": "https://coffsharbourfishing.rezdy.com/545447/south-solitary-sportfishing-experience",
+      "status": 403,
+      "final_url": "https://coffsharbourfishing.rezdy.com/545447/south-solitary-sportfishing-experience",
+      "bytes": 5187
+    },
+    {
+      "page": "https://www.coffscoast.com.au/plan-your-trip/holiday-tips/travelling-and-getting-around/",
+      "status": 200,
+      "final_url": "https://www.coffscoast.com.au/plan-your-trip/holiday-tips/travelling-and-getting-around/",
+      "bytes": 149824
+    }
+  ]
+}
