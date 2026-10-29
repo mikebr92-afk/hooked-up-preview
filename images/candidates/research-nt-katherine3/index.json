@@ -1,0 +1,38 @@
+{
+  "slug": "research-nt-katherine3",
+  "request_hash": "ba35e17e014e",
+  "collected_at": "2026-10-29T19:31:00.622Z",
+  "pages_fetched": [
+    "https://www.visitkatherine.com.au/visitor-information/surrounding-regions/timber-creek-victoria-river",
+    "https://www.visitkatherine.com.au/attractions/tours",
+    "https://www.exploroz.com/forum/66699/victoria-river-fishing-charters",
+    "https://www.fishingaustralia.com.au/victoria-river-timber-creek-nt/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.visitkatherine.com.au/visitor-information/surrounding-regions/timber-creek-victoria-river",
+      "status": 200,
+      "final_url": "https://www.visitkatherine.com.au/visitor-information/surrounding-regions/timber-creek-victoria-river",
+      "bytes": 41920
+    },
+    {
+      "page": "https://www.visitkatherine.com.au/attractions/tours",
+      "status": 200,
+      "final_url": "https://www.visitkatherine.com.au/attractions/tours",
+      "bytes": 70235
+    },
+    {
+      "page": "https://www.exploroz.com/forum/66699/victoria-river-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.exploroz.com/forum/66699/victoria-river-fishing-charters",
+      "bytes": 45630
+    },
+    {
+      "page": "https://www.fishingaustralia.com.au/victoria-river-timber-creek-nt/",
+      "status": 200,
+      "final_url": "https://www.fishingaustralia.com.au/victoria-river-timber-creek-nt/",
+      "bytes": 167978
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "research-nt-mary-ops3",
+  "request_hash": "17a72ba7e94c",
+  "collected_at": "2026-10-29T19:30:37.646Z",
+  "pages_fetched": [
+    "https://northernterritory.com/tours/reel-screamin-barra-fishing",
+    "https://www.tripadvisor.com.au/Attraction_Review-g255066-d8687059-Reviews-Reel_Screamin_Barra_Fishing-Darwin_Top_End_Northern_Territory.html",
+    "https://northernterritory.com/darwin-and-surrounds/see-and-do/outdoor-activities/fishing",
+    "https://northernterritory.com/things-to-do/outdoor-activities/fishing/barramundi-and-inland-fishing",
+    "https://www.visittopend.com.au/plan-trip/things-to-do/crocodiles"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://northernterritory.com/tours/reel-screamin-barra-fishing",
+      "status": 404,
+      "final_url": "https://northernterritory.com/tours/reel-screamin-barra-fishing",
+      "bytes": 517251
+    },
+    {
+      "page": "https://www.tripadvisor.com.au/Attraction_Review-g255066-d8687059-Reviews-Reel_Screamin_Barra_Fishing-Darwin_Top_End_Northern_Territory.html",
+      "status": 403,
+      "final_url": "https://www.tripadvisor.com.au/Attraction_Review-g255066-d8687059-Reviews-Reel_Screamin_Barra_Fishing-Darwin_Top_End_Northern_Territory.html",
+      "bytes": 778
+    },
+    {
+      "page": "https://northernterritory.com/darwin-and-surrounds/see-and-do/outdoor-activities/fishing",
+      "status": 200,
+      "final_url": "https://northernterritory.com/darwin-and-surrounds/see-and-do/outdoor-activities/fishing",
+      "bytes": 736858
+    },
+    {
+      "page": "https://northernterritory.com/things-to-do/outdoor-activities/fishing/barramundi-and-inland-fishing",
+      "status": 200,
+      "final_url": "https://northernterritory.com/things-to-do/outdoor-activities/fishing/barramundi-and-inland-fishing",
+      "bytes": 540246
+    },
+    {
+      "page": "https://www.visittopend.com.au/plan-trip/things-to-do/crocodiles",
+      "status": 200,
+      "final_url": "https://www.visittopend.com.au/plan-trip/things-to-do/crocodiles",
+      "bytes": 92761
+    }
+  ]
+}

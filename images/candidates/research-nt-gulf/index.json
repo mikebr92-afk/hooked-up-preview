@@ -1,0 +1,94 @@
+{
+  "slug": "research-nt-gulf",
+  "request_hash": "a4bf0c41d3ec",
+  "collected_at": "2026-10-29T19:30:51.233Z",
+  "pages_fetched": [
+    "https://kingashbay.com.au/",
+    "https://www.visittopend.com.au/plan-trip/regions/katherine-region/borroloola-and-the-gulf/borroloola-fishing",
+    "https://www.northernterritory.com/katherine-and-surrounds/destinations/king-ash-bay",
+    "https://northernterritory.com/katherine-and-surrounds/destinations/gulf-region",
+    "https://northernterritory.com/katherine-and-surrounds/see-and-do/king-ash-bay-fishing-club-incorporated",
+    "https://www.visitkatherine.com.au/visitor-information/surrounding-regions/the-gulf",
+    "https://www.kingashbay.com.au/category/about-king-ash-bay/",
+    "https://www.kingashbay.com.au/borroloola-houseboats/",
+    "https://www.kingashbay.com.au/mcarthur-river-fishing-charters/",
+    "https://www.kingashbay.com.au/wiyibi-fishing-wilderness-lodge-north-island/",
+    "https://www.kingashbay.com.au/members-area/code-of-conduct-for-committee-members-of-the-king-ash-bay-fishing-club/",
+    "https://www.kingashbay.com.au/king-ash-bay-fishing-club-financial-statements-for-year-ended-31-march-2022/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://kingashbay.com.au/",
+      "status": 200,
+      "final_url": "https://www.kingashbay.com.au/",
+      "bytes": 78668
+    },
+    {
+      "page": "https://www.visittopend.com.au/plan-trip/regions/katherine-region/borroloola-and-the-gulf/borroloola-fishing",
+      "status": 200,
+      "final_url": "https://www.visittopend.com.au/plan-trip/regions/katherine-region/borroloola-and-the-gulf/borroloola-fishing",
+      "bytes": 80318
+    },
+    {
+      "page": "https://www.northernterritory.com/katherine-and-surrounds/destinations/king-ash-bay",
+      "status": 200,
+      "final_url": "https://northernterritory.com/katherine-and-surrounds/destinations/king-ash-bay",
+      "bytes": 503627
+    },
+    {
+      "page": "https://northernterritory.com/katherine-and-surrounds/destinations/gulf-region",
+      "status": 200,
+      "final_url": "https://northernterritory.com/katherine-and-surrounds/destinations/gulf-region",
+      "bytes": 539956
+    },
+    {
+      "page": "https://northernterritory.com/katherine-and-surrounds/see-and-do/king-ash-bay-fishing-club-incorporated",
+      "status": 404,
+      "final_url": "https://northernterritory.com/katherine-and-surrounds/see-and-do/king-ash-bay-fishing-club-incorporated",
+      "bytes": 517251
+    },
+    {
+      "page": "https://www.visitkatherine.com.au/visitor-information/surrounding-regions/the-gulf",
+      "status": 200,
+      "final_url": "https://www.visitkatherine.com.au/visitor-information/surrounding-regions/the-gulf",
+      "bytes": 43259
+    },
+    {
+      "page": "https://www.kingashbay.com.au/category/about-king-ash-bay/",
+      "status": 200,
+      "final_url": "https://www.kingashbay.com.au/category/about-king-ash-bay/",
+      "bytes": 36417
+    },
+    {
+      "page": "https://www.kingashbay.com.au/borroloola-houseboats/",
+      "status": 200,
+      "final_url": "https://www.kingashbay.com.au/borroloola-houseboats/",
+      "bytes": 29514
+    },
+    {
+      "page": "https://www.kingashbay.com.au/mcarthur-river-fishing-charters/",
+      "status": 200,
+      "final_url": "https://www.kingashbay.com.au/mcarthur-river-fishing-charters/",
+      "bytes": 29087
+    },
+    {
+      "page": "https://www.kingashbay.com.au/wiyibi-fishing-wilderness-lodge-north-island/",
+      "status": 200,
+      "final_url": "https://www.kingashbay.com.au/wiyibi-fishing-wilderness-lodge-north-island/",
+      "bytes": 28459
+    },
+    {
+      "page": "https://www.kingashbay.com.au/members-area/code-of-conduct-for-committee-members-of-the-king-ash-bay-fishing-club/",
+      "status": 200,
+      "final_url": "https://www.kingashbay.com.au/members-area/code-of-conduct-for-committee-members-of-the-king-ash-bay-fishing-club/",
+      "bytes": 28778
+    },
+    {
+      "page": "https://www.kingashbay.com.au/king-ash-bay-fishing-club-financial-statements-for-year-ended-31-march-2022/",
+      "status": 200,
+      "final_url": "https://www.kingashbay.com.au/king-ash-bay-fishing-club-financial-statements-for-year-ended-31-march-2022/",
+      "bytes": 28705
+    }
+  ]
+}

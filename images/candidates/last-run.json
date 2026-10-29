@@ -1,5 +1,5 @@
 {
-  "finished_at": "2026-10-29T19:28:44.120Z",
+  "finished_at": "2026-10-29T19:31:00.622Z",
   "summary": [
     {
       "slug": "research-nt-mary-tourism",
@@ -35,18 +35,35 @@
     },
     {
       "slug": "reel-screamin-barra-fishing",
-      "candidates": 16,
-      "pages": 11
+      "skipped": true
     },
     {
       "slug": "spring-tide-safaris",
-      "candidates": 16,
-      "pages": 11
+      "skipped": true
     },
     {
       "slug": "research-nt-mary-places2",
+      "skipped": true
+    },
+    {
+      "slug": "research-nt-mary-ops3",
       "candidates": 0,
-      "pages": 6
+      "pages": 5
+    },
+    {
+      "slug": "australian-sportfishing-charters",
+      "candidates": 0,
+      "pages": 2
+    },
+    {
+      "slug": "research-nt-gulf",
+      "candidates": 0,
+      "pages": 12
+    },
+    {
+      "slug": "research-nt-katherine3",
+      "candidates": 0,
+      "pages": 4
     }
   ]
 }
