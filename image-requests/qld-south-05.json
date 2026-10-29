@@ -1,0 +1,6 @@
+{"requests":[
+ {"slug":"research-hervey-dir3","pages":["https://fishingchartersherveybay.com.au/hervey-bay-fishing-charters/","https://www.visitfrasercoast.com/product/hervey-bay-fly-and-sportfishing/","https://www.visitfrasercoast.com/product/princess-ii-fishing-charters/","https://www.visitfrasercoast.com/things-to-do/fishing/","https://www.fishingaustralia.com.au/hervey-bay-qld/"],"text":true,"max":0,"follow":false},
+ {"slug":"reef-fishing-charters-1770","pages":["http://www.reeffishingcharters1770.com.au/lady-musgrave-island/","https://www.reeffishingcharters1770.com.au/lady-musgrave-island/","http://reeffishingcharters1770.com.au/"],"text":true,"max":16,"follow":true},
+ {"slug":"research-creek2reef","pages":["https://www.1770creek2reef.com.au/1770fishingcharters","https://www.1770creektoreef.com/offshoreadventures"],"text":true,"max":0,"follow":false},
+ {"slug":"research-princess-ii-2","pages":["https://www.facebook.com/PrincessIIFishingCharters/","https://www.whitepages.com.au/princess-ii-fishing-charters-10242140B"],"text":true,"max":6,"follow":false}
+]}
