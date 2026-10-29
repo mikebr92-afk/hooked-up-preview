@@ -1,0 +1,9 @@
+{"requests":[
+{"slug":"research-nq-facts","pages":["https://www.daf.qld.gov.au/business-priorities/fisheries/closures/tidal/seasons","https://qld.gov.au/environment/plants-animals/animals/living-with/crocodiles/becrocwise","https://www.gbrmpa.gov.au/access/zoning/interpreting-zones","https://tmr.qld.gov.au/projects/clump-point-mission-beach-boating-infrastructure-project","https://www.cassowarycoast.qld.gov.au/Waste-Water-and-Roads/Maintenance-Schedules/Boat-Ramps","https://fishandboat.com.au/our-hinchinbrook-adventure-part-1-by-john-boon/","https://www.beachsafe.org.au/beach/qld/cassowary-coast/mission-beach/clump-point","https://www.cooktownandcapeyork.com/travel"],"text":true,"max":0,"follow":false},
+{"slug":"research-fullonfishn2","pages":["https://fullonfishn.com.au/packages/","https://fullonfishn.com.au/location/","https://fullonfishn.com.au/local-experience/"],"text":true,"max":0,"follow":false},
+{"slug":"research-hinch-eco","pages":["https://www.australia.com/en/atdw/product.674e5d1652f95d085821d84a.html","https://queensland.com/tw/zh/things-to-do/tours/p-674e5d1652f95d085821d84a-hinchinbrook-eco-experience"],"text":true,"max":0,"follow":false},
+{"slug":"research-southpacific2","pages":["https://coastwatch.com.au/directory-services/whitsundays-lizard-island-fishing-charters/","https://coastwatch.com.au/coastwatch-business-directory/south-pacific-ii-charters/"],"text":true,"max":0,"follow":false},
+{"slug":"cooktown-barra-charters","pages":["http://www.cooktownbarracharters.com/"],"text":true,"max":16,"follow":true},
+{"slug":"cooktown-bluewater-charters","pages":["https://www.cooktownbluewatercharters.com.au/"],"text":true,"max":16,"follow":true},
+{"slug":"research-bungie","pages":["http://www.bungiehelicopters.com.au/"],"text":true,"max":0,"follow":true}
+]}
