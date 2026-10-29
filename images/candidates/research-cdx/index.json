@@ -1,0 +1,48 @@
+{
+  "slug": "research-cdx",
+  "request_hash": "019cbe143c19",
+  "collected_at": "2026-10-29T19:33:31.009Z",
+  "pages_fetched": [
+    "http://web.archive.org/cdx/search/cdx?url=freedomcharters.com.au/prices.html&fl=timestamp,statuscode,digest,length&collapse=digest",
+    "http://web.archive.org/cdx/search/cdx?url=freedomcharters.com.au/&fl=timestamp,statuscode,digest,length&collapse=digest",
+    "http://web.archive.org/cdx/search/cdx?url=reelfishn.com.au&matchType=domain&from=2023&fl=timestamp,original,statuscode,digest&collapse=digest&limit=300",
+    "http://web.archive.org/cdx/search/cdx?url=fishingcharter.net.au&matchType=domain&from=2023&fl=timestamp,original,statuscode,digest&collapse=digest&limit=200",
+    "http://web.archive.org/cdx/search/cdx?url=capnschartersnewcastle.com.au&matchType=domain&from=2024&fl=timestamp,original,statuscode&collapse=urlkey&limit=100",
+    "http://web.archive.org/cdx/search/cdx?url=ru4reel.com.au&matchType=domain&fl=timestamp,original,statuscode&collapse=digest&limit=100"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "http://web.archive.org/cdx/search/cdx?url=freedomcharters.com.au/prices.html&fl=timestamp,statuscode,digest,length&collapse=digest",
+      "status": 200,
+      "final_url": "http://web.archive.org/cdx/search/cdx?url=freedomcharters.com.au/prices.html&fl=timestamp,statuscode,digest,length&collapse=digest",
+      "bytes": 342
+    },
+    {
+      "page": "http://web.archive.org/cdx/search/cdx?url=freedomcharters.com.au/&fl=timestamp,statuscode,digest,length&collapse=digest",
+      "status": 200,
+      "final_url": "http://web.archive.org/cdx/search/cdx?url=freedomcharters.com.au/&fl=timestamp,statuscode,digest,length&collapse=digest",
+      "bytes": 8924
+    },
+    {
+      "page": "http://web.archive.org/cdx/search/cdx?url=reelfishn.com.au&matchType=domain&from=2023&fl=timestamp,original,statuscode,digest&collapse=digest&limit=300",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "page": "http://web.archive.org/cdx/search/cdx?url=fishingcharter.net.au&matchType=domain&from=2023&fl=timestamp,original,statuscode,digest&collapse=digest&limit=200",
+      "status": 503,
+      "final_url": "http://web.archive.org/cdx/search/cdx?url=fishingcharter.net.au&matchType=domain&from=2023&fl=timestamp,original,statuscode,digest&collapse=digest&limit=200",
+      "bytes": 11832
+    },
+    {
+      "page": "http://web.archive.org/cdx/search/cdx?url=capnschartersnewcastle.com.au&matchType=domain&from=2024&fl=timestamp,original,statuscode&collapse=urlkey&limit=100",
+      "status": 503,
+      "final_url": "http://web.archive.org/cdx/search/cdx?url=capnschartersnewcastle.com.au&matchType=domain&from=2024&fl=timestamp,original,statuscode&collapse=urlkey&limit=100",
+      "bytes": 11832
+    },
+    {
+      "page": "http://web.archive.org/cdx/search/cdx?url=ru4reel.com.au&matchType=domain&fl=timestamp,original,statuscode&collapse=digest&limit=100",
+      "error": "The operation was aborted due to timeout"
+    }
+  ]
+}

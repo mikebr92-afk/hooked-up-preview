@@ -1,0 +1,59 @@
+{
+  "slug": "research-wayback-lists",
+  "request_hash": "0be0a1daccb5",
+  "collected_at": "2026-10-29T19:33:42.875Z",
+  "pages_fetched": [
+    "https://web.archive.org/web/2025/https://fishingbooker.com/destinations/location/au/NS/tweed-heads",
+    "https://web.archive.org/web/2025/https://fishingbooker.com/destinations/location/au/NS/newcastle",
+    "https://web.archive.org/web/2025/https://fishingbooker.com/destinations/location/au/NS/coffs-harbour",
+    "https://web.archive.org/web/2025/https://fishingbooker.com/destinations/location/au/NS/eden",
+    "https://web.archive.org/web/2025/https://fishingbooker.com/destinations/location/au/NS/merimbula",
+    "https://web.archive.org/web/2025/https://www.visitnsw.com/destinations/north-coast/the-tweed-area/tweed-heads",
+    "https://web.archive.org/web/2025/https://www.dpi.nsw.gov.au/fishing/recreational/charter/go-charter-fishing-in-nsw"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://web.archive.org/web/2025/https://fishingbooker.com/destinations/location/au/NS/tweed-heads",
+      "status": 429,
+      "final_url": "https://web.archive.org/web/2025/https://fishingbooker.com/destinations/location/au/NS/tweed-heads",
+      "bytes": 620
+    },
+    {
+      "page": "https://web.archive.org/web/2025/https://fishingbooker.com/destinations/location/au/NS/newcastle",
+      "status": 429,
+      "final_url": "https://web.archive.org/web/2025/https://fishingbooker.com/destinations/location/au/NS/newcastle",
+      "bytes": 620
+    },
+    {
+      "page": "https://web.archive.org/web/2025/https://fishingbooker.com/destinations/location/au/NS/coffs-harbour",
+      "status": 429,
+      "final_url": "https://web.archive.org/web/2025/https://fishingbooker.com/destinations/location/au/NS/coffs-harbour",
+      "bytes": 620
+    },
+    {
+      "page": "https://web.archive.org/web/2025/https://fishingbooker.com/destinations/location/au/NS/eden",
+      "status": 429,
+      "final_url": "https://web.archive.org/web/2025/https://fishingbooker.com/destinations/location/au/NS/eden",
+      "bytes": 620
+    },
+    {
+      "page": "https://web.archive.org/web/2025/https://fishingbooker.com/destinations/location/au/NS/merimbula",
+      "status": 429,
+      "final_url": "https://web.archive.org/web/20200922103738/https://fishingbooker.com/destinations/location/au/NS/merimbula",
+      "bytes": 620
+    },
+    {
+      "page": "https://web.archive.org/web/2025/https://www.visitnsw.com/destinations/north-coast/the-tweed-area/tweed-heads",
+      "status": 429,
+      "final_url": "https://web.archive.org/web/20251219080641/https://www.visitnsw.com/destinations/north-coast/the-tweed-area/tweed-heads",
+      "bytes": 620
+    },
+    {
+      "page": "https://web.archive.org/web/2025/https://www.dpi.nsw.gov.au/fishing/recreational/charter/go-charter-fishing-in-nsw",
+      "status": 429,
+      "final_url": "https://web.archive.org/web/20250509010232/https://www.dpi.nsw.gov.au/fishing/recreational/charter/go-charter-fishing-in-nsw",
+      "bytes": 620
+    }
+  ]
+}

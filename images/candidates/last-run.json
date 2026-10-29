@@ -1,5 +1,5 @@
 {
-  "finished_at": "2026-10-29T19:30:32.529Z",
+  "finished_at": "2026-10-29T19:33:45.489Z",
   "summary": [
     {
       "slug": "research-nsw-dpi-charter",
@@ -43,58 +43,62 @@
     },
     {
       "slug": "capns-charters-newcastle",
-      "candidates": 16,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "b-and-l-fishing-charters-swansea",
-      "candidates": 9,
-      "pages": 12
+      "skipped": true
     },
     {
       "slug": "solitary-island-fishing-charters",
+      "skipped": true
+    },
+    {
+      "slug": "reel-fishn-charters",
+      "skipped": true
+    },
+    {
+      "slug": "northern-rivers-sportfishing",
+      "skipped": true
+    },
+    {
+      "slug": "sapphire-coastal-adventures",
+      "skipped": true
+    },
+    {
+      "slug": "research-freedom-dates",
+      "skipped": true
+    },
+    {
+      "slug": "research-dpi-tweed",
+      "skipped": true
+    },
+    {
+      "slug": "research-dpi-coffs",
+      "skipped": true
+    },
+    {
+      "slug": "research-dpi-newcastle",
+      "skipped": true
+    },
+    {
+      "slug": "research-eden-facts",
+      "skipped": true
+    },
+    {
+      "slug": "research-cdx",
       "candidates": 0,
-      "pages": 1
+      "pages": 6
+    },
+    {
+      "slug": "research-wayback-lists",
+      "candidates": 0,
+      "pages": 7
     },
     {
       "slug": "reel-fishn-charters",
       "candidates": 0,
-      "pages": 2
-    },
-    {
-      "slug": "northern-rivers-sportfishing",
-      "candidates": 16,
-      "pages": 11
-    },
-    {
-      "slug": "sapphire-coastal-adventures",
-      "candidates": 20,
       "pages": 4
-    },
-    {
-      "slug": "research-freedom-dates",
-      "candidates": 0,
-      "pages": 4
-    },
-    {
-      "slug": "research-dpi-tweed",
-      "candidates": 0,
-      "pages": 3
-    },
-    {
-      "slug": "research-dpi-coffs",
-      "candidates": 0,
-      "pages": 4
-    },
-    {
-      "slug": "research-dpi-newcastle",
-      "candidates": 0,
-      "pages": 4
-    },
-    {
-      "slug": "research-eden-facts",
-      "candidates": 0,
-      "pages": 7
     }
   ]
 }
