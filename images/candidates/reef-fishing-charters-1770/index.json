@@ -1,19 +1,24 @@
 {
   "slug": "reef-fishing-charters-1770",
-  "request_hash": "138251fdb1a6",
-  "collected_at": "2026-10-29T04:23:09.869Z",
+  "request_hash": "c2794c597abd",
+  "collected_at": "2026-10-29T04:32:08.457Z",
   "pages_fetched": [
-    "https://www.reeffishingcharters1770.com.au/",
-    "https://reeffishingcharters1770.com.au/"
+    "http://www.reeffishingcharters1770.com.au/lady-musgrave-island/",
+    "https://www.reeffishingcharters1770.com.au/lady-musgrave-island/",
+    "http://reeffishingcharters1770.com.au/"
   ],
   "candidates": [],
   "log": [
     {
-      "page": "https://www.reeffishingcharters1770.com.au/",
+      "page": "http://www.reeffishingcharters1770.com.au/lady-musgrave-island/",
       "error": "fetch failed"
     },
     {
-      "page": "https://reeffishingcharters1770.com.au/",
+      "page": "https://www.reeffishingcharters1770.com.au/lady-musgrave-island/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "http://reeffishingcharters1770.com.au/",
       "error": "fetch failed"
     }
   ]

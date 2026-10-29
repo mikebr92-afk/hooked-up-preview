@@ -1,0 +1,45 @@
+{
+  "slug": "research-hervey-dir3",
+  "request_hash": "5269ecff3f6b",
+  "collected_at": "2026-10-29T04:32:08.133Z",
+  "pages_fetched": [
+    "https://fishingchartersherveybay.com.au/hervey-bay-fishing-charters/",
+    "https://www.visitfrasercoast.com/product/hervey-bay-fly-and-sportfishing/",
+    "https://www.visitfrasercoast.com/product/princess-ii-fishing-charters/",
+    "https://www.visitfrasercoast.com/things-to-do/fishing/",
+    "https://www.fishingaustralia.com.au/hervey-bay-qld/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://fishingchartersherveybay.com.au/hervey-bay-fishing-charters/",
+      "status": 200,
+      "final_url": "https://fishingchartersherveybay.com.au/hervey-bay-fishing-charters/",
+      "bytes": 96522
+    },
+    {
+      "page": "https://www.visitfrasercoast.com/product/hervey-bay-fly-and-sportfishing/",
+      "status": 403,
+      "final_url": "https://www.visitfrasercoast.com/product/hervey-bay-fly-and-sportfishing/",
+      "bytes": 5937
+    },
+    {
+      "page": "https://www.visitfrasercoast.com/product/princess-ii-fishing-charters/",
+      "status": 403,
+      "final_url": "https://www.visitfrasercoast.com/product/princess-ii-fishing-charters/",
+      "bytes": 5928
+    },
+    {
+      "page": "https://www.visitfrasercoast.com/things-to-do/fishing/",
+      "status": 403,
+      "final_url": "https://www.visitfrasercoast.com/things-to-do/fishing/",
+      "bytes": 5859
+    },
+    {
+      "page": "https://www.fishingaustralia.com.au/hervey-bay-qld/",
+      "status": 200,
+      "final_url": "https://www.fishingaustralia.com.au/hervey-bay-qld/",
+      "bytes": 165049
+    }
+  ]
+}

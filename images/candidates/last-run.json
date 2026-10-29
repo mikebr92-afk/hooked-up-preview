@@ -1,5 +1,5 @@
 {
-  "finished_at": "2026-10-29T04:23:34.998Z",
+  "finished_at": "2026-10-29T04:32:13.205Z",
   "summary": [
     {
       "slug": "hooker-1-fishing-charters-gold-coast",
@@ -129,8 +129,8 @@
     },
     {
       "slug": "truansea-charters",
-      "candidates": 3,
-      "pages": 5
+      "candidates": 0,
+      "pages": 1
     },
     {
       "slug": "reality-fishing-charters",
@@ -142,7 +142,8 @@
     },
     {
       "slug": "reef-fishing-charters-1770",
-      "skipped": true
+      "candidates": 1,
+      "pages": 7
     },
     {
       "slug": "research-agnes-dir2",
@@ -202,7 +203,8 @@
     },
     {
       "slug": "big-cat-charters-brisbane",
-      "skipped": true
+      "candidates": 0,
+      "pages": 1
     },
     {
       "slug": "research-saltwater-charters-qld",
@@ -214,8 +216,8 @@
     },
     {
       "slug": "smithys-fishing-charters",
-      "candidates": 2,
-      "pages": 12
+      "candidates": 0,
+      "pages": 2
     },
     {
       "slug": "reel-deadly-fishing-charters",
@@ -228,7 +230,7 @@
     },
     {
       "slug": "truansea-charters",
-      "candidates": 3,
+      "candidates": 2,
       "pages": 5
     },
     {
@@ -250,31 +252,46 @@
     },
     {
       "slug": "fishing-offshore-1770",
+      "skipped": true
+    },
+    {
+      "slug": "research-princess-ii",
+      "skipped": true
+    },
+    {
+      "slug": "frenzy-charters",
+      "skipped": true
+    },
+    {
+      "slug": "outside-edge-adventures",
+      "skipped": true
+    },
+    {
+      "slug": "brisbane-fishing-tour",
+      "skipped": true
+    },
+    {
+      "slug": "big-cat-charters-brisbane",
+      "candidates": 0,
+      "pages": 2
+    },
+    {
+      "slug": "research-hervey-dir3",
+      "candidates": 0,
+      "pages": 5
+    },
+    {
+      "slug": "reef-fishing-charters-1770",
       "candidates": 0,
       "pages": 3
     },
     {
-      "slug": "research-princess-ii",
-      "candidates": 0,
-      "pages": 4
-    },
-    {
-      "slug": "frenzy-charters",
-      "candidates": 1,
-      "pages": 11
-    },
-    {
-      "slug": "outside-edge-adventures",
+      "slug": "research-creek2reef",
       "candidates": 0,
       "pages": 2
     },
     {
-      "slug": "brisbane-fishing-tour",
-      "candidates": 12,
-      "pages": 2
-    },
-    {
-      "slug": "big-cat-charters-brisbane",
+      "slug": "research-princess-ii-2",
       "candidates": 0,
       "pages": 2
     }

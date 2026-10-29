@@ -1,0 +1,22 @@
+{
+  "slug": "research-creek2reef",
+  "request_hash": "49c2b8f82ce7",
+  "collected_at": "2026-10-29T04:32:11.184Z",
+  "pages_fetched": [
+    "https://www.1770creek2reef.com.au/1770fishingcharters",
+    "https://www.1770creektoreef.com/offshoreadventures"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.1770creek2reef.com.au/1770fishingcharters",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://www.1770creektoreef.com/offshoreadventures",
+      "status": 404,
+      "final_url": "https://www.1770creektoreef.com/offshoreadventures",
+      "bytes": 2517
+    }
+  ]
+}
