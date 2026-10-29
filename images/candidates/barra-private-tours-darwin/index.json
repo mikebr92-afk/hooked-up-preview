@@ -1,0 +1,247 @@
+{
+  "slug": "barra-private-tours-darwin",
+  "request_hash": "e3d2ee68d2eb",
+  "collected_at": "2026-10-29T03:05:26.037Z",
+  "pages_fetched": [
+    "https://barraprivatetours.com.au/",
+    "https://www.barraprivatetours.com/",
+    "https://northernterritory.com/tours/barra-private-tours",
+    "https://northernterritory.com/tours/barra-private-tours/multi-days-private-charters",
+    "https://www.tourismtopend.com.au/tours/barra-private-tours",
+    "https://www.visitkatherine.com.au/barra-private-tours",
+    "https://activatedarwin.nt.gov.au/node/6235",
+    "https://www.barraprivatetours.com.au/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1400,
+      "height": 786,
+      "original": "1400x786",
+      "source": "https://www.barraprivatetours.com.au/wp-content/uploads/sites/5990/2025/11/582514596_1351265063211105_2253057928814366529_n.jpg?w=700&h=700&zoom=2",
+      "page": "https://barraprivatetours.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 1200,
+      "height": 900,
+      "original": "1200x900",
+      "source": "https://www.barraprivatetours.com.au/wp-content/uploads/sites/5990/2022/11/20220817_154942-1.jpg?resize=1200%2C900&zoom=2",
+      "page": "https://barraprivatetours.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1200,
+      "height": 900,
+      "original": "1200x900",
+      "source": "https://www.barraprivatetours.com.au/wp-content/uploads/sites/5990/2022/11/20221015_161421-1.jpg?resize=1200%2C900&zoom=2",
+      "page": "https://barraprivatetours.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1440,
+      "height": 1080,
+      "original": "1440x1080",
+      "source": "https://www.barraprivatetours.com.au/wp-content/uploads/sites/5990/2025/03/barramunid.jpg?resize=1200%2C900&zoom=2",
+      "page": "https://barraprivatetours.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1200,
+      "height": 900,
+      "original": "1200x900",
+      "source": "https://www.barraprivatetours.com.au/wp-content/uploads/sites/5990/2025/03/IMG_20220825_143124_295.jpg?resize=1200%2C900&zoom=2",
+      "page": "https://barraprivatetours.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1920,
+      "height": 1440,
+      "original": "1920x1440",
+      "source": "https://www.barraprivatetours.com.au/wp-content/uploads/sites/5990/2025/03/456433845_490275910304772_3368969047273816260_n.jpg?resize=1200%2C900&zoom=2",
+      "page": "https://barraprivatetours.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2040x1530",
+      "source": "https://www.barraprivatetours.com.au/wp-content/uploads/sites/5990/2025/03/barramunid-tour.jpg?resize=1200%2C900&zoom=2",
+      "page": "https://barraprivatetours.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2040x1530",
+      "source": "https://www.barraprivatetours.com.au/wp-content/uploads/sites/5990/2025/03/456241565_490275956971434_4788577775651790431_n.jpg?resize=1200%2C900&zoom=2",
+      "page": "https://barraprivatetours.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1320,
+      "height": 990,
+      "original": "1320x990",
+      "source": "https://www.barraprivatetours.com.au/wp-content/uploads/sites/5990/2025/03/barra.jpg?resize=1200%2C900&zoom=2",
+      "page": "https://barraprivatetours.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1440,
+      "height": 1080,
+      "original": "1440x1080",
+      "source": "https://www.barraprivatetours.com.au/wp-content/uploads/sites/5990/2025/03/456449412_490271586971871_6013126060256340934_n.jpg?resize=1200%2C900&zoom=2",
+      "page": "https://barraprivatetours.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1440,
+      "height": 1080,
+      "original": "1440x1080",
+      "source": "https://www.barraprivatetours.com.au/wp-content/uploads/sites/5990/2025/03/2-days-charter.jpg?resize=1200%2C900&zoom=2",
+      "page": "https://barraprivatetours.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1440,
+      "height": 1080,
+      "original": "1440x1080",
+      "source": "https://www.barraprivatetours.com.au/wp-content/uploads/sites/5990/2025/03/456513650_490275456971484_1328713461848995685_n.jpg?resize=1200%2C900&zoom=2",
+      "page": "https://barraprivatetours.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1200,
+      "height": 900,
+      "original": "1200x900",
+      "source": "https://www.barraprivatetours.com.au/wp-content/uploads/sites/5990/2025/03/fish.jpg?resize=1200%2C900&zoom=2",
+      "page": "https://barraprivatetours.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1320,
+      "height": 990,
+      "original": "1320x990",
+      "source": "https://www.barraprivatetours.com.au/wp-content/uploads/sites/5990/2025/03/boat-2.jpg?resize=1200%2C900&zoom=2",
+      "page": "https://barraprivatetours.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1200,
+      "height": 900,
+      "original": "1200x900",
+      "source": "https://www.barraprivatetours.com.au/wp-content/uploads/sites/5990/2023/06/Nice-catch.jpg?resize=1200%2C900&zoom=2",
+      "page": "https://barraprivatetours.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1200,
+      "height": 900,
+      "original": "1200x900",
+      "source": "https://www.barraprivatetours.com.au/wp-content/uploads/sites/5990/2023/05/20230523_143247.jpg?resize=1200%2C900&zoom=2",
+      "page": "https://barraprivatetours.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c17.webp",
+      "width": 1200,
+      "height": 900,
+      "original": "1200x900",
+      "source": "https://www.barraprivatetours.com.au/wp-content/uploads/sites/5990/2023/05/20230521_114623.jpg?resize=1200%2C900&zoom=2",
+      "page": "https://barraprivatetours.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c18.webp",
+      "width": 1200,
+      "height": 900,
+      "original": "1200x900",
+      "source": "https://www.barraprivatetours.com.au/wp-content/uploads/sites/5990/2023/06/20230614_134748.jpg?resize=1200%2C900&zoom=2",
+      "page": "https://barraprivatetours.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c19.webp",
+      "width": 1920,
+      "height": 1440,
+      "original": "1920x1440",
+      "source": "https://www.barraprivatetours.com.au/wp-content/uploads/sites/5990/2022/11/3-Days-2-Nights-Fishing-Shared-Charter-image-3.jpg?resize=1200%2C900&zoom=2",
+      "page": "https://barraprivatetours.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c20.webp",
+      "width": 1200,
+      "height": 900,
+      "original": "1200x900",
+      "source": "https://www.barraprivatetours.com.au/wp-content/uploads/sites/5990/2022/11/PXL_20220403_031009053.jpg?resize=1200%2C900&zoom=2",
+      "page": "https://barraprivatetours.com.au/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://barraprivatetours.com.au/",
+      "status": 200,
+      "final_url": "https://www.barraprivatetours.com.au/",
+      "bytes": 171111
+    },
+    {
+      "page": "https://www.barraprivatetours.com/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://northernterritory.com/tours/barra-private-tours",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/barra-private-tours",
+      "bytes": 527237
+    },
+    {
+      "page": "https://northernterritory.com/tours/barra-private-tours/multi-days-private-charters",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/barra-private-tours/multi-days-private-charters",
+      "bytes": 520310
+    },
+    {
+      "page": "https://www.tourismtopend.com.au/tours/barra-private-tours",
+      "status": 200,
+      "final_url": "https://www.visittopend.com.au/tours/barra-private-tours",
+      "bytes": 121916
+    },
+    {
+      "page": "https://www.visitkatherine.com.au/barra-private-tours",
+      "status": 200,
+      "final_url": "https://www.visitkatherine.com.au/barra-private-tours",
+      "bytes": 97849
+    },
+    {
+      "page": "https://activatedarwin.nt.gov.au/node/6235",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://www.barraprivatetours.com.au/",
+      "status": 200,
+      "final_url": "https://www.barraprivatetours.com.au/",
+      "bytes": 170898
+    },
+    {
+      "image": "https://www.barraprivatetours.com.au/wp-content/uploads/sites/5990/2025/08/Fishingbooker.png?w=80&h=80&zoom=2",
+      "error": "too small 92x36"
+    }
+  ]
+}
