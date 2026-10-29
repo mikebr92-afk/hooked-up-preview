@@ -1,0 +1,352 @@
+{
+ "requests": [
+  {
+   "slug": "hooked-on-1770-agnes-water",
+   "pages": [
+    "https://www.1770tours.com/",
+    "https://www.1770tours.com/charters.html",
+    "https://www.1770tours.com/Pricing.html",
+    "https://www.1770tours.com/our%20vessel.html",
+    "https://www.1770tours.com/contact%20us.html",
+    "https://www.1770tours.com/hooked/calendar.php",
+    "https://www.1770tours.com/Photo%20Album.html"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "brisbane-fishing-tour",
+   "pages": [
+    "https://www.brisbanefishingtour.com.au/",
+    "https://www.brisbanefishingtour.com.au/book-online"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "fish-moreton",
+   "pages": [
+    "https://www.fishmoreton.com.au/",
+    "https://www.fishmoreton.com.au/offshore-fishing",
+    "https://www.fishmoreton.com.au/bay-fishing",
+    "https://www.fishmoreton.com.au/copy-of-bay-fishing",
+    "https://www.fishmoreton.com.au/tourscharters"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "frenzy-charters-brisbane",
+   "pages": [
+    "https://www.frenzycharters.com.au/",
+    "https://www.frenzycharters.com.au/about",
+    "https://www.frenzycharters.com.au/our_vessel",
+    "https://www.frenzycharters.com.au/conditions",
+    "https://www.frenzycharters.com.au/fishing_report"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "moreton-island-fishing-charters",
+   "pages": [
+    "https://moretonislandfishingcharters.com.au/",
+    "https://moretonislandfishingcharters.com.au/rates/",
+    "https://moretonislandfishingcharters.com.au/the-charters/",
+    "https://moretonislandfishingcharters.com.au/the-vessel/",
+    "https://moretonislandfishingcharters.com.au/about-us/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "bundaberg-river-fishing-charters",
+   "pages": [
+    "https://bundabergriverfishing.com.au/",
+    "https://bundabergriverfishing.com.au/about",
+    "https://bundabergriverfishing.com.au/charters"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "truansea-charters-bundaberg",
+   "pages": [
+    "https://truansea.com.au/",
+    "https://truansea.com.au/full-day-reef-fishing",
+    "https://truansea.com.au/half-day-reef-fishing",
+    "https://truansea.com.au/half-day-river-fishing",
+    "https://truansea.com.au/about"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "eastern-voyager-gladstone",
+   "pages": [
+    "https://easternvoyager.com.au/",
+    "https://easternvoyager.com.au/about-us/",
+    "https://easternvoyager.com.au/faqs/",
+    "https://easternvoyager.com.au/trip-types/organised-trip/",
+    "https://easternvoyager.com.au/trip/swain-reefs/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "mv-mikat-charters-gladstone",
+   "pages": [
+    "https://mikatcharters.com.au/",
+    "https://mikatcharters.com.au/about-us/",
+    "https://mikatcharters.com.au/contact/",
+    "https://mikatcharters.com.au/trip-reports-gallery/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "night-crossing-fishing-adventures-gladstone",
+   "pages": [
+    "https://nightcrossing.com.au/",
+    "https://nightcrossing.com.au/fishing-trips/",
+    "https://nightcrossing.com.au/mv-night-crossing/",
+    "https://nightcrossing.com.au/fyi/",
+    "https://nightcrossing.com.au/location/",
+    "https://nightcrossing.com.au/gallery/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "bks-gold-coast-fishing-charters",
+   "pages": [
+    "https://bksfishing.com.au/",
+    "https://bksfishing.com.au/fishing-charter-crew/",
+    "https://bksfishing.com.au/fishing-charter-boat/",
+    "https://bksfishing.com.au/half-day-fishing-charter/",
+    "https://bksfishing.com.au/gold-coast-calm-water-charters/",
+    "https://bksfishing.com.au/gold-coast-fishing-tours-faqs/",
+    "https://bksfishing.com.au/terms-conditions-cancellation-policy/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "fish-the-deep-charters",
+   "pages": [
+    "https://www.fishthedeep.com/",
+    "https://www.fishthedeep.com/deep-sea-fishing-gold-coast-vessel-crew/",
+    "https://www.fishthedeep.com/contact/",
+    "https://www.fishthedeep.com/tour/full-day/",
+    "https://www.fishthedeep.com/tour/private-reef-and-game-fishing-half-day/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "hooker-1-fishing-charters-gold-coast",
+   "pages": [
+    "https://goldcoastfishingtrips.net.au/",
+    "https://goldcoastfishingtrips.net.au/our-packages/",
+    "https://goldcoastfishingtrips.net.au/about-us/",
+    "https://goldcoastfishingtrips.net.au/terms-conditions/",
+    "https://goldcoastfishingtrips.net.au/contact-us/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "top-gear-fishing-charters",
+   "pages": [
+    "https://topgearfishingcharters.com.au/",
+    "https://topgearfishingcharters.com.au/about-us/",
+    "https://topgearfishingcharters.com.au/mixed-group-charters/",
+    "https://topgearfishingcharters.com.au/private-fishing-charters/",
+    "https://topgearfishingcharters.com.au/reef-fishing-charters/",
+    "https://topgearfishingcharters.com.au/game-fishing-deep-sea-charters/",
+    "https://topgearfishingcharters.com.au/book-now/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "true-blue-fishing-charters",
+   "pages": [
+    "https://truebluefishing.com.au/",
+    "https://truebluefishing.com.au/about-us/",
+    "https://truebluefishing.com.au/our-vessels/",
+    "https://truebluefishing.com.au/half-day-morning-trip/",
+    "https://truebluefishing.com.au/half-day-afternoon-trip/",
+    "https://truebluefishing.com.au/full-day-fishing-trip/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "hervey-bay-fly-and-sportfishing",
+   "pages": [
+    "https://herveybaysportfishing.com.au/",
+    "https://herveybaysportfishing.com.au/fishing-packages/",
+    "https://herveybaysportfishing.com.au/fishing-guides/",
+    "https://herveybaysportfishing.com.au/our-vessels/",
+    "https://herveybaysportfishing.com.au/hervey-bay-fishing/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "saltwater-playground-hervey-bay",
+   "pages": [
+    "https://www.saltwaterplayground.com.au/",
+    "https://www.saltwaterplayground.com.au/hervey-bay-fishing-charters",
+    "https://www.saltwaterplayground.com.au/pricing",
+    "https://www.saltwaterplayground.com.au/aboutus",
+    "https://www.saltwaterplayground.com.au/contact"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "keely-rose-fishing-charters",
+   "pages": [
+    "https://keelyrosefishingcharters.com.au/",
+    "https://keelyrosefishingcharters.com.au/VesselCrew/VesselCrew-394/",
+    "https://keelyrosefishingcharters.com.au/Details/Details-373/",
+    "https://keelyrosefishingcharters.com.au/Details/Departure-448/",
+    "https://keelyrosefishingcharters.com.au/Details/PricesBooking-449/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "deep-sea-fishing-co-noosa",
+   "pages": [
+    "https://www.deepseafishingco.com.au/",
+    "https://www.deepseafishingco.com.au/fishing-charters/",
+    "https://www.deepseafishingco.com.au/about-us/",
+    "https://www.deepseafishingco.com.au/contact-us/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "noosa-bluewater-charters",
+   "pages": [
+    "https://noosabluefishing.com.au/",
+    "https://noosabluefishing.com.au/fishing-charters/",
+    "https://noosabluefishing.com.au/about-us/",
+    "https://noosabluefishing.com.au/contact-us/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "saltys-fishing-charters-caloundra",
+   "pages": [
+    "https://saltyfishingcharters.com.au/",
+    "https://saltyfishingcharters.com.au/charters/",
+    "https://saltyfishingcharters.com.au/vessels/",
+    "https://saltyfishingcharters.com.au/contact-us/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "what-a-catch-deep-sea-fishing",
+   "pages": [
+    "https://whatacatchfishing.com.au/",
+    "https://whatacatchfishing.com.au/pages/our-trips",
+    "https://whatacatchfishing.com.au/pages/about-us",
+    "https://whatacatchfishing.com.au/pages/faqs",
+    "https://whatacatchfishing.com.au/pages/our-boat"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "rainbow-beach-fishing-charters",
+   "pages": [
+    "https://www.rainbowbeachfishing.com/",
+    "https://www.rainbowbeachfishing.com/services",
+    "https://www.rainbowbeachfishing.com/about",
+    "https://www.rainbowbeachfishing.com/contact"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "double-threat-charters-yeppoon",
+   "pages": [
+    "https://www.doublethreatchartersyeppoon.com.au/",
+    "https://www.doublethreatchartersyeppoon.com.au/about-us",
+    "https://www.doublethreatchartersyeppoon.com.au/fishing",
+    "https://www.doublethreatchartersyeppoon.com.au/fish-t-c",
+    "https://www.doublethreatchartersyeppoon.com.au/contact-us"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "kanimbla-charters-yeppoon",
+   "pages": [
+    "https://www.kanimblacharters.net.au/",
+    "https://www.kanimblacharters.net.au/our-boats/",
+    "https://www.kanimblacharters.net.au/charter-options/",
+    "https://www.kanimblacharters.net.au/useful-information/",
+    "https://www.kanimblacharters.net.au/location/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  }
+ ]
+}
