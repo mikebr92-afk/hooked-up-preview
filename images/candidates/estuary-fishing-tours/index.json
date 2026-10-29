@@ -1,0 +1,15 @@
+{
+  "slug": "estuary-fishing-tours",
+  "request_hash": "c011f49b00c8",
+  "collected_at": "2026-10-29T04:20:01.384Z",
+  "pages_fetched": [
+    "http://www.estuaryfishingtours.com.au/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "http://www.estuaryfishingtours.com.au/",
+      "error": "fetch failed"
+    }
+  ]
+}

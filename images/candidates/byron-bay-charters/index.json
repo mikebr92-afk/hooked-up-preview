@@ -1,0 +1,276 @@
+{
+  "slug": "byron-bay-charters",
+  "request_hash": "120490b6ba9d",
+  "collected_at": "2026-10-29T04:21:07.340Z",
+  "pages_fetched": [
+    "https://byronbaycharters.com.au/",
+    "https://www.byronbaycharters.com.au/",
+    "https://byronbaycharters.com.au/about/",
+    "https://byronbaycharters.com.au/pricelist/",
+    "https://byronbaycharters.com.au/news/",
+    "https://byronbaycharters.com.au/charters/",
+    "https://byronbaycharters.com.au/fishing-charters/",
+    "https://byronbaycharters.com.au/whale-watching/",
+    "https://byronbaycharters.com.au/humpback-whale-fact-sheet/",
+    "https://byronbaycharters.com.au/snorkelling/",
+    "https://byronbaycharters.com.au/scuba-diving/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 975,
+      "height": 493,
+      "original": "975x493",
+      "source": "http://byronbaycharters.com.au/wp-content/uploads/2013/06/banner1.png",
+      "page": "https://byronbaycharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 975,
+      "height": 493,
+      "original": "975x493",
+      "source": "http://byronbaycharters.com.au/wp-content/uploads/2013/06/banner2.png",
+      "page": "https://byronbaycharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 975,
+      "height": 493,
+      "original": "975x493",
+      "source": "http://byronbaycharters.com.au/wp-content/uploads/2013/06/banner3.png",
+      "page": "https://byronbaycharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 640,
+      "height": 480,
+      "original": "640x480",
+      "source": "https://byronbaycharters.com.au/wp-content/uploads/2014/08/10king.jpg",
+      "page": "https://byronbaycharters.com.au/news/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1024,
+      "height": 661,
+      "original": "1024x661",
+      "source": "https://byronbaycharters.com.au/wp-content/uploads/2013/09/Byron-Charters-Sign.jpg",
+      "page": "https://byronbaycharters.com.au/news/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1860,
+      "height": 1095,
+      "original": "1860x1095",
+      "source": "https://byronbaycharters.com.au/wp-content/uploads/2014/07/full.jpg",
+      "page": "https://byronbaycharters.com.au/news/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 640,
+      "height": 480,
+      "original": "640x480",
+      "source": "https://byronbaycharters.com.au/wp-content/uploads/2014/07/snap2.jpg",
+      "page": "https://byronbaycharters.com.au/fishing-charters/",
+      "priority": true
+    },
+    {
+      "file": "c08.webp",
+      "width": 640,
+      "height": 480,
+      "original": "640x480",
+      "source": "https://byronbaycharters.com.au/wp-content/uploads/2014/07/snap1.jpg",
+      "page": "https://byronbaycharters.com.au/fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 640,
+      "height": 427,
+      "original": "640x427",
+      "source": "https://byronbaycharters.com.au/wp-content/uploads/2014/07/IMG_2633.jpg",
+      "page": "https://byronbaycharters.com.au/fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 640,
+      "height": 427,
+      "original": "640x427",
+      "source": "https://byronbaycharters.com.au/wp-content/uploads/2014/07/catch.jpg",
+      "page": "https://byronbaycharters.com.au/fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 640,
+      "height": 480,
+      "original": "640x480",
+      "source": "https://byronbaycharters.com.au/wp-content/uploads/2014/07/dol-snap.jpg",
+      "page": "https://byronbaycharters.com.au/fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 640,
+      "height": 480,
+      "original": "640x480",
+      "source": "https://byronbaycharters.com.au/wp-content/uploads/2014/07/group-dollie.jpg",
+      "page": "https://byronbaycharters.com.au/fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 640,
+      "height": 480,
+      "original": "640x480",
+      "source": "https://byronbaycharters.com.au/wp-content/uploads/2014/07/boat-dollie.jpg",
+      "page": "https://byronbaycharters.com.au/fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 640,
+      "height": 480,
+      "original": "640x480",
+      "source": "https://byronbaycharters.com.au/wp-content/uploads/2014/07/10492435_515389761895174_493920843117332420_n.jpg",
+      "page": "https://byronbaycharters.com.au/fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 640,
+      "height": 480,
+      "original": "640x480",
+      "source": "https://byronbaycharters.com.au/wp-content/uploads/2014/07/10492435_515389761895174_493920843117332420_n1.jpg",
+      "page": "https://byronbaycharters.com.au/fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 640,
+      "height": 480,
+      "original": "640x480",
+      "source": "https://byronbaycharters.com.au/wp-content/uploads/2014/07/10492435_515389761895174_493920843117332420_n2.jpg",
+      "page": "https://byronbaycharters.com.au/fishing-charters/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://byronbaycharters.com.au/",
+      "status": 200,
+      "final_url": "https://byronbaycharters.com.au/",
+      "bytes": 32340
+    },
+    {
+      "page": "https://www.byronbaycharters.com.au/",
+      "status": 200,
+      "final_url": "https://byronbaycharters.com.au/",
+      "bytes": 32340
+    },
+    {
+      "page": "https://byronbaycharters.com.au/about/",
+      "status": 200,
+      "final_url": "https://byronbaycharters.com.au/about/",
+      "bytes": 33403
+    },
+    {
+      "page": "https://byronbaycharters.com.au/pricelist/",
+      "status": 200,
+      "final_url": "https://byronbaycharters.com.au/pricelist/",
+      "bytes": 31702
+    },
+    {
+      "page": "https://byronbaycharters.com.au/news/",
+      "status": 200,
+      "final_url": "https://byronbaycharters.com.au/news/",
+      "bytes": 38209
+    },
+    {
+      "page": "https://byronbaycharters.com.au/charters/",
+      "status": 200,
+      "final_url": "https://byronbaycharters.com.au/charters/",
+      "bytes": 30843
+    },
+    {
+      "page": "https://byronbaycharters.com.au/fishing-charters/",
+      "status": 200,
+      "final_url": "https://byronbaycharters.com.au/fishing-charters/",
+      "bytes": 39499
+    },
+    {
+      "page": "https://byronbaycharters.com.au/whale-watching/",
+      "status": 200,
+      "final_url": "https://byronbaycharters.com.au/whale-watching/",
+      "bytes": 49370
+    },
+    {
+      "page": "https://byronbaycharters.com.au/humpback-whale-fact-sheet/",
+      "status": 200,
+      "final_url": "https://byronbaycharters.com.au/humpback-whale-fact-sheet/",
+      "bytes": 37514
+    },
+    {
+      "page": "https://byronbaycharters.com.au/snorkelling/",
+      "status": 200,
+      "final_url": "https://byronbaycharters.com.au/snorkelling/",
+      "bytes": 30254
+    },
+    {
+      "page": "https://byronbaycharters.com.au/scuba-diving/",
+      "status": 200,
+      "final_url": "https://byronbaycharters.com.au/scuba-diving/",
+      "bytes": 30152
+    },
+    {
+      "image": "https://byronbaycharters.com.au/wp-content/themes/byronbaycharters/images/fb.png",
+      "error": "too small 38x38"
+    },
+    {
+      "image": "http://byronbaycharters.com.au/wp-content/uploads/2013/09/sidepic1.jpg",
+      "error": "too small 290x200"
+    },
+    {
+      "image": "http://byronbaycharters.com.au/wp-content/uploads/2013/09/sidepic2.jpg",
+      "error": "too small 290x200"
+    },
+    {
+      "image": "http://byronbaycharters.com.au/wp-content/uploads/2013/09/sidepic3.jpg",
+      "error": "too small 290x200"
+    },
+    {
+      "image": "https://byronbaycharters.com.au/wp-content/themes/byronbaycharters/images/readmorevg.png",
+      "error": "too small 90x35"
+    },
+    {
+      "image": "https://byronbaycharters.com.au/wp-content/themes/byronbaycharters/images/premalink1.png",
+      "error": "too small 17x17"
+    },
+    {
+      "image": "https://byronbaycharters.com.au/wp-content/themes/byronbaycharters/images/premalink2.png",
+      "error": "too small 17x17"
+    },
+    {
+      "image": "https://byronbaycharters.com.au/wp-content/themes/byronbaycharters/images/premalink3.png",
+      "error": "too small 17x17"
+    },
+    {
+      "image": "https://byronbaycharters.com.au/wp-content/themes/byronbaycharters/images/premalink4.png",
+      "error": "too small 17x17"
+    },
+    {
+      "image": "https://byronbaycharters.com.au/wp-content/themes/byronbaycharters/images/premalink5.png",
+      "error": "too small 21x19"
+    },
+    {
+      "image": "https://byronbaycharters.com.au/wp-content/uploads/2014/07/snap2-150x150.jpg",
+      "error": "too small 150x150"
+    }
+  ]
+}

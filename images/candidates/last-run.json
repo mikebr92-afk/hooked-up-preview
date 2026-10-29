@@ -1,5 +1,5 @@
 {
-  "finished_at": "2026-10-29T04:13:18.047Z",
+  "finished_at": "2026-10-29T04:21:07.340Z",
   "summary": [
     {
       "slug": "cronulla-reef-fishing-charters",
@@ -193,7 +193,8 @@
     },
     {
       "slug": "cougar-cat-12-charters",
-      "skipped": true
+      "candidates": 0,
+      "pages": 1
     },
     {
       "slug": "go-fish-yamba-charters",
@@ -217,38 +218,72 @@
     },
     {
       "slug": "research-sydney3",
-      "candidates": 0,
-      "pages": 4
+      "skipped": true
     },
     {
       "slug": "research-southcoast",
-      "candidates": 0,
-      "pages": 9
+      "skipped": true
     },
     {
       "slug": "research-north2",
-      "candidates": 0,
-      "pages": 4
+      "skipped": true
     },
     {
       "slug": "sydney-fly-fishing",
-      "candidates": 16,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "cushy-fishing-charters",
-      "candidates": 16,
-      "pages": 11
+      "skipped": true
     },
     {
       "slug": "sea-buoys-ocean-charters",
-      "candidates": 16,
-      "pages": 7
+      "skipped": true
     },
     {
       "slug": "cougar-cat-12-charters",
       "candidates": 0,
       "pages": 2
+    },
+    {
+      "slug": "research-r5",
+      "candidates": 0,
+      "pages": 9
+    },
+    {
+      "slug": "game-on-charters-batemans-bay",
+      "candidates": 16,
+      "pages": 10
+    },
+    {
+      "slug": "narooma-charters",
+      "candidates": 14,
+      "pages": 11
+    },
+    {
+      "slug": "estuary-fishing-tours",
+      "candidates": 0,
+      "pages": 1
+    },
+    {
+      "slug": "central-coast-reef-and-game-fishing-charters",
+      "candidates": 2,
+      "pages": 7
+    },
+    {
+      "slug": "fish-port-stephens-estuary-charters",
+      "candidates": 16,
+      "pages": 12
+    },
+    {
+      "slug": "calypso-fishing-adventures",
+      "candidates": 16,
+      "pages": 11
+    },
+    {
+      "slug": "byron-bay-charters",
+      "candidates": 16,
+      "pages": 11
     }
   ]
 }

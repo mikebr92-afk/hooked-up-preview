@@ -1,0 +1,268 @@
+{
+  "slug": "calypso-fishing-adventures",
+  "request_hash": "4b8222e72e58",
+  "collected_at": "2026-10-29T04:20:52.829Z",
+  "pages_fetched": [
+    "http://www.marlinfishingaustralia.com/",
+    "https://www.marlinfishingaustralia.com.au/",
+    "https://www.marlinfishingaustralia.com.au/meet-calypso/",
+    "https://www.marlinfishingaustralia.com.au/capt-tim-dean/",
+    "https://www.marlinfishingaustralia.com.au/cairns-giant-black-marlin-fishing/",
+    "https://www.marlinfishingaustralia.com.au/marlin-fishing-port-stephens/",
+    "https://www.marlinfishingaustralia.com.au/cooktown-ribbon-reefs/",
+    "https://www.marlinfishingaustralia.com.au/lizard-island-black-marlin-fishing/",
+    "https://www.marlinfishingaustralia.com.au/giant-black-marlin-fishing/",
+    "https://www.marlinfishingaustralia.com.au/gallery/",
+    "https://www.marlinfishingaustralia.com.au/contact/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 936,
+      "height": 1310,
+      "original": "936x1310",
+      "source": "https://www.marlinfishingaustralia.com.au/wp-content/uploads/2026/02/calypso-reef.jpg",
+      "page": "http://www.marlinfishingaustralia.com/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 936,
+      "height": 1310,
+      "original": "936x1310",
+      "source": "https://www.marlinfishingaustralia.com.au/wp-content/uploads/2026/02/grand-slam-marlin-port.jpg",
+      "page": "http://www.marlinfishingaustralia.com/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 640,
+      "height": 960,
+      "original": "640x960",
+      "source": "https://www.marlinfishingaustralia.com.au/wp-content/uploads/2026/03/cairns-lizard-island.jpg",
+      "page": "http://www.marlinfishingaustralia.com/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1251,
+      "height": 1251,
+      "original": "1251x1251",
+      "source": "https://www.marlinfishingaustralia.com.au/26/wp-content/uploads/2026/02/port-stephens-fingal-bay.jpg",
+      "page": "http://www.marlinfishingaustralia.com/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1067,
+      "height": 1600,
+      "original": "1067x1600",
+      "source": "https://www.marlinfishingaustralia.com.au/26/wp-content/uploads/2026/03/bluemarlin.jpg",
+      "page": "http://www.marlinfishingaustralia.com/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 640,
+      "height": 960,
+      "original": "640x960",
+      "source": "https://www.marlinfishingaustralia.com.au/26/wp-content/uploads/2026/03/giant-black-marlin-season.jpg",
+      "page": "http://www.marlinfishingaustralia.com/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1260,
+      "height": 840,
+      "original": "1260x840",
+      "source": "https://www.marlinfishingaustralia.com.au/26/wp-content/uploads/2026/02/black-marlin.jpg",
+      "page": "http://www.marlinfishingaustralia.com/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1260,
+      "height": 900,
+      "original": "1260x900",
+      "source": "https://www.marlinfishingaustralia.com.au/26/wp-content/uploads/2026/02/striped-marlin.jpg",
+      "page": "http://www.marlinfishingaustralia.com/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1260,
+      "height": 840,
+      "original": "1260x840",
+      "source": "https://www.marlinfishingaustralia.com.au/wp-content/uploads/2025/10/action-calypso.jpg",
+      "page": "http://www.marlinfishingaustralia.com/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 2000,
+      "height": 1125,
+      "original": "2200x1238",
+      "source": "https://www.marlinfishingaustralia.com.au/26/wp-content/uploads/2026/03/calypso-reef-sunset.jpg",
+      "page": "http://www.marlinfishingaustralia.com/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 2000,
+      "height": 1125,
+      "original": "2200x1238",
+      "source": "https://www.marlinfishingaustralia.com.au/26/wp-content/uploads/2026/03/giant-black-marlin-1.jpg",
+      "page": "http://www.marlinfishingaustralia.com/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1600,
+      "height": 500,
+      "original": "1600x500",
+      "source": "https://www.marlinfishingaustralia.com.au/26/wp-content/uploads/2026/02/video-thumb-tim-dean.jpg",
+      "page": "http://www.marlinfishingaustralia.com/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1308,
+      "height": 1306,
+      "original": "1308x1306",
+      "source": "https://www.marlinfishingaustralia.com.au/wp-content/uploads/2025/10/calypso-transom.jpg",
+      "page": "https://www.marlinfishingaustralia.com.au/meet-calypso/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1398,
+      "height": 1398,
+      "original": "1398x1398",
+      "source": "https://www.marlinfishingaustralia.com.au/wp-content/uploads/2026/03/calypsodeck.jpg",
+      "page": "https://www.marlinfishingaustralia.com.au/meet-calypso/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1440,
+      "height": 1080,
+      "original": "1440x1080",
+      "source": "https://www.marlinfishingaustralia.com.au/wp-content/uploads/2026/03/ps-view.jpg",
+      "page": "https://www.marlinfishingaustralia.com.au/meet-calypso/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 902,
+      "height": 902,
+      "original": "902x902",
+      "source": "https://www.marlinfishingaustralia.com.au/wp-content/uploads/2026/03/calypso-mother.jpg",
+      "page": "https://www.marlinfishingaustralia.com.au/meet-calypso/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "http://www.marlinfishingaustralia.com/",
+      "status": 200,
+      "final_url": "https://www.marlinfishingaustralia.com.au/",
+      "bytes": 153384
+    },
+    {
+      "page": "https://www.marlinfishingaustralia.com.au/",
+      "status": 200,
+      "final_url": "https://www.marlinfishingaustralia.com.au/",
+      "bytes": 153384
+    },
+    {
+      "page": "https://www.marlinfishingaustralia.com.au/meet-calypso/",
+      "status": 200,
+      "final_url": "https://www.marlinfishingaustralia.com.au/meet-calypso/",
+      "bytes": 144250
+    },
+    {
+      "page": "https://www.marlinfishingaustralia.com.au/capt-tim-dean/",
+      "status": 200,
+      "final_url": "https://www.marlinfishingaustralia.com.au/capt-tim-dean/",
+      "bytes": 142728
+    },
+    {
+      "page": "https://www.marlinfishingaustralia.com.au/cairns-giant-black-marlin-fishing/",
+      "status": 200,
+      "final_url": "https://www.marlinfishingaustralia.com.au/cairns-giant-black-marlin-fishing/",
+      "bytes": 144572
+    },
+    {
+      "page": "https://www.marlinfishingaustralia.com.au/marlin-fishing-port-stephens/",
+      "status": 200,
+      "final_url": "https://www.marlinfishingaustralia.com.au/marlin-fishing-port-stephens/",
+      "bytes": 146615
+    },
+    {
+      "page": "https://www.marlinfishingaustralia.com.au/cooktown-ribbon-reefs/",
+      "status": 200,
+      "final_url": "https://www.marlinfishingaustralia.com.au/cooktown-ribbon-reefs/",
+      "bytes": 144679
+    },
+    {
+      "page": "https://www.marlinfishingaustralia.com.au/lizard-island-black-marlin-fishing/",
+      "status": 200,
+      "final_url": "https://www.marlinfishingaustralia.com.au/lizard-island-black-marlin-fishing/",
+      "bytes": 144231
+    },
+    {
+      "page": "https://www.marlinfishingaustralia.com.au/giant-black-marlin-fishing/",
+      "status": 200,
+      "final_url": "https://www.marlinfishingaustralia.com.au/giant-black-marlin-fishing/",
+      "bytes": 138785
+    },
+    {
+      "page": "https://www.marlinfishingaustralia.com.au/gallery/",
+      "status": 200,
+      "final_url": "https://www.marlinfishingaustralia.com.au/gallery/",
+      "bytes": 184927
+    },
+    {
+      "page": "https://www.marlinfishingaustralia.com.au/contact/",
+      "status": 200,
+      "final_url": "https://www.marlinfishingaustralia.com.au/contact/",
+      "bytes": 135452
+    },
+    {
+      "image": "https://www.marlinfishingaustralia.com.au/26/wp-content/uploads/2026/01/calypso-fishing-adventures.png",
+      "error": "too small 187x71"
+    },
+    {
+      "image": "https://www.marlinfishingaustralia.com.au/wp-content/uploads/2025/10/video-bg-dots.png",
+      "error": "too small 1600x242"
+    },
+    {
+      "image": "https://www.marlinfishingaustralia.com.au/wp-content/uploads/2026/01/cropped-calypso.png",
+      "error": "too small 512x512"
+    },
+    {
+      "image": "https://www.marlinfishingaustralia.com.au/wp-content/uploads/2026/01/cropped-calypso-32x32.png",
+      "error": "too small 32x32"
+    },
+    {
+      "image": "https://www.marlinfishingaustralia.com.au/wp-content/uploads/2026/01/cropped-calypso-192x192.png",
+      "error": "too small 192x192"
+    },
+    {
+      "image": "https://www.marlinfishingaustralia.com.au/wp-content/uploads/2026/01/cropped-calypso-180x180.png",
+      "error": "too small 180x180"
+    },
+    {
+      "image": "https://www.marlinfishingaustralia.com.au/wp-content/uploads/2026/01/cropped-calypso-270x270.png",
+      "error": "too small 270x270"
+    },
+    {
+      "image": "https://www.marlinfishingaustralia.com.au/wp-content/plugins/ba-book-everything/css/img/pointer_1.png",
+      "error": "too small 40x50"
+    },
+    {
+      "image": "https://www.marlinfishingaustralia.com.au/wp-content/uploads/2026/03/inside-saloon.jpg",
+      "error": "too small 500x333"
+    }
+  ]
+}

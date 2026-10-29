@@ -1,0 +1,73 @@
+{
+  "slug": "research-r5",
+  "request_hash": "1194f89860d5",
+  "collected_at": "2026-10-29T04:18:35.471Z",
+  "pages_fetched": [
+    "https://visitnsw.com/things-to-do/tours/fishbermi-charters",
+    "https://www.sapphirecoast.com.au/operator/fishbermi-bermagui-fishing-charters",
+    "https://www.visitnsw.com/things-to-do/tours/wildside-sportfishing",
+    "https://www.visitnsw.com/things-to-do/tours/evans-head-deep-sea-fishing-charters",
+    "https://r.jina.ai/https://terrigaltours.rezdy.com/catalog/488049/tft",
+    "https://r.jina.ai/https://naroomacharters.rezdy.com/",
+    "https://jbfishingcharters.com.au/pricing/",
+    "https://jbfishingcharters.com.au/what-to-bring/",
+    "https://jbfishingcharters.com.au/gallery/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://visitnsw.com/things-to-do/tours/fishbermi-charters",
+      "status": 200,
+      "final_url": "https://www.visitnsw.com/things-to-do/tours/fishbermi-bermagui-fishing-charters",
+      "bytes": 206620
+    },
+    {
+      "page": "https://www.sapphirecoast.com.au/operator/fishbermi-bermagui-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.sapphirecoast.com.au/operator/fishbermi-bermagui-fishing-charters",
+      "bytes": 219648
+    },
+    {
+      "page": "https://www.visitnsw.com/things-to-do/tours/wildside-sportfishing",
+      "status": 404,
+      "final_url": "https://www.visitnsw.com/things-to-do/tours/wildside-sportfishing",
+      "bytes": 179312
+    },
+    {
+      "page": "https://www.visitnsw.com/things-to-do/tours/evans-head-deep-sea-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.visitnsw.com/things-to-do/tours/evans-head-deep-sea-fishing-charters",
+      "bytes": 189685
+    },
+    {
+      "page": "https://r.jina.ai/https://terrigaltours.rezdy.com/catalog/488049/tft",
+      "status": 200,
+      "final_url": "https://r.jina.ai/https://terrigaltours.rezdy.com/catalog/488049/tft",
+      "bytes": 2990
+    },
+    {
+      "page": "https://r.jina.ai/https://naroomacharters.rezdy.com/",
+      "status": 200,
+      "final_url": "https://r.jina.ai/https://naroomacharters.rezdy.com/",
+      "bytes": 9983
+    },
+    {
+      "page": "https://jbfishingcharters.com.au/pricing/",
+      "status": 404,
+      "final_url": "https://jbfishingcharters.com.au/pricing/",
+      "bytes": 63310
+    },
+    {
+      "page": "https://jbfishingcharters.com.au/what-to-bring/",
+      "status": 404,
+      "final_url": "https://jbfishingcharters.com.au/what-to-bring/",
+      "bytes": 63309
+    },
+    {
+      "page": "https://jbfishingcharters.com.au/gallery/",
+      "status": 404,
+      "final_url": "https://jbfishingcharters.com.au/gallery/",
+      "bytes": 63310
+    }
+  ]
+}

@@ -1,0 +1,408 @@
+{
+  "slug": "narooma-charters",
+  "request_hash": "b4047d07375f",
+  "collected_at": "2026-10-29T04:20:01.212Z",
+  "pages_fetched": [
+    "https://naroomacharters.com.au/",
+    "https://naroomacharters.com.au/contact-us",
+    "https://naroomacharters.com.au/index.html",
+    "https://naroomacharters.com.au/narooma-whale-watching",
+    "https://naroomacharters.com.au/montague-island-tours",
+    "https://naroomacharters.com.au/snorkelling-with-the-seals",
+    "https://naroomacharters.com.au/narooma-fishing-charters",
+    "https://naroomacharters.com.au/dive-charter-tours",
+    "https://naroomacharters.com.au/author/naroomacharters/page/1/index.html",
+    "https://naroomacharters.com.au/homepage/index.html",
+    "https://naroomacharters.com.au/about-us.html"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1920,
+      "height": 1200,
+      "original": "1920x1200",
+      "source": "https://naroomacharters.com.au/wp-content/uploads/2018/03/narooma-charters-whale-watching-tour.webp",
+      "page": "https://naroomacharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 1920,
+      "height": 1280,
+      "original": "1920x1280",
+      "source": "https://naroomacharters.com.au/wp-content/uploads/2018/01/montague-keepers-quarters.webp",
+      "page": "https://naroomacharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1920,
+      "height": 1200,
+      "original": "1920x1200",
+      "source": "https://naroomacharters.com.au/wp-content/uploads/2018/02/narooma-fishing-charter-tours-2022.webp",
+      "page": "https://naroomacharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1920,
+      "height": 1200,
+      "original": "1920x1200",
+      "source": "https://naroomacharters.com.au/wp-content/uploads/2018/03/seals-on-montague-island.webp",
+      "page": "https://naroomacharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 699,
+      "height": 468,
+      "original": "699x468",
+      "source": "https://naroomacharters.com.au/wp-content/uploads/2019/11/narooma-whale-watching-2019-11.jpg",
+      "page": "https://naroomacharters.com.au/narooma-whale-watching",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1920,
+      "height": 1920,
+      "original": "1920x1920",
+      "source": "https://naroomacharters.com.au/wp-content/uploads/2022/02/narooma-divers-with-narooma-charters.webp",
+      "page": "https://naroomacharters.com.au/montague-island-tours",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1025,
+      "height": 537,
+      "original": "1025x537",
+      "source": "https://naroomacharters.com.au/wp-content/uploads/2018/09/montague-island-west-view.jpg",
+      "page": "https://naroomacharters.com.au/montague-island-tours",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1700,
+      "height": 956,
+      "original": "1700x956",
+      "source": "https://naroomacharters.com.au/wp-content/uploads/2018/03/penguins-seals-narooma.jpg",
+      "page": "https://naroomacharters.com.au/montague-island-tours",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 2000,
+      "height": 1333,
+      "original": "2000x1333",
+      "source": "https://naroomacharters.com.au/wp-content/uploads/2022/01/a-seal-near-montague-island.webp",
+      "page": "https://naroomacharters.com.au/snorkelling-with-the-seals",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 854,
+      "height": 960,
+      "original": "854x960",
+      "source": "https://naroomacharters.com.au/wp-content/uploads/2020/01/montague-jigs-narooma-fishing.jpg",
+      "page": "https://naroomacharters.com.au/narooma-fishing-charters",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1440,
+      "height": 1080,
+      "original": "1440x1080",
+      "source": "https://naroomacharters.com.au/wp-content/uploads/2019/02/narooma-fishing-adventures.jpg",
+      "page": "https://naroomacharters.com.au/narooma-fishing-charters",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 600,
+      "height": 403,
+      "original": "600x403",
+      "source": "https://naroomacharters.com.au/wp-content/uploads/2020/01/montague-jigs-narooma-fishing-600x403.jpg",
+      "page": "https://naroomacharters.com.au/narooma-fishing-charters",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 600,
+      "height": 403,
+      "original": "600x403",
+      "source": "https://naroomacharters.com.au/wp-content/uploads/2019/02/narooma-fishing-adventures-600x403.jpg",
+      "page": "https://naroomacharters.com.au/narooma-fishing-charters",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://naroomacharters.com.au/wp-content/uploads/2018/06/narooma-charters-bg-big.jpg",
+      "page": "https://naroomacharters.com.au/about-us.html",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://naroomacharters.com.au/",
+      "status": 200,
+      "final_url": "https://naroomacharters.com.au/",
+      "bytes": 173469
+    },
+    {
+      "page": "https://naroomacharters.com.au/contact-us",
+      "status": 200,
+      "final_url": "https://naroomacharters.com.au/contact-us",
+      "bytes": 107049
+    },
+    {
+      "page": "https://naroomacharters.com.au/index.html",
+      "status": 200,
+      "final_url": "https://naroomacharters.com.au/index.html",
+      "bytes": 173469
+    },
+    {
+      "page": "https://naroomacharters.com.au/narooma-whale-watching",
+      "status": 200,
+      "final_url": "https://naroomacharters.com.au/narooma-whale-watching",
+      "bytes": 179956
+    },
+    {
+      "page": "https://naroomacharters.com.au/montague-island-tours",
+      "status": 200,
+      "final_url": "https://naroomacharters.com.au/montague-island-tours",
+      "bytes": 219457
+    },
+    {
+      "page": "https://naroomacharters.com.au/snorkelling-with-the-seals",
+      "status": 200,
+      "final_url": "https://naroomacharters.com.au/snorkelling-with-the-seals",
+      "bytes": 141728
+    },
+    {
+      "page": "https://naroomacharters.com.au/narooma-fishing-charters",
+      "status": 200,
+      "final_url": "https://naroomacharters.com.au/narooma-fishing-charters",
+      "bytes": 186253
+    },
+    {
+      "page": "https://naroomacharters.com.au/dive-charter-tours",
+      "status": 200,
+      "final_url": "https://naroomacharters.com.au/dive-charter-tours",
+      "bytes": 138748
+    },
+    {
+      "page": "https://naroomacharters.com.au/author/naroomacharters/page/1/index.html",
+      "status": 200,
+      "final_url": "https://naroomacharters.com.au/author/naroomacharters/page/1/index.html",
+      "bytes": 141593
+    },
+    {
+      "page": "https://naroomacharters.com.au/homepage/index.html",
+      "status": 404,
+      "final_url": "https://naroomacharters.com.au/homepage/index.html",
+      "bytes": 3278
+    },
+    {
+      "page": "https://naroomacharters.com.au/about-us.html",
+      "status": 200,
+      "final_url": "https://naroomacharters.com.au/about-us.html",
+      "bytes": 131479
+    },
+    {
+      "image": "https://naroomacharters.com.au/wp-content/uploads/2021/12/montague-penguins-artwork.webp",
+      "error": "too small 247x172"
+    },
+    {
+      "image": "https://naroomacharters.com.au/wp-content/uploads/2021/12/montague-seal-artwork.webp",
+      "error": "too small 251x207"
+    },
+    {
+      "image": "https://naroomacharters.com.au/wp-content/uploads/2022/02/narooma-whale-watching-tours.webp",
+      "error": "too small 572x390"
+    },
+    {
+      "image": "https://naroomacharters.com.au/wp-content/uploads/2022/02/narooma-fishing-charters-catch.webp",
+      "error": "too small 572x390"
+    },
+    {
+      "image": "https://naroomacharters.com.au/wp-content/uploads/2022/02/narooma-charters-double-dive-tour.webp",
+      "error": "too small 572x390"
+    },
+    {
+      "image": "https://naroomacharters.com.au/wp-content/uploads/2021/12/narooma-fishing-charter-tours-caught-a-kingfish.webp",
+      "error": "too small 572x390"
+    },
+    {
+      "image": "https://naroomacharters.com.au/wp-content/uploads/2021/12/boat-charter-in-narooma.webp",
+      "error": "too small 572x390"
+    },
+    {
+      "image": "https://naroomacharters.com.au/wp-content/uploads/2018/05/narooma-charters-boat.jpg",
+      "error": "too small 572x390"
+    },
+    {
+      "image": "https://naroomacharters.com.au/wp-content/uploads/2021/12/tourists-watching-whale-in-narooma-close-up-tail.webp",
+      "error": "too small 572x390"
+    },
+    {
+      "image": "https://naroomacharters.com.au/wp-content/uploads/2021/12/narooma-whale-watching-tours.webp",
+      "error": "too small 572x390"
+    },
+    {
+      "image": "https://naroomacharters.com.au/wp-content/uploads/2021/12/narooma-whale-watching-tours-satisfied-tourists.webp",
+      "error": "too small 572x390"
+    },
+    {
+      "image": "https://naroomacharters.com.au/wp-content/uploads/2021/12/narooma-whale-watching-tours-gallery.webp",
+      "error": "too small 262x386"
+    },
+    {
+      "image": "https://naroomacharters.com.au/wp-content/uploads/2018/06/certificate-excellence.png",
+      "error": "too small 146x121"
+    },
+    {
+      "dup": "https://naroomacharters.com.au/wp-content/uploads/2019/11/narooma-whale-watching-2019-11-600x403.jpg"
+    },
+    {
+      "image": "https://naroomacharters.com.au/wp-content/uploads/2020/03/montague-island-tours-2020.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://naroomacharters.com.au/wp-content/uploads/2021/12/montague-island-ladder-1.webp",
+      "error": "too small 590x787"
+    },
+    {
+      "image": "https://naroomacharters.com.au/wp-content/uploads/2021/12/montague-island-ladder-1-400x400.webp",
+      "error": "too small 400x400"
+    },
+    {
+      "image": "https://naroomacharters.com.au/wp-content/uploads/2021/12/montague-island-ladder-2.webp",
+      "error": "too small 590x787"
+    },
+    {
+      "image": "https://naroomacharters.com.au/wp-content/uploads/2021/12/montague-island-ladder-2-400x400.webp",
+      "error": "too small 400x400"
+    },
+    {
+      "image": "https://naroomacharters.com.au/wp-content/uploads/2021/12/montague-island-boat-charter-tours.webp",
+      "error": "too small 600x338"
+    },
+    {
+      "image": "https://naroomacharters.com.au/wp-content/uploads/2021/12/montague-island-sunset-view.webp",
+      "error": "too small 572x390"
+    },
+    {
+      "image": "https://naroomacharters.com.au/wp-content/uploads/2021/12/montague-island-distance-shot.webp",
+      "error": "too small 572x390"
+    },
+    {
+      "image": "https://naroomacharters.com.au/wp-content/uploads/2021/12/narooma-charters-whale-watching-tours.webp",
+      "error": "too small 572x390"
+    },
+    {
+      "image": "https://naroomacharters.com.au/wp-content/uploads/2021/12/montague-island-lighthouse-quarters.webp",
+      "error": "too small 572x390"
+    },
+    {
+      "image": "https://naroomacharters.com.au/wp-content/uploads/2021/12/montague-island-lighthouse-quarters-entrance.webp",
+      "error": "too small 572x390"
+    },
+    {
+      "image": "https://naroomacharters.com.au/wp-content/uploads/2021/12/narooma-montague-island-tours-gallery.webp",
+      "error": "too small 262x386"
+    },
+    {
+      "dup": "https://naroomacharters.com.au/wp-content/uploads/2022/02/narooma-divers-with-narooma-charters-900x604.webp"
+    },
+    {
+      "dup": "https://naroomacharters.com.au/wp-content/uploads/2018/09/montague-island-west-view-800x537.jpg"
+    },
+    {
+      "dup": "https://naroomacharters.com.au/wp-content/uploads/2018/03/penguins-seals-narooma-600x403.jpg"
+    },
+    {
+      "dup": "https://naroomacharters.com.au/wp-content/uploads/2021/12/narooma-montague-island-aerial-shot.webp"
+    },
+    {
+      "image": "https://naroomacharters.com.au/wp-content/uploads/2022/03/snorkel-with-montague-island-seals.webp",
+      "error": "too small 610x342"
+    },
+    {
+      "image": "https://naroomacharters.com.au/wp-content/uploads/2022/02/seal-near-montague-island.webp",
+      "error": "too small 572x390"
+    },
+    {
+      "image": "https://naroomacharters.com.au/wp-content/uploads/2022/03/montague-island-seals-2022.webp",
+      "error": "too small 572x390"
+    },
+    {
+      "image": "https://naroomacharters.com.au/wp-content/uploads/2021/12/narooma-dive-charter-tours-gallery.webp",
+      "error": "too small 262x386"
+    },
+    {
+      "dup": "https://naroomacharters.com.au/wp-content/uploads/2022/02/narooma-divers-with-narooma-charters-600x403.webp"
+    },
+    {
+      "image": "https://naroomacharters.com.au/wp-content/uploads/2021/12/narooma-fishing-charter-tours-big-family-caught-fishes.webp",
+      "error": "too small 572x390"
+    },
+    {
+      "image": "https://naroomacharters.com.au/wp-content/uploads/2021/12/young-woman-caught-a-kingfish-with-narooma-fishing-charter-tours.webp",
+      "error": "too small 572x390"
+    },
+    {
+      "image": "https://naroomacharters.com.au/wp-content/uploads/2021/12/narooma-fishing-charter-tours-small-family-caught-fishes.webp",
+      "error": "too small 572x390"
+    },
+    {
+      "image": "https://naroomacharters.com.au/wp-content/uploads/2021/12/narooma-fishing-charter-tours-a-group-of-friends-caught-fishes.webp",
+      "error": "too small 572x390"
+    },
+    {
+      "image": "https://naroomacharters.com.au/wp-content/uploads/2021/12/narooma-fishing-charter-gallery.webp",
+      "error": "too small 262x386"
+    },
+    {
+      "image": "https://naroomacharters.com.au/wp-content/uploads/2019/04/certificate-excellence-2019.png",
+      "error": "too small 146x121"
+    },
+    {
+      "dup": "https://naroomacharters.com.au/wp-content/uploads/2018/02/narooma-fishing-charter-tours-2022-600x403.webp"
+    },
+    {
+      "dup": "https://naroomacharters.com.au/wp-content/uploads/2019/01/offshore-fishing-in-narooma.jpg"
+    },
+    {
+      "dup": "https://naroomacharters.com.au/wp-content/uploads/2019/01/offshore-fishing-in-narooma-600x403.jpg"
+    },
+    {
+      "dup": "https://naroomacharters.com.au/wp-content/uploads/2018/02/narooma-fishing-charter-tours-2022-900x604.webp"
+    },
+    {
+      "image": "https://naroomacharters.com.au/wp-content/uploads/2022/02/narooma-charters-double-dive-tour-2.webp",
+      "error": "too small 610x342"
+    },
+    {
+      "image": "https://naroomacharters.com.au/wp-content/uploads/2022/02/narooma-divers-with-narooma-charters-sm.jpg",
+      "error": "too small 640x360"
+    },
+    {
+      "image": "https://naroomacharters.com.au/wp-content/uploads/2018/06/narooma-charters-bg-3.jpg",
+      "error": "too small 572x390"
+    },
+    {
+      "image": "https://naroomacharters.com.au/wp-content/uploads/2018/06/narooma-charters-bg-2.jpg",
+      "error": "too small 572x390"
+    },
+    {
+      "image": "https://naroomacharters.com.au/wp-content/uploads/2018/06/narooma-charters-bg-1.jpg",
+      "error": "too small 572x390"
+    },
+    {
+      "image": "https://naroomacharters.com.au/wp-content/uploads/2018/06/narooma-charters-boat-2.jpg",
+      "error": "too small 572x390"
+    }
+  ]
+}

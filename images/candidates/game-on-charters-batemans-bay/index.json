@@ -1,0 +1,376 @@
+{
+  "slug": "game-on-charters-batemans-bay",
+  "request_hash": "0d349e6b1669",
+  "collected_at": "2026-10-29T04:19:08.419Z",
+  "pages_fetched": [
+    "https://gameoncharters.net.au/",
+    "https://gameoncharters.net.au/fishing-charters-batemans-bay-whale-watching-batemans-bay/",
+    "https://gameoncharters.net.au/charters/",
+    "https://gameoncharters.net.au/whale-watchiing/",
+    "https://gameoncharters.net.au/sunseet-cruiise-clyde-river/",
+    "https://gameoncharters.net.au/tollgate-island-dolphin-cruise/",
+    "https://gameoncharters.net.au/clyde-river-cruise/",
+    "https://gameoncharters.net.au/snorkelling/",
+    "https://gameoncharters.net.au/tollgate-islands-and-surrounds/",
+    "https://gameoncharters.net.au/about-us/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 2000,
+      "height": 1120,
+      "original": "2560x1434",
+      "source": "https://gameoncharters.net.au/wp-content/uploads/2025/07/Screenshot-2023-04-26-at-4.57.49-pm-scaled.png",
+      "page": "https://gameoncharters.net.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 2000,
+      "height": 1123,
+      "original": "2560x1437",
+      "source": "https://gameoncharters.net.au/wp-content/uploads/2023/12/Screenshot-2023-04-26-at-4.53.18-pm-scaled.png",
+      "page": "https://gameoncharters.net.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 2000,
+      "height": 1492,
+      "original": "2560x1910",
+      "source": "https://gameoncharters.net.au/wp-content/uploads/2023/12/Screenshot-2023-12-11-at-7.36.29-pm-scaled.png",
+      "page": "https://gameoncharters.net.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 600,
+      "height": 820,
+      "original": "600x820",
+      "source": "https://gameoncharters.net.au/wp-content/uploads/elementor/thumbs/Screenshot-2023-12-11-at-7.33.26-pm-r94o8ln8nc4gsbd6hnrt2o0lpq8k5xk77v19qbs3yg.png",
+      "page": "https://gameoncharters.net.au/charters/",
+      "priority": true
+    },
+    {
+      "file": "c05.webp",
+      "width": 600,
+      "height": 800,
+      "original": "600x800",
+      "source": "https://gameoncharters.net.au/wp-content/uploads/elementor/thumbs/20230624_130151-rtipolt3ay0hgybnbissfgrlpx1s48re67rwt6r3nk.jpg",
+      "page": "https://gameoncharters.net.au/charters/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 600,
+      "height": 820,
+      "original": "600x820",
+      "source": "https://gameoncharters.net.au/wp-content/uploads/elementor/thumbs/Deep-drop-fishing-rtipolt3ay0lk9si6qja4vxlsoqmdf5mowvh7s23go.webp",
+      "page": "https://gameoncharters.net.au/charters/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 600,
+      "height": 821,
+      "original": "600x821",
+      "source": "https://gameoncharters.net.au/wp-content/uploads/elementor/thumbs/Whale-Watching-rtipolt3ay0lrmyqxhx7f5owlmiv32vjinbuu3x8uq.jpg",
+      "page": "https://gameoncharters.net.au/charters/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 600,
+      "height": 650,
+      "original": "600x650",
+      "source": "https://gameoncharters.net.au/wp-content/uploads/elementor/thumbs/DJI_0860-scaled-1-rtipolt3axzms2b7tes3mt0l55dh7esm9zj5rqyn38.jpg",
+      "page": "https://gameoncharters.net.au/charters/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 600,
+      "height": 820,
+      "original": "600x820",
+      "source": "https://gameoncharters.net.au/wp-content/uploads/elementor/thumbs/Tollgate-Island-Dolphin-Cruise-rtipolt3ay0lk9si6qja4vxlsoqmdf5mowvh7s23go.jpg",
+      "page": "https://gameoncharters.net.au/charters/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 600,
+      "height": 400,
+      "original": "600x400",
+      "source": "https://gameoncharters.net.au/wp-content/uploads/elementor/thumbs/Screen-Shot-2022-12-22-at-11.28.11-pm-2-scaled-rtipolt3axy7mkyhz82yb1fk6j8z0ouns9skpcn7hc.png",
+      "page": "https://gameoncharters.net.au/charters/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 600,
+      "height": 400,
+      "original": "600x400",
+      "source": "https://gameoncharters.net.au/wp-content/uploads/elementor/thumbs/Screen-Shot-2022-12-24-at-9.34.41-pm-2-scaled-rtipolt3axy7mkyhz82yb1fk6j8z0ouns9skpcn7hc.png",
+      "page": "https://gameoncharters.net.au/charters/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1000,
+      "height": 750,
+      "original": "1000x750",
+      "source": "https://gameoncharters.net.au/wp-content/uploads/2026/06/Whale-watching-batemans-bay-Large.jpeg",
+      "page": "https://gameoncharters.net.au/whale-watchiing/",
+      "priority": true
+    },
+    {
+      "file": "c13.webp",
+      "width": 784,
+      "height": 466,
+      "original": "784x466",
+      "source": "https://gameoncharters.net.au/wp-content/uploads/2025/07/migration-patterns.webp",
+      "page": "https://gameoncharters.net.au/whale-watchiing/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 960,
+      "height": 600,
+      "original": "960x600",
+      "source": "https://gameoncharters.net.au/wp-content/uploads/2025/07/dolphin-promo.jpg",
+      "page": "https://gameoncharters.net.au/whale-watchiing/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1000,
+      "height": 750,
+      "original": "1000x750",
+      "source": "https://gameoncharters.net.au/wp-content/uploads/2026/06/Whale-watching-game-on-charters.jpg",
+      "page": "https://gameoncharters.net.au/whale-watchiing/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1500x2000",
+      "source": "https://gameoncharters.net.au/wp-content/uploads/2025/07/20230929_145036-1.jpg",
+      "page": "https://gameoncharters.net.au/whale-watchiing/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://gameoncharters.net.au/",
+      "status": 200,
+      "final_url": "https://gameoncharters.net.au/",
+      "bytes": 203870
+    },
+    {
+      "page": "https://gameoncharters.net.au/fishing-charters-batemans-bay-whale-watching-batemans-bay/",
+      "status": 200,
+      "final_url": "https://gameoncharters.net.au/fishing-charters-batemans-bay-whale-watching-batemans-bay/",
+      "bytes": 133024
+    },
+    {
+      "page": "https://gameoncharters.net.au/charters/",
+      "status": 200,
+      "final_url": "https://gameoncharters.net.au/charters/",
+      "bytes": 134313
+    },
+    {
+      "page": "https://gameoncharters.net.au/whale-watchiing/",
+      "status": 200,
+      "final_url": "https://gameoncharters.net.au/whale-watchiing/",
+      "bytes": 156168
+    },
+    {
+      "page": "https://gameoncharters.net.au/sunseet-cruiise-clyde-river/",
+      "status": 200,
+      "final_url": "https://gameoncharters.net.au/sunseet-cruiise-clyde-river/",
+      "bytes": 133092
+    },
+    {
+      "page": "https://gameoncharters.net.au/tollgate-island-dolphin-cruise/",
+      "status": 200,
+      "final_url": "https://gameoncharters.net.au/tollgate-island-dolphin-cruise/",
+      "bytes": 132886
+    },
+    {
+      "page": "https://gameoncharters.net.au/clyde-river-cruise/",
+      "status": 200,
+      "final_url": "https://gameoncharters.net.au/clyde-river-cruise/",
+      "bytes": 133611
+    },
+    {
+      "page": "https://gameoncharters.net.au/snorkelling/",
+      "status": 200,
+      "final_url": "https://gameoncharters.net.au/snorkelling/",
+      "bytes": 132985
+    },
+    {
+      "page": "https://gameoncharters.net.au/tollgate-islands-and-surrounds/",
+      "status": 200,
+      "final_url": "https://gameoncharters.net.au/tollgate-islands-and-surrounds/",
+      "bytes": 133585
+    },
+    {
+      "page": "https://gameoncharters.net.au/about-us/",
+      "status": 200,
+      "final_url": "https://gameoncharters.net.au/about-us/",
+      "bytes": 141297
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a-/ALV-UjXkPvl9-B0J34iHd__yoRZGo9INxInktLpBOTFnWhwxhS6WD30H=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocIPifvtKJwyOIbTGlRrm01TqwPgzk3WX1QZXpWtzwnJ7mUtDw=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocIb5gGrfw3tE-jpLxxTB04H7BHpKgsZl0jF3SIkh6calW1sqw=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a-/ALV-UjXmfnLYdq0x10aaI3S572ruE-X0u-7OxJcu44mpozmqjt4dKigg=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocKc4CDUWyKhu9kRrAYulLp5Diu4yR_ZvhUE-_13rGdxNtn_3w=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocIVk0BT3wwucC5X1Ki-5-zcT1cQVDXsNP894GCC-im5phpxbg=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocJ904mRrBQ3nuBrJ7gh_J_QNDDZd6UBWI1MXkXXYfrFn5NLGw=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocJb2-emXEKLakTE2FMxeE-u3sBfimgbFdKr5gEKfabTovkqGg=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocJSuNiJz0OCDxRt9aCa5OwchMI-jW9ochGxC_v18UV4BbYPQg=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocIVgJI5oloQFiF_LsITxbpdEmb1SJFrM2-42mV_eJ1533iW-A=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a-/ALV-UjXkPvl9-B0J34iHd__yoRZGo9INxInktLpBOTFnWhwxhS6WD30H=w80-h80-c-rp-mo-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocIPifvtKJwyOIbTGlRrm01TqwPgzk3WX1QZXpWtzwnJ7mUtDw=w80-h80-c-rp-mo-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocIb5gGrfw3tE-jpLxxTB04H7BHpKgsZl0jF3SIkh6calW1sqw=w80-h80-c-rp-mo-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a-/ALV-UjXmfnLYdq0x10aaI3S572ruE-X0u-7OxJcu44mpozmqjt4dKigg=w80-h80-c-rp-mo-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocKc4CDUWyKhu9kRrAYulLp5Diu4yR_ZvhUE-_13rGdxNtn_3w=w80-h80-c-rp-mo-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocIVk0BT3wwucC5X1Ki-5-zcT1cQVDXsNP894GCC-im5phpxbg=w80-h80-c-rp-mo-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocJ904mRrBQ3nuBrJ7gh_J_QNDDZd6UBWI1MXkXXYfrFn5NLGw=w80-h80-c-rp-mo-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocJb2-emXEKLakTE2FMxeE-u3sBfimgbFdKr5gEKfabTovkqGg=w80-h80-c-rp-mo-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocJSuNiJz0OCDxRt9aCa5OwchMI-jW9ochGxC_v18UV4BbYPQg=w80-h80-c-rp-mo-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocIVgJI5oloQFiF_LsITxbpdEmb1SJFrM2-42mV_eJ1533iW-A=w80-h80-c-rp-mo-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "dup": "https://gameoncharters.net.au/wp-content/uploads/2025/07/Screenshot-2023-04-26-at-4.57.49-pm.png"
+    },
+    {
+      "dup": "https://gameoncharters.net.au/wp-content/uploads/2025/07/Screenshot-2023-04-26-at-4.57.49-pm-1024x574.png"
+    },
+    {
+      "dup": "https://gameoncharters.net.au/wp-content/uploads/2025/07/Screenshot-2023-04-26-at-4.57.49-pm-768x430.png"
+    },
+    {
+      "dup": "https://gameoncharters.net.au/wp-content/uploads/2025/07/Screenshot-2023-04-26-at-4.57.49-pm-1536x861.png"
+    },
+    {
+      "dup": "https://gameoncharters.net.au/wp-content/uploads/2025/07/Screenshot-2023-04-26-at-4.57.49-pm-2048x1147.png"
+    },
+    {
+      "dup": "https://gameoncharters.net.au/wp-content/uploads/2023/12/Screenshot-2023-04-26-at-4.53.18-pm.png"
+    },
+    {
+      "dup": "https://gameoncharters.net.au/wp-content/uploads/2023/12/Screenshot-2023-04-26-at-4.53.18-pm-1024x575.png"
+    },
+    {
+      "dup": "https://gameoncharters.net.au/wp-content/uploads/2023/12/Screenshot-2023-04-26-at-4.53.18-pm-768x431.png"
+    },
+    {
+      "dup": "https://gameoncharters.net.au/wp-content/uploads/2023/12/Screenshot-2023-04-26-at-4.53.18-pm-1536x862.png"
+    },
+    {
+      "dup": "https://gameoncharters.net.au/wp-content/uploads/2023/12/Screenshot-2023-04-26-at-4.53.18-pm-2048x1150.png"
+    },
+    {
+      "dup": "https://gameoncharters.net.au/wp-content/uploads/2023/12/Screenshot-2023-12-11-at-7.36.29-pm.png"
+    },
+    {
+      "dup": "https://gameoncharters.net.au/wp-content/uploads/2023/12/Screenshot-2023-12-11-at-7.36.29-pm-1024x764.png"
+    },
+    {
+      "dup": "https://gameoncharters.net.au/wp-content/uploads/2023/12/Screenshot-2023-12-11-at-7.36.29-pm-768x573.png"
+    },
+    {
+      "dup": "https://gameoncharters.net.au/wp-content/uploads/2023/12/Screenshot-2023-12-11-at-7.36.29-pm-1536x1146.png"
+    },
+    {
+      "dup": "https://gameoncharters.net.au/wp-content/uploads/2023/12/Screenshot-2023-12-11-at-7.36.29-pm-2048x1528.png"
+    },
+    {
+      "image": "https://gameoncharters.net.au/wp-content/uploads/2023/10/5star-png.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "dup": "https://gameoncharters.net.au/wp-content/uploads/elementor/thumbs/Screenshot-2023-12-11-at-7.33.26-pm-rtipolt3ay0lk9si6qja4vxlsoqmdf5mowvh7s23go.png"
+    },
+    {
+      "image": "https://gameoncharters.net.au/wp-content/uploads/elementor/thumbs/Snorkelling-1-rtipolt3axy7mkyhz82yb1fk6j8z0ouns9skpcn7hc.jpg",
+      "error": "fetch failed"
+    },
+    {
+      "dup": "https://gameoncharters.net.au/wp-content/uploads/2026/09/DJI_20260315124548_0033_D.jpg"
+    },
+    {
+      "image": "https://gameoncharters.net.au/wp-content/uploads/2025/07/migrate-2.jpg",
+      "error": "too small 586x404"
+    },
+    {
+      "image": "https://gameoncharters.net.au/wp-content/uploads/2025/07/untitled2.jpg",
+      "error": "too small 586x404"
+    },
+    {
+      "image": "https://gameoncharters.net.au/wp-content/uploads/2025/07/migrate-1-.jpg",
+      "error": "too small 586x404"
+    }
+  ]
+}
