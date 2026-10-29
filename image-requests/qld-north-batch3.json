@@ -1,0 +1,80 @@
+{
+ "requests": [
+  {
+   "slug": "research-tropicbarra2",
+   "pages": [
+    "https://www.tropicbarraadventures.com.au/tinaroo-giant-barramundi",
+    "https://www.tropicbarraadventures.com.au/multi-day-multi-river",
+    "https://www.tropicbarraadventures.com.au/family-and-beginners",
+    "https://www.tropicbarraadventures.com.au/saratoga-fishing",
+    "https://www.tropicbarraadventures.com.au/great-barrier-reef-trips"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  },
+  {
+   "slug": "research-fnq2",
+   "pages": [
+    "https://www.fnqfishingadventures.com.au/full-day-reef-fishing",
+    "https://www.fnqfishingadventures.com.au/light-tackle-billfish",
+    "https://www.fnqfishingadventures.com.au/topwater-gts",
+    "https://www.fnqfishingadventures.com.au/multi-day-charter-experience",
+    "https://www.fnqfishingadventures.com.au/tinaroo-giant-barramundi",
+    "https://www.fnqfishingadventures.com.au/full-day-river-charter"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  },
+  {
+   "slug": "big-fish-down-under",
+   "pages": [
+    "https://www.bigfishdownunder.com/",
+    "https://www.bigfishdownunder.com/about/our-boat-moana-iii",
+    "https://www.bigfishdownunder.com/experiences/sport-amp-game-fishing",
+    "https://www.bigfishdownunder.com/experiences/remote-expeditions"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "crackajack-sportfishing-adventures",
+   "pages": [
+    "https://www.australia.com/en/atdw/product.640eaf483568d2ae140d96c8.html"
+   ],
+   "text": true,
+   "max": 10,
+   "follow": false
+  },
+  {
+   "slug": "gone-fishing-cooktown",
+   "pages": [
+    "http://www.fishingcooktown.com/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "cape-york-custom-sportfishing",
+   "pages": [
+    "http://www.capeyorkcustomsportfishing.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "fishs-fly-sportfishing-weipa",
+   "pages": [
+    "https://weipaflyfish.com.au/",
+    "https://www.weipaflyfish.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  }
+ ]
+}
