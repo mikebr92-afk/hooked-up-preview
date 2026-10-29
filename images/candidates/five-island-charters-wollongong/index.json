@@ -1,0 +1,360 @@
+{
+  "slug": "five-island-charters-wollongong",
+  "request_hash": "44f676dbcc32",
+  "collected_at": "2026-10-29T03:12:40.576Z",
+  "pages_fetched": [
+    "https://www.fiveislandcharters.com.au/",
+    "https://www.fiveislandcharters.com.au/gallery/",
+    "https://www.fiveislandcharters.com.au/pricing/",
+    "https://www.fiveislandcharters.com.au/weather/",
+    "https://www.fiveislandcharters.com.au/gift-certificates/",
+    "https://www.fiveislandcharters.com.au/vessel/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 720,
+      "height": 960,
+      "original": "720x960",
+      "source": "https://www.fiveislandcharters.com.au/wp-content/uploads/2018/05/tuna.jpg",
+      "page": "https://www.fiveislandcharters.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 720,
+      "height": 720,
+      "original": "720x720",
+      "source": "https://www.fiveislandcharters.com.au/wp-content/uploads/bb-plugin/cache/tuna-square.jpg",
+      "page": "https://www.fiveislandcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 960,
+      "height": 720,
+      "original": "960x720",
+      "source": "https://www.fiveislandcharters.com.au/wp-content/uploads/2018/05/Harbour-morning.jpg",
+      "page": "https://www.fiveislandcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 960,
+      "height": 720,
+      "original": "960x720",
+      "source": "https://www.fiveislandcharters.com.au/wp-content/uploads/2018/05/Getting-ready.jpg",
+      "page": "https://www.fiveislandcharters.com.au/gallery/",
+      "priority": true
+    },
+    {
+      "file": "c05.webp",
+      "width": 714,
+      "height": 960,
+      "original": "714x960",
+      "source": "https://www.fiveislandcharters.com.au/wp-content/uploads/2018/05/All-set.jpg",
+      "page": "https://www.fiveislandcharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 720,
+      "height": 960,
+      "original": "720x960",
+      "source": "https://www.fiveislandcharters.com.au/wp-content/uploads/2018/05/Anytime-now....jpg",
+      "page": "https://www.fiveislandcharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 960,
+      "height": 720,
+      "original": "960x720",
+      "source": "https://www.fiveislandcharters.com.au/wp-content/uploads/2018/05/Fun-for-everyone.jpg",
+      "page": "https://www.fiveislandcharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 960,
+      "height": 720,
+      "original": "960x720",
+      "source": "https://www.fiveislandcharters.com.au/wp-content/uploads/2018/05/Fishing-with-your-mates.jpg",
+      "page": "https://www.fiveislandcharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 960,
+      "height": 720,
+      "original": "960x720",
+      "source": "https://www.fiveislandcharters.com.au/wp-content/uploads/2018/05/Fishing-with-the-boys.jpg",
+      "page": "https://www.fiveislandcharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 720,
+      "height": 960,
+      "original": "720x960",
+      "source": "https://www.fiveislandcharters.com.au/wp-content/uploads/2018/05/Nice-one-too.jpg",
+      "page": "https://www.fiveislandcharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 960,
+      "height": 720,
+      "original": "960x720",
+      "source": "https://www.fiveislandcharters.com.au/wp-content/uploads/2018/05/Looking-down-from-the-top.jpg",
+      "page": "https://www.fiveislandcharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 720,
+      "height": 960,
+      "original": "720x960",
+      "source": "https://www.fiveislandcharters.com.au/wp-content/uploads/2018/05/Ready-for-the-big-One-to-bite-1.jpg",
+      "page": "https://www.fiveislandcharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 720,
+      "height": 960,
+      "original": "720x960",
+      "source": "https://www.fiveislandcharters.com.au/wp-content/uploads/2018/05/tuna-2.jpg",
+      "page": "https://www.fiveislandcharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 640,
+      "height": 960,
+      "original": "640x960",
+      "source": "https://www.fiveislandcharters.com.au/wp-content/uploads/2018/05/Hooked-him-too.png",
+      "page": "https://www.fiveislandcharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 960,
+      "height": 720,
+      "original": "960x720",
+      "source": "https://www.fiveislandcharters.com.au/wp-content/uploads/2018/05/Not-happy.jpg",
+      "page": "https://www.fiveislandcharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 960,
+      "height": 720,
+      "original": "960x720",
+      "source": "https://www.fiveislandcharters.com.au/wp-content/uploads/2018/05/Got-him.jpg",
+      "page": "https://www.fiveislandcharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c17.webp",
+      "width": 960,
+      "height": 540,
+      "original": "960x540",
+      "source": "https://www.fiveislandcharters.com.au/wp-content/uploads/2018/05/Great-work-boys.jpg",
+      "page": "https://www.fiveislandcharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c18.webp",
+      "width": 720,
+      "height": 960,
+      "original": "720x960",
+      "source": "https://www.fiveislandcharters.com.au/wp-content/uploads/2018/05/Landed-the-big-one.jpg",
+      "page": "https://www.fiveislandcharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c19.webp",
+      "width": 960,
+      "height": 540,
+      "original": "960x540",
+      "source": "https://www.fiveislandcharters.com.au/wp-content/uploads/2018/05/Love-it.jpg",
+      "page": "https://www.fiveislandcharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c20.webp",
+      "width": 960,
+      "height": 720,
+      "original": "960x720",
+      "source": "https://www.fiveislandcharters.com.au/wp-content/uploads/2018/05/A-mixed-bag.jpg",
+      "page": "https://www.fiveislandcharters.com.au/gallery/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.fiveislandcharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.fiveislandcharters.com.au/",
+      "bytes": 54618
+    },
+    {
+      "page": "https://www.fiveislandcharters.com.au/gallery/",
+      "status": 200,
+      "final_url": "https://www.fiveislandcharters.com.au/gallery/",
+      "bytes": 89658
+    },
+    {
+      "page": "https://www.fiveislandcharters.com.au/pricing/",
+      "status": 200,
+      "final_url": "https://www.fiveislandcharters.com.au/pricing/",
+      "bytes": 59664
+    },
+    {
+      "page": "https://www.fiveislandcharters.com.au/weather/",
+      "status": 200,
+      "final_url": "https://www.fiveislandcharters.com.au/weather/",
+      "bytes": 43320
+    },
+    {
+      "page": "https://www.fiveislandcharters.com.au/gift-certificates/",
+      "status": 200,
+      "final_url": "https://www.fiveislandcharters.com.au/gift-certificates/",
+      "bytes": 46324
+    },
+    {
+      "page": "https://www.fiveislandcharters.com.au/vessel/",
+      "status": 200,
+      "final_url": "https://www.fiveislandcharters.com.au/vessel/",
+      "bytes": 47039
+    },
+    {
+      "image": "https://www.fiveislandcharters.com.au/wp-content/uploads/2020/12/cropped-512x512-1.png",
+      "error": "too small 512x512"
+    },
+    {
+      "image": "https://www.fiveislandcharters.com.au/wp-content/uploads/2020/12/cropped-512x512-1-32x32.png",
+      "error": "too small 32x32"
+    },
+    {
+      "image": "https://www.fiveislandcharters.com.au/wp-content/uploads/2020/12/cropped-512x512-1-192x192.png",
+      "error": "too small 192x192"
+    },
+    {
+      "image": "https://www.fiveislandcharters.com.au/wp-content/uploads/2020/12/cropped-512x512-1-180x180.png",
+      "error": "too small 180x180"
+    },
+    {
+      "image": "https://www.fiveislandcharters.com.au/wp-content/uploads/2020/12/cropped-512x512-1-270x270.png",
+      "error": "too small 270x270"
+    },
+    {
+      "image": "https://www.fiveislandcharters.com.au/wp-content/uploads/2018/05/Underwater-view.jpg",
+      "error": "too small 304x304"
+    },
+    {
+      "dup": "https://www.fiveislandcharters.com.au/wp-content/uploads/2018/05/Getting-ready-1.jpg"
+    },
+    {
+      "image": "https://www.fiveislandcharters.com.au/wp-content/uploads/2018/05/Getting-ready-1-150x150.jpg",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://www.fiveislandcharters.com.au/wp-content/uploads/2018/05/All-set-150x150.jpg",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://www.fiveislandcharters.com.au/wp-content/uploads/2018/05/Anytime-now...-150x150.jpg",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://www.fiveislandcharters.com.au/wp-content/uploads/2018/05/Fun-for-everyone-150x150.jpg",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://www.fiveislandcharters.com.au/wp-content/uploads/2018/05/Fishing-with-your-mates-150x150.jpg",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://www.fiveislandcharters.com.au/wp-content/uploads/2018/05/Fishing-with-the-boys-150x150.jpg",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://www.fiveislandcharters.com.au/wp-content/uploads/2018/05/Nice-one-too-150x150.jpg",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://www.fiveislandcharters.com.au/wp-content/uploads/2018/05/Getting-ready-150x150.jpg",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://www.fiveislandcharters.com.au/wp-content/uploads/2018/05/Looking-down-from-the-top-150x150.jpg",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://www.fiveislandcharters.com.au/wp-content/uploads/2018/05/Ready-for-the-big-One-to-bite-1-150x150.jpg",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://www.fiveislandcharters.com.au/wp-content/uploads/2018/05/tuna-150x150.jpg",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://www.fiveislandcharters.com.au/wp-content/uploads/2018/05/tuna-2-150x150.jpg",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://www.fiveislandcharters.com.au/wp-content/uploads/2018/05/Underwater-view-150x150.jpg",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://www.fiveislandcharters.com.au/wp-content/uploads/2018/05/Hooked-him-too-150x150.png",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://www.fiveislandcharters.com.au/wp-content/uploads/2018/05/Not-happy-150x150.jpg",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://www.fiveislandcharters.com.au/wp-content/uploads/2018/05/Game-fishing-is-great.jpg",
+      "error": "too small 497x280"
+    },
+    {
+      "image": "https://www.fiveislandcharters.com.au/wp-content/uploads/2018/05/Game-fishing-is-great-150x150.jpg",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://www.fiveislandcharters.com.au/wp-content/uploads/2018/05/Good-work.jpg",
+      "error": "too small 373x280"
+    },
+    {
+      "image": "https://www.fiveislandcharters.com.au/wp-content/uploads/2018/05/Good-work-150x150.jpg",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://www.fiveislandcharters.com.au/wp-content/uploads/2018/05/Got-him-150x150.jpg",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://www.fiveislandcharters.com.au/wp-content/uploads/2018/05/Great-work-boys-150x150.jpg",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://www.fiveislandcharters.com.au/wp-content/uploads/2018/05/Landed-the-big-one-150x150.jpg",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://www.fiveislandcharters.com.au/wp-content/uploads/2018/05/Love-it-150x150.jpg",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://www.fiveislandcharters.com.au/wp-content/uploads/2018/05/Nice-one-again.jpg",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://www.fiveislandcharters.com.au/wp-content/uploads/2018/05/Nice-one-again-150x150.jpg",
+      "error": "too small 150x150"
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "slug": "coffs-harbour-fishing-charters",
+  "request_hash": "4accb4431656",
+  "collected_at": "2026-10-29T03:10:21.621Z",
+  "pages_fetched": [
+    "https://coffsharbourfishing.com.au/",
+    "https://coffsharbourfishing.com.au/our-boat/",
+    "https://coffsharbourfishing.com.au/about-us/",
+    "https://coffsharbourfishing.com.au/charters/",
+    "https://coffsharbourfishing.com.au/book",
+    "https://coffsharbourfishing.com.au/index.html",
+    "https://coffsharbourfishing.com.au/about_us.html",
+    "https://coffsharbourfishing.com.au/our_boats.html"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2592x1944",
+      "source": "https://coffsharbourfishing.com.au/wp-content/uploads/2020/08/Homepage-Photo.jpg",
+      "page": "https://coffsharbourfishing.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 1923,
+      "height": 761,
+      "original": "1923x761",
+      "source": "https://coffsharbourfishing.com.au/wp-content/uploads/2018/06/Slider-W.jpg",
+      "page": "https://coffsharbourfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1635,
+      "height": 902,
+      "original": "1635x902",
+      "source": "https://coffsharbourfishing.com.au/wp-content/uploads/2018/11/3.jpg",
+      "page": "https://coffsharbourfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 943,
+      "height": 969,
+      "original": "943x969",
+      "source": "https://coffsharbourfishing.com.au/wp-content/uploads/2018/11/15-3.jpg",
+      "page": "https://coffsharbourfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 972,
+      "height": 402,
+      "original": "972x402",
+      "source": "https://coffsharbourfishing.com.au/wp-content/uploads/2018/11/Coffs-Harbour-Fishing-Charter.jpg",
+      "page": "https://coffsharbourfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 972,
+      "height": 402,
+      "original": "972x402",
+      "source": "https://coffsharbourfishing.com.au/wp-content/uploads/2020/08/A-GAME-.jpg",
+      "page": "https://coffsharbourfishing.com.au/our-boat/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 2000,
+      "height": 1341,
+      "original": "3196x2143",
+      "source": "https://coffsharbourfishing.com.au/wp-content/uploads/2018/11/GOPR0028.jpg",
+      "page": "https://coffsharbourfishing.com.au/about-us/",
+      "priority": true
+    },
+    {
+      "file": "c08.webp",
+      "width": 972,
+      "height": 402,
+      "original": "972x402",
+      "source": "https://coffsharbourfishing.com.au/wp-content/uploads/2018/11/Vegas.jpg",
+      "page": "https://coffsharbourfishing.com.au/about-us/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 972,
+      "height": 402,
+      "original": "972x402",
+      "source": "https://coffsharbourfishing.com.au/wp-content/uploads/2018/11/10-Man.jpg",
+      "page": "https://coffsharbourfishing.com.au/about-us/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://coffsharbourfishing.com.au/",
+      "status": 200,
+      "final_url": "https://coffsharbourfishing.com.au/",
+      "bytes": 34251
+    },
+    {
+      "page": "https://coffsharbourfishing.com.au/our-boat/",
+      "status": 200,
+      "final_url": "https://coffsharbourfishing.com.au/our-boat/",
+      "bytes": 31101
+    },
+    {
+      "page": "https://coffsharbourfishing.com.au/about-us/",
+      "status": 200,
+      "final_url": "https://coffsharbourfishing.com.au/about-us/",
+      "bytes": 29971
+    },
+    {
+      "page": "https://coffsharbourfishing.com.au/charters/",
+      "status": 200,
+      "final_url": "https://coffsharbourfishing.com.au/charters/",
+      "bytes": 29644
+    },
+    {
+      "page": "https://coffsharbourfishing.com.au/book",
+      "status": 200,
+      "final_url": "https://coffsharbourfishing.com.au/book/",
+      "bytes": 23747
+    },
+    {
+      "page": "https://coffsharbourfishing.com.au/index.html",
+      "status": 404,
+      "final_url": "https://coffsharbourfishing.com.au/index.html",
+      "bytes": 29702
+    },
+    {
+      "page": "https://coffsharbourfishing.com.au/about_us.html",
+      "status": 404,
+      "final_url": "https://coffsharbourfishing.com.au/about_us.html",
+      "bytes": 29702
+    },
+    {
+      "page": "https://coffsharbourfishing.com.au/our_boats.html",
+      "status": 404,
+      "final_url": "https://coffsharbourfishing.com.au/our_boats.html",
+      "bytes": 29702
+    },
+    {
+      "dup": "https://coffsharbourfishing.com.au/wp-content/uploads/2020/08/Homepage-Photo-1024x768.jpg"
+    },
+    {
+      "image": "https://coffsharbourfishing.com.au/wp-content/uploads/2018/11/pannel3_img1.jpg",
+      "error": "too small 349x355"
+    },
+    {
+      "image": "https://coffsharbourfishing.com.au/wp-content/uploads/2018/11/pannel3_img2.jpg",
+      "error": "too small 349x355"
+    },
+    {
+      "image": "https://coffsharbourfishing.com.au/wp-content/uploads/2018/11/pannel3_img3.jpg",
+      "error": "too small 349x355"
+    },
+    {
+      "image": "https://coffsharbourfishing.com.au/wp-content/uploads/2018/11/Coffs-Harbour-Black-Marlin.jpg",
+      "error": "too small 349x355"
+    },
+    {
+      "image": "https://coffsharbourfishing.com.au/wp-content/uploads/2018/11/pannel3_img5.jpg",
+      "error": "too small 349x355"
+    },
+    {
+      "image": "https://coffsharbourfishing.com.au/wp-content/uploads/2018/11/pannel3_img6.jpg",
+      "error": "too small 349x355"
+    },
+    {
+      "image": "https://i.ytimg.com/vi/ID/hqdefault.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://coffsharbourfishing.com.au/wp-content/plugins/rocket-lazy-load/assets/img/youtube.png",
+      "error": "too small 64x45"
+    },
+    {
+      "dup": "https://coffsharbourfishing.com.au/wp-content/uploads/2018/11/GOPR0028-1024x687.jpg"
+    },
+    {
+      "image": "https://coffsharbourfishing.com.au/wp-content/uploads/2018/11/about_pannel2_img.jpg",
+      "error": "too small 962x313"
+    }
+  ]
+}

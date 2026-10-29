@@ -1,0 +1,294 @@
+{
+  "slug": "hammerhead-charters-nelson-bay",
+  "request_hash": "6da45a02f511",
+  "collected_at": "2026-10-29T03:08:43.937Z",
+  "pages_fetched": [
+    "https://hammerheadcharters.com.au/",
+    "https://hammerheadcharters.com.au/galleries/",
+    "https://hammerheadcharters.com.au/events/",
+    "https://hammerheadcharters.com.au/reef-fishing/",
+    "https://hammerheadcharters.com.au/estuary-fishing/",
+    "https://hammerheadcharters.com.au/gametournament-charter/",
+    "https://hammerheadcharters.com.au/whale-cruses/",
+    "https://hammerheadcharters.com.au/private-charters/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1820,
+      "height": 1024,
+      "original": "1820x1024",
+      "source": "https://hammerheadcharters.com.au/wp-content/uploads/2015/07/bg.jpg",
+      "page": "https://hammerheadcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 630,
+      "height": 840,
+      "original": "630x840",
+      "source": "https://hammerheadcharters.com.au/wp-content/uploads/2019/12/estuary_fishing.jpg",
+      "page": "https://hammerheadcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 630,
+      "height": 840,
+      "original": "630x840",
+      "source": "https://hammerheadcharters.com.au/wp-content/uploads/2015/07/talia-cohen-30431.jpg",
+      "page": "https://hammerheadcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 630,
+      "height": 840,
+      "original": "630x840",
+      "source": "https://hammerheadcharters.com.au/wp-content/uploads/2015/03/ocean.jpg",
+      "page": "https://hammerheadcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 630,
+      "height": 840,
+      "original": "630x840",
+      "source": "https://hammerheadcharters.com.au/wp-content/uploads/2015/07/oceanarvo.jpg",
+      "page": "https://hammerheadcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 630,
+      "height": 840,
+      "original": "630x840",
+      "source": "https://hammerheadcharters.com.au/wp-content/uploads/2015/03/marlin.jpg",
+      "page": "https://hammerheadcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1728x2304",
+      "source": "https://hammerheadcharters.com.au/wp-content/uploads/2019/12/IMG_20180824_112315_resized_20191130_102451875.jpg",
+      "page": "https://hammerheadcharters.com.au/galleries/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1728x2304",
+      "source": "https://hammerheadcharters.com.au/wp-content/uploads/2019/12/IMG_20180824_112211_resized_20191130_102453490.jpg",
+      "page": "https://hammerheadcharters.com.au/galleries/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1728x2304",
+      "source": "https://hammerheadcharters.com.au/wp-content/uploads/2019/12/IMG_20180824_111606_resized_20191130_102535472.jpg",
+      "page": "https://hammerheadcharters.com.au/galleries/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 960,
+      "height": 540,
+      "original": "960x540",
+      "source": "https://hammerheadcharters.com.au/wp-content/uploads/2018/01/26219638_2027736514133713_238020205583392472_n.jpg",
+      "page": "https://hammerheadcharters.com.au/galleries/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://hammerheadcharters.com.au/wp-content/uploads/2017/07/Resized_20170729_1224140-2.jpeg",
+      "page": "https://hammerheadcharters.com.au/galleries/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 960,
+      "height": 540,
+      "original": "960x540",
+      "source": "https://hammerheadcharters.com.au/wp-content/uploads/2016/07/11215142_10153109842638204_9047716411482137492_n.jpg",
+      "page": "https://hammerheadcharters.com.au/galleries/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 960,
+      "height": 717,
+      "original": "960x717",
+      "source": "https://hammerheadcharters.com.au/wp-content/uploads/2016/07/12662534_1708414452732589_6999755957103141874_n.jpg",
+      "page": "https://hammerheadcharters.com.au/galleries/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2048x1536",
+      "source": "https://hammerheadcharters.com.au/wp-content/uploads/2016/01/IMG_0782.png",
+      "page": "https://hammerheadcharters.com.au/galleries/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2048x1536",
+      "source": "https://hammerheadcharters.com.au/wp-content/uploads/2016/01/IMG_0779.png",
+      "page": "https://hammerheadcharters.com.au/galleries/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 960,
+      "height": 1280,
+      "original": "960x1280",
+      "source": "https://hammerheadcharters.com.au/wp-content/uploads/2016/01/IMG_2621.jpg",
+      "page": "https://hammerheadcharters.com.au/galleries/",
+      "priority": false
+    },
+    {
+      "file": "c17.webp",
+      "width": 2000,
+      "height": 1494,
+      "original": "2592x1936",
+      "source": "https://hammerheadcharters.com.au/wp-content/uploads/2015/08/IMG_0034.jpg",
+      "page": "https://hammerheadcharters.com.au/galleries/",
+      "priority": false
+    },
+    {
+      "file": "c18.webp",
+      "width": 2000,
+      "height": 1494,
+      "original": "2592x1936",
+      "source": "https://hammerheadcharters.com.au/wp-content/uploads/2015/08/IMG_0024.jpg",
+      "page": "https://hammerheadcharters.com.au/galleries/",
+      "priority": false
+    },
+    {
+      "file": "c19.webp",
+      "width": 2000,
+      "height": 1494,
+      "original": "2592x1936",
+      "source": "https://hammerheadcharters.com.au/wp-content/uploads/2015/08/IMG_0068.jpg",
+      "page": "https://hammerheadcharters.com.au/galleries/",
+      "priority": false
+    },
+    {
+      "file": "c20.webp",
+      "width": 2000,
+      "height": 1494,
+      "original": "2592x1936",
+      "source": "https://hammerheadcharters.com.au/wp-content/uploads/2015/08/IMG_0064.jpg",
+      "page": "https://hammerheadcharters.com.au/galleries/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://hammerheadcharters.com.au/",
+      "status": 200,
+      "final_url": "https://hammerheadcharters.com.au/",
+      "bytes": 52260
+    },
+    {
+      "page": "https://hammerheadcharters.com.au/galleries/",
+      "status": 200,
+      "final_url": "https://hammerheadcharters.com.au/galleries/",
+      "bytes": 74726
+    },
+    {
+      "page": "https://hammerheadcharters.com.au/events/",
+      "status": 200,
+      "final_url": "https://hammerheadcharters.com.au/events/",
+      "bytes": 49498
+    },
+    {
+      "page": "https://hammerheadcharters.com.au/reef-fishing/",
+      "status": 200,
+      "final_url": "https://hammerheadcharters.com.au/reef-fishing/",
+      "bytes": 41251
+    },
+    {
+      "page": "https://hammerheadcharters.com.au/estuary-fishing/",
+      "status": 200,
+      "final_url": "https://hammerheadcharters.com.au/estuary-fishing/",
+      "bytes": 39978
+    },
+    {
+      "page": "https://hammerheadcharters.com.au/gametournament-charter/",
+      "status": 200,
+      "final_url": "https://hammerheadcharters.com.au/gametournament-charter/",
+      "bytes": 41691
+    },
+    {
+      "page": "https://hammerheadcharters.com.au/whale-cruses/",
+      "status": 200,
+      "final_url": "https://hammerheadcharters.com.au/whale-cruses/",
+      "bytes": 41559
+    },
+    {
+      "page": "https://hammerheadcharters.com.au/private-charters/",
+      "status": 200,
+      "final_url": "https://hammerheadcharters.com.au/private-charters/",
+      "bytes": 40277
+    },
+    {
+      "image": "https://hammerheadcharters.com.au/wp-content/uploads/2019/12/estuary_fishing-225x300.jpg",
+      "error": "too small 225x300"
+    },
+    {
+      "dup": "https://hammerheadcharters.com.au/wp-content/uploads/2015/07/talia-cohen-30431-630x840.jpg"
+    },
+    {
+      "image": "https://hammerheadcharters.com.au/wp-content/uploads/2015/07/talia-cohen-30431-225x300.jpg",
+      "error": "too small 225x300"
+    },
+    {
+      "dup": "https://hammerheadcharters.com.au/wp-content/uploads/2015/03/ocean-630x840.jpg"
+    },
+    {
+      "image": "https://hammerheadcharters.com.au/wp-content/uploads/2015/03/ocean-225x300.jpg",
+      "error": "too small 225x300"
+    },
+    {
+      "dup": "https://hammerheadcharters.com.au/wp-content/uploads/2015/07/oceanarvo-630x840.jpg"
+    },
+    {
+      "image": "https://hammerheadcharters.com.au/wp-content/uploads/2015/07/oceanarvo-225x300.jpg",
+      "error": "too small 225x300"
+    },
+    {
+      "dup": "https://hammerheadcharters.com.au/wp-content/uploads/2015/03/marlin-630x840.jpg"
+    },
+    {
+      "image": "https://hammerheadcharters.com.au/wp-content/uploads/2015/03/marlin-225x300.jpg",
+      "error": "too small 225x300"
+    },
+    {
+      "image": "https://hammerheadcharters.com.au/wp-content/uploads/2018/01/25507917_2018283375079027_1198944069331820439_n.jpg",
+      "error": "too small 540x960"
+    },
+    {
+      "image": "https://hammerheadcharters.com.au/wp-content/uploads/2018/01/22815423_1994870174087014_5688189064998280941_n.jpg",
+      "error": "too small 688x387"
+    },
+    {
+      "image": "https://hammerheadcharters.com.au/wp-content/uploads/2016/12/HH.jpg",
+      "error": "too small 415x252"
+    },
+    {
+      "dup": "https://hammerheadcharters.com.au/wp-content/uploads/2016/01/IMG_0780.png"
+    }
+  ]
+}

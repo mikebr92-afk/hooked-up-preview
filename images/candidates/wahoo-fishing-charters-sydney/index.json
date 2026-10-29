@@ -1,0 +1,342 @@
+{
+  "slug": "wahoo-fishing-charters-sydney",
+  "request_hash": "e213bc55828a",
+  "collected_at": "2026-10-29T03:06:39.013Z",
+  "pages_fetched": [
+    "https://wahoocharters.com.au/",
+    "https://www.wahoocharters.info/vessels/",
+    "https://wahoocharters.com.au/fishing-charters/sports-fishing/",
+    "https://wahoocharters.com.au/fishing-charters/kingfish-charters/",
+    "https://wahoocharters.com.au/fishing-charters/",
+    "https://wahoocharters.com.au/fishing-charters/deep-sea-fishing-charters-sydney/",
+    "https://wahoocharters.com.au/fishing-charters/reef-fishing/",
+    "https://wahoocharters.com.au/fishing-charters/game-fishing/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1376,
+      "height": 768,
+      "original": "1376x768",
+      "source": "https://wahoocharters.com.au/wp-content/uploads/2026/07/wahoo-op-bg-optimized.jpg",
+      "page": "https://wahoocharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 973,
+      "height": 1217,
+      "original": "973x1217",
+      "source": "https://wahoocharters.com.au/wp-content/uploads/2026/07/george-optimized.jpg",
+      "page": "https://wahoocharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1448,
+      "height": 1086,
+      "original": "1448x1086",
+      "source": "https://wahoocharters.com.au/wp-content/uploads/2026/07/corporate-charters-optimized.png",
+      "page": "https://wahoocharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1500,
+      "height": 841,
+      "original": "1500x841",
+      "source": "https://wahoocharters.com.au/wp-content/themes/wahoo/assets/img/under-the-sea.jpg",
+      "page": "https://wahoocharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1193,
+      "height": 896,
+      "original": "1193x896",
+      "source": "https://wahoocharters.com.au/wp-content/uploads/2026/07/Vessel-On-Point-optimized.png",
+      "page": "https://wahoocharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1193,
+      "height": 896,
+      "original": "1193x896",
+      "source": "https://wahoocharters.com.au/wp-content/uploads/2026/07/Vessel-Allie-Hunter-optimized.png",
+      "page": "https://wahoocharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1920,
+      "height": 1119,
+      "original": "1920x1119",
+      "source": "https://wahoocharters.com.au/wp-content/themes/wahoo/assets/img/sydney-fishing-charters.jpg",
+      "page": "https://www.wahoocharters.info/vessels/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://wahoocharters.com.au/",
+      "status": 200,
+      "final_url": "https://wahoocharters.com.au/",
+      "bytes": 587608
+    },
+    {
+      "page": "https://www.wahoocharters.info/vessels/",
+      "status": 200,
+      "final_url": "https://www.wahoocharters.info/price-list/",
+      "bytes": 92082
+    },
+    {
+      "page": "https://wahoocharters.com.au/fishing-charters/sports-fishing/",
+      "status": 200,
+      "final_url": "https://wahoocharters.com.au/fishing-charters/sports-fishing/",
+      "bytes": 497021
+    },
+    {
+      "page": "https://wahoocharters.com.au/fishing-charters/kingfish-charters/",
+      "status": 200,
+      "final_url": "https://wahoocharters.com.au/fishing-charters/kingfish-charters/",
+      "bytes": 494169
+    },
+    {
+      "page": "https://wahoocharters.com.au/fishing-charters/",
+      "status": 200,
+      "final_url": "https://wahoocharters.com.au/fishing-charters/",
+      "bytes": 499068
+    },
+    {
+      "page": "https://wahoocharters.com.au/fishing-charters/deep-sea-fishing-charters-sydney/",
+      "status": 200,
+      "final_url": "https://wahoocharters.com.au/fishing-charters/deep-sea-fishing-charters-sydney/",
+      "bytes": 494300
+    },
+    {
+      "page": "https://wahoocharters.com.au/fishing-charters/reef-fishing/",
+      "status": 200,
+      "final_url": "https://wahoocharters.com.au/fishing-charters/reef-fishing/",
+      "bytes": 492822
+    },
+    {
+      "page": "https://wahoocharters.com.au/fishing-charters/game-fishing/",
+      "status": 200,
+      "final_url": "https://wahoocharters.com.au/fishing-charters/game-fishing/",
+      "bytes": 496381
+    },
+    {
+      "image": "https://wahoocharters.com.au/wp-content/uploads/2026/07/Wahoo-Fishing-Charters-Sydney-white-optimized.png",
+      "error": "too small 400x176"
+    },
+    {
+      "image": "https://wahoocharters.com.au/wp-content/uploads/2026/07/Wahoo-Fishing-Charters-Sydney-optimized.png",
+      "error": "too small 400x176"
+    },
+    {
+      "image": "https://wahoocharters.com.au/wp-content/uploads/2026/07/m-sunil-2-optimized.jpg",
+      "error": "too small 240x300"
+    },
+    {
+      "image": "https://wahoocharters.com.au/wp-content/uploads/2026/07/m-adam-2-optimized.jpg",
+      "error": "too small 240x300"
+    },
+    {
+      "image": "https://wahoocharters.com.au/wp-content/uploads/2026/07/m-ian-2-optimized.jpg",
+      "error": "too small 240x300"
+    },
+    {
+      "image": "https://wahoocharters.com.au/wp-content/uploads/2026/07/m-tom-2-optimized.jpg",
+      "error": "too small 240x300"
+    },
+    {
+      "image": "https://wahoocharters.com.au/wp-content/uploads/2026/07/m-michael-2-optimized.jpg",
+      "error": "too small 240x300"
+    },
+    {
+      "image": "https://wahoocharters.com.au/wp-content/uploads/2026/07/m-alex-2-optimized.jpg",
+      "error": "too small 240x300"
+    },
+    {
+      "image": "https://wahoocharters.com.au/wp-content/uploads/2026/07/m-anton-2-optimized.jpg",
+      "error": "too small 240x300"
+    },
+    {
+      "image": "https://wahoocharters.com.au/wp-content/uploads/2026/07/Deep-Sea-Charters-1-optimized.jpg",
+      "error": "too small 480x360"
+    },
+    {
+      "image": "https://wahoocharters.com.au/wp-content/uploads/2026/07/bucks-party-Charter-optimized.jpg",
+      "error": "too small 480x360"
+    },
+    {
+      "image": "https://wahoocharters.com.au/wp-content/uploads/2026/07/King-Fish-Charters-1-optimized.jpg",
+      "error": "too small 480x360"
+    },
+    {
+      "image": "https://wahoocharters.com.au/wp-content/uploads/2026/07/Jig-Fishing-Charters-optimized.jpg",
+      "error": "too small 480x360"
+    },
+    {
+      "image": "https://wahoocharters.com.au/wp-content/uploads/2026/07/Game-Fishing-Charters-optimized.webp",
+      "error": "too small 550x413"
+    },
+    {
+      "image": "https://wahoocharters.com.au/wp-content/uploads/2026/07/Reef-fishing-main-optimized.png",
+      "error": "too small 480x360"
+    },
+    {
+      "image": "https://wahoocharters.com.au/wp-content/uploads/2026/07/Sport-Fishing-Charters-optimized.jpg",
+      "error": "too small 480x360"
+    },
+    {
+      "image": "https://wahoocharters.com.au/wp-content/uploads/2026/07/Yellow-Tail-kingfish-optimized.png",
+      "error": "too small 520x151"
+    },
+    {
+      "image": "https://wahoocharters.com.au/wp-content/uploads/2026/07/Yellowfin-Tuna-NSW-optimized.png",
+      "error": "too small 338x149"
+    },
+    {
+      "image": "https://wahoocharters.com.au/wp-content/uploads/2026/07/Black-Marlin-Fish-NSW-optimized.png",
+      "error": "too small 369x136"
+    },
+    {
+      "image": "https://wahoocharters.com.au/wp-content/uploads/2026/07/Mahi-Mahi-Fish-NSW-optimized.png",
+      "error": "too small 369x137"
+    },
+    {
+      "image": "https://wahoocharters.com.au/wp-content/uploads/2026/07/Snapper-optimized.png",
+      "error": "too small 545x330"
+    },
+    {
+      "image": "https://wahoocharters.com.au/wp-content/uploads/2026/07/Bluefin-Tuna-NSW-optimized.png",
+      "error": "too small 338x149"
+    },
+    {
+      "image": "https://wahoocharters.com.au/wp-content/uploads/2026/07/Tailor-Fish-NSW-optimized.png",
+      "error": "too small 408x124"
+    },
+    {
+      "image": "https://wahoocharters.com.au/wp-content/uploads/2026/07/Australian-Bass-Fish-NSW-optimized.png",
+      "error": "too small 314x161"
+    },
+    {
+      "image": "https://wahoocharters.com.au/wp-content/uploads/2025/10/ChIJg7lmtAOYEmsRtTnpwEs7YeE_fc603a9060878e35ee9b7eb5df603a8c-optimized.jpg",
+      "error": "too small 120x120"
+    },
+    {
+      "image": "https://wahoocharters.com.au/wp-content/uploads/2025/10/ChIJg7lmtAOYEmsRtTnpwEs7YeE_1a5bae70ebf5181c77387473ca8db0c8-optimized.jpg",
+      "error": "too small 120x120"
+    },
+    {
+      "image": "https://wahoocharters.com.au/wp-content/uploads/2025/10/ChIJg7lmtAOYEmsRtTnpwEs7YeE_1771984b2d67ec203f996b2b458effe2-optimized.jpg",
+      "error": "too small 120x120"
+    },
+    {
+      "image": "https://wahoocharters.com.au/wp-content/uploads/2025/10/ChIJg7lmtAOYEmsRtTnpwEs7YeE_94d5dbc298ba5b480ff5f2e507261a4a-optimized.jpg",
+      "error": "too small 120x120"
+    },
+    {
+      "image": "https://wahoocharters.com.au/wp-content/uploads/2025/10/ChIJg7lmtAOYEmsRtTnpwEs7YeE_403d5a5c22996024b3962a91a263a6f1-optimized.jpg",
+      "error": "too small 120x120"
+    },
+    {
+      "image": "https://wahoocharters.com.au/wp-content/uploads/2025/10/ChIJg7lmtAOYEmsRtTnpwEs7YeE_0bd261431177a2b56a2d19770770b22c-optimized.jpg",
+      "error": "too small 120x120"
+    },
+    {
+      "image": "https://wahoocharters.com.au/wp-content/uploads/2025/10/ChIJg7lmtAOYEmsRtTnpwEs7YeE_033d16d75c0c4120f5dd7e51883612fa-optimized.jpg",
+      "error": "too small 120x120"
+    },
+    {
+      "image": "https://wahoocharters.com.au/wp-content/uploads/2025/10/ChIJg7lmtAOYEmsRtTnpwEs7YeE_6de10511878a68d62ae93c907e7cfbfc-optimized.jpg",
+      "error": "too small 120x120"
+    },
+    {
+      "image": "https://wahoocharters.com.au/wp-content/uploads/2025/10/ChIJg7lmtAOYEmsRtTnpwEs7YeE_d27f72a89ecb6b8336918d71f1bab212-optimized.jpg",
+      "error": "too small 120x120"
+    },
+    {
+      "image": "https://wahoocharters.com.au/wp-content/uploads/2025/10/ChIJg7lmtAOYEmsRtTnpwEs7YeE_dfefd22be3bf90b8499d46c058892412-optimized.jpg",
+      "error": "too small 120x120"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a-/ALV-UjXQFyGKHT2zCkIOl2l4Igv2vgueKBtQuKvRxMJgIrYQ965KDVw=s128-c0x00000000-cc-rp-mo",
+      "error": "too small 128x128"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a-/ALV-UjXg17WJxKJvxvI08LR0dfmttc30zzSLa5RaNoFERvd4YagcsKYx=s128-c0x00000000-cc-rp-mo",
+      "error": "too small 128x128"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocK9XoC0WrW53uCX_cZXvj55xdw46S41GETtLJq9MLNn72JY8Q=s128-c0x00000000-cc-rp-mo-ba2",
+      "error": "too small 128x128"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocKsq29wwdDRL-5oa_7EJDoslvGC1KC0duNeOeu42tgWJyWesg=s128-c0x00000000-cc-rp-mo",
+      "error": "too small 128x128"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocKASPDEA6gqrDONsDWkXzslueNOtTLZP0sRCNE1i0_CCt-hNQ=s128-c0x00000000-cc-rp-mo",
+      "error": "too small 128x128"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a-/ALV-UjVAd1j69ibj8DAgRZ-u4RO9DC9wR79U6DH9H4ftYTon_hlDr2E=s128-c0x00000000-cc-rp-mo",
+      "error": "too small 128x128"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a-/ALV-UjUSfSqcNuP19QR4AOf4iHMVtqNTf4LOpArczUFMOuImk7Tl5YWt=s128-c0x00000000-cc-rp-mo",
+      "error": "too small 128x128"
+    },
+    {
+      "image": "https://wahoocharters.com.au/wp-content/uploads/2023/05/ChIJg7lmtAOYEmsRtTnpwEs7YeE_f04fdde1dc3d5eae4a2be95dcf84246b-optimized.jpg",
+      "error": "too small 128x128"
+    },
+    {
+      "image": "https://wahoocharters.com.au/wp-content/uploads/2023/05/ChIJg7lmtAOYEmsRtTnpwEs7YeE_cfb1fbd69995535b04ad9c2316eeaf85-optimized.jpg",
+      "error": "too small 128x128"
+    },
+    {
+      "image": "https://wahoocharters.com.au/wp-content/uploads/2023/05/ChIJg7lmtAOYEmsRtTnpwEs7YeE_cf6fdf3c2efb636ec17c16727bd5cf96-optimized.jpg",
+      "error": "too small 128x128"
+    },
+    {
+      "image": "https://wahoocharters.com.au/wp-content/themes/wahoo/assets/img/Wahoo-Fishing-Charters-Sydney-white.png",
+      "error": "too small 400x176"
+    },
+    {
+      "image": "https://wahoocharters.com.au/wp-content/themes/wahoo/assets/img/Wahoo-Fishing-Charters-Sydney.png",
+      "error": "too small 400x176"
+    },
+    {
+      "image": "https://wahoocharters.com.au/wp-content/plugins/widget-google-reviews/assets/img/guest.png",
+      "error": "too small 128x128"
+    },
+    {
+      "image": "https://wahoocharters.com.au/wp-content/uploads/2026/07/bonito-optimized.jpg",
+      "error": "too small 520x214"
+    },
+    {
+      "image": "https://wahoocharters.com.au/wp-content/uploads/2026/07/australian-salmon-optimized.jpg",
+      "error": "too small 520x189"
+    },
+    {
+      "image": "https://wahoocharters.com.au/wp-content/uploads/2026/07/blue-eye-cod-optimized.jpg",
+      "error": "too small 520x255"
+    },
+    {
+      "image": "https://wahoocharters.com.au/wp-content/uploads/2026/07/harpuka-optimized.jpg",
+      "error": "too small 520x199"
+    },
+    {
+      "image": "https://wahoocharters.com.au/wp-content/uploads/2026/07/Silver-Trevally-Fish-NSW-optimized.jpg",
+      "error": "too small 304x166"
+    },
+    {
+      "image": "https://wahoocharters.com.au/wp-content/uploads/2026/07/Morwong-Jackass-Fish-NSW-optimized.jpg",
+      "error": "too small 334x151"
+    }
+  ]
+}

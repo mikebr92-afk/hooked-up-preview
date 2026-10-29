@@ -1,0 +1,566 @@
+{
+  "slug": "sydney-charter-fishing-manly",
+  "request_hash": "85cab2659522",
+  "collected_at": "2026-10-29T03:11:39.085Z",
+  "pages_fetched": [
+    "https://sydneycharterfishing.com.au/",
+    "https://sydneycharterfishing.com.au/about/",
+    "https://sydneycharterfishing.com.au/charters/",
+    "https://sydneycharterfishing.com.au/charters",
+    "https://sydneycharterfishing.com.au/about",
+    "https://sydneycharterfishing.com.au/gallery",
+    "https://sydneycharterfishing.com.au/boat-info",
+    "https://sydneycharterfishing.com.au/pickup-locations"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 635,
+      "height": 766,
+      "original": "635x766",
+      "source": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-new.png",
+      "page": "https://sydneycharterfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 2000,
+      "height": 1123,
+      "original": "2000x1123",
+      "source": "https://sydneycharterfishing.com.au/wp-content/uploads/2026/01/sydney-charter-fishing-video-fishing.jpg",
+      "page": "https://sydneycharterfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 2000,
+      "height": 1123,
+      "original": "2000x1123",
+      "source": "https://sydneycharterfishing.com.au/wp-content/uploads/2026/01/sydney-charter-fishing-video-hire.jpg",
+      "page": "https://sydneycharterfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1067,
+      "height": 933,
+      "original": "1067x933",
+      "source": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-why-choose-1.jpg",
+      "page": "https://sydneycharterfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1067,
+      "height": 933,
+      "original": "1067x933",
+      "source": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-why-choose-3.jpg",
+      "page": "https://sydneycharterfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1067,
+      "height": 933,
+      "original": "1067x933",
+      "source": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-harbour-1.jpg",
+      "page": "https://sydneycharterfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1067,
+      "height": 933,
+      "original": "1067x933",
+      "source": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-harbour-2.jpg",
+      "page": "https://sydneycharterfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1067,
+      "height": 933,
+      "original": "1067x933",
+      "source": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-harbour-3.jpg",
+      "page": "https://sydneycharterfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1067,
+      "height": 933,
+      "original": "1067x933",
+      "source": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-deep-sea-1.jpg",
+      "page": "https://sydneycharterfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1067,
+      "height": 933,
+      "original": "1067x933",
+      "source": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-deep-sea-2.jpg",
+      "page": "https://sydneycharterfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1067,
+      "height": 933,
+      "original": "1067x933",
+      "source": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-deep-sea-3.jpg",
+      "page": "https://sydneycharterfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 2000,
+      "height": 1350,
+      "original": "2560x1728",
+      "source": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-01-scaled.jpg",
+      "page": "https://sydneycharterfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 2000,
+      "height": 1200,
+      "original": "2560x1536",
+      "source": "https://sydneycharterfishing.com.au/wp-content/uploads/2026/01/sydney-charter-fishing-catch-cook-scaled.jpg",
+      "page": "https://sydneycharterfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1033,
+      "height": 1127,
+      "original": "1033x1127",
+      "source": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-02.jpg",
+      "page": "https://sydneycharterfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 2000,
+      "height": 1200,
+      "original": "2560x1536",
+      "source": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-03-paralx-scaled.jpg",
+      "page": "https://sydneycharterfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 2000,
+      "height": 1200,
+      "original": "2560x1536",
+      "source": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-04-paralx-scaled.jpg",
+      "page": "https://sydneycharterfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c17.webp",
+      "width": 1067,
+      "height": 933,
+      "original": "1067x933",
+      "source": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-about-1about.jpg",
+      "page": "https://sydneycharterfishing.com.au/about/",
+      "priority": false
+    },
+    {
+      "file": "c18.webp",
+      "width": 1067,
+      "height": 933,
+      "original": "1067x933",
+      "source": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-about-2offers.jpg",
+      "page": "https://sydneycharterfishing.com.au/about/",
+      "priority": false
+    },
+    {
+      "file": "c19.webp",
+      "width": 1128,
+      "height": 1504,
+      "original": "1128x1504",
+      "source": "https://sydneycharterfishing.com.au/wp-content/uploads/2026/07/2E9E63B3-5C81-49D3-B36B-BE5F33C45F81.jpeg",
+      "page": "https://sydneycharterfishing.com.au/charters/",
+      "priority": false
+    },
+    {
+      "file": "c20.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "4032x3024",
+      "source": "https://sydneycharterfishing.com.au/wp-content/uploads/2026/07/IMG_7498.jpeg",
+      "page": "https://sydneycharterfishing.com.au/charters/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://sydneycharterfishing.com.au/",
+      "status": 200,
+      "final_url": "https://sydneycharterfishing.com.au/",
+      "bytes": 203744
+    },
+    {
+      "page": "https://sydneycharterfishing.com.au/about/",
+      "status": 200,
+      "final_url": "https://sydneycharterfishing.com.au/about/",
+      "bytes": 123781
+    },
+    {
+      "page": "https://sydneycharterfishing.com.au/charters/",
+      "status": 200,
+      "final_url": "https://sydneycharterfishing.com.au/charters/",
+      "bytes": 143115
+    },
+    {
+      "page": "https://sydneycharterfishing.com.au/charters",
+      "status": 200,
+      "final_url": "https://sydneycharterfishing.com.au/charters/",
+      "bytes": 143115
+    },
+    {
+      "page": "https://sydneycharterfishing.com.au/about",
+      "status": 200,
+      "final_url": "https://sydneycharterfishing.com.au/about/",
+      "bytes": 123781
+    },
+    {
+      "page": "https://sydneycharterfishing.com.au/gallery",
+      "status": 200,
+      "final_url": "https://sydneycharterfishing.com.au/gallery/",
+      "bytes": 137262
+    },
+    {
+      "page": "https://sydneycharterfishing.com.au/boat-info",
+      "status": 200,
+      "final_url": "https://sydneycharterfishing.com.au/boat-info/",
+      "bytes": 122023
+    },
+    {
+      "page": "https://sydneycharterfishing.com.au/pickup-locations",
+      "status": 200,
+      "final_url": "https://sydneycharterfishing.com.au/pickup-locations/",
+      "bytes": 144693
+    },
+    {
+      "image": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/no-licence-white.png",
+      "error": "too small 512x512"
+    },
+    {
+      "image": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/reel-white.png",
+      "error": "too small 512x512"
+    },
+    {
+      "image": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/vessels-white.png",
+      "error": "too small 512x512"
+    },
+    {
+      "image": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/all-weather-white.png",
+      "error": "too small 512x512"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a-/ALV-UjWfmIS-KpHkHbCwaSnGwhAHMBsRNzyxcLye9Q1mQLe1w7VajsRZ=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocLQLL2S73ru_pXBCYE8DftzWVxUfu32CYIsHmMj_ITyHnF60g=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a-/ALV-UjWBtND_vmawfOc0J7M6QUfggvoEXPL77RCHwuPpeFfLC1QbPw6O=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a-/ALV-UjUT8UmJ8dCkuqDf-m_aTNeA9POaRKH_11rpKYxgRrYPNoZ5QIYM=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocKLbJpPDLbkxC8Mvzq9q2TfLcbFpYpDk1KiE_YsWietj2Uvvg=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a-/ALV-UjUlvmMZ8SvCaAPWNQhTC5RLESxZChvSzZDCFuos3ZDKo1TGjBI=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocJwHYX6K4HzKsbot-XaaQH7ko3Y2aoEc8sB2Qhj9YPayENGJQ=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocLNxfwyOYoetLVefUb8cjDWLGnJdfSGxHVVok1mybXv3yGgqg=w40-h40-c-rp-mo-ba12-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocJPfua0wIYfpygE_So1FVWjg0-YzdPE7hZSJkDXxWSDuOpwwQ=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a-/ALV-UjWfmIS-KpHkHbCwaSnGwhAHMBsRNzyxcLye9Q1mQLe1w7VajsRZ=w80-h80-c-rp-mo-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocLQLL2S73ru_pXBCYE8DftzWVxUfu32CYIsHmMj_ITyHnF60g=w80-h80-c-rp-mo-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a-/ALV-UjWBtND_vmawfOc0J7M6QUfggvoEXPL77RCHwuPpeFfLC1QbPw6O=w80-h80-c-rp-mo-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a-/ALV-UjUT8UmJ8dCkuqDf-m_aTNeA9POaRKH_11rpKYxgRrYPNoZ5QIYM=w80-h80-c-rp-mo-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocKLbJpPDLbkxC8Mvzq9q2TfLcbFpYpDk1KiE_YsWietj2Uvvg=w80-h80-c-rp-mo-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a-/ALV-UjUlvmMZ8SvCaAPWNQhTC5RLESxZChvSzZDCFuos3ZDKo1TGjBI=w80-h80-c-rp-mo-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocJwHYX6K4HzKsbot-XaaQH7ko3Y2aoEc8sB2Qhj9YPayENGJQ=w80-h80-c-rp-mo-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocLNxfwyOYoetLVefUb8cjDWLGnJdfSGxHVVok1mybXv3yGgqg=w80-h80-c-rp-mo-ba12-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocJPfua0wIYfpygE_So1FVWjg0-YzdPE7hZSJkDXxWSDuOpwwQ=w80-h80-c-rp-mo-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://sydneycharterfishing.com.au/&quot;https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-header-scaled.jpg&quot;",
+      "error": "HTTP 403"
+    },
+    {
+      "image": "https://sydneycharterfishing.com.au/&quot;https://sydneycharterfishing.com.au/wp-content/uploads/2026/01/sydney-charter-fishing-catch-cook-scaled.jpg&quot;",
+      "error": "HTTP 403"
+    },
+    {
+      "image": "https://sydneycharterfishing.com.au/&quot;https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-03-paralx-scaled.jpg&quot;",
+      "error": "HTTP 403"
+    },
+    {
+      "image": "https://sydneycharterfishing.com.au/&quot;https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-04-paralx-scaled.jpg&quot;",
+      "error": "HTTP 403"
+    },
+    {
+      "image": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-header-scaled.jpg",
+      "error": "too small 2560x370"
+    },
+    {
+      "image": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-new-200x241.png",
+      "error": "too small 200x241"
+    },
+    {
+      "image": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-new-400x483.png",
+      "error": "too small 400x483"
+    },
+    {
+      "dup": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-new-600x724.png"
+    },
+    {
+      "dup": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-02-939x1024.jpg"
+    },
+    {
+      "image": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/no-licence-white-200x200.png",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/no-licence-white-400x400.png",
+      "error": "too small 400x400"
+    },
+    {
+      "image": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/reel-white-200x200.png",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/reel-white-400x400.png",
+      "error": "too small 400x400"
+    },
+    {
+      "image": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/vessels-white-200x200.png",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/vessels-white-400x400.png",
+      "error": "too small 400x400"
+    },
+    {
+      "image": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/all-weather-white-200x200.png",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/all-weather-white-400x400.png",
+      "error": "too small 400x400"
+    },
+    {
+      "image": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-why-choose-1-200x175.jpg",
+      "error": "too small 200x175"
+    },
+    {
+      "image": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-why-choose-1-400x350.jpg",
+      "error": "too small 400x350"
+    },
+    {
+      "dup": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-why-choose-1-600x525.jpg"
+    },
+    {
+      "dup": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-why-choose-1-800x700.jpg"
+    },
+    {
+      "image": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-why-choose-3-200x175.jpg",
+      "error": "too small 200x175"
+    },
+    {
+      "image": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-why-choose-3-400x350.jpg",
+      "error": "too small 400x350"
+    },
+    {
+      "dup": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-why-choose-3-600x525.jpg"
+    },
+    {
+      "dup": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-why-choose-3-800x700.jpg"
+    },
+    {
+      "image": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-harbour-1-200x175.jpg",
+      "error": "too small 200x175"
+    },
+    {
+      "image": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-harbour-1-400x350.jpg",
+      "error": "too small 400x350"
+    },
+    {
+      "dup": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-harbour-1-600x525.jpg"
+    },
+    {
+      "dup": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-harbour-1-800x700.jpg"
+    },
+    {
+      "image": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-harbour-2-200x175.jpg",
+      "error": "too small 200x175"
+    },
+    {
+      "image": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-harbour-2-400x350.jpg",
+      "error": "too small 400x350"
+    },
+    {
+      "dup": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-harbour-2-600x525.jpg"
+    },
+    {
+      "dup": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-harbour-2-800x700.jpg"
+    },
+    {
+      "image": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-harbour-3-200x175.jpg",
+      "error": "too small 200x175"
+    },
+    {
+      "image": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-harbour-3-400x350.jpg",
+      "error": "too small 400x350"
+    },
+    {
+      "dup": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-harbour-3-600x525.jpg"
+    },
+    {
+      "dup": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-harbour-3-800x700.jpg"
+    },
+    {
+      "image": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-deep-sea-1-200x175.jpg",
+      "error": "too small 200x175"
+    },
+    {
+      "image": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-deep-sea-1-400x350.jpg",
+      "error": "too small 400x350"
+    },
+    {
+      "dup": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-deep-sea-1-600x525.jpg"
+    },
+    {
+      "dup": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-deep-sea-1-800x700.jpg"
+    },
+    {
+      "image": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-deep-sea-2-200x175.jpg",
+      "error": "too small 200x175"
+    },
+    {
+      "image": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-deep-sea-2-400x350.jpg",
+      "error": "too small 400x350"
+    },
+    {
+      "dup": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-deep-sea-2-600x525.jpg"
+    },
+    {
+      "dup": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-deep-sea-2-800x700.jpg"
+    },
+    {
+      "image": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-deep-sea-3-200x175.jpg",
+      "error": "too small 200x175"
+    },
+    {
+      "image": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-deep-sea-3-400x350.jpg",
+      "error": "too small 400x350"
+    },
+    {
+      "dup": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-deep-sea-3-600x525.jpg"
+    },
+    {
+      "dup": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-deep-sea-3-800x700.jpg"
+    },
+    {
+      "dup": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-about-3vessel.jpg"
+    },
+    {
+      "image": "https://sydneycharterfishing.com.au/about/&quot;https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-header-scaled.jpg&quot;",
+      "error": "HTTP 403"
+    },
+    {
+      "image": "https://sydneycharterfishing.com.au/about/&quot;https://sydneycharterfishing.com.au/wp-content/uploads/2026/01/sydney-charter-fishing-catch-cook-scaled.jpg&quot;",
+      "error": "HTTP 403"
+    },
+    {
+      "image": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-about-1about-200x175.jpg",
+      "error": "too small 200x175"
+    },
+    {
+      "image": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-about-1about-400x350.jpg",
+      "error": "too small 400x350"
+    },
+    {
+      "dup": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-about-1about-600x525.jpg"
+    },
+    {
+      "dup": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-about-1about-800x700.jpg"
+    },
+    {
+      "image": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-about-2offers-200x175.jpg",
+      "error": "too small 200x175"
+    },
+    {
+      "image": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-about-2offers-400x350.jpg",
+      "error": "too small 400x350"
+    },
+    {
+      "dup": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-about-2offers-600x525.jpg"
+    },
+    {
+      "dup": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-about-2offers-800x700.jpg"
+    },
+    {
+      "image": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-about-3vessel-200x175.jpg",
+      "error": "too small 200x175"
+    },
+    {
+      "image": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-about-3vessel-400x350.jpg",
+      "error": "too small 400x350"
+    },
+    {
+      "dup": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-about-3vessel-600x525.jpg"
+    },
+    {
+      "dup": "https://sydneycharterfishing.com.au/wp-content/uploads/2025/11/sydney-charter-fishing-about-3vessel-800x700.jpg"
+    }
+  ]
+}

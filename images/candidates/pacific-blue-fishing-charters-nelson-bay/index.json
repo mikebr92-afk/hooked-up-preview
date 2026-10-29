@@ -1,0 +1,314 @@
+{
+  "slug": "pacific-blue-fishing-charters-nelson-bay",
+  "request_hash": "eefb67e29bf9",
+  "collected_at": "2026-10-29T03:09:12.099Z",
+  "pages_fetched": [
+    "http://pacificbluecharters.com.au/",
+    "http://pacificbluecharters.com.au/contact/",
+    "https://pacificbluecharters.com.au/",
+    "https://pacificbluecharters.com.au/services/",
+    "https://pacificbluecharters.com.au/contact/",
+    "https://pacificbluecharters.com.au/accommodation/",
+    "https://pacificbluecharters.com.au/accommodation-2/",
+    "https://pacificbluecharters.com.au/about/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1024,
+      "height": 768,
+      "original": "1024x768",
+      "source": "https://pacificbluecharters.com.au/wp-content/uploads/2026/04/069.jpg",
+      "page": "http://pacificbluecharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 1200,
+      "height": 900,
+      "original": "1200x900",
+      "source": "https://pacificbluecharters.com.au/wp-content/uploads/2026/04/dr-hook.jpg",
+      "page": "http://pacificbluecharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1080,
+      "height": 720,
+      "original": "1080x720",
+      "source": "https://pacificbluecharters.com.au/wp-content/uploads/2026/04/400.jpg",
+      "page": "http://pacificbluecharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1024,
+      "height": 768,
+      "original": "1024x768",
+      "source": "https://pacificbluecharters.com.au/wp-content/uploads/2026/04/393.jpg",
+      "page": "http://pacificbluecharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1024,
+      "height": 768,
+      "original": "1024x768",
+      "source": "https://pacificbluecharters.com.au/wp-content/uploads/2026/04/394.jpg",
+      "page": "http://pacificbluecharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 2000,
+      "height": 2000,
+      "original": "2048x2048",
+      "source": "https://pacificbluecharters.com.au/wp-content/uploads/2026/04/401.jpg",
+      "page": "http://pacificbluecharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1536x2048",
+      "source": "https://pacificbluecharters.com.au/wp-content/uploads/2026/04/396.jpg",
+      "page": "http://pacificbluecharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 912,
+      "height": 608,
+      "original": "912x608",
+      "source": "https://pacificbluecharters.com.au/wp-content/uploads/2026/04/pb6.jpg",
+      "page": "http://pacificbluecharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 2000,
+      "height": 2000,
+      "original": "2048x2048",
+      "source": "https://pacificbluecharters.com.au/wp-content/uploads/2026/04/403.jpg",
+      "page": "https://pacificbluecharters.com.au/services/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2592x1944",
+      "source": "https://pacificbluecharters.com.au/wp-content/uploads/2026/04/Fishing-27.12.08-014.jpg",
+      "page": "https://pacificbluecharters.com.au/services/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 810,
+      "height": 1080,
+      "original": "810x1080",
+      "source": "https://pacificbluecharters.com.au/wp-content/uploads/2026/04/388.jpg",
+      "page": "https://pacificbluecharters.com.au/services/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 644,
+      "height": 625,
+      "original": "644x625",
+      "source": "https://pacificbluecharters.com.au/wp-content/uploads/2026/04/chrome_keekTDpqhH.png",
+      "page": "https://pacificbluecharters.com.au/accommodation/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 726,
+      "height": 485,
+      "original": "726x485",
+      "source": "https://pacificbluecharters.com.au/wp-content/uploads/2026/04/chrome_jAsg7x6CsO.png",
+      "page": "https://pacificbluecharters.com.au/accommodation/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 720,
+      "height": 480,
+      "original": "720x480",
+      "source": "https://pacificbluecharters.com.au/wp-content/uploads/2026/04/19444764-cdab-4f05-83a9-a0d6715e3688.avif",
+      "page": "https://pacificbluecharters.com.au/accommodation/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 720,
+      "height": 480,
+      "original": "720x480",
+      "source": "https://pacificbluecharters.com.au/wp-content/uploads/2026/04/243fef93-6ccc-41ba-9752-e5153281f043.avif",
+      "page": "https://pacificbluecharters.com.au/accommodation/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 720,
+      "height": 480,
+      "original": "720x480",
+      "source": "https://pacificbluecharters.com.au/wp-content/uploads/2026/04/5f71ce20-651a-4e0b-b3a6-77f27bf36d84.avif",
+      "page": "https://pacificbluecharters.com.au/accommodation/",
+      "priority": false
+    },
+    {
+      "file": "c17.webp",
+      "width": 720,
+      "height": 480,
+      "original": "720x480",
+      "source": "https://pacificbluecharters.com.au/wp-content/uploads/2026/04/4e0496a8-2ff8-444d-a1ee-8b52208a0dea.avif",
+      "page": "https://pacificbluecharters.com.au/accommodation/",
+      "priority": false
+    },
+    {
+      "file": "c18.webp",
+      "width": 720,
+      "height": 480,
+      "original": "720x480",
+      "source": "https://pacificbluecharters.com.au/wp-content/uploads/2026/04/cea184be-ceb1-428f-bb33-e942f337779d.avif",
+      "page": "https://pacificbluecharters.com.au/accommodation/",
+      "priority": false
+    },
+    {
+      "file": "c19.webp",
+      "width": 720,
+      "height": 480,
+      "original": "720x480",
+      "source": "https://pacificbluecharters.com.au/wp-content/uploads/2026/04/d2293d65-088a-4f06-83c4-422ea2d5e20a.avif",
+      "page": "https://pacificbluecharters.com.au/accommodation/",
+      "priority": false
+    },
+    {
+      "file": "c20.webp",
+      "width": 720,
+      "height": 480,
+      "original": "720x480",
+      "source": "https://pacificbluecharters.com.au/wp-content/uploads/2026/04/86cedc7e-84f7-471b-9ed8-bd3c7a1b466a.avif",
+      "page": "https://pacificbluecharters.com.au/accommodation/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "http://pacificbluecharters.com.au/",
+      "status": 200,
+      "final_url": "https://pacificbluecharters.com.au/",
+      "bytes": 130566
+    },
+    {
+      "page": "http://pacificbluecharters.com.au/contact/",
+      "status": 200,
+      "final_url": "http://pacificbluecharters.com.au/contact/",
+      "bytes": 130216
+    },
+    {
+      "page": "https://pacificbluecharters.com.au/",
+      "status": 200,
+      "final_url": "https://pacificbluecharters.com.au/",
+      "bytes": 130566
+    },
+    {
+      "page": "https://pacificbluecharters.com.au/services/",
+      "status": 200,
+      "final_url": "https://pacificbluecharters.com.au/services/",
+      "bytes": 125488
+    },
+    {
+      "page": "https://pacificbluecharters.com.au/contact/",
+      "status": 200,
+      "final_url": "https://pacificbluecharters.com.au/contact/",
+      "bytes": 130242
+    },
+    {
+      "page": "https://pacificbluecharters.com.au/accommodation/",
+      "status": 200,
+      "final_url": "https://pacificbluecharters.com.au/accommodation/",
+      "bytes": 139996
+    },
+    {
+      "page": "https://pacificbluecharters.com.au/accommodation-2/",
+      "status": 200,
+      "final_url": "https://pacificbluecharters.com.au/accommodation-2/",
+      "bytes": 124981
+    },
+    {
+      "page": "https://pacificbluecharters.com.au/about/",
+      "status": 404,
+      "final_url": "https://pacificbluecharters.com.au/about/",
+      "bytes": 140564
+    },
+    {
+      "dup": "https://pacificbluecharters.com.au/wp-content/uploads/2026/04/IMG_00000086.jpg"
+    },
+    {
+      "image": "https://pacificbluecharters.com.au/wp-content/uploads/2024/07/footer-cta.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://pacificbluecharters.com.au/wp-content/plugins/photo-gallery/images/ajax_loader.png",
+      "error": "too small 64x64"
+    },
+    {
+      "dup": "https://pacificbluecharters.com.au/wp-content/uploads/2026/04/dr-hook-1024x768.jpg"
+    },
+    {
+      "dup": "https://pacificbluecharters.com.au/wp-content/uploads/2026/04/400-1024x683.jpg"
+    },
+    {
+      "dup": "https://pacificbluecharters.com.au/wp-content/uploads/2026/04/401-1024x1024.jpg"
+    },
+    {
+      "dup": "https://pacificbluecharters.com.au/wp-content/uploads/2026/04/IMG_00000086-1024x1024.jpg"
+    },
+    {
+      "dup": "http://pacificbluecharters.com.au/wp-content/uploads/2026/04/400.jpg"
+    },
+    {
+      "image": "http://pacificbluecharters.com.au/wp-content/plugins/photo-gallery/images/ajax_loader.png",
+      "error": "too small 64x64"
+    },
+    {
+      "dup": "http://pacificbluecharters.com.au/wp-content/uploads/2026/04/400-1024x683.jpg"
+    },
+    {
+      "dup": "https://pacificbluecharters.com.au/wp-content/uploads/2026/04/403-1024x1024.jpg"
+    },
+    {
+      "dup": "https://pacificbluecharters.com.au/wp-content/uploads/2026/04/Fishing-27.12.08-014-1024x768.jpg"
+    },
+    {
+      "image": "https://pacificbluecharters.com.au/wp-content/uploads/2026/04/19444764-cdab-4f05-83a9-a0d6715e3688-300x200.avif",
+      "error": "too small 300x200"
+    },
+    {
+      "image": "https://pacificbluecharters.com.au/wp-content/uploads/2026/04/243fef93-6ccc-41ba-9752-e5153281f043-300x200.avif",
+      "error": "too small 300x200"
+    },
+    {
+      "image": "https://pacificbluecharters.com.au/wp-content/uploads/2026/04/5f71ce20-651a-4e0b-b3a6-77f27bf36d84-300x200.avif",
+      "error": "too small 300x200"
+    },
+    {
+      "image": "https://pacificbluecharters.com.au/wp-content/uploads/2026/04/4e0496a8-2ff8-444d-a1ee-8b52208a0dea-300x200.avif",
+      "error": "too small 300x200"
+    },
+    {
+      "image": "https://pacificbluecharters.com.au/wp-content/uploads/2026/04/cea184be-ceb1-428f-bb33-e942f337779d-300x200.avif",
+      "error": "too small 300x200"
+    },
+    {
+      "image": "https://pacificbluecharters.com.au/wp-content/uploads/2026/04/d2293d65-088a-4f06-83c4-422ea2d5e20a-300x200.avif",
+      "error": "too small 300x200"
+    },
+    {
+      "image": "https://pacificbluecharters.com.au/wp-content/uploads/2026/04/86cedc7e-84f7-471b-9ed8-bd3c7a1b466a-300x200.avif",
+      "error": "too small 300x200"
+    }
+  ]
+}

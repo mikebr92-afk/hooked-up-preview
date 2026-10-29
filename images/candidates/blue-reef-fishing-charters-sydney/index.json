@@ -1,0 +1,162 @@
+{
+  "slug": "blue-reef-fishing-charters-sydney",
+  "request_hash": "58f3455e31a3",
+  "collected_at": "2026-10-29T03:06:48.647Z",
+  "pages_fetched": [
+    "https://www.bluereefcharters.info/",
+    "https://www.bluereefcharters.info/general-boat-info.html",
+    "https://www.bluereefcharters.info/about-us.html",
+    "https://www.bluereefcharters.info/fishing-charters/reef-fishing-trips.html",
+    "https://www.bluereefcharters.info/fishing-charters.html",
+    "https://www.bluereefcharters.info/gallery.html",
+    "https://www.bluereefcharters.info/boat-info.html",
+    "https://www.bluereefcharters.info/pickup-locations.html"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1920,
+      "height": 700,
+      "original": "1920x700",
+      "source": "https://www.bluereefcharters.info/templates/images/static/slider.jpg",
+      "page": "https://www.bluereefcharters.info/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 782,
+      "height": 508,
+      "original": "782x508",
+      "source": "https://www.bluereefcharters.info/images/virtuemart/category/img-home.jpg",
+      "page": "https://www.bluereefcharters.info/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 800,
+      "height": 536,
+      "original": "800x536",
+      "source": "https://www.bluereefcharters.info/images/virtuemart/category/Photo%2015.jpg",
+      "page": "https://www.bluereefcharters.info/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1600,
+      "height": 1067,
+      "original": "1600x1067",
+      "source": "https://www.bluereefcharters.info/images/virtuemart/category/balmain.jpg",
+      "page": "https://www.bluereefcharters.info/pickup-locations.html",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 800,
+      "height": 600,
+      "original": "800x600",
+      "source": "https://www.bluereefcharters.info/images/virtuemart/category/mosman-bay.jpg",
+      "page": "https://www.bluereefcharters.info/pickup-locations.html",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 800,
+      "height": 600,
+      "original": "800x600",
+      "source": "https://www.bluereefcharters.info/images/virtuemart/category/Casino-Wharf5.jpg",
+      "page": "https://www.bluereefcharters.info/pickup-locations.html",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 800,
+      "height": 600,
+      "original": "800x600",
+      "source": "https://www.bluereefcharters.info/images/virtuemart/category/rose-bay.jpg",
+      "page": "https://www.bluereefcharters.info/pickup-locations.html",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.bluereefcharters.info/",
+      "status": 200,
+      "final_url": "https://www.bluereefcharters.info/",
+      "bytes": 63940
+    },
+    {
+      "page": "https://www.bluereefcharters.info/general-boat-info.html",
+      "status": 200,
+      "final_url": "https://www.bluereefcharters.info/general-boat-info.html",
+      "bytes": 34193
+    },
+    {
+      "page": "https://www.bluereefcharters.info/about-us.html",
+      "status": 200,
+      "final_url": "https://www.bluereefcharters.info/about-us.html",
+      "bytes": 31903
+    },
+    {
+      "page": "https://www.bluereefcharters.info/fishing-charters/reef-fishing-trips.html",
+      "status": 200,
+      "final_url": "https://www.bluereefcharters.info/fishing-charters/reef-fishing-trips.html",
+      "bytes": 35394
+    },
+    {
+      "page": "https://www.bluereefcharters.info/fishing-charters.html",
+      "status": 200,
+      "final_url": "https://www.bluereefcharters.info/fishing-charters.html",
+      "bytes": 40969
+    },
+    {
+      "page": "https://www.bluereefcharters.info/gallery.html",
+      "status": 200,
+      "final_url": "https://www.bluereefcharters.info/gallery.html",
+      "bytes": 55992
+    },
+    {
+      "page": "https://www.bluereefcharters.info/boat-info.html",
+      "status": 200,
+      "final_url": "https://www.bluereefcharters.info/boat-info.html",
+      "bytes": 34181
+    },
+    {
+      "page": "https://www.bluereefcharters.info/pickup-locations.html",
+      "status": 200,
+      "final_url": "https://www.bluereefcharters.info/pickup-locations.html",
+      "bytes": 34963
+    },
+    {
+      "image": "https://www.bluereefcharters.info/images/blue-reef-charters.png",
+      "error": "too small 540x540"
+    },
+    {
+      "image": "https://www.bluereefcharters.info/templates/images/static/customer-catches.png",
+      "error": "too small 1440x290"
+    },
+    {
+      "image": "https://www.bluereefcharters.info/templates/images/static/blue-reef-charters.png",
+      "error": "too small 540x540"
+    },
+    {
+      "image": "https://www.bluereefcharters.info/templates/images/static/25.png",
+      "error": "too small 512x512"
+    },
+    {
+      "image": "https://www.bluereefcharters.info/templates/images/static/fishing-rods.png",
+      "error": "too small 512x512"
+    },
+    {
+      "image": "https://www.bluereefcharters.info/templates/images/static/boat.png",
+      "error": "too small 512x512"
+    },
+    {
+      "image": "https://www.bluereefcharters.info/templates/images/static/7-days.png",
+      "error": "too small 512x512"
+    },
+    {
+      "image": "https://www.bluereefcharters.info/.jpg",
+      "error": "HTTP 404"
+    }
+  ]
+}

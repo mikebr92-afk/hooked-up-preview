@@ -1,0 +1,263 @@
+{
+  "slug": "escape-fishing-charters-greenwell-point",
+  "request_hash": "8f63c59c38d1",
+  "collected_at": "2026-10-29T03:09:43.075Z",
+  "pages_fetched": [
+    "https://www.escapefishingcharters.com.au/",
+    "https://www.escapefishingcharters.com.au/about.html",
+    "https://www.facebook.com/p/Escape-Charters-100063769874942/",
+    "https://www.escapefishingcharters.com.au/index.html",
+    "https://www.escapefishingcharters.com.au/services.html",
+    "https://www.escapefishingcharters.com.au/gallery.html",
+    "https://www.escapefishingcharters.com.au/contact.html"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1442,
+      "height": 682,
+      "original": "1442x682",
+      "source": "https://www.escapefishingcharters.com.au/slider/1.jpg",
+      "page": "https://www.escapefishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 1442,
+      "height": 682,
+      "original": "1442x682",
+      "source": "https://www.escapefishingcharters.com.au/slider/2.jpg",
+      "page": "https://www.escapefishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1442,
+      "height": 682,
+      "original": "1442x682",
+      "source": "https://www.escapefishingcharters.com.au/slider/3.jpg",
+      "page": "https://www.escapefishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 908,
+      "height": 612,
+      "original": "908x612",
+      "source": "https://www.escapefishingcharters.com.au/img/gallery/gallery-1.jpg",
+      "page": "https://www.escapefishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 908,
+      "height": 612,
+      "original": "908x612",
+      "source": "https://www.escapefishingcharters.com.au/img/gallery/gallery-2.jpg",
+      "page": "https://www.escapefishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 908,
+      "height": 612,
+      "original": "908x612",
+      "source": "https://www.escapefishingcharters.com.au/img/gallery/gallery-3.jpg",
+      "page": "https://www.escapefishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 908,
+      "height": 612,
+      "original": "908x612",
+      "source": "https://www.escapefishingcharters.com.au/img/gallery/gallery-4.jpg",
+      "page": "https://www.escapefishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 750,
+      "height": 563,
+      "original": "750x563",
+      "source": "https://www.escapefishingcharters.com.au/img/gallery/1.jpg",
+      "page": "https://www.escapefishingcharters.com.au/gallery.html",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 750,
+      "height": 563,
+      "original": "750x563",
+      "source": "https://www.escapefishingcharters.com.au/img/gallery/2.jpg",
+      "page": "https://www.escapefishingcharters.com.au/gallery.html",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 750,
+      "height": 563,
+      "original": "750x563",
+      "source": "https://www.escapefishingcharters.com.au/img/gallery/3.jpg",
+      "page": "https://www.escapefishingcharters.com.au/gallery.html",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 750,
+      "height": 563,
+      "original": "750x563",
+      "source": "https://www.escapefishingcharters.com.au/img/gallery/4.jpg",
+      "page": "https://www.escapefishingcharters.com.au/gallery.html",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 750,
+      "height": 563,
+      "original": "750x563",
+      "source": "https://www.escapefishingcharters.com.au/img/gallery/6.jpg",
+      "page": "https://www.escapefishingcharters.com.au/gallery.html",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 750,
+      "height": 563,
+      "original": "750x563",
+      "source": "https://www.escapefishingcharters.com.au/img/gallery/9.jpg",
+      "page": "https://www.escapefishingcharters.com.au/gallery.html",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 750,
+      "height": 563,
+      "original": "750x563",
+      "source": "https://www.escapefishingcharters.com.au/img/gallery/10.jpg",
+      "page": "https://www.escapefishingcharters.com.au/gallery.html",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 750,
+      "height": 563,
+      "original": "750x563",
+      "source": "https://www.escapefishingcharters.com.au/img/gallery/11.jpg",
+      "page": "https://www.escapefishingcharters.com.au/gallery.html",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 750,
+      "height": 563,
+      "original": "750x563",
+      "source": "https://www.escapefishingcharters.com.au/img/gallery/12.jpg",
+      "page": "https://www.escapefishingcharters.com.au/gallery.html",
+      "priority": false
+    },
+    {
+      "file": "c17.webp",
+      "width": 750,
+      "height": 563,
+      "original": "750x563",
+      "source": "https://www.escapefishingcharters.com.au/img/gallery/13.jpg",
+      "page": "https://www.escapefishingcharters.com.au/gallery.html",
+      "priority": false
+    },
+    {
+      "file": "c18.webp",
+      "width": 750,
+      "height": 563,
+      "original": "750x563",
+      "source": "https://www.escapefishingcharters.com.au/img/gallery/14.jpg",
+      "page": "https://www.escapefishingcharters.com.au/gallery.html",
+      "priority": false
+    },
+    {
+      "file": "c19.webp",
+      "width": 750,
+      "height": 563,
+      "original": "750x563",
+      "source": "https://www.escapefishingcharters.com.au/img/gallery/15.jpg",
+      "page": "https://www.escapefishingcharters.com.au/gallery.html",
+      "priority": false
+    },
+    {
+      "file": "c20.webp",
+      "width": 750,
+      "height": 563,
+      "original": "750x563",
+      "source": "https://www.escapefishingcharters.com.au/img/gallery/16.jpg",
+      "page": "https://www.escapefishingcharters.com.au/gallery.html",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.escapefishingcharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.escapefishingcharters.com.au/",
+      "bytes": 10737
+    },
+    {
+      "page": "https://www.escapefishingcharters.com.au/about.html",
+      "status": 200,
+      "final_url": "https://www.escapefishingcharters.com.au/about.html",
+      "bytes": 8720
+    },
+    {
+      "page": "https://www.facebook.com/p/Escape-Charters-100063769874942/",
+      "status": 400,
+      "final_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fp%2FEscape-Charters-100063769874942%2F",
+      "bytes": 1542
+    },
+    {
+      "page": "https://www.escapefishingcharters.com.au/index.html",
+      "status": 200,
+      "final_url": "https://www.escapefishingcharters.com.au/index.html",
+      "bytes": 10737
+    },
+    {
+      "page": "https://www.escapefishingcharters.com.au/services.html",
+      "status": 200,
+      "final_url": "https://www.escapefishingcharters.com.au/services.html",
+      "bytes": 8002
+    },
+    {
+      "page": "https://www.escapefishingcharters.com.au/gallery.html",
+      "status": 200,
+      "final_url": "https://www.escapefishingcharters.com.au/gallery.html",
+      "bytes": 19589
+    },
+    {
+      "page": "https://www.escapefishingcharters.com.au/contact.html",
+      "status": 200,
+      "final_url": "https://www.escapefishingcharters.com.au/contact.html",
+      "bytes": 13722
+    },
+    {
+      "image": "https://www.escapefishingcharters.com.au/img/welcome.png",
+      "error": "too small 500x437"
+    },
+    {
+      "image": "https://www.escapefishingcharters.com.au/img/about.jpg",
+      "error": "too small 450x572"
+    },
+    {
+      "image": "https://www.escapefishingcharters.com.au/img/deepfishing.jpg",
+      "error": "too small 503x353"
+    },
+    {
+      "image": "https://www.escapefishingcharters.com.au/img/GameFishing.jpg",
+      "error": "too small 503x353"
+    },
+    {
+      "image": "https://www.escapefishingcharters.com.au/img/reeffishing.jpg",
+      "error": "too small 503x353"
+    },
+    {
+      "dup": "https://www.escapefishingcharters.com.au/img/gallery/8.jpg"
+    }
+  ]
+}

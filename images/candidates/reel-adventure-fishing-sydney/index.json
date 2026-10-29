@@ -1,0 +1,361 @@
+{
+  "slug": "reel-adventure-fishing-sydney",
+  "request_hash": "57e19fe41323",
+  "collected_at": "2026-10-29T03:10:46.193Z",
+  "pages_fetched": [
+    "https://www.sydney.com/things-to-do/tours/reel-adventure-fishing",
+    "https://www.sydney.com/things-to-do/tours/reel-adventure-fishing/sydney-fishing-charter-full-day",
+    "https://www.sydney.com/things-to-do/tours/reel-adventure-fishing/sydney-fishing-charter-half-day-am"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1600,
+      "height": 1200,
+      "original": "1600x1200",
+      "source": "https://assets.atdw-online.com.au/images/ab5de3188c0f9fb58569bb70da3a7980.jpeg?rect=114%2C0%2C1820%2C1365&w=1600&h=1200&rot=360&q=eyJ0eXBlIjoibGlzdGluZyIsImxpc3RpbmdJZCI6IjZhYmI2NDM0MmVjZmYwNzY0YWY0YWZlMSIsImRpc3RyaWJ1dG9ySWQiOiI1NmIxZWI5MzQ0ZmVjYTNkZjJlMzIwYzgiLCJhcGlrZXlJZCI6IjU2YjFlZTU5MGNmMjEzYWQyMGRjNTgxOSJ9",
+      "page": "https://www.sydney.com/things-to-do/tours/reel-adventure-fishing",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 1600,
+      "height": 1200,
+      "original": "1600x1200",
+      "source": "https://assets.atdw-online.com.au/images/e8c438d32a1a904ab8fe265987dd37de.jpeg?rect=114%2C0%2C1820%2C1365&w=1600&h=1200&&rot=360&q=eyJ0eXBlIjoibGlzdGluZyIsImxpc3RpbmdJZCI6IjZhYmI2NDM0MmVjZmYwNzY0YWY0YWZlMSIsImRpc3RyaWJ1dG9ySWQiOiI1NmIxZWI5MzQ0ZmVjYTNkZjJlMzIwYzgiLCJhcGlrZXlJZCI6IjU2YjFlZTU5MGNmMjEzYWQyMGRjNTgxOSJ9",
+      "page": "https://www.sydney.com/things-to-do/tours/reel-adventure-fishing",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1600,
+      "height": 1200,
+      "original": "1600x1200",
+      "source": "https://assets.atdw-online.com.au/images/e4812dcb442ea7787a035e3a4ed0c786.jpeg?rect=0%2C0%2C1600%2C1200&w=1600&h=1200&&rot=360&q=eyJ0eXBlIjoibGlzdGluZyIsImxpc3RpbmdJZCI6IjZhYmI2NDM0MmVjZmYwNzY0YWY0YWZlMSIsImRpc3RyaWJ1dG9ySWQiOiI1NmIxZWI5MzQ0ZmVjYTNkZjJlMzIwYzgiLCJhcGlrZXlJZCI6IjU2YjFlZTU5MGNmMjEzYWQyMGRjNTgxOSJ9",
+      "page": "https://www.sydney.com/things-to-do/tours/reel-adventure-fishing",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1000,
+      "height": 726,
+      "original": "1000x726",
+      "source": "https://www.sydney.com/sites/sydney/files/styles/meganav_desktop/public/2023-03/164478%20-%20Streetscape%20-%20Sydney%20CBD%20-%20George%20Street%20-%20DNSW.jpeg?h=e6f8fed6&itok=5hVK4gqY",
+      "page": "https://www.sydney.com/things-to-do/tours/reel-adventure-fishing",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1000,
+      "height": 726,
+      "original": "1000x726",
+      "source": "https://www.sydney.com/sites/sydney/files/styles/meganav_desktop/public/2023-03/165101%20-%20Smoke%20Bar%20-%20Barangaoo%20-%20Sydney%20-%20DNSW%20-%20cropped.jpg?h=9d4cd3bc&itok=9hZ88deR",
+      "page": "https://www.sydney.com/things-to-do/tours/reel-adventure-fishing",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1000,
+      "height": 726,
+      "original": "1000x726",
+      "source": "https://www.sydney.com/sites/sydney/files/styles/meganav_desktop/public/2023-03/149636%20-%20The%20Grounds%20of%20Alexandria%20-%20Alexandria%20-%20DNSW.jpeg?h=6d728ee0&itok=_IQqt5VZ",
+      "page": "https://www.sydney.com/things-to-do/tours/reel-adventure-fishing",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1000,
+      "height": 726,
+      "original": "1000x726",
+      "source": "https://www.sydney.com/sites/sydney/files/styles/meganav_desktop/public/2023-03/175433%20-%20Archie%20Rose%20Distilling%20Co%20-%20Rosebery%20-%20DNSW%20-%20Millie%20edit.jpg?h=f5532255&itok=xhMDtKCk",
+      "page": "https://www.sydney.com/things-to-do/tours/reel-adventure-fishing",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1000,
+      "height": 726,
+      "original": "1000x726",
+      "source": "https://www.sydney.com/sites/sydney/files/styles/meganav_desktop/public/2023-03/181566%20-%20North%20Bondi%20Fish%20-%20Bondi%20-%20Sydney%20East%20-%20DNSW%20-%20Millie%20edit.jpeg?h=3c631b11&itok=aOWTvzav",
+      "page": "https://www.sydney.com/things-to-do/tours/reel-adventure-fishing",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1000,
+      "height": 726,
+      "original": "1000x726",
+      "source": "https://www.sydney.com/sites/sydney/files/styles/meganav_desktop/public/2023-03/174996%20-%20Bondi%20Beach%20-%20Sydney%20-%20Credit%20Adam%20Krowitz.jpg?h=c0dff466&itok=v3hKaqj7",
+      "page": "https://www.sydney.com/things-to-do/tours/reel-adventure-fishing",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1000,
+      "height": 726,
+      "original": "1000x726",
+      "source": "https://www.sydney.com/sites/sydney/files/styles/meganav_desktop/public/2023-03/174780%20-%20North%20Curl%20Curl%20Rockpool%20-%20North%20Curl%20Curl%20-%20Sydneys%20Northern%20Beaches%20-%20DNSW.jpeg?h=4e37de88&itok=ZGyw4wQE",
+      "page": "https://www.sydney.com/things-to-do/tours/reel-adventure-fishing",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1000,
+      "height": 726,
+      "original": "1000x726",
+      "source": "https://www.sydney.com/sites/sydney/files/styles/meganav_desktop/public/2023-03/150639%20-%20Kayaking%20-%20Pittwater%20-%20Sydney%20-%20DNSW.jpg?h=26275c7a&itok=cpK7kIHT",
+      "page": "https://www.sydney.com/things-to-do/tours/reel-adventure-fishing",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1000,
+      "height": 726,
+      "original": "1000x726",
+      "source": "https://www.sydney.com/sites/sydney/files/styles/meganav_desktop/public/2023-03/South%201%20-%20174784.jpg?h=acc2b36d&itok=FsCfdVr8",
+      "page": "https://www.sydney.com/things-to-do/tours/reel-adventure-fishing",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1000,
+      "height": 726,
+      "original": "1000x726",
+      "source": "https://www.sydney.com/sites/sydney/files/styles/meganav_desktop/public/2023-03/South%202%20-%20178891.jpg?h=317eeb3b&itok=up-TVbXD",
+      "page": "https://www.sydney.com/things-to-do/tours/reel-adventure-fishing",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1000,
+      "height": 726,
+      "original": "1000x726",
+      "source": "https://www.sydney.com/sites/sydney/files/styles/meganav_desktop/public/2023-06/176751%20-%20Jetpack%20Adventures%20Sydney%20-%20Penrith%20-%20in%20the%20air%20-%20Sydney%20-%20DNSW%20-%20sml.jpg?h=94fd695f&itok=-u-77yZ3",
+      "page": "https://www.sydney.com/things-to-do/tours/reel-adventure-fishing",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1000,
+      "height": 726,
+      "original": "1000x726",
+      "source": "https://www.sydney.com/sites/sydney/files/styles/meganav_desktop/public/2023-06/191148%20-%20Chinatown%20-%20Burwood%20-%20Sydney%20-%20DNSW.jpg?h=02195f57&itok=Z59R5Rcn",
+      "page": "https://www.sydney.com/things-to-do/tours/reel-adventure-fishing",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1000,
+      "height": 726,
+      "original": "1000x726",
+      "source": "https://www.sydney.com/sites/sydney/files/styles/meganav_desktop/public/2023-03/Aboriginal%20culture%201%20-%20181458.jpg?h=a3400836&itok=kG8bJnik",
+      "page": "https://www.sydney.com/things-to-do/tours/reel-adventure-fishing",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.sydney.com/things-to-do/tours/reel-adventure-fishing",
+      "status": 200,
+      "final_url": "https://www.sydney.com/things-to-do/tours/reel-adventure-fishing",
+      "bytes": 214319
+    },
+    {
+      "page": "https://www.sydney.com/things-to-do/tours/reel-adventure-fishing/sydney-fishing-charter-full-day",
+      "status": 200,
+      "final_url": "https://www.sydney.com/things-to-do/tours/reel-adventure-fishing/sydney-fishing-charter-full-day",
+      "bytes": 164217
+    },
+    {
+      "page": "https://www.sydney.com/things-to-do/tours/reel-adventure-fishing/sydney-fishing-charter-half-day-am",
+      "status": 200,
+      "final_url": "https://www.sydney.com/things-to-do/tours/reel-adventure-fishing/sydney-fishing-charter-half-day-am",
+      "bytes": 163727
+    },
+    {
+      "image": "https://www.sydney.com/sites/sydney/files/styles/suggested_search/public/2021-01/ATDW%20-%20Sofitel%20Sydney%20Darling%20Harbour%20-%20Img%20Credit%20Sofitel%20Sydney%20Darling%20Harbour.jpeg?itok=l4WwHef4",
+      "error": "too small 400x300"
+    },
+    {
+      "image": "https://www.sydney.com/sites/sydney/files/styles/suggested_search/public/2020-11/174654%20-%20Desktop%20-%20Sydney_RoyalBotanicGardens.jpg?itok=k9gKTPr-",
+      "error": "too small 400x300"
+    },
+    {
+      "image": "https://www.sydney.com/sites/sydney/files/styles/suggested_search/public/2023-03/181081%20-%20Cantina%20OK%21%20-%20Sydney%20CBD%20-%20DNSW.jpg?itok=nofn7gmK",
+      "error": "too small 400x300"
+    },
+    {
+      "image": "https://www.sydney.com/sites/sydney/files/styles/suggested_search/public/2022-12/56727_edit.jpg?itok=NFFHi4Cy",
+      "error": "too small 400x300"
+    },
+    {
+      "image": "https://www.sydney.com/sites/sydney/files/styles/suggested_search/public/2022-12/184346%20-%20The%20Lighting%20of%20the%20Sails%20-%20Yarrkalpa%20-%20Hunting%20Ground%20-%20Sydney%20Opera%20House%20-%20Vivid%20Sydney%20-%20DNSW.jpg?itok=lLg340bq",
+      "error": "too small 400x300"
+    },
+    {
+      "image": "https://www.sydney.com/sites/sydney/files/styles/suggested_search/public/2022-11/146101_Bondi_Beach.jpg?itok=gckVssiz",
+      "error": "too small 400x300"
+    },
+    {
+      "image": "https://www.sydney.com/sites/sydney/files/styles/website_switcher_x2/public/2022-11/161920-56.jpg?h=812dea15&itok=QCziMNS3",
+      "error": "too small 320x190"
+    },
+    {
+      "image": "https://www.sydney.com/sites/sydney/files/styles/3columns_desktop/public/2023-03/164478%20-%20Streetscape%20-%20Sydney%20CBD%20-%20George%20Street%20-%20DNSW.jpeg?h=e6f8fed6&itok=QAvrKtC_",
+      "error": "too small 458x322"
+    },
+    {
+      "image": "https://www.sydney.com/sites/sydney/files/styles/3columns_desktop/public/2023-03/149636%20-%20The%20Grounds%20of%20Alexandria%20-%20Alexandria%20-%20DNSW.jpeg?h=6d728ee0&itok=WiNOJA4Y",
+      "error": "too small 458x322"
+    },
+    {
+      "image": "https://www.sydney.com/sites/sydney/files/styles/3columns_desktop/public/2023-03/181566%20-%20North%20Bondi%20Fish%20-%20Bondi%20-%20Sydney%20East%20-%20DNSW%20-%20Millie%20edit.jpeg?h=3c631b11&itok=o_YzdVaP",
+      "error": "too small 458x322"
+    },
+    {
+      "image": "https://www.sydney.com/sites/sydney/files/styles/3columns_desktop/public/2023-03/174780%20-%20North%20Curl%20Curl%20Rockpool%20-%20North%20Curl%20Curl%20-%20Sydneys%20Northern%20Beaches%20-%20DNSW.jpeg?h=4e37de88&itok=vgKS-j7T",
+      "error": "too small 458x322"
+    },
+    {
+      "image": "https://www.sydney.com/sites/sydney/files/styles/3columns_desktop/public/2023-03/South%201%20-%20174784.jpg?h=acc2b36d&itok=1WcyQfko",
+      "error": "too small 458x322"
+    },
+    {
+      "image": "https://www.sydney.com/sites/sydney/files/styles/3columns_desktop/public/2023-06/176751%20-%20Jetpack%20Adventures%20Sydney%20-%20Penrith%20-%20in%20the%20air%20-%20Sydney%20-%20DNSW%20-%20sml.jpg?h=94fd695f&itok=4H8yLZtl",
+      "error": "too small 458x322"
+    },
+    {
+      "image": "https://www.sydney.com/sites/sydney/files/styles/3columns_desktop/public/2023-03/Aboriginal%20culture%201%20-%20181458.jpg?h=a3400836&itok=mHuCMaMy",
+      "error": "too small 458x322"
+    },
+    {
+      "image": "https://www.sydney.com/sites/sydney/files/styles/3columns_desktop/public/2023-03/Arts%20and%20culture1-%20184293.jpg?h=3146312e&itok=saJHgAHi",
+      "error": "too small 458x322"
+    },
+    {
+      "image": "https://www.sydney.com/sites/sydney/files/styles/3columns_desktop/public/2023-03/Adventure%20and%20sport%201-%20165943.jpg?h=ff67bc99&itok=6Z015Geh",
+      "error": "too small 458x322"
+    },
+    {
+      "image": "https://www.sydney.com/sites/sydney/files/styles/3columns_desktop/public/2023-03/Beach%20lifestyle%201%20-174532.jpg?h=5fe6791c&itok=Gq3xxoC_",
+      "error": "too small 458x322"
+    },
+    {
+      "image": "https://www.sydney.com/sites/sydney/files/styles/3columns_desktop/public/2023-03/family%20holidays%20-%20167712%20%281%29.jpg?h=faeb02c4&itok=UXGe9a3G",
+      "error": "too small 458x322"
+    },
+    {
+      "image": "https://www.sydney.com/sites/sydney/files/styles/3columns_desktop/public/2023-03/Food%20and%20drink%201-%20174574.jpg?h=e16842af&itok=P-KmqZpC",
+      "error": "too small 458x322"
+    },
+    {
+      "image": "https://www.sydney.com/sites/sydney/files/styles/3columns_desktop/public/2023-03/Luxury%20experiences%201-169917.jpg?h=9d8e41e7&itok=y1c0Z1mQ",
+      "error": "too small 458x322"
+    },
+    {
+      "image": "https://www.sydney.com/sites/sydney/files/styles/3columns_desktop/public/2026-05/181672-3.jpg?h=58ce5429&itok=4Q1_onCs",
+      "error": "too small 458x322"
+    },
+    {
+      "image": "https://www.sydney.com/sites/sydney/files/styles/3columns_desktop/public/2024-04/165662%20-%20Oxford%20Art%20Factory%20-%20Darlinghurst%20-%20Sydney%20-%20DNSW%20-%20desktop.jpg?h=38a3f5f8&itok=bBHK91dX",
+      "error": "too small 458x322"
+    },
+    {
+      "image": "https://www.sydney.com/sites/sydney/files/styles/3columns_desktop/public/2023-03/Shopping%201-%20159628.jpg?h=5c37c49f&itok=PyV2euPX",
+      "error": "too small 458x322"
+    },
+    {
+      "image": "https://www.sydney.com/sites/sydney/files/styles/3columns_desktop/public/2024-04/220905_Capella_Public_Pool_final_FT%20c-%20Millie%20edit_0.jpg?h=f0fb51a5&itok=vfu0frnG",
+      "error": "too small 458x322"
+    },
+    {
+      "image": "https://www.sydney.com/sites/sydney/files/styles/3columns_desktop/public/2023-03/Caravan%20and%20camping%201-%20185988.jpg?h=c05e2211&itok=uAYQtVbC",
+      "error": "too small 458x322"
+    },
+    {
+      "dup": "https://assets.atdw-online.com.au/images/ab5de3188c0f9fb58569bb70da3a7980.jpeg?rect=114%2C0%2C1820%2C1365&w=1600&h=1200&&rot=360&q=eyJ0eXBlIjoibGlzdGluZyIsImxpc3RpbmdJZCI6IjZhYmI2NDM0MmVjZmYwNzY0YWY0YWZlMSIsImRpc3RyaWJ1dG9ySWQiOiI1NmIxZWI5MzQ0ZmVjYTNkZjJlMzIwYzgiLCJhcGlrZXlJZCI6IjU2YjFlZTU5MGNmMjEzYWQyMGRjNTgxOSJ9"
+    },
+    {
+      "image": "https://assets.atdw-online.com.au/images/d00b22b57dca0fd88275683d672df438.jpeg?rect=0%2C0%2C1600%2C1200&w=480&h=360&rot=360&q=eyJ0eXBlIjoibGlzdGluZyIsImxpc3RpbmdJZCI6IjZhYmI2NDM0MmVjZmYwNzY0YWY0YWZlMSIsImRpc3RyaWJ1dG9ySWQiOiI1NmIxZWI5MzQ0ZmVjYTNkZjJlMzIwYzgiLCJhcGlrZXlJZCI6IjU2YjFlZTU5MGNmMjEzYWQyMGRjNTgxOSIsInNlcnZpY2VJZCI6IjZhYzMyOTdjNTIyMDQ3N2Q2YTQxNTMwNiJ9",
+      "error": "too small 480x360"
+    },
+    {
+      "image": "https://assets.atdw-online.com.au/images/814bb4c616ef4db4fdb02cccfe57334c.jpeg?rect=0%2C0%2C2048%2C1536&w=480&h=360&rot=360&q=eyJ0eXBlIjoibGlzdGluZyIsImxpc3RpbmdJZCI6IjZhYmI2NDM0MmVjZmYwNzY0YWY0YWZlMSIsImRpc3RyaWJ1dG9ySWQiOiI1NmIxZWI5MzQ0ZmVjYTNkZjJlMzIwYzgiLCJhcGlrZXlJZCI6IjU2YjFlZTU5MGNmMjEzYWQyMGRjNTgxOSIsInNlcnZpY2VJZCI6IjZhYmI2YjYwYmMwYjc4MGUyZjdlNjNkOCJ9",
+      "error": "too small 480x360"
+    },
+    {
+      "image": "https://www.sydney.com/sites/sydney/files/styles/website_switcher_x2/public/2022-11/161920-56.webp?h=812dea15&itok=QCziMNS3",
+      "error": "too small 320x190"
+    },
+    {
+      "dup": "https://assets.atdw-online.com.au/images/ab5de3188c0f9fb58569bb70da3a7980.jpeg?rect=114%2C0%2C1820%2C1365&w=1600&h=1200&&rot=360&q=eyJ0eXBlIjoibGlzdGluZyIsImxpc3RpbmdJZCI6IjZhYmI2NDM0MmVjZmYwNzY0YWY0YWZlMSIsImRpc3RyaWJ1dG9ySWQiOiI1NmIxZWI5MzQ0ZmVjYTNkZjJlMzIwYzgiLCJhcGlrZXlJZCI6IjU2YjFlZTU5MGNmMjEzYWQyMGRjNTgxOSJ9?w=1600&h=900&fm=jpg"
+    },
+    {
+      "dup": "https://assets.atdw-online.com.au/images/ab5de3188c0f9fb58569bb70da3a7980.jpeg?rect=114%2C0%2C1820%2C1365&w=1600&h=1200&&rot=360&q=eyJ0eXBlIjoibGlzdGluZyIsImxpc3RpbmdJZCI6IjZhYmI2NDM0MmVjZmYwNzY0YWY0YWZlMSIsImRpc3RyaWJ1dG9ySWQiOiI1NmIxZWI5MzQ0ZmVjYTNkZjJlMzIwYzgiLCJhcGlrZXlJZCI6IjU2YjFlZTU5MGNmMjEzYWQyMGRjNTgxOSJ9?w=1172&h=658&fm=jpg"
+    },
+    {
+      "dup": "https://assets.atdw-online.com.au/images/ab5de3188c0f9fb58569bb70da3a7980.jpeg?rect=114%2C0%2C1820%2C1365&w=1600&h=1200&&rot=360&q=eyJ0eXBlIjoibGlzdGluZyIsImxpc3RpbmdJZCI6IjZhYmI2NDM0MmVjZmYwNzY0YWY0YWZlMSIsImRpc3RyaWJ1dG9ySWQiOiI1NmIxZWI5MzQ0ZmVjYTNkZjJlMzIwYzgiLCJhcGlrZXlJZCI6IjU2YjFlZTU5MGNmMjEzYWQyMGRjNTgxOSJ9?w=1536&h=864&fm=jpg"
+    },
+    {
+      "dup": "https://assets.atdw-online.com.au/images/ab5de3188c0f9fb58569bb70da3a7980.jpeg?rect=114%2C0%2C1820%2C1365&w=1600&h=1200&&rot=360&q=eyJ0eXBlIjoibGlzdGluZyIsImxpc3RpbmdJZCI6IjZhYmI2NDM0MmVjZmYwNzY0YWY0YWZlMSIsImRpc3RyaWJ1dG9ySWQiOiI1NmIxZWI5MzQ0ZmVjYTNkZjJlMzIwYzgiLCJhcGlrZXlJZCI6IjU2YjFlZTU5MGNmMjEzYWQyMGRjNTgxOSJ9?w=1200&h=676&fm=jpg"
+    },
+    {
+      "image": "https://assets.atdw-online.com.au/images/ab5de3188c0f9fb58569bb70da3a7980.jpeg?rect=114%2C0%2C1820%2C1365&w=1600&h=1200&&rot=360&q=eyJ0eXBlIjoibGlzdGluZyIsImxpc3RpbmdJZCI6IjZhYmI2NDM0MmVjZmYwNzY0YWY0YWZlMSIsImRpc3RyaWJ1dG9ySWQiOiI1NmIxZWI5MzQ0ZmVjYTNkZjJlMzIwYzgiLCJhcGlrZXlJZCI6IjU2YjFlZTU5MGNmMjEzYWQyMGRjNTgxOSJ9?w=750&h=422&fm=jpg",
+      "error": "too small 563x422"
+    },
+    {
+      "image": "https://assets.atdw-online.com.au/images/ab5de3188c0f9fb58569bb70da3a7980.jpeg?rect=114%2C0%2C1820%2C1365&w=1600&h=1200&&rot=360&q=eyJ0eXBlIjoibGlzdGluZyIsImxpc3RpbmdJZCI6IjZhYmI2NDM0MmVjZmYwNzY0YWY0YWZlMSIsImRpc3RyaWJ1dG9ySWQiOiI1NmIxZWI5MzQ0ZmVjYTNkZjJlMzIwYzgiLCJhcGlrZXlJZCI6IjU2YjFlZTU5MGNmMjEzYWQyMGRjNTgxOSJ9?w=640&h=360&fm=jpg",
+      "error": "too small 480x360"
+    },
+    {
+      "dup": "https://assets.atdw-online.com.au/images/e8c438d32a1a904ab8fe265987dd37de.jpeg?rect=114%2C0%2C1820%2C1365&w=1600&h=1200&&rot=360&q=eyJ0eXBlIjoibGlzdGluZyIsImxpc3RpbmdJZCI6IjZhYmI2NDM0MmVjZmYwNzY0YWY0YWZlMSIsImRpc3RyaWJ1dG9ySWQiOiI1NmIxZWI5MzQ0ZmVjYTNkZjJlMzIwYzgiLCJhcGlrZXlJZCI6IjU2YjFlZTU5MGNmMjEzYWQyMGRjNTgxOSJ9?w=1172&h=762&fm=jpg"
+    },
+    {
+      "dup": "https://assets.atdw-online.com.au/images/e8c438d32a1a904ab8fe265987dd37de.jpeg?rect=114%2C0%2C1820%2C1365&w=1600&h=1200&&rot=360&q=eyJ0eXBlIjoibGlzdGluZyIsImxpc3RpbmdJZCI6IjZhYmI2NDM0MmVjZmYwNzY0YWY0YWZlMSIsImRpc3RyaWJ1dG9ySWQiOiI1NmIxZWI5MzQ0ZmVjYTNkZjJlMzIwYzgiLCJhcGlrZXlJZCI6IjU2YjFlZTU5MGNmMjEzYWQyMGRjNTgxOSJ9?w=1000&h=650&fm=jpg"
+    },
+    {
+      "dup": "https://assets.atdw-online.com.au/images/e8c438d32a1a904ab8fe265987dd37de.jpeg?rect=114%2C0%2C1820%2C1365&w=1600&h=1200&&rot=360&q=eyJ0eXBlIjoibGlzdGluZyIsImxpc3RpbmdJZCI6IjZhYmI2NDM0MmVjZmYwNzY0YWY0YWZlMSIsImRpc3RyaWJ1dG9ySWQiOiI1NmIxZWI5MzQ0ZmVjYTNkZjJlMzIwYzgiLCJhcGlrZXlJZCI6IjU2YjFlZTU5MGNmMjEzYWQyMGRjNTgxOSJ9?w=800&h=520&fm=jpg"
+    },
+    {
+      "image": "https://assets.atdw-online.com.au/images/e8c438d32a1a904ab8fe265987dd37de.jpeg?rect=114%2C0%2C1820%2C1365&w=1600&h=1200&&rot=360&q=eyJ0eXBlIjoibGlzdGluZyIsImxpc3RpbmdJZCI6IjZhYmI2NDM0MmVjZmYwNzY0YWY0YWZlMSIsImRpc3RyaWJ1dG9ySWQiOiI1NmIxZWI5MzQ0ZmVjYTNkZjJlMzIwYzgiLCJhcGlrZXlJZCI6IjU2YjFlZTU5MGNmMjEzYWQyMGRjNTgxOSJ9?w=600&h=390&fm=jpg",
+      "error": "too small 520x390"
+    },
+    {
+      "image": "https://assets.atdw-online.com.au/images/e8c438d32a1a904ab8fe265987dd37de.jpeg?rect=114%2C0%2C1820%2C1365&w=1600&h=1200&&rot=360&q=eyJ0eXBlIjoibGlzdGluZyIsImxpc3RpbmdJZCI6IjZhYmI2NDM0MmVjZmYwNzY0YWY0YWZlMSIsImRpc3RyaWJ1dG9ySWQiOiI1NmIxZWI5MzQ0ZmVjYTNkZjJlMzIwYzgiLCJhcGlrZXlJZCI6IjU2YjFlZTU5MGNmMjEzYWQyMGRjNTgxOSJ9?w=500&h=325&fm=jpg",
+      "error": "too small 433x325"
+    },
+    {
+      "image": "https://assets.atdw-online.com.au/images/e8c438d32a1a904ab8fe265987dd37de.jpeg?rect=114%2C0%2C1820%2C1365&w=1600&h=1200&&rot=360&q=eyJ0eXBlIjoibGlzdGluZyIsImxpc3RpbmdJZCI6IjZhYmI2NDM0MmVjZmYwNzY0YWY0YWZlMSIsImRpc3RyaWJ1dG9ySWQiOiI1NmIxZWI5MzQ0ZmVjYTNkZjJlMzIwYzgiLCJhcGlrZXlJZCI6IjU2YjFlZTU5MGNmMjEzYWQyMGRjNTgxOSJ9?w=400&h=260&fm=jpg",
+      "error": "too small 347x260"
+    },
+    {
+      "dup": "https://assets.atdw-online.com.au/images/e4812dcb442ea7787a035e3a4ed0c786.jpeg?rect=0%2C0%2C1600%2C1200&w=1600&h=1200&&rot=360&q=eyJ0eXBlIjoibGlzdGluZyIsImxpc3RpbmdJZCI6IjZhYmI2NDM0MmVjZmYwNzY0YWY0YWZlMSIsImRpc3RyaWJ1dG9ySWQiOiI1NmIxZWI5MzQ0ZmVjYTNkZjJlMzIwYzgiLCJhcGlrZXlJZCI6IjU2YjFlZTU5MGNmMjEzYWQyMGRjNTgxOSJ9?w=1172&h=762&fm=jpg"
+    },
+    {
+      "dup": "https://assets.atdw-online.com.au/images/e4812dcb442ea7787a035e3a4ed0c786.jpeg?rect=0%2C0%2C1600%2C1200&w=1600&h=1200&&rot=360&q=eyJ0eXBlIjoibGlzdGluZyIsImxpc3RpbmdJZCI6IjZhYmI2NDM0MmVjZmYwNzY0YWY0YWZlMSIsImRpc3RyaWJ1dG9ySWQiOiI1NmIxZWI5MzQ0ZmVjYTNkZjJlMzIwYzgiLCJhcGlrZXlJZCI6IjU2YjFlZTU5MGNmMjEzYWQyMGRjNTgxOSJ9?w=1000&h=650&fm=jpg"
+    },
+    {
+      "dup": "https://assets.atdw-online.com.au/images/e4812dcb442ea7787a035e3a4ed0c786.jpeg?rect=0%2C0%2C1600%2C1200&w=1600&h=1200&&rot=360&q=eyJ0eXBlIjoibGlzdGluZyIsImxpc3RpbmdJZCI6IjZhYmI2NDM0MmVjZmYwNzY0YWY0YWZlMSIsImRpc3RyaWJ1dG9ySWQiOiI1NmIxZWI5MzQ0ZmVjYTNkZjJlMzIwYzgiLCJhcGlrZXlJZCI6IjU2YjFlZTU5MGNmMjEzYWQyMGRjNTgxOSJ9?w=800&h=520&fm=jpg"
+    },
+    {
+      "image": "https://assets.atdw-online.com.au/images/e4812dcb442ea7787a035e3a4ed0c786.jpeg?rect=0%2C0%2C1600%2C1200&w=1600&h=1200&&rot=360&q=eyJ0eXBlIjoibGlzdGluZyIsImxpc3RpbmdJZCI6IjZhYmI2NDM0MmVjZmYwNzY0YWY0YWZlMSIsImRpc3RyaWJ1dG9ySWQiOiI1NmIxZWI5MzQ0ZmVjYTNkZjJlMzIwYzgiLCJhcGlrZXlJZCI6IjU2YjFlZTU5MGNmMjEzYWQyMGRjNTgxOSJ9?w=600&h=390&fm=jpg",
+      "error": "too small 520x390"
+    },
+    {
+      "image": "https://assets.atdw-online.com.au/images/e4812dcb442ea7787a035e3a4ed0c786.jpeg?rect=0%2C0%2C1600%2C1200&w=1600&h=1200&&rot=360&q=eyJ0eXBlIjoibGlzdGluZyIsImxpc3RpbmdJZCI6IjZhYmI2NDM0MmVjZmYwNzY0YWY0YWZlMSIsImRpc3RyaWJ1dG9ySWQiOiI1NmIxZWI5MzQ0ZmVjYTNkZjJlMzIwYzgiLCJhcGlrZXlJZCI6IjU2YjFlZTU5MGNmMjEzYWQyMGRjNTgxOSJ9?w=500&h=325&fm=jpg",
+      "error": "too small 433x325"
+    },
+    {
+      "image": "https://assets.atdw-online.com.au/images/e4812dcb442ea7787a035e3a4ed0c786.jpeg?rect=0%2C0%2C1600%2C1200&w=1600&h=1200&&rot=360&q=eyJ0eXBlIjoibGlzdGluZyIsImxpc3RpbmdJZCI6IjZhYmI2NDM0MmVjZmYwNzY0YWY0YWZlMSIsImRpc3RyaWJ1dG9ySWQiOiI1NmIxZWI5MzQ0ZmVjYTNkZjJlMzIwYzgiLCJhcGlrZXlJZCI6IjU2YjFlZTU5MGNmMjEzYWQyMGRjNTgxOSJ9?w=400&h=260&fm=jpg",
+      "error": "too small 347x260"
+    },
+    {
+      "image": "https://assets.atdw-online.com.au/images/d00b22b57dca0fd88275683d672df438.jpeg?rect=0%2C0%2C1600%2C1200&w=480&h=360&rot=360&q=eyJ0eXBlIjoibGlzdGluZyIsImxpc3RpbmdJZCI6IjZhYmI2NDM0MmVjZmYwNzY0YWY0YWZlMSIsImRpc3RyaWJ1dG9ySWQiOiI1NmIxZWI5MzQ0ZmVjYTNkZjJlMzIwYzgiLCJhcGlrZXlJZCI6IjU2YjFlZTU5MGNmMjEzYWQyMGRjNTgxOSIsInNlcnZpY2VJZCI6IjZhYzMyOTdjNTIyMDQ3N2Q2YTQxNTMwNiJ9?w=&h=&fm=jpg",
+      "error": "too small 480x360"
+    },
+    {
+      "image": "https://assets.atdw-online.com.au/images/814bb4c616ef4db4fdb02cccfe57334c.jpeg?rect=0%2C0%2C2048%2C1536&w=480&h=360&rot=360&q=eyJ0eXBlIjoibGlzdGluZyIsImxpc3RpbmdJZCI6IjZhYmI2NDM0MmVjZmYwNzY0YWY0YWZlMSIsImRpc3RyaWJ1dG9ySWQiOiI1NmIxZWI5MzQ0ZmVjYTNkZjJlMzIwYzgiLCJhcGlrZXlJZCI6IjU2YjFlZTU5MGNmMjEzYWQyMGRjNTgxOSIsInNlcnZpY2VJZCI6IjZhYmI2YjYwYmMwYjc4MGUyZjdlNjNkOCJ9?w=&h=&fm=jpg",
+      "error": "too small 480x360"
+    }
+  ]
+}

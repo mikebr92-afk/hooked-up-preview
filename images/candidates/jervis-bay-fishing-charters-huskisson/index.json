@@ -1,0 +1,181 @@
+{
+  "slug": "jervis-bay-fishing-charters-huskisson",
+  "request_hash": "6b5f64ca8309",
+  "collected_at": "2026-10-29T03:09:59.103Z",
+  "pages_fetched": [
+    "https://jbfishingcharters.com.au/",
+    "https://experiencejervisbay.com.au/things-to-do/jb-fishing-charters/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2400x3200",
+      "source": "https://jbfishingcharters.com.au/wp-content/uploads/2024/09/IMG_0580.jpeg",
+      "page": "https://jbfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2400x3200",
+      "source": "https://jbfishingcharters.com.au/wp-content/uploads/2024/09/IMG_0572.jpeg",
+      "page": "https://jbfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 900,
+      "height": 2000,
+      "original": "4000x1800",
+      "source": "https://jbfishingcharters.com.au/wp-content/uploads/2024/08/20240525_154824-1.jpg",
+      "page": "https://jbfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 2000,
+      "height": 1025,
+      "original": "2400x1230",
+      "source": "https://jbfishingcharters.com.au/wp-content/uploads/2024/09/IMG_0579-1.jpg",
+      "page": "https://jbfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 2000,
+      "height": 900,
+      "original": "4000x1800",
+      "source": "https://jbfishingcharters.com.au/wp-content/uploads/2024/08/20240525_154655-1.jpg",
+      "page": "https://jbfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 2000,
+      "height": 900,
+      "original": "4000x1800",
+      "source": "https://jbfishingcharters.com.au/wp-content/uploads/2024/08/20240225_153347-1.jpg",
+      "page": "https://jbfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1024,
+      "height": 851,
+      "original": "1024x851",
+      "source": "https://jbfishingcharters.com.au/wp-content/uploads/2024/08/IMG_1713.jpg",
+      "page": "https://jbfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 2000,
+      "height": 900,
+      "original": "4000x1800",
+      "source": "https://jbfishingcharters.com.au/wp-content/uploads/2024/08/20240225_153432-1.jpg",
+      "page": "https://jbfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 800,
+      "height": 450,
+      "original": "800x450",
+      "source": "https://jbfishingcharters.com.au/wp-content/uploads/2024/09/IMG_0580-800x450.jpeg",
+      "page": "https://jbfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 800,
+      "height": 450,
+      "original": "800x450",
+      "source": "https://jbfishingcharters.com.au/wp-content/uploads/2024/09/IMG_0572-800x450.jpeg",
+      "page": "https://jbfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 900,
+      "height": 2000,
+      "original": "1152x2560",
+      "source": "https://jbfishingcharters.com.au/wp-content/uploads/2024/08/20240525_154824-1-scaled.jpg",
+      "page": "https://jbfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 800,
+      "height": 450,
+      "original": "800x450",
+      "source": "https://jbfishingcharters.com.au/wp-content/uploads/2024/08/20240525_154824-1-800x450.jpg",
+      "page": "https://jbfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 800,
+      "height": 450,
+      "original": "800x450",
+      "source": "https://jbfishingcharters.com.au/wp-content/uploads/2024/08/20240525_154655-1-800x450.jpg",
+      "page": "https://jbfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 800,
+      "height": 450,
+      "original": "800x450",
+      "source": "https://jbfishingcharters.com.au/wp-content/uploads/2024/08/IMG_1713-800x450.jpg",
+      "page": "https://jbfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 800,
+      "height": 450,
+      "original": "800x450",
+      "source": "https://jbfishingcharters.com.au/wp-content/uploads/2024/08/20240225_153432-1-800x450.jpg",
+      "page": "https://jbfishingcharters.com.au/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://jbfishingcharters.com.au/",
+      "status": 200,
+      "final_url": "https://jbfishingcharters.com.au/",
+      "bytes": 120214
+    },
+    {
+      "page": "https://experiencejervisbay.com.au/things-to-do/jb-fishing-charters/",
+      "status": 403,
+      "final_url": "https://experiencejervisbay.com.au/things-to-do/jb-fishing-charters/",
+      "bytes": 103
+    },
+    {
+      "dup": "https://jbfishingcharters.com.au/wp-content/uploads/2024/09/IMG_0580-scaled.jpeg"
+    },
+    {
+      "dup": "https://jbfishingcharters.com.au/wp-content/uploads/2024/09/IMG_0572-scaled.jpeg"
+    },
+    {
+      "dup": "https://jbfishingcharters.com.au/wp-content/uploads/2024/09/IMG_0579-1-800x450.jpg"
+    },
+    {
+      "dup": "https://jbfishingcharters.com.au/wp-content/uploads/2024/08/20240525_154655-1-scaled.jpg"
+    },
+    {
+      "dup": "https://jbfishingcharters.com.au/wp-content/uploads/2024/08/20240225_153347-1-scaled.jpg"
+    },
+    {
+      "dup": "https://jbfishingcharters.com.au/wp-content/uploads/2024/08/20240225_153347-1-800x450.jpg"
+    },
+    {
+      "dup": "https://jbfishingcharters.com.au/wp-content/uploads/2024/08/20240225_153432-1-scaled.jpg"
+    }
+  ]
+}

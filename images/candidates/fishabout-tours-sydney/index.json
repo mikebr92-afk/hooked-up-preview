@@ -1,0 +1,247 @@
+{
+  "slug": "fishabout-tours-sydney",
+  "request_hash": "f25b83813d05",
+  "collected_at": "2026-10-29T03:06:14.344Z",
+  "pages_fetched": [
+    "https://www.fishaboutsydney.com.au/",
+    "https://www.fishaboutsydney.com.au/gallery/",
+    "https://fishabout.com.au/sydney/",
+    "https://www.sydney.com/things-to-do/tours/fishabout-sydney-harbour",
+    "https://www.facebook.com/fishaboutsydney/",
+    "https://www.fishaboutsydney.com.au/about-craig-mcgill/",
+    "https://www.fishaboutsydney.com.au/articles/",
+    "https://www.fishaboutsydney.com.au/pick-up-points/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1920,
+      "height": 781,
+      "original": "1920x781",
+      "source": "https://www.fishaboutsydney.com.au/wp-content/uploads/2018/01/hero-bg2.jpg",
+      "page": "https://www.fishaboutsydney.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 1024,
+      "height": 658,
+      "original": "1024x658",
+      "source": "https://www.fishaboutsydney.com.au/wp-content/uploads/2017/12/intro-img1.jpg",
+      "page": "https://www.fishaboutsydney.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1024,
+      "height": 680,
+      "original": "1024x680",
+      "source": "https://www.fishaboutsydney.com.au/wp-content/uploads/2018/01/IMGP2894a.jpg",
+      "page": "https://www.fishaboutsydney.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1024,
+      "height": 1541,
+      "original": "1024x1541",
+      "source": "https://www.fishaboutsydney.com.au/wp-content/uploads/2018/01/IMGP2864.jpg",
+      "page": "https://www.fishaboutsydney.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1024,
+      "height": 680,
+      "original": "1024x680",
+      "source": "https://www.fishaboutsydney.com.au/wp-content/uploads/2018/01/Kingfish.jpg",
+      "page": "https://www.fishaboutsydney.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1024,
+      "height": 680,
+      "original": "1024x680",
+      "source": "https://www.fishaboutsydney.com.au/wp-content/uploads/2018/01/Jewfish.jpg",
+      "page": "https://www.fishaboutsydney.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1024,
+      "height": 683,
+      "original": "1024x683",
+      "source": "https://www.fishaboutsydney.com.au/wp-content/uploads/2018/01/Other.jpg",
+      "page": "https://www.fishaboutsydney.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1024,
+      "height": 476,
+      "original": "1024x476",
+      "source": "https://www.fishaboutsydney.com.au/wp-content/uploads/2018/02/Fishabout-Sydney-Boat-.jpg",
+      "page": "https://www.fishaboutsydney.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1024,
+      "height": 680,
+      "original": "1024x680",
+      "source": "https://www.fishaboutsydney.com.au/wp-content/uploads/2018/01/morning.jpg",
+      "page": "https://www.fishaboutsydney.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1024,
+      "height": 683,
+      "original": "1024x683",
+      "source": "https://www.fishaboutsydney.com.au/wp-content/uploads/2018/01/afternoon.jpg",
+      "page": "https://www.fishaboutsydney.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1136,
+      "height": 760,
+      "original": "1136x760",
+      "source": "https://www.fishaboutsydney.com.au/wp-content/uploads/2018/02/Craig-McGill-Gift-Voucher-.png",
+      "page": "https://www.fishaboutsydney.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1024,
+      "height": 683,
+      "original": "1024x683",
+      "source": "https://www.fishaboutsydney.com.au/wp-content/uploads/2018/01/IMG_4004.jpg",
+      "page": "https://www.fishaboutsydney.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1024,
+      "height": 716,
+      "original": "1024x716",
+      "source": "https://www.fishaboutsydney.com.au/wp-content/uploads/2018/02/trev.jpg",
+      "page": "https://www.fishaboutsydney.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1024,
+      "height": 1024,
+      "original": "1024x1024",
+      "source": "https://www.fishaboutsydney.com.au/wp-content/uploads/2018/01/Matt-Hayden.jpg",
+      "page": "https://www.fishaboutsydney.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1024,
+      "height": 1024,
+      "original": "1024x1024",
+      "source": "https://www.fishaboutsydney.com.au/wp-content/uploads/2018/01/Tetsuys.jpg",
+      "page": "https://www.fishaboutsydney.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 600,
+      "height": 600,
+      "original": "600x600",
+      "source": "https://www.fishaboutsydney.com.au/wp-content/uploads/2018/01/darren-brokes.jpg",
+      "page": "https://www.fishaboutsydney.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c17.webp",
+      "width": 600,
+      "height": 600,
+      "original": "600x600",
+      "source": "https://www.fishaboutsydney.com.au/wp-content/uploads/2018/01/david-lockwood.jpg",
+      "page": "https://www.fishaboutsydney.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c18.webp",
+      "width": 600,
+      "height": 600,
+      "original": "600x600",
+      "source": "https://www.fishaboutsydney.com.au/wp-content/uploads/2018/01/alexandfrazer.jpg",
+      "page": "https://www.fishaboutsydney.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c19.webp",
+      "width": 600,
+      "height": 600,
+      "original": "600x600",
+      "source": "https://www.fishaboutsydney.com.au/wp-content/uploads/2018/01/glen-rourke.jpg",
+      "page": "https://www.fishaboutsydney.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c20.webp",
+      "width": 600,
+      "height": 600,
+      "original": "600x600",
+      "source": "https://www.fishaboutsydney.com.au/wp-content/uploads/2018/02/Andrew-ET-Ettingshausen.jpg",
+      "page": "https://www.fishaboutsydney.com.au/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.fishaboutsydney.com.au/",
+      "status": 200,
+      "final_url": "https://www.fishaboutsydney.com.au/",
+      "bytes": 53512
+    },
+    {
+      "page": "https://www.fishaboutsydney.com.au/gallery/",
+      "status": 200,
+      "final_url": "https://www.fishaboutsydney.com.au/gallery/",
+      "bytes": 27235
+    },
+    {
+      "page": "https://fishabout.com.au/sydney/",
+      "status": 200,
+      "final_url": "https://fishabout.com.au/sydney-charters/",
+      "bytes": 191160
+    },
+    {
+      "page": "https://www.sydney.com/things-to-do/tours/fishabout-sydney-harbour",
+      "status": 200,
+      "final_url": "https://www.sydney.com/things-to-do/tours/fishabout-sydney-harbour",
+      "bytes": 186959
+    },
+    {
+      "page": "https://www.facebook.com/fishaboutsydney/",
+      "status": 400,
+      "final_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Ffishaboutsydney%2F",
+      "bytes": 1542
+    },
+    {
+      "page": "https://www.fishaboutsydney.com.au/about-craig-mcgill/",
+      "status": 200,
+      "final_url": "https://www.fishaboutsydney.com.au/about-craig-mcgill/",
+      "bytes": 23920
+    },
+    {
+      "page": "https://www.fishaboutsydney.com.au/articles/",
+      "status": 200,
+      "final_url": "https://www.fishaboutsydney.com.au/articles/",
+      "bytes": 40289
+    },
+    {
+      "page": "https://www.fishaboutsydney.com.au/pick-up-points/",
+      "status": 200,
+      "final_url": "https://www.fishaboutsydney.com.au/pick-up-points/",
+      "bytes": 23576
+    }
+  ]
+}

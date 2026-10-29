@@ -1,0 +1,332 @@
+{
+  "slug": "reel-contagious-charters-port-stephens",
+  "request_hash": "36d933ea42f0",
+  "collected_at": "2026-10-29T03:09:39.744Z",
+  "pages_fetched": [
+    "https://www.reelcontagiouscharters.com.au/",
+    "https://www.portstephensfishingcharters.com.au/",
+    "https://www.reelcontagiouscharters.com.au/charters/",
+    "https://www.reelcontagiouscharters.com.au/raizem-marlin-teasers/",
+    "https://www.reelcontagiouscharters.com.au/gallery/",
+    "https://www.reelcontagiouscharters.com.au/contact-us/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1600,
+      "height": 500,
+      "original": "1600x500",
+      "source": "https://www.reelcontagiouscharters.com.au/wp-content/uploads/home-banner3.jpg",
+      "page": "https://www.reelcontagiouscharters.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 1000,
+      "height": 669,
+      "original": "1000x669",
+      "source": "https://www.reelcontagiouscharters.com.au/wp-content/uploads/contagious-gallery-30.jpg",
+      "page": "https://www.reelcontagiouscharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1600,
+      "height": 1200,
+      "original": "1600x1200",
+      "source": "https://www.reelcontagiouscharters.com.au/wp-content/uploads/Blue-1.jpeg",
+      "page": "https://www.reelcontagiouscharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1000,
+      "height": 669,
+      "original": "1000x669",
+      "source": "https://www.reelcontagiouscharters.com.au/wp-content/uploads/contagious-gallery-09.jpg",
+      "page": "https://www.reelcontagiouscharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1600,
+      "height": 1299,
+      "original": "1600x1299",
+      "source": "https://www.reelcontagiouscharters.com.au/wp-content/uploads/IMG_0884.jpeg",
+      "page": "https://www.reelcontagiouscharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1024,
+      "height": 768,
+      "original": "1024x768",
+      "source": "https://www.reelcontagiouscharters.com.au/wp-content/uploads/4E494C89-A614-4470-B504-780411652CAC_1_105_c.jpeg",
+      "page": "https://www.reelcontagiouscharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1600,
+      "height": 1265,
+      "original": "1600x1265",
+      "source": "https://www.reelcontagiouscharters.com.au/wp-content/uploads/RC116.jpg",
+      "page": "https://www.reelcontagiouscharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 669,
+      "height": 1000,
+      "original": "669x1000",
+      "source": "https://www.reelcontagiouscharters.com.au/wp-content/uploads/contagious-gallery-29.jpg",
+      "page": "https://www.reelcontagiouscharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1200,
+      "height": 1600,
+      "original": "1200x1600",
+      "source": "https://www.reelcontagiouscharters.com.au/wp-content/uploads/Blue-Marlin-4.jpeg",
+      "page": "https://www.reelcontagiouscharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1000,
+      "height": 669,
+      "original": "1000x669",
+      "source": "https://www.reelcontagiouscharters.com.au/wp-content/uploads/contagious-gallery-18.jpg",
+      "page": "https://www.reelcontagiouscharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1600,
+      "height": 1163,
+      "original": "1600x1163",
+      "source": "https://www.reelcontagiouscharters.com.au/wp-content/uploads/Reel-Contagious-Pic.jpeg",
+      "page": "https://www.reelcontagiouscharters.com.au/charters/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1600,
+      "height": 1200,
+      "original": "1600x1200",
+      "source": "https://www.reelcontagiouscharters.com.au/wp-content/uploads/Reel-Contagious-2.jpeg",
+      "page": "https://www.reelcontagiouscharters.com.au/charters/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1491,
+      "height": 1600,
+      "original": "1491x1600",
+      "source": "https://www.reelcontagiouscharters.com.au/wp-content/uploads/RC2.jpeg",
+      "page": "https://www.reelcontagiouscharters.com.au/charters/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1600,
+      "height": 1200,
+      "original": "1600x1200",
+      "source": "https://www.reelcontagiouscharters.com.au/wp-content/uploads/RC11.jpg",
+      "page": "https://www.reelcontagiouscharters.com.au/charters/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1600,
+      "height": 1200,
+      "original": "1600x1200",
+      "source": "https://www.reelcontagiouscharters.com.au/wp-content/uploads/RC05.jpg",
+      "page": "https://www.reelcontagiouscharters.com.au/charters/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1600,
+      "height": 1200,
+      "original": "1600x1200",
+      "source": "https://www.reelcontagiouscharters.com.au/wp-content/uploads/RC01.jpg",
+      "page": "https://www.reelcontagiouscharters.com.au/charters/",
+      "priority": false
+    },
+    {
+      "file": "c17.webp",
+      "width": 1600,
+      "height": 1200,
+      "original": "1600x1200",
+      "source": "https://www.reelcontagiouscharters.com.au/wp-content/uploads/RC03.jpg",
+      "page": "https://www.reelcontagiouscharters.com.au/charters/",
+      "priority": false
+    },
+    {
+      "file": "c18.webp",
+      "width": 1600,
+      "height": 1200,
+      "original": "1600x1200",
+      "source": "https://www.reelcontagiouscharters.com.au/wp-content/uploads/RC08.jpg",
+      "page": "https://www.reelcontagiouscharters.com.au/charters/",
+      "priority": false
+    },
+    {
+      "file": "c19.webp",
+      "width": 1600,
+      "height": 1200,
+      "original": "1600x1200",
+      "source": "https://www.reelcontagiouscharters.com.au/wp-content/uploads/RC07.jpg",
+      "page": "https://www.reelcontagiouscharters.com.au/charters/",
+      "priority": false
+    },
+    {
+      "file": "c20.webp",
+      "width": 1200,
+      "height": 1600,
+      "original": "1200x1600",
+      "source": "https://www.reelcontagiouscharters.com.au/wp-content/uploads/RC04.jpg",
+      "page": "https://www.reelcontagiouscharters.com.au/charters/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.reelcontagiouscharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.reelcontagiouscharters.com.au/",
+      "bytes": 68144
+    },
+    {
+      "page": "https://www.portstephensfishingcharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.portstephensfishingcharters.com.au/",
+      "bytes": 47214
+    },
+    {
+      "page": "https://www.reelcontagiouscharters.com.au/charters/",
+      "status": 200,
+      "final_url": "https://www.reelcontagiouscharters.com.au/charters/",
+      "bytes": 75256
+    },
+    {
+      "page": "https://www.reelcontagiouscharters.com.au/raizem-marlin-teasers/",
+      "status": 200,
+      "final_url": "https://www.reelcontagiouscharters.com.au/raizem-marlin-teasers/",
+      "bytes": 62586
+    },
+    {
+      "page": "https://www.reelcontagiouscharters.com.au/gallery/",
+      "status": 200,
+      "final_url": "https://www.reelcontagiouscharters.com.au/gallery/",
+      "bytes": 108730
+    },
+    {
+      "page": "https://www.reelcontagiouscharters.com.au/contact-us/",
+      "status": 200,
+      "final_url": "https://www.reelcontagiouscharters.com.au/contact-us/",
+      "bytes": 55746
+    },
+    {
+      "image": "https://www.reelcontagiouscharters.com.au/wp-content/uploads/facebook.png",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://www.reelcontagiouscharters.com.au/wp-content/uploads/home-banner3-150x47.jpg",
+      "error": "too small 150x47"
+    },
+    {
+      "image": "https://www.reelcontagiouscharters.com.au/wp-content/uploads/home-banner3-768x240.jpg",
+      "error": "too small 768x240"
+    },
+    {
+      "image": "https://www.reelcontagiouscharters.com.au/wp-content/uploads/contagious-gallery-09-150x100.jpg",
+      "error": "too small 150x100"
+    },
+    {
+      "dup": "https://www.reelcontagiouscharters.com.au/wp-content/uploads/contagious-gallery-09-768x514.jpg"
+    },
+    {
+      "image": "https://www.reelcontagiouscharters.com.au/wp-content/uploads/RC116-150x119.jpg",
+      "error": "too small 150x119"
+    },
+    {
+      "dup": "https://www.reelcontagiouscharters.com.au/wp-content/uploads/RC116-768x607.jpg"
+    },
+    {
+      "dup": "https://www.reelcontagiouscharters.com.au/wp-content/uploads/RC116-1536x1214.jpg"
+    },
+    {
+      "image": "https://www.reelcontagiouscharters.com.au/wp-content/uploads/contagious-gallery-29-100x150.jpg",
+      "error": "too small 100x150"
+    },
+    {
+      "image": "https://www.reelcontagiouscharters.com.au/wp-content/uploads/Blue-Marlin-4-113x150.jpeg",
+      "error": "too small 113x150"
+    },
+    {
+      "dup": "https://www.reelcontagiouscharters.com.au/wp-content/uploads/Blue-Marlin-4-768x1024.jpeg"
+    },
+    {
+      "image": "https://www.reelcontagiouscharters.com.au/wp-content/uploads/contagious-gallery-18-150x100.jpg",
+      "error": "too small 150x100"
+    },
+    {
+      "dup": "https://www.reelcontagiouscharters.com.au/wp-content/uploads/contagious-gallery-18-768x514.jpg"
+    },
+    {
+      "image": "https://www.portstephensfishingcharters.com.au/wp-content/uploads/home-pic-1.jpg",
+      "error": "too small 300x200"
+    },
+    {
+      "image": "https://www.portstephensfishingcharters.com.au/wp-content/uploads/facebook.png",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://www.portstephensfishingcharters.com.au/wp-content/uploads/home-pic-2.jpg",
+      "error": "too small 300x200"
+    },
+    {
+      "image": "https://www.portstephensfishingcharters.com.au/wp-content/uploads/home-pic-3.jpg",
+      "error": "too small 300x200"
+    },
+    {
+      "image": "https://www.portstephensfishingcharters.com.au/wp-content/uploads/home-pic-4.jpg",
+      "error": "too small 300x200"
+    },
+    {
+      "image": "https://www.portstephensfishingcharters.com.au/wp-content/uploads/home-pic-1-150x100.jpg",
+      "error": "too small 150x100"
+    },
+    {
+      "image": "https://www.portstephensfishingcharters.com.au/wp-content/uploads/home-pic-2-150x100.jpg",
+      "error": "too small 150x100"
+    },
+    {
+      "image": "https://www.portstephensfishingcharters.com.au/wp-content/uploads/home-pic-3-150x100.jpg",
+      "error": "too small 150x100"
+    },
+    {
+      "image": "https://www.portstephensfishingcharters.com.au/wp-content/uploads/home-pic-4-150x100.jpg",
+      "error": "too small 150x100"
+    },
+    {
+      "image": "https://www.reelcontagiouscharters.com.au/wp-content/uploads/1.png",
+      "error": "too small 100x100"
+    },
+    {
+      "image": "https://www.reelcontagiouscharters.com.au/wp-content/uploads/2.png",
+      "error": "too small 100x100"
+    },
+    {
+      "image": "https://www.reelcontagiouscharters.com.au/wp-content/uploads/3.png",
+      "error": "too small 100x100"
+    },
+    {
+      "image": "https://www.reelcontagiouscharters.com.au/wp-content/uploads/4.png",
+      "error": "too small 100x100"
+    }
+  ]
+}
