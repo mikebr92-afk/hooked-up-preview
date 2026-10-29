@@ -1,276 +1,221 @@
 {
   "slug": "top-end-sport-fishing-darwin",
-  "request_hash": "193bcaf3da31",
-  "collected_at": "2026-10-29T03:08:09.092Z",
+  "request_hash": "e81ae8ea293b",
+  "collected_at": "2026-10-29T03:10:21.273Z",
   "pages_fetched": [
-    "https://www.topendsportfishing.com.au/",
-    "https://topendsportfishing.com/",
-    "https://waholidayguide.com.au/top-end-sportfishing",
-    "https://localista.com.au/listing/au/darwin-2/tours/top-end-sportfishing",
-    "https://www.waholidayguide.com.au/wa-info/about-western-australia",
-    "https://www.waholidayguide.com.au/about-us",
-    "https://www.waholidayguide.com.au/wa-info/useful-info/about-wa-holiday-guide",
-    "https://www.waholidayguide.com.au/western-australia-accommodation/browse-accommodation/western-australia-houseboat"
+    "https://northernterritory.com/tours/top-end-sportfishing",
+    "https://www.visittopend.com.au/tours/top-end-sportfishing",
+    "https://www.topendsportfishing.net.au/",
+    "https://www.topendsportfishingcharters.com.au/",
+    "https://www.facebook.com/topendsportfishing/",
+    "https://www.tomscatch.com/fishing-in-australia/top-end-sportfishing-621",
+    "https://darwinlocalista.com.au/listing/top-end-sportfishing",
+    "https://darwinlocalista.com.au/search?place=northern+territory%2C+au&category=tours&qid=9nv4gp"
   ],
   "candidates": [
     {
       "file": "c01.webp",
-      "width": 1920,
-      "height": 980,
-      "original": "1920x980",
-      "source": "https://www.waholidayguide.com.au/og-image-share/banners/Perth-City/Aerial-view-of-Cottesloe-Beach-2.jpg",
-      "page": "https://waholidayguide.com.au/top-end-sportfishing",
+      "width": 1200,
+      "height": 900,
+      "original": "1200x900",
+      "source": "https://images.localista.com.au/tours/628944_lrg.jpg",
+      "page": "https://darwinlocalista.com.au/listing/top-end-sportfishing",
       "priority": true
     },
     {
       "file": "c02.webp",
-      "width": 1920,
-      "height": 980,
-      "original": "1920x980",
-      "source": "https://images.impartmedia.com/waholidayguide.com.au/banners/Geraldton/Abrolhos-Island-2.webp",
-      "page": "https://waholidayguide.com.au/top-end-sportfishing",
+      "width": 864,
+      "height": 648,
+      "original": "864x648",
+      "source": "https://darwinlocalista.com.au/image/listing/15/tours/628945_lrg.jpg",
+      "page": "https://darwinlocalista.com.au/listing/top-end-sportfishing",
       "priority": false
     },
     {
       "file": "c03.webp",
-      "width": 1920,
-      "height": 980,
-      "original": "1920x980",
-      "source": "https://images.impartmedia.com/waholidayguide.com.au/banners/Walpole/Banksia-camp-in-the-DEntrecasteaux-National-Park.jpg",
-      "page": "https://waholidayguide.com.au/top-end-sportfishing",
+      "width": 864,
+      "height": 648,
+      "original": "864x648",
+      "source": "https://darwinlocalista.com.au/image/listing/15/tours/628946_lrg.jpg",
+      "page": "https://darwinlocalista.com.au/listing/top-end-sportfishing",
       "priority": false
     },
     {
       "file": "c04.webp",
-      "width": 2000,
-      "height": 1332,
-      "original": "2000x1332",
-      "source": "https://images.impartmedia.com/waholidayguide.com.au/banners/Kambalda/119721-3-Lake-Lefroy-near-Kambalda.webp",
-      "page": "https://waholidayguide.com.au/top-end-sportfishing",
+      "width": 1200,
+      "height": 900,
+      "original": "1200x900",
+      "source": "https://images.localista.com.au/tours/628947_lrg.jpg",
+      "page": "https://darwinlocalista.com.au/listing/top-end-sportfishing",
       "priority": false
     },
     {
       "file": "c05.webp",
-      "width": 1920,
-      "height": 980,
-      "original": "1920x980",
-      "source": "https://images.impartmedia.com/waholidayguide.com.au/banners/Busselton/Busselton-Jetty-2.webp",
-      "page": "https://waholidayguide.com.au/top-end-sportfishing",
+      "width": 1200,
+      "height": 900,
+      "original": "1200x900",
+      "source": "https://images.localista.com.au/tours/628948_lrg.jpg",
+      "page": "https://darwinlocalista.com.au/listing/top-end-sportfishing",
       "priority": false
     },
     {
       "file": "c06.webp",
-      "width": 1920,
-      "height": 980,
-      "original": "1920x980",
-      "source": "https://images.impartmedia.com/waholidayguide.com.au/banners/Pemberton/Dave-Evans-Bicentennial-Tree-Warren-National-Park.jpg",
-      "page": "https://waholidayguide.com.au/top-end-sportfishing",
+      "width": 864,
+      "height": 542,
+      "original": "864x542",
+      "source": "https://darwinlocalista.com.au/image/listing/12/tours/639777_lrg.jpg",
+      "page": "https://darwinlocalista.com.au/search?place=northern+territory%2C+au&category=tours&qid=9nv4gp",
       "priority": false
     },
     {
       "file": "c07.webp",
-      "width": 1920,
-      "height": 980,
-      "original": "1920x980",
-      "source": "https://images.impartmedia.com/waholidayguide.com.au/banners/Perth-City/Aerial-view-of-Cottesloe-Beach.jpg",
-      "page": "https://waholidayguide.com.au/top-end-sportfishing",
+      "width": 864,
+      "height": 542,
+      "original": "864x542",
+      "source": "https://darwinlocalista.com.au/image/listing/12/tours/623636_lrg.jpg",
+      "page": "https://darwinlocalista.com.au/search?place=northern+territory%2C+au&category=tours&qid=9nv4gp",
       "priority": false
     },
     {
       "file": "c08.webp",
-      "width": 1920,
-      "height": 980,
-      "original": "1920x980",
-      "source": "https://images.impartmedia.com/waholidayguide.com.au/banners/Joondalup/Burns-Beach.webp",
-      "page": "https://waholidayguide.com.au/top-end-sportfishing",
+      "width": 864,
+      "height": 542,
+      "original": "864x542",
+      "source": "https://darwinlocalista.com.au/image/listing/12/tours/627023_lrg.jpg",
+      "page": "https://darwinlocalista.com.au/search?place=northern+territory%2C+au&category=tours&qid=9nv4gp",
       "priority": false
     },
     {
       "file": "c09.webp",
-      "width": 2000,
-      "height": 1332,
-      "original": "2000x1332",
-      "source": "https://images.impartmedia.com/waholidayguide.com.au/banners/Manjimup/kangaroo-southern-cross2.webp",
-      "page": "https://waholidayguide.com.au/top-end-sportfishing",
+      "width": 1200,
+      "height": 900,
+      "original": "1200x900",
+      "source": "https://images.localista.com.au/tours/639777_lrg.jpg",
+      "page": "https://darwinlocalista.com.au/search?place=northern+territory%2C+au&category=tours&qid=9nv4gp",
       "priority": false
     },
     {
       "file": "c10.webp",
-      "width": 2000,
-      "height": 1428,
-      "original": "2000x1428",
-      "source": "https://images.impartmedia.com/waholidayguide.com.au/banners/Perth-City/119180-56-perth-city.webp",
-      "page": "https://waholidayguide.com.au/top-end-sportfishing",
+      "width": 1199,
+      "height": 900,
+      "original": "1199x900",
+      "source": "https://images.localista.com.au/tours/623636_lrg.jpg",
+      "page": "https://darwinlocalista.com.au/search?place=northern+territory%2C+au&category=tours&qid=9nv4gp",
       "priority": false
     },
     {
       "file": "c11.webp",
-      "width": 1920,
-      "height": 980,
-      "original": "1920x980",
-      "source": "https://images.impartmedia.com/waholidayguide.com.au/banners/Toodyay/Connors-Mill-Museum-2.jpg",
-      "page": "https://waholidayguide.com.au/top-end-sportfishing",
+      "width": 1200,
+      "height": 900,
+      "original": "1200x900",
+      "source": "https://images.localista.com.au/tours/639776_lrg.jpg",
+      "page": "https://darwinlocalista.com.au/search?place=northern+territory%2C+au&category=tours&qid=9nv4gp",
       "priority": false
     },
     {
       "file": "c12.webp",
-      "width": 1920,
-      "height": 980,
-      "original": "1920x980",
-      "source": "https://images.impartmedia.com/waholidayguide.com.au/banners/Bridgetown/Farmland-near-Bridgetown.jpg",
-      "page": "https://waholidayguide.com.au/top-end-sportfishing",
+      "width": 1200,
+      "height": 900,
+      "original": "1200x900",
+      "source": "https://images.localista.com.au/tours/624380_lrg.jpg",
+      "page": "https://darwinlocalista.com.au/search?place=northern+territory%2C+au&category=tours&qid=9nv4gp",
       "priority": false
     },
     {
       "file": "c13.webp",
-      "width": 1920,
-      "height": 980,
-      "original": "1920x980",
-      "source": "https://images.impartmedia.com/waholidayguide.com.au/banners/Nannup/Golden-Valley-Tree-Park.jpg",
-      "page": "https://waholidayguide.com.au/top-end-sportfishing",
+      "width": 1200,
+      "height": 900,
+      "original": "1200x900",
+      "source": "https://images.localista.com.au/tours/622008_lrg.jpg",
+      "page": "https://darwinlocalista.com.au/search?place=northern+territory%2C+au&category=tours&qid=9nv4gp",
       "priority": false
     },
     {
       "file": "c14.webp",
-      "width": 2000,
-      "height": 1334,
-      "original": "2449x1633",
-      "source": "https://images.impartmedia.com/waholidayguide.com.au/tourism_wa/126372-3-Eco-Beach-Resort-Broome.jpg#joomlaImage://local-images/tourism_wa/126372-3-Eco-Beach-Resort-Broome.jpg?width=2449&height=1633",
-      "page": "https://waholidayguide.com.au/top-end-sportfishing",
+      "width": 1200,
+      "height": 900,
+      "original": "1200x900",
+      "source": "https://images.localista.com.au/tours/622484_lrg.jpg",
+      "page": "https://darwinlocalista.com.au/search?place=northern+territory%2C+au&category=tours&qid=9nv4gp",
       "priority": false
     },
     {
       "file": "c15.webp",
-      "width": 612,
-      "height": 408,
-      "original": "612x408",
-      "source": "https://images.impartmedia.com/waholidayguide.com.au/tourism_wa/Wooleen-Station-Murchison-127582-4.jpg#joomlaImage://local-images/tourism_wa/Wooleen-Station-Murchison-127582-4.jpg?width=612&height=408",
-      "page": "https://waholidayguide.com.au/top-end-sportfishing",
+      "width": 1200,
+      "height": 900,
+      "original": "1200x900",
+      "source": "https://images.localista.com.au/tours/646338_lrg.jpg",
+      "page": "https://darwinlocalista.com.au/search?place=northern+territory%2C+au&category=tours&qid=9nv4gp",
       "priority": false
     },
     {
       "file": "c16.webp",
-      "width": 2000,
-      "height": 1124,
-      "original": "5101x2866",
-      "source": "https://images.impartmedia.com/waholidayguide.com.au/tourism_wa/128914-56.jpg#joomlaImage://local-images/tourism_wa/128914-56.jpg?width=5101&height=2866",
-      "page": "https://waholidayguide.com.au/top-end-sportfishing",
+      "width": 1199,
+      "height": 900,
+      "original": "1199x900",
+      "source": "https://images.localista.com.au/tours/626006_lrg.jpg",
+      "page": "https://darwinlocalista.com.au/search?place=northern+territory%2C+au&category=tours&qid=9nv4gp",
       "priority": false
     }
   ],
   "log": [
     {
-      "page": "https://www.topendsportfishing.com.au/",
+      "page": "https://northernterritory.com/tours/top-end-sportfishing",
+      "status": 404,
+      "final_url": "https://northernterritory.com/tours/top-end-sportfishing",
+      "bytes": 517251
+    },
+    {
+      "page": "https://www.visittopend.com.au/tours/top-end-sportfishing",
+      "status": 404,
+      "final_url": "https://www.visittopend.com.au/tours/top-end-sportfishing",
+      "bytes": 48134
+    },
+    {
+      "page": "https://www.topendsportfishing.net.au/",
       "error": "fetch failed"
     },
     {
-      "page": "https://topendsportfishing.com/",
+      "page": "https://www.topendsportfishingcharters.com.au/",
       "error": "fetch failed"
     },
     {
-      "page": "https://waholidayguide.com.au/top-end-sportfishing",
-      "status": 200,
-      "final_url": "https://www.waholidayguide.com.au/western-australia-accommodation",
-      "bytes": 588674
+      "page": "https://www.facebook.com/topendsportfishing/",
+      "status": 400,
+      "final_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Ftopendsportfishing%2F",
+      "bytes": 1542
     },
     {
-      "page": "https://localista.com.au/listing/au/darwin-2/tours/top-end-sportfishing",
+      "page": "https://www.tomscatch.com/fishing-in-australia/top-end-sportfishing-621",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://darwinlocalista.com.au/listing/top-end-sportfishing",
       "status": 200,
       "final_url": "https://darwinlocalista.com.au/listing/top-end-sportfishing?place=darwin-suburb%2C+nt%2C+au",
       "bytes": 72124
     },
     {
-      "page": "https://www.waholidayguide.com.au/wa-info/about-western-australia",
+      "page": "https://darwinlocalista.com.au/search?place=northern+territory%2C+au&category=tours&qid=9nv4gp",
       "status": 200,
-      "final_url": "https://www.waholidayguide.com.au/wa-info/about-western-australia",
-      "bytes": 405653
+      "final_url": "https://darwinlocalista.com.au/search?place=northern+territory%2C+au&category=tours&qid=9nv4gp",
+      "bytes": 73366
     },
     {
-      "page": "https://www.waholidayguide.com.au/about-us",
-      "status": 200,
-      "final_url": "https://www.waholidayguide.com.au/about-us",
-      "bytes": 387609
+      "dup": "https://darwinlocalista.com.au/image/listing/15/tours/628944_lrg.jpg"
     },
     {
-      "page": "https://www.waholidayguide.com.au/wa-info/useful-info/about-wa-holiday-guide",
-      "status": 200,
-      "final_url": "https://www.waholidayguide.com.au/wa-info/useful-info/about-wa-holiday-guide",
-      "bytes": 404696
+      "image": "https://darwinlocalista.com.au/blog/image/3/2026/02/mialno.jpg",
+      "error": "too small 560x315"
     },
     {
-      "page": "https://www.waholidayguide.com.au/western-australia-accommodation/browse-accommodation/western-australia-houseboat",
-      "status": 200,
-      "final_url": "https://www.waholidayguide.com.au/western-australia-accommodation/browse-accommodation/western-australia-houseboat",
-      "bytes": 458287
+      "dup": "https://images.localista.com.au/tours/628945_lrg.jpg"
     },
     {
-      "image": "https://images.impartmedia.com/waholidayguide.com.au/banners/Perth-City/Aerial-view-of-Cottesloe-Beach-2_small420.webp",
-      "error": "too small 420x214"
+      "dup": "https://images.localista.com.au/tours/628946_lrg.jpg"
     },
     {
-      "image": "https://images.impartmedia.com/waholidayguide.com.au/banners/Geraldton/Abrolhos-Island-2_small420.webp",
-      "error": "too small 420x214"
-    },
-    {
-      "image": "https://images.impartmedia.com/waholidayguide.com.au/banners/Walpole/Banksia-camp-in-the-DEntrecasteaux-National-Park_small420.webp",
-      "error": "too small 420x214"
-    },
-    {
-      "image": "https://images.impartmedia.com/waholidayguide.com.au/banners/Kambalda/119721-3-Lake-Lefroy-near-Kambalda_small420.webp",
-      "error": "too small 420x279"
-    },
-    {
-      "image": "https://images.impartmedia.com/waholidayguide.com.au/banners/Busselton/Busselton-Jetty-2_small420.webp",
-      "error": "too small 420x214"
-    },
-    {
-      "image": "https://images.impartmedia.com/waholidayguide.com.au/banners/Pemberton/Dave-Evans-Bicentennial-Tree-Warren-National-Park_small420.webp",
-      "error": "too small 420x214"
-    },
-    {
-      "image": "https://images.impartmedia.com/waholidayguide.com.au/banners/Perth-City/Aerial-view-of-Cottesloe-Beach_small420.webp",
-      "error": "too small 420x214"
-    },
-    {
-      "image": "https://images.impartmedia.com/waholidayguide.com.au/banners/Joondalup/Burns-Beach_small420.webp",
-      "error": "too small 420x214"
-    },
-    {
-      "image": "https://images.impartmedia.com/waholidayguide.com.au/banners/Manjimup/kangaroo-southern-cross2_small420.webp",
-      "error": "too small 420x279"
-    },
-    {
-      "image": "https://images.impartmedia.com/waholidayguide.com.au/banners/Perth-City/119180-56-perth-city_small420.webp",
-      "error": "too small 420x300"
-    },
-    {
-      "image": "https://images.impartmedia.com/waholidayguide.com.au/banners/Joondalup/joondalup-boat-harbour_small420.webp",
-      "error": "too small 420x140"
-    },
-    {
-      "image": "https://images.impartmedia.com/waholidayguide.com.au/banners/Toodyay/Connors-Mill-Museum-2_small420.webp",
-      "error": "too small 420x214"
-    },
-    {
-      "image": "https://images.impartmedia.com/waholidayguide.com.au/banners/Bridgetown/Farmland-near-Bridgetown_small420.webp",
-      "error": "too small 420x214"
-    },
-    {
-      "image": "https://images.impartmedia.com/waholidayguide.com.au/banners/Esperance/Frenchmans-Peak-Cape-Le-Grand-National-Park_small420.webp",
-      "error": "too small 420x214"
-    },
-    {
-      "image": "https://images.impartmedia.com/waholidayguide.com.au/banners/Nannup/Golden-Valley-Tree-Park_small420.webp",
-      "error": "too small 420x214"
-    },
-    {
-      "dup": "https://images.impartmedia.com/waholidayguide.com.au/banners/Perth-City/Aerial-view-of-Cottesloe-Beach-2.jpg"
-    },
-    {
-      "dup": "https://images.impartmedia.com/waholidayguide.com.au/banners/Joondalup/joondalup-boat-harbour.webp"
-    },
-    {
-      "dup": "https://images.impartmedia.com/waholidayguide.com.au/banners/Esperance/Frenchmans-Peak-Cape-Le-Grand-National-Park.webp"
+      "dup": "https://images.localista.com.au/tours/627023_lrg.jpg"
     }
   ]
 }

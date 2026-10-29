@@ -1,20 +1,17 @@
 {
-  "finished_at": "2026-10-29T03:08:09.093Z",
+  "finished_at": "2026-10-29T03:10:21.274Z",
   "summary": [
     {
       "slug": "barra-private-tours-darwin",
-      "candidates": 20,
-      "pages": 8
+      "skipped": true
     },
     {
       "slug": "barra-or-blue-fishing-charters-darwin",
-      "candidates": 20,
-      "pages": 8
+      "skipped": true
     },
     {
       "slug": "darwin-harbour-fishing-charters",
-      "candidates": 20,
-      "pages": 8
+      "skipped": true
     },
     {
       "slug": "top-end-sport-fishing-darwin",
