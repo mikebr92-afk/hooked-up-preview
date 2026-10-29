@@ -1,0 +1,17 @@
+{
+  "slug": "conquest-townsville",
+  "request_hash": "5d6ee0d95bb4",
+  "collected_at": "2026-10-29T04:28:10.112Z",
+  "pages_fetched": [
+    "https://www.nccharters.com.au/trip/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.nccharters.com.au/trip/",
+      "status": 200,
+      "final_url": "https://conquestcharters.com.au/fishing-quests/",
+      "bytes": 270125
+    }
+  ]
+}

@@ -1,0 +1,344 @@
+{
+  "slug": "audacity-charters-townsville",
+  "request_hash": "b7a087e2c977",
+  "collected_at": "2026-10-29T04:28:06.266Z",
+  "pages_fetched": [
+    "https://audacitymarine.com.au/fishing-charters/",
+    "https://audacitymarine.com.au/",
+    "https://audacitymarine.com.au/our-fleet/",
+    "https://audacitymarine.com.au/about-us/",
+    "https://audacitymarine.com.au/gallery/",
+    "https://audacitymarine.com.au/contact/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 600,
+      "height": 800,
+      "original": "600x800",
+      "source": "https://audacitymarine.com.au/wp-content/uploads/elementor/thumbs/mixedgroupday-rocb0cje77dl84xppebk2etguf3rlk0635rb8250sg.jpg",
+      "page": "https://audacitymarine.com.au/fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 1500,
+      "height": 700,
+      "original": "1500x700",
+      "source": "https://audacitymarine.com.au/wp-content/uploads/2022/02/audacity-charters-townsville-les-y.jpg",
+      "page": "https://audacitymarine.com.au/fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 2000,
+      "height": 988,
+      "original": "2000x988",
+      "source": "https://audacitymarine.com.au/wp-content/uploads/2022/02/DSC_7511.jpg",
+      "page": "https://audacitymarine.com.au/fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 700,
+      "height": 450,
+      "original": "700x450",
+      "source": "https://audacitymarine.com.au/wp-content/uploads/elementor/thumbs/Lodestone-Reef-qfyant38tf3trdy0yybfqbwuwkxavvc0qbf5sg1ml0.jpeg",
+      "page": "https://audacitymarine.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 2000,
+      "height": 2000,
+      "original": "2000x2000",
+      "source": "https://audacitymarine.com.au/wp-content/uploads/2025/07/1000008662.png",
+      "page": "https://audacitymarine.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1080,
+      "height": 1080,
+      "original": "1080x1080",
+      "source": "https://audacitymarine.com.au/wp-content/uploads/2025/01/13.png",
+      "page": "https://audacitymarine.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1080,
+      "height": 1080,
+      "original": "1080x1080",
+      "source": "https://audacitymarine.com.au/wp-content/uploads/2025/01/poppers-stick-bait-colours-1.png",
+      "page": "https://audacitymarine.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1080,
+      "height": 1080,
+      "original": "1080x1080",
+      "source": "https://audacitymarine.com.au/wp-content/uploads/2025/01/6.png",
+      "page": "https://audacitymarine.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2000x1500",
+      "source": "https://audacitymarine.com.au/wp-content/uploads/2022/02/Boat-pics-Audacity-5.jpg",
+      "page": "https://audacitymarine.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 2000,
+      "height": 830,
+      "original": "2560x1062",
+      "source": "https://audacitymarine.com.au/wp-content/uploads/2026/06/VanguardBluebanner2.jpg",
+      "page": "https://audacitymarine.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 2000,
+      "height": 1332,
+      "original": "2000x1332",
+      "source": "https://audacitymarine.com.au/wp-content/uploads/2022/02/IMG_5531-1.jpg",
+      "page": "https://audacitymarine.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 2000,
+      "height": 1124,
+      "original": "2000x1124",
+      "source": "https://audacitymarine.com.au/wp-content/uploads/2022/02/IMG_5516.jpg",
+      "page": "https://audacitymarine.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 800,
+      "height": 600,
+      "original": "800x600",
+      "source": "https://audacitymarine.com.au/wp-content/uploads/elementor/thumbs/Vanguard-2-roatj0qfuj9jnqjar6xbehrhq1fack3t3bd4g9ovow.jpg",
+      "page": "https://audacitymarine.com.au/our-fleet/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 800,
+      "height": 600,
+      "original": "800x600",
+      "source": "https://audacitymarine.com.au/wp-content/uploads/elementor/thumbs/Vanguard-roatizslnp89c4knwoiou0014njx4v02r6pmyzq9v4.jpg",
+      "page": "https://audacitymarine.com.au/our-fleet/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 800,
+      "height": 600,
+      "original": "800x600",
+      "source": "https://audacitymarine.com.au/wp-content/uploads/elementor/thumbs/Vanguard-2-2-roatjo8ele5ppzl5xz2zmtu0ko7gozp3ijo9g6q1dc.jpg",
+      "page": "https://audacitymarine.com.au/our-fleet/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 800,
+      "height": 600,
+      "original": "800x600",
+      "source": "https://audacitymarine.com.au/wp-content/uploads/elementor/thumbs/Vanguard-3-roatjp68s8701ljsshhm7blh622twostuobqxgon74.jpg",
+      "page": "https://audacitymarine.com.au/our-fleet/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://audacitymarine.com.au/fishing-charters/",
+      "status": 200,
+      "final_url": "https://audacitymarine.com.au/fishing-charters/",
+      "bytes": 412021
+    },
+    {
+      "page": "https://audacitymarine.com.au/",
+      "status": 200,
+      "final_url": "https://audacitymarine.com.au/",
+      "bytes": 468240
+    },
+    {
+      "page": "https://audacitymarine.com.au/our-fleet/",
+      "status": 200,
+      "final_url": "https://audacitymarine.com.au/our-fleet/",
+      "bytes": 408615
+    },
+    {
+      "page": "https://audacitymarine.com.au/about-us/",
+      "status": 200,
+      "final_url": "https://audacitymarine.com.au/about-us/",
+      "bytes": 363149
+    },
+    {
+      "page": "https://audacitymarine.com.au/gallery/",
+      "status": 200,
+      "final_url": "https://audacitymarine.com.au/gallery/",
+      "bytes": 408404
+    },
+    {
+      "page": "https://audacitymarine.com.au/contact/",
+      "status": 200,
+      "final_url": "https://audacitymarine.com.au/contact/",
+      "bytes": 318456
+    },
+    {
+      "image": "https://audacitymarine.com.au/wp-content/uploads/elementor/thumbs/daycharter-scaled-rocb1s8g7dq2l76fni8jtmi2hbh6uoc0cyq392qhm4.jpg",
+      "error": "too small 400x350"
+    },
+    {
+      "image": "https://audacitymarine.com.au/wp-content/uploads/elementor/thumbs/nightcharter-scaled-rocb7sfbv9y0rigel3oqr3y33xvm1269uorrmptxv0.jpg",
+      "error": "too small 400x350"
+    },
+    {
+      "image": "https://audacitymarine.com.au/wp-content/uploads/elementor/thumbs/ExtendedCharters-rocawqtlkctqcghy2ttjyea3tybcl3btc0tdmo7gz0.jpg",
+      "error": "too small 400x350"
+    },
+    {
+      "image": "https://audacitymarine.com.au/wp-content/uploads/elementor/thumbs/1e801cd5-3e54-4f4a-a41d-0d8820c8d8a1-rocb90lqshmhx6o8f4s7iasr11tv2u1norfl6q0fqk.jpg",
+      "error": "too small 400x350"
+    },
+    {
+      "image": "https://audacitymarine.com.au/wp-content/uploads/elementor/thumbs/snorkelling-qfyaefn30bxq2jrk4t7s367baxe1p1flbig03tk8mk.jpg",
+      "error": "too small 400x350"
+    },
+    {
+      "image": "https://audacitymarine.com.au/wp-content/uploads/elementor/thumbs/received_166360255561847-qfyanfxei69nc0oij7e2hedc8uzogm6zk3iioa7ezw.jpeg",
+      "error": "too small 400x350"
+    },
+    {
+      "image": "https://audacitymarine.com.au/wp-content/uploads/elementor/thumbs/mixedgroupday-rocb0cjbrhraun9j1dw2ihjpt4k03bmrtuuduuv54c.jpg",
+      "error": "too small 400x350"
+    },
+    {
+      "image": "https://audacitymarine.com.au/wp-content/uploads/2025/07/1000008662-500x500.png",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://audacitymarine.com.au/wp-content/uploads/2025/07/1000008662-300x300.png",
+      "error": "too small 300x300"
+    },
+    {
+      "dup": "https://audacitymarine.com.au/wp-content/uploads/2025/07/1000008662-1024x1024.png"
+    },
+    {
+      "image": "https://audacitymarine.com.au/wp-content/uploads/2025/07/1000008662-150x150.png",
+      "error": "too small 150x150"
+    },
+    {
+      "dup": "https://audacitymarine.com.au/wp-content/uploads/2025/07/1000008662-768x768.png"
+    },
+    {
+      "dup": "https://audacitymarine.com.au/wp-content/uploads/2025/07/1000008662-1536x1536.png"
+    },
+    {
+      "dup": "https://audacitymarine.com.au/wp-content/uploads/2025/07/1000008662-800x800.png"
+    },
+    {
+      "image": "https://audacitymarine.com.au/wp-content/uploads/2025/07/1000008662-100x100.png",
+      "error": "too small 100x100"
+    },
+    {
+      "image": "https://audacitymarine.com.au/wp-content/uploads/2025/01/13-500x500.png",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://audacitymarine.com.au/wp-content/uploads/2025/01/13-300x300.png",
+      "error": "too small 300x300"
+    },
+    {
+      "dup": "https://audacitymarine.com.au/wp-content/uploads/2025/01/13-1024x1024.png"
+    },
+    {
+      "image": "https://audacitymarine.com.au/wp-content/uploads/2025/01/13-150x150.png",
+      "error": "too small 150x150"
+    },
+    {
+      "dup": "https://audacitymarine.com.au/wp-content/uploads/2025/01/13-768x768.png"
+    },
+    {
+      "dup": "https://audacitymarine.com.au/wp-content/uploads/2025/01/13-800x800.png"
+    },
+    {
+      "image": "https://audacitymarine.com.au/wp-content/uploads/2025/01/13-100x100.png",
+      "error": "too small 100x100"
+    },
+    {
+      "image": "https://audacitymarine.com.au/wp-content/uploads/2025/01/poppers-stick-bait-colours-1-500x500.png",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://audacitymarine.com.au/wp-content/uploads/2025/01/poppers-stick-bait-colours-1-300x300.png",
+      "error": "too small 300x300"
+    },
+    {
+      "dup": "https://audacitymarine.com.au/wp-content/uploads/2025/01/poppers-stick-bait-colours-1-1024x1024.png"
+    },
+    {
+      "image": "https://audacitymarine.com.au/wp-content/uploads/2025/01/poppers-stick-bait-colours-1-150x150.png",
+      "error": "too small 150x150"
+    },
+    {
+      "dup": "https://audacitymarine.com.au/wp-content/uploads/2025/01/poppers-stick-bait-colours-1-768x768.png"
+    },
+    {
+      "dup": "https://audacitymarine.com.au/wp-content/uploads/2025/01/poppers-stick-bait-colours-1-800x800.png"
+    },
+    {
+      "image": "https://audacitymarine.com.au/wp-content/uploads/2025/01/poppers-stick-bait-colours-1-100x100.png",
+      "error": "too small 100x100"
+    },
+    {
+      "image": "https://audacitymarine.com.au/wp-content/uploads/2025/01/6-500x500.png",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://audacitymarine.com.au/wp-content/uploads/2025/01/6-300x300.png",
+      "error": "too small 300x300"
+    },
+    {
+      "dup": "https://audacitymarine.com.au/wp-content/uploads/2025/01/6-1024x1024.png"
+    },
+    {
+      "image": "https://audacitymarine.com.au/wp-content/uploads/2025/01/6-150x150.png",
+      "error": "too small 150x150"
+    },
+    {
+      "dup": "https://audacitymarine.com.au/wp-content/uploads/2025/01/6-768x768.png"
+    },
+    {
+      "dup": "https://audacitymarine.com.au/wp-content/uploads/2025/01/6-800x800.png"
+    },
+    {
+      "image": "https://audacitymarine.com.au/wp-content/uploads/2025/01/6-100x100.png",
+      "error": "too small 100x100"
+    },
+    {
+      "dup": "https://audacitymarine.com.au/wp-content/uploads/2022/02/Boat-pics-Audacity-5-1024x768.jpg"
+    },
+    {
+      "dup": "https://audacitymarine.com.au/wp-content/uploads/2022/02/Boat-pics-Audacity-5-800x600.jpg"
+    },
+    {
+      "image": "https://audacitymarine.com.au/wp-content/uploads/2022/02/Boat-pics-Audacity-5-300x225.jpg",
+      "error": "too small 300x225"
+    },
+    {
+      "dup": "https://audacitymarine.com.au/wp-content/uploads/2022/02/Boat-pics-Audacity-5-768x576.jpg"
+    },
+    {
+      "dup": "https://audacitymarine.com.au/wp-content/uploads/2022/02/Boat-pics-Audacity-5-1536x1152.jpg"
+    }
+  ]
+}

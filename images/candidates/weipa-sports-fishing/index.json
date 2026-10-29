@@ -1,0 +1,380 @@
+{
+  "slug": "weipa-sports-fishing",
+  "request_hash": "72bfd1e437cf",
+  "collected_at": "2026-10-29T04:29:40.167Z",
+  "pages_fetched": [
+    "https://www.weipasportsfishing.com.au/",
+    "https://www.weipasportsfishing.com.au/online-bookings",
+    "https://www.weipasportsfishing.com.au/about",
+    "https://www.weipasportsfishing.com.au/about/our-equipment",
+    "https://www.weipasportsfishing.com.au/about/fishing-guides",
+    "https://www.weipasportsfishing.com.au/boats",
+    "https://www.weipasportsfishing.com.au/mother-shipping",
+    "https://www.weipasportsfishing.com.au/fishing",
+    "https://www.weipasportsfishing.com.au/fishing/fly-fishing",
+    "https://www.weipasportsfishing.com.au/fishing/lure-fishing"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1920,
+      "height": 1000,
+      "original": "1920x1000",
+      "source": "https://www.weipasportsfishing.com.au/wp-content/uploads/IMG_5402.jpg",
+      "page": "https://www.weipasportsfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 1920,
+      "height": 1000,
+      "original": "1920x1000",
+      "source": "https://www.weipasportsfishing.com.au/wp-content/uploads/banner-2.jpg",
+      "page": "https://www.weipasportsfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1920,
+      "height": 1000,
+      "original": "1920x1000",
+      "source": "https://www.weipasportsfishing.com.au/wp-content/uploads/IMG_6066.jpg",
+      "page": "https://www.weipasportsfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1920,
+      "height": 1000,
+      "original": "1920x1000",
+      "source": "https://www.weipasportsfishing.com.au/wp-content/uploads/IMG_5251.jpg",
+      "page": "https://www.weipasportsfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 950,
+      "height": 800,
+      "original": "950x800",
+      "source": "https://www.weipasportsfishing.com.au/wp-content/uploads/banner-1-1-1.jpg",
+      "page": "https://www.weipasportsfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1920,
+      "height": 650,
+      "original": "1920x650",
+      "source": "https://www.weipasportsfishing.com.au/wp-content/uploads/header1-2.jpg",
+      "page": "https://www.weipasportsfishing.com.au/online-bookings",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1920,
+      "height": 650,
+      "original": "1920x650",
+      "source": "https://www.weipasportsfishing.com.au/wp-content/uploads/header3.jpg",
+      "page": "https://www.weipasportsfishing.com.au/about",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 950,
+      "height": 750,
+      "original": "950x750",
+      "source": "https://www.weipasportsfishing.com.au/wp-content/uploads/blogpic2.jpg",
+      "page": "https://www.weipasportsfishing.com.au/about",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1920,
+      "height": 650,
+      "original": "1920x650",
+      "source": "https://www.weipasportsfishing.com.au/wp-content/uploads/header1-4.jpg",
+      "page": "https://www.weipasportsfishing.com.au/about/our-equipment",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 950,
+      "height": 750,
+      "original": "950x750",
+      "source": "https://www.weipasportsfishing.com.au/wp-content/uploads/side.jpg",
+      "page": "https://www.weipasportsfishing.com.au/about/our-equipment",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1920,
+      "height": 650,
+      "original": "1920x650",
+      "source": "https://www.weipasportsfishing.com.au/wp-content/uploads/header1-3.jpg",
+      "page": "https://www.weipasportsfishing.com.au/about/fishing-guides",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1920,
+      "height": 650,
+      "original": "1920x650",
+      "source": "https://www.weipasportsfishing.com.au/wp-content/uploads/ourboats.jpg",
+      "page": "https://www.weipasportsfishing.com.au/boats",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 950,
+      "height": 750,
+      "original": "950x750",
+      "source": "https://www.weipasportsfishing.com.au/wp-content/uploads/DJI_0208.jpg",
+      "page": "https://www.weipasportsfishing.com.au/boats",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1920,
+      "height": 650,
+      "original": "1920x650",
+      "source": "https://www.weipasportsfishing.com.au/wp-content/uploads/mothershippingslider.jpg",
+      "page": "https://www.weipasportsfishing.com.au/mother-shipping",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 950,
+      "height": 600,
+      "original": "950x600",
+      "source": "https://www.weipasportsfishing.com.au/wp-content/uploads/side-1.jpg",
+      "page": "https://www.weipasportsfishing.com.au/mother-shipping",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1920,
+      "height": 650,
+      "original": "1920x650",
+      "source": "https://www.weipasportsfishing.com.au/wp-content/uploads/header1-1.jpg",
+      "page": "https://www.weipasportsfishing.com.au/fishing",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.weipasportsfishing.com.au/",
+      "status": 200,
+      "final_url": "https://www.weipasportsfishing.com.au/",
+      "bytes": 65370
+    },
+    {
+      "page": "https://www.weipasportsfishing.com.au/online-bookings",
+      "status": 200,
+      "final_url": "https://www.weipasportsfishing.com.au/online-bookings",
+      "bytes": 77877
+    },
+    {
+      "page": "https://www.weipasportsfishing.com.au/about",
+      "status": 200,
+      "final_url": "https://www.weipasportsfishing.com.au/about",
+      "bytes": 62576
+    },
+    {
+      "page": "https://www.weipasportsfishing.com.au/about/our-equipment",
+      "status": 200,
+      "final_url": "https://www.weipasportsfishing.com.au/about/our-equipment",
+      "bytes": 63660
+    },
+    {
+      "page": "https://www.weipasportsfishing.com.au/about/fishing-guides",
+      "status": 200,
+      "final_url": "https://www.weipasportsfishing.com.au/about/fishing-guides",
+      "bytes": 59895
+    },
+    {
+      "page": "https://www.weipasportsfishing.com.au/boats",
+      "status": 200,
+      "final_url": "https://www.weipasportsfishing.com.au/boats",
+      "bytes": 62644
+    },
+    {
+      "page": "https://www.weipasportsfishing.com.au/mother-shipping",
+      "status": 200,
+      "final_url": "https://www.weipasportsfishing.com.au/mother-shipping",
+      "bytes": 64799
+    },
+    {
+      "page": "https://www.weipasportsfishing.com.au/fishing",
+      "status": 200,
+      "final_url": "https://www.weipasportsfishing.com.au/fishing",
+      "bytes": 63385
+    },
+    {
+      "page": "https://www.weipasportsfishing.com.au/fishing/fly-fishing",
+      "status": 200,
+      "final_url": "https://www.weipasportsfishing.com.au/fishing/fly-fishing",
+      "bytes": 63122
+    },
+    {
+      "page": "https://www.weipasportsfishing.com.au/fishing/lure-fishing",
+      "status": 200,
+      "final_url": "https://www.weipasportsfishing.com.au/fishing/lure-fishing",
+      "bytes": 64027
+    },
+    {
+      "image": "https://www.weipasportsfishing.com.au/wp-content/uploads/4.2.jpg",
+      "error": "too small 480x330"
+    },
+    {
+      "image": "https://www.weipasportsfishing.com.au/wp-content/uploads/Home_FlyFishing.jpg",
+      "error": "too small 480x330"
+    },
+    {
+      "image": "https://www.weipasportsfishing.com.au/wp-content/uploads/HOMEHELI.jpg",
+      "error": "too small 480x330"
+    },
+    {
+      "image": "https://www.weipasportsfishing.com.au/wp-content/uploads/2-1.jpg",
+      "error": "too small 480x330"
+    },
+    {
+      "image": "https://www.weipasportsfishing.com.au/wp-content/uploads/humming-bird.jpg",
+      "error": "too small 347x119"
+    },
+    {
+      "image": "https://www.weipasportsfishing.com.au/wp-content/uploads/honda-marine.jpg",
+      "error": "too small 347x119"
+    },
+    {
+      "image": "https://www.weipasportsfishing.com.au/wp-content/uploads/atb-wsf.png",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://www.weipasportsfishing.com.au/wp-content/uploads/humming-bird-300x103.jpg",
+      "error": "too small 300x103"
+    },
+    {
+      "image": "https://www.weipasportsfishing.com.au/wp-content/uploads/honda-marine-300x103.jpg",
+      "error": "too small 300x103"
+    },
+    {
+      "dup": "https://www.weipasportsfishing.com.au/wp-content/uploads/header1-2-1920x650.jpg"
+    },
+    {
+      "image": "https://www.weipasportsfishing.com.au/wp-content/uploads/box3.jpg",
+      "error": "too small 480x330"
+    },
+    {
+      "image": "https://www.weipasportsfishing.com.au/wp-content/uploads/box2.jpg",
+      "error": "too small 480x330"
+    },
+    {
+      "image": "https://www.weipasportsfishing.com.au/wp-content/uploads/box4.jpg",
+      "error": "too small 480x330"
+    },
+    {
+      "image": "https://www.weipasportsfishing.com.au/wp-content/uploads/box1.jpg",
+      "error": "too small 480x330"
+    },
+    {
+      "dup": "https://www.weipasportsfishing.com.au/wp-content/uploads/header3-1920x650.jpg"
+    },
+    {
+      "image": "https://www.weipasportsfishing.com.au/wp-content/uploads/1-4.jpg",
+      "error": "too small 480x330"
+    },
+    {
+      "image": "https://www.weipasportsfishing.com.au/wp-content/uploads/2-5.jpg",
+      "error": "too small 480x330"
+    },
+    {
+      "image": "https://www.weipasportsfishing.com.au/wp-content/uploads/3-5.jpg",
+      "error": "too small 480x330"
+    },
+    {
+      "image": "https://www.weipasportsfishing.com.au/wp-content/uploads/4-3.jpg",
+      "error": "too small 480x330"
+    },
+    {
+      "dup": "https://www.weipasportsfishing.com.au/wp-content/uploads/header1-4-1920x650.jpg"
+    },
+    {
+      "image": "https://www.weipasportsfishing.com.au/wp-content/uploads/Lee.jpg",
+      "error": "too small 480x330"
+    },
+    {
+      "image": "https://www.weipasportsfishing.com.au/wp-content/uploads/Wade.jpg",
+      "error": "too small 480x330"
+    },
+    {
+      "image": "https://www.weipasportsfishing.com.au/wp-content/uploads/Josh.jpg",
+      "error": "too small 480x330"
+    },
+    {
+      "image": "https://www.weipasportsfishing.com.au/wp-content/uploads/Jack.jpg",
+      "error": "too small 480x330"
+    },
+    {
+      "dup": "https://www.weipasportsfishing.com.au/wp-content/uploads/header1-3-1920x650.jpg"
+    },
+    {
+      "image": "https://www.weipasportsfishing.com.au/wp-content/uploads/1-5.jpg",
+      "error": "too small 480x300"
+    },
+    {
+      "image": "https://www.weipasportsfishing.com.au/wp-content/uploads/IMG_5077.jpg",
+      "error": "too small 480x300"
+    },
+    {
+      "image": "https://www.weipasportsfishing.com.au/wp-content/uploads/IMG_5388.jpg",
+      "error": "too small 480x300"
+    },
+    {
+      "image": "https://www.weipasportsfishing.com.au/wp-content/uploads/IMG_5475.jpg",
+      "error": "too small 480x300"
+    },
+    {
+      "image": "https://www.weipasportsfishing.com.au/wp-content/uploads/honda.jpg",
+      "error": "too small 345x103"
+    },
+    {
+      "dup": "https://www.weipasportsfishing.com.au/wp-content/uploads/ourboats-1920x650.jpg"
+    },
+    {
+      "image": "https://www.weipasportsfishing.com.au/wp-content/uploads/honda-300x90.jpg",
+      "error": "too small 300x90"
+    },
+    {
+      "image": "https://www.weipasportsfishing.com.au/wp-content/uploads/luxury-mothership-2.jpg",
+      "error": "too small 480x330"
+    },
+    {
+      "image": "https://www.weipasportsfishing.com.au/wp-content/uploads/Remote-Fishing.jpg",
+      "error": "too small 480x330"
+    },
+    {
+      "image": "https://www.weipasportsfishing.com.au/wp-content/uploads/tenders.jpg",
+      "error": "too small 480x330"
+    },
+    {
+      "image": "https://www.weipasportsfishing.com.au/wp-content/uploads/IMG_8398.jpg",
+      "error": "too small 480x330"
+    },
+    {
+      "image": "https://www.weipasportsfishing.com.au/wp-content/uploads/box4-3.jpg",
+      "error": "too small 480x330"
+    },
+    {
+      "image": "https://www.weipasportsfishing.com.au/wp-content/uploads/box2-2.jpg",
+      "error": "too small 480x330"
+    },
+    {
+      "image": "https://www.weipasportsfishing.com.au/wp-content/uploads/box5-1.jpg",
+      "error": "too small 480x330"
+    },
+    {
+      "image": "https://www.weipasportsfishing.com.au/wp-content/uploads/box3-2.jpg",
+      "error": "too small 480x330"
+    }
+  ]
+}

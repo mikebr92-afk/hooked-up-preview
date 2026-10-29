@@ -1,0 +1,27 @@
+{
+  "slug": "research-townsville3",
+  "request_hash": "6a2adc7f6b54",
+  "collected_at": "2026-10-29T04:28:10.925Z",
+  "pages_fetched": [
+    "https://www.smarterfishingcharters.com.au/charters/region/4810?locale=Townsville",
+    "https://www.fishcitysportfishing.com.au/",
+    "https://www.orpheusreefcharters.com.au/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.smarterfishingcharters.com.au/charters/region/4810?locale=Townsville",
+      "status": 200,
+      "final_url": "https://www.smarterfishingcharters.com.au/charters/region/4810?locale=Townsville",
+      "bytes": 19774
+    },
+    {
+      "page": "https://www.fishcitysportfishing.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://www.orpheusreefcharters.com.au/",
+      "error": "fetch failed"
+    }
+  ]
+}

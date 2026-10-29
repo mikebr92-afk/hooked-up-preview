@@ -1,5 +1,5 @@
 {
-  "finished_at": "2026-10-29T04:22:32.174Z",
+  "finished_at": "2026-10-29T04:30:25.147Z",
   "summary": [
     {
       "slug": "research-mackay-region",
@@ -244,43 +244,70 @@
     },
     {
       "slug": "carpentaria-barra2",
-      "candidates": 0,
-      "pages": 5
+      "skipped": true
     },
     {
       "slug": "crackajack-sportfishing-lucinda",
-      "candidates": 1,
-      "pages": 1
+      "skipped": true
     },
     {
       "slug": "mackay-fly-sportfishing",
+      "skipped": true
+    },
+    {
+      "slug": "out-n-about-tpd-images",
+      "skipped": true
+    },
+    {
+      "slug": "flux-fly-fishing",
+      "skipped": true
+    },
+    {
+      "slug": "ian-moody-atdw",
+      "skipped": true
+    },
+    {
+      "slug": "gone-fishing-cooktown2",
+      "skipped": true
+    },
+    {
+      "slug": "mission-beach-charters",
+      "skipped": true
+    },
+    {
+      "slug": "audacity-charters-townsville",
+      "candidates": 16,
+      "pages": 6
+    },
+    {
+      "slug": "conquest-townsville",
+      "candidates": 0,
+      "pages": 1
+    },
+    {
+      "slug": "research-townsville3",
+      "candidates": 0,
+      "pages": 3
+    },
+    {
+      "slug": "razorfish-fishing-charters",
+      "candidates": 16,
+      "pages": 9
+    },
+    {
+      "slug": "weipa-sports-fishing",
       "candidates": 16,
       "pages": 10
     },
     {
-      "slug": "out-n-about-tpd-images",
-      "candidates": 5,
-      "pages": 0
-    },
-    {
-      "slug": "flux-fly-fishing",
-      "candidates": 8,
+      "slug": "far-north-fishing-weipa",
+      "candidates": 16,
       "pages": 10
     },
     {
-      "slug": "ian-moody-atdw",
-      "candidates": 8,
-      "pages": 1
-    },
-    {
-      "slug": "gone-fishing-cooktown2",
+      "slug": "research-weipa2",
       "candidates": 0,
-      "pages": 2
-    },
-    {
-      "slug": "mission-beach-charters",
-      "candidates": 12,
-      "pages": 12
+      "pages": 3
     }
   ]
 }

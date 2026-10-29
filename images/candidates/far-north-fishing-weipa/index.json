@@ -1,0 +1,412 @@
+{
+  "slug": "far-north-fishing-weipa",
+  "request_hash": "3fa730c400f0",
+  "collected_at": "2026-10-29T04:30:19.803Z",
+  "pages_fetched": [
+    "https://www.farnorthfishingweipa.com.au/",
+    "https://www.farnorthfishingweipa.com.au/charters/four-day",
+    "https://www.farnorthfishingweipa.com.au/fishing",
+    "https://www.farnorthfishingweipa.com.au/fishing/sports-fishing",
+    "https://www.farnorthfishingweipa.com.au/fishing/fly-fishing",
+    "https://www.farnorthfishingweipa.com.au/fishing/barramundi-fishing",
+    "https://www.farnorthfishingweipa.com.au/fishing/cape-york-fishing",
+    "https://www.farnorthfishingweipa.com.au/charters",
+    "https://www.farnorthfishingweipa.com.au/charters/five-day",
+    "https://www.farnorthfishingweipa.com.au/charters/mother-shipping"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1920,
+      "height": 600,
+      "original": "1920x600",
+      "source": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/sliderjpg.jpg",
+      "page": "https://www.farnorthfishingweipa.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 960,
+      "height": 780,
+      "original": "960x780",
+      "source": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/newhome.jpg",
+      "page": "https://www.farnorthfishingweipa.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1920,
+      "height": 800,
+      "original": "1920x800",
+      "source": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/slider2-1.jpg",
+      "page": "https://www.farnorthfishingweipa.com.au/charters/four-day",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 960,
+      "height": 780,
+      "original": "960x780",
+      "source": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/TOP-2.jpg",
+      "page": "https://www.farnorthfishingweipa.com.au/charters/four-day",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 960,
+      "height": 780,
+      "original": "960x780",
+      "source": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/bottom-4.jpg",
+      "page": "https://www.farnorthfishingweipa.com.au/charters/four-day",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1920,
+      "height": 800,
+      "original": "1920x800",
+      "source": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/slider2-3.jpg",
+      "page": "https://www.farnorthfishingweipa.com.au/fishing",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1920,
+      "height": 800,
+      "original": "1920x800",
+      "source": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/sporfishingheadwer.jpg",
+      "page": "https://www.farnorthfishingweipa.com.au/fishing/sports-fishing",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1920,
+      "height": 600,
+      "original": "1920x600",
+      "source": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/slider.jpg",
+      "page": "https://www.farnorthfishingweipa.com.au/fishing/fly-fishing",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 960,
+      "height": 780,
+      "original": "960x780",
+      "source": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/bottom.jpg",
+      "page": "https://www.farnorthfishingweipa.com.au/fishing/fly-fishing",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1920,
+      "height": 800,
+      "original": "1920x800",
+      "source": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/barraheader-1.jpg",
+      "page": "https://www.farnorthfishingweipa.com.au/fishing/barramundi-fishing",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 960,
+      "height": 780,
+      "original": "960x780",
+      "source": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/Barra_B.jpg",
+      "page": "https://www.farnorthfishingweipa.com.au/fishing/barramundi-fishing",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 960,
+      "height": 780,
+      "original": "960x780",
+      "source": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/BARRAIWTHUS.jpg",
+      "page": "https://www.farnorthfishingweipa.com.au/fishing/barramundi-fishing",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1920,
+      "height": 600,
+      "original": "1920x600",
+      "source": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/slider-3.jpg",
+      "page": "https://www.farnorthfishingweipa.com.au/fishing/cape-york-fishing",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 800,
+      "height": 400,
+      "original": "800x400",
+      "source": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/slider-3-800x400.jpg",
+      "page": "https://www.farnorthfishingweipa.com.au/fishing/cape-york-fishing",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 960,
+      "height": 550,
+      "original": "960x550",
+      "source": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/cape-002.jpg",
+      "page": "https://www.farnorthfishingweipa.com.au/fishing/cape-york-fishing",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1920,
+      "height": 800,
+      "original": "1920x800",
+      "source": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/CHARTERSHERO.jpg",
+      "page": "https://www.farnorthfishingweipa.com.au/charters",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.farnorthfishingweipa.com.au/",
+      "status": 200,
+      "final_url": "https://www.farnorthfishingweipa.com.au/",
+      "bytes": 41346
+    },
+    {
+      "page": "https://www.farnorthfishingweipa.com.au/charters/four-day",
+      "status": 200,
+      "final_url": "https://www.farnorthfishingweipa.com.au/charters/four-day",
+      "bytes": 42525
+    },
+    {
+      "page": "https://www.farnorthfishingweipa.com.au/fishing",
+      "status": 200,
+      "final_url": "https://www.farnorthfishingweipa.com.au/fishing",
+      "bytes": 38027
+    },
+    {
+      "page": "https://www.farnorthfishingweipa.com.au/fishing/sports-fishing",
+      "status": 200,
+      "final_url": "https://www.farnorthfishingweipa.com.au/fishing/sports-fishing",
+      "bytes": 38672
+    },
+    {
+      "page": "https://www.farnorthfishingweipa.com.au/fishing/fly-fishing",
+      "status": 200,
+      "final_url": "https://www.farnorthfishingweipa.com.au/fishing/fly-fishing",
+      "bytes": 40337
+    },
+    {
+      "page": "https://www.farnorthfishingweipa.com.au/fishing/barramundi-fishing",
+      "status": 200,
+      "final_url": "https://www.farnorthfishingweipa.com.au/fishing/barramundi-fishing",
+      "bytes": 41736
+    },
+    {
+      "page": "https://www.farnorthfishingweipa.com.au/fishing/cape-york-fishing",
+      "status": 200,
+      "final_url": "https://www.farnorthfishingweipa.com.au/fishing/cape-york-fishing",
+      "bytes": 40529
+    },
+    {
+      "page": "https://www.farnorthfishingweipa.com.au/charters",
+      "status": 200,
+      "final_url": "https://www.farnorthfishingweipa.com.au/charters",
+      "bytes": 42439
+    },
+    {
+      "page": "https://www.farnorthfishingweipa.com.au/charters/five-day",
+      "status": 200,
+      "final_url": "https://www.farnorthfishingweipa.com.au/charters/five-day",
+      "bytes": 42453
+    },
+    {
+      "page": "https://www.farnorthfishingweipa.com.au/charters/mother-shipping",
+      "status": 200,
+      "final_url": "https://www.farnorthfishingweipa.com.au/charters/mother-shipping",
+      "bytes": 41875
+    },
+    {
+      "image": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/Home_SF.jpg",
+      "error": "too small 580x370"
+    },
+    {
+      "image": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/Home_FF.jpg",
+      "error": "too small 580x370"
+    },
+    {
+      "image": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/bf.jpg",
+      "error": "too small 580x370"
+    },
+    {
+      "image": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/cyf2.jpg",
+      "error": "too small 580x370"
+    },
+    {
+      "image": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/Homes_Testimonial.jpg",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/4d2.jpg",
+      "error": "too small 580x370"
+    },
+    {
+      "image": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/5dcharter.jpg",
+      "error": "too small 580x370"
+    },
+    {
+      "image": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/hb.jpg",
+      "error": "too small 580x370"
+    },
+    {
+      "image": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/mothershipping.jpg",
+      "error": "too small 580x370"
+    },
+    {
+      "image": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/1-2.jpg",
+      "error": "too small 580x370"
+    },
+    {
+      "image": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/2-1.jpg",
+      "error": "too small 580x370"
+    },
+    {
+      "image": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/CYF_ourboats.jpg",
+      "error": "too small 580x370"
+    },
+    {
+      "image": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/GUIDES.jpg",
+      "error": "too small 580x370"
+    },
+    {
+      "image": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/Jacob-Murray.jpg",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/sport1.jpg",
+      "error": "too small 580x370"
+    },
+    {
+      "image": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/fly.jpg",
+      "error": "too small 580x370"
+    },
+    {
+      "image": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/sport.jpg",
+      "error": "too small 580x370"
+    },
+    {
+      "image": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/cyf-2.jpg",
+      "error": "too small 580x370"
+    },
+    {
+      "dup": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/slider2-1-800x400.jpg"
+    },
+    {
+      "image": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/sf-3.jpg",
+      "error": "too small 580x370"
+    },
+    {
+      "image": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/ff-1.jpg",
+      "error": "too small 580x370"
+    },
+    {
+      "image": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/Fishing_BF.jpg",
+      "error": "too small 580x370"
+    },
+    {
+      "image": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/4-5.jpg",
+      "error": "too small 580x370"
+    },
+    {
+      "image": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/Nick-Bellinger.jpg",
+      "error": "too small 200x200"
+    },
+    {
+      "dup": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/slider2-3-800x400.jpg"
+    },
+    {
+      "image": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/4d2-1.jpg",
+      "error": "too small 580x370"
+    },
+    {
+      "image": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/5d2.jpg",
+      "error": "too small 580x370"
+    },
+    {
+      "image": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/IMG_5974.jpg",
+      "error": "too small 580x370"
+    },
+    {
+      "image": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/sfbarra.jpg",
+      "error": "too small 580x370"
+    },
+    {
+      "image": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/Dave-Russell2.jpg",
+      "error": "too small 200x200"
+    },
+    {
+      "dup": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/sporfishingheadwer-800x400.jpg"
+    },
+    {
+      "image": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/4d-1.jpg",
+      "error": "too small 580x370"
+    },
+    {
+      "image": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/5d-1.jpg",
+      "error": "too small 580x370"
+    },
+    {
+      "image": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/middle.jpg",
+      "error": "too small 580x370"
+    },
+    {
+      "dup": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/slider-800x400.jpg"
+    },
+    {
+      "image": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/4d-2.jpg",
+      "error": "too small 580x370"
+    },
+    {
+      "image": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/5d-2.jpg",
+      "error": "too small 580x370"
+    },
+    {
+      "image": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/bara.jpg",
+      "error": "too small 580x370"
+    },
+    {
+      "image": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/4dc.jpg",
+      "error": "too small 580x370"
+    },
+    {
+      "image": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/Barra_focus.jpg",
+      "error": "too small 200x200"
+    },
+    {
+      "dup": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/barraheader-1-800x400.jpg"
+    },
+    {
+      "image": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/4d-3.jpg",
+      "error": "too small 580x370"
+    },
+    {
+      "image": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/5d-3.jpg",
+      "error": "too small 580x370"
+    },
+    {
+      "image": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/mothershipping-1.jpg",
+      "error": "too small 580x370"
+    },
+    {
+      "image": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/testimoial.jpg",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/ff.jpg",
+      "error": "too small 580x370"
+    },
+    {
+      "image": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/bf-1.jpg",
+      "error": "too small 580x370"
+    },
+    {
+      "image": "https://www.farnorthfishingweipa.com.au/wp-content/uploads/cyf-1.jpg",
+      "error": "too small 580x370"
+    }
+  ]
+}

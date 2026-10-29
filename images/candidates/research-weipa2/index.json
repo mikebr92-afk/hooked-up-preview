@@ -1,0 +1,31 @@
+{
+  "slug": "research-weipa2",
+  "request_hash": "e0882e616108",
+  "collected_at": "2026-10-29T04:30:25.147Z",
+  "pages_fetched": [
+    "https://www.campweipa.com.au/tours",
+    "https://eclipsefnq.com.au/",
+    "https://www.albatrossbayresort.com.au/the-lure/august-2020/top-five-guided-fishing-charters-in-weipa/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.campweipa.com.au/tours",
+      "status": 200,
+      "final_url": "https://www.campweipa.com.au/tours",
+      "bytes": 66170
+    },
+    {
+      "page": "https://eclipsefnq.com.au/",
+      "status": 200,
+      "final_url": "https://eclipsefnq.com.au/",
+      "bytes": 43016
+    },
+    {
+      "page": "https://www.albatrossbayresort.com.au/the-lure/august-2020/top-five-guided-fishing-charters-in-weipa/",
+      "status": 200,
+      "final_url": "https://www.albatrossbayresort.com.au/the-lure/august-2020/top-five-guided-fishing-charters-in-weipa/",
+      "bytes": 75402
+    }
+  ]
+}
