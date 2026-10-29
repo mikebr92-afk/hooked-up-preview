@@ -1,0 +1,8 @@
+{"requests":[
+{"slug":"creek2reef-1770","pages":["https://www.1770creek2reef.com.au/"],"text":true,"max":16,"follow":true},
+{"slug":"reef-fishing-charters-1770","pages":["https://reeffishingcharters.com.au/","https://www.boatsonline.com.au/boats-for-sale/used/commercial-vessel/noosa-cat-3100-sports-cruiser/303292"],"text":true,"max":16,"follow":true},
+{"slug":"research-guess-1770","pages":["https://www.hookedon1770.com.au/","https://hookedon1770.com/","https://www.fishingoffshore1770.com.au/","https://www.mvjamescook.com.au/","https://www.1770fishingcharters.com.au/"],"text":true,"max":0,"follow":false},
+{"slug":"research-va1770-dir","pages":["https://www.visitagnes1770.com.au/places/tags/on-water/","https://www.visitagnes1770.com.au/category/fishing-1/","https://www.visitagnes1770.com.au/places/1770-creek2reef-fishing-charters/","https://www.visitagnes1770.com.au/how-to-get-to-agnes-water-1770/","https://www.visitagnes1770.com.au/fishing/","https://www.visitagnes1770.com.au/home/fishing/"],"text":true,"max":0,"follow":false},
+{"slug":"research-gladstone-dir","pages":["https://localsearch.com.au/find/fishing-trips-charters/central-queensland-qld","https://localsearch.com.au/find/fishing-trips-charters/boyne-island-qld","https://playsport.com/mvnightcrossing_ag_0e98db1e","https://outdoorsqueensland.com.au/?p=29602","https://www.inkl.com/news/crewman-still-missing-from-charter-boat-off-central-queensland"],"text":true,"max":0,"follow":false},
+{"slug":"mikat-recheck","pages":["https://mikatcharters.com.au/","https://www.facebook.com/mikatcruises/"],"text":true,"max":0,"follow":true}
+]}
