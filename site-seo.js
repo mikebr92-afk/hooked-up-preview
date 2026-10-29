@@ -471,12 +471,16 @@ export const isSpecies = (L) => L && L.kind === 'species';
 // (states: 1+, everything else: MIN_LOC_ITEMS+). Below that it 404s and drops
 // out of links, the sitemap and the footer automatically.
 export const MIN_LOC_ITEMS = 2;
+const liveCache = new WeakMap();
 export function liveLocKeys(cards) {
-  return Object.keys(LOCS).filter((k) => {
+  if (cards && liveCache.has(cards)) return liveCache.get(cards);
+  const keys = Object.keys(LOCS).filter((k) => {
     const n = locItems(cards, LOCS[k]).length;
     // L.min lets a high-demand destination with a full guide go live with fewer listings.
     return LOCS[k].st ? n >= 1 : n >= (LOCS[k].min || MIN_LOC_ITEMS);
   });
+  if (cards) liveCache.set(cards, keys);
+  return keys;
 }
 export const isLive = (cards, key) => liveLocKeys(cards).includes(key);
 // Live destination pages inside a state (for state hub pages), largest first.
@@ -537,9 +541,11 @@ export const locItems = (cards, L) => {
 };
 
 // Best-matching location page for an operator card: a city page first, else its state page.
-export function locFor(card) {
-  if (card.hotspot && LOCS[card.hotspot] && !isSpecies(LOCS[card.hotspot])) return [card.hotspot, LOCS[card.hotspot]];
-  const entries = Object.entries(LOCS).filter(([, L]) => !isSpecies(L));
+// Pass `cards` to only consider destination pages that are currently live.
+export function locFor(card, cards) {
+  const ok = (k) => !cards || liveLocKeys(cards).includes(k);
+  if (card.hotspot && LOCS[card.hotspot] && !isSpecies(LOCS[card.hotspot]) && ok(card.hotspot)) return [card.hotspot, LOCS[card.hotspot]];
+  const entries = Object.entries(LOCS).filter(([k, L]) => !isSpecies(L) && ok(k));
   return entries.find(([, L]) => !L.st && inLoc(card, L)) || entries.find(([, L]) => L.st && inLoc(card, L)) || null;
 }
 
@@ -561,7 +567,7 @@ export function locStats(items) {
 // Short form for meta descriptions: "Shared trips from $180 per person, private charters from $650 per group."
 function priceSentence(st) {
   const parts = [];
-  if (st.minPerson) parts.push(`shared trips from ${money(st.minPerson)} per person`);
+  if (st.minPerson) parts.push(`trips from ${money(st.minPerson)} per person`);
   if (st.minGroup) parts.push(`private charters from ${money(st.minGroup)} per group`);
   if (!parts.length) return '';
   const s = parts.join(', ');
@@ -659,20 +665,25 @@ export function compareRows(items) {
 export function locMeta(key, L, items) {
   const st = locStats(items);
   const base = isSpecies(L) ? L.h1 : `${L.short} Fishing Charters`;
-  const title = `${base}: Compare ${st.count} ${plural(st.count, 'Operator', 'Operators')} | ${BRAND}`;
-  let desc;
-  if (isSpecies(L)) {
-    const states = [...new Set(items.map((c) => c.state))].map((s) => (s === 'NT' ? 'the NT' : s));
-    desc = `Compare ${st.count} ${plural(st.count, L.noun, L.noun + 's')} across ${list(states)}.`;
-  } else {
-    desc = `Compare ${st.count} fishing ${plural(st.count, 'charter', 'charters')} ${L.in}`;
-    if (st.species.length) desc += ` for ${list(st.species.slice(0, 3))}`;
-    desc += '.';
-  }
+  const title = st.count === 1
+    ? `${base}: Trips, Prices & Local Guide | ${BRAND}`
+    : `${base}: Compare ${st.count} ${plural(st.count, 'Operator', 'Operators')} | ${BRAND}`;
+  // Build the longest description that fits in ~160 characters.
+  const lead = (nSp) => {
+    const sp = st.species.slice(0, nSp);
+    if (isSpecies(L)) {
+      const states = [...new Set(items.map((c) => c.state))].map((s) => (s === 'NT' ? 'the NT' : s));
+      return `Compare ${st.count} ${plural(st.count, L.noun, L.noun + 's')} across ${list(states)}.`;
+    }
+    const what = st.count === 1 ? `Book a fishing charter ${L.in}` : `Compare ${st.count} fishing charters ${L.in}`;
+    return `${what}${sp.length ? ` for ${list(sp)}` : ''}.`;
+  };
   const ps = priceSentence(st);
-  if (ps) desc += ' ' + ps;
+  const psShort = st.minPerson ? `Trips from ${money(st.minPerson)} per person.` : ps;
   const tail = ' Enquire direct with the operator.';
-  if ((desc + tail).length <= 165) desc += tail;
+  const options = [];
+  for (const n of [3, 2, 1, 0]) for (const p of [ps, psShort, '']) for (const t of [tail, '']) options.push(lead(n) + (p ? ' ' + p : '') + t);
+  const desc = options.find((d) => d.length <= 160) || lead(0);
   const path = '/fishing-charters/' + key;
   const g = locGuide(L, items);
   return {
@@ -733,7 +744,7 @@ function townOf(op) {
 // The destination page a charter belongs to (city/region page if it has one).
 function charterPlace(op, cards) {
   const card = (cards || []).find((c) => c.slug === op.slug) || { location: op.primary_location, state: op.state, hotspot: op.hotspot };
-  const lf = locFor(card);
+  const lf = locFor(card, cards);
   const L = lf && !lf[1].st ? lf[1] : null;
   return { key: L ? lf[0] : null, L, in: L ? L.in : `in ${STATE_NAMES[op.state] === 'Northern Territory' ? 'the Northern Territory' : STATE_NAMES[op.state] || op.state}`, short: L ? L.short : '' };
 }
@@ -921,7 +932,7 @@ export function charterMeta(op, cards) {
 // Breadcrumb trail for a charter page: Home › Fishing Charters › <city or state> › <operator>
 export function charterTrail(op, cards) {
   const card = (cards || []).find((c) => c.slug === op.slug) || { location: op.primary_location, state: op.state };
-  const lf = locFor(card);
+  const lf = locFor(card, cards);
   const trail = lf ? locTrail(lf[0], lf[1]) : [['Home', '/'], ['Fishing Charters', '/charters']];
   trail.push([op.name, '/charters/' + op.slug]);
   return trail;
@@ -999,7 +1010,7 @@ export function searchSuggestions(cards) {
 export function relatedCharters(op, cards, max = 6) {
   const act = activeCards(cards).filter((c) => c.slug !== op.slug);
   const me = (cards || []).find((c) => c.slug === op.slug) || { location: op.primary_location, state: op.state };
-  const lf = locFor(me);
+  const lf = locFor(me, cards);
   const near = lf && !lf[1].st ? act.filter((c) => inLoc(c, lf[1])) : [];
   const state = act.filter((c) => c.state === op.state && !near.includes(c));
   return { loc: lf, items: [...near, ...state].slice(0, max) };
@@ -1021,11 +1032,11 @@ export function pageMeta(path, ctx = {}) {
     case '/about':
       return { ...base,
         title: `About ${BRAND} – An Australian Fishing Charter Platform`,
-        desc: 'Hooked Trips is an Australian fishing charter platform built by a lifelong angler: a simple, honest way to find local charters, and a fairer deal for the operators who run them.' };
+        desc: 'Hooked Trips is an Australian fishing charter platform built by a lifelong angler: an honest way to find local charters and a fairer deal for operators.' };
     case '/list-your-charter':
       return { ...base,
         title: `List Your Fishing Charter – Free to List | ${BRAND}`,
-        desc: 'Reach more anglers with a free Hooked Trips listing. No monthly fees, no pay-to-play rankings and a flat 10% commission on completed bookings, with Australian-based support.' };
+        desc: 'Reach more anglers with a free Hooked Trips listing: no monthly fees, no pay-to-play rankings and a flat 10% commission on completed bookings.' };
     case '/contact':
       return { ...base,
         title: `Contact Us | ${BRAND}`,
