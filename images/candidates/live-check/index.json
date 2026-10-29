@@ -1,0 +1,80 @@
+{
+  "slug": "live-check",
+  "request_hash": "c941374db50e",
+  "collected_at": "2026-10-29T22:56:56.313Z",
+  "pages_fetched": [
+    "https://hookedtrips.com/",
+    "https://hookedtrips.com/fishing-charters/agnes-water",
+    "https://hookedtrips.com/fishing-charters/mary-river",
+    "https://hookedtrips.com/charters/hooked-on-1770-agnes-water",
+    "https://hookedtrips.com/charters/evans-head-deep-sea-fishing-charters",
+    "https://hookedtrips.com/charters/hooked-on-1770-agnes-water.md",
+    "https://hookedtrips.com/llms.txt",
+    "https://hookedtrips.com/sitemap.xml",
+    "https://hookedtrips.com/robots.txt",
+    "https://hookedtrips.com/charters/australian-sportfishing-charters"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://hookedtrips.com/",
+      "status": 200,
+      "final_url": "https://hookedtrips.com/",
+      "bytes": 730693
+    },
+    {
+      "page": "https://hookedtrips.com/fishing-charters/agnes-water",
+      "status": 200,
+      "final_url": "https://hookedtrips.com/fishing-charters/agnes-water",
+      "bytes": 748987
+    },
+    {
+      "page": "https://hookedtrips.com/fishing-charters/mary-river",
+      "status": 200,
+      "final_url": "https://hookedtrips.com/fishing-charters/mary-river",
+      "bytes": 754202
+    },
+    {
+      "page": "https://hookedtrips.com/charters/hooked-on-1770-agnes-water",
+      "status": 200,
+      "final_url": "https://hookedtrips.com/charters/hooked-on-1770-agnes-water",
+      "bytes": 753519
+    },
+    {
+      "page": "https://hookedtrips.com/charters/evans-head-deep-sea-fishing-charters",
+      "status": 200,
+      "final_url": "https://hookedtrips.com/charters/evans-head-deep-sea-fishing-charters",
+      "bytes": 752505
+    },
+    {
+      "page": "https://hookedtrips.com/charters/hooked-on-1770-agnes-water.md",
+      "status": 200,
+      "final_url": "https://hookedtrips.com/charters/hooked-on-1770-agnes-water.md",
+      "bytes": 7716
+    },
+    {
+      "page": "https://hookedtrips.com/llms.txt",
+      "status": 200,
+      "final_url": "https://hookedtrips.com/llms.txt",
+      "bytes": 39481
+    },
+    {
+      "page": "https://hookedtrips.com/sitemap.xml",
+      "status": 200,
+      "final_url": "https://hookedtrips.com/sitemap.xml",
+      "bytes": 13997
+    },
+    {
+      "page": "https://hookedtrips.com/robots.txt",
+      "status": 200,
+      "final_url": "https://hookedtrips.com/robots.txt",
+      "bytes": 2762
+    },
+    {
+      "page": "https://hookedtrips.com/charters/australian-sportfishing-charters",
+      "status": 404,
+      "final_url": "https://hookedtrips.com/charters/australian-sportfishing-charters",
+      "bytes": 731303
+    }
+  ]
+}
