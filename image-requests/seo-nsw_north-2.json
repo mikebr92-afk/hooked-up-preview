@@ -1,0 +1,195 @@
+{
+ "requests": [
+  {
+   "slug": "seo-byron-bay-charters-ext",
+   "pages": [
+    "https://byronbaycharters70.rezdy.com/",
+    "https://playsport.com/byronbaycharters_ag_98d5502e"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false,
+   "force": true
+  },
+  {
+   "slug": "seo-evans-head-deep-sea-fishing-charters-ext",
+   "pages": [
+    "https://www.visitnsw.com/things-to-do/tours/evans-head-deep-sea-fishing-charters"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false,
+   "force": true
+  },
+  {
+   "slug": "seo-terrigal-fishing-tours-ext",
+   "pages": [
+    "https://terrigaltours.rezdy.com/catalog/488049/tft",
+    "https://www.visitnsw.com/things-to-do/tours/terrigal-fishing-tours"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false,
+   "force": true
+  },
+  {
+   "slug": "seo-coffs-harbour-fishing-charters-ext",
+   "pages": [
+    "https://coffsharbourfishing.rezdy.com/",
+    "https://www.coffscoast.com.au/article/fishing-on-the-coffs-coast/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false,
+   "force": true
+  },
+  {
+   "slug": "seo-sea-buoys-ocean-charters-ext",
+   "pages": [
+    "https://lordhoweisland.info/experiences/tours/sea-buoys-ocean-charters/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false,
+   "force": true
+  },
+  {
+   "slug": "seo-sea-to-summit-lord-howe-fishing-ext",
+   "pages": [
+    "https://lordhoweisland.info/experiences/fishing/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false,
+   "force": true
+  },
+  {
+   "slug": "seo-capns-charters-newcastle-ext",
+   "pages": [
+    "https://www.poyst.com/business/capns-charters-newcastle"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false,
+   "force": true
+  },
+  {
+   "slug": "seo-castaway-estuary-fishing-charters-ext",
+   "pages": [
+    "https://www.visitnsw.com/things-to-do/tours/castaway-estuary-fishing-charters"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false,
+   "force": true
+  },
+  {
+   "slug": "seo-port-macquarie-fishing-charters-ext",
+   "pages": [
+    "https://www.portmacquarieinfo.com.au/products/port-macquarie-fishing-charters"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false,
+   "force": true
+  },
+  {
+   "slug": "seo-calypso-fishing-adventures-ext",
+   "pages": [
+    "https://www.visitnsw.com/things-to-do/tours/calypso-fishing-adventures"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false,
+   "force": true
+  },
+  {
+   "slug": "seo-fish-port-stephens-estuary-charters-ext",
+   "pages": [
+    "https://www.portstephens.org.au/see-and-do/fish-port-stephens-estuary-charters/overview"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false,
+   "force": true
+  },
+  {
+   "slug": "seo-pacific-blue-fishing-charters-nelson-bay-ext",
+   "pages": [
+    "https://fishingstatus.com/fishing/directory/groupid/48"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false,
+   "force": true
+  },
+  {
+   "slug": "seo-reel-contagious-charters-port-stephens-ext",
+   "pages": [
+    "https://www.portstephensfishingcharters.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false,
+   "force": true
+  },
+  {
+   "slug": "seo-south-west-rocks-fishing-charters-ext",
+   "pages": [
+    "https://www.visitnsw.com/things-to-do/tours/south-west-rocks-fishing-charters"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false,
+   "force": true
+  },
+  {
+   "slug": "seo-wildside-sportfishing-ext",
+   "pages": [
+    "https://macleayvalleycoast.com.au/tours/wildside-sportfishing/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false,
+   "force": true
+  },
+  {
+   "slug": "seo-go-fish-yamba-charters-ext",
+   "pages": [
+    "https://www.visitnsw.com/things-to-do/tours/go-fish-yamba-charters/individual-go-fish-yamba-charter"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false,
+   "force": true
+  },
+  {
+   "slug": "seo-yamba-fishing-and-charters-ext",
+   "pages": [
+    "https://www.visitnsw.com/things-to-do/tours/yamba-fishing-and-charters"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false,
+   "force": true
+  },
+  {
+   "slug": "seo-guide-src-nsw-north-0",
+   "pages": [
+    "https://en.wikivoyage.org/wiki/Newcastle_(New_South_Wales)",
+    "https://lordhoweisland.info/experiences/fishing/",
+    "https://lordhoweisland.info/experiences/tours/sea-buoys-ocean-charters/",
+    "https://www.dpi.nsw.gov.au/fishing/marine-protected-areas/marine-parks/lord-howe-island-marine-park/recreational-fishing",
+    "https://www.dpi.nsw.gov.au/fishing/recreational/resources/artificial-reef/ballina-offshore-artificial-reef",
+    "https://www.dpi.nsw.gov.au/fishing/recreational/resources/artificial-reef/newcastle-offshore-artificial-reef",
+    "https://www.dpi.nsw.gov.au/fishing/recreational/resources/info/fishing-locations/go-fishing-lake-macquarie",
+    "https://www.fishingcharter.net.au/pricing_boats",
+    "https://www.poyst.com/business/capns-charters-newcastle"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false,
+   "force": true
+  }
+ ]
+}

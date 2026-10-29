@@ -1,0 +1,284 @@
+{
+ "requests": [
+  {
+   "slug": "seo-byron-bay-charters",
+   "pages": [
+    "https://byronbaycharters.com.au/",
+    "https://byronbaycharters.com.au/about/",
+    "https://byronbaycharters.com.au/pricelist/",
+    "https://byronbaycharters.com.au/fishing-charters/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "seo-evans-head-deep-sea-fishing-charters",
+   "pages": [
+    "https://www.evansheadfishingcharters.com.au/",
+    "https://www.evansheadfishingcharters.com.au/about-us/",
+    "https://www.evansheadfishingcharters.com.au/fishing-charter-prices/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "seo-central-coast-reef-and-game-fishing-charters",
+   "pages": [
+    "http://www.reefandgamefishing.com/",
+    "http://www.reefandgamefishing.com/about.html",
+    "http://www.reefandgamefishing.com/info.html",
+    "http://www.reefandgamefishing.com/fishing.html"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "seo-terrigal-fishing-tours",
+   "pages": [
+    "https://terrigalfishingtours.com.au/",
+    "https://terrigalfishingtours.com.au/fishing-charters-sydney/",
+    "https://terrigalfishingtours.com.au/fishing-charter-tour-information/",
+    "https://terrigalfishingtours.com.au/about/",
+    "https://terrigalfishingtours.com.au/fishing-charter-gift-vouchers/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "seo-coffs-harbour-fishing-charters",
+   "pages": [
+    "https://coffsharbourfishing.com.au/",
+    "https://coffsharbourfishing.com.au/about-us/",
+    "https://coffsharbourfishing.com.au/our-boats/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "seo-sea-buoys-ocean-charters",
+   "pages": [
+    "https://seabuoys.com.au/",
+    "https://seabuoys.com.au/offshore-fishing/",
+    "https://seabuoys.com.au/day-fishing-lord-howe-island/",
+    "https://seabuoys.com.au/about/",
+    "https://seabuoys.com.au/faqs/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "seo-sea-to-summit-lord-howe-fishing",
+   "pages": [
+    "https://www.lordhoweislandtours.net/charter-fishing",
+    "https://www.lordhoweislandtours.net/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "seo-capns-charters-newcastle",
+   "pages": [
+    "https://www.capnschartersnewcastle.com.au/",
+    "https://www.capnschartersnewcastle.com.au/bookings/",
+    "https://www.capnschartersnewcastle.com.au/one-on-one-charters/",
+    "https://www.capnschartersnewcastle.com.au/half-day-charters/",
+    "https://www.capnschartersnewcastle.com.au/full-day-charters/",
+    "https://www.capnschartersnewcastle.com.au/kids-fishing-charter/",
+    "https://www.capnschartersnewcastle.com.au/about-us/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "seo-day-trippin-charters",
+   "pages": [
+    "https://day-trippin-charters.squarespace.com/",
+    "https://day-trippin-charters.squarespace.com/the-boat",
+    "https://day-trippin-charters.squarespace.com/faqs",
+    "https://day-trippin-charters.squarespace.com/half-day-fishing",
+    "https://day-trippin-charters.squarespace.com/full-day-fishing",
+    "https://day-trippin-charters.squarespace.com/the-fish"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "seo-castaway-estuary-fishing-charters",
+   "pages": [
+    "https://www.castawayfishing.com.au/",
+    "https://www.castawayfishing.com.au/the-guide",
+    "https://www.castawayfishing.com.au/the-vessel",
+    "https://www.castawayfishing.com.au/target-species",
+    "https://www.castawayfishing.com.au/faq",
+    "https://www.castawayfishing.com.au/castaway-guided-estuary-sportfishing"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "seo-port-macquarie-fishing-charters",
+   "pages": [
+    "https://www.portmacquariefishingcharters.com.au/",
+    "https://www.portmacquariefishingcharters.com.au/port-macquarie-deep-sea-fishing-charter-boats-port-macquarie/",
+    "https://www.portmacquariefishingcharters.com.au/the-crew-on-port-macquarie-fishing-charters-ocean-star/",
+    "https://www.portmacquariefishingcharters.com.au/port-macquarie-fishing-on-ocean-star-contact/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "seo-calypso-fishing-adventures",
+   "pages": [
+    "https://www.marlinfishingaustralia.com.au/",
+    "https://www.marlinfishingaustralia.com.au/meet-calypso/",
+    "https://www.marlinfishingaustralia.com.au/capt-tim-dean/",
+    "https://www.marlinfishingaustralia.com.au/marlin-fishing-port-stephens/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "seo-fish-port-stephens-estuary-charters",
+   "pages": [
+    "https://fishportstephensestuarycharters.com/",
+    "https://fishportstephensestuarycharters.com/new/",
+    "https://fishportstephensestuarycharters.com/the-boat/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "seo-hammerhead-charters-nelson-bay",
+   "pages": [
+    "https://hammerheadcharters.com.au/",
+    "https://hammerheadcharters.com.au/reef-fishing/",
+    "https://hammerheadcharters.com.au/estuary-fishing/",
+    "https://hammerheadcharters.com.au/gametournament-charter/",
+    "https://hammerheadcharters.com.au/contact-us/",
+    "https://hammerheadcharters.com.au/news-feed/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "seo-pacific-blue-fishing-charters-nelson-bay",
+   "pages": [
+    "https://pacificbluecharters.com.au/",
+    "https://pacificbluecharters.com.au/services/",
+    "https://pacificbluecharters.com.au/contact/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "seo-reel-contagious-charters-port-stephens",
+   "pages": [
+    "https://www.reelcontagiouscharters.com.au/",
+    "https://www.reelcontagiouscharters.com.au/charters/",
+    "https://www.reelcontagiouscharters.com.au/contact-us/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "seo-south-west-rocks-fishing-charters",
+   "pages": [
+    "https://www.southwestrocksfishcharters.com.au/",
+    "https://www.southwestrocksfishcharters.com.au/packages/",
+    "https://www.southwestrocksfishcharters.com.au/questions-and-answers/",
+    "https://www.southwestrocksfishcharters.com.au/contact/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "seo-wildside-sportfishing",
+   "pages": [
+    "https://www.wildsidesportfishing.com/",
+    "https://www.wildsidesportfishing.com/about/",
+    "https://www.wildsidesportfishing.com/fishing-charters-tours/",
+    "https://www.wildsidesportfishing.com/offshore-fishing-charters-south-west-rocks/",
+    "https://www.wildsidesportfishing.com/game-fishing/",
+    "https://www.wildsidesportfishing.com/fishing-charters-tours/frequently-asked-questions-about-wildside-sportfishing/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "seo-cushy-fishing-charters",
+   "pages": [
+    "https://cushyfishingcharters.com.au/",
+    "https://cushyfishingcharters.com.au/fishing-charters/",
+    "https://cushyfishingcharters.com.au/our-boat/",
+    "https://cushyfishingcharters.com.au/contact-us/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "seo-go-fish-yamba-charters",
+   "pages": [
+    "https://www.gofishyamba.com.au/",
+    "https://www.gofishyamba.com.au/about",
+    "https://www.gofishyamba.com.au/our-team",
+    "https://www.gofishyamba.com.au/trip-pricings",
+    "https://www.gofishyamba.com.au/faqs"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "seo-yamba-fishing-and-charters",
+   "pages": [
+    "https://www.yambafishingandcharters.com.au/",
+    "https://www.yambafishingandcharters.com.au/faq",
+    "https://www.yambafishingandcharters.com.au/book-online",
+    "https://www.yambafishingandcharters.com.au/what-do-i-need-to-bring"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  }
+ ]
+}
