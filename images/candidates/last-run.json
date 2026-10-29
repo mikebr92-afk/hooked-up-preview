@@ -1,5 +1,5 @@
 {
-  "finished_at": "2026-10-29T19:35:09.191Z",
+  "finished_at": "2026-10-29T19:36:33.669Z",
   "summary": [
     {
       "slug": "research-nq-bowen",
@@ -97,23 +97,24 @@
     },
     {
       "slug": "cooktown-barra-charters2",
-      "candidates": 0,
-      "pages": 3
+      "skipped": true
     },
     {
       "slug": "cooktown-bluewater-charters2",
-      "candidates": 0,
-      "pages": 3
+      "skipped": true
     },
     {
       "slug": "cooktown-reef-charters2",
-      "candidates": 0,
-      "pages": 2
+      "skipped": true
     },
     {
       "slug": "south-pacific-ii-charters",
-      "candidates": 30,
-      "pages": 1
+      "skipped": true
+    },
+    {
+      "slug": "research-fb-nq",
+      "candidates": 0,
+      "pages": 7
     }
   ]
 }

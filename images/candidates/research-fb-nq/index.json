@@ -1,0 +1,59 @@
+{
+  "slug": "research-fb-nq",
+  "request_hash": "0b3e1aa83945",
+  "collected_at": "2026-10-29T19:36:33.669Z",
+  "pages_fetched": [
+    "https://m.facebook.com/fishingcooktown/",
+    "https://mbasic.facebook.com/fishingcooktown/",
+    "https://m.facebook.com/people/Escape-Outer-Reef-and-Islands-Charters/100083508272985/",
+    "https://m.facebook.com/kurrimineboathireandfishingcharters",
+    "https://m.facebook.com/southpacific2",
+    "https://m.facebook.com/hinchinbrookfullonfishn",
+    "https://m.facebook.com/Ian-Moody-Sportfishing-Charters-1906230329651429/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://m.facebook.com/fishingcooktown/",
+      "status": 400,
+      "final_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Ffishingcooktown%2F",
+      "bytes": 1542
+    },
+    {
+      "page": "https://mbasic.facebook.com/fishingcooktown/",
+      "status": 200,
+      "final_url": "https://mbasic.facebook.com/login.php?next=https%3A%2F%2Fmbasic.facebook.com%2Ffishingcooktown%2F&refsrc=deprecated&_rdr",
+      "bytes": 5841
+    },
+    {
+      "page": "https://m.facebook.com/people/Escape-Outer-Reef-and-Islands-Charters/100083508272985/",
+      "status": 400,
+      "final_url": "https://www.facebook.com/people/Escape-Outer-Reef-and-Islands-Charters/100083508272985/?_rdr",
+      "bytes": 1542
+    },
+    {
+      "page": "https://m.facebook.com/kurrimineboathireandfishingcharters",
+      "status": 400,
+      "final_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fkurrimineboathireandfishingcharters",
+      "bytes": 1542
+    },
+    {
+      "page": "https://m.facebook.com/southpacific2",
+      "status": 400,
+      "final_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fsouthpacific2",
+      "bytes": 1542
+    },
+    {
+      "page": "https://m.facebook.com/hinchinbrookfullonfishn",
+      "status": 400,
+      "final_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fhinchinbrookfullonfishn",
+      "bytes": 1542
+    },
+    {
+      "page": "https://m.facebook.com/Ian-Moody-Sportfishing-Charters-1906230329651429/",
+      "status": 400,
+      "final_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FIan-Moody-Sportfishing-Charters-1906230329651429%2F",
+      "bytes": 1542
+    }
+  ]
+}
