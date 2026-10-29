@@ -1,13 +1,119 @@
-{"requests":[
- {"slug":"capns-charters-newcastle","pages":["https://capnschartersnewcastle.com.au/"],"text":true,"max":16,"follow":true},
- {"slug":"b-and-l-fishing-charters-swansea","pages":["https://www.fishingcharter.net.au/","https://www.fishingcharter.net.au/gallery","https://www.fishingcharter.net.au/specials","https://www.fishingcharter.net.au/contact","https://www.fishingcharter.net.au/fish_of_the_month.html"],"text":true,"max":16,"follow":true},
- {"slug":"solitary-island-fishing-charters","pages":["https://www.solitaryislandfishingcharters.com.au/"],"text":true,"max":16,"follow":true},
- {"slug":"reel-fishn-charters","pages":["https://reelfishn.com.au/","http://www.reelfishn.com.au/"],"text":true,"max":16,"follow":true},
- {"slug":"northern-rivers-sportfishing","pages":["https://northernriverssportfishing.com.au/","https://northernriverssportfishing.com.au/trip-reports/"],"text":true,"max":16,"follow":true},
- {"slug":"sapphire-coastal-adventures","pages":["https://www.sapphirecoastaladventures.com.au/fishing-charters","https://www.sapphirecoastaladventures.com.au/merimbula-fishing-charter","https://www.sapphirecoastaladventures.com.au/merimbula","https://www.sapphirecoastaladventures.com.au/"],"text":true,"max":20,"follow":false},
- {"slug":"research-freedom-dates","pages":["https://freedomcharters.com.au/sitemap.xml","https://freedomcharters.com.au/feed.xml","https://freedomcharters.com.au/feed.json","https://www.escapetomerimbula.com.au/freedom-charters"],"text":true,"max":0,"follow":false},
- {"slug":"research-dpi-tweed","pages":["https://dpird-web.matrix.squiz.cloud/fishing/recreational/resources/info/local-fishing-guides/tweed","https://dpird-web.matrix.squiz.cloud/fishing/closures/location-closures/tweed-river","https://dpird-web.matrix.squiz.cloud/fishing/recreational/resources/info/recreational-fishing-areas/rfh/tweed2"],"text":true,"max":0,"follow":false},
- {"slug":"research-dpi-coffs","pages":["https://dpird-web.matrix.squiz.cloud/fishing/marine-protected-areas/marine-parks/solitary-islands-marine-park/recreational-fishing","https://dpird-web.matrix.squiz.cloud/fishing/marine-protected-areas/marine-parks/solitary-islands-marine-park/park-management/zones,-regulations-and-permits","https://dpird-web.matrix.squiz.cloud/fishing/marine-protected-areas/marine-parks/solitary-islands-marine-park","https://dpird-web.matrix.squiz.cloud/fishing/recreational/charter/go-charter-fishing-in-nsw"],"text":true,"max":0,"follow":false},
- {"slug":"research-dpi-newcastle","pages":["https://dpird-web.matrix.squiz.cloud/fishing/recreational/resources/info/fishing-locations/go-fishing-lake-macquarie","https://dpird-web.matrix.squiz.cloud/fishing/recreational/resources/artificial-reef/newcastle-offshore-artificial-reef","https://dpird-web.matrix.squiz.cloud/fishing/recreational/resources/info/local-fishing-guides","https://dpird-web.matrix.squiz.cloud/fishing/recreational/charter"],"text":true,"max":0,"follow":false},
- {"slug":"research-eden-facts","pages":["https://begavalley.nsw.gov.au/community/merimbula-boat-ramp","https://begavalley.nsw.gov.au/community/pambula-lake-boat-ramp","https://www.visitnsw.com/destinations/south-coast/merimbula-and-sapphire-coast/pambula/attractions/pambula-lake","https://www.tradeaboat.com.au/news-reviews/8081-eden-nsw-fishing-and-boating","https://www.discoveryholidayparks.com.au/holiday-inspiration/travel-tips/eden-fishing","https://www.escapetomerimbula.com.au/getting-here","https://www.mbglac.com.au/"],"text":true,"max":0,"follow":false}
-]}
+{
+ "requests": [
+  {
+   "slug": "capns-charters-newcastle",
+   "pages": [
+    "https://capnschartersnewcastle.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "b-and-l-fishing-charters-swansea",
+   "pages": [
+    "https://www.fishingcharter.net.au/",
+    "https://www.fishingcharter.net.au/gallery",
+    "https://www.fishingcharter.net.au/specials",
+    "https://www.fishingcharter.net.au/contact",
+    "https://www.fishingcharter.net.au/fish_of_the_month.html"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "solitary-island-fishing-charters",
+   "pages": [
+    "https://www.solitaryislandfishingcharters.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "northern-rivers-sportfishing",
+   "pages": [
+    "https://northernriverssportfishing.com.au/",
+    "https://northernriverssportfishing.com.au/trip-reports/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "sapphire-coastal-adventures",
+   "pages": [
+    "https://www.sapphirecoastaladventures.com.au/fishing-charters",
+    "https://www.sapphirecoastaladventures.com.au/merimbula-fishing-charter",
+    "https://www.sapphirecoastaladventures.com.au/merimbula",
+    "https://www.sapphirecoastaladventures.com.au/"
+   ],
+   "text": true,
+   "max": 20,
+   "follow": false
+  },
+  {
+   "slug": "research-freedom-dates",
+   "pages": [
+    "https://freedomcharters.com.au/sitemap.xml",
+    "https://freedomcharters.com.au/feed.xml",
+    "https://freedomcharters.com.au/feed.json",
+    "https://www.escapetomerimbula.com.au/freedom-charters"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  },
+  {
+   "slug": "research-dpi-tweed",
+   "pages": [
+    "https://dpird-web.matrix.squiz.cloud/fishing/recreational/resources/info/local-fishing-guides/tweed",
+    "https://dpird-web.matrix.squiz.cloud/fishing/closures/location-closures/tweed-river",
+    "https://dpird-web.matrix.squiz.cloud/fishing/recreational/resources/info/recreational-fishing-areas/rfh/tweed2"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  },
+  {
+   "slug": "research-dpi-coffs",
+   "pages": [
+    "https://dpird-web.matrix.squiz.cloud/fishing/marine-protected-areas/marine-parks/solitary-islands-marine-park/recreational-fishing",
+    "https://dpird-web.matrix.squiz.cloud/fishing/marine-protected-areas/marine-parks/solitary-islands-marine-park/park-management/zones,-regulations-and-permits",
+    "https://dpird-web.matrix.squiz.cloud/fishing/marine-protected-areas/marine-parks/solitary-islands-marine-park",
+    "https://dpird-web.matrix.squiz.cloud/fishing/recreational/charter/go-charter-fishing-in-nsw"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  },
+  {
+   "slug": "research-dpi-newcastle",
+   "pages": [
+    "https://dpird-web.matrix.squiz.cloud/fishing/recreational/resources/info/fishing-locations/go-fishing-lake-macquarie",
+    "https://dpird-web.matrix.squiz.cloud/fishing/recreational/resources/artificial-reef/newcastle-offshore-artificial-reef",
+    "https://dpird-web.matrix.squiz.cloud/fishing/recreational/resources/info/local-fishing-guides",
+    "https://dpird-web.matrix.squiz.cloud/fishing/recreational/charter"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  },
+  {
+   "slug": "research-eden-facts",
+   "pages": [
+    "https://begavalley.nsw.gov.au/community/merimbula-boat-ramp",
+    "https://begavalley.nsw.gov.au/community/pambula-lake-boat-ramp",
+    "https://www.visitnsw.com/destinations/south-coast/merimbula-and-sapphire-coast/pambula/attractions/pambula-lake",
+    "https://www.tradeaboat.com.au/news-reviews/8081-eden-nsw-fishing-and-boating",
+    "https://www.discoveryholidayparks.com.au/holiday-inspiration/travel-tips/eden-fishing",
+    "https://www.escapetomerimbula.com.au/getting-here",
+    "https://www.mbglac.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  }
+ ]
+}
