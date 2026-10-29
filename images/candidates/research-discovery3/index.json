@@ -1,0 +1,45 @@
+{
+  "slug": "research-discovery3",
+  "request_hash": "72fdb941a5f2",
+  "collected_at": "2026-10-29T03:56:30.550Z",
+  "pages_fetched": [
+    "https://playsport.com/cushyfishingchartersest1996_ag_63a70f87",
+    "https://www.mapquest.com/au/new-south-wales/reel-time-fishing-charters-795637533",
+    "https://lordhoweisland.info/experiences/tours/belle-chase/",
+    "https://lordhoweisland.info/experiences/tours/sea-buoys-ocean-charters/",
+    "https://lordhoweisland.info/experiences/tours/sea-lord-howe/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://playsport.com/cushyfishingchartersest1996_ag_63a70f87",
+      "status": 200,
+      "final_url": "https://playsport.com/cushyfishingchartersest1996_ag_63a70f87",
+      "bytes": 287569
+    },
+    {
+      "page": "https://www.mapquest.com/au/new-south-wales/reel-time-fishing-charters-795637533",
+      "status": 200,
+      "final_url": "https://www.mapquest.com/au/new-south-wales/reel-time-fishing-charters-795637533",
+      "bytes": 345746
+    },
+    {
+      "page": "https://lordhoweisland.info/experiences/tours/belle-chase/",
+      "status": 200,
+      "final_url": "https://lordhoweisland.info/experiences/tours/belle-chase/",
+      "bytes": 119226
+    },
+    {
+      "page": "https://lordhoweisland.info/experiences/tours/sea-buoys-ocean-charters/",
+      "status": 200,
+      "final_url": "https://lordhoweisland.info/experiences/tours/sea-buoys-ocean-charters/",
+      "bytes": 128927
+    },
+    {
+      "page": "https://lordhoweisland.info/experiences/tours/sea-lord-howe/",
+      "status": 200,
+      "final_url": "https://lordhoweisland.info/experiences/tours/sea-lord-howe/",
+      "bytes": 116601
+    }
+  ]
+}

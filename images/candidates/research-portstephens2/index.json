@@ -1,0 +1,31 @@
+{
+  "slug": "research-portstephens2",
+  "request_hash": "cb6e96ec14a9",
+  "collected_at": "2026-10-29T03:56:09.925Z",
+  "pages_fetched": [
+    "https://www.portstephens.org.au/see-and-do/the-water/diving-and-fishing/fishing-in-port-stephens",
+    "https://www.portstephens.org.au/see-and-do/the-water/diving-and-fishing",
+    "https://blog.fcswc.org.au/blog/our-guide-to-fishing-in-port-stephens"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.portstephens.org.au/see-and-do/the-water/diving-and-fishing/fishing-in-port-stephens",
+      "status": 200,
+      "final_url": "https://www.portstephens.com.au/sports-recreation",
+      "bytes": 257183
+    },
+    {
+      "page": "https://www.portstephens.org.au/see-and-do/the-water/diving-and-fishing",
+      "status": 200,
+      "final_url": "https://www.portstephens.com.au/sports-recreation",
+      "bytes": 257183
+    },
+    {
+      "page": "https://blog.fcswc.org.au/blog/our-guide-to-fishing-in-port-stephens",
+      "status": 403,
+      "final_url": "https://blog.fcswc.org.au/blog/our-guide-to-fishing-in-port-stephens",
+      "bytes": 7463
+    }
+  ]
+}

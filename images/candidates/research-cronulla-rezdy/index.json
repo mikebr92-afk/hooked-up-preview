@@ -1,0 +1,24 @@
+{
+  "slug": "research-cronulla-rezdy",
+  "request_hash": "d135f5d1d3e1",
+  "collected_at": "2026-10-29T03:56:15.736Z",
+  "pages_fetched": [
+    "https://r.jina.ai/https://cronullareeffishingcharters.rezdy.com/",
+    "https://cronullareeffishingcharters.rezdy.com/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://r.jina.ai/https://cronullareeffishingcharters.rezdy.com/",
+      "status": 200,
+      "final_url": "https://r.jina.ai/https://cronullareeffishingcharters.rezdy.com/",
+      "bytes": 1297
+    },
+    {
+      "page": "https://cronullareeffishingcharters.rezdy.com/",
+      "status": 403,
+      "final_url": "https://cronullareeffishingcharters.rezdy.com/",
+      "bytes": 5481
+    }
+  ]
+}

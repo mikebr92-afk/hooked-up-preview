@@ -1,0 +1,461 @@
+{
+  "slug": "yamba-fishing-and-charters",
+  "request_hash": "2372f822c117",
+  "collected_at": "2026-10-29T04:01:21.027Z",
+  "pages_fetched": [
+    "https://www.yambafishingandcharters.com.au/",
+    "https://www.yambafishingandcharters.com.au/faq",
+    "https://www.yambafishingandcharters.com.au/what-do-i-need-to-bring",
+    "https://www.yambafishingandcharters.com.au/terms-and-conditions",
+    "https://www.yambafishingandcharters.com.au/covid-19-restrictions",
+    "https://www.yambafishingandcharters.com.au/services",
+    "https://www.yambafishingandcharters.com.au/book-online",
+    "https://www.yambafishingandcharters.com.au/shop",
+    "https://www.yambafishingandcharters.com.au/gift-card"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1006,
+      "height": 1043,
+      "original": "1006x1043",
+      "source": "https://static.wixstatic.com/media/4c7607_68469f8c88f544d398b51317f915c3db%7Emv2.png",
+      "page": "https://www.yambafishingandcharters.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "3000x2250",
+      "source": "https://static.wixstatic.com/media/4c7607_f6349cdab7fb4720b6a28a0c9c9eef08~mv2_d_3000_2250_s_2.jpg",
+      "page": "https://www.yambafishingandcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 2000,
+      "height": 1333,
+      "original": "3840x2560",
+      "source": "https://static.wixstatic.com/media/1e47b2_cd5df08585b64f40a575e620ed3bf997.jpg",
+      "page": "https://www.yambafishingandcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1006,
+      "height": 1043,
+      "original": "1006x1043",
+      "source": "https://static.wixstatic.com/media/4c7607_4ba2621b6ff84f33ab3a6981699b8c87~mv2.png",
+      "page": "https://www.yambafishingandcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 2000,
+      "height": 2000,
+      "original": "3000x3000",
+      "source": "https://static.wixstatic.com/media/4c7607_d0ca11ed41a64561849e3d860a789abf~mv2_d_3000_3000_s_4_2.jpg",
+      "page": "https://www.yambafishingandcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "3000x2250",
+      "source": "https://static.wixstatic.com/media/4c7607_229ceac5d107484586714ef966c85c1e~mv2_d_3000_2250_s_2.jpg",
+      "page": "https://www.yambafishingandcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 2000,
+      "height": 834,
+      "original": "3000x1251",
+      "source": "https://static.wixstatic.com/media/4c7607_7e42d50221ce4b168282b70061ad3127~mv2_d_3000_1251_s_2.png",
+      "page": "https://www.yambafishingandcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 2000,
+      "height": 2000,
+      "original": "3000x3000",
+      "source": "https://static.wixstatic.com/media/4c7607_bccfdff5edf543848790f023fe66f01b~mv2_d_3000_3000_s_4_2.jpg",
+      "page": "https://www.yambafishingandcharters.com.au/what-do-i-need-to-bring",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 960,
+      "height": 960,
+      "original": "960x960",
+      "source": "https://static.wixstatic.com/media/8d5c33_952694d3e41a4cc1bd05677211167a2d~mv2.jpg",
+      "page": "https://www.yambafishingandcharters.com.au/services",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 960,
+      "height": 640,
+      "original": "960x640",
+      "source": "https://static.wixstatic.com/media/4c7607_f23167c4272145faa20b6632dc849ecb~mv2.jpg",
+      "page": "https://www.yambafishingandcharters.com.au/book-online",
+      "priority": true
+    },
+    {
+      "file": "c11.webp",
+      "width": 1545,
+      "height": 2000,
+      "original": "2513x3254",
+      "source": "https://static.wixstatic.com/media/8d5c33_d629835529bc42a1adf23d18f1235df7~mv2.jpg",
+      "page": "https://www.yambafishingandcharters.com.au/book-online",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1430,
+      "height": 2000,
+      "original": "1945x2721",
+      "source": "https://static.wixstatic.com/media/8d5c33_b01a57b10afd4475aa0a94f1c66e4a72~mv2.jpg",
+      "page": "https://www.yambafishingandcharters.com.au/book-online",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "3000x2250",
+      "source": "https://static.wixstatic.com/media/4c7607_75b8b43216d34426af3f91c86c388539~mv2_d_3000_2250_s_2.jpg",
+      "page": "https://www.yambafishingandcharters.com.au/book-online",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "3000x2250",
+      "source": "https://static.wixstatic.com/media/4c7607_098d73f4e5ee42cdaa19bdb35520fd3a~mv2_d_3000_2250_s_2.jpg",
+      "page": "https://www.yambafishingandcharters.com.au/book-online",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1084,
+      "height": 798,
+      "original": "1084x798",
+      "source": "https://static.wixstatic.com/media/8d5c33_e2c34578ad8a4fb786a3edfe8dbb1764~mv2.jpg",
+      "page": "https://www.yambafishingandcharters.com.au/gift-card",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.yambafishingandcharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.yambafishingandcharters.com.au/",
+      "bytes": 736535
+    },
+    {
+      "page": "https://www.yambafishingandcharters.com.au/faq",
+      "status": 200,
+      "final_url": "https://www.yambafishingandcharters.com.au/faq",
+      "bytes": 633896
+    },
+    {
+      "page": "https://www.yambafishingandcharters.com.au/what-do-i-need-to-bring",
+      "status": 200,
+      "final_url": "https://www.yambafishingandcharters.com.au/what-do-i-need-to-bring",
+      "bytes": 628855
+    },
+    {
+      "page": "https://www.yambafishingandcharters.com.au/terms-and-conditions",
+      "status": 200,
+      "final_url": "https://www.yambafishingandcharters.com.au/terms-and-conditions",
+      "bytes": 629315
+    },
+    {
+      "page": "https://www.yambafishingandcharters.com.au/covid-19-restrictions",
+      "status": 200,
+      "final_url": "https://www.yambafishingandcharters.com.au/covid-19-restrictions",
+      "bytes": 633159
+    },
+    {
+      "page": "https://www.yambafishingandcharters.com.au/services",
+      "status": 200,
+      "final_url": "https://www.yambafishingandcharters.com.au/services",
+      "bytes": 635911
+    },
+    {
+      "page": "https://www.yambafishingandcharters.com.au/book-online",
+      "status": 200,
+      "final_url": "https://www.yambafishingandcharters.com.au/book-online",
+      "bytes": 895518
+    },
+    {
+      "page": "https://www.yambafishingandcharters.com.au/shop",
+      "status": 200,
+      "final_url": "https://www.yambafishingandcharters.com.au/shop",
+      "bytes": 1121094
+    },
+    {
+      "page": "https://www.yambafishingandcharters.com.au/gift-card",
+      "status": 200,
+      "final_url": "https://www.yambafishingandcharters.com.au/gift-card",
+      "bytes": 1376518
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/4c7607_68469f8c88f544d398b51317f915c3db%7Emv2.png/v1/fit/w_2500,h_1330,al_c/4c7607_68469f8c88f544d398b51317f915c3db%7Emv2.png"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/4c7607_68469f8c88f544d398b51317f915c3db~mv2.png"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/4c7607_24b1d669b49e4d909aa120bf3194153e~mv2.png",
+      "error": "too small 425x425"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/4c7607_24b1d669b49e4d909aa120bf3194153e~mv2.png/v1/fill/w_186,h_186,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/4c7607_24b1d669b49e4d909aa120bf3194153e~mv2.png",
+      "error": "too small 186x186"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/4c7607_a8398b2680f244ebb51c34825f99230d~mv2.png",
+      "error": "too small 425x473"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/4c7607_a8398b2680f244ebb51c34825f99230d~mv2.png/v1/fill/w_168,h_184,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/4c7607_a8398b2680f244ebb51c34825f99230d~mv2.png",
+      "error": "too small 168x184"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/4c7607_1e00283b7cad49469e7cb1e59e698941~mv2.png",
+      "error": "too small 425x425"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/4c7607_1e00283b7cad49469e7cb1e59e698941~mv2.png/v1/fill/w_154,h_156,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/4c7607_1e00283b7cad49469e7cb1e59e698941~mv2.png",
+      "error": "too small 154x156"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/4c7607_ce0a45255a084809888e37c892ec3e27~mv2.png",
+      "error": "too small 425x473"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/4c7607_ce0a45255a084809888e37c892ec3e27~mv2.png/v1/fill/w_162,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/4c7607_ce0a45255a084809888e37c892ec3e27~mv2.png",
+      "error": "too small 162x164"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/e0678ef25486466ba65ef6ad47b559e1.png",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/e0678ef25486466ba65ef6ad47b559e1.png/v1/fill/w_40,h_40,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e0678ef25486466ba65ef6ad47b559e1.png",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/52b5a40f3b0c4b6c9423b71489ba1bb0.png",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/52b5a40f3b0c4b6c9423b71489ba1bb0.png/v1/fill/w_40,h_40,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/52b5a40f3b0c4b6c9423b71489ba1bb0.png",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/da7ef6dd1302486c9a67baebe4b364bc.png",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/da7ef6dd1302486c9a67baebe4b364bc.png/v1/fill/w_40,h_40,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/da7ef6dd1302486c9a67baebe4b364bc.png",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/4c7607_d0ca11ed41a64561849e3d860a789abf~mv2_d_3000_3000_s_4_2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/4c7607_d0ca11ed41a64561849e3d860a789abf~mv2_d_3000_3000_s_4_2.jpg",
+      "error": "too small 147x147"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/8d5c33_9db3d39b111d43889ac0bc8a54b4b8a6~mv2.jpg/v1/fill/w_195,h_79,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Powered-by-Yamaha.jpg",
+      "error": "too small 195x79"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/8d5c33_9db3d39b111d43889ac0bc8a54b4b8a6~mv2.jpg",
+      "error": "too small 300x120"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/8d5c33_9db3d39b111d43889ac0bc8a54b4b8a6~mv2.jpg/v1/fill/w_195,h_79,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Powered-by-Yamaha-300x120.jpg",
+      "error": "too small 195x79"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/e0678ef25486466ba65ef6ad47b559e1.png/v1/fill/w_30,h_30,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e0678ef25486466ba65ef6ad47b559e1.png",
+      "error": "too small 30x30"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/52b5a40f3b0c4b6c9423b71489ba1bb0.png/v1/fill/w_30,h_30,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/52b5a40f3b0c4b6c9423b71489ba1bb0.png",
+      "error": "too small 30x30"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/da7ef6dd1302486c9a67baebe4b364bc.png/v1/fill/w_30,h_30,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/da7ef6dd1302486c9a67baebe4b364bc.png",
+      "error": "too small 30x30"
+    },
+    {
+      "image": "https://www.yambafishingandcharters.com.au/quality_auto/4c7607_24b1d669b49e4d909aa120bf3194153e~mv2.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.yambafishingandcharters.com.au/quality_auto/4c7607_a8398b2680f244ebb51c34825f99230d~mv2.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.yambafishingandcharters.com.au/quality_auto/4c7607_1e00283b7cad49469e7cb1e59e698941~mv2.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.yambafishingandcharters.com.au/quality_auto/4c7607_ce0a45255a084809888e37c892ec3e27~mv2.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.yambafishingandcharters.com.au/quality_auto/4c7607_4ba2621b6ff84f33ab3a6981699b8c87~mv2.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.yambafishingandcharters.com.au/quality_auto/e0678ef25486466ba65ef6ad47b559e1.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.yambafishingandcharters.com.au/quality_auto/52b5a40f3b0c4b6c9423b71489ba1bb0.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.yambafishingandcharters.com.au/quality_auto/da7ef6dd1302486c9a67baebe4b364bc.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.yambafishingandcharters.com.au/quality_auto/4c7607_7e42d50221ce4b168282b70061ad3127~mv2_d_3000_1251_s_2.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.yambafishingandcharters.com.au/quality_auto/Powered-by-Yamaha.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.yambafishingandcharters.com.au/quality_auto/Powered-by-Yamaha-300x120.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/4c7607_68469f8c88f544d398b51317f915c3db%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/4c7607_68469f8c88f544d398b51317f915c3db%7Emv2.png",
+      "error": "too small 192x192"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/4c7607_68469f8c88f544d398b51317f915c3db%7Emv2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/4c7607_68469f8c88f544d398b51317f915c3db%7Emv2.png",
+      "error": "too small 32x32"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/4c7607_68469f8c88f544d398b51317f915c3db%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/4c7607_68469f8c88f544d398b51317f915c3db%7Emv2.png",
+      "error": "too small 180x180"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/4c7607_f6349cdab7fb4720b6a28a0c9c9eef08~mv2_d_3000_2250_s_2.jpg/v1/fill/w_288,h_216,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/4c7607_f6349cdab7fb4720b6a28a0c9c9eef08~mv2_d_3000_2250_s_2.jpg",
+      "error": "too small 288x216"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/1e47b2_cd5df08585b64f40a575e620ed3bf997.jpg/v1/fill/w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/1e47b2_cd5df08585b64f40a575e620ed3bf997.jpg",
+      "error": "too small 147x98"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/4c7607_24b1d669b49e4d909aa120bf3194153e~mv2.png/v1/fill/w_372,h_372,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/4c7607_24b1d669b49e4d909aa120bf3194153e~mv2.png",
+      "error": "too small 372x372"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/4c7607_a8398b2680f244ebb51c34825f99230d~mv2.png/v1/fill/w_336,h_368,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/4c7607_a8398b2680f244ebb51c34825f99230d~mv2.png",
+      "error": "too small 336x368"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/4c7607_1e00283b7cad49469e7cb1e59e698941~mv2.png/v1/fill/w_308,h_312,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/4c7607_1e00283b7cad49469e7cb1e59e698941~mv2.png",
+      "error": "too small 308x312"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/4c7607_ce0a45255a084809888e37c892ec3e27~mv2.png/v1/fill/w_324,h_328,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/4c7607_ce0a45255a084809888e37c892ec3e27~mv2.png",
+      "error": "too small 324x328"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/4c7607_4ba2621b6ff84f33ab3a6981699b8c87~mv2.png/v1/fill/w_302,h_311,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/4c7607_4ba2621b6ff84f33ab3a6981699b8c87~mv2.png",
+      "error": "too small 302x311"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/4c7607_4ba2621b6ff84f33ab3a6981699b8c87~mv2.png/v1/fill/w_604,h_622,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/4c7607_4ba2621b6ff84f33ab3a6981699b8c87~mv2.png"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/e0678ef25486466ba65ef6ad47b559e1.png/v1/fill/w_80,h_80,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e0678ef25486466ba65ef6ad47b559e1.png",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/52b5a40f3b0c4b6c9423b71489ba1bb0.png/v1/fill/w_80,h_80,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/52b5a40f3b0c4b6c9423b71489ba1bb0.png",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/da7ef6dd1302486c9a67baebe4b364bc.png/v1/fill/w_80,h_80,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/da7ef6dd1302486c9a67baebe4b364bc.png",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/4c7607_229ceac5d107484586714ef966c85c1e~mv2_d_3000_2250_s_2.jpg/v1/fill/w_147,h_110,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/4c7607_229ceac5d107484586714ef966c85c1e~mv2_d_3000_2250_s_2.jpg",
+      "error": "too small 147x110"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/4c7607_7e42d50221ce4b168282b70061ad3127~mv2_d_3000_1251_s_2.png/v1/fill/w_352,h_148,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/4c7607_7e42d50221ce4b168282b70061ad3127~mv2_d_3000_1251_s_2.png",
+      "error": "too small 352x148"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/4c7607_7e42d50221ce4b168282b70061ad3127~mv2_d_3000_1251_s_2.png/v1/fill/w_704,h_296,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/4c7607_7e42d50221ce4b168282b70061ad3127~mv2_d_3000_1251_s_2.png",
+      "error": "too small 704x296"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/8d5c33_9db3d39b111d43889ac0bc8a54b4b8a6~mv2.jpg/v1/fill/w_390,h_158,al_c,lg_1,q_80,enc_avif,quality_auto/Powered-by-Yamaha.jpg",
+      "error": "too small 390x158"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/8d5c33_9db3d39b111d43889ac0bc8a54b4b8a6~mv2.jpg/v1/fill/w_390,h_158,al_c,lg_1,q_80,enc_avif,quality_auto/Powered-by-Yamaha-300x120.jpg",
+      "error": "too small 390x158"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/e0678ef25486466ba65ef6ad47b559e1.png/v1/fill/w_60,h_60,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e0678ef25486466ba65ef6ad47b559e1.png",
+      "error": "too small 60x60"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/52b5a40f3b0c4b6c9423b71489ba1bb0.png/v1/fill/w_60,h_60,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/52b5a40f3b0c4b6c9423b71489ba1bb0.png",
+      "error": "too small 60x60"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/da7ef6dd1302486c9a67baebe4b364bc.png/v1/fill/w_60,h_60,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/da7ef6dd1302486c9a67baebe4b364bc.png",
+      "error": "too small 60x60"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/4c7607_68469f8c88f544d398b51317f915c3db~mv2.png/v1/fill/w_1006,h_1043,al_c/4c7607_68469f8c88f544d398b51317f915c3db~mv2.png"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/4c7607_bccfdff5edf543848790f023fe66f01b~mv2_d_3000_3000_s_4_2.jpg/v1/fill/w_288,h_288,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/4c7607_bccfdff5edf543848790f023fe66f01b~mv2_d_3000_3000_s_4_2.jpg",
+      "error": "too small 288x288"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/8d5c33_952694d3e41a4cc1bd05677211167a2d~mv2.jpg/v1/fill/w_122,h_122,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/8d5c33_952694d3e41a4cc1bd05677211167a2d~mv2.jpg",
+      "error": "too small 122x122"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/8d5c33_d629835529bc42a1adf23d18f1235df7~mv2.jpg/v1/fill/w_104,h_135,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/8d5c33_d629835529bc42a1adf23d18f1235df7~mv2.jpg",
+      "error": "too small 104x135"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/8d5c33_b01a57b10afd4475aa0a94f1c66e4a72~mv2.jpg/v1/fill/w_96,h_135,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/8d5c33_b01a57b10afd4475aa0a94f1c66e4a72~mv2.jpg",
+      "error": "too small 96x135"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/4c7607_75b8b43216d34426af3f91c86c388539~mv2_d_3000_2250_s_2.jpg/v1/fill/w_150,h_113,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/4c7607_75b8b43216d34426af3f91c86c388539~mv2_d_3000_2250_s_2.jpg",
+      "error": "too small 150x113"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/4c7607_098d73f4e5ee42cdaa19bdb35520fd3a~mv2_d_3000_2250_s_2.jpg/v1/fill/w_150,h_113,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/4c7607_098d73f4e5ee42cdaa19bdb35520fd3a~mv2_d_3000_2250_s_2.jpg",
+      "error": "too small 150x113"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/4c7607_68469f8c88f544d398b51317f915c3db~mv2.png/v1/fit/w_121,h_81,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/4c7607_68469f8c88f544d398b51317f915c3db~mv2.png",
+      "error": "too small 78x81"
+    }
+  ]
+}

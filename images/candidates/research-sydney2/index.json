@@ -1,0 +1,31 @@
+{
+  "slug": "research-sydney2",
+  "request_hash": "b19387e28c4c",
+  "collected_at": "2026-10-29T03:56:07.975Z",
+  "pages_fetched": [
+    "https://fishingstation.com.au/pages/charter-operators",
+    "https://events.visitsutherlandshire.com.au/see-and-do/fishing?view=list",
+    "https://www.visitsutherlandshire.com.au/see-and-do/fishing"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://fishingstation.com.au/pages/charter-operators",
+      "status": 200,
+      "final_url": "https://www.fishingstation.com.au/pages/charter-operators",
+      "bytes": 1326510
+    },
+    {
+      "page": "https://events.visitsutherlandshire.com.au/see-and-do/fishing?view=list",
+      "status": 200,
+      "final_url": "https://www.visitsutherlandshire.com.au/whats-on/",
+      "bytes": 366025
+    },
+    {
+      "page": "https://www.visitsutherlandshire.com.au/see-and-do/fishing",
+      "status": 200,
+      "final_url": "https://www.visitsutherlandshire.com.au/explore/nature-and-outdoors/fishing/",
+      "bytes": 366551
+    }
+  ]
+}

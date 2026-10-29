@@ -1,0 +1,177 @@
+{
+  "slug": "fishpen-charters-merimbula",
+  "request_hash": "ae242d5c1bf3",
+  "collected_at": "2026-10-29T04:02:00.986Z",
+  "pages_fetched": [
+    "https://fishpen-charters.squarespace.com/",
+    "https://fishpen-charters.squarespace.com/our-boat",
+    "https://fishpen-charters.squarespace.com/kayak-and-sup-hire",
+    "https://fishpen-charters.squarespace.com/mitchies",
+    "https://fishpen-charters.squarespace.com/contact",
+    "https://fishpen-charters.squarespace.com/fishpen-charters-more-info"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1200,
+      "height": 800,
+      "original": "1200x800",
+      "source": "https://images.squarespace-cdn.com/content/v1/52f2d083e4b0adcf03f79cf4/1655791760698-OKFIH2TCFZHA4XRTHC1A/Lisa+fishing.jpg?format=2500w",
+      "page": "https://fishpen-charters.squarespace.com/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 1200,
+      "height": 900,
+      "original": "1200x900",
+      "source": "https://images.squarespace-cdn.com/content/v1/52f2d083e4b0adcf03f79cf4/1655791786789-IWWAD3I89AOMKSH9ZY22/great+snapper.jpg?format=2500w",
+      "page": "https://fishpen-charters.squarespace.com/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1200,
+      "height": 900,
+      "original": "1200x900",
+      "source": "https://images.squarespace-cdn.com/content/v1/52f2d083e4b0adcf03f79cf4/1655791788424-DK1ZWHY6193QS5L45DPD/Nice+sunrise.jpg?format=2500w",
+      "page": "https://fishpen-charters.squarespace.com/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1200,
+      "height": 900,
+      "original": "1200x900",
+      "source": "https://images.squarespace-cdn.com/content/v1/52f2d083e4b0adcf03f79cf4/1655791828835-J58Y25FE7K05ASGJF8ZC/Fishpens+new+boat.jpg?format=2500w",
+      "page": "https://fishpen-charters.squarespace.com/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1200,
+      "height": 900,
+      "original": "1200x900",
+      "source": "https://images.squarespace-cdn.com/content/v1/52f2d083e4b0adcf03f79cf4/1655791836215-YNVZLRT228XBXIOFRJAP/Garawa.jpg?format=2500w",
+      "page": "https://fishpen-charters.squarespace.com/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 2000,
+      "height": 1333,
+      "original": "2048x1365",
+      "source": "https://images.squarespace-cdn.com/content/v1/52f2d083e4b0adcf03f79cf4/1635733267979-9W8EFU5DGF6KIZ08DXW3/DT907868.jpg?format=2500w",
+      "page": "https://fishpen-charters.squarespace.com/kayak-and-sup-hire",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 2000,
+      "height": 1333,
+      "original": "2048x1365",
+      "source": "https://images.squarespace-cdn.com/content/v1/52f2d083e4b0adcf03f79cf4/1635733316598-8JRP0KN1AO61B9WU0RBA/DT907718-HDR.jpg?format=2500w",
+      "page": "https://fishpen-charters.squarespace.com/kayak-and-sup-hire",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 2000,
+      "height": 1277,
+      "original": "2048x1308",
+      "source": "https://images.squarespace-cdn.com/content/v1/52f2d083e4b0adcf03f79cf4/1635823845979-HETASWG9YXOYVZERTOXQ/DJI_0393-HDR.jpg?format=2500w",
+      "page": "https://fishpen-charters.squarespace.com/mitchies",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 2000,
+      "height": 1333,
+      "original": "2048x1365",
+      "source": "https://images.squarespace-cdn.com/content/v1/52f2d083e4b0adcf03f79cf4/1635650989943-PW0JO5II3XEXSKHZWATP/DT900431.jpg?format=2500w",
+      "page": "https://fishpen-charters.squarespace.com/mitchies",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 2000,
+      "height": 1119,
+      "original": "2000x1119",
+      "source": "https://images.squarespace-cdn.com/content/v1/52f2d083e4b0adcf03f79cf4/1675892010550-7KLH4QE076WMUENUQWDF/DJI+Mitchies+morning.jpg?format=2500w",
+      "page": "https://fishpen-charters.squarespace.com/mitchies",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://fishpen-charters.squarespace.com/",
+      "status": 200,
+      "final_url": "https://fishpen-charters.squarespace.com/",
+      "bytes": 124823
+    },
+    {
+      "page": "https://fishpen-charters.squarespace.com/our-boat",
+      "status": 200,
+      "final_url": "https://fishpen-charters.squarespace.com/our-boat",
+      "bytes": 93378
+    },
+    {
+      "page": "https://fishpen-charters.squarespace.com/kayak-and-sup-hire",
+      "status": 200,
+      "final_url": "https://fishpen-charters.squarespace.com/kayak-and-sup-hire",
+      "bytes": 98025
+    },
+    {
+      "page": "https://fishpen-charters.squarespace.com/mitchies",
+      "status": 200,
+      "final_url": "https://fishpen-charters.squarespace.com/mitchies",
+      "bytes": 97641
+    },
+    {
+      "page": "https://fishpen-charters.squarespace.com/contact",
+      "status": 200,
+      "final_url": "https://fishpen-charters.squarespace.com/contact",
+      "bytes": 119540
+    },
+    {
+      "page": "https://fishpen-charters.squarespace.com/fishpen-charters-more-info",
+      "status": 200,
+      "final_url": "https://fishpen-charters.squarespace.com/fishpen-charters-more-info",
+      "bytes": 124823
+    },
+    {
+      "image": "https://static1.squarespace.com/static/52f2d083e4b0adcf03f79cf4/t/62b15933993149490e8b070c/1772258769888/",
+      "error": "too small 792x278"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/52f2d083e4b0adcf03f79cf4/1655791760698-OKFIH2TCFZHA4XRTHC1A/Lisa+fishing.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/52f2d083e4b0adcf03f79cf4/1655791786789-IWWAD3I89AOMKSH9ZY22/great+snapper.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/52f2d083e4b0adcf03f79cf4/1655791788424-DK1ZWHY6193QS5L45DPD/Nice+sunrise.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/52f2d083e4b0adcf03f79cf4/1655791828835-J58Y25FE7K05ASGJF8ZC/Fishpens+new+boat.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/52f2d083e4b0adcf03f79cf4/1655791836215-YNVZLRT228XBXIOFRJAP/Garawa.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/52f2d083e4b0adcf03f79cf4/1635733267979-9W8EFU5DGF6KIZ08DXW3/DT907868.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/52f2d083e4b0adcf03f79cf4/1635733316598-8JRP0KN1AO61B9WU0RBA/DT907718-HDR.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/52f2d083e4b0adcf03f79cf4/1635823845979-HETASWG9YXOYVZERTOXQ/DJI_0393-HDR.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/52f2d083e4b0adcf03f79cf4/1635650989943-PW0JO5II3XEXSKHZWATP/DT900431.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/52f2d083e4b0adcf03f79cf4/1675892010550-7KLH4QE076WMUENUQWDF/DJI+Mitchies+morning.jpg"
+    }
+  ]
+}

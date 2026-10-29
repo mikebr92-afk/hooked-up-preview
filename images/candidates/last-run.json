@@ -1,165 +1,238 @@
 {
-  "finished_at": "2026-10-29T03:50:48.218Z",
+  "finished_at": "2026-10-29T04:05:04.777Z",
   "summary": [
     {
       "slug": "cronulla-reef-fishing-charters",
-      "candidates": 0,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "fishabout-tours-sydney",
-      "candidates": 0,
-      "pages": 6
+      "skipped": true
     },
     {
       "slug": "wahoo-fishing-charters-sydney",
-      "candidates": 0,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "blue-reef-fishing-charters-sydney",
-      "candidates": 0,
-      "pages": 12
+      "skipped": true
     },
     {
       "slug": "sydney-charter-fishing-manly",
-      "candidates": 0,
-      "pages": 12
+      "skipped": true
     },
     {
       "slug": "deep-blue-charters-sydney",
-      "candidates": 0,
-      "pages": 11
+      "skipped": true
     },
     {
       "slug": "sydney-premium-charters-cronulla",
-      "candidates": 0,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "reel-adventure-fishing-sydney",
-      "candidates": 0,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "ambition-charters-sydney",
-      "candidates": 0,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "hammerhead-charters-nelson-bay",
-      "candidates": 0,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "pacific-blue-fishing-charters-nelson-bay",
-      "candidates": 0,
-      "pages": 6
+      "skipped": true
     },
     {
       "slug": "reel-contagious-charters-port-stephens",
-      "candidates": 0,
-      "pages": 6
+      "skipped": true
     },
     {
       "slug": "escape-fishing-charters-greenwell-point",
-      "candidates": 0,
-      "pages": 6
+      "skipped": true
     },
     {
       "slug": "jervis-bay-fishing-charters-huskisson",
-      "candidates": 0,
-      "pages": 2
+      "skipped": true
     },
     {
       "slug": "coffs-harbour-fishing-charters",
-      "candidates": 0,
-      "pages": 12
+      "skipped": true
     },
     {
       "slug": "five-island-charters-wollongong",
-      "candidates": 0,
-      "pages": 8
+      "skipped": true
     },
     {
       "slug": "aquilla-fishing-charters-wollongong",
-      "candidates": 0,
-      "pages": 12
+      "skipped": true
     },
     {
       "slug": "research-centralcoast",
-      "candidates": 0,
-      "pages": 3
+      "skipped": true
     },
     {
       "slug": "research-newcastle",
-      "candidates": 0,
-      "pages": 2
+      "skipped": true
     },
     {
       "slug": "research-portstephens",
-      "candidates": 0,
-      "pages": 3
+      "skipped": true
     },
     {
       "slug": "research-portmacquarie",
-      "candidates": 0,
-      "pages": 4
+      "skipped": true
     },
     {
       "slug": "research-swr",
-      "candidates": 0,
-      "pages": 3
+      "skipped": true
     },
     {
       "slug": "research-coffs",
-      "candidates": 0,
-      "pages": 2
+      "skipped": true
     },
     {
       "slug": "research-yamba",
-      "candidates": 0,
-      "pages": 3
+      "skipped": true
     },
     {
       "slug": "research-ballina",
-      "candidates": 0,
-      "pages": 2
+      "skipped": true
     },
     {
       "slug": "research-tweed",
-      "candidates": 0,
-      "pages": 2
+      "skipped": true
     },
     {
       "slug": "research-wollongong",
-      "candidates": 0,
-      "pages": 3
+      "skipped": true
     },
     {
       "slug": "research-jervisbay",
-      "candidates": 0,
-      "pages": 2
+      "skipped": true
     },
     {
       "slug": "research-batemans",
+      "skipped": true
+    },
+    {
+      "slug": "research-eden",
+      "skipped": true
+    },
+    {
+      "slug": "research-lhi",
+      "skipped": true
+    },
+    {
+      "slug": "research-sydney",
+      "skipped": true
+    },
+    {
+      "slug": "research-dpi-register",
+      "candidates": 0,
+      "pages": 1
+    },
+    {
+      "slug": "research-sydney2",
       "candidates": 0,
       "pages": 3
     },
     {
-      "slug": "research-eden",
+      "slug": "research-portstephens2",
+      "candidates": 0,
+      "pages": 3
+    },
+    {
+      "slug": "research-wahoo2",
       "candidates": 0,
       "pages": 4
     },
     {
-      "slug": "research-lhi",
+      "slug": "research-cronulla-rezdy",
       "candidates": 0,
-      "pages": 3
+      "pages": 2
     },
     {
-      "slug": "research-sydney",
+      "slug": "research-coffs-rezdy",
       "candidates": 0,
-      "pages": 3
+      "pages": 2
+    },
+    {
+      "slug": "research-pacificblue2",
+      "candidates": 0,
+      "pages": 1
+    },
+    {
+      "slug": "research-discovery3",
+      "candidates": 0,
+      "pages": 5
+    },
+    {
+      "slug": "aquilla-fishing-charters-wollongong",
+      "candidates": 16,
+      "pages": 10
+    },
+    {
+      "slug": "terrigal-fishing-tours",
+      "candidates": 16,
+      "pages": 8
+    },
+    {
+      "slug": "day-trippin-charters",
+      "candidates": 16,
+      "pages": 10
+    },
+    {
+      "slug": "b-and-l-fishing-charters",
+      "candidates": 9,
+      "pages": 12
+    },
+    {
+      "slug": "castaway-estuary-fishing-charters",
+      "candidates": 16,
+      "pages": 10
+    },
+    {
+      "slug": "port-macquarie-fishing-charters",
+      "candidates": 16,
+      "pages": 9
+    },
+    {
+      "slug": "south-west-rocks-fishing-charters",
+      "candidates": 16,
+      "pages": 11
+    },
+    {
+      "slug": "cougar-cat-12-charters",
+      "candidates": 0,
+      "pages": 1
+    },
+    {
+      "slug": "go-fish-yamba-charters",
+      "candidates": 16,
+      "pages": 6
+    },
+    {
+      "slug": "yamba-fishing-and-charters",
+      "candidates": 15,
+      "pages": 9
+    },
+    {
+      "slug": "kiama-charter-service",
+      "candidates": 16,
+      "pages": 10
+    },
+    {
+      "slug": "fishpen-charters-merimbula",
+      "candidates": 10,
+      "pages": 6
+    },
+    {
+      "slug": "sea-to-summit-lord-howe-fishing",
+      "candidates": 16,
+      "pages": 6
     }
   ]
 }

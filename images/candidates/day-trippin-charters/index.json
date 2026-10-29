@@ -1,0 +1,533 @@
+{
+  "slug": "day-trippin-charters",
+  "request_hash": "5590b9eda765",
+  "collected_at": "2026-10-29T03:58:07.585Z",
+  "pages_fetched": [
+    "https://day-trippin-charters.squarespace.com/",
+    "https://day-trippin-charters.squarespace.com/the-boat",
+    "https://day-trippin-charters.squarespace.com/cart",
+    "https://day-trippin-charters.squarespace.com/faqs",
+    "https://day-trippin-charters.squarespace.com/the-fish",
+    "https://day-trippin-charters.squarespace.com/half-day-fishing",
+    "https://day-trippin-charters.squarespace.com/full-day-fishing",
+    "https://day-trippin-charters.squarespace.com/gallery",
+    "https://day-trippin-charters.squarespace.com/ndis",
+    "https://day-trippin-charters.squarespace.com/open-day"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1333,
+      "height": 1000,
+      "original": "1333x1000",
+      "source": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/55cded67-8e9a-49b3-b6a1-f78bef1b49b3/Group%2Bof%2BFisherman%2Bon%2BLake%2BMacquarie%2BNSW.jpg?format=2500w",
+      "page": "https://day-trippin-charters.squarespace.com/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 1183,
+      "height": 403,
+      "original": "1183x403",
+      "source": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/709312eb-547e-48af-a8fa-e29fc8c49c44/DTC%2BCover%2BPhoto%2Bsmall.jpg?format=2500w",
+      "page": "https://day-trippin-charters.squarespace.com/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1183,
+      "height": 403,
+      "original": "1183x403",
+      "source": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/86c30ff3-f55b-4cce-9448-b0bf5a902473/Header%2BImage%2B2-opt.jpg?format=2500w",
+      "page": "https://day-trippin-charters.squarespace.com/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1183,
+      "height": 403,
+      "original": "1183x403",
+      "source": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/ea4c21b0-015b-4331-ba49-3dfb34b46d67/Header%2BImage%2B3-opt.jpg?format=2500w",
+      "page": "https://day-trippin-charters.squarespace.com/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1152,
+      "height": 768,
+      "original": "1152x768",
+      "source": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/4c5cd417-4868-4f02-8bba-d107f913c69e/lake+mac.jpeg?format=2500w",
+      "page": "https://day-trippin-charters.squarespace.com/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 2000,
+      "height": 1214,
+      "original": "2500x1518",
+      "source": "https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1618497259178-6XJGK9GR6YAVBQL5L519/20140301_Trade-151_012-2.jpg?format=2500w",
+      "page": "https://day-trippin-charters.squarespace.com/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2500x1667",
+      "source": "https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1607694583486-2PQT0LQ193RL7MCB6DX4/20140228_Trade+151_0046.jpg?format=2500w",
+      "page": "https://day-trippin-charters.squarespace.com/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2500x1667",
+      "source": "https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1607694644871-IC85FNH781UNZSZEGHDR/Aro+Ha_0428.jpg?format=2500w",
+      "page": "https://day-trippin-charters.squarespace.com/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 750,
+      "height": 1000,
+      "original": "750x1000",
+      "source": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/210e46eb-7894-4a99-92fd-c027c1d80a83/Captain+Cooper.jpg?format=2500w",
+      "page": "https://day-trippin-charters.squarespace.com/the-boat",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2500x1875",
+      "source": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/302c6cce-2563-497a-ac3a-9b78ea9c67df/fisherman%2Bon%2Blake%2Bmacquarie.jpg?format=2500w",
+      "page": "https://day-trippin-charters.squarespace.com/faqs",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 750,
+      "height": 1000,
+      "original": "750x1000",
+      "source": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/44dda95a-fca5-48bf-beca-9a15db317657/catching+fish+on+lake+macquarie+1.jpg?format=2500w",
+      "page": "https://day-trippin-charters.squarespace.com/the-fish",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2016x2688",
+      "source": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/bf0b436b-1878-4be8-ac68-1360fbdad5d2/IMG_1273-opt.jpg?format=2500w",
+      "page": "https://day-trippin-charters.squarespace.com/half-day-fishing",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2500x1875",
+      "source": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/969efc4a-d759-435e-b3cd-0c5010714d99/DTC%2BJeremy%2BJew-opt.jpg?format=2500w",
+      "page": "https://day-trippin-charters.squarespace.com/full-day-fishing",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2500x3333",
+      "source": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/bacbd100-db54-4996-bb16-995f4e469b44/DTC%2BDouble%2BJew-opt.jpg?format=2500w",
+      "page": "https://day-trippin-charters.squarespace.com/full-day-fishing",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 960,
+      "height": 1280,
+      "original": "960x1280",
+      "source": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/b39e1931-d916-44d0-85b9-45bcf30a46f5/IMG_3785-opt.jpg?format=2500w",
+      "page": "https://day-trippin-charters.squarespace.com/gallery",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1200,
+      "height": 1600,
+      "original": "1200x1600",
+      "source": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/eb06c72b-1ad0-4faf-b62b-fc8bf4effac7/IMG_0675.jpg?format=2500w",
+      "page": "https://day-trippin-charters.squarespace.com/gallery",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://day-trippin-charters.squarespace.com/",
+      "status": 200,
+      "final_url": "https://day-trippin-charters.squarespace.com/",
+      "bytes": 655501
+    },
+    {
+      "page": "https://day-trippin-charters.squarespace.com/the-boat",
+      "status": 200,
+      "final_url": "https://day-trippin-charters.squarespace.com/the-boat",
+      "bytes": 499864
+    },
+    {
+      "page": "https://day-trippin-charters.squarespace.com/cart",
+      "status": 200,
+      "final_url": "https://day-trippin-charters.squarespace.com/cart",
+      "bytes": 204561
+    },
+    {
+      "page": "https://day-trippin-charters.squarespace.com/faqs",
+      "status": 200,
+      "final_url": "https://day-trippin-charters.squarespace.com/faqs",
+      "bytes": 420306
+    },
+    {
+      "page": "https://day-trippin-charters.squarespace.com/the-fish",
+      "status": 200,
+      "final_url": "https://day-trippin-charters.squarespace.com/the-fish",
+      "bytes": 212653
+    },
+    {
+      "page": "https://day-trippin-charters.squarespace.com/half-day-fishing",
+      "status": 200,
+      "final_url": "https://day-trippin-charters.squarespace.com/half-day-fishing",
+      "bytes": 255625
+    },
+    {
+      "page": "https://day-trippin-charters.squarespace.com/full-day-fishing",
+      "status": 200,
+      "final_url": "https://day-trippin-charters.squarespace.com/full-day-fishing",
+      "bytes": 343793
+    },
+    {
+      "page": "https://day-trippin-charters.squarespace.com/gallery",
+      "status": 200,
+      "final_url": "https://day-trippin-charters.squarespace.com/gallery",
+      "bytes": 339828
+    },
+    {
+      "page": "https://day-trippin-charters.squarespace.com/ndis",
+      "status": 200,
+      "final_url": "https://day-trippin-charters.squarespace.com/ndis",
+      "bytes": 285561
+    },
+    {
+      "page": "https://day-trippin-charters.squarespace.com/open-day",
+      "status": 200,
+      "final_url": "https://day-trippin-charters.squarespace.com/open-day",
+      "bytes": 169515
+    },
+    {
+      "image": "https://static1.squarespace.com/static/5ee076e6f659bf4538e4cd03/t/5f50cd28cce4034ba6cb2a59/1792719404879/",
+      "error": "too small 736x232"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/709312eb-547e-48af-a8fa-e29fc8c49c44/DTC%2BCover%2BPhoto%2Bsmall.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/86c30ff3-f55b-4cce-9448-b0bf5a902473/Header%2BImage%2B2-opt.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/ea4c21b0-015b-4331-ba49-3dfb34b46d67/Header%2BImage%2B3-opt.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/55cded67-8e9a-49b3-b6a1-f78bef1b49b3/Group%2Bof%2BFisherman%2Bon%2BLake%2BMacquarie%2BNSW.jpg?format=500w",
+      "error": "too small 500x375"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/709312eb-547e-48af-a8fa-e29fc8c49c44/DTC%2BCover%2BPhoto%2Bsmall.jpg?format=100w",
+      "error": "too small 100x34"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/709312eb-547e-48af-a8fa-e29fc8c49c44/DTC%2BCover%2BPhoto%2Bsmall.jpg?format=300w",
+      "error": "too small 300x102"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/709312eb-547e-48af-a8fa-e29fc8c49c44/DTC%2BCover%2BPhoto%2Bsmall.jpg?format=500w",
+      "error": "too small 500x170"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/709312eb-547e-48af-a8fa-e29fc8c49c44/DTC%2BCover%2BPhoto%2Bsmall.jpg?format=750w",
+      "error": "too small 750x255"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/709312eb-547e-48af-a8fa-e29fc8c49c44/DTC%2BCover%2BPhoto%2Bsmall.jpg?format=1000w",
+      "error": "too small 1000x341"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/709312eb-547e-48af-a8fa-e29fc8c49c44/DTC%2BCover%2BPhoto%2Bsmall.jpg?format=1500w"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/86c30ff3-f55b-4cce-9448-b0bf5a902473/Header%2BImage%2B2-opt.jpg?format=100w",
+      "error": "too small 100x34"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/86c30ff3-f55b-4cce-9448-b0bf5a902473/Header%2BImage%2B2-opt.jpg?format=300w",
+      "error": "too small 300x102"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/86c30ff3-f55b-4cce-9448-b0bf5a902473/Header%2BImage%2B2-opt.jpg?format=500w",
+      "error": "too small 500x170"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/86c30ff3-f55b-4cce-9448-b0bf5a902473/Header%2BImage%2B2-opt.jpg?format=750w",
+      "error": "too small 750x255"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/86c30ff3-f55b-4cce-9448-b0bf5a902473/Header%2BImage%2B2-opt.jpg?format=1000w",
+      "error": "too small 1000x341"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/86c30ff3-f55b-4cce-9448-b0bf5a902473/Header%2BImage%2B2-opt.jpg?format=1500w"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/ea4c21b0-015b-4331-ba49-3dfb34b46d67/Header%2BImage%2B3-opt.jpg?format=100w",
+      "error": "too small 100x34"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/ea4c21b0-015b-4331-ba49-3dfb34b46d67/Header%2BImage%2B3-opt.jpg?format=300w",
+      "error": "too small 300x102"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/ea4c21b0-015b-4331-ba49-3dfb34b46d67/Header%2BImage%2B3-opt.jpg?format=500w",
+      "error": "too small 500x170"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/ea4c21b0-015b-4331-ba49-3dfb34b46d67/Header%2BImage%2B3-opt.jpg?format=750w",
+      "error": "too small 750x255"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/ea4c21b0-015b-4331-ba49-3dfb34b46d67/Header%2BImage%2B3-opt.jpg?format=1000w",
+      "error": "too small 1000x341"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/ea4c21b0-015b-4331-ba49-3dfb34b46d67/Header%2BImage%2B3-opt.jpg?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/4c5cd417-4868-4f02-8bba-d107f913c69e/lake+mac.jpeg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/4c5cd417-4868-4f02-8bba-d107f913c69e/lake+mac.jpeg?format=100w",
+      "error": "too small 100x67"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/4c5cd417-4868-4f02-8bba-d107f913c69e/lake+mac.jpeg?format=300w",
+      "error": "too small 300x200"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/4c5cd417-4868-4f02-8bba-d107f913c69e/lake+mac.jpeg?format=500w",
+      "error": "too small 500x333"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/4c5cd417-4868-4f02-8bba-d107f913c69e/lake+mac.jpeg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/4c5cd417-4868-4f02-8bba-d107f913c69e/lake+mac.jpeg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/4c5cd417-4868-4f02-8bba-d107f913c69e/lake+mac.jpeg?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/52a9da0d-e701-455c-a5fc-1f2e34ce2e52/Group%2Bof%2BFisherman%2Bon%2BLake%2BMacquarie%2BNSW-opt.jpg?format=2500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/52a9da0d-e701-455c-a5fc-1f2e34ce2e52/Group%2Bof%2BFisherman%2Bon%2BLake%2BMacquarie%2BNSW-opt.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/52a9da0d-e701-455c-a5fc-1f2e34ce2e52/Group%2Bof%2BFisherman%2Bon%2BLake%2BMacquarie%2BNSW-opt.jpg?format=100w",
+      "error": "too small 100x75"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/52a9da0d-e701-455c-a5fc-1f2e34ce2e52/Group%2Bof%2BFisherman%2Bon%2BLake%2BMacquarie%2BNSW-opt.jpg?format=300w",
+      "error": "too small 300x225"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/52a9da0d-e701-455c-a5fc-1f2e34ce2e52/Group%2Bof%2BFisherman%2Bon%2BLake%2BMacquarie%2BNSW-opt.jpg?format=500w",
+      "error": "too small 500x375"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/52a9da0d-e701-455c-a5fc-1f2e34ce2e52/Group%2Bof%2BFisherman%2Bon%2BLake%2BMacquarie%2BNSW-opt.jpg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/52a9da0d-e701-455c-a5fc-1f2e34ce2e52/Group%2Bof%2BFisherman%2Bon%2BLake%2BMacquarie%2BNSW-opt.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/52a9da0d-e701-455c-a5fc-1f2e34ce2e52/Group%2Bof%2BFisherman%2Bon%2BLake%2BMacquarie%2BNSW-opt.jpg?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/210e46eb-7894-4a99-92fd-c027c1d80a83/Captain+Cooper.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/210e46eb-7894-4a99-92fd-c027c1d80a83/Captain+Cooper.jpg?format=100w",
+      "error": "too small 100x134"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/210e46eb-7894-4a99-92fd-c027c1d80a83/Captain+Cooper.jpg?format=300w",
+      "error": "too small 300x400"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/210e46eb-7894-4a99-92fd-c027c1d80a83/Captain+Cooper.jpg?format=500w",
+      "error": "too small 500x667"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/210e46eb-7894-4a99-92fd-c027c1d80a83/Captain+Cooper.jpg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/210e46eb-7894-4a99-92fd-c027c1d80a83/Captain+Cooper.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/210e46eb-7894-4a99-92fd-c027c1d80a83/Captain+Cooper.jpg?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/302c6cce-2563-497a-ac3a-9b78ea9c67df/fisherman%2Bon%2Blake%2Bmacquarie.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/302c6cce-2563-497a-ac3a-9b78ea9c67df/fisherman%2Bon%2Blake%2Bmacquarie.jpg?format=100w",
+      "error": "too small 100x75"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/302c6cce-2563-497a-ac3a-9b78ea9c67df/fisherman%2Bon%2Blake%2Bmacquarie.jpg?format=300w",
+      "error": "too small 300x225"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/302c6cce-2563-497a-ac3a-9b78ea9c67df/fisherman%2Bon%2Blake%2Bmacquarie.jpg?format=500w",
+      "error": "too small 500x375"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/302c6cce-2563-497a-ac3a-9b78ea9c67df/fisherman%2Bon%2Blake%2Bmacquarie.jpg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/302c6cce-2563-497a-ac3a-9b78ea9c67df/fisherman%2Bon%2Blake%2Bmacquarie.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/302c6cce-2563-497a-ac3a-9b78ea9c67df/fisherman%2Bon%2Blake%2Bmacquarie.jpg?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/fbd3a4c1-043b-42ae-9932-60d63d748af9/fisherman%2Bon%2Blake%2Bmacquarie%2B%28Custom%29-opt.jpg?format=2500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/44dda95a-fca5-48bf-beca-9a15db317657/catching+fish+on+lake+macquarie+1.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/44dda95a-fca5-48bf-beca-9a15db317657/catching+fish+on+lake+macquarie+1.jpg?format=100w",
+      "error": "too small 100x134"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/44dda95a-fca5-48bf-beca-9a15db317657/catching+fish+on+lake+macquarie+1.jpg?format=300w",
+      "error": "too small 300x400"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/44dda95a-fca5-48bf-beca-9a15db317657/catching+fish+on+lake+macquarie+1.jpg?format=500w",
+      "error": "too small 500x667"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/44dda95a-fca5-48bf-beca-9a15db317657/catching+fish+on+lake+macquarie+1.jpg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/44dda95a-fca5-48bf-beca-9a15db317657/catching+fish+on+lake+macquarie+1.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/44dda95a-fca5-48bf-beca-9a15db317657/catching+fish+on+lake+macquarie+1.jpg?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/fbd3a4c1-043b-42ae-9932-60d63d748af9/fisherman%2Bon%2Blake%2Bmacquarie%2B%28Custom%29-opt.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/fbd3a4c1-043b-42ae-9932-60d63d748af9/fisherman%2Bon%2Blake%2Bmacquarie%2B%28Custom%29-opt.jpg?format=100w",
+      "error": "too small 100x75"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/fbd3a4c1-043b-42ae-9932-60d63d748af9/fisherman%2Bon%2Blake%2Bmacquarie%2B%28Custom%29-opt.jpg?format=300w",
+      "error": "too small 300x225"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/fbd3a4c1-043b-42ae-9932-60d63d748af9/fisherman%2Bon%2Blake%2Bmacquarie%2B%28Custom%29-opt.jpg?format=500w",
+      "error": "too small 500x375"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/fbd3a4c1-043b-42ae-9932-60d63d748af9/fisherman%2Bon%2Blake%2Bmacquarie%2B%28Custom%29-opt.jpg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/fbd3a4c1-043b-42ae-9932-60d63d748af9/fisherman%2Bon%2Blake%2Bmacquarie%2B%28Custom%29-opt.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/fbd3a4c1-043b-42ae-9932-60d63d748af9/fisherman%2Bon%2Blake%2Bmacquarie%2B%28Custom%29-opt.jpg?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/bf0b436b-1878-4be8-ac68-1360fbdad5d2/IMG_1273-opt.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/bf0b436b-1878-4be8-ac68-1360fbdad5d2/IMG_1273-opt.jpg?format=100w",
+      "error": "too small 100x133"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/bf0b436b-1878-4be8-ac68-1360fbdad5d2/IMG_1273-opt.jpg?format=300w",
+      "error": "too small 300x400"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/bf0b436b-1878-4be8-ac68-1360fbdad5d2/IMG_1273-opt.jpg?format=500w",
+      "error": "too small 500x667"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/bf0b436b-1878-4be8-ac68-1360fbdad5d2/IMG_1273-opt.jpg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/bf0b436b-1878-4be8-ac68-1360fbdad5d2/IMG_1273-opt.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/bf0b436b-1878-4be8-ac68-1360fbdad5d2/IMG_1273-opt.jpg?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/969efc4a-d759-435e-b3cd-0c5010714d99/DTC%2BJeremy%2BJew-opt.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/969efc4a-d759-435e-b3cd-0c5010714d99/DTC%2BJeremy%2BJew-opt.jpg?format=100w",
+      "error": "too small 100x75"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/969efc4a-d759-435e-b3cd-0c5010714d99/DTC%2BJeremy%2BJew-opt.jpg?format=300w",
+      "error": "too small 300x225"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/969efc4a-d759-435e-b3cd-0c5010714d99/DTC%2BJeremy%2BJew-opt.jpg?format=500w",
+      "error": "too small 500x375"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/969efc4a-d759-435e-b3cd-0c5010714d99/DTC%2BJeremy%2BJew-opt.jpg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/969efc4a-d759-435e-b3cd-0c5010714d99/DTC%2BJeremy%2BJew-opt.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/969efc4a-d759-435e-b3cd-0c5010714d99/DTC%2BJeremy%2BJew-opt.jpg?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/bacbd100-db54-4996-bb16-995f4e469b44/DTC%2BDouble%2BJew-opt.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/bacbd100-db54-4996-bb16-995f4e469b44/DTC%2BDouble%2BJew-opt.jpg?format=100w",
+      "error": "too small 100x133"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/bacbd100-db54-4996-bb16-995f4e469b44/DTC%2BDouble%2BJew-opt.jpg?format=300w",
+      "error": "too small 300x400"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/bacbd100-db54-4996-bb16-995f4e469b44/DTC%2BDouble%2BJew-opt.jpg?format=500w",
+      "error": "too small 500x666"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/bacbd100-db54-4996-bb16-995f4e469b44/DTC%2BDouble%2BJew-opt.jpg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/bacbd100-db54-4996-bb16-995f4e469b44/DTC%2BDouble%2BJew-opt.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ee076e6f659bf4538e4cd03/bacbd100-db54-4996-bb16-995f4e469b44/DTC%2BDouble%2BJew-opt.jpg?format=1500w"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "research-dpi-register",
+  "request_hash": "69234de4ea05",
+  "collected_at": "2026-10-29T03:56:04.779Z",
+  "pages_fetched": [
+    "https://r.jina.ai/https://www.dpi.nsw.gov.au/__data/assets/pdf_file/0006/1446135/Public-register-of-charter-fishing-business.pdf"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://r.jina.ai/https://www.dpi.nsw.gov.au/__data/assets/pdf_file/0006/1446135/Public-register-of-charter-fishing-business.pdf",
+      "status": 200,
+      "final_url": "https://r.jina.ai/https://www.dpi.nsw.gov.au/__data/assets/pdf_file/0006/1446135/Public-register-of-charter-fishing-business.pdf",
+      "bytes": 12579
+    }
+  ]
+}

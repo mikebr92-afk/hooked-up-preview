@@ -1,0 +1,480 @@
+{
+  "slug": "south-west-rocks-fishing-charters",
+  "request_hash": "5e0baeef0690",
+  "collected_at": "2026-10-29T04:00:28.338Z",
+  "pages_fetched": [
+    "http://www.southwestrocksfishcharters.com.au/",
+    "https://www.southwestrocksfishcharters.com.au/",
+    "https://www.southwestrocksfishcharters.com.au/gift-vouchers/",
+    "https://www.southwestrocksfishcharters.com.au/packages/",
+    "https://www.southwestrocksfishcharters.com.au/questions-and-answers/",
+    "https://www.southwestrocksfishcharters.com.au/about-us/weather/",
+    "https://www.southwestrocksfishcharters.com.au/charter-what-to-bring/",
+    "https://www.southwestrocksfishcharters.com.au/testimonials/",
+    "https://www.southwestrocksfishcharters.com.au/accommodation/",
+    "https://www.southwestrocksfishcharters.com.au/gallery_fishing_charter_company_south_west_rocks/",
+    "https://www.southwestrocksfishcharters.com.au/contact/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1200,
+      "height": 630,
+      "original": "1200x630",
+      "source": "https://www.southwestrocksfishcharters.com.au/wp-content/uploads/2024/11/social-share.png",
+      "page": "http://www.southwestrocksfishcharters.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 1678,
+      "height": 859,
+      "original": "1678x859",
+      "source": "https://www.staging.southwestrocksfishcharters.com.au/wp-content/uploads/2015/04/fishing-charter-south-west-rocks-northern-nsw.jpg?id=347",
+      "page": "http://www.southwestrocksfishcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1680,
+      "height": 671,
+      "original": "1680x671",
+      "source": "https://www.staging.southwestrocksfishcharters.com.au/wp-content/uploads/2015/04/Gone-fishing.jpg?id=443",
+      "page": "http://www.southwestrocksfishcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 848,
+      "height": 565,
+      "original": "848x565",
+      "source": "https://www.staging.southwestrocksfishcharters.com.au/wp-content/uploads/2015/04/5965041_m.jpg?id=112",
+      "page": "http://www.southwestrocksfishcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 960,
+      "height": 456,
+      "original": "960x456",
+      "source": "https://www.southwestrocksfishcharters.com.au/wp-content/uploads/2015/04/Fishing.jpg",
+      "page": "https://www.southwestrocksfishcharters.com.au/packages/",
+      "priority": true
+    },
+    {
+      "file": "c06.webp",
+      "width": 960,
+      "height": 720,
+      "original": "960x720",
+      "source": "https://www.southwestrocksfishcharters.com.au/wp-content/uploads/2015/04/10858525_10205988749540186_2233559275885102615_n.jpg",
+      "page": "https://www.southwestrocksfishcharters.com.au/questions-and-answers/",
+      "priority": true
+    },
+    {
+      "file": "c07.webp",
+      "width": 960,
+      "height": 598,
+      "original": "960x598",
+      "source": "https://www.southwestrocksfishcharters.com.au/wp-content/uploads/2015/04/1521794_10202972038564297_975674861_n.jpg",
+      "page": "https://www.southwestrocksfishcharters.com.au/charter-what-to-bring/",
+      "priority": true
+    },
+    {
+      "file": "c08.webp",
+      "width": 604,
+      "height": 402,
+      "original": "604x402",
+      "source": "https://www.southwestrocksfishcharters.com.au/wp-content/uploads/2015/04/2261_1101282614640_3082_n.jpg",
+      "page": "https://www.southwestrocksfishcharters.com.au/testimonials/",
+      "priority": true
+    },
+    {
+      "file": "c09.webp",
+      "width": 960,
+      "height": 624,
+      "original": "960x624",
+      "source": "https://www.southwestrocksfishcharters.com.au/wp-content/uploads/2015/04/Andrew-Sharp-charter-fishing.jpg",
+      "page": "https://www.southwestrocksfishcharters.com.au/testimonials/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 720,
+      "height": 960,
+      "original": "720x960",
+      "source": "https://www.southwestrocksfishcharters.com.au/wp-content/uploads/2015/04/Andrew-Sharp-fish-charter-fishing.jpg",
+      "page": "https://www.southwestrocksfishcharters.com.au/testimonials/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 960,
+      "height": 744,
+      "original": "960x744",
+      "source": "https://www.southwestrocksfishcharters.com.au/wp-content/uploads/2015/04/Chris-Gaunt-south-west-rocks-fishing.jpg.webp",
+      "page": "https://www.southwestrocksfishcharters.com.au/testimonials/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 2000,
+      "height": 1349,
+      "original": "2560x1727",
+      "source": "https://i0.wp.com/www.southwestrocksfishcharters.com.au/wp-content/uploads/2021/07/209141159_562035501826652_8892250204984313299_n-scaled.jpg",
+      "page": "https://www.southwestrocksfishcharters.com.au/accommodation/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://i0.wp.com/www.southwestrocksfishcharters.com.au/wp-content/uploads/2021/07/209317723_987594315113347_4275215538323063087_n-scaled.jpg",
+      "page": "https://www.southwestrocksfishcharters.com.au/accommodation/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://i0.wp.com/www.southwestrocksfishcharters.com.au/wp-content/uploads/2021/07/209487960_929126417661659_8712228470089393377_n-scaled.jpg",
+      "page": "https://www.southwestrocksfishcharters.com.au/accommodation/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://i0.wp.com/www.southwestrocksfishcharters.com.au/wp-content/uploads/2021/07/209762156_506997763924073_5952516084517719160_n-scaled.jpg",
+      "page": "https://www.southwestrocksfishcharters.com.au/accommodation/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://i0.wp.com/www.southwestrocksfishcharters.com.au/wp-content/uploads/2021/07/209933926_407699797170070_1894284162044960739_n-scaled.jpg",
+      "page": "https://www.southwestrocksfishcharters.com.au/accommodation/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "http://www.southwestrocksfishcharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.southwestrocksfishcharters.com.au/",
+      "bytes": 159442
+    },
+    {
+      "page": "https://www.southwestrocksfishcharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.southwestrocksfishcharters.com.au/",
+      "bytes": 159442
+    },
+    {
+      "page": "https://www.southwestrocksfishcharters.com.au/gift-vouchers/",
+      "status": 200,
+      "final_url": "https://www.southwestrocksfishcharters.com.au/gift-vouchers/",
+      "bytes": 99325
+    },
+    {
+      "page": "https://www.southwestrocksfishcharters.com.au/packages/",
+      "status": 200,
+      "final_url": "https://www.southwestrocksfishcharters.com.au/packages/",
+      "bytes": 105298
+    },
+    {
+      "page": "https://www.southwestrocksfishcharters.com.au/questions-and-answers/",
+      "status": 200,
+      "final_url": "https://www.southwestrocksfishcharters.com.au/questions-and-answers/",
+      "bytes": 100244
+    },
+    {
+      "page": "https://www.southwestrocksfishcharters.com.au/about-us/weather/",
+      "status": 200,
+      "final_url": "https://www.southwestrocksfishcharters.com.au/about-us/weather/",
+      "bytes": 95853
+    },
+    {
+      "page": "https://www.southwestrocksfishcharters.com.au/charter-what-to-bring/",
+      "status": 200,
+      "final_url": "https://www.southwestrocksfishcharters.com.au/charter-what-to-bring/",
+      "bytes": 102793
+    },
+    {
+      "page": "https://www.southwestrocksfishcharters.com.au/testimonials/",
+      "status": 200,
+      "final_url": "https://www.southwestrocksfishcharters.com.au/testimonials/",
+      "bytes": 120563
+    },
+    {
+      "page": "https://www.southwestrocksfishcharters.com.au/accommodation/",
+      "status": 200,
+      "final_url": "https://www.southwestrocksfishcharters.com.au/accommodation/",
+      "bytes": 181232
+    },
+    {
+      "page": "https://www.southwestrocksfishcharters.com.au/gallery_fishing_charter_company_south_west_rocks/",
+      "status": 200,
+      "final_url": "https://www.southwestrocksfishcharters.com.au/gallery_fishing_charter_company_south_west_rocks/",
+      "bytes": 161630
+    },
+    {
+      "page": "https://www.southwestrocksfishcharters.com.au/contact/",
+      "status": 200,
+      "final_url": "https://www.southwestrocksfishcharters.com.au/contact/",
+      "bytes": 94564
+    },
+    {
+      "image": "https://www.southwestrocksfishcharters.com.au/wp-content/uploads/2015/05/Charter1.jpg.webp",
+      "error": "banner/strip 2386x616"
+    },
+    {
+      "image": "https://graph.facebook.com/8522392517871395/picture?access_token=EAACW8aYRzLUBO41JnzD4agEnoYdLj8zWOu85Pl5nOOE1A2piyV6i8EOuW6RRIEY75lzIb7yzlhMyzaEiZAIMhv7E1sl5sbK7fsIrfzpQho5um0PjRyV7uvrwzpyjGA72cdSp7GpyaA41LIyAina6hhvYRRhZBAdZCPdvy4tz1zDllKp5rn48vjSEOASCpFH2IbiFf41L7H6hwZDZD&type=square&width=80",
+      "error": "HTTP 400"
+    },
+    {
+      "image": "https://graph.facebook.com/28026703060276398/picture?access_token=EAACW8aYRzLUBO41JnzD4agEnoYdLj8zWOu85Pl5nOOE1A2piyV6i8EOuW6RRIEY75lzIb7yzlhMyzaEiZAIMhv7E1sl5sbK7fsIrfzpQho5um0PjRyV7uvrwzpyjGA72cdSp7GpyaA41LIyAina6hhvYRRhZBAdZCPdvy4tz1zDllKp5rn48vjSEOASCpFH2IbiFf41L7H6hwZDZD&type=square&width=80",
+      "error": "HTTP 400"
+    },
+    {
+      "image": "https://graph.facebook.com/8759436777509638/picture?access_token=EAACW8aYRzLUBO41JnzD4agEnoYdLj8zWOu85Pl5nOOE1A2piyV6i8EOuW6RRIEY75lzIb7yzlhMyzaEiZAIMhv7E1sl5sbK7fsIrfzpQho5um0PjRyV7uvrwzpyjGA72cdSp7GpyaA41LIyAina6hhvYRRhZBAdZCPdvy4tz1zDllKp5rn48vjSEOASCpFH2IbiFf41L7H6hwZDZD&type=square&width=80",
+      "error": "HTTP 400"
+    },
+    {
+      "image": "https://graph.facebook.com/9273629419327374/picture?access_token=EAACW8aYRzLUBO41JnzD4agEnoYdLj8zWOu85Pl5nOOE1A2piyV6i8EOuW6RRIEY75lzIb7yzlhMyzaEiZAIMhv7E1sl5sbK7fsIrfzpQho5um0PjRyV7uvrwzpyjGA72cdSp7GpyaA41LIyAina6hhvYRRhZBAdZCPdvy4tz1zDllKp5rn48vjSEOASCpFH2IbiFf41L7H6hwZDZD&type=square&width=80",
+      "error": "HTTP 400"
+    },
+    {
+      "image": "https://graph.facebook.com/9693829100634465/picture?access_token=EAACW8aYRzLUBO41JnzD4agEnoYdLj8zWOu85Pl5nOOE1A2piyV6i8EOuW6RRIEY75lzIb7yzlhMyzaEiZAIMhv7E1sl5sbK7fsIrfzpQho5um0PjRyV7uvrwzpyjGA72cdSp7GpyaA41LIyAina6hhvYRRhZBAdZCPdvy4tz1zDllKp5rn48vjSEOASCpFH2IbiFf41L7H6hwZDZD&type=square&width=80",
+      "error": "HTTP 400"
+    },
+    {
+      "image": "https://graph.facebook.com/9182167371803172/picture?access_token=EAACW8aYRzLUBO41JnzD4agEnoYdLj8zWOu85Pl5nOOE1A2piyV6i8EOuW6RRIEY75lzIb7yzlhMyzaEiZAIMhv7E1sl5sbK7fsIrfzpQho5um0PjRyV7uvrwzpyjGA72cdSp7GpyaA41LIyAina6hhvYRRhZBAdZCPdvy4tz1zDllKp5rn48vjSEOASCpFH2IbiFf41L7H6hwZDZD&type=square&width=80",
+      "error": "HTTP 400"
+    },
+    {
+      "image": "https://graph.facebook.com/9528449300518320/picture?access_token=EAACW8aYRzLUBO41JnzD4agEnoYdLj8zWOu85Pl5nOOE1A2piyV6i8EOuW6RRIEY75lzIb7yzlhMyzaEiZAIMhv7E1sl5sbK7fsIrfzpQho5um0PjRyV7uvrwzpyjGA72cdSp7GpyaA41LIyAina6hhvYRRhZBAdZCPdvy4tz1zDllKp5rn48vjSEOASCpFH2IbiFf41L7H6hwZDZD&type=square&width=80",
+      "error": "HTTP 400"
+    },
+    {
+      "image": "https://graph.facebook.com/8861987270522679/picture?access_token=EAACW8aYRzLUBO41JnzD4agEnoYdLj8zWOu85Pl5nOOE1A2piyV6i8EOuW6RRIEY75lzIb7yzlhMyzaEiZAIMhv7E1sl5sbK7fsIrfzpQho5um0PjRyV7uvrwzpyjGA72cdSp7GpyaA41LIyAina6hhvYRRhZBAdZCPdvy4tz1zDllKp5rn48vjSEOASCpFH2IbiFf41L7H6hwZDZD&type=square&width=80",
+      "error": "HTTP 400"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocJXpO-t2hwP471R-su0cpLMgrUIr6sy8bORP4P3-mcZ4z5HeQ=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a-/ALV-UjWVTmuWJvAjMOjXMyY1zG_UtRK0Ca2jk0ZBzAtoFFoVHqS6Z6E-=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocJAqK-jxtbremKzDZb-_pgy7nghkvwffHVVym9TsmwrDWWigw=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a-/ALV-UjU7BnKio5KFbuUp35J6QZEo5GwW_IUis2q0zMrBdRYU530XcLuv=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a-/ALV-UjXFXNtp4lbjCTy4nuB2r9_zQTJUc4SUsphGOPTy8BvFcoWf2eU=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a-/ALV-UjWFLzJTqAbPlQ5hLFlYPTMGPYVPg2LYSdMRNc84Y8CLDWRlVcM=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a-/ALV-UjV3Pg5e7lTvtFFuVP5kCddqWPdRBcwfaxiLMilOEurHjc1DQNw=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a-/ALV-UjVlhhTbvQCwmEAVZ05Izg8R3rq-SQCWkMt2so4Vms_2IPrmc1k=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocJH3Q9NUHGoxhDtLurCrGCPvSgx6-PBihCuNs8NJOtvVjbMLw=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocLZcqxBOkTTo5PbnUDGscLqzgUhVRNUggbATX47hT8f2yPBxQ=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocJXpO-t2hwP471R-su0cpLMgrUIr6sy8bORP4P3-mcZ4z5HeQ=w80-h80-c-rp-mo-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a-/ALV-UjWVTmuWJvAjMOjXMyY1zG_UtRK0Ca2jk0ZBzAtoFFoVHqS6Z6E-=w80-h80-c-rp-mo-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocJAqK-jxtbremKzDZb-_pgy7nghkvwffHVVym9TsmwrDWWigw=w80-h80-c-rp-mo-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a-/ALV-UjU7BnKio5KFbuUp35J6QZEo5GwW_IUis2q0zMrBdRYU530XcLuv=w80-h80-c-rp-mo-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a-/ALV-UjXFXNtp4lbjCTy4nuB2r9_zQTJUc4SUsphGOPTy8BvFcoWf2eU=w80-h80-c-rp-mo-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a-/ALV-UjWFLzJTqAbPlQ5hLFlYPTMGPYVPg2LYSdMRNc84Y8CLDWRlVcM=w80-h80-c-rp-mo-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a-/ALV-UjV3Pg5e7lTvtFFuVP5kCddqWPdRBcwfaxiLMilOEurHjc1DQNw=w80-h80-c-rp-mo-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a-/ALV-UjVlhhTbvQCwmEAVZ05Izg8R3rq-SQCWkMt2so4Vms_2IPrmc1k=w80-h80-c-rp-mo-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocJH3Q9NUHGoxhDtLurCrGCPvSgx6-PBihCuNs8NJOtvVjbMLw=w80-h80-c-rp-mo-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocLZcqxBOkTTo5PbnUDGscLqzgUhVRNUggbATX47hT8f2yPBxQ=w80-h80-c-rp-mo-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "dup": "https://www.staging.southwestrocksfishcharters.com.au/wp-content/uploads/2015/04/fishing-charter-south-west-rocks-northern-nsw.jpg?id=347)"
+    },
+    {
+      "dup": "https://www.staging.southwestrocksfishcharters.com.au/wp-content/uploads/2015/04/Gone-fishing.jpg?id=443)"
+    },
+    {
+      "dup": "https://www.staging.southwestrocksfishcharters.com.au/wp-content/uploads/2015/04/5965041_m.jpg?id=112)"
+    },
+    {
+      "image": "https://www.southwestrocksfishcharters.com.au/wp-content/uploads/2015/04/Fishing-758x360.jpg.webp",
+      "error": "too small 758x360"
+    },
+    {
+      "image": "https://www.southwestrocksfishcharters.com.au/wp-content/uploads/2015/04/Fishing-758x360.jpg",
+      "error": "too small 758x360"
+    },
+    {
+      "image": "https://www.southwestrocksfishcharters.com.au/wp-content/uploads/2015/04/Fishing-300x143.jpg",
+      "error": "too small 300x143"
+    },
+    {
+      "image": "https://www.southwestrocksfishcharters.com.au/wp-content/uploads/2015/04/Fishing-100x48.jpg",
+      "error": "too small 100x48"
+    },
+    {
+      "image": "https://www.southwestrocksfishcharters.com.au/wp-content/uploads/2015/04/10858525_10205988749540186_2233559275885102615_n-300x225.jpg",
+      "error": "too small 300x225"
+    },
+    {
+      "image": "https://www.southwestrocksfishcharters.com.au/wp-content/uploads/2015/04/10858525_10205988749540186_2233559275885102615_n-100x75.jpg",
+      "error": "too small 100x75"
+    },
+    {
+      "dup": "https://www.southwestrocksfishcharters.com.au/wp-content/uploads/2015/04/10858525_10205988749540186_2233559275885102615_n-758x569.jpg"
+    },
+    {
+      "dup": "https://www.southwestrocksfishcharters.com.au/wp-content/uploads/2015/04/1521794_10202972038564297_975674861_n-758x472.jpg.webp"
+    },
+    {
+      "dup": "https://www.southwestrocksfishcharters.com.au/wp-content/uploads/2015/04/1521794_10202972038564297_975674861_n-758x472.jpg"
+    },
+    {
+      "image": "https://www.southwestrocksfishcharters.com.au/wp-content/uploads/2015/04/1521794_10202972038564297_975674861_n-300x187.jpg",
+      "error": "too small 300x187"
+    },
+    {
+      "image": "https://www.southwestrocksfishcharters.com.au/wp-content/uploads/2015/04/1521794_10202972038564297_975674861_n-100x62.jpg",
+      "error": "too small 100x62"
+    },
+    {
+      "dup": "https://www.southwestrocksfishcharters.com.au/wp-content/uploads/2015/04/2261_1101282614640_3082_n.jpg.webp"
+    },
+    {
+      "image": "https://www.southwestrocksfishcharters.com.au/wp-content/uploads/2015/04/Dave-Allman-fishing-charter-300x225.jpg.webp",
+      "error": "too small 300x225"
+    },
+    {
+      "image": "https://www.southwestrocksfishcharters.com.au/wp-content/uploads/2015/04/Andrew-Sharp-charter-fishing-300x195.jpg.webp",
+      "error": "too small 300x195"
+    },
+    {
+      "image": "https://www.southwestrocksfishcharters.com.au/wp-content/uploads/2015/04/Andrew-Sharp-fish-charter-fishing-225x300.jpg.webp",
+      "error": "too small 225x300"
+    },
+    {
+      "image": "https://www.southwestrocksfishcharters.com.au/wp-content/uploads/2015/04/Chris-Gaunt-south-west-rocks-fishing-300x233.jpg.webp",
+      "error": "too small 300x233"
+    },
+    {
+      "dup": "https://www.southwestrocksfishcharters.com.au/wp-content/uploads/2015/04/Dave-Allman-fishing-charter.jpg"
+    },
+    {
+      "image": "https://www.southwestrocksfishcharters.com.au/wp-content/uploads/2015/04/2261_1101282614640_3082_n-300x200.jpg",
+      "error": "too small 300x200"
+    },
+    {
+      "image": "https://www.southwestrocksfishcharters.com.au/wp-content/uploads/2015/04/2261_1101282614640_3082_n-100x67.jpg",
+      "error": "too small 100x67"
+    },
+    {
+      "image": "https://www.southwestrocksfishcharters.com.au/wp-content/uploads/2015/04/Dave-Allman-fishing-charter-300x225.jpg",
+      "error": "too small 300x225"
+    },
+    {
+      "image": "https://www.southwestrocksfishcharters.com.au/wp-content/uploads/2015/04/Dave-Allman-fishing-charter-100x75.jpg",
+      "error": "too small 100x75"
+    },
+    {
+      "dup": "https://www.southwestrocksfishcharters.com.au/wp-content/uploads/2015/04/Dave-Allman-fishing-charter-758x569.jpg"
+    },
+    {
+      "image": "https://www.southwestrocksfishcharters.com.au/wp-content/uploads/2015/04/Andrew-Sharp-charter-fishing-300x195.jpg",
+      "error": "too small 300x195"
+    },
+    {
+      "image": "https://www.southwestrocksfishcharters.com.au/wp-content/uploads/2015/04/Andrew-Sharp-charter-fishing-100x65.jpg",
+      "error": "too small 100x65"
+    },
+    {
+      "dup": "https://www.southwestrocksfishcharters.com.au/wp-content/uploads/2015/04/Andrew-Sharp-charter-fishing-758x493.jpg"
+    },
+    {
+      "image": "https://www.southwestrocksfishcharters.com.au/wp-content/uploads/2015/04/Andrew-Sharp-fish-charter-fishing-225x300.jpg",
+      "error": "too small 225x300"
+    },
+    {
+      "image": "https://www.southwestrocksfishcharters.com.au/wp-content/uploads/2015/04/Andrew-Sharp-fish-charter-fishing-100x133.jpg",
+      "error": "too small 100x133"
+    },
+    {
+      "dup": "https://www.southwestrocksfishcharters.com.au/wp-content/uploads/2015/04/Chris-Gaunt-south-west-rocks-fishing.jpg"
+    },
+    {
+      "image": "https://www.southwestrocksfishcharters.com.au/wp-content/uploads/2015/04/Chris-Gaunt-south-west-rocks-fishing-300x233.jpg",
+      "error": "too small 300x233"
+    },
+    {
+      "image": "https://www.southwestrocksfishcharters.com.au/wp-content/uploads/2015/04/Chris-Gaunt-south-west-rocks-fishing-100x78.jpg",
+      "error": "too small 100x78"
+    },
+    {
+      "dup": "https://www.southwestrocksfishcharters.com.au/wp-content/uploads/2015/04/Chris-Gaunt-south-west-rocks-fishing-758x587.jpg"
+    },
+    {
+      "image": "https://www.southwestrocksfishcharters.com.au/wp-content/uploads/2025/01/housefront-straightened.jpg",
+      "error": "too small 1251x364"
+    },
+    {
+      "image": "https://www.southwestrocksfishcharters.com.au/wp-content/uploads/2025/01/housefront-straightened-758x221.jpg.webp",
+      "error": "too small 758x221"
+    }
+  ]
+}

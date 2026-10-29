@@ -1,94 +1,246 @@
 {
   "slug": "aquilla-fishing-charters-wollongong",
-  "request_hash": "b37adba796b1",
-  "collected_at": "2026-10-29T03:49:53.086Z",
+  "request_hash": "d74fcc2354ab",
+  "collected_at": "2026-10-29T03:56:46.744Z",
   "pages_fetched": [
-    "https://www.visitnsw.com/things-to-do/tours/aquilla-fishing-charters",
-    "https://www.visitwollongong.com.au/operators/transport-and-tours/tour/aquilla-fishing-charters/",
-    "https://www.visitnsw.com/in/things-to-do/tours/aquilla-fishing-charters",
-    "https://www.visitnsw.com/nz/things-to-do/tours/aquilla-fishing-charters",
-    "https://www.visitnsw.com/uk/things-to-do/tours/aquilla-fishing-charters",
-    "https://www.visitnsw.com/us/things-to-do/tours/aquilla-fishing-charters",
-    "https://www.visitnsw.com/sg/things-to-do/tours/aquilla-fishing-charters",
-    "https://www.visitnsw.com/my/things-to-do/tours/aquilla-fishing-charters",
-    "https://www.visitnsw.com/id/things-to-do/tours/aquilla-fishing-charters",
-    "https://www.visitnsw.com/jp/things-to-do/tours/aquilla-fishing-charters",
-    "https://www.visitnsw.com/kr/things-to-do/tours/aquilla-fishing-charters",
-    "https://www.visitwollongong.com.au/corporate-resources/"
+    "https://www.aquillacharters.com.au/",
+    "https://www.aquillacharters.com.au/search",
+    "https://www.aquillacharters.com.au/private-cruises",
+    "https://www.aquillacharters.com.au/gift-vouchers",
+    "https://www.aquillacharters.com.au/per-person-charters",
+    "https://www.aquillacharters.com.au/whole-boat-charters",
+    "https://www.aquillacharters.com.au/bare-boat",
+    "https://www.aquillacharters.com.au/our-vessel",
+    "https://www.aquillacharters.com.au/welcome-aboard",
+    "https://www.aquillacharters.com.au/faq"
   ],
-  "candidates": [],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1500,
+      "height": 1000,
+      "original": "1500x1000",
+      "source": "http://static1.squarespace.com/static/5920f2ee6a49635fddd94847/t/64081d965f900b3cc0bf995a/1678253470056/06062022+VOKYO+TA+ILLAWARA++5900-1.jpg?format=1500w",
+      "page": "https://www.aquillacharters.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 2000,
+      "height": 1125,
+      "original": "2500x1406",
+      "source": "https://images.squarespace-cdn.com/content/v1/5920f2ee6a49635fddd94847/1728633364558-0VZU5PV03DINW89MH222/DJI_20241004062820_0288_D.jpeg?format=2500w",
+      "page": "https://www.aquillacharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2500x1667",
+      "source": "https://images.squarespace-cdn.com/content/v1/5920f2ee6a49635fddd94847/b58c78ce-0f4c-4a16-831b-45cd7cb6d473/06062022+VOKYO+TA+ILLAWARA++5661-1.jpg?format=2500w",
+      "page": "https://www.aquillacharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2500x1667",
+      "source": "https://images.squarespace-cdn.com/content/v1/5920f2ee6a49635fddd94847/029d40fc-a988-424c-96f1-a5cb92ffc434/image-asset.jpeg?format=2500w",
+      "page": "https://www.aquillacharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 2000,
+      "height": 1125,
+      "original": "2500x1406",
+      "source": "https://images.squarespace-cdn.com/content/v1/5920f2ee6a49635fddd94847/098eef8b-3e26-48ee-a2bf-bd395b489c48/06062022+VOKYO+TA+ILLAWARA++5922-1.jpg?format=2500w",
+      "page": "https://www.aquillacharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 2000,
+      "height": 1125,
+      "original": "2500x1406",
+      "source": "https://images.squarespace-cdn.com/content/v1/5920f2ee6a49635fddd94847/61bca61b-e3dd-4592-b465-e231f3d74b33/DJI_20241004062950_0297_D.jpeg?format=2500w",
+      "page": "https://www.aquillacharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2500x1875",
+      "source": "https://images.squarespace-cdn.com/content/v1/5920f2ee6a49635fddd94847/1772425578150-QDKM3XIKTRGMJ9YL2NSH/dc1807e3-f532-4c98-909c-b2a53107da7b.jpg?format=2500w",
+      "page": "https://www.aquillacharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 2000,
+      "height": 1125,
+      "original": "2500x1406",
+      "source": "https://images.squarespace-cdn.com/content/v1/5920f2ee6a49635fddd94847/1728633613830-VAL7L7KF5RVLHWU6T737/DJI_20241004061904_0273_D.jpeg?format=2500w",
+      "page": "https://www.aquillacharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2500x1667",
+      "source": "https://images.squarespace-cdn.com/content/v1/5920f2ee6a49635fddd94847/1665618680497-IZOBMHJ1CBFE0FIGDLWC/06062022+VOKYO+TA+ILLAWARA++5632-1.jpg?format=2500w",
+      "page": "https://www.aquillacharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 640,
+      "height": 1136,
+      "original": "640x1136",
+      "source": "https://images.squarespace-cdn.com/content/v1/5920f2ee6a49635fddd94847/1793170531268-QJHJOHL4HY5NIW5NRT5I/image-asset.jpeg?format=2500w",
+      "page": "https://www.aquillacharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 640,
+      "height": 1136,
+      "original": "640x1136",
+      "source": "https://images.squarespace-cdn.com/content/v1/5920f2ee6a49635fddd94847/1792733021525-3H5M14OONHLBDOIE42ZN/image-asset.jpeg?format=2500w",
+      "page": "https://www.aquillacharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 640,
+      "height": 1136,
+      "original": "640x1136",
+      "source": "https://images.squarespace-cdn.com/content/v1/5920f2ee6a49635fddd94847/1792621447155-1NOYGF30YKNVOF1S58X2/image-asset.jpeg?format=2500w",
+      "page": "https://www.aquillacharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1088,
+      "height": 1344,
+      "original": "1088x1344",
+      "source": "https://images.squarespace-cdn.com/content/v1/5920f2ee6a49635fddd94847/1791867254884-XU0O1KESVCB21ZJ53QN4/image-asset.jpeg?format=2500w",
+      "page": "https://www.aquillacharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1127,
+      "height": 2000,
+      "original": "1217x2160",
+      "source": "https://images.squarespace-cdn.com/content/v1/5920f2ee6a49635fddd94847/1790995845714-84DLZL6AW9YLF0Z72HIB/image-asset.jpeg?format=2500w",
+      "page": "https://www.aquillacharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2500x3333",
+      "source": "https://images.squarespace-cdn.com/content/v1/5920f2ee6a49635fddd94847/1790736828501-KY9GX5DMMC6LT4TA6MI1/image-asset.jpeg?format=2500w",
+      "page": "https://www.aquillacharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 640,
+      "height": 1136,
+      "original": "640x1136",
+      "source": "https://images.squarespace-cdn.com/content/v1/5920f2ee6a49635fddd94847/1790403729378-2SHYDQ08TM5S15SY3E3M/image-asset.jpeg?format=2500w",
+      "page": "https://www.aquillacharters.com.au/",
+      "priority": false
+    }
+  ],
   "log": [
     {
-      "page": "https://www.visitnsw.com/things-to-do/tours/aquilla-fishing-charters",
+      "page": "https://www.aquillacharters.com.au/",
       "status": 200,
-      "final_url": "https://www.visitnsw.com/things-to-do/tours/aquilla-fishing-charters",
-      "bytes": 230055
+      "final_url": "https://www.aquillacharters.com.au/",
+      "bytes": 219627
     },
     {
-      "page": "https://www.visitwollongong.com.au/operators/transport-and-tours/tour/aquilla-fishing-charters/",
+      "page": "https://www.aquillacharters.com.au/search",
       "status": 200,
-      "final_url": "https://www.visitwollongong.com.au/operators/transport-and-tours/tour/aquilla-fishing-charters/",
-      "bytes": 239473
+      "final_url": "https://www.aquillacharters.com.au/search",
+      "bytes": 102863
     },
     {
-      "page": "https://www.visitnsw.com/in/things-to-do/tours/aquilla-fishing-charters",
+      "page": "https://www.aquillacharters.com.au/private-cruises",
       "status": 200,
-      "final_url": "https://www.visitnsw.com/in/things-to-do/tours/aquilla-fishing-charters",
-      "bytes": 230359
+      "final_url": "https://www.aquillacharters.com.au/private-cruises",
+      "bytes": 166992
     },
     {
-      "page": "https://www.visitnsw.com/nz/things-to-do/tours/aquilla-fishing-charters",
+      "page": "https://www.aquillacharters.com.au/gift-vouchers",
       "status": 200,
-      "final_url": "https://www.visitnsw.com/nz/things-to-do/tours/aquilla-fishing-charters",
-      "bytes": 230365
+      "final_url": "https://www.aquillacharters.com.au/gift-vouchers",
+      "bytes": 113424
     },
     {
-      "page": "https://www.visitnsw.com/uk/things-to-do/tours/aquilla-fishing-charters",
+      "page": "https://www.aquillacharters.com.au/per-person-charters",
       "status": 200,
-      "final_url": "https://www.visitnsw.com/uk/things-to-do/tours/aquilla-fishing-charters",
-      "bytes": 230368
+      "final_url": "https://www.aquillacharters.com.au/per-person-charters",
+      "bytes": 145247
     },
     {
-      "page": "https://www.visitnsw.com/us/things-to-do/tours/aquilla-fishing-charters",
+      "page": "https://www.aquillacharters.com.au/whole-boat-charters",
       "status": 200,
-      "final_url": "https://www.visitnsw.com/us/things-to-do/tours/aquilla-fishing-charters",
-      "bytes": 230367
+      "final_url": "https://www.aquillacharters.com.au/whole-boat-charters",
+      "bytes": 172748
     },
     {
-      "page": "https://www.visitnsw.com/sg/things-to-do/tours/aquilla-fishing-charters",
+      "page": "https://www.aquillacharters.com.au/bare-boat",
       "status": 200,
-      "final_url": "https://www.visitnsw.com/sg/things-to-do/tours/aquilla-fishing-charters",
-      "bytes": 230363
+      "final_url": "https://www.aquillacharters.com.au/bare-boat",
+      "bytes": 142118
     },
     {
-      "page": "https://www.visitnsw.com/my/things-to-do/tours/aquilla-fishing-charters",
+      "page": "https://www.aquillacharters.com.au/our-vessel",
       "status": 200,
-      "final_url": "https://www.visitnsw.com/my/things-to-do/tours/aquilla-fishing-charters",
-      "bytes": 230362
+      "final_url": "https://www.aquillacharters.com.au/our-vessel",
+      "bytes": 156245
     },
     {
-      "page": "https://www.visitnsw.com/id/things-to-do/tours/aquilla-fishing-charters",
+      "page": "https://www.aquillacharters.com.au/welcome-aboard",
       "status": 200,
-      "final_url": "https://www.visitnsw.com/id/things-to-do/tours/aquilla-fishing-charters",
-      "bytes": 230363
+      "final_url": "https://www.aquillacharters.com.au/welcome-aboard",
+      "bytes": 139993
     },
     {
-      "page": "https://www.visitnsw.com/jp/things-to-do/tours/aquilla-fishing-charters",
+      "page": "https://www.aquillacharters.com.au/faq",
       "status": 200,
-      "final_url": "https://www.visitnsw.com/jp/things-to-do/tours/aquilla-fishing-charters",
-      "bytes": 226588
+      "final_url": "https://www.aquillacharters.com.au/faq",
+      "bytes": 137404
     },
     {
-      "page": "https://www.visitnsw.com/kr/things-to-do/tours/aquilla-fishing-charters",
-      "status": 200,
-      "final_url": "https://www.visitnsw.com/kr/things-to-do/tours/aquilla-fishing-charters",
-      "bytes": 225943
+      "image": "https://static1.squarespace.com/static/5920f2ee6a49635fddd94847/t/66fbc891d5ecee79fbd58f0d/1792738147404/",
+      "error": "too small 1000x171"
     },
     {
-      "page": "https://www.visitwollongong.com.au/corporate-resources/",
-      "status": 200,
-      "final_url": "https://www.visitwollongong.com.au/corporate-resources/",
-      "bytes": 233971
+      "image": "https://images.squarespace-cdn.com/content/v1/5920f2ee6a49635fddd94847/f782b5df-9c3d-4719-bceb-7a75fd5ffd1e/Aquilla.jpg?format=2500w",
+      "error": "too small 2176x373"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5920f2ee6a49635fddd94847/f782b5df-9c3d-4719-bceb-7a75fd5ffd1e/Aquilla.jpg",
+      "error": "too small 2176x373"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5920f2ee6a49635fddd94847/1792394504660-96NYFIHSAF54VUXDR2G1/image-asset.jpeg?format=2500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5920f2ee6a49635fddd94847/1791867254884-XU0O1KESVCB21ZJ53QN4/image-asset.jpeg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5920f2ee6a49635fddd94847/1790736828501-KY9GX5DMMC6LT4TA6MI1/image-asset.jpeg"
     }
   ]
 }

@@ -1,0 +1,17 @@
+{
+  "slug": "research-pacificblue2",
+  "request_hash": "3f461e24cd10",
+  "collected_at": "2026-10-29T03:56:22.222Z",
+  "pages_fetched": [
+    "https://pacificbluecharters.com.au/faq/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://pacificbluecharters.com.au/faq/",
+      "status": 404,
+      "final_url": "https://pacificbluecharters.com.au/faq/",
+      "bytes": 140564
+    }
+  ]
+}

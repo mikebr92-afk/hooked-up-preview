@@ -1,0 +1,447 @@
+{
+  "slug": "terrigal-fishing-tours",
+  "request_hash": "0ce2984fa703",
+  "collected_at": "2026-10-29T03:57:27.690Z",
+  "pages_fetched": [
+    "https://terrigalfishingtours.com.au/",
+    "https://terrigalfishingtours.com.au/fishing-charters-sydney/",
+    "https://terrigalfishingtours.com.au/hardys-bay-charters/",
+    "https://terrigalfishingtours.com.au/lunch-cruises-corporate-charters-central-coast/",
+    "https://terrigalfishingtours.com.au/fishing-charter-tour-information/",
+    "https://terrigalfishingtours.com.au/fishing-charter-gift-vouchers/",
+    "https://terrigalfishingtours.com.au/contact/",
+    "https://terrigalfishingtours.com.au/about/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 2000,
+      "height": 1645,
+      "original": "2648x2178",
+      "source": "https://terrigalfishingtours.com.au/wp-content/uploads/2026/01/HardysBayChartersMarlin.png",
+      "page": "https://terrigalfishingtours.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 1440,
+      "height": 1161,
+      "original": "1440x1161",
+      "source": "https://terrigalfishingtours.com.au/wp-content/uploads/2025/10/ajtrag2.jpg",
+      "page": "https://terrigalfishingtours.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1566,
+      "height": 827,
+      "original": "1566x827",
+      "source": "https://terrigalfishingtours.com.au/wp-content/uploads/2022/08/skye-planing-aft1.png",
+      "page": "https://terrigalfishingtours.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1151,
+      "height": 912,
+      "original": "1151x912",
+      "source": "https://terrigalfishingtours.com.au/wp-content/uploads/2022/08/iStock-1001262002.jpg",
+      "page": "https://terrigalfishingtours.com.au/fishing-charters-sydney/",
+      "priority": true
+    },
+    {
+      "file": "c05.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2048x1536",
+      "source": "https://terrigalfishingtours.com.au/wp-content/uploads/2023/09/Hawkesbury-Flatheadenh.jpg",
+      "page": "https://terrigalfishingtours.com.au/fishing-charters-sydney/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 720,
+      "height": 960,
+      "original": "720x960",
+      "source": "https://terrigalfishingtours.com.au/wp-content/uploads/2024/10/girlsnapperen.jpg",
+      "page": "https://terrigalfishingtours.com.au/fishing-charters-sydney/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 2000,
+      "height": 1969,
+      "original": "2971x2925",
+      "source": "https://terrigalfishingtours.com.au/wp-content/uploads/2025/10/1.jpg",
+      "page": "https://terrigalfishingtours.com.au/hardys-bay-charters/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1581,
+      "height": 2000,
+      "original": "3024x3825",
+      "source": "https://terrigalfishingtours.com.au/wp-content/uploads/2025/10/2.jpg",
+      "page": "https://terrigalfishingtours.com.au/hardys-bay-charters/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1024,
+      "height": 576,
+      "original": "1024x576",
+      "source": "https://terrigalfishingtours.com.au/wp-content/uploads/2024/11/wordpress-dolphin.jpg",
+      "page": "https://terrigalfishingtours.com.au/hardys-bay-charters/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1920,
+      "height": 1436,
+      "original": "1920x1436",
+      "source": "https://terrigalfishingtours.com.au/wp-content/uploads/2025/10/rick2thumb.jpg",
+      "page": "https://terrigalfishingtours.com.au/hardys-bay-charters/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2914x2186",
+      "source": "https://terrigalfishingtours.com.au/wp-content/uploads/2024/11/summerfamily.jpg",
+      "page": "https://terrigalfishingtours.com.au/hardys-bay-charters/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 940,
+      "height": 788,
+      "original": "940x788",
+      "source": "https://terrigalfishingtours.com.au/wp-content/uploads/2022/08/Untitled-design.png",
+      "page": "https://terrigalfishingtours.com.au/lunch-cruises-corporate-charters-central-coast/",
+      "priority": true
+    },
+    {
+      "file": "c13.webp",
+      "width": 2000,
+      "height": 1600,
+      "original": "3697x2958",
+      "source": "https://terrigalfishingtours.com.au/wp-content/uploads/2022/08/Lion-Island.jpg",
+      "page": "https://terrigalfishingtours.com.au/lunch-cruises-corporate-charters-central-coast/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 940,
+      "height": 788,
+      "original": "940x788",
+      "source": "https://terrigalfishingtours.com.au/wp-content/uploads/2022/08/Untitled-design-4.png",
+      "page": "https://terrigalfishingtours.com.au/lunch-cruises-corporate-charters-central-coast/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1457,
+      "height": 767,
+      "original": "1457x767",
+      "source": "https://terrigalfishingtours.com.au/wp-content/uploads/2022/09/skye-planing1en.png",
+      "page": "https://terrigalfishingtours.com.au/fishing-charter-tour-information/",
+      "priority": true
+    },
+    {
+      "file": "c16.webp",
+      "width": 1147,
+      "height": 863,
+      "original": "1147x863",
+      "source": "https://terrigalfishingtours.com.au/wp-content/uploads/2022/08/terrigal-boat-ramp.png",
+      "page": "https://terrigalfishingtours.com.au/fishing-charter-tour-information/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://terrigalfishingtours.com.au/",
+      "status": 200,
+      "final_url": "https://terrigalfishingtours.com.au/",
+      "bytes": 185865
+    },
+    {
+      "page": "https://terrigalfishingtours.com.au/fishing-charters-sydney/",
+      "status": 200,
+      "final_url": "https://terrigalfishingtours.com.au/fishing-charters-sydney/",
+      "bytes": 179509
+    },
+    {
+      "page": "https://terrigalfishingtours.com.au/hardys-bay-charters/",
+      "status": 200,
+      "final_url": "https://terrigalfishingtours.com.au/hardys-bay-charters/",
+      "bytes": 186677
+    },
+    {
+      "page": "https://terrigalfishingtours.com.au/lunch-cruises-corporate-charters-central-coast/",
+      "status": 200,
+      "final_url": "https://terrigalfishingtours.com.au/lunch-cruises-corporate-charters-central-coast/",
+      "bytes": 178207
+    },
+    {
+      "page": "https://terrigalfishingtours.com.au/fishing-charter-tour-information/",
+      "status": 200,
+      "final_url": "https://terrigalfishingtours.com.au/fishing-charter-tour-information/",
+      "bytes": 197541
+    },
+    {
+      "page": "https://terrigalfishingtours.com.au/fishing-charter-gift-vouchers/",
+      "status": 200,
+      "final_url": "https://terrigalfishingtours.com.au/fishing-charter-gift-vouchers/",
+      "bytes": 178423
+    },
+    {
+      "page": "https://terrigalfishingtours.com.au/contact/",
+      "status": 200,
+      "final_url": "https://terrigalfishingtours.com.au/contact/",
+      "bytes": 165113
+    },
+    {
+      "page": "https://terrigalfishingtours.com.au/about/",
+      "status": 200,
+      "final_url": "https://terrigalfishingtours.com.au/about/",
+      "bytes": 188671
+    },
+    {
+      "dup": "https://terrigalfishingtours.com.au/wp-content/uploads/2026/01/HardysBayChartersMarlin-1024x842.png"
+    },
+    {
+      "dup": "https://terrigalfishingtours.com.au/wp-content/uploads/2026/01/HardysBayChartersMarlin-2048x1684.png"
+    },
+    {
+      "image": "https://terrigalfishingtours.com.au/wp-content/uploads/2026/01/HardysBayChartersMarlin-300x247.png",
+      "error": "too small 300x247"
+    },
+    {
+      "dup": "https://terrigalfishingtours.com.au/wp-content/uploads/2026/01/HardysBayChartersMarlin-768x632.png"
+    },
+    {
+      "dup": "https://terrigalfishingtours.com.au/wp-content/uploads/2026/01/HardysBayChartersMarlin-1536x1263.png"
+    },
+    {
+      "dup": "https://terrigalfishingtours.com.au/wp-content/uploads/2026/01/HardysBayChartersMarlin-600x494.png"
+    },
+    {
+      "dup": "https://terrigalfishingtours.com.au/wp-content/uploads/2025/10/ajtrag2-768x619.jpg"
+    },
+    {
+      "image": "https://terrigalfishingtours.com.au/wp-content/uploads/2025/10/ajtrag2-300x242.jpg",
+      "error": "too small 300x242"
+    },
+    {
+      "dup": "https://terrigalfishingtours.com.au/wp-content/uploads/2025/10/ajtrag2-1024x826.jpg"
+    },
+    {
+      "dup": "https://terrigalfishingtours.com.au/wp-content/uploads/2025/10/ajtrag2-600x484.jpg"
+    },
+    {
+      "dup": "https://terrigalfishingtours.com.au/wp-content/uploads/2022/08/skye-planing-aft1-1024x541.png"
+    },
+    {
+      "image": "https://terrigalfishingtours.com.au/wp-content/uploads/2022/08/skye-planing-aft1-300x158.png",
+      "error": "too small 300x158"
+    },
+    {
+      "dup": "https://terrigalfishingtours.com.au/wp-content/uploads/2022/08/skye-planing-aft1-768x406.png"
+    },
+    {
+      "dup": "https://terrigalfishingtours.com.au/wp-content/uploads/2022/08/skye-planing-aft1-1536x811.png"
+    },
+    {
+      "image": "https://terrigalfishingtours.com.au/wp-content/uploads/2022/08/skye-planing-aft1-600x317.png",
+      "error": "too small 600x317"
+    },
+    {
+      "image": "https://terrigalfishingtours.com.au/wp-content/uploads/2022/08/iStock-1001262002-300x238.jpg",
+      "error": "too small 300x238"
+    },
+    {
+      "dup": "https://terrigalfishingtours.com.au/wp-content/uploads/2022/08/iStock-1001262002-1024x811.jpg"
+    },
+    {
+      "dup": "https://terrigalfishingtours.com.au/wp-content/uploads/2022/08/iStock-1001262002-768x609.jpg"
+    },
+    {
+      "dup": "https://terrigalfishingtours.com.au/wp-content/uploads/2022/08/iStock-1001262002-600x475.jpg"
+    },
+    {
+      "dup": "https://terrigalfishingtours.com.au/wp-content/uploads/2023/09/Hawkesbury-Flatheadenh-768x576.jpg"
+    },
+    {
+      "image": "https://terrigalfishingtours.com.au/wp-content/uploads/2023/09/Hawkesbury-Flatheadenh-300x225.jpg",
+      "error": "too small 300x225"
+    },
+    {
+      "dup": "https://terrigalfishingtours.com.au/wp-content/uploads/2023/09/Hawkesbury-Flatheadenh-1024x768.jpg"
+    },
+    {
+      "dup": "https://terrigalfishingtours.com.au/wp-content/uploads/2023/09/Hawkesbury-Flatheadenh-1536x1152.jpg"
+    },
+    {
+      "dup": "https://terrigalfishingtours.com.au/wp-content/uploads/2023/09/Hawkesbury-Flatheadenh-600x450.jpg"
+    },
+    {
+      "image": "https://terrigalfishingtours.com.au/wp-content/uploads/2024/10/girlsnapperen-225x300.jpg",
+      "error": "too small 225x300"
+    },
+    {
+      "dup": "https://terrigalfishingtours.com.au/wp-content/uploads/2024/10/girlsnapperen-600x800.jpg"
+    },
+    {
+      "dup": "https://terrigalfishingtours.com.au/wp-content/uploads/2025/10/1-2048x2016.jpg"
+    },
+    {
+      "dup": "https://terrigalfishingtours.com.au/wp-content/uploads/2025/10/2-scaled.jpg"
+    },
+    {
+      "dup": "https://terrigalfishingtours.com.au/wp-content/uploads/2024/11/summerfamily-2048x1536.jpg"
+    },
+    {
+      "dup": "https://terrigalfishingtours.com.au/wp-content/uploads/2025/10/1-1024x1008.jpg"
+    },
+    {
+      "image": "https://terrigalfishingtours.com.au/wp-content/uploads/2025/10/1-300x295.jpg",
+      "error": "too small 300x295"
+    },
+    {
+      "dup": "https://terrigalfishingtours.com.au/wp-content/uploads/2025/10/1-768x756.jpg"
+    },
+    {
+      "dup": "https://terrigalfishingtours.com.au/wp-content/uploads/2025/10/1-1536x1512.jpg"
+    },
+    {
+      "dup": "https://terrigalfishingtours.com.au/wp-content/uploads/2025/10/1-600x591.jpg"
+    },
+    {
+      "dup": "https://terrigalfishingtours.com.au/wp-content/uploads/2025/10/2-768x971.jpg"
+    },
+    {
+      "image": "https://terrigalfishingtours.com.au/wp-content/uploads/2025/10/2-237x300.jpg",
+      "error": "too small 237x300"
+    },
+    {
+      "dup": "https://terrigalfishingtours.com.au/wp-content/uploads/2025/10/2-810x1024.jpg"
+    },
+    {
+      "dup": "https://terrigalfishingtours.com.au/wp-content/uploads/2025/10/2-1214x1536.jpg"
+    },
+    {
+      "dup": "https://terrigalfishingtours.com.au/wp-content/uploads/2025/10/2-1619x2048.jpg"
+    },
+    {
+      "dup": "https://terrigalfishingtours.com.au/wp-content/uploads/2025/10/2-600x759.jpg"
+    },
+    {
+      "dup": "https://terrigalfishingtours.com.au/wp-content/uploads/2024/11/wordpress-dolphin-768x432.jpg"
+    },
+    {
+      "image": "https://terrigalfishingtours.com.au/wp-content/uploads/2024/11/wordpress-dolphin-300x169.jpg",
+      "error": "too small 300x169"
+    },
+    {
+      "image": "https://terrigalfishingtours.com.au/wp-content/uploads/2024/11/wordpress-dolphin-600x338.jpg",
+      "error": "too small 600x338"
+    },
+    {
+      "dup": "https://terrigalfishingtours.com.au/wp-content/uploads/2025/10/rick2thumb-768x574.jpg"
+    },
+    {
+      "image": "https://terrigalfishingtours.com.au/wp-content/uploads/2025/10/rick2thumb-300x224.jpg",
+      "error": "too small 300x224"
+    },
+    {
+      "dup": "https://terrigalfishingtours.com.au/wp-content/uploads/2025/10/rick2thumb-1024x766.jpg"
+    },
+    {
+      "dup": "https://terrigalfishingtours.com.au/wp-content/uploads/2025/10/rick2thumb-1536x1149.jpg"
+    },
+    {
+      "dup": "https://terrigalfishingtours.com.au/wp-content/uploads/2025/10/rick2thumb-600x449.jpg"
+    },
+    {
+      "image": "https://terrigalfishingtours.com.au/wp-content/uploads/2024/11/summerfamily-300x225.jpg",
+      "error": "too small 300x225"
+    },
+    {
+      "dup": "https://terrigalfishingtours.com.au/wp-content/uploads/2024/11/summerfamily-1024x768.jpg"
+    },
+    {
+      "dup": "https://terrigalfishingtours.com.au/wp-content/uploads/2024/11/summerfamily-768x576.jpg"
+    },
+    {
+      "dup": "https://terrigalfishingtours.com.au/wp-content/uploads/2024/11/summerfamily-1536x1152.jpg"
+    },
+    {
+      "dup": "https://terrigalfishingtours.com.au/wp-content/uploads/2024/11/summerfamily-600x450.jpg"
+    },
+    {
+      "dup": "https://terrigalfishingtours.com.au/wp-content/uploads/2022/08/Untitled-design-768x644.png"
+    },
+    {
+      "dup": "https://terrigalfishingtours.com.au/wp-content/uploads/2022/08/summerfamily.jpg"
+    },
+    {
+      "dup": "https://terrigalfishingtours.com.au/wp-content/uploads/2022/08/summerfamily-2048x1536.jpg"
+    },
+    {
+      "dup": "https://terrigalfishingtours.com.au/wp-content/uploads/2022/08/Lion-Island-2048x1639.jpg"
+    },
+    {
+      "image": "https://terrigalfishingtours.com.au/wp-content/uploads/2022/08/Untitled-design-300x251.png",
+      "error": "too small 300x251"
+    },
+    {
+      "dup": "https://terrigalfishingtours.com.au/wp-content/uploads/2022/08/Untitled-design-600x503.png"
+    },
+    {
+      "dup": "https://terrigalfishingtours.com.au/wp-content/uploads/2022/08/summerfamily-1024x768.jpg"
+    },
+    {
+      "image": "https://terrigalfishingtours.com.au/wp-content/uploads/2022/08/summerfamily-300x225.jpg",
+      "error": "too small 300x225"
+    },
+    {
+      "dup": "https://terrigalfishingtours.com.au/wp-content/uploads/2022/08/summerfamily-768x576.jpg"
+    },
+    {
+      "dup": "https://terrigalfishingtours.com.au/wp-content/uploads/2022/08/summerfamily-1536x1152.jpg"
+    },
+    {
+      "dup": "https://terrigalfishingtours.com.au/wp-content/uploads/2022/08/summerfamily-600x450.jpg"
+    },
+    {
+      "dup": "https://terrigalfishingtours.com.au/wp-content/uploads/2022/08/Lion-Island-1024x819.jpg"
+    },
+    {
+      "image": "https://terrigalfishingtours.com.au/wp-content/uploads/2022/08/Lion-Island-300x240.jpg",
+      "error": "too small 300x240"
+    },
+    {
+      "dup": "https://terrigalfishingtours.com.au/wp-content/uploads/2022/08/Lion-Island-768x614.jpg"
+    },
+    {
+      "dup": "https://terrigalfishingtours.com.au/wp-content/uploads/2022/08/Lion-Island-1536x1229.jpg"
+    },
+    {
+      "dup": "https://terrigalfishingtours.com.au/wp-content/uploads/2022/08/Lion-Island-600x480.jpg"
+    },
+    {
+      "image": "https://terrigalfishingtours.com.au/wp-content/uploads/2022/08/Untitled-design-4-300x251.png",
+      "error": "too small 300x251"
+    },
+    {
+      "dup": "https://terrigalfishingtours.com.au/wp-content/uploads/2022/08/Untitled-design-4-768x644.png"
+    },
+    {
+      "dup": "https://terrigalfishingtours.com.au/wp-content/uploads/2022/08/Untitled-design-4-600x503.png"
+    },
+    {
+      "dup": "https://terrigalfishingtours.com.au/wp-content/uploads/2022/09/skye-planing1en-1024x539.png"
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "slug": "port-macquarie-fishing-charters",
+  "request_hash": "1465f437d336",
+  "collected_at": "2026-10-29T03:59:55.105Z",
+  "pages_fetched": [
+    "https://www.portmacquariefishingcharters.com.au/",
+    "https://portmacquariefishingcharters.com.au/",
+    "https://www.portmacquariefishingcharters.com.au/port-macquarie-deep-sea-fishing-charter-boats-port-macquarie/",
+    "https://www.portmacquariefishingcharters.com.au/the-crew-on-port-macquarie-fishing-charters-ocean-star/",
+    "https://www.portmacquariefishingcharters.com.au/port-macquarie-fishing-information-holidays-charter-boat-port-macquarie-fishing-charters/",
+    "https://www.portmacquariefishingcharters.com.au/port-macquarie-fishing-charters-video-and-photo-gallery/",
+    "https://www.portmacquariefishingcharters.com.au/port-macquarie-fishing-information-and-website-links/",
+    "https://www.portmacquariefishingcharters.com.au/reviews-for-port-macquarie-fishing-charters-from-tripadvisor-facebook-google/",
+    "https://www.portmacquariefishingcharters.com.au/port-macquarie-fishing-on-ocean-star-contact/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1600,
+      "height": 1067,
+      "original": "1600x1067",
+      "source": "https://www.portmacquariefishingcharters.com.au/wp-content/uploads/2019/03/fishing-charters-Port-Macquarie-5.jpg",
+      "page": "https://www.portmacquariefishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://www.portmacquariefishingcharters.com.au/wp-content/uploads/2019/03/IMG-3463-scaled.jpg",
+      "page": "https://www.portmacquariefishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 2000,
+      "height": 1722,
+      "original": "3024x2604",
+      "source": "https://www.portmacquariefishingcharters.com.au/wp-content/uploads/2019/03/IMG-4653.jpg",
+      "page": "https://www.portmacquariefishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://www.portmacquariefishingcharters.com.au/wp-content/uploads/2019/03/IMG-8820-scaled.jpg",
+      "page": "https://www.portmacquariefishingcharters.com.au/port-macquarie-deep-sea-fishing-charter-boats-port-macquarie/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1600,
+      "height": 1067,
+      "original": "1600x1067",
+      "source": "https://www.portmacquariefishingcharters.com.au/wp-content/uploads/2019/03/Port-Macquarie-fishing-charters-6.jpg",
+      "page": "https://www.portmacquariefishingcharters.com.au/port-macquarie-deep-sea-fishing-charter-boats-port-macquarie/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 685,
+      "height": 932,
+      "original": "685x932",
+      "source": "https://www.portmacquariefishingcharters.com.au/wp-content/uploads/2019/03/Screenshot-2023-12-06-220004.png",
+      "page": "https://www.portmacquariefishingcharters.com.au/port-macquarie-deep-sea-fishing-charter-boats-port-macquarie/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1600,
+      "height": 1067,
+      "original": "1600x1067",
+      "source": "https://www.portmacquariefishingcharters.com.au/wp-content/uploads/2019/03/fishing-charters-Port-Macquarie-1.jpg",
+      "page": "https://www.portmacquariefishingcharters.com.au/port-macquarie-deep-sea-fishing-charter-boats-port-macquarie/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1600,
+      "height": 1067,
+      "original": "1600x1067",
+      "source": "https://www.portmacquariefishingcharters.com.au/wp-content/uploads/2019/03/fish-port-macquarie-5.jpg",
+      "page": "https://www.portmacquariefishingcharters.com.au/port-macquarie-deep-sea-fishing-charter-boats-port-macquarie/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1600,
+      "height": 1067,
+      "original": "1600x1067",
+      "source": "https://www.portmacquariefishingcharters.com.au/wp-content/uploads/2019/03/fish-port-macquarie-6.jpg",
+      "page": "https://www.portmacquariefishingcharters.com.au/port-macquarie-deep-sea-fishing-charter-boats-port-macquarie/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1600,
+      "height": 1067,
+      "original": "1600x1067",
+      "source": "https://www.portmacquariefishingcharters.com.au/wp-content/uploads/2019/03/fishing-charters-Port-Macquarie-2.jpg",
+      "page": "https://www.portmacquariefishingcharters.com.au/port-macquarie-deep-sea-fishing-charter-boats-port-macquarie/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1600,
+      "height": 1067,
+      "original": "1600x1067",
+      "source": "https://www.portmacquariefishingcharters.com.au/wp-content/uploads/2019/03/fishing-charters-Port-Macquarie-3.jpg",
+      "page": "https://www.portmacquariefishingcharters.com.au/port-macquarie-deep-sea-fishing-charter-boats-port-macquarie/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1600,
+      "height": 1067,
+      "original": "1600x1067",
+      "source": "https://www.portmacquariefishingcharters.com.au/wp-content/uploads/2019/03/fishing-Port-Macquarie-2.jpg",
+      "page": "https://www.portmacquariefishingcharters.com.au/port-macquarie-deep-sea-fishing-charter-boats-port-macquarie/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1600,
+      "height": 1067,
+      "original": "1600x1067",
+      "source": "https://www.portmacquariefishingcharters.com.au/wp-content/uploads/2019/03/fishing-Port-Macquarie-3.jpg",
+      "page": "https://www.portmacquariefishingcharters.com.au/port-macquarie-deep-sea-fishing-charter-boats-port-macquarie/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1600,
+      "height": 1067,
+      "original": "1600x1067",
+      "source": "https://www.portmacquariefishingcharters.com.au/wp-content/uploads/2019/03/fishing-Port-Macquarie-4.jpg",
+      "page": "https://www.portmacquariefishingcharters.com.au/port-macquarie-deep-sea-fishing-charter-boats-port-macquarie/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1600,
+      "height": 1067,
+      "original": "1600x1067",
+      "source": "https://www.portmacquariefishingcharters.com.au/wp-content/uploads/2019/03/fishing-Port-Macquarie-5.jpg",
+      "page": "https://www.portmacquariefishingcharters.com.au/port-macquarie-deep-sea-fishing-charter-boats-port-macquarie/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1600,
+      "height": 1067,
+      "original": "1600x1067",
+      "source": "https://www.portmacquariefishingcharters.com.au/wp-content/uploads/2019/03/fishing-Port-Macquarie-7.jpg",
+      "page": "https://www.portmacquariefishingcharters.com.au/port-macquarie-deep-sea-fishing-charter-boats-port-macquarie/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.portmacquariefishingcharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.portmacquariefishingcharters.com.au/",
+      "bytes": 59107
+    },
+    {
+      "page": "https://portmacquariefishingcharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.portmacquariefishingcharters.com.au/",
+      "bytes": 59107
+    },
+    {
+      "page": "https://www.portmacquariefishingcharters.com.au/port-macquarie-deep-sea-fishing-charter-boats-port-macquarie/",
+      "status": 200,
+      "final_url": "https://www.portmacquariefishingcharters.com.au/port-macquarie-deep-sea-fishing-charter-boats-port-macquarie/",
+      "bytes": 89520
+    },
+    {
+      "page": "https://www.portmacquariefishingcharters.com.au/the-crew-on-port-macquarie-fishing-charters-ocean-star/",
+      "status": 200,
+      "final_url": "https://www.portmacquariefishingcharters.com.au/the-crew-on-port-macquarie-fishing-charters-ocean-star/",
+      "bytes": 50806
+    },
+    {
+      "page": "https://www.portmacquariefishingcharters.com.au/port-macquarie-fishing-information-holidays-charter-boat-port-macquarie-fishing-charters/",
+      "status": 200,
+      "final_url": "https://www.portmacquariefishingcharters.com.au/port-macquarie-fishing-information-holidays-charter-boat-port-macquarie-fishing-charters/",
+      "bytes": 65967
+    },
+    {
+      "page": "https://www.portmacquariefishingcharters.com.au/port-macquarie-fishing-charters-video-and-photo-gallery/",
+      "status": 200,
+      "final_url": "https://www.portmacquariefishingcharters.com.au/port-macquarie-fishing-charters-video-and-photo-gallery/",
+      "bytes": 85295
+    },
+    {
+      "page": "https://www.portmacquariefishingcharters.com.au/port-macquarie-fishing-information-and-website-links/",
+      "status": 200,
+      "final_url": "https://www.portmacquariefishingcharters.com.au/port-macquarie-fishing-information-and-website-links/",
+      "bytes": 54939
+    },
+    {
+      "page": "https://www.portmacquariefishingcharters.com.au/reviews-for-port-macquarie-fishing-charters-from-tripadvisor-facebook-google/",
+      "status": 200,
+      "final_url": "https://www.portmacquariefishingcharters.com.au/reviews-for-port-macquarie-fishing-charters-from-tripadvisor-facebook-google/",
+      "bytes": 91683
+    },
+    {
+      "page": "https://www.portmacquariefishingcharters.com.au/port-macquarie-fishing-on-ocean-star-contact/",
+      "status": 200,
+      "final_url": "https://www.portmacquariefishingcharters.com.au/port-macquarie-fishing-on-ocean-star-contact/",
+      "bytes": 45959
+    },
+    {
+      "image": "https://www.portmacquariefishingcharters.com.au/wp-content/uploads/2019/03/port-macquarie-fishing-charters.png",
+      "error": "too small 200x199"
+    },
+    {
+      "image": "https://www.portmacquariefishingcharters.com.au/wp-content/uploads/2019/03/port_macquarie_fishing_charters.png",
+      "error": "too small 150x149"
+    },
+    {
+      "dup": "https://www.portmacquariefishingcharters.com.au/wp-content/uploads/2019/03/IMG-4653-2048x1764.jpg"
+    },
+    {
+      "image": "https://www.portmacquariefishingcharters.com.au/wp-content/uploads/2019/03/fishing-charters-Port-Macquarie-5-300x200.jpg",
+      "error": "too small 300x200"
+    },
+    {
+      "dup": "https://www.portmacquariefishingcharters.com.au/wp-content/uploads/2019/03/fishing-charters-Port-Macquarie-5-800x534.jpg"
+    },
+    {
+      "dup": "https://www.portmacquariefishingcharters.com.au/wp-content/uploads/2019/03/fishing-charters-Port-Macquarie-5-768x512.jpg"
+    },
+    {
+      "dup": "https://www.portmacquariefishingcharters.com.au/wp-content/uploads/2019/03/fishing-charters-Port-Macquarie-5-1200x800.jpg"
+    },
+    {
+      "dup": "https://www.portmacquariefishingcharters.com.au/wp-content/uploads/2019/03/IMG-3463.jpg"
+    },
+    {
+      "dup": "https://www.portmacquariefishingcharters.com.au/wp-content/uploads/2019/03/IMG-3463-1200x900.jpg"
+    },
+    {
+      "image": "https://www.portmacquariefishingcharters.com.au/wp-content/uploads/2019/03/IMG-3463-300x225.jpg",
+      "error": "too small 300x225"
+    },
+    {
+      "dup": "https://www.portmacquariefishingcharters.com.au/wp-content/uploads/2019/03/IMG-3463-768x576.jpg"
+    },
+    {
+      "dup": "https://www.portmacquariefishingcharters.com.au/wp-content/uploads/2019/03/IMG-3463-1536x1152.jpg"
+    },
+    {
+      "dup": "https://www.portmacquariefishingcharters.com.au/wp-content/uploads/2019/03/IMG-3463-2048x1536.jpg"
+    },
+    {
+      "dup": "https://www.portmacquariefishingcharters.com.au/wp-content/uploads/2019/03/IMG-4653-800x689.jpg"
+    },
+    {
+      "dup": "https://www.portmacquariefishingcharters.com.au/wp-content/uploads/2019/03/IMG-4653-1200x1033.jpg"
+    },
+    {
+      "image": "https://www.portmacquariefishingcharters.com.au/wp-content/uploads/2019/03/IMG-4653-300x258.jpg",
+      "error": "too small 300x258"
+    },
+    {
+      "dup": "https://www.portmacquariefishingcharters.com.au/wp-content/uploads/2019/03/IMG-4653-768x661.jpg"
+    },
+    {
+      "dup": "https://www.portmacquariefishingcharters.com.au/wp-content/uploads/2019/03/IMG-4653-1536x1323.jpg"
+    },
+    {
+      "dup": "https://www.portmacquariefishingcharters.com.au/wp-content/uploads/2019/03/IMG-3463-800x600.jpg"
+    },
+    {
+      "image": "https://www.portmacquariefishingcharters.com.au/wp-content/uploads/2019/03/IMG_5006-rotated.jpg",
+      "error": "too small 480x640"
+    },
+    {
+      "image": "https://www.portmacquariefishingcharters.com.au/wp-content/uploads/2019/03/Screenshot-2023-12-06-220838.png",
+      "error": "too small 473x663"
+    },
+    {
+      "image": "https://www.portmacquariefishingcharters.com.au/wp-content/uploads/2019/03/Screenshot-2023-12-06-215845.png",
+      "error": "too small 462x385"
+    },
+    {
+      "image": "https://www.portmacquariefishingcharters.com.au/wp-content/uploads/2019/03/Screenshot-2023-12-06-215753.png",
+      "error": "too small 292x404"
+    },
+    {
+      "image": "https://www.portmacquariefishingcharters.com.au/wp-content/uploads/2019/03/IMG_1644.jpg",
+      "error": "too small 480x640"
+    }
+  ]
+}

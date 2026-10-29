@@ -1,0 +1,38 @@
+{
+  "slug": "research-wahoo2",
+  "request_hash": "789359746f56",
+  "collected_at": "2026-10-29T03:56:12.651Z",
+  "pages_fetched": [
+    "https://wahoocharters.com.au/pickup-locations/",
+    "https://wahoocharters.com.au/about/",
+    "https://wahoocharters.com.au/faqs/",
+    "https://wahoocharters.com.au/price-list/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://wahoocharters.com.au/pickup-locations/",
+      "status": 200,
+      "final_url": "https://wahoocharters.com.au/pickup-locations/",
+      "bytes": 507869
+    },
+    {
+      "page": "https://wahoocharters.com.au/about/",
+      "status": 200,
+      "final_url": "https://wahoocharters.com.au/about/",
+      "bytes": 486295
+    },
+    {
+      "page": "https://wahoocharters.com.au/faqs/",
+      "status": 200,
+      "final_url": "https://wahoocharters.com.au/faqs/",
+      "bytes": 488417
+    },
+    {
+      "page": "https://wahoocharters.com.au/price-list/",
+      "status": 200,
+      "final_url": "https://wahoocharters.com.au/price-list/",
+      "bytes": 492156
+    }
+  ]
+}

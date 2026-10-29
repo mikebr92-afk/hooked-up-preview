@@ -1,0 +1,358 @@
+{
+  "slug": "kiama-charter-service",
+  "request_hash": "095cb77888f7",
+  "collected_at": "2026-10-29T04:01:50.060Z",
+  "pages_fetched": [
+    "https://www.kiamafishing.com.au/",
+    "https://kiamafishing.com.au/",
+    "https://kiamafishing.com.au/contact-us/",
+    "https://kiamafishing.com.au/reef-fishing/",
+    "https://kiamafishing.com.au/deep-sea-fishing/",
+    "https://kiamafishing.com.au/availability/",
+    "https://kiamafishing.com.au/fishing-gallery/",
+    "https://kiamafishing.com.au/finding-us/",
+    "https://kiamafishing.com.au/faq/",
+    "https://kiamafishing.com.au/availability"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1024,
+      "height": 768,
+      "original": "1024x768",
+      "source": "https://kiamafishing.com.au/wp-content/uploads/2012/12/snapper-for-the-young-ones1.jpg",
+      "page": "https://www.kiamafishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 1024,
+      "height": 768,
+      "original": "1024x768",
+      "source": "https://kiamafishing.com.au/wp-content/uploads/2012/12/snapper1.jpg",
+      "page": "https://kiamafishing.com.au/fishing-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1024,
+      "height": 768,
+      "original": "1024x768",
+      "source": "https://kiamafishing.com.au/wp-content/uploads/2012/12/dolphin-fish-or-mahi-mahi.jpg",
+      "page": "https://kiamafishing.com.au/fishing-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 960,
+      "height": 1280,
+      "original": "960x1280",
+      "source": "https://kiamafishing.com.au/wp-content/uploads/2012/12/morwong-taken-reef-fishing.jpg",
+      "page": "https://kiamafishing.com.au/fishing-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1200,
+      "height": 1600,
+      "original": "1200x1600",
+      "source": "https://kiamafishing.com.au/wp-content/uploads/2012/12/deep-sea-fish-blueeye-trevalla1.jpg",
+      "page": "https://kiamafishing.com.au/fishing-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1517,
+      "height": 1147,
+      "original": "1517x1147",
+      "source": "https://kiamafishing.com.au/wp-content/uploads/2012/12/KOSTALOTA-BOAT-PIC.jpg",
+      "page": "https://kiamafishing.com.au/fishing-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1024,
+      "height": 1536,
+      "original": "1024x1536",
+      "source": "https://kiamafishing.com.au/wp-content/uploads/2012/12/winch-for-Deep-Sea-fishing.jpg",
+      "page": "https://kiamafishing.com.au/fishing-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 892,
+      "height": 594,
+      "original": "892x594",
+      "source": "https://kiamafishing.com.au/wp-content/uploads/2012/12/Whales-July111.jpeg",
+      "page": "https://kiamafishing.com.au/fishing-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1600,
+      "height": 1200,
+      "original": "1600x1200",
+      "source": "https://kiamafishing.com.au/wp-content/uploads/2012/12/snapper-4.jpeg",
+      "page": "https://kiamafishing.com.au/fishing-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1024,
+      "height": 768,
+      "original": "1024x768",
+      "source": "https://kiamafishing.com.au/wp-content/uploads/2012/12/dolphin-fish-or-mahi-mahi-2.jpg",
+      "page": "https://kiamafishing.com.au/fishing-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 960,
+      "height": 1280,
+      "original": "960x1280",
+      "source": "https://kiamafishing.com.au/wp-content/uploads/2012/12/latchet.jpg",
+      "page": "https://kiamafishing.com.au/fishing-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1024,
+      "height": 768,
+      "original": "1024x768",
+      "source": "https://kiamafishing.com.au/wp-content/uploads/2012/12/Deep-sea-Gemfish.jpg",
+      "page": "https://kiamafishing.com.au/fishing-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1024,
+      "height": 768,
+      "original": "1024x768",
+      "source": "https://kiamafishing.com.au/wp-content/uploads/2012/12/Snapper-2.jpg",
+      "page": "https://kiamafishing.com.au/fishing-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 768,
+      "height": 1024,
+      "original": "768x1024",
+      "source": "https://kiamafishing.com.au/wp-content/uploads/2012/12/Flathead.jpg",
+      "page": "https://kiamafishing.com.au/fishing-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1024,
+      "height": 768,
+      "original": "1024x768",
+      "source": "https://kiamafishing.com.au/wp-content/uploads/2012/12/Kostalota-Sep12.jpg",
+      "page": "https://kiamafishing.com.au/fishing-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1600,
+      "height": 1200,
+      "original": "1600x1200",
+      "source": "https://kiamafishing.com.au/wp-content/uploads/2012/12/LADIES-SNAPPER-DAY2.jpg",
+      "page": "https://kiamafishing.com.au/fishing-gallery/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.kiamafishing.com.au/",
+      "status": 200,
+      "final_url": "https://kiamafishing.com.au/",
+      "bytes": 184277
+    },
+    {
+      "page": "https://kiamafishing.com.au/",
+      "status": 200,
+      "final_url": "https://kiamafishing.com.au/",
+      "bytes": 184277
+    },
+    {
+      "page": "https://kiamafishing.com.au/contact-us/",
+      "status": 200,
+      "final_url": "https://kiamafishing.com.au/contact-us/",
+      "bytes": 217600
+    },
+    {
+      "page": "https://kiamafishing.com.au/reef-fishing/",
+      "status": 200,
+      "final_url": "https://kiamafishing.com.au/reef-fishing/",
+      "bytes": 162388
+    },
+    {
+      "page": "https://kiamafishing.com.au/deep-sea-fishing/",
+      "status": 200,
+      "final_url": "https://kiamafishing.com.au/deep-sea-fishing/",
+      "bytes": 157063
+    },
+    {
+      "page": "https://kiamafishing.com.au/availability/",
+      "status": 200,
+      "final_url": "https://kiamafishing.com.au/availability/",
+      "bytes": 224710
+    },
+    {
+      "page": "https://kiamafishing.com.au/fishing-gallery/",
+      "status": 200,
+      "final_url": "https://kiamafishing.com.au/fishing-gallery/",
+      "bytes": 184189
+    },
+    {
+      "page": "https://kiamafishing.com.au/finding-us/",
+      "status": 200,
+      "final_url": "https://kiamafishing.com.au/finding-us/",
+      "bytes": 157565
+    },
+    {
+      "page": "https://kiamafishing.com.au/faq/",
+      "status": 200,
+      "final_url": "https://kiamafishing.com.au/faq/",
+      "bytes": 209805
+    },
+    {
+      "page": "https://kiamafishing.com.au/availability",
+      "status": 200,
+      "final_url": "https://kiamafishing.com.au/availability/",
+      "bytes": 224710
+    },
+    {
+      "image": "https://kiamafishing.com.au/wp-content/uploads/2019/07/KOSTALOTA-BOAT_2019.jpg",
+      "error": "too small 320x242"
+    },
+    {
+      "image": "https://kiamafishing.com.au/wp-content/uploads/2019/07/d-naylor2286_2019.2.jpg",
+      "error": "too small 320x427"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/AATXAJw7F-MDc7n3cwmrV8pxQVgBetVUERFggnH-Sy6F=s128-c0x00000000-cc-rp-mo",
+      "error": "too small 128x128"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/AATXAJx1edWoVLSMenjetjzkaiLQWuWQE1dqfIiMCKa9=s128-c0x00000000-cc-rp-mo-ba4",
+      "error": "too small 128x128"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a-/AOh14GhxUuXLNWASOfK8KZwCl1kuddTsDTdmkA_PNn_rcg=s128-c0x00000000-cc-rp-mo",
+      "error": "too small 128x128"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/AATXAJyuxhSlM5T4QkJaVvtBg7zn_GocA2WCrrpny0pY=s128-c0x00000000-cc-rp-mo",
+      "error": "too small 128x128"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/AATXAJxFXjACqTNIq8fLuHLMtBNL4piJKtLmZUJMxpJH=s128-c0x00000000-cc-rp-mo",
+      "error": "too small 128x128"
+    },
+    {
+      "image": "https://lh3.ggpht.com/-A2Fc_ZcQVJ8/AAAAAAAAAAI/AAAAAAAAAAA/JkHV1_ZqrCE/s128-c0x00000000-cc-rp-mo/photo.jpg",
+      "error": "too small 128x128"
+    },
+    {
+      "image": "https://lh6.ggpht.com/-E9kTf-7hzaA/AAAAAAAAAAI/AAAAAAAAAAA/62baDd2RhQE/s128-c0x00000000-cc-rp-mo/photo.jpg",
+      "error": "too small 128x128"
+    },
+    {
+      "image": "https://lh6.ggpht.com/-YauIECbB9b0/AAAAAAAAAAI/AAAAAAAAAAA/yrsnnT8JAjA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+      "error": "too small 128x128"
+    },
+    {
+      "image": "https://lh5.ggpht.com/-om4Tb65yFqU/AAAAAAAAAAI/AAAAAAAAAAA/MnxYnfLE0yM/s128-c0x00000000-cc-rp-mo/photo.jpg",
+      "error": "too small 128x128"
+    },
+    {
+      "image": "https://lh4.ggpht.com/-h0mcWJEXZ_s/AAAAAAAAAAI/AAAAAAAAAAA/I3DMJGkCM78/s128-c0x00000000-cc-rp-mo/photo.jpg",
+      "error": "too small 128x128"
+    },
+    {
+      "image": "https://lh3.ggpht.com/-Gf5ugiJ2IhU/AAAAAAAAAAI/AAAAAAAAAAA/koILkC3ZC9Q/s128-c0x00000000-cc-rp-mo/photo.jpg",
+      "error": "too small 128x128"
+    },
+    {
+      "image": "https://lh3.ggpht.com/-BiarxrpqYFo/AAAAAAAAAAI/AAAAAAAAAAA/eks48T-Y0Tw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+      "error": "too small 128x128"
+    },
+    {
+      "image": "https://lh3.ggpht.com/-7hUvjjLuuOk/AAAAAAAAAAI/AAAAAAAAAAA/PjqK530JC_I/s128-c0x00000000-cc-rp-mo/photo.jpg",
+      "error": "too small 128x128"
+    },
+    {
+      "image": "http://kiamafishing.com.au/wp-content/uploads/2015/05/header2015.png",
+      "error": "too small 1195x193"
+    },
+    {
+      "image": "https://kiamafishing.com.au/wp-content/uploads/2019/07/KOSTALOTA-BOAT_2019-300x227.jpg",
+      "error": "too small 300x227"
+    },
+    {
+      "image": "https://kiamafishing.com.au/wp-content/uploads/2012/12/snapper-for-the-young-ones1-300x225.jpg",
+      "error": "too small 300x225"
+    },
+    {
+      "dup": "https://kiamafishing.com.au/wp-content/uploads/2012/12/snapper-for-the-young-ones1-768x576.jpg"
+    },
+    {
+      "image": "https://kiamafishing.com.au/wp-content/uploads/2012/12/snapper-for-the-young-ones1-510x382.jpg",
+      "error": "too small 510x382"
+    },
+    {
+      "image": "https://kiamafishing.com.au/wp-content/uploads/2019/07/d-naylor2286_2019.2-225x300.jpg",
+      "error": "too small 225x300"
+    },
+    {
+      "image": "https://kiamafishing.com.au/wp-content/plugins/widget-google-reviews/assets/img/guest.png",
+      "error": "too small 128x128"
+    },
+    {
+      "image": "https://kiamafishing.com.au/wp-content/uploads/2019/07/Snapper-3.jpg",
+      "error": "too small 320x240"
+    },
+    {
+      "image": "https://kiamafishing.com.au/wp-content/uploads/2019/07/winch-for-Deep-Sea-fishing_2019.jpg",
+      "error": "too small 320x427"
+    },
+    {
+      "image": "https://kiamafishing.com.au/wp-content/uploads/2019/07/Snapper-3-300x225.jpg",
+      "error": "too small 300x225"
+    },
+    {
+      "image": "https://kiamafishing.com.au/wp-content/uploads/2019/07/winch-for-Deep-Sea-fishing_2019-225x300.jpg",
+      "error": "too small 225x300"
+    },
+    {
+      "image": "https://kiamafishing.com.au/wp-content/uploads/2019/07/Flathead_2019.jpg",
+      "error": "too small 320x427"
+    },
+    {
+      "image": "https://kiamafishing.com.au/wp-content/uploads/2019/07/snapper.jpg",
+      "error": "too small 320x240"
+    },
+    {
+      "image": "https://kiamafishing.com.au/wp-content/uploads/2019/07/jackets_2.jpg",
+      "error": "too small 320x240"
+    },
+    {
+      "image": "https://kiamafishing.com.au/wp-content/uploads/2019/07/Flathead_2019-225x300.jpg",
+      "error": "too small 225x300"
+    },
+    {
+      "image": "https://kiamafishing.com.au/wp-content/uploads/2019/07/snapper-300x225.jpg",
+      "error": "too small 300x225"
+    },
+    {
+      "image": "https://kiamafishing.com.au/wp-content/uploads/2019/07/jackets_2-300x225.jpg",
+      "error": "too small 300x225"
+    },
+    {
+      "dup": "https://kiamafishing.com.au/wp-content/uploads/2012/12/SUNRISE1.jpg"
+    },
+    {
+      "dup": "https://kiamafishing.com.au/wp-content/uploads/2012/12/snapper-for-the-young-ones.jpg"
+    }
+  ]
+}

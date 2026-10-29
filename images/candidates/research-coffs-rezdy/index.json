@@ -1,0 +1,24 @@
+{
+  "slug": "research-coffs-rezdy",
+  "request_hash": "61e5a6e5e8be",
+  "collected_at": "2026-10-29T03:56:20.606Z",
+  "pages_fetched": [
+    "https://r.jina.ai/https://coffsharbourfishing.rezdy.com/",
+    "https://coffsharbourfishing.rezdy.com/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://r.jina.ai/https://coffsharbourfishing.rezdy.com/",
+      "status": 200,
+      "final_url": "https://r.jina.ai/https://coffsharbourfishing.rezdy.com/",
+      "bytes": 3497
+    },
+    {
+      "page": "https://coffsharbourfishing.rezdy.com/",
+      "status": 403,
+      "final_url": "https://coffsharbourfishing.rezdy.com/",
+      "bytes": 5481
+    }
+  ]
+}

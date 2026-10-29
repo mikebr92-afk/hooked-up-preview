@@ -1,0 +1,214 @@
+{
+  "slug": "go-fish-yamba-charters",
+  "request_hash": "41662c406493",
+  "collected_at": "2026-10-29T04:00:48.653Z",
+  "pages_fetched": [
+    "https://www.gofishyamba.com.au/",
+    "https://www.gofishyamba.com.au/about",
+    "https://www.gofishyamba.com.au/our-team",
+    "https://www.gofishyamba.com.au/trip-pricings",
+    "https://www.gofishyamba.com.au/faqs",
+    "https://www.gofishyamba.com.au/contact"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1500,
+      "height": 891,
+      "original": "1500x891",
+      "source": "http://static1.squarespace.com/static/632bb66844f6c502498122ae/t/63b683bcbe47b033ed9ee1b3/1672905665076/Go+Fish+Yamba+TV.jpg?format=1500w",
+      "page": "https://www.gofishyamba.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 1440,
+      "height": 1799,
+      "original": "1440x1799",
+      "source": "https://images.squarespace-cdn.com/content/v1/632bb66844f6c502498122ae/0967d8b0-4581-4498-b257-7e0fd66c2b1c/1510B078-A764-41C9-A722-E8663C02117E.JPG?format=2500w",
+      "page": "https://www.gofishyamba.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1440,
+      "height": 1800,
+      "original": "1440x1800",
+      "source": "https://images.squarespace-cdn.com/content/v1/632bb66844f6c502498122ae/f779219c-8641-40cf-8e2c-5922f80246c1/00F0F5DB-7F72-4257-8773-406A0CD19DAE.jpg?format=2500w",
+      "page": "https://www.gofishyamba.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1440,
+      "height": 1800,
+      "original": "1440x1800",
+      "source": "https://images.squarespace-cdn.com/content/v1/632bb66844f6c502498122ae/7ca0c865-81ed-49a2-8abc-59cc203d4aec/4778BFE7-153D-44D3-A31E-FBE5A20E484F.JPG?format=2500w",
+      "page": "https://www.gofishyamba.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1143,
+      "height": 2000,
+      "original": "1170x2047",
+      "source": "https://images.squarespace-cdn.com/content/v1/632bb66844f6c502498122ae/99f220e4-d166-4dd8-9d1c-47556fe08bb8/IMG_3543+2.jpg?format=2500w",
+      "page": "https://www.gofishyamba.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 2000,
+      "height": 1547,
+      "original": "2179x1686",
+      "source": "https://images.squarespace-cdn.com/content/v1/632bb66844f6c502498122ae/9eb7643a-a07d-4667-ab6d-ac1c8e688fc9/tempImageKLPsGz.jpg?format=2500w",
+      "page": "https://www.gofishyamba.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 2000,
+      "height": 1333,
+      "original": "2499x1666",
+      "source": "https://images.squarespace-cdn.com/content/v1/632bb66844f6c502498122ae/a1b1be22-6620-48d4-ba75-50fa9eaeba70/tempImageT4qhVk.jpg?format=2500w",
+      "page": "https://www.gofishyamba.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 2000,
+      "height": 1125,
+      "original": "2500x1406",
+      "source": "https://images.squarespace-cdn.com/content/v1/632bb66844f6c502498122ae/0d3fdfcc-317f-483c-9bea-c29e48b034df/Yamba+-+Humpback+Whales_20-09-2026_1413_2.jpg?format=2500w",
+      "page": "https://www.gofishyamba.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2500x1667",
+      "source": "https://images.squarespace-cdn.com/content/v1/632bb66844f6c502498122ae/c0b009c4-1605-42bd-a1b9-2dda747cfc5b/Yamba+-+Humpback+Whales_21-06-2026_1453_6.jpg?format=2500w",
+      "page": "https://www.gofishyamba.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 2000,
+      "height": 1338,
+      "original": "2500x1672",
+      "source": "https://images.squarespace-cdn.com/content/v1/632bb66844f6c502498122ae/bc863997-f19a-4b62-94ce-06d43d1069cb/Yamba+-+Humpback+Whales_20-09-2026_1411_1.jpg?format=2500w",
+      "page": "https://www.gofishyamba.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2500x3333",
+      "source": "https://images.squarespace-cdn.com/content/v1/632bb66844f6c502498122ae/1779607339674-8IN4YO7KPTX6QV5K6BK6/image-asset.jpeg?format=2500w",
+      "page": "https://www.gofishyamba.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 720,
+      "height": 1280,
+      "original": "720x1280",
+      "source": "https://images.squarespace-cdn.com/content/v1/632bb66844f6c502498122ae/1778310558532-MIZLJYZSYTCA6N8Y142F/image-asset.jpeg?format=2500w",
+      "page": "https://www.gofishyamba.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1440,
+      "height": 1920,
+      "original": "1440x1920",
+      "source": "https://images.squarespace-cdn.com/content/v1/632bb66844f6c502498122ae/1777090919789-BXLIZUY8CUEPDGHBAEDR/image-asset.jpeg?format=2500w",
+      "page": "https://www.gofishyamba.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 640,
+      "height": 1136,
+      "original": "640x1136",
+      "source": "https://images.squarespace-cdn.com/content/v1/632bb66844f6c502498122ae/1775858925789-9MSDW9UQ2W7UMC2QG8RL/image-asset.jpeg?format=2500w",
+      "page": "https://www.gofishyamba.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1440,
+      "height": 1920,
+      "original": "1440x1920",
+      "source": "https://images.squarespace-cdn.com/content/v1/632bb66844f6c502498122ae/1768118978983-199A58RCBGKT7R0P7PV5/image-asset.jpeg?format=2500w",
+      "page": "https://www.gofishyamba.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1440,
+      "height": 1916,
+      "original": "1440x1916",
+      "source": "https://images.squarespace-cdn.com/content/v1/632bb66844f6c502498122ae/1766814350328-KQEPJWYPSAB1ALP3KDUJ/image-asset.jpeg?format=2500w",
+      "page": "https://www.gofishyamba.com.au/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.gofishyamba.com.au/",
+      "status": 200,
+      "final_url": "https://www.gofishyamba.com.au/",
+      "bytes": 431683
+    },
+    {
+      "page": "https://www.gofishyamba.com.au/about",
+      "status": 200,
+      "final_url": "https://www.gofishyamba.com.au/about",
+      "bytes": 406660
+    },
+    {
+      "page": "https://www.gofishyamba.com.au/our-team",
+      "status": 200,
+      "final_url": "https://www.gofishyamba.com.au/our-team",
+      "bytes": 296533
+    },
+    {
+      "page": "https://www.gofishyamba.com.au/trip-pricings",
+      "status": 200,
+      "final_url": "https://www.gofishyamba.com.au/trip-pricings",
+      "bytes": 429188
+    },
+    {
+      "page": "https://www.gofishyamba.com.au/faqs",
+      "status": 200,
+      "final_url": "https://www.gofishyamba.com.au/faqs",
+      "bytes": 299798
+    },
+    {
+      "page": "https://www.gofishyamba.com.au/contact",
+      "status": 200,
+      "final_url": "https://www.gofishyamba.com.au/contact",
+      "bytes": 266465
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/632bb66844f6c502498122ae/662ce69b-55f9-40b2-8f12-6b94001a943d/IMG_3106.jpg?format=2500w",
+      "error": "too small 1036x296"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/632bb66844f6c502498122ae/662ce69b-55f9-40b2-8f12-6b94001a943d/IMG_3106.jpg?format=1500w",
+      "error": "too small 1036x296"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/632bb66844f6c502498122ae/1779607339674-8IN4YO7KPTX6QV5K6BK6/image-asset.jpeg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/632bb66844f6c502498122ae/1777090919789-BXLIZUY8CUEPDGHBAEDR/image-asset.jpeg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/632bb66844f6c502498122ae/1768118978983-199A58RCBGKT7R0P7PV5/image-asset.jpeg"
+    }
+  ]
+}

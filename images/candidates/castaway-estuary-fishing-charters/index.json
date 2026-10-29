@@ -1,0 +1,290 @@
+{
+  "slug": "castaway-estuary-fishing-charters",
+  "request_hash": "90b892f90609",
+  "collected_at": "2026-10-29T03:59:23.427Z",
+  "pages_fetched": [
+    "https://www.castawayfishing.com.au/",
+    "https://www.castawayfishing.com.au/?hsLang=en",
+    "https://www.castawayfishing.com.au/the-guide",
+    "https://www.castawayfishing.com.au/the-vessel",
+    "https://www.castawayfishing.com.au/target-species",
+    "https://www.castawayfishing.com.au/castaway-charter-rates",
+    "https://www.castawayfishing.com.au/contact-us",
+    "https://www.castawayfishing.com.au/castaway-learn",
+    "https://www.castawayfishing.com.au/faq",
+    "https://www.castawayfishing.com.au/castaway-guided-estuary-sportfishing?hsLang=en"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 2000,
+      "height": 1125,
+      "original": "2048x1152",
+      "source": "https://www.castawayfishing.com.au/hubfs/20241201-143544772.jpg",
+      "page": "https://www.castawayfishing.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 720,
+      "height": 900,
+      "original": "720x900",
+      "source": "https://www.castawayfishing.com.au/hs-fs/hubfs/castaway_mulloway.jpg?width=720&height=900&name=castaway_mulloway.jpg",
+      "page": "https://www.castawayfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 720,
+      "height": 900,
+      "original": "720x900",
+      "source": "https://www.castawayfishing.com.au/hubfs/patrick_linehan_dusky_flathead_guide.jpg",
+      "page": "https://www.castawayfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 675,
+      "height": 900,
+      "original": "675x900",
+      "source": "https://www.castawayfishing.com.au/hs-fs/hubfs/castaway-bar-crusher-535xs.jpg?width=675&height=900&name=castaway-bar-crusher-535xs.jpg",
+      "page": "https://www.castawayfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 2000,
+      "height": 727,
+      "original": "2472x899",
+      "source": "https://www.castawayfishing.com.au/hs-fs/hubfs/CEFC-Mulloway-illustration.jpg?width=2472&height=900&name=CEFC-Mulloway-illustration.jpg",
+      "page": "https://www.castawayfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 900,
+      "height": 1200,
+      "original": "900x1200",
+      "source": "https://www.castawayfishing.com.au/hubfs/castaway_home_page.jpg",
+      "page": "https://www.castawayfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 900,
+      "height": 675,
+      "original": "900x675",
+      "source": "https://www.castawayfishing.com.au/hubfs/castaway%20estuary%20fishing%20charters%20jariah%20mulloway%20.jpg",
+      "page": "https://www.castawayfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 900,
+      "height": 675,
+      "original": "900x675",
+      "source": "https://www.castawayfishing.com.au/hubfs/IMG_1105.jpg",
+      "page": "https://www.castawayfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 900,
+      "height": 675,
+      "original": "900x675",
+      "source": "https://www.castawayfishing.com.au/hubfs/castaway_estuary_fishing_charters_ben_bass.jpg",
+      "page": "https://www.castawayfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 900,
+      "height": 675,
+      "original": "900x675",
+      "source": "https://www.castawayfishing.com.au/hubfs/castaway%20estuary%20fishing%20charters%20trevally.jpg",
+      "page": "https://www.castawayfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 900,
+      "height": 675,
+      "original": "900x675",
+      "source": "https://www.castawayfishing.com.au/hubfs/castaway_estuary_fishing_charters-cobia.jpg",
+      "page": "https://www.castawayfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 900,
+      "height": 675,
+      "original": "900x675",
+      "source": "https://www.castawayfishing.com.au/hubfs/535XS_web_size-18.jpg",
+      "page": "https://www.castawayfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 900,
+      "height": 675,
+      "original": "900x675",
+      "source": "https://www.castawayfishing.com.au/hubfs/castaway%20estuary%20fishing%20charters%20patrick%20linehan%20flathead.jpg",
+      "page": "https://www.castawayfishing.com.au/the-guide",
+      "priority": true
+    },
+    {
+      "file": "c14.webp",
+      "width": 900,
+      "height": 675,
+      "original": "900x675",
+      "source": "https://www.castawayfishing.com.au/hs-fs/hubfs/castaway%20estuary%20fishing%20charters%20patrick%20linehan%20mulloway.jpg?width=900&height=675&name=castaway%20estuary%20fishing%20charters%20patrick%20linehan%20mulloway.jpg",
+      "page": "https://www.castawayfishing.com.au/the-guide",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 900,
+      "height": 675,
+      "original": "900x675",
+      "source": "https://www.castawayfishing.com.au/hubfs/castaway%20estuary%20fishing%20charters%20patrick%20linehan%20murray%20cod.jpg",
+      "page": "https://www.castawayfishing.com.au/the-guide",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 900,
+      "height": 675,
+      "original": "900x675",
+      "source": "https://www.castawayfishing.com.au/hubfs/castaway%20estuary%20fishing%20charters%20patrick%20linehan%20yellowfin%20tuna-1.jpg",
+      "page": "https://www.castawayfishing.com.au/the-guide",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.castawayfishing.com.au/",
+      "status": 200,
+      "final_url": "https://www.castawayfishing.com.au/",
+      "bytes": 59696
+    },
+    {
+      "page": "https://www.castawayfishing.com.au/?hsLang=en",
+      "status": 200,
+      "final_url": "https://www.castawayfishing.com.au/",
+      "bytes": 59696
+    },
+    {
+      "page": "https://www.castawayfishing.com.au/the-guide",
+      "status": 200,
+      "final_url": "https://www.castawayfishing.com.au/the-guide",
+      "bytes": 40881
+    },
+    {
+      "page": "https://www.castawayfishing.com.au/the-vessel",
+      "status": 200,
+      "final_url": "https://www.castawayfishing.com.au/the-vessel",
+      "bytes": 30146
+    },
+    {
+      "page": "https://www.castawayfishing.com.au/target-species",
+      "status": 200,
+      "final_url": "https://www.castawayfishing.com.au/target-species",
+      "bytes": 32182
+    },
+    {
+      "page": "https://www.castawayfishing.com.au/castaway-charter-rates",
+      "status": 200,
+      "final_url": "https://www.castawayfishing.com.au/castaway-charter-rates",
+      "bytes": 42116
+    },
+    {
+      "page": "https://www.castawayfishing.com.au/contact-us",
+      "status": 200,
+      "final_url": "https://www.castawayfishing.com.au/contact-us",
+      "bytes": 26549
+    },
+    {
+      "page": "https://www.castawayfishing.com.au/castaway-learn",
+      "status": 200,
+      "final_url": "https://www.castawayfishing.com.au/castaway-learn",
+      "bytes": 65141
+    },
+    {
+      "page": "https://www.castawayfishing.com.au/faq",
+      "status": 200,
+      "final_url": "https://www.castawayfishing.com.au/faq",
+      "bytes": 36408
+    },
+    {
+      "page": "https://www.castawayfishing.com.au/castaway-guided-estuary-sportfishing?hsLang=en",
+      "status": 200,
+      "final_url": "https://www.castawayfishing.com.au/castaway-guided-estuary-sportfishing",
+      "bytes": 43107
+    },
+    {
+      "image": "https://www.castawayfishing.com.au/hs-fs/hubfs/CEFC-Mulloway-illustration.jpg?width=824&height=300&name=CEFC-Mulloway-illustration.jpg",
+      "error": "too small 824x299"
+    },
+    {
+      "dup": "https://www.castawayfishing.com.au/hs-fs/hubfs/castaway_mulloway.jpg?width=2160&height=2700&name=castaway_mulloway.jpg"
+    },
+    {
+      "dup": "https://www.castawayfishing.com.au/hs-fs/hubfs/castaway-bar-crusher-535xs.jpg?width=2025&height=2700&name=castaway-bar-crusher-535xs.jpg"
+    },
+    {
+      "image": "https://www.castawayfishing.com.au/hs-fs/hubfs/CEFC-Mulloway-illustration.jpg?width=412&height=150&name=CEFC-Mulloway-illustration.jpg",
+      "error": "too small 412x149"
+    },
+    {
+      "dup": "https://www.castawayfishing.com.au/hs-fs/hubfs/CEFC-Mulloway-illustration.jpg?width=1236&height=450&name=CEFC-Mulloway-illustration.jpg"
+    },
+    {
+      "dup": "https://www.castawayfishing.com.au/hs-fs/hubfs/CEFC-Mulloway-illustration.jpg?width=1648&height=600&name=CEFC-Mulloway-illustration.jpg"
+    },
+    {
+      "dup": "https://www.castawayfishing.com.au/hs-fs/hubfs/CEFC-Mulloway-illustration.jpg?width=2060&height=750&name=CEFC-Mulloway-illustration.jpg"
+    },
+    {
+      "image": "https://www.castawayfishing.com.au/hs-fs/hubfs/castaway_mulloway.jpg?width=360&height=450&name=castaway_mulloway.jpg",
+      "error": "too small 360x450"
+    },
+    {
+      "dup": "https://www.castawayfishing.com.au/hs-fs/hubfs/castaway_mulloway.jpg?width=1080&height=1350&name=castaway_mulloway.jpg"
+    },
+    {
+      "dup": "https://www.castawayfishing.com.au/hs-fs/hubfs/castaway_mulloway.jpg?width=1440&height=1800&name=castaway_mulloway.jpg"
+    },
+    {
+      "dup": "https://www.castawayfishing.com.au/hs-fs/hubfs/castaway_mulloway.jpg?width=1800&height=2250&name=castaway_mulloway.jpg"
+    },
+    {
+      "image": "https://www.castawayfishing.com.au/hs-fs/hubfs/castaway-bar-crusher-535xs.jpg?width=338&height=450&name=castaway-bar-crusher-535xs.jpg",
+      "error": "too small 338x450"
+    },
+    {
+      "dup": "https://www.castawayfishing.com.au/hs-fs/hubfs/castaway-bar-crusher-535xs.jpg?width=1013&height=1350&name=castaway-bar-crusher-535xs.jpg"
+    },
+    {
+      "dup": "https://www.castawayfishing.com.au/hs-fs/hubfs/castaway-bar-crusher-535xs.jpg?width=1350&height=1800&name=castaway-bar-crusher-535xs.jpg"
+    },
+    {
+      "dup": "https://www.castawayfishing.com.au/hs-fs/hubfs/castaway-bar-crusher-535xs.jpg?width=1688&height=2250&name=castaway-bar-crusher-535xs.jpg"
+    },
+    {
+      "dup": "https://www.castawayfishing.com.au/hs-fs/hubfs/castaway%20estuary%20fishing%20charters%20patrick%20linehan%20mulloway.jpg?width=2700&height=2025&name=castaway%20estuary%20fishing%20charters%20patrick%20linehan%20mulloway.jpg"
+    },
+    {
+      "image": "https://www.castawayfishing.com.au/hs-fs/hubfs/castaway%20estuary%20fishing%20charters%20patrick%20linehan%20mulloway.jpg?width=450&height=338&name=castaway%20estuary%20fishing%20charters%20patrick%20linehan%20mulloway.jpg",
+      "error": "too small 450x337"
+    },
+    {
+      "dup": "https://www.castawayfishing.com.au/hs-fs/hubfs/castaway%20estuary%20fishing%20charters%20patrick%20linehan%20mulloway.jpg?width=1350&height=1013&name=castaway%20estuary%20fishing%20charters%20patrick%20linehan%20mulloway.jpg"
+    },
+    {
+      "dup": "https://www.castawayfishing.com.au/hs-fs/hubfs/castaway%20estuary%20fishing%20charters%20patrick%20linehan%20mulloway.jpg?width=1800&height=1350&name=castaway%20estuary%20fishing%20charters%20patrick%20linehan%20mulloway.jpg"
+    },
+    {
+      "dup": "https://www.castawayfishing.com.au/hs-fs/hubfs/castaway%20estuary%20fishing%20charters%20patrick%20linehan%20mulloway.jpg?width=2250&height=1688&name=castaway%20estuary%20fishing%20charters%20patrick%20linehan%20mulloway.jpg"
+    }
+  ]
+}
