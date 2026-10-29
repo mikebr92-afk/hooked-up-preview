@@ -1,0 +1,24 @@
+{"requests":[
+ {"slug":"yknot-fishing-charters","text":true,"max":16,"follow":true,"pages":["https://www.yknot.com.au/"]},
+ {"slug":"reel-screamin-barra-fishing","text":true,"max":16,"follow":true,"pages":["https://reelscreaminbarrafishing.com.au/"]},
+ {"slug":"dundee-beach-fishing-charters","text":true,"max":16,"follow":true,"pages":["https://www.dundeebeachfishingcharters.com.au/"]},
+ {"slug":"anglers-choice-fishing-safaris","text":true,"max":16,"follow":true,"pages":["https://www.anglerschoice.com.au/"]},
+ {"slug":"wildman-fishing-tours","text":true,"max":16,"follow":true,"pages":["https://wildmanfishingtours.com.au/"]},
+ {"slug":"mcarthur-river-fishing-charters","text":true,"max":16,"follow":true,"pages":["http://mccarthurrivercharters.com.au/","https://www.mcarthurrivercharters.com.au/"]},
+ {"slug":"wiyibi-fishing-wilderness-lodge","text":true,"max":16,"follow":true,"pages":["http://wiyibifishing.com.au/"]},
+ {"slug":"spring-tide-safaris","text":true,"max":16,"follow":true,"pages":["https://springtidesafaris.com.au/"]},
+ {"slug":"research-nt-misc","text":true,"max":0,"follow":false,"pages":[
+  "https://offshoreboats.com.au/vessel-specs/",
+  "https://barralodge.com.au/accommodation/",
+  "https://barralodge.com.au/rates/",
+  "https://barralodge.com.au/contact/",
+  "https://barralodge.com.au/about/",
+  "https://www.estuaryescapes.com.au/escape-packages/",
+  "https://riverandreef.com.au/about/",
+  "https://www.ntfish4x4.com/accommodation",
+  "https://dhipirribarra.com.au/rates/",
+  "https://dhipirribarra.com.au/the-lodge/",
+  "https://tiwiislandretreat.com.au/p/fishing-package/",
+  "https://www.gelnt.com.au/experiences/"
+ ]}
+]}
