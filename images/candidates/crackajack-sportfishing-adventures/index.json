@@ -1,0 +1,94 @@
+{
+  "slug": "crackajack-sportfishing-adventures",
+  "request_hash": "ea66087ab6bb",
+  "collected_at": "2026-10-29T19:55:18.679Z",
+  "pages_fetched": [
+    "https://crackfish.com/",
+    "https://www.australia.com/en/atdw/product.640eaf483568d2ae140d96c8.html",
+    "https://www.facebook.com/CrackajackSportfishingAdventures/",
+    "https://www.australia.com/en/trips-and-itineraries/self-drive-itineraries.html",
+    "https://www.australia.com/en/things-to-do/family/best-family-road-trips-in-australia.html",
+    "https://www.australia.com/en/youth-travel/working-holiday-visa/faq.html",
+    "https://www.australia.com/en/facts-and-planning/getting-to-australia/australia-trip-planner-tools-and-tips.html",
+    "https://www.australia.com/en/facts-and-planning/about-australia/australia-on-budget.html",
+    "https://www.australia.com/en/trips-and-itineraries.html",
+    "https://www.australia.com/en/facts-and-planning/planning-tools/find-tours.html",
+    "https://www.australia.com/en/facts-and-planning/about-australia/find-accredited-visitor-information-centres.html",
+    "https://www.australia.com/en/facts-and-planning/visa-and-customs/australia-visa-and-entry-requirements-faqs.html"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://crackfish.com/",
+      "status": 200,
+      "final_url": "https://crackfish.com/",
+      "bytes": 136756
+    },
+    {
+      "page": "https://www.australia.com/en/atdw/product.640eaf483568d2ae140d96c8.html",
+      "status": 200,
+      "final_url": "https://www.australia.com/en/atdw/product.640eaf483568d2ae140d96c8.html",
+      "bytes": 282251
+    },
+    {
+      "page": "https://www.facebook.com/CrackajackSportfishingAdventures/",
+      "status": 400,
+      "final_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FCrackajackSportfishingAdventures%2F",
+      "bytes": 1542
+    },
+    {
+      "page": "https://www.australia.com/en/trips-and-itineraries/self-drive-itineraries.html",
+      "status": 200,
+      "final_url": "https://www.australia.com/en/trips-and-itineraries/self-drive-itineraries.html",
+      "bytes": 339240
+    },
+    {
+      "page": "https://www.australia.com/en/things-to-do/family/best-family-road-trips-in-australia.html",
+      "status": 200,
+      "final_url": "https://www.australia.com/en/things-to-do/family/best-family-road-trips-in-australia.html",
+      "bytes": 367395
+    },
+    {
+      "page": "https://www.australia.com/en/youth-travel/working-holiday-visa/faq.html",
+      "status": 200,
+      "final_url": "https://www.australia.com/en/youth-travel/working-holiday-visa/faq.html",
+      "bytes": 301945
+    },
+    {
+      "page": "https://www.australia.com/en/facts-and-planning/getting-to-australia/australia-trip-planner-tools-and-tips.html",
+      "status": 200,
+      "final_url": "https://www.australia.com/en/facts-and-planning/getting-to-australia/australia-trip-planner-tools-and-tips.html",
+      "bytes": 300000
+    },
+    {
+      "page": "https://www.australia.com/en/facts-and-planning/about-australia/australia-on-budget.html",
+      "status": 200,
+      "final_url": "https://www.australia.com/en/facts-and-planning/about-australia/australia-on-budget.html",
+      "bytes": 297689
+    },
+    {
+      "page": "https://www.australia.com/en/trips-and-itineraries.html",
+      "status": 200,
+      "final_url": "https://www.australia.com/en/trips-and-itineraries.html",
+      "bytes": 318373
+    },
+    {
+      "page": "https://www.australia.com/en/facts-and-planning/planning-tools/find-tours.html",
+      "status": 200,
+      "final_url": "https://www.australia.com/en/facts-and-planning/planning-tools/find-tours.html",
+      "bytes": 269779
+    },
+    {
+      "page": "https://www.australia.com/en/facts-and-planning/about-australia/find-accredited-visitor-information-centres.html",
+      "status": 200,
+      "final_url": "https://www.australia.com/en/facts-and-planning/about-australia/find-accredited-visitor-information-centres.html",
+      "bytes": 306030
+    },
+    {
+      "page": "https://www.australia.com/en/facts-and-planning/visa-and-customs/australia-visa-and-entry-requirements-faqs.html",
+      "status": 200,
+      "final_url": "https://www.australia.com/en/facts-and-planning/visa-and-customs/australia-visa-and-entry-requirements-faqs.html",
+      "bytes": 287214
+    }
+  ]
+}

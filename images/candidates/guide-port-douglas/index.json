@@ -1,0 +1,45 @@
+{
+  "slug": "guide-port-douglas",
+  "request_hash": "2b5d805e5a1f",
+  "collected_at": "2026-10-29T19:52:46.140Z",
+  "pages_fetched": [
+    "https://www.saltairecharters.com.au/fishing-charters/",
+    "https://mvnorseman.com.au/faq/",
+    "https://www.fishingcairns.com.au/heavy-tackle-extended-charters/",
+    "https://www.outnaboutfishing.com.au/private-full-day-charter/",
+    "https://akulasportfishing.com.au/reef-fishing-port-douglas/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.saltairecharters.com.au/fishing-charters/",
+      "status": 200,
+      "final_url": "https://www.saltairecharters.com.au/fishing-charters/",
+      "bytes": 58797
+    },
+    {
+      "page": "https://mvnorseman.com.au/faq/",
+      "status": 200,
+      "final_url": "https://mvnorseman.com.au/faq/",
+      "bytes": 132614
+    },
+    {
+      "page": "https://www.fishingcairns.com.au/heavy-tackle-extended-charters/",
+      "status": 200,
+      "final_url": "https://www.fishingcairns.com.au/heavy-tackle-extended-charters/",
+      "bytes": 133521
+    },
+    {
+      "page": "https://www.outnaboutfishing.com.au/private-full-day-charter/",
+      "status": 200,
+      "final_url": "https://www.outnaboutfishing.com.au/private-full-day-charter/",
+      "bytes": 166308
+    },
+    {
+      "page": "https://akulasportfishing.com.au/reef-fishing-port-douglas/",
+      "status": 200,
+      "final_url": "https://akulasportfishing.com.au/reef-fishing-port-douglas/",
+      "bytes": 102814
+    }
+  ]
+}

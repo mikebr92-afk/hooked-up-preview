@@ -1,0 +1,73 @@
+{
+  "slug": "cast-and-catch-fishing-charters",
+  "request_hash": "e581f66bb07f",
+  "collected_at": "2026-10-29T19:55:30.528Z",
+  "pages_fetched": [
+    "https://castandcatch.com.au/",
+    "https://www.hookedonmackay.com/book-a-charter",
+    "https://qld2032.com/tourism/operator/cast-and-catch-fishing-charters-ba4c6a/",
+    "https://www.facebook.com/CastandCatch-Charters-101913015866790/",
+    "https://www.hookedonmackay.com/sustainable-fishing",
+    "https://www.hookedonmackay.com/contact-us",
+    "https://qld2032.com/tourism/",
+    "https://qld2032.com/tourism/mackay/",
+    "https://qld2032.com/about/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://castandcatch.com.au/",
+      "status": 200,
+      "final_url": "https://castandcatch.com.au/",
+      "bytes": 170464
+    },
+    {
+      "page": "https://www.hookedonmackay.com/book-a-charter",
+      "status": 200,
+      "final_url": "https://www.hookedonmackay.com/book-a-charter",
+      "bytes": 155007
+    },
+    {
+      "page": "https://qld2032.com/tourism/operator/cast-and-catch-fishing-charters-ba4c6a/",
+      "status": 200,
+      "final_url": "https://qld2032.com/tourism/operator/cast-and-catch-fishing-charters-ba4c6a/",
+      "bytes": 14925
+    },
+    {
+      "page": "https://www.facebook.com/CastandCatch-Charters-101913015866790/",
+      "status": 400,
+      "final_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FCastandCatch-Charters-101913015866790%2F",
+      "bytes": 1542
+    },
+    {
+      "page": "https://www.hookedonmackay.com/sustainable-fishing",
+      "status": 200,
+      "final_url": "https://www.hookedonmackay.com/sustainable-fishing",
+      "bytes": 151319
+    },
+    {
+      "page": "https://www.hookedonmackay.com/contact-us",
+      "status": 200,
+      "final_url": "https://www.hookedonmackay.com/contact-us",
+      "bytes": 148068
+    },
+    {
+      "page": "https://qld2032.com/tourism/",
+      "status": 200,
+      "final_url": "https://qld2032.com/tourism/",
+      "bytes": 17527
+    },
+    {
+      "page": "https://qld2032.com/tourism/mackay/",
+      "status": 200,
+      "final_url": "https://qld2032.com/tourism/mackay/",
+      "bytes": 325590
+    },
+    {
+      "page": "https://qld2032.com/about/",
+      "status": 200,
+      "final_url": "https://qld2032.com/about/",
+      "bytes": 13233
+    }
+  ]
+}

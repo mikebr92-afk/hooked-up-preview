@@ -1,0 +1,94 @@
+{
+  "slug": "whitsunday-fishing-charters",
+  "request_hash": "07802eb5fd12",
+  "collected_at": "2026-10-29T19:56:56.412Z",
+  "pages_fetched": [
+    "https://www.whitsundayfishingcharters.com.au/",
+    "https://www.whitsundayfishingcharters.com.au/half-day-fishing",
+    "https://www.whitsundayfishingcharters.com.au/full-day-fishing",
+    "https://www.whitsundayfishingcharters.com.au/private-charters",
+    "https://www.whitsundayfishingcharters.com.au/terms-conditions",
+    "https://whitsundayfishingcharters42.rezdy.com/628461/ra-morning-half-day-charters",
+    "https://www.facebook.com/profile.php?id=100063569853090",
+    "https://www.whitsundayfishingcharters.com.au/our-crew",
+    "https://www.whitsundayfishingcharters.com.au/whitsundays-tours",
+    "https://www.whitsundayfishingcharters.com.au/whale-watching-tours",
+    "https://www.whitsundayfishingcharters.com.au/snorkelling",
+    "https://www.whitsundayfishingcharters.com.au/contact"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.whitsundayfishingcharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.whitsundayfishingcharters.com.au/",
+      "bytes": 252489
+    },
+    {
+      "page": "https://www.whitsundayfishingcharters.com.au/half-day-fishing",
+      "status": 200,
+      "final_url": "https://www.whitsundayfishingcharters.com.au/half-day-fishing",
+      "bytes": 176357
+    },
+    {
+      "page": "https://www.whitsundayfishingcharters.com.au/full-day-fishing",
+      "status": 200,
+      "final_url": "https://www.whitsundayfishingcharters.com.au/full-day-fishing",
+      "bytes": 168989
+    },
+    {
+      "page": "https://www.whitsundayfishingcharters.com.au/private-charters",
+      "status": 200,
+      "final_url": "https://www.whitsundayfishingcharters.com.au/private-charters",
+      "bytes": 305702
+    },
+    {
+      "page": "https://www.whitsundayfishingcharters.com.au/terms-conditions",
+      "status": 200,
+      "final_url": "https://www.whitsundayfishingcharters.com.au/terms-conditions",
+      "bytes": 106927
+    },
+    {
+      "page": "https://whitsundayfishingcharters42.rezdy.com/628461/ra-morning-half-day-charters",
+      "status": 403,
+      "final_url": "https://whitsundayfishingcharters42.rezdy.com/628461/ra-morning-half-day-charters",
+      "bytes": 5188
+    },
+    {
+      "page": "https://www.facebook.com/profile.php?id=100063569853090",
+      "status": 400,
+      "final_url": "https://www.facebook.com/profile.php?id=100063569853090",
+      "bytes": 1542
+    },
+    {
+      "page": "https://www.whitsundayfishingcharters.com.au/our-crew",
+      "status": 200,
+      "final_url": "https://www.whitsundayfishingcharters.com.au/our-crew",
+      "bytes": 79520
+    },
+    {
+      "page": "https://www.whitsundayfishingcharters.com.au/whitsundays-tours",
+      "status": 200,
+      "final_url": "https://www.whitsundayfishingcharters.com.au/whitsundays-tours",
+      "bytes": 173031
+    },
+    {
+      "page": "https://www.whitsundayfishingcharters.com.au/whale-watching-tours",
+      "status": 200,
+      "final_url": "https://www.whitsundayfishingcharters.com.au/whale-watching-tours",
+      "bytes": 162293
+    },
+    {
+      "page": "https://www.whitsundayfishingcharters.com.au/snorkelling",
+      "status": 200,
+      "final_url": "https://www.whitsundayfishingcharters.com.au/snorkelling",
+      "bytes": 147262
+    },
+    {
+      "page": "https://www.whitsundayfishingcharters.com.au/contact",
+      "status": 200,
+      "final_url": "https://www.whitsundayfishingcharters.com.au/contact",
+      "bytes": 153645
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "slug": "tropical-sportfisher-cairns",
+  "request_hash": "c147b8a44233",
+  "collected_at": "2026-10-29T19:54:37.652Z",
+  "pages_fetched": [
+    "https://www.tropicalsportfisher.com/",
+    "https://www.tropicalsportfisher.com/contact-us/",
+    "https://www.tropicalsportfisher.com/river-and-estuary-day-trips/",
+    "https://www.tropicalsportfisher.com/inshore-bluewater-day-trips/",
+    "https://www.tropicalsportfisher.com/fly-fishing-day-trips/",
+    "https://www.tropicalsportfisher.com/multi-day-trips/cassowary-coast-multi-day-trip/",
+    "https://www.tropicalsportfisher.com/tropical-backcountry-day-trips/",
+    "https://www.tropicalsportfisher.com/environment/croc-and-bird-watching-day-trips-2/",
+    "https://www.tropicalsportfisher.com/tropical-island-day-trips/",
+    "https://www.tropicalsportfisher.com/multi-day-trips/kurumba-multi-day-trip/",
+    "https://www.tropicalsportfisher.com/multi-day-trips/tropical-island-camp/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.tropicalsportfisher.com/",
+      "status": 200,
+      "final_url": "https://www.tropicalsportfisher.com/",
+      "bytes": 302054
+    },
+    {
+      "page": "https://www.tropicalsportfisher.com/contact-us/",
+      "status": 200,
+      "final_url": "https://www.tropicalsportfisher.com/contact-us/",
+      "bytes": 214794
+    },
+    {
+      "page": "https://www.tropicalsportfisher.com/river-and-estuary-day-trips/",
+      "status": 200,
+      "final_url": "https://www.tropicalsportfisher.com/river-and-estuary-day-trips/",
+      "bytes": 246564
+    },
+    {
+      "page": "https://www.tropicalsportfisher.com/inshore-bluewater-day-trips/",
+      "status": 200,
+      "final_url": "https://www.tropicalsportfisher.com/inshore-bluewater-day-trips/",
+      "bytes": 232740
+    },
+    {
+      "page": "https://www.tropicalsportfisher.com/fly-fishing-day-trips/",
+      "status": 200,
+      "final_url": "https://www.tropicalsportfisher.com/fly-fishing-day-trips/",
+      "bytes": 238341
+    },
+    {
+      "page": "https://www.tropicalsportfisher.com/multi-day-trips/cassowary-coast-multi-day-trip/",
+      "status": 200,
+      "final_url": "https://www.tropicalsportfisher.com/multi-day-trips/cassowary-coast-multi-day-trip/",
+      "bytes": 220943
+    },
+    {
+      "page": "https://www.tropicalsportfisher.com/tropical-backcountry-day-trips/",
+      "status": 200,
+      "final_url": "https://www.tropicalsportfisher.com/tropical-backcountry-day-trips/",
+      "bytes": 242431
+    },
+    {
+      "page": "https://www.tropicalsportfisher.com/environment/croc-and-bird-watching-day-trips-2/",
+      "status": 200,
+      "final_url": "https://www.tropicalsportfisher.com/environment/croc-and-bird-watching-day-trips-2/",
+      "bytes": 236760
+    },
+    {
+      "page": "https://www.tropicalsportfisher.com/tropical-island-day-trips/",
+      "status": 200,
+      "final_url": "https://www.tropicalsportfisher.com/tropical-island-day-trips/",
+      "bytes": 244036
+    },
+    {
+      "page": "https://www.tropicalsportfisher.com/multi-day-trips/kurumba-multi-day-trip/",
+      "status": 200,
+      "final_url": "https://www.tropicalsportfisher.com/multi-day-trips/kurumba-multi-day-trip/",
+      "bytes": 242806
+    },
+    {
+      "page": "https://www.tropicalsportfisher.com/multi-day-trips/tropical-island-camp/",
+      "status": 200,
+      "final_url": "https://www.tropicalsportfisher.com/multi-day-trips/tropical-island-camp/",
+      "bytes": 239612
+    }
+  ]
+}

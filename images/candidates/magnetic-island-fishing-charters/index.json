@@ -1,0 +1,94 @@
+{
+  "slug": "magnetic-island-fishing-charters",
+  "request_hash": "226839e60e39",
+  "collected_at": "2026-10-29T19:56:07.891Z",
+  "pages_fetched": [
+    "https://www.magneticislandfishingcharters.com.au/",
+    "https://www.magneticislandfishingcharters.com.au/faq-1",
+    "https://www.magneticislandfishingcharters.com.au/contact",
+    "https://www.australia.com/en/atdw/product.616f4a148b6c65fa3189dad9.html",
+    "https://www.facebook.com/magneticislandfishingcharters",
+    "https://www.magneticislandfishingcharters.com.au/cart",
+    "https://www.australia.com/en/trips-and-itineraries/self-drive-itineraries.html",
+    "https://www.australia.com/en/things-to-do/family/best-family-road-trips-in-australia.html",
+    "https://www.australia.com/en/youth-travel/working-holiday-visa/faq.html",
+    "https://www.australia.com/en/facts-and-planning/getting-to-australia/australia-trip-planner-tools-and-tips.html",
+    "https://www.australia.com/en/facts-and-planning/about-australia/australia-on-budget.html",
+    "https://www.australia.com/en/trips-and-itineraries.html"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.magneticislandfishingcharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.magneticislandfishingcharters.com.au/",
+      "bytes": 480654
+    },
+    {
+      "page": "https://www.magneticislandfishingcharters.com.au/faq-1",
+      "status": 200,
+      "final_url": "https://www.magneticislandfishingcharters.com.au/faq-1",
+      "bytes": 260100
+    },
+    {
+      "page": "https://www.magneticislandfishingcharters.com.au/contact",
+      "status": 200,
+      "final_url": "https://www.magneticislandfishingcharters.com.au/contact",
+      "bytes": 221467
+    },
+    {
+      "page": "https://www.australia.com/en/atdw/product.616f4a148b6c65fa3189dad9.html",
+      "status": 200,
+      "final_url": "https://www.australia.com/en/atdw/product.616f4a148b6c65fa3189dad9.html",
+      "bytes": 284752
+    },
+    {
+      "page": "https://www.facebook.com/magneticislandfishingcharters",
+      "status": 400,
+      "final_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fmagneticislandfishingcharters",
+      "bytes": 1542
+    },
+    {
+      "page": "https://www.magneticislandfishingcharters.com.au/cart",
+      "status": 200,
+      "final_url": "https://www.magneticislandfishingcharters.com.au/cart",
+      "bytes": 168573
+    },
+    {
+      "page": "https://www.australia.com/en/trips-and-itineraries/self-drive-itineraries.html",
+      "status": 200,
+      "final_url": "https://www.australia.com/en/trips-and-itineraries/self-drive-itineraries.html",
+      "bytes": 339240
+    },
+    {
+      "page": "https://www.australia.com/en/things-to-do/family/best-family-road-trips-in-australia.html",
+      "status": 200,
+      "final_url": "https://www.australia.com/en/things-to-do/family/best-family-road-trips-in-australia.html",
+      "bytes": 367395
+    },
+    {
+      "page": "https://www.australia.com/en/youth-travel/working-holiday-visa/faq.html",
+      "status": 200,
+      "final_url": "https://www.australia.com/en/youth-travel/working-holiday-visa/faq.html",
+      "bytes": 301945
+    },
+    {
+      "page": "https://www.australia.com/en/facts-and-planning/getting-to-australia/australia-trip-planner-tools-and-tips.html",
+      "status": 200,
+      "final_url": "https://www.australia.com/en/facts-and-planning/getting-to-australia/australia-trip-planner-tools-and-tips.html",
+      "bytes": 300000
+    },
+    {
+      "page": "https://www.australia.com/en/facts-and-planning/about-australia/australia-on-budget.html",
+      "status": 200,
+      "final_url": "https://www.australia.com/en/facts-and-planning/about-australia/australia-on-budget.html",
+      "bytes": 297689
+    },
+    {
+      "page": "https://www.australia.com/en/trips-and-itineraries.html",
+      "status": 200,
+      "final_url": "https://www.australia.com/en/trips-and-itineraries.html",
+      "bytes": 318373
+    }
+  ]
+}

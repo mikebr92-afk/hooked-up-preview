@@ -1,0 +1,85 @@
+{
+  "slug": "guide-hinchinbrook",
+  "request_hash": "313cb82fa3ca",
+  "collected_at": "2026-10-29T19:53:54.514Z",
+  "pages_fetched": [
+    "https://www.australia.com/en/atdw/product.6045f4108fc1e7796a9d63ac.html",
+    "https://crackfish.com/",
+    "https://www.australia.com/en/atdw/product.640eaf483568d2ae140d96c8.html",
+    "https://fishandboat.com.au/our-hinchinbrook-adventure-part-1-by-john-boon/",
+    "https://fullonfishn.com.au/location/",
+    "https://www.queensland.com/au/en/things-to-do/tours/p-6045f4108fc1e7796a9d63ac-ian-moody-sportfishing-charters",
+    "https://fullonfishn.com.au/charter-faq/",
+    "https://www.gbrmpa.gov.au/access/zoning/interpreting-zones",
+    "https://qld.gov.au/environment/plants-animals/animals/living-with/crocodiles/becrocwise",
+    "https://fullonfishn.com.au/packages/",
+    "https://fullonfishn.com.au/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.australia.com/en/atdw/product.6045f4108fc1e7796a9d63ac.html",
+      "status": 200,
+      "final_url": "https://www.australia.com/en/atdw/product.6045f4108fc1e7796a9d63ac.html",
+      "bytes": 281622
+    },
+    {
+      "page": "https://crackfish.com/",
+      "status": 200,
+      "final_url": "https://crackfish.com/",
+      "bytes": 136756
+    },
+    {
+      "page": "https://www.australia.com/en/atdw/product.640eaf483568d2ae140d96c8.html",
+      "status": 200,
+      "final_url": "https://www.australia.com/en/atdw/product.640eaf483568d2ae140d96c8.html",
+      "bytes": 282251
+    },
+    {
+      "page": "https://fishandboat.com.au/our-hinchinbrook-adventure-part-1-by-john-boon/",
+      "status": 200,
+      "final_url": "https://fishandboat.com.au/our-hinchinbrook-adventure-part-1-by-john-boon/",
+      "bytes": 101707
+    },
+    {
+      "page": "https://fullonfishn.com.au/location/",
+      "status": 200,
+      "final_url": "https://fullonfishn.com.au/location/",
+      "bytes": 41522
+    },
+    {
+      "page": "https://www.queensland.com/au/en/things-to-do/tours/p-6045f4108fc1e7796a9d63ac-ian-moody-sportfishing-charters",
+      "status": 200,
+      "final_url": "https://www.queensland.com/au/en/things-to-do/tours/p-6045f4108fc1e7796a9d63ac-ian-moody-sportfishing-charters",
+      "bytes": 16684
+    },
+    {
+      "page": "https://fullonfishn.com.au/charter-faq/",
+      "status": 200,
+      "final_url": "https://fullonfishn.com.au/charter-faq/",
+      "bytes": 70977
+    },
+    {
+      "page": "https://www.gbrmpa.gov.au/access/zoning/interpreting-zones",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "page": "https://qld.gov.au/environment/plants-animals/animals/living-with/crocodiles/becrocwise",
+      "status": 200,
+      "final_url": "https://www.qld.gov.au/environment/plants-animals/animals/living-with/crocodiles/becrocwise",
+      "bytes": 189038
+    },
+    {
+      "page": "https://fullonfishn.com.au/packages/",
+      "status": 200,
+      "final_url": "https://fullonfishn.com.au/packages/",
+      "bytes": 57237
+    },
+    {
+      "page": "https://fullonfishn.com.au/",
+      "status": 200,
+      "final_url": "https://fullonfishn.com.au/",
+      "bytes": 118304
+    }
+  ]
+}

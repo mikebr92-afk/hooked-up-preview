@@ -1,0 +1,45 @@
+{
+  "slug": "guide-mackay",
+  "request_hash": "57652b6f9869",
+  "collected_at": "2026-10-29T19:52:48.083Z",
+  "pages_fetched": [
+    "https://www.hookedonmackay.com/seasonal-calendar",
+    "https://www.hookedonmackay.com/offshore",
+    "https://www.hookedonmackay.com/inshore",
+    "https://www.hookedonmackay.com/book-a-charter",
+    "https://www.mackaysportfishing.com.au/mackay-fishery"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.hookedonmackay.com/seasonal-calendar",
+      "status": 200,
+      "final_url": "https://www.hookedonmackay.com/seasonal-calendar",
+      "bytes": 128256
+    },
+    {
+      "page": "https://www.hookedonmackay.com/offshore",
+      "status": 200,
+      "final_url": "https://www.hookedonmackay.com/offshore",
+      "bytes": 140358
+    },
+    {
+      "page": "https://www.hookedonmackay.com/inshore",
+      "status": 200,
+      "final_url": "https://www.hookedonmackay.com/inshore",
+      "bytes": 140537
+    },
+    {
+      "page": "https://www.hookedonmackay.com/book-a-charter",
+      "status": 200,
+      "final_url": "https://www.hookedonmackay.com/book-a-charter",
+      "bytes": 155007
+    },
+    {
+      "page": "https://www.mackaysportfishing.com.au/mackay-fishery",
+      "status": 200,
+      "final_url": "https://www.mackaysportfishing.com.au/mackay-fishery",
+      "bytes": 582578
+    }
+  ]
+}

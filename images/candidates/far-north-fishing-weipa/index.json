@@ -1,0 +1,94 @@
+{
+  "slug": "far-north-fishing-weipa",
+  "request_hash": "1cff2253a54d",
+  "collected_at": "2026-10-29T19:56:20.011Z",
+  "pages_fetched": [
+    "https://www.farnorthfishingweipa.com.au/",
+    "https://www.farnorthfishingweipa.com.au/charters",
+    "https://www.farnorthfishingweipa.com.au/charters/four-day",
+    "https://www.farnorthfishingweipa.com.au/charters/five-day",
+    "https://capeyorkweekly.com.au/fishing-tv-show-host-full-of-praise-for-weipa/450/",
+    "https://www.facebook.com/Far-North-Fishing-Weipa-1816966635239203/",
+    "https://www.farnorthfishingweipa.com.au/fishing",
+    "https://www.farnorthfishingweipa.com.au/fishing/sports-fishing",
+    "https://www.farnorthfishingweipa.com.au/fishing/fly-fishing",
+    "https://www.farnorthfishingweipa.com.au/fishing/barramundi-fishing",
+    "https://www.farnorthfishingweipa.com.au/fishing/cape-york-fishing",
+    "https://www.farnorthfishingweipa.com.au/charters/mother-shipping"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.farnorthfishingweipa.com.au/",
+      "status": 200,
+      "final_url": "https://www.farnorthfishingweipa.com.au/",
+      "bytes": 41346
+    },
+    {
+      "page": "https://www.farnorthfishingweipa.com.au/charters",
+      "status": 200,
+      "final_url": "https://www.farnorthfishingweipa.com.au/charters",
+      "bytes": 42439
+    },
+    {
+      "page": "https://www.farnorthfishingweipa.com.au/charters/four-day",
+      "status": 200,
+      "final_url": "https://www.farnorthfishingweipa.com.au/charters/four-day",
+      "bytes": 42525
+    },
+    {
+      "page": "https://www.farnorthfishingweipa.com.au/charters/five-day",
+      "status": 200,
+      "final_url": "https://www.farnorthfishingweipa.com.au/charters/five-day",
+      "bytes": 42453
+    },
+    {
+      "page": "https://capeyorkweekly.com.au/fishing-tv-show-host-full-of-praise-for-weipa/450/",
+      "status": 200,
+      "final_url": "https://capeyorkweekly.com.au/fishing-tv-show-host-full-of-praise-for-weipa/450/",
+      "bytes": 72194
+    },
+    {
+      "page": "https://www.facebook.com/Far-North-Fishing-Weipa-1816966635239203/",
+      "status": 400,
+      "final_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FFar-North-Fishing-Weipa-1816966635239203%2F",
+      "bytes": 1542
+    },
+    {
+      "page": "https://www.farnorthfishingweipa.com.au/fishing",
+      "status": 200,
+      "final_url": "https://www.farnorthfishingweipa.com.au/fishing",
+      "bytes": 38027
+    },
+    {
+      "page": "https://www.farnorthfishingweipa.com.au/fishing/sports-fishing",
+      "status": 200,
+      "final_url": "https://www.farnorthfishingweipa.com.au/fishing/sports-fishing",
+      "bytes": 38672
+    },
+    {
+      "page": "https://www.farnorthfishingweipa.com.au/fishing/fly-fishing",
+      "status": 200,
+      "final_url": "https://www.farnorthfishingweipa.com.au/fishing/fly-fishing",
+      "bytes": 40337
+    },
+    {
+      "page": "https://www.farnorthfishingweipa.com.au/fishing/barramundi-fishing",
+      "status": 200,
+      "final_url": "https://www.farnorthfishingweipa.com.au/fishing/barramundi-fishing",
+      "bytes": 41736
+    },
+    {
+      "page": "https://www.farnorthfishingweipa.com.au/fishing/cape-york-fishing",
+      "status": 200,
+      "final_url": "https://www.farnorthfishingweipa.com.au/fishing/cape-york-fishing",
+      "bytes": 40529
+    },
+    {
+      "page": "https://www.farnorthfishingweipa.com.au/charters/mother-shipping",
+      "status": 200,
+      "final_url": "https://www.farnorthfishingweipa.com.au/charters/mother-shipping",
+      "bytes": 41875
+    }
+  ]
+}

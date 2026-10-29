@@ -1,0 +1,94 @@
+{
+  "slug": "tropic-barra-adventures-cairns",
+  "request_hash": "7a3393e96aa0",
+  "collected_at": "2026-10-29T19:54:17.333Z",
+  "pages_fetched": [
+    "https://www.tropicbarraadventures.com.au/",
+    "https://www.tropicbarraadventures.com.au/about",
+    "https://www.tropicbarraadventures.com.au/charters",
+    "https://www.tropicbarraadventures.com.au/full-day-river-charter",
+    "https://www.tropicbarraadventures.com.au/tinaroo-giant-barramundi",
+    "https://www.tropicbarraadventures.com.au/saratoga-fishing",
+    "https://www.tropicbarraadventures.com.au/locations/fishing-charters-cairns",
+    "https://www.tropicbarraadventures.com.au/great-barrier-reef-trips",
+    "https://www.facebook.com/TropicBarraAdventures",
+    "https://www.tropicbarraadventures.com.au/locations/fishing-trips-port-douglas",
+    "https://www.tropicbarraadventures.com.au/locations/lake-tinaroo-fishing-charters",
+    "https://www.tropicbarraadventures.com.au/locations/fishing-charters-daintree"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.tropicbarraadventures.com.au/",
+      "status": 200,
+      "final_url": "https://www.tropicbarraadventures.com.au/",
+      "bytes": 705240
+    },
+    {
+      "page": "https://www.tropicbarraadventures.com.au/about",
+      "status": 200,
+      "final_url": "https://www.tropicbarraadventures.com.au/about",
+      "bytes": 324744
+    },
+    {
+      "page": "https://www.tropicbarraadventures.com.au/charters",
+      "status": 200,
+      "final_url": "https://www.tropicbarraadventures.com.au/charters",
+      "bytes": 388040
+    },
+    {
+      "page": "https://www.tropicbarraadventures.com.au/full-day-river-charter",
+      "status": 200,
+      "final_url": "https://www.tropicbarraadventures.com.au/full-day-river-charter",
+      "bytes": 229514
+    },
+    {
+      "page": "https://www.tropicbarraadventures.com.au/tinaroo-giant-barramundi",
+      "status": 200,
+      "final_url": "https://www.tropicbarraadventures.com.au/tinaroo-giant-barramundi",
+      "bytes": 328327
+    },
+    {
+      "page": "https://www.tropicbarraadventures.com.au/saratoga-fishing",
+      "status": 200,
+      "final_url": "https://www.tropicbarraadventures.com.au/saratoga-fishing",
+      "bytes": 236150
+    },
+    {
+      "page": "https://www.tropicbarraadventures.com.au/locations/fishing-charters-cairns",
+      "status": 200,
+      "final_url": "https://www.tropicbarraadventures.com.au/locations/fishing-charters-cairns",
+      "bytes": 379615
+    },
+    {
+      "page": "https://www.tropicbarraadventures.com.au/great-barrier-reef-trips",
+      "status": 200,
+      "final_url": "https://www.tropicbarraadventures.com.au/great-barrier-reef-trips",
+      "bytes": 698380
+    },
+    {
+      "page": "https://www.facebook.com/TropicBarraAdventures",
+      "status": 400,
+      "final_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FTropicBarraAdventures",
+      "bytes": 1542
+    },
+    {
+      "page": "https://www.tropicbarraadventures.com.au/locations/fishing-trips-port-douglas",
+      "status": 200,
+      "final_url": "https://www.tropicbarraadventures.com.au/locations/fishing-trips-port-douglas",
+      "bytes": 335340
+    },
+    {
+      "page": "https://www.tropicbarraadventures.com.au/locations/lake-tinaroo-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.tropicbarraadventures.com.au/locations/lake-tinaroo-fishing-charters",
+      "bytes": 326938
+    },
+    {
+      "page": "https://www.tropicbarraadventures.com.au/locations/fishing-charters-daintree",
+      "status": 200,
+      "final_url": "https://www.tropicbarraadventures.com.au/locations/fishing-charters-daintree",
+      "bytes": 423122
+    }
+  ]
+}

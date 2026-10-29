@@ -1,0 +1,94 @@
+{
+  "slug": "kerry-d-fishing-charters-karumba",
+  "request_hash": "50769027484f",
+  "collected_at": "2026-10-29T19:55:15.723Z",
+  "pages_fetched": [
+    "https://kerrydfishing.com.au/",
+    "https://kerrydfishing.com.au/fishing-charters/",
+    "https://kerrydfishing.com.au/boats/",
+    "https://kerrydfishing.com.au/about/",
+    "https://kerrydfishing.com.au/frequently-asked-questions/",
+    "https://kerrydfishing.com.au/what-to-bring/",
+    "https://www.outbackqueensland.com.au/tours/kerry-d-charters/",
+    "https://www.facebook.com/kerrydfishing/",
+    "https://kerrydfishing.com.au/bookings/",
+    "https://kerrydfishing.com.au/species-of-fish-we-catch/",
+    "https://kerrydfishing.com.au/gallery/",
+    "https://kerrydfishing.com.au/praise/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://kerrydfishing.com.au/",
+      "status": 200,
+      "final_url": "https://kerrydfishing.com.au/",
+      "bytes": 32963
+    },
+    {
+      "page": "https://kerrydfishing.com.au/fishing-charters/",
+      "status": 200,
+      "final_url": "https://kerrydfishing.com.au/fishing-charters/",
+      "bytes": 28899
+    },
+    {
+      "page": "https://kerrydfishing.com.au/boats/",
+      "status": 200,
+      "final_url": "https://kerrydfishing.com.au/boats/",
+      "bytes": 23283
+    },
+    {
+      "page": "https://kerrydfishing.com.au/about/",
+      "status": 200,
+      "final_url": "https://kerrydfishing.com.au/about/",
+      "bytes": 23326
+    },
+    {
+      "page": "https://kerrydfishing.com.au/frequently-asked-questions/",
+      "status": 200,
+      "final_url": "https://kerrydfishing.com.au/frequently-asked-questions/",
+      "bytes": 22717
+    },
+    {
+      "page": "https://kerrydfishing.com.au/what-to-bring/",
+      "status": 200,
+      "final_url": "https://kerrydfishing.com.au/what-to-bring/",
+      "bytes": 20982
+    },
+    {
+      "page": "https://www.outbackqueensland.com.au/tours/kerry-d-charters/",
+      "status": 200,
+      "final_url": "https://www.outbackqueensland.com.au/tours/kerry-d-charters/",
+      "bytes": 109053
+    },
+    {
+      "page": "https://www.facebook.com/kerrydfishing/",
+      "status": 400,
+      "final_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fkerrydfishing%2F",
+      "bytes": 1542
+    },
+    {
+      "page": "https://kerrydfishing.com.au/bookings/",
+      "status": 200,
+      "final_url": "https://kerrydfishing.com.au/bookings/",
+      "bytes": 21044
+    },
+    {
+      "page": "https://kerrydfishing.com.au/species-of-fish-we-catch/",
+      "status": 200,
+      "final_url": "https://kerrydfishing.com.au/species-of-fish-we-catch/",
+      "bytes": 28634
+    },
+    {
+      "page": "https://kerrydfishing.com.au/gallery/",
+      "status": 200,
+      "final_url": "https://kerrydfishing.com.au/gallery/",
+      "bytes": 28680
+    },
+    {
+      "page": "https://kerrydfishing.com.au/praise/",
+      "status": 200,
+      "final_url": "https://kerrydfishing.com.au/praise/",
+      "bytes": 28300
+    }
+  ]
+}

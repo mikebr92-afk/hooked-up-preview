@@ -1,0 +1,80 @@
+{
+  "slug": "razorfish-whitsundays-fishing-charters",
+  "request_hash": "4faea1940cff",
+  "collected_at": "2026-10-29T19:56:43.926Z",
+  "pages_fetched": [
+    "https://www.razorfishcharters.com.au/",
+    "https://www.razorfishcharters.com.au/private-charters/",
+    "https://www.razorfishcharters.com.au/shared-charters/",
+    "https://www.razorfishcharters.com.au/faqs/",
+    "https://www.facebook.com/profile.php?id=100095231556522",
+    "https://www.razorfishcharters.com.au/gift-voucher/",
+    "https://www.razorfishcharters.com.au/gallery/",
+    "https://www.razorfishcharters.com.au/about-us/",
+    "https://www.razorfishcharters.com.au/contact-us/",
+    "https://www.razorfishcharters.com.au/indemnity/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.razorfishcharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.razorfishcharters.com.au/",
+      "bytes": 228036
+    },
+    {
+      "page": "https://www.razorfishcharters.com.au/private-charters/",
+      "status": 200,
+      "final_url": "https://www.razorfishcharters.com.au/private-charters/",
+      "bytes": 236275
+    },
+    {
+      "page": "https://www.razorfishcharters.com.au/shared-charters/",
+      "status": 200,
+      "final_url": "https://www.razorfishcharters.com.au/shared-charters/",
+      "bytes": 233673
+    },
+    {
+      "page": "https://www.razorfishcharters.com.au/faqs/",
+      "status": 200,
+      "final_url": "https://www.razorfishcharters.com.au/faqs/",
+      "bytes": 130438
+    },
+    {
+      "page": "https://www.facebook.com/profile.php?id=100095231556522",
+      "status": 400,
+      "final_url": "https://www.facebook.com/profile.php?id=100095231556522",
+      "bytes": 1542
+    },
+    {
+      "page": "https://www.razorfishcharters.com.au/gift-voucher/",
+      "status": 200,
+      "final_url": "https://www.razorfishcharters.com.au/gift-voucher/",
+      "bytes": 219752
+    },
+    {
+      "page": "https://www.razorfishcharters.com.au/gallery/",
+      "status": 200,
+      "final_url": "https://www.razorfishcharters.com.au/gallery/",
+      "bytes": 275636
+    },
+    {
+      "page": "https://www.razorfishcharters.com.au/about-us/",
+      "status": 200,
+      "final_url": "https://www.razorfishcharters.com.au/about-us/",
+      "bytes": 104915
+    },
+    {
+      "page": "https://www.razorfishcharters.com.au/contact-us/",
+      "status": 200,
+      "final_url": "https://www.razorfishcharters.com.au/contact-us/",
+      "bytes": 67771
+    },
+    {
+      "page": "https://www.razorfishcharters.com.au/indemnity/",
+      "status": 200,
+      "final_url": "https://www.razorfishcharters.com.au/indemnity/",
+      "bytes": 76441
+    }
+  ]
+}

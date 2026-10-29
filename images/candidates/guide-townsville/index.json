@@ -1,0 +1,31 @@
+{
+  "slug": "guide-townsville",
+  "request_hash": "a6ef5e81c265",
+  "collected_at": "2026-10-29T19:52:52.966Z",
+  "pages_fetched": [
+    "https://audacitymarine.com.au/fishing-charters/",
+    "https://www.magneticislandfishingcharters.com.au/",
+    "https://conquestcharters.com.au/fishing-quests/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://audacitymarine.com.au/fishing-charters/",
+      "status": 200,
+      "final_url": "https://audacitymarine.com.au/fishing-charters/",
+      "bytes": 412021
+    },
+    {
+      "page": "https://www.magneticislandfishingcharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.magneticislandfishingcharters.com.au/",
+      "bytes": 480654
+    },
+    {
+      "page": "https://conquestcharters.com.au/fishing-quests/",
+      "status": 200,
+      "final_url": "https://conquestcharters.com.au/fishing-quests/",
+      "bytes": 270125
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "sublime-sportfishing-adventures",
+  "request_hash": "5be2e5795b14",
+  "collected_at": "2026-10-29T19:54:49.484Z",
+  "pages_fetched": [
+    "https://www.sublimesportfishing.com.au/",
+    "https://www.sublimesportfishing.com.au/about-port-douglas-fishing.html",
+    "https://www.sublimesportfishing.com.au/daintree-river-coastal-fishing.html",
+    "https://www.sublimesportfishing.com.au/great-barrier-reef-sportfishing.html",
+    "https://www.facebook.com/SublimeSportfishingAdventures/",
+    "https://www.sublimesportfishing.com.au/index.html",
+    "https://www.sublimesportfishing.com.au/multi-day-liveaboard-sportfishing.html",
+    "https://www.sublimesportfishing.com.au/cairns-black-marlin-heavy-tackle-fishing.html",
+    "https://www.sublimesportfishing.com.au/port-douglas-fishing-gallery.html",
+    "https://www.sublimesportfishing.com.au/request-a-booking.html"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.sublimesportfishing.com.au/",
+      "status": 200,
+      "final_url": "https://www.sublimesportfishing.com.au/",
+      "bytes": 13365
+    },
+    {
+      "page": "https://www.sublimesportfishing.com.au/about-port-douglas-fishing.html",
+      "status": 200,
+      "final_url": "https://www.sublimesportfishing.com.au/about-port-douglas-fishing.html",
+      "bytes": 16179
+    },
+    {
+      "page": "https://www.sublimesportfishing.com.au/daintree-river-coastal-fishing.html",
+      "status": 200,
+      "final_url": "https://www.sublimesportfishing.com.au/daintree-river-coastal-fishing.html",
+      "bytes": 14298
+    },
+    {
+      "page": "https://www.sublimesportfishing.com.au/great-barrier-reef-sportfishing.html",
+      "status": 200,
+      "final_url": "https://www.sublimesportfishing.com.au/great-barrier-reef-sportfishing.html",
+      "bytes": 14206
+    },
+    {
+      "page": "https://www.facebook.com/SublimeSportfishingAdventures/",
+      "status": 400,
+      "final_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FSublimeSportfishingAdventures%2F",
+      "bytes": 1542
+    },
+    {
+      "page": "https://www.sublimesportfishing.com.au/index.html",
+      "status": 200,
+      "final_url": "https://www.sublimesportfishing.com.au/index.html",
+      "bytes": 13365
+    },
+    {
+      "page": "https://www.sublimesportfishing.com.au/multi-day-liveaboard-sportfishing.html",
+      "status": 200,
+      "final_url": "https://www.sublimesportfishing.com.au/multi-day-liveaboard-sportfishing.html",
+      "bytes": 14448
+    },
+    {
+      "page": "https://www.sublimesportfishing.com.au/cairns-black-marlin-heavy-tackle-fishing.html",
+      "status": 200,
+      "final_url": "https://www.sublimesportfishing.com.au/cairns-black-marlin-heavy-tackle-fishing.html",
+      "bytes": 14614
+    },
+    {
+      "page": "https://www.sublimesportfishing.com.au/port-douglas-fishing-gallery.html",
+      "status": 200,
+      "final_url": "https://www.sublimesportfishing.com.au/port-douglas-fishing-gallery.html",
+      "bytes": 23106
+    },
+    {
+      "page": "https://www.sublimesportfishing.com.au/request-a-booking.html",
+      "status": 200,
+      "final_url": "https://www.sublimesportfishing.com.au/request-a-booking.html",
+      "bytes": 19242
+    }
+  ]
+}

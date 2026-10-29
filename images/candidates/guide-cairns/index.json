@@ -1,0 +1,80 @@
+{
+  "slug": "guide-cairns",
+  "request_hash": "99c52b1c86f9",
+  "collected_at": "2026-10-29T19:52:27.506Z",
+  "pages_fetched": [
+    "https://www.bigfishdownunder.com/experiences/black-marlin-fishing-charters",
+    "https://www.bigfishdownunder.com/experiences/sport-amp-game-fishing",
+    "https://www.cairnsreeffishing.com.au/faqs/",
+    "https://fishtales.com.au/cairns-private-fishing-charters/",
+    "https://fishtales.com.au/cairns-river-fishing/",
+    "https://www.tropicalsportfisher.com/fly-fishing-day-trips/",
+    "https://www.fishingcairns.com.au/heavy-tackle-extended-charters/",
+    "https://www.cairnsreeffishing.com.au/shared-charters/",
+    "https://fishtales.com.au/cairns-estuary-fishing/",
+    "https://fishtales.com.au/cairns-reef-fishing/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.bigfishdownunder.com/experiences/black-marlin-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.bigfishdownunder.com/experiences/black-marlin-fishing-charters",
+      "bytes": 43252
+    },
+    {
+      "page": "https://www.bigfishdownunder.com/experiences/sport-amp-game-fishing",
+      "status": 200,
+      "final_url": "https://www.bigfishdownunder.com/experiences/sport-amp-game-fishing",
+      "bytes": 28148
+    },
+    {
+      "page": "https://www.cairnsreeffishing.com.au/faqs/",
+      "status": 200,
+      "final_url": "https://www.cairnsreeffishing.com.au/faqs/",
+      "bytes": 137964
+    },
+    {
+      "page": "https://fishtales.com.au/cairns-private-fishing-charters/",
+      "status": 200,
+      "final_url": "https://fishtales.com.au/cairns-private-fishing-charters/",
+      "bytes": 183659
+    },
+    {
+      "page": "https://fishtales.com.au/cairns-river-fishing/",
+      "status": 200,
+      "final_url": "https://fishtales.com.au/cairns-river-fishing/",
+      "bytes": 409980
+    },
+    {
+      "page": "https://www.tropicalsportfisher.com/fly-fishing-day-trips/",
+      "status": 200,
+      "final_url": "https://www.tropicalsportfisher.com/fly-fishing-day-trips/",
+      "bytes": 238341
+    },
+    {
+      "page": "https://www.fishingcairns.com.au/heavy-tackle-extended-charters/",
+      "status": 200,
+      "final_url": "https://www.fishingcairns.com.au/heavy-tackle-extended-charters/",
+      "bytes": 133521
+    },
+    {
+      "page": "https://www.cairnsreeffishing.com.au/shared-charters/",
+      "status": 200,
+      "final_url": "https://www.cairnsreeffishing.com.au/shared-charters/",
+      "bytes": 158528
+    },
+    {
+      "page": "https://fishtales.com.au/cairns-estuary-fishing/",
+      "status": 200,
+      "final_url": "https://fishtales.com.au/cairns-estuary-fishing/",
+      "bytes": 409357
+    },
+    {
+      "page": "https://fishtales.com.au/cairns-reef-fishing/",
+      "status": 200,
+      "final_url": "https://fishtales.com.au/cairns-reef-fishing/",
+      "bytes": 382401
+    }
+  ]
+}

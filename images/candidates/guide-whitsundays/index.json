@@ -1,0 +1,45 @@
+{
+  "slug": "guide-whitsundays",
+  "request_hash": "acbf8c6a90d8",
+  "collected_at": "2026-10-29T19:52:37.174Z",
+  "pages_fetched": [
+    "https://www.topnotchgamefishing.com.au/whitsundays-sailfish-fishing-charters/",
+    "https://www.topnotchgamefishing.com.au/faq/",
+    "https://www.razorfishcharters.com.au/private-charters/",
+    "https://airliebeachfishingcharters.com.au/",
+    "https://www.whitsundayfishingcharters.com.au/half-day-fishing"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.topnotchgamefishing.com.au/whitsundays-sailfish-fishing-charters/",
+      "status": 200,
+      "final_url": "https://www.topnotchgamefishing.com.au/whitsundays-sailfish-fishing-charters/",
+      "bytes": 88468
+    },
+    {
+      "page": "https://www.topnotchgamefishing.com.au/faq/",
+      "status": 200,
+      "final_url": "https://www.topnotchgamefishing.com.au/faq/",
+      "bytes": 90274
+    },
+    {
+      "page": "https://www.razorfishcharters.com.au/private-charters/",
+      "status": 200,
+      "final_url": "https://www.razorfishcharters.com.au/private-charters/",
+      "bytes": 236275
+    },
+    {
+      "page": "https://airliebeachfishingcharters.com.au/",
+      "status": 200,
+      "final_url": "https://airliebeachfishingcharters.com.au/",
+      "bytes": 187343
+    },
+    {
+      "page": "https://www.whitsundayfishingcharters.com.au/half-day-fishing",
+      "status": 200,
+      "final_url": "https://www.whitsundayfishingcharters.com.au/half-day-fishing",
+      "bytes": 176357
+    }
+  ]
+}

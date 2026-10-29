@@ -1,0 +1,94 @@
+{
+  "slug": "akula-sportfishing-port-douglas",
+  "request_hash": "7d5ce3dd25cf",
+  "collected_at": "2026-10-29T19:55:47.069Z",
+  "pages_fetched": [
+    "https://akulasportfishing.com.au/",
+    "https://akulasportfishing.com.au/about-akula-sportfishing/",
+    "https://akulasportfishing.com.au/experiences-charter-bookings/",
+    "https://akulasportfishing.com.au/reef-fishing-port-douglas/",
+    "https://akulasportfishing.com.au/extended-liveaboard-mothership-fishing-trips/",
+    "https://tourismportdouglas.com.au/akula-sportfishing-port-douglas",
+    "https://www.facebook.com/profile.php?id=100083101352438",
+    "https://akulasportfishing.com.au/game-fishing/",
+    "https://akulasportfishing.com.au/giant-trevally-fishing/",
+    "https://akulasportfishing.com.au/topwater-fishing/",
+    "https://akulasportfishing.com.au/news/",
+    "https://akulasportfishing.com.au/social/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://akulasportfishing.com.au/",
+      "status": 200,
+      "final_url": "https://akulasportfishing.com.au/",
+      "bytes": 108481
+    },
+    {
+      "page": "https://akulasportfishing.com.au/about-akula-sportfishing/",
+      "status": 200,
+      "final_url": "https://akulasportfishing.com.au/about-akula-sportfishing/",
+      "bytes": 87340
+    },
+    {
+      "page": "https://akulasportfishing.com.au/experiences-charter-bookings/",
+      "status": 200,
+      "final_url": "https://akulasportfishing.com.au/experiences-charter-bookings/",
+      "bytes": 97543
+    },
+    {
+      "page": "https://akulasportfishing.com.au/reef-fishing-port-douglas/",
+      "status": 200,
+      "final_url": "https://akulasportfishing.com.au/reef-fishing-port-douglas/",
+      "bytes": 102814
+    },
+    {
+      "page": "https://akulasportfishing.com.au/extended-liveaboard-mothership-fishing-trips/",
+      "status": 200,
+      "final_url": "https://akulasportfishing.com.au/extended-liveaboard-mothership-fishing-trips/",
+      "bytes": 91618
+    },
+    {
+      "page": "https://tourismportdouglas.com.au/akula-sportfishing-port-douglas",
+      "status": 200,
+      "final_url": "https://tourismportdouglas.com.au/akula-sportfishing-port-douglas",
+      "bytes": 103507
+    },
+    {
+      "page": "https://www.facebook.com/profile.php?id=100083101352438",
+      "status": 400,
+      "final_url": "https://www.facebook.com/profile.php?id=100083101352438",
+      "bytes": 1542
+    },
+    {
+      "page": "https://akulasportfishing.com.au/game-fishing/",
+      "status": 200,
+      "final_url": "https://akulasportfishing.com.au/game-fishing/",
+      "bytes": 97874
+    },
+    {
+      "page": "https://akulasportfishing.com.au/giant-trevally-fishing/",
+      "status": 200,
+      "final_url": "https://akulasportfishing.com.au/giant-trevally-fishing/",
+      "bytes": 101313
+    },
+    {
+      "page": "https://akulasportfishing.com.au/topwater-fishing/",
+      "status": 200,
+      "final_url": "https://akulasportfishing.com.au/topwater-fishing/",
+      "bytes": 100477
+    },
+    {
+      "page": "https://akulasportfishing.com.au/news/",
+      "status": 200,
+      "final_url": "https://akulasportfishing.com.au/news/",
+      "bytes": 88804
+    },
+    {
+      "page": "https://akulasportfishing.com.au/social/",
+      "status": 200,
+      "final_url": "https://akulasportfishing.com.au/social/",
+      "bytes": 77680
+    }
+  ]
+}

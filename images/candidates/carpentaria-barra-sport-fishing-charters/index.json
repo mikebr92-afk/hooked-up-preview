@@ -1,0 +1,87 @@
+{
+  "slug": "carpentaria-barra-sport-fishing-charters",
+  "request_hash": "529d0bacea5f",
+  "collected_at": "2026-10-29T19:54:55.918Z",
+  "pages_fetched": [
+    "https://www.carpentariabarra.com.au/",
+    "https://www.carpentariabarra.com.au/about-us/",
+    "https://www.carpentariabarra.com.au/fishing-guide/",
+    "https://www.carpentariabarra.com.au/fishing-packages/",
+    "https://www.carpentariabarra.com.au/vesselstackle/",
+    "https://www.carpentariabarra.com.au/photo-gallery/",
+    "https://www.carpentariabarra.com.au/fish-species/",
+    "https://www.carpentariabarra.com.au/faqs/",
+    "https://www.carpentariabarra.com.au/contact-us/",
+    "https://www.carpentariabarra.com.au/fishing-packages",
+    "https://www.carpentariabarra.com.au/contact-us"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.carpentariabarra.com.au/",
+      "status": 200,
+      "final_url": "https://www.carpentariabarra.com.au/",
+      "bytes": 369000
+    },
+    {
+      "page": "https://www.carpentariabarra.com.au/about-us/",
+      "status": 404,
+      "final_url": "https://www.carpentariabarra.com.au/about-us/",
+      "bytes": 1251
+    },
+    {
+      "page": "https://www.carpentariabarra.com.au/fishing-guide/",
+      "status": 404,
+      "final_url": "https://www.carpentariabarra.com.au/fishing-guide/",
+      "bytes": 1251
+    },
+    {
+      "page": "https://www.carpentariabarra.com.au/fishing-packages/",
+      "status": 404,
+      "final_url": "https://www.carpentariabarra.com.au/fishing-packages/",
+      "bytes": 1251
+    },
+    {
+      "page": "https://www.carpentariabarra.com.au/vesselstackle/",
+      "status": 404,
+      "final_url": "https://www.carpentariabarra.com.au/vesselstackle/",
+      "bytes": 1251
+    },
+    {
+      "page": "https://www.carpentariabarra.com.au/photo-gallery/",
+      "status": 404,
+      "final_url": "https://www.carpentariabarra.com.au/photo-gallery/",
+      "bytes": 1251
+    },
+    {
+      "page": "https://www.carpentariabarra.com.au/fish-species/",
+      "status": 404,
+      "final_url": "https://www.carpentariabarra.com.au/fish-species/",
+      "bytes": 1251
+    },
+    {
+      "page": "https://www.carpentariabarra.com.au/faqs/",
+      "status": 404,
+      "final_url": "https://www.carpentariabarra.com.au/faqs/",
+      "bytes": 1251
+    },
+    {
+      "page": "https://www.carpentariabarra.com.au/contact-us/",
+      "status": 404,
+      "final_url": "https://www.carpentariabarra.com.au/contact-us/",
+      "bytes": 1251
+    },
+    {
+      "page": "https://www.carpentariabarra.com.au/fishing-packages",
+      "status": 404,
+      "final_url": "https://www.carpentariabarra.com.au/fishing-packages",
+      "bytes": 1251
+    },
+    {
+      "page": "https://www.carpentariabarra.com.au/contact-us",
+      "status": 404,
+      "final_url": "https://www.carpentariabarra.com.au/contact-us",
+      "bytes": 1251
+    }
+  ]
+}

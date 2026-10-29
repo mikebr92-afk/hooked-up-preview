@@ -1,0 +1,94 @@
+{
+  "slug": "daintree-river-fishing-david-patterson",
+  "request_hash": "47cc3a12fbc1",
+  "collected_at": "2026-10-29T19:54:46.607Z",
+  "pages_fetched": [
+    "https://daintreefishing.com.au/",
+    "https://tourismportdouglas.com.au/daintree-river-fishing-with-david-patterson",
+    "https://www.australia.com/en/atdw/product.56b260b3aeeeaaf773cf3a2b.html",
+    "https://daintreefishing.com.au/personalised-charters/",
+    "https://daintreefishing.com.au/river-fishing-share-charters/",
+    "https://daintreefishing.com.au/coastal-and-reef-charters/",
+    "https://daintreefishing.com.au/brag-board/",
+    "https://daintreefishing.com.au/map/",
+    "https://tourismportdouglas.com.au/",
+    "https://tourismportdouglas.com.au/contact-us",
+    "https://tourismportdouglas.com.au/how-can-we-help",
+    "https://tourismportdouglas.com.au/assistance"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://daintreefishing.com.au/",
+      "status": 200,
+      "final_url": "https://daintreefishing.com.au/",
+      "bytes": 65194
+    },
+    {
+      "page": "https://tourismportdouglas.com.au/daintree-river-fishing-with-david-patterson",
+      "status": 200,
+      "final_url": "https://tourismportdouglas.com.au/daintree-river-fishing-with-david-patterson",
+      "bytes": 98217
+    },
+    {
+      "page": "https://www.australia.com/en/atdw/product.56b260b3aeeeaaf773cf3a2b.html",
+      "status": 200,
+      "final_url": "https://www.australia.com/en/atdw/product.56b260b3aeeeaaf773cf3a2b.html",
+      "bytes": 278410
+    },
+    {
+      "page": "https://daintreefishing.com.au/personalised-charters/",
+      "status": 404,
+      "final_url": "https://daintreefishing.com.au/personalised-charters/",
+      "bytes": 555
+    },
+    {
+      "page": "https://daintreefishing.com.au/river-fishing-share-charters/",
+      "status": 404,
+      "final_url": "https://daintreefishing.com.au/river-fishing-share-charters/",
+      "bytes": 555
+    },
+    {
+      "page": "https://daintreefishing.com.au/coastal-and-reef-charters/",
+      "status": 404,
+      "final_url": "https://daintreefishing.com.au/coastal-and-reef-charters/",
+      "bytes": 555
+    },
+    {
+      "page": "https://daintreefishing.com.au/brag-board/",
+      "status": 404,
+      "final_url": "https://daintreefishing.com.au/brag-board/",
+      "bytes": 555
+    },
+    {
+      "page": "https://daintreefishing.com.au/map/",
+      "status": 404,
+      "final_url": "https://daintreefishing.com.au/map/",
+      "bytes": 555
+    },
+    {
+      "page": "https://tourismportdouglas.com.au/",
+      "status": 200,
+      "final_url": "https://tourismportdouglas.com.au/",
+      "bytes": 350576
+    },
+    {
+      "page": "https://tourismportdouglas.com.au/contact-us",
+      "status": 200,
+      "final_url": "https://tourismportdouglas.com.au/contact-us",
+      "bytes": 51745
+    },
+    {
+      "page": "https://tourismportdouglas.com.au/how-can-we-help",
+      "status": 200,
+      "final_url": "https://tourismportdouglas.com.au/how-can-we-help",
+      "bytes": 66949
+    },
+    {
+      "page": "https://tourismportdouglas.com.au/assistance",
+      "status": 200,
+      "final_url": "https://tourismportdouglas.com.au/assistance",
+      "bytes": 67570
+    }
+  ]
+}

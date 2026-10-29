@@ -1,0 +1,52 @@
+{
+  "slug": "guide-weipa",
+  "request_hash": "aa8258891169",
+  "collected_at": "2026-10-29T19:53:09.996Z",
+  "pages_fetched": [
+    "https://www.weipaflyfish.com.au/the-fishing-in-weipa",
+    "https://www.weipaflyfish.com.au/fishing-faqs",
+    "https://www.weipaflyfish.com.au/weipa-fishing-charters",
+    "https://www.farnorthfishingweipa.com.au/charters",
+    "https://www.fishingcairns.com.au/fishing-books-maps/locality-guides/cape-york-locality-guide/weipa-cape-york-locality-guide/",
+    "https://capeyorkweekly.com.au/?p=10501"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.weipaflyfish.com.au/the-fishing-in-weipa",
+      "status": 200,
+      "final_url": "https://www.weipaflyfish.com.au/the-fishing-in-weipa",
+      "bytes": 168109
+    },
+    {
+      "page": "https://www.weipaflyfish.com.au/fishing-faqs",
+      "status": 200,
+      "final_url": "https://www.weipaflyfish.com.au/fishing-faqs",
+      "bytes": 124511
+    },
+    {
+      "page": "https://www.weipaflyfish.com.au/weipa-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.weipaflyfish.com.au/weipa-fishing-charters",
+      "bytes": 103546
+    },
+    {
+      "page": "https://www.farnorthfishingweipa.com.au/charters",
+      "status": 200,
+      "final_url": "https://www.farnorthfishingweipa.com.au/charters",
+      "bytes": 42439
+    },
+    {
+      "page": "https://www.fishingcairns.com.au/fishing-books-maps/locality-guides/cape-york-locality-guide/weipa-cape-york-locality-guide/",
+      "status": 200,
+      "final_url": "https://www.fishingcairns.com.au/fishing-books-maps/locality-guides/cape-york-locality-guide/weipa-cape-york-locality-guide/",
+      "bytes": 111960
+    },
+    {
+      "page": "https://capeyorkweekly.com.au/?p=10501",
+      "status": 200,
+      "final_url": "https://capeyorkweekly.com.au/weipa-artificial-reef-concept-gets-go-ahead-from-traditional-owners/10501/",
+      "bytes": 65307
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "guide-daintree",
+  "request_hash": "4a84fa7ba12b",
+  "collected_at": "2026-10-29T19:53:00.141Z",
+  "pages_fetched": [
+    "https://www.sublimesportfishing.com.au/daintree-river-coastal-fishing.html",
+    "https://www.australia.com/en/atdw/product.56b260b3aeeeaaf773cf3a2b.html",
+    "https://daintreefishing.com.au/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.sublimesportfishing.com.au/daintree-river-coastal-fishing.html",
+      "status": 200,
+      "final_url": "https://www.sublimesportfishing.com.au/daintree-river-coastal-fishing.html",
+      "bytes": 14298
+    },
+    {
+      "page": "https://www.australia.com/en/atdw/product.56b260b3aeeeaaf773cf3a2b.html",
+      "status": 200,
+      "final_url": "https://www.australia.com/en/atdw/product.56b260b3aeeeaaf773cf3a2b.html",
+      "bytes": 278410
+    },
+    {
+      "page": "https://daintreefishing.com.au/",
+      "status": 200,
+      "final_url": "https://daintreefishing.com.au/",
+      "bytes": 65194
+    }
+  ]
+}

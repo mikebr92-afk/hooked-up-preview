@@ -1,0 +1,87 @@
+{
+  "slug": "norseman-reef-fishing-port-douglas",
+  "request_hash": "978efaef0d8b",
+  "collected_at": "2026-10-29T19:55:52.637Z",
+  "pages_fetched": [
+    "https://mvnorseman.com.au/",
+    "https://mvnorseman.com.au/norseman-reef-fishing-charters/",
+    "https://mvnorseman.com.au/norseman-sportfishing/",
+    "https://mvnorseman.com.au/private-norseman-reef-fishing-charters/",
+    "https://mvnorseman.com.au/our-boat/",
+    "https://mvnorseman.com.au/about-us/",
+    "https://mvnorseman.com.au/faq/",
+    "https://www.facebook.com/norsemanfishing/",
+    "https://mvnorseman.com.au/fishing-gallery/",
+    "https://mvnorseman.com.au/contact-us/",
+    "https://mvnorseman.com.au/norseman-reef-fishing-charters-gift-voucher/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://mvnorseman.com.au/",
+      "status": 200,
+      "final_url": "https://mvnorseman.com.au/",
+      "bytes": 156887
+    },
+    {
+      "page": "https://mvnorseman.com.au/norseman-reef-fishing-charters/",
+      "status": 200,
+      "final_url": "https://mvnorseman.com.au/norseman-reef-fishing-charters/",
+      "bytes": 150464
+    },
+    {
+      "page": "https://mvnorseman.com.au/norseman-sportfishing/",
+      "status": 200,
+      "final_url": "https://mvnorseman.com.au/norseman-sportfishing/",
+      "bytes": 150730
+    },
+    {
+      "page": "https://mvnorseman.com.au/private-norseman-reef-fishing-charters/",
+      "status": 200,
+      "final_url": "https://mvnorseman.com.au/private-norseman-reef-fishing-charters/",
+      "bytes": 138245
+    },
+    {
+      "page": "https://mvnorseman.com.au/our-boat/",
+      "status": 200,
+      "final_url": "https://mvnorseman.com.au/our-boat/",
+      "bytes": 124590
+    },
+    {
+      "page": "https://mvnorseman.com.au/about-us/",
+      "status": 200,
+      "final_url": "https://mvnorseman.com.au/about-us/",
+      "bytes": 123607
+    },
+    {
+      "page": "https://mvnorseman.com.au/faq/",
+      "status": 200,
+      "final_url": "https://mvnorseman.com.au/faq/",
+      "bytes": 132614
+    },
+    {
+      "page": "https://www.facebook.com/norsemanfishing/",
+      "status": 400,
+      "final_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fnorsemanfishing%2F",
+      "bytes": 1542
+    },
+    {
+      "page": "https://mvnorseman.com.au/fishing-gallery/",
+      "status": 200,
+      "final_url": "https://mvnorseman.com.au/fishing-gallery/",
+      "bytes": 162828
+    },
+    {
+      "page": "https://mvnorseman.com.au/contact-us/",
+      "status": 200,
+      "final_url": "https://mvnorseman.com.au/contact-us/",
+      "bytes": 154575
+    },
+    {
+      "page": "https://mvnorseman.com.au/norseman-reef-fishing-charters-gift-voucher/",
+      "status": 200,
+      "final_url": "https://mvnorseman.com.au/norseman-reef-fishing-charters-gift-voucher/",
+      "bytes": 132504
+    }
+  ]
+}

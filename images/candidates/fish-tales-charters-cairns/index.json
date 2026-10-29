@@ -1,0 +1,94 @@
+{
+  "slug": "fish-tales-charters-cairns",
+  "request_hash": "da8cd95b0ed2",
+  "collected_at": "2026-10-29T19:54:06.442Z",
+  "pages_fetched": [
+    "https://fishtales.com.au/",
+    "https://fishtales.com.au/about-us/",
+    "https://fishtales.com.au/cairns-estuary-fishing/",
+    "https://fishtales.com.au/cairns-river-fishing/",
+    "https://fishtales.com.au/cairns-reef-fishing/",
+    "https://fishtales.com.au/cairns-private-fishing-charters/",
+    "https://www.australia.com/en/atdw/product.5f3a1403d7250b7a09ff4db6.html",
+    "https://www.facebook.com/fishtalescairns",
+    "https://fishtales.com.au/cairns-barramundi-fishing/",
+    "https://fishtales.com.au/contact-details/",
+    "https://fishtales.com.au/gt-popper-fishing-on-the-reef/",
+    "https://fishtales.com.au/fish-gallery/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://fishtales.com.au/",
+      "status": 200,
+      "final_url": "https://fishtales.com.au/",
+      "bytes": 196665
+    },
+    {
+      "page": "https://fishtales.com.au/about-us/",
+      "status": 200,
+      "final_url": "https://fishtales.com.au/about-us/",
+      "bytes": 172240
+    },
+    {
+      "page": "https://fishtales.com.au/cairns-estuary-fishing/",
+      "status": 200,
+      "final_url": "https://fishtales.com.au/cairns-estuary-fishing/",
+      "bytes": 409357
+    },
+    {
+      "page": "https://fishtales.com.au/cairns-river-fishing/",
+      "status": 200,
+      "final_url": "https://fishtales.com.au/cairns-river-fishing/",
+      "bytes": 409980
+    },
+    {
+      "page": "https://fishtales.com.au/cairns-reef-fishing/",
+      "status": 200,
+      "final_url": "https://fishtales.com.au/cairns-reef-fishing/",
+      "bytes": 382401
+    },
+    {
+      "page": "https://fishtales.com.au/cairns-private-fishing-charters/",
+      "status": 200,
+      "final_url": "https://fishtales.com.au/cairns-private-fishing-charters/",
+      "bytes": 183659
+    },
+    {
+      "page": "https://www.australia.com/en/atdw/product.5f3a1403d7250b7a09ff4db6.html",
+      "status": 200,
+      "final_url": "https://www.australia.com/en/atdw/product.5f3a1403d7250b7a09ff4db6.html",
+      "bytes": 284308
+    },
+    {
+      "page": "https://www.facebook.com/fishtalescairns",
+      "status": 400,
+      "final_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Ffishtalescairns",
+      "bytes": 1542
+    },
+    {
+      "page": "https://fishtales.com.au/cairns-barramundi-fishing/",
+      "status": 200,
+      "final_url": "https://fishtales.com.au/cairns-barramundi-fishing/",
+      "bytes": 238925
+    },
+    {
+      "page": "https://fishtales.com.au/contact-details/",
+      "status": 200,
+      "final_url": "https://fishtales.com.au/contact-details/",
+      "bytes": 220907
+    },
+    {
+      "page": "https://fishtales.com.au/gt-popper-fishing-on-the-reef/",
+      "status": 200,
+      "final_url": "https://fishtales.com.au/gt-popper-fishing-on-the-reef/",
+      "bytes": 68998
+    },
+    {
+      "page": "https://fishtales.com.au/fish-gallery/",
+      "status": 200,
+      "final_url": "https://fishtales.com.au/fish-gallery/",
+      "bytes": 69001
+    }
+  ]
+}

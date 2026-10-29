@@ -1,0 +1,94 @@
+{
+  "slug": "fnq-fishing-adventures-cairns",
+  "request_hash": "ca6aad6d36a8",
+  "collected_at": "2026-10-29T19:54:11.931Z",
+  "pages_fetched": [
+    "https://www.fnqfishingadventures.com.au/",
+    "https://www.fnqfishingadventures.com.au/about",
+    "https://www.fnqfishingadventures.com.au/charters",
+    "https://www.fnqfishingadventures.com.au/cairns",
+    "https://www.fnqfishingadventures.com.au/full-day-reef-fishing",
+    "https://www.fnqfishingadventures.com.au/topwater-gts",
+    "https://www.fnqfishingadventures.com.au/light-tackle-billfish",
+    "https://www.fnqfishingadventures.com.au/full-day-river-charter",
+    "https://www.fnqfishingadventures.com.au/contact",
+    "https://www.facebook.com/profile.php?id=61584050493428",
+    "https://www.fnqfishingadventures.com.au/cart",
+    "https://www.fnqfishingadventures.com.au/port-douglas"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.fnqfishingadventures.com.au/",
+      "status": 200,
+      "final_url": "https://www.fnqfishingadventures.com.au/",
+      "bytes": 677260
+    },
+    {
+      "page": "https://www.fnqfishingadventures.com.au/about",
+      "status": 200,
+      "final_url": "https://www.fnqfishingadventures.com.au/about",
+      "bytes": 487715
+    },
+    {
+      "page": "https://www.fnqfishingadventures.com.au/charters",
+      "status": 200,
+      "final_url": "https://www.fnqfishingadventures.com.au/charters",
+      "bytes": 298016
+    },
+    {
+      "page": "https://www.fnqfishingadventures.com.au/cairns",
+      "status": 200,
+      "final_url": "https://www.fnqfishingadventures.com.au/cairns",
+      "bytes": 558340
+    },
+    {
+      "page": "https://www.fnqfishingadventures.com.au/full-day-reef-fishing",
+      "status": 200,
+      "final_url": "https://www.fnqfishingadventures.com.au/full-day-reef-fishing",
+      "bytes": 543039
+    },
+    {
+      "page": "https://www.fnqfishingadventures.com.au/topwater-gts",
+      "status": 200,
+      "final_url": "https://www.fnqfishingadventures.com.au/topwater-gts",
+      "bytes": 254550
+    },
+    {
+      "page": "https://www.fnqfishingadventures.com.au/light-tackle-billfish",
+      "status": 200,
+      "final_url": "https://www.fnqfishingadventures.com.au/light-tackle-billfish",
+      "bytes": 376163
+    },
+    {
+      "page": "https://www.fnqfishingadventures.com.au/full-day-river-charter",
+      "status": 200,
+      "final_url": "https://www.fnqfishingadventures.com.au/full-day-river-charter",
+      "bytes": 251022
+    },
+    {
+      "page": "https://www.fnqfishingadventures.com.au/contact",
+      "status": 200,
+      "final_url": "https://www.fnqfishingadventures.com.au/contact",
+      "bytes": 328926
+    },
+    {
+      "page": "https://www.facebook.com/profile.php?id=61584050493428",
+      "status": 400,
+      "final_url": "https://www.facebook.com/profile.php?id=61584050493428",
+      "bytes": 1542
+    },
+    {
+      "page": "https://www.fnqfishingadventures.com.au/cart",
+      "status": 200,
+      "final_url": "https://www.fnqfishingadventures.com.au/cart",
+      "bytes": 155674
+    },
+    {
+      "page": "https://www.fnqfishingadventures.com.au/port-douglas",
+      "status": 200,
+      "final_url": "https://www.fnqfishingadventures.com.au/port-douglas",
+      "bytes": 319765
+    }
+  ]
+}
