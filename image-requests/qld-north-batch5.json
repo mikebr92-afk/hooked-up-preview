@@ -1,0 +1,99 @@
+{
+ "requests": [
+  {
+   "slug": "daintree-river-fishing2",
+   "pages": [
+    "https://daintreefishing.com.au/",
+    "https://daintreefishing.com.au/personalised-charters/",
+    "https://daintreefishing.com.au/river-fishing-share-charters/",
+    "https://daintreefishing.com.au/coastal-and-reef-charters/",
+    "https://daintreefishing.com.au/?page_id=2"
+   ],
+   "text": true,
+   "max": 10,
+   "follow": false,
+   "force": true
+  },
+  {
+   "slug": "carpentaria-barra2",
+   "pages": [
+    "https://www.carpentariabarra.com.au/fishing-packages/",
+    "https://www.carpentariabarra.com.au/vesselstackle/",
+    "https://www.carpentariabarra.com.au/fishing-guide/",
+    "https://www.carpentariabarra.com.au/the-gulf/",
+    "https://www.carpentariabarra.com.au/?page_id=2"
+   ],
+   "text": true,
+   "max": 10,
+   "follow": false
+  },
+  {
+   "slug": "crackajack-sportfishing-lucinda",
+   "pages": [
+    "https://crackfish.com/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "mackay-fly-sportfishing",
+   "pages": [
+    "https://www.mackaysportfishing.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "out-n-about-tpd-images",
+   "pages": [],
+   "images": [
+    "https://tourismportdouglas.com.au/fileadmin/user_upload/Businesses/O/Out-n-About-Sportsfishing-3.jpg",
+    "https://tourismportdouglas.com.au/fileadmin/user_upload/Businesses/O/Out-n-About-Sportsfishing-2.jpg",
+    "https://tourismportdouglas.com.au/fileadmin/user_upload/Businesses/O/Out-n-About-Sportsfishing-5.jpg",
+    "https://tourismportdouglas.com.au/fileadmin/user_upload/Businesses/O/Out-n-About-Sportsfishing-6.jpg",
+    "https://tourismportdouglas.com.au/fileadmin/user_upload/Businesses/O/Out-n-About-Sportsfishing.jpg"
+   ],
+   "max": 8
+  },
+  {
+   "slug": "flux-fly-fishing",
+   "pages": [
+    "https://www.fluxflyfishing.com/"
+   ],
+   "text": true,
+   "max": 8,
+   "follow": true
+  },
+  {
+   "slug": "ian-moody-atdw",
+   "pages": [
+    "https://www.australia.com/en/atdw/product.6045f4108fc1e7796a9d63ac.html"
+   ],
+   "text": true,
+   "max": 8,
+   "follow": false
+  },
+  {
+   "slug": "gone-fishing-cooktown2",
+   "pages": [
+    "http://fishingcooktown.com/prices/",
+    "http://fishingcooktown.com/our-vessels/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  },
+  {
+   "slug": "mission-beach-charters",
+   "pages": [
+    "https://www.missionbeachcharters.com.au/",
+    "https://missionbeachtourism.com/things-to-do-mission-beach-old/fishing-tours-mission-beach"
+   ],
+   "text": true,
+   "max": 12,
+   "follow": true
+  }
+ ]
+}
