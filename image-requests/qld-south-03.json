@@ -1,0 +1,13 @@
+{"requests":[
+ {"slug":"bks-gold-coast-fishing-charters","pages":["https://www.bksfishing.com.au/","https://bksgoldcoastfishingcharters.rezdy.com/"],"text":true,"max":16,"follow":true},
+ {"slug":"big-cat-charters-brisbane","pages":["https://www.bigcatcharters.com/"],"text":true,"max":16,"follow":true},
+ {"slug":"research-saltwater-charters-qld","pages":["https://www.smarterfishingcharters.com.au/charters/details/204"],"text":true,"max":0,"follow":false},
+ {"slug":"fish-moreton","pages":["http://www.fishmoreton.com.au/","https://fishmoreton.rezdy.com/index"],"text":true,"max":16,"follow":true},
+ {"slug":"smithys-fishing-charters","pages":["https://www.smithysfishingcharters.com.au/","http://smithysfishingcharters.com.au/"],"text":true,"max":16,"follow":true},
+ {"slug":"reel-deadly-fishing-charters","pages":["https://reeldeadlyfishing.com/","http://www.reeldeadlyfishing.com/"],"text":true,"max":16,"follow":true},
+ {"slug":"research-hbfs-packages","pages":["https://herveybaysportfishing.com.au/fishing-packages/","https://herveybaysportfishing.com.au/contact-us/","https://herveybaysportfishing.com.au/about-us/"],"text":true,"max":0,"follow":false},
+ {"slug":"truansea-charters","pages":["https://www.truansea.com.au/","https://truansea.com.au/full-day-reef-fishing","https://truansea.com.au/half-day-reef-fishing"],"text":true,"max":16,"follow":true},
+ {"slug":"bundaberg-river-fishing-charters","pages":["https://bundabergriverfishing.com.au/"],"text":true,"max":16,"follow":true},
+ {"slug":"research-agnes-dir3","pages":["https://qica.com.au/tours/town-of-1770-agnes-water/fishing-offshore-1770","https://www.boatsonline.com.au/boats-for-sale/used/commercial-vessel/noosa-cat-3100-sports-cruiser/303292","https://boatsonline.com.au/boats-for-sale/used/charter-vessel/clayton-marine-gallant-9-7m-2c-survey-7-1-fishing-charter-business/314191","https://www.visitagnes1770.com.au/category/fishing-1/","https://playsport.com/reeffishingcharters1770_ag_d2815b29/about","https://www.australias.guide/qld/attraction-tour/gladstone/seventeen-seventy/hooked-on-1770-adventure-tours/","https://fishandboat.com.au/1770-a-beginners-guide-by-gyula-vari"],"text":true,"max":0,"follow":false},
+ {"slug":"research-hotspot-guides","pages":["https://fishandboat.com.au/guide-to-hervey-bay-luke-fitzpatrick-2016/","https://www.fishingaustralia.com.au/redcliffe-peninsula-qld/","https://visitcapricorn.com.au/service/rosslyn-bay","https://www.bundabergregion.org/places-to-go/burnett-heads/"],"text":true,"max":0,"follow":false}
+]}
