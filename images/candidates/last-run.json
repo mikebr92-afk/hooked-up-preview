@@ -1,5 +1,5 @@
 {
-  "finished_at": "2026-10-29T03:18:20.304Z",
+  "finished_at": "2026-10-29T03:19:37.490Z",
   "summary": [
     {
       "slug": "fishabout-tours-sydney",
@@ -15,8 +15,7 @@
     },
     {
       "slug": "deep-blue-charters-sydney",
-      "candidates": 24,
-      "pages": 8
+      "skipped": true
     },
     {
       "slug": "sydney-premium-charters-cronulla",
@@ -56,8 +55,8 @@
     },
     {
       "slug": "ambition-charters-sydney",
-      "candidates": 9,
-      "pages": 8
+      "candidates": 17,
+      "pages": 7
     },
     {
       "slug": "five-island-charters-wollongong",
