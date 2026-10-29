@@ -1,0 +1,272 @@
+{
+ "requests": [
+  {
+   "slug": "research-pd-fishing",
+   "pages": [
+    "https://tourismportdouglas.com.au/port-douglas-fishing-charters-and-tours"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  },
+  {
+   "slug": "research-whitsunday-agency",
+   "pages": [
+    "https://sailing-whitsundays.com/tours/fishing-tours"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  },
+  {
+   "slug": "research-cooktown2",
+   "pages": [
+    "https://www.cooktownandcapeyork.com/tours/local-tours/gonefishing",
+    "https://www.cooktownandcapeyork.com/tours/top/capeyorkcustomsportfishin",
+    "https://www.cooktownandcapeyork.com/tours/top/cape-york-fishing",
+    "https://www.cooktownandcapeyork.com/tours/top/tropical-boating",
+    "https://www.cooktownandcapeyork.com/go/Weipa"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  },
+  {
+   "slug": "research-atdw-tsv",
+   "pages": [
+    "https://www.australia.com/en/atdw/product.6045f4108fc1e7796a9d63ac.html",
+    "https://www.australia.com/en/atdw/product.616f4a148b6c65fa3189dad9.html",
+    "https://www.australia.com/en/atdw/product.584e2799dbf9274d417e7d35.html",
+    "https://www.australia.com/en/atdw/product.682e55feb2fdf61558e1dc1e.html",
+    "https://www.australia.com/en/atdw/product.56b260b3aeeeaaf773cf3a2b.html"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  },
+  {
+   "slug": "fish-tales-charters-cairns",
+   "pages": [
+    "https://fishtales.com.au/",
+    "https://fishtales.com.au/cairns-reef-fishing/"
+   ],
+   "text": true,
+   "max": 20,
+   "follow": true
+  },
+  {
+   "slug": "out-n-about-sportfishing",
+   "pages": [
+    "https://www.outnaboutfishing.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "hook-up-charters",
+   "pages": [
+    "https://www.hookupcharters.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "akula-sport-fishing",
+   "pages": [
+    "https://www.akulasportfishing.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "norseman-reef-fishing",
+   "pages": [
+    "https://www.mvnorseman.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "far-north-sport-fishing",
+   "pages": [
+    "https://www.farnorthsportfishing.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "saltaire-charters",
+   "pages": [
+    "https://www.saltairecharters.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "east-coast-angling",
+   "pages": [
+    "https://www.eastcoastangling.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "sublime-sportfishing",
+   "pages": [
+    "https://www.sublimesportfishing.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "daintree-river-fishing",
+   "pages": [
+    "https://www.daintreefishing.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "ryan-moody-fishing",
+   "pages": [
+    "https://www.ryanmoodyfishing.com/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "ian-moody-sportfishing",
+   "pages": [
+    "https://www.ianmoodysportfishing.com.au/",
+    "https://www.ianmoodysportfishing.com/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "phoenix-fishing-charters",
+   "pages": [
+    "https://www.phoenixfishingcharters.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "airlie-beach-fishing-charters",
+   "pages": [
+    "https://www.airliebeachfishingcharters.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "topnotch-game-fishing",
+   "pages": [
+    "https://www.topnotchgamefishing.com/",
+    "https://www.topnotchgamefishing.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "cast-and-catch-fishing-charters",
+   "pages": [
+    "https://castandcatch.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "reefari-fishing-charters",
+   "pages": [
+    "https://www.reefari.com/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "mackay-water-adventures",
+   "pages": [
+    "https://www.mackaywateradventures.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "kerry-d-fishing-charters",
+   "pages": [
+    "https://kerrydfishing.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "carpentaria-barra-fishing",
+   "pages": [
+    "https://carpentariabarra.com.au/",
+    "https://carpentariabarra.com.au/fishing-packages"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "fnq-reef-adventures",
+   "pages": [
+    "https://www.fnqreefadventures.com.au/",
+    "https://fnqreefadventures.com/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "northern-conquest-charters",
+   "pages": [
+    "https://www.nccharters.com.au/",
+    "https://www.northernconquestcharters.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "magnetic-island-fishing-charters",
+   "pages": [
+    "https://www.magneticislandfishingcharters.com.au/",
+    "https://magneticislandfishingcharters.com/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "townsville-fishing-charters",
+   "pages": [
+    "https://www.townsvillefishingcharters.com.au/",
+    "https://townsvillefishingcharters.com/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  }
+ ]
+}
