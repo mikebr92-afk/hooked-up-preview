@@ -1,5 +1,5 @@
 {
-  "finished_at": "2026-10-29T19:31:00.622Z",
+  "finished_at": "2026-10-29T19:32:36.095Z",
   "summary": [
     {
       "slug": "research-nt-mary-tourism",
@@ -47,23 +47,34 @@
     },
     {
       "slug": "research-nt-mary-ops3",
-      "candidates": 0,
-      "pages": 5
+      "skipped": true
     },
     {
       "slug": "australian-sportfishing-charters",
-      "candidates": 0,
-      "pages": 2
+      "skipped": true
     },
     {
       "slug": "research-nt-gulf",
-      "candidates": 0,
-      "pages": 12
+      "skipped": true
     },
     {
       "slug": "research-nt-katherine3",
+      "skipped": true
+    },
+    {
+      "slug": "research-nt-katherine4",
       "candidates": 0,
       "pages": 4
+    },
+    {
+      "slug": "mcarthur-river-fishing-charters",
+      "candidates": 0,
+      "pages": 1
+    },
+    {
+      "slug": "wiyibi-fishing-wilderness-lodge",
+      "candidates": 4,
+      "pages": 2
     }
   ]
 }

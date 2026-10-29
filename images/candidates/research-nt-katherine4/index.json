@@ -1,0 +1,38 @@
+{
+  "slug": "research-nt-katherine4",
+  "request_hash": "68892917e937",
+  "collected_at": "2026-10-29T19:32:33.340Z",
+  "pages_fetched": [
+    "https://www.localsearch.com.au/find/fishing-trips-charters/katherine-nt-0850",
+    "https://northernterritory.com/us/en/tours/territory-barra-sportfishing",
+    "https://northernterritory.com/things-to-do/outdoor-activities/fishing/fishing-charters",
+    "https://northernterritory.com/tours/australian-sportfishing-charters"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.localsearch.com.au/find/fishing-trips-charters/katherine-nt-0850",
+      "status": 405,
+      "final_url": "https://www.localsearch.com.au/find/fishing-trips-charters/katherine-nt-0850",
+      "bytes": 2503
+    },
+    {
+      "page": "https://northernterritory.com/us/en/tours/territory-barra-sportfishing",
+      "status": 200,
+      "final_url": "https://northernterritory.com/us/en/tours/territory-barra-sportfishing",
+      "bytes": 523757
+    },
+    {
+      "page": "https://northernterritory.com/things-to-do/outdoor-activities/fishing/fishing-charters",
+      "status": 200,
+      "final_url": "https://northernterritory.com/things-to-do/outdoor-activities/fishing/fishing-charters",
+      "bytes": 609052
+    },
+    {
+      "page": "https://northernterritory.com/tours/australian-sportfishing-charters",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/australian-sportfishing-charters",
+      "bytes": 531264
+    }
+  ]
+}
