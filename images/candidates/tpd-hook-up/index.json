@@ -1,0 +1,95 @@
+{
+  "slug": "tpd-hook-up",
+  "request_hash": "766edceb7caa",
+  "collected_at": "2026-10-29T04:15:58.631Z",
+  "pages_fetched": [
+    "https://tourismportdouglas.com.au/hook-up-fishing-charters-port-douglas",
+    "https://www.hookupfishing.com.au/book-a-charter",
+    "https://www.hookupfishing.com.au/about-us"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1179,
+      "height": 799,
+      "original": "1179x799",
+      "source": "https://tourismportdouglas.com.au/fileadmin/user_upload/Businesses/H/Hook_Up.jpeg",
+      "page": "https://tourismportdouglas.com.au/hook-up-fishing-charters-port-douglas",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 1179,
+      "height": 868,
+      "original": "1179x868",
+      "source": "https://tourismportdouglas.com.au/fileadmin/user_upload/Businesses/H/Hook_Up_1.jpeg",
+      "page": "https://tourismportdouglas.com.au/hook-up-fishing-charters-port-douglas",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1179,
+      "height": 865,
+      "original": "1179x865",
+      "source": "https://tourismportdouglas.com.au/fileadmin/user_upload/Businesses/H/Hook_Up_2.jpeg",
+      "page": "https://tourismportdouglas.com.au/hook-up-fishing-charters-port-douglas",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1179,
+      "height": 915,
+      "original": "1179x915",
+      "source": "https://tourismportdouglas.com.au/fileadmin/user_upload/Businesses/H/Hook_Up_3.jpeg",
+      "page": "https://tourismportdouglas.com.au/hook-up-fishing-charters-port-douglas",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1179,
+      "height": 865,
+      "original": "1179x865",
+      "source": "https://tourismportdouglas.com.au/fileadmin/user_upload/Businesses/H/Hook_Up_4.jpeg",
+      "page": "https://tourismportdouglas.com.au/hook-up-fishing-charters-port-douglas",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1179,
+      "height": 943,
+      "original": "1179x943",
+      "source": "https://tourismportdouglas.com.au/fileadmin/user_upload/Businesses/H/Hook_Up_5.jpeg",
+      "page": "https://tourismportdouglas.com.au/hook-up-fishing-charters-port-douglas",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1280,
+      "height": 1174,
+      "original": "1280x1174",
+      "source": "https://tourismportdouglas.com.au/fileadmin/user_upload/Businesses/H/Hook_Up_6.jpeg",
+      "page": "https://tourismportdouglas.com.au/hook-up-fishing-charters-port-douglas",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://tourismportdouglas.com.au/hook-up-fishing-charters-port-douglas",
+      "status": 200,
+      "final_url": "https://tourismportdouglas.com.au/hook-up-fishing-charters-port-douglas",
+      "bytes": 101730
+    },
+    {
+      "page": "https://www.hookupfishing.com.au/book-a-charter",
+      "status": 404,
+      "final_url": "https://www.hookupfishing.com.au/book-a-charter",
+      "bytes": 2205
+    },
+    {
+      "page": "https://www.hookupfishing.com.au/about-us",
+      "status": 404,
+      "final_url": "https://www.hookupfishing.com.au/about-us",
+      "bytes": 2206
+    }
+  ]
+}

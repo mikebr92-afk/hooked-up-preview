@@ -1,0 +1,31 @@
+{
+  "slug": "research-missionbeach",
+  "request_hash": "57cf9b12e4e3",
+  "collected_at": "2026-10-29T04:16:12.133Z",
+  "pages_fetched": [
+    "https://www.missionbeachtourism.com/",
+    "https://www.missionbeachtourism.com/pdfs/mission_beach_charters.pdf",
+    "https://fishabout.com.au/?p=3364"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.missionbeachtourism.com/",
+      "status": 403,
+      "final_url": "https://www.missionbeachtourism.com/",
+      "bytes": 17106
+    },
+    {
+      "page": "https://www.missionbeachtourism.com/pdfs/mission_beach_charters.pdf",
+      "status": 404,
+      "final_url": "https://www.missionbeachtourism.com/pdfs/mission_beach_charters.pdf",
+      "bytes": 11816
+    },
+    {
+      "page": "https://fishabout.com.au/?p=3364",
+      "status": 202,
+      "final_url": "https://fishabout.com.au/?p=3364",
+      "bytes": 179
+    }
+  ]
+}

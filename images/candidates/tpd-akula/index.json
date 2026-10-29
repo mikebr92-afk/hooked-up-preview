@@ -1,0 +1,115 @@
+{
+  "slug": "tpd-akula",
+  "request_hash": "4b9f74f6e498",
+  "collected_at": "2026-10-29T04:15:41.840Z",
+  "pages_fetched": [
+    "https://tourismportdouglas.com.au/akula-sportfishing-port-douglas",
+    "https://akulasportfishing.com.au/book-now/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1600,
+      "height": 1066,
+      "original": "1600x1066",
+      "source": "https://tourismportdouglas.com.au/fileadmin/user_upload/Businesses/A/Akula_new_2.jpeg",
+      "page": "https://tourismportdouglas.com.au/akula-sportfishing-port-douglas",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 1024,
+      "height": 768,
+      "original": "1024x768",
+      "source": "https://tourismportdouglas.com.au/fileadmin/user_upload/Businesses/A/Akujla_new_3.jpeg",
+      "page": "https://tourismportdouglas.com.au/akula-sportfishing-port-douglas",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1600,
+      "height": 1066,
+      "original": "1600x1066",
+      "source": "https://tourismportdouglas.com.au/fileadmin/user_upload/Businesses/A/Akula_new_1.jpeg",
+      "page": "https://tourismportdouglas.com.au/akula-sportfishing-port-douglas",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 800,
+      "height": 600,
+      "original": "800x600",
+      "source": "https://tourismportdouglas.com.au/fileadmin/user_upload/Businesses/A/Akula_new_4.jpeg",
+      "page": "https://tourismportdouglas.com.au/akula-sportfishing-port-douglas",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1600,
+      "height": 823,
+      "original": "1600x823",
+      "source": "https://tourismportdouglas.com.au/fileadmin/user_upload/Businesses/A/Akula_Sportsfishing_Family_Experiences.jpg",
+      "page": "https://tourismportdouglas.com.au/akula-sportfishing-port-douglas",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1280,
+      "height": 960,
+      "original": "1280x960",
+      "source": "https://tourismportdouglas.com.au/fileadmin/user_upload/Businesses/A/Akula_Sportsfishing_angler-holding-a-fish.jpg",
+      "page": "https://tourismportdouglas.com.au/akula-sportfishing-port-douglas",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1100,
+      "height": 1250,
+      "original": "1100x1250",
+      "source": "https://tourismportdouglas.com.au/fileadmin/user_upload/Businesses/A/Akula_Sportsfishing__beach.jpg",
+      "page": "https://tourismportdouglas.com.au/akula-sportfishing-port-douglas",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1280,
+      "height": 960,
+      "original": "1280x960",
+      "source": "https://tourismportdouglas.com.au/fileadmin/user_upload/Businesses/A/Akula_Sportsfishing_group-of-anglers-showing-their-fish.jpg",
+      "page": "https://tourismportdouglas.com.au/akula-sportfishing-port-douglas",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 850,
+      "height": 567,
+      "original": "850x567",
+      "source": "https://tourismportdouglas.com.au/fileadmin/user_upload/Businesses/A/Akula_Sportsfishing_group.jpg",
+      "page": "https://tourismportdouglas.com.au/akula-sportfishing-port-douglas",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 960,
+      "height": 958,
+      "original": "960x958",
+      "source": "https://tourismportdouglas.com.au/fileadmin/user_upload/Businesses/A/Akula_Sportsfishing2.jpg",
+      "page": "https://tourismportdouglas.com.au/akula-sportfishing-port-douglas",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://tourismportdouglas.com.au/akula-sportfishing-port-douglas",
+      "status": 200,
+      "final_url": "https://tourismportdouglas.com.au/akula-sportfishing-port-douglas",
+      "bytes": 103507
+    },
+    {
+      "page": "https://akulasportfishing.com.au/book-now/",
+      "status": 200,
+      "final_url": "https://akulasportfishing.com.au/book-now/",
+      "bytes": 73696
+    }
+  ]
+}

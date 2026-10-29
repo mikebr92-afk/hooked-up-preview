@@ -1,0 +1,38 @@
+{
+  "slug": "research-whitsunday2",
+  "request_hash": "1775329035ac",
+  "collected_at": "2026-10-29T04:16:20.160Z",
+  "pages_fetched": [
+    "https://www.topnotchgamefishing.com.au/whitsundays-sailfish-fishing-charters/",
+    "https://www.topnotchgamefishing.com.au/whitsundays-black-marlin-charters/",
+    "https://www.tourismwhitsundays.com.au/blog/bowen-a-day-trippers-guide",
+    "https://www.visitburdekin.com.au/files/assets/tourism/v/1/plan-your-trip/brochures/burdekin-fishing-guide.pdf"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.topnotchgamefishing.com.au/whitsundays-sailfish-fishing-charters/",
+      "status": 200,
+      "final_url": "https://www.topnotchgamefishing.com.au/whitsundays-sailfish-fishing-charters/",
+      "bytes": 88468
+    },
+    {
+      "page": "https://www.topnotchgamefishing.com.au/whitsundays-black-marlin-charters/",
+      "status": 200,
+      "final_url": "https://www.topnotchgamefishing.com.au/whitsundays-black-marlin-charters/",
+      "bytes": 91697
+    },
+    {
+      "page": "https://www.tourismwhitsundays.com.au/blog/bowen-a-day-trippers-guide",
+      "status": 200,
+      "final_url": "https://www.tourismwhitsundays.com.au/blog/bowen-a-day-trippers-guide",
+      "bytes": 229333
+    },
+    {
+      "page": "https://www.visitburdekin.com.au/files/assets/tourism/v/1/plan-your-trip/brochures/burdekin-fishing-guide.pdf",
+      "status": 200,
+      "final_url": "https://www.visitburdekin.com.au/files/assets/tourism/v/1/plan-your-trip/brochures/burdekin-fishing-guide.pdf",
+      "bytes": 12725050
+    }
+  ]
+}

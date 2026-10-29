@@ -1,5 +1,5 @@
 {
-  "finished_at": "2026-10-29T04:06:31.704Z",
+  "finished_at": "2026-10-29T04:16:20.160Z",
   "summary": [
     {
       "slug": "research-mackay-region",
@@ -187,38 +187,61 @@
     },
     {
       "slug": "research-tropicbarra2",
-      "candidates": 0,
-      "pages": 5
+      "skipped": true
     },
     {
       "slug": "research-fnq2",
-      "candidates": 0,
-      "pages": 6
+      "skipped": true
     },
     {
       "slug": "big-fish-down-under",
-      "candidates": 16,
-      "pages": 12
+      "skipped": true
     },
     {
       "slug": "crackajack-sportfishing-adventures",
-      "candidates": 10,
-      "pages": 1
+      "skipped": true
     },
     {
       "slug": "gone-fishing-cooktown",
-      "candidates": 16,
-      "pages": 11
+      "skipped": true
     },
     {
       "slug": "cape-york-custom-sportfishing",
-      "candidates": 2,
-      "pages": 3
+      "skipped": true
     },
     {
       "slug": "fishs-fly-sportfishing-weipa",
-      "candidates": 16,
-      "pages": 8
+      "skipped": true
+    },
+    {
+      "slug": "tpd-akula",
+      "candidates": 10,
+      "pages": 2
+    },
+    {
+      "slug": "tpd-hook-up",
+      "candidates": 7,
+      "pages": 3
+    },
+    {
+      "slug": "tpd-daintree-river-fishing",
+      "candidates": 3,
+      "pages": 1
+    },
+    {
+      "slug": "research-mackay2",
+      "candidates": 0,
+      "pages": 7
+    },
+    {
+      "slug": "research-missionbeach",
+      "candidates": 0,
+      "pages": 3
+    },
+    {
+      "slug": "research-whitsunday2",
+      "candidates": 0,
+      "pages": 4
     }
   ]
 }

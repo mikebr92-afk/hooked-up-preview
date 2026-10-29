@@ -1,0 +1,45 @@
+{
+  "slug": "tpd-daintree-river-fishing",
+  "request_hash": "460200fd0d2c",
+  "collected_at": "2026-10-29T04:16:05.277Z",
+  "pages_fetched": [
+    "https://tourismportdouglas.com.au/daintree-river-fishing-with-david-patterson"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 910,
+      "height": 510,
+      "original": "910x510",
+      "source": "https://tourismportdouglas.com.au/fileadmin/user_upload/Businesses/D/DaintreeRiverFishing-Fish.jpeg",
+      "page": "https://tourismportdouglas.com.au/daintree-river-fishing-with-david-patterson",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 910,
+      "height": 682,
+      "original": "910x682",
+      "source": "https://tourismportdouglas.com.au/fileadmin/user_upload/Businesses/D/DaintreeRiverFishing-Boat.jpeg",
+      "page": "https://tourismportdouglas.com.au/daintree-river-fishing-with-david-patterson",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 910,
+      "height": 510,
+      "original": "910x510",
+      "source": "https://tourismportdouglas.com.au/fileadmin/user_upload/Businesses/D/DaintreeRiverFishing-Fishing.jpeg",
+      "page": "https://tourismportdouglas.com.au/daintree-river-fishing-with-david-patterson",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://tourismportdouglas.com.au/daintree-river-fishing-with-david-patterson",
+      "status": 200,
+      "final_url": "https://tourismportdouglas.com.au/daintree-river-fishing-with-david-patterson",
+      "bytes": 98217
+    }
+  ]
+}

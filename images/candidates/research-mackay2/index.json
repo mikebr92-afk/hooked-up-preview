@@ -1,0 +1,59 @@
+{
+  "slug": "research-mackay2",
+  "request_hash": "786add675a7b",
+  "collected_at": "2026-10-29T04:16:10.667Z",
+  "pages_fetched": [
+    "https://www.australias.guide/qld/attraction-tour/mackay/eimeo/inshore-fishing-mackay/",
+    "https://playsport.com/mackayflysportfishing_ag_bdeb91e5",
+    "https://playsport.com/mackayflysportfishing_ag_bdeb91e5/about",
+    "https://www.atdw.com.au/marketplace/697fed4798b38d5008e90aeb",
+    "https://www.hookedonmackay.com/offshore",
+    "https://www.hookedonmackay.com/inshore",
+    "https://www.hookedonmackay.com/seasonal-calendar"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.australias.guide/qld/attraction-tour/mackay/eimeo/inshore-fishing-mackay/",
+      "status": 200,
+      "final_url": "https://australiasguide.com/",
+      "bytes": 146365
+    },
+    {
+      "page": "https://playsport.com/mackayflysportfishing_ag_bdeb91e5",
+      "status": 200,
+      "final_url": "https://playsport.com/mackayflysportfishing_ag_bdeb91e5",
+      "bytes": 281285
+    },
+    {
+      "page": "https://playsport.com/mackayflysportfishing_ag_bdeb91e5/about",
+      "status": 200,
+      "final_url": "https://playsport.com/mackayflysportfishing_ag_bdeb91e5/about",
+      "bytes": 250679
+    },
+    {
+      "page": "https://www.atdw.com.au/marketplace/697fed4798b38d5008e90aeb",
+      "status": 200,
+      "final_url": "https://www.atdw.com.au/marketplace/697fed4798b38d5008e90aeb",
+      "bytes": 235249
+    },
+    {
+      "page": "https://www.hookedonmackay.com/offshore",
+      "status": 200,
+      "final_url": "https://www.hookedonmackay.com/offshore",
+      "bytes": 140358
+    },
+    {
+      "page": "https://www.hookedonmackay.com/inshore",
+      "status": 200,
+      "final_url": "https://www.hookedonmackay.com/inshore",
+      "bytes": 140537
+    },
+    {
+      "page": "https://www.hookedonmackay.com/seasonal-calendar",
+      "status": 200,
+      "final_url": "https://www.hookedonmackay.com/seasonal-calendar",
+      "bytes": 128256
+    }
+  ]
+}
