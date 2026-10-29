@@ -1,16 +1,16 @@
 {
   "slug": "top-end-sport-fishing-darwin",
-  "request_hash": "e81ae8ea293b",
-  "collected_at": "2026-10-29T03:10:21.273Z",
+  "request_hash": "fb671a984420",
+  "collected_at": "2026-10-29T03:12:04.608Z",
   "pages_fetched": [
-    "https://northernterritory.com/tours/top-end-sportfishing",
-    "https://www.visittopend.com.au/tours/top-end-sportfishing",
-    "https://www.topendsportfishing.net.au/",
-    "https://www.topendsportfishingcharters.com.au/",
-    "https://www.facebook.com/topendsportfishing/",
-    "https://www.tomscatch.com/fishing-in-australia/top-end-sportfishing-621",
+    "https://topendsportfishing.net.au/",
+    "http://topendsportfishing.net.au/",
+    "http://www.topendsportfishing.net.au/",
     "https://darwinlocalista.com.au/listing/top-end-sportfishing",
-    "https://darwinlocalista.com.au/search?place=northern+territory%2C+au&category=tours&qid=9nv4gp"
+    "https://darwinlocalista.com.au/search?place=northern+territory%2C+au&category=tours&qid=9nv4gp",
+    "https://darwinlocalista.com.au/search?place=greater+darwin%2C+nt%2C+au&category=tours&qid=e0932o",
+    "https://darwinlocalista.com.au/search?place=darwin%2C+nt%2C+au&category=tours&qid=3xgtmf",
+    "https://darwinlocalista.com.au/search?place=darwin+city%2C+nt%2C+au&category=tours&qid=zf9sq8"
   ],
   "candidates": [
     {
@@ -160,33 +160,15 @@
   ],
   "log": [
     {
-      "page": "https://northernterritory.com/tours/top-end-sportfishing",
-      "status": 404,
-      "final_url": "https://northernterritory.com/tours/top-end-sportfishing",
-      "bytes": 517251
-    },
-    {
-      "page": "https://www.visittopend.com.au/tours/top-end-sportfishing",
-      "status": 404,
-      "final_url": "https://www.visittopend.com.au/tours/top-end-sportfishing",
-      "bytes": 48134
-    },
-    {
-      "page": "https://www.topendsportfishing.net.au/",
+      "page": "https://topendsportfishing.net.au/",
       "error": "fetch failed"
     },
     {
-      "page": "https://www.topendsportfishingcharters.com.au/",
+      "page": "http://topendsportfishing.net.au/",
       "error": "fetch failed"
     },
     {
-      "page": "https://www.facebook.com/topendsportfishing/",
-      "status": 400,
-      "final_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Ftopendsportfishing%2F",
-      "bytes": 1542
-    },
-    {
-      "page": "https://www.tomscatch.com/fishing-in-australia/top-end-sportfishing-621",
+      "page": "http://www.topendsportfishing.net.au/",
       "error": "fetch failed"
     },
     {
@@ -200,6 +182,24 @@
       "status": 200,
       "final_url": "https://darwinlocalista.com.au/search?place=northern+territory%2C+au&category=tours&qid=9nv4gp",
       "bytes": 73366
+    },
+    {
+      "page": "https://darwinlocalista.com.au/search?place=greater+darwin%2C+nt%2C+au&category=tours&qid=e0932o",
+      "status": 200,
+      "final_url": "https://darwinlocalista.com.au/search?place=greater+darwin%2C+nt%2C+au&category=tours&qid=e0932o",
+      "bytes": 84048
+    },
+    {
+      "page": "https://darwinlocalista.com.au/search?place=darwin%2C+nt%2C+au&category=tours&qid=3xgtmf",
+      "status": 200,
+      "final_url": "https://darwinlocalista.com.au/search?place=darwin%2C+nt%2C+au&category=tours&qid=3xgtmf",
+      "bytes": 96682
+    },
+    {
+      "page": "https://darwinlocalista.com.au/search?place=darwin+city%2C+nt%2C+au&category=tours&qid=zf9sq8",
+      "status": 200,
+      "final_url": "https://darwinlocalista.com.au/search?place=darwin+city%2C+nt%2C+au&category=tours&qid=zf9sq8",
+      "bytes": 91302
     },
     {
       "dup": "https://darwinlocalista.com.au/image/listing/15/tours/628944_lrg.jpg"
