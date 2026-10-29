@@ -1,0 +1,17 @@
+{
+  "slug": "research-bungie",
+  "request_hash": "977f992ea7ec",
+  "collected_at": "2026-10-29T19:32:38.505Z",
+  "pages_fetched": [
+    "http://www.bungiehelicopters.com.au/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "http://www.bungiehelicopters.com.au/",
+      "status": 500,
+      "final_url": "https://www.bungiehelicopters.com.au/",
+      "bytes": 2431
+    }
+  ]
+}

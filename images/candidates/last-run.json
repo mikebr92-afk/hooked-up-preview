@@ -1,5 +1,5 @@
 {
-  "finished_at": "2026-10-29T19:28:27.528Z",
+  "finished_at": "2026-10-29T19:32:38.505Z",
   "summary": [
     {
       "slug": "research-nq-bowen",
@@ -27,7 +27,8 @@
     },
     {
       "slug": "cooktown-reef-charters",
-      "skipped": true
+      "candidates": 0,
+      "pages": 2
     },
     {
       "slug": "ian-moody-sportfishing-charters",
@@ -35,41 +36,69 @@
     },
     {
       "slug": "research-nq-bowen2",
-      "candidates": 0,
-      "pages": 6
+      "skipped": true
     },
     {
       "slug": "research-nq-cooktown2",
+      "skipped": true
+    },
+    {
+      "slug": "research-nq-rules",
+      "skipped": true
+    },
+    {
+      "slug": "hooked-up-fishing-adventures",
+      "skipped": true
+    },
+    {
+      "slug": "kurrimine-boat-hire-fishing-charters",
+      "skipped": true
+    },
+    {
+      "slug": "fishingearth",
+      "skipped": true
+    },
+    {
+      "slug": "hinchinbrooks-fullon-fishn-charters",
+      "skipped": true
+    },
+    {
+      "slug": "cooktown-reef-charters",
+      "candidates": 0,
+      "pages": 1
+    },
+    {
+      "slug": "research-nq-facts",
       "candidates": 0,
       "pages": 8
     },
     {
-      "slug": "research-nq-rules",
+      "slug": "research-fullonfishn2",
       "candidates": 0,
-      "pages": 4
+      "pages": 3
     },
     {
-      "slug": "hooked-up-fishing-adventures",
+      "slug": "research-hinch-eco",
       "candidates": 0,
       "pages": 2
     },
     {
-      "slug": "kurrimine-boat-hire-fishing-charters",
-      "candidates": 2,
+      "slug": "research-southpacific2",
+      "candidates": 0,
       "pages": 2
     },
     {
-      "slug": "fishingearth",
-      "candidates": 12,
-      "pages": 11
+      "slug": "cooktown-barra-charters",
+      "candidates": 0,
+      "pages": 1
     },
     {
-      "slug": "hinchinbrooks-fullon-fishn-charters",
-      "candidates": 7,
-      "pages": 4
+      "slug": "cooktown-bluewater-charters",
+      "candidates": 0,
+      "pages": 1
     },
     {
-      "slug": "cooktown-reef-charters",
+      "slug": "research-bungie",
       "candidates": 0,
       "pages": 1
     }

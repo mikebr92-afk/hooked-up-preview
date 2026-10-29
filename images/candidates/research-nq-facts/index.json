@@ -1,0 +1,64 @@
+{
+  "slug": "research-nq-facts",
+  "request_hash": "3c31e31e4df8",
+  "collected_at": "2026-10-29T19:32:28.236Z",
+  "pages_fetched": [
+    "https://www.daf.qld.gov.au/business-priorities/fisheries/closures/tidal/seasons",
+    "https://qld.gov.au/environment/plants-animals/animals/living-with/crocodiles/becrocwise",
+    "https://www.gbrmpa.gov.au/access/zoning/interpreting-zones",
+    "https://tmr.qld.gov.au/projects/clump-point-mission-beach-boating-infrastructure-project",
+    "https://www.cassowarycoast.qld.gov.au/Waste-Water-and-Roads/Maintenance-Schedules/Boat-Ramps",
+    "https://fishandboat.com.au/our-hinchinbrook-adventure-part-1-by-john-boon/",
+    "https://www.beachsafe.org.au/beach/qld/cassowary-coast/mission-beach/clump-point",
+    "https://www.cooktownandcapeyork.com/travel"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.daf.qld.gov.au/business-priorities/fisheries/closures/tidal/seasons",
+      "status": 403,
+      "final_url": "https://www.daf.qld.gov.au/business-priorities/fisheries/closures/tidal/seasons",
+      "bytes": 5980
+    },
+    {
+      "page": "https://qld.gov.au/environment/plants-animals/animals/living-with/crocodiles/becrocwise",
+      "status": 200,
+      "final_url": "https://www.qld.gov.au/environment/plants-animals/animals/living-with/crocodiles/becrocwise",
+      "bytes": 189038
+    },
+    {
+      "page": "https://www.gbrmpa.gov.au/access/zoning/interpreting-zones",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "page": "https://tmr.qld.gov.au/projects/clump-point-mission-beach-boating-infrastructure-project",
+      "status": 403,
+      "final_url": "https://www.tmr.qld.gov.au/projects/clump-point-mission-beach-boating-infrastructure-project",
+      "bytes": 6041
+    },
+    {
+      "page": "https://www.cassowarycoast.qld.gov.au/Waste-Water-and-Roads/Maintenance-Schedules/Boat-Ramps",
+      "status": 403,
+      "final_url": "https://www.cassowarycoast.qld.gov.au/Waste-Water-and-Roads/Maintenance-Schedules/Boat-Ramps",
+      "bytes": 473
+    },
+    {
+      "page": "https://fishandboat.com.au/our-hinchinbrook-adventure-part-1-by-john-boon/",
+      "status": 200,
+      "final_url": "https://fishandboat.com.au/our-hinchinbrook-adventure-part-1-by-john-boon/",
+      "bytes": 101652
+    },
+    {
+      "page": "https://www.beachsafe.org.au/beach/qld/cassowary-coast/mission-beach/clump-point",
+      "status": 200,
+      "final_url": "https://www.beachsafe.org.au/beach/qld/cassowary-coast/mission-beach/clump-point",
+      "bytes": 6349
+    },
+    {
+      "page": "https://www.cooktownandcapeyork.com/travel",
+      "status": 200,
+      "final_url": "https://www.cooktownandcapeyork.com/travel",
+      "bytes": 60957
+    }
+  ]
+}

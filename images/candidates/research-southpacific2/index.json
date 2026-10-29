@@ -1,0 +1,24 @@
+{
+  "slug": "research-southpacific2",
+  "request_hash": "7ff5d5ce634e",
+  "collected_at": "2026-10-29T19:32:36.889Z",
+  "pages_fetched": [
+    "https://coastwatch.com.au/directory-services/whitsundays-lizard-island-fishing-charters/",
+    "https://coastwatch.com.au/coastwatch-business-directory/south-pacific-ii-charters/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://coastwatch.com.au/directory-services/whitsundays-lizard-island-fishing-charters/",
+      "status": 200,
+      "final_url": "https://coastwatch.com.au/directory-services/whitsundays-lizard-island-fishing-charters/",
+      "bytes": 194854
+    },
+    {
+      "page": "https://coastwatch.com.au/coastwatch-business-directory/south-pacific-ii-charters/",
+      "status": 200,
+      "final_url": "https://coastwatch.com.au/coastwatch-business-directory/south-pacific-ii-charters/",
+      "bytes": 107112
+    }
+  ]
+}
