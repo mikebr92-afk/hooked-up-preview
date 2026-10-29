@@ -1,0 +1,44 @@
+{
+ "requests": [
+  {
+   "slug": "research-dpi-register",
+   "pages": [
+    "https://r.jina.ai/https://www.dpi.nsw.gov.au/__data/assets/pdf_file/0006/1446135/Public-register-of-charter-fishing-business.pdf"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  },
+  {
+   "slug": "research-dpi-register-raw",
+   "pages": [
+    "https://www.dpi.nsw.gov.au/fishing/recreational/charter/go-charter-fishing-in-nsw"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "research-sydney2",
+   "pages": [
+    "https://fishingstation.com.au/pages/charter-operators",
+    "https://events.visitsutherlandshire.com.au/see-and-do/fishing?view=list",
+    "https://www.visitsutherlandshire.com.au/see-and-do/fishing"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  },
+  {
+   "slug": "research-portstephens2",
+   "pages": [
+    "https://www.portstephens.org.au/see-and-do/the-water/diving-and-fishing/fishing-in-port-stephens",
+    "https://www.portstephens.org.au/see-and-do/the-water/diving-and-fishing",
+    "https://blog.fcswc.org.au/blog/our-guide-to-fishing-in-port-stephens"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  }
+ ]
+}
