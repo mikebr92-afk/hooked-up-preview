@@ -1,0 +1,17 @@
+{
+  "slug": "research-va1770",
+  "request_hash": "e7c9a58ed42d",
+  "collected_at": "2026-10-29T19:21:49.202Z",
+  "pages_fetched": [
+    "https://visitagnes1770.com.au/fishing-agnes-water-1770"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://visitagnes1770.com.au/fishing-agnes-water-1770",
+      "status": 200,
+      "final_url": "https://www.visitagnes1770.com.au/fishing-agnes-water-1770/",
+      "bytes": 392412
+    }
+  ]
+}

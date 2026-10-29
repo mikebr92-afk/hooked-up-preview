@@ -1,0 +1,38 @@
+{
+  "slug": "research-qica-1770",
+  "request_hash": "36b997c6ca65",
+  "collected_at": "2026-10-29T19:21:59.025Z",
+  "pages_fetched": [
+    "https://qica.com.au/tours/town-of-1770-agnes-water/hooked-on-1770-adventure-tours",
+    "https://qica.com.au/tours/town-of-1770-agnes-water/fishing-offshore-1770",
+    "https://qica.com.au/tours/gladstone/gladstone-fishing-charters-and-eco-tours",
+    "https://qica.com.au/town-of-1770-agnes-water/mv-james-cook"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://qica.com.au/tours/town-of-1770-agnes-water/hooked-on-1770-adventure-tours",
+      "status": 200,
+      "final_url": "https://www.qica.com.au/tours/town-of-1770-agnes-water/hooked-on-1770-adventure-tours",
+      "bytes": 35965
+    },
+    {
+      "page": "https://qica.com.au/tours/town-of-1770-agnes-water/fishing-offshore-1770",
+      "status": 200,
+      "final_url": "https://www.qica.com.au/tours/town-of-1770-agnes-water/fishing-offshore-1770",
+      "bytes": 37739
+    },
+    {
+      "page": "https://qica.com.au/tours/gladstone/gladstone-fishing-charters-and-eco-tours",
+      "status": 200,
+      "final_url": "https://www.qica.com.au/tours/gladstone/gladstone-fishing-charters-and-eco-tours",
+      "bytes": 36523
+    },
+    {
+      "page": "https://qica.com.au/town-of-1770-agnes-water/mv-james-cook",
+      "status": 200,
+      "final_url": "https://www.qica.com.au/town-of-1770-agnes-water/mv-james-cook",
+      "bytes": 37300
+    }
+  ]
+}

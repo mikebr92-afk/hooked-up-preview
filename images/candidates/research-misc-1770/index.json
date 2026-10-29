@@ -1,0 +1,43 @@
+{
+  "slug": "research-misc-1770",
+  "request_hash": "e1811b04776c",
+  "collected_at": "2026-10-29T19:22:12.383Z",
+  "pages_fetched": [
+    "https://australiatravelquestions.com/?p=34551",
+    "https://www.barrierreefaustralia.com/things-to-do/tours/1770-charter-boat-snorkelling-fishing-10-hours.895/",
+    "https://fishandboat.com.au/1770-a-beginners-guide-by-gyula-vari",
+    "https://fishandboat.com.au/?p=1419",
+    "https://theguide.tab.travel/JXSYR/1770-creek2reef-charters"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://australiatravelquestions.com/?p=34551",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://www.barrierreefaustralia.com/things-to-do/tours/1770-charter-boat-snorkelling-fishing-10-hours.895/",
+      "status": 200,
+      "final_url": "https://www.barrierreefaustralia.com/things-to-do/great-barrier-reef-tours.1/great-barrier-reef-snorkelling.7/",
+      "bytes": 925394
+    },
+    {
+      "page": "https://fishandboat.com.au/1770-a-beginners-guide-by-gyula-vari",
+      "status": 200,
+      "final_url": "https://fishandboat.com.au/1770-a-beginners-guide-by-gyula-vari/",
+      "bytes": 100769
+    },
+    {
+      "page": "https://fishandboat.com.au/?p=1419",
+      "status": 200,
+      "final_url": "https://fishandboat.com.au/the-capricorn-bunker-group-peter-kaye/",
+      "bytes": 98723
+    },
+    {
+      "page": "https://theguide.tab.travel/JXSYR/1770-creek2reef-charters",
+      "status": 200,
+      "final_url": "https://theguide.tab.travel/JXSYR/1770-creek2reef-charters/",
+      "bytes": 23555
+    }
+  ]
+}

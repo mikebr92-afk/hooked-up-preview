@@ -1,0 +1,24 @@
+{
+  "slug": "research-gr-gladstone",
+  "request_hash": "0161bb09c915",
+  "collected_at": "2026-10-29T19:21:45.667Z",
+  "pages_fetched": [
+    "https://www.gladstoneregion.info/fishing/gladstone/",
+    "https://www.gladstoneregion.info/fishing/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.gladstoneregion.info/fishing/gladstone/",
+      "status": 403,
+      "final_url": "https://www.gladstoneregion.info/fishing/gladstone/",
+      "bytes": 5842
+    },
+    {
+      "page": "https://www.gladstoneregion.info/fishing/",
+      "status": 403,
+      "final_url": "https://www.gladstoneregion.info/fishing/",
+      "bytes": 5833
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "research-gr-1770",
+  "request_hash": "bddf9fd819ea",
+  "collected_at": "2026-10-29T19:21:45.280Z",
+  "pages_fetched": [
+    "https://www.gladstoneregion.info/fishing/1770-agnes-water/",
+    "https://www.gladstoneregion.info/agnes-fishing/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.gladstoneregion.info/fishing/1770-agnes-water/",
+      "status": 403,
+      "final_url": "https://www.gladstoneregion.info/fishing/1770-agnes-water/",
+      "bytes": 5884
+    },
+    {
+      "page": "https://www.gladstoneregion.info/agnes-fishing/",
+      "status": 403,
+      "final_url": "https://www.gladstoneregion.info/agnes-fishing/",
+      "bytes": 5830
+    }
+  ]
+}
