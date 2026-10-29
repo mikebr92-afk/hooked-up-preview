@@ -1,0 +1,94 @@
+{
+  "slug": "seo-aquilla-fishing-charters-wollongong",
+  "request_hash": "2c92c844586f",
+  "collected_at": "2026-10-29T19:55:00.350Z",
+  "pages_fetched": [
+    "https://www.aquillacharters.com.au/",
+    "https://www.aquillacharters.com.au/per-person-charters",
+    "https://www.aquillacharters.com.au/whole-boat-charters",
+    "https://www.aquillacharters.com.au/our-vessel",
+    "https://www.aquillacharters.com.au/welcome-aboard",
+    "https://www.aquillacharters.com.au/faq",
+    "https://www.visitwollongong.com.au/operators/transport-and-tours/tour/aquilla-fishing-charters/",
+    "https://www.aquillacharters.com.au/search",
+    "https://www.aquillacharters.com.au/private-cruises",
+    "https://www.aquillacharters.com.au/gift-vouchers",
+    "https://www.aquillacharters.com.au/bare-boat",
+    "https://www.visitwollongong.com.au/corporate-resources/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.aquillacharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.aquillacharters.com.au/",
+      "bytes": 219627
+    },
+    {
+      "page": "https://www.aquillacharters.com.au/per-person-charters",
+      "status": 200,
+      "final_url": "https://www.aquillacharters.com.au/per-person-charters",
+      "bytes": 145247
+    },
+    {
+      "page": "https://www.aquillacharters.com.au/whole-boat-charters",
+      "status": 200,
+      "final_url": "https://www.aquillacharters.com.au/whole-boat-charters",
+      "bytes": 172748
+    },
+    {
+      "page": "https://www.aquillacharters.com.au/our-vessel",
+      "status": 200,
+      "final_url": "https://www.aquillacharters.com.au/our-vessel",
+      "bytes": 156245
+    },
+    {
+      "page": "https://www.aquillacharters.com.au/welcome-aboard",
+      "status": 200,
+      "final_url": "https://www.aquillacharters.com.au/welcome-aboard",
+      "bytes": 139993
+    },
+    {
+      "page": "https://www.aquillacharters.com.au/faq",
+      "status": 200,
+      "final_url": "https://www.aquillacharters.com.au/faq",
+      "bytes": 137404
+    },
+    {
+      "page": "https://www.visitwollongong.com.au/operators/transport-and-tours/tour/aquilla-fishing-charters/",
+      "status": 200,
+      "final_url": "https://www.visitwollongong.com.au/operators/transport-and-tours/tour/aquilla-fishing-charters/",
+      "bytes": 239478
+    },
+    {
+      "page": "https://www.aquillacharters.com.au/search",
+      "status": 200,
+      "final_url": "https://www.aquillacharters.com.au/search",
+      "bytes": 102863
+    },
+    {
+      "page": "https://www.aquillacharters.com.au/private-cruises",
+      "status": 200,
+      "final_url": "https://www.aquillacharters.com.au/private-cruises",
+      "bytes": 166992
+    },
+    {
+      "page": "https://www.aquillacharters.com.au/gift-vouchers",
+      "status": 200,
+      "final_url": "https://www.aquillacharters.com.au/gift-vouchers",
+      "bytes": 113424
+    },
+    {
+      "page": "https://www.aquillacharters.com.au/bare-boat",
+      "status": 200,
+      "final_url": "https://www.aquillacharters.com.au/bare-boat",
+      "bytes": 142118
+    },
+    {
+      "page": "https://www.visitwollongong.com.au/corporate-resources/",
+      "status": 200,
+      "final_url": "https://www.visitwollongong.com.au/corporate-resources/",
+      "bytes": 233971
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "seo-escape-fishing-charters-greenwell-point",
+  "request_hash": "3cc049e82ae9",
+  "collected_at": "2026-10-29T19:52:58.221Z",
+  "pages_fetched": [
+    "https://www.escapefishingcharters.com.au/",
+    "https://www.escapefishingcharters.com.au/about.html",
+    "https://www.escapefishingcharters.com.au/services.html",
+    "https://www.escapefishingcharters.com.au/index.html",
+    "https://www.escapefishingcharters.com.au/gallery.html",
+    "https://www.escapefishingcharters.com.au/contact.html"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.escapefishingcharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.escapefishingcharters.com.au/",
+      "bytes": 10737
+    },
+    {
+      "page": "https://www.escapefishingcharters.com.au/about.html",
+      "status": 200,
+      "final_url": "https://www.escapefishingcharters.com.au/about.html",
+      "bytes": 8720
+    },
+    {
+      "page": "https://www.escapefishingcharters.com.au/services.html",
+      "status": 200,
+      "final_url": "https://www.escapefishingcharters.com.au/services.html",
+      "bytes": 8002
+    },
+    {
+      "page": "https://www.escapefishingcharters.com.au/index.html",
+      "status": 200,
+      "final_url": "https://www.escapefishingcharters.com.au/index.html",
+      "bytes": 10737
+    },
+    {
+      "page": "https://www.escapefishingcharters.com.au/gallery.html",
+      "status": 200,
+      "final_url": "https://www.escapefishingcharters.com.au/gallery.html",
+      "bytes": 19589
+    },
+    {
+      "page": "https://www.escapefishingcharters.com.au/contact.html",
+      "status": 200,
+      "final_url": "https://www.escapefishingcharters.com.au/contact.html",
+      "bytes": 13722
+    }
+  ]
+}

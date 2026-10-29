@@ -1,0 +1,94 @@
+{
+  "slug": "seo-narooma-charters",
+  "request_hash": "55f821a65897",
+  "collected_at": "2026-10-29T19:53:11.955Z",
+  "pages_fetched": [
+    "https://naroomacharters.com.au/",
+    "https://naroomacharters.com.au/narooma-fishing-charters",
+    "https://naroomacharters.com.au/about-us.html",
+    "https://www.visitnsw.com/things-to-do/tours/narooma-charters-and-barunguba-montague-island-tours",
+    "https://naroomacharters.com.au/contact-us",
+    "https://naroomacharters.com.au/index.html",
+    "https://naroomacharters.com.au/narooma-whale-watching",
+    "https://naroomacharters.com.au/montague-island-tours",
+    "https://naroomacharters.com.au/snorkelling-with-the-seals",
+    "https://naroomacharters.com.au/dive-charter-tours",
+    "https://naroomacharters.com.au/author/naroomacharters/page/1/index.html",
+    "https://naroomacharters.com.au/homepage/index.html"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://naroomacharters.com.au/",
+      "status": 200,
+      "final_url": "https://naroomacharters.com.au/",
+      "bytes": 173469
+    },
+    {
+      "page": "https://naroomacharters.com.au/narooma-fishing-charters",
+      "status": 200,
+      "final_url": "https://naroomacharters.com.au/narooma-fishing-charters",
+      "bytes": 186253
+    },
+    {
+      "page": "https://naroomacharters.com.au/about-us.html",
+      "status": 200,
+      "final_url": "https://naroomacharters.com.au/about-us.html",
+      "bytes": 131479
+    },
+    {
+      "page": "https://www.visitnsw.com/things-to-do/tours/narooma-charters-and-barunguba-montague-island-tours",
+      "status": 200,
+      "final_url": "https://www.visitnsw.com/things-to-do/tours/narooma-charters-and-barunguba-montague-island-tours",
+      "bytes": 286633
+    },
+    {
+      "page": "https://naroomacharters.com.au/contact-us",
+      "status": 200,
+      "final_url": "https://naroomacharters.com.au/contact-us",
+      "bytes": 107049
+    },
+    {
+      "page": "https://naroomacharters.com.au/index.html",
+      "status": 200,
+      "final_url": "https://naroomacharters.com.au/index.html",
+      "bytes": 173469
+    },
+    {
+      "page": "https://naroomacharters.com.au/narooma-whale-watching",
+      "status": 200,
+      "final_url": "https://naroomacharters.com.au/narooma-whale-watching",
+      "bytes": 179956
+    },
+    {
+      "page": "https://naroomacharters.com.au/montague-island-tours",
+      "status": 200,
+      "final_url": "https://naroomacharters.com.au/montague-island-tours",
+      "bytes": 219457
+    },
+    {
+      "page": "https://naroomacharters.com.au/snorkelling-with-the-seals",
+      "status": 200,
+      "final_url": "https://naroomacharters.com.au/snorkelling-with-the-seals",
+      "bytes": 141728
+    },
+    {
+      "page": "https://naroomacharters.com.au/dive-charter-tours",
+      "status": 200,
+      "final_url": "https://naroomacharters.com.au/dive-charter-tours",
+      "bytes": 138748
+    },
+    {
+      "page": "https://naroomacharters.com.au/author/naroomacharters/page/1/index.html",
+      "status": 200,
+      "final_url": "https://naroomacharters.com.au/author/naroomacharters/page/1/index.html",
+      "bytes": 141593
+    },
+    {
+      "page": "https://naroomacharters.com.au/homepage/index.html",
+      "status": 404,
+      "final_url": "https://naroomacharters.com.au/homepage/index.html",
+      "bytes": 3278
+    }
+  ]
+}

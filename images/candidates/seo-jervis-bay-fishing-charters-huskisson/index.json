@@ -1,0 +1,17 @@
+{
+  "slug": "seo-jervis-bay-fishing-charters-huskisson",
+  "request_hash": "1d1a3e440fcf",
+  "collected_at": "2026-10-29T19:53:01.065Z",
+  "pages_fetched": [
+    "https://jbfishingcharters.com.au/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://jbfishingcharters.com.au/",
+      "status": 200,
+      "final_url": "https://jbfishingcharters.com.au/",
+      "bytes": 120215
+    }
+  ]
+}

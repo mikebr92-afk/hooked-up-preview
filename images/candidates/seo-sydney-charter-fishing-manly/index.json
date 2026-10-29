@@ -1,0 +1,94 @@
+{
+  "slug": "seo-sydney-charter-fishing-manly",
+  "request_hash": "1b3d43949c01",
+  "collected_at": "2026-10-29T19:54:20.533Z",
+  "pages_fetched": [
+    "https://sydneycharterfishing.com.au/",
+    "https://sydneycharterfishing.com.au/about/",
+    "https://sydneycharterfishing.com.au/boat-info/",
+    "https://sydneycharterfishing.com.au/charters/reef-fishing-trips/",
+    "https://sydneycharterfishing.com.au/charters/sports-fishing-trips/",
+    "https://sydneycharterfishing.com.au/charters",
+    "https://sydneycharterfishing.com.au/about",
+    "https://sydneycharterfishing.com.au/gallery",
+    "https://sydneycharterfishing.com.au/boat-info",
+    "https://sydneycharterfishing.com.au/pickup-locations",
+    "https://sydneycharterfishing.com.au/contact-us",
+    "https://sydneycharterfishing.com.au/author/scfenochadmin/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://sydneycharterfishing.com.au/",
+      "status": 200,
+      "final_url": "https://sydneycharterfishing.com.au/",
+      "bytes": 203744
+    },
+    {
+      "page": "https://sydneycharterfishing.com.au/about/",
+      "status": 200,
+      "final_url": "https://sydneycharterfishing.com.au/about/",
+      "bytes": 123781
+    },
+    {
+      "page": "https://sydneycharterfishing.com.au/boat-info/",
+      "status": 200,
+      "final_url": "https://sydneycharterfishing.com.au/boat-info/",
+      "bytes": 122023
+    },
+    {
+      "page": "https://sydneycharterfishing.com.au/charters/reef-fishing-trips/",
+      "status": 200,
+      "final_url": "https://sydneycharterfishing.com.au/charters/reef-fishing-trips/",
+      "bytes": 110228
+    },
+    {
+      "page": "https://sydneycharterfishing.com.au/charters/sports-fishing-trips/",
+      "status": 200,
+      "final_url": "https://sydneycharterfishing.com.au/charters/sports-fishing-trips/",
+      "bytes": 105554
+    },
+    {
+      "page": "https://sydneycharterfishing.com.au/charters",
+      "status": 200,
+      "final_url": "https://sydneycharterfishing.com.au/charters/",
+      "bytes": 143115
+    },
+    {
+      "page": "https://sydneycharterfishing.com.au/about",
+      "status": 200,
+      "final_url": "https://sydneycharterfishing.com.au/about/",
+      "bytes": 123781
+    },
+    {
+      "page": "https://sydneycharterfishing.com.au/gallery",
+      "status": 200,
+      "final_url": "https://sydneycharterfishing.com.au/gallery/",
+      "bytes": 137262
+    },
+    {
+      "page": "https://sydneycharterfishing.com.au/boat-info",
+      "status": 200,
+      "final_url": "https://sydneycharterfishing.com.au/boat-info/",
+      "bytes": 122023
+    },
+    {
+      "page": "https://sydneycharterfishing.com.au/pickup-locations",
+      "status": 200,
+      "final_url": "https://sydneycharterfishing.com.au/pickup-locations/",
+      "bytes": 144693
+    },
+    {
+      "page": "https://sydneycharterfishing.com.au/contact-us",
+      "status": 200,
+      "final_url": "https://sydneycharterfishing.com.au/contact-us/",
+      "bytes": 128572
+    },
+    {
+      "page": "https://sydneycharterfishing.com.au/author/scfenochadmin/",
+      "status": 200,
+      "final_url": "https://sydneycharterfishing.com.au/author/scfenochadmin/",
+      "bytes": 89425
+    }
+  ]
+}

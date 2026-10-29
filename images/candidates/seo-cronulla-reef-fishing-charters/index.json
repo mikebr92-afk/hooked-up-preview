@@ -1,0 +1,94 @@
+{
+  "slug": "seo-cronulla-reef-fishing-charters",
+  "request_hash": "9d3cd3f69334",
+  "collected_at": "2026-10-29T19:53:21.671Z",
+  "pages_fetched": [
+    "https://cronullareeffishingcharters.com/",
+    "https://cronullareeffishingcharters.com/vessel-prored/",
+    "https://cronullareeffishingcharters.com/pricing/",
+    "https://cronullareeffishingcharters.rezdy.com/",
+    "https://cronullareeffishingcharters.rezdy.com/537983/full-day-reef-and-sport-fishing-for-individuals",
+    "https://cronullareeffishingcharters.rezdy.com/539770/full-day-reef-and-sport-fishing",
+    "https://cronullareeffishingcharters.com/about-us/",
+    "https://cronullareeffishingcharters.com/history/",
+    "https://cronullareeffishingcharters.com/reviews/",
+    "https://cronullareeffishingcharters.com/area-covered/",
+    "https://cronullareeffishingcharters.com/fishing-report/",
+    "https://cronullareeffishingcharters.com/faq/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://cronullareeffishingcharters.com/",
+      "status": 200,
+      "final_url": "https://cronullareeffishingcharters.com/",
+      "bytes": 117267
+    },
+    {
+      "page": "https://cronullareeffishingcharters.com/vessel-prored/",
+      "status": 200,
+      "final_url": "https://cronullareeffishingcharters.com/vessel-prored/",
+      "bytes": 114166
+    },
+    {
+      "page": "https://cronullareeffishingcharters.com/pricing/",
+      "status": 200,
+      "final_url": "https://cronullareeffishingcharters.com/pricing/",
+      "bytes": 88147
+    },
+    {
+      "page": "https://cronullareeffishingcharters.rezdy.com/",
+      "status": 403,
+      "final_url": "https://cronullareeffishingcharters.rezdy.com/",
+      "bytes": 5187
+    },
+    {
+      "page": "https://cronullareeffishingcharters.rezdy.com/537983/full-day-reef-and-sport-fishing-for-individuals",
+      "status": 403,
+      "final_url": "https://cronullareeffishingcharters.rezdy.com/537983/full-day-reef-and-sport-fishing-for-individuals",
+      "bytes": 5187
+    },
+    {
+      "page": "https://cronullareeffishingcharters.rezdy.com/539770/full-day-reef-and-sport-fishing",
+      "status": 403,
+      "final_url": "https://cronullareeffishingcharters.rezdy.com/539770/full-day-reef-and-sport-fishing",
+      "bytes": 5187
+    },
+    {
+      "page": "https://cronullareeffishingcharters.com/about-us/",
+      "status": 200,
+      "final_url": "https://cronullareeffishingcharters.com/about-us/",
+      "bytes": 84952
+    },
+    {
+      "page": "https://cronullareeffishingcharters.com/history/",
+      "status": 200,
+      "final_url": "https://cronullareeffishingcharters.com/history/",
+      "bytes": 104719
+    },
+    {
+      "page": "https://cronullareeffishingcharters.com/reviews/",
+      "status": 200,
+      "final_url": "https://cronullareeffishingcharters.com/reviews/",
+      "bytes": 108206
+    },
+    {
+      "page": "https://cronullareeffishingcharters.com/area-covered/",
+      "status": 200,
+      "final_url": "https://cronullareeffishingcharters.com/area-covered/",
+      "bytes": 87534
+    },
+    {
+      "page": "https://cronullareeffishingcharters.com/fishing-report/",
+      "status": 200,
+      "final_url": "https://cronullareeffishingcharters.com/fishing-report/",
+      "bytes": 77666
+    },
+    {
+      "page": "https://cronullareeffishingcharters.com/faq/",
+      "status": 200,
+      "final_url": "https://cronullareeffishingcharters.com/faq/",
+      "bytes": 81160
+    }
+  ]
+}

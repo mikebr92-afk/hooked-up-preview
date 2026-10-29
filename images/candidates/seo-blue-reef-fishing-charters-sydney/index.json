@@ -1,0 +1,52 @@
+{
+  "slug": "seo-blue-reef-fishing-charters-sydney",
+  "request_hash": "8abebdca7779",
+  "collected_at": "2026-10-29T19:53:17.768Z",
+  "pages_fetched": [
+    "https://www.bluereefcharters.info/",
+    "https://www.bluereefcharters.info/about-us.html",
+    "https://www.bluereefcharters.info/general-boat-info.html",
+    "https://www.bluereefcharters.info/fishing-charters/reef-fishing-trips.html",
+    "https://www.bluereefcharters.info/fishing-charters/sports-fishing-trips.html",
+    "https://www.bluereefcharters.info/contact.html"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.bluereefcharters.info/",
+      "status": 403,
+      "final_url": "https://www.bluereefcharters.info/",
+      "bytes": 1037
+    },
+    {
+      "page": "https://www.bluereefcharters.info/about-us.html",
+      "status": 403,
+      "final_url": "https://www.bluereefcharters.info/about-us.html",
+      "bytes": 1037
+    },
+    {
+      "page": "https://www.bluereefcharters.info/general-boat-info.html",
+      "status": 403,
+      "final_url": "https://www.bluereefcharters.info/general-boat-info.html",
+      "bytes": 1037
+    },
+    {
+      "page": "https://www.bluereefcharters.info/fishing-charters/reef-fishing-trips.html",
+      "status": 403,
+      "final_url": "https://www.bluereefcharters.info/fishing-charters/reef-fishing-trips.html",
+      "bytes": 1037
+    },
+    {
+      "page": "https://www.bluereefcharters.info/fishing-charters/sports-fishing-trips.html",
+      "status": 403,
+      "final_url": "https://www.bluereefcharters.info/fishing-charters/sports-fishing-trips.html",
+      "bytes": 1037
+    },
+    {
+      "page": "https://www.bluereefcharters.info/contact.html",
+      "status": 403,
+      "final_url": "https://www.bluereefcharters.info/contact.html",
+      "bytes": 1037
+    }
+  ]
+}

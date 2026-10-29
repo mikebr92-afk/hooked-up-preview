@@ -1,0 +1,80 @@
+{
+  "slug": "seo-reel-adventure-fishing-sydney",
+  "request_hash": "5ee0a061a1e4",
+  "collected_at": "2026-10-29T19:53:45.819Z",
+  "pages_fetched": [
+    "https://www.sydney.com/things-to-do/tours/reel-adventure-fishing",
+    "https://www.sydney.com/in/things-to-do/tours/reel-adventure-fishing",
+    "https://www.sydney.com/nz/things-to-do/tours/reel-adventure-fishing",
+    "https://www.sydney.com/uk/things-to-do/tours/reel-adventure-fishing",
+    "https://www.sydney.com/us/things-to-do/tours/reel-adventure-fishing",
+    "https://www.sydney.com/sg/things-to-do/tours/reel-adventure-fishing",
+    "https://www.sydney.com/my/things-to-do/tours/reel-adventure-fishing",
+    "https://www.sydney.com/id/things-to-do/tours/reel-adventure-fishing",
+    "https://www.sydney.com/jp/things-to-do/tours/reel-adventure-fishing",
+    "https://www.sydney.com/kr/things-to-do/tours/reel-adventure-fishing"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.sydney.com/things-to-do/tours/reel-adventure-fishing",
+      "status": 200,
+      "final_url": "https://www.sydney.com/things-to-do/tours/reel-adventure-fishing",
+      "bytes": 214312
+    },
+    {
+      "page": "https://www.sydney.com/in/things-to-do/tours/reel-adventure-fishing",
+      "status": 200,
+      "final_url": "https://www.sydney.com/in/things-to-do/tours/reel-adventure-fishing",
+      "bytes": 214609
+    },
+    {
+      "page": "https://www.sydney.com/nz/things-to-do/tours/reel-adventure-fishing",
+      "status": 200,
+      "final_url": "https://www.sydney.com/nz/things-to-do/tours/reel-adventure-fishing",
+      "bytes": 214615
+    },
+    {
+      "page": "https://www.sydney.com/uk/things-to-do/tours/reel-adventure-fishing",
+      "status": 200,
+      "final_url": "https://www.sydney.com/uk/things-to-do/tours/reel-adventure-fishing",
+      "bytes": 214618
+    },
+    {
+      "page": "https://www.sydney.com/us/things-to-do/tours/reel-adventure-fishing",
+      "status": 200,
+      "final_url": "https://www.sydney.com/us/things-to-do/tours/reel-adventure-fishing",
+      "bytes": 214617
+    },
+    {
+      "page": "https://www.sydney.com/sg/things-to-do/tours/reel-adventure-fishing",
+      "status": 200,
+      "final_url": "https://www.sydney.com/sg/things-to-do/tours/reel-adventure-fishing",
+      "bytes": 214613
+    },
+    {
+      "page": "https://www.sydney.com/my/things-to-do/tours/reel-adventure-fishing",
+      "status": 200,
+      "final_url": "https://www.sydney.com/my/things-to-do/tours/reel-adventure-fishing",
+      "bytes": 214612
+    },
+    {
+      "page": "https://www.sydney.com/id/things-to-do/tours/reel-adventure-fishing",
+      "status": 200,
+      "final_url": "https://www.sydney.com/id/things-to-do/tours/reel-adventure-fishing",
+      "bytes": 214613
+    },
+    {
+      "page": "https://www.sydney.com/jp/things-to-do/tours/reel-adventure-fishing",
+      "status": 200,
+      "final_url": "https://www.sydney.com/jp/things-to-do/tours/reel-adventure-fishing",
+      "bytes": 210648
+    },
+    {
+      "page": "https://www.sydney.com/kr/things-to-do/tours/reel-adventure-fishing",
+      "status": 200,
+      "final_url": "https://www.sydney.com/kr/things-to-do/tours/reel-adventure-fishing",
+      "bytes": 209898
+    }
+  ]
+}

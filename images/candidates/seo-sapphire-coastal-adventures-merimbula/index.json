@@ -1,0 +1,87 @@
+{
+  "slug": "seo-sapphire-coastal-adventures-merimbula",
+  "request_hash": "588930f3e4f3",
+  "collected_at": "2026-10-29T19:53:07.596Z",
+  "pages_fetched": [
+    "https://www.sapphirecoastaladventures.com.au/",
+    "https://www.sapphirecoastaladventures.com.au/fishing-charters",
+    "https://www.sapphirecoastaladventures.com.au/merimbula-fishing-charter",
+    "https://www.sapphirecoastaladventures.com.au/about",
+    "https://www.sapphirecoastaladventures.com.au/faqs",
+    "https://www.sapphirecoastaladventures.com.au/booking-terms-and-conditions",
+    "https://www.escapetomerimbula.com.au/sapphire-coastal-adventures",
+    "https://www.escapetomerimbula.com.au/fishing-boating",
+    "https://www.sapphirecoastaladventures.com.au/contact",
+    "https://www.escapetomerimbula.com.au/fishpen-charters",
+    "https://www.escapetomerimbula.com.au/merimbula-fishing-report"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.sapphirecoastaladventures.com.au/",
+      "status": 200,
+      "final_url": "https://www.sapphirecoastaladventures.com.au/",
+      "bytes": 240846
+    },
+    {
+      "page": "https://www.sapphirecoastaladventures.com.au/fishing-charters",
+      "status": 200,
+      "final_url": "https://www.sapphirecoastaladventures.com.au/fishing-charters",
+      "bytes": 234988
+    },
+    {
+      "page": "https://www.sapphirecoastaladventures.com.au/merimbula-fishing-charter",
+      "status": 200,
+      "final_url": "https://www.sapphirecoastaladventures.com.au/merimbula-fishing-charter",
+      "bytes": 240127
+    },
+    {
+      "page": "https://www.sapphirecoastaladventures.com.au/about",
+      "status": 200,
+      "final_url": "https://www.sapphirecoastaladventures.com.au/about",
+      "bytes": 254726
+    },
+    {
+      "page": "https://www.sapphirecoastaladventures.com.au/faqs",
+      "status": 200,
+      "final_url": "https://www.sapphirecoastaladventures.com.au/faqs",
+      "bytes": 200761
+    },
+    {
+      "page": "https://www.sapphirecoastaladventures.com.au/booking-terms-and-conditions",
+      "status": 200,
+      "final_url": "https://www.sapphirecoastaladventures.com.au/booking-terms-and-conditions",
+      "bytes": 114899
+    },
+    {
+      "page": "https://www.escapetomerimbula.com.au/sapphire-coastal-adventures",
+      "status": 200,
+      "final_url": "https://www.escapetomerimbula.com.au/sapphire-coastal-adventures",
+      "bytes": 776871
+    },
+    {
+      "page": "https://www.escapetomerimbula.com.au/fishing-boating",
+      "status": 200,
+      "final_url": "https://www.escapetomerimbula.com.au/fishing-boating",
+      "bytes": 790601
+    },
+    {
+      "page": "https://www.sapphirecoastaladventures.com.au/contact",
+      "status": 200,
+      "final_url": "https://www.sapphirecoastaladventures.com.au/contact",
+      "bytes": 214537
+    },
+    {
+      "page": "https://www.escapetomerimbula.com.au/fishpen-charters",
+      "status": 200,
+      "final_url": "https://www.escapetomerimbula.com.au/fishpen-charters",
+      "bytes": 777889
+    },
+    {
+      "page": "https://www.escapetomerimbula.com.au/merimbula-fishing-report",
+      "status": 200,
+      "final_url": "https://www.escapetomerimbula.com.au/merimbula-fishing-report",
+      "bytes": 772037
+    }
+  ]
+}

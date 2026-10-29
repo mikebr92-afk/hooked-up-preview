@@ -1,0 +1,94 @@
+{
+  "slug": "seo-freedom-charters-eden",
+  "request_hash": "d5a9890ea383",
+  "collected_at": "2026-10-29T19:52:57.611Z",
+  "pages_fetched": [
+    "https://freedomcharters.com.au/",
+    "https://freedomcharters.com.au/about.html",
+    "https://freedomcharters.com.au/prices.html",
+    "https://freedomcharters.com.au/reef-fishing.html",
+    "https://freedomcharters.com.au/sports-fishing.html",
+    "https://freedomcharters.com.au/game-fishing.html",
+    "https://www.visiteden.com.au/experience/fishing/",
+    "https://www.escapetomerimbula.com.au/fishing-boating",
+    "https://freedomcharters.com.au/index.html",
+    "https://freedomcharters.com.au/contact-us.html",
+    "https://freedomcharters.com.au/whale-watching.html",
+    "https://freedomcharters.com.au/birdwatching.html"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://freedomcharters.com.au/",
+      "status": 200,
+      "final_url": "https://freedomcharters.com.au/",
+      "bytes": 15847
+    },
+    {
+      "page": "https://freedomcharters.com.au/about.html",
+      "status": 200,
+      "final_url": "https://freedomcharters.com.au/about.html",
+      "bytes": 9411
+    },
+    {
+      "page": "https://freedomcharters.com.au/prices.html",
+      "status": 200,
+      "final_url": "https://freedomcharters.com.au/prices.html",
+      "bytes": 8975
+    },
+    {
+      "page": "https://freedomcharters.com.au/reef-fishing.html",
+      "status": 200,
+      "final_url": "https://freedomcharters.com.au/reef-fishing.html",
+      "bytes": 8484
+    },
+    {
+      "page": "https://freedomcharters.com.au/sports-fishing.html",
+      "status": 200,
+      "final_url": "https://freedomcharters.com.au/sports-fishing.html",
+      "bytes": 8592
+    },
+    {
+      "page": "https://freedomcharters.com.au/game-fishing.html",
+      "status": 200,
+      "final_url": "https://freedomcharters.com.au/game-fishing.html",
+      "bytes": 8609
+    },
+    {
+      "page": "https://www.visiteden.com.au/experience/fishing/",
+      "status": 200,
+      "final_url": "https://www.visiteden.com.au/experience/fishing/",
+      "bytes": 60244
+    },
+    {
+      "page": "https://www.escapetomerimbula.com.au/fishing-boating",
+      "status": 200,
+      "final_url": "https://www.escapetomerimbula.com.au/fishing-boating",
+      "bytes": 790601
+    },
+    {
+      "page": "https://freedomcharters.com.au/index.html",
+      "status": 200,
+      "final_url": "https://freedomcharters.com.au/index.html",
+      "bytes": 15847
+    },
+    {
+      "page": "https://freedomcharters.com.au/contact-us.html",
+      "status": 200,
+      "final_url": "https://freedomcharters.com.au/contact-us.html",
+      "bytes": 7476
+    },
+    {
+      "page": "https://freedomcharters.com.au/whale-watching.html",
+      "status": 200,
+      "final_url": "https://freedomcharters.com.au/whale-watching.html",
+      "bytes": 8364
+    },
+    {
+      "page": "https://freedomcharters.com.au/birdwatching.html",
+      "status": 200,
+      "final_url": "https://freedomcharters.com.au/birdwatching.html",
+      "bytes": 8945
+    }
+  ]
+}

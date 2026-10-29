@@ -1,0 +1,17 @@
+{
+  "slug": "seo-guide-jervis-bay",
+  "request_hash": "3343458c8161",
+  "collected_at": "2026-10-29T19:52:23.127Z",
+  "pages_fetched": [
+    "https://www.dpi.nsw.gov.au/fishing/marine-protected-areas/marine-parks/jervis-bay-marine-park/recreational-fishing"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.dpi.nsw.gov.au/fishing/marine-protected-areas/marine-parks/jervis-bay-marine-park/recreational-fishing",
+      "status": 403,
+      "final_url": "https://www.dpi.nsw.gov.au/fishing/marine-protected-areas/marine-parks/jervis-bay-marine-park/recreational-fishing",
+      "bytes": 6149
+    }
+  ]
+}

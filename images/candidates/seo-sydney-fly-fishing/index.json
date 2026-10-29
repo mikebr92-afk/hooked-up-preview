@@ -1,0 +1,80 @@
+{
+  "slug": "seo-sydney-fly-fishing",
+  "request_hash": "e430a8143ebd",
+  "collected_at": "2026-10-29T19:54:30.604Z",
+  "pages_fetched": [
+    "https://www.sydneyflyfishing.com.au/",
+    "https://www.sydneyflyfishing.com.au/tours-pricing",
+    "https://www.sydneyflyfishing.com.au/your-guide",
+    "https://www.sydneyflyfishing.com.au/about-2",
+    "https://www.sydneyflyfishing.com.au/contact-us",
+    "https://www.sydneyflyfishing.com.au/general-8",
+    "https://www.sydneyflyfishing.com.au/newsletter",
+    "https://www.sydneyflyfishing.com.au/casting-tuition",
+    "https://www.sydneyflyfishing.com.au/gift-voucher",
+    "https://www.sydneyflyfishing.com.au/gallery"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.sydneyflyfishing.com.au/",
+      "status": 200,
+      "final_url": "https://www.sydneyflyfishing.com.au/",
+      "bytes": 1084978
+    },
+    {
+      "page": "https://www.sydneyflyfishing.com.au/tours-pricing",
+      "status": 200,
+      "final_url": "https://www.sydneyflyfishing.com.au/tours-pricing",
+      "bytes": 1217334
+    },
+    {
+      "page": "https://www.sydneyflyfishing.com.au/your-guide",
+      "status": 200,
+      "final_url": "https://www.sydneyflyfishing.com.au/your-guide",
+      "bytes": 955276
+    },
+    {
+      "page": "https://www.sydneyflyfishing.com.au/about-2",
+      "status": 200,
+      "final_url": "https://www.sydneyflyfishing.com.au/about-2",
+      "bytes": 1021371
+    },
+    {
+      "page": "https://www.sydneyflyfishing.com.au/contact-us",
+      "status": 200,
+      "final_url": "https://www.sydneyflyfishing.com.au/contact-us",
+      "bytes": 1008792
+    },
+    {
+      "page": "https://www.sydneyflyfishing.com.au/general-8",
+      "status": 200,
+      "final_url": "https://www.sydneyflyfishing.com.au/general-8",
+      "bytes": 940147
+    },
+    {
+      "page": "https://www.sydneyflyfishing.com.au/newsletter",
+      "status": 200,
+      "final_url": "https://www.sydneyflyfishing.com.au/newsletter",
+      "bytes": 1162227
+    },
+    {
+      "page": "https://www.sydneyflyfishing.com.au/casting-tuition",
+      "status": 200,
+      "final_url": "https://www.sydneyflyfishing.com.au/casting-tuition",
+      "bytes": 1195526
+    },
+    {
+      "page": "https://www.sydneyflyfishing.com.au/gift-voucher",
+      "status": 200,
+      "final_url": "https://www.sydneyflyfishing.com.au/gift-voucher",
+      "bytes": 1695657
+    },
+    {
+      "page": "https://www.sydneyflyfishing.com.au/gallery",
+      "status": 200,
+      "final_url": "https://www.sydneyflyfishing.com.au/gallery",
+      "bytes": 1344675
+    }
+  ]
+}

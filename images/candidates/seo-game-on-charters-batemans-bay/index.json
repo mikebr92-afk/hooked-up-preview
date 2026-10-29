@@ -1,0 +1,94 @@
+{
+  "slug": "seo-game-on-charters-batemans-bay",
+  "request_hash": "41bdd7d69154",
+  "collected_at": "2026-10-29T19:52:51.976Z",
+  "pages_fetched": [
+    "https://gameoncharters.net.au/",
+    "https://gameoncharters.net.au/charters/",
+    "https://gameoncharters.net.au/about-us/",
+    "https://gameoncharters.net.au/fishing-charters-batemans-bay-whale-watching-batemans-bay/",
+    "https://gameoncharters32.rezdy.com/",
+    "https://www.visitnsw.com/things-to-do/tours/game-charters-batemans-bay",
+    "https://gameoncharters.net.au/whale-watchiing/",
+    "https://gameoncharters.net.au/sunseet-cruiise-clyde-river/",
+    "https://gameoncharters.net.au/tollgate-island-dolphin-cruise/",
+    "https://gameoncharters.net.au/clyde-river-cruise/",
+    "https://gameoncharters.net.au/snorkelling/",
+    "https://gameoncharters.net.au/tollgate-islands-and-surrounds/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://gameoncharters.net.au/",
+      "status": 200,
+      "final_url": "https://gameoncharters.net.au/",
+      "bytes": 203870
+    },
+    {
+      "page": "https://gameoncharters.net.au/charters/",
+      "status": 200,
+      "final_url": "https://gameoncharters.net.au/charters/",
+      "bytes": 134309
+    },
+    {
+      "page": "https://gameoncharters.net.au/about-us/",
+      "status": 200,
+      "final_url": "https://gameoncharters.net.au/about-us/",
+      "bytes": 141292
+    },
+    {
+      "page": "https://gameoncharters.net.au/fishing-charters-batemans-bay-whale-watching-batemans-bay/",
+      "status": 200,
+      "final_url": "https://gameoncharters.net.au/fishing-charters-batemans-bay-whale-watching-batemans-bay/",
+      "bytes": 133026
+    },
+    {
+      "page": "https://gameoncharters32.rezdy.com/",
+      "status": 403,
+      "final_url": "https://gameoncharters32.rezdy.com/",
+      "bytes": 5187
+    },
+    {
+      "page": "https://www.visitnsw.com/things-to-do/tours/game-charters-batemans-bay",
+      "status": 200,
+      "final_url": "https://www.visitnsw.com/things-to-do/tours/game-charters-batemans-bay",
+      "bytes": 219629
+    },
+    {
+      "page": "https://gameoncharters.net.au/whale-watchiing/",
+      "status": 200,
+      "final_url": "https://gameoncharters.net.au/whale-watchiing/",
+      "bytes": 156167
+    },
+    {
+      "page": "https://gameoncharters.net.au/sunseet-cruiise-clyde-river/",
+      "status": 200,
+      "final_url": "https://gameoncharters.net.au/sunseet-cruiise-clyde-river/",
+      "bytes": 133094
+    },
+    {
+      "page": "https://gameoncharters.net.au/tollgate-island-dolphin-cruise/",
+      "status": 200,
+      "final_url": "https://gameoncharters.net.au/tollgate-island-dolphin-cruise/",
+      "bytes": 132884
+    },
+    {
+      "page": "https://gameoncharters.net.au/clyde-river-cruise/",
+      "status": 200,
+      "final_url": "https://gameoncharters.net.au/clyde-river-cruise/",
+      "bytes": 133609
+    },
+    {
+      "page": "https://gameoncharters.net.au/snorkelling/",
+      "status": 200,
+      "final_url": "https://gameoncharters.net.au/snorkelling/",
+      "bytes": 132980
+    },
+    {
+      "page": "https://gameoncharters.net.au/tollgate-islands-and-surrounds/",
+      "status": 200,
+      "final_url": "https://gameoncharters.net.au/tollgate-islands-and-surrounds/",
+      "bytes": 133588
+    }
+  ]
+}

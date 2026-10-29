@@ -1,0 +1,94 @@
+{
+  "slug": "seo-fishabout-tours-sydney",
+  "request_hash": "1b1ce49debe7",
+  "collected_at": "2026-10-29T19:53:36.975Z",
+  "pages_fetched": [
+    "https://www.fishaboutsydney.com.au/",
+    "https://www.fishaboutsydney.com.au/about-craig-mcgill/",
+    "https://www.fishaboutsydney.com.au/pick-up-points/",
+    "https://fishabout.com.au/sydney/",
+    "https://www.fishaboutsydney.com.au/articles/",
+    "https://www.fishaboutsydney.com.au/gallery/",
+    "https://www.fishaboutsydney.com.au/about",
+    "https://fishabout.com.au/",
+    "https://fishabout.com.au/destination/",
+    "https://fishabout.com.au/destination/nt/",
+    "https://fishabout.com.au/destination/destinations-western-australia/",
+    "https://fishabout.com.au/destination/destinations-queensland/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.fishaboutsydney.com.au/",
+      "status": 200,
+      "final_url": "https://www.fishaboutsydney.com.au/",
+      "bytes": 53512
+    },
+    {
+      "page": "https://www.fishaboutsydney.com.au/about-craig-mcgill/",
+      "status": 200,
+      "final_url": "https://www.fishaboutsydney.com.au/about-craig-mcgill/",
+      "bytes": 23920
+    },
+    {
+      "page": "https://www.fishaboutsydney.com.au/pick-up-points/",
+      "status": 200,
+      "final_url": "https://www.fishaboutsydney.com.au/pick-up-points/",
+      "bytes": 23576
+    },
+    {
+      "page": "https://fishabout.com.au/sydney/",
+      "status": 200,
+      "final_url": "https://fishabout.com.au/sydney-charters/",
+      "bytes": 191160
+    },
+    {
+      "page": "https://www.fishaboutsydney.com.au/articles/",
+      "status": 200,
+      "final_url": "https://www.fishaboutsydney.com.au/articles/",
+      "bytes": 40289
+    },
+    {
+      "page": "https://www.fishaboutsydney.com.au/gallery/",
+      "status": 200,
+      "final_url": "https://www.fishaboutsydney.com.au/gallery/",
+      "bytes": 27235
+    },
+    {
+      "page": "https://www.fishaboutsydney.com.au/about",
+      "status": 200,
+      "final_url": "https://www.fishaboutsydney.com.au/about-craig-mcgill/",
+      "bytes": 23920
+    },
+    {
+      "page": "https://fishabout.com.au/",
+      "status": 200,
+      "final_url": "https://fishabout.com.au/",
+      "bytes": 270777
+    },
+    {
+      "page": "https://fishabout.com.au/destination/",
+      "status": 200,
+      "final_url": "https://fishabout.com.au/destination/",
+      "bytes": 212215
+    },
+    {
+      "page": "https://fishabout.com.au/destination/nt/",
+      "status": 200,
+      "final_url": "https://fishabout.com.au/destination/nt/",
+      "bytes": 249298
+    },
+    {
+      "page": "https://fishabout.com.au/destination/destinations-western-australia/",
+      "status": 200,
+      "final_url": "https://fishabout.com.au/destination/destinations-western-australia/",
+      "bytes": 223541
+    },
+    {
+      "page": "https://fishabout.com.au/destination/destinations-queensland/",
+      "status": 200,
+      "final_url": "https://fishabout.com.au/destination/destinations-queensland/",
+      "bytes": 223777
+    }
+  ]
+}

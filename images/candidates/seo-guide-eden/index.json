@@ -1,0 +1,66 @@
+{
+  "slug": "seo-guide-eden",
+  "request_hash": "57cfcc13eb34",
+  "collected_at": "2026-10-29T19:52:22.939Z",
+  "pages_fetched": [
+    "https://www.visiteden.com.au/experience/fishing/",
+    "https://www.sapphirecoast.com.au/fishing",
+    "https://sapphire-coast.com.au/?p=1054",
+    "https://www.tradeaboat.com.au/news-reviews/8081-eden-nsw-fishing-and-boating",
+    "https://begavalley.nsw.gov.au/community/merimbula-boat-ramp",
+    "https://www.escapetomerimbula.com.au/getting-here",
+    "https://www.escapetomerimbula.com.au/fishing-boating",
+    "https://www.visitnsw.com/destinations/south-coast/merimbula-and-sapphire-coast/pambula/attractions/pambula-lake"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.visiteden.com.au/experience/fishing/",
+      "status": 200,
+      "final_url": "https://www.visiteden.com.au/experience/fishing/",
+      "bytes": 60244
+    },
+    {
+      "page": "https://www.sapphirecoast.com.au/fishing",
+      "status": 200,
+      "final_url": "https://www.sapphirecoast.com.au/fishing",
+      "bytes": 159950
+    },
+    {
+      "page": "https://sapphire-coast.com.au/?p=1054",
+      "status": 200,
+      "final_url": "https://sapphire-coast.com.au/merimbula/fishing-around-merimbula/merimbula-lake/",
+      "bytes": 77802
+    },
+    {
+      "page": "https://www.tradeaboat.com.au/news-reviews/8081-eden-nsw-fishing-and-boating",
+      "status": 200,
+      "final_url": "https://www.tradeaboat.com.au/news-reviews/8081-eden-nsw-fishing-and-boating",
+      "bytes": 123142
+    },
+    {
+      "page": "https://begavalley.nsw.gov.au/community/merimbula-boat-ramp",
+      "status": 403,
+      "final_url": "https://www.begavalley.nsw.gov.au/community/merimbula-boat-ramp",
+      "bytes": 428
+    },
+    {
+      "page": "https://www.escapetomerimbula.com.au/getting-here",
+      "status": 200,
+      "final_url": "https://www.escapetomerimbula.com.au/getting-here",
+      "bytes": 783203
+    },
+    {
+      "page": "https://www.escapetomerimbula.com.au/fishing-boating",
+      "status": 200,
+      "final_url": "https://www.escapetomerimbula.com.au/fishing-boating",
+      "bytes": 790601
+    },
+    {
+      "page": "https://www.visitnsw.com/destinations/south-coast/merimbula-and-sapphire-coast/pambula/attractions/pambula-lake",
+      "status": 200,
+      "final_url": "https://www.visitnsw.com/destinations/south-coast/merimbula-and-sapphire-coast/pambula/attractions/pambula-lake",
+      "bytes": 233463
+    }
+  ]
+}
