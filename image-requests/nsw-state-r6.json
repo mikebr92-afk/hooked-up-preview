@@ -1,0 +1,37 @@
+{
+ "requests": [
+  {
+   "slug": "research-r6",
+   "pages": [
+    "https://playsport.com/freedomcharters_ag_6a6b74e4",
+    "https://localista.com.au/listing/au/jervis-bay/tours/simos-afloat",
+    "https://r.jina.ai/https://gameoncharters32.rezdy.com/",
+    "https://www.eden.nsw.au/?p=2079",
+    "https://r.jina.ai/https://cushyfishingcharters.com.au/fishing-charters/",
+    "https://r.jina.ai/https://www.dpi.nsw.gov.au/fishing/marine-protected-areas/marine-parks/jervis-bay-marine-park/recreational-fishing",
+    "https://r.jina.ai/https://www.dpi.nsw.gov.au/fishing/marine-protected-areas/marine-parks/lord-howe-island-marine-park/recreational-fishing"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  },
+  {
+   "slug": "fishbermi-charters",
+   "pages": [
+    "https://www.fishbermicharters.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "evans-head-deep-sea-fishing-charters",
+   "pages": [
+    "https://www.evansheadfishingcharters.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  }
+ ]
+}
