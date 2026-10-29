@@ -39,7 +39,7 @@ export const LOCS = {
       "Queensland stretches from the subtropical Gold Coast to the tip of Cape York, and the fishing changes as you head north. Southern charters target snapper, pearl perch and seasonal pelagics like mahi mahi and Spanish mackerel. Further north, the Great Barrier Reef brings coral trout, red emperor, nannygai and giant trevally, while rivers and estuaries hold barramundi and mangrove jack.",
       "Listings cover the Gold Coast, Brisbane and Moreton Bay, the Sunshine Coast, Hervey Bay, Bundaberg, Agnes Water, Yeppoon, Gladstone, the Whitsundays, Townsville, Cairns, Port Douglas and Cooktown.",
     ],
-    season: "Reef fishing runs year-round, with calmer seas more common from late winter through spring. Cairns is famous for giant black marlin from roughly September to December. Barramundi have a closed season on Queensland's east coast from 1 November to 1 February (some stocked dams excepted), so check with your operator about what's on offer in that window.",
+    season: "Reef fishing runs year-round, with calmer seas more common from late winter through spring. Cairns is famous for giant black marlin from roughly September to December. Barramundi have a closed season on Queensland's east coast from 1 November to 31 January (some stocked dams excepted), so check with your operator about what's on offer in that window.",
   },
   'northern-territory': {
     n: 'Northern Territory', short: 'NT', in: 'in the Northern Territory', st: 'NT', state: 'NT',
@@ -394,7 +394,7 @@ export const LOCS = {
       "The Hinchinbrook Channel — a protected, mangrove-lined passage between Hinchinbrook Island and the mainland — is one of north Queensland's best-known barramundi fisheries. Guides launch from the Dungeness ramp at Lucinda, about 15 minutes from Ingham, or from Cardwell for Missionary Bay at the island's northern end.",
       "Besides barramundi, the channel's creeks, flats, rock bars and drains hold mangrove jack, fingermark, threadfin salmon, trevally, queenfish and grunter, and the 5 km Lucinda sugar-loading jetty acts as a giant fish-attracting structure. In good weather larger boats run out to the Great Barrier Reef. It's about 1.5 hours north of Townsville.",
     ],
-    season: "Barramundi are the headline species outside the east-coast closed season (1 November to 1 February). Mangrove jack, fingermark, threadfin salmon, trevally and queenfish can be fished year-round, including during the barra closure. Estuarine crocodiles live in the channel, so keep well back from the water's edge.",
+    season: "Barramundi are the headline species outside the east-coast closed season (1 November to 31 January). Mangrove jack, fingermark, threadfin salmon, trevally and queenfish can be fished year-round, including during the barra closure. Estuarine crocodiles live in the channel, so keep well back from the water's edge.",
   },
   // ── Species / style collections (kind: 'species') ──────────────────────────
   // sp: match operators whose species tags contain any of these · tt: match trip-type tags
@@ -405,7 +405,7 @@ export const LOCS = {
       "Barramundi are Australia's most iconic sportfish — famous for explosive strikes on lures, head-shaking jumps and growing well over a metre long. A guided barra trip is on the bucket list of most Australian anglers.",
       "Most barramundi charters on Hooked Trips run out of Darwin and the Top End, fishing rivers, floodplains and wilderness areas like the Mary, Daly and Wildman rivers, Kakadu and Arnhem Land. There are also barra trips in Far North Queensland around Cairns and the Daintree.",
     ],
-    season: "In the Top End, the run-off after the wet season (roughly March to May) is the classic barra window, as fish push through flooded creeks and floodplains. The build-up (October to December) is hot and humid but can produce big fish on lures. On Queensland's east coast, barramundi have a closed season from 1 November to 1 February.",
+    season: "In the Top End, the run-off after the wet season (roughly March to May) is the classic barra window, as fish push through flooded creeks and floodplains. The build-up (October to December) is hot and humid but can produce big fish on lures. On Queensland's east coast, barramundi have a closed season from 1 November to 31 January.",
     faq: [
       ["Do barramundi charters keep the fish?", "Possession and size limits apply in both the Northern Territory and Queensland, and many guides encourage releasing big breeding fish. Your guide will know the current rules for the waters you're fishing."],
     ],
@@ -724,6 +724,7 @@ function durationRange(trips) {
   const lo = Math.min(...h), hi = Math.max(...h);
   return lo === hi ? hrs(lo) : `${hrs(lo).replace(/ hours?$/, hi < 24 ? '' : ' hours')}${hi < 24 ? '–' : ' – '}${hrs(hi)}`;
 }
+const an = (w) => (/^[aeiou]/i.test(w) ? 'an' : 'a');
 const capacityOf = (op) => Math.max(0, op.max_capacity || 0, ...(op.trips || []).map((t) => t.max_group || 0));
 function townOf(op) {
   const t = (op.primary_location || '').split(',')[0].trim();
@@ -810,7 +811,7 @@ export function charterGuide(op, cards) {
     if (cap) bits.push(`Trips take up to ${cap} guests.`);
     if (tags.includes('Private Charter')) bits.push('Private charters book the whole boat for your group.');
     if (tags.includes('Shared Charter')) bits.push('Shared trips let individuals and small groups join other anglers.');
-    if (bits.length) faq.push([`How many people can go on a ${N} trip?`, bits.join(' ')]);
+    if (bits.length) faq.push([`How many people can go on ${an(N)} ${N} trip?`, bits.join(' ')]);
   }
   // Suitability
   {
@@ -824,7 +825,7 @@ export function charterGuide(op, cards) {
   if ((op.whats_included || []).length) {
     let a = `${N} includes ${list(op.whats_included.slice(0, 8).map(lc))}.`;
     if ((op.what_to_bring || []).length) a += ` Bring ${list(op.what_to_bring.slice(0, 6).map(lc))}.`;
-    faq.push([`What's included on a ${N} trip?`, a]);
+    faq.push([`What's included on ${an(N)} ${N} trip?`, a]);
   }
   // Operator-specific questions (researched and sourced per listing)
   for (const f of op.faqs || []) if (f && f.q && f.a) faq.push([f.q, f.a]);
