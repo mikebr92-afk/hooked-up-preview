@@ -1,0 +1,90 @@
+{
+  "slug": "ian-moody-atdw",
+  "request_hash": "c044b00a0f4a",
+  "collected_at": "2026-10-29T04:22:09.604Z",
+  "pages_fetched": [
+    "https://www.australia.com/en/atdw/product.6045f4108fc1e7796a9d63ac.html"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 800,
+      "height": 533,
+      "original": "800x533",
+      "source": "https://www.australia.com/content/australia/en/travel-inspiration/australia-travel-stories/jcr:content/image.adapt.800.HIGH.jpg",
+      "page": "https://www.australia.com/en/atdw/product.6045f4108fc1e7796a9d63ac.html",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 800,
+      "height": 533,
+      "original": "800x533",
+      "source": "https://www.australia.com/content/australia/en/travel-inspiration/jcr:content/image.adapt.800.HIGH.jpg",
+      "page": "https://www.australia.com/en/atdw/product.6045f4108fc1e7796a9d63ac.html",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 800,
+      "height": 533,
+      "original": "800x533",
+      "source": "https://www.australia.com/content/australia/en/discover-your-australia/jcr:content/image.adapt.800.HIGH.jpg",
+      "page": "https://www.australia.com/en/atdw/product.6045f4108fc1e7796a9d63ac.html",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 800,
+      "height": 533,
+      "original": "800x533",
+      "source": "https://www.australia.com/content/australia/en/travel-inspiration/australia-travel-videos/jcr:content/image.adapt.800.HIGH.jpg",
+      "page": "https://www.australia.com/en/atdw/product.6045f4108fc1e7796a9d63ac.html",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 800,
+      "height": 533,
+      "original": "800x533",
+      "source": "https://www.australia.com/content/australia/en/deals-and-travel-packages/jcr:content/image.adapt.800.HIGH.jpg",
+      "page": "https://www.australia.com/en/atdw/product.6045f4108fc1e7796a9d63ac.html",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 800,
+      "height": 533,
+      "original": "800x533",
+      "source": "https://www.australia.com/content/australia/en/places/sydney-and-surrounds/guide-to-sydney/jcr:content/image.adapt.800.HIGH.jpg",
+      "page": "https://www.australia.com/en/atdw/product.6045f4108fc1e7796a9d63ac.html",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 800,
+      "height": 533,
+      "original": "800x533",
+      "source": "https://www.australia.com/content/australia/en/places/melbourne-and-surrounds/guide-to-melbourne/jcr:content/image.adapt.800.HIGH.jpg",
+      "page": "https://www.australia.com/en/atdw/product.6045f4108fc1e7796a9d63ac.html",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 800,
+      "height": 533,
+      "original": "800x533",
+      "source": "https://www.australia.com/content/australia/en/places/brisbane-and-surrounds/guide-to-brisbane/jcr:content/image.adapt.800.HIGH.jpg",
+      "page": "https://www.australia.com/en/atdw/product.6045f4108fc1e7796a9d63ac.html",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.australia.com/en/atdw/product.6045f4108fc1e7796a9d63ac.html",
+      "status": 200,
+      "final_url": "https://www.australia.com/en/atdw/product.6045f4108fc1e7796a9d63ac.html",
+      "bytes": 281621
+    }
+  ]
+}

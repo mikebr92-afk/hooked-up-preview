@@ -1,0 +1,159 @@
+{
+  "slug": "flux-fly-fishing",
+  "request_hash": "135758026fd4",
+  "collected_at": "2026-10-29T04:22:07.961Z",
+  "pages_fetched": [
+    "https://www.fluxflyfishing.com/",
+    "https://www.fluxflyfishing.com/cart",
+    "https://www.fluxflyfishing.com/about-us",
+    "https://www.fluxflyfishing.com/tripoverview",
+    "https://www.fluxflyfishing.com/our-guides",
+    "https://www.fluxflyfishing.com/vessels",
+    "https://www.fluxflyfishing.com/the-fishing",
+    "https://www.fluxflyfishing.com/our-history",
+    "https://www.fluxflyfishing.com/faq",
+    "https://www.fluxflyfishing.com/weipa-lodge-based"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2500x1875",
+      "source": "http://static1.squarespace.com/static/698513483b3d3d31248f6a1c/t/69a6abd5b08186484339fa2a/1772530645105/FLUX_FLYFISHING.jpeg?format=1500w",
+      "page": "https://www.fluxflyfishing.com/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 2000,
+      "height": 1333,
+      "original": "2500x1666",
+      "source": "https://images.squarespace-cdn.com/content/v1/698513483b3d3d31248f6a1c/2fd46ea1-7a24-43dd-b5ba-38fd2c2ad966/dFLUX+FLY+FISHING+WEIPA+GUIDED+FISHING+CHARTERS+CAPE+YORK.jpg?format=2500w",
+      "page": "https://www.fluxflyfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2500x1667",
+      "source": "https://images.squarespace-cdn.com/content/v1/698513483b3d3d31248f6a1c/832d82ff-de54-4656-838a-c948b9f033f4/weipa-106FLUX+FLY+FISHING+WEIPA+GUIDED+FISHING+CHARTERS+CAPE+YORK.jpg?format=2500w",
+      "page": "https://www.fluxflyfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2500x1668",
+      "source": "https://images.squarespace-cdn.com/content/v1/698513483b3d3d31248f6a1c/70a83300-b37c-4f74-a184-93e4c8505eb4/DSC02594.JPG?format=2500w",
+      "page": "https://www.fluxflyfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1549,
+      "height": 2000,
+      "original": "2500x3228",
+      "source": "https://images.squarespace-cdn.com/content/v1/698513483b3d3d31248f6a1c/96fbc1a0-3f84-4634-8d7c-6b5e009c2112/E26083C1-B05F-482D-958B-46A2F4555631FLUX+FLY+FISHING+WEIPA+GUIDED+FISHING.jpg?format=2500w",
+      "page": "https://www.fluxflyfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1600,
+      "height": 2000,
+      "original": "1760x2200",
+      "source": "https://images.squarespace-cdn.com/content/v1/698513483b3d3d31248f6a1c/4dbf02be-f778-40ce-9721-fa89c62d7c7e/3FLUX+FLY+FISHING+WEIPA+GUIDED+FISHING+CHARTERS+CAPE+YORK.jpg?format=2500w",
+      "page": "https://www.fluxflyfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1616,
+      "height": 1080,
+      "original": "1616x1080",
+      "source": "https://images.squarespace-cdn.com/content/v1/698513483b3d3d31248f6a1c/2940172d-ac16-4655-b0b4-2c53e1456803/DSC00887FLUX+FLY+FISHING+WEIPA+GUIDED+FISHING.JPG?format=2500w",
+      "page": "https://www.fluxflyfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1333,
+      "height": 2000,
+      "original": "2500x3750",
+      "source": "https://images.squarespace-cdn.com/content/v1/698513483b3d3d31248f6a1c/aa3bcb2b-0585-46e7-b26e-3558329812ca/weipa-40FLUX+FLY+FISHING+WEIPA+GUIDED+FISHING+CHARTERS+CAPE+YORK.jpg?format=2500w",
+      "page": "https://www.fluxflyfishing.com/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.fluxflyfishing.com/",
+      "status": 200,
+      "final_url": "https://www.fluxflyfishing.com/",
+      "bytes": 675008
+    },
+    {
+      "page": "https://www.fluxflyfishing.com/cart",
+      "status": 200,
+      "final_url": "https://www.fluxflyfishing.com/cart",
+      "bytes": 299484
+    },
+    {
+      "page": "https://www.fluxflyfishing.com/about-us",
+      "status": 200,
+      "final_url": "https://www.fluxflyfishing.com/about-us",
+      "bytes": 470337
+    },
+    {
+      "page": "https://www.fluxflyfishing.com/tripoverview",
+      "status": 200,
+      "final_url": "https://www.fluxflyfishing.com/tripoverview",
+      "bytes": 403269
+    },
+    {
+      "page": "https://www.fluxflyfishing.com/our-guides",
+      "status": 200,
+      "final_url": "https://www.fluxflyfishing.com/our-guides",
+      "bytes": 393386
+    },
+    {
+      "page": "https://www.fluxflyfishing.com/vessels",
+      "status": 200,
+      "final_url": "https://www.fluxflyfishing.com/vessels",
+      "bytes": 367020
+    },
+    {
+      "page": "https://www.fluxflyfishing.com/the-fishing",
+      "status": 200,
+      "final_url": "https://www.fluxflyfishing.com/the-fishing",
+      "bytes": 363652
+    },
+    {
+      "page": "https://www.fluxflyfishing.com/our-history",
+      "status": 200,
+      "final_url": "https://www.fluxflyfishing.com/our-history",
+      "bytes": 276037
+    },
+    {
+      "page": "https://www.fluxflyfishing.com/faq",
+      "status": 200,
+      "final_url": "https://www.fluxflyfishing.com/faq",
+      "bytes": 387622
+    },
+    {
+      "page": "https://www.fluxflyfishing.com/weipa-lodge-based",
+      "status": 200,
+      "final_url": "https://www.fluxflyfishing.com/weipa-lodge-based",
+      "bytes": 364444
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/698513483b3d3d31248f6a1c/e5ed7267-ffd9-4dff-8832-b23636f69e26/FLUX_FLYFISHING.jpeg?format=2500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/698513483b3d3d31248f6a1c/e5ed7267-ffd9-4dff-8832-b23636f69e26/FLUX_FLYFISHING.jpeg?format=1500w"
+    }
+  ]
+}

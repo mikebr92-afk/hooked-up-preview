@@ -1,0 +1,657 @@
+{
+  "slug": "mackay-fly-sportfishing",
+  "request_hash": "abcd0f8779bc",
+  "collected_at": "2026-10-29T04:21:47.097Z",
+  "pages_fetched": [
+    "https://www.mackaysportfishing.com.au/",
+    "https://www.mackaysportfishing.com.au/about",
+    "https://www.mackaysportfishing.com.au/our-fleet",
+    "https://www.mackaysportfishing.com.au/links",
+    "https://www.mackaysportfishing.com.au/fishing-packages",
+    "https://www.mackaysportfishing.com.au/saltwater-fishing-packages",
+    "https://www.mackaysportfishing.com.au/freshwater-fishing-packages",
+    "https://www.mackaysportfishing.com.au/gallery",
+    "https://www.mackaysportfishing.com.au/mackay-fishery",
+    "https://www.mackaysportfishing.com.au/our-region"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1200,
+      "height": 1194,
+      "original": "1200x1194",
+      "source": "https://static.wixstatic.com/media/9aa483_05b7e4d9dd6d4142ab102416b425d6db~mv2.png",
+      "page": "https://www.mackaysportfishing.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2016x1512",
+      "source": "https://static.wixstatic.com/media/9aa483_9e8955ae0f254325bb8d97227755e425~mv2_d_2016_1512_s_2.jpg",
+      "page": "https://www.mackaysportfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1162,
+      "height": 1092,
+      "original": "1162x1092",
+      "source": "https://static.wixstatic.com/media/9aa483_8cce2055cb9744a1860055a9a47cf40b~mv2.png",
+      "page": "https://www.mackaysportfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://static.wixstatic.com/media/9aa483_c7b5107473674096a9906d1c99b0d71f~mv2.jpg",
+      "page": "https://www.mackaysportfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2048x1536",
+      "source": "https://static.wixstatic.com/media/9aa483_b7fd5e6d709a46eca829177f36325cc0~mv2_d_2048_1536_s_2.jpg",
+      "page": "https://www.mackaysportfishing.com.au/about",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 2000,
+      "height": 1416,
+      "original": "4555x3225",
+      "source": "https://static.wixstatic.com/media/9aa483_e3dc11b0e5814b8b91314496a58ea5bd~mv2_d_4555_3225_s_4_2.jpg",
+      "page": "https://www.mackaysportfishing.com.au/our-fleet",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1193,
+      "height": 1197,
+      "original": "1193x1197",
+      "source": "https://static.wixstatic.com/media/9aa483_6cb02b402ed14d419658127119826c27~mv2.png",
+      "page": "https://www.mackaysportfishing.com.au/links",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 2000,
+      "height": 864,
+      "original": "4475x1933",
+      "source": "https://static.wixstatic.com/media/9aa483_124b0353edb541eeade958f41ea05582~mv2_d_4475_1933_s_2.png",
+      "page": "https://www.mackaysportfishing.com.au/links",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 2000,
+      "height": 999,
+      "original": "2480x1239",
+      "source": "https://static.wixstatic.com/media/9aa483_9429395c951f419d9f14fa298122090f~mv2_d_2480_1239_s_2.png",
+      "page": "https://www.mackaysportfishing.com.au/links",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1188,
+      "height": 1192,
+      "original": "1188x1192",
+      "source": "https://static.wixstatic.com/media/9aa483_f5c21689bc0c4e0f9e5a877b747dc058~mv2.png",
+      "page": "https://www.mackaysportfishing.com.au/saltwater-fishing-packages",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 612,
+      "height": 452,
+      "original": "612x452",
+      "source": "https://static.wixstatic.com/media/9aa483_3bf21c672c814591b9df310fe00402e5~mv2.png/v1/crop/x_0,y_69,w_590,h_436/fill/w_612,h_452,al_c,lg_1,q_85,enc_avif,quality_auto/Permit%20Fly%20Fishing%20Mackay%20Whitsundays%20%20_.png",
+      "page": "https://www.mackaysportfishing.com.au/saltwater-fishing-packages",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 612,
+      "height": 452,
+      "original": "612x452",
+      "source": "https://static.wixstatic.com/media/9aa483_f5c21689bc0c4e0f9e5a877b747dc058~mv2.png/v1/fill/w_612,h_452,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Cumberland%20Island%20Group%20Queensfish.png",
+      "page": "https://www.mackaysportfishing.com.au/saltwater-fishing-packages",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 960,
+      "height": 640,
+      "original": "960x640",
+      "source": "https://static.wixstatic.com/media/9aa483_8d7c0cdcedf24c52b59ca2c7085f4720~mv2.jpg",
+      "page": "https://www.mackaysportfishing.com.au/freshwater-fishing-packages",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 612,
+      "height": 452,
+      "original": "612x452",
+      "source": "https://static.wixstatic.com/media/9aa483_15ff6eae90824f8f92d5904fa63b4d86~mv2.png/v1/fill/w_612,h_452,al_c,lg_1,q_85,enc_avif,quality_auto/Barramundi%20Fishing%20Mackay%20Teemburra%20Dam_.png",
+      "page": "https://www.mackaysportfishing.com.au/freshwater-fishing-packages",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1280,
+      "height": 720,
+      "original": "1280x720",
+      "source": "https://i.ytimg.com/vi/qGsynlm43Ho/maxresdefault.jpg",
+      "page": "https://www.mackaysportfishing.com.au/gallery",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 2000,
+      "height": 1335,
+      "original": "5000x3337",
+      "source": "https://static.wixstatic.com/media/11062b_822fbb98567b4d468ba68c6cbfa31a8c~mv2.jpg",
+      "page": "https://www.mackaysportfishing.com.au/mackay-fishery",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.mackaysportfishing.com.au/",
+      "status": 200,
+      "final_url": "https://www.mackaysportfishing.com.au/",
+      "bytes": 835862
+    },
+    {
+      "page": "https://www.mackaysportfishing.com.au/about",
+      "status": 200,
+      "final_url": "https://www.mackaysportfishing.com.au/about",
+      "bytes": 555077
+    },
+    {
+      "page": "https://www.mackaysportfishing.com.au/our-fleet",
+      "status": 200,
+      "final_url": "https://www.mackaysportfishing.com.au/our-fleet",
+      "bytes": 563719
+    },
+    {
+      "page": "https://www.mackaysportfishing.com.au/links",
+      "status": 200,
+      "final_url": "https://www.mackaysportfishing.com.au/links",
+      "bytes": 572852
+    },
+    {
+      "page": "https://www.mackaysportfishing.com.au/fishing-packages",
+      "status": 200,
+      "final_url": "https://www.mackaysportfishing.com.au/fishing-packages",
+      "bytes": 583036
+    },
+    {
+      "page": "https://www.mackaysportfishing.com.au/saltwater-fishing-packages",
+      "status": 200,
+      "final_url": "https://www.mackaysportfishing.com.au/saltwater-fishing-packages",
+      "bytes": 579488
+    },
+    {
+      "page": "https://www.mackaysportfishing.com.au/freshwater-fishing-packages",
+      "status": 200,
+      "final_url": "https://www.mackaysportfishing.com.au/freshwater-fishing-packages",
+      "bytes": 577116
+    },
+    {
+      "page": "https://www.mackaysportfishing.com.au/gallery",
+      "status": 200,
+      "final_url": "https://www.mackaysportfishing.com.au/gallery",
+      "bytes": 766879
+    },
+    {
+      "page": "https://www.mackaysportfishing.com.au/mackay-fishery",
+      "status": 200,
+      "final_url": "https://www.mackaysportfishing.com.au/mackay-fishery",
+      "bytes": 582578
+    },
+    {
+      "page": "https://www.mackaysportfishing.com.au/our-region",
+      "status": 200,
+      "final_url": "https://www.mackaysportfishing.com.au/our-region",
+      "bytes": 565965
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/9aa483_05b7e4d9dd6d4142ab102416b425d6db~mv2.png/v1/fill/w_1200,h_1194,al_c/9aa483_05b7e4d9dd6d4142ab102416b425d6db~mv2.png"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/9aa483_f41089e218e942f88f8dd8bb9320adb9~mv2.png",
+      "error": "too small 600x137"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/9aa483_f41089e218e942f88f8dd8bb9320adb9~mv2.png/v1/fill/w_500,h_114,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/9aa483_f41089e218e942f88f8dd8bb9320adb9~mv2.png",
+      "error": "too small 500x114"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/23fd2a2be53141ed810f4d3dcdcd01fa.png",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/23fd2a2be53141ed810f4d3dcdcd01fa.png/v1/fill/w_27,h_27,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/23fd2a2be53141ed810f4d3dcdcd01fa.png",
+      "error": "too small 27x27"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/81af6121f84c41a5b4391d7d37fce12a.png",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/81af6121f84c41a5b4391d7d37fce12a.png/v1/fill/w_27,h_27,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/81af6121f84c41a5b4391d7d37fce12a.png",
+      "error": "too small 27x27"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/203dcdc2ac8b48de89313f90d2a4cda1.png",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/203dcdc2ac8b48de89313f90d2a4cda1.png/v1/fill/w_27,h_27,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/203dcdc2ac8b48de89313f90d2a4cda1.png",
+      "error": "too small 27x27"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/eb9767422f0e4c41a507d3e67c4ebac8.png",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/eb9767422f0e4c41a507d3e67c4ebac8.png/v1/fill/w_27,h_27,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/eb9767422f0e4c41a507d3e67c4ebac8.png",
+      "error": "too small 27x27"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/9aa483_05b7e4d9dd6d4142ab102416b425d6db~mv2.png/v1/fill/w_49,h_49,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/9aa483_05b7e4d9dd6d4142ab102416b425d6db~mv2.png",
+      "error": "too small 49x49"
+    },
+    {
+      "image": "https://www.mackaysportfishing.com.au/quality_auto/9aa483_f41089e218e942f88f8dd8bb9320adb9~mv2.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.mackaysportfishing.com.au/quality_auto/23fd2a2be53141ed810f4d3dcdcd01fa.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.mackaysportfishing.com.au/quality_auto/81af6121f84c41a5b4391d7d37fce12a.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.mackaysportfishing.com.au/quality_auto/203dcdc2ac8b48de89313f90d2a4cda1.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.mackaysportfishing.com.au/quality_auto/eb9767422f0e4c41a507d3e67c4ebac8.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.mackaysportfishing.com.au/enc_auto/file.jpeg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/9aa483_8cc2f0008c4f4111b96220e38e143caf%7Emv2.png",
+      "error": "too small 407x409"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/9aa483_8cc2f0008c4f4111b96220e38e143caf%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/9aa483_8cc2f0008c4f4111b96220e38e143caf%7Emv2.png",
+      "error": "too small 192x192"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/9aa483_8cc2f0008c4f4111b96220e38e143caf%7Emv2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/9aa483_8cc2f0008c4f4111b96220e38e143caf%7Emv2.png",
+      "error": "too small 32x32"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/9aa483_8cc2f0008c4f4111b96220e38e143caf%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/9aa483_8cc2f0008c4f4111b96220e38e143caf%7Emv2.png",
+      "error": "too small 180x180"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/9aa483_c7b5107473674096a9906d1c99b0d71f~mv2.jpg/v1/fill/w_330,h_330,enc_auto/file.jpeg",
+      "error": "too small 330x330"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/9aa483_f41089e218e942f88f8dd8bb9320adb9~mv2.png/v1/fill/w_840,h_192,al_c,lg_1,q_85,enc_avif,quality_auto/9aa483_f41089e218e942f88f8dd8bb9320adb9~mv2.png",
+      "error": "too small 840x192"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/23fd2a2be53141ed810f4d3dcdcd01fa.png/v1/fill/w_54,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/23fd2a2be53141ed810f4d3dcdcd01fa.png",
+      "error": "too small 54x54"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/81af6121f84c41a5b4391d7d37fce12a.png/v1/fill/w_54,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/81af6121f84c41a5b4391d7d37fce12a.png",
+      "error": "too small 54x54"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/203dcdc2ac8b48de89313f90d2a4cda1.png/v1/fill/w_54,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/203dcdc2ac8b48de89313f90d2a4cda1.png",
+      "error": "too small 54x54"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/eb9767422f0e4c41a507d3e67c4ebac8.png/v1/fill/w_54,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/eb9767422f0e4c41a507d3e67c4ebac8.png",
+      "error": "too small 54x54"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/9aa483_9e8955ae0f254325bb8d97227755e425~mv2_d_2016_1512_s_2.jpg/v1/fill/w_147,h_111,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/9aa483_9e8955ae0f254325bb8d97227755e425~mv2_d_2016_1512_s_2.jpg",
+      "error": "too small 147x111"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/9aa483_8cce2055cb9744a1860055a9a47cf40b~mv2.png/v1/fill/w_49,h_46,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/9aa483_8cce2055cb9744a1860055a9a47cf40b~mv2.png",
+      "error": "too small 49x46"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/9aa483_c7b5107473674096a9906d1c99b0d71f~mv2.jpg/v1/fill/w_1280,h_720,enc_auto/file.jpeg&quot;"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/9aa483_c7b5107473674096a9906d1c99b0d71f~mv2.jpg/v1/fill/w_2560,h_1440,enc_auto/file.jpeg&quot;"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/9aa483_c7b5107473674096a9906d1c99b0d71f~mv2.jpg/v1/fill/w_3840,h_2160,enc_auto/file.jpeg&quot;"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/9aa483_c7b5107473674096a9906d1c99b0d71f~mv2.jpg/v1/fill/w_1280,h_720,enc_auto/file.jpeg"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/9aa483_c7b5107473674096a9906d1c99b0d71f~mv2.jpg/v1/fill/w_2560,h_1440,enc_auto/file.jpeg"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/9aa483_c7b5107473674096a9906d1c99b0d71f~mv2.jpg/v1/fill/w_3840,h_2160,enc_auto/file.jpeg"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/9aa483_543535a13cab4d28b6df0b07012cb3b8%7Emv2.png",
+      "error": "too small 507x161"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/9aa483_543535a13cab4d28b6df0b07012cb3b8%7Emv2.png/v1/fit/w_2500,h_1330,al_c/9aa483_543535a13cab4d28b6df0b07012cb3b8%7Emv2.png",
+      "error": "too small 507x161"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/23fd2a2be53141ed810f4d3dcdcd01fa.png/v1/fill/w_43,h_43,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/23fd2a2be53141ed810f4d3dcdcd01fa.png",
+      "error": "too small 43x43"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/81af6121f84c41a5b4391d7d37fce12a.png/v1/fill/w_43,h_43,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/81af6121f84c41a5b4391d7d37fce12a.png",
+      "error": "too small 43x43"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/9aa483_b7fd5e6d709a46eca829177f36325cc0~mv2_d_2048_1536_s_2.jpg/v1/fill/w_147,h_110,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/9aa483_b7fd5e6d709a46eca829177f36325cc0~mv2_d_2048_1536_s_2.jpg",
+      "error": "too small 147x110"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/23fd2a2be53141ed810f4d3dcdcd01fa.png/v1/fill/w_86,h_86,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/23fd2a2be53141ed810f4d3dcdcd01fa.png",
+      "error": "too small 86x86"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/81af6121f84c41a5b4391d7d37fce12a.png/v1/fill/w_86,h_86,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/81af6121f84c41a5b4391d7d37fce12a.png",
+      "error": "too small 86x86"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/9aa483_4d51841b4b564cb3897f2b9dfc5810c7~mv2.jpg",
+      "error": "too small 980x331"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/9aa483_4d51841b4b564cb3897f2b9dfc5810c7~mv2.jpg/v1/fill/w_600,h_203,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/9aa483_4d51841b4b564cb3897f2b9dfc5810c7~mv2.jpg",
+      "error": "too small 600x203"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/9aa483_08e14ebbba914bbfb6f7ac3748b072e5~mv2.jpg",
+      "error": "too small 980x331"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/9aa483_08e14ebbba914bbfb6f7ac3748b072e5~mv2.jpg/v1/fill/w_600,h_203,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/9aa483_08e14ebbba914bbfb6f7ac3748b072e5~mv2.jpg",
+      "error": "too small 600x203"
+    },
+    {
+      "image": "https://www.mackaysportfishing.com.au/quality_auto/9aa483_4d51841b4b564cb3897f2b9dfc5810c7~mv2.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.mackaysportfishing.com.au/quality_auto/9aa483_08e14ebbba914bbfb6f7ac3748b072e5~mv2.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/9aa483_e3dc11b0e5814b8b91314496a58ea5bd~mv2_d_4555_3225_s_4_2.jpg/v1/fill/w_147,h_104,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/9aa483_e3dc11b0e5814b8b91314496a58ea5bd~mv2_d_4555_3225_s_4_2.jpg",
+      "error": "too small 147x104"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/9aa483_4d51841b4b564cb3897f2b9dfc5810c7~mv2.jpg/v1/fill/w_1174,h_397,al_c,lg_1,q_85,enc_avif,quality_auto/9aa483_4d51841b4b564cb3897f2b9dfc5810c7~mv2.jpg",
+      "error": "too small 1174x397"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/9aa483_08e14ebbba914bbfb6f7ac3748b072e5~mv2.jpg/v1/fill/w_1174,h_397,al_c,lg_1,q_85,enc_avif,quality_auto/9aa483_08e14ebbba914bbfb6f7ac3748b072e5~mv2.jpg",
+      "error": "too small 1174x397"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/9aa483_1da29e86a72a45d5855115403bc64fa7~mv2.png",
+      "error": "too small 1966x244"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/9aa483_1da29e86a72a45d5855115403bc64fa7~mv2.png/v1/fill/w_600,h_74,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/9aa483_1da29e86a72a45d5855115403bc64fa7~mv2.png",
+      "error": "too small 600x74"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/9aa483_82a3d98000034924af8c22ce9956edfa~mv2.jpg",
+      "error": "too small 208x140"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/9aa483_82a3d98000034924af8c22ce9956edfa~mv2.jpg/v1/fill/w_261,h_179,al_c,lg_1,q_80,enc_avif,quality_auto/9aa483_82a3d98000034924af8c22ce9956edfa~mv2.jpg",
+      "error": "too small 261x179"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/9aa483_2204e5cf2efa45319485c526b4b106c1~mv2.png",
+      "error": "too small 200x100"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/9aa483_2204e5cf2efa45319485c526b4b106c1~mv2.png/v1/fill/w_280,h_123,al_c,lg_1,q_85,enc_avif,quality_auto/9aa483_2204e5cf2efa45319485c526b4b106c1~mv2.png",
+      "error": "too small 280x123"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/9aa483_d6db9247ef6847a497ac2e0ce7e61af2~mv2.png",
+      "error": "too small 244x49"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/9aa483_d6db9247ef6847a497ac2e0ce7e61af2~mv2.png/v1/fill/w_313,h_63,al_c,lg_1,q_85,enc_avif,quality_auto/9aa483_d6db9247ef6847a497ac2e0ce7e61af2~mv2.png",
+      "error": "too small 313x63"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/9aa483_c9fde562fbd44965a6ca13eef09a4aef~mv2.png",
+      "error": "banner/strip 5000x870"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/9aa483_c9fde562fbd44965a6ca13eef09a4aef~mv2.png/v1/fill/w_600,h_90,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/9aa483_c9fde562fbd44965a6ca13eef09a4aef~mv2.png",
+      "error": "too small 600x90"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/9aa483_5a590c16995a46dd8bdee5f226dd71d0~mv2.png",
+      "error": "too small 313x125"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/9aa483_5a590c16995a46dd8bdee5f226dd71d0~mv2.png/v1/fill/w_313,h_125,al_c,q_85,enc_avif,quality_auto/9aa483_5a590c16995a46dd8bdee5f226dd71d0~mv2.png",
+      "error": "too small 313x125"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/9aa483_121de07fcd824df2a5444eb96bdda651~mv2.png",
+      "error": "too small 650x178"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/9aa483_121de07fcd824df2a5444eb96bdda651~mv2.png/v1/fill/w_313,h_87,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/9aa483_121de07fcd824df2a5444eb96bdda651~mv2.png",
+      "error": "too small 313x87"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/9aa483_a2abd6afdfdd461d8b9b0be75bcf62cf~mv2.png",
+      "error": "too small 208x65"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/9aa483_a2abd6afdfdd461d8b9b0be75bcf62cf~mv2.png/v1/fill/w_208,h_65,al_c,q_85,enc_avif,quality_auto/9aa483_a2abd6afdfdd461d8b9b0be75bcf62cf~mv2.png",
+      "error": "too small 208x65"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/9aa483_e812249385e342c7a552ba32d03856d0~mv2.png",
+      "error": "too small 230x43"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/9aa483_e812249385e342c7a552ba32d03856d0~mv2.png/v1/fill/w_230,h_43,al_c,q_85,enc_avif,quality_auto/9aa483_e812249385e342c7a552ba32d03856d0~mv2.png",
+      "error": "too small 230x43"
+    },
+    {
+      "image": "https://www.mackaysportfishing.com.au/quality_auto/9aa483_1da29e86a72a45d5855115403bc64fa7~mv2.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.mackaysportfishing.com.au/quality_auto/9aa483_82a3d98000034924af8c22ce9956edfa~mv2.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.mackaysportfishing.com.au/quality_auto/9aa483_2204e5cf2efa45319485c526b4b106c1~mv2.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.mackaysportfishing.com.au/quality_auto/9aa483_d6db9247ef6847a497ac2e0ce7e61af2~mv2.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.mackaysportfishing.com.au/quality_auto/9aa483_c9fde562fbd44965a6ca13eef09a4aef~mv2.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.mackaysportfishing.com.au/quality_auto/9aa483_124b0353edb541eeade958f41ea05582~mv2_d_4475_1933_s_2.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.mackaysportfishing.com.au/quality_auto/9aa483_9429395c951f419d9f14fa298122090f~mv2_d_2480_1239_s_2.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.mackaysportfishing.com.au/quality_auto/9aa483_5a590c16995a46dd8bdee5f226dd71d0~mv2.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.mackaysportfishing.com.au/quality_auto/9aa483_121de07fcd824df2a5444eb96bdda651~mv2.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.mackaysportfishing.com.au/quality_auto/9aa483_a2abd6afdfdd461d8b9b0be75bcf62cf~mv2.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.mackaysportfishing.com.au/quality_auto/9aa483_e812249385e342c7a552ba32d03856d0~mv2.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/9aa483_6cb02b402ed14d419658127119826c27~mv2.png/v1/fill/w_41,h_41,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/9aa483_6cb02b402ed14d419658127119826c27~mv2.png",
+      "error": "too small 41x41"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/9aa483_1da29e86a72a45d5855115403bc64fa7~mv2.png/v1/fill/w_1200,h_148,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/9aa483_1da29e86a72a45d5855115403bc64fa7~mv2.png",
+      "error": "too small 1200x148"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/9aa483_82a3d98000034924af8c22ce9956edfa~mv2.jpg/v1/fill/w_286,h_196,al_c,lg_1,q_80,enc_avif,quality_auto/9aa483_82a3d98000034924af8c22ce9956edfa~mv2.jpg",
+      "error": "too small 286x196"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/9aa483_d6db9247ef6847a497ac2e0ce7e61af2~mv2.png/v1/fill/w_341,h_69,al_c,lg_1,q_85,enc_avif,quality_auto/9aa483_d6db9247ef6847a497ac2e0ce7e61af2~mv2.png",
+      "error": "too small 341x69"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/9aa483_c9fde562fbd44965a6ca13eef09a4aef~mv2.png/v1/fill/w_1200,h_180,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/9aa483_c9fde562fbd44965a6ca13eef09a4aef~mv2.png",
+      "error": "too small 1200x180"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/9aa483_124b0353edb541eeade958f41ea05582~mv2_d_4475_1933_s_2.png/v1/fill/w_274,h_120,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/9aa483_124b0353edb541eeade958f41ea05582~mv2_d_4475_1933_s_2.png",
+      "error": "too small 274x120"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/9aa483_124b0353edb541eeade958f41ea05582~mv2_d_4475_1933_s_2.png/v1/fill/w_548,h_240,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/9aa483_124b0353edb541eeade958f41ea05582~mv2_d_4475_1933_s_2.png",
+      "error": "too small 548x240"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/9aa483_9429395c951f419d9f14fa298122090f~mv2_d_2480_1239_s_2.png/v1/fill/w_219,h_126,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/9aa483_9429395c951f419d9f14fa298122090f~mv2_d_2480_1239_s_2.png",
+      "error": "too small 219x126"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/9aa483_9429395c951f419d9f14fa298122090f~mv2_d_2480_1239_s_2.png/v1/fill/w_438,h_252,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/9aa483_9429395c951f419d9f14fa298122090f~mv2_d_2480_1239_s_2.png",
+      "error": "too small 438x252"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/9aa483_5a590c16995a46dd8bdee5f226dd71d0~mv2.png/v1/fill/w_438,h_175,al_c,lg_1,q_85,enc_avif,quality_auto/9aa483_5a590c16995a46dd8bdee5f226dd71d0~mv2.png",
+      "error": "too small 438x175"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/9aa483_121de07fcd824df2a5444eb96bdda651~mv2.png/v1/fill/w_626,h_174,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/9aa483_121de07fcd824df2a5444eb96bdda651~mv2.png",
+      "error": "too small 626x174"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/9aa483_a2abd6afdfdd461d8b9b0be75bcf62cf~mv2.png/v1/fill/w_291,h_91,al_c,lg_1,q_85,enc_avif,quality_auto/9aa483_a2abd6afdfdd461d8b9b0be75bcf62cf~mv2.png",
+      "error": "too small 291x91"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/9aa483_e812249385e342c7a552ba32d03856d0~mv2.png/v1/fill/w_322,h_60,al_c,lg_1,q_85,enc_avif,quality_auto/9aa483_e812249385e342c7a552ba32d03856d0~mv2.png",
+      "error": "too small 322x60"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/9aa483_3bf21c672c814591b9df310fe00402e5~mv2.png",
+      "error": "too small 590x574"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/9aa483_3bf21c672c814591b9df310fe00402e5~mv2.png/v1/crop/x_0,y_69,w_590,h_436/fill/w_306,h_226,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Permit%20Fly%20Fishing%20Mackay%20Whitsundays%20%20_.png",
+      "error": "too small 306x226"
+    },
+    {
+      "image": "https://www.mackaysportfishing.com.au/quality_auto/Permit%20Fly%20Fishing%20Mackay%20Whitsundays%20%20_.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.mackaysportfishing.com.au/quality_auto/Cumberland%20Island%20Group%20Queensfish.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/9aa483_f5c21689bc0c4e0f9e5a877b747dc058~mv2.png/v1/fill/w_306,h_226,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Cumberland%20Island%20Group%20Queensfish.png",
+      "error": "too small 306x226"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/9aa483_15ff6eae90824f8f92d5904fa63b4d86~mv2.png",
+      "error": "too small 590x592"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/9aa483_15ff6eae90824f8f92d5904fa63b4d86~mv2.png/v1/fill/w_306,h_226,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Barramundi%20Fishing%20Mackay%20Teemburra%20Dam_.png",
+      "error": "too small 306x226"
+    },
+    {
+      "image": "https://www.mackaysportfishing.com.au/quality_auto/Barramundi%20Fishing%20Mackay%20Teemburra%20Dam_.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.mackaysportfishing.com.au/quality_auto/Ladies%20Barramundi%20Charters%20Kinchant%20Dam%20.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/9aa483_8d7c0cdcedf24c52b59ca2c7085f4720~mv2.jpg/v1/fill/w_306,h_226,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Ladies%20Barramundi%20Charters%20Kinchant%20Dam%20.jpg",
+      "error": "too small 306x226"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/9aa483_8d7c0cdcedf24c52b59ca2c7085f4720~mv2.jpg/v1/fill/w_612,h_452,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Ladies%20Barramundi%20Charters%20Kinchant%20Dam%20.jpg"
+    },
+    {
+      "image": "https://www.mackaysportfishing.com.au/&quot;https://i.ytimg.com/vi/qGsynlm43Ho/maxresdefault.jpg&quot;",
+      "error": "HTTP 400"
+    },
+    {
+      "image": "https://i.ytimg.com/vi/qGsynlm43Ho/mqdefault.jpg",
+      "error": "too small 320x180"
+    },
+    {
+      "image": "https://i.ytimg.com/vi/sVTtYCDfu4s/mqdefault.jpg",
+      "error": "too small 320x180"
+    },
+    {
+      "image": "https://i.ytimg.com/vi/DRmVoGaqMLc/mqdefault.jpg",
+      "error": "too small 320x180"
+    },
+    {
+      "image": "https://i.ytimg.com/vi/xsKt7DLD8ZQ/mqdefault.jpg",
+      "error": "too small 320x180"
+    }
+  ]
+}

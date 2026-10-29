@@ -1,5 +1,5 @@
 {
-  "finished_at": "2026-10-29T04:16:20.160Z",
+  "finished_at": "2026-10-29T04:22:32.174Z",
   "summary": [
     {
       "slug": "research-mackay-region",
@@ -215,33 +215,72 @@
     },
     {
       "slug": "tpd-akula",
-      "candidates": 10,
-      "pages": 2
+      "skipped": true
     },
     {
       "slug": "tpd-hook-up",
-      "candidates": 7,
-      "pages": 3
+      "skipped": true
     },
     {
       "slug": "tpd-daintree-river-fishing",
-      "candidates": 3,
-      "pages": 1
+      "skipped": true
     },
     {
       "slug": "research-mackay2",
-      "candidates": 0,
-      "pages": 7
+      "skipped": true
     },
     {
       "slug": "research-missionbeach",
-      "candidates": 0,
-      "pages": 3
+      "skipped": true
     },
     {
       "slug": "research-whitsunday2",
+      "skipped": true
+    },
+    {
+      "slug": "daintree-river-fishing2",
+      "candidates": 2,
+      "pages": 5
+    },
+    {
+      "slug": "carpentaria-barra2",
       "candidates": 0,
-      "pages": 4
+      "pages": 5
+    },
+    {
+      "slug": "crackajack-sportfishing-lucinda",
+      "candidates": 1,
+      "pages": 1
+    },
+    {
+      "slug": "mackay-fly-sportfishing",
+      "candidates": 16,
+      "pages": 10
+    },
+    {
+      "slug": "out-n-about-tpd-images",
+      "candidates": 5,
+      "pages": 0
+    },
+    {
+      "slug": "flux-fly-fishing",
+      "candidates": 8,
+      "pages": 10
+    },
+    {
+      "slug": "ian-moody-atdw",
+      "candidates": 8,
+      "pages": 1
+    },
+    {
+      "slug": "gone-fishing-cooktown2",
+      "candidates": 0,
+      "pages": 2
+    },
+    {
+      "slug": "mission-beach-charters",
+      "candidates": 12,
+      "pages": 12
     }
   ]
 }

@@ -1,0 +1,45 @@
+{
+  "slug": "carpentaria-barra2",
+  "request_hash": "77ac25c1c8e3",
+  "collected_at": "2026-10-29T04:21:11.582Z",
+  "pages_fetched": [
+    "https://www.carpentariabarra.com.au/fishing-packages/",
+    "https://www.carpentariabarra.com.au/vesselstackle/",
+    "https://www.carpentariabarra.com.au/fishing-guide/",
+    "https://www.carpentariabarra.com.au/the-gulf/",
+    "https://www.carpentariabarra.com.au/?page_id=2"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.carpentariabarra.com.au/fishing-packages/",
+      "status": 404,
+      "final_url": "https://www.carpentariabarra.com.au/fishing-packages/",
+      "bytes": 1251
+    },
+    {
+      "page": "https://www.carpentariabarra.com.au/vesselstackle/",
+      "status": 404,
+      "final_url": "https://www.carpentariabarra.com.au/vesselstackle/",
+      "bytes": 1251
+    },
+    {
+      "page": "https://www.carpentariabarra.com.au/fishing-guide/",
+      "status": 404,
+      "final_url": "https://www.carpentariabarra.com.au/fishing-guide/",
+      "bytes": 1251
+    },
+    {
+      "page": "https://www.carpentariabarra.com.au/the-gulf/",
+      "status": 404,
+      "final_url": "https://www.carpentariabarra.com.au/the-gulf/",
+      "bytes": 1251
+    },
+    {
+      "page": "https://www.carpentariabarra.com.au/?page_id=2",
+      "status": 404,
+      "final_url": "https://www.carpentariabarra.com.au/?page_id=2",
+      "bytes": 193595
+    }
+  ]
+}

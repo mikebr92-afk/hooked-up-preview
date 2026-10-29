@@ -1,0 +1,54 @@
+{
+  "slug": "out-n-about-tpd-images",
+  "request_hash": "7be6c80df262",
+  "collected_at": "2026-10-29T04:21:53.651Z",
+  "pages_fetched": [],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 989,
+      "height": 431,
+      "original": "989x431",
+      "source": "https://tourismportdouglas.com.au/fileadmin/user_upload/Businesses/O/Out-n-About-Sportsfishing-3.jpg",
+      "page": "direct",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 875,
+      "height": 430,
+      "original": "875x430",
+      "source": "https://tourismportdouglas.com.au/fileadmin/user_upload/Businesses/O/Out-n-About-Sportsfishing-2.jpg",
+      "page": "direct",
+      "priority": true
+    },
+    {
+      "file": "c03.webp",
+      "width": 876,
+      "height": 430,
+      "original": "876x430",
+      "source": "https://tourismportdouglas.com.au/fileadmin/user_upload/Businesses/O/Out-n-About-Sportsfishing-5.jpg",
+      "page": "direct",
+      "priority": true
+    },
+    {
+      "file": "c04.webp",
+      "width": 678,
+      "height": 568,
+      "original": "678x568",
+      "source": "https://tourismportdouglas.com.au/fileadmin/user_upload/Businesses/O/Out-n-About-Sportsfishing-6.jpg",
+      "page": "direct",
+      "priority": true
+    },
+    {
+      "file": "c05.webp",
+      "width": 718,
+      "height": 567,
+      "original": "718x567",
+      "source": "https://tourismportdouglas.com.au/fileadmin/user_upload/Businesses/O/Out-n-About-Sportsfishing.jpg",
+      "page": "direct",
+      "priority": true
+    }
+  ],
+  "log": []
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "crackajack-sportfishing-lucinda",
+  "request_hash": "4e4069b7b5b0",
+  "collected_at": "2026-10-29T04:21:13.524Z",
+  "pages_fetched": [
+    "https://crackfish.com/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 2000,
+      "height": 1125,
+      "original": "2560x1440",
+      "source": "https://img1.wsimg.com/isteam/ip/87793551-9362-4e8b-80a2-7988fff41a68/flyimage.jpg",
+      "page": "https://crackfish.com/",
+      "priority": true
+    }
+  ],
+  "log": [
+    {
+      "page": "https://crackfish.com/",
+      "status": 200,
+      "final_url": "https://crackfish.com/",
+      "bytes": 136756
+    },
+    {
+      "image": "https://img1.wsimg.com/isteam/ip/87793551-9362-4e8b-80a2-7988fff41a68/All.JPG/:/cr=t:17.42%25,l:9.71%25,w:29.94%25,h:28.91%25/rs=w:600,h:300,cg:true,m",
+      "error": "too small 600x300"
+    },
+    {
+      "image": "https://img1.wsimg.com/isteam/ip/87793551-9362-4e8b-80a2-7988fff41a68/All.JPG/:/cr=t:16.8%25,l:56.64%25,w:34.25%25,h:33.07%25/rs=w:600,h:300,cg:true,m",
+      "error": "too small 600x300"
+    },
+    {
+      "image": "h:380/qt=q:95",
+      "error": "fetch failed"
+    },
+    {
+      "image": "https://crackfish.com/m",
+      "error": "HTTP 404"
+    }
+  ]
+}

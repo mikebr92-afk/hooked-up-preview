@@ -1,0 +1,24 @@
+{
+  "slug": "gone-fishing-cooktown2",
+  "request_hash": "90b33cd446c2",
+  "collected_at": "2026-10-29T04:22:10.997Z",
+  "pages_fetched": [
+    "http://fishingcooktown.com/prices/",
+    "http://fishingcooktown.com/our-vessels/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "http://fishingcooktown.com/prices/",
+      "status": 200,
+      "final_url": "http://fishingcooktown.com/prices/",
+      "bytes": 49005
+    },
+    {
+      "page": "http://fishingcooktown.com/our-vessels/",
+      "status": 200,
+      "final_url": "http://fishingcooktown.com/our-vessels/",
+      "bytes": 98436
+    }
+  ]
+}
