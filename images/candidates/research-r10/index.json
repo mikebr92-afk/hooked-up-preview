@@ -1,0 +1,38 @@
+{
+  "slug": "research-r10",
+  "request_hash": "5f105e281e85",
+  "collected_at": "2026-10-29T04:34:39.883Z",
+  "pages_fetched": [
+    "https://visitmountgambier.com.au/atdw-product/670eeedd323d15860fc607e5",
+    "https://www.big4.com.au/caravan-parks/nsw/northern-rivers/solitary-islands-resort-wooli/whats-local/solitary-island-fishing-charters-670eeedd323d15860fc607e5",
+    "https://australiasguide.com/nsw/attraction-tour/clarence-valley/wooli/solitary-island-fishing-charters/",
+    "https://r.jina.ai/https://www.visitnsw.com/destinations/north-coast/clarence-valley/wooli/attractions/solitary-island-fishing-charters"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://visitmountgambier.com.au/atdw-product/670eeedd323d15860fc607e5",
+      "status": 200,
+      "final_url": "https://visitmountgambier.com.au/atdw-product/670eeedd323d15860fc607e5/",
+      "bytes": 102011
+    },
+    {
+      "page": "https://www.big4.com.au/caravan-parks/nsw/northern-rivers/solitary-islands-resort-wooli/whats-local/solitary-island-fishing-charters-670eeedd323d15860fc607e5",
+      "status": 404,
+      "final_url": "https://www.big4.com.au/caravan-parks/nsw/northern-rivers/solitary-islands-resort-wooli/whats-local/solitary-island-fishing-charters-670eeedd323d15860fc607e5",
+      "bytes": 122895
+    },
+    {
+      "page": "https://australiasguide.com/nsw/attraction-tour/clarence-valley/wooli/solitary-island-fishing-charters/",
+      "status": 404,
+      "final_url": "https://australiasguide.com/nsw/attraction-tour/clarence-valley/wooli/solitary-island-fishing-charters/",
+      "bytes": 103402
+    },
+    {
+      "page": "https://r.jina.ai/https://www.visitnsw.com/destinations/north-coast/clarence-valley/wooli/attractions/solitary-island-fishing-charters",
+      "status": 200,
+      "final_url": "https://r.jina.ai/https://www.visitnsw.com/destinations/north-coast/clarence-valley/wooli/attractions/solitary-island-fishing-charters",
+      "bytes": 18367
+    }
+  ]
+}

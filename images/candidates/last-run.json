@@ -1,5 +1,5 @@
 {
-  "finished_at": "2026-10-29T04:33:01.883Z",
+  "finished_at": "2026-10-29T04:35:00.259Z",
   "summary": [
     {
       "slug": "cronulla-reef-fishing-charters",
@@ -129,6 +129,11 @@
     {
       "slug": "research-sydney",
       "skipped": true
+    },
+    {
+      "slug": "research-r10",
+      "candidates": 0,
+      "pages": 4
     },
     {
       "slug": "research-dpi-register",
@@ -311,8 +316,7 @@
     },
     {
       "slug": "research-r9",
-      "candidates": 0,
-      "pages": 5
+      "skipped": true
     }
   ]
 }
