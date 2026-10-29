@@ -1,0 +1,31 @@
+{
+ "requests": [
+  {
+   "slug": "seo-guide-eden",
+   "pages": [
+    "https://www.visiteden.com.au/experience/fishing/",
+    "https://www.sapphirecoast.com.au/fishing",
+    "https://sapphire-coast.com.au/?p=1054",
+    "https://www.tradeaboat.com.au/news-reviews/8081-eden-nsw-fishing-and-boating",
+    "https://begavalley.nsw.gov.au/community/merimbula-boat-ramp",
+    "https://www.escapetomerimbula.com.au/getting-here",
+    "https://www.escapetomerimbula.com.au/fishing-boating",
+    "https://www.visitnsw.com/destinations/south-coast/merimbula-and-sapphire-coast/pambula/attractions/pambula-lake"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false,
+   "force": true
+  },
+  {
+   "slug": "seo-guide-jervis-bay",
+   "pages": [
+    "https://www.dpi.nsw.gov.au/fishing/marine-protected-areas/marine-parks/jervis-bay-marine-park/recreational-fishing"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  }
+ ]
+}
