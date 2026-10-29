@@ -1,0 +1,84 @@
+{
+ "requests": [
+  {
+   "slug": "research-sydney3",
+   "pages": [
+    "https://fishabout.com.au/sydney/",
+    "https://fishingstatus.com/fishing/directory/groupID/10214",
+    "https://r.jina.ai/https://www.agfg.com.au/attraction/estuary-fishing-tours-31532",
+    "https://r.jina.ai/https://agfg.com.au/attraction/central-coast-reef-game-fishing-charters-26535"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  },
+  {
+   "slug": "research-southcoast",
+   "pages": [
+    "https://www.visitnsw.com/things-to-do/tours/game-charters-batemans-bay",
+    "https://visitnsw.com/things-to-do/tours/batemans-bay-fishing",
+    "https://www.visitnsw.com/things-to-do/tours/narooma-charters-and-barunguba-montague-island-tours",
+    "https://www.visitnsw.com/things-to-do/tours/simos-afloat-fishing-charters",
+    "https://www.shoalhaven.com/place/simos-afloat/",
+    "https://www.visiteden.com.au/experience/fishing/",
+    "https://www.sapphirecoast.com.au/fishing",
+    "https://r.jina.ai/https://naroomatours.rezdy.com/",
+    "https://r.jina.ai/https://fishingbooker.com/charters/view/8235"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  },
+  {
+   "slug": "research-north2",
+   "pages": [
+    "https://www.visitnsw.com/things-to-do/tours/calypso-fishing-adventures",
+    "https://playsport.com/byronbaycharters_ag_98d5502e",
+    "https://r.jina.ai/https://byronbaycharters70.rezdy.com/",
+    "https://www.visitnsw.com/things-to-do/tours/fozies-fishing-adventures"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  },
+  {
+   "slug": "sydney-fly-fishing",
+   "pages": [
+    "https://www.sydneyflyfishing.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "cushy-fishing-charters",
+   "pages": [
+    "https://www.cushyfishingcharters.com.au/",
+    "https://cushyfishingcharters.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "sea-buoys-ocean-charters",
+   "pages": [
+    "https://seabuoys.com.au/",
+    "https://www.seabuoys.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "cougar-cat-12-charters",
+   "pages": [
+    "http://www.cougarcat12.com.au/",
+    "https://www.cougarcat12.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  }
+ ]
+}
