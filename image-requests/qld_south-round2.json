@@ -1,0 +1,6 @@
+{"requests":[
+ {"slug":"guide-qld-rules2","pages":["https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/rules"],"text":true,"max":0,"follow":true,"force":true},
+ {"slug":"guide-noosa-blog","pages":["https://noosabluefishing.com.au/offshore-fishing-in-noosa-a-guide-to-the-best-seasons-and-species/","https://noosabluefishing.com.au/noosas-top-deep-sea-fishing-spots/","https://noosabluefishing.com.au/best-time-to-catch-snapper-tactics-depths-and-times-of-year/"],"text":true,"max":0,"follow":false,"force":true},
+ {"slug":"fish-the-deep-extra","pages":["https://www.fishthedeep.com/fishing-charters-queensland-faq/","https://www.fishthedeep.com/refund-policy/"],"text":true,"max":0,"follow":false,"force":true},
+ {"slug":"gbrmpa-zones","pages":["https://www.gbrmpa.gov.au/know-your-zones"],"text":true,"max":0,"follow":false,"force":true}
+]}
