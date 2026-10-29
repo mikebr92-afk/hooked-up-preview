@@ -1,0 +1,72 @@
+{
+ "requests": [
+  {
+   "slug": "tpd-akula",
+   "pages": [
+    "https://tourismportdouglas.com.au/akula-sportfishing-port-douglas",
+    "https://akulasportfishing.com.au/book-now/"
+   ],
+   "text": true,
+   "max": 10,
+   "follow": false
+  },
+  {
+   "slug": "tpd-hook-up",
+   "pages": [
+    "https://tourismportdouglas.com.au/hook-up-fishing-charters-port-douglas",
+    "https://www.hookupfishing.com.au/book-a-charter",
+    "https://www.hookupfishing.com.au/about-us"
+   ],
+   "text": true,
+   "max": 12,
+   "follow": false
+  },
+  {
+   "slug": "tpd-daintree-river-fishing",
+   "pages": [
+    "https://tourismportdouglas.com.au/daintree-river-fishing-with-david-patterson"
+   ],
+   "text": true,
+   "max": 10,
+   "follow": false
+  },
+  {
+   "slug": "research-mackay2",
+   "pages": [
+    "https://www.australias.guide/qld/attraction-tour/mackay/eimeo/inshore-fishing-mackay/",
+    "https://playsport.com/mackayflysportfishing_ag_bdeb91e5",
+    "https://playsport.com/mackayflysportfishing_ag_bdeb91e5/about",
+    "https://www.atdw.com.au/marketplace/697fed4798b38d5008e90aeb",
+    "https://www.hookedonmackay.com/offshore",
+    "https://www.hookedonmackay.com/inshore",
+    "https://www.hookedonmackay.com/seasonal-calendar"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  },
+  {
+   "slug": "research-missionbeach",
+   "pages": [
+    "https://www.missionbeachtourism.com/",
+    "https://www.missionbeachtourism.com/pdfs/mission_beach_charters.pdf",
+    "https://fishabout.com.au/?p=3364"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "research-whitsunday2",
+   "pages": [
+    "https://www.topnotchgamefishing.com.au/whitsundays-sailfish-fishing-charters/",
+    "https://www.topnotchgamefishing.com.au/whitsundays-black-marlin-charters/",
+    "https://www.tourismwhitsundays.com.au/blog/bowen-a-day-trippers-guide",
+    "https://www.visitburdekin.com.au/files/assets/tourism/v/1/plan-your-trip/brochures/burdekin-fishing-guide.pdf"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  }
+ ]
+}
