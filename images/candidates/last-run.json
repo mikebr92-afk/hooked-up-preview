@@ -1,5 +1,5 @@
 {
-  "finished_at": "2026-10-29T04:21:07.340Z",
+  "finished_at": "2026-10-29T04:24:54.896Z",
   "summary": [
     {
       "slug": "cronulla-reef-fishing-charters",
@@ -247,43 +247,50 @@
     },
     {
       "slug": "research-r5",
-      "candidates": 0,
-      "pages": 9
+      "skipped": true
     },
     {
       "slug": "game-on-charters-batemans-bay",
-      "candidates": 16,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "narooma-charters",
-      "candidates": 14,
-      "pages": 11
+      "skipped": true
     },
     {
       "slug": "estuary-fishing-tours",
-      "candidates": 0,
-      "pages": 1
+      "skipped": true
     },
     {
       "slug": "central-coast-reef-and-game-fishing-charters",
-      "candidates": 2,
-      "pages": 7
+      "skipped": true
     },
     {
       "slug": "fish-port-stephens-estuary-charters",
-      "candidates": 16,
-      "pages": 12
+      "skipped": true
     },
     {
       "slug": "calypso-fishing-adventures",
-      "candidates": 16,
-      "pages": 11
+      "skipped": true
     },
     {
       "slug": "byron-bay-charters",
+      "skipped": true
+    },
+    {
+      "slug": "research-r6",
+      "candidates": 0,
+      "pages": 7
+    },
+    {
+      "slug": "fishbermi-charters",
       "candidates": 16,
-      "pages": 11
+      "pages": 6
+    },
+    {
+      "slug": "evans-head-deep-sea-fishing-charters",
+      "candidates": 7,
+      "pages": 7
     }
   ]
 }

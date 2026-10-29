@@ -1,0 +1,235 @@
+{
+  "slug": "evans-head-deep-sea-fishing-charters",
+  "request_hash": "787dd583d5c0",
+  "collected_at": "2026-10-29T04:24:54.896Z",
+  "pages_fetched": [
+    "https://www.evansheadfishingcharters.com.au/",
+    "https://www.evansheadfishingcharters.com.au/about-us/",
+    "https://www.evansheadfishingcharters.com.au/fishing-charter-prices/",
+    "https://www.evansheadfishingcharters.com.au/fishing-photos/",
+    "https://www.evansheadfishingcharters.com.au/contact-us/",
+    "https://www.evansheadfishingcharters.com.au/contact-us",
+    "https://www.evansheadfishingcharters.com.au/ts-cs/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 800,
+      "height": 449,
+      "original": "800x449",
+      "source": "https://www.evansheadfishingcharters.com.au/wp-content/uploads/2023/10/daylight-on-pirate.jpg",
+      "page": "https://www.evansheadfishingcharters.com.au/fishing-photos/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 800,
+      "height": 600,
+      "original": "800x600",
+      "source": "https://www.evansheadfishingcharters.com.au/wp-content/uploads/2021/03/IMG_2642-2.jpg",
+      "page": "https://www.evansheadfishingcharters.com.au/fishing-photos/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 800,
+      "height": 600,
+      "original": "800x600",
+      "source": "https://www.evansheadfishingcharters.com.au/wp-content/uploads/2021/03/IMG_2557-2.jpg",
+      "page": "https://www.evansheadfishingcharters.com.au/fishing-photos/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 600,
+      "height": 800,
+      "original": "600x800",
+      "source": "https://www.evansheadfishingcharters.com.au/wp-content/uploads/2018/11/IMG_1641-e1541910937347.jpg",
+      "page": "https://www.evansheadfishingcharters.com.au/fishing-photos/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 600,
+      "height": 800,
+      "original": "600x800",
+      "source": "https://www.evansheadfishingcharters.com.au/wp-content/uploads/2023/10/evans-head-fishing-6.jpg",
+      "page": "https://www.evansheadfishingcharters.com.au/fishing-photos/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 600,
+      "height": 800,
+      "original": "600x800",
+      "source": "https://www.evansheadfishingcharters.com.au/wp-content/uploads/2020/07/IMG_5321-1.jpg",
+      "page": "https://www.evansheadfishingcharters.com.au/fishing-photos/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 800,
+      "height": 600,
+      "original": "800x600",
+      "source": "https://www.evansheadfishingcharters.com.au/wp-content/uploads/2018/11/IMG_1025.jpg",
+      "page": "https://www.evansheadfishingcharters.com.au/fishing-photos/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.evansheadfishingcharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.evansheadfishingcharters.com.au/",
+      "bytes": 60408
+    },
+    {
+      "page": "https://www.evansheadfishingcharters.com.au/about-us/",
+      "status": 200,
+      "final_url": "https://www.evansheadfishingcharters.com.au/about-us/",
+      "bytes": 69892
+    },
+    {
+      "page": "https://www.evansheadfishingcharters.com.au/fishing-charter-prices/",
+      "status": 200,
+      "final_url": "https://www.evansheadfishingcharters.com.au/fishing-charter-prices/",
+      "bytes": 71752
+    },
+    {
+      "page": "https://www.evansheadfishingcharters.com.au/fishing-photos/",
+      "status": 200,
+      "final_url": "https://www.evansheadfishingcharters.com.au/fishing-photos/",
+      "bytes": 97201
+    },
+    {
+      "page": "https://www.evansheadfishingcharters.com.au/contact-us/",
+      "status": 200,
+      "final_url": "https://www.evansheadfishingcharters.com.au/contact-us/",
+      "bytes": 69349
+    },
+    {
+      "page": "https://www.evansheadfishingcharters.com.au/contact-us",
+      "status": 200,
+      "final_url": "https://www.evansheadfishingcharters.com.au/contact-us/",
+      "bytes": 69349
+    },
+    {
+      "page": "https://www.evansheadfishingcharters.com.au/ts-cs/",
+      "status": 200,
+      "final_url": "https://www.evansheadfishingcharters.com.au/ts-cs/",
+      "bytes": 69226
+    },
+    {
+      "image": "https://evansheadfishingcharters.com.au/wp-content/uploads/2017/05/fish-banner4.jpg",
+      "error": "too small 1600x300"
+    },
+    {
+      "image": "https://evansheadfishingcharters.com.au/wp-content/uploads/2017/05/fish-banner3.jpg",
+      "error": "too small 1600x300"
+    },
+    {
+      "image": "https://evansheadfishingcharters.com.au/wp-content/uploads/2017/05/fish-banner2.jpg",
+      "error": "too small 1600x300"
+    },
+    {
+      "image": "https://evansheadfishingcharters.com.au/wp-content/uploads/2017/05/fish-banner1.jpg",
+      "error": "too small 1600x300"
+    },
+    {
+      "image": "https://evansheadfishingcharters.com.au/wp-content/uploads/2017/05/fish-banner5.jpg",
+      "error": "too small 1600x299"
+    },
+    {
+      "image": "https://www.evansheadfishingcharters.com.au/wp-content/uploads/2022/10/about-featured.jpg",
+      "error": "too small 300x200"
+    },
+    {
+      "image": "https://www.evansheadfishingcharters.com.au/wp-content/uploads/2017/05/prices-featured-image.jpg",
+      "error": "too small 300x200"
+    },
+    {
+      "image": "https://www.evansheadfishingcharters.com.au/wp-content/uploads/2017/05/contact-us-featured-image.jpg",
+      "error": "too small 300x200"
+    },
+    {
+      "image": "https://www.evansheadfishingcharters.com.au/wp-content/uploads/2017/05/homepage-featured-image.jpg",
+      "error": "too small 300x200"
+    },
+    {
+      "image": "https://www.evansheadfishingcharters.com.au/wp-content/uploads/2017/05/homepage-featured-image-150x150.jpg",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://www.evansheadfishingcharters.com.au/wp-content/uploads/2017/05/contact-us-featured-image-150x150.jpg",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://www.evansheadfishingcharters.com.au/wp-content/uploads/2017/05/testimony1-featured-image.jpg",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://www.evansheadfishingcharters.com.au/wp-content/uploads/2017/05/testimony1-featured-image-150x150.jpg",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://www.evansheadfishingcharters.com.au/wp-content/uploads/2017/05/testimony2-featured-image.jpg",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://www.evansheadfishingcharters.com.au/wp-content/uploads/2017/05/testimony2-featured-image-150x150.jpg",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://www.evansheadfishingcharters.com.au/wp-content/uploads/2023/10/footer-fishing-collage.jpg",
+      "error": "too small 267x233"
+    },
+    {
+      "image": "https://www.evansheadfishingcharters.com.au/wp-content/uploads/2023/10/IMG_0945.heic",
+      "error": "source: bad seek to 761723\nsource: bad seek to 761699\nsource: bad seek to 761693\nsource: bad seek to 761692\nheif: Error while loading plugin: Support for this compression format has not been built in (11.6003)"
+    },
+    {
+      "image": "https://www.evansheadfishingcharters.com.au/wp-content/uploads/2023/10/IMG_0945-1.heic",
+      "error": "source: bad seek to 761723\nsource: bad seek to 761699\nsource: bad seek to 761693\nsource: bad seek to 761692\nheif: Error while loading plugin: Support for this compression format has not been built in (11.6003)"
+    },
+    {
+      "image": "https://www.evansheadfishingcharters.com.au/wp-content/uploads/2023/10/daylight-on-pirate-300x168.jpg",
+      "error": "too small 300x168"
+    },
+    {
+      "dup": "https://www.evansheadfishingcharters.com.au/wp-content/uploads/2023/10/daylight-on-pirate-768x431.jpg"
+    },
+    {
+      "image": "https://www.evansheadfishingcharters.com.au/wp-content/uploads/2021/03/IMG_2642-2-300x225.jpg",
+      "error": "too small 300x225"
+    },
+    {
+      "dup": "https://www.evansheadfishingcharters.com.au/wp-content/uploads/2021/03/IMG_2642-2-768x576.jpg"
+    },
+    {
+      "image": "https://www.evansheadfishingcharters.com.au/wp-content/uploads/2021/03/IMG_2557-2-300x225.jpg",
+      "error": "too small 300x225"
+    },
+    {
+      "dup": "https://www.evansheadfishingcharters.com.au/wp-content/uploads/2021/03/IMG_2557-2-768x576.jpg"
+    },
+    {
+      "image": "https://www.evansheadfishingcharters.com.au/wp-content/uploads/2018/11/IMG_1641-e1541910937347-225x300.jpg",
+      "error": "too small 225x300"
+    },
+    {
+      "image": "https://www.evansheadfishingcharters.com.au/wp-content/uploads/2023/10/evans-head-fishing-6-225x300.jpg",
+      "error": "too small 225x300"
+    },
+    {
+      "image": "https://www.evansheadfishingcharters.com.au/wp-content/uploads/2020/07/IMG_5321-1-225x300.jpg",
+      "error": "too small 225x300"
+    },
+    {
+      "image": "https://www.evansheadfishingcharters.com.au/wp-content/uploads/2018/11/IMG_1025-300x225.jpg",
+      "error": "too small 300x225"
+    },
+    {
+      "dup": "https://www.evansheadfishingcharters.com.au/wp-content/uploads/2018/11/IMG_1025-768x576.jpg"
+    }
+  ]
+}

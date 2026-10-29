@@ -1,0 +1,229 @@
+{
+  "slug": "fishbermi-charters",
+  "request_hash": "fac4c1c3bf7e",
+  "collected_at": "2026-10-29T04:24:32.778Z",
+  "pages_fetched": [
+    "https://www.fishbermicharters.com.au/",
+    "https://www.fishbermicharters.com.au/fishing-charters/",
+    "https://www.fishbermicharters.com.au/exclusive-charters/",
+    "https://www.fishbermicharters.com.au/gallery-2/",
+    "https://www.fishbermicharters.com.au/contact/",
+    "https://www.fishbermicharters.com.au/privacy-policy/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 604,
+      "height": 400,
+      "original": "604x400",
+      "source": "https://www.fishbermicharters.com.au/wp-content/uploads/2016/02/feature_fishing.jpg",
+      "page": "https://www.fishbermicharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 604,
+      "height": 400,
+      "original": "604x400",
+      "source": "https://www.fishbermicharters.com.au/wp-content/uploads/2016/02/feature_exclusive.jpg",
+      "page": "https://www.fishbermicharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 604,
+      "height": 400,
+      "original": "604x400",
+      "source": "https://www.fishbermicharters.com.au/wp-content/uploads/2016/03/feature_tackleshop.jpg",
+      "page": "https://www.fishbermicharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1200,
+      "height": 600,
+      "original": "1200x600",
+      "source": "https://www.fishbermicharters.com.au/wp-content/uploads/2016/02/slider_bow.jpg",
+      "page": "https://www.fishbermicharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1200,
+      "height": 600,
+      "original": "1200x600",
+      "source": "https://www.fishbermicharters.com.au/wp-content/uploads/2016/02/slider_boat-1.jpg",
+      "page": "https://www.fishbermicharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1200,
+      "height": 600,
+      "original": "1200x600",
+      "source": "https://www.fishbermicharters.com.au/wp-content/uploads/2016/11/slider_fish.jpg",
+      "page": "https://www.fishbermicharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1200,
+      "height": 600,
+      "original": "1200x600",
+      "source": "https://www.fishbermicharters.com.au/wp-content/uploads/2016/02/sllidermarlin.jpg",
+      "page": "https://www.fishbermicharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1200,
+      "height": 600,
+      "original": "1200x600",
+      "source": "https://www.fishbermicharters.com.au/wp-content/uploads/2016/02/slider_customers.jpg",
+      "page": "https://www.fishbermicharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 2000,
+      "height": 1127,
+      "original": "2560x1443",
+      "source": "https://www.fishbermicharters.com.au/wp-content/uploads/2019/11/background2-scaled.jpg",
+      "page": "https://www.fishbermicharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 720,
+      "height": 960,
+      "original": "720x960",
+      "source": "https://www.fishbermicharters.com.au/wp-content/uploads/2016/02/Singo.jpg",
+      "page": "https://www.fishbermicharters.com.au/gallery-2/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 720,
+      "height": 960,
+      "original": "720x960",
+      "source": "https://www.fishbermicharters.com.au/wp-content/uploads/2016/02/image2.jpg",
+      "page": "https://www.fishbermicharters.com.au/gallery-2/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 720,
+      "height": 960,
+      "original": "720x960",
+      "source": "https://www.fishbermicharters.com.au/wp-content/uploads/2016/02/image005.jpg",
+      "page": "https://www.fishbermicharters.com.au/gallery-2/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 720,
+      "height": 960,
+      "original": "720x960",
+      "source": "https://www.fishbermicharters.com.au/wp-content/uploads/2016/02/boat1.jpg",
+      "page": "https://www.fishbermicharters.com.au/gallery-2/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 960,
+      "height": 720,
+      "original": "960x720",
+      "source": "https://www.fishbermicharters.com.au/wp-content/uploads/2016/02/image3.jpg",
+      "page": "https://www.fishbermicharters.com.au/gallery-2/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 960,
+      "height": 586,
+      "original": "960x586",
+      "source": "https://www.fishbermicharters.com.au/wp-content/uploads/2016/02/Nice-leader-shot-on-Marlin.jpg",
+      "page": "https://www.fishbermicharters.com.au/gallery-2/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 960,
+      "height": 720,
+      "original": "960x720",
+      "source": "https://www.fishbermicharters.com.au/wp-content/uploads/2016/02/Reef-Fish-mixed.jpg",
+      "page": "https://www.fishbermicharters.com.au/gallery-2/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.fishbermicharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.fishbermicharters.com.au/",
+      "bytes": 71977
+    },
+    {
+      "page": "https://www.fishbermicharters.com.au/fishing-charters/",
+      "status": 200,
+      "final_url": "https://www.fishbermicharters.com.au/fishing-charters/",
+      "bytes": 63380
+    },
+    {
+      "page": "https://www.fishbermicharters.com.au/exclusive-charters/",
+      "status": 200,
+      "final_url": "https://www.fishbermicharters.com.au/exclusive-charters/",
+      "bytes": 63136
+    },
+    {
+      "page": "https://www.fishbermicharters.com.au/gallery-2/",
+      "status": 200,
+      "final_url": "https://www.fishbermicharters.com.au/gallery-2/",
+      "bytes": 91867
+    },
+    {
+      "page": "https://www.fishbermicharters.com.au/contact/",
+      "status": 200,
+      "final_url": "https://www.fishbermicharters.com.au/contact/",
+      "bytes": 67083
+    },
+    {
+      "page": "https://www.fishbermicharters.com.au/privacy-policy/",
+      "status": 200,
+      "final_url": "https://www.fishbermicharters.com.au/privacy-policy/",
+      "bytes": 67154
+    },
+    {
+      "image": "https://www.fishbermicharters.com.au/wp-content/uploads/2016/08/fishbermicomheader2.png",
+      "error": "too small 870x200"
+    },
+    {
+      "image": "https://www.fishbermicharters.com.au/wp-content/uploads/2016/08/fishbermi.png",
+      "error": "too small 75x75"
+    },
+    {
+      "image": "https://www.fishbermicharters.com.au/wp-content/uploads/2016/08/fishbermicomheader2-200x46.png",
+      "error": "too small 200x46"
+    },
+    {
+      "image": "https://www.fishbermicharters.com.au/wp-content/uploads/2016/08/fishbermicomheader2-400x92.png",
+      "error": "too small 400x92"
+    },
+    {
+      "image": "https://www.fishbermicharters.com.au/wp-content/uploads/2016/02/feature_fishing-400x265.jpg",
+      "error": "too small 400x265"
+    },
+    {
+      "image": "https://www.fishbermicharters.com.au/wp-content/uploads/2016/02/feature_fishing-200x132.jpg",
+      "error": "too small 200x132"
+    },
+    {
+      "image": "https://www.fishbermicharters.com.au/wp-content/uploads/2016/02/feature_exclusive-400x265.jpg",
+      "error": "too small 400x265"
+    },
+    {
+      "image": "https://www.fishbermicharters.com.au/wp-content/uploads/2016/02/feature_exclusive-200x132.jpg",
+      "error": "too small 200x132"
+    }
+  ]
+}
