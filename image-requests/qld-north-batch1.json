@@ -1,0 +1,187 @@
+{
+ "requests": [
+  {
+   "slug": "research-mackay-region",
+   "pages": [
+    "https://www.mackayregion.com/hooked-on-mackay",
+    "https://hookedonmackay.squarespace.com/book-a-charter",
+    "https://qld2032.com/tourism/operator/cast-and-catch-fishing-charters-ba4c6a/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "research-townsville-qldtravel",
+   "pages": [
+    "https://www.qldtravel.com.au/townsville/activities/fishing/fishing-charters/",
+    "https://www.queensland.com/au/en/things-to-do/tours/p-584e2799dbf9274d417e7d35-conquest-charters",
+    "https://www.queensland.com/au/en/things-to-do/tours/p-6045f4108fc1e7796a9d63ac-ian-moody-sportfishing-charters",
+    "https://www.queensland.com/au/en/things-to-do/tours/p-616f4a148b6c65fa3189dad9-magnetic-island-fishing-charters"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  },
+  {
+   "slug": "research-bowen",
+   "pages": [
+    "https://www.tourismbowen.com.au/whitsunday-fishing-charters",
+    "https://www.qld2032.com/tourism/operator/bowen-creek-fishing-e16d47/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  },
+  {
+   "slug": "research-cooktown",
+   "pages": [
+    "https://www.cooktownandcapeyork.com/tours/collection-fishing",
+    "https://www.cooktownandcapeyork.com/tours/local-tours/cooktown-reef-charters",
+    "https://cooktownandcapeyork.com/tours/local-tours/fnqreef"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  },
+  {
+   "slug": "research-fishingcairns",
+   "pages": [
+    "https://www.fishingcairns.com.au/heavy-tackle-extended-charters/",
+    "https://www.fishingcairns.com.au/?p=359",
+    "https://www.fishingcairns.com.au/?p=293",
+    "https://www.fishingcairns.com.au/locations/cooktown-guied/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "research-weipa",
+   "pages": [
+    "https://www.weipatownauthority.com.au/Places-and-Spaces/Explore-Weipa/What-to-do",
+    "https://tropicalnorthqueensland.org.au/?p=47942",
+    "https://capeyorkweekly.com.au/fishing-tv-show-host-full-of-praise-for-weipa/450/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  },
+  {
+   "slug": "research-karumba",
+   "pages": [
+    "https://www.outbackqueensland.com.au/tours/kerry-d-charters/",
+    "https://www.queensland.com/au/en/things-to-do/tours/p-682e55feb2fdf61558e1dc1e-kerry-d-charters",
+    "https://qld2032.com/tourism/operator/kerry-d-charters-08db08/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  },
+  {
+   "slug": "research-portdouglas",
+   "pages": [
+    "https://tourismportdouglas.com.au/out-n-about-sportfishing",
+    "https://tropicalnorthqueensland.org.au/listing/product/hook-up-fishing-charters/",
+    "https://tourismportdouglas.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "research-fishtales",
+   "pages": [
+    "https://www.queensland.com/au/en/things-to-do/tours/p-5f3a1403d7250b7a09ff4db6-fish-tales-charters-cairns-fishing",
+    "https://www.australia.com/en/atdw/product.5f3a1403d7250b7a09ff4db6.html"
+   ],
+   "text": true,
+   "max": 6,
+   "follow": false
+  },
+  {
+   "slug": "tropic-barra-adventures-cairns",
+   "pages": [
+    "https://www.tropicbarraadventures.com.au/"
+   ],
+   "text": true,
+   "max": 20,
+   "follow": true
+  },
+  {
+   "slug": "fnq-fishing-adventures-cairns",
+   "pages": [
+    "https://www.fnqfishingadventures.com.au/"
+   ],
+   "text": true,
+   "max": 20,
+   "follow": true
+  },
+  {
+   "slug": "cairns-sportfishing",
+   "pages": [
+    "https://www.cairnssportfishing.com.au/"
+   ],
+   "text": true,
+   "max": 20,
+   "follow": true
+  },
+  {
+   "slug": "whitsunday-fishing-charters",
+   "pages": [
+    "https://www.whitsundayfishingcharters.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "hook-a-barra-daintree",
+   "pages": [
+    "https://www.hookabarra.com/",
+    "https://www.hookabarra.com/tours/barra-fishing/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "tropical-sportfisher",
+   "pages": [
+    "https://www.tropicalsportfisher.com/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "bounty-hunter-cairns",
+   "pages": [
+    "https://australiangamefishing.com/",
+    "https://australiangamefishing.com/sport-game-fishing/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "cooktown-reef-charters",
+   "pages": [
+    "https://www.reefcharters.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "cairns-reef-fishing",
+   "pages": [
+    "https://cairnsreeffishing.com.au/",
+    "https://cairnsreeffishing.rezdy.com/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  }
+ ]
+}
