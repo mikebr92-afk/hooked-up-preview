@@ -1,0 +1,329 @@
+{
+ "requests": [
+  {
+   "slug": "cronulla-reef-fishing-charters",
+   "pages": [
+    "https://cronullareeffishingcharters.com/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "fishabout-tours-sydney",
+   "pages": [
+    "https://www.fishaboutsydney.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "wahoo-fishing-charters-sydney",
+   "pages": [
+    "https://wahoocharters.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "blue-reef-fishing-charters-sydney",
+   "pages": [
+    "https://www.bluereefcharters.info/",
+    "https://www.bluereefcharters.info/general-boat-info.html"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "sydney-charter-fishing-manly",
+   "pages": [
+    "https://sydneycharterfishing.com.au/",
+    "https://sydneycharterfishing.com.au/about/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "deep-blue-charters-sydney",
+   "pages": [
+    "https://deepbluecharters.com.au/",
+    "https://deepbluecharters.com.au/our-boats/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "sydney-premium-charters-cronulla",
+   "pages": [
+    "https://www.sydneypremiumcharters.com.au/",
+    "https://www.sydneypremiumcharters.com.au/boats/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "reel-adventure-fishing-sydney",
+   "pages": [
+    "https://www.sydney.com/things-to-do/tours/reel-adventure-fishing"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "ambition-charters-sydney",
+   "pages": [
+    "https://ambitioncharters.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "hammerhead-charters-nelson-bay",
+   "pages": [
+    "https://hammerheadcharters.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "pacific-blue-fishing-charters-nelson-bay",
+   "pages": [
+    "https://pacificbluecharters.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "reel-contagious-charters-port-stephens",
+   "pages": [
+    "https://www.reelcontagiouscharters.com.au/",
+    "https://www.portstephensfishingcharters.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "escape-fishing-charters-greenwell-point",
+   "pages": [
+    "https://www.escapefishingcharters.com.au/",
+    "https://www.escapefishingcharters.com.au/about.html"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "jervis-bay-fishing-charters-huskisson",
+   "pages": [
+    "https://jbfishingcharters.com.au/",
+    "https://experiencejervisbay.com.au/things-to-do/jb-fishing-charters/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "coffs-harbour-fishing-charters",
+   "pages": [
+    "https://coffsharbourfishing.com.au/",
+    "https://coffsharbourfishing.com.au/about-us/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "five-island-charters-wollongong",
+   "pages": [
+    "https://www.fiveislandcharters.com.au/",
+    "https://www.fiveislandcharters.com.au/vessel/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "aquilla-fishing-charters-wollongong",
+   "pages": [
+    "https://www.visitnsw.com/things-to-do/tours/aquilla-fishing-charters",
+    "https://www.visitwollongong.com.au/operators/transport-and-tours/tour/aquilla-fishing-charters/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "research-centralcoast",
+   "pages": [
+    "https://visitnsw.com/destinations/central-coast/gosford-area/terrigal/hire/central-coast-reef-and-game-fishing-charters",
+    "https://www.visitnsw.com/things-to-do/tours/terrigal-fishing-tours",
+    "https://www.agfg.com.au/attraction/estuary-fishing-tours-31532"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  },
+  {
+   "slug": "research-newcastle",
+   "pages": [
+    "https://day-trippin-charters.squarespace.com/",
+    "https://b-l-fishing.treepl.co/eco_tours.html"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  },
+  {
+   "slug": "research-portstephens",
+   "pages": [
+    "https://www.portstephens.org.au/see-and-do/fish-port-stephens-estuary-charters/overview",
+    "https://www.visitnsw.com/destinations/north-coast/port-stephens-area/fishing",
+    "https://www.portstephens.org.au/see-and-do/fishing"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  },
+  {
+   "slug": "research-portmacquarie",
+   "pages": [
+    "https://www.portmacquarieinfo.com.au/products/port-macquarie-fishing-charters",
+    "https://www.portmacquarieinfo.com.au/products/castaway-estuary-fishing-charters",
+    "https://www.visitnsw.com/things-to-do/tours/port-macquarie-fishing-charters/deep-sea-fishing-charters",
+    "https://www.visitnsw.com/things-to-do/tours/castaway-estuary-fishing-charters"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  },
+  {
+   "slug": "research-swr",
+   "pages": [
+    "https://www.visitnsw.com/things-to-do/tours/south-west-rocks-fishing-charters",
+    "https://www.visitnsw.com/things-to-do/tours/wildside-sportfishing/offshore-fishing-tour",
+    "https://macleayvalleycoast.com.au/tours/south-west-rocks-fishing-charters"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  },
+  {
+   "slug": "research-coffs",
+   "pages": [
+    "https://www.coffscoast.com.au/article/fishing-on-the-coffs-coast/",
+    "https://maps.campendium.com/au/coffs-harbour-nsw/nature/cougar-cat-12-charters"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  },
+  {
+   "slug": "research-yamba",
+   "pages": [
+    "https://visitnsw.com/things-to-do/tours/reel-time-charters-yamba/reel-time-fishing-charters-yamba",
+    "https://www.visitnsw.com/things-to-do/tours/go-fish-yamba-charters/individual-go-fish-yamba-charter",
+    "https://visitnsw.com/things-to-do/tours/yamba-fishing-and-charters"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  },
+  {
+   "slug": "research-ballina",
+   "pages": [
+    "https://www.discoverballina.com.au/explore/tour/fozies-fishing-adventures",
+    "https://wikiaustralia.com/tour/ballina-and-beyond-fishing-trips-charters/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  },
+  {
+   "slug": "research-tweed",
+   "pages": [
+    "https://www.visitnsw.com/things-to-do/tours/cushy-fishing-charters-tweed-heads",
+    "https://www.mapquest.com/au/new-south-wales/tweed-fishing-charters-795650007"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  },
+  {
+   "slug": "research-wollongong",
+   "pages": [
+    "https://www.visitnsw.com/things-to-do/tours/kiama-charter-service",
+    "https://australiasguide.com/nsw/attraction-tour/shellharbour/shell-cove/shell-cove-offshore-adventures/",
+    "https://www.visitwollongong.com.au/things-to-do/tours/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  },
+  {
+   "slug": "research-jervisbay",
+   "pages": [
+    "https://www.visitnsw.com/destinations/south-coast/jervis-bay-and-shoalhaven/huskisson/tours?page=0",
+    "https://www.visitnsw.com/destinations/south-coast/jervis-bay-and-shoalhaven/fishing"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  },
+  {
+   "slug": "research-batemans",
+   "pages": [
+    "https://www.visitnsw.com/destinations/south-coast/batemans-bay-and-eurobodalla/fishing",
+    "https://explore.eurobodalla.com.au/journey/itinerary_20qZC5XPw3MThj19RFGDGR/amp",
+    "https://www.sea-ex.com/chartersguides/ausnsw.htm"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  },
+  {
+   "slug": "research-eden",
+   "pages": [
+    "https://visitnsw.com/destinations/south-coast/merimbula-and-sapphire-coast/fishing",
+    "https://www.escapetomerimbula.com.au/freedom-charters",
+    "https://fishpen-charters.squarespace.com/",
+    "https://sapphire-coast.com.au/?p=117"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  },
+  {
+   "slug": "research-lhi",
+   "pages": [
+    "https://lordhoweisland.info/experiences/fishing/",
+    "https://visitnsw.com/destinations/lord-howe-island/fishing",
+    "https://www.lordhoweislandtours.net/charter-fishing"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  },
+  {
+   "slug": "research-sydney",
+   "pages": [
+    "https://fishingbooker.com/destinations/region/au/sydney-harbour",
+    "https://playsport.com/mysterybaycharters_ag_d8ce0d5b",
+    "https://www.visitnsw.com/destinations/sydney/fishing"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  }
+ ]
+}
