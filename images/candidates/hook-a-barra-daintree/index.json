@@ -1,0 +1,280 @@
+{
+  "slug": "hook-a-barra-daintree",
+  "request_hash": "241af3ed2aaa",
+  "collected_at": "2026-10-29T03:50:42.649Z",
+  "pages_fetched": [
+    "https://www.hookabarra.com/",
+    "https://www.hookabarra.com/tours/barra-fishing/",
+    "https://www.hookabarra.com/tours/",
+    "https://www.hookabarra.com/tours/gourmet-farm-tour/",
+    "https://www.hookabarra.com/tours/fishing-farm-combo/",
+    "https://www.hookabarra.com/tours/private-catch-cook-eat-tour/",
+    "https://www.hookabarra.com/daintree-food-tour/",
+    "https://www.hookabarra.com/getting-here/cairns-barramundi-tour/",
+    "https://www.hookabarra.com/port-douglas-barramundi-fishing-tour/",
+    "https://www.hookabarra.com/barra-fishing/",
+    "https://www.hookabarra.com/barra-fishing/rods-lures/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1900,
+      "height": 1350,
+      "original": "1900x1350",
+      "source": "https://www.hookabarra.com/wp-content/uploads/HookABarra-1.jpg",
+      "page": "https://www.hookabarra.com/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 600,
+      "height": 400,
+      "original": "600x400",
+      "source": "https://www.hookabarra.com/wp-content/uploads/FishingTours.jpg",
+      "page": "https://www.hookabarra.com/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 600,
+      "height": 400,
+      "original": "600x400",
+      "source": "https://www.hookabarra.com/wp-content/uploads/FarmandFish.jpg",
+      "page": "https://www.hookabarra.com/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 600,
+      "height": 400,
+      "original": "600x400",
+      "source": "https://www.hookabarra.com/wp-content/uploads/TipsandGear.jpg",
+      "page": "https://www.hookabarra.com/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 600,
+      "height": 400,
+      "original": "600x400",
+      "source": "https://www.hookabarra.com/wp-content/uploads/kitchne.jpg",
+      "page": "https://www.hookabarra.com/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1920,
+      "height": 600,
+      "original": "1920x600",
+      "source": "https://www.hookabarra.com/wp-content/uploads/rodbending.jpg",
+      "page": "https://www.hookabarra.com/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 720,
+      "height": 500,
+      "original": "720x500",
+      "source": "https://www.hookabarra.com/wp-content/uploads/b1.jpg",
+      "page": "https://www.hookabarra.com/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1920,
+      "height": 620,
+      "original": "1920x620",
+      "source": "https://www.hookabarra.com/wp-content/uploads/slider.jpg",
+      "page": "https://www.hookabarra.com/tours/barra-fishing/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 600,
+      "height": 400,
+      "original": "600x400",
+      "source": "https://www.hookabarra.com/wp-content/uploads/catchandrelease.jpg",
+      "page": "https://www.hookabarra.com/tours/barra-fishing/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 600,
+      "height": 400,
+      "original": "600x400",
+      "source": "https://www.hookabarra.com/wp-content/uploads/catchadnkeep.jpg",
+      "page": "https://www.hookabarra.com/tours/barra-fishing/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 600,
+      "height": 400,
+      "original": "600x400",
+      "source": "https://www.hookabarra.com/wp-content/uploads/thegear.jpg",
+      "page": "https://www.hookabarra.com/tours/barra-fishing/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1920,
+      "height": 600,
+      "original": "1920x600",
+      "source": "https://www.hookabarra.com/wp-content/uploads/sliderdivider.jpg",
+      "page": "https://www.hookabarra.com/tours/barra-fishing/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 720,
+      "height": 500,
+      "original": "720x500",
+      "source": "https://www.hookabarra.com/wp-content/uploads/pbt-1.jpg",
+      "page": "https://www.hookabarra.com/tours/barra-fishing/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 800,
+      "height": 400,
+      "original": "800x400",
+      "source": "https://www.hookabarra.com/wp-content/uploads/slider-800x400.jpg",
+      "page": "https://www.hookabarra.com/tours/barra-fishing/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1920,
+      "height": 620,
+      "original": "1920x620",
+      "source": "https://www.hookabarra.com/wp-content/uploads/slider1.jpg",
+      "page": "https://www.hookabarra.com/tours/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 600,
+      "height": 400,
+      "original": "600x400",
+      "source": "https://www.hookabarra.com/wp-content/uploads/barrafocus.jpg",
+      "page": "https://www.hookabarra.com/tours/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.hookabarra.com/",
+      "status": 200,
+      "final_url": "https://www.hookabarra.com/",
+      "bytes": 171060
+    },
+    {
+      "page": "https://www.hookabarra.com/tours/barra-fishing/",
+      "status": 200,
+      "final_url": "https://www.hookabarra.com/tours/barra-fishing/",
+      "bytes": 184152
+    },
+    {
+      "page": "https://www.hookabarra.com/tours/",
+      "status": 200,
+      "final_url": "https://www.hookabarra.com/tours/",
+      "bytes": 165312
+    },
+    {
+      "page": "https://www.hookabarra.com/tours/gourmet-farm-tour/",
+      "status": 200,
+      "final_url": "https://www.hookabarra.com/tours/gourmet-farm-tour/",
+      "bytes": 178309
+    },
+    {
+      "page": "https://www.hookabarra.com/tours/fishing-farm-combo/",
+      "status": 200,
+      "final_url": "https://www.hookabarra.com/tours/fishing-farm-combo/",
+      "bytes": 182368
+    },
+    {
+      "page": "https://www.hookabarra.com/tours/private-catch-cook-eat-tour/",
+      "status": 200,
+      "final_url": "https://www.hookabarra.com/tours/private-catch-cook-eat-tour/",
+      "bytes": 178516
+    },
+    {
+      "page": "https://www.hookabarra.com/daintree-food-tour/",
+      "status": 200,
+      "final_url": "https://www.hookabarra.com/daintree-food-tour/",
+      "bytes": 174847
+    },
+    {
+      "page": "https://www.hookabarra.com/getting-here/cairns-barramundi-tour/",
+      "status": 200,
+      "final_url": "https://www.hookabarra.com/getting-here/cairns-barramundi-tour/",
+      "bytes": 178228
+    },
+    {
+      "page": "https://www.hookabarra.com/port-douglas-barramundi-fishing-tour/",
+      "status": 200,
+      "final_url": "https://www.hookabarra.com/port-douglas-barramundi-fishing-tour/",
+      "bytes": 177905
+    },
+    {
+      "page": "https://www.hookabarra.com/barra-fishing/",
+      "status": 200,
+      "final_url": "https://www.hookabarra.com/barra-fishing/",
+      "bytes": 165371
+    },
+    {
+      "page": "https://www.hookabarra.com/barra-fishing/rods-lures/",
+      "status": 200,
+      "final_url": "https://www.hookabarra.com/barra-fishing/rods-lures/",
+      "bytes": 167822
+    },
+    {
+      "image": "https://www.hookabarra.com/wp-content/uploads/slice2.jpg",
+      "error": "too small 1920x260"
+    },
+    {
+      "image": "https://www.hookabarra.com/wp-content/uploads/Mark-with-barra-298x224-1.jpg",
+      "error": "too small 224x224"
+    },
+    {
+      "image": "https://www.hookabarra.com/wp-content/uploads/circle2.jpg",
+      "error": "too small 400x400"
+    },
+    {
+      "image": "https://www.hookabarra.com/wp-content/plugins/business-reviews-bundle/assets/img/powered_by_google_on_white.png",
+      "error": "too small 144x18"
+    },
+    {
+      "image": "https://www.hookabarra.com/wp-content/uploads/cropped-barra.jpg",
+      "error": "too small 512x512"
+    },
+    {
+      "image": "https://www.hookabarra.com/wp-content/uploads/cropped-barra-32x32.jpg",
+      "error": "too small 32x32"
+    },
+    {
+      "image": "https://www.hookabarra.com/wp-content/uploads/cropped-barra-192x192.jpg",
+      "error": "too small 192x192"
+    },
+    {
+      "image": "https://www.hookabarra.com/wp-content/uploads/cropped-barra-180x180.jpg",
+      "error": "too small 180x180"
+    },
+    {
+      "image": "https://www.hookabarra.com/wp-content/uploads/cropped-barra-270x270.jpg",
+      "error": "too small 270x270"
+    },
+    {
+      "image": "https://www.hookabarra.com/wp-content/uploads/c1.jpg",
+      "error": "too small 400x400"
+    },
+    {
+      "image": "https://www.hookabarra.com/wp-content/uploads/11.jpg",
+      "error": "too small 400x400"
+    },
+    {
+      "image": "https://www.hookabarra.com/wp-content/uploads/slicedivider.jpg",
+      "error": "too small 1920x260"
+    }
+  ]
+}

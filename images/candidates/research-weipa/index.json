@@ -1,0 +1,31 @@
+{
+  "slug": "research-weipa",
+  "request_hash": "333a5b071be2",
+  "collected_at": "2026-10-29T03:47:30.718Z",
+  "pages_fetched": [
+    "https://www.weipatownauthority.com.au/Places-and-Spaces/Explore-Weipa/What-to-do",
+    "https://tropicalnorthqueensland.org.au/?p=47942",
+    "https://capeyorkweekly.com.au/fishing-tv-show-host-full-of-praise-for-weipa/450/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.weipatownauthority.com.au/Places-and-Spaces/Explore-Weipa/What-to-do",
+      "status": 403,
+      "final_url": "https://www.weipatownauthority.com.au/Places-and-Spaces/Explore-Weipa/What-to-do",
+      "bytes": 457
+    },
+    {
+      "page": "https://tropicalnorthqueensland.org.au/?p=47942",
+      "status": 403,
+      "final_url": "https://tropicalnorthqueensland.org.au/?p=47942",
+      "bytes": 5854
+    },
+    {
+      "page": "https://capeyorkweekly.com.au/fishing-tv-show-host-full-of-praise-for-weipa/450/",
+      "status": 200,
+      "final_url": "https://capeyorkweekly.com.au/fishing-tv-show-host-full-of-praise-for-weipa/450/",
+      "bytes": 72022
+    }
+  ]
+}

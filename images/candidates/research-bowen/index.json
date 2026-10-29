@@ -1,0 +1,24 @@
+{
+  "slug": "research-bowen",
+  "request_hash": "30723bc314a3",
+  "collected_at": "2026-10-29T03:46:56.501Z",
+  "pages_fetched": [
+    "https://www.tourismbowen.com.au/whitsunday-fishing-charters",
+    "https://www.qld2032.com/tourism/operator/bowen-creek-fishing-e16d47/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.tourismbowen.com.au/whitsunday-fishing-charters",
+      "status": 404,
+      "final_url": "https://www.tourismbowen.com.au/whitsunday-fishing-charters",
+      "bytes": 62347
+    },
+    {
+      "page": "https://www.qld2032.com/tourism/operator/bowen-creek-fishing-e16d47/",
+      "status": 200,
+      "final_url": "https://www.qld2032.com/tourism/operator/bowen-creek-fishing-e16d47/",
+      "bytes": 15150
+    }
+  ]
+}

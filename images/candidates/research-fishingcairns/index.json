@@ -1,0 +1,94 @@
+{
+  "slug": "research-fishingcairns",
+  "request_hash": "d97db34c48d3",
+  "collected_at": "2026-10-29T03:47:29.069Z",
+  "pages_fetched": [
+    "https://www.fishingcairns.com.au/heavy-tackle-extended-charters/",
+    "https://www.fishingcairns.com.au/?p=359",
+    "https://www.fishingcairns.com.au/?p=293",
+    "https://www.fishingcairns.com.au/locations/cooktown-guied/",
+    "https://www.fishingcairns.com.au/cart/",
+    "https://www.fishingcairns.com.au/",
+    "https://www.fishingcairns.com.au/charters-packages/",
+    "https://www.fishingcairns.com.au/reef-fishing/",
+    "https://www.fishingcairns.com.au/calm-water-estuary-fishing-charter-options/",
+    "https://www.fishingcairns.com.au/calm-water-river-fishing-charter-options-2/",
+    "https://www.fishingcairns.com.au/river-estuary-lure-fishing/",
+    "https://www.fishingcairns.com.au/charters-packages/inshore-blue-water-light-tackle-fishing/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.fishingcairns.com.au/heavy-tackle-extended-charters/",
+      "status": 200,
+      "final_url": "https://www.fishingcairns.com.au/heavy-tackle-extended-charters/",
+      "bytes": 133521
+    },
+    {
+      "page": "https://www.fishingcairns.com.au/?p=359",
+      "status": 200,
+      "final_url": "https://www.fishingcairns.com.au/charters-packages/inshore-blue-water-light-tackle-fishing/",
+      "bytes": 173135
+    },
+    {
+      "page": "https://www.fishingcairns.com.au/?p=293",
+      "status": 200,
+      "final_url": "https://www.fishingcairns.com.au/fishing-books-maps/locality-guides/cape-york-locality-guide/weipa-cape-york-locality-guide/",
+      "bytes": 111960
+    },
+    {
+      "page": "https://www.fishingcairns.com.au/locations/cooktown-guied/",
+      "status": 200,
+      "final_url": "https://www.fishingcairns.com.au/locations/cooktown-guied/",
+      "bytes": 105469
+    },
+    {
+      "page": "https://www.fishingcairns.com.au/cart/",
+      "status": 200,
+      "final_url": "https://www.fishingcairns.com.au/cart/",
+      "bytes": 121944
+    },
+    {
+      "page": "https://www.fishingcairns.com.au/",
+      "status": 200,
+      "final_url": "https://www.fishingcairns.com.au/",
+      "bytes": 121284
+    },
+    {
+      "page": "https://www.fishingcairns.com.au/charters-packages/",
+      "status": 200,
+      "final_url": "https://www.fishingcairns.com.au/charters-packages/",
+      "bytes": 118916
+    },
+    {
+      "page": "https://www.fishingcairns.com.au/reef-fishing/",
+      "status": 200,
+      "final_url": "https://www.fishingcairns.com.au/reef-fishing/",
+      "bytes": 173523
+    },
+    {
+      "page": "https://www.fishingcairns.com.au/calm-water-estuary-fishing-charter-options/",
+      "status": 200,
+      "final_url": "https://www.fishingcairns.com.au/calm-water-estuary-fishing-charter-options/",
+      "bytes": 162585
+    },
+    {
+      "page": "https://www.fishingcairns.com.au/calm-water-river-fishing-charter-options-2/",
+      "status": 200,
+      "final_url": "https://www.fishingcairns.com.au/calm-water-river-fishing-charter-options-2/",
+      "bytes": 158867
+    },
+    {
+      "page": "https://www.fishingcairns.com.au/river-estuary-lure-fishing/",
+      "status": 200,
+      "final_url": "https://www.fishingcairns.com.au/river-estuary-lure-fishing/",
+      "bytes": 165740
+    },
+    {
+      "page": "https://www.fishingcairns.com.au/charters-packages/inshore-blue-water-light-tackle-fishing/",
+      "status": 200,
+      "final_url": "https://www.fishingcairns.com.au/charters-packages/inshore-blue-water-light-tackle-fishing/",
+      "bytes": 173135
+    }
+  ]
+}

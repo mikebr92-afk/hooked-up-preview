@@ -1,0 +1,31 @@
+{
+  "slug": "research-cooktown",
+  "request_hash": "30eddf78baa6",
+  "collected_at": "2026-10-29T03:46:58.789Z",
+  "pages_fetched": [
+    "https://www.cooktownandcapeyork.com/tours/collection-fishing",
+    "https://www.cooktownandcapeyork.com/tours/local-tours/cooktown-reef-charters",
+    "https://cooktownandcapeyork.com/tours/local-tours/fnqreef"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.cooktownandcapeyork.com/tours/collection-fishing",
+      "status": 200,
+      "final_url": "https://www.cooktownandcapeyork.com/tours/collection-fishing",
+      "bytes": 53395
+    },
+    {
+      "page": "https://www.cooktownandcapeyork.com/tours/local-tours/cooktown-reef-charters",
+      "status": 200,
+      "final_url": "https://www.cooktownandcapeyork.com/tours/local-tours/cooktown-reef-charters",
+      "bytes": 46691
+    },
+    {
+      "page": "https://cooktownandcapeyork.com/tours/local-tours/fnqreef",
+      "status": 200,
+      "final_url": "https://www.cooktownandcapeyork.com/acl_users/credentials_cookie_auth/require_login?came_from=https%3A//www.cooktownandcapeyork.com/tours/local-tours/fnqreef",
+      "bytes": 44632
+    }
+  ]
+}

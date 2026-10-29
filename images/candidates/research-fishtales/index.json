@@ -1,0 +1,79 @@
+{
+  "slug": "research-fishtales",
+  "request_hash": "298d74bf231e",
+  "collected_at": "2026-10-29T03:48:03.118Z",
+  "pages_fetched": [
+    "https://www.queensland.com/au/en/things-to-do/tours/p-5f3a1403d7250b7a09ff4db6-fish-tales-charters-cairns-fishing",
+    "https://www.australia.com/en/atdw/product.5f3a1403d7250b7a09ff4db6.html"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2048x1536",
+      "source": "https://assets.atdw-online.com.au/images/df8b3fc2827b392d21745b504b1d62a8.jpeg?rect=0%2C0%2C3072%2C2304&w=2048&h=1536&rot=360&q=eyJ0eXBlIjoibGlzdGluZyIsImxpc3RpbmdJZCI6IjVmM2ExNDAzZDcyNTBiN2EwOWZmNGRiNiIsImRpc3RyaWJ1dG9ySWQiOiI1NmIxZWI5MzQ0ZmVjYTNkZjJlMzIwY2IiLCJhcGlrZXlJZCI6IjU2YjFlZmVlMGNmMjEzYWQyMGRkMjE3MCJ9",
+      "page": "https://www.queensland.com/au/en/things-to-do/tours/p-5f3a1403d7250b7a09ff4db6-fish-tales-charters-cairns-fishing",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 800,
+      "height": 533,
+      "original": "800x533",
+      "source": "https://www.australia.com/content/australia/en/travel-inspiration/australia-travel-stories/jcr:content/image.adapt.800.HIGH.jpg",
+      "page": "https://www.australia.com/en/atdw/product.5f3a1403d7250b7a09ff4db6.html",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 800,
+      "height": 533,
+      "original": "800x533",
+      "source": "https://www.australia.com/content/australia/en/travel-inspiration/jcr:content/image.adapt.800.HIGH.jpg",
+      "page": "https://www.australia.com/en/atdw/product.5f3a1403d7250b7a09ff4db6.html",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 800,
+      "height": 533,
+      "original": "800x533",
+      "source": "https://www.australia.com/content/australia/en/discover-your-australia/jcr:content/image.adapt.800.HIGH.jpg",
+      "page": "https://www.australia.com/en/atdw/product.5f3a1403d7250b7a09ff4db6.html",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 800,
+      "height": 533,
+      "original": "800x533",
+      "source": "https://www.australia.com/content/australia/en/travel-inspiration/australia-travel-videos/jcr:content/image.adapt.800.HIGH.jpg",
+      "page": "https://www.australia.com/en/atdw/product.5f3a1403d7250b7a09ff4db6.html",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 800,
+      "height": 533,
+      "original": "800x533",
+      "source": "https://www.australia.com/content/australia/en/deals-and-travel-packages/jcr:content/image.adapt.800.HIGH.jpg",
+      "page": "https://www.australia.com/en/atdw/product.5f3a1403d7250b7a09ff4db6.html",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.queensland.com/au/en/things-to-do/tours/p-5f3a1403d7250b7a09ff4db6-fish-tales-charters-cairns-fishing",
+      "status": 200,
+      "final_url": "https://www.queensland.com/au/en/things-to-do/tours/p-5f3a1403d7250b7a09ff4db6-fish-tales-charters-cairns-fishing",
+      "bytes": 18008
+    },
+    {
+      "page": "https://www.australia.com/en/atdw/product.5f3a1403d7250b7a09ff4db6.html",
+      "status": 200,
+      "final_url": "https://www.australia.com/en/atdw/product.5f3a1403d7250b7a09ff4db6.html",
+      "bytes": 284309
+    }
+  ]
+}

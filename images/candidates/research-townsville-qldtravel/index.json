@@ -1,0 +1,38 @@
+{
+  "slug": "research-townsville-qldtravel",
+  "request_hash": "6f8a36735b81",
+  "collected_at": "2026-10-29T03:46:53.817Z",
+  "pages_fetched": [
+    "https://www.qldtravel.com.au/townsville/activities/fishing/fishing-charters/",
+    "https://www.queensland.com/au/en/things-to-do/tours/p-584e2799dbf9274d417e7d35-conquest-charters",
+    "https://www.queensland.com/au/en/things-to-do/tours/p-6045f4108fc1e7796a9d63ac-ian-moody-sportfishing-charters",
+    "https://www.queensland.com/au/en/things-to-do/tours/p-616f4a148b6c65fa3189dad9-magnetic-island-fishing-charters"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.qldtravel.com.au/townsville/activities/fishing/fishing-charters/",
+      "status": 200,
+      "final_url": "https://qldtravel.com.au/townsville/activities/fishing/fishing-charters/",
+      "bytes": 101639
+    },
+    {
+      "page": "https://www.queensland.com/au/en/things-to-do/tours/p-584e2799dbf9274d417e7d35-conquest-charters",
+      "status": 404,
+      "final_url": "https://www.queensland.com/au/en/errors/404",
+      "bytes": 13735
+    },
+    {
+      "page": "https://www.queensland.com/au/en/things-to-do/tours/p-6045f4108fc1e7796a9d63ac-ian-moody-sportfishing-charters",
+      "status": 200,
+      "final_url": "https://www.queensland.com/au/en/things-to-do/tours/p-6045f4108fc1e7796a9d63ac-ian-moody-sportfishing-charters",
+      "bytes": 16684
+    },
+    {
+      "page": "https://www.queensland.com/au/en/things-to-do/tours/p-616f4a148b6c65fa3189dad9-magnetic-island-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.queensland.com/au/en/things-to-do/tours/p-616f4a148b6c65fa3189dad9-magnetic-island-fishing-charters",
+      "bytes": 19597
+    }
+  ]
+}

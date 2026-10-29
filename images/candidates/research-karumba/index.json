@@ -1,0 +1,31 @@
+{
+  "slug": "research-karumba",
+  "request_hash": "9551925329da",
+  "collected_at": "2026-10-29T03:47:33.263Z",
+  "pages_fetched": [
+    "https://www.outbackqueensland.com.au/tours/kerry-d-charters/",
+    "https://www.queensland.com/au/en/things-to-do/tours/p-682e55feb2fdf61558e1dc1e-kerry-d-charters",
+    "https://qld2032.com/tourism/operator/kerry-d-charters-08db08/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.outbackqueensland.com.au/tours/kerry-d-charters/",
+      "status": 200,
+      "final_url": "https://www.outbackqueensland.com.au/tours/kerry-d-charters/",
+      "bytes": 109054
+    },
+    {
+      "page": "https://www.queensland.com/au/en/things-to-do/tours/p-682e55feb2fdf61558e1dc1e-kerry-d-charters",
+      "status": 200,
+      "final_url": "https://www.queensland.com/au/en/things-to-do/tours/p-682e55feb2fdf61558e1dc1e-kerry-d-charters",
+      "bytes": 18971
+    },
+    {
+      "page": "https://qld2032.com/tourism/operator/kerry-d-charters-08db08/",
+      "status": 200,
+      "final_url": "https://qld2032.com/tourism/operator/kerry-d-charters-08db08/",
+      "bytes": 16472
+    }
+  ]
+}

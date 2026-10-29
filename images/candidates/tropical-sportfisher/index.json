@@ -1,0 +1,236 @@
+{
+  "slug": "tropical-sportfisher",
+  "request_hash": "9b3003aa0ae2",
+  "collected_at": "2026-10-29T03:51:13.956Z",
+  "pages_fetched": [
+    "https://www.tropicalsportfisher.com/",
+    "https://www.tropicalsportfisher.com/contact-us/",
+    "https://www.tropicalsportfisher.com/river-and-estuary-day-trips/",
+    "https://www.tropicalsportfisher.com/inshore-bluewater-day-trips/",
+    "https://www.tropicalsportfisher.com/tropical-backcountry-day-trips/",
+    "https://www.tropicalsportfisher.com/fly-fishing-day-trips/",
+    "https://www.tropicalsportfisher.com/environment/croc-and-bird-watching-day-trips-2/",
+    "https://www.tropicalsportfisher.com/tropical-island-day-trips/",
+    "https://www.tropicalsportfisher.com/multi-day-trips/cassowary-coast-multi-day-trip/",
+    "https://www.tropicalsportfisher.com/multi-day-trips/kurumba-multi-day-trip/",
+    "https://www.tropicalsportfisher.com/multi-day-trips/tropical-island-camp/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 2000,
+      "height": 1323,
+      "original": "2046x1353",
+      "source": "https://www.tropicalsportfisher.com/wp-content/uploads/2023/11/cropped-Tropical-Sportfisher-997.jpg",
+      "page": "https://www.tropicalsportfisher.com/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2048x1366",
+      "source": "https://www.tropicalsportfisher.com/wp-content/uploads/2026/03/River-Gt-22.jpg",
+      "page": "https://www.tropicalsportfisher.com/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2048x1366",
+      "source": "https://www.tropicalsportfisher.com/wp-content/uploads/2023/11/Tropical-Sportfisher-693.jpg.webp",
+      "page": "https://www.tropicalsportfisher.com/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1365,
+      "height": 1365,
+      "original": "1365x1365",
+      "source": "https://www.tropicalsportfisher.com/wp-content/uploads/2023/11/GreatBarrierReefFly-146.jpg.webp",
+      "page": "https://www.tropicalsportfisher.com/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1365,
+      "height": 1365,
+      "original": "1365x1365",
+      "source": "https://www.tropicalsportfisher.com/wp-content/uploads/2023/11/IMG_0812.jpg.webp",
+      "page": "https://www.tropicalsportfisher.com/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2048x1536",
+      "source": "https://www.tropicalsportfisher.com/wp-content/uploads/2026/03/Untitled-81.jpg",
+      "page": "https://www.tropicalsportfisher.com/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2048x1366",
+      "source": "https://www.tropicalsportfisher.com/wp-content/uploads/2025/02/1G3A7335.jpg",
+      "page": "https://www.tropicalsportfisher.com/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2048x1366",
+      "source": "https://www.tropicalsportfisher.com/wp-content/uploads/2025/02/Tropical-Sportfisher-17.jpg",
+      "page": "https://www.tropicalsportfisher.com/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 2000,
+      "height": 1333,
+      "original": "2048x1365",
+      "source": "https://www.tropicalsportfisher.com/wp-content/uploads/2023/11/Tropical-Sportfisher-647.jpg.webp",
+      "page": "https://www.tropicalsportfisher.com/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2048x1366",
+      "source": "https://www.tropicalsportfisher.com/wp-content/uploads/2023/12/Tropical-Sportfisher-247.jpg.webp",
+      "page": "https://www.tropicalsportfisher.com/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2048x1536",
+      "source": "https://www.tropicalsportfisher.com/wp-content/uploads/2023/07/Cairnsfishing-071.jpg.webp",
+      "page": "https://www.tropicalsportfisher.com/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2048x1366",
+      "source": "https://www.tropicalsportfisher.com/wp-content/uploads/2023/12/mangrove-jack-1.jpg.webp",
+      "page": "https://www.tropicalsportfisher.com/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2048x1366",
+      "source": "https://www.tropicalsportfisher.com/wp-content/uploads/2023/11/Tropical-Sportfisher-538.jpg.webp",
+      "page": "https://www.tropicalsportfisher.com/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1800,
+      "height": 1200,
+      "original": "1800x1200",
+      "source": "https://www.tropicalsportfisher.com/wp-content/uploads/2023/07/jungleperchfishing-098_large.jpg.webp",
+      "page": "https://www.tropicalsportfisher.com/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2048x1366",
+      "source": "https://www.tropicalsportfisher.com/wp-content/uploads/2023/11/Tropical-Sportfisher-717.jpg.webp",
+      "page": "https://www.tropicalsportfisher.com/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 2000,
+      "height": 1333,
+      "original": "2048x1365",
+      "source": "https://www.tropicalsportfisher.com/wp-content/uploads/2023/11/Tropical-Sportfisher-653.jpg.webp",
+      "page": "https://www.tropicalsportfisher.com/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.tropicalsportfisher.com/",
+      "status": 200,
+      "final_url": "https://www.tropicalsportfisher.com/",
+      "bytes": 302054
+    },
+    {
+      "page": "https://www.tropicalsportfisher.com/contact-us/",
+      "status": 200,
+      "final_url": "https://www.tropicalsportfisher.com/contact-us/",
+      "bytes": 214794
+    },
+    {
+      "page": "https://www.tropicalsportfisher.com/river-and-estuary-day-trips/",
+      "status": 200,
+      "final_url": "https://www.tropicalsportfisher.com/river-and-estuary-day-trips/",
+      "bytes": 246564
+    },
+    {
+      "page": "https://www.tropicalsportfisher.com/inshore-bluewater-day-trips/",
+      "status": 200,
+      "final_url": "https://www.tropicalsportfisher.com/inshore-bluewater-day-trips/",
+      "bytes": 232740
+    },
+    {
+      "page": "https://www.tropicalsportfisher.com/tropical-backcountry-day-trips/",
+      "status": 200,
+      "final_url": "https://www.tropicalsportfisher.com/tropical-backcountry-day-trips/",
+      "bytes": 242431
+    },
+    {
+      "page": "https://www.tropicalsportfisher.com/fly-fishing-day-trips/",
+      "status": 200,
+      "final_url": "https://www.tropicalsportfisher.com/fly-fishing-day-trips/",
+      "bytes": 238341
+    },
+    {
+      "page": "https://www.tropicalsportfisher.com/environment/croc-and-bird-watching-day-trips-2/",
+      "status": 200,
+      "final_url": "https://www.tropicalsportfisher.com/environment/croc-and-bird-watching-day-trips-2/",
+      "bytes": 236760
+    },
+    {
+      "page": "https://www.tropicalsportfisher.com/tropical-island-day-trips/",
+      "status": 200,
+      "final_url": "https://www.tropicalsportfisher.com/tropical-island-day-trips/",
+      "bytes": 244036
+    },
+    {
+      "page": "https://www.tropicalsportfisher.com/multi-day-trips/cassowary-coast-multi-day-trip/",
+      "status": 200,
+      "final_url": "https://www.tropicalsportfisher.com/multi-day-trips/cassowary-coast-multi-day-trip/",
+      "bytes": 220943
+    },
+    {
+      "page": "https://www.tropicalsportfisher.com/multi-day-trips/kurumba-multi-day-trip/",
+      "status": 200,
+      "final_url": "https://www.tropicalsportfisher.com/multi-day-trips/kurumba-multi-day-trip/",
+      "bytes": 242806
+    },
+    {
+      "page": "https://www.tropicalsportfisher.com/multi-day-trips/tropical-island-camp/",
+      "status": 200,
+      "final_url": "https://www.tropicalsportfisher.com/multi-day-trips/tropical-island-camp/",
+      "bytes": 239613
+    },
+    {
+      "image": "https://www.tropicalsportfisher.com/wp-content/uploads/2023/07/GreatBarrierReefFly-145_medium.jpg.webp",
+      "error": "too small 532x800"
+    }
+  ]
+}

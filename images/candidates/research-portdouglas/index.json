@@ -1,0 +1,94 @@
+{
+  "slug": "research-portdouglas",
+  "request_hash": "7b1018f292d2",
+  "collected_at": "2026-10-29T03:47:57.942Z",
+  "pages_fetched": [
+    "https://tourismportdouglas.com.au/out-n-about-sportfishing",
+    "https://tropicalnorthqueensland.org.au/listing/product/hook-up-fishing-charters/",
+    "https://tourismportdouglas.com.au/",
+    "https://tourismportdouglas.com.au/contact-us",
+    "https://tourismportdouglas.com.au/how-can-we-help",
+    "https://tourismportdouglas.com.au/assistance",
+    "https://tourismportdouglas.com.au/port-douglas-app",
+    "https://tourismportdouglas.com.au/membership",
+    "https://tourismportdouglas.com.au/port-douglas-vip-holiday-giveaway",
+    "https://tourismportdouglas.com.au/port-douglas-magazine",
+    "https://tourismportdouglas.com.au/fileadmin/pdmag/46/index.html",
+    "https://tourismportdouglas.com.au/magazine-advertising"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://tourismportdouglas.com.au/out-n-about-sportfishing",
+      "status": 200,
+      "final_url": "https://tourismportdouglas.com.au/out-n-about-sportfishing",
+      "bytes": 103381
+    },
+    {
+      "page": "https://tropicalnorthqueensland.org.au/listing/product/hook-up-fishing-charters/",
+      "status": 403,
+      "final_url": "https://tropicalnorthqueensland.org.au/listing/product/hook-up-fishing-charters/",
+      "bytes": 5980
+    },
+    {
+      "page": "https://tourismportdouglas.com.au/",
+      "status": 200,
+      "final_url": "https://tourismportdouglas.com.au/",
+      "bytes": 346544
+    },
+    {
+      "page": "https://tourismportdouglas.com.au/contact-us",
+      "status": 200,
+      "final_url": "https://tourismportdouglas.com.au/contact-us",
+      "bytes": 51745
+    },
+    {
+      "page": "https://tourismportdouglas.com.au/how-can-we-help",
+      "status": 200,
+      "final_url": "https://tourismportdouglas.com.au/how-can-we-help",
+      "bytes": 66949
+    },
+    {
+      "page": "https://tourismportdouglas.com.au/assistance",
+      "status": 200,
+      "final_url": "https://tourismportdouglas.com.au/assistance",
+      "bytes": 67570
+    },
+    {
+      "page": "https://tourismportdouglas.com.au/port-douglas-app",
+      "status": 200,
+      "final_url": "https://tourismportdouglas.com.au/port-douglas-app",
+      "bytes": 76951
+    },
+    {
+      "page": "https://tourismportdouglas.com.au/membership",
+      "status": 200,
+      "final_url": "https://tourismportdouglas.com.au/membership",
+      "bytes": 65913
+    },
+    {
+      "page": "https://tourismportdouglas.com.au/port-douglas-vip-holiday-giveaway",
+      "status": 200,
+      "final_url": "https://tourismportdouglas.com.au/port-douglas-vip-holiday-giveaway",
+      "bytes": 71393
+    },
+    {
+      "page": "https://tourismportdouglas.com.au/port-douglas-magazine",
+      "status": 200,
+      "final_url": "https://tourismportdouglas.com.au/port-douglas-magazine",
+      "bytes": 123140
+    },
+    {
+      "page": "https://tourismportdouglas.com.au/fileadmin/pdmag/46/index.html",
+      "status": 200,
+      "final_url": "https://tourismportdouglas.com.au/fileadmin/pdmag/46/index.html",
+      "bytes": 2335
+    },
+    {
+      "page": "https://tourismportdouglas.com.au/magazine-advertising",
+      "status": 200,
+      "final_url": "https://tourismportdouglas.com.au/magazine-advertising",
+      "bytes": 78997
+    }
+  ]
+}

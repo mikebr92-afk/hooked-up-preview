@@ -1,0 +1,656 @@
+{
+  "slug": "tropic-barra-adventures-cairns",
+  "request_hash": "528af03a4712",
+  "collected_at": "2026-10-29T03:48:32.191Z",
+  "pages_fetched": [
+    "https://www.tropicbarraadventures.com.au/",
+    "https://www.tropicbarraadventures.com.au/charters",
+    "https://www.tropicbarraadventures.com.au/locations/fishing-charters-cairns",
+    "https://www.tropicbarraadventures.com.au/locations/fishing-trips-port-douglas",
+    "https://www.tropicbarraadventures.com.au/locations/lake-tinaroo-fishing-charters",
+    "https://www.tropicbarraadventures.com.au/locations/fishing-charters-daintree",
+    "https://www.tropicbarraadventures.com.au/locations/great-barrier-reef-fishing-trips",
+    "https://www.tropicbarraadventures.com.au/about",
+    "https://www.tropicbarraadventures.com.au/contact",
+    "https://www.tropicbarraadventures.com.au/full-day-river-charter"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1440,
+      "height": 930,
+      "original": "1440x930",
+      "source": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/095c3725-b04c-4809-9803-aa5f1ce7b514/paul+worsteling+barra.png?format=2500w",
+      "page": "https://www.tropicbarraadventures.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2500x3333",
+      "source": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/ea19b30a-de27-4e6a-842f-d5bfae72e522/tempImageIa53Ju.jpg?format=2500w",
+      "page": "https://www.tropicbarraadventures.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2500x1875",
+      "source": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/91ad697c-b784-44c9-9eb5-d95bdba3969c/tempImageoBkfi0.png?format=2500w",
+      "page": "https://www.tropicbarraadventures.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2500x1875",
+      "source": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/e26588ac-2f1a-4d98-9ee5-7950c5e137e1/tempImageYQGy0p.jpg?format=2500w",
+      "page": "https://www.tropicbarraadventures.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1788,
+      "height": 2000,
+      "original": "2500x2797",
+      "source": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/ba62fd64-c97c-44ac-8a3f-44c85093a5f3/tempImagezrLMXa.jpg?format=2500w",
+      "page": "https://www.tropicbarraadventures.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 2000,
+      "height": 1139,
+      "original": "2500x1424",
+      "source": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/1e77f835-7ef8-44b7-80bd-908801d4aa4e/tempImagenRZyrC.png?format=2500w",
+      "page": "https://www.tropicbarraadventures.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2500x1875",
+      "source": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/69bf4cd2-0fa1-44ae-8f9d-3bb4d2276ef8/tempImageOke1H8.jpg?format=2500w",
+      "page": "https://www.tropicbarraadventures.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 2000,
+      "height": 1040,
+      "original": "2500x1300",
+      "source": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/1d3eb1e9-b174-4070-8561-47e78dc19942/Untitled+design+%2855%29.jpg?format=2500w",
+      "page": "https://www.tropicbarraadventures.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 2000,
+      "height": 1040,
+      "original": "2500x1300",
+      "source": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/5ca26c4a-1a33-407a-b419-32da95f665ea/Untitled+design+%2857%29.jpg?format=2500w",
+      "page": "https://www.tropicbarraadventures.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 2000,
+      "height": 1040,
+      "original": "2500x1300",
+      "source": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/4774892a-1a4a-439e-9617-7e4b53f9ea97/Untitled+design+%2851%29.jpg?format=2500w",
+      "page": "https://www.tropicbarraadventures.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2500x3333",
+      "source": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/4c9d9700-bccf-4327-8c36-3e934fb8c640/tempImage4EDJRk.jpg?format=2500w",
+      "page": "https://www.tropicbarraadventures.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 2000,
+      "height": 1531,
+      "original": "2500x1914",
+      "source": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/81d16f7b-3186-463c-bcc1-bee6d1dcdf70/tempImageq2qFU2.jpg?format=2500w",
+      "page": "https://www.tropicbarraadventures.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 750,
+      "height": 545,
+      "original": "750x545",
+      "source": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/b1300d91-df22-41f8-a64a-01b04b094298/Sam+jack.JPG?format=2500w",
+      "page": "https://www.tropicbarraadventures.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2500x3333",
+      "source": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/c1e24db7-52e6-46e7-a023-e1957d01aed1/tempImageCakQft.jpg?format=2500w",
+      "page": "https://www.tropicbarraadventures.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 2000,
+      "height": 2000,
+      "original": "2380x2380",
+      "source": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/9432f809-5d7b-4757-befe-088595935e93/trophy+symbol+white.png?format=2500w",
+      "page": "https://www.tropicbarraadventures.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1875x2500",
+      "source": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/06a35019-de57-4305-bcbb-a23b87f8aea6/tempImage2Zhfbt.png?format=2500w",
+      "page": "https://www.tropicbarraadventures.com.au/charters",
+      "priority": false
+    },
+    {
+      "file": "c17.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2500x3333",
+      "source": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/a989fe7d-decd-4ad4-a3d5-f3834f632418/tempImageHwrxyx.jpg?format=2500w",
+      "page": "https://www.tropicbarraadventures.com.au/charters",
+      "priority": false
+    },
+    {
+      "file": "c18.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2500x3333",
+      "source": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/95298672-acd7-402b-88f1-3b9d665e5f8b/tempImageM6I531.jpg?format=2500w",
+      "page": "https://www.tropicbarraadventures.com.au/charters",
+      "priority": false
+    },
+    {
+      "file": "c19.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2500x3333",
+      "source": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/0bbd9803-50cb-4545-8f37-6dae06cf2a2a/tempImagefBH2sM.jpg?format=2500w",
+      "page": "https://www.tropicbarraadventures.com.au/charters",
+      "priority": false
+    },
+    {
+      "file": "c20.webp",
+      "width": 800,
+      "height": 1067,
+      "original": "800x1067",
+      "source": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/fce34c12-1097-443b-822d-c0fbd6f749ca/atski+saratoga.JPG?format=2500w",
+      "page": "https://www.tropicbarraadventures.com.au/charters",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.tropicbarraadventures.com.au/",
+      "status": 200,
+      "final_url": "https://www.tropicbarraadventures.com.au/",
+      "bytes": 446172
+    },
+    {
+      "page": "https://www.tropicbarraadventures.com.au/charters",
+      "status": 200,
+      "final_url": "https://www.tropicbarraadventures.com.au/charters",
+      "bytes": 247616
+    },
+    {
+      "page": "https://www.tropicbarraadventures.com.au/locations/fishing-charters-cairns",
+      "status": 200,
+      "final_url": "https://www.tropicbarraadventures.com.au/locations/fishing-charters-cairns",
+      "bytes": 684315
+    },
+    {
+      "page": "https://www.tropicbarraadventures.com.au/locations/fishing-trips-port-douglas",
+      "status": 200,
+      "final_url": "https://www.tropicbarraadventures.com.au/locations/fishing-trips-port-douglas",
+      "bytes": 849348
+    },
+    {
+      "page": "https://www.tropicbarraadventures.com.au/locations/lake-tinaroo-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.tropicbarraadventures.com.au/locations/lake-tinaroo-fishing-charters",
+      "bytes": 326938
+    },
+    {
+      "page": "https://www.tropicbarraadventures.com.au/locations/fishing-charters-daintree",
+      "status": 200,
+      "final_url": "https://www.tropicbarraadventures.com.au/locations/fishing-charters-daintree",
+      "bytes": 744546
+    },
+    {
+      "page": "https://www.tropicbarraadventures.com.au/locations/great-barrier-reef-fishing-trips",
+      "status": 200,
+      "final_url": "https://www.tropicbarraadventures.com.au/locations/great-barrier-reef-fishing-trips",
+      "bytes": 706743
+    },
+    {
+      "page": "https://www.tropicbarraadventures.com.au/about",
+      "status": 200,
+      "final_url": "https://www.tropicbarraadventures.com.au/about",
+      "bytes": 392096
+    },
+    {
+      "page": "https://www.tropicbarraadventures.com.au/contact",
+      "status": 200,
+      "final_url": "https://www.tropicbarraadventures.com.au/contact",
+      "bytes": 607125
+    },
+    {
+      "page": "https://www.tropicbarraadventures.com.au/full-day-river-charter",
+      "status": 200,
+      "final_url": "https://www.tropicbarraadventures.com.au/full-day-river-charter",
+      "bytes": 229514
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/095c3725-b04c-4809-9803-aa5f1ce7b514/paul+worsteling+barra.png"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/ea19b30a-de27-4e6a-842f-d5bfae72e522/tempImageIa53Ju.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/91ad697c-b784-44c9-9eb5-d95bdba3969c/tempImageoBkfi0.png"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/e26588ac-2f1a-4d98-9ee5-7950c5e137e1/tempImageYQGy0p.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/ba62fd64-c97c-44ac-8a3f-44c85093a5f3/tempImagezrLMXa.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/1e77f835-7ef8-44b7-80bd-908801d4aa4e/tempImagenRZyrC.png"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/69bf4cd2-0fa1-44ae-8f9d-3bb4d2276ef8/tempImageOke1H8.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/1d3eb1e9-b174-4070-8561-47e78dc19942/Untitled+design+%2855%29.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/5ca26c4a-1a33-407a-b419-32da95f665ea/Untitled+design+%2857%29.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/4774892a-1a4a-439e-9617-7e4b53f9ea97/Untitled+design+%2851%29.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/c27efeac-de83-4683-a317-3f8a60216da3/Untitled+design+%285%29.png?format=2500w",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/c27efeac-de83-4683-a317-3f8a60216da3/Untitled+design+%285%29.png",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/095c3725-b04c-4809-9803-aa5f1ce7b514/paul+worsteling+barra.png?format=100w",
+      "error": "too small 100x65"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/095c3725-b04c-4809-9803-aa5f1ce7b514/paul+worsteling+barra.png?format=300w",
+      "error": "too small 300x194"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/095c3725-b04c-4809-9803-aa5f1ce7b514/paul+worsteling+barra.png?format=500w",
+      "error": "too small 500x323"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/095c3725-b04c-4809-9803-aa5f1ce7b514/paul+worsteling+barra.png?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/095c3725-b04c-4809-9803-aa5f1ce7b514/paul+worsteling+barra.png?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/095c3725-b04c-4809-9803-aa5f1ce7b514/paul+worsteling+barra.png?format=1500w"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/ea19b30a-de27-4e6a-842f-d5bfae72e522/tempImageIa53Ju.jpg?format=100w",
+      "error": "too small 100x133"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/ea19b30a-de27-4e6a-842f-d5bfae72e522/tempImageIa53Ju.jpg?format=300w",
+      "error": "too small 300x400"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/ea19b30a-de27-4e6a-842f-d5bfae72e522/tempImageIa53Ju.jpg?format=500w",
+      "error": "too small 500x666"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/ea19b30a-de27-4e6a-842f-d5bfae72e522/tempImageIa53Ju.jpg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/ea19b30a-de27-4e6a-842f-d5bfae72e522/tempImageIa53Ju.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/ea19b30a-de27-4e6a-842f-d5bfae72e522/tempImageIa53Ju.jpg?format=1500w"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/91ad697c-b784-44c9-9eb5-d95bdba3969c/tempImageoBkfi0.png?format=100w",
+      "error": "too small 100x75"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/91ad697c-b784-44c9-9eb5-d95bdba3969c/tempImageoBkfi0.png?format=300w",
+      "error": "too small 300x225"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/91ad697c-b784-44c9-9eb5-d95bdba3969c/tempImageoBkfi0.png?format=500w",
+      "error": "too small 500x375"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/91ad697c-b784-44c9-9eb5-d95bdba3969c/tempImageoBkfi0.png?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/91ad697c-b784-44c9-9eb5-d95bdba3969c/tempImageoBkfi0.png?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/91ad697c-b784-44c9-9eb5-d95bdba3969c/tempImageoBkfi0.png?format=1500w"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/e26588ac-2f1a-4d98-9ee5-7950c5e137e1/tempImageYQGy0p.jpg?format=100w",
+      "error": "too small 100x75"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/e26588ac-2f1a-4d98-9ee5-7950c5e137e1/tempImageYQGy0p.jpg?format=300w",
+      "error": "too small 300x225"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/e26588ac-2f1a-4d98-9ee5-7950c5e137e1/tempImageYQGy0p.jpg?format=500w",
+      "error": "too small 500x375"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/e26588ac-2f1a-4d98-9ee5-7950c5e137e1/tempImageYQGy0p.jpg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/e26588ac-2f1a-4d98-9ee5-7950c5e137e1/tempImageYQGy0p.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/e26588ac-2f1a-4d98-9ee5-7950c5e137e1/tempImageYQGy0p.jpg?format=1500w"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/ba62fd64-c97c-44ac-8a3f-44c85093a5f3/tempImagezrLMXa.jpg?format=100w",
+      "error": "too small 100x112"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/ba62fd64-c97c-44ac-8a3f-44c85093a5f3/tempImagezrLMXa.jpg?format=300w",
+      "error": "too small 300x336"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/ba62fd64-c97c-44ac-8a3f-44c85093a5f3/tempImagezrLMXa.jpg?format=500w",
+      "error": "too small 500x559"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/ba62fd64-c97c-44ac-8a3f-44c85093a5f3/tempImagezrLMXa.jpg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/ba62fd64-c97c-44ac-8a3f-44c85093a5f3/tempImagezrLMXa.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/ba62fd64-c97c-44ac-8a3f-44c85093a5f3/tempImagezrLMXa.jpg?format=1500w"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/1e77f835-7ef8-44b7-80bd-908801d4aa4e/tempImagenRZyrC.png?format=100w",
+      "error": "too small 100x57"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/1e77f835-7ef8-44b7-80bd-908801d4aa4e/tempImagenRZyrC.png?format=300w",
+      "error": "too small 300x171"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/1e77f835-7ef8-44b7-80bd-908801d4aa4e/tempImagenRZyrC.png?format=500w",
+      "error": "too small 500x285"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/1e77f835-7ef8-44b7-80bd-908801d4aa4e/tempImagenRZyrC.png?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/1e77f835-7ef8-44b7-80bd-908801d4aa4e/tempImagenRZyrC.png?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/1e77f835-7ef8-44b7-80bd-908801d4aa4e/tempImagenRZyrC.png?format=1500w"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/69bf4cd2-0fa1-44ae-8f9d-3bb4d2276ef8/tempImageOke1H8.jpg?format=100w",
+      "error": "too small 100x75"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/69bf4cd2-0fa1-44ae-8f9d-3bb4d2276ef8/tempImageOke1H8.jpg?format=300w",
+      "error": "too small 300x225"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/69bf4cd2-0fa1-44ae-8f9d-3bb4d2276ef8/tempImageOke1H8.jpg?format=500w",
+      "error": "too small 500x375"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/69bf4cd2-0fa1-44ae-8f9d-3bb4d2276ef8/tempImageOke1H8.jpg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/69bf4cd2-0fa1-44ae-8f9d-3bb4d2276ef8/tempImageOke1H8.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/69bf4cd2-0fa1-44ae-8f9d-3bb4d2276ef8/tempImageOke1H8.jpg?format=1500w"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/1d3eb1e9-b174-4070-8561-47e78dc19942/Untitled+design+%2855%29.jpg?format=100w",
+      "error": "too small 100x52"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/1d3eb1e9-b174-4070-8561-47e78dc19942/Untitled+design+%2855%29.jpg?format=300w",
+      "error": "too small 300x156"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/1d3eb1e9-b174-4070-8561-47e78dc19942/Untitled+design+%2855%29.jpg?format=500w",
+      "error": "too small 500x260"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/1d3eb1e9-b174-4070-8561-47e78dc19942/Untitled+design+%2855%29.jpg?format=750w",
+      "error": "too small 750x390"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/1d3eb1e9-b174-4070-8561-47e78dc19942/Untitled+design+%2855%29.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/1d3eb1e9-b174-4070-8561-47e78dc19942/Untitled+design+%2855%29.jpg?format=1500w"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/5ca26c4a-1a33-407a-b419-32da95f665ea/Untitled+design+%2857%29.jpg?format=100w",
+      "error": "too small 100x52"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/5ca26c4a-1a33-407a-b419-32da95f665ea/Untitled+design+%2857%29.jpg?format=300w",
+      "error": "too small 300x156"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/5ca26c4a-1a33-407a-b419-32da95f665ea/Untitled+design+%2857%29.jpg?format=500w",
+      "error": "too small 500x260"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/5ca26c4a-1a33-407a-b419-32da95f665ea/Untitled+design+%2857%29.jpg?format=750w",
+      "error": "too small 750x390"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/5ca26c4a-1a33-407a-b419-32da95f665ea/Untitled+design+%2857%29.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/5ca26c4a-1a33-407a-b419-32da95f665ea/Untitled+design+%2857%29.jpg?format=1500w"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/4774892a-1a4a-439e-9617-7e4b53f9ea97/Untitled+design+%2851%29.jpg?format=100w",
+      "error": "too small 100x52"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/4774892a-1a4a-439e-9617-7e4b53f9ea97/Untitled+design+%2851%29.jpg?format=300w",
+      "error": "too small 300x156"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/4774892a-1a4a-439e-9617-7e4b53f9ea97/Untitled+design+%2851%29.jpg?format=500w",
+      "error": "too small 500x260"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/4774892a-1a4a-439e-9617-7e4b53f9ea97/Untitled+design+%2851%29.jpg?format=750w",
+      "error": "too small 750x390"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/4774892a-1a4a-439e-9617-7e4b53f9ea97/Untitled+design+%2851%29.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/4774892a-1a4a-439e-9617-7e4b53f9ea97/Untitled+design+%2851%29.jpg?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/4c9d9700-bccf-4327-8c36-3e934fb8c640/tempImage4EDJRk.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/4c9d9700-bccf-4327-8c36-3e934fb8c640/tempImage4EDJRk.jpg?format=100w",
+      "error": "too small 100x133"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/4c9d9700-bccf-4327-8c36-3e934fb8c640/tempImage4EDJRk.jpg?format=300w",
+      "error": "too small 300x400"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/4c9d9700-bccf-4327-8c36-3e934fb8c640/tempImage4EDJRk.jpg?format=500w",
+      "error": "too small 500x666"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/4c9d9700-bccf-4327-8c36-3e934fb8c640/tempImage4EDJRk.jpg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/4c9d9700-bccf-4327-8c36-3e934fb8c640/tempImage4EDJRk.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/4c9d9700-bccf-4327-8c36-3e934fb8c640/tempImage4EDJRk.jpg?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/81d16f7b-3186-463c-bcc1-bee6d1dcdf70/tempImageq2qFU2.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/81d16f7b-3186-463c-bcc1-bee6d1dcdf70/tempImageq2qFU2.jpg?format=100w",
+      "error": "too small 100x77"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/81d16f7b-3186-463c-bcc1-bee6d1dcdf70/tempImageq2qFU2.jpg?format=300w",
+      "error": "too small 300x229"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/81d16f7b-3186-463c-bcc1-bee6d1dcdf70/tempImageq2qFU2.jpg?format=500w",
+      "error": "too small 500x383"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/81d16f7b-3186-463c-bcc1-bee6d1dcdf70/tempImageq2qFU2.jpg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/81d16f7b-3186-463c-bcc1-bee6d1dcdf70/tempImageq2qFU2.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/81d16f7b-3186-463c-bcc1-bee6d1dcdf70/tempImageq2qFU2.jpg?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/b1300d91-df22-41f8-a64a-01b04b094298/Sam+jack.JPG"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/b1300d91-df22-41f8-a64a-01b04b094298/Sam+jack.JPG?format=100w",
+      "error": "too small 100x73"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/b1300d91-df22-41f8-a64a-01b04b094298/Sam+jack.JPG?format=300w",
+      "error": "too small 300x218"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/b1300d91-df22-41f8-a64a-01b04b094298/Sam+jack.JPG?format=500w",
+      "error": "too small 500x363"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/b1300d91-df22-41f8-a64a-01b04b094298/Sam+jack.JPG?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/b1300d91-df22-41f8-a64a-01b04b094298/Sam+jack.JPG?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/b1300d91-df22-41f8-a64a-01b04b094298/Sam+jack.JPG?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/c1e24db7-52e6-46e7-a023-e1957d01aed1/tempImageCakQft.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/c1e24db7-52e6-46e7-a023-e1957d01aed1/tempImageCakQft.jpg?format=100w",
+      "error": "too small 100x133"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/c1e24db7-52e6-46e7-a023-e1957d01aed1/tempImageCakQft.jpg?format=300w",
+      "error": "too small 300x400"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/c1e24db7-52e6-46e7-a023-e1957d01aed1/tempImageCakQft.jpg?format=500w",
+      "error": "too small 500x666"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/c1e24db7-52e6-46e7-a023-e1957d01aed1/tempImageCakQft.jpg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/c1e24db7-52e6-46e7-a023-e1957d01aed1/tempImageCakQft.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/c1e24db7-52e6-46e7-a023-e1957d01aed1/tempImageCakQft.jpg?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/9432f809-5d7b-4757-befe-088595935e93/trophy+symbol+white.png"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/9432f809-5d7b-4757-befe-088595935e93/trophy+symbol+white.png?format=100w",
+      "error": "too small 100x100"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/9432f809-5d7b-4757-befe-088595935e93/trophy+symbol+white.png?format=300w",
+      "error": "too small 300x300"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/9432f809-5d7b-4757-befe-088595935e93/trophy+symbol+white.png?format=500w",
+      "error": "too small 500x500"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/9432f809-5d7b-4757-befe-088595935e93/trophy+symbol+white.png?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/9432f809-5d7b-4757-befe-088595935e93/trophy+symbol+white.png?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/9432f809-5d7b-4757-befe-088595935e93/trophy+symbol+white.png?format=1500w"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/c27efeac-de83-4683-a317-3f8a60216da3/Untitled+design+%285%29.png?format=100w",
+      "error": "too small 100x100"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/c27efeac-de83-4683-a317-3f8a60216da3/Untitled+design+%285%29.png?format=300w",
+      "error": "too small 300x300"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/c27efeac-de83-4683-a317-3f8a60216da3/Untitled+design+%285%29.png?format=500w",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/c27efeac-de83-4683-a317-3f8a60216da3/Untitled+design+%285%29.png?format=750w",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/c27efeac-de83-4683-a317-3f8a60216da3/Untitled+design+%285%29.png?format=1000w",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/69b8d03d5a12137935abbe23/c27efeac-de83-4683-a317-3f8a60216da3/Untitled+design+%285%29.png?format=1500w",
+      "error": "too small 500x500"
+    }
+  ]
+}

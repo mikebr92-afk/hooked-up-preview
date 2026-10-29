@@ -1,0 +1,94 @@
+{
+  "slug": "research-mackay-region",
+  "request_hash": "9b87edf85f97",
+  "collected_at": "2026-10-29T03:46:51.479Z",
+  "pages_fetched": [
+    "https://www.mackayregion.com/hooked-on-mackay",
+    "https://hookedonmackay.squarespace.com/book-a-charter",
+    "https://qld2032.com/tourism/operator/cast-and-catch-fishing-charters-ba4c6a/",
+    "https://www.hookedonmackay.com/book-a-charter",
+    "https://www.hookedonmackay.com/sustainable-fishing",
+    "https://www.hookedonmackay.com/contact-us",
+    "https://www.hookedonmackay.com/fishing-resources/28tnljkixytr7drdj125clumjim1hw",
+    "https://www.hookedonmackay.com/fishing-resources/mackay-freshwater-fishing",
+    "https://www.hookedonmackay.com/fishing-resources/mackay-land-based-fishing",
+    "https://www.hookedonmackay.com/fishing-resources/pm8ebkglj2n4v662285vt92dl24xfi",
+    "https://www.hookedonmackay.com/fishing-resources/4-dams-fishing",
+    "https://www.hookedonmackay.com/fishing-resources/central-queensland-fishing"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.mackayregion.com/hooked-on-mackay",
+      "status": 200,
+      "final_url": "https://www.hookedonmackay.com/",
+      "bytes": 184471
+    },
+    {
+      "page": "https://hookedonmackay.squarespace.com/book-a-charter",
+      "status": 200,
+      "final_url": "https://hookedonmackay.squarespace.com/book-a-charter",
+      "bytes": 155007
+    },
+    {
+      "page": "https://qld2032.com/tourism/operator/cast-and-catch-fishing-charters-ba4c6a/",
+      "status": 200,
+      "final_url": "https://qld2032.com/tourism/operator/cast-and-catch-fishing-charters-ba4c6a/",
+      "bytes": 14749
+    },
+    {
+      "page": "https://www.hookedonmackay.com/book-a-charter",
+      "status": 200,
+      "final_url": "https://www.hookedonmackay.com/book-a-charter",
+      "bytes": 155007
+    },
+    {
+      "page": "https://www.hookedonmackay.com/sustainable-fishing",
+      "status": 200,
+      "final_url": "https://www.hookedonmackay.com/sustainable-fishing",
+      "bytes": 151319
+    },
+    {
+      "page": "https://www.hookedonmackay.com/contact-us",
+      "status": 200,
+      "final_url": "https://www.hookedonmackay.com/contact-us",
+      "bytes": 148068
+    },
+    {
+      "page": "https://www.hookedonmackay.com/fishing-resources/28tnljkixytr7drdj125clumjim1hw",
+      "status": 200,
+      "final_url": "https://www.hookedonmackay.com/fishing-resources/",
+      "bytes": 121918
+    },
+    {
+      "page": "https://www.hookedonmackay.com/fishing-resources/mackay-freshwater-fishing",
+      "status": 200,
+      "final_url": "https://www.hookedonmackay.com/fishing-resources/",
+      "bytes": 121918
+    },
+    {
+      "page": "https://www.hookedonmackay.com/fishing-resources/mackay-land-based-fishing",
+      "status": 200,
+      "final_url": "https://www.hookedonmackay.com/fishing-resources/",
+      "bytes": 121918
+    },
+    {
+      "page": "https://www.hookedonmackay.com/fishing-resources/pm8ebkglj2n4v662285vt92dl24xfi",
+      "status": 200,
+      "final_url": "https://www.hookedonmackay.com/fishing-resources/",
+      "bytes": 121918
+    },
+    {
+      "page": "https://www.hookedonmackay.com/fishing-resources/4-dams-fishing",
+      "status": 200,
+      "final_url": "https://www.hookedonmackay.com/fishing-resources/",
+      "bytes": 121918
+    },
+    {
+      "page": "https://www.hookedonmackay.com/fishing-resources/central-queensland-fishing",
+      "status": 200,
+      "final_url": "https://www.hookedonmackay.com/fishing-resources/",
+      "bytes": 121918
+    }
+  ]
+}
