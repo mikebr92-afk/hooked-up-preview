@@ -1,0 +1,289 @@
+{
+  "slug": "freedom-charters-eden",
+  "request_hash": "8373f6bd38fc",
+  "collected_at": "2026-10-29T04:28:05.311Z",
+  "pages_fetched": [
+    "https://freedomcharters.com.au/",
+    "https://www.freedomcharters.com.au/",
+    "https://freedomcharters.com.au/index.html",
+    "https://freedomcharters.com.au/about.html",
+    "https://freedomcharters.com.au/prices.html",
+    "https://freedomcharters.com.au/contact-us.html",
+    "https://freedomcharters.com.au/reef-fishing.html",
+    "https://freedomcharters.com.au/whale-watching.html",
+    "https://freedomcharters.com.au/sports-fishing.html",
+    "https://freedomcharters.com.au/game-fishing.html",
+    "https://freedomcharters.com.au/birdwatching.html",
+    "https://freedomcharters.com.au/marine-wildlife-tours.html"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1920,
+      "height": 1213,
+      "original": "1920x1213",
+      "source": "https://freedomcharters.com.au/media/posts/2/hero2.jpg",
+      "page": "https://freedomcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 720,
+      "height": 960,
+      "original": "720x960",
+      "source": "https://freedomcharters.com.au/media/posts/2/gallery/manandchildwithfish-thumbnail.jpg",
+      "page": "https://freedomcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 692,
+      "height": 960,
+      "original": "692x960",
+      "source": "https://freedomcharters.com.au/media/posts/2/gallery/sportsFishing2-thumbnail.jpg",
+      "page": "https://freedomcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 720,
+      "height": 960,
+      "original": "720x960",
+      "source": "https://freedomcharters.com.au/media/posts/2/gallery/reefFishing2-thumbnail.jpg",
+      "page": "https://freedomcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 720,
+      "height": 1280,
+      "original": "720x1280",
+      "source": "https://freedomcharters.com.au/media/posts/2/gallery/sportsFishing1-thumbnail.jpg",
+      "page": "https://freedomcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1440,
+      "height": 860,
+      "original": "1440x860",
+      "source": "https://freedomcharters.com.au/media/posts/11/whalewatching.jpg",
+      "page": "https://freedomcharters.com.au/about.html",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1440,
+      "height": 1080,
+      "original": "1440x1080",
+      "source": "https://freedomcharters.com.au/media/posts/3/connemara2.jpg",
+      "page": "https://freedomcharters.com.au/prices.html",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1920,
+      "height": 1280,
+      "original": "1920x1280",
+      "source": "https://freedomcharters.com.au/media/posts/1/whale3.jpg",
+      "page": "https://freedomcharters.com.au/contact-us.html",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 720,
+      "height": 960,
+      "original": "720x960",
+      "source": "https://freedomcharters.com.au/media/posts/10/reefFishing1.jpg",
+      "page": "https://freedomcharters.com.au/reef-fishing.html",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1500,
+      "height": 996,
+      "original": "1500x996",
+      "source": "https://freedomcharters.com.au/media/posts/8/vesselpeople.jpg",
+      "page": "https://freedomcharters.com.au/game-fishing.html",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1300,
+      "height": 867,
+      "original": "1300x867",
+      "source": "https://freedomcharters.com.au/media/posts/6/bird.jpg",
+      "page": "https://freedomcharters.com.au/birdwatching.html",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1920,
+      "height": 1250,
+      "original": "1920x1250",
+      "source": "https://freedomcharters.com.au/media/posts/5/dolphins.jpg",
+      "page": "https://freedomcharters.com.au/marine-wildlife-tours.html",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://freedomcharters.com.au/",
+      "status": 200,
+      "final_url": "https://freedomcharters.com.au/",
+      "bytes": 15847
+    },
+    {
+      "page": "https://www.freedomcharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.freedomcharters.com.au/",
+      "bytes": 15847
+    },
+    {
+      "page": "https://freedomcharters.com.au/index.html",
+      "status": 200,
+      "final_url": "https://freedomcharters.com.au/index.html",
+      "bytes": 15847
+    },
+    {
+      "page": "https://freedomcharters.com.au/about.html",
+      "status": 200,
+      "final_url": "https://freedomcharters.com.au/about.html",
+      "bytes": 9411
+    },
+    {
+      "page": "https://freedomcharters.com.au/prices.html",
+      "status": 200,
+      "final_url": "https://freedomcharters.com.au/prices.html",
+      "bytes": 8975
+    },
+    {
+      "page": "https://freedomcharters.com.au/contact-us.html",
+      "status": 200,
+      "final_url": "https://freedomcharters.com.au/contact-us.html",
+      "bytes": 7476
+    },
+    {
+      "page": "https://freedomcharters.com.au/reef-fishing.html",
+      "status": 200,
+      "final_url": "https://freedomcharters.com.au/reef-fishing.html",
+      "bytes": 8484
+    },
+    {
+      "page": "https://freedomcharters.com.au/whale-watching.html",
+      "status": 200,
+      "final_url": "https://freedomcharters.com.au/whale-watching.html",
+      "bytes": 8364
+    },
+    {
+      "page": "https://freedomcharters.com.au/sports-fishing.html",
+      "status": 200,
+      "final_url": "https://freedomcharters.com.au/sports-fishing.html",
+      "bytes": 8592
+    },
+    {
+      "page": "https://freedomcharters.com.au/game-fishing.html",
+      "status": 200,
+      "final_url": "https://freedomcharters.com.au/game-fishing.html",
+      "bytes": 8609
+    },
+    {
+      "page": "https://freedomcharters.com.au/birdwatching.html",
+      "status": 200,
+      "final_url": "https://freedomcharters.com.au/birdwatching.html",
+      "bytes": 8945
+    },
+    {
+      "page": "https://freedomcharters.com.au/marine-wildlife-tours.html",
+      "status": 200,
+      "final_url": "https://freedomcharters.com.au/marine-wildlife-tours.html",
+      "bytes": 8384
+    },
+    {
+      "image": "https://freedomcharters.com.au/media/posts/2/gallery/manwithfish5-thumbnail.jpg",
+      "error": "too small 528x960"
+    },
+    {
+      "image": "https://freedomcharters.com.au/media/posts/2/gallery/sportsFishing4-thumbnail.jpg",
+      "error": "too small 528x960"
+    },
+    {
+      "image": "https://freedomcharters.com.au/media/posts/2/gallery/sportsFishing3-thumbnail.jpg",
+      "error": "too small 528x960"
+    },
+    {
+      "image": "https://freedomcharters.com.au/findusonfacebook.png",
+      "error": "too small 1410x363"
+    },
+    {
+      "dup": "https://freedomcharters.com.au/media/posts/2/responsive/hero2-2xl.jpg"
+    },
+    {
+      "dup": "https://www.freedomcharters.com.au/media/posts/2/hero2.jpg"
+    },
+    {
+      "dup": "https://www.freedomcharters.com.au/media/posts/2/gallery/manandchildwithfish-thumbnail.jpg"
+    },
+    {
+      "image": "https://www.freedomcharters.com.au/media/posts/2/gallery/manwithfish5-thumbnail.jpg",
+      "error": "too small 528x960"
+    },
+    {
+      "image": "https://www.freedomcharters.com.au/media/posts/2/gallery/sportsFishing4-thumbnail.jpg",
+      "error": "too small 528x960"
+    },
+    {
+      "image": "https://www.freedomcharters.com.au/media/posts/2/gallery/sportsFishing3-thumbnail.jpg",
+      "error": "too small 528x960"
+    },
+    {
+      "dup": "https://www.freedomcharters.com.au/media/posts/2/gallery/sportsFishing2-thumbnail.jpg"
+    },
+    {
+      "dup": "https://www.freedomcharters.com.au/media/posts/2/gallery/reefFishing2-thumbnail.jpg"
+    },
+    {
+      "dup": "https://www.freedomcharters.com.au/media/posts/2/gallery/sportsFishing1-thumbnail.jpg"
+    },
+    {
+      "image": "https://www.freedomcharters.com.au/findusonfacebook.png",
+      "error": "too small 1410x363"
+    },
+    {
+      "dup": "https://www.freedomcharters.com.au/media/posts/2/responsive/hero2-2xl.jpg"
+    },
+    {
+      "dup": "https://freedomcharters.com.au/media/posts/11/responsive/whalewatching-2xl.jpg"
+    },
+    {
+      "dup": "https://freedomcharters.com.au/media/posts/3/responsive/connemara2-2xl.jpg"
+    },
+    {
+      "dup": "https://freedomcharters.com.au/media/posts/1/responsive/whale3-2xl.jpg"
+    },
+    {
+      "dup": "https://freedomcharters.com.au/media/posts/10/responsive/reefFishing1-2xl.jpg"
+    },
+    {
+      "dup": "https://freedomcharters.com.au/media/posts/7/whale3.jpg"
+    },
+    {
+      "dup": "https://freedomcharters.com.au/media/posts/7/responsive/whale3-2xl.jpg"
+    },
+    {
+      "dup": "https://freedomcharters.com.au/media/posts/9/sportsFishing1.jpg"
+    },
+    {
+      "dup": "https://freedomcharters.com.au/media/posts/9/responsive/sportsFishing1-2xl.jpg"
+    },
+    {
+      "dup": "https://freedomcharters.com.au/media/posts/8/responsive/vesselpeople-2xl.jpg"
+    },
+    {
+      "dup": "https://freedomcharters.com.au/media/posts/6/responsive/bird-2xl.jpg"
+    },
+    {
+      "dup": "https://freedomcharters.com.au/media/posts/5/responsive/dolphins-2xl.jpg"
+    }
+  ]
+}

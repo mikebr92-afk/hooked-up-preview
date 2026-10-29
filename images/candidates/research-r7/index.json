@@ -1,0 +1,52 @@
+{
+  "slug": "research-r7",
+  "request_hash": "415866727a71",
+  "collected_at": "2026-10-29T04:27:54.636Z",
+  "pages_fetched": [
+    "https://visitnsw.com/things-to-do/tours/wildside-sportfishing/full-day-fishing-tour",
+    "https://macleayvalleycoast.com.au/tours/wildside-sportfishing",
+    "https://playsport.com/kcsfishingcharters_ag_140e04b2",
+    "https://r.jina.ai/https://experiencejervisbay.com.au/things-to-do/jb-fishing-charters/",
+    "https://r.jina.ai/https://www.dpi.nsw.gov.au/fishing/recreational/resources/info/fishing-locations/go-fishing-lake-macquarie",
+    "https://r.jina.ai/https://www.dpi.nsw.gov.au/fishing/recreational/resources/artificial-reef/ballina-offshore-artificial-reef"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://visitnsw.com/things-to-do/tours/wildside-sportfishing/full-day-fishing-tour",
+      "status": 404,
+      "final_url": "https://www.visitnsw.com/things-to-do/tours/wildside-sportfishing/offshore-fishing-tour",
+      "bytes": 179377
+    },
+    {
+      "page": "https://macleayvalleycoast.com.au/tours/wildside-sportfishing",
+      "status": 200,
+      "final_url": "https://macleayvalleycoast.com.au/tours/wildside-sportfishing/",
+      "bytes": 359168
+    },
+    {
+      "page": "https://playsport.com/kcsfishingcharters_ag_140e04b2",
+      "status": 200,
+      "final_url": "https://playsport.com/kcsfishingcharters_ag_140e04b2",
+      "bytes": 270303
+    },
+    {
+      "page": "https://r.jina.ai/https://experiencejervisbay.com.au/things-to-do/jb-fishing-charters/",
+      "status": 200,
+      "final_url": "https://r.jina.ai/https://experiencejervisbay.com.au/things-to-do/jb-fishing-charters/",
+      "bytes": 533
+    },
+    {
+      "page": "https://r.jina.ai/https://www.dpi.nsw.gov.au/fishing/recreational/resources/info/fishing-locations/go-fishing-lake-macquarie",
+      "status": 200,
+      "final_url": "https://r.jina.ai/https://www.dpi.nsw.gov.au/fishing/recreational/resources/info/fishing-locations/go-fishing-lake-macquarie",
+      "bytes": 3275
+    },
+    {
+      "page": "https://r.jina.ai/https://www.dpi.nsw.gov.au/fishing/recreational/resources/artificial-reef/ballina-offshore-artificial-reef",
+      "status": 200,
+      "final_url": "https://r.jina.ai/https://www.dpi.nsw.gov.au/fishing/recreational/resources/artificial-reef/ballina-offshore-artificial-reef",
+      "bytes": 22726
+    }
+  ]
+}

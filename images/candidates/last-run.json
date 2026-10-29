@@ -1,5 +1,5 @@
 {
-  "finished_at": "2026-10-29T04:24:54.896Z",
+  "finished_at": "2026-10-29T04:28:06.068Z",
   "summary": [
     {
       "slug": "cronulla-reef-fishing-charters",
@@ -279,18 +279,30 @@
     },
     {
       "slug": "research-r6",
-      "candidates": 0,
-      "pages": 7
+      "skipped": true
     },
     {
       "slug": "fishbermi-charters",
-      "candidates": 16,
-      "pages": 6
+      "skipped": true
     },
     {
       "slug": "evans-head-deep-sea-fishing-charters",
-      "candidates": 7,
-      "pages": 7
+      "skipped": true
+    },
+    {
+      "slug": "research-r7",
+      "candidates": 0,
+      "pages": 6
+    },
+    {
+      "slug": "freedom-charters-eden",
+      "candidates": 12,
+      "pages": 12
+    },
+    {
+      "slug": "simos-afloat-fishing-charters",
+      "candidates": 0,
+      "pages": 1
     }
   ]
 }
