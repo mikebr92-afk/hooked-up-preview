@@ -285,7 +285,7 @@ function renderHome(cards) {
 }
 
 function renderCharters(cards) {
-  const act = SEO.activeCards(cards);
+  const act = SEO.photoFirst(SEO.activeCards(cards));
   return page(`<main class="ssr-main">${crumbsHtml([['Home', '/'], ['Fishing Charters', '/charters']])}
 <h1>Find your fishing charter</h1><p>${act.length} operators across Australia</p>
 ${cardList(act)}${locationChips()}
@@ -441,7 +441,7 @@ export default {
       body = renderHome(c.cards);
       extraHead += '<link rel="preload" as="image" href="/images/hero-marlin-1536.webp" imagesrcset="/images/hero-marlin-640.webp 640w, /images/hero-marlin-1024.webp 1024w, /images/hero-marlin-1536.webp 1536w" imagesizes="100vw" fetchpriority="high"/>\n';
     } else if (path === '/charters') {
-      meta = SEO.pageMeta('/charters', { count: act.length, cards: act });
+      meta = SEO.pageMeta('/charters', { count: act.length, cards: SEO.photoFirst(act) });
       body = renderCharters(c.cards);
     } else if ((m = path.match(/^\/charters\/([^/]+)$/))) {
       const op = operator(shell, c, decodeURIComponent(m[1]));

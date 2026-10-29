@@ -215,7 +215,9 @@ export function inLoc(card, L) {
   return (L.c || []).some((x) => loc.includes(x));
 }
 export const activeCards = (cards) => cards.filter((c) => c.status === 'active');
-export const locItems = (cards, L) => activeCards(cards).filter((c) => inLoc(c, L));
+// Listings with real photos first (stable otherwise) — completeness/photo quality drives ranking.
+export const photoFirst = (cards) => cards.map((c, i) => [c, i]).sort((a, b) => (!!b[0].image - !!a[0].image) || a[1] - b[1]).map(([c]) => c);
+export const locItems = (cards, L) => photoFirst(activeCards(cards).filter((c) => inLoc(c, L)));
 
 // Best-matching location page for an operator card: a city page first, else its state page.
 export function locFor(card) {
