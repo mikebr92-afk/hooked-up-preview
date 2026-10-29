@@ -1,0 +1,50 @@
+{
+  "slug": "research-nt-mary-places",
+  "request_hash": "7e7b56b741cf",
+  "collected_at": "2026-10-29T19:26:04.305Z",
+  "pages_fetched": [
+    "https://northernterritory.com/darwin-and-surrounds/see-and-do/shady-camp",
+    "https://www.northernterritory.com/us/en/darwin-and-surrounds/see-and-do/rockhole",
+    "https://northernterritory.com/darwin-and-surrounds/see-and-do/couzens-lookout",
+    "https://tourismtopend.com.au/mary-river-region",
+    "https://adventure.australiangeographic.com.au/read/mary-river-nt",
+    "https://northernterritory.com/things-to-do/outdoor-activities/fishing"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://northernterritory.com/darwin-and-surrounds/see-and-do/shady-camp",
+      "status": 200,
+      "final_url": "https://northernterritory.com/darwin-and-surrounds/see-and-do/shady-camp",
+      "bytes": 523102
+    },
+    {
+      "page": "https://www.northernterritory.com/us/en/darwin-and-surrounds/see-and-do/rockhole",
+      "status": 200,
+      "final_url": "https://northernterritory.com/us/en/darwin-and-surrounds/see-and-do/rockhole",
+      "bytes": 517887
+    },
+    {
+      "page": "https://northernterritory.com/darwin-and-surrounds/see-and-do/couzens-lookout",
+      "status": 200,
+      "final_url": "https://northernterritory.com/darwin-and-surrounds/see-and-do/couzens-lookout",
+      "bytes": 520766
+    },
+    {
+      "page": "https://tourismtopend.com.au/mary-river-region",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://adventure.australiangeographic.com.au/read/mary-river-nt",
+      "status": 200,
+      "final_url": "https://www.australiangeographic.com.au/australian-geographic-adventure/destinations/2014/07/mary-river-nt/",
+      "bytes": 158029
+    },
+    {
+      "page": "https://northernterritory.com/things-to-do/outdoor-activities/fishing",
+      "status": 200,
+      "final_url": "https://northernterritory.com/things-to-do/outdoor-activities/fishing",
+      "bytes": 539882
+    }
+  ]
+}

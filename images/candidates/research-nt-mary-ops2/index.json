@@ -1,0 +1,52 @@
+{
+  "slug": "research-nt-mary-ops2",
+  "request_hash": "ea603198a9e9",
+  "collected_at": "2026-10-29T19:25:59.554Z",
+  "pages_fetched": [
+    "https://northernterritory.com/tours/wildman-fishing/barramundi-fishing-charter",
+    "https://fishingbooker.com/charters/view/19940",
+    "https://www.australias.guide/nt/attraction-tour/wildman-fishing/",
+    "https://www.big4.com.au/caravan-parks/nt/darwin-surrounds/breeze-holiday-parks-mary-river/whats-local/wildman-fishing-5ebb41bb5327fc066225de3f",
+    "https://northernterritory.com/tours/spring-tide-safaris",
+    "https://www.visittopend.com.au/plan-trip/accommodation/mary-river/mary-river-wilderness-retreat"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://northernterritory.com/tours/wildman-fishing/barramundi-fishing-charter",
+      "status": 404,
+      "final_url": "https://northernterritory.com/tours/wildman-fishing/barramundi-fishing-charter",
+      "bytes": 517251
+    },
+    {
+      "page": "https://fishingbooker.com/charters/view/19940",
+      "status": 403,
+      "final_url": "https://fishingbooker.com/charters/view/19940",
+      "bytes": 5816
+    },
+    {
+      "page": "https://www.australias.guide/nt/attraction-tour/wildman-fishing/",
+      "status": 200,
+      "final_url": "https://australiasguide.com/",
+      "bytes": 64918
+    },
+    {
+      "page": "https://www.big4.com.au/caravan-parks/nt/darwin-surrounds/breeze-holiday-parks-mary-river/whats-local/wildman-fishing-5ebb41bb5327fc066225de3f",
+      "status": 404,
+      "final_url": "https://www.big4.com.au/caravan-parks/nt/darwin-surrounds/breeze-holiday-parks-mary-river/whats-local/wildman-fishing-5ebb41bb5327fc066225de3f",
+      "bytes": 122865
+    },
+    {
+      "page": "https://northernterritory.com/tours/spring-tide-safaris",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/spring-tide-safaris",
+      "bytes": 526142
+    },
+    {
+      "page": "https://www.visittopend.com.au/plan-trip/accommodation/mary-river/mary-river-wilderness-retreat",
+      "status": 200,
+      "final_url": "https://www.visittopend.com.au/plan-trip/accommodation/mary-river/mary-river-wilderness-retreat",
+      "bytes": 114502
+    }
+  ]
+}

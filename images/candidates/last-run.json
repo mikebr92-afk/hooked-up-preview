@@ -1,25 +1,41 @@
 {
-  "finished_at": "2026-10-29T19:22:45.541Z",
+  "finished_at": "2026-10-29T19:26:09.055Z",
   "summary": [
     {
       "slug": "research-nt-mary-tourism",
-      "candidates": 0,
-      "pages": 4
+      "skipped": true
     },
     {
       "slug": "research-nt-mary-rules",
-      "candidates": 0,
-      "pages": 4
+      "skipped": true
     },
     {
       "slug": "research-nt-mary-ops-tourism",
+      "skipped": true
+    },
+    {
+      "slug": "research-nt-katherine-tourism",
+      "skipped": true
+    },
+    {
+      "slug": "obsession-fishing-safaris",
+      "candidates": 16,
+      "pages": 11
+    },
+    {
+      "slug": "research-nt-mary-ops2",
       "candidates": 0,
       "pages": 6
     },
     {
-      "slug": "research-nt-katherine-tourism",
+      "slug": "research-nt-mary-places",
       "candidates": 0,
-      "pages": 5
+      "pages": 6
+    },
+    {
+      "slug": "research-nt-katherine2",
+      "candidates": 0,
+      "pages": 4
     }
   ]
 }

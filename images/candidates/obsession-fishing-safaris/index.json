@@ -1,0 +1,404 @@
+{
+  "slug": "obsession-fishing-safaris",
+  "request_hash": "43f53048a253",
+  "collected_at": "2026-10-29T19:25:51.012Z",
+  "pages_fetched": [
+    "https://www.obsessionfishing.com.au/",
+    "https://obsessionfishing.com.au/",
+    "https://obsessionfishing.com.au/darwin-harbour-fishing-charters/",
+    "https://obsessionfishing.com.au/day-charters/",
+    "https://obsessionfishing.com.au/lure-sport-fishing-darwin-harbour-fishing-charter/",
+    "https://obsessionfishing.com.au/run-off-barra-fishing/",
+    "https://obsessionfishing.com.au/dundee-beach-fishing/",
+    "https://obsessionfishing.com.au/mothership-fishing-charters/",
+    "https://obsessionfishing.com.au/about-us-2/",
+    "https://obsessionfishing.com.au/contact-us-2/",
+    "https://obsessionfishing.com.au/run-off/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2560x1707",
+      "source": "https://obsessionfishing.com.au/wp-content/uploads/2023/07/IMG_3441-scaled.jpg",
+      "page": "https://www.obsessionfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://obsessionfishing.com.au/wp-content/uploads/2023/02/Small-group-private-charters-scaled.jpg",
+      "page": "https://www.obsessionfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1920,
+      "height": 1002,
+      "original": "1920x1002",
+      "source": "https://obsessionfishing.com.au/wp-content/uploads/2020/09/Barra-Fishing-Large.jpg",
+      "page": "https://www.obsessionfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "3264x2448",
+      "source": "https://b4693531.assetcdn.net/2.0/4693531/wp-content/uploads/2023/07/crabs.jpg?lossy=2&strip=1&webp=1)",
+      "page": "https://www.obsessionfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1940,
+      "height": 1178,
+      "original": "1940x1178",
+      "source": "https://b4693531.assetcdn.net/2.0/4693531/wp-content/uploads/2023/07/Freds-Barra.jpg?lossy=2&strip=1&webp=1)",
+      "page": "https://www.obsessionfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1440,
+      "height": 1080,
+      "original": "1440x1080",
+      "source": "https://b4693531.assetcdn.net/2.0/4693531/wp-content/uploads/2023/07/Golden-Trevally.jpg?lossy=2&strip=1&webp=1)",
+      "page": "https://www.obsessionfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1600,
+      "height": 1200,
+      "original": "1600x1200",
+      "source": "https://b4693531.assetcdn.net/2.0/4693531/wp-content/uploads/2023/07/image004.jpg?lossy=2&strip=1&webp=1)",
+      "page": "https://www.obsessionfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1600,
+      "height": 1200,
+      "original": "1600x1200",
+      "source": "https://b4693531.assetcdn.net/2.0/4693531/wp-content/uploads/2024/08/1000005964.jpg?lossy=2&strip=1&webp=1)",
+      "page": "https://www.obsessionfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1600,
+      "height": 1200,
+      "original": "1600x1200",
+      "source": "https://b4693531.assetcdn.net/2.0/4693531/wp-content/uploads/2025/04/IMG_20241010_075050-3.jpg?lossy=2&strip=1&webp=1",
+      "page": "https://obsessionfishing.com.au/darwin-harbour-fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1600,
+      "height": 1200,
+      "original": "1600x1200",
+      "source": "https://b4693531.assetcdn.net/2.0/4693531/wp-content/uploads/2025/04/Queenfish-2.jpg?lossy=2&strip=1&webp=1",
+      "page": "https://obsessionfishing.com.au/darwin-harbour-fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1600,
+      "height": 1200,
+      "original": "1600x1200",
+      "source": "https://b4693531.assetcdn.net/2.0/4693531/wp-content/uploads/2025/04/image000000-2.jpg?lossy=2&strip=1&webp=1",
+      "page": "https://obsessionfishing.com.au/darwin-harbour-fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1600,
+      "height": 1200,
+      "original": "1600x1200",
+      "source": "https://b4693531.assetcdn.net/2.0/4693531/wp-content/uploads/2025/04/image000001-2.jpg?lossy=2&strip=1&webp=1",
+      "page": "https://obsessionfishing.com.au/darwin-harbour-fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1600,
+      "height": 1200,
+      "original": "1600x1200",
+      "source": "https://b4693531.assetcdn.net/2.0/4693531/wp-content/uploads/2025/04/image000003.jpg?lossy=2&strip=1&webp=1",
+      "page": "https://obsessionfishing.com.au/darwin-harbour-fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1600,
+      "height": 1200,
+      "original": "1600x1200",
+      "source": "https://b4693531.assetcdn.net/2.0/4693531/wp-content/uploads/2025/04/IMG_20241001_154541-2.jpg?lossy=2&strip=1&webp=1",
+      "page": "https://obsessionfishing.com.au/darwin-harbour-fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1600,
+      "height": 1200,
+      "original": "1600x1200",
+      "source": "https://b4693531.assetcdn.net/2.0/4693531/wp-content/uploads/2025/04/IMG_20241001_154541-1.jpg?lossy=2&strip=1&webp=1",
+      "page": "https://obsessionfishing.com.au/darwin-harbour-fishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1600,
+      "height": 1200,
+      "original": "1600x1200",
+      "source": "https://b4693531.assetcdn.net/2.0/4693531/wp-content/uploads/2025/04/My-Scan-4.jpg?lossy=2&strip=1&webp=1",
+      "page": "https://obsessionfishing.com.au/day-charters/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.obsessionfishing.com.au/",
+      "status": 200,
+      "final_url": "https://obsessionfishing.com.au/",
+      "bytes": 389597
+    },
+    {
+      "page": "https://obsessionfishing.com.au/",
+      "status": 200,
+      "final_url": "https://obsessionfishing.com.au/",
+      "bytes": 389597
+    },
+    {
+      "page": "https://obsessionfishing.com.au/darwin-harbour-fishing-charters/",
+      "status": 200,
+      "final_url": "https://obsessionfishing.com.au/darwin-harbour-fishing-charters/",
+      "bytes": 209103
+    },
+    {
+      "page": "https://obsessionfishing.com.au/day-charters/",
+      "status": 200,
+      "final_url": "https://obsessionfishing.com.au/day-charters/",
+      "bytes": 203407
+    },
+    {
+      "page": "https://obsessionfishing.com.au/lure-sport-fishing-darwin-harbour-fishing-charter/",
+      "status": 200,
+      "final_url": "https://obsessionfishing.com.au/lure-sport-fishing-darwin-harbour-fishing-charter/",
+      "bytes": 204343
+    },
+    {
+      "page": "https://obsessionfishing.com.au/run-off-barra-fishing/",
+      "status": 200,
+      "final_url": "https://obsessionfishing.com.au/run-off-barra-fishing/",
+      "bytes": 200270
+    },
+    {
+      "page": "https://obsessionfishing.com.au/dundee-beach-fishing/",
+      "status": 200,
+      "final_url": "https://obsessionfishing.com.au/mothership-fishing-charters/",
+      "bytes": 206238
+    },
+    {
+      "page": "https://obsessionfishing.com.au/mothership-fishing-charters/",
+      "status": 200,
+      "final_url": "https://obsessionfishing.com.au/mothership-fishing-charters/",
+      "bytes": 206238
+    },
+    {
+      "page": "https://obsessionfishing.com.au/about-us-2/",
+      "status": 200,
+      "final_url": "https://obsessionfishing.com.au/about-us-2/",
+      "bytes": 137405
+    },
+    {
+      "page": "https://obsessionfishing.com.au/contact-us-2/",
+      "status": 200,
+      "final_url": "https://obsessionfishing.com.au/contact-us-2/",
+      "bytes": 161767
+    },
+    {
+      "page": "https://obsessionfishing.com.au/run-off/",
+      "status": 200,
+      "final_url": "https://obsessionfishing.com.au/run-off/",
+      "bytes": 151595
+    },
+    {
+      "dup": "https://b4693531.assetcdn.net/2.0/4693531/wp-content/uploads/2023/07/IMG_3441-scaled.jpg?lossy=2&strip=1&webp=1"
+    },
+    {
+      "dup": "https://b4693531.assetcdn.net/2.0/4693531/wp-content/uploads/2023/02/Small-group-private-charters-scaled.jpg?lossy=2&strip=1&webp=1"
+    },
+    {
+      "dup": "https://b4693531.assetcdn.net/2.0/4693531/wp-content/uploads/2020/09/Barra-Fishing-Large.jpg?lossy=2&strip=1&webp=1"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocIgSCJ1FIjZuWRl9zFffwCuwtowBsdMTMPF0ZHc8nJunL1Qlw=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocKHuL-nCET56bBjKvHXUuuTIUlCpEr_XXhHXTOn3PQl45LAgg=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocINzLd9gJs9sqv3ScqGPQkhunayhyeIkCU-4U2T1SZ4jyn3qg=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocL7ADTxjEC4sUw50q7buPGDi1qm52sYqOfsrTwBrDR3Yv_H9g=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocIpNbEi2pTM53uYw2rzuGUaJ5LMLSAGuFwprwPGtC-xjaQhGA=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a-/ALV-UjWZvx_MagDEyfUF94KHLEAV6Ku5IKASjxS8v5hct9VMEac67YM=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a-/ALV-UjVPo-7kGFa70yrH3Rx1ciZnhAD7HbnsyOQ_r-PqJPo-gnbwKIo=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocJhzpOT66rbtytCtOxXOXqrrSdgz85ubKJDNDNhelbVZTmxcw=w40-h40-c-rp-mo-ba2-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocIajApiQmDZmo6VoM_rYgH6tw77GOFyl5WHDW8xbpGUWzn0aw=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocJZ-EIgsAjLm1sMK7S_UletsNNe7bn0ywNCAdpYfqFoj4WMa6w=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocIgSCJ1FIjZuWRl9zFffwCuwtowBsdMTMPF0ZHc8nJunL1Qlw=w80-h80-c-rp-mo-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocKHuL-nCET56bBjKvHXUuuTIUlCpEr_XXhHXTOn3PQl45LAgg=w80-h80-c-rp-mo-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocINzLd9gJs9sqv3ScqGPQkhunayhyeIkCU-4U2T1SZ4jyn3qg=w80-h80-c-rp-mo-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocL7ADTxjEC4sUw50q7buPGDi1qm52sYqOfsrTwBrDR3Yv_H9g=w80-h80-c-rp-mo-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocIpNbEi2pTM53uYw2rzuGUaJ5LMLSAGuFwprwPGtC-xjaQhGA=w80-h80-c-rp-mo-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a-/ALV-UjWZvx_MagDEyfUF94KHLEAV6Ku5IKASjxS8v5hct9VMEac67YM=w80-h80-c-rp-mo-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a-/ALV-UjVPo-7kGFa70yrH3Rx1ciZnhAD7HbnsyOQ_r-PqJPo-gnbwKIo=w80-h80-c-rp-mo-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocJhzpOT66rbtytCtOxXOXqrrSdgz85ubKJDNDNhelbVZTmxcw=w80-h80-c-rp-mo-ba2-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocIajApiQmDZmo6VoM_rYgH6tw77GOFyl5WHDW8xbpGUWzn0aw=w80-h80-c-rp-mo-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocJZ-EIgsAjLm1sMK7S_UletsNNe7bn0ywNCAdpYfqFoj4WMa6w=w80-h80-c-rp-mo-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "dup": "https://b4693531.assetcdn.net/2.0/4693531/wp-content/uploads/2023/02/Small-group-private-charters.jpg?lossy=2&strip=1&webp=1)"
+    },
+    {
+      "dup": "https://b4693531.assetcdn.net/2.0/4693531/wp-content/uploads/2023/07/crabs-1024x768.jpg?lossy=2&strip=1&webp=1)"
+    },
+    {
+      "dup": "https://b4693531.assetcdn.net/2.0/4693531/wp-content/uploads/2023/07/Freds-Barra-1024x622.jpg?lossy=2&strip=1&webp=1)"
+    },
+    {
+      "dup": "https://b4693531.assetcdn.net/2.0/4693531/wp-content/uploads/2023/07/Golden-Trevally-1024x768.jpg?lossy=2&strip=1&webp=1)"
+    },
+    {
+      "dup": "https://b4693531.assetcdn.net/2.0/4693531/wp-content/uploads/2023/07/image004-1024x768.jpg?lossy=2&strip=1&webp=1)"
+    },
+    {
+      "dup": "https://b4693531.assetcdn.net/2.0/4693531/wp-content/uploads/2024/08/1000005964-1024x768.jpg?lossy=2&strip=1&webp=1)"
+    },
+    {
+      "dup": "https://b4693531.assetcdn.net/2.0/4693531/wp-content/uploads/2023/02/Small-group-private-charters-1024x768.jpg?lossy=2&strip=1&webp=1)"
+    },
+    {
+      "dup": "https://obsessionfishing.com.au/wp-content/uploads/2023/07/Freds-Barra.jpg"
+    },
+    {
+      "dup": "https://b4693531.assetcdn.net/2.0/4693531/wp-content/uploads/2023/07/crabs.jpg?lossy=2&strip=1&webp=1"
+    },
+    {
+      "dup": "https://b4693531.assetcdn.net/2.0/4693531/wp-content/uploads/2023/07/crabs-1024x768.jpg?lossy=2&strip=1&webp=1"
+    },
+    {
+      "image": "https://b4693531.assetcdn.net/2.0/4693531/wp-content/uploads/2023/07/crabs-300x225.jpg?lossy=2&strip=1&webp=1",
+      "error": "too small 300x225"
+    },
+    {
+      "dup": "https://b4693531.assetcdn.net/2.0/4693531/wp-content/uploads/2025/04/IMG_20241010_075050-3-1024x768.jpg?lossy=2&strip=1&webp=1"
+    },
+    {
+      "image": "https://b4693531.assetcdn.net/2.0/4693531/wp-content/uploads/2025/04/IMG_20241010_075050-3-300x225.jpg?lossy=2&strip=1&webp=1",
+      "error": "too small 300x225"
+    },
+    {
+      "dup": "https://b4693531.assetcdn.net/2.0/4693531/wp-content/uploads/2025/04/Queenfish-2-1024x768.jpg?lossy=2&strip=1&webp=1"
+    },
+    {
+      "image": "https://b4693531.assetcdn.net/2.0/4693531/wp-content/uploads/2025/04/Queenfish-2-300x225.jpg?lossy=2&strip=1&webp=1",
+      "error": "too small 300x225"
+    },
+    {
+      "dup": "https://b4693531.assetcdn.net/2.0/4693531/wp-content/uploads/2025/04/image000000-2-1024x768.jpg?lossy=2&strip=1&webp=1"
+    },
+    {
+      "image": "https://b4693531.assetcdn.net/2.0/4693531/wp-content/uploads/2025/04/image000000-2-300x225.jpg?lossy=2&strip=1&webp=1",
+      "error": "too small 300x225"
+    },
+    {
+      "dup": "https://b4693531.assetcdn.net/2.0/4693531/wp-content/uploads/2025/04/image000001-2-1024x768.jpg?lossy=2&strip=1&webp=1"
+    },
+    {
+      "image": "https://b4693531.assetcdn.net/2.0/4693531/wp-content/uploads/2025/04/image000001-2-300x225.jpg?lossy=2&strip=1&webp=1",
+      "error": "too small 300x225"
+    },
+    {
+      "dup": "https://b4693531.assetcdn.net/2.0/4693531/wp-content/uploads/2025/04/image000003-1024x768.jpg?lossy=2&strip=1&webp=1"
+    },
+    {
+      "image": "https://b4693531.assetcdn.net/2.0/4693531/wp-content/uploads/2025/04/image000003-300x225.jpg?lossy=2&strip=1&webp=1",
+      "error": "too small 300x225"
+    },
+    {
+      "dup": "https://b4693531.assetcdn.net/2.0/4693531/wp-content/uploads/2025/04/IMG_20241001_154541-2-1024x768.jpg?lossy=2&strip=1&webp=1"
+    },
+    {
+      "image": "https://b4693531.assetcdn.net/2.0/4693531/wp-content/uploads/2025/04/IMG_20241001_154541-2-300x225.jpg?lossy=2&strip=1&webp=1",
+      "error": "too small 300x225"
+    },
+    {
+      "dup": "https://b4693531.assetcdn.net/2.0/4693531/wp-content/uploads/2025/04/IMG_20241001_154541-1-1024x768.jpg?lossy=2&strip=1&webp=1"
+    },
+    {
+      "image": "https://b4693531.assetcdn.net/2.0/4693531/wp-content/uploads/2025/04/IMG_20241001_154541-1-300x225.jpg?lossy=2&strip=1&webp=1",
+      "error": "too small 300x225"
+    }
+  ]
+}

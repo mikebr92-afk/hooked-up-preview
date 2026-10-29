@@ -1,0 +1,36 @@
+{
+  "slug": "research-nt-katherine2",
+  "request_hash": "7b8ec3deb5f9",
+  "collected_at": "2026-10-29T19:26:09.055Z",
+  "pages_fetched": [
+    "https://www.tourismtopend.com.au/timber-creek-vic-river-menu",
+    "https://northernterritory.com/tours/australian-sportfishing-charters/roper-river-fishing",
+    "https://tourismtopend.com.au/katherine-and-surrounds-tours-things-to-do-adventure",
+    "https://www.visitkatherine.com.au/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.tourismtopend.com.au/timber-creek-vic-river-menu",
+      "status": 200,
+      "final_url": "https://www.visittopend.com.au/timber-creek-vic-river-menu",
+      "bytes": 55768
+    },
+    {
+      "page": "https://northernterritory.com/tours/australian-sportfishing-charters/roper-river-fishing",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/australian-sportfishing-charters/roper-river-fishing",
+      "bytes": 514366
+    },
+    {
+      "page": "https://tourismtopend.com.au/katherine-and-surrounds-tours-things-to-do-adventure",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://www.visitkatherine.com.au/",
+      "status": 200,
+      "final_url": "https://www.visitkatherine.com.au/",
+      "bytes": 134164
+    }
+  ]
+}
