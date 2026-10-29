@@ -1,25 +1,22 @@
 {
-  "finished_at": "2026-10-29T03:07:01.220Z",
+  "finished_at": "2026-10-29T03:08:02.748Z",
   "summary": [
     {
       "slug": "hooker-1-fishing-charters-gold-coast",
-      "candidates": 20,
-      "pages": 7
+      "skipped": true
     },
     {
       "slug": "reef-and-river-charters-gold-coast",
       "candidates": 0,
-      "pages": 1
+      "pages": 3
     },
     {
       "slug": "hervey-bay-fishing-charters",
-      "candidates": 14,
-      "pages": 8
+      "skipped": true
     },
     {
       "slug": "noosa-fishing-charters-sunshine-coast",
-      "candidates": 0,
-      "pages": 1
+      "skipped": true
     }
   ]
 }
