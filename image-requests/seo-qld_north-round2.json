@@ -1,0 +1,11 @@
+{"requests":[
+ {"slug":"fishs-fly-sportfishing-weipa-r2","pages":["https://www.fluxflyfishing.com/","https://www.weipaflyfish.com.au/blog"],"text":true,"max":0,"follow":true,"force":true},
+ {"slug":"guide-qld-rules","pages":[
+   "https://www.daf.qld.gov.au/business-priorities/fisheries/recreational/recreational-fishing-rules/closed-seasons-waters/tidal-waters",
+   "https://www.daf.qld.gov.au/business-priorities/fisheries/recreational/rules-regulations/closed-seasons-tidal-waters",
+   "https://www.daf.qld.gov.au/business-priorities/fisheries/sustainable/legislation/management-changes-for-east-coast-spanish-mackerel",
+   "https://www2.gbrmpa.gov.au/access/environmental-management-charge",
+   "https://www.topnotchgamefishing.com.au/coral-reef-fin-spanish-mackerel-closures/",
+   "https://www.gbrmpa.gov.au/access/zoning/interpreting-zones"
+ ],"text":true,"max":0,"follow":false,"force":true}
+]}
