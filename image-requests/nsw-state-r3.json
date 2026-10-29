@@ -1,0 +1,210 @@
+{
+ "requests": [
+  {
+   "slug": "research-dpi-register",
+   "pages": [
+    "https://r.jina.ai/https://www.dpi.nsw.gov.au/__data/assets/pdf_file/0006/1446135/Public-register-of-charter-fishing-business.pdf"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  },
+  {
+   "slug": "research-sydney2",
+   "pages": [
+    "https://fishingstation.com.au/pages/charter-operators",
+    "https://events.visitsutherlandshire.com.au/see-and-do/fishing?view=list",
+    "https://www.visitsutherlandshire.com.au/see-and-do/fishing"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  },
+  {
+   "slug": "research-portstephens2",
+   "pages": [
+    "https://www.portstephens.org.au/see-and-do/the-water/diving-and-fishing/fishing-in-port-stephens",
+    "https://www.portstephens.org.au/see-and-do/the-water/diving-and-fishing",
+    "https://blog.fcswc.org.au/blog/our-guide-to-fishing-in-port-stephens"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  },
+  {
+   "slug": "research-wahoo2",
+   "pages": [
+    "https://wahoocharters.com.au/pickup-locations/",
+    "https://wahoocharters.com.au/about/",
+    "https://wahoocharters.com.au/faqs/",
+    "https://wahoocharters.com.au/price-list/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  },
+  {
+   "slug": "research-cronulla-rezdy",
+   "pages": [
+    "https://r.jina.ai/https://cronullareeffishingcharters.rezdy.com/",
+    "https://cronullareeffishingcharters.rezdy.com/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  },
+  {
+   "slug": "research-coffs-rezdy",
+   "pages": [
+    "https://r.jina.ai/https://coffsharbourfishing.rezdy.com/",
+    "https://coffsharbourfishing.rezdy.com/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  },
+  {
+   "slug": "research-pacificblue2",
+   "pages": [
+    "https://pacificbluecharters.com.au/faq/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  },
+  {
+   "slug": "research-discovery3",
+   "pages": [
+    "https://playsport.com/cushyfishingchartersest1996_ag_63a70f87",
+    "https://www.mapquest.com/au/new-south-wales/reel-time-fishing-charters-795637533",
+    "https://lordhoweisland.info/experiences/tours/belle-chase/",
+    "https://lordhoweisland.info/experiences/tours/sea-buoys-ocean-charters/",
+    "https://lordhoweisland.info/experiences/tours/sea-lord-howe/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  },
+  {
+   "slug": "aquilla-fishing-charters-wollongong",
+   "pages": [
+    "https://www.aquillacharters.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "terrigal-fishing-tours",
+   "pages": [
+    "https://terrigalfishingtours.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "day-trippin-charters",
+   "pages": [
+    "https://day-trippin-charters.squarespace.com/",
+    "https://day-trippin-charters.squarespace.com/the-boat"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "b-and-l-fishing-charters",
+   "pages": [
+    "https://www.fishingcharter.net.au/",
+    "https://b-l-fishing.treepl.co/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "castaway-estuary-fishing-charters",
+   "pages": [
+    "https://www.castawayfishing.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "port-macquarie-fishing-charters",
+   "pages": [
+    "https://www.portmacquariefishingcharters.com.au/",
+    "https://portmacquariefishingcharters.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "south-west-rocks-fishing-charters",
+   "pages": [
+    "http://www.southwestrocksfishcharters.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "cougar-cat-12-charters",
+   "pages": [
+    "https://cougarcat12.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "go-fish-yamba-charters",
+   "pages": [
+    "https://www.gofishyamba.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "yamba-fishing-and-charters",
+   "pages": [
+    "https://www.yambafishingandcharters.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "kiama-charter-service",
+   "pages": [
+    "https://www.kiamafishing.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "fishpen-charters-merimbula",
+   "pages": [
+    "https://fishpen-charters.squarespace.com/",
+    "https://fishpen-charters.squarespace.com/our-boat"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "sea-to-summit-lord-howe-fishing",
+   "pages": [
+    "https://www.lordhoweislandtours.net/charter-fishing"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  }
+ ]
+}
