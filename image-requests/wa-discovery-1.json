@@ -1,0 +1,12 @@
+{"requests":[
+{"slug":"research-wa-broome-sport","pages":["https://www.visitbroome.com.au/members/broome-sport-fishing","https://www.visitbroome.com.au/members/phat-time-fishing","https://watravel.com.au/broome/activites/fishing/"],"text":true,"max":0,"follow":false},
+{"slug":"research-wa-kununurra","pages":["https://www.australiasnorthwest.com/explore/kimberley/kununurra/fishing-kununurra/","https://visitkununurra.com/kimberley-fishing","https://www.visitkununurra.com/bd-fishing-safaris"],"text":true,"max":0,"follow":false},
+{"slug":"research-wa-exmouth","pages":["https://fishingbooker.com/destinations/location/au/WA/exmouth","https://recfishwest.org.au/news/scotts-spots-exciting-exmouth/","https://australiasguide.com/wa/attraction-tour/exmouth/exmouth/evolution-fishing-charters"],"text":true,"max":0,"follow":false},
+{"slug":"research-wa-perth","pages":["https://watravel.com.au/perth-fishing-charters/","https://fishingbooker.com/destinations/location/au/WA/hillarys","https://www.australias.guide/wa/attraction-tour/joondalup/hillarys/blue-juice-charters/"],"text":true,"max":0,"follow":false},
+{"slug":"research-wa-abrolhos","pages":["https://www.australiascoralcoast.com/products/abrolhos-islands-live-aboard-fishing-charter","https://fishingbooker.com/destinations/location/au/WA/geraldton","https://www.australias.guide/wa/attraction-tour/greater-geraldton/geraldton/apache-charters-abrolhos-islands-dirk-hartog-island/","https://recfishwest.org.au/?p=14216"],"text":true,"max":0,"follow":false},
+{"slug":"research-wa-kimberley-ms","pages":["https://fishabout.com.au/destinations/kimberley-fishing-safari/","https://fishabout.com.au/destinations/kimberley-mothership/"],"text":true,"max":0,"follow":false},
+{"slug":"research-wa-fb-state","pages":["https://fishingbooker.com/destinations/state/au/WA","https://www.waholidayguide.com.au/western-australia-tours-things-to-do/browse-tours/western-australia-fishing-charter-diving"],"text":true,"max":0,"follow":false},
+{"slug":"innkeeper-sportfishing-charters","pages":["https://innkeepersportfishing.com/"],"text":true,"max":16,"follow":true},
+{"slug":"mills-charters","pages":["https://www.millscharters.com.au/"],"text":true,"max":16,"follow":true},
+{"slug":"blue-juice-charters","pages":["https://www.bluejuicecharters.com.au/"],"text":true,"max":16,"follow":true}
+]}
