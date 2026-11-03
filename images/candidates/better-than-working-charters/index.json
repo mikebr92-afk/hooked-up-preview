@@ -1,0 +1,21 @@
+{
+  "slug": "better-than-working-charters",
+  "request_hash": "c535fe2817b2",
+  "collected_at": "2026-11-03T22:30:24.036Z",
+  "pages_fetched": [
+    "https://www.betterthanworkingcharters.com.au/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.betterthanworkingcharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.betterthanworkingcharters.com.au/",
+      "bytes": 9299
+    },
+    {
+      "image": "https://www.betterthanworkingcharters.com.au/og-image.jpg",
+      "error": "HTTP 404"
+    }
+  ]
+}

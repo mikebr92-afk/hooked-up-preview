@@ -1,0 +1,20 @@
+{
+  "slug": "southern-coast-charters",
+  "request_hash": "d7540b475e38",
+  "collected_at": "2026-11-03T22:31:32.837Z",
+  "pages_fetched": [
+    "https://www.southerncoastcharters.com.au/",
+    "https://southerncoastcharters.com/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.southerncoastcharters.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://southerncoastcharters.com/",
+      "error": "fetch failed"
+    }
+  ]
+}

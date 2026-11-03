@@ -1,5 +1,5 @@
 {
-  "finished_at": "2026-11-03T22:26:08.325Z",
+  "finished_at": "2026-11-03T22:31:50.826Z",
   "summary": [
     {
       "slug": "vic-disc-vfa-licence",
@@ -27,43 +27,105 @@
     },
     {
       "slug": "vic-disc-lists2",
-      "candidates": 0,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "vic-disc-lists3",
+      "skipped": true
+    },
+    {
+      "slug": "westernport-fishing-charters",
+      "skipped": true
+    },
+    {
+      "slug": "unreel-fishing-charters",
+      "skipped": true
+    },
+    {
+      "slug": "pro-red-fishing-charters",
+      "skipped": true
+    },
+    {
+      "slug": "im-hooked-fishing-charters",
+      "skipped": true
+    },
+    {
+      "slug": "geelong-fishing-charters",
+      "skipped": true
+    },
+    {
+      "slug": "reel-obsession-fishing-charters",
+      "skipped": true
+    },
+    {
+      "slug": "vic-disc-lists4",
       "candidates": 0,
       "pages": 12
     },
     {
-      "slug": "westernport-fishing-charters",
+      "slug": "vic-disc-vfa-archive",
+      "candidates": 0,
+      "pages": 5
+    },
+    {
+      "slug": "gone-fishing-charters",
+      "candidates": 16,
+      "pages": 11
+    },
+    {
+      "slug": "queenscliff-fishing-charters",
       "candidates": 7,
       "pages": 10
     },
     {
-      "slug": "unreel-fishing-charters",
-      "candidates": 16,
-      "pages": 11
-    },
-    {
-      "slug": "pro-red-fishing-charters",
-      "candidates": 16,
-      "pages": 11
-    },
-    {
-      "slug": "im-hooked-fishing-charters",
-      "candidates": 16,
+      "slug": "far-out-charters",
+      "candidates": 14,
       "pages": 12
     },
     {
-      "slug": "geelong-fishing-charters",
-      "candidates": 3,
+      "slug": "sharkmen-fishing-charters",
+      "candidates": 9,
+      "pages": 7
+    },
+    {
+      "slug": "better-than-working-charters",
+      "candidates": 0,
+      "pages": 1
+    },
+    {
+      "slug": "salty-dog-charters",
+      "candidates": 16,
+      "pages": 10
+    },
+    {
+      "slug": "lake-mulwala-sportfishing",
+      "candidates": 16,
+      "pages": 10
+    },
+    {
+      "slug": "cassar-fishing-charters",
+      "candidates": 16,
+      "pages": 9
+    },
+    {
+      "slug": "southern-coast-charters",
+      "candidates": 0,
+      "pages": 2
+    },
+    {
+      "slug": "lakes-entrance-offshore-charters",
+      "candidates": 0,
+      "pages": 2
+    },
+    {
+      "slug": "back-of-beyond-fly-fishing",
+      "candidates": 8,
       "pages": 12
     },
     {
-      "slug": "reel-obsession-fishing-charters",
-      "candidates": 3,
-      "pages": 3
+      "slug": "relax-go-fishing",
+      "candidates": 12,
+      "pages": 11
     }
   ]
 }

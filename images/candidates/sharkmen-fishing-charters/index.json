@@ -1,0 +1,566 @@
+{
+  "slug": "sharkmen-fishing-charters",
+  "request_hash": "a2c465a899e1",
+  "collected_at": "2026-11-03T22:30:23.742Z",
+  "pages_fetched": [
+    "http://sharkmen.com.au/",
+    "http://sharkmen.com.au/snapper/",
+    "https://sharkmen.com.au/whiting_charter/",
+    "https://sharkmen.com.au/corporate/",
+    "https://sharkmen.com.au/faq/",
+    "https://sharkmen.com.au/pre-charter-breifing/",
+    "https://sharkmen.com.au/contact/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1920,
+      "height": 1087,
+      "original": "1920x1087",
+      "source": "https://s05de.syd6.hostingplatform.net.au/~sharkmen/wp-content/uploads/2025/11/Goldie_King_Dark.jpg#244",
+      "page": "http://sharkmen.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 1920,
+      "height": 1087,
+      "original": "1920x1087",
+      "source": "https://s05de.syd6.hostingplatform.net.au/~sharkmen/wp-content/uploads/2025/11/bgocean.jpg#203",
+      "page": "http://sharkmen.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1920,
+      "height": 1087,
+      "original": "1920x1087",
+      "source": "https://s05de.syd6.hostingplatform.net.au/~sharkmen/wp-content/uploads/2025/11/Boats.jpg#232",
+      "page": "http://sharkmen.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 710,
+      "height": 660,
+      "original": "710x660",
+      "source": "https://sharkmen.com.au/wp-content/uploads/2025/11/Marco-kinggy.jpg",
+      "page": "https://sharkmen.com.au/whiting_charter/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 710,
+      "height": 660,
+      "original": "710x660",
+      "source": "https://sharkmen.com.au/wp-content/uploads/2025/11/Snapper-dima-goldy.jpg",
+      "page": "https://sharkmen.com.au/whiting_charter/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 710,
+      "height": 660,
+      "original": "710x660",
+      "source": "https://sharkmen.com.au/wp-content/uploads/2025/11/Marko-Snapper.jpg",
+      "page": "https://sharkmen.com.au/whiting_charter/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 710,
+      "height": 660,
+      "original": "710x660",
+      "source": "https://sharkmen.com.au/wp-content/uploads/2025/11/Barrel.jpg",
+      "page": "https://sharkmen.com.au/whiting_charter/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 710,
+      "height": 774,
+      "original": "710x774",
+      "source": "https://sharkmen.com.au/wp-content/uploads/2025/11/Whiting-kids.jpg",
+      "page": "https://sharkmen.com.au/pre-charter-breifing/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 710,
+      "height": 660,
+      "original": "710x660",
+      "source": "https://sharkmen.com.au/wp-content/uploads/2026/02/Goldy-bio-king.jpg",
+      "page": "https://sharkmen.com.au/pre-charter-breifing/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "http://sharkmen.com.au/",
+      "status": 200,
+      "final_url": "https://sharkmen.com.au/",
+      "bytes": 302227
+    },
+    {
+      "page": "http://sharkmen.com.au/snapper/",
+      "status": 200,
+      "final_url": "https://sharkmen.com.au/wp-content/uploads/2025/11/Snapper.png",
+      "bytes": 4256
+    },
+    {
+      "page": "https://sharkmen.com.au/whiting_charter/",
+      "status": 200,
+      "final_url": "https://sharkmen.com.au/whiting_charter/",
+      "bytes": 266376
+    },
+    {
+      "page": "https://sharkmen.com.au/corporate/",
+      "status": 200,
+      "final_url": "https://sharkmen.com.au/corporate/",
+      "bytes": 306057
+    },
+    {
+      "page": "https://sharkmen.com.au/faq/",
+      "status": 200,
+      "final_url": "https://sharkmen.com.au/faq/",
+      "bytes": 264359
+    },
+    {
+      "page": "https://sharkmen.com.au/pre-charter-breifing/",
+      "status": 200,
+      "final_url": "https://sharkmen.com.au/pre-charter-breifing/",
+      "bytes": 282298
+    },
+    {
+      "page": "https://sharkmen.com.au/contact/",
+      "status": 200,
+      "final_url": "https://sharkmen.com.au/contact/",
+      "bytes": 253512
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2025/11/Snapper.png",
+      "error": "too small 119x87"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2025/11/Whiting.png",
+      "error": "too small 119x87"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2025/11/SQUID.png",
+      "error": "too small 58x87"
+    },
+    {
+      "image": "https://s05de.syd6.hostingplatform.net.au/~sharkmen/wp-content/uploads/2025/11/TUNA-1.png#506",
+      "error": "too small 119x87"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2025/11/Shark.png",
+      "error": "too small 119x87"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2025/11/TUNA-1.png",
+      "error": "too small 119x87"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2026/04/Hook.png",
+      "error": "too small 119x119"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2026/04/Eski.png",
+      "error": "too small 119x119"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2026/04/person-fishing.png",
+      "error": "too small 119x119"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2026/02/TEST-SOCIAL-BANNER_2.jpg",
+      "error": "banner/strip 1920x599"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a-/ALV-UjWplcyxNxzlnjPix7H9JubTPWm0w_Hd0yNvGhf1Q10ZGmgNosLcIw=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocJiSGhtT0l93vLEyj4V-UWbZjJkar4oE-vni28Bv1eN2CTjwA=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocIbP9nmmuqTKhwIyk43L08OVFyEoM4u4utHm0K1Jp2wq_PmtA=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocJ50KxUccThFYaKmXr7iZQy34nXNfxfbp4s0_c25bIhBHOJ5pY=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocLeKcvHxa_q6wu4OOV2PQ4wirGA2G5pEAlMfQP83laHEfHNkA=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocLYpMkAtpUdyGkIgl__5zgtLP2KqPw_lNG9ngtWTeS_K8LPrw=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a-/ALV-UjVsYds6HrKFH7SDM9BF7-RwUXaQxIyORzSUOwwBT0qlma0Vqmc=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a-/ALV-UjW0H1cZIz2PcfeJng2maPS9HbXYAsuEQpDeKoCPNBfMno2lrWtR=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocJpe8IzMpX24PGAniQkzVRqqOI7njzhP2tHadoHb5iImhBj4w=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2025/11/Sharkmen-large.png",
+      "error": "too small 220x154"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a-/ALV-UjWplcyxNxzlnjPix7H9JubTPWm0w_Hd0yNvGhf1Q10ZGmgNosLcIw=w80-h80-c-rp-mo-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocJiSGhtT0l93vLEyj4V-UWbZjJkar4oE-vni28Bv1eN2CTjwA=w80-h80-c-rp-mo-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocIbP9nmmuqTKhwIyk43L08OVFyEoM4u4utHm0K1Jp2wq_PmtA=w80-h80-c-rp-mo-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocJ50KxUccThFYaKmXr7iZQy34nXNfxfbp4s0_c25bIhBHOJ5pY=w80-h80-c-rp-mo-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocLeKcvHxa_q6wu4OOV2PQ4wirGA2G5pEAlMfQP83laHEfHNkA=w80-h80-c-rp-mo-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocLYpMkAtpUdyGkIgl__5zgtLP2KqPw_lNG9ngtWTeS_K8LPrw=w80-h80-c-rp-mo-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a-/ALV-UjVsYds6HrKFH7SDM9BF7-RwUXaQxIyORzSUOwwBT0qlma0Vqmc=w80-h80-c-rp-mo-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a-/ALV-UjW0H1cZIz2PcfeJng2maPS9HbXYAsuEQpDeKoCPNBfMno2lrWtR=w80-h80-c-rp-mo-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocJpe8IzMpX24PGAniQkzVRqqOI7njzhP2tHadoHb5iImhBj4w=w80-h80-c-rp-mo-br100",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://s05de.syd6.hostingplatform.net.au/~sharkmen/wp-content/uploads/2021/04/surfing2-section-bg3.png",
+      "error": "banner/strip 1920x480"
+    },
+    {
+      "image": "https://s05de.syd6.hostingplatform.net.au/~sharkmen/wp-content/uploads/2025/11/FAV.png",
+      "error": "too small 32x32"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2025/11/Snapper-103x75.png",
+      "error": "too small 103x75"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2025/11/Whiting-103x75.png",
+      "error": "too small 103x75"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2025/11/SQUID-50x75.png",
+      "error": "too small 50x75"
+    },
+    {
+      "image": "https://s05de.syd6.hostingplatform.net.au/~sharkmen/wp-content/uploads/2025/11/TUNA-1.png",
+      "error": "too small 119x87"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2025/11/Shark-103x75.png",
+      "error": "too small 103x75"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2025/11/TUNA-1-103x75.png",
+      "error": "too small 103x75"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2026/04/Hook-75x75.png",
+      "error": "too small 75x75"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2026/04/Eski-75x75.png",
+      "error": "too small 75x75"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2026/04/person-fishing-75x75.png",
+      "error": "too small 75x75"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2026/02/TEST-SOCIAL-BANNER_2-500x156.jpg",
+      "error": "too small 500x156"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2026/02/TEST-SOCIAL-BANNER_2-1200x374.jpg",
+      "error": "too small 1200x374"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2026/02/TEST-SOCIAL-BANNER_2-300x94.jpg",
+      "error": "too small 300x94"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2026/02/TEST-SOCIAL-BANNER_2-768x240.jpg",
+      "error": "too small 768x240"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2026/02/TEST-SOCIAL-BANNER_2-1536x479.jpg",
+      "error": "banner/strip 1536x479"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2026/02/TEST-SOCIAL-BANNER_2-150x47.jpg",
+      "error": "too small 150x47"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2026/02/TEST-SOCIAL-BANNER_2-480x150.jpg",
+      "error": "too small 480x150"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2026/02/TEST-SOCIAL-BANNER_2-800x250.jpg",
+      "error": "too small 800x250"
+    },
+    {
+      "dup": "https://s05de.syd6.hostingplatform.net.au/~sharkmen/wp-content/uploads/2025/11/Goldie_King_Dark.jpg"
+    },
+    {
+      "dup": "https://s05de.syd6.hostingplatform.net.au/~sharkmen/wp-content/uploads/2025/11/bgocean.jpg"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2025/11/Sharkmen-large-107x75.png",
+      "error": "too small 107x75"
+    },
+    {
+      "dup": "https://s05de.syd6.hostingplatform.net.au/~sharkmen/wp-content/uploads/2025/11/Boats.jpg"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2026/04/Whiting-home.jpg",
+      "error": "banner/strip 1920x599"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2026/04/Whiting-home-500x156.jpg",
+      "error": "too small 500x156"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2026/04/Whiting-home-1200x374.jpg",
+      "error": "too small 1200x374"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2026/04/Whiting-home-300x94.jpg",
+      "error": "too small 300x94"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2026/04/Whiting-home-768x240.jpg",
+      "error": "too small 768x240"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2026/04/Whiting-home-1536x479.jpg",
+      "error": "banner/strip 1536x479"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2026/04/Whiting-home-150x47.jpg",
+      "error": "too small 150x47"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2026/04/Whiting-home-480x150.jpg",
+      "error": "too small 480x150"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2026/04/Whiting-home-800x250.jpg",
+      "error": "too small 800x250"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2025/11/Marco-kinggy-500x465.jpg",
+      "error": "too small 500x465"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2025/11/Marco-kinggy-300x279.jpg",
+      "error": "too small 300x279"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2025/11/Marco-kinggy-81x75.jpg",
+      "error": "too small 81x75"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2025/11/Marco-kinggy-480x446.jpg",
+      "error": "too small 480x446"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2025/11/Snapper-dima-goldy-500x465.jpg",
+      "error": "too small 500x465"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2025/11/Snapper-dima-goldy-300x279.jpg",
+      "error": "too small 300x279"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2025/11/Snapper-dima-goldy-81x75.jpg",
+      "error": "too small 81x75"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2025/11/Snapper-dima-goldy-480x446.jpg",
+      "error": "too small 480x446"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2025/11/Marko-Snapper-500x465.jpg",
+      "error": "too small 500x465"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2025/11/Marko-Snapper-300x279.jpg",
+      "error": "too small 300x279"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2025/11/Marko-Snapper-81x75.jpg",
+      "error": "too small 81x75"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2025/11/Marko-Snapper-480x446.jpg",
+      "error": "too small 480x446"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2025/11/Barrel-500x465.jpg",
+      "error": "too small 500x465"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2025/11/Barrel-300x279.jpg",
+      "error": "too small 300x279"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2025/11/Barrel-81x75.jpg",
+      "error": "too small 81x75"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2025/11/Barrel-480x446.jpg",
+      "error": "too small 480x446"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2026/05/Boat.png",
+      "error": "too small 220x87"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2026/07/Corporate-charters_1.jpg",
+      "error": "banner/strip 1920x599"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2026/05/Food.png",
+      "error": "too small 119x119"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2026/05/Drinks.png",
+      "error": "too small 119x119"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2026/05/Star.png",
+      "error": "too small 119x119"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2026/07/Corporate-Charter_Snapper2.jpg",
+      "error": "too small 563x660"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2026/05/Boat-150x59.png",
+      "error": "too small 150x59"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2026/07/Corporate-charters_1-500x156.jpg",
+      "error": "too small 500x156"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2026/07/Corporate-charters_1-1200x374.jpg",
+      "error": "too small 1200x374"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2026/07/Corporate-charters_1-300x94.jpg",
+      "error": "too small 300x94"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2026/07/Corporate-charters_1-768x240.jpg",
+      "error": "too small 768x240"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2026/07/Corporate-charters_1-1536x479.jpg",
+      "error": "banner/strip 1536x479"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2026/07/Corporate-charters_1-150x47.jpg",
+      "error": "too small 150x47"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2026/07/Corporate-charters_1-480x150.jpg",
+      "error": "too small 480x150"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2026/07/Corporate-charters_1-800x250.jpg",
+      "error": "too small 800x250"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2026/05/Food-75x75.png",
+      "error": "too small 75x75"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2026/05/Drinks-75x75.png",
+      "error": "too small 75x75"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2026/05/Star-75x75.png",
+      "error": "too small 75x75"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2026/07/Corporate-Charter_Snapper2-427x500.jpg",
+      "error": "too small 427x500"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2026/07/Corporate-Charter_Snapper2-256x300.jpg",
+      "error": "too small 256x300"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2026/07/Corporate-Charter_Snapper2-64x75.jpg",
+      "error": "too small 64x75"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2026/07/Corporate-Charter_Snapper2-480x563.jpg",
+      "error": "too small 480x563"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2025/11/Whiting-kids-459x500.jpg",
+      "error": "too small 459x500"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2025/11/Whiting-kids-275x300.jpg",
+      "error": "too small 275x300"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2025/11/Whiting-kids-69x75.jpg",
+      "error": "too small 69x75"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2025/11/Whiting-kids-480x523.jpg",
+      "error": "too small 480x523"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2026/02/Goldy-bio-king-500x465.jpg",
+      "error": "too small 500x465"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2026/02/Goldy-bio-king-300x279.jpg",
+      "error": "too small 300x279"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2026/02/Goldy-bio-king-81x75.jpg",
+      "error": "too small 81x75"
+    },
+    {
+      "image": "https://sharkmen.com.au/wp-content/uploads/2026/02/Goldy-bio-king-480x446.jpg",
+      "error": "too small 480x446"
+    }
+  ]
+}

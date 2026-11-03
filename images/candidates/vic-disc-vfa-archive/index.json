@@ -1,0 +1,45 @@
+{
+  "slug": "vic-disc-vfa-archive",
+  "request_hash": "21511e99f047",
+  "collected_at": "2026-11-03T22:28:19.974Z",
+  "pages_fetched": [
+    "https://web.archive.org/web/2026/https://vfa.vic.gov.au/recreational-fishing/fishing-licence",
+    "https://web.archive.org/web/2026/https://vfa.vic.gov.au/murraycod",
+    "https://web.archive.org/web/2026/https://vfa.vic.gov.au/recreational-fishing/recreational-fishing-licence",
+    "https://web.archive.org/web/2025/https://vfa.vic.gov.au/recreational-fishing/fishing-licence/who-needs-a-licence",
+    "https://web.archive.org/web/2026/https://vfa.vic.gov.au/recreational-fishing/recreational-fishing-guide/rule-reminders"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://web.archive.org/web/2026/https://vfa.vic.gov.au/recreational-fishing/fishing-licence",
+      "status": 429,
+      "final_url": "https://web.archive.org/web/2026/https://vfa.vic.gov.au/recreational-fishing/fishing-licence",
+      "bytes": 620
+    },
+    {
+      "page": "https://web.archive.org/web/2026/https://vfa.vic.gov.au/murraycod",
+      "status": 429,
+      "final_url": "https://web.archive.org/web/20250414170305/https://vfa.vic.gov.au/murraycod",
+      "bytes": 620
+    },
+    {
+      "page": "https://web.archive.org/web/2026/https://vfa.vic.gov.au/recreational-fishing/recreational-fishing-licence",
+      "status": 429,
+      "final_url": "https://web.archive.org/web/2026/https://vfa.vic.gov.au/recreational-fishing/recreational-fishing-licence",
+      "bytes": 620
+    },
+    {
+      "page": "https://web.archive.org/web/2025/https://vfa.vic.gov.au/recreational-fishing/fishing-licence/who-needs-a-licence",
+      "status": 429,
+      "final_url": "https://web.archive.org/web/2025/https://vfa.vic.gov.au/recreational-fishing/fishing-licence/who-needs-a-licence",
+      "bytes": 620
+    },
+    {
+      "page": "https://web.archive.org/web/2026/https://vfa.vic.gov.au/recreational-fishing/recreational-fishing-guide/rule-reminders",
+      "status": 429,
+      "final_url": "https://web.archive.org/web/2026/https://vfa.vic.gov.au/recreational-fishing/recreational-fishing-guide/rule-reminders",
+      "bytes": 620
+    }
+  ]
+}

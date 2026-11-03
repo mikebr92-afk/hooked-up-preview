@@ -1,0 +1,345 @@
+{
+  "slug": "far-out-charters",
+  "request_hash": "8918d937c352",
+  "collected_at": "2026-11-03T22:29:46.047Z",
+  "pages_fetched": [
+    "http://www.faroutcharters.com.au/",
+    "http://www.faroutcharters.com.au/charter-faq",
+    "https://faroutcharters.com.au/",
+    "https://faroutcharters.com.au/charter-faq/",
+    "https://faroutcharters.com.au/bookings-enquiry/",
+    "https://faroutcharters.com.au/about-us/",
+    "https://faroutcharters.com.au/fishing-blog/",
+    "https://faroutcharters.com.au/bookings-enquiry",
+    "https://faroutcharters.com.au/charter-faq",
+    "https://faroutcharters.com.au/busy-jan-mar-2022/",
+    "https://faroutcharters.com.au/snapper-gummies/",
+    "https://faroutcharters.com.au/sword-fish-snapper/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 960,
+      "height": 640,
+      "original": "960x640",
+      "source": "https://faroutcharters.com.au/wp-content/uploads/2023/02/farout2-1.jpg",
+      "page": "http://www.faroutcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 1000,
+      "height": 750,
+      "original": "1000x750",
+      "source": "https://faroutcharters.com.au/wp-content/uploads/2023/02/foc-im1.jpg",
+      "page": "http://www.faroutcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1000,
+      "height": 667,
+      "original": "1000x667",
+      "source": "https://faroutcharters.com.au/wp-content/uploads/2023/02/image-fo-3.jpg",
+      "page": "http://www.faroutcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 2000,
+      "height": 1333,
+      "original": "2256x1504",
+      "source": "https://faroutcharters.com.au/wp-content/uploads/2023/02/IMG_0023.jpg",
+      "page": "http://www.faroutcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2048x1536",
+      "source": "https://faroutcharters.com.au/wp-content/uploads/2023/02/farout-news3.jpg",
+      "page": "http://www.faroutcharters.com.au/charter-faq",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 960,
+      "height": 720,
+      "original": "960x720",
+      "source": "https://faroutcharters.com.au/wp-content/uploads/2023/02/farout-news1.jpg",
+      "page": "http://www.faroutcharters.com.au/charter-faq",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1734,
+      "height": 1300,
+      "original": "1734x1300",
+      "source": "https://faroutcharters.com.au/wp-content/uploads/2023/02/20221119_104843.webp",
+      "page": "http://www.faroutcharters.com.au/charter-faq",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1734,
+      "height": 1300,
+      "original": "1734x1300",
+      "source": "https://faroutcharters.com.au/wp-content/uploads/2023/02/20221011_101034.webp",
+      "page": "http://www.faroutcharters.com.au/charter-faq",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1024,
+      "height": 683,
+      "original": "1024x683",
+      "source": "https://faroutcharters.com.au/wp-content/uploads/2023/02/IMG_0012.jpg",
+      "page": "http://www.faroutcharters.com.au/charter-faq",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1734,
+      "height": 1300,
+      "original": "1734x1300",
+      "source": "https://faroutcharters.com.au/wp-content/uploads/2023/02/20221211_091949.webp",
+      "page": "http://www.faroutcharters.com.au/charter-faq",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 2000,
+      "height": 1328,
+      "original": "2048x1360",
+      "source": "https://faroutcharters.com.au/wp-content/uploads/2023/02/farout2-5.jpg",
+      "page": "https://faroutcharters.com.au/about-us/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1387,
+      "height": 1040,
+      "original": "1387x1040",
+      "source": "https://faroutcharters.com.au/wp-content/uploads/2024/12/copy1_20241220_055501.jpg",
+      "page": "https://faroutcharters.com.au/fishing-blog/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1024,
+      "height": 683,
+      "original": "1024x683",
+      "source": "https://faroutcharters.com.au/wp-content/uploads/2023/02/IMG_0003.jpg",
+      "page": "https://faroutcharters.com.au/fishing-blog/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1000,
+      "height": 750,
+      "original": "1000x750",
+      "source": "https://faroutcharters.com.au/wp-content/uploads/2023/02/foc-im2.jpg",
+      "page": "https://faroutcharters.com.au/busy-jan-mar-2022/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "http://www.faroutcharters.com.au/",
+      "status": 200,
+      "final_url": "https://faroutcharters.com.au/",
+      "bytes": 139840
+    },
+    {
+      "page": "http://www.faroutcharters.com.au/charter-faq",
+      "status": 200,
+      "final_url": "http://faroutcharters.com.au/charter-faq/",
+      "bytes": 125618
+    },
+    {
+      "page": "https://faroutcharters.com.au/",
+      "status": 200,
+      "final_url": "https://faroutcharters.com.au/",
+      "bytes": 139840
+    },
+    {
+      "page": "https://faroutcharters.com.au/charter-faq/",
+      "status": 200,
+      "final_url": "https://faroutcharters.com.au/charter-faq/",
+      "bytes": 125658
+    },
+    {
+      "page": "https://faroutcharters.com.au/bookings-enquiry/",
+      "status": 200,
+      "final_url": "https://faroutcharters.com.au/bookings-enquiry/",
+      "bytes": 123743
+    },
+    {
+      "page": "https://faroutcharters.com.au/about-us/",
+      "status": 200,
+      "final_url": "https://faroutcharters.com.au/about-us/",
+      "bytes": 117829
+    },
+    {
+      "page": "https://faroutcharters.com.au/fishing-blog/",
+      "status": 200,
+      "final_url": "https://faroutcharters.com.au/fishing-blog/",
+      "bytes": 122454
+    },
+    {
+      "page": "https://faroutcharters.com.au/bookings-enquiry",
+      "status": 200,
+      "final_url": "https://faroutcharters.com.au/bookings-enquiry/",
+      "bytes": 123743
+    },
+    {
+      "page": "https://faroutcharters.com.au/charter-faq",
+      "status": 200,
+      "final_url": "https://faroutcharters.com.au/charter-faq/",
+      "bytes": 125658
+    },
+    {
+      "page": "https://faroutcharters.com.au/busy-jan-mar-2022/",
+      "status": 200,
+      "final_url": "https://faroutcharters.com.au/busy-jan-mar-2022/",
+      "bytes": 115609
+    },
+    {
+      "page": "https://faroutcharters.com.au/snapper-gummies/",
+      "status": 200,
+      "final_url": "https://faroutcharters.com.au/snapper-gummies/",
+      "bytes": 114433
+    },
+    {
+      "page": "https://faroutcharters.com.au/sword-fish-snapper/",
+      "status": 200,
+      "final_url": "https://faroutcharters.com.au/sword-fish-snapper/",
+      "bytes": 115108
+    },
+    {
+      "dup": "https://faroutcharters.com.au/wp-content/uploads/2023/02/IMG_0023-2048x1365.jpg"
+    },
+    {
+      "image": "https://faroutcharters.com.au/wp-content/uploads/2023/02/farout2-1-300x200.jpg",
+      "error": "too small 300x200"
+    },
+    {
+      "dup": "https://faroutcharters.com.au/wp-content/uploads/2023/02/farout2-1-768x512.jpg"
+    },
+    {
+      "dup": "https://faroutcharters.com.au/wp-content/uploads/2023/02/foc-im1-768x576.jpg"
+    },
+    {
+      "image": "https://faroutcharters.com.au/wp-content/uploads/2023/02/foc-im1-300x225.jpg",
+      "error": "too small 300x225"
+    },
+    {
+      "dup": "https://faroutcharters.com.au/wp-content/uploads/2023/02/image-fo-3-768x512.jpg"
+    },
+    {
+      "image": "https://faroutcharters.com.au/wp-content/uploads/2023/02/image-fo-3-300x200.jpg",
+      "error": "too small 300x200"
+    },
+    {
+      "dup": "https://faroutcharters.com.au/wp-content/uploads/2023/02/IMG_0023-768x512.jpg"
+    },
+    {
+      "image": "https://faroutcharters.com.au/wp-content/uploads/2023/02/IMG_0023-300x200.jpg",
+      "error": "too small 300x200"
+    },
+    {
+      "dup": "https://faroutcharters.com.au/wp-content/uploads/2023/02/IMG_0023-1024x683.jpg"
+    },
+    {
+      "dup": "https://faroutcharters.com.au/wp-content/uploads/2023/02/IMG_0023-1536x1024.jpg"
+    },
+    {
+      "image": "https://faroutcharters.com.au/images/misc/info1.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "dup": "https://faroutcharters.com.au/wp-content/uploads/2023/02/farout-news3-768x576.jpg"
+    },
+    {
+      "dup": "https://faroutcharters.com.au/wp-content/uploads/2023/02/farout-news1-768x576.jpg"
+    },
+    {
+      "dup": "https://faroutcharters.com.au/wp-content/uploads/2023/02/20221119_104843-768x576.webp"
+    },
+    {
+      "dup": "https://faroutcharters.com.au/wp-content/uploads/2023/02/20221011_101034-768x576.webp"
+    },
+    {
+      "dup": "https://faroutcharters.com.au/wp-content/uploads/2023/02/IMG_0012-768x512.jpg"
+    },
+    {
+      "dup": "https://faroutcharters.com.au/wp-content/uploads/2023/02/20221211_091949-1024x768.webp"
+    },
+    {
+      "image": "https://faroutcharters.com.au/wp-content/uploads/2023/02/20221211_091949-300x225.webp",
+      "error": "too small 300x225"
+    },
+    {
+      "dup": "https://faroutcharters.com.au/wp-content/uploads/2023/02/20221211_091949-768x576.webp"
+    },
+    {
+      "dup": "https://faroutcharters.com.au/wp-content/uploads/2023/02/20221211_091949-1536x1152.webp"
+    },
+    {
+      "image": "https://faroutcharters.com.au/wp-content/uploads/2023/02/skipper.jpg",
+      "error": "too small 300x288"
+    },
+    {
+      "image": "https://faroutcharters.com.au/wp-content/uploads/2023/02/20221011_101034-300x225.webp",
+      "error": "too small 300x225"
+    },
+    {
+      "dup": "https://faroutcharters.com.au/wp-content/uploads/2023/02/farout2-5-1024x680.jpg"
+    },
+    {
+      "image": "https://faroutcharters.com.au/wp-content/uploads/2023/02/farout2-5-300x199.jpg",
+      "error": "too small 300x199"
+    },
+    {
+      "dup": "https://faroutcharters.com.au/wp-content/uploads/2023/02/farout2-5-768x510.jpg"
+    },
+    {
+      "dup": "https://faroutcharters.com.au/wp-content/uploads/2023/02/farout2-5-1536x1020.jpg"
+    },
+    {
+      "dup": "https://faroutcharters.com.au/wp-content/uploads/2023/02/20221011_101034-1024x768.webp"
+    },
+    {
+      "dup": "https://faroutcharters.com.au/wp-content/uploads/2023/02/20221011_101034-1536x1152.webp"
+    },
+    {
+      "dup": "https://faroutcharters.com.au/wp-content/uploads/2024/12/copy1_20241220_055501-768x576.jpg"
+    },
+    {
+      "image": "https://faroutcharters.com.au/wp-content/uploads/2024/12/copy1_20241220_055501-300x225.jpg",
+      "error": "too small 300x225"
+    },
+    {
+      "dup": "https://faroutcharters.com.au/wp-content/uploads/2024/12/copy1_20241220_055501-1024x768.jpg"
+    },
+    {
+      "dup": "https://faroutcharters.com.au/wp-content/uploads/2023/02/IMG_0003-768x512.jpg"
+    },
+    {
+      "image": "https://faroutcharters.com.au/wp-content/uploads/2023/02/IMG_0003-300x200.jpg",
+      "error": "too small 300x200"
+    },
+    {
+      "image": "https://faroutcharters.com.au/wp-content/uploads/2023/02/IMG_0012-300x200.jpg",
+      "error": "too small 300x200"
+    },
+    {
+      "image": "https://faroutcharters.com.au/wp-content/uploads/2023/02/foc-im2-300x225.jpg",
+      "error": "too small 300x225"
+    },
+    {
+      "dup": "https://faroutcharters.com.au/wp-content/uploads/2023/02/foc-im2-768x576.jpg"
+    }
+  ]
+}

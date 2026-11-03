@@ -1,0 +1,363 @@
+{
+  "slug": "queenscliff-fishing-charters",
+  "request_hash": "af8b972a5ab4",
+  "collected_at": "2026-11-03T22:29:12.395Z",
+  "pages_fetched": [
+    "https://queensclifffishingcharters.com.au/",
+    "https://queensclifffishingcharters.com.au/pricing-availability/",
+    "https://queensclifffishingcharters.com.au/about-us/",
+    "https://queensclifffishingcharters.com.au/fishing/bay-fishing/",
+    "https://queensclifffishingcharters.com.au/fishing/sportsfishing-offshore/",
+    "https://queensclifffishingcharters.com.au/fishing/gummy-shark-fishing/",
+    "https://queensclifffishingcharters.com.au/educational/fishing-clinics-camps/",
+    "https://queensclifffishingcharters.com.au/educational/wildlife-ecology-tours/",
+    "https://queensclifffishingcharters.com.au/tours/scenic-cruise-liner-tours/",
+    "https://queensclifffishingcharters.com.au/ashes-scattering/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1920,
+      "height": 1000,
+      "original": "1920x1000",
+      "source": "https://queensclifffishingcharters.com.au/wp-content/uploads/2023/01/gummy-shark.jpg",
+      "page": "https://queensclifffishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 1920,
+      "height": 1000,
+      "original": "1920x1000",
+      "source": "https://queensclifffishingcharters.com.au/wp-content/uploads/2022/12/slider-5.jpg",
+      "page": "https://queensclifffishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1920,
+      "height": 1001,
+      "original": "1920x1001",
+      "source": "https://queensclifffishingcharters.com.au/wp-content/uploads/2022/12/slider-4a.jpg",
+      "page": "https://queensclifffishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1920,
+      "height": 1000,
+      "original": "1920x1000",
+      "source": "https://queensclifffishingcharters.com.au/wp-content/uploads/2022/12/slider-3.jpg",
+      "page": "https://queensclifffishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1920,
+      "height": 800,
+      "original": "1920x800",
+      "source": "https://queensclifffishingcharters.com.au/wp-content/uploads/2022/12/home-parallax-qfc-1.jpg",
+      "page": "https://queensclifffishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 960,
+      "height": 1280,
+      "original": "960x1280",
+      "source": "https://queensclifffishingcharters.com.au/wp-content/uploads/2022/12/kyena-charter.jpg",
+      "page": "https://queensclifffishingcharters.com.au/about-us/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1920,
+      "height": 1000,
+      "original": "1920x1000",
+      "source": "https://queensclifffishingcharters.com.au/wp-content/uploads/2022/12/slider-2.jpg",
+      "page": "https://queensclifffishingcharters.com.au/fishing/gummy-shark-fishing/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://queensclifffishingcharters.com.au/",
+      "status": 200,
+      "final_url": "https://queensclifffishingcharters.com.au/",
+      "bytes": 96028
+    },
+    {
+      "page": "https://queensclifffishingcharters.com.au/pricing-availability/",
+      "status": 200,
+      "final_url": "https://queensclifffishingcharters.com.au/pricing-availability/",
+      "bytes": 79478
+    },
+    {
+      "page": "https://queensclifffishingcharters.com.au/about-us/",
+      "status": 200,
+      "final_url": "https://queensclifffishingcharters.com.au/about-us/",
+      "bytes": 69442
+    },
+    {
+      "page": "https://queensclifffishingcharters.com.au/fishing/bay-fishing/",
+      "status": 200,
+      "final_url": "https://queensclifffishingcharters.com.au/fishing/bay-fishing/",
+      "bytes": 72393
+    },
+    {
+      "page": "https://queensclifffishingcharters.com.au/fishing/sportsfishing-offshore/",
+      "status": 200,
+      "final_url": "https://queensclifffishingcharters.com.au/fishing/sportsfishing-offshore/",
+      "bytes": 69589
+    },
+    {
+      "page": "https://queensclifffishingcharters.com.au/fishing/gummy-shark-fishing/",
+      "status": 200,
+      "final_url": "https://queensclifffishingcharters.com.au/fishing/gummy-shark-fishing/",
+      "bytes": 70407
+    },
+    {
+      "page": "https://queensclifffishingcharters.com.au/educational/fishing-clinics-camps/",
+      "status": 200,
+      "final_url": "https://queensclifffishingcharters.com.au/educational/fishing-clinics-camps/",
+      "bytes": 67657
+    },
+    {
+      "page": "https://queensclifffishingcharters.com.au/educational/wildlife-ecology-tours/",
+      "status": 200,
+      "final_url": "https://queensclifffishingcharters.com.au/educational/wildlife-ecology-tours/",
+      "bytes": 68609
+    },
+    {
+      "page": "https://queensclifffishingcharters.com.au/tours/scenic-cruise-liner-tours/",
+      "status": 200,
+      "final_url": "https://queensclifffishingcharters.com.au/tours/scenic-cruise-liner-tours/",
+      "bytes": 68451
+    },
+    {
+      "page": "https://queensclifffishingcharters.com.au/ashes-scattering/",
+      "status": 200,
+      "final_url": "https://queensclifffishingcharters.com.au/ashes-scattering/",
+      "bytes": 68137
+    },
+    {
+      "image": "https://queensclifffishingcharters.com.au/wp-content/uploads/2022/12/home-family-friendly.jpg",
+      "error": "too small 352x234"
+    },
+    {
+      "image": "https://queensclifffishingcharters.com.au/wp-content/uploads/2022/12/home-kyena.jpg",
+      "error": "too small 352x234"
+    },
+    {
+      "image": "https://queensclifffishingcharters.com.au/wp-content/uploads/2022/12/home-groups.jpg",
+      "error": "too small 352x234"
+    },
+    {
+      "image": "https://queensclifffishingcharters.com.au/wp-content/uploads/2023/01/gallery-7.jpg",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://queensclifffishingcharters.com.au/wp-content/uploads/2023/01/gallery-5.jpg",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://queensclifffishingcharters.com.au/wp-content/uploads/2023/01/gallery-4.jpg",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://queensclifffishingcharters.com.au/wp-content/uploads/2023/01/gallery-3.jpg",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://queensclifffishingcharters.com.au/wp-content/uploads/2023/01/gallery-2.jpg",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://queensclifffishingcharters.com.au/wp-content/uploads/2023/01/gallery-1.jpg",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://queensclifffishingcharters.com.au/wp-content/uploads/2023/01/gallery-12.jpg",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://queensclifffishingcharters.com.au/wp-content/uploads/2023/01/gallery-11.jpg",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://queensclifffishingcharters.com.au/wp-content/uploads/2023/01/gallery-10.jpg",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://queensclifffishingcharters.com.au/wp-content/uploads/2023/01/gallery-9.jpg",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://queensclifffishingcharters.com.au/wp-content/uploads/2023/01/gallery-8.jpg",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://queensclifffishingcharters.com.au/wp-content/uploads/2023/01/gallery-6.jpg",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://queensclifffishingcharters.com.au/wp-content/uploads/2022/12/favico.jpg",
+      "error": "too small 113x98"
+    },
+    {
+      "image": "https://queensclifffishingcharters.com.au/wp-content/uploads/2022/12/home-family-friendly-300x199.jpg",
+      "error": "too small 300x199"
+    },
+    {
+      "image": "https://queensclifffishingcharters.com.au/wp-content/uploads/2022/12/home-kyena-300x199.jpg",
+      "error": "too small 300x199"
+    },
+    {
+      "image": "https://queensclifffishingcharters.com.au/wp-content/uploads/2022/12/home-groups-300x199.jpg",
+      "error": "too small 300x199"
+    },
+    {
+      "image": "https://queensclifffishingcharters.com.au/wp-content/uploads/2023/01/gallery-7-300x300.jpg",
+      "error": "too small 300x300"
+    },
+    {
+      "image": "https://queensclifffishingcharters.com.au/wp-content/uploads/2023/01/gallery-7-150x150.jpg",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://queensclifffishingcharters.com.au/wp-content/uploads/2023/01/gallery-5-300x300.jpg",
+      "error": "too small 300x300"
+    },
+    {
+      "image": "https://queensclifffishingcharters.com.au/wp-content/uploads/2023/01/gallery-5-150x150.jpg",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://queensclifffishingcharters.com.au/wp-content/uploads/2023/01/gallery-4-300x300.jpg",
+      "error": "too small 300x300"
+    },
+    {
+      "image": "https://queensclifffishingcharters.com.au/wp-content/uploads/2023/01/gallery-4-150x150.jpg",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://queensclifffishingcharters.com.au/wp-content/uploads/2023/01/gallery-3-300x300.jpg",
+      "error": "too small 300x300"
+    },
+    {
+      "image": "https://queensclifffishingcharters.com.au/wp-content/uploads/2023/01/gallery-3-150x150.jpg",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://queensclifffishingcharters.com.au/wp-content/uploads/2023/01/gallery-2-300x300.jpg",
+      "error": "too small 300x300"
+    },
+    {
+      "image": "https://queensclifffishingcharters.com.au/wp-content/uploads/2023/01/gallery-2-150x150.jpg",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://queensclifffishingcharters.com.au/wp-content/uploads/2023/01/gallery-1-300x300.jpg",
+      "error": "too small 300x300"
+    },
+    {
+      "image": "https://queensclifffishingcharters.com.au/wp-content/uploads/2023/01/gallery-1-150x150.jpg",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://queensclifffishingcharters.com.au/wp-content/uploads/2023/01/gallery-12-300x300.jpg",
+      "error": "too small 300x300"
+    },
+    {
+      "image": "https://queensclifffishingcharters.com.au/wp-content/uploads/2023/01/gallery-12-150x150.jpg",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://queensclifffishingcharters.com.au/wp-content/uploads/2023/01/gallery-11-300x300.jpg",
+      "error": "too small 300x300"
+    },
+    {
+      "image": "https://queensclifffishingcharters.com.au/wp-content/uploads/2023/01/gallery-11-150x150.jpg",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://queensclifffishingcharters.com.au/wp-content/uploads/2023/01/gallery-10-300x300.jpg",
+      "error": "too small 300x300"
+    },
+    {
+      "image": "https://queensclifffishingcharters.com.au/wp-content/uploads/2023/01/gallery-10-150x150.jpg",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://queensclifffishingcharters.com.au/wp-content/uploads/2023/01/gallery-9-300x300.jpg",
+      "error": "too small 300x300"
+    },
+    {
+      "image": "https://queensclifffishingcharters.com.au/wp-content/uploads/2023/01/gallery-9-150x150.jpg",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://queensclifffishingcharters.com.au/wp-content/uploads/2023/01/gallery-8-300x300.jpg",
+      "error": "too small 300x300"
+    },
+    {
+      "image": "https://queensclifffishingcharters.com.au/wp-content/uploads/2023/01/gallery-8-150x150.jpg",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://queensclifffishingcharters.com.au/wp-content/uploads/2023/01/gallery-6-300x300.jpg",
+      "error": "too small 300x300"
+    },
+    {
+      "image": "https://queensclifffishingcharters.com.au/wp-content/uploads/2023/01/gallery-6-150x150.jpg",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://queensclifffishingcharters.com.au/wp-content/uploads/2022/12/kyena-charter-225x300.jpg",
+      "error": "too small 225x300"
+    },
+    {
+      "dup": "https://queensclifffishingcharters.com.au/wp-content/uploads/2022/12/kyena-charter-768x1024.jpg"
+    },
+    {
+      "dup": "https://queensclifffishingcharters.com.au/wp-content/uploads/2022/12/kyena-charter-600x800.jpg"
+    },
+    {
+      "dup": "https://queensclifffishingcharters.com.au/wp-content/uploads/2022/12/kyena-charter-700x933.jpg"
+    },
+    {
+      "image": "https://queensclifffishingcharters.com.au/wp-content/uploads/2022/12/slider-2-300x156.jpg",
+      "error": "too small 300x156"
+    },
+    {
+      "dup": "https://queensclifffishingcharters.com.au/wp-content/uploads/2022/12/slider-2-1024x533.jpg"
+    },
+    {
+      "dup": "https://queensclifffishingcharters.com.au/wp-content/uploads/2022/12/slider-2-768x400.jpg"
+    },
+    {
+      "dup": "https://queensclifffishingcharters.com.au/wp-content/uploads/2022/12/slider-2-1536x800.jpg"
+    },
+    {
+      "image": "https://queensclifffishingcharters.com.au/wp-content/uploads/2022/12/slider-2-700x365.jpg",
+      "error": "too small 700x365"
+    },
+    {
+      "image": "https://queensclifffishingcharters.com.au/wp-content/uploads/2022/12/slider-5-300x156.jpg",
+      "error": "too small 300x156"
+    },
+    {
+      "dup": "https://queensclifffishingcharters.com.au/wp-content/uploads/2022/12/slider-5-1024x533.jpg"
+    },
+    {
+      "dup": "https://queensclifffishingcharters.com.au/wp-content/uploads/2022/12/slider-5-768x400.jpg"
+    },
+    {
+      "dup": "https://queensclifffishingcharters.com.au/wp-content/uploads/2022/12/slider-5-1536x800.jpg"
+    },
+    {
+      "image": "https://queensclifffishingcharters.com.au/wp-content/uploads/2022/12/slider-5-700x365.jpg",
+      "error": "too small 700x365"
+    }
+  ]
+}

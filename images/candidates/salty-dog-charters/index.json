@@ -1,0 +1,329 @@
+{
+  "slug": "salty-dog-charters",
+  "request_hash": "5d50ce0c30ba",
+  "collected_at": "2026-11-03T22:30:38.229Z",
+  "pages_fetched": [
+    "https://saltydogcharters.squarespace.com/",
+    "https://www.saltydogcharters.com.au/",
+    "https://saltydogcharters.squarespace.com/search",
+    "https://saltydogcharters.squarespace.com/about",
+    "https://saltydogcharters.squarespace.com/gallery",
+    "https://saltydogcharters.squarespace.com/contact",
+    "https://www.saltydogcharters.com.au/search",
+    "https://www.saltydogcharters.com.au/about",
+    "https://www.saltydogcharters.com.au/gallery",
+    "https://www.saltydogcharters.com.au/contact"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/e6b868a2-9b00-4a81-b106-d1ca3c42e724/Salty+Dog+Fishing+Charters_Port+Fairy_Victoria_1a.jpg?format=2500w",
+      "page": "https://saltydogcharters.squarespace.com/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 900,
+      "height": 664,
+      "original": "900x664",
+      "source": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1632511252650-F4G0HDWLKLHKE5Z0P7XJ/salty-dog-fishing-charters-port-fairy-victoria-catch57a.jpg?format=2500w",
+      "page": "https://saltydogcharters.squarespace.com/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 960,
+      "height": 1280,
+      "original": "960x1280",
+      "source": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1773431669322-NIPK90W4V2IFWQI1V3G0/Salty+Dog+Fishing+Charters_Port+Fairy_Victoria_2.jpg?format=2500w",
+      "page": "https://saltydogcharters.squarespace.com/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 758,
+      "height": 1280,
+      "original": "758x1280",
+      "source": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1773431669223-4V6KYR5E6Q0LRACVAL7X/Salty+Dog+Fishing+Charters_Port+Fairy_Victoria_3.jpg?format=2500w",
+      "page": "https://saltydogcharters.squarespace.com/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1000,
+      "height": 1597,
+      "original": "1000x1597",
+      "source": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1570593038501-2RSKJB4C56KG57VKSWZ1/salty-dog-fishing-charters-port-fairy-victoria-catch37a.jpg?format=2500w",
+      "page": "https://saltydogcharters.squarespace.com/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1000,
+      "height": 1334,
+      "original": "1000x1334",
+      "source": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1570593091713-MBUWAHG19OCIXGPKAE26/salty-dog-fishing-charters-port-fairy-victoria-catch50a.jpg?format=2500w",
+      "page": "https://saltydogcharters.squarespace.com/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 750,
+      "height": 1083,
+      "original": "750x1083",
+      "source": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1570593077016-VKZI3C49YVXT1OGEDZL1/salty-dog-fishing-charters-port-fairy-victoria-catch46.jpg?format=2500w",
+      "page": "https://saltydogcharters.squarespace.com/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 669,
+      "height": 669,
+      "original": "669x669",
+      "source": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/e03fa5da-9a84-4787-8a05-7b3113d52185/Salty+Dog+Fishing+Charters_Port+Fairy_Victoria_5.jpg?format=2500w",
+      "page": "https://saltydogcharters.squarespace.com/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 640,
+      "height": 800,
+      "original": "640x800",
+      "source": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1593425482224-ATM1UFXM9XE1M7IGVW23/image-asset.jpeg?format=2500w",
+      "page": "https://saltydogcharters.squarespace.com/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 640,
+      "height": 480,
+      "original": "640x480",
+      "source": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1593347650076-OO6A1GPS33Q2218SU8A4/image-asset.jpeg?format=2500w",
+      "page": "https://saltydogcharters.squarespace.com/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 640,
+      "height": 790,
+      "original": "640x790",
+      "source": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1593075300291-S403VEHHGI9DRYV3UACE/image-asset.jpeg?format=2500w",
+      "page": "https://saltydogcharters.squarespace.com/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 640,
+      "height": 800,
+      "original": "640x800",
+      "source": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1592556411247-58QILFAL3FRRYQ79OCR7/image-asset.jpeg?format=2500w",
+      "page": "https://saltydogcharters.squarespace.com/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 640,
+      "height": 640,
+      "original": "640x640",
+      "source": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1592269984423-9VM31AZBYWLX372GBJ83/image-asset.jpeg?format=2500w",
+      "page": "https://saltydogcharters.squarespace.com/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 640,
+      "height": 480,
+      "original": "640x480",
+      "source": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1592258824974-FLTU1G6W266C8LI87MSJ/image-asset.jpeg?format=2500w",
+      "page": "https://saltydogcharters.squarespace.com/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 640,
+      "height": 800,
+      "original": "640x800",
+      "source": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1591651349554-EJKKVCAM9M2KPK8U9VNJ/image-asset.jpeg?format=2500w",
+      "page": "https://saltydogcharters.squarespace.com/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 640,
+      "height": 430,
+      "original": "640x430",
+      "source": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1591521215001-GJ5X49OJ60MKQ2QNLNWW/image-asset.jpeg?format=2500w",
+      "page": "https://saltydogcharters.squarespace.com/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://saltydogcharters.squarespace.com/",
+      "status": 200,
+      "final_url": "https://saltydogcharters.squarespace.com/",
+      "bytes": 203276
+    },
+    {
+      "page": "https://www.saltydogcharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.saltydogcharters.com.au/",
+      "bytes": 203276
+    },
+    {
+      "page": "https://saltydogcharters.squarespace.com/search",
+      "status": 200,
+      "final_url": "https://saltydogcharters.squarespace.com/search",
+      "bytes": 86531
+    },
+    {
+      "page": "https://saltydogcharters.squarespace.com/about",
+      "status": 200,
+      "final_url": "https://saltydogcharters.squarespace.com/about",
+      "bytes": 133339
+    },
+    {
+      "page": "https://saltydogcharters.squarespace.com/gallery",
+      "status": 200,
+      "final_url": "https://saltydogcharters.squarespace.com/gallery",
+      "bytes": 280495
+    },
+    {
+      "page": "https://saltydogcharters.squarespace.com/contact",
+      "status": 200,
+      "final_url": "https://saltydogcharters.squarespace.com/contact",
+      "bytes": 105343
+    },
+    {
+      "page": "https://www.saltydogcharters.com.au/search",
+      "status": 200,
+      "final_url": "https://www.saltydogcharters.com.au/search",
+      "bytes": 86531
+    },
+    {
+      "page": "https://www.saltydogcharters.com.au/about",
+      "status": 200,
+      "final_url": "https://www.saltydogcharters.com.au/about",
+      "bytes": 133339
+    },
+    {
+      "page": "https://www.saltydogcharters.com.au/gallery",
+      "status": 200,
+      "final_url": "https://www.saltydogcharters.com.au/gallery",
+      "bytes": 280495
+    },
+    {
+      "page": "https://www.saltydogcharters.com.au/contact",
+      "status": 200,
+      "final_url": "https://www.saltydogcharters.com.au/contact",
+      "bytes": 105343
+    },
+    {
+      "image": "https://static1.squarespace.com/static/5d30c96827f73100015781b2/t/5d30d1859c18e1000199f280/1773696876479/",
+      "error": "too small 550x550"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1632511322466-MDX3FA4M0Y6K9CAKD53I/salty-dog-fishing-charters-port-fairy-victoria-catch55.jpeg?format=2500w",
+      "error": "too small 509x640"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1632511322466-MDX3FA4M0Y6K9CAKD53I/salty-dog-fishing-charters-port-fairy-victoria-catch55.jpeg",
+      "error": "too small 509x640"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1773431669322-NIPK90W4V2IFWQI1V3G0/Salty+Dog+Fishing+Charters_Port+Fairy_Victoria_2.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1773696853597-ZXRDIEW8P51LEQYOEYY9/salty+dog+fishing+charter+tuna.jpeg?format=2500w",
+      "error": "too small 462x640"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1773696853597-ZXRDIEW8P51LEQYOEYY9/salty+dog+fishing+charter+tuna.jpeg",
+      "error": "too small 462x640"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1773431669223-4V6KYR5E6Q0LRACVAL7X/Salty+Dog+Fishing+Charters_Port+Fairy_Victoria_3.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1632511325274-6B28MJZ4O9PPY79FKTNZ/salty-dog-fishing-charters-port-fairy-victoria-catch67.jpeg?format=2500w",
+      "error": "too small 484x640"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1632511325274-6B28MJZ4O9PPY79FKTNZ/salty-dog-fishing-charters-port-fairy-victoria-catch67.jpeg",
+      "error": "too small 484x640"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1632511325958-M3NFX79ALNJ4EBJN60JX/salty-dog-fishing-charters-port-fairy-victoria-catch68.jpeg?format=2500w",
+      "error": "too small 512x640"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1632511325958-M3NFX79ALNJ4EBJN60JX/salty-dog-fishing-charters-port-fairy-victoria-catch68.jpeg",
+      "error": "too small 512x640"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1632511326420-SAXRN62UU0EE79SISC2P/salty-dog-fishing-charters-port-fairy-victoria-catch69.jpeg?format=2500w",
+      "error": "too small 479x640"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1632511326420-SAXRN62UU0EE79SISC2P/salty-dog-fishing-charters-port-fairy-victoria-catch69.jpeg",
+      "error": "too small 479x640"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1563487260229-KIUL88LY8SKTNSH2MRWK/salty-dog-fishing-charters-port-fairy-victoria-game-fishing.jpg?format=2500w",
+      "error": "too small 356x508"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1563487260229-KIUL88LY8SKTNSH2MRWK/salty-dog-fishing-charters-port-fairy-victoria-game-fishing.jpg",
+      "error": "too small 356x508"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1563486642658-BWPN1JRFW5T9YSTKKLNB/salty-dog-fishing-charters-port-fairy-victoria-offshore-fishing.jpg?format=2500w",
+      "error": "too small 390x626"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1563486642658-BWPN1JRFW5T9YSTKKLNB/salty-dog-fishing-charters-port-fairy-victoria-offshore-fishing.jpg",
+      "error": "too small 390x626"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1570593038501-2RSKJB4C56KG57VKSWZ1/salty-dog-fishing-charters-port-fairy-victoria-catch37a.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1570593091713-MBUWAHG19OCIXGPKAE26/salty-dog-fishing-charters-port-fairy-victoria-catch50a.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1570593077016-VKZI3C49YVXT1OGEDZL1/salty-dog-fishing-charters-port-fairy-victoria-catch46.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1593425482224-ATM1UFXM9XE1M7IGVW23/image-asset.jpeg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1593347650076-OO6A1GPS33Q2218SU8A4/image-asset.jpeg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1593075300291-S403VEHHGI9DRYV3UACE/image-asset.jpeg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1592556411247-58QILFAL3FRRYQ79OCR7/image-asset.jpeg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1592269984423-9VM31AZBYWLX372GBJ83/image-asset.jpeg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1592258824974-FLTU1G6W266C8LI87MSJ/image-asset.jpeg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1592170651879-JR7XKKII91J8USUUEOZC/image-asset.jpeg?format=2500w",
+      "error": "too small 640x360"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1592170651879-JR7XKKII91J8USUUEOZC/image-asset.jpeg",
+      "error": "too small 640x360"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1591651349554-EJKKVCAM9M2KPK8U9VNJ/image-asset.jpeg"
+    }
+  ]
+}

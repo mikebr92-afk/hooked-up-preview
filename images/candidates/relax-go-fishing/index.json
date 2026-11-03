@@ -1,0 +1,289 @@
+{
+  "slug": "relax-go-fishing",
+  "request_hash": "5a5e5a36adeb",
+  "collected_at": "2026-11-03T22:31:50.826Z",
+  "pages_fetched": [
+    "http://www.relaxgofishing.com.au/",
+    "https://relaxgofishing.com.au/",
+    "https://relaxgofishing.com.au/category/adventure/",
+    "https://relaxgofishing.com.au/category/camping/",
+    "https://relaxgofishing.com.au/category/cruising/",
+    "https://relaxgofishing.com.au/category/destination/",
+    "https://relaxgofishing.com.au/category/fishing/",
+    "https://relaxgofishing.com.au/category/travel/",
+    "https://relaxgofishing.com.au/where-to-find-the-best-fall-foliage-in-toronto-and-surrounds-its-time-for-some-leaf-peeping/",
+    "https://relaxgofishing.com.au/essential-fishing-technology/",
+    "https://relaxgofishing.com.au/camping-meets-technology-enhancing-outdoor-adventures/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 2000,
+      "height": 1026,
+      "original": "2048x1051",
+      "source": "https://relaxgofishing.com.au/wp-content/uploads/2025/09/shutterstock_114029374.webp",
+      "page": "http://www.relaxgofishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 2000,
+      "height": 1332,
+      "original": "2560x1705",
+      "source": "https://relaxgofishing.com.au/wp-content/uploads/2024/04/Best-Photos-Burbank-California-Things-to-do-in-Los-Angeles-@StephBeTravel-1-of-2-scaled-1.webp",
+      "page": "http://www.relaxgofishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1880,
+      "height": 880,
+      "original": "1880x880",
+      "source": "https://relaxgofishing.com.au/wp-content/uploads/2024/04/Lauren-Wyer-Hotel-Healdsburg-Spa-1880x880-2-1.webp",
+      "page": "http://www.relaxgofishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 900,
+      "height": 500,
+      "original": "900x500",
+      "source": "https://relaxgofishing.com.au/wp-content/uploads/2024/04/decks-of-paihia-luxury.webp",
+      "page": "http://www.relaxgofishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1344,
+      "height": 768,
+      "original": "1344x768",
+      "source": "https://relaxgofishing.com.au/wp-content/uploads/2024/04/best-adventure-places-in-the-world-1.webp",
+      "page": "http://www.relaxgofishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1200,
+      "height": 893,
+      "original": "1200x893",
+      "source": "https://relaxgofishing.com.au/wp-content/uploads/2024/04/pet-friendly-hotels-atlantis-lodge-10-1-1.jpg",
+      "page": "http://www.relaxgofishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1000,
+      "height": 656,
+      "original": "1000x656",
+      "source": "https://relaxgofishing.com.au/wp-content/uploads/2022/02/fishing-rod-holder.jpg",
+      "page": "https://relaxgofishing.com.au/where-to-find-the-best-fall-foliage-in-toronto-and-surrounds-its-time-for-some-leaf-peeping/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 2000,
+      "height": 1333,
+      "original": "2121x1414",
+      "source": "https://relaxgofishing.com.au/wp-content/uploads/2020/01/GettyImages-933326050.jpg",
+      "page": "https://relaxgofishing.com.au/where-to-find-the-best-fall-foliage-in-toronto-and-surrounds-its-time-for-some-leaf-peeping/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1280,
+      "height": 720,
+      "original": "1280x720",
+      "source": "https://relaxgofishing.com.au/wp-content/uploads/2020/01/maxresdefault.jpg",
+      "page": "https://relaxgofishing.com.au/where-to-find-the-best-fall-foliage-in-toronto-and-surrounds-its-time-for-some-leaf-peeping/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1000,
+      "height": 663,
+      "original": "1000x663",
+      "source": "https://relaxgofishing.com.au/wp-content/uploads/2020/01/dc-feederfishing-1.jpg",
+      "page": "https://relaxgofishing.com.au/where-to-find-the-best-fall-foliage-in-toronto-and-surrounds-its-time-for-some-leaf-peeping/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 750,
+      "height": 550,
+      "original": "750x550",
+      "source": "https://relaxgofishing.com.au/wp-content/uploads/2020/07/While-Fishing-Feeding-Tactics-is-Good-Thinking.jpg",
+      "page": "https://relaxgofishing.com.au/where-to-find-the-best-fall-foliage-in-toronto-and-surrounds-its-time-for-some-leaf-peeping/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1000,
+      "height": 667,
+      "original": "1000x667",
+      "source": "https://relaxgofishing.com.au/wp-content/uploads/2020/01/tackle-bag.jpg",
+      "page": "https://relaxgofishing.com.au/where-to-find-the-best-fall-foliage-in-toronto-and-surrounds-its-time-for-some-leaf-peeping/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "http://www.relaxgofishing.com.au/",
+      "status": 200,
+      "final_url": "https://relaxgofishing.com.au/",
+      "bytes": 265724
+    },
+    {
+      "page": "https://relaxgofishing.com.au/",
+      "status": 200,
+      "final_url": "https://relaxgofishing.com.au/",
+      "bytes": 265724
+    },
+    {
+      "page": "https://relaxgofishing.com.au/category/adventure/",
+      "status": 200,
+      "final_url": "https://relaxgofishing.com.au/category/adventure/",
+      "bytes": 333177
+    },
+    {
+      "page": "https://relaxgofishing.com.au/category/camping/",
+      "status": 200,
+      "final_url": "https://relaxgofishing.com.au/category/camping/",
+      "bytes": 245792
+    },
+    {
+      "page": "https://relaxgofishing.com.au/category/cruising/",
+      "status": 200,
+      "final_url": "https://relaxgofishing.com.au/category/cruising/",
+      "bytes": 269725
+    },
+    {
+      "page": "https://relaxgofishing.com.au/category/destination/",
+      "status": 200,
+      "final_url": "https://relaxgofishing.com.au/category/destination/",
+      "bytes": 296623
+    },
+    {
+      "page": "https://relaxgofishing.com.au/category/fishing/",
+      "status": 200,
+      "final_url": "https://relaxgofishing.com.au/category/fishing/",
+      "bytes": 313489
+    },
+    {
+      "page": "https://relaxgofishing.com.au/category/travel/",
+      "status": 200,
+      "final_url": "https://relaxgofishing.com.au/category/travel/",
+      "bytes": 324676
+    },
+    {
+      "page": "https://relaxgofishing.com.au/where-to-find-the-best-fall-foliage-in-toronto-and-surrounds-its-time-for-some-leaf-peeping/",
+      "status": 200,
+      "final_url": "https://relaxgofishing.com.au/where-to-find-the-best-fall-foliage-in-toronto-and-surrounds-its-time-for-some-leaf-peeping/",
+      "bytes": 240363
+    },
+    {
+      "page": "https://relaxgofishing.com.au/essential-fishing-technology/",
+      "status": 200,
+      "final_url": "https://relaxgofishing.com.au/essential-fishing-technology/",
+      "bytes": 236115
+    },
+    {
+      "page": "https://relaxgofishing.com.au/camping-meets-technology-enhancing-outdoor-adventures/",
+      "status": 200,
+      "final_url": "https://relaxgofishing.com.au/camping-meets-technology-enhancing-outdoor-adventures/",
+      "bytes": 227857
+    },
+    {
+      "image": "https://relaxgofishing.com.au/wp-content/uploads/2024/12/download-2.jpg",
+      "error": "too small 259x194"
+    },
+    {
+      "image": "https://relaxgofishing.com.au/wp-content/uploads/2024/12/download-3.jpg",
+      "error": "too small 297x170"
+    },
+    {
+      "image": "https://relaxgofishing.com.au/wp-content/uploads/2024/04/download-4-1.jpg",
+      "error": "too small 275x183"
+    },
+    {
+      "image": "https://relaxgofishing.com.au/wp-content/uploads/2024/04/download-2.jpg",
+      "error": "too small 259x194"
+    },
+    {
+      "image": "https://relaxgofishing.com.au/wp-content/uploads/2024/04/247742862.jpg",
+      "error": "too small 500x333"
+    },
+    {
+      "image": "http://relaxgofishing.com.au/wp-content/uploads/2025/02/footerbg.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://relaxgofishing.com.au/wp-content/uploads/2025/09/shutterstock_114029374-585x300.webp",
+      "error": "too small 585x300"
+    },
+    {
+      "image": "https://relaxgofishing.com.au/wp-content/uploads/2024/04/Best-Photos-Burbank-California-Things-to-do-in-Los-Angeles-@StephBeTravel-1-of-2-scaled-1-585x390.webp",
+      "error": "too small 585x390"
+    },
+    {
+      "image": "https://relaxgofishing.com.au/wp-content/uploads/2024/04/Lauren-Wyer-Hotel-Healdsburg-Spa-1880x880-2-1-585x274.webp",
+      "error": "too small 585x274"
+    },
+    {
+      "image": "https://relaxgofishing.com.au/wp-content/uploads/2024/04/decks-of-paihia-luxury-585x325.webp",
+      "error": "too small 585x325"
+    },
+    {
+      "image": "https://relaxgofishing.com.au/wp-content/uploads/2024/04/best-adventure-places-in-the-world-1-585x334.webp",
+      "error": "too small 585x334"
+    },
+    {
+      "image": "https://relaxgofishing.com.au/wp-content/uploads/2024/04/pet-friendly-hotels-atlantis-lodge-10-1-1-585x435.jpg",
+      "error": "too small 585x435"
+    },
+    {
+      "dup": "https://relaxgofishing.com.au/wp-content/uploads/2025/09/shutterstock_114029374-1170x600.webp"
+    },
+    {
+      "image": "https://relaxgofishing.com.au/wp-content/uploads/2022/03/download.png",
+      "error": "too small 225x225"
+    },
+    {
+      "dup": "https://relaxgofishing.com.au/wp-content/uploads/2022/03/fishing_trip_1579905164.jpg"
+    },
+    {
+      "image": "https://relaxgofishing.com.au/wp-content/uploads/2025/09/shutterstock_114029374-585x390.webp",
+      "error": "too small 585x390"
+    },
+    {
+      "image": "https://relaxgofishing.com.au/wp-content/uploads/2022/03/fishing_trip_1579905164-585x390.jpg",
+      "error": "too small 585x390"
+    },
+    {
+      "image": "https://relaxgofishing.com.au/wp-content/uploads/2022/02/fishing-rod-holder-585x390.jpg",
+      "error": "too small 585x390"
+    },
+    {
+      "image": "https://relaxgofishing.com.au/wp-content/uploads/2020/01/GettyImages-933326050-585x390.jpg",
+      "error": "too small 585x390"
+    },
+    {
+      "image": "https://relaxgofishing.com.au/wp-content/uploads/2020/01/maxresdefault-585x390.jpg",
+      "error": "too small 585x390"
+    },
+    {
+      "image": "https://relaxgofishing.com.au/wp-content/uploads/2020/01/dc-feederfishing-1-585x390.jpg",
+      "error": "too small 585x390"
+    },
+    {
+      "image": "https://relaxgofishing.com.au/wp-content/uploads/2020/07/While-Fishing-Feeding-Tactics-is-Good-Thinking-585x390.jpg",
+      "error": "too small 585x390"
+    },
+    {
+      "image": "https://relaxgofishing.com.au/wp-content/uploads/2020/01/tackle-bag-585x390.jpg",
+      "error": "too small 585x390"
+    },
+    {
+      "dup": "https://relaxgofishing.com.au/wp-content/uploads/2022/04/mass-house-low-cost-affordable-manufacturer-steel-iraq-1.jpg"
+    }
+  ]
+}

@@ -1,0 +1,355 @@
+{
+  "slug": "gone-fishing-charters",
+  "request_hash": "0a40c80383ee",
+  "collected_at": "2026-11-03T22:28:42.736Z",
+  "pages_fetched": [
+    "https://www.gonefishing.com.au/",
+    "https://www.gonefishing.com.au/charter-locations/pricing",
+    "https://www.gonefishing.com.au/my-account/",
+    "https://www.gonefishing.com.au/cart/",
+    "https://www.gonefishing.com.au/charter-locations/pricing/",
+    "https://www.gonefishing.com.au/charter-locations/queenscliff-5-hour-fishing-charter/",
+    "https://www.gonefishing.com.au/charter-locations/queenscliff-8-hour-charter-offshore/",
+    "https://www.gonefishing.com.au/charter-locations/queenscliff-evening-snapper-charter/",
+    "https://www.gonefishing.com.au/charter-locations/queenscliff-4-hour-summer-evening-fishing-charter/",
+    "https://www.gonefishing.com.au/charter-locations/queenscliff-king-fish-tuna-charter/",
+    "https://www.gonefishing.com.au/charter-locations/geelong-gummy-shark-charter/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 600,
+      "height": 649,
+      "original": "600x649",
+      "source": "https://www.gonefishing.com.au/wp-content/uploads/season-fishing-trips-vic.jpg",
+      "page": "https://www.gonefishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 600,
+      "height": 530,
+      "original": "600x530",
+      "source": "https://www.gonefishing.com.au/wp-content/uploads/fishing-charter-boat.jpg",
+      "page": "https://www.gonefishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1700,
+      "height": 690,
+      "original": "1700x690",
+      "source": "https://www.gonefishing.com.au/wp-content/uploads/gone-fishing-charters-bg.jpg",
+      "page": "https://www.gonefishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1920x2560",
+      "source": "https://www.gonefishing.com.au/wp-content/uploads/whiting-in-bucket-with-lady-scaled.jpg",
+      "page": "https://www.gonefishing.com.au/charter-locations/pricing",
+      "priority": true
+    },
+    {
+      "file": "c05.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "4032x3024",
+      "source": "https://www.gonefishing.com.au/wp-content/uploads/whiting-in-bucket-with-lady.jpg",
+      "page": "https://www.gonefishing.com.au/charter-locations/pricing",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 940,
+      "height": 470,
+      "original": "940x470",
+      "source": "https://www.gonefishing.com.au/wp-content/uploads/kingfish-charter.jpg",
+      "page": "https://www.gonefishing.com.au/charter-locations/pricing",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1920,
+      "height": 1280,
+      "original": "1920x1280",
+      "source": "https://www.gonefishing.com.au/wp-content/uploads/3-GUMMY-SHARK-GROUPVMAY-22-scaled-e1658888353752.jpeg",
+      "page": "https://www.gonefishing.com.au/charter-locations/pricing",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 2000,
+      "height": 909,
+      "original": "2560x1164",
+      "source": "https://www.gonefishing.com.au/wp-content/uploads/snapper-group-bright-photo-scaled-e1658888442100.jpg",
+      "page": "https://www.gonefishing.com.au/charter-locations/pricing",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 2000,
+      "height": 1898,
+      "original": "3001x2848",
+      "source": "https://www.gonefishing.com.au/wp-content/uploads/whiting-evening.jpg",
+      "page": "https://www.gonefishing.com.au/charter-locations/pricing",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 768,
+      "height": 850,
+      "original": "768x850",
+      "source": "https://www.gonefishing.com.au/wp-content/uploads/gone-fishing-prices.jpg",
+      "page": "https://www.gonefishing.com.au/charter-locations/pricing",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 900,
+      "height": 936,
+      "original": "900x936",
+      "source": "https://www.gonefishing.com.au/wp-content/uploads/gf-5-Hour-Fishing-Charter.jpg",
+      "page": "https://www.gonefishing.com.au/charter-locations/queenscliff-5-hour-fishing-charter/",
+      "priority": true
+    },
+    {
+      "file": "c12.webp",
+      "width": 1440,
+      "height": 1800,
+      "original": "1440x1800",
+      "source": "https://www.gonefishing.com.au/wp-content/uploads/whiting-on-box-with-2-guys.jpg",
+      "page": "https://www.gonefishing.com.au/charter-locations/queenscliff-5-hour-fishing-charter/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1601,
+      "height": 2000,
+      "original": "2448x3058",
+      "source": "https://www.gonefishing.com.au/wp-content/uploads/whiting-with-kid.jpg",
+      "page": "https://www.gonefishing.com.au/charter-locations/queenscliff-5-hour-fishing-charter/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "3264x2448",
+      "source": "https://www.gonefishing.com.au/wp-content/uploads/whiting-and-pinkies.jpg",
+      "page": "https://www.gonefishing.com.au/charter-locations/queenscliff-5-hour-fishing-charter/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "4032x3024",
+      "source": "https://www.gonefishing.com.au/wp-content/uploads/whiting-and-snapper-father-son.jpg",
+      "page": "https://www.gonefishing.com.au/charter-locations/queenscliff-5-hour-fishing-charter/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1920x2560",
+      "source": "https://www.gonefishing.com.au/wp-content/uploads/whiting-and-pinkies-scaled.jpg",
+      "page": "https://www.gonefishing.com.au/charter-locations/queenscliff-5-hour-fishing-charter/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.gonefishing.com.au/",
+      "status": 200,
+      "final_url": "https://www.gonefishing.com.au/",
+      "bytes": 98474
+    },
+    {
+      "page": "https://www.gonefishing.com.au/charter-locations/pricing",
+      "status": 200,
+      "final_url": "https://www.gonefishing.com.au/charter-locations/pricing/",
+      "bytes": 101244
+    },
+    {
+      "page": "https://www.gonefishing.com.au/my-account/",
+      "status": 200,
+      "final_url": "https://www.gonefishing.com.au/my-account/",
+      "bytes": 48999
+    },
+    {
+      "page": "https://www.gonefishing.com.au/cart/",
+      "status": 200,
+      "final_url": "https://www.gonefishing.com.au/cart/",
+      "bytes": 77117
+    },
+    {
+      "page": "https://www.gonefishing.com.au/charter-locations/pricing/",
+      "status": 200,
+      "final_url": "https://www.gonefishing.com.au/charter-locations/pricing/",
+      "bytes": 101244
+    },
+    {
+      "page": "https://www.gonefishing.com.au/charter-locations/queenscliff-5-hour-fishing-charter/",
+      "status": 200,
+      "final_url": "https://www.gonefishing.com.au/charter-locations/queenscliff-5-hour-fishing-charter/",
+      "bytes": 107191
+    },
+    {
+      "page": "https://www.gonefishing.com.au/charter-locations/queenscliff-8-hour-charter-offshore/",
+      "status": 200,
+      "final_url": "https://www.gonefishing.com.au/charter-locations/queenscliff-8-hour-charter-offshore/",
+      "bytes": 105468
+    },
+    {
+      "page": "https://www.gonefishing.com.au/charter-locations/queenscliff-evening-snapper-charter/",
+      "status": 200,
+      "final_url": "https://www.gonefishing.com.au/charter-locations/queenscliff-evening-snapper-charter/",
+      "bytes": 106207
+    },
+    {
+      "page": "https://www.gonefishing.com.au/charter-locations/queenscliff-4-hour-summer-evening-fishing-charter/",
+      "status": 200,
+      "final_url": "https://www.gonefishing.com.au/charter-locations/queenscliff-4-hour-summer-evening-fishing-charter/",
+      "bytes": 107674
+    },
+    {
+      "page": "https://www.gonefishing.com.au/charter-locations/queenscliff-king-fish-tuna-charter/",
+      "status": 200,
+      "final_url": "https://www.gonefishing.com.au/charter-locations/queenscliff-king-fish-tuna-charter/",
+      "bytes": 105498
+    },
+    {
+      "page": "https://www.gonefishing.com.au/charter-locations/geelong-gummy-shark-charter/",
+      "status": 200,
+      "final_url": "https://www.gonefishing.com.au/charter-locations/geelong-gummy-shark-charter/",
+      "bytes": 105905
+    },
+    {
+      "image": "https://www.gonefishing.com.au/wp-content/uploads/google-reviews.png",
+      "error": "too small 139x39"
+    },
+    {
+      "image": "https://www.gonefishing.com.au/wp-content/uploads/5-star-rating.png",
+      "error": "too small 108x22"
+    },
+    {
+      "image": "https://www.gonefishing.com.au/wp-content/uploads/i-fish-tv.jpg",
+      "error": "too small 262x193"
+    },
+    {
+      "image": "https://www.gonefishing.com.au/wp-content/uploads/season-fishing-trips-vic-277x300.jpg",
+      "error": "too small 277x300"
+    },
+    {
+      "image": "https://www.gonefishing.com.au/wp-content/uploads/fishing-charter-boat-300x265.jpg",
+      "error": "too small 300x265"
+    },
+    {
+      "image": "https://www.gonefishing.com.au/wp-content/uploads/Mako-gummy-snapper-rotated-e1658888096557.jpeg",
+      "error": "too small 390x284"
+    },
+    {
+      "image": "https://www.gonefishing.com.au/wp-content/uploads/Mako-gummy-snapper-rotated-e1658888096557-300x218.jpeg",
+      "error": "too small 300x218"
+    },
+    {
+      "dup": "https://www.gonefishing.com.au/wp-content/uploads/snapper-group-bright-photo-scaled-e1658888442100-2048x931.jpg"
+    },
+    {
+      "dup": "https://www.gonefishing.com.au/wp-content/uploads//whiting-evening.jpg"
+    },
+    {
+      "image": "https://www.gonefishing.com.au/wp-content/uploads/whiting-in-bucket-with-lady-225x300.jpg",
+      "error": "too small 225x300"
+    },
+    {
+      "dup": "https://www.gonefishing.com.au/wp-content/uploads/whiting-in-bucket-with-lady-768x1024.jpg"
+    },
+    {
+      "image": "https://www.gonefishing.com.au/wp-content/uploads/kingfish-charter-300x150.jpg",
+      "error": "too small 300x150"
+    },
+    {
+      "image": "https://www.gonefishing.com.au/wp-content/uploads/kingfish-charter-768x384.jpg",
+      "error": "too small 768x384"
+    },
+    {
+      "image": "https://www.gonefishing.com.au/wp-content/uploads/kingfish-charter-600x300.jpg",
+      "error": "too small 600x300"
+    },
+    {
+      "image": "https://www.gonefishing.com.au/wp-content/uploads/3-GUMMY-SHARK-GROUPVMAY-22-scaled-e1658888353752-300x200.jpeg",
+      "error": "too small 300x200"
+    },
+    {
+      "dup": "https://www.gonefishing.com.au/wp-content/uploads/3-GUMMY-SHARK-GROUPVMAY-22-scaled-e1658888353752-1024x683.jpeg"
+    },
+    {
+      "dup": "https://www.gonefishing.com.au/wp-content/uploads/3-GUMMY-SHARK-GROUPVMAY-22-scaled-e1658888353752-768x512.jpeg"
+    },
+    {
+      "dup": "https://www.gonefishing.com.au/wp-content/uploads/3-GUMMY-SHARK-GROUPVMAY-22-scaled-e1658888353752-1536x1024.jpeg"
+    },
+    {
+      "dup": "https://www.gonefishing.com.au/wp-content/uploads/3-GUMMY-SHARK-GROUPVMAY-22-scaled-e1658888353752-600x400.jpeg"
+    },
+    {
+      "image": "https://www.gonefishing.com.au/wp-content/uploads/snapper-group-bright-photo-scaled-e1658888442100-300x136.jpg",
+      "error": "too small 300x136"
+    },
+    {
+      "dup": "https://www.gonefishing.com.au/wp-content/uploads/snapper-group-bright-photo-scaled-e1658888442100-1024x466.jpg"
+    },
+    {
+      "image": "https://www.gonefishing.com.au/wp-content/uploads/snapper-group-bright-photo-scaled-e1658888442100-768x349.jpg",
+      "error": "too small 768x349"
+    },
+    {
+      "dup": "https://www.gonefishing.com.au/wp-content/uploads/snapper-group-bright-photo-scaled-e1658888442100-1536x698.jpg"
+    },
+    {
+      "image": "https://www.gonefishing.com.au/wp-content/uploads/snapper-group-bright-photo-scaled-e1658888442100-600x273.jpg",
+      "error": "too small 600x273"
+    },
+    {
+      "dup": "https://www.gonefishing.com.au/wp-content/uploads/whiting-evening-1024x972.jpg"
+    },
+    {
+      "dup": "https://www.gonefishing.com.au/wp-content/uploads//whiting-evening-1024x972.jpg"
+    },
+    {
+      "image": "https://www.gonefishing.com.au/wp-content/uploads//whiting-evening-450x427.jpg",
+      "error": "too small 450x427"
+    },
+    {
+      "dup": "https://www.gonefishing.com.au/wp-content/uploads//whiting-evening-768x729.jpg"
+    },
+    {
+      "dup": "https://www.gonefishing.com.au/wp-content/uploads//whiting-evening-1536x1458.jpg"
+    },
+    {
+      "dup": "https://www.gonefishing.com.au/wp-content/uploads//whiting-evening-2048x1944.jpg"
+    },
+    {
+      "dup": "https://www.gonefishing.com.au/wp-content/uploads//whiting-evening-600x569.jpg"
+    },
+    {
+      "image": "https://www.gonefishing.com.au/wp-content/uploads/gone-fishing-prices-271x300.jpg",
+      "error": "too small 271x300"
+    },
+    {
+      "dup": "https://www.gonefishing.com.au/wp-content/uploads/gone-fishing-prices-600x664.jpg"
+    },
+    {
+      "image": "https://www.gonefishing.com.au/wp-content/uploads/Squid-single--e1658282850961.jpg",
+      "error": "too small 510x640"
+    },
+    {
+      "dup": "https://www.gonefishing.com.au/wp-content/uploads/whiting-with-kid-1639x2048.jpg"
+    }
+  ]
+}

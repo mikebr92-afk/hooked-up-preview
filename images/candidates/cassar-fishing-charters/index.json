@@ -1,0 +1,305 @@
+{
+  "slug": "cassar-fishing-charters",
+  "request_hash": "43f6f6047120",
+  "collected_at": "2026-11-03T22:31:32.791Z",
+  "pages_fetched": [
+    "https://www.cassarfishingcharters.com.au/",
+    "https://cassarfishingcharters.com/",
+    "https://www.cassarfishingcharters.com.au/private-events",
+    "https://www.cassarfishingcharters.com.au/tuna-fishing-charters-portland",
+    "https://www.cassarfishingcharters.com.au/snapper-fishing-charters-melbourne",
+    "https://www.cassarfishingcharters.com.au/gummy-shark-fishing-charters-melbourne",
+    "https://www.cassarfishingcharters.com.au/Squid-whiting",
+    "https://www.cassarfishingcharters.com.au/kingfish-fishing-charters-melbourne",
+    "https://www.cassarfishingcharters.com.au/offshore-fishing-Melbourne"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1896,
+      "height": 2000,
+      "original": "1920x2025",
+      "source": "https://irp.cdn-website.com//7efb1bfa/dms3rep/multi/opt/69509130_10156275209301123_312564969361113088_o-1920w.jpg?jxl&v=jxl",
+      "page": "https://www.cassarfishingcharters.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 1920,
+      "height": 1280,
+      "original": "1920x1280",
+      "source": "https://irp.cdn-website.com//md/unsplash/dms3rep/multi/opt/photo-1566177229701-8895c29b9c68-1920w.jpg?jxl&v=jxl",
+      "page": "https://www.cassarfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1920,
+      "height": 1275,
+      "original": "1920x1275",
+      "source": "https://irp.cdn-website.com//7efb1bfa/dms3rep/multi/opt/AdobeStock_161114514-1920w.jpeg?jxl&v=jxl",
+      "page": "https://www.cassarfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 640,
+      "height": 853,
+      "original": "640x853",
+      "source": "https://irp.cdn-website.com//7efb1bfa/dms3rep/multi/opt/photo-1578853420748-aefa45d69621-640w-1920w.jpg?jxl&v=jxl",
+      "page": "https://www.cassarfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1920,
+      "height": 1280,
+      "original": "1920x1280",
+      "source": "https://irp.cdn-website.com//7efb1bfa/dms3rep/multi/opt/AdobeStock_217988503-1920w.jpeg?jxl&v=jxl",
+      "page": "https://www.cassarfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1024,
+      "height": 683,
+      "original": "1024x683",
+      "source": "https://irp.cdn-website.com//7efb1bfa/dms3rep/multi/opt/to-catch-a-kingfish-3-1920w.jpg?jxl&v=jxl",
+      "page": "https://www.cassarfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1058,
+      "height": 705,
+      "original": "1058x705",
+      "source": "https://irp.cdn-website.com//7efb1bfa/dms3rep/multi/opt/AdobeStock_280007231-1920w.jpg?jxl&v=jxl",
+      "page": "https://www.cassarfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 920,
+      "height": 690,
+      "original": "920x690",
+      "source": "https://irp.cdn-website.com/7efb1bfa/dms3rep/multi/opt/468634220_1104596831666878_4391283455008273814_n-920w.jpg?jxl&v=jxl",
+      "page": "https://www.cassarfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 600,
+      "height": 600,
+      "original": "600x600",
+      "source": "https://irp.cdn-website.com//7efb1bfa/dms3rep/multi/opt/Total+Tools-1920w.png?jxl&v=jxl",
+      "page": "https://www.cassarfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 600,
+      "height": 600,
+      "original": "600x600",
+      "source": "https://irp.cdn-website.com//7efb1bfa/dms3rep/multi/opt/Fishon-1920w.png?jxl&v=jxl",
+      "page": "https://www.cassarfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://irp.cdn-website.com//7efb1bfa/dms3rep/multi/opt/Untitled-9be3809d-2750e27e-1920w.png?jxl&v=jxl",
+      "page": "https://www.cassarfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1080,
+      "height": 809,
+      "original": "1080x809",
+      "source": "https://irp-cdn.multiscreensite.com/7efb1bfa/dms3rep/multi/117698335_340654527106845_9183123111101994123_n.jpg",
+      "page": "https://www.cassarfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 600,
+      "height": 600,
+      "original": "600x600",
+      "source": "https://irp-cdn.multiscreensite.com/7efb1bfa/dms3rep/multi/Total+Tools.png",
+      "page": "https://www.cassarfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 600,
+      "height": 600,
+      "original": "600x600",
+      "source": "https://irp-cdn.multiscreensite.com/7efb1bfa/dms3rep/multi/lone-1_3293aa5368b7520a34a3eba3b7ed24f6-1920w.png",
+      "page": "https://www.cassarfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 600,
+      "height": 600,
+      "original": "600x600",
+      "source": "https://irp-cdn.multiscreensite.com/7efb1bfa/dms3rep/multi/Fishon.png",
+      "page": "https://www.cassarfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1200,
+      "height": 630,
+      "original": "1200x630",
+      "source": "https://irp.cdn-website.com//7efb1bfa/dms3rep/multi/opt/mornington-peninsula-aerial-photo-from-morington-pier-2880w.jpg?jxl&v=jxl",
+      "page": "https://www.cassarfishingcharters.com.au/private-events",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.cassarfishingcharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.cassarfishingcharters.com.au/",
+      "bytes": 116895
+    },
+    {
+      "page": "https://cassarfishingcharters.com/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://www.cassarfishingcharters.com.au/private-events",
+      "status": 200,
+      "final_url": "https://www.cassarfishingcharters.com.au/private-events",
+      "bytes": 59084
+    },
+    {
+      "page": "https://www.cassarfishingcharters.com.au/tuna-fishing-charters-portland",
+      "status": 200,
+      "final_url": "https://www.cassarfishingcharters.com.au/tuna-fishing-charters-portland",
+      "bytes": 111083
+    },
+    {
+      "page": "https://www.cassarfishingcharters.com.au/snapper-fishing-charters-melbourne",
+      "status": 200,
+      "final_url": "https://www.cassarfishingcharters.com.au/snapper-fishing-charters-melbourne",
+      "bytes": 648195
+    },
+    {
+      "page": "https://www.cassarfishingcharters.com.au/gummy-shark-fishing-charters-melbourne",
+      "status": 200,
+      "final_url": "https://www.cassarfishingcharters.com.au/gummy-shark-fishing-charters-melbourne",
+      "bytes": 132829
+    },
+    {
+      "page": "https://www.cassarfishingcharters.com.au/Squid-whiting",
+      "status": 200,
+      "final_url": "https://www.cassarfishingcharters.com.au/Squid-whiting",
+      "bytes": 131934
+    },
+    {
+      "page": "https://www.cassarfishingcharters.com.au/kingfish-fishing-charters-melbourne",
+      "status": 200,
+      "final_url": "https://www.cassarfishingcharters.com.au/kingfish-fishing-charters-melbourne",
+      "bytes": 119156
+    },
+    {
+      "page": "https://www.cassarfishingcharters.com.au/offshore-fishing-Melbourne",
+      "status": 200,
+      "final_url": "https://www.cassarfishingcharters.com.au/offshore-fishing-Melbourne",
+      "bytes": 109749
+    },
+    {
+      "image": "https://irp.cdn-website.com//md/dmtmpl/dms3rep/multi/opt/Grunge_white_background-2304w.png?jxl&v=jxl",
+      "error": "too small 1920x118"
+    },
+    {
+      "dup": "https://irp.cdn-website.com//7efb1bfa/dms3rep/multi/opt/lone-1_3293aa5368b7520a34a3eba3b7ed24f6-1920w-1920w.png?jxl&v=jxl"
+    },
+    {
+      "image": "https://irp.cdn-website.com//7efb1bfa/dms3rep/multi/opt/120080209_3105388843027959_5075055334991905247_n-1920w.jpg?jxl&v=jxl",
+      "error": "too small 1124x250"
+    },
+    {
+      "image": "https://irt-cdn.multiscreensite.com/ce0bb35f932b47bb809d0e37905542ba/dms3rep/multi/site_background_education.jpg",
+      "error": "HTTP 403"
+    },
+    {
+      "image": "https://irt-cdn.multiscreensite.com/ce0bb35f932b47bb809d0e37905542ba/dms3rep/multi/site_background_education-2087x1173.jpg",
+      "error": "HTTP 403"
+    },
+    {
+      "dup": "https://irp.cdn-website.com/7efb1bfa/dms3rep/multi/opt/468634220_1104596831666878_4391283455008273814_n-1920w.jpg"
+    },
+    {
+      "dup": "https://irp.cdn-website.com//md/unsplash/dms3rep/multi/opt/photo-1566177229701-8895c29b9c68-640w.jpg?jxl&v=jxl"
+    },
+    {
+      "dup": "https://irp.cdn-website.com//7efb1bfa/dms3rep/multi/opt/AdobeStock_161114514-640w.jpeg?jxl&v=jxl"
+    },
+    {
+      "dup": "https://irp.cdn-website.com//7efb1bfa/dms3rep/multi/opt/photo-1578853420748-aefa45d69621-640w-640w.jpg?jxl&v=jxl"
+    },
+    {
+      "dup": "https://irp.cdn-website.com//7efb1bfa/dms3rep/multi/opt/AdobeStock_217988503-640w.jpeg?jxl&v=jxl"
+    },
+    {
+      "dup": "https://irp.cdn-website.com//7efb1bfa/dms3rep/multi/opt/to-catch-a-kingfish-3-640w.jpg?jxl&v=jxl"
+    },
+    {
+      "dup": "https://irp.cdn-website.com//7efb1bfa/dms3rep/multi/opt/AdobeStock_280007231-640w.jpg?jxl&v=jxl"
+    },
+    {
+      "dup": "https://irp.cdn-website.com//7efb1bfa/dms3rep/multi/opt/Total+Tools-640w.png?jxl&v=jxl"
+    },
+    {
+      "dup": "https://irp.cdn-website.com//7efb1bfa/dms3rep/multi/opt/lone-1_3293aa5368b7520a34a3eba3b7ed24f6-1920w-640w.png?jxl&v=jxl"
+    },
+    {
+      "image": "https://irp.cdn-website.com//7efb1bfa/dms3rep/multi/opt/120080209_3105388843027959_5075055334991905247_n-640w.jpg?jxl&v=jxl",
+      "error": "too small 640x142"
+    },
+    {
+      "dup": "https://irp.cdn-website.com//7efb1bfa/dms3rep/multi/opt/Fishon-640w.png?jxl&v=jxl"
+    },
+    {
+      "image": "https://irp.cdn-website.com//7efb1bfa/dms3rep/multi/opt/Untitled-9be3809d-2750e27e-640w.png?jxl&v=jxl",
+      "error": "too small 640x360"
+    },
+    {
+      "image": "https://irp-cdn.multiscreensite.com/md/dmtmpl/dms3rep/multi/Grunge_white_background.png",
+      "error": "too small 1920x118"
+    },
+    {
+      "dup": "https://irp-cdn.multiscreensite.com/md/unsplash/dms3rep/multi/photo-1566177229701-8895c29b9c68.jpg"
+    },
+    {
+      "dup": "https://irp-cdn.multiscreensite.com/7efb1bfa/dms3rep/multi/AdobeStock_161114514.jpeg"
+    },
+    {
+      "dup": "https://irp-cdn.multiscreensite.com/7efb1bfa/dms3rep/multi/photo-1578853420748-aefa45d69621-640w.jpg"
+    },
+    {
+      "dup": "https://irp-cdn.multiscreensite.com/7efb1bfa/dms3rep/multi/AdobeStock_217988503.jpeg"
+    },
+    {
+      "dup": "https://irp-cdn.multiscreensite.com/7efb1bfa/dms3rep/multi/to-catch-a-kingfish-3.jpg"
+    },
+    {
+      "dup": "https://irp-cdn.multiscreensite.com/7efb1bfa/dms3rep/multi/AdobeStock_280007231.jpg"
+    },
+    {
+      "dup": "https://irp.cdn-website.com/7efb1bfa/dms3rep/multi/468634220_1104596831666878_4391283455008273814_n.jpg"
+    },
+    {
+      "image": "https://irp-cdn.multiscreensite.com/7efb1bfa/dms3rep/multi/120080209_3105388843027959_5075055334991905247_n.jpg",
+      "error": "too small 1124x250"
+    },
+    {
+      "dup": "https://irp-cdn.multiscreensite.com/7efb1bfa/dms3rep/multi/Untitled-9be3809d-2750e27e.png"
+    }
+  ]
+}

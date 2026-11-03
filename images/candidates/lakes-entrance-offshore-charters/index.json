@@ -1,0 +1,20 @@
+{
+  "slug": "lakes-entrance-offshore-charters",
+  "request_hash": "8033de7c2cdf",
+  "collected_at": "2026-11-03T22:31:32.891Z",
+  "pages_fetched": [
+    "https://www.lakesentranceoffshorecharters.com.au/",
+    "https://lakesentranceoffshorecharters.com/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.lakesentranceoffshorecharters.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://lakesentranceoffshorecharters.com/",
+      "error": "fetch failed"
+    }
+  ]
+}

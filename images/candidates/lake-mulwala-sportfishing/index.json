@@ -1,0 +1,381 @@
+{
+  "slug": "lake-mulwala-sportfishing",
+  "request_hash": "63d9a12d3bc6",
+  "collected_at": "2026-11-03T22:31:07.797Z",
+  "pages_fetched": [
+    "https://lakemulwalasportfishing.com.au/",
+    "https://www.lakemulwalasportfishing.com.au/",
+    "https://www.lakemulwalasportfishing.com.au/charter-information",
+    "https://www.lakemulwalasportfishing.com.au/gallery",
+    "https://www.lakemulwalasportfishing.com.au/aboutus",
+    "https://www.lakemulwalasportfishing.com.au/contact-us",
+    "https://www.lakemulwalasportfishing.com.au/online-courses-and-masterclasses",
+    "https://www.lakemulwalasportfishing.com.au/store-gift-voucher-apparel-lures",
+    "https://www.lakemulwalasportfishing.com.au/cart",
+    "https://www.lakemulwalasportfishing.com.au/email-sign-up"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1000,
+      "height": 592,
+      "original": "1000x592",
+      "source": "https://static1.squarespace.com/static/5ef1e29dddbf393489fabbc8/t/5f366d0ee5c597291ba4db8d/1784767978051/",
+      "page": "https://lakemulwalasportfishing.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 2000,
+      "height": 1333,
+      "original": "2500x1666",
+      "source": "https://images.squarespace-cdn.com/content/v1/5ef1e29dddbf393489fabbc8/bf9deea6-dc7b-451c-af20-b2fada99d7eb/NECI-2022_Murray_LakeMulwalaSportFishing_CREDITTourismAustralia_PM_DJI_0111_023.jpg?format=2500w",
+      "page": "https://lakemulwalasportfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 2000,
+      "height": 1333,
+      "original": "2048x1365",
+      "source": "https://images.squarespace-cdn.com/content/v1/5ef1e29dddbf393489fabbc8/4e6e77e2-e4cb-4cbf-a3c7-0db277b105a7/Murraycodmasterclass.jpg?format=2500w",
+      "page": "https://lakemulwalasportfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2048x1366",
+      "source": "https://images.squarespace-cdn.com/content/v1/5ef1e29dddbf393489fabbc8/473d2ff8-5262-4eb6-a45a-3a2fb539c87b/DSC01079.jpg?format=2500w",
+      "page": "https://lakemulwalasportfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2500x3333",
+      "source": "https://images.squarespace-cdn.com/content/v1/5ef1e29dddbf393489fabbc8/1780896192987-0PQRXJVDH0K77XK25XLI/image-asset.jpeg?format=2500w",
+      "page": "https://lakemulwalasportfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2500x1667",
+      "source": "https://images.squarespace-cdn.com/content/v1/5ef1e29dddbf393489fabbc8/1780724049263-XY0L1YP5ISJAF571Z91A/image-asset.jpeg?format=2500w",
+      "page": "https://lakemulwalasportfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 640,
+      "height": 1136,
+      "original": "640x1136",
+      "source": "https://images.squarespace-cdn.com/content/v1/5ef1e29dddbf393489fabbc8/1780571201704-4OXABMKX8YN0MQTKKG8M/image-asset.jpeg?format=2500w",
+      "page": "https://lakemulwalasportfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2500x1667",
+      "source": "https://images.squarespace-cdn.com/content/v1/5ef1e29dddbf393489fabbc8/1780452400765-K8IYPZKWCZQGVIR6SOB6/image-asset.jpeg?format=2500w",
+      "page": "https://lakemulwalasportfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2500x1667",
+      "source": "https://images.squarespace-cdn.com/content/v1/5ef1e29dddbf393489fabbc8/0e9aaf73-e135-421b-a53e-e16af17ca5ff/NECI-2022_Murray_LakeMulwalaSportFishing_CREDITTourismAustralia_PM_ILL_6431_014.jpg?format=2500w",
+      "page": "https://www.lakemulwalasportfishing.com.au/charter-information",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2500x1875",
+      "source": "https://images.squarespace-cdn.com/content/v1/5ef1e29dddbf393489fabbc8/fc5c8f81-d7c1-4de6-8dd4-1a8ea84c721f/Lake+Mulwala+Sportfishing.jpg?format=2500w",
+      "page": "https://www.lakemulwalasportfishing.com.au/charter-information",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2500x1667",
+      "source": "https://images.squarespace-cdn.com/content/v1/5ef1e29dddbf393489fabbc8/1603265846801-XSDLZDYOWSSI7EKODAXJ/murray+cod+guide_5095.jpg?format=2500w",
+      "page": "https://www.lakemulwalasportfishing.com.au/charter-information",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2500x1667",
+      "source": "https://images.squarespace-cdn.com/content/v1/5ef1e29dddbf393489fabbc8/e102bb7f-7e38-42d9-a038-06e82426f7ee/DSC07051.jpg?format=2500w",
+      "page": "https://www.lakemulwalasportfishing.com.au/gallery",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2500x1667",
+      "source": "https://images.squarespace-cdn.com/content/v1/5ef1e29dddbf393489fabbc8/7a05a80d-5a33-49b3-91ba-a1f53cfc48b2/DSC07230.jpg?format=2500w",
+      "page": "https://www.lakemulwalasportfishing.com.au/gallery",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2500x1667",
+      "source": "https://images.squarespace-cdn.com/content/v1/5ef1e29dddbf393489fabbc8/29317aa8-b2c7-4db0-9a5c-4a013bd8c179/DSC07261.jpg?format=2500w",
+      "page": "https://www.lakemulwalasportfishing.com.au/gallery",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2500x1667",
+      "source": "https://images.squarespace-cdn.com/content/v1/5ef1e29dddbf393489fabbc8/754d5303-c731-4c21-a40b-f4ced4380342/DSC07304.jpg?format=2500w",
+      "page": "https://www.lakemulwalasportfishing.com.au/gallery",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2500x1667",
+      "source": "https://images.squarespace-cdn.com/content/v1/5ef1e29dddbf393489fabbc8/189fd07c-a807-4e57-af60-87caace2a191/DSC00259.JPG?format=2500w",
+      "page": "https://www.lakemulwalasportfishing.com.au/gallery",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://lakemulwalasportfishing.com.au/",
+      "status": 200,
+      "final_url": "https://www.lakemulwalasportfishing.com.au/",
+      "bytes": 206784
+    },
+    {
+      "page": "https://www.lakemulwalasportfishing.com.au/",
+      "status": 200,
+      "final_url": "https://www.lakemulwalasportfishing.com.au/",
+      "bytes": 206784
+    },
+    {
+      "page": "https://www.lakemulwalasportfishing.com.au/charter-information",
+      "status": 200,
+      "final_url": "https://www.lakemulwalasportfishing.com.au/charter-information",
+      "bytes": 177719
+    },
+    {
+      "page": "https://www.lakemulwalasportfishing.com.au/gallery",
+      "status": 200,
+      "final_url": "https://www.lakemulwalasportfishing.com.au/gallery",
+      "bytes": 164872
+    },
+    {
+      "page": "https://www.lakemulwalasportfishing.com.au/aboutus",
+      "status": 200,
+      "final_url": "https://www.lakemulwalasportfishing.com.au/aboutus",
+      "bytes": 163369
+    },
+    {
+      "page": "https://www.lakemulwalasportfishing.com.au/contact-us",
+      "status": 200,
+      "final_url": "https://www.lakemulwalasportfishing.com.au/contact-us",
+      "bytes": 294105
+    },
+    {
+      "page": "https://www.lakemulwalasportfishing.com.au/online-courses-and-masterclasses",
+      "status": 200,
+      "final_url": "https://www.lakemulwalasportfishing.com.au/online-courses-and-masterclasses",
+      "bytes": 413297
+    },
+    {
+      "page": "https://www.lakemulwalasportfishing.com.au/store-gift-voucher-apparel-lures",
+      "status": 200,
+      "final_url": "https://www.lakemulwalasportfishing.com.au/store-gift-voucher-apparel-lures",
+      "bytes": 393467
+    },
+    {
+      "page": "https://www.lakemulwalasportfishing.com.au/cart",
+      "status": 200,
+      "final_url": "https://www.lakemulwalasportfishing.com.au/cart",
+      "bytes": 198286
+    },
+    {
+      "page": "https://www.lakemulwalasportfishing.com.au/email-sign-up",
+      "status": 200,
+      "final_url": "https://www.lakemulwalasportfishing.com.au/email-sign-up",
+      "bytes": 249249
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ef1e29dddbf393489fabbc8/1780896192987-0PQRXJVDH0K77XK25XLI/image-asset.jpeg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ef1e29dddbf393489fabbc8/1780724049263-XY0L1YP5ISJAF571Z91A/image-asset.jpeg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ef1e29dddbf393489fabbc8/1780452400765-K8IYPZKWCZQGVIR6SOB6/image-asset.jpeg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ef1e29dddbf393489fabbc8/bf9deea6-dc7b-451c-af20-b2fada99d7eb/NECI-2022_Murray_LakeMulwalaSportFishing_CREDITTourismAustralia_PM_DJI_0111_023.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5ef1e29dddbf393489fabbc8/bf9deea6-dc7b-451c-af20-b2fada99d7eb/NECI-2022_Murray_LakeMulwalaSportFishing_CREDITTourismAustralia_PM_DJI_0111_023.jpg?format=100w",
+      "error": "too small 100x67"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5ef1e29dddbf393489fabbc8/bf9deea6-dc7b-451c-af20-b2fada99d7eb/NECI-2022_Murray_LakeMulwalaSportFishing_CREDITTourismAustralia_PM_DJI_0111_023.jpg?format=300w",
+      "error": "too small 300x200"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5ef1e29dddbf393489fabbc8/bf9deea6-dc7b-451c-af20-b2fada99d7eb/NECI-2022_Murray_LakeMulwalaSportFishing_CREDITTourismAustralia_PM_DJI_0111_023.jpg?format=500w",
+      "error": "too small 500x333"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ef1e29dddbf393489fabbc8/bf9deea6-dc7b-451c-af20-b2fada99d7eb/NECI-2022_Murray_LakeMulwalaSportFishing_CREDITTourismAustralia_PM_DJI_0111_023.jpg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ef1e29dddbf393489fabbc8/bf9deea6-dc7b-451c-af20-b2fada99d7eb/NECI-2022_Murray_LakeMulwalaSportFishing_CREDITTourismAustralia_PM_DJI_0111_023.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ef1e29dddbf393489fabbc8/bf9deea6-dc7b-451c-af20-b2fada99d7eb/NECI-2022_Murray_LakeMulwalaSportFishing_CREDITTourismAustralia_PM_DJI_0111_023.jpg?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ef1e29dddbf393489fabbc8/4e6e77e2-e4cb-4cbf-a3c7-0db277b105a7/Murraycodmasterclass.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5ef1e29dddbf393489fabbc8/4e6e77e2-e4cb-4cbf-a3c7-0db277b105a7/Murraycodmasterclass.jpg?format=100w",
+      "error": "too small 100x66"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5ef1e29dddbf393489fabbc8/4e6e77e2-e4cb-4cbf-a3c7-0db277b105a7/Murraycodmasterclass.jpg?format=300w",
+      "error": "too small 300x200"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5ef1e29dddbf393489fabbc8/4e6e77e2-e4cb-4cbf-a3c7-0db277b105a7/Murraycodmasterclass.jpg?format=500w",
+      "error": "too small 500x333"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ef1e29dddbf393489fabbc8/4e6e77e2-e4cb-4cbf-a3c7-0db277b105a7/Murraycodmasterclass.jpg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ef1e29dddbf393489fabbc8/4e6e77e2-e4cb-4cbf-a3c7-0db277b105a7/Murraycodmasterclass.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ef1e29dddbf393489fabbc8/4e6e77e2-e4cb-4cbf-a3c7-0db277b105a7/Murraycodmasterclass.jpg?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ef1e29dddbf393489fabbc8/473d2ff8-5262-4eb6-a45a-3a2fb539c87b/DSC01079.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5ef1e29dddbf393489fabbc8/473d2ff8-5262-4eb6-a45a-3a2fb539c87b/DSC01079.jpg?format=100w",
+      "error": "too small 100x66"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5ef1e29dddbf393489fabbc8/473d2ff8-5262-4eb6-a45a-3a2fb539c87b/DSC01079.jpg?format=300w",
+      "error": "too small 300x200"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5ef1e29dddbf393489fabbc8/473d2ff8-5262-4eb6-a45a-3a2fb539c87b/DSC01079.jpg?format=500w",
+      "error": "too small 500x333"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ef1e29dddbf393489fabbc8/473d2ff8-5262-4eb6-a45a-3a2fb539c87b/DSC01079.jpg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ef1e29dddbf393489fabbc8/473d2ff8-5262-4eb6-a45a-3a2fb539c87b/DSC01079.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ef1e29dddbf393489fabbc8/473d2ff8-5262-4eb6-a45a-3a2fb539c87b/DSC01079.jpg?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ef1e29dddbf393489fabbc8/1780571201704-4OXABMKX8YN0MQTKKG8M/image-asset.jpeg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ef1e29dddbf393489fabbc8/0e9aaf73-e135-421b-a53e-e16af17ca5ff/NECI-2022_Murray_LakeMulwalaSportFishing_CREDITTourismAustralia_PM_ILL_6431_014.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5ef1e29dddbf393489fabbc8/0e9aaf73-e135-421b-a53e-e16af17ca5ff/NECI-2022_Murray_LakeMulwalaSportFishing_CREDITTourismAustralia_PM_ILL_6431_014.jpg?format=100w",
+      "error": "too small 100x67"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5ef1e29dddbf393489fabbc8/0e9aaf73-e135-421b-a53e-e16af17ca5ff/NECI-2022_Murray_LakeMulwalaSportFishing_CREDITTourismAustralia_PM_ILL_6431_014.jpg?format=300w",
+      "error": "too small 300x200"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5ef1e29dddbf393489fabbc8/0e9aaf73-e135-421b-a53e-e16af17ca5ff/NECI-2022_Murray_LakeMulwalaSportFishing_CREDITTourismAustralia_PM_ILL_6431_014.jpg?format=500w",
+      "error": "too small 500x333"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ef1e29dddbf393489fabbc8/0e9aaf73-e135-421b-a53e-e16af17ca5ff/NECI-2022_Murray_LakeMulwalaSportFishing_CREDITTourismAustralia_PM_ILL_6431_014.jpg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ef1e29dddbf393489fabbc8/0e9aaf73-e135-421b-a53e-e16af17ca5ff/NECI-2022_Murray_LakeMulwalaSportFishing_CREDITTourismAustralia_PM_ILL_6431_014.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ef1e29dddbf393489fabbc8/0e9aaf73-e135-421b-a53e-e16af17ca5ff/NECI-2022_Murray_LakeMulwalaSportFishing_CREDITTourismAustralia_PM_ILL_6431_014.jpg?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ef1e29dddbf393489fabbc8/fc5c8f81-d7c1-4de6-8dd4-1a8ea84c721f/Lake+Mulwala+Sportfishing.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5ef1e29dddbf393489fabbc8/fc5c8f81-d7c1-4de6-8dd4-1a8ea84c721f/Lake+Mulwala+Sportfishing.jpg?format=100w",
+      "error": "too small 100x75"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5ef1e29dddbf393489fabbc8/fc5c8f81-d7c1-4de6-8dd4-1a8ea84c721f/Lake+Mulwala+Sportfishing.jpg?format=300w",
+      "error": "too small 300x225"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5ef1e29dddbf393489fabbc8/fc5c8f81-d7c1-4de6-8dd4-1a8ea84c721f/Lake+Mulwala+Sportfishing.jpg?format=500w",
+      "error": "too small 500x375"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ef1e29dddbf393489fabbc8/fc5c8f81-d7c1-4de6-8dd4-1a8ea84c721f/Lake+Mulwala+Sportfishing.jpg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ef1e29dddbf393489fabbc8/fc5c8f81-d7c1-4de6-8dd4-1a8ea84c721f/Lake+Mulwala+Sportfishing.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ef1e29dddbf393489fabbc8/fc5c8f81-d7c1-4de6-8dd4-1a8ea84c721f/Lake+Mulwala+Sportfishing.jpg?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ef1e29dddbf393489fabbc8/1603265846801-XSDLZDYOWSSI7EKODAXJ/murray+cod+guide_5095.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5ef1e29dddbf393489fabbc8/1603265846801-XSDLZDYOWSSI7EKODAXJ/murray+cod+guide_5095.jpg?format=100w",
+      "error": "too small 100x67"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5ef1e29dddbf393489fabbc8/1603265846801-XSDLZDYOWSSI7EKODAXJ/murray+cod+guide_5095.jpg?format=300w",
+      "error": "too small 300x200"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5ef1e29dddbf393489fabbc8/1603265846801-XSDLZDYOWSSI7EKODAXJ/murray+cod+guide_5095.jpg?format=500w",
+      "error": "too small 500x333"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ef1e29dddbf393489fabbc8/1603265846801-XSDLZDYOWSSI7EKODAXJ/murray+cod+guide_5095.jpg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ef1e29dddbf393489fabbc8/1603265846801-XSDLZDYOWSSI7EKODAXJ/murray+cod+guide_5095.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5ef1e29dddbf393489fabbc8/1603265846801-XSDLZDYOWSSI7EKODAXJ/murray+cod+guide_5095.jpg?format=1500w"
+    }
+  ]
+}

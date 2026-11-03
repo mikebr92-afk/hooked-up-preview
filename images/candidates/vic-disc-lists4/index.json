@@ -1,0 +1,94 @@
+{
+  "slug": "vic-disc-lists4",
+  "request_hash": "f10f4c0ac8d7",
+  "collected_at": "2026-11-03T22:28:12.947Z",
+  "pages_fetched": [
+    "https://www.melbourneplaygrounds.com.au/rip-charters-sorrento",
+    "https://www.melbourneplaygrounds.com.au/proline-fishing-charters-sorrento",
+    "https://www.melbourneplaygrounds.com.au/impulse-charters-queenscliff",
+    "https://www.melbourneplaygrounds.com.au/game-and-recreational-fishing-charters-sorrento",
+    "https://www.melbourneplaygrounds.com.au/ace-fishing-charters",
+    "https://www.melbourneplaygrounds.com.au/bagout-fishing-charters-carrum",
+    "https://www.melbourneplaygrounds.com.au/reel-time-fishing",
+    "https://www.melbourneplaygrounds.com.au/bay-fish-n-trips",
+    "https://www.melbourneplaygrounds.com.au/able-fishing-and-charters",
+    "https://www.melbourneplaygrounds.com.au/joe-farr-fishing-charters",
+    "https://www.melbourneplaygrounds.com.au/bright-southern-fly-fishing-adventures",
+    "https://www.melbourneplaygrounds.com.au/wodonga-indulgence-flyfishing"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.melbourneplaygrounds.com.au/rip-charters-sorrento",
+      "status": 200,
+      "final_url": "https://www.melbourneplaygrounds.com.au/rip-charters-sorrento",
+      "bytes": 52280
+    },
+    {
+      "page": "https://www.melbourneplaygrounds.com.au/proline-fishing-charters-sorrento",
+      "status": 200,
+      "final_url": "https://www.melbourneplaygrounds.com.au/proline-fishing-charters-sorrento",
+      "bytes": 51487
+    },
+    {
+      "page": "https://www.melbourneplaygrounds.com.au/impulse-charters-queenscliff",
+      "status": 200,
+      "final_url": "https://www.melbourneplaygrounds.com.au/impulse-charters-queenscliff",
+      "bytes": 51480
+    },
+    {
+      "page": "https://www.melbourneplaygrounds.com.au/game-and-recreational-fishing-charters-sorrento",
+      "status": 200,
+      "final_url": "https://www.melbourneplaygrounds.com.au/game-and-recreational-fishing-charters-sorrento",
+      "bytes": 51205
+    },
+    {
+      "page": "https://www.melbourneplaygrounds.com.au/ace-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.melbourneplaygrounds.com.au/ace-fishing-charters",
+      "bytes": 51201
+    },
+    {
+      "page": "https://www.melbourneplaygrounds.com.au/bagout-fishing-charters-carrum",
+      "status": 200,
+      "final_url": "https://www.melbourneplaygrounds.com.au/bagout-fishing-charters-carrum",
+      "bytes": 50734
+    },
+    {
+      "page": "https://www.melbourneplaygrounds.com.au/reel-time-fishing",
+      "status": 200,
+      "final_url": "https://www.melbourneplaygrounds.com.au/reel-time-fishing",
+      "bytes": 51306
+    },
+    {
+      "page": "https://www.melbourneplaygrounds.com.au/bay-fish-n-trips",
+      "status": 200,
+      "final_url": "https://www.melbourneplaygrounds.com.au/bay-fish-n-trips",
+      "bytes": 51243
+    },
+    {
+      "page": "https://www.melbourneplaygrounds.com.au/able-fishing-and-charters",
+      "status": 200,
+      "final_url": "https://www.melbourneplaygrounds.com.au/able-fishing-and-charters",
+      "bytes": 50880
+    },
+    {
+      "page": "https://www.melbourneplaygrounds.com.au/joe-farr-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.melbourneplaygrounds.com.au/joe-farr-fishing-charters",
+      "bytes": 51000
+    },
+    {
+      "page": "https://www.melbourneplaygrounds.com.au/bright-southern-fly-fishing-adventures",
+      "status": 200,
+      "final_url": "https://www.melbourneplaygrounds.com.au/bright-southern-fly-fishing-adventures",
+      "bytes": 52252
+    },
+    {
+      "page": "https://www.melbourneplaygrounds.com.au/wodonga-indulgence-flyfishing",
+      "status": 200,
+      "final_url": "https://www.melbourneplaygrounds.com.au/wodonga-indulgence-flyfishing",
+      "bytes": 51709
+    }
+  ]
+}

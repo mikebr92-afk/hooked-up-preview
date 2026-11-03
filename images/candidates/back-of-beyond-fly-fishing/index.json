@@ -1,0 +1,184 @@
+{
+  "slug": "back-of-beyond-fly-fishing",
+  "request_hash": "f02e58596912",
+  "collected_at": "2026-11-03T22:31:37.563Z",
+  "pages_fetched": [
+    "https://www.backofbeyondflyfishing.com.au/",
+    "https://www.backofbeyondflyfishing.com/",
+    "https://backofbeyondflyfishing.com/",
+    "https://backofbeyondflyfishing.com/guided-trout-fishing",
+    "https://backofbeyondflyfishing.com/guided-murray-cod-fishing",
+    "https://backofbeyondflyfishing.com/hosted-travel",
+    "https://backofbeyondflyfishing.com/your-guides",
+    "https://backofbeyondflyfishing.com/our-rivers-1",
+    "https://backofbeyondflyfishing.com/king-river",
+    "https://backofbeyondflyfishing.com/delatite-river",
+    "https://backofbeyondflyfishing.com/howqua-river",
+    "https://backofbeyondflyfishing.com/jamieson-river"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://i.vimeocdn.com/video/1688884039-9e9682c1afdbdb91deb630ff324118df38586721ee1e24095fbc62a5010fb57c-d_1920x1080?r=pad",
+      "page": "https://www.backofbeyondflyfishing.com/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 1240,
+      "height": 877,
+      "original": "1240x877",
+      "source": "https://img1.wsimg.com/isteam/ip/49ec47e4-e8d4-4f37-993c-7883d1f1711a/Victorian%20High%20country%20(2).png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1240,cg:true",
+      "page": "https://backofbeyondflyfishing.com/guided-trout-fishing",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1240,
+      "height": 932,
+      "original": "1240x932",
+      "source": "https://img1.wsimg.com/isteam/ip/49ec47e4-e8d4-4f37-993c-7883d1f1711a/Victorian%20High%20country%20(3).png/:/cr=t:0%25,l:2.98%25,w:94.04%25,h:100%25/rs=w:1240,h:932.3308270676691,cg:true",
+      "page": "https://backofbeyondflyfishing.com/guided-murray-cod-fishing",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1240,
+      "height": 698,
+      "original": "1240x698",
+      "source": "https://img1.wsimg.com/isteam/ip/49ec47e4-e8d4-4f37-993c-7883d1f1711a/Black%20and%20Gold%20Minimalist%20Thank%20You%20fo-e45a44d.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1240,cg:true",
+      "page": "https://backofbeyondflyfishing.com/hosted-travel",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1240,
+      "height": 620,
+      "original": "1240x620",
+      "source": "https://img1.wsimg.com/isteam/ip/49ec47e4-e8d4-4f37-993c-7883d1f1711a/IMG_1224.jpeg/:/cr=t:16.67%25,l:0%25,w:100%25,h:66.67%25/rs=w:1240,h:620,cg:true",
+      "page": "https://backofbeyondflyfishing.com/our-rivers-1",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1240,
+      "height": 620,
+      "original": "1240x620",
+      "source": "https://img1.wsimg.com/isteam/ip/49ec47e4-e8d4-4f37-993c-7883d1f1711a/DSC03000.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:88.95%25/rs=w:1240,h:620,cg:true",
+      "page": "https://backofbeyondflyfishing.com/king-river",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1240,
+      "height": 620,
+      "original": "1240x620",
+      "source": "https://img1.wsimg.com/isteam/ip/49ec47e4-e8d4-4f37-993c-7883d1f1711a/IMG_0907.jpeg/:/cr=t:16.67%25,l:0%25,w:100%25,h:66.67%25/rs=w:1240,h:620,cg:true",
+      "page": "https://backofbeyondflyfishing.com/delatite-river",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1240,
+      "height": 620,
+      "original": "1240x620",
+      "source": "https://img1.wsimg.com/isteam/ip/49ec47e4-e8d4-4f37-993c-7883d1f1711a/IMG_1200.jpeg/:/cr=t:20.72%25,l:0%25,w:100%25,h:66.67%25/rs=w:1240,h:620,cg:true",
+      "page": "https://backofbeyondflyfishing.com/howqua-river",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.backofbeyondflyfishing.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://www.backofbeyondflyfishing.com/",
+      "status": 200,
+      "final_url": "https://backofbeyondflyfishing.com/",
+      "bytes": 199678
+    },
+    {
+      "page": "https://backofbeyondflyfishing.com/",
+      "status": 200,
+      "final_url": "https://backofbeyondflyfishing.com/",
+      "bytes": 199678
+    },
+    {
+      "page": "https://backofbeyondflyfishing.com/guided-trout-fishing",
+      "status": 200,
+      "final_url": "https://backofbeyondflyfishing.com/guided-trout-fishing",
+      "bytes": 201328
+    },
+    {
+      "page": "https://backofbeyondflyfishing.com/guided-murray-cod-fishing",
+      "status": 200,
+      "final_url": "https://backofbeyondflyfishing.com/guided-murray-cod-fishing",
+      "bytes": 228867
+    },
+    {
+      "page": "https://backofbeyondflyfishing.com/hosted-travel",
+      "status": 200,
+      "final_url": "https://backofbeyondflyfishing.com/hosted-travel",
+      "bytes": 161370
+    },
+    {
+      "page": "https://backofbeyondflyfishing.com/your-guides",
+      "status": 200,
+      "final_url": "https://backofbeyondflyfishing.com/your-guides",
+      "bytes": 159421
+    },
+    {
+      "page": "https://backofbeyondflyfishing.com/our-rivers-1",
+      "status": 200,
+      "final_url": "https://backofbeyondflyfishing.com/our-rivers-1",
+      "bytes": 139923
+    },
+    {
+      "page": "https://backofbeyondflyfishing.com/king-river",
+      "status": 200,
+      "final_url": "https://backofbeyondflyfishing.com/king-river",
+      "bytes": 132333
+    },
+    {
+      "page": "https://backofbeyondflyfishing.com/delatite-river",
+      "status": 200,
+      "final_url": "https://backofbeyondflyfishing.com/delatite-river",
+      "bytes": 131062
+    },
+    {
+      "page": "https://backofbeyondflyfishing.com/howqua-river",
+      "status": 200,
+      "final_url": "https://backofbeyondflyfishing.com/howqua-river",
+      "bytes": 131422
+    },
+    {
+      "page": "https://backofbeyondflyfishing.com/jamieson-river",
+      "status": 429,
+      "final_url": "https://backofbeyondflyfishing.com/jamieson-river",
+      "bytes": 0
+    },
+    {
+      "image": "https://img1.wsimg.com/isteam/ip/49ec47e4-e8d4-4f37-993c-7883d1f1711a/blob.png/:/rs=h:103,cg:true,m/qt=q:95",
+      "error": "too small 137x103"
+    },
+    {
+      "dup": "https://i.vimeocdn.com/video/1688884039-9e9682c1afdbdb91deb630ff324118df38586721ee1e24095fbc62a5010fb57c-d"
+    },
+    {
+      "image": "h:309/qt=q:95",
+      "error": "fetch failed"
+    },
+    {
+      "image": "i:true/qt=q:1/ll=n:true",
+      "error": "fetch failed"
+    },
+    {
+      "image": "cg:true",
+      "error": "fetch failed"
+    }
+  ]
+}
