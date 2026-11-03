@@ -1,0 +1,17 @@
+{
+  "slug": "tas-d-tasfish-gamecharter",
+  "request_hash": "7bc1983ba2e9",
+  "collected_at": "2026-11-03T22:24:43.109Z",
+  "pages_fetched": [
+    "https://tasfish.com/124-tuna/471-plan-a-game-fishing-charter-now"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://tasfish.com/124-tuna/471-plan-a-game-fishing-charter-now",
+      "status": 200,
+      "final_url": "https://tasfish.com/124-tuna/471-plan-a-game-fishing-charter-now",
+      "bytes": 48193
+    }
+  ]
+}

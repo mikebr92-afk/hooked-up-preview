@@ -1,0 +1,17 @@
+{
+  "slug": "tas-d-dt-mrflathead",
+  "request_hash": "f47030319aba",
+  "collected_at": "2026-11-03T22:24:40.987Z",
+  "pages_fetched": [
+    "https://discovertasmania.com.au/things-to-do/tours/mrflathead"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://discovertasmania.com.au/things-to-do/tours/mrflathead",
+      "status": 404,
+      "final_url": "https://www.discovertasmania.com.au/things-to-do/tours/mrflathead",
+      "bytes": 275929
+    }
+  ]
+}

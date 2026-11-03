@@ -1,0 +1,17 @@
+{
+  "slug": "tas-d-dt-divers",
+  "request_hash": "bd346658044f",
+  "collected_at": "2026-11-03T22:24:39.213Z",
+  "pages_fetched": [
+    "https://www.discovertasmania.com.au/things-to-do/tours/divers-fishing-charters-hobart"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.discovertasmania.com.au/things-to-do/tours/divers-fishing-charters-hobart",
+      "status": 200,
+      "final_url": "https://www.discovertasmania.com.au/things-to-do/tours/divers-fishing-charters-hobart",
+      "bytes": 344807
+    }
+  ]
+}

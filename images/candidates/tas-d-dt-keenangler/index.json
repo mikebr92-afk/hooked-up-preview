@@ -1,0 +1,17 @@
+{
+  "slug": "tas-d-dt-keenangler",
+  "request_hash": "cccb65a8d793",
+  "collected_at": "2026-11-03T22:24:36.867Z",
+  "pages_fetched": [
+    "https://www.discovertasmania.com.au/things-to-do/tours/keenanglercharters/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.discovertasmania.com.au/things-to-do/tours/keenanglercharters/",
+      "status": 200,
+      "final_url": "https://www.discovertasmania.com.au/things-to-do/tours/keenanglercharters/",
+      "bytes": 311295
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "tas-d-centralhighlands",
+  "request_hash": "20dd752346a7",
+  "collected_at": "2026-11-03T22:24:14.625Z",
+  "pages_fetched": [
+    "https://centralhighlands.tas.gov.au/fishing-in-the-central-highlands/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://centralhighlands.tas.gov.au/fishing-in-the-central-highlands/",
+      "status": 500,
+      "final_url": "https://centralhighlands.tas.gov.au/fishing-in-the-central-highlands",
+      "bytes": 34
+    }
+  ]
+}

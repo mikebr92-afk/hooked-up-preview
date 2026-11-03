@@ -1,0 +1,94 @@
+{
+  "slug": "tas-d-ifs-advice",
+  "request_hash": "d746d45f627c",
+  "collected_at": "2026-11-03T22:24:13.028Z",
+  "pages_fetched": [
+    "https://ifs.tas.gov.au/get-expert-advice",
+    "https://www.ifs.tas.gov.au/",
+    "https://www.ifs.tas.gov.au/going-fishing",
+    "https://www.ifs.tas.gov.au/fishing-near-me",
+    "https://www.ifs.tas.gov.au/fishing-from-a-boat",
+    "https://www.ifs.tas.gov.au/tasmanian-inland-fishing-code",
+    "https://www.ifs.tas.gov.au/discover-trout-fishing-in-tasmania",
+    "https://www.ifs.tas.gov.au/news/2026/oct/26/complete-the-trout-weekend-2026-survey-and-win-a-200-fishing-tackle-store-voucher",
+    "https://www.ifs.tas.gov.au/about",
+    "https://www.ifs.tas.gov.au/about/advisory-council",
+    "https://www.ifs.tas.gov.au/about/child-and-youth-safety",
+    "https://www.ifs.tas.gov.au/about/freshwater-aquarium-fish"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://ifs.tas.gov.au/get-expert-advice",
+      "status": 200,
+      "final_url": "https://www.ifs.tas.gov.au/get-expert-advice",
+      "bytes": 42698
+    },
+    {
+      "page": "https://www.ifs.tas.gov.au/",
+      "status": 200,
+      "final_url": "https://www.ifs.tas.gov.au/",
+      "bytes": 42541
+    },
+    {
+      "page": "https://www.ifs.tas.gov.au/going-fishing",
+      "status": 200,
+      "final_url": "https://www.ifs.tas.gov.au/going-fishing",
+      "bytes": 38473
+    },
+    {
+      "page": "https://www.ifs.tas.gov.au/fishing-near-me",
+      "status": 200,
+      "final_url": "https://www.ifs.tas.gov.au/fishing-near-me",
+      "bytes": 43496
+    },
+    {
+      "page": "https://www.ifs.tas.gov.au/fishing-from-a-boat",
+      "status": 200,
+      "final_url": "https://www.ifs.tas.gov.au/fishing-from-a-boat",
+      "bytes": 42842
+    },
+    {
+      "page": "https://www.ifs.tas.gov.au/tasmanian-inland-fishing-code",
+      "status": 200,
+      "final_url": "https://www.ifs.tas.gov.au/tasmanian-inland-fishing-code",
+      "bytes": 37987
+    },
+    {
+      "page": "https://www.ifs.tas.gov.au/discover-trout-fishing-in-tasmania",
+      "status": 200,
+      "final_url": "https://www.ifs.tas.gov.au/discover-trout-fishing-in-tasmania",
+      "bytes": 36115
+    },
+    {
+      "page": "https://www.ifs.tas.gov.au/news/2026/oct/26/complete-the-trout-weekend-2026-survey-and-win-a-200-fishing-tackle-store-voucher",
+      "status": 200,
+      "final_url": "https://www.ifs.tas.gov.au/news/2026/oct/26/complete-the-trout-weekend-2026-survey-and-win-a-200-fishing-tackle-store-voucher",
+      "bytes": 36948
+    },
+    {
+      "page": "https://www.ifs.tas.gov.au/about",
+      "status": 200,
+      "final_url": "https://www.ifs.tas.gov.au/about",
+      "bytes": 37319
+    },
+    {
+      "page": "https://www.ifs.tas.gov.au/about/advisory-council",
+      "status": 200,
+      "final_url": "https://www.ifs.tas.gov.au/about/advisory-council",
+      "bytes": 48476
+    },
+    {
+      "page": "https://www.ifs.tas.gov.au/about/child-and-youth-safety",
+      "status": 200,
+      "final_url": "https://www.ifs.tas.gov.au/about/child-and-youth-safety",
+      "bytes": 36412
+    },
+    {
+      "page": "https://www.ifs.tas.gov.au/about/freshwater-aquarium-fish",
+      "status": 200,
+      "final_url": "https://www.ifs.tas.gov.au/about/freshwater-aquarium-fish",
+      "bytes": 61232
+    }
+  ]
+}

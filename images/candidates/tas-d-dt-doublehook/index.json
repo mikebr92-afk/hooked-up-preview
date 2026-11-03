@@ -1,0 +1,17 @@
+{
+  "slug": "tas-d-dt-doublehook",
+  "request_hash": "b58d63ed668c",
+  "collected_at": "2026-11-03T22:24:35.832Z",
+  "pages_fetched": [
+    "https://www.discovertasmania.com.au/things-to-do/tours/tasmania-double-hook-fishing-charters-and-tours/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.discovertasmania.com.au/things-to-do/tours/tasmania-double-hook-fishing-charters-and-tours/",
+      "status": 404,
+      "final_url": "https://www.discovertasmania.com.au/things-to-do/tours/tasmania-double-hook-fishing-charters-and-tours/",
+      "bytes": 275929
+    }
+  ]
+}

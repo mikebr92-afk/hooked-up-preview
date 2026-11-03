@@ -1,0 +1,17 @@
+{
+  "slug": "tas-d-trouttales-links",
+  "request_hash": "88125fd6a412",
+  "collected_at": "2026-11-03T22:24:15.179Z",
+  "pages_fetched": [
+    "https://www.trouttalestasmania.com.au/blog/tasmanian-fishing-links"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.trouttalestasmania.com.au/blog/tasmanian-fishing-links",
+      "status": 200,
+      "final_url": "https://www.trouttalestasmania.com.au/blog/tasmanian-fishing-links",
+      "bytes": 35742
+    }
+  ]
+}

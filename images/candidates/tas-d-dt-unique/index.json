@@ -1,0 +1,17 @@
+{
+  "slug": "tas-d-dt-unique",
+  "request_hash": "27107244a051",
+  "collected_at": "2026-11-03T22:24:38.190Z",
+  "pages_fetched": [
+    "https://discovertasmania.com.au/things-to-do/tours/uniquefishingtours"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://discovertasmania.com.au/things-to-do/tours/uniquefishingtours",
+      "status": 404,
+      "final_url": "https://www.discovertasmania.com.au/things-to-do/tours/uniquefishingtours",
+      "bytes": 275929
+    }
+  ]
+}

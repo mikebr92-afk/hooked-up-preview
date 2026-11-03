@@ -1,0 +1,17 @@
+{
+  "slug": "tas-d-dt-southeast",
+  "request_hash": "0ff136d81b82",
+  "collected_at": "2026-11-03T22:24:39.673Z",
+  "pages_fetched": [
+    "https://discovertasmania.com.au/things-to-do/tours/southeastcharters"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://discovertasmania.com.au/things-to-do/tours/southeastcharters",
+      "status": 200,
+      "final_url": "https://www.discovertasmania.com.au/things-to-do/tours/southeastcharters",
+      "bytes": 315851
+    }
+  ]
+}

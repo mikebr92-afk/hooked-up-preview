@@ -1,0 +1,17 @@
+{
+  "slug": "tas-d-dt-allround",
+  "request_hash": "61a486184ef5",
+  "collected_at": "2026-11-03T22:24:37.881Z",
+  "pages_fetched": [
+    "https://discovertasmania.com.au/things-to-do/tours/allroundguide"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://discovertasmania.com.au/things-to-do/tours/allroundguide",
+      "status": 200,
+      "final_url": "https://www.discovertasmania.com.au/things-to-do/tours/allroundguide",
+      "bytes": 340576
+    }
+  ]
+}

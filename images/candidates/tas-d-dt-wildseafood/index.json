@@ -1,0 +1,17 @@
+{
+  "slug": "tas-d-dt-wildseafood",
+  "request_hash": "a7f5a56df7d8",
+  "collected_at": "2026-11-03T22:24:42.312Z",
+  "pages_fetched": [
+    "https://discovertasmania.com.au/things-to-do/tours/tasmanianwildseafoodadventures"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://discovertasmania.com.au/things-to-do/tours/tasmanianwildseafoodadventures",
+      "status": 200,
+      "final_url": "https://www.discovertasmania.com.au/things-to-do/tours/tasmanianwildseafoodadventures",
+      "bytes": 342940
+    }
+  ]
+}

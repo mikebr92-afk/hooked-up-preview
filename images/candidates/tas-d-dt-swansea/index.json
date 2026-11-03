@@ -1,0 +1,17 @@
+{
+  "slug": "tas-d-dt-swansea",
+  "request_hash": "fc5e77e488ad",
+  "collected_at": "2026-11-03T22:24:41.260Z",
+  "pages_fetched": [
+    "https://www.discovertasmania.com.au/things-to-do/tours/swanseafishingcharterstasmania/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.discovertasmania.com.au/things-to-do/tours/swanseafishingcharterstasmania/",
+      "status": 404,
+      "final_url": "https://www.discovertasmania.com.au/things-to-do/tours/swanseafishingcharterstasmania/",
+      "bytes": 275929
+    }
+  ]
+}
