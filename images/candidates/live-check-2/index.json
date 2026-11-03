@@ -1,0 +1,80 @@
+{
+  "slug": "live-check-2",
+  "request_hash": "120d4a84f676",
+  "collected_at": "2026-11-03T23:16:55.293Z",
+  "pages_fetched": [
+    "https://hookedtrips.com/",
+    "https://hookedtrips.com/fishing-charters/tasmania",
+    "https://hookedtrips.com/fishing-charters/exmouth",
+    "https://hookedtrips.com/fishing-charters/port-phillip",
+    "https://hookedtrips.com/fishing-charters/trout",
+    "https://hookedtrips.com/charters/innkeeper-sportfishing-charters-exmouth",
+    "https://hookedtrips.com/ops/PLAYBOOK.md",
+    "https://hookedtrips.com/.claude/agents/state-wa.md",
+    "https://hookedtrips.com/scripts/listings/qa.mjs",
+    "https://hookedtrips.com/sitemap.xml"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://hookedtrips.com/",
+      "status": 200,
+      "final_url": "https://hookedtrips.com/",
+      "bytes": 756815
+    },
+    {
+      "page": "https://hookedtrips.com/fishing-charters/tasmania",
+      "status": 200,
+      "final_url": "https://hookedtrips.com/fishing-charters/tasmania",
+      "bytes": 772035
+    },
+    {
+      "page": "https://hookedtrips.com/fishing-charters/exmouth",
+      "status": 200,
+      "final_url": "https://hookedtrips.com/fishing-charters/exmouth",
+      "bytes": 771988
+    },
+    {
+      "page": "https://hookedtrips.com/fishing-charters/port-phillip",
+      "status": 200,
+      "final_url": "https://hookedtrips.com/fishing-charters/port-phillip",
+      "bytes": 776139
+    },
+    {
+      "page": "https://hookedtrips.com/fishing-charters/trout",
+      "status": 200,
+      "final_url": "https://hookedtrips.com/fishing-charters/trout",
+      "bytes": 765333
+    },
+    {
+      "page": "https://hookedtrips.com/charters/innkeeper-sportfishing-charters-exmouth",
+      "status": 200,
+      "final_url": "https://hookedtrips.com/charters/innkeeper-sportfishing-charters-exmouth",
+      "bytes": 782978
+    },
+    {
+      "page": "https://hookedtrips.com/ops/PLAYBOOK.md",
+      "status": 200,
+      "final_url": "https://hookedtrips.com/ops/PLAYBOOK.md",
+      "bytes": 748064
+    },
+    {
+      "page": "https://hookedtrips.com/.claude/agents/state-wa.md",
+      "status": 200,
+      "final_url": "https://hookedtrips.com/.claude/agents/state-wa.md",
+      "bytes": 748064
+    },
+    {
+      "page": "https://hookedtrips.com/scripts/listings/qa.mjs",
+      "status": 200,
+      "final_url": "https://hookedtrips.com/scripts/listings/qa.mjs",
+      "bytes": 748064
+    },
+    {
+      "page": "https://hookedtrips.com/sitemap.xml",
+      "status": 200,
+      "final_url": "https://hookedtrips.com/sitemap.xml",
+      "bytes": 24207
+    }
+  ]
+}
