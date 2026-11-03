@@ -1,0 +1,304 @@
+{
+  "slug": "pelican-charters",
+  "request_hash": "ef13f68f943f",
+  "collected_at": "2026-11-03T22:34:56.927Z",
+  "pages_fetched": [
+    "https://www.pelicancharters.com.au/",
+    "https://www.pelicancharters.com.au/swan-river-cruise-boat-hire-perth/",
+    "https://www.pelicancharters.com.au/carnac-island-charters/",
+    "https://www.pelicancharters.com.au/boat-hire-perth-to-rottnest-island-wa/",
+    "https://www.pelicancharters.com.au/perth-birthday-boat-hire/",
+    "https://www.pelicancharters.com.au/hens-night-boat-party-perth/",
+    "https://www.pelicancharters.com.au/bucks-party-bucks-night-ideas-games/",
+    "https://www.pelicancharters.com.au/perth-christmas-party-boat-cruises/",
+    "https://www.pelicancharters.com.au/vessels/",
+    "https://www.pelicancharters.com.au/the-pelican/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1200,
+      "height": 675,
+      "original": "1200x675",
+      "source": "https://www.pelicancharters.com.au/wp-content/uploads/2024/04/pelican-charters-luxury-boat-booking-western-australia.webp",
+      "page": "https://www.pelicancharters.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 1000,
+      "height": 425,
+      "original": "1000x425",
+      "source": "https://www.pelicancharters.com.au/wp-content/uploads/2019/10/The-Pelican-e1586262930759.jpg",
+      "page": "https://www.pelicancharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1000,
+      "height": 450,
+      "original": "1000x450",
+      "source": "https://www.pelicancharters.com.au/wp-content/uploads/2019/10/Live-wire-party-boat-hire-e1586255204303.png",
+      "page": "https://www.pelicancharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1024,
+      "height": 680,
+      "original": "1024x680",
+      "source": "https://www.pelicancharters.com.au/wp-content/uploads/2026/06/Perfect-Still-Morning-Cruise.jpg",
+      "page": "https://www.pelicancharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1024,
+      "height": 768,
+      "original": "1024x768",
+      "source": "https://www.pelicancharters.com.au/wp-content/uploads/2026/06/Charter-Boat-Head-On-with-Skyline.jpg",
+      "page": "https://www.pelicancharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1000,
+      "height": 502,
+      "original": "1000x502",
+      "source": "https://www.pelicancharters.com.au/wp-content/uploads/2024/04/Boat-parties-in-Perth.png",
+      "page": "https://www.pelicancharters.com.au/swan-river-cruise-boat-hire-perth/",
+      "priority": true
+    },
+    {
+      "file": "c07.webp",
+      "width": 1000,
+      "height": 750,
+      "original": "1000x750",
+      "source": "https://www.pelicancharters.com.au/wp-content/uploads/2024/04/swans-ar-point-walter.jpeg",
+      "page": "https://www.pelicancharters.com.au/swan-river-cruise-boat-hire-perth/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1024,
+      "height": 768,
+      "original": "1024x768",
+      "source": "https://www.pelicancharters.com.au/wp-content/uploads/2026/06/Port-Side-View-and-Patrons-Only-Jetty.jpg",
+      "page": "https://www.pelicancharters.com.au/swan-river-cruise-boat-hire-perth/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1024,
+      "height": 680,
+      "original": "1024x680",
+      "source": "https://www.pelicancharters.com.au/wp-content/uploads/2026/06/sunny-Charter-Boat-Cruise.jpg",
+      "page": "https://www.pelicancharters.com.au/swan-river-cruise-boat-hire-perth/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1200,
+      "height": 404,
+      "original": "1200x404",
+      "source": "https://www.pelicancharters.com.au/wp-content/uploads/2024/03/Swan-river-boat-cruise-2-e1712574095517.jpg",
+      "page": "https://www.pelicancharters.com.au/swan-river-cruise-boat-hire-perth/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1000,
+      "height": 496,
+      "original": "1000x496",
+      "source": "https://www.pelicancharters.com.au/wp-content/uploads/2024/04/swan-river-brewary.png",
+      "page": "https://www.pelicancharters.com.au/swan-river-cruise-boat-hire-perth/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1024,
+      "height": 680,
+      "original": "1024x680",
+      "source": "https://www.pelicancharters.com.au/wp-content/uploads/2026/06/Wildlife-encounters-with-Pelican-Charters.jpg",
+      "page": "https://www.pelicancharters.com.au/carnac-island-charters/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1200,
+      "height": 656,
+      "original": "1200x656",
+      "source": "https://www.pelicancharters.com.au/wp-content/uploads/2024/03/carnac-on-a-sunny-day.jpeg",
+      "page": "https://www.pelicancharters.com.au/carnac-island-charters/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1200,
+      "height": 540,
+      "original": "1200x540",
+      "source": "https://www.pelicancharters.com.au/wp-content/uploads/2024/03/Natural-stone-henge.jpeg",
+      "page": "https://www.pelicancharters.com.au/carnac-island-charters/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1024,
+      "height": 576,
+      "original": "1024x576",
+      "source": "https://www.pelicancharters.com.au/wp-content/uploads/2026/06/The-Pelican-charter-boat-excursion-at-Carnac-Island.jpg",
+      "page": "https://www.pelicancharters.com.au/carnac-island-charters/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1024,
+      "height": 576,
+      "original": "1024x576",
+      "source": "https://www.pelicancharters.com.au/wp-content/uploads/2026/06/Group-boat-excursion-at-Carnac-Island-on-the-Live-Wire-charter.jpg",
+      "page": "https://www.pelicancharters.com.au/carnac-island-charters/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.pelicancharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.pelicancharters.com.au/",
+      "bytes": 1031104
+    },
+    {
+      "page": "https://www.pelicancharters.com.au/swan-river-cruise-boat-hire-perth/",
+      "status": 200,
+      "final_url": "https://www.pelicancharters.com.au/swan-river-cruise-boat-hire-perth/",
+      "bytes": 1100365
+    },
+    {
+      "page": "https://www.pelicancharters.com.au/carnac-island-charters/",
+      "status": 200,
+      "final_url": "https://www.pelicancharters.com.au/carnac-island-charters/",
+      "bytes": 1095398
+    },
+    {
+      "page": "https://www.pelicancharters.com.au/boat-hire-perth-to-rottnest-island-wa/",
+      "status": 200,
+      "final_url": "https://www.pelicancharters.com.au/boat-hire-perth-to-rottnest-island-wa/",
+      "bytes": 1111422
+    },
+    {
+      "page": "https://www.pelicancharters.com.au/perth-birthday-boat-hire/",
+      "status": 200,
+      "final_url": "https://www.pelicancharters.com.au/perth-birthday-boat-hire/",
+      "bytes": 976943
+    },
+    {
+      "page": "https://www.pelicancharters.com.au/hens-night-boat-party-perth/",
+      "status": 200,
+      "final_url": "https://www.pelicancharters.com.au/hens-night-boat-party-perth/",
+      "bytes": 1013051
+    },
+    {
+      "page": "https://www.pelicancharters.com.au/bucks-party-bucks-night-ideas-games/",
+      "status": 200,
+      "final_url": "https://www.pelicancharters.com.au/bucks-party-bucks-night-ideas-games/",
+      "bytes": 1099220
+    },
+    {
+      "page": "https://www.pelicancharters.com.au/perth-christmas-party-boat-cruises/",
+      "status": 200,
+      "final_url": "https://www.pelicancharters.com.au/perth-christmas-party-boat-cruises/",
+      "bytes": 995932
+    },
+    {
+      "page": "https://www.pelicancharters.com.au/vessels/",
+      "status": 200,
+      "final_url": "https://www.pelicancharters.com.au/vessels/",
+      "bytes": 1105434
+    },
+    {
+      "page": "https://www.pelicancharters.com.au/the-pelican/",
+      "status": 200,
+      "final_url": "https://www.pelicancharters.com.au/the-pelican/",
+      "bytes": 1076342
+    },
+    {
+      "image": "https://www.pelicancharters.com.au/wp-content/uploads/2024/03/party-boats-perth-bucks-party-western-australia-e1780828049724.png",
+      "error": "too small 60x19"
+    },
+    {
+      "image": "https://www.pelicancharters.com.au/wp-content/uploads/2024/03/twitter.png",
+      "error": "too small 48x48"
+    },
+    {
+      "image": "https://www.pelicancharters.com.au/wp-content/uploads/2024/03/fb.png",
+      "error": "too small 48x48"
+    },
+    {
+      "image": "https://www.pelicancharters.com.au/wp-content/uploads/2024/03/linkedin.png",
+      "error": "too small 48x48"
+    },
+    {
+      "image": "https://www.pelicancharters.com.au/wp-content/uploads/2024/03/yelp.png",
+      "error": "too small 48x48"
+    },
+    {
+      "image": "https://www.pelicancharters.com.au/wp-content/uploads/2024/03/youtube.png",
+      "error": "too small 48x48"
+    },
+    {
+      "image": "https://www.pelicancharters.com.au/wp-content/uploads/2019/07/perth-charter-boat-perth-australia.png",
+      "error": "too small 224x224"
+    },
+    {
+      "image": "https://www.pelicancharters.com.au/wp-content/uploads/2019/07/footer-image-pelicancharters.jpeg",
+      "error": "too small 299x168"
+    },
+    {
+      "image": "https://www.pelicancharters.com.au/wp-content/themes/Avada/assets/images/patterns/pattern1.png",
+      "error": "too small 27x27"
+    },
+    {
+      "image": "https://www.pelicancharters.com.au/wp-content/uploads/2024/03/pelican-charters-boat-bookings-perth-western-australia-e1781167469906.png",
+      "error": "too small 110x47"
+    },
+    {
+      "image": "http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C/svg%3E#}https://www.pelicancharters.com.au/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/caption-bg.png",
+      "error": "HTTP 400"
+    },
+    {
+      "image": "http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C/svg%3E#}https://www.pelicancharters.com.au/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/social-bg.png",
+      "error": "HTTP 400"
+    },
+    {
+      "image": "http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C/svg%3E#}https://www.pelicancharters.com.au/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/alert.png",
+      "error": "HTTP 400"
+    },
+    {
+      "image": "http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C/svg%3E#}https://www.pelicancharters.com.au/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/thumb-overlay-play.png",
+      "error": "HTTP 400"
+    },
+    {
+      "image": "https://www.pelicancharters.com.au/wp-content/uploads/2018/07/family-cruises-copy.jpg",
+      "error": "too small 400x269"
+    },
+    {
+      "image": "https://www.pelicancharters.com.au/wp-content/uploads/2018/07/swan-river-boat-cruises.jpg",
+      "error": "too small 400x300"
+    },
+    {
+      "image": "https://www.pelicancharters.com.au/wp-content/uploads/2018/07/swan-river-boat-cruises-400x295.jpg",
+      "error": "too small 400x295"
+    },
+    {
+      "image": "https://www.pelicancharters.com.au/wp-content/uploads/2018/07/family-cruises-copy-200x135.jpg",
+      "error": "too small 200x135"
+    },
+    {
+      "dup": "https://www.pelicancharters.com.au/wp-content/uploads/2024/03/pelican-charters-luxury-boat-booking-western-australia.png"
+    },
+    {
+      "image": "https://pelicancharters.com.au/",
+      "error": "Input buffer contains unsupported image format"
+    }
+  ]
+}

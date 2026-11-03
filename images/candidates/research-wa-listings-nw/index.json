@@ -1,0 +1,52 @@
+{
+  "slug": "research-wa-listings-nw",
+  "request_hash": "feefcf2c74fe",
+  "collected_at": "2026-11-03T22:33:11.296Z",
+  "pages_fetched": [
+    "https://www.visitbroome.com.au/members/wa-fishing-charters",
+    "https://www.australiasnorthwest.com/listing/broome-billfish-fishing-charters/559/",
+    "https://www.visitbroome.com.au/members/akame-sportfishing",
+    "https://www.australiasnorthwest.com/listing/kuri-bay-sport-fishing-and-adventures/53/",
+    "https://www.australiasnorthwest.com/listing/pelican-charters/157/",
+    "https://www.australiasnorthwest.com/listing/apache-charters/218/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.visitbroome.com.au/members/wa-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.visitbroome.com.au/members/wa-fishing-charters",
+      "bytes": 59597
+    },
+    {
+      "page": "https://www.australiasnorthwest.com/listing/broome-billfish-fishing-charters/559/",
+      "status": 200,
+      "final_url": "https://www.australiasnorthwest.com/listing/broome-billfish-fishing-charters/559/",
+      "bytes": 167641
+    },
+    {
+      "page": "https://www.visitbroome.com.au/members/akame-sportfishing",
+      "status": 200,
+      "final_url": "https://www.visitbroome.com.au/members/akame-sportfishing",
+      "bytes": 57513
+    },
+    {
+      "page": "https://www.australiasnorthwest.com/listing/kuri-bay-sport-fishing-and-adventures/53/",
+      "status": 200,
+      "final_url": "https://www.australiasnorthwest.com/listing/kuri-bay-sport-fishing-and-adventures/53/",
+      "bytes": 164210
+    },
+    {
+      "page": "https://www.australiasnorthwest.com/listing/pelican-charters/157/",
+      "status": 200,
+      "final_url": "https://www.australiasnorthwest.com/listing/pelican-charters/157/",
+      "bytes": 163219
+    },
+    {
+      "page": "https://www.australiasnorthwest.com/listing/apache-charters/218/",
+      "status": 200,
+      "final_url": "https://www.australiasnorthwest.com/listing/apache-charters/218/",
+      "bytes": 166138
+    }
+  ]
+}

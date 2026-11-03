@@ -1,43 +1,65 @@
 {
-  "finished_at": "2026-11-03T22:30:16.999Z",
+  "finished_at": "2026-11-03T22:34:56.929Z",
   "summary": [
     {
       "slug": "research-wa-rules",
+      "skipped": true
+    },
+    {
+      "slug": "research-wa-disc-nw",
+      "skipped": true
+    },
+    {
+      "slug": "research-wa-perth-2",
+      "skipped": true
+    },
+    {
+      "slug": "research-wa-misc-2",
+      "skipped": true
+    },
+    {
+      "slug": "all-the-gear-no-idea-sportfishing",
+      "skipped": true
+    },
+    {
+      "slug": "evolution-fishing-charters",
+      "skipped": true
+    },
+    {
+      "slug": "birchys-fishing-tours",
+      "skipped": true
+    },
+    {
+      "slug": "absolute-ocean-charters",
+      "skipped": true
+    },
+    {
+      "slug": "research-wa-rules-2",
+      "candidates": 0,
+      "pages": 4
+    },
+    {
+      "slug": "research-wa-listings-nw",
       "candidates": 0,
       "pages": 6
     },
     {
-      "slug": "research-wa-disc-nw",
-      "candidates": 0,
-      "pages": 4
-    },
-    {
-      "slug": "research-wa-perth-2",
-      "candidates": 0,
-      "pages": 4
-    },
-    {
-      "slug": "research-wa-misc-2",
+      "slug": "research-wa-listings-ex",
       "candidates": 0,
       "pages": 5
     },
     {
-      "slug": "all-the-gear-no-idea-sportfishing",
+      "slug": "reel-teaser-fishing-adventures",
       "candidates": 16,
-      "pages": 9
-    },
-    {
-      "slug": "evolution-fishing-charters",
-      "candidates": 0,
-      "pages": 1
+      "pages": 11
     },
     {
       "slug": "birchys-fishing-tours",
-      "candidates": 0,
-      "pages": 1
+      "candidates": 16,
+      "pages": 8
     },
     {
-      "slug": "absolute-ocean-charters",
+      "slug": "pelican-charters",
       "candidates": 16,
       "pages": 10
     },

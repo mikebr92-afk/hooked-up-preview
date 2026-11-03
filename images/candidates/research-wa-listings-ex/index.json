@@ -1,0 +1,45 @@
+{
+  "slug": "research-wa-listings-ex",
+  "request_hash": "9ffd971fcf97",
+  "collected_at": "2026-11-03T22:33:20.484Z",
+  "pages_fetched": [
+    "https://www.ningaloocentre.com.au/tours/blue-horizon-fishing-charters",
+    "https://www.ningaloocentre.com.au/tours/aquatic-adventure-exmouth-fishing-charters",
+    "https://destinationperth.com.au/page/fishing-perth",
+    "https://www.bluejuicecharters.com.au/fishing-charters/",
+    "https://www.waholidayguide.com.au/mills-charters-hillarys-currently-not-operating"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.ningaloocentre.com.au/tours/blue-horizon-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.ningaloocentre.com.au/tours/blue-horizon-fishing-charters",
+      "bytes": 60528
+    },
+    {
+      "page": "https://www.ningaloocentre.com.au/tours/aquatic-adventure-exmouth-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.ningaloocentre.com.au/tours/aquatic-adventure-exmouth-fishing-charters",
+      "bytes": 49572
+    },
+    {
+      "page": "https://destinationperth.com.au/page/fishing-perth",
+      "status": 200,
+      "final_url": "https://www.destinationperth.com.au/things-to-do/action-and-adventure/fishing/",
+      "bytes": 329575
+    },
+    {
+      "page": "https://www.bluejuicecharters.com.au/fishing-charters/",
+      "status": 200,
+      "final_url": "https://www.bluejuicecharters.com.au/fishing-charters/",
+      "bytes": 27556
+    },
+    {
+      "page": "https://www.waholidayguide.com.au/mills-charters-hillarys-currently-not-operating",
+      "status": 200,
+      "final_url": "https://www.waholidayguide.com.au/explore-wa",
+      "bytes": 542704
+    }
+  ]
+}
