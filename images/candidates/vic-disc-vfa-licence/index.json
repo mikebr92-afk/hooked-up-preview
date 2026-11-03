@@ -1,0 +1,17 @@
+{
+  "slug": "vic-disc-vfa-licence",
+  "request_hash": "29efe61fded4",
+  "collected_at": "2026-11-03T22:22:17.241Z",
+  "pages_fetched": [
+    "https://vfa.vic.gov.au/recreational-fishing/recreational-fishing-licence"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://vfa.vic.gov.au/recreational-fishing/recreational-fishing-licence",
+      "status": 403,
+      "final_url": "https://vfa.vic.gov.au/recreational-fishing/recreational-fishing-licence",
+      "bytes": 5967
+    }
+  ]
+}

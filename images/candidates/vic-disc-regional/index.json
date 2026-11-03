@@ -1,0 +1,45 @@
+{
+  "slug": "vic-disc-regional",
+  "request_hash": "351a96b567f1",
+  "collected_at": "2026-11-03T22:22:25.292Z",
+  "pages_fetched": [
+    "https://www.visiteastgippsland.com.au/lakes-charter-fishing",
+    "https://www.visitthemurray.com.au/see-do/the-river/fishing",
+    "https://racv.com.au/royalauto/travel/victoria/wicked-tuna-fishing-portland-victoria.html",
+    "https://www.visitportland.com.au/",
+    "https://lakemulwalasportfishing.rezdy.com"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.visiteastgippsland.com.au/lakes-charter-fishing",
+      "status": 404,
+      "final_url": "https://www.visiteastgippsland.com.au/lakes-charter-fishing",
+      "bytes": 289176
+    },
+    {
+      "page": "https://www.visitthemurray.com.au/see-do/the-river/fishing",
+      "status": 200,
+      "final_url": "https://www.visitthemurray.com.au/see-do/the-river/fishing",
+      "bytes": 212711
+    },
+    {
+      "page": "https://racv.com.au/royalauto/travel/victoria/wicked-tuna-fishing-portland-victoria.html",
+      "status": 200,
+      "final_url": "https://www.racv.com.au/royalauto/travel.html",
+      "bytes": 159751
+    },
+    {
+      "page": "https://www.visitportland.com.au/",
+      "status": 200,
+      "final_url": "https://www.visitportland.com.au/",
+      "bytes": 183579
+    },
+    {
+      "page": "https://lakemulwalasportfishing.rezdy.com",
+      "status": 403,
+      "final_url": "https://lakemulwalasportfishing.rezdy.com/",
+      "bytes": 5185
+    }
+  ]
+}

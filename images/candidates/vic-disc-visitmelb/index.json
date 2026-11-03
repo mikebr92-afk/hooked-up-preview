@@ -1,0 +1,38 @@
+{
+  "slug": "vic-disc-visitmelb",
+  "request_hash": "354b35fb072f",
+  "collected_at": "2026-11-03T22:22:17.795Z",
+  "pages_fetched": [
+    "https://www.visitmelbourne.com/regions/melbourne/see-and-do/outdoor-and-adventure/fishing.aspx",
+    "https://www.visitmelbourne.com/regions/melbourne/see-and-do/outdoor-and-adventure/fishing.aspx?page=2",
+    "https://www.onlymelbourne.com.au/c-12939/fishing-c-harters",
+    "https://www.weekendnotes.com/best-guided-fishing-charters-melbourne/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.visitmelbourne.com/regions/melbourne/see-and-do/outdoor-and-adventure/fishing.aspx",
+      "status": 403,
+      "final_url": "https://www.visitmelbourne.com/regions/melbourne/see-and-do/outdoor-and-adventure/fishing.aspx",
+      "bytes": 6017
+    },
+    {
+      "page": "https://www.visitmelbourne.com/regions/melbourne/see-and-do/outdoor-and-adventure/fishing.aspx?page=2",
+      "status": 403,
+      "final_url": "https://www.visitmelbourne.com/regions/melbourne/see-and-do/outdoor-and-adventure/fishing.aspx?page=2",
+      "bytes": 6075
+    },
+    {
+      "page": "https://www.onlymelbourne.com.au/c-12939/fishing-c-harters",
+      "status": 403,
+      "final_url": "https://www.onlymelbourne.com.au/c-12939/fishing-c-harters",
+      "bytes": 5668
+    },
+    {
+      "page": "https://www.weekendnotes.com/best-guided-fishing-charters-melbourne/",
+      "status": 403,
+      "final_url": "https://www.weekendnotes.com/best-guided-fishing-charters-melbourne/",
+      "bytes": 4917
+    }
+  ]
+}

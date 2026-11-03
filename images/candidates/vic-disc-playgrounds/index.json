@@ -1,0 +1,38 @@
+{
+  "slug": "vic-disc-playgrounds",
+  "request_hash": "d037b644dcaf",
+  "collected_at": "2026-11-03T22:22:19.845Z",
+  "pages_fetched": [
+    "https://www.melbourneplaygrounds.com.au/westernport-fishing-charters",
+    "https://www.melbourneplaygrounds.com.au/unreel-fishing-charters",
+    "https://www.melbourneplaygrounds.com.au/pro-red-fishing-charters-carrum",
+    "https://www.melbourneplaygrounds.com.au/im-hooked-fishing-charters"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.melbourneplaygrounds.com.au/westernport-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.melbourneplaygrounds.com.au/westernport-fishing-charters",
+      "bytes": 51884
+    },
+    {
+      "page": "https://www.melbourneplaygrounds.com.au/unreel-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.melbourneplaygrounds.com.au/unreel-fishing-charters",
+      "bytes": 51433
+    },
+    {
+      "page": "https://www.melbourneplaygrounds.com.au/pro-red-fishing-charters-carrum",
+      "status": 200,
+      "final_url": "https://www.melbourneplaygrounds.com.au/pro-red-fishing-charters-carrum",
+      "bytes": 53360
+    },
+    {
+      "page": "https://www.melbourneplaygrounds.com.au/im-hooked-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.melbourneplaygrounds.com.au/im-hooked-fishing-charters",
+      "bytes": 53354
+    }
+  ]
+}

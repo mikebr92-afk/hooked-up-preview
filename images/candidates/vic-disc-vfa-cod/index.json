@@ -1,0 +1,24 @@
+{
+  "slug": "vic-disc-vfa-cod",
+  "request_hash": "0a6608778132",
+  "collected_at": "2026-11-03T22:22:17.380Z",
+  "pages_fetched": [
+    "https://vfa.vic.gov.au/recreational-fishing/fishing-rules",
+    "https://vfa.vic.gov.au/recreational-fishing/fishing-rules/closed-seasons"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://vfa.vic.gov.au/recreational-fishing/fishing-rules",
+      "status": 403,
+      "final_url": "https://vfa.vic.gov.au/recreational-fishing/fishing-rules",
+      "bytes": 5901
+    },
+    {
+      "page": "https://vfa.vic.gov.au/recreational-fishing/fishing-rules/closed-seasons",
+      "status": 403,
+      "final_url": "https://vfa.vic.gov.au/recreational-fishing/fishing-rules/closed-seasons",
+      "bytes": 5967
+    }
+  ]
+}

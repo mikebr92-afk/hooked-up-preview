@@ -1,0 +1,38 @@
+{
+  "slug": "vic-disc-fb",
+  "request_hash": "95935c932d48",
+  "collected_at": "2026-11-03T22:22:20.128Z",
+  "pages_fetched": [
+    "https://fishingbooker.com/destinations/location/au/VI/melbourne",
+    "https://fishingbooker.com/destinations/region/au/western-port-bay",
+    "https://fishingbooker.com/destinations/location/au/VI/portland",
+    "https://fishingbooker.com/destinations/location/au/VI/lakes-entrance"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://fishingbooker.com/destinations/location/au/VI/melbourne",
+      "status": 403,
+      "final_url": "https://fishingbooker.com/destinations/location/au/VI/melbourne",
+      "bytes": 5913
+    },
+    {
+      "page": "https://fishingbooker.com/destinations/region/au/western-port-bay",
+      "status": 403,
+      "final_url": "https://fishingbooker.com/destinations/region/au/western-port-bay",
+      "bytes": 5919
+    },
+    {
+      "page": "https://fishingbooker.com/destinations/location/au/VI/portland",
+      "status": 403,
+      "final_url": "https://fishingbooker.com/destinations/location/au/VI/portland",
+      "bytes": 5910
+    },
+    {
+      "page": "https://fishingbooker.com/destinations/location/au/VI/lakes-entrance",
+      "status": 403,
+      "final_url": "https://fishingbooker.com/destinations/location/au/VI/lakes-entrance",
+      "bytes": 5928
+    }
+  ]
+}
