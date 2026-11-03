@@ -122,7 +122,7 @@ for (const r of incoming) {
     id: old ? old.id : `op-${String(nextId++).padStart(3, '0')}`,
     slug: r.slug, name: r.name, status: 'active', hotspot: r._hotspot || '',
     partner_status: old?.partner_status === 'engaged' ? 'engaged' : 'directory', notes: '', featured: false,
-    date_added: old?.date_added || today, verified_at: r._checked || old?.verified_at || today.slice(0, 7), description: r.description,
+    date_added: old?.date_added || today, verified_at: today, description: r.description,
     primary_location: tidyLocation(r.primary_location), location_tags: r.location_tags || [], state: r.state, region_tags: r.region_tags || [],
     departure_address: r.departure_address || '', latitude: r.latitude, longitude: r.longitude,
     primary_species: r.primary_species, all_species: (r.all_species || []).map((s) => ({ name: s.name, season: s.season || '', notes: s.notes || '' })),

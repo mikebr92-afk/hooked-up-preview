@@ -49,6 +49,32 @@ export const LOCS = {
     ],
     season: "The Top End has three key periods. The run-off after the wet season (roughly March to May) is prime barramundi time as fish move through flooded creeks and floodplains. The dry season (May to September) brings stable weather that suits offshore and reef trips. The build-up (October to December) is hot and humid but can produce big barra on lures.",
   },
+  // New states: intro/season below are placeholders until the state agents' sourced guides (data/guides.json)
+  // replace them. A state page only goes live once it has at least one listing.
+  'western-australia': {
+    n: 'Western Australia', short: 'WA', in: 'in Western Australia', st: 'WA', state: 'WA',
+    intro: [
+      "Western Australia has more than 12,000 km of coastline, from the temperate reefs off Perth and Rottnest Island to Ningaloo Reef at Exmouth and the tropical waters of Broome and the Kimberley.",
+      "Charters range from half-day bottom-fishing trips out of Perth to multi-day liveaboards in the Abrolhos Islands and Kimberley barramundi safaris.",
+    ],
+    season: "Seasons vary hugely across the state: the tropical north fishes best in the dry season (about April to October), while the south-west's reef and game fishing peaks in the warmer months. Check each operator's trips for the best time to go.",
+  },
+  'tasmania': {
+    n: 'Tasmania', short: 'Tasmania', in: 'in Tasmania', st: 'TAS', state: 'TAS',
+    intro: [
+      "Tasmania combines cold-water ocean fishing with some of the world's best wild trout fishing. Charters work Storm Bay, the Tasman Peninsula and the East Coast, while professional guides take anglers to the lakes and rivers of the Central Highlands.",
+      "Saltwater trips target southern bluefin tuna, striped trumpeter and flathead; inland guides specialise in sight-fishing for brown and rainbow trout.",
+    ],
+    season: "Southern bluefin tuna are an autumn and early-winter target off the Tasman Peninsula and East Coast, while the trout season in most lakes and rivers runs from spring to autumn. Check each operator's trips for exact timing.",
+  },
+  'victoria': {
+    n: 'Victoria', short: 'Victoria', in: 'in Victoria', st: 'VIC', state: 'VIC',
+    intro: [
+      "Victoria's charter fishing ranges from Port Phillip Bay's famous spring snapper run, minutes from Melbourne, to Western Port, the Gippsland Lakes and the southern bluefin tuna grounds off Portland.",
+      "Inland, guides chase Murray cod on the Murray River and in big impoundments, making Victoria one of the few states where you can fish saltwater and native freshwater species on the same trip.",
+    ],
+    season: "Port Phillip and Western Port snapper fishing peaks in spring and early summer, southern bluefin tuna run off Portland through autumn and winter, and Murray cod have a spring closed season. Check each operator's trips for the best time to go.",
+  },
   'sydney': {
     parent: 'new-south-wales',
     n: 'Sydney', short: 'Sydney', in: 'in Sydney', c: ['sydney', 'cronulla', 'manly'], state: 'NSW',
@@ -462,7 +488,7 @@ export const LOCS = {
 
 for (const [k, L] of Object.entries(LOCS)) L.key = k;
 
-export const STATE_KEYS = ['new-south-wales', 'queensland', 'northern-territory'];
+export const STATE_KEYS = ['new-south-wales', 'queensland', 'victoria', 'tasmania', 'western-australia', 'northern-territory'];
 export const CITY_KEYS = ['sydney', 'gold-coast', 'brisbane', 'sunshine-coast', 'cairns', 'whitsundays', 'port-douglas', 'darwin', 'port-stephens', 'hervey-bay'];
 export const SPECIES_KEYS = Object.keys(LOCS).filter((k) => LOCS[k].kind === 'species');
 export const isSpecies = (L) => L && L.kind === 'species';
@@ -614,7 +640,7 @@ function placesOf(items) {
   return [...m.entries()].sort((a, b) => (a[0].startsWith('elsewhere') - b[0].startsWith('elsewhere')) || b[1] - a[1]);
 }
 
-function speciesGuide(L, items) {
+function speciesGuide(L, items, cards) {
   const st = locStats(items);
   const faq = [];
   const p = priceClause(st);
@@ -624,11 +650,22 @@ function speciesGuide(L, items) {
   faq.push([`When is the best time ${L.in}?`, L.season]);
   faq.push(LICENCE_ANY);
   for (const qa of L.faq || []) faq.push(qa);
-  return { heading: `${L.n}: what to know`, paras: L.intro, sections: L.sections || [], compare: [], compareTitle: '', faq };
+  // Data-driven: where the listed operators for this species/style are, with examples.
+  const byDest = new Map();
+  for (const c of items) {
+    const lf = locFor(c, cards);
+    const label = lf ? lf[1].n : (STATE_NAMES[c.state] || c.state);
+    if (!byDest.has(label)) byDest.set(label, []);
+    byDest.get(label).push(c.name);
+  }
+  const dests = [...byDest.entries()].sort((a, b) => b[1].length - a[1].length).slice(0, 12)
+    .map(([d, names]) => [d, names.length <= 3 ? list(names) : `${names.length} operators, including ${list(names.slice(0, 3))}`]);
+  const auto = dests.length ? [{ h: `Where to book a ${L.noun}`, p: [], items: dests }] : [];
+  return { heading: `${L.n}: what to know`, paras: L.intro, sections: [...auto, ...(L.sections || [])], compare: [], compareTitle: '', faq };
 }
 
-export function locGuide(L, items) {
-  if (isSpecies(L)) return speciesGuide(L, items);
+export function locGuide(L, items, cards) {
+  if (isSpecies(L)) return speciesGuide(L, items, cards);
   const st = locStats(items);
   const faq = [];
   const p = priceClause(st);
@@ -736,6 +773,9 @@ function durationRange(trips) {
   return lo === hi ? hrs(lo) : `${hrs(lo).replace(/ hours?$/, hi < 24 ? '' : ' hours')}${hi < 24 ? '–' : ' – '}${hrs(hi)}`;
 }
 const an = (w) => (/^[aeiou]/i.test(w) ? 'an' : 'a');
+const MONTH_NAMES = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+// "2026-10-29" -> "October 2026"
+export const checkedLabel = (d) => (/^\d{4}-\d{2}/.test(d || '') ? `${MONTH_NAMES[+d.slice(5, 7) - 1]} ${d.slice(0, 4)}` : '');
 const capacityOf = (op) => Math.max(0, op.max_capacity || 0, ...(op.trips || []).map((t) => t.max_group || 0));
 function townOf(op) {
   const t = (op.primary_location || '').split(',')[0].trim();
@@ -766,6 +806,16 @@ function seasonOf(op, name) {
   return s && s.season ? s.season : '';
 }
 
+// Descriptive alt text for gallery photos: "Saltwater Playground Co. fishing charter, Hervey Bay — photo 2".
+export function photoAlt(op, i = 0, cards) {
+  const p = charterPlace(op, cards);
+  const where = p.L ? p.L.short : townOf(op);
+  const sp = (op.primary_species || [])[0];
+  return i === 0
+    ? `${op.name} fishing charter${where ? `, ${where}` : ''}${sp ? ` — ${sp.toLowerCase().replace(/^./, (c) => c.toUpperCase())} fishing` : ''}`
+    : `${op.name} fishing charter${where ? `, ${where}` : ''} — photo ${i + 1}`;
+}
+
 export function charterGuide(op, cards) {
   const place = charterPlace(op, cards);
   const trips = op.trips || [];
@@ -790,6 +840,7 @@ export function charterGuide(op, cards) {
   const boat = [op.boat_name, [op.boat_length_m && `${op.boat_length_m}m`, op.boat_type].filter(Boolean).join(' ')].filter(Boolean);
   if (boat.length) facts.push(['Boat', boat.join(' — ')]);
   if (op.years_in_business) facts.push(['In business', `${op.years_in_business}+ years`]);
+  if (checkedLabel(op.verified_at)) facts.push(['Listing checked', `${checkedLabel(op.verified_at)}, against the operator's own website`]);
 
   const N = op.name;
   const faq = [];
@@ -920,11 +971,14 @@ export function charterMeta(op, cards) {
     });
   }
   const trail = charterTrail(op, cards);
+  const webPage = { '@type': 'WebPage', '@id': url + '#webpage', url, name: title, isPartOf: { '@id': SITE + '/#website' },
+    about: { '@id': url + '#business' }, inLanguage: 'en-AU', ...(op.verified_at ? { dateModified: op.verified_at } : {}),
+    ...(image && image.url ? { primaryImageOfPage: { '@type': 'ImageObject', url: image.url } } : {}) };
   const faqLd = { '@type': 'FAQPage', '@id': url + '#faq', mainEntity: g.faq.map(([q, a]) => ({ '@type': 'Question', name: q, acceptedAnswer: { '@type': 'Answer', text: a } })) };
 
   return {
     title, desc, path, robots: ROBOTS_INDEX, image,
-    ld: { '@context': 'https://schema.org', '@graph': [biz, crumbs(trail), faqLd] },
+    ld: { '@context': 'https://schema.org', '@graph': [webPage, biz, crumbs(trail), faqLd] },
   };
 }
 
@@ -950,14 +1004,15 @@ const norm = (s) => String(s || '').toLowerCase().replace(/[^a-z0-9 ]+/g, ' ').r
 
 // Where the homepage search should go: an exact destination/species page if the
 // query names one, otherwise the filtered charter list.
-export function searchRoute(query, groupSize) {
+export function searchRoute(query, groupSize, cards) {
   const q = norm(query);
+  const ok = (k) => !cards || liveLocKeys(cards).includes(k);
   const gs = groupSize ? `group_size=${encodeURIComponent(groupSize)}` : '';
   if (q) {
     const core = q.split(' ').filter((w) => !STOP.has(w)).join(' ');
     for (const [k, L] of Object.entries(LOCS)) {
       const names = [k.replace(/-/g, ' '), norm(L.n), norm(L.short), ...(L.c || []), ...(L.sp || [])];
-      if (names.includes(core) || names.includes(q)) return `/fishing-charters/${k}` + (gs ? '?' + gs : '');
+      if ((names.includes(core) || names.includes(q)) && ok(k)) return `/fishing-charters/${k}` + (gs ? '?' + gs : '');
     }
   }
   const p = [];
@@ -998,7 +1053,8 @@ export const FILTER_TRIP_TYPES = [['Private', 'Private charter'], ['Shared', 'Sh
 // Suggestions for the homepage search box.
 export function searchSuggestions(cards) {
   const out = new Set();
-  for (const k of [...CITY_KEYS, ...STATE_KEYS]) out.add(LOCS[k].n);
+  const liveKeys = liveLocKeys(cards || []);
+  for (const k of [...CITY_KEYS, ...STATE_KEYS]) if (LOCS[k] && liveKeys.includes(k)) out.add(LOCS[k].n);
   for (const c of activeCards(cards || [])) {
     const town = (c.location || '').split(',')[0].trim();
     if (town) out.add(town);
@@ -1016,18 +1072,46 @@ export function relatedCharters(op, cards, max = 6) {
   return { loc: lf, items: [...near, ...state].slice(0, max) };
 }
 
+// About-page "how we check listings" (shown to people, search engines and AI assistants).
+export function methodology(cards) {
+  const n = activeCards(cards || []).length;
+  return {
+    label: 'Our standards',
+    h: 'How we check every listing',
+    paras: [
+      "Every operator on Hooked Trips is a real, currently trading fishing charter or fishing-guide business. Before a listing goes live we check it against the operator's own website or social pages and its tourism listing, and we only publish details we can source there: trips, prices, boats, departure points and target species.",
+      "We re-check listings regularly and show the month each one was last checked on its page. If we can't confirm a business is still trading, we hold the listing back until we can. Operators can update their listing at any time by emailing hello@hookedtrips.com.",
+    ],
+    items: [
+      [`${n} verified operators`, `across ${stateList(cards)}, each linked to its destination guide`],
+      ['Sourced details only', 'prices and trips are as published by each operator, so confirm the current price when you enquire'],
+      ['No pay-to-play rankings', "listings aren't ordered by who pays us"],
+      ['Enquire direct', 'send an enquiry through Hooked Trips and we pass it straight to the operator'],
+    ],
+  };
+}
+
+// "NSW, Queensland and the NT" — the states that currently have listings.
+const STATE_SHORT = { NSW: 'NSW', QLD: 'Queensland', NT: 'the NT', WA: 'WA', VIC: 'Victoria', TAS: 'Tasmania', SA: 'SA' };
+export function stateList(cards) {
+  const order = ['NSW', 'QLD', 'VIC', 'TAS', 'WA', 'SA', 'NT'];
+  const have = new Set(activeCards(cards || []).map((c) => c.state));
+  const names = order.filter((s) => have.has(s)).map((s) => STATE_SHORT[s]);
+  return names.length ? list(names) : 'Australia';
+}
 export function pageMeta(path, ctx = {}) {
   const n = ctx.count || 0;
+  const where = ctx.cards ? stateList(ctx.cards) : 'NSW, Queensland and the NT';
   const base = { path, robots: ROBOTS_INDEX, image: DEFAULT_IMAGE, ld: null };
   switch (path) {
     case '/':
       return { ...base,
         title: `${BRAND} – Compare & Book Fishing Charters in Australia`,
-        desc: `Find and compare ${n} fishing charters across NSW, Queensland and the NT — reef, game and barramundi trips with prices and target species. Enquire direct.` };
+        desc: `Find and compare ${n} fishing charters across ${where} — reef, game and barramundi trips with prices and target species. Enquire direct.` };
     case '/charters':
       return { ...base,
         title: `Fishing Charters Australia: Compare ${n} Operators | ${BRAND}`,
-        desc: `Browse ${n} fishing charters across NSW, Queensland and the NT. Filter by species, trip type and region, compare prices, then enquire direct with the operator.`,
+        desc: `Browse ${n} fishing charters across ${where}. Filter by species, trip type and region, compare prices, then enquire direct with the operator.`,
         ld: ctx.cards ? { '@context': 'https://schema.org', '@graph': [crumbs([['Home', '/'], ['Fishing Charters', '/charters']]), itemList(ctx.cards)] } : null };
     case '/about':
       return { ...base,
