@@ -1,0 +1,442 @@
+{
+  "slug": "unreel-fishing-charters",
+  "request_hash": "5b9a011d6280",
+  "collected_at": "2026-11-03T22:25:27.141Z",
+  "pages_fetched": [
+    "https://www.unreelfishingcharters.com.au/",
+    "https://www.unreelfishingcharters.com.au/charter-prices-1",
+    "https://www.unreelfishingcharters.com.au/cart",
+    "https://www.unreelfishingcharters.com.au/home-2",
+    "https://www.unreelfishingcharters.com.au/snapper-1",
+    "https://www.unreelfishingcharters.com.au/king-fish-1-1",
+    "https://www.unreelfishingcharters.com.au/king-fish-1-2",
+    "https://www.unreelfishingcharters.com.au/king-george-whiting-1",
+    "https://www.unreelfishingcharters.com.au/squid-1",
+    "https://www.unreelfishingcharters.com.au/shark-1",
+    "https://www.unreelfishingcharters.com.au/reef"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 960,
+      "height": 1280,
+      "original": "960x1280",
+      "source": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/d7a5bbe7-0228-4e8f-8b06-370c72f6c0b8/697261607_1553594583438669_4209188270987887248_n.jpg?format=2500w",
+      "page": "https://www.unreelfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2500x3333",
+      "source": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/1781164539798-486G30IUCDXJB3EXHZQN/image-asset.jpeg?format=2500w",
+      "page": "https://www.unreelfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 640,
+      "height": 1136,
+      "original": "640x1136",
+      "source": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/1781142929278-FU12QPRM9VUP3LMCFC1T/image-asset.jpeg?format=2500w",
+      "page": "https://www.unreelfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2500x3333",
+      "source": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/1780993012350-0US8MI22NCXGCQ26LID8/image-asset.jpeg?format=2500w",
+      "page": "https://www.unreelfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 640,
+      "height": 1136,
+      "original": "640x1136",
+      "source": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/1780805622916-VPOJXMXNOOV12XU14AZ5/image-asset.jpeg?format=2500w",
+      "page": "https://www.unreelfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2500x3333",
+      "source": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/1780636833302-ID97GCZUIFM6TK40UTCE/image-asset.jpeg?format=2500w",
+      "page": "https://www.unreelfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 640,
+      "height": 1136,
+      "original": "640x1136",
+      "source": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/1780636834521-SGPGZ4JC8FB4VNWXC4UQ/image-asset.jpeg?format=2500w",
+      "page": "https://www.unreelfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2500x3333",
+      "source": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/1780636836016-KFIGW3S43OJ9K5S3M6SJ/image-asset.jpeg?format=2500w",
+      "page": "https://www.unreelfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2500x3333",
+      "source": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/1780636837269-C0U6SQM15XIKSDB9HJNN/image-asset.jpeg?format=2500w",
+      "page": "https://www.unreelfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2500x3333",
+      "source": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/1780636838671-G6ILD24JJ8QDKDFEY1D0/image-asset.jpeg?format=2500w",
+      "page": "https://www.unreelfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 640,
+      "height": 1136,
+      "original": "640x1136",
+      "source": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/1780636839709-1L31G1DTQ6JZBIV47UL5/image-asset.jpeg?format=2500w",
+      "page": "https://www.unreelfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 960,
+      "height": 640,
+      "original": "960x640",
+      "source": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/6b4846d1-28e1-48da-8b95-9ec5cb65509f/473522717_1128297139301751_9082336718070903892_n.jpg?format=2500w",
+      "page": "https://www.unreelfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1536x2048",
+      "source": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/a7fc10f2-1980-4c7e-8ba9-83d63b0b484c/501082443_1244922357639228_3746372180434432921_n.jpg?format=2500w",
+      "page": "https://www.unreelfishingcharters.com.au/charter-prices-1",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1536x2048",
+      "source": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/a909794d-8708-47c4-af06-d06a87c6a22e/584676574_1402321098566019_8738884932023333178_n.jpg?format=2500w",
+      "page": "https://www.unreelfishingcharters.com.au/charter-prices-1",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1536x2048",
+      "source": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/8326e511-91b8-45a1-9a36-00046d7df141/064c061e-5f4a-4bcd-a302-24f1d4bded13.jpg?format=2500w",
+      "page": "https://www.unreelfishingcharters.com.au/charter-prices-1",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1488,
+      "height": 2000,
+      "original": "1524x2048",
+      "source": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/dc284eba-4f34-4c86-9301-ba5acefc742e/631797420_1473817231416405_5975810265631805003_n.jpg?format=2500w",
+      "page": "https://www.unreelfishingcharters.com.au/charter-prices-1",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.unreelfishingcharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.unreelfishingcharters.com.au/",
+      "bytes": 386224
+    },
+    {
+      "page": "https://www.unreelfishingcharters.com.au/charter-prices-1",
+      "status": 200,
+      "final_url": "https://www.unreelfishingcharters.com.au/charter-prices-1",
+      "bytes": 443767
+    },
+    {
+      "page": "https://www.unreelfishingcharters.com.au/cart",
+      "status": 200,
+      "final_url": "https://www.unreelfishingcharters.com.au/cart",
+      "bytes": 126404
+    },
+    {
+      "page": "https://www.unreelfishingcharters.com.au/home-2",
+      "status": 200,
+      "final_url": "https://www.unreelfishingcharters.com.au/home-2",
+      "bytes": 194045
+    },
+    {
+      "page": "https://www.unreelfishingcharters.com.au/snapper-1",
+      "status": 200,
+      "final_url": "https://www.unreelfishingcharters.com.au/snapper-1",
+      "bytes": 307542
+    },
+    {
+      "page": "https://www.unreelfishingcharters.com.au/king-fish-1-1",
+      "status": 200,
+      "final_url": "https://www.unreelfishingcharters.com.au/king-fish-1-1",
+      "bytes": 260066
+    },
+    {
+      "page": "https://www.unreelfishingcharters.com.au/king-fish-1-2",
+      "status": 200,
+      "final_url": "https://www.unreelfishingcharters.com.au/king-fish-1-2",
+      "bytes": 411710
+    },
+    {
+      "page": "https://www.unreelfishingcharters.com.au/king-george-whiting-1",
+      "status": 200,
+      "final_url": "https://www.unreelfishingcharters.com.au/king-george-whiting-1",
+      "bytes": 299104
+    },
+    {
+      "page": "https://www.unreelfishingcharters.com.au/squid-1",
+      "status": 200,
+      "final_url": "https://www.unreelfishingcharters.com.au/squid-1",
+      "bytes": 243754
+    },
+    {
+      "page": "https://www.unreelfishingcharters.com.au/shark-1",
+      "status": 200,
+      "final_url": "https://www.unreelfishingcharters.com.au/shark-1",
+      "bytes": 284588
+    },
+    {
+      "page": "https://www.unreelfishingcharters.com.au/reef",
+      "status": 200,
+      "final_url": "https://www.unreelfishingcharters.com.au/reef",
+      "bytes": 245488
+    },
+    {
+      "image": "https://static1.squarespace.com/static/532f7c91e4b06710691c52c7/t/53583e77e4b0859258ea4e60/1781597437847/",
+      "error": "too small 338x165"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/92bb19f2-3001-41c5-ad1f-7c213bd01ac8/570647283_1378767804254682_2317630822930112940_n.jpg?format=2500w",
+      "error": "too small 414x414"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/92bb19f2-3001-41c5-ad1f-7c213bd01ac8/570647283_1378767804254682_2317630822930112940_n.jpg",
+      "error": "too small 414x414"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/f55a98e4-5bbb-40c8-96b5-865252a4ad5b/634694772_1475746634556798_3623545128649390164_n.jpg?format=2500w",
+      "error": "too small 414x414"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/f55a98e4-5bbb-40c8-96b5-865252a4ad5b/634694772_1475746634556798_3623545128649390164_n.jpg",
+      "error": "too small 414x414"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/35559fe0-8f31-4736-a45a-6459e5c4b6f7/475111400_1139295108201954_1764240035972871630_n.jpg?format=2500w",
+      "error": "too small 414x414"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/35559fe0-8f31-4736-a45a-6459e5c4b6f7/475111400_1139295108201954_1764240035972871630_n.jpg",
+      "error": "too small 414x414"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/77c8e3b6-0314-4e3b-82ed-41cc56277f99/536281083_1320684980062965_4943238147553542085_n.jpg?format=2500w",
+      "error": "too small 414x414"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/77c8e3b6-0314-4e3b-82ed-41cc56277f99/536281083_1320684980062965_4943238147553542085_n.jpg",
+      "error": "too small 414x414"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/1781164539798-486G30IUCDXJB3EXHZQN/image-asset.jpeg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/1780993012350-0US8MI22NCXGCQ26LID8/image-asset.jpeg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/1780636833302-ID97GCZUIFM6TK40UTCE/image-asset.jpeg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/1780636836016-KFIGW3S43OJ9K5S3M6SJ/image-asset.jpeg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/1780636837269-C0U6SQM15XIKSDB9HJNN/image-asset.jpeg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/1780636838671-G6ILD24JJ8QDKDFEY1D0/image-asset.jpeg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/92bb19f2-3001-41c5-ad1f-7c213bd01ac8/570647283_1378767804254682_2317630822930112940_n.jpg?format=100w",
+      "error": "too small 100x100"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/92bb19f2-3001-41c5-ad1f-7c213bd01ac8/570647283_1378767804254682_2317630822930112940_n.jpg?format=300w",
+      "error": "too small 300x300"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/92bb19f2-3001-41c5-ad1f-7c213bd01ac8/570647283_1378767804254682_2317630822930112940_n.jpg?format=500w",
+      "error": "too small 414x414"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/92bb19f2-3001-41c5-ad1f-7c213bd01ac8/570647283_1378767804254682_2317630822930112940_n.jpg?format=750w",
+      "error": "too small 414x414"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/92bb19f2-3001-41c5-ad1f-7c213bd01ac8/570647283_1378767804254682_2317630822930112940_n.jpg?format=1000w",
+      "error": "too small 414x414"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/92bb19f2-3001-41c5-ad1f-7c213bd01ac8/570647283_1378767804254682_2317630822930112940_n.jpg?format=1500w",
+      "error": "too small 414x414"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/d7a5bbe7-0228-4e8f-8b06-370c72f6c0b8/697261607_1553594583438669_4209188270987887248_n.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/d7a5bbe7-0228-4e8f-8b06-370c72f6c0b8/697261607_1553594583438669_4209188270987887248_n.jpg?format=100w",
+      "error": "too small 100x133"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/d7a5bbe7-0228-4e8f-8b06-370c72f6c0b8/697261607_1553594583438669_4209188270987887248_n.jpg?format=300w",
+      "error": "too small 300x400"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/d7a5bbe7-0228-4e8f-8b06-370c72f6c0b8/697261607_1553594583438669_4209188270987887248_n.jpg?format=500w",
+      "error": "too small 500x667"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/d7a5bbe7-0228-4e8f-8b06-370c72f6c0b8/697261607_1553594583438669_4209188270987887248_n.jpg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/d7a5bbe7-0228-4e8f-8b06-370c72f6c0b8/697261607_1553594583438669_4209188270987887248_n.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/d7a5bbe7-0228-4e8f-8b06-370c72f6c0b8/697261607_1553594583438669_4209188270987887248_n.jpg?format=1500w"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/f55a98e4-5bbb-40c8-96b5-865252a4ad5b/634694772_1475746634556798_3623545128649390164_n.jpg?format=100w",
+      "error": "too small 100x100"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/f55a98e4-5bbb-40c8-96b5-865252a4ad5b/634694772_1475746634556798_3623545128649390164_n.jpg?format=300w",
+      "error": "too small 300x300"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/f55a98e4-5bbb-40c8-96b5-865252a4ad5b/634694772_1475746634556798_3623545128649390164_n.jpg?format=500w",
+      "error": "too small 414x414"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/f55a98e4-5bbb-40c8-96b5-865252a4ad5b/634694772_1475746634556798_3623545128649390164_n.jpg?format=750w",
+      "error": "too small 414x414"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/f55a98e4-5bbb-40c8-96b5-865252a4ad5b/634694772_1475746634556798_3623545128649390164_n.jpg?format=1000w",
+      "error": "too small 414x414"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/f55a98e4-5bbb-40c8-96b5-865252a4ad5b/634694772_1475746634556798_3623545128649390164_n.jpg?format=1500w",
+      "error": "too small 414x414"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/35559fe0-8f31-4736-a45a-6459e5c4b6f7/475111400_1139295108201954_1764240035972871630_n.jpg?format=100w",
+      "error": "too small 100x100"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/35559fe0-8f31-4736-a45a-6459e5c4b6f7/475111400_1139295108201954_1764240035972871630_n.jpg?format=300w",
+      "error": "too small 300x300"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/35559fe0-8f31-4736-a45a-6459e5c4b6f7/475111400_1139295108201954_1764240035972871630_n.jpg?format=500w",
+      "error": "too small 414x414"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/35559fe0-8f31-4736-a45a-6459e5c4b6f7/475111400_1139295108201954_1764240035972871630_n.jpg?format=750w",
+      "error": "too small 414x414"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/35559fe0-8f31-4736-a45a-6459e5c4b6f7/475111400_1139295108201954_1764240035972871630_n.jpg?format=1000w",
+      "error": "too small 414x414"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/35559fe0-8f31-4736-a45a-6459e5c4b6f7/475111400_1139295108201954_1764240035972871630_n.jpg?format=1500w",
+      "error": "too small 414x414"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/77c8e3b6-0314-4e3b-82ed-41cc56277f99/536281083_1320684980062965_4943238147553542085_n.jpg?format=100w",
+      "error": "too small 100x100"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/77c8e3b6-0314-4e3b-82ed-41cc56277f99/536281083_1320684980062965_4943238147553542085_n.jpg?format=300w",
+      "error": "too small 300x300"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/77c8e3b6-0314-4e3b-82ed-41cc56277f99/536281083_1320684980062965_4943238147553542085_n.jpg?format=500w",
+      "error": "too small 414x414"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/77c8e3b6-0314-4e3b-82ed-41cc56277f99/536281083_1320684980062965_4943238147553542085_n.jpg?format=750w",
+      "error": "too small 414x414"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/77c8e3b6-0314-4e3b-82ed-41cc56277f99/536281083_1320684980062965_4943238147553542085_n.jpg?format=1000w",
+      "error": "too small 414x414"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/77c8e3b6-0314-4e3b-82ed-41cc56277f99/536281083_1320684980062965_4943238147553542085_n.jpg?format=1500w",
+      "error": "too small 414x414"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/1781142929278-FU12QPRM9VUP3LMCFC1T/image-asset.jpeg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/1780805622916-VPOJXMXNOOV12XU14AZ5/image-asset.jpeg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/1780636834521-SGPGZ4JC8FB4VNWXC4UQ/image-asset.jpeg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/1780636839709-1L31G1DTQ6JZBIV47UL5/image-asset.jpeg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/6b4846d1-28e1-48da-8b95-9ec5cb65509f/473522717_1128297139301751_9082336718070903892_n.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/6b4846d1-28e1-48da-8b95-9ec5cb65509f/473522717_1128297139301751_9082336718070903892_n.jpg?format=100w",
+      "error": "too small 100x67"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/6b4846d1-28e1-48da-8b95-9ec5cb65509f/473522717_1128297139301751_9082336718070903892_n.jpg?format=300w",
+      "error": "too small 300x200"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/6b4846d1-28e1-48da-8b95-9ec5cb65509f/473522717_1128297139301751_9082336718070903892_n.jpg?format=500w",
+      "error": "too small 500x333"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/6b4846d1-28e1-48da-8b95-9ec5cb65509f/473522717_1128297139301751_9082336718070903892_n.jpg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/6b4846d1-28e1-48da-8b95-9ec5cb65509f/473522717_1128297139301751_9082336718070903892_n.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/532f7c91e4b06710691c52c7/6b4846d1-28e1-48da-8b95-9ec5cb65509f/473522717_1128297139301751_9082336718070903892_n.jpg?format=1500w"
+    }
+  ]
+}

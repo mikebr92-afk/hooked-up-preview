@@ -1,0 +1,94 @@
+{
+  "slug": "vic-disc-lists3",
+  "request_hash": "112798f7e34b",
+  "collected_at": "2026-11-03T22:24:30.736Z",
+  "pages_fetched": [
+    "https://www.visitphillipisland.com.au/products/better-than-working-charters",
+    "https://www.visiteastgippsland.com.au/far-out-fishing-charters",
+    "https://www.visitportland.com.au/mathew-hunt-fishing-charters/",
+    "https://www.visitportland.com.au/listing-category/charters/",
+    "https://www.visitgeelongbellarine.com.au/products/gone-fishing-charters-1",
+    "https://www.visitgeelongbellarine.com.au/products/queenscliff-5-hour-fishing-charters",
+    "https://www.greatvictorianrailtrail.com.au/listing/murray-cod-driftboat-fly-fishing-mansfield/",
+    "https://sites.google.com/view/screwloosecharters/",
+    "https://ben-carthew-ifti.squarespace.com/",
+    "https://saltydogcharters.squarespace.com",
+    "https://www.visitthemurray.com.au/blog/fishing-on-the-murray-river-tips-for-success",
+    "https://www.visitbasscoast.com.au/better-than-working-charters"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.visitphillipisland.com.au/products/better-than-working-charters",
+      "status": 200,
+      "final_url": "https://www.visitphillipisland.com.au/products/better-than-working-charters",
+      "bytes": 215979
+    },
+    {
+      "page": "https://www.visiteastgippsland.com.au/far-out-fishing-charters",
+      "status": 404,
+      "final_url": "https://www.visiteastgippsland.com.au/far-out-fishing-charters",
+      "bytes": 289179
+    },
+    {
+      "page": "https://www.visitportland.com.au/mathew-hunt-fishing-charters/",
+      "status": 200,
+      "final_url": "https://www.visitportland.com.au/mathew-hunt-fishing-charters/",
+      "bytes": 134009
+    },
+    {
+      "page": "https://www.visitportland.com.au/listing-category/charters/",
+      "status": 200,
+      "final_url": "https://www.visitportland.com.au/listing-category/charters/",
+      "bytes": 141868
+    },
+    {
+      "page": "https://www.visitgeelongbellarine.com.au/products/gone-fishing-charters-1",
+      "status": 200,
+      "final_url": "https://www.visitgeelongbellarine.com.au/products/gone-fishing-charters-1",
+      "bytes": 211113
+    },
+    {
+      "page": "https://www.visitgeelongbellarine.com.au/products/queenscliff-5-hour-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.visitgeelongbellarine.com.au/products/queenscliff-5-hour-fishing-charters",
+      "bytes": 190398
+    },
+    {
+      "page": "https://www.greatvictorianrailtrail.com.au/listing/murray-cod-driftboat-fly-fishing-mansfield/",
+      "status": 404,
+      "final_url": "https://www.greatvictorianrailtrail.com.au/listing/murray-cod-driftboat-fly-fishing-mansfield/",
+      "bytes": 60941
+    },
+    {
+      "page": "https://sites.google.com/view/screwloosecharters/",
+      "status": 200,
+      "final_url": "https://sites.google.com/view/screwloosecharters/",
+      "bytes": 121722
+    },
+    {
+      "page": "https://ben-carthew-ifti.squarespace.com/",
+      "status": 200,
+      "final_url": "https://ben-carthew-ifti.squarespace.com/",
+      "bytes": 513008
+    },
+    {
+      "page": "https://saltydogcharters.squarespace.com",
+      "status": 200,
+      "final_url": "https://saltydogcharters.squarespace.com/",
+      "bytes": 203276
+    },
+    {
+      "page": "https://www.visitthemurray.com.au/blog/fishing-on-the-murray-river-tips-for-success",
+      "status": 200,
+      "final_url": "https://www.visitthemurray.com.au/blog",
+      "bytes": 174708
+    },
+    {
+      "page": "https://www.visitbasscoast.com.au/better-than-working-charters",
+      "status": 200,
+      "final_url": "https://www.visitbasscoast.com.au/better-than-working-charters",
+      "bytes": 59675
+    }
+  ]
+}

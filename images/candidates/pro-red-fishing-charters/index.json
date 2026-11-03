@@ -1,0 +1,268 @@
+{
+  "slug": "pro-red-fishing-charters",
+  "request_hash": "9977f1201975",
+  "collected_at": "2026-11-03T22:25:46.449Z",
+  "pages_fetched": [
+    "https://proredfishingcharters.com.au/",
+    "https://proredfishingcharters.com.au/home/",
+    "https://proredfishingcharters.com.au/fishing-charters/",
+    "https://proredfishingcharters.com.au/bookings/",
+    "https://proredfishingcharters.com.au/snapper-fishing-charters-melbourne/",
+    "https://proredfishingcharters.com.au/gummy-shark-fishing-charter-melbourne/",
+    "https://proredfishingcharters.com.au/bluefin-tuna-fishing-charter-melbourne/",
+    "https://proredfishingcharters.com.au/calamari-and-squid-fishing-charter-melbourne/",
+    "https://proredfishingcharters.com.au/shark-fishing-charter-melbourne/",
+    "https://proredfishingcharters.com.au/king-george-whiting-and-mixed-species-fishing-charter/",
+    "https://proredfishingcharters.com.au/fishing-charter-gift-vouchers/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1019,
+      "height": 713,
+      "original": "1019x713",
+      "source": "https://proredfishingcharters.com.au/wp-content/uploads/bb-plugin/cache/Image2-landscape.jpg",
+      "page": "https://proredfishingcharters.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 900,
+      "height": 723,
+      "original": "900x723",
+      "source": "https://proredfishingcharters.com.au/wp-content/uploads/2021/10/bid-snapper-6.jpg",
+      "page": "https://proredfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 900,
+      "height": 675,
+      "original": "900x675",
+      "source": "https://proredfishingcharters.com.au/wp-content/uploads/2026/06/IMG_6950.jpeg",
+      "page": "https://proredfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 900,
+      "height": 638,
+      "original": "900x638",
+      "source": "https://proredfishingcharters.com.au/wp-content/uploads/2022/04/tuna241-1.jpg",
+      "page": "https://proredfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2000x1500",
+      "source": "https://proredfishingcharters.com.au/wp-content/uploads/2026/06/IMG_1298.jpeg",
+      "page": "https://proredfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 900,
+      "height": 675,
+      "original": "900x675",
+      "source": "https://proredfishingcharters.com.au/wp-content/uploads/2026/06/IMG_9688.jpeg",
+      "page": "https://proredfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2000x1500",
+      "source": "https://proredfishingcharters.com.au/wp-content/uploads/2026/06/IMG_1310.jpeg",
+      "page": "https://proredfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 900,
+      "height": 790,
+      "original": "900x790",
+      "source": "https://proredfishingcharters.com.au/wp-content/uploads/2026/06/IMG_9385.jpeg",
+      "page": "https://proredfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1242,
+      "height": 902,
+      "original": "1242x902",
+      "source": "https://proredfishingcharters.com.au/wp-content/uploads/2026/06/IMG_1479.jpeg",
+      "page": "https://proredfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 900,
+      "height": 675,
+      "original": "900x675",
+      "source": "https://proredfishingcharters.com.au/wp-content/uploads/2026/06/IMG_9986.jpeg",
+      "page": "https://proredfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 800,
+      "height": 600,
+      "original": "800x600",
+      "source": "https://proredfishingcharters.com.au/wp-content/uploads/2022/10/IMG_58831-jpg.webp",
+      "page": "https://proredfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 960,
+      "height": 720,
+      "original": "960x720",
+      "source": "https://proredfishingcharters.com.au/wp-content/uploads/2022/10/joe-whiting-jpg.webp",
+      "page": "https://proredfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2000x1500",
+      "source": "https://proredfishingcharters.com.au/wp-content/uploads/2026/06/IMG_1170-1.jpeg",
+      "page": "https://proredfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 900,
+      "height": 675,
+      "original": "900x675",
+      "source": "https://proredfishingcharters.com.au/wp-content/uploads/2026/06/IMG_9617.jpeg",
+      "page": "https://proredfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 900,
+      "height": 675,
+      "original": "900x675",
+      "source": "https://proredfishingcharters.com.au/wp-content/uploads/2026/06/IMG_9373.jpeg",
+      "page": "https://proredfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 900,
+      "height": 694,
+      "original": "900x694",
+      "source": "https://proredfishingcharters.com.au/wp-content/uploads/2026/06/IMG_9120.jpeg",
+      "page": "https://proredfishingcharters.com.au/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://proredfishingcharters.com.au/",
+      "status": 200,
+      "final_url": "https://proredfishingcharters.com.au/",
+      "bytes": 179829
+    },
+    {
+      "page": "https://proredfishingcharters.com.au/home/",
+      "status": 200,
+      "final_url": "https://proredfishingcharters.com.au/",
+      "bytes": 179829
+    },
+    {
+      "page": "https://proredfishingcharters.com.au/fishing-charters/",
+      "status": 200,
+      "final_url": "https://proredfishingcharters.com.au/fishing-charters/",
+      "bytes": 77856
+    },
+    {
+      "page": "https://proredfishingcharters.com.au/bookings/",
+      "status": 200,
+      "final_url": "https://proredfishingcharters.com.au/bookings/",
+      "bytes": 79164
+    },
+    {
+      "page": "https://proredfishingcharters.com.au/snapper-fishing-charters-melbourne/",
+      "status": 200,
+      "final_url": "https://proredfishingcharters.com.au/snapper-fishing-charters-melbourne/",
+      "bytes": 103411
+    },
+    {
+      "page": "https://proredfishingcharters.com.au/gummy-shark-fishing-charter-melbourne/",
+      "status": 200,
+      "final_url": "https://proredfishingcharters.com.au/gummy-shark-fishing-charter-melbourne/",
+      "bytes": 95249
+    },
+    {
+      "page": "https://proredfishingcharters.com.au/bluefin-tuna-fishing-charter-melbourne/",
+      "status": 200,
+      "final_url": "https://proredfishingcharters.com.au/bluefin-tuna-fishing-charter-melbourne/",
+      "bytes": 98409
+    },
+    {
+      "page": "https://proredfishingcharters.com.au/calamari-and-squid-fishing-charter-melbourne/",
+      "status": 200,
+      "final_url": "https://proredfishingcharters.com.au/calamari-and-squid-fishing-charter-melbourne/",
+      "bytes": 98145
+    },
+    {
+      "page": "https://proredfishingcharters.com.au/shark-fishing-charter-melbourne/",
+      "status": 200,
+      "final_url": "https://proredfishingcharters.com.au/shark-fishing-charter-melbourne/",
+      "bytes": 95918
+    },
+    {
+      "page": "https://proredfishingcharters.com.au/king-george-whiting-and-mixed-species-fishing-charter/",
+      "status": 200,
+      "final_url": "https://proredfishingcharters.com.au/king-george-whiting-and-mixed-species-fishing-charter/",
+      "bytes": 95148
+    },
+    {
+      "page": "https://proredfishingcharters.com.au/fishing-charter-gift-vouchers/",
+      "status": 200,
+      "final_url": "https://proredfishingcharters.com.au/fishing-charter-gift-vouchers/",
+      "bytes": 83186
+    },
+    {
+      "image": "https://proredfishingcharters.com.au/wp-content/uploads/2021/09/ChatGPT-Image-Jun-9-2026-02_24_51-PM.png",
+      "error": "too small 900x300"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a-/ALV-UjV7zbsnIUYCX-8ITrFSl6w66arE05ADmJWkjnho_Mj-HOj9p0nP7A=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocJzb2LPNQ7aYnxg4Ceu5slLrNdDW57BJ3PkreAJdfLdZYTvEA=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocLuL4JKncLfty9OB4Hq_GeFbvggL2vy52gQBleAJzOXxjwreQ=w40-h40-c-rp-mo-ba12-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocKgLVBg_wq3EBYPHLSl8xrAyYSHYer7kXFDvKn9Y3LcL3U5RIY=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocI_7Mc3YK21rEeA38O_rxqeXaPBv2G1Z1ZCgx9AJDndYUNvLA=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocLMvMU61xYiImlLYXP0VjVuhqMIolKtZfJpn-KwrJ_OweDzsA=w40-h40-c-rp-mo-ba12-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocIjYEvRYlIeva-QmqaakCnyqlcwddSb6AkMVInV-qInx7anag=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocLL65F7yUsxpfp0Z6SCyh4yWSNkXD629lsaqLQLVrXhuORtPw=w40-h40-c-rp-mo-br100",
+      "error": "too small 40x40"
+    }
+  ]
+}

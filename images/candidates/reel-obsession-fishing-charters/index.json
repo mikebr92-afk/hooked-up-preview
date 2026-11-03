@@ -1,0 +1,111 @@
+{
+  "slug": "reel-obsession-fishing-charters",
+  "request_hash": "01c9a09f5f47",
+  "collected_at": "2026-11-03T22:26:08.325Z",
+  "pages_fetched": [
+    "https://www.reelobsession.com.au/",
+    "https://www.reelobsession.com.au/the-boat.html",
+    "https://www.reelobsession.com.au/gallery.html"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1100,
+      "height": 645,
+      "original": "1100x645",
+      "source": "https://www.reelobsession.com.au/images/blanknew1.png",
+      "page": "https://www.reelobsession.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 1535,
+      "height": 1147,
+      "original": "1535x1147",
+      "source": "https://www.reelobsession.com.au/pluginAppObj/pluginAppObj_4_16/002d-2.jpg",
+      "page": "https://www.reelobsession.com.au/the-boat.html",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1280,
+      "height": 960,
+      "original": "1280x960",
+      "source": "https://www.reelobsession.com.au/pluginAppObj/pluginAppObj_4_16/005-sml-2.jpg",
+      "page": "https://www.reelobsession.com.au/the-boat.html",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.reelobsession.com.au/",
+      "status": 200,
+      "final_url": "https://www.reelobsession.com.au/",
+      "bytes": 35011
+    },
+    {
+      "page": "https://www.reelobsession.com.au/the-boat.html",
+      "status": 200,
+      "final_url": "https://www.reelobsession.com.au/the-boat.html",
+      "bytes": 31313
+    },
+    {
+      "page": "https://www.reelobsession.com.au/gallery.html",
+      "status": 200,
+      "final_url": "https://www.reelobsession.com.au/gallery.html",
+      "bytes": 29030
+    },
+    {
+      "image": "https://www.reelobsession.com.au/images/name2.png",
+      "error": "too small 150x30"
+    },
+    {
+      "image": "https://www.reelobsession.com.au/pluginAppObj/pluginAppObj_4_02/bot_pic1.png",
+      "error": "too small 176x156"
+    },
+    {
+      "image": "https://www.reelobsession.com.au/pluginAppObj/pluginAppObj_4_02/bot_pic2.png",
+      "error": "too small 122x156"
+    },
+    {
+      "image": "https://www.reelobsession.com.au/pluginAppObj/pluginAppObj_4_05/bot_pic3.png",
+      "error": "too small 176x156"
+    },
+    {
+      "image": "https://www.reelobsession.com.au/pluginAppObj/pluginAppObj_4_05/20201205_085710.jpg",
+      "error": "too small 300x225"
+    },
+    {
+      "image": "https://www.reelobsession.com.au/pluginAppObj/pluginAppObj_4_05/bot_pic5.png",
+      "error": "too small 176x156"
+    },
+    {
+      "image": "https://www.reelobsession.com.au/pluginAppObj/pluginAppObj_4_05/seating.jpg",
+      "error": "too small 300x225"
+    },
+    {
+      "image": "https://www.reelobsession.com.au/pluginAppObj/pluginAppObj_4_05/throne.jpg",
+      "error": "too small 300x292"
+    },
+    {
+      "image": "https://www.reelobsession.com.au/pluginAppObj/pluginAppObj_4_11/20201205_085639.jpg",
+      "error": "too small 300x225"
+    },
+    {
+      "image": "https://www.reelobsession.com.au/pluginAppObj/pluginAppObj_4_11/bot_pic7.png",
+      "error": "too small 299x214"
+    },
+    {
+      "image": "https://www.reelobsession.com.au/pluginAppObj/pluginAppObj_4_13/bot_pic8.png",
+      "error": "too small 121x270"
+    },
+    {
+      "image": "https://www.reelobsession.com.au/pluginAppObj/pluginAppObj_4_13/bot_pic9.png",
+      "error": "too small 230x172"
+    },
+    {
+      "image": "https://www.reelobsession.com.au/pluginAppObj/pluginAppObj_4_13/muster.jpg",
+      "error": "too small 300x225"
+    }
+  ]
+}

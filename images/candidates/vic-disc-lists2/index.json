@@ -1,0 +1,80 @@
+{
+  "slug": "vic-disc-lists2",
+  "request_hash": "8b77e47df78c",
+  "collected_at": "2026-11-03T22:24:18.894Z",
+  "pages_fetched": [
+    "https://www.melbourneplaygrounds.com.au/gone-fishing-charters-queenscliff",
+    "https://www.melbourneplaygrounds.com.au/queenscliff-fishing-charters-and-scenic-tours",
+    "https://www.melbourneplaygrounds.com.au/reel-obsession-fishing-charters",
+    "https://melbourneplaygrounds.com.au/port-fairy-southern-coast-charters",
+    "https://www.melbourneplaygrounds.com.au/lakes-entrance-far-out-charters",
+    "https://www.melbourneplaygrounds.com.au/sharkmen-fishing-charters-carrum",
+    "https://melbourneplaygrounds.com.au/relax-go-fishing",
+    "https://melbourneplaygrounds.com.au/inverloch-charters-hire-boats",
+    "https://www.melbourneplaygrounds.com.au/c-54225/",
+    "https://melbourneplaygrounds.com.au/c-54225/fishing-3"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.melbourneplaygrounds.com.au/gone-fishing-charters-queenscliff",
+      "status": 200,
+      "final_url": "https://www.melbourneplaygrounds.com.au/gone-fishing-charters-queenscliff",
+      "bytes": 52370
+    },
+    {
+      "page": "https://www.melbourneplaygrounds.com.au/queenscliff-fishing-charters-and-scenic-tours",
+      "status": 200,
+      "final_url": "https://www.melbourneplaygrounds.com.au/queenscliff-fishing-charters-and-scenic-tours",
+      "bytes": 51274
+    },
+    {
+      "page": "https://www.melbourneplaygrounds.com.au/reel-obsession-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.melbourneplaygrounds.com.au/reel-obsession-fishing-charters",
+      "bytes": 51081
+    },
+    {
+      "page": "https://melbourneplaygrounds.com.au/port-fairy-southern-coast-charters",
+      "status": 200,
+      "final_url": "https://www.melbourneplaygrounds.com.au/port-fairy-southern-coast-charters",
+      "bytes": 48607
+    },
+    {
+      "page": "https://www.melbourneplaygrounds.com.au/lakes-entrance-far-out-charters",
+      "status": 200,
+      "final_url": "https://www.melbourneplaygrounds.com.au/lakes-entrance-far-out-charters",
+      "bytes": 51551
+    },
+    {
+      "page": "https://www.melbourneplaygrounds.com.au/sharkmen-fishing-charters-carrum",
+      "status": 200,
+      "final_url": "https://www.melbourneplaygrounds.com.au/sharkmen-fishing-charters-carrum",
+      "bytes": 51468
+    },
+    {
+      "page": "https://melbourneplaygrounds.com.au/relax-go-fishing",
+      "status": 200,
+      "final_url": "https://www.melbourneplaygrounds.com.au/relax-go-fishing",
+      "bytes": 51705
+    },
+    {
+      "page": "https://melbourneplaygrounds.com.au/inverloch-charters-hire-boats",
+      "status": 200,
+      "final_url": "https://www.melbourneplaygrounds.com.au/inverloch-charters-hire-boats",
+      "bytes": 51652
+    },
+    {
+      "page": "https://www.melbourneplaygrounds.com.au/c-54225/",
+      "status": 200,
+      "final_url": "https://www.melbourneplaygrounds.com.au/c-54225/",
+      "bytes": 177048
+    },
+    {
+      "page": "https://melbourneplaygrounds.com.au/c-54225/fishing-3",
+      "status": 200,
+      "final_url": "https://www.melbourneplaygrounds.com.au/c-54225/fishing-3",
+      "bytes": 177057
+    }
+  ]
+}

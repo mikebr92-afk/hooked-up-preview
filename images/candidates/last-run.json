@@ -1,35 +1,69 @@
 {
-  "finished_at": "2026-11-03T22:22:25.292Z",
+  "finished_at": "2026-11-03T22:26:08.325Z",
   "summary": [
     {
       "slug": "vic-disc-vfa-licence",
-      "candidates": 0,
-      "pages": 1
+      "skipped": true
     },
     {
       "slug": "vic-disc-vfa-cod",
-      "candidates": 0,
-      "pages": 2
+      "skipped": true
     },
     {
       "slug": "vic-disc-visitmelb",
-      "candidates": 0,
-      "pages": 4
+      "skipped": true
     },
     {
       "slug": "vic-disc-playgrounds",
-      "candidates": 0,
-      "pages": 4
+      "skipped": true
     },
     {
       "slug": "vic-disc-fb",
-      "candidates": 0,
-      "pages": 4
+      "skipped": true
     },
     {
       "slug": "vic-disc-regional",
+      "skipped": true
+    },
+    {
+      "slug": "vic-disc-lists2",
       "candidates": 0,
-      "pages": 5
+      "pages": 10
+    },
+    {
+      "slug": "vic-disc-lists3",
+      "candidates": 0,
+      "pages": 12
+    },
+    {
+      "slug": "westernport-fishing-charters",
+      "candidates": 7,
+      "pages": 10
+    },
+    {
+      "slug": "unreel-fishing-charters",
+      "candidates": 16,
+      "pages": 11
+    },
+    {
+      "slug": "pro-red-fishing-charters",
+      "candidates": 16,
+      "pages": 11
+    },
+    {
+      "slug": "im-hooked-fishing-charters",
+      "candidates": 16,
+      "pages": 12
+    },
+    {
+      "slug": "geelong-fishing-charters",
+      "candidates": 3,
+      "pages": 12
+    },
+    {
+      "slug": "reel-obsession-fishing-charters",
+      "candidates": 3,
+      "pages": 3
     }
   ]
 }

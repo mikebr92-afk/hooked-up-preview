@@ -1,0 +1,243 @@
+{
+  "slug": "im-hooked-fishing-charters",
+  "request_hash": "e8367fef0aaf",
+  "collected_at": "2026-11-03T22:25:54.924Z",
+  "pages_fetched": [
+    "https://imhookedfishingcharters.com.au/",
+    "https://imhookedfishingcharters.com.au/fishing-charter-bookings/",
+    "https://imhookedfishingcharters.com.au/about",
+    "https://imhookedfishingcharters.com.au/fishing-tips",
+    "https://imhookedfishingcharters.com.au/fishing-charter-faq",
+    "https://imhookedfishingcharters.com.au/gallery",
+    "https://imhookedfishingcharters.com.au/contact",
+    "https://imhookedfishingcharters.com.au/bookings",
+    "https://imhookedfishingcharters.com.au/bookings?charter=offshore",
+    "https://imhookedfishingcharters.com.au/fishing-charter-bookings",
+    "https://imhookedfishingcharters.com.au/snapper-fishing-charters",
+    "https://imhookedfishingcharters.com.au/charters/bay"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1024,
+      "height": 1024,
+      "original": "1024x1024",
+      "source": "https://imhookedfishingcharters.com.au/assets/Im%20Hooked%20Fishing%20Boat-Bpk5I5VU.webp",
+      "page": "https://imhookedfishingcharters.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 1024,
+      "height": 1024,
+      "original": "1024x1024",
+      "source": "https://imhookedfishingcharters.com.au/assets/Mal%20May%202%20Snapper-C4nAhoys.webp",
+      "page": "https://imhookedfishingcharters.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c03.webp",
+      "width": 1024,
+      "height": 1024,
+      "original": "1024x1024",
+      "source": "https://imhookedfishingcharters.com.au/assets/bay-golden-hour-IuK44IlT.jpg",
+      "page": "https://imhookedfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1024,
+      "height": 1024,
+      "original": "1024x1024",
+      "source": "https://imhookedfishingcharters.com.au/assets/Im%20Hooked%20Sunny%20Charter-CNDXnMYa.webp",
+      "page": "https://imhookedfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1672,
+      "height": 941,
+      "original": "1672x941",
+      "source": "https://imhookedfishingcharters.com.au/assets/Im%20Hooked%20Tuna%20Charters-B2cwOptn.webp",
+      "page": "https://imhookedfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1024,
+      "height": 1024,
+      "original": "1024x1024",
+      "source": "https://imhookedfishingcharters.com.au/assets/Fisherman_holding_a_pink_snapper_1788767795142-Cq4tYGXb.jpg",
+      "page": "https://imhookedfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1204,
+      "height": 1035,
+      "original": "1204x1035",
+      "source": "https://imhookedfishingcharters.com.au/assets/Im%20Hooked%20Group%20Tuna%20Catch-NdQ1bU5n.webp",
+      "page": "https://imhookedfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1920,
+      "height": 1440,
+      "original": "1920x1440",
+      "source": "https://imhookedfishingcharters.com.au/assets/Im%20Hooked%20Boy%20Big%20Snapper-B9rOF-0D.webp",
+      "page": "https://imhookedfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1024,
+      "height": 1024,
+      "original": "1024x1024",
+      "source": "https://imhookedfishingcharters.com.au/assets/Western_Port_Charters_1788765646762-B6G6okRW.jpg",
+      "page": "https://imhookedfishingcharters.com.au/fishing-tips",
+      "priority": true
+    },
+    {
+      "file": "c10.webp",
+      "width": 800,
+      "height": 570,
+      "original": "800x570",
+      "source": "https://imhookedfishingcharters.com.au/assets/bronze-whaler-shark-B9EsohGQ.jpg",
+      "page": "https://imhookedfishingcharters.com.au/fishing-tips",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1024,
+      "height": 1024,
+      "original": "1024x1024",
+      "source": "https://imhookedfishingcharters.com.au/assets/Imhooked_How_To_Catch_Tuna-BQA3T1V_.webp",
+      "page": "https://imhookedfishingcharters.com.au/fishing-tips",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1121,
+      "height": 1024,
+      "original": "1121x1024",
+      "source": "https://imhookedfishingcharters.com.au/assets/Imhooked%20Kingfish%20charters-DOrGdkCG.webp",
+      "page": "https://imhookedfishingcharters.com.au/fishing-tips",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1600,
+      "height": 800,
+      "original": "1600x800",
+      "source": "https://imhookedfishingcharters.com.au/assets/Imhooked_Gummy_Shark-BLSu5PvX.webp",
+      "page": "https://imhookedfishingcharters.com.au/fishing-tips",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1024,
+      "height": 1024,
+      "original": "1024x1024",
+      "source": "https://imhookedfishingcharters.com.au/assets/Imhooked_Whiting-DcMEKIsk.webp",
+      "page": "https://imhookedfishingcharters.com.au/fishing-tips",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1024,
+      "height": 1024,
+      "original": "1024x1024",
+      "source": "https://imhookedfishingcharters.com.au/assets/Imhooked_Squid-CCdPHP6E.webp",
+      "page": "https://imhookedfishingcharters.com.au/fishing-tips",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1024,
+      "height": 1024,
+      "original": "1024x1024",
+      "source": "https://imhookedfishingcharters.com.au/assets/Imhooked_How_To_Catch_Snapper-CaF9QeZ6.webp",
+      "page": "https://imhookedfishingcharters.com.au/fishing-tips",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://imhookedfishingcharters.com.au/",
+      "status": 200,
+      "final_url": "https://imhookedfishingcharters.com.au/",
+      "bytes": 120879
+    },
+    {
+      "page": "https://imhookedfishingcharters.com.au/fishing-charter-bookings/",
+      "status": 200,
+      "final_url": "https://imhookedfishingcharters.com.au/fishing-charter-bookings",
+      "bytes": 91917
+    },
+    {
+      "page": "https://imhookedfishingcharters.com.au/about",
+      "status": 200,
+      "final_url": "https://imhookedfishingcharters.com.au/about",
+      "bytes": 67817
+    },
+    {
+      "page": "https://imhookedfishingcharters.com.au/fishing-tips",
+      "status": 200,
+      "final_url": "https://imhookedfishingcharters.com.au/fishing-tips",
+      "bytes": 76168
+    },
+    {
+      "page": "https://imhookedfishingcharters.com.au/fishing-charter-faq",
+      "status": 200,
+      "final_url": "https://imhookedfishingcharters.com.au/fishing-charter-faq",
+      "bytes": 110698
+    },
+    {
+      "page": "https://imhookedfishingcharters.com.au/gallery",
+      "status": 200,
+      "final_url": "https://imhookedfishingcharters.com.au/gallery",
+      "bytes": 67408
+    },
+    {
+      "page": "https://imhookedfishingcharters.com.au/contact",
+      "status": 200,
+      "final_url": "https://imhookedfishingcharters.com.au/contact",
+      "bytes": 64961
+    },
+    {
+      "page": "https://imhookedfishingcharters.com.au/bookings",
+      "status": 200,
+      "final_url": "https://imhookedfishingcharters.com.au/bookings",
+      "bytes": 2731
+    },
+    {
+      "page": "https://imhookedfishingcharters.com.au/bookings?charter=offshore",
+      "status": 200,
+      "final_url": "https://imhookedfishingcharters.com.au/bookings?charter=offshore",
+      "bytes": 2731
+    },
+    {
+      "page": "https://imhookedfishingcharters.com.au/fishing-charter-bookings",
+      "status": 200,
+      "final_url": "https://imhookedfishingcharters.com.au/fishing-charter-bookings",
+      "bytes": 91917
+    },
+    {
+      "page": "https://imhookedfishingcharters.com.au/snapper-fishing-charters",
+      "status": 200,
+      "final_url": "https://imhookedfishingcharters.com.au/snapper-fishing-charters",
+      "bytes": 73745
+    },
+    {
+      "page": "https://imhookedfishingcharters.com.au/charters/bay",
+      "status": 200,
+      "final_url": "https://imhookedfishingcharters.com.au/charters/bay",
+      "bytes": 66083
+    },
+    {
+      "image": "https://imhookedfishingcharters.com.au/assets/boys-B-HBTcgH.jpg",
+      "error": "too small 490x368"
+    }
+  ]
+}

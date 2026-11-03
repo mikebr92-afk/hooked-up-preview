@@ -1,0 +1,145 @@
+{
+  "slug": "geelong-fishing-charters",
+  "request_hash": "9d0879abac1f",
+  "collected_at": "2026-11-03T22:26:06.836Z",
+  "pages_fetched": [
+    "https://www.geelongfishingcharter.com.au/",
+    "https://www.geelongfishingcharter.com.au/?p=262",
+    "https://www.geelongfishingcharter.com.au/login/",
+    "https://www.geelongfishingcharter.com.au/about/",
+    "https://www.geelongfishingcharter.com.au/charter-information/",
+    "https://www.geelongfishingcharter.com.au/gift-vouchers/",
+    "https://www.geelongfishingcharter.com.au/private-charters/",
+    "https://www.geelongfishingcharter.com.au/contact-us/",
+    "https://www.geelongfishingcharter.com.au/tickets-checkout/",
+    "https://www.geelongfishingcharter.com.au/tickets-order/",
+    "https://www.geelongfishingcharter.com.au/vip-membership/",
+    "https://www.geelongfishingcharter.com.au/all-in-one-map/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1920,
+      "height": 600,
+      "original": "1920x600",
+      "source": "https://www.geelongfishingcharter.com.au/wp-content/themes/Eventum/images/main-banner-3.jpg",
+      "page": "https://www.geelongfishingcharter.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 1920,
+      "height": 600,
+      "original": "1920x600",
+      "source": "https://www.geelongfishingcharter.com.au/wp-content/themes/Eventum/images/main-banner-5.jpg",
+      "page": "https://www.geelongfishingcharter.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 2000,
+      "height": 1321,
+      "original": "5335x3525",
+      "source": "https://www.geelongfishingcharter.com.au/wp-content/uploads/2022/12/2023-ad.jpg",
+      "page": "https://www.geelongfishingcharter.com.au/vip-membership/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.geelongfishingcharter.com.au/",
+      "status": 200,
+      "final_url": "https://www.geelongfishingcharter.com.au/",
+      "bytes": 51571
+    },
+    {
+      "page": "https://www.geelongfishingcharter.com.au/?p=262",
+      "status": 200,
+      "final_url": "https://www.geelongfishingcharter.com.au/charter-information/",
+      "bytes": 68060
+    },
+    {
+      "page": "https://www.geelongfishingcharter.com.au/login/",
+      "status": 200,
+      "final_url": "https://www.geelongfishingcharter.com.au/login/",
+      "bytes": 52939
+    },
+    {
+      "page": "https://www.geelongfishingcharter.com.au/about/",
+      "status": 200,
+      "final_url": "https://www.geelongfishingcharter.com.au/about/",
+      "bytes": 50268
+    },
+    {
+      "page": "https://www.geelongfishingcharter.com.au/charter-information/",
+      "status": 200,
+      "final_url": "https://www.geelongfishingcharter.com.au/charter-information/",
+      "bytes": 68060
+    },
+    {
+      "page": "https://www.geelongfishingcharter.com.au/gift-vouchers/",
+      "status": 200,
+      "final_url": "https://www.geelongfishingcharter.com.au/gift-vouchers/",
+      "bytes": 49393
+    },
+    {
+      "page": "https://www.geelongfishingcharter.com.au/private-charters/",
+      "status": 200,
+      "final_url": "https://www.geelongfishingcharter.com.au/private-charters/",
+      "bytes": 51076
+    },
+    {
+      "page": "https://www.geelongfishingcharter.com.au/contact-us/",
+      "status": 200,
+      "final_url": "https://www.geelongfishingcharter.com.au/contact-us/",
+      "bytes": 55785
+    },
+    {
+      "page": "https://www.geelongfishingcharter.com.au/tickets-checkout/",
+      "status": 200,
+      "final_url": "https://www.geelongfishingcharter.com.au/tickets-checkout/",
+      "bytes": 54431
+    },
+    {
+      "page": "https://www.geelongfishingcharter.com.au/tickets-order/",
+      "status": 200,
+      "final_url": "https://www.geelongfishingcharter.com.au/tickets-order/",
+      "bytes": 51279
+    },
+    {
+      "page": "https://www.geelongfishingcharter.com.au/vip-membership/",
+      "status": 200,
+      "final_url": "https://www.geelongfishingcharter.com.au/vip-membership/",
+      "bytes": 60062
+    },
+    {
+      "page": "https://www.geelongfishingcharter.com.au/all-in-one-map/",
+      "status": 200,
+      "final_url": "https://www.geelongfishingcharter.com.au/all-in-one-map/",
+      "bytes": 46067
+    },
+    {
+      "image": "https://www.geelongfishingcharter.com.au/wp-content/themes/Eventum/images/main",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.geelongfishingcharter.com.au/wp-content/themes/Eventum/images/main-banner",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.geelongfishingcharter.com.au/wp-content/plugins/Tevolution/images/cluster.png",
+      "error": "too small 50x50"
+    },
+    {
+      "image": "https://www.geelongfishingcharter.com.au/wp-content/themes/Directory/images/contact.png",
+      "error": "too small 33x44"
+    },
+    {
+      "image": "https://www.geelongfishingcharter.com.au/wp-content/uploads/2022/12/2023-ad-250x165.jpg",
+      "error": "too small 250x165"
+    },
+    {
+      "dup": "https://www.geelongfishingcharter.com.au/wp-content/uploads/2022/12/2023-ad-768x507.jpg"
+    }
+  ]
+}
