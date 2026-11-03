@@ -496,6 +496,55 @@ export const LOCS = {
     ],
     season: "Most rivers are open from 1 August 2026 to 2 May 2027, and the lower sections of Brumbys Creek and the Macquarie, Meander and South Esk rivers stay open until 30 May 2027. One local river guide says dry fly fishing becomes the norm after early October. The kanamaluka / Tamar below the Charles Street and West Tamar Road bridges is open all year.",
   },
+  // VIC hot spots (full guides in data/guides.json, written by the state-vic agent)
+  "port-phillip": {
+    n: "Melbourne & Port Phillip", short: "Port Phillip", in: "in Melbourne and Port Phillip Bay", parent: "victoria", c: ["port phillip","melbourne","carrum","st kilda","williamstown","sandringham","mornington","queenscliff","geelong","safety beach","blairgowrie"], state: "VIC",
+    intro: [
+      "Port Phillip is Melbourne's home water: a big, mostly sheltered bay ringed by boat ramps from St Kilda and Black Rock round to Carrum, Mornington, Sorrento and Queenscliff, with Geelong's Corio Bay in the west. Charter boats fish the bay for snapper, King George whiting, flathead and calamari, and the bigger boats head out through the Heads into Bass Strait for gummy shark, kingfish and tuna when the weather allows.",
+      "Most Melbourne charters are shared trips of four to five hours, so you can book a single seat or the whole boat. Several operators trailer their boats and choose the ramp a few days out, depending on where the fish are, so confirm the departure point after you book.",
+    ],
+    season: "Spring is the drawcard. Melbourne operators run their main snapper season from about October to December, with some extending it into January or April, and run three sessions a day at the peak. Whiting and calamari fish well for most of the year, gummy sharks are a cooler-season target from Queenscliff, and kingfish and tuna turn up outside the Heads from about January to early April.",
+  },
+  "western-port": {
+    n: "Western Port & Phillip Island", short: "Western Port", in: "in Western Port and around Phillip Island", parent: "victoria", c: ["western port","westernport","hastings","phillip island","san remo","stony point","cowes"], state: "VIC",
+    intro: [
+      "Western Port lies just east of Port Phillip, wrapped around French Island and Phillip Island, with strong tidal currents and deep channels. Hastings is the charter hub, with boats leaving the Hastings boat ramp and Western Port Marina, and Stony Point and Corinella also used. The bay is known for big spring snapper, King George whiting, and gummy sharks in the channels.",
+      "Hastings is also the main launch for Melbourne's offshore trips into Bass Strait, where charters chase kingfish, southern bluefin tuna and mako sharks. Boats range from trailered catamarans for six to eight anglers to a 15 metre vessel that takes groups of up to 20.",
+    ],
+    season: "Snapper move into Western Port in spring, and operators fish them from about September or October, with Hastings often firing early in the season before the run moves into Port Phillip. Whiting is reliable for much of the year, best from about October to May. Gummy sharks are caught year-round, and offshore kingfish and tuna trips run mostly from summer into autumn.",
+  },
+  "portland": {
+    n: "Portland & the South West", short: "Portland", in: "around Portland and Victoria's south west", parent: "victoria", c: ["portland","port fairy","warrnambool"], state: "VIC",
+    intro: [
+      "Portland, in Victoria's far south-west, is the state's best-known southern bluefin tuna port. Nutrient-rich water from the Bonney Upwelling and a short run to deep water bring tuna, sharks and big reef fish within reach, and in autumn and winter many Melbourne charter boats join the local fleet. Port Fairy, about an hour east, is the other main base.",
+      "Local skippers fish all year, bottom-bouncing for snapper, gummy shark, flathead and nannygai and deep-dropping on the shelf, while tuna days are long, often eight to ten hours. Expect a full day offshore and pack for cold, rough conditions.",
+    ],
+    season: "Bluefin tuna are the main event from about March to August. Local Portland operators quote May to August for tuna trips, Melbourne operators list school fish from about April to July and big 'barrel' fish from March to October, and some run Portland trips from May to September. Kingfish are a summer target, especially around Port Fairy, and reef fishing runs all year.",
+  },
+  "gippsland": {
+    n: "Gippsland Lakes & Lakes Entrance", short: "Lakes Entrance", in: "on the Gippsland Lakes", parent: "victoria", c: ["lakes entrance","gippsland","metung","paynesville"], state: "VIC",
+    intro: [
+      "Lakes Entrance sits where the Gippsland Lakes meet Bass Strait, and it is the jumping-off point for East Gippsland's offshore fishing. Charter boats cross the bar from the Skate Park ramp to grounds about 20 to 40 minutes out, targeting snapper, gummy shark and flathead, with sharks and game fish further offshore.",
+      "Behind the entrance, the Gippsland Lakes are one of Victoria's best bream fisheries, with big dusky flathead from the entrance up to Metung and Paynesville. Some Lakes Entrance operators also run crabbing and lake trips, so ask what is running when you visit.",
+    ],
+    season: "Snapper are caught off Lakes Entrance all year, with pinkies arriving in numbers from about May and some of the state's biggest snapper landed between October and April. Gummy sharks build as the water warms towards summer. In the lakes, bream and flathead fish well through the warmer months, and crabbing is best from about October to January.",
+  },
+  "murray-river": {
+    n: "Murray River", short: "Murray River", in: "on the Murray River", parent: "victoria", c: ["murray river","yarrawonga","mulwala","echuca","mildura"], state: "VIC",
+    intro: [
+      "The Murray forms Victoria's northern border and is the heartland of Murray cod fishing. Lake Mulwala, created by Yarrawonga Weir, is one of the country's top cod fisheries, where fish breed naturally among the drowned timber of the old river bed, and the river downstream towards Echuca and Swan Hill also holds big cod.",
+      "Guided trips are small-boat lure fishing for one to three anglers, using surface lures, swimbaits and modern sonar to find fish. Lake Mulwala and the Murray itself are New South Wales waters, so check which licence and rules apply before you fish.",
+    ],
+    season: "Murray cod can be fished from December to August. The closed season runs from 1 September to 30 November, and the river from Yarrawonga Weir to Tocumwal is closed to all fishing during that time. Summer mornings and evenings suit active fish, winter is the time for trophy cod, and golden perch are a good target in spring.",
+  },
+  "eildon": {
+    n: "Lake Eildon & the High Country", short: "Lake Eildon", in: "around Lake Eildon and the High Country", parent: "victoria", c: ["eildon","mansfield","high country"], state: "VIC",
+    intro: [
+      "Lake Eildon and the High Country around Mansfield combine a big lake known for trophy Murray cod and golden perch with some of Victoria's most scenic trout streams. Rivers such as the Delatite, Howqua, Jamieson, King and upper Goulburn are fished on foot by fly anglers, while larger tailrace rivers suit drift boats.",
+      "Guiding here is usually one guide to one or two anglers, with waders and fly gear supplied, and guided river fishing is mostly catch and release.",
+    ],
+    season: "Lake Eildon has no Murray cod closed season, so cod can be chased all year there, though more are caught in the warmer months. In rivers, cod follow the statewide closure from 1 September to 30 November, and guided cod drift trips run December to April. Trout rivers have their own season, so check the current VFA rules before planning a river trip.",
+  },
   // ── Species / style collections (kind: 'species') ──────────────────────────
   // sp: match operators whose species tags contain any of these · tt: match trip-type tags
   'barramundi': {
@@ -534,6 +583,33 @@ export const LOCS = {
       ["Do I need my own tackle for kingfish?", "No. Operators supply rods, reels and tackle matched to the fish they're targeting. Kingfish are powerful, so expect heavier gear on offshore trips."],
     ],
   },
+  'trout': {
+    kind: 'species', n: 'Trout', short: 'Trout', h1: 'Trout Fishing Guides', in: 'for trout', noun: 'trout fishing guide',
+    sp: ['brown trout', 'rainbow trout', 'trout'],
+    intro: [
+      "Tasmania is one of the world's great wild brown trout destinations, and Victoria's High Country adds river and lake fly fishing within a few hours of Melbourne. Professional guides take anglers sight-fishing on the lakes of Tasmania's Central Highlands, wading the meadow streams around Launceston and the Northern Midlands, and drifting the Derwent near Hobart.",
+      "Most guides supply rods, waders and flies and include tuition, so trips suit first-timers as well as experienced fly anglers. In Tasmania, anyone 14 or older needs their own Inland Fisheries Service angling licence, even on a guided trip.",
+    ],
+    season: "Most Tasmanian trout waters are open from the first Saturday in August to the Sunday nearest 30 April (1 August 2026 to 2 May 2027). Designated rainbow trout waters open in October, and some lakes, including most of Great Lake, are open all year. Guides report dry fly fishing improving through spring and summer.",
+  },
+  'bluefin-tuna': {
+    kind: 'species', n: 'Southern Bluefin Tuna', short: 'Bluefin Tuna', h1: 'Southern Bluefin Tuna Charters', in: 'for southern bluefin tuna', noun: 'bluefin tuna charter',
+    sp: ['southern bluefin tuna'],
+    intro: [
+      "Southern bluefin tuna draw anglers to Victoria's south-west and Tasmania's south-east every year. Charters run out of Portland and Port Fairy, from Western Port and the Port Phillip Heads, and off Tasmania's Tasman Peninsula and Storm Bay, trolling and casting for school and barrel-sized fish.",
+      "Bluefin trips are long offshore days in cold, open water, so they depend on the weather. Most operators target bluefin in season and switch to snapper, kingfish or reef fishing at other times of year.",
+    ],
+    season: "Victorian operators chase bluefin off Western Port and the Heads early in the year and from Portland and the South West from about May, while Tasman Peninsula charters run tuna trips from about March to August. Timing varies from season to season, so check each operator's trips.",
+  },
+  'murray-cod': {
+    kind: 'species', n: 'Murray Cod', short: 'Murray Cod', h1: 'Murray Cod Fishing Guides', in: 'for Murray cod', noun: 'Murray cod fishing guide',
+    sp: ['murray cod'],
+    intro: [
+      "Murray cod are Australia's largest freshwater fish and a prized catch-and-release target. Guides fish Lake Mulwala at Yarrawonga on the Murray River and the waters around Lake Eildon and Mansfield, casting lures and flies to timber and structure.",
+      "Guided trips supply the boat and tackle and put you on water that can take years to learn. Lake Mulwala is New South Wales water, so you need a NSW fishing licence there; Victorian waters need a Victorian licence.",
+    ],
+    season: "Murray cod have a closed season from 1 September to 30 November in most waters to protect spawning fish; Lake Eildon is exempt. On the Murray between Yarrawonga Weir and Tocumwal, all fishing is closed in that period. Outside the closure, guides fish for cod year-round.",
+  },
   'snapper': {
     kind: 'species', n: 'Snapper', short: 'Snapper', h1: 'Snapper Fishing Charters', in: 'for snapper', noun: 'snapper charter',
     sp: ['snapper'],
@@ -563,7 +639,7 @@ export const LOCS = {
 for (const [k, L] of Object.entries(LOCS)) L.key = k;
 
 export const STATE_KEYS = ['new-south-wales', 'queensland', 'victoria', 'tasmania', 'western-australia', 'northern-territory'];
-export const CITY_KEYS = ['sydney', 'gold-coast', 'brisbane', 'sunshine-coast', 'cairns', 'whitsundays', 'port-douglas', 'darwin', 'port-stephens', 'hervey-bay'];
+export const CITY_KEYS = ['sydney', 'port-phillip', 'gold-coast', 'brisbane', 'sunshine-coast', 'cairns', 'whitsundays', 'port-douglas', 'darwin', 'exmouth', 'hobart', 'port-stephens', 'hervey-bay'];
 export const SPECIES_KEYS = Object.keys(LOCS).filter((k) => LOCS[k].kind === 'species');
 export const isSpecies = (L) => L && L.kind === 'species';
 
@@ -595,6 +671,7 @@ const LICENCE = {
   QLD: ["Do I need a fishing licence in Queensland?", "No. Queensland doesn't require a general recreational fishing licence for saltwater fishing, so you won't need one for a reef, offshore or estuary charter. A Stocked Impoundment Permit is only needed for certain freshwater dams. Size and bag limits still apply."],
   WA: ["Do I need a fishing licence on a charter in Western Australia?", "No. WA's fisheries department (DPIRD) says paying guests on licensed charter fishing tours don't need a Recreational Fishing from Boat Licence. Recreational bag and size limits still apply, and West Coast demersal scalefish (such as dhufish and snapper) have special rules and closures. Fishing from your own powered boat does need a licence."],
   TAS: ["Do I need a fishing licence in Tasmania?", "Not for rod-and-line fishing in the sea: Tasmania only requires sea licences for things like rock lobster, abalone, scallops, nets and set lines. Inland waters are different. Anyone 14 or older fishing for trout needs their own Inland Fisheries Service angling licence, including on a guided trip; 48-hour, 7-day, 28-day and season licences are available."],
+  VIC: ["Do I need a fishing licence on a charter in Victoria?", "Usually, yes. Unlike NSW, Victoria has no charter-boat exemption: unless you're personally exempt (for example under 18, aged 70 or over, or holding certain concession cards), you need your own Victorian Recreational Fishing Licence, which you can buy online in minutes. Murray cod also have a closed season from 1 September to 30 November in most waters."],
   NT: ["Do I need a fishing licence in the Northern Territory?", "No. The NT doesn't require a recreational fishing licence. Possession and size limits apply (including for barramundi), and some areas — such as parts of Arnhem Land and other Aboriginal land and waters — need access permits, so check with your operator."],
 };
 
@@ -1123,7 +1200,7 @@ export function fitsGroup(op, size) {
   return cap === 0 || cap >= need;
 }
 
-export const FILTER_SPECIES = ['Barramundi', 'Marlin', 'Kingfish', 'Snapper', 'Golden Snapper', 'Coral Trout', 'Red Emperor', 'Giant Trevally', 'Spanish Mackerel', 'Mahi Mahi', 'Tuna', 'Mangrove Jack', 'Flathead'];
+export const FILTER_SPECIES = ['Barramundi', 'Marlin', 'Kingfish', 'Snapper', 'Golden Snapper', 'Coral Trout', 'Red Emperor', 'Giant Trevally', 'Spanish Mackerel', 'Mahi Mahi', 'Tuna', 'Southern Bluefin Tuna', 'Mangrove Jack', 'Flathead', 'Brown Trout', 'Murray Cod'];
 export const FILTER_TRIP_TYPES = [['Private', 'Private charter'], ['Shared', 'Shared trip'], ['Reef', 'Reef fishing'], ['Game', 'Game fishing'], ['Estuary', 'Estuary fishing'], ['River', 'River fishing']];
 
 // Suggestions for the homepage search box.
@@ -1172,7 +1249,9 @@ const STATE_SHORT = { NSW: 'NSW', QLD: 'Queensland', NT: 'the NT', WA: 'WA', VIC
 export function stateList(cards) {
   const order = ['NSW', 'QLD', 'VIC', 'TAS', 'WA', 'SA', 'NT'];
   const have = new Set(activeCards(cards || []).map((c) => c.state));
-  const names = order.filter((s) => have.has(s)).map((s) => STATE_SHORT[s]);
+  const states = order.filter((s) => have.has(s));
+  // Many states: use the short codes so titles/descriptions stay within ~160 characters.
+  const names = states.map((s) => (states.length > 3 ? (s === 'NT' ? 'the NT' : s) : STATE_SHORT[s]));
   return names.length ? list(names) : 'Australia';
 }
 export function pageMeta(path, ctx = {}) {
@@ -1187,7 +1266,7 @@ export function pageMeta(path, ctx = {}) {
     case '/charters':
       return { ...base,
         title: `Fishing Charters Australia: Compare ${n} Operators | ${BRAND}`,
-        desc: `Browse ${n} fishing charters across ${where}. Filter by species, trip type and region, compare prices, then enquire direct with the operator.`,
+        desc: `Browse ${n} fishing charters across ${where}. Filter by species, trip type and region, compare prices and enquire direct.`,
         ld: ctx.cards ? { '@context': 'https://schema.org', '@graph': [crumbs([['Home', '/'], ['Fishing Charters', '/charters']]), itemList(ctx.cards)] } : null };
     case '/about':
       return { ...base,

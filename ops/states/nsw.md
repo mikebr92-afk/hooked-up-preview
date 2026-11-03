@@ -57,75 +57,75 @@ A destination page goes live at 2+ listings.
 _Generated 2026-11-03 from data/operators.json: 42 live listings._
 
 ### Sydney (`sydney`) — 10 listings, page live
-- `ambition-charters-sydney` — Ambition Game Fishing Charters · Watsons Bay, Sydney · https://ambitioncharters.com.au/ · checked 2026-10
-- `blue-reef-fishing-charters-sydney` — Blue Reef Fishing Charters · Balmain, Sydney · https://www.bluereefcharters.info/ · checked 2026-10
-- `cronulla-reef-fishing-charters` — Cronulla Reef Fishing Charters · Cronulla, Sydney · https://cronullareeffishingcharters.com/ · checked 2026-10
-- `deep-blue-charters-sydney` — Deep Blue Charters · Rose Bay, Sydney · https://deepbluecharters.com.au/ · checked 2026-10
-- `fishabout-tours-sydney` — Fishabout Tours · The Spit, Sydney · https://www.fishaboutsydney.com.au/ · checked 2026-10
-- `reel-adventure-fishing-sydney` — Reel Adventure Fishing · Port Botany, Sydney · https://www.fishsydney.com.au/ · checked 2026-10
-- `sydney-charter-fishing-manly` — Sydney Charter Fishing · Manly, Sydney · https://sydneycharterfishing.com.au/ · checked 2026-10
-- `sydney-fly-fishing` — Sydney Flyfishing Tours · The Spit, Sydney · https://www.sydneyflyfishing.com.au/ · checked 2026-10
-- `sydney-premium-charters-cronulla` — Sydney Premium Charters · Cronulla, Sydney · https://www.sydneypremiumcharters.com.au/ · checked 2026-10
-- `wahoo-fishing-charters-sydney` — Wahoo Fishing Charters · Sydney Harbour, Sydney · https://wahoocharters.com.au/ · checked 2026-10
+- `ambition-charters-sydney` — Ambition Game Fishing Charters · Watsons Bay, Sydney · https://ambitioncharters.com.au/ · checked 2026-10-29
+- `blue-reef-fishing-charters-sydney` — Blue Reef Fishing Charters · Balmain, Sydney · https://www.bluereefcharters.info/ · checked 2026-10-29
+- `cronulla-reef-fishing-charters` — Cronulla Reef Fishing Charters · Cronulla, Sydney · https://cronullareeffishingcharters.com/ · checked 2026-10-29
+- `deep-blue-charters-sydney` — Deep Blue Charters · Rose Bay, Sydney · https://deepbluecharters.com.au/ · checked 2026-10-29
+- `fishabout-tours-sydney` — Fishabout Tours · The Spit, Sydney · https://www.fishaboutsydney.com.au/ · checked 2026-10-29
+- `reel-adventure-fishing-sydney` — Reel Adventure Fishing · Port Botany, Sydney · https://www.fishsydney.com.au/ · checked 2026-10-29
+- `sydney-charter-fishing-manly` — Sydney Charter Fishing · Manly, Sydney · https://sydneycharterfishing.com.au/ · checked 2026-10-29
+- `sydney-fly-fishing` — Sydney Flyfishing Tours · The Spit, Sydney · https://www.sydneyflyfishing.com.au/ · checked 2026-10-29
+- `sydney-premium-charters-cronulla` — Sydney Premium Charters · Cronulla, Sydney · https://www.sydneypremiumcharters.com.au/ · checked 2026-10-29
+- `wahoo-fishing-charters-sydney` — Wahoo Fishing Charters · Sydney Harbour, Sydney · https://wahoocharters.com.au/ · checked 2026-10-29
 
 ### Port Stephens (`port-stephens`) — 5 listings, page live
-- `calypso-fishing-adventures` — Calypso Fishing Adventures · Corlette, Port Stephens · https://www.marlinfishingaustralia.com.au/ · checked 2026-10
-- `fish-port-stephens-estuary-charters` — Fish Port Stephens Estuary Charters · Nelson Bay, Port Stephens · https://fishportstephensestuarycharters.com/ · checked 2026-10
-- `hammerhead-charters-nelson-bay` — Hammerhead Fishing Charters · Nelson Bay, Port Stephens · https://hammerheadcharters.com.au/ · checked 2026-10
-- `pacific-blue-fishing-charters-nelson-bay` — Pacific Blue Fishing Charters · Nelson Bay, Port Stephens · https://pacificbluecharters.com.au/ · checked 2026-10
-- `reel-contagious-charters-port-stephens` — Reel Contagious Charters · Soldiers Point, Port Stephens · https://www.reelcontagiouscharters.com.au/ · checked 2026-10
+- `calypso-fishing-adventures` — Calypso Fishing Adventures · Corlette, Port Stephens · https://www.marlinfishingaustralia.com.au/ · checked 2026-10-29
+- `fish-port-stephens-estuary-charters` — Fish Port Stephens Estuary Charters · Nelson Bay, Port Stephens · https://fishportstephensestuarycharters.com/ · checked 2026-10-29
+- `hammerhead-charters-nelson-bay` — Hammerhead Fishing Charters · Nelson Bay, Port Stephens · https://hammerheadcharters.com.au/ · checked 2026-10-29
+- `pacific-blue-fishing-charters-nelson-bay` — Pacific Blue Fishing Charters · Nelson Bay, Port Stephens · https://pacificbluecharters.com.au/ · checked 2026-10-29
+- `reel-contagious-charters-port-stephens` — Reel Contagious Charters · Soldiers Point, Port Stephens · https://www.reelcontagiouscharters.com.au/ · checked 2026-10-29
 
 ### Batemans Bay & Narooma (`batemans-bay`) — 3 listings, page live
-- `fishbermi-charters` — FishBermi Bermagui Fishing Charters · Bermagui, Batemans Bay & Narooma · https://www.fishbermicharters.com.au/ · checked 2026-10
-- `game-on-charters-batemans-bay` — Game On Charters Batemans Bay · Batemans Bay · https://gameoncharters.net.au/ · checked 2026-10
-- `narooma-charters` — Narooma Charters · Narooma · https://naroomacharters.com.au/ · checked 2026-10
+- `fishbermi-charters` — FishBermi Bermagui Fishing Charters · Bermagui, Batemans Bay & Narooma · https://www.fishbermicharters.com.au/ · checked 2026-10-29
+- `game-on-charters-batemans-bay` — Game On Charters Batemans Bay · Batemans Bay · https://gameoncharters.net.au/ · checked 2026-10-29
+- `narooma-charters` — Narooma Charters · Narooma · https://naroomacharters.com.au/ · checked 2026-10-29
 
 ### Merimbula & Eden (`eden`) — 3 listings, page live
-- `freedom-charters-eden` — Freedom Charters · Eden · https://freedomcharters.com.au/ · checked 2026-10
-- `fishpen-charters-merimbula` — Fishpen Charters · Merimbula · https://fishpen-charters.squarespace.com/ · checked 2026-10
-- `sapphire-coastal-adventures-merimbula` — Sapphire Coastal Adventures · Merimbula · https://www.sapphirecoastaladventures.com.au/ · checked 2026-10
+- `freedom-charters-eden` — Freedom Charters · Eden · https://freedomcharters.com.au/ · checked 2026-10-29
+- `fishpen-charters-merimbula` — Fishpen Charters · Merimbula · https://fishpen-charters.squarespace.com/ · checked 2026-10-29
+- `sapphire-coastal-adventures-merimbula` — Sapphire Coastal Adventures · Merimbula · https://www.sapphirecoastaladventures.com.au/ · checked 2026-10-29
 
 ### Wollongong (`wollongong`) — 3 listings, page live
-- `aquilla-fishing-charters-wollongong` — Aquilla Fishing Charters · Wollongong · https://www.aquillacharters.com.au/ · checked 2026-10
-- `five-island-charters-wollongong` — Five Island Charters · Wollongong · https://www.fiveislandcharters.com.au/ · checked 2026-10
-- `kiama-charter-service` — Kiama Charter Service · Kiama, Wollongong · https://kiamafishing.com.au/ · checked 2026-10
+- `aquilla-fishing-charters-wollongong` — Aquilla Fishing Charters · Wollongong · https://www.aquillacharters.com.au/ · checked 2026-10-29
+- `five-island-charters-wollongong` — Five Island Charters · Wollongong · https://www.fiveislandcharters.com.au/ · checked 2026-10-29
+- `kiama-charter-service` — Kiama Charter Service · Kiama, Wollongong · https://kiamafishing.com.au/ · checked 2026-10-29
 
 ### Ballina & Byron Bay (`ballina-byron`) — 2 listings, page live
-- `byron-bay-charters` — Byron Bay Charters · Brunswick Heads, Ballina & Byron Bay · https://byronbaycharters.com.au/ · checked 2026-10
-- `evans-head-deep-sea-fishing-charters` — Evans Head Deep Sea Fishing Charters · Evans Head, Ballina & Byron Bay · https://www.evansheadfishingcharters.com.au/ · checked 2026-10
+- `byron-bay-charters` — Byron Bay Charters · Brunswick Heads, Ballina & Byron Bay · https://byronbaycharters.com.au/ · checked 2026-10-29
+- `evans-head-deep-sea-fishing-charters` — Evans Head Deep Sea Fishing Charters · Evans Head, Ballina & Byron Bay · https://www.evansheadfishingcharters.com.au/ · checked 2026-10-29
 
 ### Central Coast (`central-coast`) — 2 listings, page live
-- `central-coast-reef-and-game-fishing-charters` — Central Coast Reef & Game Fishing Charters · Terrigal, Central Coast · http://www.reefandgamefishing.com/ · checked 2026-10
-- `terrigal-fishing-tours` — Terrigal Fishing Tours · Hardys Bay, Central Coast · https://terrigalfishingtours.com.au/ · checked 2026-10
+- `central-coast-reef-and-game-fishing-charters` — Central Coast Reef & Game Fishing Charters · Terrigal, Central Coast · http://www.reefandgamefishing.com/ · checked 2026-10-29
+- `terrigal-fishing-tours` — Terrigal Fishing Tours · Hardys Bay, Central Coast · https://terrigalfishingtours.com.au/ · checked 2026-10-29
 
 ### Jervis Bay & Shoalhaven (`jervis-bay`) — 2 listings, page live
-- `escape-fishing-charters-greenwell-point` — Escape Fishing Charters · Greenwell Point, Jervis Bay & Shoalhaven · https://www.escapefishingcharters.com.au/ · checked 2026-10
-- `jervis-bay-fishing-charters-huskisson` — JB Fishing Charters · Huskisson, Jervis Bay & Shoalhaven · https://jbfishingcharters.com.au/ · checked 2026-10
+- `escape-fishing-charters-greenwell-point` — Escape Fishing Charters · Greenwell Point, Jervis Bay & Shoalhaven · https://www.escapefishingcharters.com.au/ · checked 2026-10-29
+- `jervis-bay-fishing-charters-huskisson` — JB Fishing Charters · Huskisson, Jervis Bay & Shoalhaven · https://jbfishingcharters.com.au/ · checked 2026-10-29
 
 ### Lord Howe Island (`lord-howe-island`) — 2 listings, page live
-- `sea-buoys-ocean-charters` — Sea Buoys Ocean Charters · Lord Howe Island · https://seabuoys.com.au/ · checked 2026-10
-- `sea-to-summit-lord-howe-fishing` — Sea to Summit Expeditions · Lord Howe Island · https://www.lordhoweislandtours.net/charter-fishing · checked 2026-10
+- `sea-buoys-ocean-charters` — Sea Buoys Ocean Charters · Lord Howe Island · https://seabuoys.com.au/ · checked 2026-10-29
+- `sea-to-summit-lord-howe-fishing` — Sea to Summit Expeditions · Lord Howe Island · https://www.lordhoweislandtours.net/charter-fishing · checked 2026-10-29
 
 ### Newcastle & Lake Macquarie (`newcastle`) — 2 listings, page live
-- `capns-charters-newcastle` — Capn's Charters Newcastle · Tomago, Newcastle & Lake Macquarie · https://www.capnschartersnewcastle.com.au/ · checked 2026-10
-- `day-trippin-charters` — Day Trippin Charters · Kilaben Bay, Newcastle · https://day-trippin-charters.squarespace.com/ · checked 2026-10
+- `capns-charters-newcastle` — Capn's Charters Newcastle · Tomago, Newcastle & Lake Macquarie · https://www.capnschartersnewcastle.com.au/ · checked 2026-10-29
+- `day-trippin-charters` — Day Trippin Charters · Kilaben Bay, Newcastle · https://day-trippin-charters.squarespace.com/ · checked 2026-10-29
 
 ### Port Macquarie (`port-macquarie`) — 2 listings, page live
-- `castaway-estuary-fishing-charters` — Castaway Estuary Fishing Charters · Port Macquarie · https://www.castawayfishing.com.au/ · checked 2026-10
-- `port-macquarie-fishing-charters` — Port Macquarie Fishing Charters · Port Macquarie · https://www.portmacquariefishingcharters.com.au/ · checked 2026-10
+- `castaway-estuary-fishing-charters` — Castaway Estuary Fishing Charters · Port Macquarie · https://www.castawayfishing.com.au/ · checked 2026-10-29
+- `port-macquarie-fishing-charters` — Port Macquarie Fishing Charters · Port Macquarie · https://www.portmacquariefishingcharters.com.au/ · checked 2026-10-29
 
 ### South West Rocks (`south-west-rocks`) — 2 listings, page live
-- `south-west-rocks-fishing-charters` — The Rocks Fishing Charters · South West Rocks · https://www.southwestrocksfishcharters.com.au/ · checked 2026-10
-- `wildside-sportfishing` — Wildside Sportfishing · South West Rocks · https://www.wildsidesportfishing.com/ · checked 2026-10
+- `south-west-rocks-fishing-charters` — The Rocks Fishing Charters · South West Rocks · https://www.southwestrocksfishcharters.com.au/ · checked 2026-10-29
+- `wildside-sportfishing` — Wildside Sportfishing · South West Rocks · https://www.wildsidesportfishing.com/ · checked 2026-10-29
 
 ### Yamba & Iluka (`yamba`) — 2 listings, page live
-- `go-fish-yamba-charters` — Go Fish Yamba Charters · Yamba · https://www.gofishyamba.com.au/ · checked 2026-10
-- `yamba-fishing-and-charters` — Yamba Fishing and Charters · Yamba · https://www.yambafishingandcharters.com.au/ · checked 2026-10
+- `go-fish-yamba-charters` — Go Fish Yamba Charters · Yamba · https://www.gofishyamba.com.au/ · checked 2026-10-29
+- `yamba-fishing-and-charters` — Yamba Fishing and Charters · Yamba · https://www.yambafishingandcharters.com.au/ · checked 2026-10-29
 
 ### coffs-harbour (`coffs-harbour`) — 1 listing, no destination page yet
-- `coffs-harbour-fishing-charters` — Coffs Harbour Fishing Charters · Coffs Harbour · https://coffsharbourfishing.com.au/ · checked 2026-10
+- `coffs-harbour-fishing-charters` — Coffs Harbour Fishing Charters · Coffs Harbour · https://coffsharbourfishing.com.au/ · checked 2026-10-29
 
 ### tweed (`tweed`) — 1 listing, no destination page yet
-- `cushy-fishing-charters` — Cushy Fishing Charters · Tweed Heads · https://cushyfishingcharters.com.au/ · checked 2026-10
+- `cushy-fishing-charters` — Cushy Fishing Charters · Tweed Heads · https://cushyfishingcharters.com.au/ · checked 2026-10-29
 
 <!-- AUTO:listings:end -->

@@ -59,43 +59,43 @@
 _Generated 2026-11-03 from data/operators.json: 23 live listings._
 
 ### Darwin (`darwin`) — 7 listings, page live
-- `barra-or-blue-fishing-charters-darwin` — Barra or Blue Fishing Charters · Darwin City, Darwin · https://barraorblue.com.au/ · checked 2026-10
-- `barra-private-tours-darwin` — Barra Private Tours · Darwin City, Darwin · https://www.barraprivatetours.com.au/ · checked 2026-10
-- `darwin-harbour-fishing-charters` — Darwin Harbour Fishing Charters · Stokes Hill Wharf, Darwin · https://www.darwinharbourfishingcharters.com.au/ · checked 2026-10
-- `equinox-fishing-charters-darwin` — Equinox Fishing Charters · Cullen Bay, Darwin · https://www.equinoxcharters.com.au/ · checked 2026-10
-- `offshore-boats-darwin` — Offshore Boats · Stuart Park, Darwin · https://offshoreboats.com.au/ · checked 2026-10
-- `river-and-reef-fishing-charters` — River & Reef Fishing Charters · Dinah Beach, Darwin · https://riverandreef.com.au/ · checked 2026-10
-- `yknot-fishing-charters` — Yknot Fishing Charters · Cullen Bay, Darwin · https://www.yknot.com.au/ · checked 2026-10
+- `barra-or-blue-fishing-charters-darwin` — Barra or Blue Fishing Charters · Darwin City, Darwin · https://barraorblue.com.au/ · checked 2026-10-29
+- `barra-private-tours-darwin` — Barra Private Tours · Darwin City, Darwin · https://www.barraprivatetours.com.au/ · checked 2026-10-29
+- `darwin-harbour-fishing-charters` — Darwin Harbour Fishing Charters · Stokes Hill Wharf, Darwin · https://www.darwinharbourfishingcharters.com.au/ · checked 2026-10-29
+- `equinox-fishing-charters-darwin` — Equinox Fishing Charters · Cullen Bay, Darwin · https://www.equinoxcharters.com.au/ · checked 2026-10-29
+- `offshore-boats-darwin` — Offshore Boats · Stuart Park, Darwin · https://offshoreboats.com.au/ · checked 2026-10-29
+- `river-and-reef-fishing-charters` — River & Reef Fishing Charters · Dinah Beach, Darwin · https://riverandreef.com.au/ · checked 2026-10-29
+- `yknot-fishing-charters` — Yknot Fishing Charters · Cullen Bay, Darwin · https://www.yknot.com.au/ · checked 2026-10-29
 
 ### Mary River (`mary-river`) — 4 listings, page live
-- `estuary-escapes-fishing-charters` — Estuary Escapes Fishing Charters · Darwin, Mary River · https://www.estuaryescapes.com.au/ · checked 2026-10
-- `just-doon-it-fishing-charters` — Just Doon It Fishing Charters · Humpty Doo, Mary River · https://www.justdoonit.com.au/ · checked 2026-10
-- `obsession-fishing-safaris` — Obsession Fishing Safaris · Darwin, Mary River · https://obsessionfishing.com.au/ · checked 2026-10
-- `point-stuart-wilderness-lodge` — Point Stuart Wilderness Lodge · Shady Camp, Mary River · https://www.pointstuart.com.au/ · checked 2026-10
+- `estuary-escapes-fishing-charters` — Estuary Escapes Fishing Charters · Darwin, Mary River · https://www.estuaryescapes.com.au/ · checked 2026-10-29
+- `just-doon-it-fishing-charters` — Just Doon It Fishing Charters · Humpty Doo, Mary River · https://www.justdoonit.com.au/ · checked 2026-10-29
+- `obsession-fishing-safaris` — Obsession Fishing Safaris · Darwin, Mary River · https://obsessionfishing.com.au/ · checked 2026-10-29
+- `point-stuart-wilderness-lodge` — Point Stuart Wilderness Lodge · Shady Camp, Mary River · https://www.pointstuart.com.au/ · checked 2026-10-29
 
 ### Arnhem Land, Cobourg & Gove (`arnhem-land`) — 3 listings, page live
-- `cobourg-fishing-safaris` — Cobourg Fishing Safaris · Cobourg Peninsula, Arnhem Land, Cobourg & Gove · https://www.cobourgfishingsafaris.com.au/ · checked 2026-10
-- `dhipirri-barra-and-sportfishing-lodge` — Dhipirri Barra & Sportfishing Lodge · Glyde River, Arnhem Land, Cobourg & Gove · https://dhipirribarra.com.au/ · checked 2026-10
-- `obj-adventures-nhulunbuy-fishing-charters` — OBJ Adventures: Nhulunbuy Fishing Charters · Nhulunbuy, Arnhem Land, Cobourg & Gove · https://www.objadventures.com.au/ · checked 2026-10
+- `cobourg-fishing-safaris` — Cobourg Fishing Safaris · Cobourg Peninsula, Arnhem Land, Cobourg & Gove · https://www.cobourgfishingsafaris.com.au/ · checked 2026-10-29
+- `dhipirri-barra-and-sportfishing-lodge` — Dhipirri Barra & Sportfishing Lodge · Glyde River, Arnhem Land, Cobourg & Gove · https://dhipirribarra.com.au/ · checked 2026-10-29
+- `obj-adventures-nhulunbuy-fishing-charters` — OBJ Adventures: Nhulunbuy Fishing Charters · Nhulunbuy, Arnhem Land, Cobourg & Gove · https://www.objadventures.com.au/ · checked 2026-10-29
 
 ### Daly River (`daly-river`) — 2 listings, page live
-- `humbug-fishing-darwin` — Humbug Fishing · Darwin, Daly River · https://fishingcharterdarwin.com.au/ · checked 2026-10
-- `nt-fish-and-4x4` — NT Fish & 4x4 · Daly River · https://www.ntfish4x4.com/ · checked 2026-10
+- `humbug-fishing-darwin` — Humbug Fishing · Darwin, Daly River · https://fishingcharterdarwin.com.au/ · checked 2026-10-29
+- `nt-fish-and-4x4` — NT Fish & 4x4 · Daly River · https://www.ntfish4x4.com/ · checked 2026-10-29
 
 ### Dundee Beach & Bynoe Harbour (`dundee`) — 2 listings, page live
-- `anglers-choice-fishing-safaris` — Anglers Choice Fishing Safaris · Dundee Beach · https://www.anglerschoice.com.au/ · checked 2026-10
-- `dundee-beach-fishing-charters` — Dundee Beach Fishing Charters · Dundee Beach · https://www.dundeebeachfishingcharters.com.au/ · checked 2026-10
+- `anglers-choice-fishing-safaris` — Anglers Choice Fishing Safaris · Dundee Beach · https://www.anglerschoice.com.au/ · checked 2026-10-29
+- `dundee-beach-fishing-charters` — Dundee Beach Fishing Charters · Dundee Beach · https://www.dundeebeachfishingcharters.com.au/ · checked 2026-10-29
 
 ### Kakadu (`kakadu`) — 2 listings, page live
-- `dna-barra-fishing` — DNA Barra Fishing · Darwin, Kakadu · https://dnabarrafishing.com.au/ · checked 2026-10
-- `kakadu-fishing-tours` — Kakadu Fishing Tours · Jabiru, Kakadu · https://www.kakadufishingtours.com.au/ · checked 2026-10
+- `dna-barra-fishing` — DNA Barra Fishing · Darwin, Kakadu · https://dnabarrafishing.com.au/ · checked 2026-10-29
+- `kakadu-fishing-tours` — Kakadu Fishing Tours · Jabiru, Kakadu · https://www.kakadufishingtours.com.au/ · checked 2026-10-29
 
 ### Tiwi Islands (`tiwi-islands`) — 2 listings, page live
-- `alure-fishing-charters-nt` — Alure Fishing Charters NT · Leaders Creek, Tiwi Islands · https://alurefishingchartersnt.com.au/ · checked 2026-10
-- `tiwi-island-retreat` — Tiwi Island Retreat · Port Hurd, Tiwi Islands · https://tiwiislandretreat.com.au/ · checked 2026-10
+- `alure-fishing-charters-nt` — Alure Fishing Charters NT · Leaders Creek, Tiwi Islands · https://alurefishingchartersnt.com.au/ · checked 2026-10-29
+- `tiwi-island-retreat` — Tiwi Island Retreat · Port Hurd, Tiwi Islands · https://tiwiislandretreat.com.au/ · checked 2026-10-29
 
 ### Gulf of Carpentaria (NT) (`gulf-nt`) — 1 listing, page NOT live (needs more listings)
-- `groote-eylandt-sports-fishing` — Groote Eylandt Sports Fishing · Alyangula, Groote Eylandt · https://www.gelnt.com.au/experiences/private-fishing-charter/ · checked 2026-10
+- `groote-eylandt-sports-fishing` — Groote Eylandt Sports Fishing · Alyangula, Groote Eylandt · https://www.gelnt.com.au/experiences/private-fishing-charter/ · checked 2026-10-29
 
 ### Also listed on other destination pages ("also serves")
 - `humbug-fishing-darwin` → mary-river

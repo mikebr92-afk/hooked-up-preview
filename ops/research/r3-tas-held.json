@@ -1,0 +1,409 @@
+[
+ {
+  "name": "Gone Fishing Charters (Michael Haley)",
+  "hotspot": "st-helens",
+  "town": "St Helens",
+  "phone": "03 6376 1553",
+  "website": "http://www.breamfishing.com.au/",
+  "found": "Named as a St Helens charter by East Coast Tasmania (links to breamfishing.com.au). Search results show a Tripadvisor profile rated about 4.9 from ~30 reviews, including a March 2026 review. Directory listings give PO Box 149 St Helens or 307 Binalong Bay Road, and an old 'half day estuary tour $350 for 5 people'.",
+  "why_held": "Own website did not load (fetch failed twice) and Tripadvisor blocks the pipeline, so trips, prices and boat could not be confirmed from the operator. Probably trading - the strongest St Helens lead. One phone call should clear it.",
+  "sources": [
+   "https://eastcoasttasmania.com/to-do/adventure/itinerary/fishing/",
+   "https://www.tripadvisor.com.au/Attraction_Review-g504328-d10112852-Reviews-Michael_Haley_Gone_Fishing_Charters-St_Helens_Break_O_Day_Tasmania.html"
+  ]
+ },
+ {
+  "name": "Keen Angler Charters",
+  "hotspot": "st-helens",
+  "town": "St Helens (Burns Bay boat ramp)",
+  "phone": "0409 964 847 (a directory also gives 03 6376 3119)",
+  "website": "",
+  "found": "Live ATDW listing on Discover Tasmania, Spirit of Tasmania and East Coast Tasmania: skipper Lionel aboard 'Keen Angler', a survey Steber Persuader; bay, reef and game fishing, half and full days, nearly all year; children from 6; gear, refreshments and catch cleaned. Email deblionel21@gmail.com.",
+  "why_held": "No website or socials, no prices, no named species, no dated reviews found. Only evidence of current trading is the live ATDW listing.",
+  "sources": [
+   "https://www.discovertasmania.com.au/things-to-do/tours/keenanglercharters/",
+   "https://eastcoasttasmania.com/atdw_listings/keen-angler-charters/",
+   "https://www.spiritoftasmania.com.au/things-to-do/keen-angler-charters/"
+  ]
+ },
+ {
+  "name": "Mayfly Guiding (Dylan Cassidy)",
+  "hotspot": "central-highlands",
+  "town": "Miena",
+  "phone": "0400 650 791",
+  "website": "https://mayflyguiding.com.au",
+  "found": "TGALT member (2026 directory). Full day from $850 (1 angler) / $1,100 (2 anglers); Stay & Fish from $2,000pp; Central Highlands lakes, Mersey and Meander rivers. Guide placed 3rd in the 2020 Australian championships and won a 2024 state round.",
+  "why_held": "No 2025-26 dated item on the site (no copyright year, no blog). Good-quality site with prices - list once a phone call or recent post confirms.",
+  "sources": [
+   "https://www.mayflyguiding.com.au/packages",
+   "https://www.mayflyguiding.com.au/trip-information-1",
+   "https://www.troutguidestasmania.com.au/listing/mayfly-guiding/"
+  ]
+ },
+ {
+  "name": "Tas High Country Fly Fish Tours (Chris Stopp)",
+  "hotspot": "central-highlands",
+  "town": "Central Highlands & Southern Tasmania (base not published)",
+  "phone": "0417 354 520",
+  "website": "https://www.tasflyfish.com.au/",
+  "found": "TGALT member; licensed by Parks and Wildlife for the Western Lakes / 19 Lagoons; 4.5 m fly fishing boat suitable for limited mobility; September to April; Hobart Airport pick-up by arrangement.",
+  "why_held": "No prices and nothing dated on the site.",
+  "sources": [
+   "https://www.tasflyfish.com.au/",
+   "https://www.troutguidestasmania.com.au/listing/tas-high-country/"
+  ]
+ },
+ {
+  "name": "Peter Hayes Fly Fishing",
+  "hotspot": "launceston",
+  "town": "Cressy (Hayes on Brumbys lodge)",
+  "phone": "0409 944 699",
+  "website": "http://www.peterhayesflyfishing.com/",
+  "found": "TGALT member; 20-22 bed lodge on Brumbys Creek; 10-time Australian fly casting champion. Site content is 2019 courses and 2023 Cressy Cane events.",
+  "why_held": "Latest dated content 2023 (footer year is automatic). No guided-day prices.",
+  "sources": [
+   "http://www.peterhayesflyfishing.com/",
+   "https://www.troutguidestasmania.com.au/listing/peter-hayes-fly-fishing/"
+  ]
+ },
+ {
+  "name": "Pirates Bay Fishing Charters",
+  "hotspot": "tasman-peninsula",
+  "town": "Eaglehawk Neck",
+  "phone": "+61 419 399 327",
+  "website": "https://www.facebook.com/piratesbayfishingcharters/",
+  "found": "Facebook page (seen only in a search snippet): full and half day charters for 1-6, gear supplied, email piratesbaycharters@yahoo.com.au; page also shows 'Opening Soon'.",
+  "why_held": "Facebook can't be fetched by the pipeline; 'Opening Soon' suggests not yet trading.",
+  "sources": [
+   "https://www.facebook.com/piratesbayfishingcharters/"
+  ]
+ },
+ {
+  "name": "Force 10 Fishing Charters",
+  "hotspot": "tasman-peninsula",
+  "town": "Eaglehawk Neck (Pirates Bay jetty)",
+  "phone": "",
+  "website": "",
+  "found": "Only a Roadtrippers profile: from about $200-250pp, up to 10 people, deep sea, bay and game fishing.",
+  "why_held": "No own site, socials, tourism listing or dated evidence found. Possibly closed.",
+  "sources": [
+   "https://maps.roadtrippers.com/au/tas/nature/force-10-fishing-charters"
+  ]
+ },
+ {
+  "name": "Red Tag Trout Tours (Ray Curran)",
+  "hotspot": "launceston or hobart (unclear)",
+  "town": "Not published (TGALT region: 'Lowland Rivers, Central & Southern')",
+  "phone": "0414 294 639",
+  "website": "https://www.redtagtrout.com/",
+  "found": "Clearly trading: blog posts dated Feb and Apr 2026; TGALT and TICT accredited; Ray Curran took over from founder Roger Butler in 2023. River and stream specialist; uses Currawong Lakes, 28 Gates and other private lakes; transfers to/from airport or greater Hobart; all-inclusive packages.",
+  "why_held": "Not a trading problem - base town and prices are not published, so primary_location and hot spot can't be set without guessing. Ask Ray where trips start and for day rates, then list.",
+  "sources": [
+   "https://www.redtagtrout.com/",
+   "https://www.redtagtrout.com/tour-options/",
+   "https://www.troutguidestasmania.com.au/listing/red-tag-trout-tours/"
+  ]
+ },
+ {
+  "name": "Tasmania Double Hook Fishing Charters and Tours",
+  "hotspot": "tasman-peninsula",
+  "town": "Port Arthur (Jetty Road)",
+  "phone": "",
+  "website": "",
+  "found": "Older directory pages list half-day and full-day ($380) trips at Port Arthur and Carnarvon Bay.",
+  "why_held": "Discover Tasmania and Spirit of Tasmania listings now return 404 - likely closed.",
+  "sources": [
+   "https://australiasguide.com/tas/attraction-tour/tasman/port-arthur/tasmania-double-hook-fishing-charters-and-tours/"
+  ]
+ },
+ {
+  "name": "Swansea Fishing Charters Tasmania",
+  "hotspot": "st-helens",
+  "town": "Swansea",
+  "phone": "",
+  "website": "",
+  "found": "Older directory listing: sightseeing or fishing packages.",
+  "why_held": "Discover Tasmania listing now 404 - likely closed.",
+  "sources": [
+   "https://www.australias.guide/tas/attraction-tour/swansea-fishing-charters-tasmania/"
+  ]
+ },
+ {
+  "name": "Unique Fishing Tours Tasmania",
+  "hotspot": "launceston",
+  "town": "Launceston",
+  "phone": "",
+  "website": "",
+  "found": "Search snippet: run by a Launceston angler, max three people per group.",
+  "why_held": "Discover Tasmania listing now 404 - likely closed.",
+  "sources": [
+   "https://discovertasmania.com.au/things-to-do/tours/uniquefishingtours"
+  ]
+ },
+ {
+  "slug": "south-east-charters",
+  "name": "South East Charters",
+  "status": "active",
+  "description": "South East Charters is run by skipper Michael Kent, who has operated his own charter boat off south-east Tasmania for almost 20 years. His boat, Phantom, is a 26-foot (about 7.5-metre) aluminium boat built locally by Mariner Aluminium, powered by twin 115 hp Yamaha four-strokes and in AMSA survey for five passengers, with a toilet and padded seating in the cabin and on deck. Bottom and reef fishing runs all year from Orford or Dunalley around Maria Island for flathead, perch, gurnard, squid, striped trumpeter, salmon, gummy shark, kingfish and couta. From March to August, full-day game trips leave Eaglehawk Neck or Port Arthur for albacore, striped, yellowfin and bluefin tuna, switching to bottom fishing if the tuna are absent. Prices are a flat rate for the boat, and the skipper can try to make up a group for solo anglers. Penn, Fin-Nor and Alvey gear is supplied and the catch is cleaned and packed. Families and children are catered for; bring your own food and drink.",
+  "primary_location": "Eaglehawk Neck, Tasman Peninsula",
+  "state": "TAS",
+  "location_tags": [
+   "Eaglehawk Neck",
+   "Port Arthur",
+   "Dunalley",
+   "Orford",
+   "Maria Island",
+   "Sorell",
+   "Triabunna"
+  ],
+  "region_tags": [
+   "South East Tasmania",
+   "Tasman Peninsula",
+   "East Coast"
+  ],
+  "departure_address": "Eaglehawk Neck or Port Arthur (game fishing); Orford or Dunalley (bottom fishing); other locations by request",
+  "latitude": -43.0372,
+  "longitude": 147.9452,
+  "primary_species": [
+   "Southern Bluefin Tuna",
+   "Tuna",
+   "Flathead",
+   "Striped Trumpeter",
+   "Gummy Shark"
+  ],
+  "all_species": [
+   {
+    "name": "Southern Bluefin Tuna",
+    "season": "Mar-Aug",
+    "notes": "Game trips from Eaglehawk Neck or Port Arthur."
+   },
+   {
+    "name": "Tuna",
+    "season": "Mar-Aug",
+    "notes": "Albacore and striped tuna on the game trips."
+   },
+   {
+    "name": "Yellowfin Tuna",
+    "season": "Mar-Aug",
+    "notes": "Listed among game catches."
+   },
+   {
+    "name": "Flathead",
+    "season": "Year-round",
+    "notes": "Tiger and sand flathead on the bottom."
+   },
+   {
+    "name": "Striped Trumpeter",
+    "season": "Closed 1 Sep-31 Oct (state rule)",
+    "notes": "Reef fishing around Maria Island."
+   },
+   {
+    "name": "Squid",
+    "season": "",
+    "notes": "Bottom and reef trips."
+   },
+   {
+    "name": "Gummy Shark",
+    "season": "",
+    "notes": "Bottom and reef trips."
+   },
+   {
+    "name": "Kingfish",
+    "season": "",
+    "notes": "Yellowtail kingfish, seasonal."
+   },
+   {
+    "name": "Australian Salmon",
+    "season": "",
+    "notes": "Bottom and reef trips."
+   },
+   {
+    "name": "Morwong",
+    "season": "",
+    "notes": "Jackass morwong listed among local species."
+   },
+   {
+    "name": "Snapper",
+    "season": "",
+    "notes": "Listed as a local species, seasonal."
+   }
+  ],
+  "species_tags": [
+   "Southern Bluefin Tuna",
+   "Tuna",
+   "Yellowfin Tuna",
+   "Flathead",
+   "Striped Trumpeter",
+   "Squid",
+   "Gummy Shark",
+   "Kingfish",
+   "Australian Salmon",
+   "Morwong",
+   "Snapper"
+  ],
+  "trip_type_tags": [
+   "Private Charter",
+   "Reef Fishing",
+   "Offshore",
+   "Game Fishing",
+   "Deep Sea",
+   "Half Day",
+   "Full Day",
+   "Family Friendly"
+  ],
+  "experience_tags": [
+   "Beginner Friendly",
+   "Families",
+   "Kids Welcome",
+   "Experienced Anglers"
+  ],
+  "trips": [
+   {
+    "name": "Bottom & Reef Fishing - Half Day",
+    "duration_hours": 5,
+    "departure_time": "7:00 AM",
+    "max_group": 5,
+    "price": 600,
+    "price_model": "per_group",
+    "what_included": [
+     "Penn, Fin-Nor and Alvey rods and reels",
+     "Tackle",
+     "Catch cleaned and packed"
+    ],
+    "target_species": [
+     "Flathead",
+     "Striped Trumpeter",
+     "Squid",
+     "Gummy Shark"
+    ],
+    "suitability_notes": "All year; departs Orford or Dunalley around Maria Island, back 12-1pm. Flat boat rate (GST incl.). BYO food and drink."
+   },
+   {
+    "name": "Bottom & Reef Fishing - Full Day",
+    "duration_hours": 8,
+    "departure_time": "7:00 AM",
+    "max_group": 5,
+    "price": 900,
+    "price_model": "per_group",
+    "what_included": [
+     "Penn, Fin-Nor and Alvey rods and reels",
+     "Tackle",
+     "Catch cleaned and packed"
+    ],
+    "target_species": [
+     "Flathead",
+     "Striped Trumpeter",
+     "Kingfish",
+     "Gummy Shark"
+    ],
+    "suitability_notes": "All year; back 2.30-3.30pm. Flat boat rate (e.g. $225 each for four)."
+   },
+   {
+    "name": "Game Fishing - Full Day",
+    "duration_hours": 8,
+    "departure_time": "7:00 AM",
+    "max_group": 5,
+    "price": 900,
+    "price_model": "per_group",
+    "what_included": [
+     "Game rods and lures",
+     "Tackle",
+     "Catch cleaned and packed"
+    ],
+    "target_species": [
+     "Southern Bluefin Tuna",
+     "Tuna",
+     "Yellowfin Tuna"
+    ],
+    "suitability_notes": "March-August from Eaglehawk Neck or Port Arthur; no half days. Bottom fishing if tuna are absent."
+   }
+  ],
+  "boat_name": "Phantom",
+  "boat_type": "Custom aluminium (Mariner Aluminium, Tasmania)",
+  "boat_length_m": 7.9,
+  "max_capacity": 5,
+  "comfortable_capacity": 5,
+  "survey_certification": "AMSA survey for 5 passengers; current safety management certificate",
+  "boat_features": [
+   "Twin 115 hp Yamaha four-strokes",
+   "Garmin GPS/sounder",
+   "Toilet",
+   "Padded seating in cabin and deck"
+  ],
+  "captains": [
+   {
+    "name": "Michael Kent",
+    "bio": "Has run his own charter boat off south-east Tasmania for almost 20 years.",
+    "years_experience": null
+   }
+  ],
+  "whats_included": [
+   "Rods, reels and tackle",
+   "Catch cleaned and packed"
+  ],
+  "what_to_bring": [
+   "Food and drink",
+   "Sunscreen",
+   "Hat",
+   "Warm clothes",
+   "Camera"
+  ],
+  "cancellation_policy": "",
+  "weather_policy": "Tours run subject to weather.",
+  "years_in_business": null,
+  "accreditations": [],
+  "website": "https://www.southeastcharters.com.au",
+  "facebook": "https://facebook.com/pages/South-East-Charters/755575971142028",
+  "instagram": "",
+  "search_keywords": [
+   "Eaglehawk Neck tuna charter",
+   "Tasman Peninsula game fishing",
+   "Orford fishing charter",
+   "Maria Island fishing charter",
+   "Dunalley fishing charter",
+   "southern bluefin tuna charter Tasmania"
+  ],
+  "lead": "South East Charters is skipper Michael Kent's five-passenger boat, running reef trips around Maria Island from Orford or Dunalley all year and full-day tuna trips from Eaglehawk Neck or Port Arthur from March to August.",
+  "highlights": [
+   "Flat boat rate: $600 half day, $900 full day",
+   "Tuna season March-August from Eaglehawk Neck",
+   "Small group: five passengers maximum",
+   "Skipper with almost 20 years running charters"
+  ],
+  "areas_fished": [
+   "Maria Island",
+   "Pirates Bay",
+   "Eaglehawk Neck coast",
+   "Port Arthur",
+   "Mercury Passage"
+  ],
+  "faqs": [
+   {
+    "q": "Are South East Charters prices per person or per boat?",
+    "a": "All prices are a flat rate for the boat. A $900 full day shared by four people works out at $225 each, and the skipper can try to build a group if you are on your own.",
+    "source": "https://www.southeastcharters.com.au/fishing-charters.html"
+   },
+   {
+    "q": "Can I do a half-day tuna trip?",
+    "a": "No. Game fishing from Eaglehawk Neck or Port Arthur is full day only; half days are for bottom and reef fishing.",
+    "source": "https://www.southeastcharters.com.au/fishing-charters.html"
+   }
+  ],
+  "same_as": [
+   "https://discovertasmania.com.au/things-to-do/tours/southeastcharters",
+   "https://www.spiritoftasmania.com.au/things-to-do/south-east-charters"
+  ],
+  "_hotspot": "tasman-peninsula",
+  "_verification": "verified",
+  "_sources": [
+   "https://www.southeastcharters.com.au/",
+   "https://www.southeastcharters.com.au/about-us.html",
+   "https://www.southeastcharters.com.au/fishing-charters.html",
+   "https://www.southeastcharters.com.au/the-boat.html",
+   "https://discovertasmania.com.au/things-to-do/tours/southeastcharters",
+   "https://eastcoasttasmania.com/to-do/adventure/itinerary/fishing/"
+  ],
+  "_checked": "2026-11",
+  "_notes": "WEAKEST LISTING - CHECK BY PHONE (0437 246 956). Own site has no dates; trading evidence is that its ATDW listing is still live on Discover Tasmania and Spirit of Tasmania in Nov 2026 (other lapsed operators' ATDW listings now 404). Prices undated (a 2012 article quoted from $475). Boat is '26 foot' on own site (7.9 m) vs '7.5 m' on ATDW. Site says Triabunna on one page and Orford on others. Base: 2 Wolstenholme Drive, Sorell. No usable photos collected (gallery not scraped); no hero."
+ }
+]

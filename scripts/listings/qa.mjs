@@ -34,7 +34,7 @@ for (const o of ops) {
     if (!t.name) I(o.slug, 'trip without name');
     if (!(t.duration_hours > 0)) I(o.slug, `trip ${t.name} has no duration`);
     if (t.price != null && !(t.price > 0)) I(o.slug, `trip ${t.name} bad price ${t.price}`);
-    if (t.price > 20000) I(o.slug, `trip ${t.name} price ${t.price}?`);
+    if (t.price > 20000 && !(t.price_model === 'per_group' && t.duration_hours >= 48)) I(o.slug, `trip ${t.name} price ${t.price}?`);
     if (t.price && t.price_model === 'per_person' && t.price > 5000 && t.duration_hours < 48) I(o.slug, `per-person price ${t.price} for ${t.duration_hours}h?`);
   }
   const ct = SEO.cheapestTrip(o);

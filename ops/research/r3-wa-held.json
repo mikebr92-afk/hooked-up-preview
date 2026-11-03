@@ -1,0 +1,455 @@
+[
+ {
+  "name": "Blue Juice Charters",
+  "_hotspot": "perth",
+  "location": "92 Southside Drive, Hillarys Boat Harbour",
+  "website": "https://www.bluejuicecharters.com.au/",
+  "phone": "0402 040 312",
+  "found": "Own domain now returns a blank page. Its Rezdy store (bluejuicecharters.rezdy.com) shows 2026 Abrolhos 3- and 4-day private charters on TALASEA II, a Fremantle rock lobster tour and private Rottnest charters; the old Perth deep sea and mahi mahi products are prefixed 'Z' (usually archived). The Rezdy store is blocked to our fetcher (Cloudflare), so trips, prices and boat could not be read first-hand.",
+  "reason": "Likely trading (2026 products) but no readable own website; Perth demersal products appear withdrawn after the metro charter closure. Phone the operator or get the owner to view the Rezdy store.",
+  "sources": [
+   "https://bluejuicecharters.rezdy.com/catalog/74489/all-charters",
+   "https://bluejuicecharters.rezdy.com/653823/abrolhos-4-day-private-charter-2026",
+   "https://australiayp.com/company/825825/Blue_Juice_Charters"
+  ]
+ },
+ {
+  "name": "Mills Charters",
+  "_hotspot": "perth",
+  "location": "Southside Drive, Hillarys Boat Harbour",
+  "website": "https://www.millscharters.com.au/",
+  "phone": "",
+  "found": "Long-running Hillarys deep sea and whale watching operator (boats Blue Strike and Aussie Warrior). Website fetch failed; WA Holiday Guide page is titled 'Mills Charters Hillarys (currently not operating)'.",
+  "reason": "Possibly closed or paused, probably linked to the Perth metro charter demersal closure from 16 Dec 2025. Do not list unless the owner confirms.",
+  "sources": [
+   "https://www.waholidayguide.com.au/mills-charters-hillarys-currently-not-operating",
+   "https://www.top4.com.au/business/mills-charters-113777"
+  ]
+ },
+ {
+  "name": "Fremantle Boat Charters",
+  "_hotspot": "perth",
+  "location": "South Fremantle",
+  "website": "https://fremantleboatcharters.com.au/",
+  "phone": "",
+  "found": "Own site is a one-page holding page ((c) 2025) with no trip details. FishingBooker lists a 57ft boat for up to 12, est. 1994, with rock lobster, squid and whiting trips, but prices conflict between language versions.",
+  "reason": "No first-hand trip details or current-season evidence on its own site.",
+  "sources": [
+   "https://fremantleboatcharters.com.au/",
+   "https://fishingbooker.com/charters/view/8508"
+  ]
+ },
+ {
+  "name": "Evolution Fishing Charters",
+  "_hotspot": "exmouth",
+  "location": "Exmouth",
+  "website": "https://evolutionfishingcharters.com.au/",
+  "phone": "",
+  "found": "Skipper Craig 'Whitey' White (2013 Offshore World Championships winner), 15m vessel Teraliza, private day charters and 3-day live-aboards. Website now shows a hosting 'account suspended' page. Still listed on westernaustralia.com / ATDW and BIG4.",
+  "reason": "Website suspended: cannot confirm trading. Phone via ATDW listing.",
+  "sources": [
+   "https://evolutionfishingcharters.com.au/cgi-sys/suspendedpage.cgi",
+   "https://australiasguide.com/wa/attraction-tour/exmouth/exmouth/evolution-fishing-charters",
+   "https://www.westernaustralia.com/sg/tour/evolution-fishing-charters/5d36a0306df8c91948aaf441"
+  ]
+ },
+ {
+  "name": "Aquatic Adventure Exmouth Fishing Charters",
+  "_hotspot": "exmouth",
+  "location": "Madaffari Drive, Exmouth",
+  "website": "",
+  "phone": "08 9949 3070 (Ningaloo Visitor Centre)",
+  "found": "Ningaloo Centre listing: 11m Clayton Gallant 'Shimano Explorer' for up to 12, half and full-day mainly bottom fishing, plus game fishing and custom charters. Guessed own domain did not resolve.",
+  "reason": "Only a visitor-centre listing found; no own website or dated activity.",
+  "sources": [
+   "https://www.ningaloocentre.com.au/tours/aquatic-adventure-exmouth-fishing-charters"
+  ]
+ },
+ {
+  "name": "On Strike Charters",
+  "_hotspot": "exmouth",
+  "location": "Exmouth",
+  "website": "",
+  "phone": "",
+  "found": "Rezdy store (onstrike.rezdy.com) with 30ft Fury and 25ft Contender exclusive full days and 20ft inshore reef trips (~6 hrs, AUD 1,250 in a search snippet). Store blocked to our fetcher.",
+  "reason": "No own website found; could not read the store.",
+  "sources": [
+   "https://onstrike.rezdy.com/445154/exclusive-30ft-fury-vessel-full-day-fishing-charter"
+  ]
+ },
+ {
+  "name": "WA Fishing Charters",
+  "_hotspot": "broome",
+  "location": "Broome (Roebuck Bay creeks)",
+  "website": "",
+  "phone": "08 9195 2200 (Broome Visitor Centre bookings)",
+  "found": "Visit Broome member listing ((c) 2026): 'Broome's longest running creek charter', owner-guide Adam Cave (15+ years guiding in the Kimberley); half-day creek fishing, mud crabbing and combo trips priced per charter for 1-4 guests; half-day inshore reef (3-4 guests).",
+  "reason": "Real and bookable through the visitor centre, but no own website or socials found. Strong candidate if the owner accepts tourism-listing-only verification.",
+  "sources": [
+   "https://www.visitbroome.com.au/members/wa-fishing-charters",
+   "https://www.australiasnorthwest.com/listing/wa-fishing-charters/570/"
+  ]
+ },
+ {
+  "name": "Broome Sport Fishing (Paul Haddy)",
+  "_hotspot": "broome",
+  "location": "Entrance Point boat ramp, Broome",
+  "website": "",
+  "phone": "08 9195 2200 (Broome Visitor Centre bookings)",
+  "found": "Visit Broome listing: local guide Paul Haddy (25+ years on Roebuck Bay), 5.5m open boat, 6-hour lure and saltwater fly charters 7am-1pm for barramundi, threadfin, mulloway, tripletail and tuna; priced per charter for 1-3 or 4-6 people.",
+  "reason": "Visitor-centre listing only; no own website or dated activity found.",
+  "sources": [
+   "https://www.visitbroome.com.au/members/broome-sport-fishing"
+  ]
+ },
+ {
+  "name": "Phat Time Fishing",
+  "_hotspot": "broome",
+  "location": "Broome (Djugun)",
+  "website": "",
+  "phone": "",
+  "found": "Operating since Oct 2021 on boat 'Saba San' (3-5 guests), private and shared ~6-hour creek trips; Rezdy private 6-hour creek charter A$1,500. Its Visit Broome member page now returns 404.",
+  "reason": "Dropped off the visitor centre; no own website found. Check whether still trading.",
+  "sources": [
+   "https://australian.rezdy.com/view/PSBF5G",
+   "https://playsport.com/phattimefishing_ag_b87185a5"
+  ]
+ },
+ {
+  "name": "Abrolhos Adventures",
+  "_hotspot": "geraldton",
+  "location": "Geraldton Fishermans Wharf, 154 Connell Road, Geraldton",
+  "website": "",
+  "phone": "08 9942 4515 / 0448 089 707",
+  "found": "Rezdy store lists full and half-day fishing on the 40ft jet boat 'Assassin' (full day from AUD 350, ~11 hrs), day trips and 1-8 night live-aboards on the 65ft 'Fortitude' (private hire $4,000/day, min 3 days; reseller shows $599pp day trip) and the 'Abrolhos Sea Shack' live-aboard. Visit Geraldton listing now 404; guessed own domains did not resolve.",
+  "reason": "Probably trading, but only Rezdy/reseller pages found and they are blocked to our fetcher. Good second Geraldton candidate once verified by phone.",
+  "sources": [
+   "https://abrolhosadventures.rezdy.com/425646/full-day-fishing-charter-onboard-assassin-abrolhos-islands",
+   "https://abrolhosadventures.rezdy.com/485419/private-hire-liveaboard-fortitude-charter"
+  ]
+ },
+ {
+  "name": "Blue Water Adventure Charters",
+  "_hotspot": "geraldton",
+  "location": "Geraldton (Batavia Coast Marina)",
+  "website": "",
+  "phone": "",
+  "found": "FishingBooker and WA Holiday Guide listings for custom Abrolhos live-aboards (3-day trips, March to October, up to 8).",
+  "reason": "Third-party listings only; no own site found.",
+  "sources": [
+   "https://fishingbooker.com/charters/view/4073",
+   "https://www.waholidayguide.com.au/blue-water-adventure-charters"
+  ]
+ },
+ {
+  "name": "Blue Lightning Fishing Charters",
+  "_hotspot": "mandurah",
+  "location": "45 Rees Place, Mandurah",
+  "website": "https://www.bluelightningcharters.com.au/",
+  "phone": "",
+  "found": "Directory listings: family-owned, Mandurah day trips plus live-aboards to the Abrolhos (April-June) and Montebellos (June-December, ~20 years there). A 2024 hosted Montebello trip was advertised by Compleat Angler Nedlands. Guessed domain did not resolve.",
+  "reason": "No own website reachable; latest dated evidence 2024.",
+  "sources": [
+   "https://www.australias.guide/wa/attraction-tour/blue-lightning-fishing-charters/",
+   "https://compleatanglernedlands.com.au/pages/2024-blue-lightning-charters-hosted-montebello-islands-trip"
+  ]
+ },
+ {
+  "name": "Legend Charters",
+  "_hotspot": "south-west",
+  "location": "Dunsborough (also Gracetown departures)",
+  "website": "https://www.legendcharters.net/",
+  "phone": "",
+  "found": "Rezdy page for an ~8-hour Cape Naturaliste deep sea fishing charter (gear, bait, ice, tackle; 6.30am Gracetown or 6am Dunsborough); also whale watching. Own domain fetch failed.",
+  "reason": "Could not reach its site; fishing may now be limited by the West Coast demersal closure unless it holds tags.",
+  "sources": [
+   "https://legendcharters-net.rezdy.com/147868/deep-sea-fishing-charter",
+   "https://www.australias.guide/wa/attraction-tour/legend-charters/"
+  ]
+ },
+ {
+  "name": "Ultimate Adventures (Kununurra)",
+  "_hotspot": "kimberley",
+  "location": "Kununurra / Lower Ord River",
+  "website": "",
+  "phone": "",
+  "found": "Previously the best-known Lower Ord barramundi day-trip operator. Kununurra Visitor Centre now says Ultimate Adventures are 'currently not taking bookings for Fishing Tours' (self-contained travellers can stay at Hairy Dog's Fishing Camp).",
+  "reason": "Not taking fishing bookings.",
+  "sources": [
+   "https://www.visitkununurra.com/kimberley-fishing"
+  ]
+ },
+ {
+  "slug": "pelican-charters-montebello",
+  "name": "Pelican Charters",
+  "status": "active",
+  "description": "Pelican Charters is a Perth charter company, started by skippers Brandon and Peter in 2004, that takes its 80ft jet-powered vessel Livewire north each dry season for five-day live-aboard fishing trips from Dampier to the Montebello Islands. Guests fly to Karratha, cruise out through the Dampier Archipelago and anchor in a different sheltered bay each night. Days mix topwater popping and stickbaiting for giant trevally, Spanish mackerel and wahoo, jigging and soft plastics for trout, emperor and cobia, bottom bouncing reef ledges for red emperor and coral trout, and trolling for sailfish, marlin, tuna and mahi mahi. Two 5.5m tenders let the group split up or reach shallow reefs, and mud crabbing and island sightseeing break up the week. Livewire sleeps up to 16 with three toilets, hot showers, a 1,000-litre blast freezer and ice machine. Fillet limits are set per guest for the trip.",
+  "primary_location": "Dampier, Dampier & Karratha",
+  "state": "WA",
+  "location_tags": [
+   "Dampier",
+   "Karratha",
+   "Dampier Archipelago",
+   "Montebello Islands",
+   "Barrow Island"
+  ],
+  "region_tags": [
+   "Dampier & Karratha",
+   "Pilbara",
+   "Western Australia"
+  ],
+  "departure_address": "Hampton Harbour Yacht Club, Dampier",
+  "latitude": -20.6627,
+  "longitude": 116.7106,
+  "primary_species": [
+   "Giant Trevally",
+   "Red Emperor",
+   "Coral Trout",
+   "Spanish Mackerel",
+   "Sailfish"
+  ],
+  "all_species": [
+   {
+    "name": "Giant Trevally",
+    "season": "July-October",
+    "notes": "Poppers and stickbaits"
+   },
+   {
+    "name": "Golden Trevally",
+    "season": "",
+    "notes": ""
+   },
+   {
+    "name": "Red Emperor",
+    "season": "",
+    "notes": "Bottom bouncing reef ledges"
+   },
+   {
+    "name": "Coral Trout",
+    "season": "",
+    "notes": ""
+   },
+   {
+    "name": "Spanish Mackerel",
+    "season": "",
+    "notes": ""
+   },
+   {
+    "name": "Wahoo",
+    "season": "",
+    "notes": ""
+   },
+   {
+    "name": "Sailfish",
+    "season": "",
+    "notes": ""
+   },
+   {
+    "name": "Black Marlin",
+    "season": "",
+    "notes": ""
+   },
+   {
+    "name": "Blue Marlin",
+    "season": "",
+    "notes": ""
+   },
+   {
+    "name": "Yellowfin Tuna",
+    "season": "",
+    "notes": ""
+   },
+   {
+    "name": "Dogtooth Tuna",
+    "season": "",
+    "notes": ""
+   },
+   {
+    "name": "Mahi Mahi",
+    "season": "",
+    "notes": ""
+   },
+   {
+    "name": "Cobia",
+    "season": "",
+    "notes": ""
+   },
+   {
+    "name": "Mud Crab",
+    "season": "",
+    "notes": "Crabbing day in the mangroves"
+   },
+   {
+    "name": "Squid",
+    "season": "",
+    "notes": "Jigged off the back at night"
+   }
+  ],
+  "species_tags": [
+   "Giant Trevally",
+   "Golden Trevally",
+   "Red Emperor",
+   "Coral Trout",
+   "Spanish Mackerel",
+   "Wahoo",
+   "Sailfish",
+   "Black Marlin",
+   "Blue Marlin",
+   "Yellowfin Tuna",
+   "Dogtooth Tuna",
+   "Mahi Mahi",
+   "Cobia",
+   "Mud Crab",
+   "Squid"
+  ],
+  "trip_type_tags": [
+   "Multi-Day",
+   "Overnight",
+   "Private Charter",
+   "Shared Charter",
+   "Reef Fishing",
+   "Sportfishing",
+   "Game Fishing",
+   "Offshore",
+   "Lure Fishing"
+  ],
+  "experience_tags": [
+   "Experienced Anglers",
+   "Corporate Groups",
+   "Beginner Friendly"
+  ],
+  "trips": [
+   {
+    "name": "Montebello Islands live-aboard fishing trip (5 days)",
+    "duration_hours": 120,
+    "departure_time": "",
+    "max_group": 16,
+    "price": null,
+    "price_model": "per_person",
+    "what_included": [
+     "Live-aboard accommodation",
+     "Cooked meals",
+     "Two 5.5m tenders",
+     "Blast freezing of catch"
+    ],
+    "target_species": [
+     "Giant Trevally",
+     "Red Emperor",
+     "Coral Trout",
+     "Spanish Mackerel",
+     "Sailfish"
+    ],
+    "suitability_notes": "Dry season only (site says July-October for fishing trips). Private groups or berths; price and dates on enquiry."
+   }
+  ],
+  "boat_name": "Livewire",
+  "boat_type": "80ft jet-powered live-aboard (ex offshore industry vessel)",
+  "boat_length_m": 24.4,
+  "max_capacity": 16,
+  "comfortable_capacity": null,
+  "survey_certification": "",
+  "boat_features": [
+   "Twin 1,000hp Caterpillar engines with Hamilton jets",
+   "Sleeps 16",
+   "3 toilets and hot showers",
+   "1,000L blast freezer",
+   "Ice machine",
+   "600L deck ice box",
+   "Satellite TV and Telstra booster",
+   "Two 5.5m tenders"
+  ],
+  "captains": [
+   {
+    "name": "Brandon",
+    "bio": "Co-owner and skipper since 2004.",
+    "years_experience": null
+   },
+   {
+    "name": "Peter",
+    "bio": "Co-owner and skipper since 2004.",
+    "years_experience": null
+   }
+  ],
+  "whats_included": [
+   "Accommodation aboard Livewire",
+   "Meals",
+   "Snap freezing of fillets"
+  ],
+  "what_to_bring": [
+   "Flights to Karratha",
+   "Drinks"
+  ],
+  "cancellation_policy": "",
+  "weather_policy": "Skipper may change the itinerary to sheltered bays or stay at anchor if weather is unsuitable.",
+  "years_in_business": null,
+  "accreditations": [],
+  "website": "https://www.pelicancharters.com.au/montebello-islands-fishing/",
+  "facebook": "",
+  "instagram": "",
+  "search_keywords": [
+   "Montebello Islands fishing charter",
+   "Dampier fishing charter",
+   "Karratha live aboard fishing",
+   "Dampier Archipelago fishing trip",
+   "Monties fishing trip",
+   "Pilbara fishing charter"
+  ],
+  "lead": "Pelican Charters runs five-day dry-season live-aboard fishing trips from Dampier to the Montebello Islands on the 80ft Livewire, sleeping up to 16 and targeting giant trevally, red emperor, coral trout, Spanish mackerel and sailfish.",
+  "highlights": [
+   "80ft Livewire sleeps up to 16 with 3 bathrooms",
+   "Departs Dampier; fly in to Karratha",
+   "Two 5.5m tenders to split the group",
+   "1,000-litre blast freezer for your fillets",
+   "Skippers Brandon and Peter, operating since 2004"
+  ],
+  "areas_fished": [
+   "Montebello Islands",
+   "Dampier Archipelago",
+   "Barrow Island"
+  ],
+  "faqs": [
+   {
+    "q": "What can I take home from a Pelican Montebello trip?",
+    "a": "Pelican Charters sets a vessel limit of 4 fish per day, with a maximum of 15kg of demersal fillets and 5kg of pelagic fillets per guest for the whole trip.",
+    "source": "https://www.pelicancharters.com.au/montebello-islands-fishing/"
+   },
+   {
+    "q": "Where do Pelican Montebello trips depart?",
+    "a": "From Dampier. Guests fly Perth to Karratha, and the Montebello page names the Hampton Harbour Yacht Club as the meeting point, 30 minutes before departure.",
+    "source": "https://www.pelicancharters.com.au/montebello-islands-charters/"
+   }
+  ],
+  "same_as": [
+   "https://www.australiasnorthwest.com/listing/pelican-charters/157/",
+   "https://www.australiascoralcoast.com/products/pelican-charters-houtman-abrolhos-islands",
+   "https://www.westernaustralia.com/au/tour/pelican-charters/595249cc39f087cf55400ad0"
+  ],
+  "_hotspot": "dampier",
+  "_verification": "verified",
+  "_sources": [
+   "https://www.pelicancharters.com.au/montebello-islands-fishing/",
+   "https://www.pelicancharters.com.au/montebello-islands-charters/",
+   "https://www.pelicancharters.com.au/livewire/",
+   "https://www.australiasnorthwest.com/listing/pelican-charters/157/"
+  ],
+  "_checked": "2026-11",
+  "_photos": {
+   "hero": {
+    "file": "images/candidates/pelican-charters-montebello/c03.webp",
+    "source_url": "https://www.pelicancharters.com.au/wp-content/uploads/2024/04/livewire-back-flick.jpg",
+    "reason": "Livewire at anchor with rods rigged; 1000x667"
+   },
+   "extras": [
+    {
+     "file": "images/candidates/pelican-charters-montebello/c05.webp",
+     "source_url": "https://www.pelicancharters.com.au/wp-content/uploads/2024/04/Livewire-on-the-beach.jpg"
+    },
+    {
+     "file": "images/candidates/pelican-charters-montebello/c04.webp",
+     "source_url": "https://www.pelicancharters.com.au/wp-content/uploads/2024/04/relaxing-fishing.jpg"
+    }
+   ]
+  },
+  "_notes": "Main business is Perth party/cruise boat hire (Malaga office, 08 9249 1535); website field points at the Montebello fishing page. Site pages updated 2026-10-30 but text is SEO-heavy and inconsistent: fishing season July-Oct vs Aug-Oct, 'Dampier Port' vs Hampton Harbour Yacht Club, 4-day vs 6-night/5-day. No prices published. Older tourism listings also mention Abrolhos trips on the Pelican; not on the current site. Testimonials look templated; check with operator. 80ft converted to 24.4m."
+ }
+]
