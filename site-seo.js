@@ -422,6 +422,80 @@ export const LOCS = {
     ],
     season: "Barramundi are the headline species outside the east-coast closed season (1 November to 31 January). Mangrove jack, fingermark, threadfin salmon, trevally and queenfish can be fished year-round, including during the barra closure. Estuarine crocodiles live in the channel, so keep well back from the water's edge.",
   },
+  // WA hot spots (full guides in data/guides.json, written by the state-wa agent)
+  "perth": {
+    n: "Perth & Rottnest", short: "Perth", in: "in Perth", parent: "western-australia", c: ["perth","hillarys","rottnest","fremantle","mindarie"], state: "WA",
+    intro: [
+      "Perth's offshore fishing has changed. Since 16 December 2025, charter fishing for demersal scalefish such as WA dhufish, pink snapper and baldchin groper has been closed in the Perth metropolitan area, and boat-based recreational demersal fishing across the West Coast bioregion stays closed until spring 2027.",
+      "What remains is some of the best summer game fishing in southern Australia. Out past Rottnest Island, the deep water of the Perth trench (Rottnest Trench) draws marlin, mahi mahi, tuna and wahoo, and private gameboats run there from Hillarys Boat Harbour. Licensed West Coast charters can also offer rock lobster fishing.",
+    ],
+    season: "Charter game fishing in the Perth trench runs from about November to March for marlin, mahi mahi, tuna and wahoo. Boat-based demersal fishing for dhufish and snapper is closed until spring 2027, and charter demersal fishing in the metro area is closed until then too.",
+  },
+  "exmouth": {
+    n: "Exmouth & Ningaloo", short: "Exmouth", in: "in Exmouth and Ningaloo", parent: "western-australia", c: ["exmouth","ningaloo","tantabiddi","coral bay"], state: "WA",
+    intro: [
+      "Exmouth, on the tip of the North West Cape, is one of the few places in Australia where the continental shelf runs within a short run of the boat ramp. Charter boats leave Exmouth Marina on the Gulf side or Tantabiddi on the Ningaloo side and can be trolling for blue, black and striped marlin and sailfish soon after clearing the reef.",
+      "Inside Ningaloo Reef and around the reef edges, charters chase Spanish mackerel, giant trevally, coral trout and spangled emperor, while deeper drops hold red emperor, ruby snapper and goldband snapper. Exmouth Gulf adds sheltered water and, each spring, sailfish packs feeding on bait. Most operators run private day charters for up to six to eight anglers, with some live-aboards to remote islands including the Montebellos.",
+    ],
+    season: "Fishing runs year round. Local operators say billfish can be caught in every month, with different species peaking at different times, and Exmouth Gulf sailfish sight-casting is sold only in October and November. Reef fishing for red emperor and coral trout is available all year, weather permitting.",
+  },
+  "broome": {
+    n: "Broome", short: "Broome", in: "in Broome", parent: "western-australia", c: ["broome","roebuck bay","cable beach"], state: "WA",
+    intro: [
+      "Broome sits on Roebuck Bay at the south-west corner of the Kimberley, and its charters split into two styles. Small open boats work the mangrove creeks and bay, including Dampier Creek and Crab Creek, for barramundi, threadfin salmon, mangrove jack and tripletail, timed around big tides. Larger vessels head 10 to 40 nautical miles offshore for red emperor, coral trout, golden snapper and trevally, trolling for Spanish mackerel and tuna along the way.",
+      "Dedicated gameboats also chase sailfish and black marlin off Broome, and a few live-aboards run to the Rowley Shoals. Unlike the West Coast, boat-based demersal fishing remains open in the North West.",
+    ],
+    season: "The dry season, roughly April to October, brings calm mornings and is peak time for offshore reef trips; operators run daily then. Creek barramundi and threadfin fishing is often best around the build-up and wet season from October to March, when some reef boats only run on demand. Tides drive creek trip times all year.",
+  },
+  "kimberley": {
+    n: "Kimberley", short: "Kimberley", in: "in the Kimberley", parent: "western-australia", c: ["kimberley","kununurra","wyndham","kuri bay","ord river"], state: "WA",
+    intro: [
+      "The Kimberley is Australia's barramundi frontier: a huge, sparsely populated coast of mangrove creeks, rock bars and gorge-lined rivers, most of it reachable only by boat. Fishing here means either a live-aboard mothership working the coast from Broome or Wyndham, or a land-based guide out of Kununurra on the Ord River system.",
+      "Live-aboards fish creeks and rivers such as the Glenelg and bays like Talbot, Doubtful and Secure Bay for barramundi, threadfin, mangrove jack and fingermark, with trevally, queenfish and reef fish around the islands. In the east, Lake Kununurra and the Lower Ord hold barramundi year round thanks to regulated river flows, and guides take visitors to remote waterholes on Aboriginal Country.",
+    ],
+    season: "Kimberley coast live-aboards run in the dry season, roughly late February or April through to October. Some mothership fishing-only trips are timed for October, when big female barramundi gather before the wet. Around Kununurra the dam-regulated Ord gives a year-round river fishery. Check road conditions with the Kununurra Visitor Centre.",
+  },
+  "geraldton": {
+    n: "Geraldton & the Abrolhos", short: "Abrolhos", in: "in Geraldton and the Abrolhos Islands", parent: "western-australia", c: ["geraldton","abrolhos"], state: "WA",
+    intro: [
+      "The Houtman Abrolhos Islands lie about 60 kilometres west of Geraldton: 122 islands in three groups (Wallabi, Easter and Pelsaert) stretching across 100 kilometres of ocean, protected as a national park. The warm Leeuwin Current lets southern fish like WA dhufish, pink snapper and samsonfish share reefs with coral trout and spangled emperor.",
+      "Most visiting anglers fish the islands on three- to six-day live-aboards out of Geraldton, trolling for Spanish mackerel and tuna, working reef edges for baldchin groper and coral trout, and pulling rock lobster pots. Day trips to the islands and near-coast charters also run from Geraldton when weather allows.",
+    ],
+    season: "Abrolhos live-aboards typically run from late summer into winter, roughly late February to June, with operators setting their own windows. The Abrolhos baldchin groper spawning closure runs 1 October to 31 December. Demersal fishing is now limited: only charters holding West Coast demersal tags can keep demersal fish, so ask your operator before booking.",
+  },
+  // TAS hot spots (full guides in data/guides.json, written by the state-tas agent)
+  "hobart": {
+    n: "Hobart & Storm Bay", short: "Hobart", in: "in Hobart", parent: "tasmania", c: ["hobart","storm bay","derwent","margate"], state: "TAS",
+    intro: [
+      "Hobart's fishing charters work the sheltered water south of the city and the River Derwent estuary. Shared boat trips from Margate Marina, about 15 minutes south of the CBD, bottom fish around Blackmans Bay, Bonnet Hill and Opossum Bay for flathead, Australian salmon, squid and wrasse, and suit beginners and families. Private charters can run offshore into Storm Bay waters for southern bluefin tuna and striped trumpeter.",
+      "Hobart is also a base for fly fishing. The lower Derwent estuary holds bream, Australian salmon and sea-run brown trout within minutes of the city, and guides collect anglers from Hobart for day trips to the Derwent Valley rivers and the Central Highlands lakes.",
+    ],
+    season: "Shared inshore trips target flathead, Australian salmon and squid, while offshore private charters chase tuna and striped trumpeter. Striped trumpeter are closed from 1 September to 31 October, and squid in the south-east region (Lemon Rock to Whale Head) from 15 October to 14 November in 2025 and 2026. Sea-run trout in the Derwent are best from July to September.",
+  },
+  "tasman-peninsula": {
+    n: "Tasman Peninsula", short: "Tasman Peninsula", in: "on the Tasman Peninsula", parent: "tasmania", c: ["tasman peninsula","eaglehawk neck","pirates bay","port arthur"], state: "TAS",
+    intro: [
+      "Pirates Bay at Eaglehawk Neck is the gateway to the Tasman Peninsula's game fishing water, where the state fisheries agency lists bluefin tuna, mako shark and swordfish among the catch. Charter boats launch here and at Port Arthur for southern bluefin, albacore and striped tuna, and bottom fish the deep reefs for striped trumpeter, tiger flathead, jackass morwong and ocean perch.",
+      "The peninsula is about 45 minutes' drive from Hobart Airport. On rough days, calmer bay charters fish Frederick Henry Bay from Dodges Ferry for sand flathead, calamari, Australian salmon and whiting, and some boats run reef trips around Maria Island from Dunalley or Orford.",
+    ],
+    season: "Local charters run tuna trips from about March to August. Bottom and reef fishing runs all year, outside the striped trumpeter closure (1 September to 31 October). Yellowtail kingfish and snapper turn up in the bays from November to March.",
+  },
+  "central-highlands": {
+    n: "Central Highlands", short: "Central Highlands", in: "in Tasmania's Central Highlands", parent: "tasmania", c: ["central highlands","great lake","miena","arthurs lake","western lakes"], state: "TAS",
+    intro: [
+      "Tasmania's Central Highlands is a plateau of more than a thousand lakes, lagoons and tarns holding wild brown trout, and it is the heart of the state's fly fishing. Guides base themselves at Miena on yingina / Great Lake, or collect clients from Hobart, and fish by boat or on foot across Great Lake, Arthurs Lake, Penstock and Little Pine lagoons, Lake Crescent and the remote Western Lakes.",
+      "Sight fishing is the local speciality: polaroiding cruising fish, casting to tailing trout on flooded margins and fishing mayfly hatches and gum beetle falls. The weather can swing from calm sun to sleet even in summer, so guides plan several options for each day.",
+    ],
+    season: "Most brown trout waters are open from the first Saturday in August to the Sunday nearest 30 April: 1 August 2026 to 2 May 2027. Great Lake is open all year except Canal Bay (28 November 2026 to 28 March 2027 only). Designated rainbow trout waters open 3 October 2026. Guides report dry fly fishing improving as the weather warms through spring and summer.",
+  },
+  "launceston": {
+    n: "Launceston & the North", short: "Launceston", in: "around Launceston and northern Tasmania", parent: "tasmania", c: ["launceston","tamar","cressy","northern midlands"], state: "TAS",
+    intro: [
+      "Launceston and the Northern Midlands are Tasmania's river country. Guides based in Launceston and at Cressy in the Northern Midlands fish the meadow streams and tailwaters for wild brown and rainbow trout: Brumbys Creek, the South Esk, Macquarie, Meander, North Esk, St Patricks and Mersey rivers, with most water within an hour's drive of accommodation.",
+      "Trips are wading or drifting by raft or boat, and many include tuition, so the region suits first-timers as well as experienced dry fly anglers. Longer trips reach the Central Highlands lakes, the Currawong Lakes private fishery, or the Western Lakes wilderness beside the Walls of Jerusalem National Park.",
+    ],
+    season: "Most rivers are open from 1 August 2026 to 2 May 2027, and the lower sections of Brumbys Creek and the Macquarie, Meander and South Esk rivers stay open until 30 May 2027. One local river guide says dry fly fishing becomes the norm after early October. The kanamaluka / Tamar below the Charles Street and West Tamar Road bridges is open all year.",
+  },
   // ── Species / style collections (kind: 'species') ──────────────────────────
   // sp: match operators whose species tags contain any of these · tt: match trip-type tags
   'barramundi': {
@@ -519,6 +593,8 @@ export const locH1 = (L) => L.h1 || `Fishing Charters ${L.in}`;
 const LICENCE = {
   NSW: ["Do I need a fishing licence on a charter in NSW?", "No. Anglers fishing from a boat that holds a NSW charter fishing boat licence are covered by the operator's licence, so you don't need to pay the NSW recreational fishing fee for the trip. You'll need your own licence if you fish from the shore or a private boat."],
   QLD: ["Do I need a fishing licence in Queensland?", "No. Queensland doesn't require a general recreational fishing licence for saltwater fishing, so you won't need one for a reef, offshore or estuary charter. A Stocked Impoundment Permit is only needed for certain freshwater dams. Size and bag limits still apply."],
+  WA: ["Do I need a fishing licence on a charter in Western Australia?", "No. WA's fisheries department (DPIRD) says paying guests on licensed charter fishing tours don't need a Recreational Fishing from Boat Licence. Recreational bag and size limits still apply, and West Coast demersal scalefish (such as dhufish and snapper) have special rules and closures. Fishing from your own powered boat does need a licence."],
+  TAS: ["Do I need a fishing licence in Tasmania?", "Not for rod-and-line fishing in the sea: Tasmania only requires sea licences for things like rock lobster, abalone, scallops, nets and set lines. Inland waters are different. Anyone 14 or older fishing for trout needs their own Inland Fisheries Service angling licence, including on a guided trip; 48-hour, 7-day, 28-day and season licences are available."],
   NT: ["Do I need a fishing licence in the Northern Territory?", "No. The NT doesn't require a recreational fishing licence. Possession and size limits apply (including for barramundi), and some areas — such as parts of Arnhem Land and other Aboriginal land and waters — need access permits, so check with your operator."],
 };
 
