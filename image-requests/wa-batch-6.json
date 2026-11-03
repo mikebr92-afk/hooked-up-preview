@@ -1,0 +1,7 @@
+{"requests":[
+{"slug":"broome-billfish-charters","pages":["https://broomebillfish.com.au/","https://broomebillfish.com.au/charters_tours/","https://broomebillfish.com.au/chartres_tours/full-day-sports-fishing-shared-charter/","https://broomebillfish.com.au/chartres_tours/full-day-sports-fishing-private-charter/","https://broomebillfish.com.au/chartres_tours/reef-fishing-private-charter/","https://broomebillfish.com.au/chartres_tours/reef-fishing-shared-charter/","https://broomebillfish.com.au/boats","https://broomebillfish.com.au/about/","https://broomebillfish.com.au/fish","https://broomebillfish.com.au/booking-terms-conditions/"],"text":true,"max":16,"follow":false,"force":true},
+{"slug":"offshore-charters-wa","pages":["https://www.offshorecharterswa.com.au/"],"text":true,"max":16,"follow":true},
+{"slug":"abrolhos-adventures","pages":["https://www.abrolhosadventures.com/"],"text":true,"max":16,"follow":true,"force":true},
+{"slug":"blue-horizon-charters-exmouth","pages":["https://www.bluehorizoncharters.com.au/"],"text":true,"max":16,"follow":true},
+{"slug":"aquatic-adventure-exmouth","pages":["https://www.aquaticadventureexmouth.com.au/"],"text":true,"max":16,"follow":true}
+]}
