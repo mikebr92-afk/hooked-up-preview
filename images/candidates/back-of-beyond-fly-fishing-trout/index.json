@@ -1,0 +1,24 @@
+{
+  "slug": "back-of-beyond-fly-fishing-trout",
+  "request_hash": "83dc3dfcaf0b",
+  "collected_at": "2026-11-03T22:37:34.954Z",
+  "pages_fetched": [
+    "https://backofbeyondflyfishing.com/guided-trout-fishing",
+    "https://backofbeyondflyfishing.com/frequently-asked-question"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://backofbeyondflyfishing.com/guided-trout-fishing",
+      "status": 200,
+      "final_url": "https://backofbeyondflyfishing.com/guided-trout-fishing",
+      "bytes": 201328
+    },
+    {
+      "page": "https://backofbeyondflyfishing.com/frequently-asked-question",
+      "status": 200,
+      "final_url": "https://backofbeyondflyfishing.com/frequently-asked-question",
+      "bytes": 149030
+    }
+  ]
+}

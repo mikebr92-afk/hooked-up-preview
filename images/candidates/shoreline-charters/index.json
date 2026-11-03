@@ -1,0 +1,536 @@
+{
+  "slug": "shoreline-charters",
+  "request_hash": "ae0d153068d2",
+  "collected_at": "2026-11-03T22:36:58.834Z",
+  "pages_fetched": [
+    "https://www.shorelinecharters.com.au/",
+    "https://shorelinecharters.com.au/",
+    "https://www.shorelinecharters.com.au/cart",
+    "https://www.shorelinecharters.com.au/marinewildlifetours",
+    "https://www.shorelinecharters.com.au/fishingtrips",
+    "https://www.shorelinecharters.com.au/marineindustryprojects",
+    "https://www.shorelinecharters.com.au/about",
+    "https://www.shorelinecharters.com.au/booknow",
+    "https://www.shorelinecharters.com.au/marine-industry-research"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 2000,
+      "height": 1237,
+      "original": "2208x1366",
+      "source": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/a12ba57c-392a-4c0a-a334-41cd96bab59d/DSCF1088.jpeg?format=2500w",
+      "page": "https://www.shorelinecharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 1627,
+      "height": 2000,
+      "original": "2048x2517",
+      "source": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/0d8eca99-44be-41b7-a11a-4a5edf687874/IMG_4817.JPG?format=2500w",
+      "page": "https://www.shorelinecharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1440,
+      "height": 810,
+      "original": "1440x810",
+      "source": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/7809b7cb-962d-4eef-b896-a9123ec9aa32/IMG_5966.JPG?format=2500w",
+      "page": "https://www.shorelinecharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 2000,
+      "height": 1288,
+      "original": "2330x1501",
+      "source": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/5f3f3630-f7b2-4f1e-b478-18ef5b045088/IMG_2534.jpg?format=2500w",
+      "page": "https://www.shorelinecharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1335,
+      "height": 2000,
+      "original": "2003x3000",
+      "source": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/11c5606b-5751-4ad3-ac68-c441d8efbeb0/Rob+Davis+Portrait+2.jpg?format=2500w",
+      "page": "https://www.shorelinecharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 2000,
+      "height": 1335,
+      "original": "2500x1669",
+      "source": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/26ea7e56-38a5-448b-84a0-40028e96580c/IMG_2542+2.JPG?format=2500w",
+      "page": "https://www.shorelinecharters.com.au/marinewildlifetours",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 2000,
+      "height": 1289,
+      "original": "2041x1315",
+      "source": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/a9fddda9-e797-4e90-9ee5-90070fb99cf3/IMG_2534.jpg?format=2500w",
+      "page": "https://www.shorelinecharters.com.au/marinewildlifetours",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1440,
+      "height": 1080,
+      "original": "1440x1080",
+      "source": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/601abdfd-5aa9-4839-a2fb-eab7c35839ab/IMG_5959.JPG?format=2500w",
+      "page": "https://www.shorelinecharters.com.au/marinewildlifetours",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 2000,
+      "height": 1607,
+      "original": "2447x1966",
+      "source": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/1d3e7f80-70ac-451d-8fd5-403013a9fff6/IMG_2526+2.jpg?format=2500w",
+      "page": "https://www.shorelinecharters.com.au/fishingtrips",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1683,
+      "height": 1262,
+      "original": "1683x1262",
+      "source": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/0c44366b-54a0-4ac6-adde-a836fee21a77/IMG_5962.jpg?format=2500w",
+      "page": "https://www.shorelinecharters.com.au/fishingtrips",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1244,
+      "height": 700,
+      "original": "1244x700",
+      "source": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/884d7a58-b22b-459a-a8cc-69dbefbf0fb1/IMG_5966.jpg?format=2500w",
+      "page": "https://www.shorelinecharters.com.au/fishingtrips",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1777,
+      "height": 1334,
+      "original": "1777x1334",
+      "source": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/3ff73653-8dc6-4c06-bbbc-fc37075b13e6/IMG_5954.jpg?format=2500w",
+      "page": "https://www.shorelinecharters.com.au/fishingtrips",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 968,
+      "height": 726,
+      "original": "968x726",
+      "source": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/179402a6-f782-423c-aa60-fbac31e857c6/caption-1.jpg?format=2500w",
+      "page": "https://www.shorelinecharters.com.au/marineindustryprojects",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 642,
+      "height": 960,
+      "original": "642x960",
+      "source": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/6a77d288-2243-4571-a212-10caa0206fac/383233_305425032835021_1080146287_n.jpg?format=2500w",
+      "page": "https://www.shorelinecharters.com.au/marineindustryprojects",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 960,
+      "height": 720,
+      "original": "960x720",
+      "source": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/ad5674a5-7f72-4604-8b03-ce73af31f3fb/307844_269408106436714_2133669405_n.jpg?format=2500w",
+      "page": "https://www.shorelinecharters.com.au/marineindustryprojects",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1080,
+      "height": 1080,
+      "original": "1080x1080",
+      "source": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/cf17493b-ffde-4b6b-be73-2d0b1646b551/1.png?format=2500w",
+      "page": "https://www.shorelinecharters.com.au/marineindustryprojects",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.shorelinecharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.shorelinecharters.com.au/",
+      "bytes": 176283
+    },
+    {
+      "page": "https://shorelinecharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.shorelinecharters.com.au/",
+      "bytes": 176283
+    },
+    {
+      "page": "https://www.shorelinecharters.com.au/cart",
+      "status": 200,
+      "final_url": "https://www.shorelinecharters.com.au/cart",
+      "bytes": 249455
+    },
+    {
+      "page": "https://www.shorelinecharters.com.au/marinewildlifetours",
+      "status": 200,
+      "final_url": "https://www.shorelinecharters.com.au/marinewildlifetours",
+      "bytes": 409257
+    },
+    {
+      "page": "https://www.shorelinecharters.com.au/fishingtrips",
+      "status": 200,
+      "final_url": "https://www.shorelinecharters.com.au/fishingtrips",
+      "bytes": 193077
+    },
+    {
+      "page": "https://www.shorelinecharters.com.au/marineindustryprojects",
+      "status": 200,
+      "final_url": "https://www.shorelinecharters.com.au/marineindustryprojects",
+      "bytes": 259638
+    },
+    {
+      "page": "https://www.shorelinecharters.com.au/about",
+      "status": 200,
+      "final_url": "https://www.shorelinecharters.com.au/about",
+      "bytes": 154642
+    },
+    {
+      "page": "https://www.shorelinecharters.com.au/booknow",
+      "status": 200,
+      "final_url": "https://www.shorelinecharters.com.au/booknow",
+      "bytes": 185550
+    },
+    {
+      "page": "https://www.shorelinecharters.com.au/marine-industry-research",
+      "status": 404,
+      "final_url": "https://www.shorelinecharters.com.au/marine-industry-research",
+      "bytes": 93306
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/a12ba57c-392a-4c0a-a334-41cd96bab59d/DSCF1088.jpeg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/a12ba57c-392a-4c0a-a334-41cd96bab59d/DSCF1088.jpeg?format=100w",
+      "error": "too small 100x62"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/a12ba57c-392a-4c0a-a334-41cd96bab59d/DSCF1088.jpeg?format=300w",
+      "error": "too small 300x185"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/a12ba57c-392a-4c0a-a334-41cd96bab59d/DSCF1088.jpeg?format=500w",
+      "error": "too small 500x309"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/a12ba57c-392a-4c0a-a334-41cd96bab59d/DSCF1088.jpeg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/a12ba57c-392a-4c0a-a334-41cd96bab59d/DSCF1088.jpeg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/a12ba57c-392a-4c0a-a334-41cd96bab59d/DSCF1088.jpeg?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/0d8eca99-44be-41b7-a11a-4a5edf687874/IMG_4817.JPG"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/0d8eca99-44be-41b7-a11a-4a5edf687874/IMG_4817.JPG?format=100w",
+      "error": "too small 100x123"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/0d8eca99-44be-41b7-a11a-4a5edf687874/IMG_4817.JPG?format=300w",
+      "error": "too small 300x369"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/0d8eca99-44be-41b7-a11a-4a5edf687874/IMG_4817.JPG?format=500w",
+      "error": "too small 500x614"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/0d8eca99-44be-41b7-a11a-4a5edf687874/IMG_4817.JPG?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/0d8eca99-44be-41b7-a11a-4a5edf687874/IMG_4817.JPG?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/0d8eca99-44be-41b7-a11a-4a5edf687874/IMG_4817.JPG?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/7809b7cb-962d-4eef-b896-a9123ec9aa32/IMG_5966.JPG"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/7809b7cb-962d-4eef-b896-a9123ec9aa32/IMG_5966.JPG?format=100w",
+      "error": "too small 100x56"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/7809b7cb-962d-4eef-b896-a9123ec9aa32/IMG_5966.JPG?format=300w",
+      "error": "too small 300x169"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/7809b7cb-962d-4eef-b896-a9123ec9aa32/IMG_5966.JPG?format=500w",
+      "error": "too small 500x281"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/7809b7cb-962d-4eef-b896-a9123ec9aa32/IMG_5966.JPG?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/7809b7cb-962d-4eef-b896-a9123ec9aa32/IMG_5966.JPG?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/7809b7cb-962d-4eef-b896-a9123ec9aa32/IMG_5966.JPG?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/5f3f3630-f7b2-4f1e-b478-18ef5b045088/IMG_2534.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/5f3f3630-f7b2-4f1e-b478-18ef5b045088/IMG_2534.jpg?format=100w",
+      "error": "too small 100x64"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/5f3f3630-f7b2-4f1e-b478-18ef5b045088/IMG_2534.jpg?format=300w",
+      "error": "too small 300x193"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/5f3f3630-f7b2-4f1e-b478-18ef5b045088/IMG_2534.jpg?format=500w",
+      "error": "too small 500x322"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/5f3f3630-f7b2-4f1e-b478-18ef5b045088/IMG_2534.jpg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/5f3f3630-f7b2-4f1e-b478-18ef5b045088/IMG_2534.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/5f3f3630-f7b2-4f1e-b478-18ef5b045088/IMG_2534.jpg?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/11c5606b-5751-4ad3-ac68-c441d8efbeb0/Rob+Davis+Portrait+2.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/11c5606b-5751-4ad3-ac68-c441d8efbeb0/Rob+Davis+Portrait+2.jpg?format=100w",
+      "error": "too small 100x150"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/11c5606b-5751-4ad3-ac68-c441d8efbeb0/Rob+Davis+Portrait+2.jpg?format=300w",
+      "error": "too small 300x450"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/11c5606b-5751-4ad3-ac68-c441d8efbeb0/Rob+Davis+Portrait+2.jpg?format=500w",
+      "error": "too small 500x749"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/11c5606b-5751-4ad3-ac68-c441d8efbeb0/Rob+Davis+Portrait+2.jpg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/11c5606b-5751-4ad3-ac68-c441d8efbeb0/Rob+Davis+Portrait+2.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/11c5606b-5751-4ad3-ac68-c441d8efbeb0/Rob+Davis+Portrait+2.jpg?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/26e6b161-660f-421e-8dcf-91bfebe0b2d6/IMG_2601.JPG?format=2500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/26ea7e56-38a5-448b-84a0-40028e96580c/IMG_2542+2.JPG"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/26ea7e56-38a5-448b-84a0-40028e96580c/IMG_2542+2.JPG?format=100w",
+      "error": "too small 100x67"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/26ea7e56-38a5-448b-84a0-40028e96580c/IMG_2542+2.JPG?format=300w",
+      "error": "too small 300x200"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/26ea7e56-38a5-448b-84a0-40028e96580c/IMG_2542+2.JPG?format=500w",
+      "error": "too small 500x334"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/26ea7e56-38a5-448b-84a0-40028e96580c/IMG_2542+2.JPG?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/26ea7e56-38a5-448b-84a0-40028e96580c/IMG_2542+2.JPG?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/26ea7e56-38a5-448b-84a0-40028e96580c/IMG_2542+2.JPG?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/26e6b161-660f-421e-8dcf-91bfebe0b2d6/IMG_2601.JPG"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/a9fddda9-e797-4e90-9ee5-90070fb99cf3/IMG_2534.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/601abdfd-5aa9-4839-a2fb-eab7c35839ab/IMG_5959.JPG"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/26e6b161-660f-421e-8dcf-91bfebe0b2d6/IMG_2601.JPG?format=100w",
+      "error": "too small 100x123"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/26e6b161-660f-421e-8dcf-91bfebe0b2d6/IMG_2601.JPG?format=300w",
+      "error": "too small 300x369"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/26e6b161-660f-421e-8dcf-91bfebe0b2d6/IMG_2601.JPG?format=500w",
+      "error": "too small 500x614"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/26e6b161-660f-421e-8dcf-91bfebe0b2d6/IMG_2601.JPG?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/26e6b161-660f-421e-8dcf-91bfebe0b2d6/IMG_2601.JPG?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/26e6b161-660f-421e-8dcf-91bfebe0b2d6/IMG_2601.JPG?format=1500w"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/a9fddda9-e797-4e90-9ee5-90070fb99cf3/IMG_2534.jpg?format=100w",
+      "error": "too small 100x64"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/a9fddda9-e797-4e90-9ee5-90070fb99cf3/IMG_2534.jpg?format=300w",
+      "error": "too small 300x193"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/a9fddda9-e797-4e90-9ee5-90070fb99cf3/IMG_2534.jpg?format=500w",
+      "error": "too small 500x322"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/a9fddda9-e797-4e90-9ee5-90070fb99cf3/IMG_2534.jpg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/a9fddda9-e797-4e90-9ee5-90070fb99cf3/IMG_2534.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/a9fddda9-e797-4e90-9ee5-90070fb99cf3/IMG_2534.jpg?format=1500w"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/601abdfd-5aa9-4839-a2fb-eab7c35839ab/IMG_5959.JPG?format=100w",
+      "error": "too small 100x75"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/601abdfd-5aa9-4839-a2fb-eab7c35839ab/IMG_5959.JPG?format=300w",
+      "error": "too small 300x225"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/601abdfd-5aa9-4839-a2fb-eab7c35839ab/IMG_5959.JPG?format=500w",
+      "error": "too small 500x375"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/601abdfd-5aa9-4839-a2fb-eab7c35839ab/IMG_5959.JPG?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/601abdfd-5aa9-4839-a2fb-eab7c35839ab/IMG_5959.JPG?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/601abdfd-5aa9-4839-a2fb-eab7c35839ab/IMG_5959.JPG?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/1d3e7f80-70ac-451d-8fd5-403013a9fff6/IMG_2526+2.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/1d3e7f80-70ac-451d-8fd5-403013a9fff6/IMG_2526+2.jpg?format=100w",
+      "error": "too small 100x80"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/1d3e7f80-70ac-451d-8fd5-403013a9fff6/IMG_2526+2.jpg?format=300w",
+      "error": "too small 300x241"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/1d3e7f80-70ac-451d-8fd5-403013a9fff6/IMG_2526+2.jpg?format=500w",
+      "error": "too small 500x402"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/1d3e7f80-70ac-451d-8fd5-403013a9fff6/IMG_2526+2.jpg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/1d3e7f80-70ac-451d-8fd5-403013a9fff6/IMG_2526+2.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/1d3e7f80-70ac-451d-8fd5-403013a9fff6/IMG_2526+2.jpg?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/0c44366b-54a0-4ac6-adde-a836fee21a77/IMG_5962.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/884d7a58-b22b-459a-a8cc-69dbefbf0fb1/IMG_5966.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/3ff73653-8dc6-4c06-bbbc-fc37075b13e6/IMG_5954.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/0c44366b-54a0-4ac6-adde-a836fee21a77/IMG_5962.jpg?format=100w",
+      "error": "too small 100x75"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/0c44366b-54a0-4ac6-adde-a836fee21a77/IMG_5962.jpg?format=300w",
+      "error": "too small 300x225"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/0c44366b-54a0-4ac6-adde-a836fee21a77/IMG_5962.jpg?format=500w",
+      "error": "too small 500x375"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/0c44366b-54a0-4ac6-adde-a836fee21a77/IMG_5962.jpg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/0c44366b-54a0-4ac6-adde-a836fee21a77/IMG_5962.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/0c44366b-54a0-4ac6-adde-a836fee21a77/IMG_5962.jpg?format=1500w"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/884d7a58-b22b-459a-a8cc-69dbefbf0fb1/IMG_5966.jpg?format=100w",
+      "error": "too small 100x56"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/884d7a58-b22b-459a-a8cc-69dbefbf0fb1/IMG_5966.jpg?format=300w",
+      "error": "too small 300x169"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/884d7a58-b22b-459a-a8cc-69dbefbf0fb1/IMG_5966.jpg?format=500w",
+      "error": "too small 500x281"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/884d7a58-b22b-459a-a8cc-69dbefbf0fb1/IMG_5966.jpg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/884d7a58-b22b-459a-a8cc-69dbefbf0fb1/IMG_5966.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/884d7a58-b22b-459a-a8cc-69dbefbf0fb1/IMG_5966.jpg?format=1500w"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/3ff73653-8dc6-4c06-bbbc-fc37075b13e6/IMG_5954.jpg?format=100w",
+      "error": "too small 100x75"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/3ff73653-8dc6-4c06-bbbc-fc37075b13e6/IMG_5954.jpg?format=300w",
+      "error": "too small 300x225"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/3ff73653-8dc6-4c06-bbbc-fc37075b13e6/IMG_5954.jpg?format=500w",
+      "error": "too small 500x376"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/3ff73653-8dc6-4c06-bbbc-fc37075b13e6/IMG_5954.jpg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/3ff73653-8dc6-4c06-bbbc-fc37075b13e6/IMG_5954.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/3ff73653-8dc6-4c06-bbbc-fc37075b13e6/IMG_5954.jpg?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/67a54dcf19e11a7afa9139aa/7309b888-0cf6-4d95-9ec6-368779f15256/IMG_5959.JPG?format=2500w"
+    }
+  ]
+}

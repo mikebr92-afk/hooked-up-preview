@@ -1,0 +1,24 @@
+{
+  "slug": "melbourne-fishing-charters",
+  "request_hash": "a0a3d10c6ba9",
+  "collected_at": "2026-11-03T22:37:34.603Z",
+  "pages_fetched": [
+    "https://www.melbournefishingcharters.com.au/",
+    "https://melbournefishingcharters.com.au/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.melbournefishingcharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.melbournefishingcharters.com.au/",
+      "bytes": 114
+    },
+    {
+      "page": "https://melbournefishingcharters.com.au/",
+      "status": 200,
+      "final_url": "https://melbournefishingcharters.com.au/",
+      "bytes": 114
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "slug": "vic-disc-lists5",
+  "request_hash": "33a20327a72e",
+  "collected_at": "2026-11-03T22:36:03.775Z",
+  "pages_fetched": [
+    "https://www.visiteastgippsland.com.au/?p=17170",
+    "https://www.visiteastgippsland.com.au/?p=16711",
+    "https://www.yarrawongamulwala.com.au/things-to-do/fishing",
+    "https://www.visitechucamoama.com.au/things-to-do/get-outdoors/fishing",
+    "https://www.visitthemurray.com.au/things-to-do/on-the-river/fishing",
+    "https://visitgreatoceanroad.org.au/?p=7379",
+    "https://www.betterthanworkingcharters.com.au/sitemap.xml",
+    "https://www.betterthanworkingcharters.com.au/robots.txt",
+    "https://mildura.com/article/an-experts-guide-to-fishing-in-tropical-north-victoria",
+    "https://www.tripadvisor.com.au/Attraction_Review-g255408-d8608184-Reviews-Matthew_Hunt_Fishing_Services-Portland_Victoria.html",
+    "https://shorelinechartersbookings.rezdy.com/713716/7-8-hour-fishing-trip"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.visiteastgippsland.com.au/?p=17170",
+      "status": 404,
+      "final_url": "https://www.visiteastgippsland.com.au/?p=17170",
+      "bytes": 289215
+    },
+    {
+      "page": "https://www.visiteastgippsland.com.au/?p=16711",
+      "status": 404,
+      "final_url": "https://www.visiteastgippsland.com.au/?p=16711",
+      "bytes": 289215
+    },
+    {
+      "page": "https://www.yarrawongamulwala.com.au/things-to-do/fishing",
+      "status": 200,
+      "final_url": "https://www.yarrawongamulwala.com.au/things-to-do/fishing",
+      "bytes": 89693
+    },
+    {
+      "page": "https://www.visitechucamoama.com.au/things-to-do/get-outdoors/fishing",
+      "status": 404,
+      "final_url": "https://www.visitechucamoama.com.au/things-to-do/get-outdoors/fishing",
+      "bytes": 270566
+    },
+    {
+      "page": "https://www.visitthemurray.com.au/things-to-do/on-the-river/fishing",
+      "status": 200,
+      "final_url": "https://www.visitthemurray.com.au/see-do/the-river/fishing",
+      "bytes": 212711
+    },
+    {
+      "page": "https://visitgreatoceanroad.org.au/?p=7379",
+      "status": 404,
+      "final_url": "https://visitgreatoceanroad.org.au/?p=7379",
+      "bytes": 183253
+    },
+    {
+      "page": "https://www.betterthanworkingcharters.com.au/sitemap.xml",
+      "status": 200,
+      "final_url": "https://www.betterthanworkingcharters.com.au/sitemap.xml",
+      "bytes": 9299
+    },
+    {
+      "page": "https://www.betterthanworkingcharters.com.au/robots.txt",
+      "status": 200,
+      "final_url": "https://www.betterthanworkingcharters.com.au/robots.txt",
+      "bytes": 9299
+    },
+    {
+      "page": "https://mildura.com/article/an-experts-guide-to-fishing-in-tropical-north-victoria",
+      "status": 200,
+      "final_url": "https://mildura.com/article/an-experts-guide-to-fishing-in-tropical-north-victoria/",
+      "bytes": 161416
+    },
+    {
+      "page": "https://www.tripadvisor.com.au/Attraction_Review-g255408-d8608184-Reviews-Matthew_Hunt_Fishing_Services-Portland_Victoria.html",
+      "status": 403,
+      "final_url": "https://www.tripadvisor.com.au/Attraction_Review-g255408-d8608184-Reviews-Matthew_Hunt_Fishing_Services-Portland_Victoria.html",
+      "bytes": 778
+    },
+    {
+      "page": "https://shorelinechartersbookings.rezdy.com/713716/7-8-hour-fishing-trip",
+      "status": 403,
+      "final_url": "https://shorelinechartersbookings.rezdy.com/713716/7-8-hour-fishing-trip",
+      "bytes": 5187
+    }
+  ]
+}

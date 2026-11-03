@@ -1,5 +1,5 @@
 {
-  "finished_at": "2026-11-03T22:31:50.826Z",
+  "finished_at": "2026-11-03T22:37:34.954Z",
   "summary": [
     {
       "slug": "vic-disc-vfa-licence",
@@ -59,73 +59,84 @@
     },
     {
       "slug": "vic-disc-lists4",
-      "candidates": 0,
-      "pages": 12
+      "skipped": true
     },
     {
       "slug": "vic-disc-vfa-archive",
-      "candidates": 0,
-      "pages": 5
+      "skipped": true
     },
     {
       "slug": "gone-fishing-charters",
-      "candidates": 16,
-      "pages": 11
+      "skipped": true
     },
     {
       "slug": "queenscliff-fishing-charters",
-      "candidates": 7,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "far-out-charters",
-      "candidates": 14,
-      "pages": 12
+      "skipped": true
     },
     {
       "slug": "sharkmen-fishing-charters",
-      "candidates": 9,
-      "pages": 7
+      "skipped": true
     },
     {
       "slug": "better-than-working-charters",
-      "candidates": 0,
-      "pages": 1
+      "skipped": true
     },
     {
       "slug": "salty-dog-charters",
-      "candidates": 16,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "lake-mulwala-sportfishing",
-      "candidates": 16,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "cassar-fishing-charters",
+      "skipped": true
+    },
+    {
+      "slug": "southern-coast-charters",
+      "skipped": true
+    },
+    {
+      "slug": "lakes-entrance-offshore-charters",
+      "skipped": true
+    },
+    {
+      "slug": "back-of-beyond-fly-fishing",
+      "skipped": true
+    },
+    {
+      "slug": "relax-go-fishing",
+      "skipped": true
+    },
+    {
+      "slug": "vic-disc-lists5",
+      "candidates": 0,
+      "pages": 11
+    },
+    {
+      "slug": "shoreline-charters",
       "candidates": 16,
       "pages": 9
     },
     {
-      "slug": "southern-coast-charters",
-      "candidates": 0,
-      "pages": 2
-    },
-    {
-      "slug": "lakes-entrance-offshore-charters",
-      "candidates": 0,
-      "pages": 2
-    },
-    {
-      "slug": "back-of-beyond-fly-fishing",
+      "slug": "game-on-charters",
       "candidates": 8,
-      "pages": 12
+      "pages": 10
     },
     {
-      "slug": "relax-go-fishing",
-      "candidates": 12,
-      "pages": 11
+      "slug": "melbourne-fishing-charters",
+      "candidates": 0,
+      "pages": 2
+    },
+    {
+      "slug": "back-of-beyond-fly-fishing-trout",
+      "candidates": 0,
+      "pages": 2
     }
   ]
 }
