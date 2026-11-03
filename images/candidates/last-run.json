@@ -1,5 +1,5 @@
 {
-  "finished_at": "2026-11-03T22:40:23.382Z",
+  "finished_at": "2026-11-03T22:44:47.602Z",
   "summary": [
     {
       "slug": "tas-d-tgalt-guides",
@@ -51,63 +51,71 @@
     },
     {
       "slug": "riverfly-1864",
-      "candidates": 16,
-      "pages": 9
+      "skipped": true
     },
     {
       "slug": "red-tag-trout-tours",
-      "candidates": 16,
-      "pages": 11
+      "skipped": true
     },
     {
       "slug": "tassie-fly-guide",
-      "candidates": 13,
-      "pages": 3
+      "skipped": true
     },
     {
       "slug": "mayfly-guiding",
-      "candidates": 9,
-      "pages": 4
+      "skipped": true
     },
     {
       "slug": "peter-hayes-fly-fishing",
-      "candidates": 12,
-      "pages": 11
+      "skipped": true
     },
     {
       "slug": "tas-high-country-fly-fish-tours",
-      "candidates": 11,
-      "pages": 3
+      "skipped": true
     },
     {
       "slug": "miena-guiding-tasmania",
-      "candidates": 16,
-      "pages": 9
+      "skipped": true
     },
     {
       "slug": "troutfit-guiding",
-      "candidates": 16,
-      "pages": 11
+      "skipped": true
     },
     {
       "slug": "tas-d-tgalt-listings",
-      "candidates": 0,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "tas-d-dt-more",
+      "skipped": true
+    },
+    {
+      "slug": "tas-d-wildseafood-site",
+      "skipped": true
+    },
+    {
+      "slug": "tas-d-pirates-bay-fb",
+      "skipped": true
+    },
+    {
+      "slug": "gone-fishing-charters-st-helens",
+      "candidates": 0,
+      "pages": 1
+    },
+    {
+      "slug": "tas-d-tassiefly-more",
+      "candidates": 0,
+      "pages": 3
+    },
+    {
+      "slug": "tas-d-spirit",
       "candidates": 0,
       "pages": 4
     },
     {
-      "slug": "tas-d-wildseafood-site",
+      "slug": "tas-d-hotspots-gov",
       "candidates": 0,
-      "pages": 8
-    },
-    {
-      "slug": "tas-d-pirates-bay-fb",
-      "candidates": 0,
-      "pages": 2
+      "pages": 3
     },
     {
       "slug": "tas-d-tgalt",

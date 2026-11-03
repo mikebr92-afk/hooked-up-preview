@@ -1,0 +1,31 @@
+{
+  "slug": "tas-d-hotspots-gov",
+  "request_hash": "cbae881362e8",
+  "collected_at": "2026-11-03T22:44:47.600Z",
+  "pages_fetched": [
+    "https://fishing.tas.gov.au/recreational-fishing/fishing-tips/hot-fishing-spots/fishing-around-st-helens",
+    "https://fishing.tas.gov.au/recreational-fishing/fishing-tips/hot-fishing-spots/fishing-around-the-tasman-peninsula-region",
+    "https://fishing.tas.gov.au/recreational-fishing/rules/recreational-fishing-seasons"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://fishing.tas.gov.au/recreational-fishing/fishing-tips/hot-fishing-spots/fishing-around-st-helens",
+      "status": 200,
+      "final_url": "https://fishing.tas.gov.au/recreational-fishing/fishing-tips/hot-fishing-spots/fishing-around-st-helens",
+      "bytes": 87056
+    },
+    {
+      "page": "https://fishing.tas.gov.au/recreational-fishing/fishing-tips/hot-fishing-spots/fishing-around-the-tasman-peninsula-region",
+      "status": 200,
+      "final_url": "https://fishing.tas.gov.au/recreational-fishing/fishing-tips/hot-fishing-spots/fishing-around-the-tasman-peninsula-region",
+      "bytes": 87404
+    },
+    {
+      "page": "https://fishing.tas.gov.au/recreational-fishing/rules/recreational-fishing-seasons",
+      "status": 200,
+      "final_url": "https://fishing.tas.gov.au/recreational-fishing/rules/recreational-fishing-seasons",
+      "bytes": 88391
+    }
+  ]
+}

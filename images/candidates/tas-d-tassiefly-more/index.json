@@ -1,0 +1,31 @@
+{
+  "slug": "tas-d-tassiefly-more",
+  "request_hash": "9179ff6c29d1",
+  "collected_at": "2026-11-03T22:44:31.360Z",
+  "pages_fetched": [
+    "https://tassieflyguide.com.au/guiding",
+    "https://tassieflyguide.com.au/reviews",
+    "https://tassieflyguide.com.au/blog"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://tassieflyguide.com.au/guiding",
+      "status": 200,
+      "final_url": "https://tassieflyguide.com.au/guiding",
+      "bytes": 125677
+    },
+    {
+      "page": "https://tassieflyguide.com.au/reviews",
+      "status": 200,
+      "final_url": "https://tassieflyguide.com.au/reviews",
+      "bytes": 131756
+    },
+    {
+      "page": "https://tassieflyguide.com.au/blog",
+      "status": 200,
+      "final_url": "https://tassieflyguide.com.au/blog",
+      "bytes": 473832
+    }
+  ]
+}

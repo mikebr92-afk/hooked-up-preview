@@ -1,0 +1,38 @@
+{
+  "slug": "tas-d-spirit",
+  "request_hash": "8286aa146db4",
+  "collected_at": "2026-11-03T22:44:44.478Z",
+  "pages_fetched": [
+    "https://www.spiritoftasmania.com.au/things-to-do/south-east-charters",
+    "https://www.spiritoftasmania.com.au/things-to-do/tasmania-double-hook-fishing-charters-and-tours",
+    "https://www.spiritoftasmania.com.au/things-to-do/keen-angler-charters",
+    "https://www.spiritoftasmania.com.au/things-to-do/st-helens-fishing"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.spiritoftasmania.com.au/things-to-do/south-east-charters",
+      "status": 200,
+      "final_url": "https://www.spiritoftasmania.com.au/things-to-do/south-east-charters/",
+      "bytes": 744555
+    },
+    {
+      "page": "https://www.spiritoftasmania.com.au/things-to-do/tasmania-double-hook-fishing-charters-and-tours",
+      "status": 404,
+      "final_url": "https://www.spiritoftasmania.com.au/things-to-do/tasmania-double-hook-fishing-charters-and-tours",
+      "bytes": 680319
+    },
+    {
+      "page": "https://www.spiritoftasmania.com.au/things-to-do/keen-angler-charters",
+      "status": 200,
+      "final_url": "https://www.spiritoftasmania.com.au/things-to-do/keen-angler-charters/",
+      "bytes": 745539
+    },
+    {
+      "page": "https://www.spiritoftasmania.com.au/things-to-do/st-helens-fishing",
+      "status": 404,
+      "final_url": "https://www.spiritoftasmania.com.au/things-to-do/st-helens-fishing",
+      "bytes": 680169
+    }
+  ]
+}

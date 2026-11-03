@@ -1,0 +1,15 @@
+{
+  "slug": "gone-fishing-charters-st-helens",
+  "request_hash": "ae76d9cbe657",
+  "collected_at": "2026-11-03T22:44:30.168Z",
+  "pages_fetched": [
+    "http://www.breamfishing.com.au/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "http://www.breamfishing.com.au/",
+      "error": "fetch failed"
+    }
+  ]
+}
