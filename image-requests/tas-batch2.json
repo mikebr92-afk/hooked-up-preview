@@ -1,0 +1,14 @@
+{"requests":[
+ {"slug":"tas-d-tgalt-guides","pages":["https://www.troutguidestasmania.com.au/guide/"],"text":true,"max":0,"follow":false},
+ {"slug":"tas-d-ifs-rules","pages":["https://www.ifs.tas.gov.au/the-rules/angling-licence","https://www.ifs.tas.gov.au/the-rules/season-dates-and-times"],"text":true,"max":0,"follow":false},
+ {"slug":"tas-d-charter-tourism","pages":["https://fishing.tas.gov.au/Pages/Charter-and-Seafood-Tourism.aspx","https://fishing.tas.gov.au/Pages/Hot-Fishing-Spots.aspx"],"text":true,"max":0,"follow":true},
+ {"slug":"tas-d-fb-hobart","pages":["https://fishingbooker.com/destinations/location/au/TS/hobart"],"text":true,"max":0,"follow":false},
+ {"slug":"tas-d-fb-tasmania","pages":["https://fishingbooker.com/destinations/region/au/TS"],"text":true,"max":0,"follow":false},
+ {"slug":"trout-tales-tasmania","pages":["https://www.trouttalestasmania.com.au/","https://www.trouttalestasmania.com.au/fly-fishing-tasmania-packages","https://www.trouttalestasmania.com.au/about"],"text":true,"max":16,"follow":true},
+ {"slug":"trout-territory","pages":["https://www.troutterritory.com.au/"],"text":true,"max":16,"follow":true},
+ {"slug":"tasmania-fly-fishing","pages":["https://www.tasmaniaflyfishing.com.au/"],"text":true,"max":16,"follow":true},
+ {"slug":"divers-fishing-charters-hobart","pages":["https://www.tasyachttrip.com.au/","https://www.tasyachttrip.com.au/products"],"text":true,"max":16,"follow":true},
+ {"slug":"south-east-charters","pages":["https://www.southeastcharters.com.au/"],"text":true,"max":16,"follow":true},
+ {"slug":"mr-flathead","pages":["https://mrflathead.com.au/"],"text":true,"max":16,"follow":true},
+ {"slug":"tas-d-keen-angler-ec","pages":["https://eastcoasttasmania.com/atdw_listings/keen-angler-charters/","https://eastcoasttasmania.com/to-do/adventure/itinerary/fishing/"],"text":true,"max":12,"follow":false}
+]}
