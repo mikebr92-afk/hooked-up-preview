@@ -1,0 +1,5 @@
+{"requests":[
+ {"slug":"tas-d-mayfly-packages","pages":["https://mayflyguiding.com.au/packages"],"text":true,"max":0,"follow":false},
+ {"slug":"tas-d-dt-products","pages":["https://production.tourismtasmania.com.au/things-to-do/tours/keenanglercharters/charter-fishing-tour/","https://discovertasmania.com.au/things-to-do/tours/southeastcharters/south-east-charter-tour","https://discovertasmania.com.au/things-to-do/tours/mrflathead/bay-fishing-and-sightseeing-tour"],"text":true,"max":0,"follow":false},
+ {"slug":"tas-d-tripadvisor","pages":["https://www.tripadvisor.com.au/Attraction_Review-g504328-d10112852-Reviews-Michael_Haley_Gone_Fishing_Charters-St_Helens_Break_O_Day_Tasmania.html","https://www.tripadvisor.com/Attraction_Review-g504294-d10375373-Reviews-Eaglehawk_Neck_Fishing_Charters-Eaglehawk_Neck_Tasmania.html"],"text":true,"max":0,"follow":false}
+]}
