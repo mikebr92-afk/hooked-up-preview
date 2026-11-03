@@ -1,0 +1,18 @@
+{"requests":[
+ {"slug":"tas-d-tgalt","pages":["https://www.troutguidestasmania.com.au/"],"text":true,"max":0,"follow":true},
+ {"slug":"tas-d-ifs-advice","pages":["https://ifs.tas.gov.au/get-expert-advice","https://www.ifs.tas.gov.au/"],"text":true,"max":0,"follow":true},
+ {"slug":"tas-d-centralhighlands","pages":["https://centralhighlands.tas.gov.au/fishing-in-the-central-highlands/"],"text":true,"max":0,"follow":false},
+ {"slug":"tas-d-trouttales-links","pages":["https://www.trouttalestasmania.com.au/blog/tasmanian-fishing-links"],"text":true,"max":0,"follow":false},
+ {"slug":"tas-d-fishing-tas","pages":["https://fishing.tas.gov.au/","https://fishing.tas.gov.au/recreational-fishing/licences"],"text":true,"max":0,"follow":true},
+ {"slug":"tas-d-dt-doublehook","pages":["https://www.discovertasmania.com.au/things-to-do/tours/tasmania-double-hook-fishing-charters-and-tours/"],"text":true,"max":0,"follow":false},
+ {"slug":"tas-d-dt-keenangler","pages":["https://www.discovertasmania.com.au/things-to-do/tours/keenanglercharters/"],"text":true,"max":0,"follow":false},
+ {"slug":"tas-d-dt-allround","pages":["https://discovertasmania.com.au/things-to-do/tours/allroundguide"],"text":true,"max":0,"follow":false},
+ {"slug":"tas-d-dt-unique","pages":["https://discovertasmania.com.au/things-to-do/tours/uniquefishingtours"],"text":true,"max":0,"follow":false},
+ {"slug":"tas-d-dt-divers","pages":["https://www.discovertasmania.com.au/things-to-do/tours/divers-fishing-charters-hobart"],"text":true,"max":0,"follow":false},
+ {"slug":"tas-d-dt-southeast","pages":["https://discovertasmania.com.au/things-to-do/tours/southeastcharters"],"text":true,"max":0,"follow":false},
+ {"slug":"tas-d-dt-mrflathead","pages":["https://discovertasmania.com.au/things-to-do/tours/mrflathead"],"text":true,"max":0,"follow":false},
+ {"slug":"tas-d-dt-swansea","pages":["https://www.discovertasmania.com.au/things-to-do/tours/swanseafishingcharterstasmania/"],"text":true,"max":0,"follow":false},
+ {"slug":"tas-d-dt-troutterritory","pages":["https://www.discovertasmania.com.au/things-to-do/tours/troutterritory/"],"text":true,"max":0,"follow":false},
+ {"slug":"tas-d-dt-wildseafood","pages":["https://discovertasmania.com.au/things-to-do/tours/tasmanianwildseafoodadventures"],"text":true,"max":0,"follow":false},
+ {"slug":"tas-d-tasfish-gamecharter","pages":["https://tasfish.com/124-tuna/471-plan-a-game-fishing-charter-now"],"text":true,"max":0,"follow":false}
+]}
