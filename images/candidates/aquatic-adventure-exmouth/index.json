@@ -1,0 +1,15 @@
+{
+  "slug": "aquatic-adventure-exmouth",
+  "request_hash": "61de0982a652",
+  "collected_at": "2026-11-03T22:50:16.274Z",
+  "pages_fetched": [
+    "https://www.aquaticadventureexmouth.com.au/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.aquaticadventureexmouth.com.au/",
+      "error": "fetch failed"
+    }
+  ]
+}

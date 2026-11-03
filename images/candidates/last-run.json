@@ -1,5 +1,5 @@
 {
-  "finished_at": "2026-11-03T22:44:59.168Z",
+  "finished_at": "2026-11-03T22:50:16.275Z",
   "summary": [
     {
       "slug": "research-wa-rules",
@@ -113,13 +113,36 @@
     },
     {
       "slug": "research-wa-geraldton",
-      "candidates": 0,
-      "pages": 4
+      "skipped": true
     },
     {
       "slug": "research-wa-broome-3",
+      "skipped": true
+    },
+    {
+      "slug": "broome-billfish-charters",
+      "candidates": 16,
+      "pages": 10
+    },
+    {
+      "slug": "offshore-charters-wa",
+      "candidates": 16,
+      "pages": 8
+    },
+    {
+      "slug": "abrolhos-adventures",
       "candidates": 0,
-      "pages": 4
+      "pages": 1
+    },
+    {
+      "slug": "blue-horizon-charters-exmouth",
+      "candidates": 16,
+      "pages": 10
+    },
+    {
+      "slug": "aquatic-adventure-exmouth",
+      "candidates": 0,
+      "pages": 1
     },
     {
       "slug": "research-wa-broome-sport",

@@ -1,0 +1,214 @@
+{
+  "slug": "offshore-charters-wa",
+  "request_hash": "e8db813f3a1b",
+  "collected_at": "2026-11-03T22:48:52.124Z",
+  "pages_fetched": [
+    "https://www.offshorecharterswa.com.au/",
+    "https://www.offshorecharterswa.com.au/gallery",
+    "https://www.offshorecharterswa.com.au/snorkeling",
+    "https://www.offshorecharterswa.com.au/abrolhos-islands",
+    "https://www.offshorecharterswa.com.au/crayfish-charters",
+    "https://www.offshorecharterswa.com.au/fishing-charters",
+    "https://www.offshorecharterswa.com.au/whale-watching",
+    "https://www.offshorecharterswa.com.au/about-1"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1490,
+      "height": 1118,
+      "original": "1490x1118",
+      "source": "https://static.wixstatic.com/media/94da5d_1defeceb5912405faf0fcd9ffca96856~mv2.png",
+      "page": "https://www.offshorecharterswa.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 1968,
+      "height": 799,
+      "original": "1968x799",
+      "source": "https://static.wixstatic.com/media/94da5d_d12571cf5b864fe4b31246035c78b743~mv2.png",
+      "page": "https://www.offshorecharterswa.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1482,
+      "height": 1113,
+      "original": "1482x1113",
+      "source": "https://static.wixstatic.com/media/94da5d_32a9a5014585433dadde927b78bf6974~mv2.png",
+      "page": "https://www.offshorecharterswa.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1536x2048",
+      "source": "https://static.wixstatic.com/media/94da5d_5d8c799a2ed845ef879f9282d268f802~mv2.jpg",
+      "page": "https://www.offshorecharterswa.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1536x2048",
+      "source": "https://static.wixstatic.com/media/94da5d_f408b16f9c904bf1a10b97a77dbafe18~mv2.jpg",
+      "page": "https://www.offshorecharterswa.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1536x2048",
+      "source": "https://static.wixstatic.com/media/94da5d_2d409881972f46638599bf0129f9db25~mv2.jpg",
+      "page": "https://www.offshorecharterswa.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1536x2048",
+      "source": "https://static.wixstatic.com/media/94da5d_cfc59f1c500c4e6c9b831a8e647ee1b7~mv2.jpg",
+      "page": "https://www.offshorecharterswa.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1921x2561",
+      "source": "https://static.wixstatic.com/media/94da5d_f37fdc70dafd45419928e0545eed7c19~mv2.png",
+      "page": "https://www.offshorecharterswa.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1536x2048",
+      "source": "https://static.wixstatic.com/media/94da5d_4015a97285cd489ca32a8b7cef2f987e~mv2.jpg",
+      "page": "https://www.offshorecharterswa.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 750,
+      "height": 734,
+      "original": "750x734",
+      "source": "https://static.wixstatic.com/media/94da5d_92cc8e7a8e2b4420b3b15b4971ba316b~mv2.jpg",
+      "page": "https://www.offshorecharterswa.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1536x2048",
+      "source": "https://static.wixstatic.com/media/94da5d_9be93972fdba4fb1bb86af7309df51b8~mv2.jpg",
+      "page": "https://www.offshorecharterswa.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1536x2048",
+      "source": "https://static.wixstatic.com/media/94da5d_eb48d262d0404d52a3e251cc78959f9b~mv2.jpg",
+      "page": "https://www.offshorecharterswa.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1536x2048",
+      "source": "https://static.wixstatic.com/media/94da5d_38209bc4a0454952839ff1838eda7f84~mv2.jpg",
+      "page": "https://www.offshorecharterswa.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 750,
+      "height": 1000,
+      "original": "750x1000",
+      "source": "https://static.wixstatic.com/media/94da5d_d4b6711ab2d84c3fbadb5eec14d79e5f~mv2.jpg",
+      "page": "https://www.offshorecharterswa.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 750,
+      "height": 1000,
+      "original": "750x1000",
+      "source": "https://static.wixstatic.com/media/94da5d_eaf70c400aaa4705a429aee02776f225~mv2.jpg",
+      "page": "https://www.offshorecharterswa.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 750,
+      "height": 1000,
+      "original": "750x1000",
+      "source": "https://static.wixstatic.com/media/94da5d_abdaf7eb84994f46a15e78275054a882~mv2.jpg",
+      "page": "https://www.offshorecharterswa.com.au/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.offshorecharterswa.com.au/",
+      "status": 200,
+      "final_url": "https://www.offshorecharterswa.com.au/",
+      "bytes": 939066
+    },
+    {
+      "page": "https://www.offshorecharterswa.com.au/gallery",
+      "status": 200,
+      "final_url": "https://www.offshorecharterswa.com.au/gallery",
+      "bytes": 609051
+    },
+    {
+      "page": "https://www.offshorecharterswa.com.au/snorkeling",
+      "status": 200,
+      "final_url": "https://www.offshorecharterswa.com.au/snorkeling",
+      "bytes": 577126
+    },
+    {
+      "page": "https://www.offshorecharterswa.com.au/abrolhos-islands",
+      "status": 200,
+      "final_url": "https://www.offshorecharterswa.com.au/abrolhos-islands",
+      "bytes": 738684
+    },
+    {
+      "page": "https://www.offshorecharterswa.com.au/crayfish-charters",
+      "status": 200,
+      "final_url": "https://www.offshorecharterswa.com.au/crayfish-charters",
+      "bytes": 604606
+    },
+    {
+      "page": "https://www.offshorecharterswa.com.au/fishing-charters",
+      "status": 200,
+      "final_url": "https://www.offshorecharterswa.com.au/fishing-charters",
+      "bytes": 848036
+    },
+    {
+      "page": "https://www.offshorecharterswa.com.au/whale-watching",
+      "status": 200,
+      "final_url": "https://www.offshorecharterswa.com.au/whale-watching",
+      "bytes": 556899
+    },
+    {
+      "page": "https://www.offshorecharterswa.com.au/about-1",
+      "status": 200,
+      "final_url": "https://www.offshorecharterswa.com.au/about-1",
+      "bytes": 571996
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/94da5d_1defeceb5912405faf0fcd9ffca96856~mv2.png/v1/fill/w_1490,h_1118,al_c/94da5d_1defeceb5912405faf0fcd9ffca96856~mv2.png"
+    }
+  ]
+}

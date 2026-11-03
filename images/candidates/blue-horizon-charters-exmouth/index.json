@@ -1,0 +1,371 @@
+{
+  "slug": "blue-horizon-charters-exmouth",
+  "request_hash": "68160c9cecb7",
+  "collected_at": "2026-11-03T22:50:16.061Z",
+  "pages_fetched": [
+    "https://www.bluehorizoncharters.com.au/",
+    "https://www.bluehorizoncharters.com.au/about-blue-horizon-charters/",
+    "https://www.bluehorizoncharters.com.au/fishing-trips/montebello-islands/",
+    "https://www.bluehorizoncharters.com.au/fishing-trips/island-adventures/",
+    "https://www.bluehorizoncharters.com.au/fishing-trips/day-trips/",
+    "https://www.bluehorizoncharters.com.au/fishing-trips/exclusive-charters/",
+    "https://www.bluehorizoncharters.com.au/fishing-trips/gamex/",
+    "https://www.bluehorizoncharters.com.au/fishing-trips/charter-fishing-bookings/",
+    "https://www.bluehorizoncharters.com.au/perth-cruises/",
+    "https://www.bluehorizoncharters.com.au/perth-cruises/rottnest-island-cruises/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1250,
+      "height": 938,
+      "original": "1250x938",
+      "source": "https://www.bluehorizoncharters.com.au/wp-content/uploads/2021/10/a1.jpg",
+      "page": "https://www.bluehorizoncharters.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 2000,
+      "height": 1333,
+      "original": "2048x1365",
+      "source": "https://www.bluehorizoncharters.com.au/wp-content/uploads/2018/09/blue-horizon-charters.jpg",
+      "page": "https://www.bluehorizoncharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "4032x3024",
+      "source": "https://www.bluehorizoncharters.com.au/wp-content/uploads/2018/01/IMG_0078.jpg",
+      "page": "https://www.bluehorizoncharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "3024x4032",
+      "source": "https://www.bluehorizoncharters.com.au/wp-content/uploads/2019/01/IMG_0618-e1546836940896.jpg",
+      "page": "https://www.bluehorizoncharters.com.au/fishing-trips/montebello-islands/",
+      "priority": true
+    },
+    {
+      "file": "c05.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "3024x4032",
+      "source": "https://www.bluehorizoncharters.com.au/wp-content/uploads/2019/09/IMG_E1294.jpg",
+      "page": "https://www.bluehorizoncharters.com.au/fishing-trips/montebello-islands/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "3024x4032",
+      "source": "https://www.bluehorizoncharters.com.au/wp-content/uploads/2019/01/IMG_0124-e1546837071274.jpg",
+      "page": "https://www.bluehorizoncharters.com.au/fishing-trips/island-adventures/",
+      "priority": true
+    },
+    {
+      "file": "c07.webp",
+      "width": 1024,
+      "height": 716,
+      "original": "1024x716",
+      "source": "https://www.bluehorizoncharters.com.au/wp-content/uploads/bb-plugin/cache/IMG_0667-1024x768-landscape-5b7eb7914074f393f187acd95a5b3472-5bbaf7b3f0d19.jpg",
+      "page": "https://www.bluehorizoncharters.com.au/fishing-trips/island-adventures/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 886,
+      "height": 886,
+      "original": "886x886",
+      "source": "https://www.bluehorizoncharters.com.au/wp-content/uploads/bb-plugin/cache/IMG_E0118-886x1024-square-8ebf632b2e0930b2bc54ed363851fb3f-5bbaf7b3f1101.jpg",
+      "page": "https://www.bluehorizoncharters.com.au/fishing-trips/island-adventures/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "4032x3024",
+      "source": "https://www.bluehorizoncharters.com.au/wp-content/uploads/2018/01/IMG_0072.jpg",
+      "page": "https://www.bluehorizoncharters.com.au/fishing-trips/day-trips/",
+      "priority": true
+    },
+    {
+      "file": "c10.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2560x1707",
+      "source": "https://www.bluehorizoncharters.com.au/wp-content/uploads/2020/01/IMG_0586-scaled.jpg",
+      "page": "https://www.bluehorizoncharters.com.au/fishing-trips/day-trips/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2560x1707",
+      "source": "https://www.bluehorizoncharters.com.au/wp-content/uploads/2020/01/IMG_0588-1-scaled.jpg",
+      "page": "https://www.bluehorizoncharters.com.au/fishing-trips/day-trips/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1399,
+      "height": 2000,
+      "original": "2116x3024",
+      "source": "https://www.bluehorizoncharters.com.au/wp-content/uploads/bb-plugin/cache/IMG_0118-portrait-3d035515b67b712938e67d9c9fc5fbef-5baafb7a5ac9b.jpg",
+      "page": "https://www.bluehorizoncharters.com.au/fishing-trips/day-trips/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "4032x3024",
+      "source": "https://www.bluehorizoncharters.com.au/wp-content/uploads/2018/01/IMG_0115.jpg",
+      "page": "https://www.bluehorizoncharters.com.au/fishing-trips/day-trips/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 2000,
+      "height": 1333,
+      "original": "5184x3456",
+      "source": "https://www.bluehorizoncharters.com.au/wp-content/uploads/2014/05/IMG_0207.jpg",
+      "page": "https://www.bluehorizoncharters.com.au/fishing-trips/exclusive-charters/",
+      "priority": true
+    },
+    {
+      "file": "c15.webp",
+      "width": 768,
+      "height": 768,
+      "original": "768x768",
+      "source": "https://www.bluehorizoncharters.com.au/wp-content/uploads/bb-plugin/cache/IMG_0091-e1518918623661-1024x768-square-af972f069d1d75526abb02c819b18076-5bbb281af1dfe.jpg",
+      "page": "https://www.bluehorizoncharters.com.au/fishing-trips/exclusive-charters/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2048x1536",
+      "source": "https://www.bluehorizoncharters.com.au/wp-content/uploads/2014/05/Rob-Gotti.jpg",
+      "page": "https://www.bluehorizoncharters.com.au/fishing-trips/exclusive-charters/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.bluehorizoncharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.bluehorizoncharters.com.au/",
+      "bytes": 239756
+    },
+    {
+      "page": "https://www.bluehorizoncharters.com.au/about-blue-horizon-charters/",
+      "status": 200,
+      "final_url": "https://www.bluehorizoncharters.com.au/about-blue-horizon-charters/",
+      "bytes": 154792
+    },
+    {
+      "page": "https://www.bluehorizoncharters.com.au/fishing-trips/montebello-islands/",
+      "status": 200,
+      "final_url": "https://www.bluehorizoncharters.com.au/fishing-trips/montebello-islands/",
+      "bytes": 219752
+    },
+    {
+      "page": "https://www.bluehorizoncharters.com.au/fishing-trips/island-adventures/",
+      "status": 200,
+      "final_url": "https://www.bluehorizoncharters.com.au/fishing-trips/island-adventures/",
+      "bytes": 226563
+    },
+    {
+      "page": "https://www.bluehorizoncharters.com.au/fishing-trips/day-trips/",
+      "status": 200,
+      "final_url": "https://www.bluehorizoncharters.com.au/fishing-trips/day-trips/",
+      "bytes": 234505
+    },
+    {
+      "page": "https://www.bluehorizoncharters.com.au/fishing-trips/exclusive-charters/",
+      "status": 200,
+      "final_url": "https://www.bluehorizoncharters.com.au/fishing-trips/exclusive-charters/",
+      "bytes": 221377
+    },
+    {
+      "page": "https://www.bluehorizoncharters.com.au/fishing-trips/gamex/",
+      "status": 200,
+      "final_url": "https://www.bluehorizoncharters.com.au/fishing-trips/gamex/",
+      "bytes": 216292
+    },
+    {
+      "page": "https://www.bluehorizoncharters.com.au/fishing-trips/charter-fishing-bookings/",
+      "status": 200,
+      "final_url": "https://www.bluehorizoncharters.com.au/fishing-trips/charter-fishing-bookings/",
+      "bytes": 154585
+    },
+    {
+      "page": "https://www.bluehorizoncharters.com.au/perth-cruises/",
+      "status": 200,
+      "final_url": "https://www.bluehorizoncharters.com.au/perth-cruises/",
+      "bytes": 176896
+    },
+    {
+      "page": "https://www.bluehorizoncharters.com.au/perth-cruises/rottnest-island-cruises/",
+      "status": 200,
+      "final_url": "https://www.bluehorizoncharters.com.au/perth-cruises/rottnest-island-cruises/",
+      "bytes": 216577
+    },
+    {
+      "image": "https://www.bluehorizoncharters.com.au/wp-content/uploads/2010/09/featured.png",
+      "error": "too small 210x150"
+    },
+    {
+      "image": "https://www.bluehorizoncharters.com.au/wp-content/uploads/2014/02/gallery_10.jpg",
+      "error": "too small 302x453"
+    },
+    {
+      "image": "https://www.bluehorizoncharters.com.au/wp-content/uploads/2014/03/Montebello-Islands.jpg",
+      "error": "too small 800x259"
+    },
+    {
+      "image": "https://www.bluehorizoncharters.com.au/wp-content/uploads/2014/03/Montebello-Islands-300x97.jpg",
+      "error": "too small 300x97"
+    },
+    {
+      "image": "https://www.bluehorizoncharters.com.au/wp-content/uploads/2016/09/Gamex-Blue-Horizon-Charters-280.png",
+      "error": "too small 280x250"
+    },
+    {
+      "image": "https://www.bluehorizoncharters.com.au/wp-content/uploads/2010/09/cropped-featured.png",
+      "error": "too small 512x512"
+    },
+    {
+      "image": "https://www.bluehorizoncharters.com.au/wp-content/uploads/2010/09/cropped-featured-32x32.png",
+      "error": "too small 32x32"
+    },
+    {
+      "image": "https://www.bluehorizoncharters.com.au/wp-content/uploads/2010/09/cropped-featured-192x192.png",
+      "error": "too small 192x192"
+    },
+    {
+      "image": "https://www.bluehorizoncharters.com.au/wp-content/uploads/2010/09/cropped-featured-180x180.png",
+      "error": "too small 180x180"
+    },
+    {
+      "image": "https://www.bluehorizoncharters.com.au/wp-content/uploads/2010/09/cropped-featured-270x270.png",
+      "error": "too small 270x270"
+    },
+    {
+      "image": "https://www.bluehorizoncharters.com.au/wp-content/uploads/2018/09/exclusive-charters.png",
+      "error": "too small 448x424"
+    },
+    {
+      "image": "https://www.bluehorizoncharters.com.au/wp-content/uploads/2018/09/day-trips.png",
+      "error": "too small 448x280"
+    },
+    {
+      "image": "https://www.bluehorizoncharters.com.au/wp-content/uploads/2013/12/ningaloo-reef-wa-snorkelling.jpg",
+      "error": "too small 600x392"
+    },
+    {
+      "image": "https://www.bluehorizoncharters.com.au/wp-content/uploads/2013/12/1236933_501284899965650_686672548_n.jpg",
+      "error": "too small 540x720"
+    },
+    {
+      "image": "https://www.bluehorizoncharters.com.au/wp-content/uploads/2014/02/gallery_10-200x300.jpg",
+      "error": "too small 200x300"
+    },
+    {
+      "dup": "https://www.bluehorizoncharters.com.au/wp-content/uploads/2019/01/IMG_0618-e1546836940896-768x1024.jpg"
+    },
+    {
+      "dup": "https://www.bluehorizoncharters.com.au/wp-content/uploads/bb-plugin/cache/IMG_0618-e1546836940896-portrait-35e910a3f16eff1c505e618f9c9f2aa9-5bbaf2aaa0d38.jpg"
+    },
+    {
+      "image": "https://www.bluehorizoncharters.com.au/wp-content/uploads/bb-plugin/cache/Montebello-Islands-square-e5da0dc7b4b114688dd1fc42f80349f4-5bbaf67bd77b6.jpg",
+      "error": "too small 259x259"
+    },
+    {
+      "dup": "https://www.bluehorizoncharters.com.au/wp-content/uploads/bb-plugin/cache/blue-horizon-charters-1024x683-square-4603953cdc88be023e14828a552c8ce5-5bbaf6addde5e.jpg"
+    },
+    {
+      "image": "https://www.bluehorizoncharters.com.au/wp-content/plugins/bb-plugin/img/bxslider/controls.png",
+      "error": "too small 96x63"
+    },
+    {
+      "image": "https://www.bluehorizoncharters.com.au/wp-content/uploads/2019/09/IMG_E1294-225x300.jpg",
+      "error": "too small 225x300"
+    },
+    {
+      "dup": "https://www.bluehorizoncharters.com.au/wp-content/uploads/2019/09/IMG_E1294-768x1024.jpg"
+    },
+    {
+      "dup": "https://www.bluehorizoncharters.com.au/wp-content/uploads/2019/01/IMG_0124-e1546837071274-768x1024.jpg"
+    },
+    {
+      "dup": "https://www.bluehorizoncharters.com.au/wp-content/uploads/bb-plugin/cache/IMG_0124-e1546837071274-768x1024-portrait-50b3077ba01662dfa355d9094bf5bcfe-5bbaf7b3f07de.jpg"
+    },
+    {
+      "dup": "https://www.bluehorizoncharters.com.au/wp-content/uploads/2018/01/IMG_0072-1024x768.jpg"
+    },
+    {
+      "image": "https://www.bluehorizoncharters.com.au/wp-content/uploads/bb-plugin/cache/IMG_0072-1024x768-portrait-27220333c4966668a84b12ccfa7ded1e-5baaedb7eb431.jpg",
+      "error": "too small 537x768"
+    },
+    {
+      "image": "https://www.bluehorizoncharters.com.au/wp-content/uploads/bb-plugin/cache/Nick2-portrait-51a96db1c8e9ac48dd0e5df4891a4b78-5baaeffb64613.jpg",
+      "error": "too small 537x768"
+    },
+    {
+      "dup": "https://www.bluehorizoncharters.com.au/wp-content/uploads/2020/01/IMG_0586.jpg"
+    },
+    {
+      "dup": "https://www.bluehorizoncharters.com.au/wp-content/uploads/2020/01/IMG_0586-1024x683.jpg"
+    },
+    {
+      "dup": "https://www.bluehorizoncharters.com.au/wp-content/uploads/2020/01/IMG_0586-768x512.jpg"
+    },
+    {
+      "dup": "https://www.bluehorizoncharters.com.au/wp-content/uploads/2020/01/IMG_0586-1536x1024.jpg"
+    },
+    {
+      "dup": "https://www.bluehorizoncharters.com.au/wp-content/uploads/2020/01/IMG_0586-2048x1365.jpg"
+    },
+    {
+      "image": "https://www.bluehorizoncharters.com.au/wp-content/uploads/2020/01/IMG_0586-300x200.jpg",
+      "error": "too small 300x200"
+    },
+    {
+      "dup": "https://www.bluehorizoncharters.com.au/wp-content/uploads/2020/01/IMG_0588-1.jpg"
+    },
+    {
+      "dup": "https://www.bluehorizoncharters.com.au/wp-content/uploads/2020/01/IMG_0588-1-1024x683.jpg"
+    },
+    {
+      "dup": "https://www.bluehorizoncharters.com.au/wp-content/uploads/2020/01/IMG_0588-1-768x512.jpg"
+    },
+    {
+      "dup": "https://www.bluehorizoncharters.com.au/wp-content/uploads/2020/01/IMG_0588-1-1536x1024.jpg"
+    },
+    {
+      "dup": "https://www.bluehorizoncharters.com.au/wp-content/uploads/2020/01/IMG_0588-1-2048x1365.jpg"
+    },
+    {
+      "image": "https://www.bluehorizoncharters.com.au/wp-content/uploads/2020/01/IMG_0588-1-300x200.jpg",
+      "error": "too small 300x200"
+    },
+    {
+      "dup": "https://www.bluehorizoncharters.com.au/wp-content/uploads/2014/05/IMG_0207-1024x682.jpg"
+    },
+    {
+      "image": "https://www.bluehorizoncharters.com.au/wp-content/uploads/bb-plugin/cache/IMG_0207-1024x682-portrait-1272d4582126a8159e7ae3fa02f3abd2-5bbb281af14ad.jpg",
+      "error": "too small 477x682"
+    }
+  ]
+}
