@@ -1,0 +1,6 @@
+{"requests":[
+ {"slug":"gone-fishing-charters-st-helens","pages":["http://www.breamfishing.com.au/"],"text":true,"max":16,"follow":true},
+ {"slug":"tas-d-tassiefly-more","pages":["https://tassieflyguide.com.au/guiding","https://tassieflyguide.com.au/reviews","https://tassieflyguide.com.au/blog"],"text":true,"max":0,"follow":false},
+ {"slug":"tas-d-spirit","pages":["https://www.spiritoftasmania.com.au/things-to-do/south-east-charters","https://www.spiritoftasmania.com.au/things-to-do/tasmania-double-hook-fishing-charters-and-tours","https://www.spiritoftasmania.com.au/things-to-do/keen-angler-charters","https://www.spiritoftasmania.com.au/things-to-do/st-helens-fishing"],"text":true,"max":0,"follow":false},
+ {"slug":"tas-d-hotspots-gov","pages":["https://fishing.tas.gov.au/recreational-fishing/fishing-tips/hot-fishing-spots/fishing-around-st-helens","https://fishing.tas.gov.au/recreational-fishing/fishing-tips/hot-fishing-spots/fishing-around-the-tasman-peninsula-region","https://fishing.tas.gov.au/recreational-fishing/rules/recreational-fishing-seasons"],"text":true,"max":0,"follow":false}
+]}
