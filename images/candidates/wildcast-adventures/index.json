@@ -1,0 +1,406 @@
+{
+  "slug": "wildcast-adventures",
+  "request_hash": "7357ef8c9a50",
+  "collected_at": "2026-11-03T22:40:08.087Z",
+  "pages_fetched": [
+    "https://www.murrayoffroadadventures.com.au/",
+    "https://murrayoffroadadventures.com.au/",
+    "https://www.murrayoffroadadventures.com.au/aboutus-2",
+    "https://www.murrayoffroadadventures.com.au/tours-2",
+    "https://www.murrayoffroadadventures.com.au/bookings-cost",
+    "https://www.murrayoffroadadventures.com.au/contact-us-1"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1500,
+      "height": 1000,
+      "original": "1500x1000",
+      "source": "http://static1.squarespace.com/static/57848cb0197aea8d8ca06212/t/5ec8a1485699191ae914fd7e/1590206825945/Murray+Offroad+Adventures+bus+tour+river.jpg?format=1500w",
+      "page": "https://www.murrayoffroadadventures.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 2000,
+      "height": 1125,
+      "original": "2500x1406",
+      "source": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/1590014256008-G03545AMH35KPWG7XHRM/image00009.jpeg?format=2500w",
+      "page": "https://www.murrayoffroadadventures.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 768,
+      "height": 576,
+      "original": "768x576",
+      "source": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/1590197331238-C3INZ8A7AWB3L2Z40YGP/PK+%26+Jeanie.JPG?format=2500w",
+      "page": "https://www.murrayoffroadadventures.com.au/aboutus-2",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2500x3334",
+      "source": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/02765d88-8302-409a-adc6-1aab842ca99e/IMG_0497.jpg?format=2500w",
+      "page": "https://www.murrayoffroadadventures.com.au/aboutus-2",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1022,
+      "height": 953,
+      "original": "1022x953",
+      "source": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/1590197127262-R1SXSH6YYHBFCH0Q0S1B/MOA+Aust+Map.png?format=2500w",
+      "page": "https://www.murrayoffroadadventures.com.au/aboutus-2",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 960,
+      "height": 720,
+      "original": "960x720",
+      "source": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/1538707689000-HB9AWITYG7O8AL4UXX5P/Murray-Sunset+Pink+Lakes.jpg?format=2500w",
+      "page": "https://www.murrayoffroadadventures.com.au/tours-2",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2500x1875",
+      "source": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/1511501620042-SM4A4U2CJ51IADCD7IIY/Lock+10+Wentworth+Tour.JPG?format=2500w",
+      "page": "https://www.murrayoffroadadventures.com.au/tours-2",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2500x1875",
+      "source": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/1510708773554-6I3GS44C6E0W7XNQICG5/Hattah_Kulkyne_National_Park_Tour?format=2500w",
+      "page": "https://www.murrayoffroadadventures.com.au/tours-2",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2500x1875",
+      "source": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/1510718539381-2QZ2EDT9YNB7YY96B6V0/KingsBillabong.jpeg?format=2500w",
+      "page": "https://www.murrayoffroadadventures.com.au/tours-2",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 2000,
+      "height": 1333,
+      "original": "2500x1666",
+      "source": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/e7f747ab-5f1a-4d63-a9b6-24575a0d700e/IMG_0497.jpg?format=2500w",
+      "page": "https://www.murrayoffroadadventures.com.au/tours-2",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.murrayoffroadadventures.com.au/",
+      "status": 200,
+      "final_url": "https://www.murrayoffroadadventures.com.au/",
+      "bytes": 178032
+    },
+    {
+      "page": "https://murrayoffroadadventures.com.au/",
+      "status": 200,
+      "final_url": "https://www.murrayoffroadadventures.com.au/",
+      "bytes": 178032
+    },
+    {
+      "page": "https://www.murrayoffroadadventures.com.au/aboutus-2",
+      "status": 200,
+      "final_url": "https://www.murrayoffroadadventures.com.au/aboutus-2",
+      "bytes": 208340
+    },
+    {
+      "page": "https://www.murrayoffroadadventures.com.au/tours-2",
+      "status": 200,
+      "final_url": "https://www.murrayoffroadadventures.com.au/tours-2",
+      "bytes": 222908
+    },
+    {
+      "page": "https://www.murrayoffroadadventures.com.au/bookings-cost",
+      "status": 200,
+      "final_url": "https://www.murrayoffroadadventures.com.au/bookings-cost",
+      "bytes": 152126
+    },
+    {
+      "page": "https://www.murrayoffroadadventures.com.au/contact-us-1",
+      "status": 200,
+      "final_url": "https://www.murrayoffroadadventures.com.au/contact-us-1",
+      "bytes": 238247
+    },
+    {
+      "image": "https://static1.squarespace.com/static/57848cb0197aea8d8ca06212/t/5de7a41e2aee26493f17623c/1776399766206/",
+      "error": "too small 1000x238"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/1575461921555-92GSY5A70BGZU8UBVQB7/RACV.png?format=2500w",
+      "error": "banner/strip 1794x427"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/1575461921555-92GSY5A70BGZU8UBVQB7/RACV.png?format=1500w",
+      "error": "too small 1500x357"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/0137917a-63f7-4115-b132-55e86657f8ed/Murray+Offroad+Adventures+Awards+2022.png?format=2500w",
+      "error": "too small 1206x175"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/0137917a-63f7-4115-b132-55e86657f8ed/Murray+Offroad+Adventures+Awards+2022.png",
+      "error": "too small 1206x175"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/1590014256008-G03545AMH35KPWG7XHRM/image00009.jpeg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/1590014256008-G03545AMH35KPWG7XHRM/image00009.jpeg?format=100w",
+      "error": "too small 100x56"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/1590014256008-G03545AMH35KPWG7XHRM/image00009.jpeg?format=300w",
+      "error": "too small 300x168"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/1590014256008-G03545AMH35KPWG7XHRM/image00009.jpeg?format=500w",
+      "error": "too small 500x281"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/1590014256008-G03545AMH35KPWG7XHRM/image00009.jpeg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/1590014256008-G03545AMH35KPWG7XHRM/image00009.jpeg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/1590014256008-G03545AMH35KPWG7XHRM/image00009.jpeg?format=1500w"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/0137917a-63f7-4115-b132-55e86657f8ed/Murray+Offroad+Adventures+Awards+2022.png?format=100w",
+      "error": "too small 100x15"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/0137917a-63f7-4115-b132-55e86657f8ed/Murray+Offroad+Adventures+Awards+2022.png?format=300w",
+      "error": "too small 300x44"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/0137917a-63f7-4115-b132-55e86657f8ed/Murray+Offroad+Adventures+Awards+2022.png?format=500w",
+      "error": "too small 500x73"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/0137917a-63f7-4115-b132-55e86657f8ed/Murray+Offroad+Adventures+Awards+2022.png?format=750w",
+      "error": "too small 750x109"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/0137917a-63f7-4115-b132-55e86657f8ed/Murray+Offroad+Adventures+Awards+2022.png?format=1000w",
+      "error": "too small 1000x145"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/0137917a-63f7-4115-b132-55e86657f8ed/Murray+Offroad+Adventures+Awards+2022.png?format=1500w",
+      "error": "too small 1206x175"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/1590197127262-R1SXSH6YYHBFCH0Q0S1B/MOA+Aust+Map.png"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/1590197331238-C3INZ8A7AWB3L2Z40YGP/PK+%26+Jeanie.JPG"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/1590197331238-C3INZ8A7AWB3L2Z40YGP/PK+%26+Jeanie.JPG?format=100w",
+      "error": "too small 100x75"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/1590197331238-C3INZ8A7AWB3L2Z40YGP/PK+%26+Jeanie.JPG?format=300w",
+      "error": "too small 300x225"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/1590197331238-C3INZ8A7AWB3L2Z40YGP/PK+%26+Jeanie.JPG?format=500w",
+      "error": "too small 500x375"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/1590197331238-C3INZ8A7AWB3L2Z40YGP/PK+%26+Jeanie.JPG?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/1590197331238-C3INZ8A7AWB3L2Z40YGP/PK+%26+Jeanie.JPG?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/1590197331238-C3INZ8A7AWB3L2Z40YGP/PK+%26+Jeanie.JPG?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/02765d88-8302-409a-adc6-1aab842ca99e/IMG_0497.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/02765d88-8302-409a-adc6-1aab842ca99e/IMG_0497.jpg?format=100w",
+      "error": "too small 100x133"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/02765d88-8302-409a-adc6-1aab842ca99e/IMG_0497.jpg?format=300w",
+      "error": "too small 300x400"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/02765d88-8302-409a-adc6-1aab842ca99e/IMG_0497.jpg?format=500w",
+      "error": "too small 500x667"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/02765d88-8302-409a-adc6-1aab842ca99e/IMG_0497.jpg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/02765d88-8302-409a-adc6-1aab842ca99e/IMG_0497.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/02765d88-8302-409a-adc6-1aab842ca99e/IMG_0497.jpg?format=1500w"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/1590197127262-R1SXSH6YYHBFCH0Q0S1B/MOA+Aust+Map.png?format=100w",
+      "error": "too small 100x93"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/1590197127262-R1SXSH6YYHBFCH0Q0S1B/MOA+Aust+Map.png?format=300w",
+      "error": "too small 300x280"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/1590197127262-R1SXSH6YYHBFCH0Q0S1B/MOA+Aust+Map.png?format=500w",
+      "error": "too small 500x466"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/1590197127262-R1SXSH6YYHBFCH0Q0S1B/MOA+Aust+Map.png?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/1590197127262-R1SXSH6YYHBFCH0Q0S1B/MOA+Aust+Map.png?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/1590197127262-R1SXSH6YYHBFCH0Q0S1B/MOA+Aust+Map.png?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/1590197682043-CMWJKB85WZ9XTG6KBNLU/Murray+Offroad+Adventures+bus+tour+river.jpg?format=2500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/1590197682043-CMWJKB85WZ9XTG6KBNLU/Murray+Offroad+Adventures+bus+tour+river.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/1590197682043-CMWJKB85WZ9XTG6KBNLU/Murray+Offroad+Adventures+bus+tour+river.jpg?format=100w",
+      "error": "too small 100x67"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/1590197682043-CMWJKB85WZ9XTG6KBNLU/Murray+Offroad+Adventures+bus+tour+river.jpg?format=300w",
+      "error": "too small 300x200"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/1590197682043-CMWJKB85WZ9XTG6KBNLU/Murray+Offroad+Adventures+bus+tour+river.jpg?format=500w",
+      "error": "too small 500x333"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/1590197682043-CMWJKB85WZ9XTG6KBNLU/Murray+Offroad+Adventures+bus+tour+river.jpg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/1590197682043-CMWJKB85WZ9XTG6KBNLU/Murray+Offroad+Adventures+bus+tour+river.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/1590197682043-CMWJKB85WZ9XTG6KBNLU/Murray+Offroad+Adventures+bus+tour+river.jpg?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/1538707689000-HB9AWITYG7O8AL4UXX5P/Murray-Sunset+Pink+Lakes.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/1538707689000-HB9AWITYG7O8AL4UXX5P/Murray-Sunset+Pink+Lakes.jpg?format=100w",
+      "error": "too small 100x75"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/1538707689000-HB9AWITYG7O8AL4UXX5P/Murray-Sunset+Pink+Lakes.jpg?format=300w",
+      "error": "too small 300x225"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/1538707689000-HB9AWITYG7O8AL4UXX5P/Murray-Sunset+Pink+Lakes.jpg?format=500w",
+      "error": "too small 500x375"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/1538707689000-HB9AWITYG7O8AL4UXX5P/Murray-Sunset+Pink+Lakes.jpg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/1538707689000-HB9AWITYG7O8AL4UXX5P/Murray-Sunset+Pink+Lakes.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/1538707689000-HB9AWITYG7O8AL4UXX5P/Murray-Sunset+Pink+Lakes.jpg?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/1511501620042-SM4A4U2CJ51IADCD7IIY/Lock+10+Wentworth+Tour.JPG"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/1511501620042-SM4A4U2CJ51IADCD7IIY/Lock+10+Wentworth+Tour.JPG?format=100w",
+      "error": "too small 100x75"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/1511501620042-SM4A4U2CJ51IADCD7IIY/Lock+10+Wentworth+Tour.JPG?format=300w",
+      "error": "too small 300x225"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/1511501620042-SM4A4U2CJ51IADCD7IIY/Lock+10+Wentworth+Tour.JPG?format=500w",
+      "error": "too small 500x375"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/1511501620042-SM4A4U2CJ51IADCD7IIY/Lock+10+Wentworth+Tour.JPG?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/1511501620042-SM4A4U2CJ51IADCD7IIY/Lock+10+Wentworth+Tour.JPG?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/1511501620042-SM4A4U2CJ51IADCD7IIY/Lock+10+Wentworth+Tour.JPG?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/1510718539381-2QZ2EDT9YNB7YY96B6V0/KingsBillabong.jpeg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/1510718539381-2QZ2EDT9YNB7YY96B6V0/KingsBillabong.jpeg?format=100w",
+      "error": "too small 100x75"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/1510718539381-2QZ2EDT9YNB7YY96B6V0/KingsBillabong.jpeg?format=300w",
+      "error": "too small 300x225"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/1510718539381-2QZ2EDT9YNB7YY96B6V0/KingsBillabong.jpeg?format=500w",
+      "error": "too small 500x375"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/1510718539381-2QZ2EDT9YNB7YY96B6V0/KingsBillabong.jpeg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/1510718539381-2QZ2EDT9YNB7YY96B6V0/KingsBillabong.jpeg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/1510718539381-2QZ2EDT9YNB7YY96B6V0/KingsBillabong.jpeg?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/e7f747ab-5f1a-4d63-a9b6-24575a0d700e/IMG_0497.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/e7f747ab-5f1a-4d63-a9b6-24575a0d700e/IMG_0497.jpg?format=100w",
+      "error": "too small 100x67"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/e7f747ab-5f1a-4d63-a9b6-24575a0d700e/IMG_0497.jpg?format=300w",
+      "error": "too small 300x200"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/e7f747ab-5f1a-4d63-a9b6-24575a0d700e/IMG_0497.jpg?format=500w",
+      "error": "too small 500x333"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/e7f747ab-5f1a-4d63-a9b6-24575a0d700e/IMG_0497.jpg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/e7f747ab-5f1a-4d63-a9b6-24575a0d700e/IMG_0497.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/57848cb0197aea8d8ca06212/e7f747ab-5f1a-4d63-a9b6-24575a0d700e/IMG_0497.jpg?format=1500w"
+    }
+  ]
+}

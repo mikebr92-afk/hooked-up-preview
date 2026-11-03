@@ -1,0 +1,94 @@
+{
+  "slug": "vic-disc-lists6",
+  "request_hash": "601700f71585",
+  "collected_at": "2026-11-03T22:39:39.828Z",
+  "pages_fetched": [
+    "https://www.melbourneplaygrounds.com.au/lakes-entrance-sea-myth-fishing-charters",
+    "https://www.melbourneplaygrounds.com.au/portland-south-west-charters",
+    "https://www.melbourneplaygrounds.com.au/portland-shoreline-charters",
+    "https://visiteastgippsland.com.au/sea-myth",
+    "https://visiteastgippsland.com.au/lakes-charter-fishing",
+    "https://www.standard.net.au/story/9176714/dan-hoeys-fishing-passion-fuels-port-fairy-business-success",
+    "https://visitgreatoceanroad.org.au/tours/salty-dog-charters/",
+    "https://portfairyaustralia.com.au/tours/salty-dog-charters/",
+    "https://www.moyne.vic.gov.au/Our-services/Business-and-economic-development/Starting-and-Growing-Your-Business/Business-Profiles",
+    "https://westernportfishingcharters.com.au/video-reports",
+    "https://westernportfishingcharters.com.au/terms-conditions",
+    "https://sites.google.com/view/screwloosecharters/charter-prices"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.melbourneplaygrounds.com.au/lakes-entrance-sea-myth-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.melbourneplaygrounds.com.au/lakes-entrance-sea-myth-fishing-charters",
+      "bytes": 51468
+    },
+    {
+      "page": "https://www.melbourneplaygrounds.com.au/portland-south-west-charters",
+      "status": 200,
+      "final_url": "https://www.melbourneplaygrounds.com.au/portland-south-west-charters",
+      "bytes": 50749
+    },
+    {
+      "page": "https://www.melbourneplaygrounds.com.au/portland-shoreline-charters",
+      "status": 200,
+      "final_url": "https://www.melbourneplaygrounds.com.au/portland-shoreline-charters",
+      "bytes": 51494
+    },
+    {
+      "page": "https://visiteastgippsland.com.au/sea-myth",
+      "status": 404,
+      "final_url": "https://www.visiteastgippsland.com.au/sea-myth",
+      "bytes": 287881
+    },
+    {
+      "page": "https://visiteastgippsland.com.au/lakes-charter-fishing",
+      "status": 404,
+      "final_url": "https://www.visiteastgippsland.com.au/lakes-charter-fishing",
+      "bytes": 289350
+    },
+    {
+      "page": "https://www.standard.net.au/story/9176714/dan-hoeys-fishing-passion-fuels-port-fairy-business-success",
+      "status": 200,
+      "final_url": "https://www.standard.net.au/story/9176714/dan-hoeys-fishing-passion-fuels-port-fairy-business-success/",
+      "bytes": 339314
+    },
+    {
+      "page": "https://visitgreatoceanroad.org.au/tours/salty-dog-charters/",
+      "status": 200,
+      "final_url": "https://visitgreatoceanroad.org.au/tours/salty-dog-charters/",
+      "bytes": 324680
+    },
+    {
+      "page": "https://portfairyaustralia.com.au/tours/salty-dog-charters/",
+      "status": 200,
+      "final_url": "https://visitgreatoceanroad.org.au/portfairyaustralia/",
+      "bytes": 653881
+    },
+    {
+      "page": "https://www.moyne.vic.gov.au/Our-services/Business-and-economic-development/Starting-and-Growing-Your-Business/Business-Profiles",
+      "status": 403,
+      "final_url": "https://www.moyne.vic.gov.au/Our-services/Business-and-economic-development/Starting-and-Growing-Your-Business/Business-Profiles",
+      "bytes": 529
+    },
+    {
+      "page": "https://westernportfishingcharters.com.au/video-reports",
+      "status": 200,
+      "final_url": "https://westernportfishingcharters.com.au/video-reports",
+      "bytes": 13379
+    },
+    {
+      "page": "https://westernportfishingcharters.com.au/terms-conditions",
+      "status": 200,
+      "final_url": "https://westernportfishingcharters.com.au/terms-conditions",
+      "bytes": 27867
+    },
+    {
+      "page": "https://sites.google.com/view/screwloosecharters/charter-prices",
+      "status": 200,
+      "final_url": "https://sites.google.com/view/screwloosecharters/charter-prices",
+      "bytes": 119445
+    }
+  ]
+}

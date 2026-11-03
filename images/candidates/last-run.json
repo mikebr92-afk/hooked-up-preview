@@ -1,5 +1,5 @@
 {
-  "finished_at": "2026-11-03T22:37:34.954Z",
+  "finished_at": "2026-11-03T22:40:08.087Z",
   "summary": [
     {
       "slug": "vic-disc-vfa-licence",
@@ -115,28 +115,33 @@
     },
     {
       "slug": "vic-disc-lists5",
-      "candidates": 0,
-      "pages": 11
+      "skipped": true
     },
     {
       "slug": "shoreline-charters",
-      "candidates": 16,
-      "pages": 9
+      "skipped": true
     },
     {
       "slug": "game-on-charters",
-      "candidates": 8,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "melbourne-fishing-charters",
-      "candidates": 0,
-      "pages": 2
+      "skipped": true
     },
     {
       "slug": "back-of-beyond-fly-fishing-trout",
+      "skipped": true
+    },
+    {
+      "slug": "vic-disc-lists6",
       "candidates": 0,
-      "pages": 2
+      "pages": 12
+    },
+    {
+      "slug": "wildcast-adventures",
+      "candidates": 10,
+      "pages": 6
     }
   ]
 }
