@@ -1,0 +1,234 @@
+{
+  "slug": "riverfly-1864",
+  "request_hash": "74dd7b3716f9",
+  "collected_at": "2026-11-03T22:36:36.356Z",
+  "pages_fetched": [
+    "https://www.riverfly.com.au/",
+    "https://riverfly.com.au/fly-fishing-tasmania/",
+    "https://riverfly.com.au/about/",
+    "https://riverfly.com.au/about/gallery/",
+    "https://riverfly.com.au/about/media-articles/",
+    "https://riverfly.com.au/about/testimonials-all/",
+    "https://riverfly.com.au/about/newsletter/",
+    "https://riverfly.com.au/contact/",
+    "https://riverfly.com.au/about/terms/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1920,
+      "height": 1280,
+      "original": "1920x1280",
+      "source": "https://riverfly.com.au/wp-content/uploads/2020/06/Riverfly-Fly-Fishing-9-web.jpg",
+      "page": "https://riverfly.com.au/fly-fishing-tasmania/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 1001,
+      "height": 700,
+      "original": "1001x700",
+      "source": "https://riverfly.com.au/wp-content/uploads/bb-plugin/cache/MG_1031-1050x700-1-landscape-24159bc0142a418038f4b35c3698c1be-.jpg",
+      "page": "https://riverfly.com.au/fly-fishing-tasmania/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 2000,
+      "height": 1400,
+      "original": "2560x1792",
+      "source": "https://riverfly.com.au/wp-content/uploads/bb-plugin/cache/file324-landscape-210f1d66ff9ab87e90444e9a6a101050-.jpg",
+      "page": "https://riverfly.com.au/fly-fishing-tasmania/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 2000,
+      "height": 1399,
+      "original": "2442x1708",
+      "source": "https://riverfly.com.au/wp-content/uploads/bb-plugin/cache/Western-Lakes-trophy-landscape-0380f639cf4b9d0409760bc01de8f96f-.jpg",
+      "page": "https://riverfly.com.au/fly-fishing-tasmania/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1920,
+      "height": 1280,
+      "original": "1920x1280",
+      "source": "https://riverfly.com.au/wp-content/uploads/2020/06/Riverfly-Fly-Fishing-7-web.jpg",
+      "page": "https://riverfly.com.au/about/",
+      "priority": true
+    },
+    {
+      "file": "c06.webp",
+      "width": 2000,
+      "height": 1116,
+      "original": "2560x1429",
+      "source": "https://riverfly.com.au/wp-content/uploads/2008/05/Aus-gold-award-e1489705863539.jpg",
+      "page": "https://riverfly.com.au/about/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1260,
+      "height": 840,
+      "original": "1260x840",
+      "source": "https://riverfly.com.au/wp-content/uploads/2020/05/One-Day-Tasmanian-Guided-Fly-Fishing.jpg",
+      "page": "https://riverfly.com.au/about/gallery/",
+      "priority": true
+    },
+    {
+      "file": "c08.webp",
+      "width": 1750,
+      "height": 1167,
+      "original": "1750x1167",
+      "source": "https://riverfly.com.au/wp-content/uploads/IMG_7292IMG_7292-rafting-low-res.jpg",
+      "page": "https://riverfly.com.au/about/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1333,
+      "height": 2000,
+      "original": "1500x2250",
+      "source": "https://riverfly.com.au/wp-content/uploads/IMG_8923IMG_892lowres3.jpg",
+      "page": "https://riverfly.com.au/about/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1335,
+      "height": 2000,
+      "original": "1500x2248",
+      "source": "https://riverfly.com.au/wp-content/uploads/Rivers-November.jpg",
+      "page": "https://riverfly.com.au/about/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 2000,
+      "height": 1335,
+      "original": "2000x1335",
+      "source": "https://riverfly.com.au/wp-content/uploads/headwaterfish.jpg",
+      "page": "https://riverfly.com.au/about/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 847,
+      "height": 1270,
+      "original": "847x1270",
+      "source": "https://riverfly.com.au/wp-content/uploads/IMG_0537IMG_0537.jpg",
+      "page": "https://riverfly.com.au/about/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1250,
+      "height": 833,
+      "original": "1250x833",
+      "source": "https://riverfly.com.au/wp-content/uploads/IMG_6268-copy.jpg",
+      "page": "https://riverfly.com.au/about/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1500,
+      "height": 1001,
+      "original": "1500x1001",
+      "source": "https://riverfly.com.au/wp-content/uploads/IMG_2352.jpg",
+      "page": "https://riverfly.com.au/about/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2200x1650",
+      "source": "https://riverfly.com.au/wp-content/uploads/sim-at-Chromy-low-res.jpg",
+      "page": "https://riverfly.com.au/about/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2000x1500",
+      "source": "https://riverfly.com.au/wp-content/uploads/IMG_1745-low-res.jpg",
+      "page": "https://riverfly.com.au/about/gallery/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.riverfly.com.au/",
+      "status": 200,
+      "final_url": "https://riverfly.com.au/",
+      "bytes": 70306
+    },
+    {
+      "page": "https://riverfly.com.au/fly-fishing-tasmania/",
+      "status": 200,
+      "final_url": "https://riverfly.com.au/fly-fishing-tasmania/",
+      "bytes": 82399
+    },
+    {
+      "page": "https://riverfly.com.au/about/",
+      "status": 200,
+      "final_url": "https://riverfly.com.au/about/",
+      "bytes": 84384
+    },
+    {
+      "page": "https://riverfly.com.au/about/gallery/",
+      "status": 200,
+      "final_url": "https://riverfly.com.au/about/gallery/",
+      "bytes": 99718
+    },
+    {
+      "page": "https://riverfly.com.au/about/media-articles/",
+      "status": 200,
+      "final_url": "https://riverfly.com.au/about/media-articles/",
+      "bytes": 76682
+    },
+    {
+      "page": "https://riverfly.com.au/about/testimonials-all/",
+      "status": 200,
+      "final_url": "https://riverfly.com.au/about/testimonials-all/",
+      "bytes": 98238
+    },
+    {
+      "page": "https://riverfly.com.au/about/newsletter/",
+      "status": 200,
+      "final_url": "https://riverfly.com.au/about/newsletter/",
+      "bytes": 68777
+    },
+    {
+      "page": "https://riverfly.com.au/contact/",
+      "status": 200,
+      "final_url": "https://riverfly.com.au/contact/",
+      "bytes": 87519
+    },
+    {
+      "page": "https://riverfly.com.au/about/terms/",
+      "status": 200,
+      "final_url": "https://riverfly.com.au/about/terms/",
+      "bytes": 65849
+    },
+    {
+      "image": "https://riverfly.com.au/wp-content/uploads/2008/05/Winner-Specialisd-Tourism-Services-2016-Standard.png",
+      "error": "too small 591x1016"
+    },
+    {
+      "image": "https://riverfly.com.au/wp-content/uploads/2008/05/Aus-gold-award-e1489705863539-600x335.jpg",
+      "error": "too small 600x335"
+    },
+    {
+      "image": "https://riverfly.com.au/wp-content/uploads/2008/05/Winner-Specialisd-Tourism-Services-2016-Standard-58x100.png",
+      "error": "too small 58x100"
+    },
+    {
+      "image": "https://riverfly.com.au/wp-content/uploads/2008/05/Winner-Specialisd-Tourism-Services-2016-Standard-175x300.png",
+      "error": "too small 175x300"
+    }
+  ]
+}

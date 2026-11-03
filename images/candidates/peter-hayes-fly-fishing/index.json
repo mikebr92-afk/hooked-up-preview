@@ -1,0 +1,212 @@
+{
+  "slug": "peter-hayes-fly-fishing",
+  "request_hash": "6b06bbf04584",
+  "collected_at": "2026-11-03T22:38:59.054Z",
+  "pages_fetched": [
+    "http://www.peterhayesflyfishing.com/",
+    "https://www.peterhayesflyfishing.com/",
+    "https://www.peterhayesflyfishing.com/product-category/courses/",
+    "https://www.peterhayesflyfishing.com/product/cressy-cane-2023-fishing-day/",
+    "https://www.peterhayesflyfishing.com/product/cressy-cane-2023-3day-event/",
+    "https://www.peterhayesflyfishing.com/product/ffi-certified-casting-instructor-2019/",
+    "https://www.peterhayesflyfishing.com/product/learn-to-fly-fish-beginners-day/",
+    "https://www.peterhayesflyfishing.com/product/learn-to-fly-fish-intermediate-advanced-day/",
+    "https://www.peterhayesflyfishing.com/category/blog/",
+    "https://www.peterhayesflyfishing.com/category/contact-us-and-team/",
+    "https://www.peterhayesflyfishing.com/peter-hayes/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 2000,
+      "height": 861,
+      "original": "2000x861",
+      "source": "https://www.peterhayesflyfishing.com/wp-content/uploads/2018/09/trout7-2000x700.jpg",
+      "page": "http://www.peterhayesflyfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 1200,
+      "height": 900,
+      "original": "1200x900",
+      "source": "https://www.peterhayesflyfishing.com/wp-content/uploads/2018/09/trout4.jpg",
+      "page": "http://www.peterhayesflyfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1200,
+      "height": 779,
+      "original": "1200x779",
+      "source": "https://www.peterhayesflyfishing.com/wp-content/uploads/2018/09/trout9.jpg",
+      "page": "http://www.peterhayesflyfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1024,
+      "height": 682,
+      "original": "1024x682",
+      "source": "https://www.peterhayesflyfishing.com/wp-content/uploads/2018/09/trout10.jpg",
+      "page": "http://www.peterhayesflyfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 2000,
+      "height": 1125,
+      "original": "2560x1440",
+      "source": "https://www.peterhayesflyfishing.com/wp-content/uploads/2018/09/trout7-scaled.jpg",
+      "page": "http://www.peterhayesflyfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1024,
+      "height": 683,
+      "original": "1024x683",
+      "source": "https://www.peterhayesflyfishing.com/wp-content/uploads/2018/09/trout18.jpg",
+      "page": "http://www.peterhayesflyfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 800,
+      "height": 561,
+      "original": "800x561",
+      "source": "https://www.peterhayesflyfishing.com/wp-content/uploads/2018/09/trout14.jpg",
+      "page": "http://www.peterhayesflyfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1024,
+      "height": 683,
+      "original": "1024x683",
+      "source": "https://www.peterhayesflyfishing.com/wp-content/uploads/2018/09/trout11.jpg",
+      "page": "http://www.peterhayesflyfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1200,
+      "height": 900,
+      "original": "1200x900",
+      "source": "https://www.peterhayesflyfishing.com/wp-content/uploads/2018/09/trout5.jpg",
+      "page": "http://www.peterhayesflyfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1200,
+      "height": 900,
+      "original": "1200x900",
+      "source": "https://www.peterhayesflyfishing.com/wp-content/uploads/2018/09/trout8.jpg",
+      "page": "http://www.peterhayesflyfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1200,
+      "height": 803,
+      "original": "1200x803",
+      "source": "https://www.peterhayesflyfishing.com/wp-content/uploads/2018/09/trout17.jpg",
+      "page": "http://www.peterhayesflyfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1200,
+      "height": 900,
+      "original": "1200x900",
+      "source": "https://www.peterhayesflyfishing.com/wp-content/uploads/2018/09/trout2.jpg",
+      "page": "http://www.peterhayesflyfishing.com/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "http://www.peterhayesflyfishing.com/",
+      "status": 200,
+      "final_url": "https://www.peterhayesflyfishing.com/",
+      "bytes": 97822
+    },
+    {
+      "page": "https://www.peterhayesflyfishing.com/",
+      "status": 200,
+      "final_url": "https://www.peterhayesflyfishing.com/",
+      "bytes": 97822
+    },
+    {
+      "page": "https://www.peterhayesflyfishing.com/product-category/courses/",
+      "status": 200,
+      "final_url": "https://www.peterhayesflyfishing.com/product-category/courses/",
+      "bytes": 97184
+    },
+    {
+      "page": "https://www.peterhayesflyfishing.com/product/cressy-cane-2023-fishing-day/",
+      "status": 200,
+      "final_url": "https://www.peterhayesflyfishing.com/product/cressy-cane-2023-fishing-day/",
+      "bytes": 90684
+    },
+    {
+      "page": "https://www.peterhayesflyfishing.com/product/cressy-cane-2023-3day-event/",
+      "status": 200,
+      "final_url": "https://www.peterhayesflyfishing.com/product/cressy-cane-2023-3day-event/",
+      "bytes": 91391
+    },
+    {
+      "page": "https://www.peterhayesflyfishing.com/product/ffi-certified-casting-instructor-2019/",
+      "status": 200,
+      "final_url": "https://www.peterhayesflyfishing.com/product/ffi-certified-casting-instructor-2019/",
+      "bytes": 85795
+    },
+    {
+      "page": "https://www.peterhayesflyfishing.com/product/learn-to-fly-fish-beginners-day/",
+      "status": 200,
+      "final_url": "https://www.peterhayesflyfishing.com/product/learn-to-fly-fish-beginners-day/",
+      "bytes": 91653
+    },
+    {
+      "page": "https://www.peterhayesflyfishing.com/product/learn-to-fly-fish-intermediate-advanced-day/",
+      "status": 200,
+      "final_url": "https://www.peterhayesflyfishing.com/product/learn-to-fly-fish-intermediate-advanced-day/",
+      "bytes": 92203
+    },
+    {
+      "page": "https://www.peterhayesflyfishing.com/category/blog/",
+      "status": 200,
+      "final_url": "https://www.peterhayesflyfishing.com/category/blog/",
+      "bytes": 94149
+    },
+    {
+      "page": "https://www.peterhayesflyfishing.com/category/contact-us-and-team/",
+      "status": 200,
+      "final_url": "https://www.peterhayesflyfishing.com/category/contact-us-and-team/",
+      "bytes": 79453
+    },
+    {
+      "page": "https://www.peterhayesflyfishing.com/peter-hayes/",
+      "status": 200,
+      "final_url": "https://www.peterhayesflyfishing.com/peter-hayes/",
+      "bytes": 74802
+    },
+    {
+      "image": "https://www.peterhayesflyfishing.com/wp-content/uploads/2018/03/peter-pano.jpg",
+      "error": "banner/strip 2000x560"
+    },
+    {
+      "image": "https://www.peterhayesflyfishing.com/wp-content/uploads/2018/03/peter-pano-1024x287.jpg",
+      "error": "too small 1024x287"
+    },
+    {
+      "image": "https://www.peterhayesflyfishing.com/wp-content/uploads/2018/09/trout13.jpg",
+      "error": "banner/strip 1600x451"
+    },
+    {
+      "image": "https://www.peterhayesflyfishing.com/wp-content/uploads/2018/09/trout13-700x300.jpg",
+      "error": "too small 700x300"
+    }
+  ]
+}

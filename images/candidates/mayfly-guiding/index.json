@@ -1,0 +1,375 @@
+{
+  "slug": "mayfly-guiding",
+  "request_hash": "f2b17251095c",
+  "collected_at": "2026-11-03T22:38:40.890Z",
+  "pages_fetched": [
+    "https://mayflyguiding.com.au/",
+    "https://www.mayflyguiding.com.au/about",
+    "https://www.mayflyguiding.com.au/trip-information-1",
+    "https://www.mayflyguiding.com.au/contactus"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1500,
+      "height": 1500,
+      "original": "1500x1500",
+      "source": "http://static1.squarespace.com/static/672079fbb0f959644b6a02a2/t/672162cd1da9cb08da3691a0/1730241229743/Mayfly+guiding_20241029_093327_0000.png?format=1500w",
+      "page": "https://mayflyguiding.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2500x1667",
+      "source": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/03ecaf30-78ae-4625-bacb-c5bd5479500a/IMG_3705.JPG?format=2500w",
+      "page": "https://mayflyguiding.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1333,
+      "height": 2000,
+      "original": "2500x3750",
+      "source": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/e550cb72-3820-4dc3-9dd1-75a01377db52/IMG_3749.JPG?format=2500w",
+      "page": "https://mayflyguiding.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2500x1667",
+      "source": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/14ec73db-296e-48ad-8df5-4fa850bd9227/IMG_3748.JPG?format=2500w",
+      "page": "https://mayflyguiding.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1333,
+      "height": 2000,
+      "original": "2500x3750",
+      "source": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/0cc7186b-402e-4e54-8d42-c03653eaf852/IMG_3747.JPG?format=2500w",
+      "page": "https://mayflyguiding.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1600,
+      "height": 2000,
+      "original": "2224x2780",
+      "source": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/a8e705cb-72f8-452d-98b0-cd9949a36784/IMG_3703.jpg?format=2500w",
+      "page": "https://www.mayflyguiding.com.au/about",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1149,
+      "height": 764,
+      "original": "1149x764",
+      "source": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/d7ba02cf-47e8-4b1e-86be-4b5faad2c4ab/image001.jpg?format=2500w",
+      "page": "https://www.mayflyguiding.com.au/trip-information-1",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2500x1667",
+      "source": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/7573a193-6448-4d53-8d3a-7bf8288c30b1/Untitled-183.jpg?format=2500w",
+      "page": "https://www.mayflyguiding.com.au/trip-information-1",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2500x1875",
+      "source": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/304720dd-a4a1-442b-b7ab-475f52fd149e/20240217_205354.jpg?format=2500w",
+      "page": "https://www.mayflyguiding.com.au/contactus",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://mayflyguiding.com.au/",
+      "status": 200,
+      "final_url": "https://www.mayflyguiding.com.au/",
+      "bytes": 232147
+    },
+    {
+      "page": "https://www.mayflyguiding.com.au/about",
+      "status": 200,
+      "final_url": "https://www.mayflyguiding.com.au/about",
+      "bytes": 293421
+    },
+    {
+      "page": "https://www.mayflyguiding.com.au/trip-information-1",
+      "status": 200,
+      "final_url": "https://www.mayflyguiding.com.au/trip-information-1",
+      "bytes": 478481
+    },
+    {
+      "page": "https://www.mayflyguiding.com.au/contactus",
+      "status": 200,
+      "final_url": "https://www.mayflyguiding.com.au/contactus",
+      "bytes": 218351
+    },
+    {
+      "dup": "https://static1.squarespace.com/static/672079fbb0f959644b6a02a2/t/672162cd1da9cb08da3691a0/1730877018226/"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/856e4f60-5d1c-472b-8caf-f0a471b3f419/Mayfly+guiding_20241029_093327_0000.png?format=2500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/3874915e-6e12-48af-8b09-9e94be728577/Mayfly+guiding_20241029_093327_0000.png?format=2500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/856e4f60-5d1c-472b-8caf-f0a471b3f419/Mayfly+guiding_20241029_093327_0000.png?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/3874915e-6e12-48af-8b09-9e94be728577/Mayfly+guiding_20241029_093327_0000.png?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/3874915e-6e12-48af-8b09-9e94be728577/Mayfly+guiding_20241029_093327_0000.png"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/03ecaf30-78ae-4625-bacb-c5bd5479500a/IMG_3705.JPG"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/03ecaf30-78ae-4625-bacb-c5bd5479500a/IMG_3705.JPG?format=100w",
+      "error": "too small 100x67"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/03ecaf30-78ae-4625-bacb-c5bd5479500a/IMG_3705.JPG?format=300w",
+      "error": "too small 300x200"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/03ecaf30-78ae-4625-bacb-c5bd5479500a/IMG_3705.JPG?format=500w",
+      "error": "too small 500x333"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/03ecaf30-78ae-4625-bacb-c5bd5479500a/IMG_3705.JPG?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/03ecaf30-78ae-4625-bacb-c5bd5479500a/IMG_3705.JPG?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/03ecaf30-78ae-4625-bacb-c5bd5479500a/IMG_3705.JPG?format=1500w"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/3874915e-6e12-48af-8b09-9e94be728577/Mayfly+guiding_20241029_093327_0000.png?format=100w",
+      "error": "too small 100x100"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/3874915e-6e12-48af-8b09-9e94be728577/Mayfly+guiding_20241029_093327_0000.png?format=300w",
+      "error": "too small 300x300"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/3874915e-6e12-48af-8b09-9e94be728577/Mayfly+guiding_20241029_093327_0000.png?format=500w",
+      "error": "too small 500x500"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/3874915e-6e12-48af-8b09-9e94be728577/Mayfly+guiding_20241029_093327_0000.png?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/3874915e-6e12-48af-8b09-9e94be728577/Mayfly+guiding_20241029_093327_0000.png?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/e550cb72-3820-4dc3-9dd1-75a01377db52/IMG_3749.JPG"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/e550cb72-3820-4dc3-9dd1-75a01377db52/IMG_3749.JPG?format=100w",
+      "error": "too small 100x150"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/e550cb72-3820-4dc3-9dd1-75a01377db52/IMG_3749.JPG?format=300w",
+      "error": "too small 300x450"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/e550cb72-3820-4dc3-9dd1-75a01377db52/IMG_3749.JPG?format=500w",
+      "error": "too small 500x750"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/e550cb72-3820-4dc3-9dd1-75a01377db52/IMG_3749.JPG?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/e550cb72-3820-4dc3-9dd1-75a01377db52/IMG_3749.JPG?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/e550cb72-3820-4dc3-9dd1-75a01377db52/IMG_3749.JPG?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/14ec73db-296e-48ad-8df5-4fa850bd9227/IMG_3748.JPG"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/14ec73db-296e-48ad-8df5-4fa850bd9227/IMG_3748.JPG?format=100w",
+      "error": "too small 100x67"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/14ec73db-296e-48ad-8df5-4fa850bd9227/IMG_3748.JPG?format=300w",
+      "error": "too small 300x200"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/14ec73db-296e-48ad-8df5-4fa850bd9227/IMG_3748.JPG?format=500w",
+      "error": "too small 500x333"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/14ec73db-296e-48ad-8df5-4fa850bd9227/IMG_3748.JPG?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/14ec73db-296e-48ad-8df5-4fa850bd9227/IMG_3748.JPG?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/14ec73db-296e-48ad-8df5-4fa850bd9227/IMG_3748.JPG?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/0cc7186b-402e-4e54-8d42-c03653eaf852/IMG_3747.JPG"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/0cc7186b-402e-4e54-8d42-c03653eaf852/IMG_3747.JPG?format=100w",
+      "error": "too small 100x150"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/0cc7186b-402e-4e54-8d42-c03653eaf852/IMG_3747.JPG?format=300w",
+      "error": "too small 300x450"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/0cc7186b-402e-4e54-8d42-c03653eaf852/IMG_3747.JPG?format=500w",
+      "error": "too small 500x750"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/0cc7186b-402e-4e54-8d42-c03653eaf852/IMG_3747.JPG?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/0cc7186b-402e-4e54-8d42-c03653eaf852/IMG_3747.JPG?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/0cc7186b-402e-4e54-8d42-c03653eaf852/IMG_3747.JPG?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/a8e705cb-72f8-452d-98b0-cd9949a36784/IMG_3703.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/a8e705cb-72f8-452d-98b0-cd9949a36784/IMG_3703.jpg?format=100w",
+      "error": "too small 100x125"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/a8e705cb-72f8-452d-98b0-cd9949a36784/IMG_3703.jpg?format=300w",
+      "error": "too small 300x375"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/a8e705cb-72f8-452d-98b0-cd9949a36784/IMG_3703.jpg?format=500w",
+      "error": "too small 500x625"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/a8e705cb-72f8-452d-98b0-cd9949a36784/IMG_3703.jpg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/a8e705cb-72f8-452d-98b0-cd9949a36784/IMG_3703.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/a8e705cb-72f8-452d-98b0-cd9949a36784/IMG_3703.jpg?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/e8cecb9a-cfdb-47cb-a158-488dcb056c24/20240218_153541.jpg?format=2500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/d7ba02cf-47e8-4b1e-86be-4b5faad2c4ab/image001.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/d7ba02cf-47e8-4b1e-86be-4b5faad2c4ab/image001.jpg?format=100w",
+      "error": "too small 100x67"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/d7ba02cf-47e8-4b1e-86be-4b5faad2c4ab/image001.jpg?format=300w",
+      "error": "too small 300x200"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/d7ba02cf-47e8-4b1e-86be-4b5faad2c4ab/image001.jpg?format=500w",
+      "error": "too small 500x332"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/d7ba02cf-47e8-4b1e-86be-4b5faad2c4ab/image001.jpg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/d7ba02cf-47e8-4b1e-86be-4b5faad2c4ab/image001.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/d7ba02cf-47e8-4b1e-86be-4b5faad2c4ab/image001.jpg?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/e8cecb9a-cfdb-47cb-a158-488dcb056c24/20240218_153541.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/e8cecb9a-cfdb-47cb-a158-488dcb056c24/20240218_153541.jpg?format=100w",
+      "error": "too small 100x56"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/e8cecb9a-cfdb-47cb-a158-488dcb056c24/20240218_153541.jpg?format=300w",
+      "error": "too small 300x169"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/e8cecb9a-cfdb-47cb-a158-488dcb056c24/20240218_153541.jpg?format=500w",
+      "error": "too small 500x282"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/e8cecb9a-cfdb-47cb-a158-488dcb056c24/20240218_153541.jpg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/e8cecb9a-cfdb-47cb-a158-488dcb056c24/20240218_153541.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/e8cecb9a-cfdb-47cb-a158-488dcb056c24/20240218_153541.jpg?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/7573a193-6448-4d53-8d3a-7bf8288c30b1/Untitled-183.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/7573a193-6448-4d53-8d3a-7bf8288c30b1/Untitled-183.jpg?format=100w",
+      "error": "too small 100x67"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/7573a193-6448-4d53-8d3a-7bf8288c30b1/Untitled-183.jpg?format=300w",
+      "error": "too small 300x200"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/7573a193-6448-4d53-8d3a-7bf8288c30b1/Untitled-183.jpg?format=500w",
+      "error": "too small 500x333"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/7573a193-6448-4d53-8d3a-7bf8288c30b1/Untitled-183.jpg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/7573a193-6448-4d53-8d3a-7bf8288c30b1/Untitled-183.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/7573a193-6448-4d53-8d3a-7bf8288c30b1/Untitled-183.jpg?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/304720dd-a4a1-442b-b7ab-475f52fd149e/20240217_205354.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/304720dd-a4a1-442b-b7ab-475f52fd149e/20240217_205354.jpg?format=100w",
+      "error": "too small 100x75"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/304720dd-a4a1-442b-b7ab-475f52fd149e/20240217_205354.jpg?format=300w",
+      "error": "too small 300x225"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/304720dd-a4a1-442b-b7ab-475f52fd149e/20240217_205354.jpg?format=500w",
+      "error": "too small 500x375"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/304720dd-a4a1-442b-b7ab-475f52fd149e/20240217_205354.jpg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/304720dd-a4a1-442b-b7ab-475f52fd149e/20240217_205354.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/672079fbb0f959644b6a02a2/304720dd-a4a1-442b-b7ab-475f52fd149e/20240217_205354.jpg?format=1500w"
+    }
+  ]
+}

@@ -1,0 +1,377 @@
+{
+  "slug": "tassie-fly-guide",
+  "request_hash": "71bbd25c5f1a",
+  "collected_at": "2026-11-03T22:38:09.189Z",
+  "pages_fetched": [
+    "https://tassieflyguide.com.au/",
+    "https://tassieflyguide.com.au/about",
+    "https://tassieflyguide.com.au/bookings"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1500,
+      "height": 1200,
+      "original": "1500x1200",
+      "source": "http://static1.squarespace.com/static/65b30f25a40b1b014cbb41b8/t/68a51b9a9e79444921c93cf0/1755650970203/TFG_Website_Images_2500px.jpg?format=1500w",
+      "page": "https://tassieflyguide.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2500x1667",
+      "source": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/1706851365869-7Y78LTXP7WNWJ16274LM/Galah_SamShelley_Article_Nov23_0208.jpg?format=2500w",
+      "page": "https://tassieflyguide.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2500x1668",
+      "source": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/1707193872239-XPOFSUGWXTRZYCDI2LMF/Flylife_All_0123.jpg?format=2500w",
+      "page": "https://tassieflyguide.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1334,
+      "height": 2000,
+      "original": "1341x2011",
+      "source": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/1706316535216-I3NPALMN8VTPLOTBVS0N/Flylife_All_0089.jpg?format=2500w",
+      "page": "https://tassieflyguide.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2500x1667",
+      "source": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/1706843869773-O9VMOV80U14DWPLU8F7H/TroutOpening_2022_0007_SSH_5324.jpg?format=2500w",
+      "page": "https://tassieflyguide.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1334,
+      "height": 2000,
+      "original": "1668x2500",
+      "source": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/7da5aaa1-fd87-4b70-b941-462cb411cc0d/Flylife_All_0088.jpg?format=2500w",
+      "page": "https://tassieflyguide.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1334,
+      "height": 2000,
+      "original": "1668x2500",
+      "source": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/669260d5-acce-4731-a285-501be98dc629/Flylife_All_0136.jpg?format=2500w",
+      "page": "https://tassieflyguide.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1334,
+      "height": 2000,
+      "original": "1668x2500",
+      "source": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/be2ef96c-df57-4a1d-8047-3f707aa73c20/Flylife_All_0116.jpg?format=2500w",
+      "page": "https://tassieflyguide.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1500,
+      "height": 1001,
+      "original": "1500x1001",
+      "source": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/e989bb74-7f7a-47c8-9000-7b73c534eb86/Flylife_All_0157.jpg?format=2500w",
+      "page": "https://tassieflyguide.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1334,
+      "height": 2000,
+      "original": "1668x2500",
+      "source": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/edc588ac-a5cd-4daa-9001-2d3ada45c499/Flylife_All_0083.jpg?format=2500w",
+      "page": "https://tassieflyguide.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1500,
+      "height": 1001,
+      "original": "1500x1001",
+      "source": "http://static1.squarespace.com/static/65b30f25a40b1b014cbb41b8/t/65c1aa3699ce85417c8e4ec6/1707190838263/Flylife_All_0175.jpg?format=1500w",
+      "page": "https://tassieflyguide.com.au/about",
+      "priority": true
+    },
+    {
+      "file": "c12.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2500x1667",
+      "source": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/1706843029520-97GEZE0LACULECDKRLIB/SSH_3255.jpg?format=2500w",
+      "page": "https://tassieflyguide.com.au/about",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1500,
+      "height": 1000,
+      "original": "1500x1000",
+      "source": "http://static1.squarespace.com/static/65b30f25a40b1b014cbb41b8/t/65c1aaa598e48a59f982a601/1707190949107/1U9A2534.jpg?format=1500w",
+      "page": "https://tassieflyguide.com.au/bookings",
+      "priority": true
+    }
+  ],
+  "log": [
+    {
+      "page": "https://tassieflyguide.com.au/",
+      "status": 200,
+      "final_url": "https://tassieflyguide.com.au/",
+      "bytes": 138696
+    },
+    {
+      "page": "https://tassieflyguide.com.au/about",
+      "status": 200,
+      "final_url": "https://tassieflyguide.com.au/about",
+      "bytes": 107249
+    },
+    {
+      "page": "https://tassieflyguide.com.au/bookings",
+      "status": 200,
+      "final_url": "https://tassieflyguide.com.au/bookings",
+      "bytes": 121467
+    },
+    {
+      "image": "https://static1.squarespace.com/static/65b30f25a40b1b014cbb41b8/t/65bd8ddeb8be025f30175190/1784970553872/",
+      "error": "too small 600x372"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/5a00e871-ccb6-4180-b2b3-e62a713ef0b0/TFG_Brand-ID.png?format=2500w",
+      "error": "too small 600x372"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/5a00e871-ccb6-4180-b2b3-e62a713ef0b0/TFG_Brand-ID.png?format=1500w",
+      "error": "too small 600x372"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/1706675909069-0MZR3WYNVGNIVVO26SQR/TFG_Website_Images_2500px.jpg?format=2500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/1706675909069-0MZR3WYNVGNIVVO26SQR/TFG_Website_Images_2500px.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/1706851365869-7Y78LTXP7WNWJ16274LM/Galah_SamShelley_Article_Nov23_0208.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/1707193872239-XPOFSUGWXTRZYCDI2LMF/Flylife_All_0123.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/1706316535216-I3NPALMN8VTPLOTBVS0N/Flylife_All_0089.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/1706843869773-O9VMOV80U14DWPLU8F7H/TroutOpening_2022_0007_SSH_5324.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/7da5aaa1-fd87-4b70-b941-462cb411cc0d/Flylife_All_0088.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/7da5aaa1-fd87-4b70-b941-462cb411cc0d/Flylife_All_0088.jpg?format=100w",
+      "error": "too small 100x150"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/7da5aaa1-fd87-4b70-b941-462cb411cc0d/Flylife_All_0088.jpg?format=300w",
+      "error": "too small 300x450"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/7da5aaa1-fd87-4b70-b941-462cb411cc0d/Flylife_All_0088.jpg?format=500w",
+      "error": "too small 500x749"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/7da5aaa1-fd87-4b70-b941-462cb411cc0d/Flylife_All_0088.jpg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/7da5aaa1-fd87-4b70-b941-462cb411cc0d/Flylife_All_0088.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/7da5aaa1-fd87-4b70-b941-462cb411cc0d/Flylife_All_0088.jpg?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/669260d5-acce-4731-a285-501be98dc629/Flylife_All_0136.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/669260d5-acce-4731-a285-501be98dc629/Flylife_All_0136.jpg?format=100w",
+      "error": "too small 100x150"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/669260d5-acce-4731-a285-501be98dc629/Flylife_All_0136.jpg?format=300w",
+      "error": "too small 300x450"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/669260d5-acce-4731-a285-501be98dc629/Flylife_All_0136.jpg?format=500w",
+      "error": "too small 500x749"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/669260d5-acce-4731-a285-501be98dc629/Flylife_All_0136.jpg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/669260d5-acce-4731-a285-501be98dc629/Flylife_All_0136.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/669260d5-acce-4731-a285-501be98dc629/Flylife_All_0136.jpg?format=1500w"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/1706316535216-I3NPALMN8VTPLOTBVS0N/Flylife_All_0089.jpg?format=100w",
+      "error": "too small 100x150"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/1706316535216-I3NPALMN8VTPLOTBVS0N/Flylife_All_0089.jpg?format=300w",
+      "error": "too small 300x450"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/1706316535216-I3NPALMN8VTPLOTBVS0N/Flylife_All_0089.jpg?format=500w",
+      "error": "too small 500x750"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/1706316535216-I3NPALMN8VTPLOTBVS0N/Flylife_All_0089.jpg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/1706316535216-I3NPALMN8VTPLOTBVS0N/Flylife_All_0089.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/1706316535216-I3NPALMN8VTPLOTBVS0N/Flylife_All_0089.jpg?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/be2ef96c-df57-4a1d-8047-3f707aa73c20/Flylife_All_0116.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/be2ef96c-df57-4a1d-8047-3f707aa73c20/Flylife_All_0116.jpg?format=100w",
+      "error": "too small 100x150"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/be2ef96c-df57-4a1d-8047-3f707aa73c20/Flylife_All_0116.jpg?format=300w",
+      "error": "too small 300x450"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/be2ef96c-df57-4a1d-8047-3f707aa73c20/Flylife_All_0116.jpg?format=500w",
+      "error": "too small 500x749"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/be2ef96c-df57-4a1d-8047-3f707aa73c20/Flylife_All_0116.jpg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/be2ef96c-df57-4a1d-8047-3f707aa73c20/Flylife_All_0116.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/be2ef96c-df57-4a1d-8047-3f707aa73c20/Flylife_All_0116.jpg?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/e989bb74-7f7a-47c8-9000-7b73c534eb86/Flylife_All_0157.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/e989bb74-7f7a-47c8-9000-7b73c534eb86/Flylife_All_0157.jpg?format=100w",
+      "error": "too small 100x67"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/e989bb74-7f7a-47c8-9000-7b73c534eb86/Flylife_All_0157.jpg?format=300w",
+      "error": "too small 300x200"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/e989bb74-7f7a-47c8-9000-7b73c534eb86/Flylife_All_0157.jpg?format=500w",
+      "error": "too small 500x333"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/e989bb74-7f7a-47c8-9000-7b73c534eb86/Flylife_All_0157.jpg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/e989bb74-7f7a-47c8-9000-7b73c534eb86/Flylife_All_0157.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/e989bb74-7f7a-47c8-9000-7b73c534eb86/Flylife_All_0157.jpg?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/edc588ac-a5cd-4daa-9001-2d3ada45c499/Flylife_All_0083.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/edc588ac-a5cd-4daa-9001-2d3ada45c499/Flylife_All_0083.jpg?format=100w",
+      "error": "too small 100x150"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/edc588ac-a5cd-4daa-9001-2d3ada45c499/Flylife_All_0083.jpg?format=300w",
+      "error": "too small 300x450"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/edc588ac-a5cd-4daa-9001-2d3ada45c499/Flylife_All_0083.jpg?format=500w",
+      "error": "too small 500x749"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/edc588ac-a5cd-4daa-9001-2d3ada45c499/Flylife_All_0083.jpg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/edc588ac-a5cd-4daa-9001-2d3ada45c499/Flylife_All_0083.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/edc588ac-a5cd-4daa-9001-2d3ada45c499/Flylife_All_0083.jpg?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/fccc1620-47b1-451a-9a96-fe9476ace3bb/Flylife_All_0175.jpg?format=2500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/1706843029520-97GEZE0LACULECDKRLIB/SSH_3255.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/fccc1620-47b1-451a-9a96-fe9476ace3bb/Flylife_All_0175.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/fccc1620-47b1-451a-9a96-fe9476ace3bb/Flylife_All_0175.jpg?format=100w",
+      "error": "too small 100x67"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/fccc1620-47b1-451a-9a96-fe9476ace3bb/Flylife_All_0175.jpg?format=300w",
+      "error": "too small 300x200"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/fccc1620-47b1-451a-9a96-fe9476ace3bb/Flylife_All_0175.jpg?format=500w",
+      "error": "too small 500x334"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/fccc1620-47b1-451a-9a96-fe9476ace3bb/Flylife_All_0175.jpg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/fccc1620-47b1-451a-9a96-fe9476ace3bb/Flylife_All_0175.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/fccc1620-47b1-451a-9a96-fe9476ace3bb/Flylife_All_0175.jpg?format=1500w"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/1706675909069-0MZR3WYNVGNIVVO26SQR/TFG_Website_Images_2500px.jpg?format=100w",
+      "error": "too small 100x80"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/1706675909069-0MZR3WYNVGNIVVO26SQR/TFG_Website_Images_2500px.jpg?format=300w",
+      "error": "too small 300x240"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/1706675909069-0MZR3WYNVGNIVVO26SQR/TFG_Website_Images_2500px.jpg?format=500w",
+      "error": "too small 500x400"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/1706675909069-0MZR3WYNVGNIVVO26SQR/TFG_Website_Images_2500px.jpg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/1706675909069-0MZR3WYNVGNIVVO26SQR/TFG_Website_Images_2500px.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/1706675909069-0MZR3WYNVGNIVVO26SQR/TFG_Website_Images_2500px.jpg?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/1706565962363-EM1177OZU05EXVDSSDB3/1U9A2534.jpg?format=2500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/65b30f25a40b1b014cbb41b8/1706565962363-EM1177OZU05EXVDSSDB3/1U9A2534.jpg"
+    }
+  ]
+}

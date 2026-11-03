@@ -1,0 +1,380 @@
+{
+  "slug": "tas-high-country-fly-fish-tours",
+  "request_hash": "0566bcb3d803",
+  "collected_at": "2026-11-03T22:39:31.093Z",
+  "pages_fetched": [
+    "https://www.tasflyfish.com.au/",
+    "https://www.tasflyfish.com.au/contact",
+    "https://www.tasflyfish.com.au/booking-cancellation-policy"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1332,
+      "height": 891,
+      "original": "1332x891",
+      "source": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1547457380733-Z9S4S1W1EO7GUB23CS2U/TROUT+FLY.jpg?format=2500w",
+      "page": "https://www.tasflyfish.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 1654,
+      "height": 704,
+      "original": "1654x704",
+      "source": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1634517416723-WXNF5RFLMP0ZZQJZD0CN/STW_Hor%28C%29+Lic+Op+outline.jpg?format=2500w",
+      "page": "https://www.tasflyfish.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2500x1875",
+      "source": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1543228107836-MI4VWOGJGADPQWLGHPMX/COUPLE+FISHING.jpg?format=2500w",
+      "page": "https://www.tasflyfish.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2500x1875",
+      "source": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1547614522366-RK3UCUO3VDJ4NGT6H2V4/IMG_0058.jpg?format=2500w",
+      "page": "https://www.tasflyfish.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 2000,
+      "height": 962,
+      "original": "2473x1190",
+      "source": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1543532776772-58BZ0SF46NBOFPZM8GBA/map.png?format=2500w",
+      "page": "https://www.tasflyfish.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1772,
+      "height": 1329,
+      "original": "1772x1329",
+      "source": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1543531443653-5W7Z10TR8WA25MC1UF2M/FISHING+BOAT.jpg?format=2500w",
+      "page": "https://www.tasflyfish.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 648,
+      "height": 561,
+      "original": "648x561",
+      "source": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1543306873545-VRFWR2W93YI6EAT9XROQ/CLIENT+FISH.jpg?format=2500w",
+      "page": "https://www.tasflyfish.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1772x2362",
+      "source": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1543307059118-6W2AGHO8KXJH9B96IMLS/CHRIS+WIFE.jpg?format=2500w",
+      "page": "https://www.tasflyfish.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 2000,
+      "height": 1273,
+      "original": "2500x1591",
+      "source": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1543531818357-58CVIYIS0TGP5IBCTI10/FLY+IMAGE.jpg?format=2500w",
+      "page": "https://www.tasflyfish.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 2000,
+      "height": 1453,
+      "original": "2362x1716",
+      "source": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1543307974530-JSRTH189186CS0YYRXUJ/MAY+FLIES.jpg?format=2500w",
+      "page": "https://www.tasflyfish.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1001,
+      "height": 1001,
+      "original": "1001x1001",
+      "source": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1547614971685-QBFMB42SE2UPAKCCSXLO/trout+front+fly.jpg?format=2500w",
+      "page": "https://www.tasflyfish.com.au/contact",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.tasflyfish.com.au/",
+      "status": 200,
+      "final_url": "https://www.tasflyfish.com.au/",
+      "bytes": 198400
+    },
+    {
+      "page": "https://www.tasflyfish.com.au/contact",
+      "status": 200,
+      "final_url": "https://www.tasflyfish.com.au/contact",
+      "bytes": 142711
+    },
+    {
+      "page": "https://www.tasflyfish.com.au/booking-cancellation-policy",
+      "status": 200,
+      "final_url": "https://www.tasflyfish.com.au/booking-cancellation-policy",
+      "bytes": 123684
+    },
+    {
+      "image": "https://static1.squarespace.com/static/5bf3b2d75417fc1b4c9785eb/t/5c00742f0e2e723a08b26c91/1727140369811/",
+      "error": "too small 425x283"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1634517411049-6SH7Z10HI4U5ICNIMV8G/QTAB.png?format=2500w",
+      "error": "too small 480x630"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1634517411049-6SH7Z10HI4U5ICNIMV8G/QTAB.png",
+      "error": "too small 480x630"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1634517416723-WXNF5RFLMP0ZZQJZD0CN/STW_Hor%28C%29+Lic+Op+outline.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1547457310590-YU04HG8YKL8MNFFTXNDM/CHRISflip.jpg?format=2500w",
+      "error": "too small 417x581"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1547457310590-YU04HG8YKL8MNFFTXNDM/CHRISflip.jpg",
+      "error": "too small 417x581"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1545101324011-EW74P3D99FZWDIANJHX4/Screen+Shot.jpg?format=2500w",
+      "error": "too small 546x408"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1545101324011-EW74P3D99FZWDIANJHX4/Screen+Shot.jpg",
+      "error": "too small 546x408"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1547457380733-Z9S4S1W1EO7GUB23CS2U/TROUT+FLY.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1547457310590-YU04HG8YKL8MNFFTXNDM/CHRISflip.jpg?format=100w",
+      "error": "too small 100x139"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1547457310590-YU04HG8YKL8MNFFTXNDM/CHRISflip.jpg?format=300w",
+      "error": "too small 300x418"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1547457310590-YU04HG8YKL8MNFFTXNDM/CHRISflip.jpg?format=500w",
+      "error": "too small 417x581"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1547457310590-YU04HG8YKL8MNFFTXNDM/CHRISflip.jpg?format=750w",
+      "error": "too small 417x581"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1547457310590-YU04HG8YKL8MNFFTXNDM/CHRISflip.jpg?format=1000w",
+      "error": "too small 417x581"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1547457310590-YU04HG8YKL8MNFFTXNDM/CHRISflip.jpg?format=1500w",
+      "error": "too small 417x581"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1543228107836-MI4VWOGJGADPQWLGHPMX/COUPLE+FISHING.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1547614522366-RK3UCUO3VDJ4NGT6H2V4/IMG_0058.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1547614522366-RK3UCUO3VDJ4NGT6H2V4/IMG_0058.jpg?format=100w",
+      "error": "too small 100x75"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1547614522366-RK3UCUO3VDJ4NGT6H2V4/IMG_0058.jpg?format=300w",
+      "error": "too small 300x225"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1547614522366-RK3UCUO3VDJ4NGT6H2V4/IMG_0058.jpg?format=500w",
+      "error": "too small 500x375"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1547614522366-RK3UCUO3VDJ4NGT6H2V4/IMG_0058.jpg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1547614522366-RK3UCUO3VDJ4NGT6H2V4/IMG_0058.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1547614522366-RK3UCUO3VDJ4NGT6H2V4/IMG_0058.jpg?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1543532776772-58BZ0SF46NBOFPZM8GBA/map.png"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1543531443653-5W7Z10TR8WA25MC1UF2M/FISHING+BOAT.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1543531443653-5W7Z10TR8WA25MC1UF2M/FISHING+BOAT.jpg?format=100w",
+      "error": "too small 100x75"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1543531443653-5W7Z10TR8WA25MC1UF2M/FISHING+BOAT.jpg?format=300w",
+      "error": "too small 300x225"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1543531443653-5W7Z10TR8WA25MC1UF2M/FISHING+BOAT.jpg?format=500w",
+      "error": "too small 500x375"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1543531443653-5W7Z10TR8WA25MC1UF2M/FISHING+BOAT.jpg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1543531443653-5W7Z10TR8WA25MC1UF2M/FISHING+BOAT.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1543531443653-5W7Z10TR8WA25MC1UF2M/FISHING+BOAT.jpg?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1543306873545-VRFWR2W93YI6EAT9XROQ/CLIENT+FISH.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1543306873545-VRFWR2W93YI6EAT9XROQ/CLIENT+FISH.jpg?format=100w",
+      "error": "too small 100x86"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1543306873545-VRFWR2W93YI6EAT9XROQ/CLIENT+FISH.jpg?format=300w",
+      "error": "too small 300x260"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1543306873545-VRFWR2W93YI6EAT9XROQ/CLIENT+FISH.jpg?format=500w",
+      "error": "too small 500x433"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1543306873545-VRFWR2W93YI6EAT9XROQ/CLIENT+FISH.jpg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1543306873545-VRFWR2W93YI6EAT9XROQ/CLIENT+FISH.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1543306873545-VRFWR2W93YI6EAT9XROQ/CLIENT+FISH.jpg?format=1500w"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1545101324011-EW74P3D99FZWDIANJHX4/Screen+Shot.jpg?format=100w",
+      "error": "too small 100x75"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1545101324011-EW74P3D99FZWDIANJHX4/Screen+Shot.jpg?format=300w",
+      "error": "too small 300x224"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1545101324011-EW74P3D99FZWDIANJHX4/Screen+Shot.jpg?format=500w",
+      "error": "too small 500x374"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1545101324011-EW74P3D99FZWDIANJHX4/Screen+Shot.jpg?format=750w",
+      "error": "too small 546x408"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1545101324011-EW74P3D99FZWDIANJHX4/Screen+Shot.jpg?format=1000w",
+      "error": "too small 546x408"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1545101324011-EW74P3D99FZWDIANJHX4/Screen+Shot.jpg?format=1500w",
+      "error": "too small 546x408"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1543307059118-6W2AGHO8KXJH9B96IMLS/CHRIS+WIFE.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1543307059118-6W2AGHO8KXJH9B96IMLS/CHRIS+WIFE.jpg?format=100w",
+      "error": "too small 100x133"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1543307059118-6W2AGHO8KXJH9B96IMLS/CHRIS+WIFE.jpg?format=300w",
+      "error": "too small 300x400"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1543307059118-6W2AGHO8KXJH9B96IMLS/CHRIS+WIFE.jpg?format=500w",
+      "error": "too small 500x666"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1543307059118-6W2AGHO8KXJH9B96IMLS/CHRIS+WIFE.jpg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1543307059118-6W2AGHO8KXJH9B96IMLS/CHRIS+WIFE.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1543307059118-6W2AGHO8KXJH9B96IMLS/CHRIS+WIFE.jpg?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1543531818357-58CVIYIS0TGP5IBCTI10/FLY+IMAGE.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1543531818357-58CVIYIS0TGP5IBCTI10/FLY+IMAGE.jpg?format=100w",
+      "error": "too small 100x63"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1543531818357-58CVIYIS0TGP5IBCTI10/FLY+IMAGE.jpg?format=300w",
+      "error": "too small 300x191"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1543531818357-58CVIYIS0TGP5IBCTI10/FLY+IMAGE.jpg?format=500w",
+      "error": "too small 500x318"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1543531818357-58CVIYIS0TGP5IBCTI10/FLY+IMAGE.jpg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1543531818357-58CVIYIS0TGP5IBCTI10/FLY+IMAGE.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1543531818357-58CVIYIS0TGP5IBCTI10/FLY+IMAGE.jpg?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1543307974530-JSRTH189186CS0YYRXUJ/MAY+FLIES.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1547614971685-QBFMB42SE2UPAKCCSXLO/trout+front+fly.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1547614971685-QBFMB42SE2UPAKCCSXLO/trout+front+fly.jpg?format=100w",
+      "error": "too small 100x100"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1547614971685-QBFMB42SE2UPAKCCSXLO/trout+front+fly.jpg?format=300w",
+      "error": "too small 300x300"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1547614971685-QBFMB42SE2UPAKCCSXLO/trout+front+fly.jpg?format=500w",
+      "error": "too small 500x500"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1547614971685-QBFMB42SE2UPAKCCSXLO/trout+front+fly.jpg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1547614971685-QBFMB42SE2UPAKCCSXLO/trout+front+fly.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1547614971685-QBFMB42SE2UPAKCCSXLO/trout+front+fly.jpg?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1635300767493-GSTMRP5M1F0UNI4JEFCI/STW_Hor%28C%29+Lic+Op+outline%281%29.jpg?format=2500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1635300767493-GSTMRP5M1F0UNI4JEFCI/STW_Hor%28C%29+Lic+Op+outline%281%29.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1635300761940-X1COR525RJFD0KF6W2QK/QTAB.png?format=2500w",
+      "error": "too small 480x630"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5bf3b2d75417fc1b4c9785eb/1635300761940-X1COR525RJFD0KF6W2QK/QTAB.png",
+      "error": "too small 480x630"
+    }
+  ]
+}

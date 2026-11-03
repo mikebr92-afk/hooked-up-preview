@@ -1,0 +1,241 @@
+{
+  "slug": "troutfit-guiding",
+  "request_hash": "387e6fe2317c",
+  "collected_at": "2026-11-03T22:39:58.890Z",
+  "pages_fetched": [
+    "https://thetroutfitguiding.com/",
+    "https://www.thetroutfitguiding.com/fishing-guide-snowy-mountains-nsw",
+    "https://www.thetroutfitguiding.com/fishing-guide-snowy-mountains-nsw/troutfit-guiding",
+    "https://www.thetroutfitguiding.com/fishing-guide-snowy-mountains-nsw/about-mick",
+    "https://www.thetroutfitguiding.com/fishing-guide-snowy-mountains-nsw-gallery",
+    "https://www.thetroutfitguiding.com/fishing-guide-snowy-mountains-nsw/reviews",
+    "https://www.thetroutfitguiding.com/fishing-tours-guiding-snowy-mountains-nsw",
+    "https://www.thetroutfitguiding.com/fishing-tours-guiding-snowy-mountains-nsw/flyfishing-charter",
+    "https://www.thetroutfitguiding.com/fishing-tours-guiding-snowy-mountains-nsw/trout-trolling-charter",
+    "https://www.thetroutfitguiding.com/fishing-tours-guiding-snowy-mountains-nsw/guided-flyfishing-personal-trout-guide",
+    "https://www.thetroutfitguiding.com/fishing-tours-guiding-snowy-mountains-nsw/brown-trout-guide"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1200,
+      "height": 630,
+      "original": "1200x630",
+      "source": "https://www.thetroutfitguiding.com/assets/img/og-default.jpg",
+      "page": "https://thetroutfitguiding.com/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 900,
+      "height": 1200,
+      "original": "900x1200",
+      "source": "https://www.thetroutfitguiding.com/assets/img/mick.webp",
+      "page": "https://thetroutfitguiding.com/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 600,
+      "height": 800,
+      "original": "600x800",
+      "source": "https://www.thetroutfitguiding.com/assets/img/reel2.webp",
+      "page": "https://thetroutfitguiding.com/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 600,
+      "height": 450,
+      "original": "600x450",
+      "source": "https://www.thetroutfitguiding.com/assets/img/reel1.webp",
+      "page": "https://thetroutfitguiding.com/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 600,
+      "height": 800,
+      "original": "600x800",
+      "source": "https://www.thetroutfitguiding.com/assets/img/reel3.webp",
+      "page": "https://thetroutfitguiding.com/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 600,
+      "height": 800,
+      "original": "600x800",
+      "source": "https://www.thetroutfitguiding.com/assets/img/reel4.webp",
+      "page": "https://thetroutfitguiding.com/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1050,
+      "height": 1400,
+      "original": "1050x1400",
+      "source": "https://www.thetroutfitguiding.com/assets/img/couvee/troutfit-2026-38.webp",
+      "page": "https://thetroutfitguiding.com/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 960,
+      "height": 720,
+      "original": "960x720",
+      "source": "https://www.thetroutfitguiding.com/assets/img/loc-nsw.webp",
+      "page": "https://thetroutfitguiding.com/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 960,
+      "height": 720,
+      "original": "960x720",
+      "source": "https://www.thetroutfitguiding.com/assets/img/loc-tas.webp",
+      "page": "https://thetroutfitguiding.com/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 780,
+      "height": 1040,
+      "original": "780x1040",
+      "source": "https://www.thetroutfitguiding.com/assets/img/troll.webp",
+      "page": "https://thetroutfitguiding.com/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 780,
+      "height": 1040,
+      "original": "780x1040",
+      "source": "https://www.thetroutfitguiding.com/assets/img/fly.webp",
+      "page": "https://thetroutfitguiding.com/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 780,
+      "height": 520,
+      "original": "780x520",
+      "source": "https://www.thetroutfitguiding.com/assets/img/learn.webp",
+      "page": "https://thetroutfitguiding.com/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1920,
+      "height": 1440,
+      "original": "1920x1440",
+      "source": "https://www.thetroutfitguiding.com/assets/img/slide2.webp",
+      "page": "https://thetroutfitguiding.com/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1920,
+      "height": 1280,
+      "original": "1920x1280",
+      "source": "https://www.thetroutfitguiding.com/assets/img/slide4.webp",
+      "page": "https://thetroutfitguiding.com/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1920,
+      "height": 1440,
+      "original": "1920x1440",
+      "source": "https://www.thetroutfitguiding.com/assets/img/slide5.webp",
+      "page": "https://thetroutfitguiding.com/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1400,
+      "height": 1050,
+      "original": "1400x1050",
+      "source": "https://www.thetroutfitguiding.com/assets/img/couvee/troutfit-2026-52.webp",
+      "page": "https://www.thetroutfitguiding.com/fishing-guide-snowy-mountains-nsw",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://thetroutfitguiding.com/",
+      "status": 200,
+      "final_url": "https://www.thetroutfitguiding.com/",
+      "bytes": 28169
+    },
+    {
+      "page": "https://www.thetroutfitguiding.com/fishing-guide-snowy-mountains-nsw",
+      "status": 200,
+      "final_url": "https://www.thetroutfitguiding.com/fishing-guide-snowy-mountains-nsw",
+      "bytes": 18271
+    },
+    {
+      "page": "https://www.thetroutfitguiding.com/fishing-guide-snowy-mountains-nsw/troutfit-guiding",
+      "status": 200,
+      "final_url": "https://www.thetroutfitguiding.com/fishing-guide-snowy-mountains-nsw/troutfit-guiding",
+      "bytes": 19751
+    },
+    {
+      "page": "https://www.thetroutfitguiding.com/fishing-guide-snowy-mountains-nsw/about-mick",
+      "status": 200,
+      "final_url": "https://www.thetroutfitguiding.com/fishing-guide-snowy-mountains-nsw/about-mick",
+      "bytes": 19148
+    },
+    {
+      "page": "https://www.thetroutfitguiding.com/fishing-guide-snowy-mountains-nsw-gallery",
+      "status": 200,
+      "final_url": "https://www.thetroutfitguiding.com/fishing-guide-snowy-mountains-nsw-gallery",
+      "bytes": 51634
+    },
+    {
+      "page": "https://www.thetroutfitguiding.com/fishing-guide-snowy-mountains-nsw/reviews",
+      "status": 200,
+      "final_url": "https://www.thetroutfitguiding.com/fishing-guide-snowy-mountains-nsw/reviews",
+      "bytes": 18082
+    },
+    {
+      "page": "https://www.thetroutfitguiding.com/fishing-tours-guiding-snowy-mountains-nsw",
+      "status": 200,
+      "final_url": "https://www.thetroutfitguiding.com/fishing-tours-guiding-snowy-mountains-nsw",
+      "bytes": 23627
+    },
+    {
+      "page": "https://www.thetroutfitguiding.com/fishing-tours-guiding-snowy-mountains-nsw/flyfishing-charter",
+      "status": 200,
+      "final_url": "https://www.thetroutfitguiding.com/fishing-tours-guiding-snowy-mountains-nsw/flyfishing-charter",
+      "bytes": 21006
+    },
+    {
+      "page": "https://www.thetroutfitguiding.com/fishing-tours-guiding-snowy-mountains-nsw/trout-trolling-charter",
+      "status": 200,
+      "final_url": "https://www.thetroutfitguiding.com/fishing-tours-guiding-snowy-mountains-nsw/trout-trolling-charter",
+      "bytes": 20705
+    },
+    {
+      "page": "https://www.thetroutfitguiding.com/fishing-tours-guiding-snowy-mountains-nsw/guided-flyfishing-personal-trout-guide",
+      "status": 200,
+      "final_url": "https://www.thetroutfitguiding.com/fishing-tours-guiding-snowy-mountains-nsw/guided-flyfishing-personal-trout-guide",
+      "bytes": 20855
+    },
+    {
+      "page": "https://www.thetroutfitguiding.com/fishing-tours-guiding-snowy-mountains-nsw/brown-trout-guide",
+      "status": 200,
+      "final_url": "https://www.thetroutfitguiding.com/fishing-tours-guiding-snowy-mountains-nsw/brown-trout-guide",
+      "bytes": 20678
+    },
+    {
+      "dup": "https://www.thetroutfitguiding.com/assets/img/cta.webp"
+    },
+    {
+      "dup": "https://www.thetroutfitguiding.com/assets/img/slide1.webp"
+    },
+    {
+      "dup": "https://www.thetroutfitguiding.com/assets/img/slide3.webp"
+    }
+  ]
+}

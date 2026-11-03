@@ -1,0 +1,348 @@
+{
+  "slug": "red-tag-trout-tours",
+  "request_hash": "b2cd44011e28",
+  "collected_at": "2026-11-03T22:37:39.746Z",
+  "pages_fetched": [
+    "https://www.redtagtrout.com/",
+    "https://www.redtagtrout.com/%e2%80%a2-bookings-calendar/",
+    "https://www.redtagtrout.com/about/",
+    "https://www.redtagtrout.com/contact/",
+    "https://www.redtagtrout.com/2017/better-weather-better-fishing/imgp0050/",
+    "https://www.redtagtrout.com/2017/better-weather-better-fishing/imgp0055/",
+    "https://www.redtagtrout.com/2026/season-ending/?share=facebook",
+    "https://www.redtagtrout.com/category/fishing-tales/first-timers/",
+    "https://www.redtagtrout.com/category/fishing-tales/old-hands/",
+    "https://www.redtagtrout.com/2026/the-big-catch-up/?share=facebook",
+    "https://www.redtagtrout.com/2026/tassie-challenge/?share=facebook"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 660,
+      "height": 461,
+      "original": "660x461",
+      "source": "https://i0.wp.com/www.redtagtrout.com/wp-content/uploads/2026/04/HERNE-MARCH-2026.jpeg?resize=660%2C461&#038;ssl=1",
+      "page": "https://www.redtagtrout.com/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 660,
+      "height": 418,
+      "original": "660x418",
+      "source": "https://i0.wp.com/www.redtagtrout.com/wp-content/uploads/2026/04/PETER.jpeg?resize=660%2C418&#038;ssl=1",
+      "page": "https://www.redtagtrout.com/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 660,
+      "height": 446,
+      "original": "660x446",
+      "source": "https://i0.wp.com/www.redtagtrout.com/wp-content/uploads/2026/04/PHIL-5.jpeg?resize=660%2C446&#038;ssl=1",
+      "page": "https://www.redtagtrout.com/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 660,
+      "height": 420,
+      "original": "660x420",
+      "source": "https://i0.wp.com/www.redtagtrout.com/wp-content/uploads/2026/02/IMG_5195.jpeg?resize=660%2C420&#038;ssl=1",
+      "page": "https://www.redtagtrout.com/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 660,
+      "height": 423,
+      "original": "660x423",
+      "source": "https://i0.wp.com/www.redtagtrout.com/wp-content/uploads/2026/02/IMG_5212.jpeg?resize=660%2C423&#038;ssl=1",
+      "page": "https://www.redtagtrout.com/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 660,
+      "height": 495,
+      "original": "660x495",
+      "source": "https://i0.wp.com/www.redtagtrout.com/wp-content/uploads/2026/02/shannon-4.jpeg?resize=660%2C495&#038;ssl=1",
+      "page": "https://www.redtagtrout.com/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 660,
+      "height": 469,
+      "original": "660x469",
+      "source": "https://i0.wp.com/www.redtagtrout.com/wp-content/uploads/2026/02/MY-BROWN.jpeg?resize=660%2C469&#038;ssl=1",
+      "page": "https://www.redtagtrout.com/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 660,
+      "height": 528,
+      "original": "660x528",
+      "source": "https://i0.wp.com/www.redtagtrout.com/wp-content/uploads/2026/01/LAKE-RIVER-9.jpg?resize=660%2C528&#038;ssl=1",
+      "page": "https://www.redtagtrout.com/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 660,
+      "height": 495,
+      "original": "660x495",
+      "source": "https://i0.wp.com/www.redtagtrout.com/wp-content/uploads/2026/01/CURRAWONG-1-1.jpg?resize=660%2C495&#038;ssl=1",
+      "page": "https://www.redtagtrout.com/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 660,
+      "height": 495,
+      "original": "660x495",
+      "source": "https://i0.wp.com/www.redtagtrout.com/wp-content/uploads/2026/01/LAKE-RIVER-3.jpg?resize=660%2C495&#038;ssl=1",
+      "page": "https://www.redtagtrout.com/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 660,
+      "height": 608,
+      "original": "660x608",
+      "source": "https://i0.wp.com/www.redtagtrout.com/wp-content/uploads/2026/01/LAKE-RIVER-12.jpg?resize=660%2C608&#038;ssl=1",
+      "page": "https://www.redtagtrout.com/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 660,
+      "height": 495,
+      "original": "660x495",
+      "source": "https://i0.wp.com/www.redtagtrout.com/wp-content/uploads/2026/01/LAKE-RIVER-6.jpg?resize=660%2C495&#038;ssl=1",
+      "page": "https://www.redtagtrout.com/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 660,
+      "height": 554,
+      "original": "660x554",
+      "source": "https://i0.wp.com/www.redtagtrout.com/wp-content/uploads/2026/01/LAKE-RIVER-1.jpg?resize=660%2C554&#038;ssl=1",
+      "page": "https://www.redtagtrout.com/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 660,
+      "height": 426,
+      "original": "660x426",
+      "source": "https://i0.wp.com/www.redtagtrout.com/wp-content/uploads/2025/12/CURRAWONG-8-scaled.jpg?resize=660%2C426&#038;ssl=1",
+      "page": "https://www.redtagtrout.com/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 660,
+      "height": 405,
+      "original": "660x405",
+      "source": "https://i0.wp.com/www.redtagtrout.com/wp-content/uploads/2025/12/MACQUARIE-5.jpg?resize=660%2C405&#038;ssl=1",
+      "page": "https://www.redtagtrout.com/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 660,
+      "height": 916,
+      "original": "660x916",
+      "source": "https://i0.wp.com/www.redtagtrout.com/wp-content/uploads/2025/12/roger-cover.jpeg?resize=660%2C916&#038;ssl=1",
+      "page": "https://www.redtagtrout.com/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.redtagtrout.com/",
+      "status": 200,
+      "final_url": "https://www.redtagtrout.com/",
+      "bytes": 170487
+    },
+    {
+      "page": "https://www.redtagtrout.com/%e2%80%a2-bookings-calendar/",
+      "status": 200,
+      "final_url": "https://www.redtagtrout.com/%e2%80%a2-bookings-calendar/",
+      "bytes": 95088
+    },
+    {
+      "page": "https://www.redtagtrout.com/about/",
+      "status": 200,
+      "final_url": "https://www.redtagtrout.com/about/",
+      "bytes": 89879
+    },
+    {
+      "page": "https://www.redtagtrout.com/contact/",
+      "status": 200,
+      "final_url": "https://www.redtagtrout.com/contact/",
+      "bytes": 106866
+    },
+    {
+      "page": "https://www.redtagtrout.com/2017/better-weather-better-fishing/imgp0050/",
+      "status": 200,
+      "final_url": "https://www.redtagtrout.com/2017/better-weather-better-fishing/imgp0050/",
+      "bytes": 87959
+    },
+    {
+      "page": "https://www.redtagtrout.com/2017/better-weather-better-fishing/imgp0055/",
+      "status": 200,
+      "final_url": "https://www.redtagtrout.com/2017/better-weather-better-fishing/imgp0055/",
+      "bytes": 87959
+    },
+    {
+      "page": "https://www.redtagtrout.com/2026/season-ending/?share=facebook",
+      "status": 400,
+      "final_url": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.redtagtrout.com%2F2026%2Fseason-ending%2F&t=Season%20ending",
+      "bytes": 1542
+    },
+    {
+      "page": "https://www.redtagtrout.com/category/fishing-tales/first-timers/",
+      "status": 200,
+      "final_url": "https://www.redtagtrout.com/category/fishing-tales/first-timers/",
+      "bytes": 109013
+    },
+    {
+      "page": "https://www.redtagtrout.com/category/fishing-tales/old-hands/",
+      "status": 200,
+      "final_url": "https://www.redtagtrout.com/category/fishing-tales/old-hands/",
+      "bytes": 108021
+    },
+    {
+      "page": "https://www.redtagtrout.com/2026/the-big-catch-up/?share=facebook",
+      "status": 400,
+      "final_url": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.redtagtrout.com%2F2026%2Fthe-big-catch-up%2F&t=The%20big%20catch%20up%20%E2%80%A6",
+      "bytes": 1542
+    },
+    {
+      "page": "https://www.redtagtrout.com/2026/tassie-challenge/?share=facebook",
+      "status": 400,
+      "final_url": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.redtagtrout.com%2F2026%2Ftassie-challenge%2F&t=Tassie%20Challenge",
+      "bytes": 1542
+    },
+    {
+      "image": "https://s0.wp.com/i/blank.jpg",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://i0.wp.com/www.redtagtrout.com/wp-content/uploads/2007/07/trout-brown.jpg?resize=200%2C103",
+      "error": "too small 200x103"
+    },
+    {
+      "image": "https://i0.wp.com/www.redtagtrout.com/wp-content/uploads/2017/11/IMGP0050.jpg?resize=150%2C150&ssl=1",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://i0.wp.com/www.redtagtrout.com/wp-content/uploads/2018/05/IMGP2295.jpeg?resize=150%2C150&ssl=1",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://i0.wp.com/www.redtagtrout.com/wp-content/uploads/2019/07/IMGP2962.jpg?resize=150%2C150&ssl=1",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://i0.wp.com/www.redtagtrout.com/wp-content/uploads/2019/07/IMGP3018.jpg?resize=150%2C150&ssl=1",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://i0.wp.com/www.redtagtrout.com/wp-content/uploads/2019/07/IMGP3314.jpg?resize=150%2C150&ssl=1",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://i0.wp.com/www.redtagtrout.com/wp-content/uploads/2019/07/IMGP3640.jpg?resize=150%2C150&ssl=1",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://i0.wp.com/www.redtagtrout.com/wp-content/uploads/2019/07/IMGP3693.jpg?resize=150%2C150&ssl=1",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://i0.wp.com/www.redtagtrout.com/wp-content/uploads/2019/07/IMGP3942.jpg?resize=150%2C150&ssl=1",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://i0.wp.com/www.redtagtrout.com/wp-content/uploads/2019/07/IMGP4102.jpg?resize=150%2C150&ssl=1",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://i0.wp.com/www.redtagtrout.com/wp-content/uploads/2019/07/IMGP4586.jpg?resize=150%2C150&ssl=1",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://i0.wp.com/www.redtagtrout.com/wp-content/uploads/2019/07/IMGP5106.jpg?resize=150%2C150&ssl=1",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://i0.wp.com/www.redtagtrout.com/wp-content/uploads/2017/11/IMGP0055.jpg?resize=150%2C150&ssl=1",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://i0.wp.com/www.redtagtrout.com/wp-content/uploads/2018/03/IMGP1965.jpg?resize=150%2C150&ssl=1",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://i0.wp.com/www.redtagtrout.com/wp-content/uploads/2018/05/IMGP2521.jpeg?resize=150%2C150&ssl=1",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://i0.wp.com/www.redtagtrout.com/wp-content/uploads/2017/12/IMGP0528.jpg?resize=150%2C150&ssl=1",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://i0.wp.com/www.redtagtrout.com/wp-content/uploads/2017/09/20170818_162708.jpg?resize=150%2C150&ssl=1",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://i0.wp.com/www.redtagtrout.com/wp-content/uploads/2019/07/IMGP5165.jpg?resize=150%2C150&ssl=1",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://i0.wp.com/www.redtagtrout.com/wp-content/uploads/2017/06/best-season.jpg?resize=150%2C150&ssl=1",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://i0.wp.com/www.redtagtrout.com/wp-content/uploads/2007/10/grasshopper-side.jpg?w=660",
+      "error": "too small 200x141"
+    },
+    {
+      "image": "https://www.redtagtrout.com/wp-content/uploads/2024/07/Sustainable3-1.png",
+      "error": "too small 443x640"
+    },
+    {
+      "image": "https://i0.wp.com/www.redtagtrout.com/wp-content/uploads/2026/04/SALLY.jpeg?resize=660%2C390&#038;ssl=1",
+      "error": "too small 660x390"
+    },
+    {
+      "image": "https://i0.wp.com/www.redtagtrout.com/wp-content/uploads/2026/04/GREGS-FIRST.jpeg?resize=660%2C394&#038;ssl=1",
+      "error": "too small 660x394"
+    },
+    {
+      "image": "https://i0.wp.com/www.redtagtrout.com/wp-content/uploads/2026/04/LYN-2.jpeg?resize=660%2C311&#038;ssl=1",
+      "error": "too small 660x311"
+    },
+    {
+      "image": "https://i0.wp.com/www.redtagtrout.com/wp-content/uploads/2026/02/TWIN-LAKES-7.jpg?resize=660%2C399&#038;ssl=1",
+      "error": "too small 660x399"
+    },
+    {
+      "image": "https://i0.wp.com/www.redtagtrout.com/wp-content/uploads/2026/01/CURRAWONG.jpg?resize=660%2C391&#038;ssl=1",
+      "error": "too small 660x391"
+    },
+    {
+      "image": "https://i0.wp.com/www.redtagtrout.com/wp-content/uploads/2025/12/CURRAWONG-9.jpg?resize=660%2C365&#038;ssl=1",
+      "error": "too small 660x365"
+    },
+    {
+      "image": "https://i0.wp.com/www.redtagtrout.com/wp-content/uploads/2025/12/CURRAWONG-18.jpg?resize=660%2C335&#038;ssl=1",
+      "error": "too small 660x335"
+    }
+  ]
+}

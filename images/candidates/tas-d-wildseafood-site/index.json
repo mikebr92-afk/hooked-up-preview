@@ -1,0 +1,66 @@
+{
+  "slug": "tas-d-wildseafood-site",
+  "request_hash": "addbc731100a",
+  "collected_at": "2026-11-03T22:40:23.151Z",
+  "pages_fetched": [
+    "https://tasmanianwildseafoodadventures.com.au/",
+    "https://tasmanianwildseafoodadventures.com.au/tasmanias-premier-marine-tours/",
+    "https://tasmanianwildseafoodadventures.com.au/custom-charters/",
+    "https://tasmanianwildseafoodadventures.com.au/about-us/",
+    "https://tasmanianwildseafoodadventures.com.au/faq/",
+    "https://tasmanianwildseafoodadventures.com.au/contact/",
+    "https://tasmanianwildseafoodadventures.com.au/tasmania-abalone-tour/",
+    "https://tasmanianwildseafoodadventures.com.au/hobart-seafood-boat-cruise/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://tasmanianwildseafoodadventures.com.au/",
+      "status": 200,
+      "final_url": "https://tasmanianwildseafoodadventures.com.au/",
+      "bytes": 262813
+    },
+    {
+      "page": "https://tasmanianwildseafoodadventures.com.au/tasmanias-premier-marine-tours/",
+      "status": 200,
+      "final_url": "https://tasmanianwildseafoodadventures.com.au/tasmanias-premier-marine-tours/",
+      "bytes": 185897
+    },
+    {
+      "page": "https://tasmanianwildseafoodadventures.com.au/custom-charters/",
+      "status": 200,
+      "final_url": "https://tasmanianwildseafoodadventures.com.au/custom-charters/",
+      "bytes": 190807
+    },
+    {
+      "page": "https://tasmanianwildseafoodadventures.com.au/about-us/",
+      "status": 200,
+      "final_url": "https://tasmanianwildseafoodadventures.com.au/about-us/",
+      "bytes": 192215
+    },
+    {
+      "page": "https://tasmanianwildseafoodadventures.com.au/faq/",
+      "status": 200,
+      "final_url": "https://tasmanianwildseafoodadventures.com.au/faq/",
+      "bytes": 242616
+    },
+    {
+      "page": "https://tasmanianwildseafoodadventures.com.au/contact/",
+      "status": 200,
+      "final_url": "https://tasmanianwildseafoodadventures.com.au/contact/",
+      "bytes": 175409
+    },
+    {
+      "page": "https://tasmanianwildseafoodadventures.com.au/tasmania-abalone-tour/",
+      "status": 200,
+      "final_url": "https://tasmanianwildseafoodadventures.com.au/tasmania-abalone-tour/",
+      "bytes": 186836
+    },
+    {
+      "page": "https://tasmanianwildseafoodadventures.com.au/hobart-seafood-boat-cruise/",
+      "status": 200,
+      "final_url": "https://tasmanianwildseafoodadventures.com.au/hobart-seafood-boat-cruise/",
+      "bytes": 187305
+    }
+  ]
+}

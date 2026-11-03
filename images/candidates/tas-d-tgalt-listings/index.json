@@ -1,0 +1,80 @@
+{
+  "slug": "tas-d-tgalt-listings",
+  "request_hash": "a6741d192192",
+  "collected_at": "2026-11-03T22:40:07.913Z",
+  "pages_fetched": [
+    "https://www.troutguidestasmania.com.au/listing/red-tag-trout-tours/",
+    "https://www.troutguidestasmania.com.au/listing/tassie-fly-guide/",
+    "https://www.troutguidestasmania.com.au/listing/mayfly-guiding/",
+    "https://www.troutguidestasmania.com.au/listing/peter-hayes-fly-fishing/",
+    "https://www.troutguidestasmania.com.au/listing/riverfly-1864/",
+    "https://www.troutguidestasmania.com.au/listing/tas-high-country/",
+    "https://www.troutguidestasmania.com.au/listing/miena-guiding-tasmania/",
+    "https://www.troutguidestasmania.com.au/listing/troutfit_guiding/",
+    "https://www.troutguidestasmania.com.au/listing/tasmania-fly-fishing/",
+    "https://www.troutguidestasmania.com.au/listing/trout-tales-tasmania/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.troutguidestasmania.com.au/listing/red-tag-trout-tours/",
+      "status": 200,
+      "final_url": "https://www.troutguidestasmania.com.au/listing/red-tag-trout-tours/",
+      "bytes": 145213
+    },
+    {
+      "page": "https://www.troutguidestasmania.com.au/listing/tassie-fly-guide/",
+      "status": 200,
+      "final_url": "https://www.troutguidestasmania.com.au/listing/tassie-fly-guide/",
+      "bytes": 144933
+    },
+    {
+      "page": "https://www.troutguidestasmania.com.au/listing/mayfly-guiding/",
+      "status": 200,
+      "final_url": "https://www.troutguidestasmania.com.au/listing/mayfly-guiding/",
+      "bytes": 147015
+    },
+    {
+      "page": "https://www.troutguidestasmania.com.au/listing/peter-hayes-fly-fishing/",
+      "status": 200,
+      "final_url": "https://www.troutguidestasmania.com.au/listing/peter-hayes-fly-fishing/",
+      "bytes": 146336
+    },
+    {
+      "page": "https://www.troutguidestasmania.com.au/listing/riverfly-1864/",
+      "status": 200,
+      "final_url": "https://www.troutguidestasmania.com.au/listing/riverfly-1864/",
+      "bytes": 145812
+    },
+    {
+      "page": "https://www.troutguidestasmania.com.au/listing/tas-high-country/",
+      "status": 200,
+      "final_url": "https://www.troutguidestasmania.com.au/listing/tas-high-country/",
+      "bytes": 148492
+    },
+    {
+      "page": "https://www.troutguidestasmania.com.au/listing/miena-guiding-tasmania/",
+      "status": 200,
+      "final_url": "https://www.troutguidestasmania.com.au/listing/miena-guiding-tasmania/",
+      "bytes": 149423
+    },
+    {
+      "page": "https://www.troutguidestasmania.com.au/listing/troutfit_guiding/",
+      "status": 200,
+      "final_url": "https://www.troutguidestasmania.com.au/listing/troutfit_guiding/",
+      "bytes": 149322
+    },
+    {
+      "page": "https://www.troutguidestasmania.com.au/listing/tasmania-fly-fishing/",
+      "status": 200,
+      "final_url": "https://www.troutguidestasmania.com.au/listing/tasmania-fly-fishing/",
+      "bytes": 151659
+    },
+    {
+      "page": "https://www.troutguidestasmania.com.au/listing/trout-tales-tasmania/",
+      "status": 200,
+      "final_url": "https://www.troutguidestasmania.com.au/listing/trout-tales-tasmania/",
+      "bytes": 149798
+    }
+  ]
+}

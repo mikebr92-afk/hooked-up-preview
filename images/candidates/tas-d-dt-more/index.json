@@ -1,0 +1,38 @@
+{
+  "slug": "tas-d-dt-more",
+  "request_hash": "a7fa27bfa31b",
+  "collected_at": "2026-11-03T22:40:14.795Z",
+  "pages_fetched": [
+    "https://www.discovertasmania.com.au/things-to-do/tours/riverflytasmania/",
+    "https://production.tourismtasmania.com.au/things-to-do/tours/thehighlandfly",
+    "https://www.discovertasmania.com.au/things-to-do/tours/freycinet-charters",
+    "https://www.discovertasmania.com.au/things-to-do/tours/troutterritoryhobart/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.discovertasmania.com.au/things-to-do/tours/riverflytasmania/",
+      "status": 200,
+      "final_url": "https://www.discovertasmania.com.au/things-to-do/tours/riverflytasmania/",
+      "bytes": 328632
+    },
+    {
+      "page": "https://production.tourismtasmania.com.au/things-to-do/tours/thehighlandfly",
+      "status": 404,
+      "final_url": "https://www.tourismtasmania.com.au/things-to-do/tours/thehighlandfly",
+      "bytes": 791
+    },
+    {
+      "page": "https://www.discovertasmania.com.au/things-to-do/tours/freycinet-charters",
+      "status": 200,
+      "final_url": "https://www.discovertasmania.com.au/things-to-do/tours/freycinetcharters/freycinet-charters",
+      "bytes": 364748
+    },
+    {
+      "page": "https://www.discovertasmania.com.au/things-to-do/tours/troutterritoryhobart/",
+      "status": 404,
+      "final_url": "https://www.discovertasmania.com.au/things-to-do/tours/troutterritoryhobart/",
+      "bytes": 275931
+    }
+  ]
+}

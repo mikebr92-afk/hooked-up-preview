@@ -1,64 +1,112 @@
 {
-  "finished_at": "2026-11-03T22:30:23.488Z",
+  "finished_at": "2026-11-03T22:40:23.382Z",
   "summary": [
     {
       "slug": "tas-d-tgalt-guides",
-      "candidates": 0,
-      "pages": 1
+      "skipped": true
     },
     {
       "slug": "tas-d-ifs-rules",
-      "candidates": 0,
-      "pages": 2
+      "skipped": true
     },
     {
       "slug": "tas-d-charter-tourism",
-      "candidates": 0,
-      "pages": 12
+      "skipped": true
     },
     {
       "slug": "tas-d-fb-hobart",
-      "candidates": 0,
-      "pages": 1
+      "skipped": true
     },
     {
       "slug": "tas-d-fb-tasmania",
-      "candidates": 0,
-      "pages": 1
+      "skipped": true
     },
     {
       "slug": "trout-tales-tasmania",
-      "candidates": 16,
-      "pages": 11
+      "skipped": true
     },
     {
       "slug": "trout-territory",
-      "candidates": 9,
-      "pages": 7
+      "skipped": true
     },
     {
       "slug": "tasmania-fly-fishing",
+      "skipped": true
+    },
+    {
+      "slug": "divers-fishing-charters-hobart",
+      "skipped": true
+    },
+    {
+      "slug": "south-east-charters",
+      "skipped": true
+    },
+    {
+      "slug": "mr-flathead",
+      "skipped": true
+    },
+    {
+      "slug": "tas-d-keen-angler-ec",
+      "skipped": true
+    },
+    {
+      "slug": "riverfly-1864",
+      "candidates": 16,
+      "pages": 9
+    },
+    {
+      "slug": "red-tag-trout-tours",
       "candidates": 16,
       "pages": 11
     },
     {
-      "slug": "divers-fishing-charters-hobart",
+      "slug": "tassie-fly-guide",
+      "candidates": 13,
+      "pages": 3
+    },
+    {
+      "slug": "mayfly-guiding",
+      "candidates": 9,
+      "pages": 4
+    },
+    {
+      "slug": "peter-hayes-fly-fishing",
+      "candidates": 12,
+      "pages": 11
+    },
+    {
+      "slug": "tas-high-country-fly-fish-tours",
+      "candidates": 11,
+      "pages": 3
+    },
+    {
+      "slug": "miena-guiding-tasmania",
       "candidates": 16,
+      "pages": 9
+    },
+    {
+      "slug": "troutfit-guiding",
+      "candidates": 16,
+      "pages": 11
+    },
+    {
+      "slug": "tas-d-tgalt-listings",
+      "candidates": 0,
       "pages": 10
     },
     {
-      "slug": "south-east-charters",
+      "slug": "tas-d-dt-more",
       "candidates": 0,
-      "pages": 7
+      "pages": 4
     },
     {
-      "slug": "mr-flathead",
-      "candidates": 7,
-      "pages": 5
+      "slug": "tas-d-wildseafood-site",
+      "candidates": 0,
+      "pages": 8
     },
     {
-      "slug": "tas-d-keen-angler-ec",
-      "candidates": 6,
+      "slug": "tas-d-pirates-bay-fb",
+      "candidates": 0,
       "pages": 2
     },
     {
