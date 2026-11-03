@@ -1,0 +1,24 @@
+{
+  "slug": "tas-d-ifs-rules",
+  "request_hash": "22237af81174",
+  "collected_at": "2026-11-03T22:27:58.019Z",
+  "pages_fetched": [
+    "https://www.ifs.tas.gov.au/the-rules/angling-licence",
+    "https://www.ifs.tas.gov.au/the-rules/season-dates-and-times"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.ifs.tas.gov.au/the-rules/angling-licence",
+      "status": 200,
+      "final_url": "https://www.ifs.tas.gov.au/the-rules/angling-licence",
+      "bytes": 51516
+    },
+    {
+      "page": "https://www.ifs.tas.gov.au/the-rules/season-dates-and-times",
+      "status": 200,
+      "final_url": "https://www.ifs.tas.gov.au/the-rules/season-dates-and-times",
+      "bytes": 42661
+    }
+  ]
+}

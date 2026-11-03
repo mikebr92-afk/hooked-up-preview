@@ -1,0 +1,17 @@
+{
+  "slug": "tas-d-tgalt-guides",
+  "request_hash": "6b2a883aef92",
+  "collected_at": "2026-11-03T22:27:56.397Z",
+  "pages_fetched": [
+    "https://www.troutguidestasmania.com.au/guide/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.troutguidestasmania.com.au/guide/",
+      "status": 200,
+      "final_url": "https://www.troutguidestasmania.com.au/guide/",
+      "bytes": 168660
+    }
+  ]
+}

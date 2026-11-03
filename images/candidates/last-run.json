@@ -1,85 +1,129 @@
 {
-  "finished_at": "2026-11-03T22:24:43.109Z",
+  "finished_at": "2026-11-03T22:30:23.488Z",
   "summary": [
     {
-      "slug": "tas-d-tgalt",
+      "slug": "tas-d-tgalt-guides",
+      "candidates": 0,
+      "pages": 1
+    },
+    {
+      "slug": "tas-d-ifs-rules",
       "candidates": 0,
       "pages": 2
     },
     {
-      "slug": "tas-d-ifs-advice",
+      "slug": "tas-d-charter-tourism",
       "candidates": 0,
       "pages": 12
     },
     {
-      "slug": "tas-d-centralhighlands",
+      "slug": "tas-d-fb-hobart",
       "candidates": 0,
       "pages": 1
     },
     {
-      "slug": "tas-d-trouttales-links",
+      "slug": "tas-d-fb-tasmania",
       "candidates": 0,
       "pages": 1
     },
     {
-      "slug": "tas-d-fishing-tas",
-      "candidates": 0,
+      "slug": "trout-tales-tasmania",
+      "candidates": 16,
       "pages": 11
     },
     {
-      "slug": "tas-d-dt-doublehook",
+      "slug": "trout-territory",
+      "candidates": 9,
+      "pages": 7
+    },
+    {
+      "slug": "tasmania-fly-fishing",
+      "candidates": 16,
+      "pages": 11
+    },
+    {
+      "slug": "divers-fishing-charters-hobart",
+      "candidates": 16,
+      "pages": 10
+    },
+    {
+      "slug": "south-east-charters",
       "candidates": 0,
-      "pages": 1
+      "pages": 7
+    },
+    {
+      "slug": "mr-flathead",
+      "candidates": 7,
+      "pages": 5
+    },
+    {
+      "slug": "tas-d-keen-angler-ec",
+      "candidates": 6,
+      "pages": 2
+    },
+    {
+      "slug": "tas-d-tgalt",
+      "skipped": true
+    },
+    {
+      "slug": "tas-d-ifs-advice",
+      "skipped": true
+    },
+    {
+      "slug": "tas-d-centralhighlands",
+      "skipped": true
+    },
+    {
+      "slug": "tas-d-trouttales-links",
+      "skipped": true
+    },
+    {
+      "slug": "tas-d-fishing-tas",
+      "skipped": true
+    },
+    {
+      "slug": "tas-d-dt-doublehook",
+      "skipped": true
     },
     {
       "slug": "tas-d-dt-keenangler",
-      "candidates": 0,
-      "pages": 1
+      "skipped": true
     },
     {
       "slug": "tas-d-dt-allround",
-      "candidates": 0,
-      "pages": 1
+      "skipped": true
     },
     {
       "slug": "tas-d-dt-unique",
-      "candidates": 0,
-      "pages": 1
+      "skipped": true
     },
     {
       "slug": "tas-d-dt-divers",
-      "candidates": 0,
-      "pages": 1
+      "skipped": true
     },
     {
       "slug": "tas-d-dt-southeast",
-      "candidates": 0,
-      "pages": 1
+      "skipped": true
     },
     {
       "slug": "tas-d-dt-mrflathead",
-      "candidates": 0,
-      "pages": 1
+      "skipped": true
     },
     {
       "slug": "tas-d-dt-swansea",
-      "candidates": 0,
-      "pages": 1
+      "skipped": true
     },
     {
       "slug": "tas-d-dt-troutterritory",
-      "candidates": 0,
-      "pages": 1
+      "skipped": true
     },
     {
       "slug": "tas-d-dt-wildseafood",
-      "candidates": 0,
-      "pages": 1
+      "skipped": true
     },
     {
       "slug": "tas-d-tasfish-gamecharter",
-      "candidates": 0,
-      "pages": 1
+      "skipped": true
     }
   ]
 }

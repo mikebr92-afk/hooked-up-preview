@@ -1,0 +1,272 @@
+{
+  "slug": "mr-flathead",
+  "request_hash": "e8e4fe8dc868",
+  "collected_at": "2026-11-03T22:30:17.398Z",
+  "pages_fetched": [
+    "https://mrflathead.com.au/",
+    "https://www.mrflathead.com.au/tasmania-fishing-charter-tour",
+    "https://www.mrflathead.com.au/fishing-in-tasmania",
+    "https://www.mrflathead.com.au/experience-fishing-tasmania",
+    "https://www.mrflathead.com.au/contact-charters-hobart"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 2000,
+      "height": 733,
+      "original": "2276x834",
+      "source": "https://static.wixstatic.com/media/c808dd_08d8f5a7c4fb27213701baa3c43d0fe8.jpg",
+      "page": "https://mrflathead.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 700,
+      "height": 481,
+      "original": "700x481",
+      "source": "https://static.wixstatic.com/media/6071e5_9a9c5108e5d5468f9b4584935b6998bd~mv2.jpg",
+      "page": "https://mrflathead.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 700,
+      "height": 481,
+      "original": "700x481",
+      "source": "https://static.wixstatic.com/media/6071e5_2e266b7b3ed947b280ee8d7b0551cd63~mv2.jpg",
+      "page": "https://mrflathead.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1463,
+      "height": 685,
+      "original": "1463x685",
+      "source": "https://static.wixstatic.com/media/6071e5_0672a8fbfcd245aa950ab34628235950~mv2.jpg",
+      "page": "https://mrflathead.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 700,
+      "height": 481,
+      "original": "700x481",
+      "source": "https://static.wixstatic.com/media/6071e5_fc1388ff7ce64c60b23c2537785f23e7~mv2.jpg",
+      "page": "https://mrflathead.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 882,
+      "height": 449,
+      "original": "882x449",
+      "source": "https://static.wixstatic.com/media/6071e5_5a98e7415fce47838a7bd12e7495d016~mv2.jpg",
+      "page": "https://www.mrflathead.com.au/fishing-in-tasmania",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1970,
+      "height": 1970,
+      "original": "1970x1970",
+      "source": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/media/sloppyframe.3214ce8e.png",
+      "page": "https://www.mrflathead.com.au/contact-charters-hobart",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://mrflathead.com.au/",
+      "status": 200,
+      "final_url": "https://www.mrflathead.com.au/",
+      "bytes": 372393
+    },
+    {
+      "page": "https://www.mrflathead.com.au/tasmania-fishing-charter-tour",
+      "status": 200,
+      "final_url": "https://www.mrflathead.com.au/tasmania-fishing-charter-tour",
+      "bytes": 365784
+    },
+    {
+      "page": "https://www.mrflathead.com.au/fishing-in-tasmania",
+      "status": 200,
+      "final_url": "https://www.mrflathead.com.au/fishing-in-tasmania",
+      "bytes": 370275
+    },
+    {
+      "page": "https://www.mrflathead.com.au/experience-fishing-tasmania",
+      "status": 200,
+      "final_url": "https://www.mrflathead.com.au/experience-fishing-tasmania",
+      "bytes": 354293
+    },
+    {
+      "page": "https://www.mrflathead.com.au/contact-charters-hobart",
+      "status": 200,
+      "final_url": "https://www.mrflathead.com.au/contact-charters-hobart",
+      "bytes": 385138
+    },
+    {
+      "image": "https://static.wixstatic.com/media/6071e5_3d36d06723c64abf8728b20d4d79fe99.png",
+      "error": "too small 209x209"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/6071e5_3d36d06723c64abf8728b20d4d79fe99.png/v1/fill/w_47,h_47,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/6071e5_3d36d06723c64abf8728b20d4d79fe99.png",
+      "error": "too small 47x47"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/b1cd13f9d4dfb1450bbb325285106177.png",
+      "error": "too small 205x205"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/b1cd13f9d4dfb1450bbb325285106177.png/v1/fill/w_48,h_48,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/b1cd13f9d4dfb1450bbb325285106177.png",
+      "error": "too small 48x48"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/6071e5_e0a2c37e8a4e43aa84cf7fc590f56e9b~mv2.png",
+      "error": "too small 274x184"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/6071e5_e0a2c37e8a4e43aa84cf7fc590f56e9b~mv2.png/v1/fill/w_108,h_72,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Trip%20Advisor.png",
+      "error": "too small 108x72"
+    },
+    {
+      "image": "https://www.mrflathead.com.au/quality_auto/The-experience.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.mrflathead.com.au/quality_auto/Gallery.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.mrflathead.com.au/quality_auto/DSCF3112_JPG.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.mrflathead.com.au/quality_auto/Make-A-booking-web.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.mrflathead.com.au/quality_auto/6071e5_3d36d06723c64abf8728b20d4d79fe99.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.mrflathead.com.au/quality_auto/b1cd13f9d4dfb1450bbb325285106177.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.mrflathead.com.au/quality_auto/Trip%20Advisor.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/media/shdtop.0f8738db.png",
+      "error": "too small 1602x194"
+    },
+    {
+      "image": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/media/shdbottom.03f16293.png",
+      "error": "too small 1598x194"
+    },
+    {
+      "image": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/media/ironpatern.bb7ea6a2.png",
+      "error": "too small 167x171"
+    },
+    {
+      "image": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/media/bg_wood1.300a124f.jpg",
+      "error": "too small 500x1000"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/6071e5_b86d364e4677478792cc922f1efe3cd1.jpg",
+      "error": "too small 32x32"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/6071e5_b86d364e4677478792cc922f1efe3cd1.jpg/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/6071e5_b86d364e4677478792cc922f1efe3cd1.jpg",
+      "error": "too small 192x192"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/6071e5_b86d364e4677478792cc922f1efe3cd1.jpg/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/6071e5_b86d364e4677478792cc922f1efe3cd1.jpg",
+      "error": "too small 32x32"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/6071e5_b86d364e4677478792cc922f1efe3cd1.jpg/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/6071e5_b86d364e4677478792cc922f1efe3cd1.jpg",
+      "error": "too small 180x180"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/c808dd_08d8f5a7c4fb27213701baa3c43d0fe8.jpg/v1/fill/w_288,h_106,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/c808dd_08d8f5a7c4fb27213701baa3c43d0fe8.jpg",
+      "error": "too small 288x106"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/6071e5_9a9c5108e5d5468f9b4584935b6998bd~mv2.jpg/v1/fill/w_378,h_245,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/The-experience.jpg",
+      "error": "too small 378x245"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/6071e5_9a9c5108e5d5468f9b4584935b6998bd~mv2.jpg/v1/fill/w_756,h_490,al_c,lg_1,q_85,enc_avif,quality_auto/The-experience.jpg"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/6071e5_2e266b7b3ed947b280ee8d7b0551cd63~mv2.jpg/v1/fill/w_378,h_245,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Gallery.jpg",
+      "error": "too small 378x245"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/6071e5_2e266b7b3ed947b280ee8d7b0551cd63~mv2.jpg/v1/fill/w_756,h_490,al_c,lg_1,q_85,enc_avif,quality_auto/Gallery.jpg"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/6071e5_0672a8fbfcd245aa950ab34628235950~mv2.jpg/v1/fill/w_375,h_240,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/DSCF3112_JPG.jpg",
+      "error": "too small 375x240"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/6071e5_0672a8fbfcd245aa950ab34628235950~mv2.jpg/v1/fill/w_750,h_480,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/DSCF3112_JPG.jpg"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/6071e5_fc1388ff7ce64c60b23c2537785f23e7~mv2.jpg/v1/fill/w_390,h_235,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Make-A-booking-web.jpg",
+      "error": "too small 390x235"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/6071e5_fc1388ff7ce64c60b23c2537785f23e7~mv2.jpg/v1/fill/w_780,h_470,al_c,lg_1,q_85,enc_avif,quality_auto/Make-A-booking-web.jpg"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/6071e5_3d36d06723c64abf8728b20d4d79fe99.png/v1/fill/w_94,h_94,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/6071e5_3d36d06723c64abf8728b20d4d79fe99.png",
+      "error": "too small 94x94"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/b1cd13f9d4dfb1450bbb325285106177.png/v1/fill/w_96,h_96,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/b1cd13f9d4dfb1450bbb325285106177.png",
+      "error": "too small 96x96"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/6071e5_e0a2c37e8a4e43aa84cf7fc590f56e9b~mv2.png/v1/fill/w_216,h_144,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Trip%20Advisor.png",
+      "error": "too small 216x144"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/6071e5_25fd0e3e3bc0cee814cd10a0e986ed0a.jpg",
+      "error": "too small 450x800"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/6071e5_25fd0e3e3bc0cee814cd10a0e986ed0a.jpg/v1/fill/w_290,h_605,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/6071e5_25fd0e3e3bc0cee814cd10a0e986ed0a.jpg",
+      "error": "too small 290x605"
+    },
+    {
+      "image": "https://www.mrflathead.com.au/quality_auto/6071e5_25fd0e3e3bc0cee814cd10a0e986ed0a.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/6071e5_25fd0e3e3bc0cee814cd10a0e986ed0a.jpg/v1/fill/w_460,h_960,al_c,lg_1,q_85,enc_avif,quality_auto/6071e5_25fd0e3e3bc0cee814cd10a0e986ed0a.jpg",
+      "error": "too small 460x960"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/6071e5_0672a8fbfcd245aa950ab34628235950~mv2.jpg/v1/fill/w_470,h_395,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/DSCF3112_JPG.jpg",
+      "error": "too small 470x395"
+    },
+    {
+      "image": "https://www.mrflathead.com.au/quality_auto/The-fishing-boat.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/6071e5_5a98e7415fce47838a7bd12e7495d016~mv2.jpg/v1/fill/w_470,h_205,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/The-fishing-boat.jpg",
+      "error": "too small 470x205"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/6071e5_5a98e7415fce47838a7bd12e7495d016~mv2.jpg/v1/fill/w_882,h_385,al_c,q_80,enc_avif,quality_auto/The-fishing-boat.jpg",
+      "error": "too small 882x385"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/6071e5_0672a8fbfcd245aa950ab34628235950~mv2.jpg/v1/fill/w_815,h_685,al_c,q_85,enc_avif,quality_auto/DSCF3112_JPG.jpg"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "slug": "tas-d-keen-angler-ec",
+  "request_hash": "2cdff4ba67f6",
+  "collected_at": "2026-11-03T22:30:23.486Z",
+  "pages_fetched": [
+    "https://eastcoasttasmania.com/atdw_listings/keen-angler-charters/",
+    "https://eastcoasttasmania.com/to-do/adventure/itinerary/fishing/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2048x1536",
+      "source": "https://eastcoasttasmania.com/wp-content/uploads/2022/08/2de0ecfe12106b75c784efc9493cb3f9.jpeg",
+      "page": "https://eastcoasttasmania.com/atdw_listings/keen-angler-charters/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 1920,
+      "height": 756,
+      "original": "1920x756",
+      "source": "https://eastcoasttasmania.com/wp-content/uploads/2020/12/Blog.jpg",
+      "page": "https://eastcoasttasmania.com/atdw_listings/keen-angler-charters/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 970,
+      "height": 645,
+      "original": "970x645",
+      "source": "https://eastcoasttasmania.com/wp-content/uploads/2015/08/Fishing.jpg",
+      "page": "https://eastcoasttasmania.com/to-do/adventure/itinerary/fishing/",
+      "priority": true
+    },
+    {
+      "file": "c04.webp",
+      "width": 1000,
+      "height": 667,
+      "original": "1000x667",
+      "source": "https://eastcoasttasmania.com/wp-content/uploads/2016/04/Elise-Great-Eastern-Drive-10.jpg",
+      "page": "https://eastcoasttasmania.com/to-do/adventure/itinerary/fishing/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1500,
+      "height": 998,
+      "original": "1500x998",
+      "source": "https://eastcoasttasmania.com/wp-content/uploads/2015/10/DSC_0904.jpg",
+      "page": "https://eastcoasttasmania.com/to-do/adventure/itinerary/fishing/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1080,
+      "height": 720,
+      "original": "1080x720",
+      "source": "https://eastcoasttasmania.com/wp-content/uploads/2021/08/Craigie-Knowe-Vineyard-1.jpg",
+      "page": "https://eastcoasttasmania.com/to-do/adventure/itinerary/fishing/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://eastcoasttasmania.com/atdw_listings/keen-angler-charters/",
+      "status": 200,
+      "final_url": "https://eastcoasttasmania.com/atdw_listings/keen-angler-charters/",
+      "bytes": 83678
+    },
+    {
+      "page": "https://eastcoasttasmania.com/to-do/adventure/itinerary/fishing/",
+      "status": 200,
+      "final_url": "https://eastcoasttasmania.com/to-do/adventure/itinerary/fishing/",
+      "bytes": 92457
+    },
+    {
+      "dup": "https://eastcoasttasmania.com/wp-content/uploads/2022/08/2de0ecfe12106b75c784efc9493cb3f9-1024x768.jpeg"
+    },
+    {
+      "image": "https://eastcoasttasmania.com/wp-content/uploads/2016/04/Elise-Great-Eastern-Drive-10-370x247.jpg",
+      "error": "too small 370x247"
+    },
+    {
+      "dup": "https://eastcoasttasmania.com/wp-content/uploads/2016/04/Elise-Great-Eastern-Drive-10-600x400.jpg"
+    },
+    {
+      "image": "https://eastcoasttasmania.com/wp-content/uploads/2015/10/DSC_0904-370x246.jpg",
+      "error": "too small 370x246"
+    },
+    {
+      "dup": "https://eastcoasttasmania.com/wp-content/uploads/2015/10/DSC_0904-1024x681.jpg"
+    },
+    {
+      "dup": "https://eastcoasttasmania.com/wp-content/uploads/2015/10/DSC_0904-600x400.jpg"
+    },
+    {
+      "image": "https://eastcoasttasmania.com/wp-content/uploads/2021/08/Craigie-Knowe-Vineyard-1-370x247.jpg",
+      "error": "too small 370x247"
+    },
+    {
+      "dup": "https://eastcoasttasmania.com/wp-content/uploads/2021/08/Craigie-Knowe-Vineyard-1-1024x683.jpg"
+    },
+    {
+      "dup": "https://eastcoasttasmania.com/wp-content/uploads/2021/08/Craigie-Knowe-Vineyard-1-600x400.jpg"
+    }
+  ]
+}

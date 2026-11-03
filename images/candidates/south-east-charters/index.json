@@ -1,0 +1,163 @@
+{
+  "slug": "south-east-charters",
+  "request_hash": "b337e7d258f6",
+  "collected_at": "2026-11-03T22:30:04.168Z",
+  "pages_fetched": [
+    "https://www.southeastcharters.com.au/",
+    "https://www.southeastcharters.com.au/index.html",
+    "https://www.southeastcharters.com.au/about-us.html",
+    "https://www.southeastcharters.com.au/fishing-charters.html",
+    "https://www.southeastcharters.com.au/the-boat.html",
+    "https://www.southeastcharters.com.au/gallery.html",
+    "https://www.southeastcharters.com.au/contact.html"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.southeastcharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.southeastcharters.com.au/",
+      "bytes": 13410
+    },
+    {
+      "page": "https://www.southeastcharters.com.au/index.html",
+      "status": 200,
+      "final_url": "https://www.southeastcharters.com.au/index.html",
+      "bytes": 13410
+    },
+    {
+      "page": "https://www.southeastcharters.com.au/about-us.html",
+      "status": 200,
+      "final_url": "https://www.southeastcharters.com.au/about-us.html",
+      "bytes": 10263
+    },
+    {
+      "page": "https://www.southeastcharters.com.au/fishing-charters.html",
+      "status": 200,
+      "final_url": "https://www.southeastcharters.com.au/fishing-charters.html",
+      "bytes": 16282
+    },
+    {
+      "page": "https://www.southeastcharters.com.au/the-boat.html",
+      "status": 200,
+      "final_url": "https://www.southeastcharters.com.au/the-boat.html",
+      "bytes": 9795
+    },
+    {
+      "page": "https://www.southeastcharters.com.au/gallery.html",
+      "status": 200,
+      "final_url": "https://www.southeastcharters.com.au/gallery.html",
+      "bytes": 19701
+    },
+    {
+      "page": "https://www.southeastcharters.com.au/contact.html",
+      "status": 200,
+      "final_url": "https://www.southeastcharters.com.au/contact.html",
+      "bytes": 14598
+    },
+    {
+      "image": "https://www.southeastcharters.com.au/images/gototop0.png",
+      "error": "too small 38x38"
+    },
+    {
+      "image": "https://www.southeastcharters.com.au/images/tuna12.jpg",
+      "error": "too small 307x230"
+    },
+    {
+      "image": "https://www.southeastcharters.com.au/images/stripey3.jpg",
+      "error": "too small 307x230"
+    },
+    {
+      "image": "https://www.southeastcharters.com.au/images/squid.jpg",
+      "error": "too small 307x230"
+    },
+    {
+      "image": "https://www.southeastcharters.com.au/images/eastcoast.jpg",
+      "error": "too small 583x542"
+    },
+    {
+      "image": "https://www.southeastcharters.com.au/images/bottom.jpg",
+      "error": "too small 560x430"
+    },
+    {
+      "image": "https://www.southeastcharters.com.au/images/game.jpg",
+      "error": "too small 560x430"
+    },
+    {
+      "image": "https://www.southeastcharters.com.au/images/phantom.jpg",
+      "error": "too small 580x386"
+    },
+    {
+      "image": "https://www.southeastcharters.com.au/images/tunap3.jpg",
+      "error": "too small 307x409"
+    },
+    {
+      "image": "https://www.southeastcharters.com.au/images/tunap2.jpg",
+      "error": "too small 307x409"
+    },
+    {
+      "image": "https://www.southeastcharters.com.au/images/tunap1.jpg",
+      "error": "too small 307x409"
+    },
+    {
+      "image": "https://www.southeastcharters.com.au/images/tunap4.jpg",
+      "error": "too small 307x411"
+    },
+    {
+      "image": "https://www.southeastcharters.com.au/images/kingfishp.jpg",
+      "error": "too small 307x411"
+    },
+    {
+      "image": "https://www.southeastcharters.com.au/images/flatheadp2.jpg",
+      "error": "too small 307x411"
+    },
+    {
+      "image": "https://www.southeastcharters.com.au/images/flatheadp.jpg",
+      "error": "too small 307x411"
+    },
+    {
+      "image": "https://www.southeastcharters.com.au/images/calamri.jpg",
+      "error": "too small 307x411"
+    },
+    {
+      "image": "https://www.southeastcharters.com.au/images/tuna1.jpg",
+      "error": "too small 307x230"
+    },
+    {
+      "image": "https://www.southeastcharters.com.au/images/tuna2.jpg",
+      "error": "too small 306x230"
+    },
+    {
+      "image": "https://www.southeastcharters.com.au/images/tuna3.jpg",
+      "error": "too small 307x230"
+    },
+    {
+      "image": "https://www.southeastcharters.com.au/images/tuna4.jpg",
+      "error": "too small 307x230"
+    },
+    {
+      "image": "https://www.southeastcharters.com.au/images/tuna5.jpg",
+      "error": "too small 307x230"
+    },
+    {
+      "image": "https://www.southeastcharters.com.au/images/flatheads.jpg",
+      "error": "too small 307x230"
+    },
+    {
+      "image": "https://www.southeastcharters.com.au/images/pairflatheads.jpg",
+      "error": "too small 308x230"
+    },
+    {
+      "image": "https://www.southeastcharters.com.au/images/trumpeter.jpg",
+      "error": "too small 307x230"
+    },
+    {
+      "image": "https://www.southeastcharters.com.au/images/phone1.png",
+      "error": "too small 512x512"
+    },
+    {
+      "image": "https://www.southeastcharters.com.au/images/mail1.png",
+      "error": "too small 512x512"
+    }
+  ]
+}

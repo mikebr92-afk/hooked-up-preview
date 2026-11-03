@@ -1,0 +1,17 @@
+{
+  "slug": "tas-d-fb-tasmania",
+  "request_hash": "e2eb0608836e",
+  "collected_at": "2026-11-03T22:28:22.446Z",
+  "pages_fetched": [
+    "https://fishingbooker.com/destinations/region/au/TS"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://fishingbooker.com/destinations/region/au/TS",
+      "status": 403,
+      "final_url": "https://fishingbooker.com/destinations/region/au/TS",
+      "bytes": 5856
+    }
+  ]
+}

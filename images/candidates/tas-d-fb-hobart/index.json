@@ -1,0 +1,17 @@
+{
+  "slug": "tas-d-fb-hobart",
+  "request_hash": "c7c91babafb1",
+  "collected_at": "2026-11-03T22:28:22.398Z",
+  "pages_fetched": [
+    "https://fishingbooker.com/destinations/location/au/TS/hobart"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://fishingbooker.com/destinations/location/au/TS/hobart",
+      "status": 403,
+      "final_url": "https://fishingbooker.com/destinations/location/au/TS/hobart",
+      "bytes": 5883
+    }
+  ]
+}

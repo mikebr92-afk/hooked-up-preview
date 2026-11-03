@@ -1,0 +1,192 @@
+{
+  "slug": "trout-territory",
+  "request_hash": "cc9d21c41875",
+  "collected_at": "2026-11-03T22:28:52.957Z",
+  "pages_fetched": [
+    "https://www.troutterritory.com.au/",
+    "https://troutterritory.com.au/fly-fishing-tour-rates/",
+    "https://troutterritory.com.au/fly-fishing-workshops/",
+    "https://troutterritory.com.au/trout-fishing-in-tasmania-3/",
+    "https://troutterritory.com.au/about/",
+    "https://troutterritory.com.au/contact/",
+    "https://troutterritory.com.au/trout-fishing-in-tasmania/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2272x1704",
+      "source": "https://troutterritory.com.au/wp-content/uploads/ChrisDonJonah.jpg",
+      "page": "https://www.troutterritory.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2272x1704",
+      "source": "https://troutterritory.com.au/wp-content/uploads/Trout-Territory-01.jpg",
+      "page": "https://www.troutterritory.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1024,
+      "height": 768,
+      "original": "1024x768",
+      "source": "https://troutterritory.com.au/wp-content/uploads/brumbys-creek.jpg",
+      "page": "https://www.troutterritory.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2272x1704",
+      "source": "https://troutterritory.com.au/wp-content/uploads/IMG_3314-copy.jpg",
+      "page": "https://www.troutterritory.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 2000,
+      "height": 1494,
+      "original": "2592x1936",
+      "source": "https://troutterritory.com.au/wp-content/uploads/kylieW.jpg",
+      "page": "https://www.troutterritory.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "3264x2448",
+      "source": "https://troutterritory.com.au/wp-content/uploads/scenery-lake-burb.jpg",
+      "page": "https://www.troutterritory.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1023,
+      "height": 659,
+      "original": "1023x659",
+      "source": "https://troutterritory.com.au/wp-content/uploads/rod-leven-river.jpg",
+      "page": "https://www.troutterritory.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1280,
+      "height": 720,
+      "original": "1280x720",
+      "source": "https://troutterritory.com.au/wp-content/uploads/Gary-four-springs-brown-a.jpg",
+      "page": "https://www.troutterritory.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1440,
+      "height": 1080,
+      "original": "1440x1080",
+      "source": "https://troutterritory.com.au/wp-content/uploads/gary-and-fee-24.10.20.jpg",
+      "page": "https://troutterritory.com.au/about/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.troutterritory.com.au/",
+      "status": 200,
+      "final_url": "https://troutterritory.com.au/",
+      "bytes": 98839
+    },
+    {
+      "page": "https://troutterritory.com.au/fly-fishing-tour-rates/",
+      "status": 200,
+      "final_url": "https://troutterritory.com.au/fly-fishing-tour-rates/",
+      "bytes": 72163
+    },
+    {
+      "page": "https://troutterritory.com.au/fly-fishing-workshops/",
+      "status": 200,
+      "final_url": "https://troutterritory.com.au/fly-fishing-workshops/",
+      "bytes": 69071
+    },
+    {
+      "page": "https://troutterritory.com.au/trout-fishing-in-tasmania-3/",
+      "status": 200,
+      "final_url": "https://troutterritory.com.au/trout-fishing-in-tasmania-3/",
+      "bytes": 98457
+    },
+    {
+      "page": "https://troutterritory.com.au/about/",
+      "status": 200,
+      "final_url": "https://troutterritory.com.au/about/",
+      "bytes": 73043
+    },
+    {
+      "page": "https://troutterritory.com.au/contact/",
+      "status": 200,
+      "final_url": "https://troutterritory.com.au/contact/",
+      "bytes": 83475
+    },
+    {
+      "page": "https://troutterritory.com.au/trout-fishing-in-tasmania/",
+      "status": 200,
+      "final_url": "https://troutterritory.com.au/trout-fishing-in-tasmania-3/",
+      "bytes": 98463
+    },
+    {
+      "image": "https://troutterritory.com.au/wp-content/uploads/ChrisDonJonah-300x225.jpg",
+      "error": "too small 300x225"
+    },
+    {
+      "image": "https://troutterritory.com.au/wp-content/uploads/Trout-Territory-01-300x225.jpg",
+      "error": "too small 300x225"
+    },
+    {
+      "image": "https://troutterritory.com.au/wp-content/uploads/brumbys-creek-300x225.jpg",
+      "error": "too small 300x225"
+    },
+    {
+      "image": "https://troutterritory.com.au/wp-content/uploads/IMG_3314-copy-300x225.jpg",
+      "error": "too small 300x225"
+    },
+    {
+      "image": "https://troutterritory.com.au/wp-content/uploads/kylieW-300x224.jpg",
+      "error": "too small 300x224"
+    },
+    {
+      "image": "https://troutterritory.com.au/wp-content/uploads/scenery-lake-burb-300x225.jpg",
+      "error": "too small 300x225"
+    },
+    {
+      "image": "https://troutterritory.com.au/wp-content/uploads/gary-and-fee-24.10.20-300x225.jpg",
+      "error": "too small 300x225"
+    },
+    {
+      "image": "https://troutterritory.com.au/wp-content/uploads/gary-and-fee-24.10.20-200x150.jpg",
+      "error": "too small 200x150"
+    },
+    {
+      "image": "https://troutterritory.com.au/wp-content/uploads/gary-and-fee-24.10.20-400x300.jpg",
+      "error": "too small 400x300"
+    },
+    {
+      "dup": "https://troutterritory.com.au/wp-content/uploads/gary-and-fee-24.10.20-600x450.jpg"
+    },
+    {
+      "dup": "https://troutterritory.com.au/wp-content/uploads/gary-and-fee-24.10.20-768x576.jpg"
+    },
+    {
+      "dup": "https://troutterritory.com.au/wp-content/uploads/gary-and-fee-24.10.20-800x600.jpg"
+    },
+    {
+      "dup": "https://troutterritory.com.au/wp-content/uploads/gary-and-fee-24.10.20-1024x768.jpg"
+    },
+    {
+      "dup": "https://troutterritory.com.au/wp-content/uploads/gary-and-fee-24.10.20-1200x900.jpg"
+    }
+  ]
+}

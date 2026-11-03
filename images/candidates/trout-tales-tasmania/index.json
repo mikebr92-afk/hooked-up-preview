@@ -1,0 +1,252 @@
+{
+  "slug": "trout-tales-tasmania",
+  "request_hash": "3a2b6b9f222d",
+  "collected_at": "2026-11-03T22:28:32.261Z",
+  "pages_fetched": [
+    "https://www.trouttalestasmania.com.au/",
+    "https://www.trouttalestasmania.com.au/fly-fishing-tasmania-packages",
+    "https://www.trouttalestasmania.com.au/about",
+    "https://www.trouttalestasmania.com.au/contact-us",
+    "https://www.trouttalestasmania.com.au/trout-fishing-guide-tasmania",
+    "https://www.trouttalestasmania.com.au/blog/fly-fishing-tasmania",
+    "https://www.trouttalestasmania.com.au/fly-fishing-locations",
+    "https://www.trouttalestasmania.com.au/tours/fly-fishing-tours-near-central-highlands-tasmania",
+    "https://www.trouttalestasmania.com.au/tours/fly-fishing-tours-near-launceston",
+    "https://www.trouttalestasmania.com.au/tours/fly-fishing-tours-hobart",
+    "https://www.trouttalestasmania.com.au/package-category/fly-fishing-at-currawong-lakes-in-tasmania"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1600,
+      "height": 1067,
+      "original": "1600x1067",
+      "source": "https://cdn.prod.website-files.com/60c82524cc266b27bcf5a982/6361b28258487f0a4dbda46c_fishing-charters-tasmania.webp",
+      "page": "https://www.trouttalestasmania.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 1500,
+      "height": 844,
+      "original": "1500x844",
+      "source": "https://assets.website-files.com/60c995c11db4aed74cb4a73d/6191a20e3a8d5acb9d06b7d0_CENTRAL-HIGHLANDS-FISHING-TASMANIA.jpg",
+      "page": "https://www.trouttalestasmania.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c03.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://cdn.prod.website-files.com/60c82524cc266b27bcf5a982/6a30ab0fd191f9e9faa1ebcc_P1047020.jpg",
+      "page": "https://www.trouttalestasmania.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://cdn.prod.website-files.com/60c82524cc266b27bcf5a982/6a30ab20a60bda6ef79c2187_P1061286.jpg",
+      "page": "https://www.trouttalestasmania.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 900,
+      "height": 1200,
+      "original": "900x1200",
+      "source": "https://cdn.prod.website-files.com/60c82524cc266b27bcf5a982/68370d9706d7372001227e2c_ttthobart.avif",
+      "page": "https://www.trouttalestasmania.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 2000,
+      "height": 1125,
+      "original": "3840x2160",
+      "source": "https://cdn.prod.website-files.com/60c82524cc266b27bcf5a982/6a30ab6f900167ff555d3ff6_MEANDER-01.jpg",
+      "page": "https://www.trouttalestasmania.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://cdn.prod.website-files.com/60c82524cc266b27bcf5a982/6a30ac015890f4dfe7409979_DJI_0006B.jpg",
+      "page": "https://www.trouttalestasmania.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1440,
+      "height": 1080,
+      "original": "1440x1080",
+      "source": "https://cdn.prod.website-files.com/60c82524cc266b27bcf5a982/6a30ac25ab80a5d190d0a03b_PANA9459.jpg",
+      "page": "https://www.trouttalestasmania.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://cdn.prod.website-files.com/60c82524cc266b27bcf5a982/68a647516450218e53500b2b_PANA9634A.avif",
+      "page": "https://www.trouttalestasmania.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 2000,
+      "height": 1065,
+      "original": "2000x1065",
+      "source": "https://cdn.prod.website-files.com/60c82524cc266b27bcf5a982/68d22c4ed19ea221f0cc7c75_book-now.jpg",
+      "page": "https://www.trouttalestasmania.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://cdn.prod.website-files.com/60c82524cc266b27bcf5a982/699fa9e3254a074f8b41a777_P1190947.jpg",
+      "page": "https://www.trouttalestasmania.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 800,
+      "height": 540,
+      "original": "800x540",
+      "source": "https://cdn.prod.website-files.com/60c82524cc266b27bcf5a982/626fcab3c4212853004c62c1_trout-tales-matt.webp",
+      "page": "https://www.trouttalestasmania.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://cdn.prod.website-files.com/60c82524cc266b27bcf5a982/6a30ac81bd305c1b9a1ff526_DJI_0006.jpg",
+      "page": "https://www.trouttalestasmania.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1440,
+      "height": 1800,
+      "original": "1440x1800",
+      "source": "https://cdn.prod.website-files.com/60c82524cc266b27bcf5a982/69c1e163434fc2d8c55762fc_547764433_18105817345586425_5701347298327054198_n.jpg",
+      "page": "https://www.trouttalestasmania.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1200,
+      "height": 675,
+      "original": "1200x675",
+      "source": "https://cdn.prod.website-files.com/60c82524cc266b27bcf5a982/68370db0d68d53cb04f6afd1_20240827-SHANON-RIVER.avif",
+      "page": "https://www.trouttalestasmania.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1439,
+      "height": 1080,
+      "original": "1439x1080",
+      "source": "https://cdn.prod.website-files.com/60c995c11db4aed74cb4a73d/69ed726b711c8b737834836d_69cb09a86fc3d6c3cf6e1658_P1061316.jpeg",
+      "page": "https://www.trouttalestasmania.com.au/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.trouttalestasmania.com.au/",
+      "status": 200,
+      "final_url": "https://www.trouttalestasmania.com.au/",
+      "bytes": 68608
+    },
+    {
+      "page": "https://www.trouttalestasmania.com.au/fly-fishing-tasmania-packages",
+      "status": 200,
+      "final_url": "https://www.trouttalestasmania.com.au/fly-fishing-tasmania-packages",
+      "bytes": 58200
+    },
+    {
+      "page": "https://www.trouttalestasmania.com.au/about",
+      "status": 200,
+      "final_url": "https://www.trouttalestasmania.com.au/about",
+      "bytes": 38855
+    },
+    {
+      "page": "https://www.trouttalestasmania.com.au/contact-us",
+      "status": 200,
+      "final_url": "https://www.trouttalestasmania.com.au/contact-us",
+      "bytes": 30312
+    },
+    {
+      "page": "https://www.trouttalestasmania.com.au/trout-fishing-guide-tasmania",
+      "status": 200,
+      "final_url": "https://www.trouttalestasmania.com.au/trout-fishing-guide-tasmania",
+      "bytes": 51586
+    },
+    {
+      "page": "https://www.trouttalestasmania.com.au/blog/fly-fishing-tasmania",
+      "status": 200,
+      "final_url": "https://www.trouttalestasmania.com.au/blog/fly-fishing-tasmania",
+      "bytes": 86442
+    },
+    {
+      "page": "https://www.trouttalestasmania.com.au/fly-fishing-locations",
+      "status": 200,
+      "final_url": "https://www.trouttalestasmania.com.au/fly-fishing-locations",
+      "bytes": 37172
+    },
+    {
+      "page": "https://www.trouttalestasmania.com.au/tours/fly-fishing-tours-near-central-highlands-tasmania",
+      "status": 200,
+      "final_url": "https://www.trouttalestasmania.com.au/tours/fly-fishing-tours-near-central-highlands-tasmania",
+      "bytes": 37611
+    },
+    {
+      "page": "https://www.trouttalestasmania.com.au/tours/fly-fishing-tours-near-launceston",
+      "status": 200,
+      "final_url": "https://www.trouttalestasmania.com.au/tours/fly-fishing-tours-near-launceston",
+      "bytes": 37140
+    },
+    {
+      "page": "https://www.trouttalestasmania.com.au/tours/fly-fishing-tours-hobart",
+      "status": 200,
+      "final_url": "https://www.trouttalestasmania.com.au/tours/fly-fishing-tours-hobart",
+      "bytes": 37277
+    },
+    {
+      "page": "https://www.trouttalestasmania.com.au/package-category/fly-fishing-at-currawong-lakes-in-tasmania",
+      "status": 200,
+      "final_url": "https://www.trouttalestasmania.com.au/package-category/fly-fishing-at-currawong-lakes-in-tasmania",
+      "bytes": 40146
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/60c82524cc266b27bcf5a982/60e28ed54b6c7c70ce3df700_INSTAGRAM-CREATURE-CALLS.png",
+      "error": "too small 200x195"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/60c82524cc266b27bcf5a982/60e28ea939a1de9942dc948c_FACEBOOK-CREATURE-CALLS.png",
+      "error": "too small 300x292"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/60c82524cc266b27bcf5a982/6926d12586edf0672798959c_sale-tshirt2.png",
+      "error": "too small 400x334"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/60c82524cc266b27bcf5a982/6926d19f88325a9cde30efc4_sale-tshirt.png",
+      "error": "too small 400x334"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/60c82524cc266b27bcf5a982/649a5fea4745607f5620db65_64891eca8bfc729866ca959e_stars.png",
+      "error": "too small 305x54"
+    }
+  ]
+}
