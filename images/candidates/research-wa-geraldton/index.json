@@ -1,0 +1,38 @@
+{
+  "slug": "research-wa-geraldton",
+  "request_hash": "08921f556849",
+  "collected_at": "2026-11-03T22:44:57.061Z",
+  "pages_fetched": [
+    "https://visitgeraldton.com.au/listings/business-listings/2864/abrolhos-adventures",
+    "https://www.visitgeraldton.com.au/listings/business-listings/sports--adventure",
+    "https://waholidayguide.com.au/offshore-charters",
+    "https://www.waholidayguide.com.au/blue-water-adventure-charters"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://visitgeraldton.com.au/listings/business-listings/2864/abrolhos-adventures",
+      "status": 404,
+      "final_url": "https://www.visitgeraldton.com.au/listings/business-listings/2864/abrolhos-adventures",
+      "bytes": 1245
+    },
+    {
+      "page": "https://www.visitgeraldton.com.au/listings/business-listings/sports--adventure",
+      "status": 404,
+      "final_url": "https://www.visitgeraldton.com.au/listings/business-listings/sports--adventure",
+      "bytes": 1245
+    },
+    {
+      "page": "https://waholidayguide.com.au/offshore-charters",
+      "status": 200,
+      "final_url": "https://www.waholidayguide.com.au/western-australia-tours-things-to-do",
+      "bytes": 592333
+    },
+    {
+      "page": "https://www.waholidayguide.com.au/blue-water-adventure-charters",
+      "status": 200,
+      "final_url": "https://www.waholidayguide.com.au/western-australia-tours-things-to-do/browse-tours/western-australia-fishing-trip-charter-snorkeling-diving",
+      "bytes": 416006
+    }
+  ]
+}

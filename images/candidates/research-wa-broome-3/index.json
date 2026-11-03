@@ -1,0 +1,32 @@
+{
+  "slug": "research-wa-broome-3",
+  "request_hash": "028e105f63bf",
+  "collected_at": "2026-11-03T22:44:59.166Z",
+  "pages_fetched": [
+    "https://www.broomebillfish.com.au/",
+    "https://www.broomebillfishcharters.com/",
+    "https://www.kuribaysportfishing.com.au/",
+    "https://www.wafishingcharters.com/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.broomebillfish.com.au/",
+      "status": 200,
+      "final_url": "https://broomebillfish.com.au/",
+      "bytes": 373956
+    },
+    {
+      "page": "https://www.broomebillfishcharters.com/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://www.kuribaysportfishing.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://www.wafishingcharters.com/",
+      "error": "fetch failed"
+    }
+  ]
+}
