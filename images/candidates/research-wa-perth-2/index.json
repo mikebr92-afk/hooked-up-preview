@@ -1,0 +1,36 @@
+{
+  "slug": "research-wa-perth-2",
+  "request_hash": "72f939cb00b1",
+  "collected_at": "2026-11-03T22:29:05.444Z",
+  "pages_fetched": [
+    "https://bluejuicecharters.rezdy.com/",
+    "https://www.waholidayguide.com.au/mills-charters-hillarys-currently-not-operating",
+    "https://millscharters.com.au/",
+    "https://www.wavisitorcentre.com.au/blue-juice-charters"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://bluejuicecharters.rezdy.com/",
+      "status": 403,
+      "final_url": "https://bluejuicecharters.rezdy.com/",
+      "bytes": 5186
+    },
+    {
+      "page": "https://www.waholidayguide.com.au/mills-charters-hillarys-currently-not-operating",
+      "status": 200,
+      "final_url": "https://www.waholidayguide.com.au/explore-wa",
+      "bytes": 543121
+    },
+    {
+      "page": "https://millscharters.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://www.wavisitorcentre.com.au/blue-juice-charters",
+      "status": 404,
+      "final_url": "https://www.wavisitorcentre.com.au/blue-juice-charters",
+      "bytes": 40858
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "birchys-fishing-tours",
+  "request_hash": "8e85367abbc4",
+  "collected_at": "2026-11-03T22:29:57.154Z",
+  "pages_fetched": [
+    "https://birchysfishingtours.com.au/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://birchysfishingtours.com.au/",
+      "error": "fetch failed"
+    }
+  ]
+}

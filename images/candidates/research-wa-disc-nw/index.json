@@ -1,0 +1,38 @@
+{
+  "slug": "research-wa-disc-nw",
+  "request_hash": "ae5996bda667",
+  "collected_at": "2026-11-03T22:28:52.509Z",
+  "pages_fetched": [
+    "https://www.australiasnorthwest.com/see-do/fishing/",
+    "https://visitbroome.com.au/tours/fishing-tours",
+    "https://www.visitkununurra.com/explore/tours/fishing-tours",
+    "https://www.ningaloocentre.com.au/tours/fishing-charters"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.australiasnorthwest.com/see-do/fishing/",
+      "status": 200,
+      "final_url": "https://www.australiasnorthwest.com/see-do/fishing/",
+      "bytes": 421325
+    },
+    {
+      "page": "https://visitbroome.com.au/tours/fishing-tours",
+      "status": 200,
+      "final_url": "https://www.visitbroome.com.au/tours/fishing-tours",
+      "bytes": 88597
+    },
+    {
+      "page": "https://www.visitkununurra.com/explore/tours/fishing-tours",
+      "status": 200,
+      "final_url": "https://www.visitkununurra.com/explore/tours/fishing-tours",
+      "bytes": 60397
+    },
+    {
+      "page": "https://www.ningaloocentre.com.au/tours/fishing-charters",
+      "status": 200,
+      "final_url": "https://www.ningaloocentre.com.au/tours/fishing-charters",
+      "bytes": 36468
+    }
+  ]
+}

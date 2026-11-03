@@ -1,0 +1,48 @@
+HTTP 525
+URL: https://www.dpird.wa.gov.au/individuals/recreational-fishing/recreational-fishing-rules/
+TITLE: dpid01mstrm96t8.dxp.optimizely.com | 525: SSL handshake failed
+DESCRIPTION: 
+CONTACT LINKS: 
+
+--- TEXT ---
+dpid01mstrm96t8.dxp.optimizely.com | 525: SSL handshake failed 
+• 
+SSL handshake failed 
+Error code 525 
+Visit cloudflare.com for more information.
+2026-11-03 22:28:33 UTC
+You 
+Browser
+Working 
+San Jose 
+Cloudflare
+Working 
+www.dpird.wa.gov.au 
+Host
+Error 
+What happened?
+The SSL/TLS handshake between Cloudflare and the origin web server failed.
+What can I do?
+If you're a visitor of this website:
+Please try again in a few minutes.
+If you're the owner of this website:
+Please refer to the Error 525 article:
+• Verify a valid SSL certificate is installed on your origin server. If none exists, install a free Cloudflare Origin CA certificate .
+• Check Origin Analytics .
+• Ensure port 443 is open and your origin supports SNI.
+• Review your server's cipher suites for compatibility with Cloudflare.
+Cloudflare Ray ID: a54ed00d9aed1ed2 
+&bull; 
+Your IP:
+Click to reveal 
+52.190.183.85 
+&bull; 
+Performance & security by Cloudflare
+
+--- LINKS ---
+cloudflare.com -> https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_525&utm_campaign=www.dpird.wa.gov.au
+ -> https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_525&#38;utm_campaign=www.dpird.wa.gov.au
+Error 525 -> https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-errors/error-525/
+Cloudflare Origin CA certificate -> https://developers.cloudflare.com/ssl/origin-configuration/origin-ca/
+Origin Analytics -> https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-errors/error-525/#diagnose-with-origin-analytics
+cipher suites -> https://developers.cloudflare.com/ssl/edge-certificates/additional-options/cipher-suites/

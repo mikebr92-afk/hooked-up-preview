@@ -1,0 +1,50 @@
+{
+  "slug": "research-wa-rules",
+  "request_hash": "77311ae139e7",
+  "collected_at": "2026-11-03T22:28:45.134Z",
+  "pages_fetched": [
+    "https://www.dpird.wa.gov.au/individuals/recreational-fishing/west-coast-demersal-scalefish--information-for-recreational-fishers",
+    "https://www.dpird.wa.gov.au/individuals/recreational-fishing/recreational-fishing-rules/",
+    "https://fish.wa.gov.au/Fishing-and-Aquaculture/Recreational-Fishing/Pages/Charter-Boats.aspx",
+    "https://www.wa.gov.au/government/announcements/new-statewide-reforms-demersal-fishing-wa",
+    "https://recfishwest.org.au/news/demersal-changes-some-of-your-frequent-questions-answered/",
+    "https://www.dpird.wa.gov.au/individuals/recreational-fishing/recreational-fishing-licences/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.dpird.wa.gov.au/individuals/recreational-fishing/west-coast-demersal-scalefish--information-for-recreational-fishers",
+      "status": 200,
+      "final_url": "https://www.dpird.wa.gov.au/individuals/recreational-fishing/west-coast-demersal-scalefish--information-for-recreational-fishers",
+      "bytes": 93513
+    },
+    {
+      "page": "https://www.dpird.wa.gov.au/individuals/recreational-fishing/recreational-fishing-rules/",
+      "status": 525,
+      "final_url": "https://www.dpird.wa.gov.au/individuals/recreational-fishing/recreational-fishing-rules/",
+      "bytes": 7785
+    },
+    {
+      "page": "https://fish.wa.gov.au/Fishing-and-Aquaculture/Recreational-Fishing/Pages/Charter-Boats.aspx",
+      "status": 404,
+      "final_url": "https://fish.wa.gov.au/Fishing-and-Aquaculture/Recreational-Fishing/Pages/Charter-Boats.aspx",
+      "bytes": 2063
+    },
+    {
+      "page": "https://www.wa.gov.au/government/announcements/new-statewide-reforms-demersal-fishing-wa",
+      "status": 200,
+      "final_url": "https://www.wa.gov.au/government/announcements/new-statewide-reforms-demersal-fishing-wa",
+      "bytes": 80414
+    },
+    {
+      "page": "https://recfishwest.org.au/news/demersal-changes-some-of-your-frequent-questions-answered/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://www.dpird.wa.gov.au/individuals/recreational-fishing/recreational-fishing-licences/",
+      "status": 200,
+      "final_url": "https://www.dpird.wa.gov.au/individuals/",
+      "bytes": 91164
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "research-wa-misc-2",
+  "request_hash": "29958daaf027",
+  "collected_at": "2026-11-03T22:29:10.421Z",
+  "pages_fetched": [
+    "https://localista.com.au/listing/au/broome/attractions/reel-teaser-charters",
+    "https://www.australiascoralcoast.com/products/pelican-charters-houtman-abrolhos-islands",
+    "https://australian.rezdy.com/view/PSBF5G",
+    "https://onstrike.rezdy.com/",
+    "https://www.redballoon.com.au/product/full-day-broome-reef-fishing-charter-with-lunch/AOC014.html"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://localista.com.au/listing/au/broome/attractions/reel-teaser-charters",
+      "status": 200,
+      "final_url": "https://perthlocalista.com.au/listing/reel-teaser-charters?place=broome-suburb%2C+wa%2C+au",
+      "bytes": 91976
+    },
+    {
+      "page": "https://www.australiascoralcoast.com/products/pelican-charters-houtman-abrolhos-islands",
+      "status": 200,
+      "final_url": "https://www.australiascoralcoast.com/products/pelican-charters-houtman-abrolhos-islands",
+      "bytes": 270804
+    },
+    {
+      "page": "https://australian.rezdy.com/view/PSBF5G",
+      "status": 403,
+      "final_url": "https://australian.rezdy.com/view/PSBF5G",
+      "bytes": 5186
+    },
+    {
+      "page": "https://onstrike.rezdy.com/",
+      "status": 403,
+      "final_url": "https://onstrike.rezdy.com/",
+      "bytes": 5186
+    },
+    {
+      "page": "https://www.redballoon.com.au/product/full-day-broome-reef-fishing-charter-with-lunch/AOC014.html",
+      "status": 200,
+      "final_url": "https://www.redballoon.com.au/product/full-day-broome-reef-fishing-charter-with-lunch/AOC014.html",
+      "bytes": 490031
+    }
+  ]
+}

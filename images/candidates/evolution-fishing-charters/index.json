@@ -1,0 +1,17 @@
+{
+  "slug": "evolution-fishing-charters",
+  "request_hash": "9f93f11dcd5b",
+  "collected_at": "2026-11-03T22:29:46.664Z",
+  "pages_fetched": [
+    "https://evolutionfishingcharters.com.au/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://evolutionfishingcharters.com.au/",
+      "status": 200,
+      "final_url": "https://evolutionfishingcharters.com.au/cgi-sys/suspendedpage.cgi",
+      "bytes": 7656
+    }
+  ]
+}
