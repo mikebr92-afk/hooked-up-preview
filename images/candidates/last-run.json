@@ -1,5 +1,5 @@
 {
-  "finished_at": "2026-11-03T22:45:17.830Z",
+  "finished_at": "2026-11-03T22:58:51.577Z",
   "summary": [
     {
       "slug": "vic-disc-vfa-licence",
@@ -155,8 +155,12 @@
     },
     {
       "slug": "vic-disc-lists8",
-      "candidates": 0,
-      "pages": 3
+      "skipped": true
+    },
+    {
+      "slug": "sharkmen-pages",
+      "candidates": 16,
+      "pages": 9
     }
   ]
 }
