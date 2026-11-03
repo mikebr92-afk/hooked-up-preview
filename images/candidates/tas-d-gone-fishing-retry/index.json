@@ -1,0 +1,20 @@
+{
+  "slug": "tas-d-gone-fishing-retry",
+  "request_hash": "18c6b8a1f654",
+  "collected_at": "2026-11-03T22:46:58.212Z",
+  "pages_fetched": [
+    "https://www.breamfishing.com.au/",
+    "https://breamfishing.com.au/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.breamfishing.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://breamfishing.com.au/",
+      "error": "fetch failed"
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "slug": "tasman-spirit-charters",
+  "request_hash": "42dc7f5922cb",
+  "collected_at": "2026-11-03T22:46:57.945Z",
+  "pages_fetched": [
+    "https://playsport.com/tasmanspiritcharters_ag_617f92d5",
+    "https://www.tasmanspiritcharters.com.au/",
+    "https://tasmanspiritcharters.com/",
+    "https://playsport.com/Fishing",
+    "https://playsport.com/tasmanspiritcharters_ag_617f92d5/about",
+    "https://playsport.com/tasmanspiritcharters_ag_617f92d5/contact",
+    "https://playsport.com/loc/au/fishing/tasmania",
+    "https://playsport.com/Fishing/organisers"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 796,
+      "height": 417,
+      "original": "796x417",
+      "source": "https://cdn.playsport.com/image/og-image_vzivkd.png",
+      "page": "https://playsport.com/tasmanspiritcharters_ag_617f92d5",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 1440,
+      "height": 1080,
+      "original": "1440x1080",
+      "source": "https://tasmanspiritcharters.com/images/tasman-spirit-charters-port-arthur.jpg",
+      "page": "https://tasmanspiritcharters.com/",
+      "priority": true
+    },
+    {
+      "file": "c03.webp",
+      "width": 1280,
+      "height": 640,
+      "original": "1280x640",
+      "source": "https://tasmanspiritcharters.com/images/tasman-spirit-charters-boat.jpg",
+      "page": "https://tasmanspiritcharters.com/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 900,
+      "height": 675,
+      "original": "900x675",
+      "source": "https://tasmanspiritcharters.com/images/tasman-spirit-charters-boat-tall.webp",
+      "page": "https://tasmanspiritcharters.com/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://playsport.com/tasmanspiritcharters_ag_617f92d5",
+      "status": 200,
+      "final_url": "https://playsport.com/tasmanspiritcharters_ag_617f92d5",
+      "bytes": 257222
+    },
+    {
+      "page": "https://www.tasmanspiritcharters.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://tasmanspiritcharters.com/",
+      "status": 200,
+      "final_url": "https://tasmanspiritcharters.com/",
+      "bytes": 12698
+    },
+    {
+      "page": "https://playsport.com/Fishing",
+      "status": 200,
+      "final_url": "https://playsport.com/Fishing",
+      "bytes": 247647
+    },
+    {
+      "page": "https://playsport.com/tasmanspiritcharters_ag_617f92d5/about",
+      "status": 200,
+      "final_url": "https://playsport.com/tasmanspiritcharters_ag_617f92d5/about",
+      "bytes": 235291
+    },
+    {
+      "page": "https://playsport.com/tasmanspiritcharters_ag_617f92d5/contact",
+      "status": 200,
+      "final_url": "https://playsport.com/tasmanspiritcharters_ag_617f92d5/contact",
+      "bytes": 233608
+    },
+    {
+      "page": "https://playsport.com/loc/au/fishing/tasmania",
+      "status": 200,
+      "final_url": "https://playsport.com/loc/au/fishing/tasmania",
+      "bytes": 236838
+    },
+    {
+      "page": "https://playsport.com/Fishing/organisers",
+      "status": 200,
+      "final_url": "https://playsport.com/Fishing/organisers",
+      "bytes": 207684
+    },
+    {
+      "dup": "https://tasmanspiritcharters.com/images/tasman-spirit-charters-port-arthur.webp"
+    },
+    {
+      "dup": "https://tasmanspiritcharters.com/images/tasman-spirit-charters-boat-tall.jpg"
+    },
+    {
+      "dup": "https://tasmanspiritcharters.com/images/tasman-spirit-charters-boat.webp"
+    },
+    {
+      "image": "https://cdn.playsport.com/image/q_80,w_2048,c_fill/cmg3nhoshh8nmb8hsgwa.webp",
+      "error": "banner/strip 2048x636"
+    },
+    {
+      "image": "https://cdn.playsport.com/image/w_200,c_fill,q_auto:best,dpr_2/q058cmg4uphyyqoreemj.jpg",
+      "error": "too small 400x400"
+    },
+    {
+      "image": "https://cdn.playsport.com/image/w_100,c_fill,q_auto:best,dpr_2/cb1561e9600b7becf3b882e88d2f44ed.jpeg",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://cdn.playsport.com/image/w_100,c_fill,q_auto:best,dpr_2/kcsquvrojgxlfgzgn40i.jpg",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://cdn.playsport.com/image/w_100,c_fill,q_auto:best,dpr_2/fp1o7bmvc44dwvh0rkkp.jpg",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://cdn.playsport.com/image/w_100,c_fill,q_auto:best,dpr_2/c107691ea9382dd06e2d046b7ec5e25d.jpeg",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://cdn.playsport.com/image/w_100,c_fill,q_auto:best,dpr_2/20ed7e4e5714765b730ccc64fe97b586.jpeg",
+      "error": "too small 200x219"
+    },
+    {
+      "image": "https://playsport.com/c_fill/cmg3nhoshh8nmb8hsgwa.webp",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://playsport.com/dpr_2/q058cmg4uphyyqoreemj.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://playsport.com/dpr_2/cb1561e9600b7becf3b882e88d2f44ed.jpeg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://playsport.com/dpr_2/kcsquvrojgxlfgzgn40i.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://playsport.com/dpr_2/fp1o7bmvc44dwvh0rkkp.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://playsport.com/dpr_2/c107691ea9382dd06e2d046b7ec5e25d.jpeg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://playsport.com/dpr_2/20ed7e4e5714765b730ccc64fe97b586.jpeg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://cdn.playsport.com/image/q_75,w_2048,c_fill/cmg3nhoshh8nmb8hsgwa.webp",
+      "error": "banner/strip 2048x636"
+    },
+    {
+      "image": "https://cdn.playsport.com/image/q_75,w_640,c_fill/cmg3nhoshh8nmb8hsgwa.webp",
+      "error": "too small 640x199"
+    },
+    {
+      "image": "https://cdn.playsport.com/image/q_75,w_750,c_fill/cmg3nhoshh8nmb8hsgwa.webp",
+      "error": "too small 750x233"
+    },
+    {
+      "image": "https://cdn.playsport.com/image/q_75,w_828,c_fill/cmg3nhoshh8nmb8hsgwa.webp",
+      "error": "too small 828x257"
+    },
+    {
+      "image": "https://cdn.playsport.com/image/q_75,w_1080,c_fill/cmg3nhoshh8nmb8hsgwa.webp",
+      "error": "too small 1080x335"
+    },
+    {
+      "image": "https://cdn.playsport.com/image/q_75,w_1200,c_fill/cmg3nhoshh8nmb8hsgwa.webp",
+      "error": "too small 1200x373"
+    },
+    {
+      "image": "https://cdn.playsport.com/image/q_75,w_1920,c_fill/cmg3nhoshh8nmb8hsgwa.webp",
+      "error": "banner/strip 1920x596"
+    },
+    {
+      "image": "https://cdn.playsport.com/image/w_2000,dpr_1.5/cmg3nhoshh8nmb8hsgwa.jpg",
+      "error": "banner/strip 3000x931"
+    },
+    {
+      "image": "https://cdn.playsport.com/image/q_80,w_640,c_fill/cmg3nhoshh8nmb8hsgwa.webp",
+      "error": "too small 640x199"
+    },
+    {
+      "image": "https://cdn.playsport.com/image/q_80,w_750,c_fill/cmg3nhoshh8nmb8hsgwa.webp",
+      "error": "too small 750x233"
+    },
+    {
+      "image": "https://cdn.playsport.com/image/q_80,w_828,c_fill/cmg3nhoshh8nmb8hsgwa.webp",
+      "error": "too small 828x257"
+    },
+    {
+      "image": "https://cdn.playsport.com/image/q_80,w_1080,c_fill/cmg3nhoshh8nmb8hsgwa.webp",
+      "error": "too small 1080x335"
+    },
+    {
+      "image": "https://cdn.playsport.com/image/q_80,w_1200,c_fill/cmg3nhoshh8nmb8hsgwa.webp",
+      "error": "too small 1200x373"
+    },
+    {
+      "image": "https://cdn.playsport.com/image/q_80,w_1920,c_fill/cmg3nhoshh8nmb8hsgwa.webp",
+      "error": "banner/strip 1920x596"
+    },
+    {
+      "image": "https://playsport.com/loc/au/fishing/c_fill/cmg3nhoshh8nmb8hsgwa.webp",
+      "error": "Input buffer has corrupt header: glib: XML parse error: Error domain 1 code 76 on line 2 column 144637 of data: Opening and ending tag mismatch: html line 1 and body"
+    },
+    {
+      "image": "https://playsport.com/Fishing/c_fill/cmg3nhoshh8nmb8hsgwa.webp",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://playsport.com/Fishing/dpr_2/q058cmg4uphyyqoreemj.jpg",
+      "error": "HTTP 404"
+    }
+  ]
+}
