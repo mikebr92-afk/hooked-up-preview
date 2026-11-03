@@ -1,5 +1,5 @@
 {
-  "finished_at": "2026-11-03T22:44:05.923Z",
+  "finished_at": "2026-11-03T22:45:17.830Z",
   "summary": [
     {
       "slug": "vic-disc-vfa-licence",
@@ -151,6 +151,10 @@
     },
     {
       "slug": "lake-hume-hire-fishing-charters",
+      "skipped": true
+    },
+    {
+      "slug": "vic-disc-lists8",
       "candidates": 0,
       "pages": 3
     }

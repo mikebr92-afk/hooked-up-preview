@@ -1,0 +1,31 @@
+{
+  "slug": "vic-disc-lists8",
+  "request_hash": "d2dfacc4b141",
+  "collected_at": "2026-11-03T22:45:17.829Z",
+  "pages_fetched": [
+    "https://fishingboating.world/news/292040/Trellys-Weekly-Fishing-Report-November-28-2025",
+    "https://thetvdb.com/series/escape-fishing-with-et/episodes/10288040",
+    "https://socialfishing.podbean.com/page/4"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://fishingboating.world/news/292040/Trellys-Weekly-Fishing-Report-November-28-2025",
+      "status": 200,
+      "final_url": "https://fishingboating.world/news/292040/Trellys-Weekly-Fishing-Report-November-28-2025",
+      "bytes": 69061
+    },
+    {
+      "page": "https://thetvdb.com/series/escape-fishing-with-et/episodes/10288040",
+      "status": 200,
+      "final_url": "https://thetvdb.com/series/escape-fishing-with-et/episodes/10288040",
+      "bytes": 29074
+    },
+    {
+      "page": "https://socialfishing.podbean.com/page/4",
+      "status": 200,
+      "final_url": "https://socialfishing.podbean.com/page/4",
+      "bytes": 169491
+    }
+  ]
+}
