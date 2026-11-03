@@ -1,0 +1,14 @@
+{"requests":[
+ {"slug":"riverfly-1864","pages":["https://www.riverfly.com.au/"],"text":true,"max":16,"follow":true},
+ {"slug":"red-tag-trout-tours","pages":["https://www.redtagtrout.com/"],"text":true,"max":16,"follow":true},
+ {"slug":"tassie-fly-guide","pages":["https://tassieflyguide.com.au/"],"text":true,"max":16,"follow":true},
+ {"slug":"mayfly-guiding","pages":["https://mayflyguiding.com.au/"],"text":true,"max":16,"follow":true},
+ {"slug":"peter-hayes-fly-fishing","pages":["http://www.peterhayesflyfishing.com/"],"text":true,"max":12,"follow":true},
+ {"slug":"tas-high-country-fly-fish-tours","pages":["https://www.tasflyfish.com.au/"],"text":true,"max":16,"follow":true},
+ {"slug":"miena-guiding-tasmania","pages":["http://www.mienaguidingtasmania.com.au/"],"text":true,"max":16,"follow":true},
+ {"slug":"troutfit-guiding","pages":["https://thetroutfitguiding.com/"],"text":true,"max":16,"follow":true},
+ {"slug":"tas-d-tgalt-listings","pages":["https://www.troutguidestasmania.com.au/listing/red-tag-trout-tours/","https://www.troutguidestasmania.com.au/listing/tassie-fly-guide/","https://www.troutguidestasmania.com.au/listing/mayfly-guiding/","https://www.troutguidestasmania.com.au/listing/peter-hayes-fly-fishing/","https://www.troutguidestasmania.com.au/listing/riverfly-1864/","https://www.troutguidestasmania.com.au/listing/tas-high-country/","https://www.troutguidestasmania.com.au/listing/miena-guiding-tasmania/","https://www.troutguidestasmania.com.au/listing/troutfit_guiding/","https://www.troutguidestasmania.com.au/listing/tasmania-fly-fishing/","https://www.troutguidestasmania.com.au/listing/trout-tales-tasmania/"],"text":true,"max":0,"follow":false},
+ {"slug":"tas-d-dt-more","pages":["https://www.discovertasmania.com.au/things-to-do/tours/riverflytasmania/","https://production.tourismtasmania.com.au/things-to-do/tours/thehighlandfly","https://www.discovertasmania.com.au/things-to-do/tours/freycinet-charters","https://www.discovertasmania.com.au/things-to-do/tours/troutterritoryhobart/"],"text":true,"max":0,"follow":false},
+ {"slug":"tas-d-wildseafood-site","pages":["https://tasmanianwildseafoodadventures.com.au/"],"text":true,"max":0,"follow":true},
+ {"slug":"tas-d-pirates-bay-fb","pages":["https://www.facebook.com/piratesbayfishingcharters/","https://www.facebook.com/pages/South-East-Charters/755575971142028"],"text":true,"max":0,"follow":false}
+]}
