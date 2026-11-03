@@ -1,5 +1,5 @@
 {
-  "finished_at": "2026-11-03T22:46:58.214Z",
+  "finished_at": "2026-11-03T22:48:51.181Z",
   "summary": [
     {
       "slug": "tas-d-tgalt-guides",
@@ -115,11 +115,24 @@
     },
     {
       "slug": "tasman-spirit-charters",
-      "candidates": 4,
-      "pages": 8
+      "skipped": true
     },
     {
       "slug": "tas-d-gone-fishing-retry",
+      "skipped": true
+    },
+    {
+      "slug": "tas-d-mayfly-packages",
+      "candidates": 0,
+      "pages": 1
+    },
+    {
+      "slug": "tas-d-dt-products",
+      "candidates": 0,
+      "pages": 3
+    },
+    {
+      "slug": "tas-d-tripadvisor",
       "candidates": 0,
       "pages": 2
     },

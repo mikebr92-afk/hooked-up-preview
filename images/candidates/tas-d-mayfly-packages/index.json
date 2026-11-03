@@ -1,0 +1,17 @@
+{
+  "slug": "tas-d-mayfly-packages",
+  "request_hash": "500b1d13524f",
+  "collected_at": "2026-11-03T22:48:46.076Z",
+  "pages_fetched": [
+    "https://mayflyguiding.com.au/packages"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://mayflyguiding.com.au/packages",
+      "status": 200,
+      "final_url": "https://www.mayflyguiding.com.au/packages",
+      "bytes": 205777
+    }
+  ]
+}

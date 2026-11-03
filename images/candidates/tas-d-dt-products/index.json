@@ -1,0 +1,31 @@
+{
+  "slug": "tas-d-dt-products",
+  "request_hash": "693c2a6a04a2",
+  "collected_at": "2026-11-03T22:48:50.589Z",
+  "pages_fetched": [
+    "https://production.tourismtasmania.com.au/things-to-do/tours/keenanglercharters/charter-fishing-tour/",
+    "https://discovertasmania.com.au/things-to-do/tours/southeastcharters/south-east-charter-tour",
+    "https://discovertasmania.com.au/things-to-do/tours/mrflathead/bay-fishing-and-sightseeing-tour"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://production.tourismtasmania.com.au/things-to-do/tours/keenanglercharters/charter-fishing-tour/",
+      "status": 404,
+      "final_url": "https://www.tourismtasmania.com.au/things-to-do/tours/keenanglercharters/charter-fishing-tour/",
+      "bytes": 791
+    },
+    {
+      "page": "https://discovertasmania.com.au/things-to-do/tours/southeastcharters/south-east-charter-tour",
+      "status": 200,
+      "final_url": "https://www.discovertasmania.com.au/things-to-do/tours/southeastcharters/south-east-charter-tour",
+      "bytes": 327164
+    },
+    {
+      "page": "https://discovertasmania.com.au/things-to-do/tours/mrflathead/bay-fishing-and-sightseeing-tour",
+      "status": 404,
+      "final_url": "https://www.discovertasmania.com.au/things-to-do/tours/mrflathead/bay-fishing-and-sightseeing-tour",
+      "bytes": 275933
+    }
+  ]
+}

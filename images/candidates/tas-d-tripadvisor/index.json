@@ -1,0 +1,24 @@
+{
+  "slug": "tas-d-tripadvisor",
+  "request_hash": "72be2b1fe39a",
+  "collected_at": "2026-11-03T22:48:51.181Z",
+  "pages_fetched": [
+    "https://www.tripadvisor.com.au/Attraction_Review-g504328-d10112852-Reviews-Michael_Haley_Gone_Fishing_Charters-St_Helens_Break_O_Day_Tasmania.html",
+    "https://www.tripadvisor.com/Attraction_Review-g504294-d10375373-Reviews-Eaglehawk_Neck_Fishing_Charters-Eaglehawk_Neck_Tasmania.html"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.tripadvisor.com.au/Attraction_Review-g504328-d10112852-Reviews-Michael_Haley_Gone_Fishing_Charters-St_Helens_Break_O_Day_Tasmania.html",
+      "status": 403,
+      "final_url": "https://www.tripadvisor.com.au/Attraction_Review-g504328-d10112852-Reviews-Michael_Haley_Gone_Fishing_Charters-St_Helens_Break_O_Day_Tasmania.html",
+      "bytes": 778
+    },
+    {
+      "page": "https://www.tripadvisor.com/Attraction_Review-g504294-d10375373-Reviews-Eaglehawk_Neck_Fishing_Charters-Eaglehawk_Neck_Tasmania.html",
+      "status": 403,
+      "final_url": "https://www.tripadvisor.com/Attraction_Review-g504294-d10375373-Reviews-Eaglehawk_Neck_Fishing_Charters-Eaglehawk_Neck_Tasmania.html",
+      "bytes": 775
+    }
+  ]
+}
