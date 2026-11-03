@@ -1,0 +1,284 @@
+{
+  "slug": "apache-charters",
+  "request_hash": "885cc2e99463",
+  "collected_at": "2026-11-03T22:40:07.800Z",
+  "pages_fetched": [
+    "https://www.apachecharters.com.au/",
+    "https://www.apachecharters.com.au/cart",
+    "https://www.apachecharters.com.au/abrolhos-fishing-charters",
+    "https://www.apachecharters.com.au/montebello-islands-fishing-charters",
+    "https://www.apachecharters.com.au/shark-bay-fishing-charters",
+    "https://www.apachecharters.com.au/rottnest-island-boat-charters",
+    "https://www.apachecharters.com.au/carnac-island-boat-charters",
+    "https://www.apachecharters.com.au/swan-river-cruises",
+    "https://www.apachecharters.com.au/about",
+    "https://www.apachecharters.com.au/contact"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 823,
+      "height": 690,
+      "original": "823x690",
+      "source": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/7da313aa-2e56-4a96-8e94-615d60f4feac/Apache+web+images+%286%29.png?format=2500w",
+      "page": "https://www.apachecharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2500x3333",
+      "source": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/181f9b51-4d05-4eea-b1a7-963e07cb543b/Apache+Charters+Shark+Bay+Red+Emporer+Dirk+Hartog+Cliffs+Red+Emporer++-+home+page.jpg?format=2500w",
+      "page": "https://www.apachecharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1536x2048",
+      "source": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/160312ac-7bfe-48cf-ab2c-2f24aef6d0f7/431246678_903776765085487_4933090935512001630_n.jpg?format=2500w",
+      "page": "https://www.apachecharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1707,
+      "height": 2000,
+      "original": "2450x2870",
+      "source": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/f6d75488-20e5-4b1f-849f-732563baafb2/Apache+Charters+Red+Karl+Langdon+Fishing+Dirk+Hartog+Island.jpg?format=2500w",
+      "page": "https://www.apachecharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1536x2048",
+      "source": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/eec61dd8-14bd-46c6-b5da-a4534a063d9b/434084692_924196859710144_654156876165431136_n-1.jpg?format=2500w",
+      "page": "https://www.apachecharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 600,
+      "height": 800,
+      "original": "600x800",
+      "source": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/f8757a88-7bb0-485b-8a32-486f0964a46b/68877736_2547949545263255_5099065317900943360_n.jpg?format=2500w",
+      "page": "https://www.apachecharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1536x2048",
+      "source": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/f941517b-ccf2-4ec7-a72e-4942416f2a89/34200248_1877682995623250_3367092469861711872_n.jpg?format=2500w",
+      "page": "https://www.apachecharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2500x1875",
+      "source": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/68f9b8bc-21bd-4a13-b996-3837d4ad79e9/Apache+Charters+Montebello+Islands+Onslow+fishing+Charter+mayhem+Mackeral+times+4.jpg?format=2500w",
+      "page": "https://www.apachecharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1330,
+      "height": 1064,
+      "original": "1330x1064",
+      "source": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/6e7bf272-213b-46a3-b12b-3b05377c29a2/438159615_940406364755860_942664668162117261_n.jpg?format=2500w",
+      "page": "https://www.apachecharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 2000,
+      "height": 1519,
+      "original": "2500x1899",
+      "source": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/1297cb05-3791-41ba-bdf6-77e3726a89c4/Apache+Charters+Abrolhos+Islands+trolling+tuna+trio+epic+shot.jpg?format=2500w",
+      "page": "https://www.apachecharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2500x3333",
+      "source": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/22b61df1-b1d1-40f1-8d48-9692d805b668/Apache+Charter+Shark+Bay+dirk+hartog+mackie.jpg?format=2500w",
+      "page": "https://www.apachecharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 620,
+      "height": 827,
+      "original": "620x827",
+      "source": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/5b9ac7ee-f4a2-4940-b59d-a10af31a946b/438302052_940404784756018_1287076292507896296_n.jpg?format=2500w",
+      "page": "https://www.apachecharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 960,
+      "height": 1280,
+      "original": "960x1280",
+      "source": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/d5d6caf3-a76d-449a-a99d-6b48f135bdea/422079708_948075597322270_8451311314469440683_n.jpg?format=2500w",
+      "page": "https://www.apachecharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 810,
+      "height": 1080,
+      "original": "810x1080",
+      "source": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/9e2c938c-88e2-40ba-8379-b917b78c332f/381466457_789862339810264_3650041103054891103_n.jpg?format=2500w",
+      "page": "https://www.apachecharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2500x1875",
+      "source": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/4e0cf770-701a-4d16-9039-c93bf2febe9c/435861955_1127547934954916_8569364062171862717_n.jpg?format=2500w",
+      "page": "https://www.apachecharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 699,
+      "height": 842,
+      "original": "699x842",
+      "source": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/d567fe81-9ab2-4c6f-8b33-2440650ad4f5/0.jpg?format=2500w",
+      "page": "https://www.apachecharters.com.au/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.apachecharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.apachecharters.com.au/",
+      "bytes": 415288
+    },
+    {
+      "page": "https://www.apachecharters.com.au/cart",
+      "status": 200,
+      "final_url": "https://www.apachecharters.com.au/cart",
+      "bytes": 261076
+    },
+    {
+      "page": "https://www.apachecharters.com.au/abrolhos-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.apachecharters.com.au/abrolhos-fishing-charters",
+      "bytes": 716341
+    },
+    {
+      "page": "https://www.apachecharters.com.au/montebello-islands-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.apachecharters.com.au/montebello-islands-fishing-charters",
+      "bytes": 619952
+    },
+    {
+      "page": "https://www.apachecharters.com.au/shark-bay-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.apachecharters.com.au/shark-bay-fishing-charters",
+      "bytes": 500431
+    },
+    {
+      "page": "https://www.apachecharters.com.au/rottnest-island-boat-charters",
+      "status": 200,
+      "final_url": "https://www.apachecharters.com.au/rottnest-island-boat-charters",
+      "bytes": 590190
+    },
+    {
+      "page": "https://www.apachecharters.com.au/carnac-island-boat-charters",
+      "status": 200,
+      "final_url": "https://www.apachecharters.com.au/carnac-island-boat-charters",
+      "bytes": 757416
+    },
+    {
+      "page": "https://www.apachecharters.com.au/swan-river-cruises",
+      "status": 200,
+      "final_url": "https://www.apachecharters.com.au/swan-river-cruises",
+      "bytes": 684982
+    },
+    {
+      "page": "https://www.apachecharters.com.au/about",
+      "status": 200,
+      "final_url": "https://www.apachecharters.com.au/about",
+      "bytes": 314357
+    },
+    {
+      "page": "https://www.apachecharters.com.au/contact",
+      "status": 200,
+      "final_url": "https://www.apachecharters.com.au/contact",
+      "bytes": 251195
+    },
+    {
+      "image": "http://static1.squarespace.com/static/64646ff2de6e095a06ab01b9/t/64cc6be4f78f547c4b9ca5aa/1691118565037/Untitled+design+%2815%29.png?format=1500w",
+      "error": "too small 1025x313"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/07e0e00c-ab9b-4e69-863a-6e23e5f38973/Untitled+design+%2815%29.png?format=2500w",
+      "error": "too small 1025x313"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/07e0e00c-ab9b-4e69-863a-6e23e5f38973/Untitled+design+%2815%29.png?format=1500w",
+      "error": "too small 1025x313"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/e131259d-99f5-4868-a313-88cea96b6406/Untitled+design+%2816%29.png?format=2500w",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/e131259d-99f5-4868-a313-88cea96b6406/Untitled+design+%2816%29.png",
+      "error": "too small 500x500"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/160312ac-7bfe-48cf-ab2c-2f24aef6d0f7/431246678_903776765085487_4933090935512001630_n.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/f6d75488-20e5-4b1f-849f-732563baafb2/Apache+Charters+Red+Karl+Langdon+Fishing+Dirk+Hartog+Island.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/eec61dd8-14bd-46c6-b5da-a4534a063d9b/434084692_924196859710144_654156876165431136_n-1.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/f8757a88-7bb0-485b-8a32-486f0964a46b/68877736_2547949545263255_5099065317900943360_n.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/f941517b-ccf2-4ec7-a72e-4942416f2a89/34200248_1877682995623250_3367092469861711872_n.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/68f9b8bc-21bd-4a13-b996-3837d4ad79e9/Apache+Charters+Montebello+Islands+Onslow+fishing+Charter+mayhem+Mackeral+times+4.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/6e7bf272-213b-46a3-b12b-3b05377c29a2/438159615_940406364755860_942664668162117261_n.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/1297cb05-3791-41ba-bdf6-77e3726a89c4/Apache+Charters+Abrolhos+Islands+trolling+tuna+trio+epic+shot.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/22b61df1-b1d1-40f1-8d48-9692d805b668/Apache+Charter+Shark+Bay+dirk+hartog+mackie.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/5b9ac7ee-f4a2-4940-b59d-a10af31a946b/438302052_940404784756018_1287076292507896296_n.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/d5d6caf3-a76d-449a-a99d-6b48f135bdea/422079708_948075597322270_8451311314469440683_n.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/9e2c938c-88e2-40ba-8379-b917b78c332f/381466457_789862339810264_3650041103054891103_n.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/4e0cf770-701a-4d16-9039-c93bf2febe9c/435861955_1127547934954916_8569364062171862717_n.jpg"
+    }
+  ]
+}

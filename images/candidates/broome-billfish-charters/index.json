@@ -1,0 +1,15 @@
+{
+  "slug": "broome-billfish-charters",
+  "request_hash": "8c5234140c64",
+  "collected_at": "2026-11-03T22:39:43.632Z",
+  "pages_fetched": [
+    "https://www.broomebillfishcharters.com.au/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.broomebillfishcharters.com.au/",
+      "error": "fetch failed"
+    }
+  ]
+}

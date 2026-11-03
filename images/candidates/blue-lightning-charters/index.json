@@ -1,0 +1,15 @@
+{
+  "slug": "blue-lightning-charters",
+  "request_hash": "41fb44a771a0",
+  "collected_at": "2026-11-03T22:40:22.435Z",
+  "pages_fetched": [
+    "https://www.bluelightningcharters.com.au/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.bluelightningcharters.com.au/",
+      "error": "fetch failed"
+    }
+  ]
+}

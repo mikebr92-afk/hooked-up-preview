@@ -1,0 +1,15 @@
+{
+  "slug": "wa-fishing-charters-broome",
+  "request_hash": "c436808fc441",
+  "collected_at": "2026-11-03T22:40:07.824Z",
+  "pages_fetched": [
+    "https://www.wafishingcharters.com.au/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.wafishingcharters.com.au/",
+      "error": "fetch failed"
+    }
+  ]
+}

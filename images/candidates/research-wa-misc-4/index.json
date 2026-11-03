@@ -1,0 +1,45 @@
+{
+  "slug": "research-wa-misc-4",
+  "request_hash": "12935cb3d2b0",
+  "collected_at": "2026-11-03T22:40:27.484Z",
+  "pages_fetched": [
+    "https://www.waholidayguide.com.au/catalpa-charters",
+    "https://www.destinationperth.com.au/listing/catalpa-charters/4271/",
+    "https://www.australiascoralcoast.com/products/abrolhos-islands-live-aboard-fishing-charter",
+    "https://watravel.com.au/south-west/activities/fishing-charters/",
+    "https://watravel.com.au/mandurah/activities/fishing-charters/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.waholidayguide.com.au/catalpa-charters",
+      "status": 200,
+      "final_url": "https://www.waholidayguide.com.au/western-australia-tours-things-to-do/western-australia-locations-to-see/perth-tours-things-to-do/rockingham-tours-things-to-do",
+      "bytes": 421059
+    },
+    {
+      "page": "https://www.destinationperth.com.au/listing/catalpa-charters/4271/",
+      "status": 200,
+      "final_url": "https://www.destinationperth.com.au/listing/catalpa-charters/4271/",
+      "bytes": 184904
+    },
+    {
+      "page": "https://www.australiascoralcoast.com/products/abrolhos-islands-live-aboard-fishing-charter",
+      "status": 200,
+      "final_url": "https://www.australiascoralcoast.com/destinations/geraldton-surrounds/houtman-abrolhos-islands",
+      "bytes": 253703
+    },
+    {
+      "page": "https://watravel.com.au/south-west/activities/fishing-charters/",
+      "status": 200,
+      "final_url": "https://watravel.com.au/south-west/activities/fishing-charters/",
+      "bytes": 103535
+    },
+    {
+      "page": "https://watravel.com.au/mandurah/activities/fishing-charters/",
+      "status": 200,
+      "final_url": "https://watravel.com.au/mandurah/activities/fishing-charters/",
+      "bytes": 135151
+    }
+  ]
+}

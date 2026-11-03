@@ -1,5 +1,5 @@
 {
-  "finished_at": "2026-11-03T22:34:56.929Z",
+  "finished_at": "2026-11-03T22:40:27.485Z",
   "summary": [
     {
       "slug": "research-wa-rules",
@@ -27,7 +27,8 @@
     },
     {
       "slug": "birchys-fishing-tours",
-      "skipped": true
+      "candidates": 16,
+      "pages": 7
     },
     {
       "slug": "absolute-ocean-charters",
@@ -35,23 +36,19 @@
     },
     {
       "slug": "research-wa-rules-2",
-      "candidates": 0,
-      "pages": 4
+      "skipped": true
     },
     {
       "slug": "research-wa-listings-nw",
-      "candidates": 0,
-      "pages": 6
+      "skipped": true
     },
     {
       "slug": "research-wa-listings-ex",
-      "candidates": 0,
-      "pages": 5
+      "skipped": true
     },
     {
       "slug": "reel-teaser-fishing-adventures",
-      "candidates": 16,
-      "pages": 11
+      "skipped": true
     },
     {
       "slug": "birchys-fishing-tours",
@@ -60,8 +57,72 @@
     },
     {
       "slug": "pelican-charters",
+      "skipped": true
+    },
+    {
+      "slug": "pelican-charters-montebello",
+      "candidates": 8,
+      "pages": 3
+    },
+    {
+      "slug": "fremantle-boat-charters",
+      "candidates": 1,
+      "pages": 2
+    },
+    {
+      "slug": "game-time-charters",
       "candidates": 16,
       "pages": 10
+    },
+    {
+      "slug": "catalpa-charters",
+      "candidates": 16,
+      "pages": 10
+    },
+    {
+      "slug": "broome-billfish-charters",
+      "candidates": 0,
+      "pages": 1
+    },
+    {
+      "slug": "kuri-bay-sport-fishing",
+      "candidates": 0,
+      "pages": 1
+    },
+    {
+      "slug": "apache-charters",
+      "candidates": 16,
+      "pages": 10
+    },
+    {
+      "slug": "wa-fishing-charters-broome",
+      "candidates": 0,
+      "pages": 1
+    },
+    {
+      "slug": "akame-sportfishing",
+      "candidates": 16,
+      "pages": 10
+    },
+    {
+      "slug": "blue-lightning-charters",
+      "candidates": 0,
+      "pages": 1
+    },
+    {
+      "slug": "abrolhos-adventures",
+      "candidates": 0,
+      "pages": 1
+    },
+    {
+      "slug": "legend-charters",
+      "candidates": 0,
+      "pages": 1
+    },
+    {
+      "slug": "research-wa-misc-4",
+      "candidates": 0,
+      "pages": 5
     },
     {
       "slug": "research-wa-broome-sport",

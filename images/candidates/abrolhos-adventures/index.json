@@ -1,0 +1,15 @@
+{
+  "slug": "abrolhos-adventures",
+  "request_hash": "95316617c60c",
+  "collected_at": "2026-11-03T22:40:22.463Z",
+  "pages_fetched": [
+    "https://www.abrolhosadventures.com.au/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.abrolhosadventures.com.au/",
+      "error": "fetch failed"
+    }
+  ]
+}

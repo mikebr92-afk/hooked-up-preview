@@ -1,0 +1,34 @@
+{
+  "slug": "fremantle-boat-charters",
+  "request_hash": "6748a11ef00d",
+  "collected_at": "2026-11-03T22:39:18.103Z",
+  "pages_fetched": [
+    "https://www.fremantleboatcharters.com.au/",
+    "https://fremantleboatcharters.com.au/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 2000,
+      "height": 1326,
+      "original": "2172x1440",
+      "source": "https://img1.wsimg.com/isteam/stock/100937",
+      "page": "https://www.fremantleboatcharters.com.au/",
+      "priority": true
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.fremantleboatcharters.com.au/",
+      "status": 200,
+      "final_url": "https://fremantleboatcharters.com.au/",
+      "bytes": 92713
+    },
+    {
+      "page": "https://fremantleboatcharters.com.au/",
+      "status": 200,
+      "final_url": "https://fremantleboatcharters.com.au/",
+      "bytes": 92713
+    }
+  ]
+}

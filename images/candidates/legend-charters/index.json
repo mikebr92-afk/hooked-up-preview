@@ -1,0 +1,15 @@
+{
+  "slug": "legend-charters",
+  "request_hash": "084b9b33e93b",
+  "collected_at": "2026-11-03T22:40:22.473Z",
+  "pages_fetched": [
+    "https://www.legendcharters.net/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.legendcharters.net/",
+      "error": "fetch failed"
+    }
+  ]
+}

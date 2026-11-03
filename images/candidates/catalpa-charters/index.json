@@ -1,0 +1,231 @@
+{
+  "slug": "catalpa-charters",
+  "request_hash": "0159e124cfb4",
+  "collected_at": "2026-11-03T22:39:43.602Z",
+  "pages_fetched": [
+    "https://www.catalpacharters.com.au/",
+    "https://www.catalpacharters.com.au/cart",
+    "https://www.catalpacharters.com.au/tours",
+    "https://www.catalpacharters.com.au/faqs",
+    "https://www.catalpacharters.com.au/about",
+    "https://www.catalpacharters.com.au/contact",
+    "https://www.catalpacharters.com.au/appointments",
+    "https://www.catalpacharters.com.au/home",
+    "https://www.catalpacharters.com.au/terms-and-conditions",
+    "https://www.catalpacharters.com.au/accessbility"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1500,
+      "height": 843,
+      "original": "1500x843",
+      "source": "http://static1.squarespace.com/static/683e72993b73f03598516245/t/693a8b3ef612f670f0847233/1765444414517/Catalpa+Charters+Oct+2005-69.jpg?format=1500w",
+      "page": "https://www.catalpacharters.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 1000,
+      "height": 999,
+      "original": "1000x999",
+      "source": "https://static1.squarespace.com/static/683e72993b73f03598516245/t/688b00cf2f067d7cdd6755f7/1783227100285/",
+      "page": "https://www.catalpacharters.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c03.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2500x1667",
+      "source": "https://images.squarespace-cdn.com/content/v1/683e72993b73f03598516245/8f773c36-f04a-44d1-b75b-137a79b3d68f/OOL+Catalpa+Charters-403.jpg?format=2500w",
+      "page": "https://www.catalpacharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1261,
+      "height": 801,
+      "original": "1261x801",
+      "source": "https://images.squarespace-cdn.com/content/v1/683e72993b73f03598516245/003bb500-3c20-4ec9-8c93-d66883584efb/Catalpa+Brand+Pattern.png?format=2500w",
+      "page": "https://www.catalpacharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 2000,
+      "height": 1124,
+      "original": "2500x1405",
+      "source": "https://images.squarespace-cdn.com/content/v1/683e72993b73f03598516245/c696dc6c-7b35-4ae6-aaff-f6adb6510797/Catalpa+Charters+Oct+2005-62.jpg?format=2500w",
+      "page": "https://www.catalpacharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 640,
+      "height": 405,
+      "original": "640x405",
+      "source": "https://images.squarespace-cdn.com/content/v1/683e72993b73f03598516245/330b3840-f8c5-46c5-9858-a953b3d66aac/Sustainable2.png?format=2500w",
+      "page": "https://www.catalpacharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2500x1667",
+      "source": "https://images.squarespace-cdn.com/content/v1/683e72993b73f03598516245/10676c03-8dff-4c87-bc87-d3732adb179d/OOL+Catalpa+Charters-435.jpg?format=2500w",
+      "page": "https://www.catalpacharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1333,
+      "height": 2000,
+      "original": "2500x3750",
+      "source": "https://images.squarespace-cdn.com/content/v1/683e72993b73f03598516245/444a6a22-c128-4f0a-86af-924a6e5e92d2/OOL+Catalpa+Charters-400.jpg?format=2500w",
+      "page": "https://www.catalpacharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1170,
+      "height": 769,
+      "original": "1170x769",
+      "source": "https://images.squarespace-cdn.com/content/v1/683e72993b73f03598516245/cbda0557-4b4b-4061-96ff-53bd61c30d01/IMG_5018.jpeg?format=2500w",
+      "page": "https://www.catalpacharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1170,
+      "height": 916,
+      "original": "1170x916",
+      "source": "https://images.squarespace-cdn.com/content/v1/683e72993b73f03598516245/253ccf08-af1c-4d27-916c-dfadab9e730e/IMG_20260422_134847_532.jpg?format=2500w",
+      "page": "https://www.catalpacharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1125,
+      "height": 2000,
+      "original": "2500x4444",
+      "source": "https://images.squarespace-cdn.com/content/v1/683e72993b73f03598516245/0213641c-1094-45f7-8823-c1e5c8f81965/OOL+Catalpa+Charters-2.jpg?format=2500w",
+      "page": "https://www.catalpacharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2500x1667",
+      "source": "https://images.squarespace-cdn.com/content/v1/683e72993b73f03598516245/c4d30efa-75e1-40ee-94e8-c3c75de1a281/Catalpa+Charters+Oct+2005-14.jpg?format=2500w",
+      "page": "https://www.catalpacharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2500x1667",
+      "source": "https://images.squarespace-cdn.com/content/v1/683e72993b73f03598516245/8e9719fb-84bd-462b-8cca-8a30c1a87c20/Catalpa+Charters+Oct+2005-75.jpg?format=2500w",
+      "page": "https://www.catalpacharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2500x1667",
+      "source": "https://images.squarespace-cdn.com/content/v1/683e72993b73f03598516245/92b4348f-3be3-4209-b9d0-6fe2228ff370/Catalpa+Charters+Oct+2005-41.jpg?format=2500w",
+      "page": "https://www.catalpacharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2500x1667",
+      "source": "https://images.squarespace-cdn.com/content/v1/683e72993b73f03598516245/a493e9a8-559e-48b7-8971-530143438b5d/Catalpa+Charters+Oct+2005-83.jpg?format=2500w",
+      "page": "https://www.catalpacharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 2000,
+      "height": 1124,
+      "original": "2500x1405",
+      "source": "https://images.squarespace-cdn.com/content/v1/683e72993b73f03598516245/7b5f9a25-d348-49f1-baf5-7bd49d021845/Catalpa+Charters+Oct+2005-66.jpg?format=2500w",
+      "page": "https://www.catalpacharters.com.au/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.catalpacharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.catalpacharters.com.au/",
+      "bytes": 899295
+    },
+    {
+      "page": "https://www.catalpacharters.com.au/cart",
+      "status": 200,
+      "final_url": "https://www.catalpacharters.com.au/cart",
+      "bytes": 185358
+    },
+    {
+      "page": "https://www.catalpacharters.com.au/tours",
+      "status": 200,
+      "final_url": "https://www.catalpacharters.com.au/tours",
+      "bytes": 404518
+    },
+    {
+      "page": "https://www.catalpacharters.com.au/faqs",
+      "status": 200,
+      "final_url": "https://www.catalpacharters.com.au/faqs",
+      "bytes": 409194
+    },
+    {
+      "page": "https://www.catalpacharters.com.au/about",
+      "status": 200,
+      "final_url": "https://www.catalpacharters.com.au/about",
+      "bytes": 350245
+    },
+    {
+      "page": "https://www.catalpacharters.com.au/contact",
+      "status": 200,
+      "final_url": "https://www.catalpacharters.com.au/contact",
+      "bytes": 231278
+    },
+    {
+      "page": "https://www.catalpacharters.com.au/appointments",
+      "status": 200,
+      "final_url": "https://www.catalpacharters.com.au/appointments",
+      "bytes": 346618
+    },
+    {
+      "page": "https://www.catalpacharters.com.au/home",
+      "status": 200,
+      "final_url": "https://www.catalpacharters.com.au/home",
+      "bytes": 1177035
+    },
+    {
+      "page": "https://www.catalpacharters.com.au/terms-and-conditions",
+      "status": 200,
+      "final_url": "https://www.catalpacharters.com.au/terms-and-conditions",
+      "bytes": 579811
+    },
+    {
+      "page": "https://www.catalpacharters.com.au/accessbility",
+      "status": 200,
+      "final_url": "https://www.catalpacharters.com.au/accessbility",
+      "bytes": 409623
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/683e72993b73f03598516245/003bb500-3c20-4ec9-8c93-d66883584efb/Catalpa+Brand+Pattern.png"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/683e72993b73f03598516245/484ca2e5-39b5-48b8-8ed1-bcf9c967cc7a/OOL+Catalpa+Charters-16.jpg?format=2500w"
+    }
+  ]
+}

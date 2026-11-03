@@ -1,0 +1,266 @@
+{
+  "slug": "pelican-charters-montebello",
+  "request_hash": "96ef262a29b1",
+  "collected_at": "2026-11-03T22:39:16.534Z",
+  "pages_fetched": [
+    "https://www.pelicancharters.com.au/montebello-islands-fishing/",
+    "https://www.pelicancharters.com.au/montebello-islands-charters/",
+    "https://www.pelicancharters.com.au/livewire/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1000,
+      "height": 667,
+      "original": "1000x667",
+      "source": "https://www.pelicancharters.com.au/wp-content/uploads/2024/04/clean-crisp-livewire.jpg",
+      "page": "https://www.pelicancharters.com.au/montebello-islands-fishing/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 1210,
+      "height": 774,
+      "original": "1210x774",
+      "source": "https://pelicancharters.com.au/wp-content/uploads/2024/03/pelican-charters-luxury-boat-booking-western-australia.png",
+      "page": "https://www.pelicancharters.com.au/montebello-islands-fishing/",
+      "priority": true
+    },
+    {
+      "file": "c03.webp",
+      "width": 1000,
+      "height": 667,
+      "original": "1000x667",
+      "source": "https://www.pelicancharters.com.au/wp-content/uploads/2024/04/livewire-back-flick.jpg",
+      "page": "https://www.pelicancharters.com.au/montebello-islands-fishing/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1000,
+      "height": 667,
+      "original": "1000x667",
+      "source": "https://www.pelicancharters.com.au/wp-content/uploads/2024/04/relaxing-fishing.jpg",
+      "page": "https://www.pelicancharters.com.au/montebello-islands-fishing/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1000,
+      "height": 667,
+      "original": "1000x667",
+      "source": "https://www.pelicancharters.com.au/wp-content/uploads/2024/04/Livewire-on-the-beach.jpg",
+      "page": "https://www.pelicancharters.com.au/montebello-islands-fishing/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1000,
+      "height": 667,
+      "original": "1000x667",
+      "source": "https://www.pelicancharters.com.au/wp-content/uploads/2024/04/foot-steps-in-the-sand.jpg",
+      "page": "https://www.pelicancharters.com.au/montebello-islands-charters/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1000,
+      "height": 664,
+      "original": "1000x664",
+      "source": "https://www.pelicancharters.com.au/wp-content/uploads/2024/04/sunset.jpg",
+      "page": "https://www.pelicancharters.com.au/montebello-islands-charters/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1024,
+      "height": 493,
+      "original": "1024x493",
+      "source": "https://www.pelicancharters.com.au/wp-content/uploads/2026/06/Aerial-View-of-Live-Wire-on-the-Swan-River.jpg",
+      "page": "https://www.pelicancharters.com.au/livewire/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.pelicancharters.com.au/montebello-islands-fishing/",
+      "status": 200,
+      "final_url": "https://www.pelicancharters.com.au/montebello-islands-fishing/",
+      "bytes": 1134443
+    },
+    {
+      "page": "https://www.pelicancharters.com.au/montebello-islands-charters/",
+      "status": 200,
+      "final_url": "https://www.pelicancharters.com.au/montebello-islands-charters/",
+      "bytes": 1122521
+    },
+    {
+      "page": "https://www.pelicancharters.com.au/livewire/",
+      "status": 200,
+      "final_url": "https://www.pelicancharters.com.au/livewire/",
+      "bytes": 1066166
+    },
+    {
+      "image": "https://www.pelicancharters.com.au/wp-content/uploads/2024/03/party-boats-perth-bucks-party-western-australia-e1780828049724.png",
+      "error": "too small 60x19"
+    },
+    {
+      "image": "https://www.pelicancharters.com.au/wp-content/uploads/2019/03/fishing-charters-western-Australia.jpg",
+      "error": "too small 600x399"
+    },
+    {
+      "image": "https://www.pelicancharters.com.au/wp-content/uploads/2018/04/montebello-islands-fishing.jpg",
+      "error": "too small 400x266"
+    },
+    {
+      "image": "https://www.pelicancharters.com.au/wp-content/uploads/2019/09/montebello-fishing-safari.jpg",
+      "error": "too small 400x267"
+    },
+    {
+      "image": "https://www.pelicancharters.com.au/wp-content/uploads/2019/09/montebello-island-exmouth.jpg",
+      "error": "too small 400x267"
+    },
+    {
+      "image": "https://www.pelicancharters.com.au/wp-content/uploads/2019/03/liveaboard-fishing-tours-wa.jpg",
+      "error": "too small 600x399"
+    },
+    {
+      "image": "https://www.pelicancharters.com.au/wp-content/uploads/2024/03/twitter.png",
+      "error": "too small 48x48"
+    },
+    {
+      "image": "https://www.pelicancharters.com.au/wp-content/uploads/2024/03/fb.png",
+      "error": "too small 48x48"
+    },
+    {
+      "image": "https://www.pelicancharters.com.au/wp-content/uploads/2024/03/linkedin.png",
+      "error": "too small 48x48"
+    },
+    {
+      "image": "https://www.pelicancharters.com.au/wp-content/uploads/2024/03/yelp.png",
+      "error": "too small 48x48"
+    },
+    {
+      "image": "https://www.pelicancharters.com.au/wp-content/uploads/2024/03/youtube.png",
+      "error": "too small 48x48"
+    },
+    {
+      "image": "https://www.pelicancharters.com.au/wp-content/uploads/2019/07/footer-image-pelicancharters.jpeg",
+      "error": "too small 299x168"
+    },
+    {
+      "image": "https://www.pelicancharters.com.au/wp-content/uploads/2019/07/perth-charter-boat-perth-australia.png",
+      "error": "too small 224x224"
+    },
+    {
+      "image": "https://www.pelicancharters.com.au/wp-content/themes/Avada/assets/images/patterns/pattern1.png",
+      "error": "too small 27x27"
+    },
+    {
+      "image": "https://www.pelicancharters.com.au/wp-content/uploads/2019/03/fishing-charters-western-Australia-200x133.jpg",
+      "error": "too small 200x133"
+    },
+    {
+      "image": "https://www.pelicancharters.com.au/wp-content/uploads/2019/03/fishing-charters-western-Australia-400x266.jpg",
+      "error": "too small 400x266"
+    },
+    {
+      "image": "https://www.pelicancharters.com.au/wp-content/uploads/2018/04/montebello-islands-fishing-200x133.jpg",
+      "error": "too small 200x133"
+    },
+    {
+      "image": "https://www.pelicancharters.com.au/wp-content/uploads/2019/09/montebello-fishing-safari-200x134.jpg",
+      "error": "too small 200x134"
+    },
+    {
+      "image": "https://www.pelicancharters.com.au/wp-content/uploads/2019/09/montebello-island-exmouth-200x134.jpg",
+      "error": "too small 200x134"
+    },
+    {
+      "image": "https://www.pelicancharters.com.au/wp-content/uploads/2019/03/liveaboard-fishing-tours-wa-200x133.jpg",
+      "error": "too small 200x133"
+    },
+    {
+      "image": "https://www.pelicancharters.com.au/wp-content/uploads/2019/03/liveaboard-fishing-tours-wa-400x266.jpg",
+      "error": "too small 400x266"
+    },
+    {
+      "image": "https://www.pelicancharters.com.au/wp-content/uploads/2024/03/pelican-charters-boat-bookings-perth-western-australia-e1781167469906.png",
+      "error": "too small 110x47"
+    },
+    {
+      "image": "http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C/svg%3E#}https://www.pelicancharters.com.au/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/caption-bg.png",
+      "error": "HTTP 400"
+    },
+    {
+      "image": "http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C/svg%3E#}https://www.pelicancharters.com.au/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/social-bg.png",
+      "error": "HTTP 400"
+    },
+    {
+      "image": "http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C/svg%3E#}https://www.pelicancharters.com.au/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/alert.png",
+      "error": "HTTP 400"
+    },
+    {
+      "image": "http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C/svg%3E#}https://www.pelicancharters.com.au/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/thumb-overlay-play.png",
+      "error": "HTTP 400"
+    },
+    {
+      "image": "https://www.pelicancharters.com.au/wp-content/uploads/2019/03/Montebello-fishing.jpg",
+      "error": "too small 400x266"
+    },
+    {
+      "image": "https://pelicancharters.com.au/wp-content/uploads/montebello-hero.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.pelicancharters.com.au/wp-content/uploads/2017/06/port-e1540550809917.jpg",
+      "error": "too small 350x233"
+    },
+    {
+      "image": "https://www.pelicancharters.com.au/wp-content/uploads/2018/06/best-fishing-trips-e1530637794637.jpg",
+      "error": "too small 400x266"
+    },
+    {
+      "dup": "https://www.pelicancharters.com.au/wp-content/uploads/2024/04/moon-rising.jpg"
+    },
+    {
+      "image": "https://www.pelicancharters.com.au/wp-content/uploads/2016/10/rankin-e1530635843835.jpg",
+      "error": "too small 400x266"
+    },
+    {
+      "image": "https://www.pelicancharters.com.au/wp-content/uploads/2016/10/red-3-e1530636718319.jpg",
+      "error": "too small 400x266"
+    },
+    {
+      "image": "https://www.pelicancharters.com.au/wp-content/uploads/2016/10/tout-15-e1530635867308.jpg",
+      "error": "too small 400x266"
+    },
+    {
+      "image": "https://www.pelicancharters.com.au/wp-content/uploads/2016/10/macky-e1530637007346.jpg",
+      "error": "too small 400x266"
+    },
+    {
+      "image": "https://www.pelicancharters.com.au/wp-content/uploads/2016/10/marlin-e1530635781538.jpg",
+      "error": "too small 400x266"
+    },
+    {
+      "image": "https://www.pelicancharters.com.au/wp-content/uploads/2016/10/montes-4-e1530637027513.jpg",
+      "error": "too small 400x266"
+    },
+    {
+      "image": "https://www.pelicancharters.com.au/wp-content/uploads/2019/03/Montebello-fishing-200x133.jpg",
+      "error": "too small 200x133"
+    },
+    {
+      "image": "https://www.pelicancharters.com.au/wp-content/uploads/2016/10/josh-e1530635808302.jpg",
+      "error": "too small 400x266"
+    },
+    {
+      "image": "https://www.pelicancharters.com.au/wp-content/uploads/2016/10/red-emporia-e1530635883510.jpg",
+      "error": "too small 400x266"
+    },
+    {
+      "dup": "https://www.pelicancharters.com.au/wp-content/uploads/2024/04/pelican-charters-luxury-boat-booking-western-australia.webp"
+    }
+  ]
+}

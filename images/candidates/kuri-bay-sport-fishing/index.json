@@ -1,0 +1,15 @@
+{
+  "slug": "kuri-bay-sport-fishing",
+  "request_hash": "10f2d07c8713",
+  "collected_at": "2026-11-03T22:39:43.658Z",
+  "pages_fetched": [
+    "https://www.kuribay.com.au/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.kuribay.com.au/",
+      "error": "fetch failed"
+    }
+  ]
+}

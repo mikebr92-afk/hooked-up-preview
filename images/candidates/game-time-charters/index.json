@@ -1,0 +1,243 @@
+{
+  "slug": "game-time-charters",
+  "request_hash": "df486b6537c0",
+  "collected_at": "2026-11-03T22:39:25.274Z",
+  "pages_fetched": [
+    "https://www.gametimecharters.com.au/",
+    "https://www.gametimecharters.com.au/rottnest-island-private-charters",
+    "https://www.gametimecharters.com.au/private-game-fishing-charters",
+    "https://www.gametimecharters.com.au/our-story",
+    "https://www.gametimecharters.com.au/departing-from-hillarys-boat-harbour-perth",
+    "https://www.gametimecharters.com.au/gallery",
+    "https://www.gametimecharters.com.au/enquiries-contact",
+    "https://www.gametimecharters.com.au/booking-page",
+    "https://www.gametimecharters.com.au/departing-from-jurien-bay",
+    "https://www.gametimecharters.com.au/privacy-policy"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1200,
+      "height": 630,
+      "original": "1200x630",
+      "source": "https://cdn.prod.website-files.com/670f54217703bf6e5066979d/6ac71bc6c5df5e4f685ddc9c_game-time-charters-rottnest-island-og.jpg",
+      "page": "https://www.gametimecharters.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 1914,
+      "height": 1562,
+      "original": "1914x1562",
+      "source": "https://cdn.prod.website-files.com/670f54217703bf6e5066979d/6ac8b216e75f7974c6bc24fb_gt2-boat-beach.webp",
+      "page": "https://www.gametimecharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://cdn.prod.website-files.com/670f54217703bf6e5066979d/6ac8b2171263e5c913ad0cde_gt2-aerial-teal-2.webp",
+      "page": "https://www.gametimecharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1600,
+      "height": 900,
+      "original": "1600x900",
+      "source": "https://cdn.prod.website-files.com/670f54217703bf6e5066979d/6acef89c7d528c48dee82d3f_gt2-marlin-angler-boatside.webp",
+      "page": "https://www.gametimecharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://cdn.prod.website-files.com/670f54217703bf6e5066979d/6ac8b218c28f2b9bca575e23_gt2-deck-group.webp",
+      "page": "https://www.gametimecharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1280,
+      "height": 853,
+      "original": "1280x853",
+      "source": "https://cdn.prod.website-files.com/670f54217703bf6e5066979d/6acf52281325d747896cb4f1_gt2m-h01-drone-underway.webp",
+      "page": "https://www.gametimecharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1493,
+      "height": 2000,
+      "original": "1600x2143",
+      "source": "https://cdn.prod.website-files.com/670f54217703bf6e5066979d/6ac8b21a4c9a69eba068d7a6_gt2-h02-boat-under-dunes.webp",
+      "page": "https://www.gametimecharters.com.au/rottnest-island-private-charters",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1280,
+      "height": 720,
+      "original": "1280x720",
+      "source": "https://cdn.prod.website-files.com/670f54217703bf6e5066979d/6acf523e1f4e2219bc53a83a_gt2m-ray.webp",
+      "page": "https://www.gametimecharters.com.au/rottnest-island-private-charters",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1280,
+      "height": 720,
+      "original": "1280x720",
+      "source": "https://cdn.prod.website-files.com/670f54217703bf6e5066979d/6acf523dece2c76e6b182c32_gt2m-platter-close-up.webp",
+      "page": "https://www.gametimecharters.com.au/rottnest-island-private-charters",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1280,
+      "height": 720,
+      "original": "1280x720",
+      "source": "https://cdn.prod.website-files.com/670f54217703bf6e5066979d/6acf52111325d747896cad42_gt2m-couple-stern.webp",
+      "page": "https://www.gametimecharters.com.au/rottnest-island-private-charters",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1280,
+      "height": 1027,
+      "original": "1280x1027",
+      "source": "https://cdn.prod.website-files.com/670f54217703bf6e5066979d/6acf5227b863e99d7aeead02_gt2m-guests-bow.webp",
+      "page": "https://www.gametimecharters.com.au/rottnest-island-private-charters",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1200,
+      "height": 630,
+      "original": "1200x630",
+      "source": "https://cdn.prod.website-files.com/670f54217703bf6e5066979d/6ac71bc9084cdf00875017cc_game-time-charters-game-fishing-og.jpg",
+      "page": "https://www.gametimecharters.com.au/private-game-fishing-charters",
+      "priority": true
+    },
+    {
+      "file": "c13.webp",
+      "width": 1200,
+      "height": 630,
+      "original": "1200x630",
+      "source": "https://cdn.prod.website-files.com/670f54217703bf6e5066979d/6ac71bcc5f0d57637aba8f1b_game-time-charters-jurien-bay-og.jpg",
+      "page": "https://www.gametimecharters.com.au/private-game-fishing-charters",
+      "priority": true
+    },
+    {
+      "file": "c14.webp",
+      "width": 1280,
+      "height": 1304,
+      "original": "1280x1304",
+      "source": "https://cdn.prod.website-files.com/670f54217703bf6e5066979d/6acf52291f4e2219bc53a14e_gt2m-marlin-alongside.webp",
+      "page": "https://www.gametimecharters.com.au/private-game-fishing-charters",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1280,
+      "height": 1707,
+      "original": "1280x1707",
+      "source": "https://cdn.prod.website-files.com/670f54217703bf6e5066979d/6acf52283bb48150c5be46b9_gt2m-mahi-mahi-marina.webp",
+      "page": "https://www.gametimecharters.com.au/private-game-fishing-charters",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1280,
+      "height": 1707,
+      "original": "1280x1707",
+      "source": "https://cdn.prod.website-files.com/670f54217703bf6e5066979d/6acf523fd39254c0f79e5380_gt2m-tuna-on-deck.webp",
+      "page": "https://www.gametimecharters.com.au/private-game-fishing-charters",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.gametimecharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.gametimecharters.com.au/",
+      "bytes": 56531
+    },
+    {
+      "page": "https://www.gametimecharters.com.au/rottnest-island-private-charters",
+      "status": 200,
+      "final_url": "https://www.gametimecharters.com.au/rottnest-island-private-charters",
+      "bytes": 66596
+    },
+    {
+      "page": "https://www.gametimecharters.com.au/private-game-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.gametimecharters.com.au/private-game-fishing-charters",
+      "bytes": 58838
+    },
+    {
+      "page": "https://www.gametimecharters.com.au/our-story",
+      "status": 200,
+      "final_url": "https://www.gametimecharters.com.au/our-story",
+      "bytes": 46871
+    },
+    {
+      "page": "https://www.gametimecharters.com.au/departing-from-hillarys-boat-harbour-perth",
+      "status": 200,
+      "final_url": "https://www.gametimecharters.com.au/departing-from-hillarys-boat-harbour-perth",
+      "bytes": 45786
+    },
+    {
+      "page": "https://www.gametimecharters.com.au/gallery",
+      "status": 200,
+      "final_url": "https://www.gametimecharters.com.au/gallery",
+      "bytes": 34443
+    },
+    {
+      "page": "https://www.gametimecharters.com.au/enquiries-contact",
+      "status": 200,
+      "final_url": "https://www.gametimecharters.com.au/enquiries-contact",
+      "bytes": 42821
+    },
+    {
+      "page": "https://www.gametimecharters.com.au/booking-page",
+      "status": 200,
+      "final_url": "https://www.gametimecharters.com.au/booking-page",
+      "bytes": 31994
+    },
+    {
+      "page": "https://www.gametimecharters.com.au/departing-from-jurien-bay",
+      "status": 200,
+      "final_url": "https://www.gametimecharters.com.au/departing-from-jurien-bay",
+      "bytes": 43568
+    },
+    {
+      "page": "https://www.gametimecharters.com.au/privacy-policy",
+      "status": 200,
+      "final_url": "https://www.gametimecharters.com.au/privacy-policy",
+      "bytes": 36794
+    },
+    {
+      "dup": "https://cdn.prod.website-files.com/670f54217703bf6e5066979d/6ac8b2161f2fba52b3f8298d_gt2-h01-drone-underway.webp"
+    },
+    {
+      "dup": "https://cdn.prod.website-files.com/670f54217703bf6e5066979d/6ac8b21bcb3dd7a18e752452_gt2-boat-island-wide.webp"
+    },
+    {
+      "dup": "https://cdn.prod.website-files.com/670f54217703bf6e5066979d/6ac8b2194c9a69eba068d77f_gt2-cruising-2.webp"
+    },
+    {
+      "dup": "https://cdn.prod.website-files.com/670f54217703bf6e5066979d/6acf520e9123ab47372a6ba0_gt2m-aerial-teal-2.webp"
+    },
+    {
+      "dup": "https://cdn.prod.website-files.com/670f54217703bf6e5066979d/6acf52261712fe2117cb7297_gt2m-deck-group.webp"
+    },
+    {
+      "dup": "https://cdn.prod.website-files.com/670f54217703bf6e5066979d/6acf523cd39254c0f79e52df_gt2m-marlin-jump.webp"
+    }
+  ]
+}
