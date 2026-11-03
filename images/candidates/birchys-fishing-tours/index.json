@@ -1,9 +1,8 @@
 {
   "slug": "birchys-fishing-tours",
-  "request_hash": "2d285621b223",
-  "collected_at": "2026-11-03T22:47:41.633Z",
+  "request_hash": "8e85367abbc4",
+  "collected_at": "2026-11-03T22:55:00.507Z",
   "pages_fetched": [
-    "https://www.birchysfishingtours.com.au/",
     "https://birchysfishingtours.com.au/",
     "https://birchysfishingtours.com.au/about",
     "https://birchysfishingtours.com.au/fishing-safari",
@@ -19,7 +18,7 @@
       "height": 892,
       "original": "1920x892",
       "source": "https://birchysfishingtours.com.au/application/files/5116/7766/9770/slide-home-3.jpg",
-      "page": "https://www.birchysfishingtours.com.au/",
+      "page": "https://birchysfishingtours.com.au/",
       "priority": false
     },
     {
@@ -28,7 +27,7 @@
       "height": 892,
       "original": "1920x892",
       "source": "https://birchysfishingtours.com.au/application/files/9816/7930/2988/slide-home-2.jpg",
-      "page": "https://www.birchysfishingtours.com.au/",
+      "page": "https://birchysfishingtours.com.au/",
       "priority": false
     },
     {
@@ -37,7 +36,7 @@
       "height": 600,
       "original": "900x600",
       "source": "https://birchysfishingtours.com.au/application/files/3916/7762/6617/thm-tagalong-fish.jpg",
-      "page": "https://www.birchysfishingtours.com.au/",
+      "page": "https://birchysfishingtours.com.au/",
       "priority": false
     },
     {
@@ -46,7 +45,7 @@
       "height": 600,
       "original": "900x600",
       "source": "https://birchysfishingtours.com.au/application/files/8716/7764/1748/thm-overnight.jpg",
-      "page": "https://www.birchysfishingtours.com.au/",
+      "page": "https://birchysfishingtours.com.au/",
       "priority": false
     },
     {
@@ -55,7 +54,7 @@
       "height": 600,
       "original": "900x600",
       "source": "https://birchysfishingtours.com.au/application/files/3116/7764/1748/thm-rock-art-tour.jpg",
-      "page": "https://www.birchysfishingtours.com.au/",
+      "page": "https://birchysfishingtours.com.au/",
       "priority": false
     },
     {
@@ -64,7 +63,7 @@
       "height": 579,
       "original": "733x579",
       "source": "https://birchysfishingtours.com.au/application/files/3216/7766/4880/location-map.jpg",
-      "page": "https://www.birchysfishingtours.com.au/",
+      "page": "https://birchysfishingtours.com.au/",
       "priority": false
     },
     {
@@ -73,7 +72,7 @@
       "height": 600,
       "original": "900x600",
       "source": "https://birchysfishingtours.com.au/application/files/7316/7766/8585/home-wet-season.jpg",
-      "page": "https://www.birchysfishingtours.com.au/",
+      "page": "https://birchysfishingtours.com.au/",
       "priority": false
     },
     {
@@ -82,7 +81,7 @@
       "height": 600,
       "original": "900x600",
       "source": "https://birchysfishingtours.com.au/application/files/4816/7766/8508/home-hunting-pic.jpg",
-      "page": "https://www.birchysfishingtours.com.au/",
+      "page": "https://birchysfishingtours.com.au/",
       "priority": false
     },
     {
@@ -91,7 +90,7 @@
       "height": 600,
       "original": "900x600",
       "source": "https://birchysfishingtours.com.au/application/files/1417/5556/2629/home-cook-up-pic.jpg",
-      "page": "https://www.birchysfishingtours.com.au/",
+      "page": "https://birchysfishingtours.com.au/",
       "priority": false
     },
     {
@@ -159,12 +158,6 @@
     }
   ],
   "log": [
-    {
-      "page": "https://www.birchysfishingtours.com.au/",
-      "status": 200,
-      "final_url": "https://birchysfishingtours.com.au/",
-      "bytes": 27413
-    },
     {
       "page": "https://birchysfishingtours.com.au/",
       "status": 200,

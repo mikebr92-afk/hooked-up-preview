@@ -1,0 +1,31 @@
+{
+  "slug": "research-wa-kuri",
+  "request_hash": "148600d0bc64",
+  "collected_at": "2026-11-03T22:55:17.320Z",
+  "pages_fetched": [
+    "https://fishabout.com.au/destinations/kuri-bay/",
+    "https://localista.com.au/listing/au/broome/tours/kuri-bay-sport-fishing-tours",
+    "https://www.australiasnorthwest.com/blog/post/kuri-bay-fishing-trip/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://fishabout.com.au/destinations/kuri-bay/",
+      "status": 200,
+      "final_url": "https://fishabout.com.au/destinations/kuri-bay/",
+      "bytes": 226963
+    },
+    {
+      "page": "https://localista.com.au/listing/au/broome/tours/kuri-bay-sport-fishing-tours",
+      "status": 200,
+      "final_url": "https://perthlocalista.com.au/listing/kuri-bay-sport-fishing-tours?place=broome-suburb%2C+wa%2C+au",
+      "bytes": 83015
+    },
+    {
+      "page": "https://www.australiasnorthwest.com/blog/post/kuri-bay-fishing-trip/",
+      "status": 200,
+      "final_url": "https://www.australiasnorthwest.com/blog/post/kuri-bay-fishing-trip/",
+      "bytes": 162951
+    }
+  ]
+}

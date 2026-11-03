@@ -1,0 +1,212 @@
+{
+  "slug": "kuri-bay-sport-fishing-tours",
+  "request_hash": "fccc172799be",
+  "collected_at": "2026-11-03T22:55:13.504Z",
+  "pages_fetched": [
+    "https://www.kuribaysportfishingtours.com.au/",
+    "https://www.kuribaysportfishingtours.com.au/kimberley-sportfishing/",
+    "https://www.kuribaysportfishingtours.com.au/tour-packages/",
+    "https://www.kuribaysportfishingtours.com.au/kuri-bay-attractions/",
+    "https://www.kuribaysportfishingtours.com.au/frequently-asked-questions/",
+    "https://www.kuribaysportfishingtours.com.au/photo-gallery/",
+    "https://www.kuribaysportfishingtours.com.au/contact-kuri-bay-sportfishing-tours/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 2000,
+      "height": 1125,
+      "original": "2000x1125",
+      "source": "https://www.kuribaysportfishingtours.com.au/images/2017/08/Kuri-Bay-view-dining-room.jpg",
+      "page": "https://www.kuribaysportfishingtours.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 2000,
+      "height": 1125,
+      "original": "2000x1125",
+      "source": "https://www.kuribaysportfishingtours.com.au/images/2017/08/The-Bay-with-the-pearling-fleet.jpg",
+      "page": "https://www.kuribaysportfishingtours.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 2000,
+      "height": 1125,
+      "original": "2000x1125",
+      "source": "https://www.kuribaysportfishingtours.com.au/images/2017/08/Paspaley-Pearl-seaplane-to-Kuri-Bay.jpg",
+      "page": "https://www.kuribaysportfishingtours.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 2000,
+      "height": 1125,
+      "original": "2000x1125",
+      "source": "https://www.kuribaysportfishingtours.com.au/images/2017/08/Baz-with-1st-Kuri-Bay-Barra.jpg",
+      "page": "https://www.kuribaysportfishingtours.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 960,
+      "height": 541,
+      "original": "960x541",
+      "source": "https://www.kuribaysportfishingtours.com.au/images/2019/03/Scottys-18kg-GT-on-Lead-Head.jpg",
+      "page": "https://www.kuribaysportfishingtours.com.au/kimberley-sportfishing/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 838,
+      "height": 1200,
+      "original": "838x1200",
+      "source": "https://www.kuribaysportfishingtours.com.au/images/2017/08/Tux-guide-Kuri-Bay-Sportfishing-Tours.jpg",
+      "page": "https://www.kuribaysportfishingtours.com.au/kimberley-sportfishing/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 812,
+      "height": 542,
+      "original": "812x542",
+      "source": "https://www.kuribaysportfishingtours.com.au/images/2017/08/Queen-fish.jpg",
+      "page": "https://www.kuribaysportfishingtours.com.au/kimberley-sportfishing/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1022,
+      "height": 682,
+      "original": "1022x682",
+      "source": "https://www.kuribaysportfishingtours.com.au/images/2017/08/Fly-fishing-off-the-jetty.jpg",
+      "page": "https://www.kuribaysportfishingtours.com.au/kimberley-sportfishing/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 818,
+      "height": 547,
+      "original": "818x547",
+      "source": "https://www.kuribaysportfishingtours.com.au/images/2017/08/Casting-into-Bait-Ball.jpg",
+      "page": "https://www.kuribaysportfishingtours.com.au/kimberley-sportfishing/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1400,
+      "height": 935,
+      "original": "1400x935",
+      "source": "https://www.kuribaysportfishingtours.com.au/images/2017/08/Flicking-lures-at-secluded-gorge.jpg",
+      "page": "https://www.kuribaysportfishingtours.com.au/kimberley-sportfishing/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1280,
+      "height": 855,
+      "original": "1280x855",
+      "source": "https://www.kuribaysportfishingtours.com.au/images/2017/08/Blue-Bastard-fish.jpg",
+      "page": "https://www.kuribaysportfishingtours.com.au/kimberley-sportfishing/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 960,
+      "height": 641,
+      "original": "960x641",
+      "source": "https://www.kuribaysportfishingtours.com.au/images/2017/08/Dan-with-Barra-at-Kuri-Bay.jpg",
+      "page": "https://www.kuribaysportfishingtours.com.au/kimberley-sportfishing/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 950,
+      "height": 635,
+      "original": "950x635",
+      "source": "https://www.kuribaysportfishingtours.com.au/images/2017/08/Golden-Trevally.jpg",
+      "page": "https://www.kuribaysportfishingtours.com.au/kimberley-sportfishing/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 808,
+      "height": 540,
+      "original": "808x540",
+      "source": "https://www.kuribaysportfishingtours.com.au/images/2017/08/Williams-big-Queenie.jpg",
+      "page": "https://www.kuribaysportfishingtours.com.au/kimberley-sportfishing/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1280,
+      "height": 855,
+      "original": "1280x855",
+      "source": "https://www.kuribaysportfishingtours.com.au/images/2017/08/gorge-near-kuri-bay.jpg",
+      "page": "https://www.kuribaysportfishingtours.com.au/kimberley-sportfishing/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1280,
+      "height": 855,
+      "original": "1280x855",
+      "source": "https://www.kuribaysportfishingtours.com.au/images/2017/08/Jetty-at-Kuri-Bay.jpg",
+      "page": "https://www.kuribaysportfishingtours.com.au/kimberley-sportfishing/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.kuribaysportfishingtours.com.au/",
+      "status": 200,
+      "final_url": "https://www.kuribaysportfishingtours.com.au/",
+      "bytes": 18421
+    },
+    {
+      "page": "https://www.kuribaysportfishingtours.com.au/kimberley-sportfishing/",
+      "status": 200,
+      "final_url": "https://www.kuribaysportfishingtours.com.au/kimberley-sportfishing/",
+      "bytes": 20060
+    },
+    {
+      "page": "https://www.kuribaysportfishingtours.com.au/tour-packages/",
+      "status": 200,
+      "final_url": "https://www.kuribaysportfishingtours.com.au/tour-packages/",
+      "bytes": 16782
+    },
+    {
+      "page": "https://www.kuribaysportfishingtours.com.au/kuri-bay-attractions/",
+      "status": 200,
+      "final_url": "https://www.kuribaysportfishingtours.com.au/kuri-bay-attractions/",
+      "bytes": 13649
+    },
+    {
+      "page": "https://www.kuribaysportfishingtours.com.au/frequently-asked-questions/",
+      "status": 200,
+      "final_url": "https://www.kuribaysportfishingtours.com.au/frequently-asked-questions/",
+      "bytes": 20505
+    },
+    {
+      "page": "https://www.kuribaysportfishingtours.com.au/photo-gallery/",
+      "status": 200,
+      "final_url": "https://www.kuribaysportfishingtours.com.au/photo-gallery/",
+      "bytes": 16352
+    },
+    {
+      "page": "https://www.kuribaysportfishingtours.com.au/contact-kuri-bay-sportfishing-tours/",
+      "status": 200,
+      "final_url": "https://www.kuribaysportfishingtours.com.au/contact-kuri-bay-sportfishing-tours/",
+      "bytes": 11069
+    },
+    {
+      "image": "https://www.kuribaysportfishingtours.com.au/wp-content/uploads/2017/08/Kuri-Bay-view-dining-room.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.kuribaysportfishingtours.com.au/wp-content/uploads/2019/03/Scottys-18kg-GT-on-Lead-Head.jpg",
+      "error": "HTTP 404"
+    }
+  ]
+}
