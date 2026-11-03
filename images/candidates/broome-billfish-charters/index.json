@@ -1,15 +1,233 @@
 {
   "slug": "broome-billfish-charters",
-  "request_hash": "8c5234140c64",
-  "collected_at": "2026-11-03T22:55:00.703Z",
+  "request_hash": "6d55ea045895",
+  "collected_at": "2026-11-03T22:58:20.084Z",
   "pages_fetched": [
-    "https://www.broomebillfishcharters.com.au/"
+    "https://broomebillfish.com.au/",
+    "https://broomebillfish.com.au/chartres_tours/",
+    "https://broomebillfish.com.au/chartres_tours/full-day-sports-fishing-shared-charter/",
+    "https://broomebillfish.com.au/chartres_tours/full-day-sports-fishing-private-charter/",
+    "https://broomebillfish.com.au/chartres_tours/reef-fishing-private-charter/",
+    "https://broomebillfish.com.au/chartres_tours/reef-fishing-shared-charter/",
+    "https://broomebillfish.com.au/boats",
+    "https://broomebillfish.com.au/about/",
+    "https://broomebillfish.com.au/fish",
+    "https://broomebillfish.com.au/booking-terms-conditions/"
   ],
-  "candidates": [],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1600,
+      "height": 600,
+      "original": "1600x600",
+      "source": "https://broomebillfish.com.au/wp-content/uploads/2023/02/hero_billistic.webp",
+      "page": "https://broomebillfish.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 2000,
+      "height": 750,
+      "original": "2560x960",
+      "source": "https://broomebillfish.com.au/wp-content/uploads/2023/02/hero4-scaled.webp",
+      "page": "https://broomebillfish.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1440,
+      "height": 1440,
+      "original": "1440x1440",
+      "source": "https://broomebillfish.com.au/wp-content/uploads/2026/02/FB_IMG_1770024374009.jpg",
+      "page": "https://broomebillfish.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://broomebillfish.com.au/wp-content/uploads/2026/02/VID_20240814_105024_00_029_2024-08-21_15-52-41_screenshot.jpg",
+      "page": "https://broomebillfish.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 2000,
+      "height": 1333,
+      "original": "2048x1365",
+      "source": "https://broomebillfish.com.au/wp-content/uploads/2026/02/Messenger_creation_E501DFBA-AFD2-4B73-9443-F6789B2D9F72.jpeg",
+      "page": "https://broomebillfish.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 2000,
+      "height": 1333,
+      "original": "2048x1365",
+      "source": "https://broomebillfish.com.au/wp-content/uploads/2023/02/hero1.webp",
+      "page": "https://broomebillfish.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1000,
+      "height": 1000,
+      "original": "1000x1000",
+      "source": "https://broomebillfish.com.au/wp-content/uploads/2023/02/image0000081.webp",
+      "page": "https://broomebillfish.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 2000,
+      "height": 1333,
+      "original": "2048x1365",
+      "source": "https://broomebillfish.com.au/wp-content/uploads/2026/03/Messenger_creation_1F79C704-0924-4239-9503-4370DEE5074A.jpeg",
+      "page": "https://broomebillfish.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 2000,
+      "height": 1329,
+      "original": "2048x1361",
+      "source": "https://broomebillfish.com.au/wp-content/uploads/2026/02/Messenger_creation_32BEEBFF-613E-4DA4-AEDC-56FB845CAA38.jpeg",
+      "page": "https://broomebillfish.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1000,
+      "height": 450,
+      "original": "1000x450",
+      "source": "https://broomebillfish.com.au/wp-content/uploads/2023/02/received_1445603245879808.webp",
+      "page": "https://broomebillfish.com.au/chartres_tours/full-day-sports-fishing-shared-charter/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1000,
+      "height": 1333,
+      "original": "1000x1333",
+      "source": "https://broomebillfish.com.au/wp-content/uploads/2023/02/IMG_8630.webp",
+      "page": "https://broomebillfish.com.au/chartres_tours/full-day-sports-fishing-shared-charter/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1000,
+      "height": 750,
+      "original": "1000x750",
+      "source": "https://broomebillfish.com.au/wp-content/uploads/2023/02/received_1125026651694088.webp",
+      "page": "https://broomebillfish.com.au/chartres_tours/full-day-sports-fishing-shared-charter/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 750,
+      "height": 1000,
+      "original": "750x1000",
+      "source": "https://broomebillfish.com.au/wp-content/uploads/2023/02/IMG_8661.webp",
+      "page": "https://broomebillfish.com.au/chartres_tours/full-day-sports-fishing-shared-charter/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1000,
+      "height": 750,
+      "original": "1000x750",
+      "source": "https://broomebillfish.com.au/wp-content/uploads/2023/02/received_325292179793167.webp",
+      "page": "https://broomebillfish.com.au/chartres_tours/full-day-sports-fishing-shared-charter/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 750,
+      "height": 1000,
+      "original": "750x1000",
+      "source": "https://broomebillfish.com.au/wp-content/uploads/2023/02/IMG_8610.webp",
+      "page": "https://broomebillfish.com.au/chartres_tours/full-day-sports-fishing-shared-charter/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1000,
+      "height": 561,
+      "original": "1000x561",
+      "source": "https://broomebillfish.com.au/wp-content/uploads/2023/02/IMG_20230125_081204.webp",
+      "page": "https://broomebillfish.com.au/chartres_tours/full-day-sports-fishing-shared-charter/",
+      "priority": false
+    }
+  ],
   "log": [
     {
-      "page": "https://www.broomebillfishcharters.com.au/",
-      "error": "fetch failed"
+      "page": "https://broomebillfish.com.au/",
+      "status": 200,
+      "final_url": "https://broomebillfish.com.au/",
+      "bytes": 373956
+    },
+    {
+      "page": "https://broomebillfish.com.au/chartres_tours/",
+      "status": 200,
+      "final_url": "https://broomebillfish.com.au/chartres_tours/",
+      "bytes": 361848
+    },
+    {
+      "page": "https://broomebillfish.com.au/chartres_tours/full-day-sports-fishing-shared-charter/",
+      "status": 200,
+      "final_url": "https://broomebillfish.com.au/chartres_tours/full-day-sports-fishing-shared-charter/",
+      "bytes": 297269
+    },
+    {
+      "page": "https://broomebillfish.com.au/chartres_tours/full-day-sports-fishing-private-charter/",
+      "status": 200,
+      "final_url": "https://broomebillfish.com.au/chartres_tours/full-day-sports-fishing-private-charter/",
+      "bytes": 297386
+    },
+    {
+      "page": "https://broomebillfish.com.au/chartres_tours/reef-fishing-private-charter/",
+      "status": 200,
+      "final_url": "https://broomebillfish.com.au/chartres_tours/reef-fishing-private-charter/",
+      "bytes": 294321
+    },
+    {
+      "page": "https://broomebillfish.com.au/chartres_tours/reef-fishing-shared-charter/",
+      "status": 200,
+      "final_url": "https://broomebillfish.com.au/chartres_tours/reef-fishing-shared-charter/",
+      "bytes": 293987
+    },
+    {
+      "page": "https://broomebillfish.com.au/boats",
+      "status": 200,
+      "final_url": "https://broomebillfish.com.au/boats/billistic/",
+      "bytes": 314319
+    },
+    {
+      "page": "https://broomebillfish.com.au/about/",
+      "status": 200,
+      "final_url": "https://broomebillfish.com.au/about/",
+      "bytes": 253093
+    },
+    {
+      "page": "https://broomebillfish.com.au/fish",
+      "status": 200,
+      "final_url": "https://broomebillfish.com.au/fish/",
+      "bytes": 380525
+    },
+    {
+      "page": "https://broomebillfish.com.au/booking-terms-conditions/",
+      "status": 200,
+      "final_url": "https://broomebillfish.com.au/booking-terms-conditions/",
+      "bytes": 250566
+    },
+    {
+      "image": "https://broomebillfish.com.au/wp-content/uploads/2023/02/Red.jpg",
+      "error": "too small 400x216"
+    },
+    {
+      "image": "https://dev.broomebillfish.com.au/wp-content/uploads/2023/02/footer_bg-scaled.webp",
+      "error": "banner/strip 2560x646"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "finished_at": "2026-11-03T22:55:17.321Z",
+  "finished_at": "2026-11-03T22:58:20.087Z",
   "summary": [
     {
       "slug": "research-wa-rules",
@@ -27,8 +27,7 @@
     },
     {
       "slug": "birchys-fishing-tours",
-      "candidates": 16,
-      "pages": 7
+      "skipped": true
     },
     {
       "slug": "absolute-ocean-charters",
@@ -72,8 +71,8 @@
     },
     {
       "slug": "broome-billfish-charters",
-      "candidates": 0,
-      "pages": 1
+      "candidates": 16,
+      "pages": 10
     },
     {
       "slug": "kuri-bay-sport-fishing",
@@ -97,8 +96,7 @@
     },
     {
       "slug": "abrolhos-adventures",
-      "candidates": 0,
-      "pages": 1
+      "skipped": true
     },
     {
       "slug": "legend-charters",
@@ -130,13 +128,11 @@
     },
     {
       "slug": "kuri-bay-sport-fishing-tours",
-      "candidates": 16,
-      "pages": 7
+      "skipped": true
     },
     {
       "slug": "research-wa-kuri",
-      "candidates": 0,
-      "pages": 3
+      "skipped": true
     },
     {
       "slug": "research-wa-broome-sport",
