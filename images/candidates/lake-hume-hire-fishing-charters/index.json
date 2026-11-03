@@ -1,0 +1,69 @@
+{
+  "slug": "lake-hume-hire-fishing-charters",
+  "request_hash": "4aa2be8650f0",
+  "collected_at": "2026-11-03T22:44:05.923Z",
+  "pages_fetched": [
+    "https://www.lakehumehire.com/",
+    "https://www.melbourneplaygrounds.com.au/lake-hume-hire-fishing-charters",
+    "https://www.melbourneplaygrounds.com.au/about-mp.php"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.lakehumehire.com/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://www.melbourneplaygrounds.com.au/lake-hume-hire-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.melbourneplaygrounds.com.au/lake-hume-hire-fishing-charters",
+      "bytes": 50990
+    },
+    {
+      "page": "https://www.melbourneplaygrounds.com.au/about-mp.php",
+      "status": 200,
+      "final_url": "https://www.melbourneplaygrounds.com.au/about-melbourne-playgrounds",
+      "bytes": 50687
+    },
+    {
+      "image": "https://www.melbourneplaygrounds.com.au/images/lake-hume-hire-and-fishing-charters.jpg",
+      "error": "too small 161x157"
+    },
+    {
+      "image": "https://www.melbourneplaygrounds.com.au/images/small-ultimate-guide-to-parties.jpg",
+      "error": "too small 70x70"
+    },
+    {
+      "image": "https://www.melbourneplaygrounds.com.au/images/thumb-raaf-mueum.jpg",
+      "error": "too small 70x70"
+    },
+    {
+      "image": "https://www.melbourneplaygrounds.com.au/images/thumb-toddler-activities.jpg",
+      "error": "too small 70x70"
+    },
+    {
+      "image": "https://www.melbourneplaygrounds.com.au/images/small-200-things-for-families.jpg",
+      "error": "too small 70x70"
+    },
+    {
+      "image": "https://www.melbourneplaygrounds.com.au/images/small-top-play-centres.jpg",
+      "error": "too small 70x70"
+    },
+    {
+      "image": "https://www.melbourneplaygrounds.com.au/images/small-top-50-playgrounds.jpg",
+      "error": "too small 70x70"
+    },
+    {
+      "image": "https://www.melbourneplaygrounds.com.au/images/thumb-activities-teenagers.jpg",
+      "error": "too small 70x70"
+    },
+    {
+      "image": "https://www.melbourneplaygrounds.com.au/images/thumb-small-ideas2.jpg",
+      "error": "too small 70x70"
+    },
+    {
+      "image": "https://www.melbourneplaygrounds.com.au/images/ico-mlebourneplaygroundscomau.jpg",
+      "error": "too small 590x200"
+    }
+  ]
+}
