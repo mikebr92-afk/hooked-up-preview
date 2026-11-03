@@ -1,0 +1,31 @@
+{
+  "slug": "research-wa-exmouth",
+  "request_hash": "7bc3073ec956",
+  "collected_at": "2026-11-03T22:22:33.332Z",
+  "pages_fetched": [
+    "https://fishingbooker.com/destinations/location/au/WA/exmouth",
+    "https://recfishwest.org.au/news/scotts-spots-exciting-exmouth/",
+    "https://australiasguide.com/wa/attraction-tour/exmouth/exmouth/evolution-fishing-charters"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://fishingbooker.com/destinations/location/au/WA/exmouth",
+      "status": 403,
+      "final_url": "https://fishingbooker.com/destinations/location/au/WA/exmouth",
+      "bytes": 5907
+    },
+    {
+      "page": "https://recfishwest.org.au/news/scotts-spots-exciting-exmouth/",
+      "status": 200,
+      "final_url": "https://recfishwest.org.au/news/scotts-spots-exciting-exmouth/",
+      "bytes": 111005
+    },
+    {
+      "page": "https://australiasguide.com/wa/attraction-tour/exmouth/exmouth/evolution-fishing-charters",
+      "status": 200,
+      "final_url": "https://australiasguide.com/wa/attraction-tour/exmouth/exmouth/evolution-fishing-charters/",
+      "bytes": 183077
+    }
+  ]
+}

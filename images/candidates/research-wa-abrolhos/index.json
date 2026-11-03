@@ -1,0 +1,38 @@
+{
+  "slug": "research-wa-abrolhos",
+  "request_hash": "fda9baf72151",
+  "collected_at": "2026-11-03T22:22:39.628Z",
+  "pages_fetched": [
+    "https://www.australiascoralcoast.com/products/abrolhos-islands-live-aboard-fishing-charter",
+    "https://fishingbooker.com/destinations/location/au/WA/geraldton",
+    "https://www.australias.guide/wa/attraction-tour/greater-geraldton/geraldton/apache-charters-abrolhos-islands-dirk-hartog-island/",
+    "https://recfishwest.org.au/?p=14216"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.australiascoralcoast.com/products/abrolhos-islands-live-aboard-fishing-charter",
+      "status": 200,
+      "final_url": "https://www.australiascoralcoast.com/destinations/geraldton-surrounds/houtman-abrolhos-islands",
+      "bytes": 253703
+    },
+    {
+      "page": "https://fishingbooker.com/destinations/location/au/WA/geraldton",
+      "status": 403,
+      "final_url": "https://fishingbooker.com/destinations/location/au/WA/geraldton",
+      "bytes": 5913
+    },
+    {
+      "page": "https://www.australias.guide/wa/attraction-tour/greater-geraldton/geraldton/apache-charters-abrolhos-islands-dirk-hartog-island/",
+      "status": 200,
+      "final_url": "https://australiasguide.com/",
+      "bytes": 146324
+    },
+    {
+      "page": "https://recfishwest.org.au/?p=14216",
+      "status": 200,
+      "final_url": "https://recfishwest.org.au/news/scotts-spots-the-amazing-abrolhos-islands/",
+      "bytes": 119741
+    }
+  ]
+}

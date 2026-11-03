@@ -1,0 +1,31 @@
+{
+  "slug": "research-wa-kununurra",
+  "request_hash": "c00e38b6a12e",
+  "collected_at": "2026-11-03T22:22:24.425Z",
+  "pages_fetched": [
+    "https://www.australiasnorthwest.com/explore/kimberley/kununurra/fishing-kununurra/",
+    "https://visitkununurra.com/kimberley-fishing",
+    "https://www.visitkununurra.com/bd-fishing-safaris"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.australiasnorthwest.com/explore/kimberley/kununurra/fishing-kununurra/",
+      "status": 200,
+      "final_url": "https://www.australiasnorthwest.com/explore/kimberley/kununurra/fishing-kununurra/",
+      "bytes": 178957
+    },
+    {
+      "page": "https://visitkununurra.com/kimberley-fishing",
+      "status": 200,
+      "final_url": "https://www.visitkununurra.com/kimberley-fishing",
+      "bytes": 48025
+    },
+    {
+      "page": "https://www.visitkununurra.com/bd-fishing-safaris",
+      "status": 404,
+      "final_url": "https://www.visitkununurra.com/bd-fishing-safaris",
+      "bytes": 2933
+    }
+  ]
+}

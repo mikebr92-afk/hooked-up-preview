@@ -1,0 +1,15 @@
+{
+  "slug": "mills-charters",
+  "request_hash": "686b1e71fda6",
+  "collected_at": "2026-11-03T22:23:04.415Z",
+  "pages_fetched": [
+    "https://www.millscharters.com.au/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.millscharters.com.au/",
+      "error": "fetch failed"
+    }
+  ]
+}

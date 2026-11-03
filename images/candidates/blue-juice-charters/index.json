@@ -1,0 +1,21 @@
+{
+  "slug": "blue-juice-charters",
+  "request_hash": "b2cbe11c7daf",
+  "collected_at": "2026-11-03T22:23:04.928Z",
+  "pages_fetched": [
+    "https://www.bluejuicecharters.com.au/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.bluejuicecharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.bluejuicecharters.com.au/",
+      "bytes": 27527
+    },
+    {
+      "image": "https://l.cdn-fileserver.com/bping.php?wshp=0&r=1793744584716&vgd_cage=33&vgd_oresf=one&cid=8CUI1F766&crid=228450093&sc=TX&mspa=1&vgd_tsce=L1402&vgd_oreqf=one&vgd_setup=c21&hvsid=00001793744584713008886796808859&lper=100&wsip=170763972&requrl=https%3A%2F%2Fbluejuicecharters.com.au&vgd_rpth=%2Fola&vgd_cdv=O3746&vgd_l2type=dmola&vi=1793744584827319230&ugd=4&ssld=%7B%22QQNN%22%3A%22Pb%22%2C%22QQN75%22%3A%22Q1zn1z7mz8m%22%2C%22QQ8E%22%3A%22%22%2C%22QQQN%22%3A%22_t%22%2C%22QQl8E%22%3A%22%22%7D&vgd_asn=8075&vgd_wlstp=0&prid=8PR11258V&lf=6&cc=US&gdpr=0&vgd_len=571&vgd_end=1",
+      "error": "too small 1x1"
+    }
+  ]
+}

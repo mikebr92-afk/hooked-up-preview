@@ -1,0 +1,353 @@
+{
+  "slug": "innkeeper-sportfishing-charters",
+  "request_hash": "ac508024a329",
+  "collected_at": "2026-11-03T22:23:04.379Z",
+  "pages_fetched": [
+    "https://innkeepersportfishing.com/",
+    "https://innkeepersportfishing.com/about/",
+    "https://innkeepersportfishing.com/packages/",
+    "https://innkeepersportfishing.com/packages/billfishing/",
+    "https://innkeepersportfishing.com/packages/reef-fishing/",
+    "https://innkeepersportfishing.com/packages/live-aboards/",
+    "https://innkeepersportfishing.com/packages/exmouth-gulf-sailfish-adventure/",
+    "https://innkeepersportfishing.com/the-boat/",
+    "https://innkeepersportfishing.com/the-skipper/",
+    "https://innkeepersportfishing.com/gallery/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 2000,
+      "height": 1333,
+      "original": "4752x3168",
+      "source": "https://innkeepersportfishing.com/wp-content/uploads/2018/07/23122017-1802.jpg",
+      "page": "https://innkeepersportfishing.com/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 2000,
+      "height": 1392,
+      "original": "3860x2686",
+      "source": "https://innkeepersportfishing.com/wp-content/uploads/2018/11/Red-Emperor-Exmouth.jpg",
+      "page": "https://innkeepersportfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 2000,
+      "height": 1307,
+      "original": "4979x3253",
+      "source": "https://innkeepersportfishing.com/wp-content/uploads/2019/02/Innkeeper-Dollies_3295.jpg",
+      "page": "https://innkeepersportfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1974,
+      "height": 1536,
+      "original": "1974x1536",
+      "source": "https://innkeepersportfishing.com/wp-content/uploads/2019/10/50009461_1976146826013320_5396229058524610560_o.jpg",
+      "page": "https://innkeepersportfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://innkeepersportfishing.com/wp-content/uploads/2018/07/IMG_1363.jpg",
+      "page": "https://innkeepersportfishing.com/about/",
+      "priority": true
+    },
+    {
+      "file": "c06.webp",
+      "width": 1019,
+      "height": 947,
+      "original": "1019x947",
+      "source": "https://innkeepersportfishing.com/wp-content/uploads/2019/10/54728107_2007462289548440_8855537667392143360_o.jpg",
+      "page": "https://innkeepersportfishing.com/about/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 640,
+      "height": 480,
+      "original": "640x480",
+      "source": "https://innkeepersportfishing.com/wp-content/uploads/2017/06/IMG_2512.jpg",
+      "page": "https://innkeepersportfishing.com/about/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 647,
+      "height": 516,
+      "original": "647x516",
+      "source": "https://innkeepersportfishing.com/wp-content/uploads/2017/06/OFFSHORE-RODS.png",
+      "page": "https://innkeepersportfishing.com/about/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1260,
+      "height": 584,
+      "original": "1260x584",
+      "source": "https://innkeepersportfishing.com/wp-content/uploads/2016/10/GOPR1341_Moment2.jpg",
+      "page": "https://innkeepersportfishing.com/packages/",
+      "priority": true
+    },
+    {
+      "file": "c10.webp",
+      "width": 2000,
+      "height": 1345,
+      "original": "2908x1955",
+      "source": "https://innkeepersportfishing.com/wp-content/uploads/2018/11/Exmouth-Blue-Marlin.jpg",
+      "page": "https://innkeepersportfishing.com/packages/billfishing/",
+      "priority": true
+    },
+    {
+      "file": "c11.webp",
+      "width": 1038,
+      "height": 576,
+      "original": "1038x576",
+      "source": "https://innkeepersportfishing.com/wp-content/uploads/2018/11/Exmouth-Blue-Marlin-1038x576.jpg",
+      "page": "https://innkeepersportfishing.com/packages/billfishing/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1038,
+      "height": 576,
+      "original": "1038x576",
+      "source": "https://innkeepersportfishing.com/wp-content/uploads/2018/11/Red-Emperor-Exmouth-1038x576.jpg",
+      "page": "https://innkeepersportfishing.com/packages/reef-fishing/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1026,
+      "height": 684,
+      "original": "1026x684",
+      "source": "https://innkeepersportfishing.com/wp-content/uploads/2016/09/image2-e1682831577432.jpeg",
+      "page": "https://innkeepersportfishing.com/packages/live-aboards/",
+      "priority": true
+    },
+    {
+      "file": "c14.webp",
+      "width": 1000,
+      "height": 1414,
+      "original": "1000x1414",
+      "source": "https://innkeepersportfishing.com/wp-content/uploads/2023/04/IMG_6751-scaled-e1682833833692.jpg",
+      "page": "https://innkeepersportfishing.com/packages/exmouth-gulf-sailfish-adventure/",
+      "priority": true
+    },
+    {
+      "file": "c15.webp",
+      "width": 1000,
+      "height": 576,
+      "original": "1000x576",
+      "source": "https://innkeepersportfishing.com/wp-content/uploads/2023/04/IMG_6751-scaled-e1682833833692-1000x576.jpg",
+      "page": "https://innkeepersportfishing.com/packages/exmouth-gulf-sailfish-adventure/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 2000,
+      "height": 1125,
+      "original": "2776x1562",
+      "source": "https://innkeepersportfishing.com/wp-content/uploads/2023/04/IMG_1678.jpg",
+      "page": "https://innkeepersportfishing.com/the-boat/",
+      "priority": true
+    }
+  ],
+  "log": [
+    {
+      "page": "https://innkeepersportfishing.com/",
+      "status": 200,
+      "final_url": "https://innkeepersportfishing.com/",
+      "bytes": 91877
+    },
+    {
+      "page": "https://innkeepersportfishing.com/about/",
+      "status": 200,
+      "final_url": "https://innkeepersportfishing.com/about/",
+      "bytes": 84706
+    },
+    {
+      "page": "https://innkeepersportfishing.com/packages/",
+      "status": 200,
+      "final_url": "https://innkeepersportfishing.com/packages/",
+      "bytes": 83881
+    },
+    {
+      "page": "https://innkeepersportfishing.com/packages/billfishing/",
+      "status": 200,
+      "final_url": "https://innkeepersportfishing.com/packages/billfishing/",
+      "bytes": 74928
+    },
+    {
+      "page": "https://innkeepersportfishing.com/packages/reef-fishing/",
+      "status": 200,
+      "final_url": "https://innkeepersportfishing.com/packages/reef-fishing/",
+      "bytes": 75951
+    },
+    {
+      "page": "https://innkeepersportfishing.com/packages/live-aboards/",
+      "status": 200,
+      "final_url": "https://innkeepersportfishing.com/packages/live-aboards/",
+      "bytes": 79072
+    },
+    {
+      "page": "https://innkeepersportfishing.com/packages/exmouth-gulf-sailfish-adventure/",
+      "status": 200,
+      "final_url": "https://innkeepersportfishing.com/packages/exmouth-gulf-sailfish-adventure/",
+      "bytes": 77002
+    },
+    {
+      "page": "https://innkeepersportfishing.com/the-boat/",
+      "status": 200,
+      "final_url": "https://innkeepersportfishing.com/the-boat/",
+      "bytes": 89713
+    },
+    {
+      "page": "https://innkeepersportfishing.com/the-skipper/",
+      "status": 200,
+      "final_url": "https://innkeepersportfishing.com/the-skipper/",
+      "bytes": 81522
+    },
+    {
+      "page": "https://innkeepersportfishing.com/gallery/",
+      "status": 200,
+      "final_url": "https://innkeepersportfishing.com/gallery/",
+      "bytes": 136175
+    },
+    {
+      "image": "https://innkeepersportfishing.com/wp-content/uploads/2017/07/inkeeper-sport-fishing-charters-exmouth.jpg",
+      "error": "too small 1260x204"
+    },
+    {
+      "dup": "https://innkeepersportfishing.com/wp-content/uploads/2018/07/23122017-1802-1024x683.jpg"
+    },
+    {
+      "image": "http://innkeepersportfishing.com/wp-content/uploads/2017/07/follow-us-instagram.png",
+      "error": "too small 642x191"
+    },
+    {
+      "dup": "https://innkeepersportfishing.com/wp-content/uploads/2018/11/Red-Emperor-Exmouth-1024x713.jpg"
+    },
+    {
+      "dup": "https://innkeepersportfishing.com/wp-content/uploads/2019/02/Innkeeper-Dollies_3295-1024x669.jpg"
+    },
+    {
+      "image": "https://innkeepersportfishing.com/wp-content/uploads/2017/07/cropped-inkeeper-sport-fishing-charters-exmouth.jpg",
+      "error": "too small 512x512"
+    },
+    {
+      "image": "https://innkeepersportfishing.com/wp-content/uploads/2017/07/cropped-inkeeper-sport-fishing-charters-exmouth-32x32.jpg",
+      "error": "too small 32x32"
+    },
+    {
+      "image": "https://innkeepersportfishing.com/wp-content/uploads/2017/07/cropped-inkeeper-sport-fishing-charters-exmouth-192x192.jpg",
+      "error": "too small 192x192"
+    },
+    {
+      "image": "https://innkeepersportfishing.com/wp-content/uploads/2017/07/cropped-inkeeper-sport-fishing-charters-exmouth-180x180.jpg",
+      "error": "too small 180x180"
+    },
+    {
+      "image": "https://innkeepersportfishing.com/wp-content/uploads/2017/07/cropped-inkeeper-sport-fishing-charters-exmouth-270x270.jpg",
+      "error": "too small 270x270"
+    },
+    {
+      "dup": "https://innkeepersportfishing.com/wp-content/uploads/2019/10/50009461_1976146826013320_5396229058524610560_o-1024x797.jpg"
+    },
+    {
+      "image": "https://innkeepersportfishing.com/wp-content/uploads/2018/07/23122017-1802-300x200.jpg",
+      "error": "too small 300x200"
+    },
+    {
+      "dup": "https://innkeepersportfishing.com/wp-content/uploads/2018/07/23122017-1802-768x512.jpg"
+    },
+    {
+      "image": "https://innkeepersportfishing.com/wp-content/uploads/2018/11/Red-Emperor-Exmouth-300x209.jpg",
+      "error": "too small 300x209"
+    },
+    {
+      "dup": "https://innkeepersportfishing.com/wp-content/uploads/2018/11/Red-Emperor-Exmouth-768x534.jpg"
+    },
+    {
+      "image": "https://innkeepersportfishing.com/wp-content/uploads/2019/02/Innkeeper-Dollies_3295-300x196.jpg",
+      "error": "too small 300x196"
+    },
+    {
+      "dup": "https://innkeepersportfishing.com/wp-content/uploads/2019/02/Innkeeper-Dollies_3295-768x502.jpg"
+    },
+    {
+      "dup": "https://innkeepersportfishing.com/wp-content/uploads/2018/07/IMG_1363-1038x576.jpg"
+    },
+    {
+      "image": "https://innkeepersportfishing.com/wp-content/uploads/2017/06/bonze1-REVERSE.png",
+      "error": "too small 320x314"
+    },
+    {
+      "image": "https://innkeepersportfishing.com/wp-content/uploads/2018/07/IMG_1363-672x372.jpg",
+      "error": "too small 672x372"
+    },
+    {
+      "image": "https://innkeepersportfishing.com/wp-content/uploads/2019/10/54728107_2007462289548440_8855537667392143360_o-300x279.jpg",
+      "error": "too small 300x279"
+    },
+    {
+      "dup": "https://innkeepersportfishing.com/wp-content/uploads/2019/10/54728107_2007462289548440_8855537667392143360_o-768x714.jpg"
+    },
+    {
+      "image": "https://innkeepersportfishing.com/wp-content/uploads/2017/06/IMG_2512-300x225.jpg",
+      "error": "too small 300x225"
+    },
+    {
+      "image": "https://innkeepersportfishing.com/wp-content/uploads/2017/06/IMG_2512-20x15.jpg",
+      "error": "too small 20x15"
+    },
+    {
+      "image": "https://innkeepersportfishing.com/wp-content/uploads/2017/06/bonze1-REVERSE-300x294.png",
+      "error": "too small 300x294"
+    },
+    {
+      "image": "https://innkeepersportfishing.com/wp-content/uploads/2017/06/bonze1-REVERSE-20x20.png",
+      "error": "too small 20x20"
+    },
+    {
+      "image": "https://innkeepersportfishing.com/wp-content/uploads/2017/06/OFFSHORE-RODS-300x239.png",
+      "error": "too small 300x239"
+    },
+    {
+      "image": "https://innkeepersportfishing.com/wp-content/uploads/2017/06/OFFSHORE-RODS-20x16.png",
+      "error": "too small 20x16"
+    },
+    {
+      "dup": "https://innkeepersportfishing.com/wp-content/uploads/2016/10/GOPR1341_Moment2-1024x475.jpg"
+    },
+    {
+      "image": "https://innkeepersportfishing.com/wp-content/uploads/2016/10/GOPR1341_Moment2-300x139.jpg",
+      "error": "too small 300x139"
+    },
+    {
+      "image": "https://innkeepersportfishing.com/wp-content/uploads/2016/10/GOPR1341_Moment2-768x356.jpg",
+      "error": "too small 768x356"
+    },
+    {
+      "dup": "https://innkeepersportfishing.com/wp-content/uploads/2018/11/Exmouth-Blue-Marlin-1024x688.jpg"
+    },
+    {
+      "image": "https://innkeepersportfishing.com/wp-content/uploads/2018/11/Exmouth-Blue-Marlin-672x372.jpg",
+      "error": "too small 672x372"
+    },
+    {
+      "image": "https://innkeepersportfishing.com/wp-content/uploads/2018/11/Red-Emperor-Exmouth-672x372.jpg",
+      "error": "too small 672x372"
+    },
+    {
+      "dup": "https://innkeepersportfishing.com/wp-content/uploads/2016/09/image2-e1682831577432-1026x576.jpeg"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "research-wa-kimberley-ms",
+  "request_hash": "0817385be72c",
+  "collected_at": "2026-11-03T22:22:40.748Z",
+  "pages_fetched": [
+    "https://fishabout.com.au/destinations/kimberley-fishing-safari/",
+    "https://fishabout.com.au/destinations/kimberley-mothership/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://fishabout.com.au/destinations/kimberley-fishing-safari/",
+      "status": 200,
+      "final_url": "https://fishabout.com.au/destinations/kimberley-fishing-safari/",
+      "bytes": 207193
+    },
+    {
+      "page": "https://fishabout.com.au/destinations/kimberley-mothership/",
+      "status": 200,
+      "final_url": "https://fishabout.com.au/destinations/kimberley-mothership/",
+      "bytes": 201136
+    }
+  ]
+}

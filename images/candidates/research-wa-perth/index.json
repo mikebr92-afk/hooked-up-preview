@@ -1,0 +1,31 @@
+{
+  "slug": "research-wa-perth",
+  "request_hash": "d9818d612285",
+  "collected_at": "2026-11-03T22:22:35.556Z",
+  "pages_fetched": [
+    "https://watravel.com.au/perth-fishing-charters/",
+    "https://fishingbooker.com/destinations/location/au/WA/hillarys",
+    "https://www.australias.guide/wa/attraction-tour/joondalup/hillarys/blue-juice-charters/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://watravel.com.au/perth-fishing-charters/",
+      "status": 200,
+      "final_url": "https://watravel.com.au/perth-fishing-charters/",
+      "bytes": 80749
+    },
+    {
+      "page": "https://fishingbooker.com/destinations/location/au/WA/hillarys",
+      "status": 403,
+      "final_url": "https://fishingbooker.com/destinations/location/au/WA/hillarys",
+      "bytes": 5910
+    },
+    {
+      "page": "https://www.australias.guide/wa/attraction-tour/joondalup/hillarys/blue-juice-charters/",
+      "status": 200,
+      "final_url": "https://australiasguide.com/",
+      "bytes": 146324
+    }
+  ]
+}

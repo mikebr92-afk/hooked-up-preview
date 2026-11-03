@@ -1,0 +1,24 @@
+{
+  "slug": "research-wa-fb-state",
+  "request_hash": "8bebbc71e49b",
+  "collected_at": "2026-11-03T22:22:52.229Z",
+  "pages_fetched": [
+    "https://fishingbooker.com/destinations/state/au/WA",
+    "https://www.waholidayguide.com.au/western-australia-tours-things-to-do/browse-tours/western-australia-fishing-charter-diving"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://fishingbooker.com/destinations/state/au/WA",
+      "status": 403,
+      "final_url": "https://fishingbooker.com/destinations/state/au/WA",
+      "bytes": 5853
+    },
+    {
+      "page": "https://www.waholidayguide.com.au/western-australia-tours-things-to-do/browse-tours/western-australia-fishing-charter-diving",
+      "status": 200,
+      "final_url": "https://www.waholidayguide.com.au/western-australia-tours-things-to-do/browse-tours/western-australia-fishing-trip-charter-snorkeling-diving",
+      "bytes": 416095
+    }
+  ]
+}

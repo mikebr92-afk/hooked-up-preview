@@ -1,0 +1,31 @@
+{
+  "slug": "research-wa-broome-sport",
+  "request_hash": "b055616d23da",
+  "collected_at": "2026-11-03T22:22:16.449Z",
+  "pages_fetched": [
+    "https://www.visitbroome.com.au/members/broome-sport-fishing",
+    "https://www.visitbroome.com.au/members/phat-time-fishing",
+    "https://watravel.com.au/broome/activites/fishing/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.visitbroome.com.au/members/broome-sport-fishing",
+      "status": 200,
+      "final_url": "https://www.visitbroome.com.au/members/broome-sport-fishing",
+      "bytes": 59159
+    },
+    {
+      "page": "https://www.visitbroome.com.au/members/phat-time-fishing",
+      "status": 404,
+      "final_url": "https://www.visitbroome.com.au/members/phat-time-fishing",
+      "bytes": 69159
+    },
+    {
+      "page": "https://watravel.com.au/broome/activites/fishing/",
+      "status": 200,
+      "final_url": "https://watravel.com.au/broome/activites/fishing/",
+      "bytes": 112727
+    }
+  ]
+}
