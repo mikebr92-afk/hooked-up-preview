@@ -1,0 +1,243 @@
+[
+ {
+  "key": "gold-coast",
+  "name": "Gold Coast",
+  "departure_points": [
+   "The Spit pontoon, Muriel Henchman Drive, Main Beach (most offshore charters; exits via the Gold Coast Seaway)",
+   "Runaway Bay Marina (BKs Gold Coast Fishing Charters)",
+   "Paradise Point and Runaway Bay for Broadwater/estuary trips"
+  ],
+  "species_seasons": [
+   {"species": "Snapper", "when": "Year-round; bigger fish run harder in the cooler months", "source": "https://topgearfishingcharters.com.au/reef-fishing-charters/"},
+   {"species": "Mahi Mahi", "when": "Peak in the warmer months when the warm current pushes down the coast; taken year-round offshore", "source": "https://topgearfishingcharters.com.au/game-fishing-deep-sea-charters/"},
+   {"species": "Spanish and spotted mackerel", "when": "Mostly the warmer months, over reef structure", "source": "https://topgearfishingcharters.com.au/reef-fishing-charters/"},
+   {"species": "Marlin (black, blue, striped)", "when": "In season offshore; black marlin can be found as close as about 6 km out", "source": "https://www.fishthedeep.com/deep-sea-fishing-gold-coast-vessel-crew/"},
+   {"species": "Humpback whales (seen while fishing)", "when": "June-October", "source": "https://bksfishing.com.au/gold-coast-fishing-tours-faqs/"}
+  ],
+  "notes": [
+   "Half-day trips fish reefs up to about 10 nautical miles offshore; full days run 10-35 km out into 50-95 m of water.",
+   "In December-January strong currents can stop boats fishing the wider full-day grounds, so trips may stay on the closer half-day reefs.",
+   "Common reef catches include snapper, teraglin, tuskfish, pearl perch, cobia and kingfish; pelagics include mahi mahi, wahoo, tuna and mackerel.",
+   "Calm-water estuary charters work the Broadwater, Nerang River and Jumpinpin for flathead, whiting, bream, tarwhine, mangrove jack, tailor and trevally; some operators release all flathead over 60 cm as breeders.",
+   "Most shared offshore trips run 5 hours (morning and late-morning departures), with 7- and 9-hour options."
+  ],
+  "sources": [
+   "https://topgearfishingcharters.com.au/reef-fishing-charters/",
+   "https://topgearfishingcharters.com.au/game-fishing-deep-sea-charters/",
+   "https://www.fishthedeep.com/tour/full-day/",
+   "https://fishinggoldcoast.com.au/",
+   "https://bksfishing.com.au/gold-coast-calm-water-charters/",
+   "https://bksfishing.com.au/gold-coast-fishing-tours-faqs/",
+   "https://truebluefishing.com.au/half-day-morning-trip/"
+  ],
+  "operators": ["hooker-1-fishing-charters-gold-coast", "reef-and-river-charters-gold-coast", "true-blue-fishing-charters", "top-gear-fishing-charters", "fish-the-deep-charters", "bks-gold-coast-fishing-charters"]
+ },
+ {
+  "key": "brisbane",
+  "name": "Brisbane & Moreton Bay",
+  "departure_points": [
+   "Manly Boat Harbour (William Gunn Jetty, Wyvernleigh Close / Manly South boat ramp)",
+   "Spinnaker Sound Marina, Sandstone Point (Bribie Island end of the bay)",
+   "Cleveland and Port of Brisbane boat ramps (small lure-fishing charters)",
+   "Pick-ups at Amity Point, North Stradbroke Island, by arrangement"
+  ],
+  "species_seasons": [
+   {"species": "Snapper, pearl perch, amberjack, kingfish, teraglin", "when": "Main offshore targets in the cooler months", "source": "https://www.frenzycharters.com.au/about"},
+   {"species": "Marlin, mahi mahi, tuna, wahoo, mackerel, sailfish", "when": "Summer, when charters often switch to trolling and the FADs", "source": "https://www.frenzycharters.com.au/about"},
+   {"species": "Snapper and pearl perch", "when": "Seasonal take closure 15 July-15 August (noted by local charters)", "source": "https://www.frenzycharters.com.au/fishing_report"},
+   {"species": "Snapper and sweetlip (inshore reefs, Redcliffe)", "when": "Cooler months on the shallow reefs; flathead, whiting and mud crabs in the estuaries in summer", "source": "https://www.fishingaustralia.com.au/redcliffe-peninsula-qld/"}
+  ],
+  "notes": [
+   "Offshore boats cross Moreton Bay and exit via the South Passage bar; travel to the grounds is roughly 1 h 15 min to 2.5 h.",
+   "Named offshore grounds include the Point Lookout reefs and the 'Cathedrals', the 29s and 33s, Deep and Shallow Tempest, Square Patch, Hutchinsons Shoals, Flinders Reef, Brennans and Roberts Shoals and Caloundra Wide.",
+   "In summer a strong East Australian Current plus northerly winds can make bottom fishing difficult, so trips may troll for pelagics instead.",
+   "Inside the bay, Scarborough Reef and the Turner Artificial Reef (about 1 nm east of Scarborough in 6 m) hold snapper, sweetlip and school mackerel; Scarborough Reef is a yellow (conservation park) zone and Scotts Point is a green zone.",
+   "The Pumicestone Passage behind Bribie Island suits families: flathead, bream, whiting, tailor, mangrove jack and trevally in calm water."
+  ],
+  "sources": [
+   "https://www.frenzycharters.com.au/about",
+   "https://www.frenzycharters.com.au/fishing_report",
+   "https://moretonislandfishingcharters.com.au/the-charters/",
+   "https://www.fishmoreton.com.au/offshore-fishing",
+   "https://www.fishmoreton.com.au/copy-of-bay-fishing",
+   "https://www.fishingaustralia.com.au/redcliffe-peninsula-qld/"
+  ],
+  "operators": ["moreton-island-fishing-charters", "frenzy-charters-brisbane", "fish-moreton", "brisbane-fishing-tour"]
+ },
+ {
+  "key": "sunshine-coast",
+  "name": "Sunshine Coast",
+  "departure_points": [
+   "Mooloolaba Marina, Parkyn Parade, Mooloolaba",
+   "Pelican Waters Marina, Caloundra",
+   "Noosa Marina, Parkyn Court, Tewantin",
+   "Noosa Watersports jetty, 256 Gympie Terrace, Noosaville"
+  ],
+  "species_seasons": [
+   {"species": "Reef fish (snapper, pearl perch, coral trout, tuskfish, cod, moses perch, emperors)", "when": "Year-round on the inshore reefs between Coolum and Caloundra", "source": "https://deependfishing.com.au/5-hour-reef-fishing/"},
+   {"species": "Mahi mahi, Spanish and spotted mackerel", "when": "On the reef and light-game trips (seasonal)", "source": "https://deependfishing.com.au/5-hour-reef-fishing/"}
+  ],
+  "notes": [
+   "Off Noosa, half-day trips fish Sunshine Reef and North Reef (30-45 min away); longer trips reach Chardons Reef, then Double Island, the Banks and the Hards (1.5-2 h).",
+   "Off Caloundra, deeper reefs in 50-60 m lie west of the Barwon Banks; the Banks themselves are 40 km+ offshore (1-1.5 h each way), and big days can reach the Hards in 50-100 m.",
+   "Noosa catches cover a wide reef and pelagic mix: snapper, sweetlip, coral trout, red emperor, pearl perch, cobia, amberjack, kingfish, Spanish mackerel, longtail tuna, wahoo, mahi mahi and occasional sailfish.",
+   "The northern Pumicestone Passage (from Pelican Waters/Golden Beach) offers calm-water trips for bream, flathead and whiting."
+  ],
+  "sources": [
+   "https://deependfishing.com.au/5-hour-reef-fishing/",
+   "https://noosabluefishing.com.au/fishing-charters/",
+   "https://saltyfishingcharters.com.au/charters/",
+   "https://www.deepseafishingco.com.au/fishing-charters/"
+  ],
+  "operators": ["deep-end-fishing-charters", "what-a-catch-deep-sea-fishing", "saltys-fishing-charters-caloundra", "deep-sea-fishing-co-noosa", "noosa-bluewater-charters"]
+ },
+ {
+  "key": "rainbow-beach",
+  "name": "Rainbow Beach & Tin Can Bay",
+  "departure_points": [
+   "Pontoons behind the restaurant at Carlo Point, Rainbow Beach",
+   "Tin Can Bay public pontoon"
+  ],
+  "species_seasons": [
+   {"species": "Snapper, pearl perch, parrotfish, coral trout, red emperor", "when": "Main reef species on full-day trips (season not specified)", "source": "https://keelyrosefishingcharters.com.au/"}
+  ],
+  "notes": [
+   "Charters fish the reefs off Rainbow Beach, Double Island Point and the southern end of K'gari (Fraser Island).",
+   "Trips are full days only: departures between about 5 and 5:30am depending on daylight, returning mid-afternoon; operators confirm sea conditions the day before.",
+   "Charter fishing here has a long history: Keely Rose's owner started on Rainbow Beach's first charter boat, MV Mikado, in 1990, and the Baitrunner has been part of the local scene for more than 25 years."
+  ],
+  "sources": [
+   "https://keelyrosefishingcharters.com.au/",
+   "https://keelyrosefishingcharters.com.au/Details/Departure-448/",
+   "https://keelyrosefishingcharters.com.au/VesselCrew/VesselCrew-394/",
+   "https://www.rainbowbeachfishing.com/services"
+  ],
+  "operators": ["keely-rose-fishing-charters", "rainbow-beach-fishing-charters"]
+ },
+ {
+  "key": "hervey-bay",
+  "name": "Hervey Bay & K'gari",
+  "departure_points": [
+   "Urangan Boat Harbour (Great Sandy Straits Marina), Urangan",
+   "Urangan public boat ramp, Jetty Street",
+   "Pick-ups from Kingfisher Bay Resort on K'gari by arrangement"
+  ],
+  "species_seasons": [
+   {"species": "Snapper", "when": "Run builds from late autumn and peaks mid-winter, following baitfish into the bay", "source": "https://www.fishostackleworld.com.au/blogs/fishing-guide/snapper-season-in-hervey-bay-complete-angler-s-guide"},
+   {"species": "Longtail tuna, golden trevally, queenfish, juvenile black marlin", "when": "Sheltered bay and flats sportfishing (seasonal)", "source": "https://herveybaysportfishing.com.au/hervey-bay-fishing/"}
+  ],
+  "notes": [
+   "K'gari shelters the bay from south-east trade winds, so there are fishable options in most weather.",
+   "Hervey Bay is one of few places where northern and southern species overlap: snapper and whiting alongside threadfin, barramundi, queenfish and golden trevally.",
+   "Known grounds include the inshore artificial reefs (Roy Rufus, Simpson, Hardy), ledges such as Moon Ledge, the Burrum 8 Mile, Platypus Bay, the 25 Fathom Hole, the Gutters and Rooneys Point; Breaksea Spit is a long run for giant trevally and Spanish mackerel.",
+   "The Urangan marina has the bay's largest boat ramp (eight lanes); shallow channels near the harbour need care on a falling tide.",
+   "The Hervey Bay flats offer sight fishing for golden trevally and longtail tuna, with fly as well as spin options."
+  ],
+  "sources": [
+   "https://herveybaysportfishing.com.au/hervey-bay-fishing/",
+   "https://www.fishostackleworld.com.au/blogs/fishing-guide/snapper-season-in-hervey-bay-complete-angler-s-guide",
+   "https://fishandboat.com.au/guide-to-hervey-bay-luke-fitzpatrick-2016/",
+   "https://hookedupmagazine.com.au/locations/qld/fishing-hervey-bay/",
+   "https://www.saltwaterplayground.com.au/pricing"
+  ],
+  "operators": ["hervey-bay-fly-and-sportfishing", "saltwater-playground-hervey-bay", "hot-reels-pro-fish-charters"]
+ },
+ {
+  "key": "bundaberg",
+  "name": "Bundaberg",
+  "departure_points": [
+   "Burnett Heads boat ramp",
+   "Harbour Esplanade, Burnett Heads (river charters)",
+   "Burnett Heads Marina (liveaboards)"
+  ],
+  "species_seasons": [
+   {"species": "Coral trout and red emperor", "when": "Full-day trips to wider reefs (season not specified)", "source": "https://truansea.com.au/full-day-reef-fishing"},
+   {"species": "Sweetlip, snapper, Spanish mackerel", "when": "Inshore reefs on half-day trips", "source": "https://truansea.com.au/half-day-reef-fishing"}
+  ],
+  "notes": [
+   "Bundaberg has a deep-water port with no designated bar crossing and no tidal restrictions, unlike 1770 to the north.",
+   "Reef grounds run from a few miles out to around 50 nautical miles at the shelf; full-day trips often travel 2+ hours each way.",
+   "Bundaberg fishing mixes southern species (big snapper) with northern species such as Spanish mackerel.",
+   "The Burnett River offers calm-water fishing for bream, whiting, flathead, mangrove jack, cod, grunter and blue salmon."
+  ],
+  "sources": [
+   "https://truansea.com.au/about",
+   "https://truansea.com.au/full-day-reef-fishing",
+   "https://truansea.com.au/half-day-river-fishing",
+   "https://www.brcnow.bundaberg.qld.gov.au/2019/08/27/luke-truansea-charters/",
+   "https://bundabergriverfishing.com.au/charters",
+   "https://tackleworldbundy.com.au/pages/local-charter-operators"
+  ],
+  "operators": ["truansea-charters-bundaberg", "bundaberg-river-fishing-charters"]
+ },
+ {
+  "key": "agnes-water",
+  "name": "Agnes Water & 1770",
+  "departure_points": [
+   "1770 Marina, Captain Cook Drive, Town of 1770 (via Round Hill Creek)"
+  ],
+  "species_seasons": [
+   {"species": "Red emperor", "when": "Schools up on isolated pinnacles from about May to October", "source": "https://fishandboat.com.au/1770-a-beginners-guide-by-gyula-vari/"},
+   {"species": "Coral trout, red throat emperor, sweetlip, Spanish mackerel", "when": "Main reef targets (season not specified)", "source": "https://www.visitagnes1770.com.au/fishing-agnes-water-1770/"}
+  ],
+  "notes": [
+   "1770 is the closest access to the Bunker Group of the southern Great Barrier Reef; Lady Musgrave Island is the southernmost reef, with Hoskyn, Boult and Fitzroy reefs further north. Closer reefs include 15 Mile and 20 Mile reefs.",
+   "Most green (no-fishing) zones in the Bunker Group are on the western side, and the drop to deeper water is on the eastern side, so the eastern edges are the usual fishing ground.",
+   "Round Hill Creek and its bar are very shallow and shift over time, so tide timing matters for every departure.",
+   "Baffle Creek to the south is a 120 km estuary with barramundi, mangrove jack, bream, whiting, flathead and jewfish."
+  ],
+  "sources": [
+   "https://fishandboat.com.au/1770-a-beginners-guide-by-gyula-vari/",
+   "https://www.visitagnes1770.com.au/fishing-agnes-water-1770/",
+   "https://agneswaterbeachclub.com.au/experiences/offshore-fishing/"
+  ],
+  "operators": []
+ },
+ {
+  "key": "gladstone",
+  "name": "Gladstone",
+  "departure_points": [
+   "Gladstone Marina, Bryan Jordan Drive (The Pier)"
+  ],
+  "species_seasons": [
+   {"species": "Coral trout, red emperor, sweetlip, Spanish mackerel", "when": "Swain Reefs and Capricorn Bunker Group liveaboard trips (year-round schedule)", "source": "https://easternvoyager.com.au/"},
+   {"species": "Dogtooth tuna, yellowfin tuna, wahoo, giant trevally, green jobfish", "when": "Coral Sea trips", "source": "https://easternvoyager.com.au/"}
+  ],
+  "notes": [
+   "Gladstone is the main port for extended liveaboard fishing: Capricorn Bunker Group about 50 nm (7-10 h), Swain Reefs about 120 nm (overnight, usually Friday-to-Friday), Coral Sea up to 260 nm.",
+   "Other destinations from Gladstone include Saumarez Reef, Douglas Shoals and Shoalwater Bay (noted for mud crabs).",
+   "Liveaboards carry tenders/dories so groups can spread out over the reef; most require guests to bring their own fishing gear.",
+   "No current single-day fishing charter with its own website was found in Gladstone (Gladstone Fishing Charters & Eco Tours appears only on a visitor-centre listing)."
+  ],
+  "sources": [
+   "https://easternvoyager.com.au/",
+   "https://easternvoyager.com.au/about-us/",
+   "https://mikatcharters.com.au/about-us/",
+   "https://www.qica.com.au/tours/gladstone/gladstone-fishing-charters-and-eco-tours"
+  ],
+  "operators": ["eastern-voyager-gladstone", "mv-mikat-charters-gladstone"]
+ },
+ {
+  "key": "yeppoon",
+  "name": "Yeppoon & Capricorn Coast",
+  "departure_points": [
+   "Rosslyn Bay Marina / Rosslyn Bay Boat Harbour, Yeppoon"
+  ],
+  "species_seasons": [
+   {"species": "Red emperor, goldband snapper, large-mouth nannygai, coral trout", "when": "Deeper reefs and wrecks of Keppel Bay (season not specified)", "source": "https://www.doublethreatchartersyeppoon.com.au/fishing"},
+   {"species": "Red emperor, coral trout, cod, sweetlip, parrotfish; mackerel, tuna and wahoo on troll", "when": "7-day Swain Reefs liveaboard trips", "source": "https://www.kanimblacharters.net.au/charter-options/"}
+  ],
+  "notes": [
+   "Day trips fish Keppel Bay's deeper reefs, wrecks and offshore shoals; extended 18-36 hour trips can reach Heron Reef, the Swains or Island Head.",
+   "Liveaboards leave Rosslyn Bay on Friday evenings for week-long Swain Reefs trips.",
+   "The Capricorn Coast has had no commercial netting in recent years; inner reefs and islands (the Keppels, Finlays, The Barge, Pinnacle) and outer reefs (Karamea, Goodwin, Douglas Shoals) are popular with private boats.",
+   "Estuaries such as Corio Bay hold barramundi and fingermark, and Corio Bay and the Byfield coast are zoned within the marine park."
+  ],
+  "sources": [
+   "https://www.doublethreatchartersyeppoon.com.au/fishing",
+   "https://www.kanimblacharters.net.au/charter-options/",
+   "https://yeppooncapricorncoast.com.au/fishing/"
+  ],
+  "operators": ["double-threat-charters-yeppoon", "kanimbla-charters-yeppoon"]
+ }
+]

@@ -1,0 +1,605 @@
+[
+ {
+  "key": "newcastle",
+  "name": "Newcastle & Lake Macquarie",
+  "departure_points": [
+   {
+    "name": "Tomago Boat Ramp, Hunter River",
+    "detail": "527 Tomago Rd, Tomago. Capn's Charters meets clients here, though the launch ramp can vary with target species and tide.",
+    "source": "https://www.capnschartersnewcastle.com.au/about-us/"
+   },
+   {
+    "name": "Kilaben Bay, Lake Macquarie",
+    "detail": "Base of Day Trippin Fishing Charters, which fishes the lake with small groups.",
+    "source": "https://www.poyst.com/business/capns-charters-newcastle"
+   },
+   {
+    "name": "Swansea",
+    "detail": "Swansea, at the lake's ocean entrance, is the base for offshore reef charters (B & L Fishing Charters says it works seven days a week from Swansea).",
+    "source": "https://www.fishingcharter.net.au/pricing_boats"
+   },
+   {
+    "name": "Lake Macquarie public ramps",
+    "detail": "The lake has 29 public boat ramps, 28 public jetties and wharves and 7 marinas around its 174 km foreshore.",
+    "source": "https://day-trippin-charters.squarespace.com/the-fish"
+   }
+  ],
+  "grounds": [
+   {
+    "name": "Hunter River (Coquun) and Newcastle Harbour",
+    "detail": "Estuary charters fish from Newcastle Harbour upriver towards Raymond Terrace, mainly for flathead and mulloway. The river has shipwrecks, oyster beds, rock walls and the Paterson and Williams rivers feeding in.",
+    "source": "https://www.capnschartersnewcastle.com.au/about-us/"
+   },
+   {
+    "name": "Lake Macquarie",
+    "detail": "About 120 sq km, 24 km long and up to about 11 m deep, joined to the sea by the narrow Swansea Channel. Flathead, bream, whiting, mulloway, kingfish, tailor and squid are among the targets.",
+    "source": "https://day-trippin-charters.squarespace.com/the-fish"
+   },
+   {
+    "name": "Swansea Channel, Swansea Bridge and 'the Drop Over'",
+    "detail": "DPI names Swansea Bridge and the nearby 'Drop Over' (where the channel meets the lake) for yellowtail kingfish on surface lures or live bait, and the channel for schools of Australian salmon in the cooler months.",
+    "source": "https://www.dpi.nsw.gov.au/fishing/recreational/resources/info/fishing-locations/go-fishing-lake-macquarie"
+   },
+   {
+    "name": "Offshore reefs off Swansea",
+    "detail": "Outside-reef trips (4-7 hrs) and a 10-hour deep-reef trip that starts in about 85 m and finishes in about 140 m of water.",
+    "source": "https://www.fishingcharter.net.au/pricing_boats"
+   },
+   {
+    "name": "Newcastle Offshore Artificial Reef",
+    "detail": "A purpose-built DPI artificial reef in about 28.5 m of water, expected to hold kingfish, snapper, silver trevally and mulloway; drift its edges to avoid snagging.",
+    "source": "https://www.dpi.nsw.gov.au/fishing/recreational/resources/artificial-reef/newcastle-offshore-artificial-reef"
+   }
+  ],
+  "species_seasons": [
+   {
+    "species": "Flathead",
+    "when": "",
+    "detail": "Dusky flathead are the signature estuary target in both the Hunter River and Lake Macquarie; local guides chase 70-80 cm fish on lures.",
+    "source": "https://www.capnschartersnewcastle.com.au/about-us/"
+   },
+   {
+    "species": "Jewfish",
+    "when": "",
+    "detail": "Mulloway are targeted in the Hunter River and lake; B & L also notes a good strike rate on afternoon/night reef trips for teraglin and jewfish.",
+    "source": "https://www.fishingcharter.net.au/pricing_boats"
+   },
+   {
+    "species": "Kingfish",
+    "when": "",
+    "detail": "Around Swansea Bridge and the Drop Over, on surface lures or live bait.",
+    "source": "https://www.dpi.nsw.gov.au/fishing/recreational/resources/info/fishing-locations/go-fishing-lake-macquarie"
+   },
+   {
+    "species": "Australian Salmon",
+    "when": "Cooler months",
+    "detail": "Large schools often settle in Swansea Channel; good sport on lures or fly.",
+    "source": "https://www.dpi.nsw.gov.au/fishing/recreational/resources/info/fishing-locations/go-fishing-lake-macquarie"
+   },
+   {
+    "species": "Bream",
+    "when": "",
+    "detail": "Along with whiting, tailor, luderick and squid, part of the lake's mixed estuary fishery.",
+    "source": "https://www.dpi.nsw.gov.au/fishing/recreational/resources/info/fishing-locations/go-fishing-lake-macquarie"
+   }
+  ],
+  "rules": [
+   {
+    "rule": "A NSW recreational fishing licence (fee) is needed unless exempt; anglers on a charter boat that holds a fee-exemption certificate are covered, so ask the operator.",
+    "source": "https://www.dpi.nsw.gov.au/fishing/recreational/resources/info/fishing-locations/go-fishing-lake-macquarie"
+   },
+   {
+    "rule": "Lake Macquarie has not been commercially fished or netted since a ban in 2002. NSW bag and size limits apply.",
+    "source": "https://day-trippin-charters.squarespace.com/the-fish"
+   },
+   {
+    "rule": "Capn's Charters runs catch-and-release lure-only trips (no bait).",
+    "source": "https://www.capnschartersnewcastle.com.au/half-day-charters/"
+   }
+  ],
+  "getting_there": [
+   {
+    "detail": "Newcastle is at least two hours' drive north of central Sydney on the M1 Pacific Motorway; peak-hour traffic adds significantly. The eastern route via Swansea is more scenic and less congested.",
+    "source": "https://en.wikivoyage.org/wiki/Newcastle_(New_South_Wales)"
+   },
+   {
+    "detail": "Newcastle Airport is at Williamtown, north of the city, with flights from major Australian cities.",
+    "source": "https://en.wikivoyage.org/wiki/Newcastle_(New_South_Wales)"
+   },
+   {
+    "detail": "From Sydney Airport, train to Central then on to Newcastle takes around 2.5 hours in total.",
+    "source": "https://en.wikivoyage.org/wiki/Newcastle_(New_South_Wales)"
+   }
+  ],
+  "notes": [
+   {
+    "detail": "Lake Macquarie is described by NSW DPI as the largest coastal saltwater lake in Australia.",
+    "source": "https://www.dpi.nsw.gov.au/fishing/recreational/resources/info/fishing-locations/go-fishing-lake-macquarie"
+   },
+   {
+    "detail": "The area mixes a big working port (Newcastle Harbour and the Hunter), a huge sheltered lake and offshore reefs, so trip styles range from kids' lure sessions on calm water to deep-reef runs off Swansea.",
+    "source": "https://day-trippin-charters.squarespace.com/the-fish"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Do I need a fishing licence on a charter?",
+    "a": "Not if the charter boat holds a recreational fishing fee exemption; otherwise you need a NSW recreational fishing licence. Ask the operator when booking.",
+    "source": "https://www.dpi.nsw.gov.au/fishing/recreational/resources/info/fishing-locations/go-fishing-lake-macquarie"
+   },
+   {
+    "q": "Is there a calm-water option for kids or people who get seasick?",
+    "a": "Yes. Capn's Charters fishes protected water on the Hunter River and Lake Macquarie and runs a 3-hour kids' charter; Day Trippin also fishes the lake.",
+    "source": "https://www.capnschartersnewcastle.com.au/kids-fishing-charter/"
+   },
+   {
+    "q": "What can I catch in Lake Macquarie?",
+    "a": "Flathead, whiting, bream, mulloway, kingfish, Australian salmon, tailor, luderick, snapper, squid and crabs are all listed by local charter operator Day Trippin.",
+    "source": "https://day-trippin-charters.squarespace.com/the-fish"
+   },
+   {
+    "q": "Where are kingfish caught near Swansea?",
+    "a": "Around Swansea Bridge and the 'Drop Over' where the channel enters the lake, on surface lures or live bait.",
+    "source": "https://www.dpi.nsw.gov.au/fishing/recreational/resources/info/fishing-locations/go-fishing-lake-macquarie"
+   }
+  ],
+  "operators": [
+   "day-trippin-charters",
+   "capns-charters-newcastle"
+  ]
+ },
+ {
+  "key": "coffs-harbour",
+  "name": "Coffs Harbour",
+  "departure_points": [
+   {
+    "name": "Coffs Harbour International Marina",
+    "detail": "In the Jetty precinct; one of only six NSW marinas with international customs clearance.",
+    "source": "https://www.coffscoast.com.au/plan-your-trip/holiday-tips/travelling-and-getting-around/"
+   },
+   {
+    "name": "Coffs Harbour Boat Ramp, Jordan Esplanade",
+    "detail": "Four-lane concrete ramp on the southern side of the harbour with parking, toilets, fish-cleaning tables and rinse bays; the recommended ramp for offshore trips. A NSW Government webcam covers it.",
+    "source": "https://www.coffscoast.com.au/article/fishing-on-the-coffs-coast/"
+   },
+   {
+    "name": "Red Rock Boat Ramp",
+    "detail": "Single-lane ramp at Red Rock Reserve, about 30 minutes north, giving access to the Corindi River.",
+    "source": "https://www.coffscoast.com.au/article/fishing-on-the-coffs-coast/"
+   },
+   {
+    "name": "Bonville Creek and Coffs Creek ramps",
+    "detail": "Small ramps for kayaks, canoes and tinnies on calm estuaries.",
+    "source": "https://www.coffscoast.com.au/article/fishing-on-the-coffs-coast/"
+   }
+  ],
+  "grounds": [
+   {
+    "name": "Solitary Islands (South Solitary)",
+    "detail": "South Solitary Island is roughly 18 km north-east of Coffs Harbour.",
+    "source": "https://issuu.com/clarencescene/docs/coffs_fishing_guide_digital_edition/32"
+   },
+   {
+    "name": "South Solitary sportfishing grounds",
+    "detail": "Small-group sportfishing trips target kingfish, cobia, mackerel, wahoo, jewfish, snapper and pearl perch with live bait, trolling and jigging.",
+    "source": "https://coffsharbourfishing.rezdy.com/545447/south-solitary-sportfishing-experience"
+   },
+   {
+    "name": "Inshore reefs and islands",
+    "detail": "Snapper, pearl perch and flathead on the reefs; kingfish and mackerel around the islands.",
+    "source": "https://coffsharbourfishing.com.au/"
+   },
+   {
+    "name": "Continental shelf, FADs and canyons",
+    "detail": "Game trips troll, live-bait and pop around FADs, buoys, canyons, reefs and islands for marlin, mahi mahi, wahoo, tuna and kingfish.",
+    "source": "https://coffsharbourfishing.rezdy.com/545638/sport-and-game-fishing-mixed-charter"
+   },
+   {
+    "name": "Estuaries: Boambee, Bonville and Coffs creeks",
+    "detail": "Whiting, jewfish, flathead and bream on light gear, with the odd mangrove jack among snags.",
+    "source": "https://www.coffscoast.com.au/article/fishing-on-the-coffs-coast/"
+   }
+  ],
+  "species_seasons": [
+   {
+    "species": "Snapper",
+    "when": "Best May to July",
+    "detail": "Reef staple; a local fishing guide rates May-July best for snapper and kingfish.",
+    "source": "https://issuu.com/clarencescene/docs/coffs_fishing_guide_digital_edition/32"
+   },
+   {
+    "species": "Kingfish",
+    "when": "Best May to July",
+    "detail": "Around the Solitary Islands and inshore reefs.",
+    "source": "https://issuu.com/clarencescene/docs/coffs_fishing_guide_digital_edition/32"
+   },
+   {
+    "species": "Mackerel",
+    "when": "Best February to March",
+    "detail": "A local fishing guide rates February-March as the best months for mackerel.",
+    "source": "https://issuu.com/clarencescene/docs/coffs_fishing_guide_digital_edition/32"
+   },
+   {
+    "species": "Marlin",
+    "when": "Summer",
+    "detail": "Summer is the season for offshore pelagics such as marlin, mahi mahi and tuna.",
+    "source": "https://www.coffscoast.com.au/article/fishing-on-the-coffs-coast/"
+   },
+   {
+    "species": "Pearl Perch",
+    "when": "Year-round",
+    "detail": "Coffs fishing is year-round; reef fish such as snapper, pearl perch and tuskfish are targeted offshore.",
+    "source": "https://www.coffscoast.com.au/article/fishing-on-the-coffs-coast/"
+   }
+  ],
+  "rules": [
+   {
+    "rule": "Coffs Harbour sits within the Solitary Islands Marine Park (about 71,000 ha, 100 km of coast from Coffs Harbour to the Sandon River), which has many special rules and zones. Check zoning before fishing; DPI's FishSmart app includes the marine park maps.",
+    "source": "https://www.coffscoast.com.au/article/fishing-on-the-coffs-coast/"
+   },
+   {
+    "rule": "No fishing of any kind is allowed in marine park sanctuary zones. When passing through, lines must not be baited and no gear may touch the water; if stopping, gear must be unrigged.",
+    "source": "https://www.dpi.nsw.gov.au/fishing/marine-protected-areas/marine-parks/solitary-islands-marine-park/recreational-fishing"
+   },
+   {
+    "rule": "Pimpernel Rock, in the Commonwealth part of the Solitary Islands, is a national park zone where no fishing or extraction is allowed.",
+    "source": "https://parksaustralia.gov.au/marine/files/temperate-east/solitary-islands-pimpernel-rock-2020.pdf"
+   },
+   {
+    "rule": "A NSW recreational fishing licence is needed for most shore and private-boat fishing; Coffs Harbour Fishing Charters says no licence is needed aboard its boats.",
+    "source": "https://coffsharbourfishing.com.au/charters/"
+   }
+  ],
+  "getting_there": [
+   {
+    "detail": "Under six hours (550 km) north of Sydney on the Pacific Highway; about four hours (427 km) south of Brisbane and three hours (311 km) from the Gold Coast.",
+    "source": "https://www.coffscoast.com.au/plan-your-trip/holiday-tips/travelling-and-getting-around/"
+   },
+   {
+    "detail": "Coffs Harbour Airport is 4 km (about 5 minutes) from the CBD, with direct flights from Sydney, Brisbane (about an hour) and Melbourne.",
+    "source": "https://www.coffscoast.com.au/plan-your-trip/holiday-tips/travelling-and-getting-around/"
+   },
+   {
+    "detail": "Woolgoolga is 26 km (about 22 minutes) north of the Coffs CBD; Sawtell is 12 km south.",
+    "source": "https://www.coffscoast.com.au/plan-your-trip/holiday-tips/travelling-and-getting-around/"
+   }
+  ],
+  "notes": [
+   {
+    "detail": "The Solitary Islands Marine Park, the oldest marine park in NSW, is where tropical and temperate currents meet, so reef fish like snapper and pearl perch share water with tropical pelagics.",
+    "source": "https://www.coffscoast.com.au/article/fishing-on-the-coffs-coast/"
+   },
+   {
+    "detail": "The ancient fish traps at Arrawarra, built by Garby Elders, are a reminder of the area's long fishing history.",
+    "source": "https://www.coffscoast.com.au/article/fishing-on-the-coffs-coast/"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Can I fish anywhere in the Solitary Islands?",
+    "a": "No. Sanctuary zones are closed to all fishing, and other zones have their own rules. Check the zoning map or the FishSmart app before you go; charter skippers know the zones.",
+    "source": "https://www.dpi.nsw.gov.au/fishing/marine-protected-areas/marine-parks/solitary-islands-marine-park/recreational-fishing"
+   },
+   {
+    "q": "When is the best time to fish Coffs?",
+    "a": "Fishing is year-round. Summer suits offshore pelagics; a local guide rates May-July for snapper and kingfish and February-March for mackerel.",
+    "source": "https://issuu.com/clarencescene/docs/coffs_fishing_guide_digital_edition/32"
+   },
+   {
+    "q": "How far out are the fishing grounds?",
+    "a": "South Solitary Island is about 18 km north-east of the harbour; game boats run out to the continental shelf.",
+    "source": "https://issuu.com/clarencescene/docs/coffs_fishing_guide_digital_edition/32"
+   },
+   {
+    "q": "Do I need my own gear or licence on a charter?",
+    "a": "Coffs Harbour Fishing Charters supplies gear and says no NSW licence is needed aboard; bring food, drinks and sunscreen.",
+    "source": "https://coffsharbourfishing.com.au/charters/"
+   }
+  ],
+  "operators": [
+   "coffs-harbour-fishing-charters"
+  ]
+ },
+ {
+  "key": "tweed",
+  "name": "Tweed Coast",
+  "departure_points": [
+   {
+    "name": "Tweed Marina, River Terrace, Tweed Heads",
+    "detail": "Charter departure on the Tweed River, a short run to the river entrance and the open sea.",
+    "source": "https://cushyfishingcharters.com.au/"
+   },
+   {
+    "name": "Jack Evans Boat Harbour",
+    "detail": "Sheltered harbour in Tweed Heads; a family-friendly land-based spot for flathead, whiting and luderick.",
+    "source": "https://www.addicttackle.com.au/pages/fishing-the-tweed-river-where-and-how-to-get-started"
+   },
+   {
+    "name": "Cudgen Creek, Kingscliff (caution)",
+    "detail": "NSW Government warns the Cudgen Creek entrance is shallow and dangerous, with a shallow reef just offshore that breaks at times; local knowledge is essential.",
+    "source": "https://www.nsw.gov.au/driving-boating-and-transport/using-waterways-boating-and-transport-information/conditions-weather-and-tides/webcams/cudgen"
+   }
+  ],
+  "grounds": [
+   {
+    "name": "Inshore reefs off the Tweed River entrance",
+    "detail": "The closest reefs lie within about 3 km of the Tweed River entrance, extending in sections east to the continental shelf.",
+    "source": "https://cushyfishingcharters.com.au/"
+   },
+   {
+    "name": "Reefs from the southern Gold Coast to Byron",
+    "detail": "Charters fish reefs across the southern Gold Coast, Tweed Coast and Byron Bay regions for snapper, pearl perch, tuskfish, teraglin and sweetlip.",
+    "source": "https://cushyfishingcharters.com.au/fishing-charters/"
+   },
+   {
+    "name": "Lower Tweed River: North Wall, Hospital Wall, Chinderah",
+    "detail": "North Wall for mulloway and mangrove jack on slack tides; the hospital wall and Chinderah bridges for bream, trevally and luderick; summer whiting on the flats between Chinderah and Condong.",
+    "source": "https://www.addicttackle.com.au/pages/fishing-the-tweed-river-where-and-how-to-get-started"
+   },
+   {
+    "name": "Upper Tweed River",
+    "detail": "Above Murwillumbah the target becomes Australian bass on small hard-bodies and surface lures.",
+    "source": "https://www.addicttackle.com.au/pages/fishing-the-tweed-river-where-and-how-to-get-started"
+   }
+  ],
+  "species_seasons": [
+   {
+    "species": "Snapper",
+    "when": "Year-round",
+    "detail": "Reef fishing runs all year with snapper, pearl perch, tuskfish, teraglin and sweetlip.",
+    "source": "https://cushyfishingcharters.com.au/fishing-charters/"
+   },
+   {
+    "species": "Marlin",
+    "when": "December to March",
+    "detail": "Summer game season for marlin, wahoo, mahi mahi, mackerel and tuna.",
+    "source": "https://cushyfishingcharters.com.au/fishing-charters/"
+   },
+   {
+    "species": "Kingfish",
+    "when": "",
+    "detail": "Live-bait trips for kingfish, cobia, mulloway, amberjack and samsonfish.",
+    "source": "https://cushyfishingcharters.com.au/fishing-charters/"
+   },
+   {
+    "species": "Whiting",
+    "when": "Summer",
+    "detail": "On the river flats and sandbanks, especially on the incoming tide.",
+    "source": "https://www.addicttackle.com.au/pages/fishing-the-tweed-river-where-and-how-to-get-started"
+   },
+   {
+    "species": "Jewfish",
+    "when": "Cooler months (river)",
+    "detail": "Winter brings better luderick and mulloway action around deeper rock walls and bridges.",
+    "source": "https://www.addicttackle.com.au/pages/fishing-the-tweed-river-where-and-how-to-get-started"
+   },
+   {
+    "species": "Mangrove Jack",
+    "when": "",
+    "detail": "Rock walls and bridge pylons in the lower river, especially in low light.",
+    "source": "https://www.addicttackle.com.au/pages/fishing-the-tweed-river-where-and-how-to-get-started"
+   }
+  ],
+  "rules": [
+   {
+    "rule": "A NSW recreational fishing licence is needed in the Tweed unless exempt. Check DPI's Tweed Recreational Fishing Guide for local closures and gear restrictions, including commercial netting restrictions in the lower river.",
+    "source": "https://www.addicttackle.com.au/pages/fishing-the-tweed-river-where-and-how-to-get-started"
+   },
+   {
+    "rule": "DPI lists specific fishing closures for the Tweed River and Cook Island area; check them before fishing.",
+    "source": "https://www.dpird.nsw.gov.au/fishing/closures/location-closures/tweed-river"
+   }
+  ],
+  "getting_there": [
+   {
+    "detail": "The Tweed Marina charter departure is about 5 km south of Gold Coast Airport (Coolangatta).",
+    "source": "https://cushyfishingcharters.com.au/"
+   }
+  ],
+  "notes": [
+   {
+    "detail": "Humpback whales are regularly encountered on winter fishing trips off the Tweed.",
+    "source": "https://cushyfishingcharters.com.au/"
+   },
+   {
+    "detail": "Private charters can combine a morning on the wider grounds with a snorkel around Cook Island.",
+    "source": "https://cushyfishingcharters.com.au/fishing-charters/"
+   }
+  ],
+  "faq": [
+   {
+    "q": "How far out are the reefs?",
+    "a": "The nearest reefs are within about 3 km of the Tweed River entrance, so travel time is short.",
+    "source": "https://cushyfishingcharters.com.au/"
+   },
+   {
+    "q": "When is game fishing season?",
+    "a": "December to March, for marlin, wahoo, mahi mahi, mackerel and tuna.",
+    "source": "https://cushyfishingcharters.com.au/fishing-charters/"
+   },
+   {
+    "q": "Is there river fishing as well as offshore?",
+    "a": "Yes. The lower Tweed holds flathead, bream, whiting, luderick, mangrove jack and mulloway, and the upper river holds Australian bass.",
+    "source": "https://www.addicttackle.com.au/pages/fishing-the-tweed-river-where-and-how-to-get-started"
+   }
+  ],
+  "operators": [
+   "cushy-fishing-charters"
+  ]
+ },
+ {
+  "key": "eden",
+  "name": "Merimbula & Eden",
+  "departure_points": [
+   {
+    "name": "Merimbula Public Jetty, Market Street",
+    "detail": "Departure point for Sapphire Coastal Adventures' 3-hour reef charter.",
+    "source": "https://www.sapphirecoastaladventures.com.au/merimbula-fishing-charter"
+   },
+   {
+    "name": "Eden Wharf / Eden Harbour (Snug Cove), Weecoon Street",
+    "detail": "Eden is the Southern Hemisphere's third-deepest harbour, with no bar to cross. Freedom Charters runs from Eden Harbour.",
+    "source": "https://www.visiteden.com.au/experience/fishing/"
+   },
+   {
+    "name": "Quarantine Bay boat ramp, Eden",
+    "detail": "Modern four-lane ramp with fish tables, washdown bay and plenty of parking.",
+    "source": "https://www.tradeaboat.com.au/news-reviews/8081-eden-nsw-fishing-and-boating"
+   },
+   {
+    "name": "Merimbula Boat Ramp, Arthur Kaine Drive",
+    "detail": "Three-lane ramp serving the lake and ocean; fish cleaning is not allowed near the ramp (use the cleaning pontoon in the lake).",
+    "source": "https://begavalley.nsw.gov.au/community/merimbula-boat-ramp"
+   },
+   {
+    "name": "Pambula Lake boat ramp",
+    "detail": "Two-lane ramp with pontoon; boats can cross the bar to Merimbula Bay and beyond, conditions permitting.",
+    "source": "https://www.visitnsw.com/destinations/south-coast/merimbula-and-sapphire-coast/pambula/attractions/pambula-lake"
+   }
+  ],
+  "grounds": [
+   {
+    "name": "Twofold Bay and inshore reefs",
+    "detail": "Snapper, morwong, leatherjackets and flathead on the inshore reefs all year, with wider reef trips in February to April.",
+    "source": "https://freedomcharters.com.au/reef-fishing.html"
+   },
+   {
+    "name": "'Kingie country' south of Eden (Mowarry Point, Green Cape)",
+    "detail": "Kingfish around Mowarry, about 10 minutes south of Eden, and a little further south at Green Cape.",
+    "source": "https://www.tradeaboat.com.au/news-reviews/8081-eden-nsw-fishing-and-boating"
+   },
+   {
+    "name": "The Shelf off Twofold Bay",
+    "detail": "Most game catches come around the continental shelf, about 19 nm from Twofold Bay, in 50-70 fathoms.",
+    "source": "https://www.tradeaboat.com.au/news-reviews/8081-eden-nsw-fishing-and-boating"
+   },
+   {
+    "name": "Merimbula reefs",
+    "detail": "Local reefs off Merimbula hold snapper, kingfish, morwong, tiger and sand flathead, trevally, nannygai and leatherjacket.",
+    "source": "https://www.sapphirecoastaladventures.com.au/merimbula-fishing-charter"
+   },
+   {
+    "name": "Merimbula and Pambula lakes",
+    "detail": "Dusky flathead are the main lake target, with bream, luderick, trevally and whiting.",
+    "source": "https://sapphire-coast.com.au/?p=1054"
+   }
+  ],
+  "species_seasons": [
+   {
+    "species": "Snapper",
+    "when": "Year-round",
+    "detail": "Caught on almost every reef trip out of Eden.",
+    "source": "https://freedomcharters.com.au/reef-fishing.html"
+   },
+   {
+    "species": "Kingfish",
+    "when": "About November to June",
+    "detail": "Most fish 60-80 cm and 5-8 kg, up to 15 kg.",
+    "source": "https://freedomcharters.com.au/sports-fishing.html"
+   },
+   {
+    "species": "Marlin",
+    "when": "November to end of July",
+    "detail": "Visit Eden's main game season, with marlin, yellowfin, albacore and striped tuna, shark and broadbill.",
+    "source": "https://www.visiteden.com.au/experience/fishing/"
+   },
+   {
+    "species": "Marlin",
+    "when": "Best January to late March",
+    "detail": "Trade-A-Boat reports January to late March fishes best for marlin off Eden.",
+    "source": "https://www.tradeaboat.com.au/news-reviews/8081-eden-nsw-fishing-and-boating"
+   },
+   {
+    "species": "Yellowfin Tuna",
+    "when": "Mid-season, sometimes into July",
+    "detail": "Yellowfin, albacore and striped tuna in the game season.",
+    "source": "https://www.tradeaboat.com.au/news-reviews/8081-eden-nsw-fishing-and-boating"
+   },
+   {
+    "species": "Flathead",
+    "when": "Year-round",
+    "detail": "On the reefs, beaches and in the lakes and inlets.",
+    "source": "https://www.visiteden.com.au/experience/fishing/"
+   },
+   {
+    "species": "Australian Salmon",
+    "when": "",
+    "detail": "Beach fishing at Long Beach (Beowa National Park) and other beaches for salmon and tailor.",
+    "source": "https://www.visiteden.com.au/experience/fishing/"
+   }
+  ],
+  "rules": [
+   {
+    "rule": "No fishing licence is needed aboard Sapphire Coastal Adventures' and Freedom Charters' trips (licence included); otherwise a NSW recreational fishing licence is required.",
+    "source": "https://www.sapphirecoastaladventures.com.au/merimbula-fishing-charter"
+   },
+   {
+    "rule": "Boats must stay at least 100 m from adult whales; whales often pass close during the May-November migrations.",
+    "source": "https://www.sapphirecoastaladventures.com.au/faqs"
+   },
+   {
+    "rule": "There is an active Navy wharf in Twofold Bay; exclusion zones (flags indicating 600 m and no-wake) apply when Navy ships are in.",
+    "source": "https://www.tradeaboat.com.au/news-reviews/8081-eden-nsw-fishing-and-boating"
+   },
+   {
+    "rule": "Fish cleaning is not permitted near the Merimbula boat ramp; use the cleaning pontoon in the lake.",
+    "source": "https://begavalley.nsw.gov.au/community/merimbula-boat-ramp"
+   }
+  ],
+  "getting_there": [
+   {
+    "detail": "Merimbula is 454 km south of Sydney on the Princes Highway and 243 km from Canberra.",
+    "source": "https://www.escapetomerimbula.com.au/getting-here"
+   },
+   {
+    "detail": "Merimbula Regional Airport has daily connections with Sydney and Melbourne (Rex and Qantas).",
+    "source": "https://www.escapetomerimbula.com.au/getting-here"
+   },
+   {
+    "detail": "Eden is about 30 minutes' drive south of Merimbula, roughly three hours from Canberra and about six hours from Sydney or Melbourne.",
+    "source": "https://www.tradeaboat.com.au/news-reviews/8081-eden-nsw-fishing-and-boating"
+   }
+  ],
+  "notes": [
+   {
+    "detail": "Eden's harbour has no bar to cross, so trips can head out in conditions that would close bar ports.",
+    "source": "https://www.visiteden.com.au/experience/fishing/"
+   },
+   {
+    "detail": "Eden is also a whale-watching hub: the southern humpback migration passes close to shore, and Freedom Charters and Sapphire Coastal Adventures both run whale trips in season.",
+    "source": "https://www.sapphirecoastaladventures.com.au/"
+   },
+   {
+    "detail": "The Eden Amateur Fishing Club runs a large annual week-long competition, usually in March.",
+    "source": "https://www.tradeaboat.com.au/news-reviews/8081-eden-nsw-fishing-and-boating"
+   }
+  ],
+  "faq": [
+   {
+    "q": "When is the game fishing season at Eden?",
+    "a": "The main game season runs from November to the end of July.",
+    "source": "https://www.visiteden.com.au/experience/fishing/"
+   },
+   {
+    "q": "Is there a short trip for families?",
+    "a": "Yes. Sapphire Coastal Adventures runs a 3-hour reef trip from the Merimbula jetty ($100 per angler, observers $50).",
+    "source": "https://www.sapphirecoastaladventures.com.au/merimbula-fishing-charter"
+   },
+   {
+    "q": "When are the kingfish around?",
+    "a": "From about November until June, in 'kingie country' south of Eden.",
+    "source": "https://freedomcharters.com.au/sports-fishing.html"
+   },
+   {
+    "q": "Do I need a fishing licence on a charter?",
+    "a": "Not on charters that include it (Freedom Charters and Sapphire Coastal Adventures both do).",
+    "source": "https://freedomcharters.com.au/reef-fishing.html"
+   }
+  ],
+  "operators": [
+   "fishpen-charters-merimbula",
+   "sapphire-coastal-adventures-merimbula",
+   "freedom-charters-eden"
+  ]
+ }
+]

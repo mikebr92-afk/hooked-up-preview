@@ -1,0 +1,502 @@
+[
+  {
+    "key": "mackay",
+    "name": "Mackay",
+    "departure_points": [
+      "Mackay Marina (Mackay Harbour)",
+      "Hay Point boat ramp (south of Mackay)",
+      "Seaforth, Victor Creek and Murray Creek (Mt Pelion) all-tide ramps for the Mackay Net Free Zone",
+      "Kinchant, Teemburra and Eungella dams (freshwater)"
+    ],
+    "species_seasons": [
+      {
+        "species": "Barramundi (impoundments)",
+        "when": "Year-round; during the 1 Nov–31 Jan saltwater closure anglers fish Teemburra, Kinchant and Eungella dams, focusing on afternoon, dusk and night bites",
+        "source": "https://www.hookedonmackay.com/seasonal-calendar"
+      },
+      {
+        "species": "Barramundi, mangrove jack, salmon (creeks)",
+        "when": "February to about May while water stays above ~24°C",
+        "source": "https://www.hookedonmackay.com/seasonal-calendar"
+      },
+      {
+        "species": "Reef species and Spanish mackerel",
+        "when": "From June as weather stabilises; August–September good for offshore jigging for fingermark, coral trout and nannygai",
+        "source": "https://www.hookedonmackay.com/seasonal-calendar"
+      },
+      {
+        "species": "Whiting, bream and flathead",
+        "when": "Winter influx",
+        "source": "https://www.hookedonmackay.com/seasonal-calendar"
+      },
+      {
+        "species": "Small mackerel",
+        "when": "Around October, when they come inshore after bait schools",
+        "source": "https://www.hookedonmackay.com/seasonal-calendar"
+      }
+    ],
+    "notes": [
+      "The Mackay Net Free Zone runs from Cape Hillsborough to the northern end of St Helens Bay and takes in fifteen creek systems.",
+      "Offshore, the Sir James Smith Group (from Seaforth), Cumberland Islands (off Mackay) and Beverley Group (off Sarina) sit in about 30–40 m of water.",
+      "Scawfell Island is a common base for reef trips; large-mouth nannygai and red emperor start to appear in numbers as depths drop to about 50 m, and the 'Shipping Channel' area between Scawfell and Stevens/Credlin reefs is well known for red fish.",
+      "Square Reef, Stevens Reef and Chauvel Reef are popular Great Barrier Reef anchorages.",
+      "The Pioneer River runs through town; deep water near the Forgan Bridge and 'The Vee' at Bassett Basin produce barramundi."
+    ],
+    "sources": [
+      "https://www.hookedonmackay.com/offshore",
+      "https://www.hookedonmackay.com/inshore",
+      "https://www.hookedonmackay.com/seasonal-calendar",
+      "https://www.hookedonmackay.com/book-a-charter",
+      "https://www.mackaysportfishing.com.au/mackay-fishery"
+    ],
+    "operators": [
+      "cast-and-catch-fishing-charters",
+      "mackay-fly-sportfishing"
+    ]
+  },
+  {
+    "key": "whitsundays",
+    "name": "Whitsundays",
+    "departure_points": [
+      "Coral Sea Marina (Shingley Dr), Airlie Beach",
+      "Hamilton Island Marina",
+      "Cape Gloucester Resort (Hydeaway Bay)",
+      "Shute Harbour (no dedicated fishing operator confirmed)"
+    ],
+    "species_seasons": [
+      {
+        "species": "Sailfish",
+        "when": "Year-round, peak August to December",
+        "source": "https://www.topnotchgamefishing.com.au/whitsundays-sailfish-fishing-charters/"
+      },
+      {
+        "species": "Coral reef fin fish (coral trout etc.) and Spanish mackerel",
+        "when": "Regulated closures apply in October and November",
+        "source": "https://www.topnotchgamefishing.com.au/faq/"
+      },
+      {
+        "species": "Coral trout, red emperor, nannygai, sweetlip",
+        "when": "Year-round reef targets",
+        "source": "https://www.razorfishcharters.com.au/private-charters/"
+      }
+    ],
+    "notes": [
+      "Most fishing grounds around the Whitsunday Islands are 40–70 m deep.",
+      "The outer reef is about 40 nautical miles from Airlie Beach.",
+      "Some operators hold Yellow Zone (Great Barrier Reef Marine Park) access for areas others cannot fish.",
+      "Several Hamilton Island restaurants will cook guests' catch."
+    ],
+    "sources": [
+      "https://www.topnotchgamefishing.com.au/faq/",
+      "https://www.topnotchgamefishing.com.au/whitsundays-sailfish-fishing-charters/",
+      "https://airliebeachfishingcharters.com.au/",
+      "https://www.whitsundayfishingcharters.com.au/half-day-fishing",
+      "https://www.razorfishcharters.com.au/private-charters/"
+    ],
+    "operators": [
+      "whitsunday-fishing-charters",
+      "airlie-beach-fishing-charters",
+      "topnotch-game-fishing-hamilton-island",
+      "razorfish-whitsundays-fishing-charters"
+    ]
+  },
+  {
+    "key": "bowen",
+    "name": "Bowen",
+    "departure_points": [
+      "Bowen Boat Harbour ramp",
+      "Don River boat ramp (for northern creeks)",
+      "Beach ramps for Adelaide and Duck creeks (top of the tide only)"
+    ],
+    "species_seasons": [
+      {
+        "species": "Mangrove jack, bream, whiting, barramundi (creeks)",
+        "when": "Year-round; barramundi closed season Nov–Feb (east coast closure 1 Nov–31 Jan)",
+        "source": "https://www.qld2032.com/tourism/operator/bowen-creek-fishing-e16d47/"
+      }
+    ],
+    "notes": [
+      "Bowen's creek systems hold healthy numbers of mangrove jack, bream, whiting and barramundi.",
+      "South of town, Adelaide and Duck creeks can be reached by sea only around the top of the tide via beach ramps; to the north, Bob Moses, Boat and Meatwork creeks are reached from the Don River ramp around high tide.",
+      "Many creeks become landlocked by tidal flats at low tide.",
+      "No Bowen-based fishing charter with its own website was found; Razorfish (Cape Gloucester) offers Bowen departures by arrangement and Bowen's tourism site points visitors to Whitsunday Fishing Charters at Airlie Beach."
+    ],
+    "sources": [
+      "https://www.qld2032.com/tourism/operator/bowen-creek-fishing-e16d47/",
+      "https://www.razorfishcharters.com.au/private-charters/",
+      "https://www.tourismbowen.com.au/whitsunday-fishing-charters"
+    ],
+    "operators": [
+      "razorfish-whitsundays-fishing-charters"
+    ]
+  },
+  {
+    "key": "townsville",
+    "name": "Townsville",
+    "departure_points": [
+      "Breakwater Marina, Mariners Drive, Townsville",
+      "Horseshoe Bay (Pacific Drive), Magnetic Island",
+      "Nelly Bay public boat ramp, Magnetic Island"
+    ],
+    "species_seasons": [
+      {
+        "species": "Red emperor, nannygai, coral trout",
+        "when": "Year-round day and night reef trips (weather permitting)",
+        "source": "https://audacitymarine.com.au/fishing-charters/"
+      },
+      {
+        "species": "Spotted mackerel and tuna",
+        "when": "Trolled around Magnetic Island's bays",
+        "source": "https://www.magneticislandfishingcharters.com.au/"
+      }
+    ],
+    "notes": [
+      "Magnetic Island has 23 bays and beaches, 14 of them fishable, with shipwrecks, shoals, rocks, reefs and mangroves.",
+      "Offshore trips from Magnetic Island run up to 50 nautical miles to Great Barrier Reef shoal grounds.",
+      "From Breakwater Marina, larger charter boats reach the first reef drop in about 1.5–2 hours; trips of 12–23 hours are common for 'reds'.",
+      "Conquest Charters (Yeppoon-based) also lists day and night reef trips departing Breakwater Marina, Townsville, to reefs such as Centipede, Grub, Backnumbers, Braggs, Hopkinson and French reefs."
+    ],
+    "sources": [
+      "https://www.magneticislandfishingcharters.com.au/",
+      "https://audacitymarine.com.au/fishing-charters/",
+      "https://conquestcharters.com.au/fishing-quests/"
+    ],
+    "operators": [
+      "magnetic-island-fishing-charters",
+      "audacity-charters-townsville"
+    ]
+  },
+  {
+    "key": "hinchinbrook",
+    "name": "Hinchinbrook & Lucinda",
+    "departure_points": [
+      "Lucinda boat ramps (Dungeness Road area)",
+      "Cardwell boat ramp",
+      "Port Hinchinbrook (no dedicated operator confirmed)"
+    ],
+    "species_seasons": [
+      {
+        "species": "Barramundi, threadfin salmon, fingermark",
+        "when": "Main inshore targets in the Hinchinbrook Channel (barramundi closed 1 Nov–31 Jan)",
+        "source": "https://www.australia.com/en/atdw/product.6045f4108fc1e7796a9d63ac.html"
+      },
+      {
+        "species": "Spanish, grey and doggy mackerel",
+        "when": "Depending on the time of year, offshore from Lucinda",
+        "source": "https://crackfish.com/"
+      }
+    ],
+    "notes": [
+      "Lucinda sits at the southern end of the Hinchinbrook Channel, about an hour and a half north of Townsville.",
+      "Small boats can reach the shallow creeks of Hinchinbrook Island and the mainland in Girringun National Park.",
+      "GT popping and stickbaiting can start close in, near the end of the Lucinda sugar loading jetty, before moving to island and reef grounds.",
+      "Inshore creek fishing is a sheltered option on windy days."
+    ],
+    "sources": [
+      "https://crackfish.com/",
+      "https://www.australia.com/en/atdw/product.6045f4108fc1e7796a9d63ac.html",
+      "https://www.australia.com/en/atdw/product.640eaf483568d2ae140d96c8.html"
+    ],
+    "operators": [
+      "ian-moody-sportfishing-charters",
+      "crackajack-sportfishing-adventures"
+    ]
+  },
+  {
+    "key": "mission-beach",
+    "name": "Mission Beach",
+    "departure_points": [
+      "Clump Point boat ramp and jetty (no fishing-only operator confirmed)",
+      "Day trips with pick-up in Mission Beach (Cairns-based guides)"
+    ],
+    "species_seasons": [
+      {
+        "species": "Barramundi, mangrove jack, queenfish, river GTs",
+        "when": "Coastal rivers; operator lists July–October as prime multi-day season",
+        "source": "https://www.tropicalsportfisher.com/multi-day-trips/cassowary-coast-multi-day-trip/"
+      },
+      {
+        "species": "Jungle perch and sooty grunter",
+        "when": "Walk-and-wade in rainforest streams",
+        "source": "https://www.tropicalsportfisher.com/multi-day-trips/cassowary-coast-multi-day-trip/"
+      }
+    ],
+    "notes": [
+      "The Cassowary Coast around Mission Beach combines coastal rivers, World Heritage rainforest streams and tropical islands for sportfishing.",
+      "Mission Beach Charters, once listed for fishing, now focuses on snorkelling, island camping and transfers.",
+      "No Mission Beach-based fishing charter with a current website was found; Tropical Sportfisher (Cairns) runs day trips from Mission Beach and multi-day packages based there."
+    ],
+    "sources": [
+      "https://www.tropicalsportfisher.com/multi-day-trips/cassowary-coast-multi-day-trip/",
+      "https://missionbeachcharters.com.au/"
+    ],
+    "operators": [
+      "tropical-sportfisher-cairns"
+    ]
+  },
+  {
+    "key": "cairns",
+    "name": "Cairns",
+    "departure_points": [
+      "Marlin Marina, Pier Point Rd, Cairns City (D Finger; reef and estuary boats)",
+      "Tingira St boat ramp, Portsmith (small-boat estuary and reef trips)",
+      "Yorkeys Knob / Half Moon Bay (some game boats)",
+      "Accommodation pick-up for river, Lake Tinaroo and Mulgrave/Russell river trips"
+    ],
+    "species_seasons": [
+      {
+        "species": "Black Marlin (giant)",
+        "when": "Early September to mid/end December, between Cairns and Lizard Island along the reef edge and continental shelf",
+        "source": "https://www.bigfishdownunder.com/experiences/black-marlin-fishing-charters"
+      },
+      {
+        "species": "Black Marlin (juvenile, 30–120 lb)",
+        "when": "Year-round within about an hour of Cairns; best March–September and December–January",
+        "source": "https://www.bigfishdownunder.com/experiences/sport-amp-game-fishing"
+      },
+      {
+        "species": "Coral Trout, Red Emperor, Nannygai",
+        "when": "Consistent year-round; bottom fishing can be less predictable in the wet season (Jan–Mar)",
+        "source": "https://www.cairnsreeffishing.com.au/faqs/"
+      },
+      {
+        "species": "Spanish Mackerel and tuna",
+        "when": "Often more active during the wet season (Jan–Mar)",
+        "source": "https://www.cairnsreeffishing.com.au/faqs/"
+      },
+      {
+        "species": "Queenfish and Giant Trevally (rivers)",
+        "when": "May–August in the Mulgrave/Russell river system",
+        "source": "https://fishtales.com.au/cairns-private-fishing-charters/"
+      },
+      {
+        "species": "Fingermark, Mangrove Jack, Barramundi (rivers)",
+        "when": "September–December in the Mulgrave/Russell rivers; barramundi closed season 1 Nov–31 Jan on the east coast",
+        "source": "https://fishtales.com.au/cairns-river-fishing/"
+      },
+      {
+        "species": "Barramundi (Lake Tinaroo, impoundment)",
+        "when": "Warmer months, October–April (fly trips); metre-plus fish",
+        "source": "https://www.tropicalsportfisher.com/fly-fishing-day-trips/"
+      }
+    ],
+    "notes": [
+      "Cairns is the base for the giant black marlin fishery on the 150-mile stretch of reef between Cairns and Lizard Island, fished mainly with trolled baits and tag-and-release on circle hooks.",
+      "Shared reef boats typically fish 30–60 m of water within about 50 km of Cairns, with travel of at least 90 minutes each way to the reef.",
+      "Trinity Inlet, the estuary right beside the city, is a State Marine Park with over 100 km of creeks and channels holding barramundi, jacks, fingermark and threadfin.",
+      "The Mulgrave and Russell rivers and Mutchero Inlet, about 40 km south, are a popular day-trip river system.",
+      "Lake Tinaroo on the Atherton Tablelands was the first stocked barramundi lake and is known for metre-plus impoundment barra.",
+      "Great Barrier Reef trips attract the Environmental Management Charge (reef tax), $8.50 per person from 1 April 2026."
+    ],
+    "sources": [
+      "https://www.fishingcairns.com.au/heavy-tackle-extended-charters/",
+      "https://www.bigfishdownunder.com/experiences/black-marlin-fishing-charters",
+      "https://www.cairnsreeffishing.com.au/shared-charters/",
+      "https://www.cairnsreeffishing.com.au/faqs/",
+      "https://fishtales.com.au/cairns-estuary-fishing/",
+      "https://fishtales.com.au/cairns-river-fishing/",
+      "https://fishtales.com.au/cairns-reef-fishing/",
+      "https://www.tropicalsportfisher.com/fly-fishing-day-trips/"
+    ],
+    "operators": [
+      "cairns-reef-fishing",
+      "fish-tales-charters-cairns",
+      "cairns-sportfishing",
+      "tropic-barra-adventures-cairns",
+      "fnq-fishing-adventures-cairns",
+      "tropical-sportfisher-cairns",
+      "big-fish-down-under-cairns"
+    ]
+  },
+  {
+    "key": "port-douglas",
+    "name": "Port Douglas",
+    "departure_points": [
+      "Crystalbrook Superyacht Marina, 44 Wharf St",
+      "Marano's Fuel Wharf (berth 4)",
+      "Public jetty / boat ramp, Ashford Ave (behind St Mary's by the Sea)"
+    ],
+    "species_seasons": [
+      {
+        "species": "Black marlin (juvenile, light tackle)",
+        "when": "July to October",
+        "source": "https://www.saltairecharters.com.au/fishing-charters/"
+      },
+      {
+        "species": "Black marlin (giant)",
+        "when": "September to mid December, Cairns to Lizard Island",
+        "source": "https://www.saltairecharters.com.au/fishing-charters/"
+      },
+      {
+        "species": "Coral trout and other reef fin fish",
+        "when": "Year-round except reef fin-fish spawning closures in October/November",
+        "source": "https://mvnorseman.com.au/faq/"
+      }
+    ],
+    "notes": [
+      "Reef fishing grounds off Port Douglas are generally about an hour's run away for the larger boats.",
+      "Dragon Lady reports travelling 20–25 miles to the outer reef (50–80 minutes) and 30+ miles to the continental shelf for game fishing.",
+      "Inshore options include the Port Douglas estuaries, fringing reefs and Low Isles.",
+      "Shared reef boats such as MV Norseman cap fishing numbers at 20."
+    ],
+    "sources": [
+      "https://mvnorseman.com.au/faq/",
+      "https://www.saltairecharters.com.au/fishing-charters/",
+      "https://www.fishingcairns.com.au/heavy-tackle-extended-charters/",
+      "https://www.outnaboutfishing.com.au/private-full-day-charter/",
+      "https://akulasportfishing.com.au/reef-fishing-port-douglas/"
+    ],
+    "operators": [
+      "out-n-about-sportfishing-port-douglas",
+      "norseman-reef-fishing-port-douglas",
+      "akula-sportfishing-port-douglas",
+      "sublime-sportfishing-adventures"
+    ]
+  },
+  {
+    "key": "daintree",
+    "name": "Daintree",
+    "departure_points": [
+      "Public wharf near the Daintree River Ferry Crossing, 315 Cape Tribulation Rd, Lower Daintree",
+      "Daintree River Ferry boat ramp (about 200 m before the ferry)"
+    ],
+    "species_seasons": [
+      {
+        "species": "Barramundi",
+        "when": "Caught on lure in every month; optimum September to March (outside the 1 Nov–31 Jan closed season)",
+        "source": "https://www.sublimesportfishing.com.au/daintree-river-coastal-fishing.html"
+      },
+      {
+        "species": "Mud crabs",
+        "when": "When in season",
+        "source": "https://www.australia.com/en/atdw/product.56b260b3aeeeaaf773cf3a2b.html"
+      }
+    ],
+    "notes": [
+      "The Daintree River is the region's largest river, with over 25 km of navigable water lined by mangroves and World Heritage rainforest.",
+      "Islands, wrecks and inshore reefs at the river mouth, including Snapper Island, can be added on calm days.",
+      "The river holds plenty of saltwater crocodiles and rich birdlife, so many trips double as nature tours."
+    ],
+    "sources": [
+      "https://www.sublimesportfishing.com.au/daintree-river-coastal-fishing.html",
+      "https://daintreefishing.com.au/",
+      "https://www.australia.com/en/atdw/product.56b260b3aeeeaaf773cf3a2b.html"
+    ],
+    "operators": [
+      "daintree-river-fishing-david-patterson",
+      "sublime-sportfishing-adventures",
+      "tropic-barra-adventures-cairns"
+    ]
+  },
+  {
+    "key": "cooktown",
+    "name": "Cooktown & Lizard Island",
+    "departure_points": [
+      "Cooktown waterfront / Endeavour River (Webber Esplanade)"
+    ],
+    "species_seasons": [
+      {
+        "species": "Black marlin (giant)",
+        "when": "September to mid/end December on the reef between Cairns and Lizard Island",
+        "source": "https://www.bigfishdownunder.com/experiences/black-marlin-fishing-charters"
+      },
+      {
+        "species": "Barramundi, mangrove jack, fingermark, queenfish",
+        "when": "Endeavour and Annan rivers (barramundi closed 1 Nov–31 Jan)",
+        "source": "http://fishingcooktown.com/fishing-charters-2/"
+      }
+    ],
+    "notes": [
+      "Cooktown is the closest town to the Great Barrier Reef; Dawson Reef can be reached within about 10 minutes of leaving port.",
+      "Cape Bedford to the north offers mangroves for barra and jacks, poppers for GT and queenfish, and wrecks for fingermark and nannygai; Archer Point to the south leads to rainforest-meets-reef coastline.",
+      "Cooktown is about 320 km (4 hours) by sealed road from Cairns or a 40–45 minute flight.",
+      "The Lizard Island Black Marlin Classic is held in the region."
+    ],
+    "sources": [
+      "http://fishingcooktown.com/reef-headlands/",
+      "http://fishingcooktown.com/location/",
+      "https://www.fishingcairns.com.au/locations/cooktown-guied/",
+      "https://www.cooktownandcapeyork.com/tours/collection-fishing"
+    ],
+    "operators": [
+      "gone-fishing-cooktown"
+    ]
+  },
+  {
+    "key": "weipa",
+    "name": "Weipa & Cape York",
+    "departure_points": [
+      "Weipa (guides collect guests from accommodation)",
+      "Albatross Bay rivers: Mission, Embley, Wenlock/Archer systems"
+    ],
+    "species_seasons": [
+      {
+        "species": "Longtail tuna",
+        "when": "Most prolific April–July",
+        "source": "https://www.weipaflyfish.com.au/the-fishing-in-weipa"
+      },
+      {
+        "species": "Spanish mackerel",
+        "when": "Year-round, more inshore in winter",
+        "source": "https://www.weipaflyfish.com.au/the-fishing-in-weipa"
+      },
+      {
+        "species": "General guiding season",
+        "when": "Late March to mid December; most operators do not run in the wet (Dec–Mar)",
+        "source": "https://www.weipaflyfish.com.au/fishing-faqs"
+      }
+    ],
+    "notes": [
+      "Weipa sits on Albatross Bay on the Gulf side of Cape York, about an hour's flight from Cairns; daily flights make it one of the most accessible remote fishing towns.",
+      "Prevailing south-easterly winds blow offshore for about nine months of the year, keeping the Gulf side fishable.",
+      "Flats, beaches and headlands offer sight fishing for permit, golden trevally, queenfish, giant herring and tuna; rivers hold barramundi, threadfin and jacks.",
+      "Most visiting anglers book multi-day packages with accommodation, meals and transfers; much of the fishing is catch and release.",
+      "Weipa's local press describes its charter fleet as one of the biggest in Queensland."
+    ],
+    "sources": [
+      "https://www.weipaflyfish.com.au/the-fishing-in-weipa",
+      "https://www.weipaflyfish.com.au/fishing-faqs",
+      "https://www.weipaflyfish.com.au/weipa-fishing-charters",
+      "https://www.farnorthfishingweipa.com.au/charters",
+      "https://www.fishingcairns.com.au/fishing-books-maps/locality-guides/cape-york-locality-guide/weipa-cape-york-locality-guide/",
+      "https://capeyorkweekly.com.au/?p=10501"
+    ],
+    "operators": [
+      "fishs-fly-sportfishing-weipa",
+      "far-north-fishing-weipa"
+    ]
+  },
+  {
+    "key": "karumba",
+    "name": "Karumba & the Gulf",
+    "departure_points": [
+      "Karumba (Norman River mouth)",
+      "Karumba Point"
+    ],
+    "species_seasons": [
+      {
+        "species": "Barramundi",
+        "when": "Dedicated barra charters run February–April and September to 7 October",
+        "source": "https://kerrydfishing.com.au/fishing-charters/"
+      },
+      {
+        "species": "Spanish mackerel, cobia, fingermark, queenfish",
+        "when": "Offshore trips 40–50 km into the Gulf, year-round weather permitting",
+        "source": "https://kerrydfishing.com.au/fishing-charters/"
+      }
+    ],
+    "notes": [
+      "Estuary trips fish the sheltered Norman River and nearby creeks such as the Bynoe for barramundi, king and blue threadfin, black jewfish and grunter.",
+      "Barramundi cannot be targeted during the Gulf closed season.",
+      "Remote camping trips around Karumba and Normanton reach lightly fished rivers."
+    ],
+    "sources": [
+      "https://kerrydfishing.com.au/fishing-charters/",
+      "https://www.carpentariabarra.com.au/"
+    ],
+    "operators": [
+      "kerry-d-fishing-charters-karumba",
+      "carpentaria-barra-sport-fishing-charters"
+    ]
+  }
+]

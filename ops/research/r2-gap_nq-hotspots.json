@@ -1,0 +1,178 @@
+[
+ {
+  "key": "bowen",
+  "name": "Bowen",
+  "departure_points": [
+   {"name": "Bowen Boat Harbour ramp", "detail": "The launch best suited to larger boats, with no weather, time or tide restrictions; about a 20 km run to Gloucester Island. The harbour is a working fishing port with the seafood co-op and Bird's Fish Bar beside the marina.", "source": "https://fishandboat.com.au/gps_marks/bowen-offshore/ ; https://www.tourismwhitsundays.com.au/blog/bowen-a-day-trippers-guide"},
+   {"name": "Don River boat ramp (Yasso Point, Queens Beach)", "detail": "Single-lane concrete public ramp at the Don River mouth; not suitable for large craft. Used to reach Bob Moses, Boat and Meatwork creeks to the north around the top of the tide.", "source": "https://tourismbowen.com.au/fishing ; https://www.queensland.com/us/en/things-to-do/attractions/p-56d917d0af985ae47c84dd86-bowen-creek-fishing"},
+   {"name": "Dingo Beach ramp (southern end of Sinclair Bay)", "detail": "Alternative single-lane access to Gloucester Island from the eastern side of Edgecumbe Bay; tide-restricted, needing at least 1.8 m of water to launch and retrieve.", "source": "https://fishandboat.com.au/gps_marks/bowen-offshore/"},
+   {"name": "Land-based spots", "detail": "Bowen Jetty, the rocks at the southern end of Kings Beach, and the rocky outcrops at Horseshoe, Grays and Rose bays. Whiting are caught around creek mouths in town, including Magazine Creek near the boat harbour, Doughty's Creek and Sandhills Creek at Kings Beach.", "source": "https://fishandboat.com.au/gps_marks/bowen-offshore/"}
+  ],
+  "grounds": [
+   {"name": "Inshore islands: North Head, Stone, Middle, Gloucester and Holbourne", "detail": "Between 1 and 18 nautical miles from Bowen Harbour, all with fringing reef for line and spear fishing.", "source": "https://fishandboat.com.au/gps_marks/bowen-offshore/"},
+   {"name": "Gloucester Island and Gloucester Passage", "detail": "Deep water off the island's northern edge holds grunter, black jewfish and nannygai; Black Reef nearby produces fingermark and grunter, especially at night; the Gloucester Passage funnels big fish such as giant trevally and tuskfish.", "source": "https://fishandboat.com.au/gps_marks/bowen-offshore/"},
+   {"name": "Stone Island", "detail": "About 4 km off the mainland, best reached from the harbour ramp; large isolated bombies in 10–20 m on the southern edge are known for big coastal (bar-cheek) trout.", "source": "https://fishandboat.com.au/gps_marks/bowen-offshore/"},
+   {"name": "Bowen Mackerel Patches (Queens Bay area)", "detail": "Northern grounds known for spotted and Spanish mackerel, with surrounding wrecks and foul ground holding red fish, fingermark and coral trout.", "source": "https://fishandboat.com.au/gps_marks/bowen-offshore/"},
+   {"name": "Southern Cross reef", "detail": "Small isolated reef just off Kings Beach with shallow and deep edges, suited to small boats.", "source": "https://fishandboat.com.au/gps_marks/bowen-offshore/"},
+   {"name": "Abbot Point", "detail": "Pylons of the coal-loading jetty hold bait and predators; Phillips Reef is a bombie reef about 5 km from the jetty, and a 300 m rocky ledge near the jetty holds tuskfish.", "source": "https://fishandboat.com.au/gps_marks/bowen-offshore/"},
+   {"name": "Southern Edgecumbe/Dennison Bay shoals", "detail": "Flats, rubble and reef off Pool and Thomas islands hold sweetlip and coastal trout; Bradys Reef, a deeper reef, holds trevally and cobia.", "source": "https://fishandboat.com.au/gps_marks/bowen-offshore/"},
+   {"name": "Bowen creeks", "detail": "Adelaide and Duck creeks south of town (beach ramps, top of the tide only) and Bob Moses, Boat and Meatwork creeks to the north hold mangrove jack, bream, whiting and barramundi. Many become landlocked by tidal flats at low tide.", "source": "https://www.queensland.com/us/en/things-to-do/attractions/p-56d917d0af985ae47c84dd86-bowen-creek-fishing"}
+  ],
+  "species_seasons": [
+   {"species": "Barramundi, mangrove jack, bream, whiting", "when": "Year-round in the creeks; barramundi closed 1 Nov to 1 Feb", "detail": "Creek fishing around the top of the tide.", "source": "https://www.queensland.com/us/en/things-to-do/attractions/p-56d917d0af985ae47c84dd86-bowen-creek-fishing"},
+   {"species": "Spanish and spotted mackerel", "when": "", "detail": "The Bowen Mackerel Patches north of town are the best-known grounds.", "source": "https://fishandboat.com.au/gps_marks/bowen-offshore/"},
+   {"species": "Coral and coastal trout, sweetlip, fingermark, grunter, nannygai, cobia, trevally", "when": "", "detail": "Island fringing reefs, shoals and wrecks.", "source": "https://fishandboat.com.au/gps_marks/bowen-offshore/"}
+  ],
+  "rules": [
+   {"rule": "Barramundi east-coast closed season: Queensland Fisheries lists 1 November to 31 January (commonly described as midday 1 November to midday 1 February). Release any barramundi caught in this period.", "source": "https://www.daf.qld.gov.au/business-priorities/fisheries/closures/tidal/seasons"},
+   {"rule": "Bowen's islands and reefs are inside the Great Barrier Reef Marine Park. No fishing in Marine National Park (green) zones, which extend to the high-water mark; in Conservation Park (yellow) zones line fishing is limited to one rod or handline with one hook per person. Check GBRMPA zoning maps before fishing.", "source": "https://www.gbrmpa.gov.au/access/zoning/interpreting-zones"},
+   {"rule": "Bowen is in crocodile country: Queensland's estuarine crocodile habitat runs from near Gladstone north. Stay back from the water's edge, never wade to free a snag, and bin fish scraps.", "source": "https://qld.gov.au/environment/plants-animals/animals/living-with/crocodiles/becrocwise"},
+   {"rule": "Wear a stinger suit in the water between November and May.", "source": "https://www.tourismwhitsundays.com.au/blog/bowen-a-day-trippers-guide"}
+  ],
+  "getting_there": [
+   {"detail": "Bowen is on the northern edge of the Whitsundays, about an hour's drive (70 km) north of Airlie Beach on the Bruce Highway. The town sits on Edgecumbe Bay.", "source": "https://www.tourismwhitsundays.com.au/mainland/bowen"},
+   {"detail": "The nearest commercial airport is Whitsunday Coast Airport near Proserpine, around an hour south.", "source": "https://www.tourismwhitsundays.com.au/mainland/bowen"}
+  ],
+  "notes": [
+   {"detail": "Fishing is described by the local tourism body as the town's pastime: creek systems, coral-fringed islands, offshore reef and a working fishing harbour where prawns and mud crab are landed.", "source": "https://www.tourismbowen.com.au/"},
+   {"detail": "Horseshoe Bay and Rose Bay have fringing reef reachable straight from the beach.", "source": "https://www.tourismwhitsundays.com.au/mainland/bowen"},
+   {"detail": "No dedicated Bowen-based fishing charter with a current web presence could be confirmed. The nearest listed charters depart Cape Gloucester Resort or Airlie Beach (Razorfish Whitsundays Fishing Charters), and Airlie Beach (Whitsunday Fishing Charters).", "source": "https://www.razorfishcharters.com.au/faqs/"}
+  ],
+  "faq": [
+   {"q": "Are there fishing charters out of Bowen?", "a": "We couldn't confirm a charter based in Bowen itself. Razorfish Whitsundays Fishing Charters departs Cape Gloucester Resort or Airlie Beach and says it can travel to areas such as Bowen for an extra towing fee.", "source": "https://www.razorfishcharters.com.au/faqs/"},
+   {"q": "Which ramp should I use for a bigger boat?", "a": "The Bowen Boat Harbour ramp is the most suitable for larger boats, with no tide or time restrictions. The Don River ramp at Queens Beach is single-lane and not suitable for large craft.", "source": "https://fishandboat.com.au/gps_marks/bowen-offshore/"},
+   {"q": "Can I fish Bowen's creeks at any tide?", "a": "No. The creeks are best entered by sea around the top of the tide, and many become landlocked by tidal flats at low tide.", "source": "https://www.queensland.com/us/en/things-to-do/attractions/p-56d917d0af985ae47c84dd86-bowen-creek-fishing"},
+   {"q": "How far out are the islands?", "a": "Bowen's inshore islands (North Head, Stone, Middle, Gloucester and Holbourne) lie between 1 and 18 nautical miles from the harbour; Gloucester Island is about a 20 km run.", "source": "https://fishandboat.com.au/gps_marks/bowen-offshore/"}
+  ],
+  "operators": []
+ },
+ {
+  "key": "mission-beach",
+  "name": "Mission Beach",
+  "departure_points": [
+   {"name": "Clump Point boat ramp and jetty", "detail": "Main public boating facility for Mission Beach. Upgraded in two phases completed in mid-November 2020: a new ramp lane, detached breakwater and toilet block, then an access jetty, berthing pontoons, pen berths and swing moorings. The ramp and jetty give access to Dunk, Bedarra and the other offshore islands.", "source": "https://tmr.qld.gov.au/projects/clump-point-mission-beach-boating-infrastructure-project"},
+   {"name": "Hull River ramps", "detail": "Ramps at South Mission Beach, Carmoo and Hull Heads; a 2018 report described the Hull River ramp as too short and the South Mission Beach ramp as exposed and poor at low tide (check current condition).", "source": "https://www.pressreader.com/australia/the-cairns-post/20180711/281762745019628"},
+   {"name": "Kurrimine Beach ramps", "detail": "Two boat ramps at Kurrimine Beach, north of Mission Beach, used for both reef and creek access.", "source": "https://kurrimineboathire.com.au/"}
+  ],
+  "grounds": [
+   {"name": "Dunk Island and the Family Islands", "detail": "Dunk Island is about 20 minutes by boat from Mission Beach and lies inside the Great Barrier Reef Marine Park.", "source": "https://wildsideadventures.com.au/dunk-island/"},
+   {"name": "King Reef (Kurrimine Beach)", "detail": "Inshore reef that can be walked to on the lowest tides a few times a year; coral trout, crayfish and other reef fish are found just off the beach.", "source": "https://kurrimineboathire.com.au/"},
+   {"name": "Local creeks and rivers (Hull River, Kurrimine creeks)", "detail": "Barramundi and mud crabs in the creeks.", "source": "https://kurrimineboathire.com.au/"},
+   {"name": "Outer reefs", "detail": "Reached by charter boats from Kurrimine and Mission Beach for reef species such as red emperor and coral trout.", "source": "https://kurrimineboathire.com.au/"}
+  ],
+  "species_seasons": [
+   {"species": "Barramundi, mangrove jack, fingermark, threadfin salmon", "when": "Barramundi closed 1 Nov to 1 Feb", "detail": "Creeks and rivers such as the Hull River.", "source": "https://fishingbooker.com/charters/view/26614"},
+   {"species": "Coral trout, red emperor, nannygai, Spanish mackerel, queenfish", "when": "", "detail": "Island and outer reefs.", "source": "https://fishingbooker.com/charters/view/26614"},
+   {"species": "Mud crab", "when": "", "detail": "Creeks around Kurrimine Beach.", "source": "https://kurrimineboathire.com.au/"}
+  ],
+  "rules": [
+   {"rule": "Barramundi east-coast closed season: Queensland Fisheries lists 1 November to 31 January (commonly described as midday 1 November to midday 1 February).", "source": "https://www.daf.qld.gov.au/business-priorities/fisheries/closures/tidal/seasons"},
+   {"rule": "Dunk, the Family Islands and surrounding reefs are in the Great Barrier Reef Marine Park. No fishing in green zones (to the high-water mark); yellow zones limit line fishing to one rod or handline with one hook per person. Check GBRMPA zoning maps.", "source": "https://www.gbrmpa.gov.au/access/zoning/interpreting-zones"},
+   {"rule": "Estuarine crocodiles live in the Cassowary Coast's rivers, creeks and sea. Keep well back from the bank, don't wade to retrieve lures, keep all of your body inside the boat, and bin fish scraps.", "source": "https://qld.gov.au/environment/plants-animals/animals/living-with/crocodiles/becrocwise"}
+  ],
+  "getting_there": [
+   {"detail": "Cardwell, at the northern end of the Hinchinbrook Channel, is about 55 minutes' drive south of Mission Beach.", "source": "https://fishingbooker.com/destinations/location/au/QL/mission-beach"}
+  ],
+  "notes": [
+   {"detail": "Clump Point is a low, 1.5 km finger of rock, reef and mangroves; its ramp and jetty service boats moored off the flats.", "source": "https://www.beachsafe.org.au/beach/qld/cassowary-coast/mission-beach/clump-point"},
+   {"detail": "No dedicated, currently trading Mission Beach-based fishing charter could be confirmed in this round. Cairns-based guides Tropic Barra Adventures and Tropical Sportfisher (already listed under Cairns) list Mission Beach among the areas they fish, and Ian Moody Sportfishing (listed under Hinchinbrook) has a Mission Beach trip on FishingBooker.", "source": "https://fishingbooker.com/charters/view/30430"}
+  ],
+  "faq": [
+   {"q": "Where do boats launch at Mission Beach?", "a": "Clump Point is the main facility, with a ramp, breakwater, access jetty, pontoons and moorings completed in 2020. There are also ramps on the Hull River and at Kurrimine Beach.", "source": "https://tmr.qld.gov.au/projects/clump-point-mission-beach-boating-infrastructure-project"},
+   {"q": "How long is the run to Dunk Island?", "a": "About 20 minutes by boat from Mission Beach.", "source": "https://wildsideadventures.com.au/dunk-island/"},
+   {"q": "Can I keep a barramundi in November?", "a": "No. The east-coast barramundi closed season runs from 1 November to the end of January.", "source": "https://www.daf.qld.gov.au/business-priorities/fisheries/closures/tidal/seasons"}
+  ],
+  "operators": []
+ },
+ {
+  "key": "cooktown",
+  "name": "Cooktown & Lizard Island",
+  "departure_points": [
+   {"name": "Endeavour River ramp (opposite the Seaview Motel, town waterfront)", "detail": "In-town launch onto the Endeavour River.", "source": "https://www.cooktownandcapeyork.com/do/fishing/endeavour-river-cruises"},
+   {"name": "Marton boat ramp", "detail": "About 10 minutes north of town on the Endeavour River.", "source": "https://www.cooktownandcapeyork.com/do/fishing/endeavour-river-cruises"},
+   {"name": "Annan River ramp", "detail": "Good ramp on the downstream side of the Annan River bridge, 5 minutes south of Cooktown; shallow and rocky in places on low tide.", "source": "https://www.cooktownandcapeyork.com/do/fishing/fishing"},
+   {"name": "Archer Point", "detail": "12 km south of Cooktown then 6 km of dirt road; 4WD beach launches possible, limited camping.", "source": "https://www.cooktownandcapeyork.com/do/fishing/fishing"},
+   {"name": "Cooktown wharf", "detail": "Popular land-based spot for family fishing in the heart of town.", "source": "https://www.cooktownandcapeyork.com/do/fishing/endeavour-river-cruises"}
+  ],
+  "grounds": [
+   {"name": "Endeavour River", "detail": "Wide at the mouth, lined with more than 25 mangrove species, branching into palm-lined creeks; deep holes, submerged timber, sand flats and weed beds. Barramundi and mangrove jack predominate, with fingermark, trevally, barracuda and sharks.", "source": "https://www.cooktownandcapeyork.com/do/fishing/endeavour-river-cruises"},
+   {"name": "Annan River and Walker Bay", "detail": "Shorter, usually cleaner and warmer estuary than the Endeavour; barramundi along the river and big saltwater barra at the mouth in Walker Bay, plus jacks, fingermark, queenfish, trevally and mud crabs after the first rains.", "source": "https://www.cooktownandcapeyork.com/do/fishing/fishing"},
+   {"name": "Archer Point", "detail": "Fringing reef, sand flats and small tributaries south of town.", "source": "https://www.cooktownandcapeyork.com/do/fishing/fishing"},
+   {"name": "Inshore and mid reefs", "detail": "Inshore reefs lie only a couple of miles out; running 10–15 miles offshore opens up more ground for coral trout, red emperor, nannygai, mackerel and tuna.", "source": "https://www.cooktownandcapeyork.com/do/fishing/fishing"},
+   {"name": "Outer reef and continental shelf (incl. Lizard Island)", "detail": "Black marlin grounds fished September–December; Lizard Island hosts the annual Lizard Island Black Marlin Classic.", "source": "https://www.cooktownandcapeyork.com/do/fishing/fishing"},
+   {"name": "Hope Islands and other inshore islands", "detail": "Many reachable by small boat in good weather; camping on some requires QPWS permits booked in advance.", "source": "https://www.cooktownandcapeyork.com/do/fishing/fishing"}
+  ],
+  "species_seasons": [
+   {"species": "Black marlin", "when": "September–December", "detail": "Big females move down the outer reefs with attending males; the world marlin fleet uses Cooktown as a base.", "source": "https://www.cooktownandcapeyork.com/do/fishing/fishing"},
+   {"species": "Barramundi, mangrove jack, fingermark, tarpon, queenfish, trevally, threadfin salmon, grunter", "when": "Barramundi closed midday 1 Nov to midday 1 Feb", "detail": "Endeavour and Annan rivers and estuaries.", "source": "https://www.cooktownandcapeyork.com/do/fishing/fishing"},
+   {"species": "Coral trout, red emperor, spangled emperor, sweetlip, nannygai, mackerel, tuna, wahoo, sailfish, cobia", "when": "", "detail": "Inshore to offshore reefs.", "source": "https://www.cooktownandcapeyork.com/do/fishing/fishing"},
+   {"species": "Trevally, queenfish, permit, bonefish", "when": "", "detail": "Beaches, headlands and coastal flats.", "source": "https://www.cooktownandcapeyork.com/do/fishing/fishing"},
+   {"species": "Jungle perch, sooty grunter", "when": "", "detail": "Upper freshwater reaches of the rivers.", "source": "https://www.cooktownandcapeyork.com/do/fishing/fishing"}
+  ],
+  "rules": [
+   {"rule": "Barramundi closed season: midday 1 November to midday 1 February (Cook Shire visitor information); Queensland Fisheries lists 1 November to 31 January.", "source": "https://www.cooktownandcapeyork.com/do/fishing/fishing"},
+   {"rule": "Reefs and islands are in the Great Barrier Reef Marine Park; get GBRMPA zoning maps before fishing. No fishing in green zones (to the high-water mark).", "source": "https://www.gbrmpa.gov.au/access/zoning/interpreting-zones"},
+   {"rule": "Saltwater crocodiles are common in the Endeavour River, most often seen in the North Arm; croc-spotting is best in June–August on a low tide. Be Crocwise: keep back from the bank and stay inside the boat.", "source": "https://www.cooktownandcapeyork.com/do/fishing/endeavour-river-cruises"},
+   {"rule": "Island camping (including Lizard Island) needs a QPWS booking in advance.", "source": "https://www.cooktownandcapeyork.com/do/fishing/fishing"}
+  ],
+  "getting_there": [
+   {"detail": "Inland route from Cairns: about 4 hours, 331 km, fully sealed via the Kennedy Highway (Kuranda, Mareeba) and Mulligan Highway.", "source": "https://www.cooktownandcapeyork.com/travel"},
+   {"detail": "Coastal route from Cairns: allow 5–6 hours, about 234 km, via Cape Tribulation and the Bloomfield Track (unsealed, 4WD only, Cape Tribulation to Wujal Wujal); includes the Daintree River ferry.", "source": "https://www.cooktownandcapeyork.com/travel"},
+   {"detail": "Hinterland Aviation flies Cairns–Cooktown daily (about 45 minutes); buses also run from Cairns.", "source": "https://www.cooktownandcapeyork.com/travel"},
+   {"detail": "Lizard Island has no regular scheduled flights or boats except as part of a resort package; commercial charter vessels depart from Cairns, Port Douglas and Cooktown.", "source": "https://parks.qld.gov.au/parks/lizard-island/visiting-safely"}
+  ],
+  "notes": [
+   {"detail": "Cooktown is promoted as Australia's closest town to the Great Barrier Reef, so little fishing time is lost travelling.", "source": "https://www.cooktownandcapeyork.com/go/cooktown"},
+   {"detail": "Heli-fishing to remote billabongs, headlands and river mouths is offered from the area.", "source": "https://www.cooktownandcapeyork.com/do/fishing/fishing"},
+   {"detail": "Several Cooktown charter businesses on the council's lists (Cooktown Reef Charters, Cooktown Barra Charters, Cooktown Bluewater Charters) have websites that no longer resolve, and Gone Fishing's site has not been demonstrably updated since 2021; none could be confirmed as trading in 2024–26.", "source": "https://www.cooktownandcapeyork.com/do/fishing/fishing"}
+  ],
+  "faq": [
+   {"q": "When is black marlin season off Cooktown and Lizard Island?", "a": "September to December, when the marlin fleet bases itself in Cooktown and the Lizard Island Black Marlin Classic is held.", "source": "https://www.cooktownandcapeyork.com/do/fishing/fishing"},
+   {"q": "How do I get to Cooktown?", "a": "About 4 hours (331 km) by sealed road from Cairns via Mareeba, or a 45-minute daily flight with Hinterland Aviation.", "source": "https://www.cooktownandcapeyork.com/travel"},
+   {"q": "Can I get to Lizard Island without staying at the resort?", "a": "There are no regular scheduled flights or boats except resort packages; independent visitors go by charter vessel from Cairns, Port Douglas or Cooktown.", "source": "https://parks.qld.gov.au/parks/lizard-island/visiting-safely"},
+   {"q": "Where can I launch a boat?", "a": "Opposite the Seaview Motel in town, at the Marton ramp 10 minutes north on the Endeavour, or at the Annan River bridge 5 minutes south.", "source": "https://www.cooktownandcapeyork.com/do/fishing/endeavour-river-cruises"},
+   {"q": "Are there crocodiles in the Endeavour River?", "a": "Yes. Saltwater crocodiles are most often seen in the North Arm, especially on winter low tides (June–August).", "source": "https://www.cooktownandcapeyork.com/do/fishing/endeavour-river-cruises"}
+  ],
+  "operators": []
+ },
+ {
+  "key": "hinchinbrook",
+  "name": "Hinchinbrook & Lucinda",
+  "departure_points": [
+   {"name": "Dungeness boat ramp, Lucinda", "detail": "Four-lane ramp with multiple pontoons, fuel, store, tackle shop and boat wash-down nearby; most local charters leave from here. Take care near low tide, when the ramp end can be almost exposed, and on big tides the channel bar can be impassable for about two hours either side of low.", "source": "https://fishandboat.com.au/our-hinchinbrook-adventure-part-1-by-john-boon/"},
+   {"name": "Cardwell", "detail": "Departure point for the northern Hinchinbrook Channel and Missionary Bay.", "source": "https://fullonfishn.com.au/location/"}
+  ],
+  "grounds": [
+   {"name": "Hinchinbrook Channel", "detail": "Protected, mangrove-lined channel between Lucinda and Cardwell fished year-round with lures and live bait for barramundi, mangrove jack, threadfin salmon, fingermark, trevally and queenfish.", "source": "https://fullonfishn.com.au/location/"},
+   {"name": "Missionary Bay", "detail": "Large protected waterway at the northern end of Hinchinbrook Island with nine creeks, deep holes and rock bars; launch from Cardwell.", "source": "https://fullonfishn.com.au/location/"},
+   {"name": "Benjamin Flats and side creeks", "detail": "Flats and drains in the channel worked on the falling tide; grunter and trevally are common alongside barramundi.", "source": "https://fishandboat.com.au/our-hinchinbrook-adventure-part-1-by-john-boon/"},
+   {"name": "Lucinda sugar-loading jetty", "detail": "About 5 km long, acting as a giant fish-attracting structure.", "source": "https://fishandboat.com.au/our-hinchinbrook-adventure-part-1-by-john-boon/"},
+   {"name": "Great Barrier Reef", "detail": "Reachable from Lucinda in suitable weather; local guides run bigger sportfishers for reef trips.", "source": "https://www.queensland.com/au/en/things-to-do/tours/p-6045f4108fc1e7796a9d63ac-ian-moody-sportfishing-charters"}
+  ],
+  "species_seasons": [
+   {"species": "Barramundi", "when": "Outside the closed season (1 Nov to 1 Feb)", "detail": "The channel's headline species, including metre-class fish.", "source": "https://fullonfishn.com.au/charter-faq/"},
+   {"species": "Mangrove jack, fingermark, threadfin salmon, trevally, queenfish", "when": "Year-round", "detail": "All other species remain open during the barra closure.", "source": "https://fullonfishn.com.au/charter-faq/"}
+  ],
+  "rules": [
+   {"rule": "Barramundi closed season 1 November to 1 February on the east coast; other species can still be targeted.", "source": "https://fullonfishn.com.au/charter-faq/"},
+   {"rule": "The Hinchinbrook Channel and surrounding waters are within the Great Barrier Reef Marine Park and World Heritage Area; check GBRMPA zoning maps (no fishing in green zones).", "source": "https://www.gbrmpa.gov.au/access/zoning/interpreting-zones"},
+   {"rule": "Estuarine crocodiles inhabit the channel and creeks. Keep back from the bank, don't wade for snagged lures, keep limbs inside the boat and bin fish frames.", "source": "https://qld.gov.au/environment/plants-animals/animals/living-with/crocodiles/becrocwise"}
+  ],
+  "getting_there": [
+   {"detail": "The Hinchinbrook Channel is about 1.5 hours' drive north of Townsville and 2.5 hours south of Cairns.", "source": "https://fullonfishn.com.au/location/"},
+   {"detail": "The Dungeness ramp at Lucinda is about 15 minutes' drive from Ingham.", "source": "https://fullonfishn.com.au/location/"},
+   {"detail": "Fly into Townsville Airport; some charters include airport transfers with multi-day packages.", "source": "https://fullonfishn.com.au/charter-faq/"}
+  ],
+  "notes": [
+   {"detail": "Lucinda has caravan parks, a fishing lodge beside the main ramp, a hotel and a resort, making multi-day barra trips easy to base there.", "source": "https://fullonfishn.com.au/packages/"},
+   {"detail": "Local guides now use forward-facing live sonar (Garmin LiveScope) to find fish in the channel.", "source": "https://fullonfishn.com.au/"}
+  ],
+  "faq": [
+   {"q": "Can I fish for barramundi year-round?", "a": "No. Barramundi are closed from 1 November to 1 February; mangrove jack, fingermark, threadfin and other species stay open.", "source": "https://fullonfishn.com.au/charter-faq/"},
+   {"q": "When can I launch at Dungeness?", "a": "Half tide to high tide is ideal. Near low tide the ramp end can be almost exposed, and on big tides the channel bar can block access for about two hours either side of low.", "source": "https://fishandboat.com.au/our-hinchinbrook-adventure-part-1-by-john-boon/"},
+   {"q": "Where is Missionary Bay and how do I get there?", "a": "At the northern end of Hinchinbrook Island; charters reach it from Cardwell.", "source": "https://fullonfishn.com.au/location/"},
+   {"q": "How far is it from Townsville?", "a": "About 1.5 hours' drive north to the channel.", "source": "https://fullonfishn.com.au/location/"}
+  ],
+  "operators": ["crackajack-sportfishing-adventures", "full-on-fishn-charters", "ian-moody-sportfishing-charters"]
+ }
+]

@@ -5,3 +5,10 @@
 scripts
 worker.js
 wrangler.jsonc
+
+# Internal tooling, agent definitions and research (not for the public site)
+.claude
+.gitignore
+ops
+image-requests
+research

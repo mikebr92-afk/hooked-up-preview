@@ -1,0 +1,174 @@
+[
+ {
+  "key": "darwin",
+  "name": "Darwin",
+  "departure_points": ["Cullen Bay (ferry terminal/jetty)", "Stokes Hill Wharf (Dock 2)", "Dinah Beach boat ramp, Stuart Park", "Hotel pick-up for trips to Shoal Bay, Bynoe Harbour, the Adelaide River and Corroboree Billabong"],
+  "species_seasons": [
+   {"species": "Snapper (golden snapper) and Black Jewfish", "when": "Year-round; the two main reef targets out of Darwin", "source": "https://alurefishingchartersnt.com.au/faq/"},
+   {"species": "Trevally, Queenfish, Mackerel and Tuna", "when": "Dry season, roughly May to August", "source": "https://alurefishingchartersnt.com.au/faq/"},
+   {"species": "Longtail Tuna and Spanish Mackerel", "when": "Throughout the dry season", "source": "https://northernterritory.com/things-to-do/outdoor-activities/fishing/fishing-charters"},
+   {"species": "Sailfish and Marlin", "when": "Tropical summer (wet season)", "source": "https://northernterritory.com/things-to-do/outdoor-activities/fishing/fishing-charters"},
+   {"species": "Barramundi", "when": "Year-round in Darwin Harbour", "source": "https://estuaryescapes.com.au/fishing-reports/"},
+   {"species": "Mud Crab", "when": "Darwin Harbour and Shoal Bay creeks through the dry season and build-up", "source": "https://reelscreaminbarrafishing.com.au/half-day-fishing-charters/"}
+  ],
+  "notes": [
+   "Darwin Harbour is described as five times bigger than Sydney Harbour and is dotted with shipwrecks, mangroves and saltwater crocodiles.",
+   "Tides in Darwin are big, frequently 6–7 metres, which strongly affects where and when charters fish.",
+   "Offshore reef grounds fished by Darwin charters include Fish Reef, Middle Reef, Bass Reef, Lorna Shoals and Charles Point, roughly 20–50km out.",
+   "Shoal Bay, near Darwin, dries at low tide into a maze of sandbars, so tides must be watched.",
+   "Corroboree Billabong (part of the Mary River system) is about 90 minutes from Darwin and is a common day trip for barramundi and saratoga."
+  ],
+  "sources": ["https://northernterritory.com/articles/11-of-the-best-fishing-spots-to-visit-in-the-top-end", "https://northernterritory.com/things-to-do/outdoor-activities/fishing/fishing-charters", "https://www.darwinharbourfishingcharters.com.au/darwin-fishing-charters-2/", "https://www.equinoxcharters.com.au/", "https://northernterritory.com/tours/equinox-fishing-charters", "https://alurefishingchartersnt.com.au/faq/", "https://estuaryescapes.com.au/fishing-reports/"],
+  "operators": ["darwin-harbour-fishing-charters", "barra-private-tours-darwin", "barra-or-blue-fishing-charters-darwin", "equinox-fishing-charters-darwin", "offshore-boats-darwin", "yknot-fishing-charters", "river-and-reef-fishing-charters", "reel-screamin-barra-fishing"]
+ },
+ {
+  "key": "mary-river",
+  "name": "Mary River",
+  "departure_points": ["Shady Camp boat ramp (Mary River National Park)", "Corroboree Billabong", "Point Stuart Wilderness Lodge (Point Stuart Road)"],
+  "species_seasons": [
+   {"species": "Barramundi", "when": "Run-off, February to April, is the peak season", "source": "https://northernterritory.com/darwin-and-surrounds/destinations/mary-river"},
+   {"species": "Barramundi", "when": "Run-off late February to early May; build-up September to November", "source": "https://www.pointstuart.com.au/barramundi-fishing"},
+   {"species": "Threadfin Salmon, Blue Salmon and Jewfish", "when": "Taken alongside barra on run-off trips at Shady Camp", "source": "https://reelscreaminbarrafishing.com.au/extended-barra-fishing-charters-darwin/"},
+   {"species": "Saratoga", "when": "Billabongs such as Corroboree, mid-May to November", "source": "https://riverandreef.com.au/corroboree-barra-fishing-day-tours/"}
+  ],
+  "notes": [
+   "Barramundi of up to 1.4m are landed each year in the Mary River wetlands, according to NT tourism.",
+   "Shady Camp is about 200km from Darwin; Mary River National Park requires an NT Parks pass, and camping at Shady Camp must be booked online.",
+   "Shady Camp's barrage separates fresh and saltwater; the run from the Shady Camp ramp to the Mary River mouth is about 20–25km (45–60 minutes by boat).",
+   "Corroboree Billabong is about 42km long and is part of the Mary River system, which has one of Australia's largest concentrations of crocodiles.",
+   "Point Stuart Wilderness Lodge is about 20 minutes' drive from Shady Camp, and several Darwin guides base their run-off trips there."
+  ],
+  "sources": ["https://northernterritory.com/darwin-and-surrounds/destinations/mary-river", "https://northernterritory.com/articles/11-of-the-best-fishing-spots-to-visit-in-the-top-end", "https://www.pointstuart.com.au/barramundi-fishing", "https://www.barraprivatetours.com.au/fishing-charters/multi-days-private-charter/", "https://estuaryescapes.com.au/fishing-reports/", "https://reelscreaminbarrafishing.com.au/extended-barra-fishing-charters-darwin/"],
+  "operators": ["estuary-escapes-fishing-charters", "just-doon-it-fishing-charters", "point-stuart-wilderness-lodge"]
+ },
+ {
+  "key": "kakadu",
+  "name": "Kakadu",
+  "departure_points": ["Jabiru (pick-up from accommodation)", "East Alligator River upstream of Cahill's Crossing", "South Alligator River", "Yellow Water (South Alligator floodplain)"],
+  "species_seasons": [
+   {"species": "Barramundi", "when": "Run-off March to May on the big tidal rivers", "source": "https://www.kakadufishingtours.com.au/full-day-tours/"},
+   {"species": "Barramundi", "when": "Dry season (June to October) on the upper East Alligator above Cahill's Crossing", "source": "https://www.kakadufishingtours.com.au/half-day-tours/"},
+   {"species": "Snapper (golden) and Black Jewfish", "when": "Reefs off the South and East Alligator mouths on smaller tides during the run-off", "source": "https://dnabarrafishing.com.au/acitivities/run-off-barra-fishing-kakadu/"},
+   {"species": "Barramundi", "when": "Wet season (tropical summer) at Yellow Water, when most operators close", "source": "https://northernterritory.com/articles/11-of-the-best-fishing-spots-to-visit-in-the-top-end"}
+  ],
+  "notes": [
+   "Guided fishing inside Kakadu National Park is limited to a small number of operators who meet the park's criteria.",
+   "The upper East Alligator, beside the Arnhem Land escarpment, holds both freshwater and saltwater barramundi; Kakadu Fishing Tours reports a 135cm record fish there.",
+   "Jabiru is about a 2.5-hour drive from Darwin.",
+   "Anglers launching their own boats should check the Bowali Visitor Centre for river conditions, the daily access report and buy a park pass online."
+  ],
+  "sources": ["https://www.kakadufishingtours.com.au/", "https://www.kakadufishingtours.com.au/half-day-tours/", "https://www.kakadufishingtours.com.au/full-day-tours/", "https://dnabarrafishing.com.au/acitivities/run-off-barra-fishing-kakadu/", "https://northernterritory.com/articles/11-of-the-best-fishing-spots-to-visit-in-the-top-end"],
+  "operators": ["kakadu-fishing-tours", "dna-barra-fishing"]
+ },
+ {
+  "key": "daly-river",
+  "name": "Daly River",
+  "departure_points": ["Daly River public boat ramp, Wooliana Road", "Anson Bay and the Daly River mouth (mothership trips from Darwin)"],
+  "species_seasons": [
+   {"species": "Barramundi", "when": "Run-off March to May, when big tides draw barra off the Daly–Reynolds floodplains", "source": "https://fishingcharterdarwin.com.au/daly-river-reynold-flood-plains/"},
+   {"species": "Barramundi, Mangrove Jack and Threadfin Salmon", "when": "Coastal creeks of Anson Bay", "source": "https://www.ntfish4x4.com/charters-tours"}
+  ],
+  "notes": [
+   "The Daly River, about 210–220km south-west of Darwin, is reserved for recreational fishing; no commercial barramundi fishing is allowed.",
+   "The river rises and falls by up to 16m with the seasons, and tides of up to 7m are common.",
+   "The lower tidal section of the Daly River is closed to fishing from 1 October to 31 January.",
+   "The Daly–Reynolds floodplain system has the largest catchment of any major freshwater floodplain in the NT; the river runs more than 40km from the Daly River crossing to Anson Bay.",
+   "Facilities include tourist parks, a pub, motel, boat ramps, guided fishing, boat hire and a general store."
+  ],
+  "sources": ["https://northernterritory.com/katherine-and-surrounds/see-and-do/outdoor-activities/fishing", "https://fishingcharterdarwin.com.au/daly-river-reynold-flood-plains/", "https://www.ntfish4x4.com/about", "https://www.ntfish4x4.com/charters-tours"],
+  "operators": ["nt-fish-and-4x4", "humbug-fishing-darwin"]
+ },
+ {
+  "key": "dundee",
+  "name": "Dundee Beach & Bynoe Harbour",
+  "departure_points": ["Dundee Beach boat ramp (behind the seawall)", "Bynoe Harbour: Keswick Point (north shore) and three ramps on the south shore, including Crab Claw Island Resort"],
+  "species_seasons": [
+   {"species": "Barramundi", "when": "Any time of year, with October known as the 'sweet spot' when tides suit", "source": "https://northernterritory.com/articles/11-of-the-best-fishing-spots-to-visit-in-the-top-end"},
+   {"species": "Black Jewfish", "when": "Big jewfish are landed close to shore at Dundee", "source": "https://northernterritory.com/articles/11-of-the-best-fishing-spots-to-visit-in-the-top-end"},
+   {"species": "Red Emperor, Coral Trout, Golden Snapper", "when": "Inshore and offshore reefs off Dundee", "source": "https://www.dundeebeachfishingcharters.com.au/barra-bluewater-fishing-charters"},
+   {"species": "Queenfish, Giant Trevally, Spanish Mackerel, Tuna and Sailfish", "when": "Grounds wide of Dundee toward the Peron Islands", "source": "https://www.dundeebeachfishingcharters.com.au/"}
+  ],
+  "notes": [
+   "Dundee Beach is about 90 minutes from Darwin by sealed road (operators quote 140–165km), with a beachfront tavern, holiday park and a boat ramp protected by a seawall.",
+   "Barra fishing at Dundee centres on the Finniss River and nearby coastal creeks; reef and sportfishing grounds extend to the Peron Islands and Bateman Shoals.",
+   "Much of Bynoe Harbour is sheltered enough for small boats, but it sits in a 'storm alley', so watch the BOM radar.",
+   "Several Dundee operators run multi-day packages with their own accommodation."
+  ],
+  "sources": ["https://northernterritory.com/articles/11-of-the-best-fishing-spots-to-visit-in-the-top-end", "https://www.dundeebeachfishingcharters.com.au/", "https://www.dundeebeachfishingcharters.com.au/charters", "https://www.anglerschoice.com.au/"],
+  "operators": ["dundee-beach-fishing-charters", "anglers-choice-fishing-safaris"]
+ },
+ {
+  "key": "tiwi-islands",
+  "name": "Tiwi Islands",
+  "departure_points": ["Leaders Creek boat ramp (closest ramp to the Tiwis, about an hour from Darwin)", "Port Hurd airstrip, Bathurst Island (fly-in)"],
+  "species_seasons": [
+   {"species": "Barramundi, Threadfin Salmon and Mangrove Jack", "when": "Estuaries", "source": "https://northernterritory.com/articles/11-of-the-best-fishing-spots-to-visit-in-the-top-end"},
+   {"species": "Queenfish, Giant Trevally, Golden Snapper and Black Jewfish", "when": "Around the rocky headlands", "source": "https://northernterritory.com/articles/11-of-the-best-fishing-spots-to-visit-in-the-top-end"},
+   {"species": "Snapper (golden) and Black Jewfish", "when": "Year-round; queenfish, trevally and Spanish mackerel join them in the dry season", "source": "https://alurefishingchartersnt.com.au/tiwi-islands-charters/"}
+  ],
+  "notes": [
+   "Bathurst and Melville Islands lie about 80km north of Darwin; a permit is needed to visit and fish.",
+   "Day charters run from Leaders Creek past the Vernon Islands and the Adelaide River mouth to the Tiwis.",
+   "Tiwi Island Retreat at Port Hurd (western Bathurst Island) closes for the wet season, December to March.",
+   "NT tourism notes that Tiwi fishing operators such as Tiwi Island Adventures and Alure Fishing Charters NT generally close during the tropical summer (wet season)."
+  ],
+  "sources": ["https://northernterritory.com/darwin-and-surrounds/destinations/tiwi-islands", "https://northernterritory.com/articles/11-of-the-best-fishing-spots-to-visit-in-the-top-end", "https://alurefishingchartersnt.com.au/tiwi-islands-charters/", "https://tiwiislandretreat.com.au/faq/"],
+  "operators": ["alure-fishing-charters-nt", "tiwi-island-retreat"]
+ },
+ {
+  "key": "arnhem-land",
+  "name": "Arnhem Land, Cobourg & Gove",
+  "departure_points": ["Nhulunbuy: Melville Bay Road boat ramp and Gove Boat Club", "Cobourg Peninsula (fly-in from Darwin, about one hour)", "East Arnhem lodges reached by charter flight (e.g. Dhipirri airstrip)"],
+  "species_seasons": [
+   {"species": "Barramundi", "when": "Estuaries of Arnhem and Buckingham Bays; Glyde River run-off March to June", "source": "https://dhipirribarra.com.au/fishing/the-rivers-and-islands/"},
+   {"species": "Spanish Mackerel, Giant Trevally, Queenfish, Longtail Tuna", "when": "Bluewater and reefs; Cobourg is better known for bluewater than barra", "source": "https://northernterritory.com/arnhem-land/see-and-do/fishing"},
+   {"species": "Coral Trout, Golden Snapper, Red Emperor", "when": "Reefs off the Gove Peninsula", "source": "https://www.objadventures.com.au/faq"}
+  ],
+  "notes": [
+   "Much of the Arnhem Land coast can only be visited and fished legally with permits, usually through accredited fishing tour operators.",
+   "The Cobourg Peninsula is in Garig Gunak Barlu National Park; camping is limited to May–October and needs NT Parks permits. Cobourg Fishing Safaris runs as a fishing camp in April–May and September–November.",
+   "Nhulunbuy (Gove) has no campgrounds or caravan parks; some anglers barge their boats from Darwin. Visitors need a general permit for the region.",
+   "Fishing grounds include the Wessel and English Company Islands offshore and the rivers of Arnhem and Buckingham Bays."
+  ],
+  "sources": ["https://northernterritory.com/arnhem-land/see-and-do/fishing", "https://www.cobourgfishingsafaris.com.au/", "https://www.objadventures.com.au/faq", "https://dhipirribarra.com.au/fishing/the-rivers-and-islands/", "https://australiansportfishingcharters.com/arnhem-land-fishing/"],
+  "operators": ["cobourg-fishing-safaris", "obj-adventures-nhulunbuy-fishing-charters", "dhipirri-barra-and-sportfishing-lodge"]
+ },
+ {
+  "key": "katherine",
+  "name": "Katherine",
+  "departure_points": ["Katherine River spots near town: Knotts Crossing, Donkey Camp, the low-level bridge, Galloping Jacks", "Big Horse Creek boat ramp, about 7km west of Timber Creek (Victoria River)", "Roper Bar (Roper River)"],
+  "species_seasons": [
+   {"species": "Barramundi and Sooty Grunter", "when": "Katherine River, fishing well after the tropical summer", "source": "https://northernterritory.com/katherine-and-surrounds/see-and-do/outdoor-activities/fishing"},
+   {"species": "Barramundi", "when": "Victoria River, best on neap tides when the water is clear", "source": "https://northernterritory.com/katherine-and-surrounds/see-and-do/outdoor-activities/fishing"},
+   {"species": "Barramundi, Black Jewfish, Threadfin Salmon, Giant Trevally, Golden Snapper, Mud Crab", "when": "Roper River: lure fishing in the run-off, live bait through the dry; tidal section east of Roper Bar", "source": "https://northernterritory.com/katherine-and-surrounds/see-and-do/outdoor-activities/fishing"}
+  ],
+  "notes": [
+   "Katherine is about 300km south of Darwin and is mostly a base for nearby rivers (Victoria, Daly, Roper) rather than a charter port.",
+   "The Victoria River ('the Mighty Vic') is the Territory's biggest river; Timber Creek is about 250km from Katherine, and guided tours and boat hire are available there.",
+   "There is guided fishing, camping and lodge accommodation at Roper Bar."
+  ],
+  "sources": ["https://northernterritory.com/katherine-and-surrounds/see-and-do/outdoor-activities/fishing"],
+  "operators": []
+ },
+ {
+  "key": "gulf-nt",
+  "name": "Borroloola & the NT Gulf",
+  "departure_points": ["King Ash Bay Fishing Club boat ramp, McArthur River (about 40–50km from Borroloola)", "Borroloola", "Groote Eylandt (Alyangula)"],
+  "species_seasons": [
+   {"species": "Barramundi", "when": "Best in the build-up (September–December) and run-off (March–May), though caught year-round", "source": "https://www.kingashbay.com.au/"},
+   {"species": "Mangrove Jack, Golden Snapper, Black Jewfish, Threadfin Salmon, Queenfish, Mud Crab", "when": "McArthur River estuaries", "source": "https://www.australiantraveller.com/nt/kings-ash-bay/"},
+   {"species": "Red Emperor, Coral Trout", "when": "Reefs of the Sir Edward Pellew Group of islands", "source": "https://northernterritory.com/katherine-and-surrounds/destinations/borroloola"},
+   {"species": "Marlin and Sailfish", "when": "South of Groote Eylandt, mainly November to March", "source": "https://northernterritory.com/arnhem-land/see-and-do/fishing"},
+   {"species": "Golden Snapper, Coral Trout, Red Emperor, Spanish Mackerel, GT, Queenfish, Longtail Tuna", "when": "Groote Eylandt reef and bluewater", "source": "https://www.gelnt.com.au/experiences/private-fishing-charter/"}
+  ],
+  "notes": [
+   "Borroloola, on the McArthur River, is about 12 hours' drive south-east of Darwin and is the gateway to the Gulf region.",
+   "The McArthur River gives boat access to the Gulf of Carpentaria and the Sir Edward Pellew Islands, which are ringed by reefs and hold billfish close in.",
+   "The last 21km into King Ash Bay is dirt; it is passable by 2WD in the dry but goes largely underwater in the wet. The club has fuel, a mini-mart, cabins, camping and a bar and grill.",
+   "Along the 4WD Nathan River road between Cape Crawford and Roper Bar there is barramundi fishing on the Limmen Bight, Cox and Towns Rivers.",
+   "Crocodiles are present; swimming in the river is not advised."
+  ],
+  "sources": ["https://northernterritory.com/katherine-and-surrounds/see-and-do/outdoor-activities/fishing", "https://northernterritory.com/katherine-and-surrounds/destinations/borroloola", "https://northernterritory.com/katherine-and-surrounds/destinations/king-ash-bay", "https://www.australiantraveller.com/nt/kings-ash-bay/", "https://www.kingashbay.com.au/", "https://northernterritory.com/arnhem-land/see-and-do/fishing", "https://www.gelnt.com.au/experiences/private-fishing-charter/"],
+  "operators": ["groote-eylandt-sports-fishing"]
+ }
+]

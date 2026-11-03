@@ -1,0 +1,651 @@
+[
+ {
+  "key": "sydney",
+  "name": "Sydney",
+  "departure_points": [
+   "Rose Bay (Lyne Park timber wharf)",
+   "Watsons Bay wharf",
+   "Manly Wharf 3",
+   "Balmain - Thames Street Wharf",
+   "Mosman Bay wharf / The Spit / Roseville Bridge ramp",
+   "Cronulla public wharf, Tonkin St (Port Hacking)",
+   "Port Botany - Foreshore Rd, Botany",
+   "Newport public wharf (Pittwater)"
+  ],
+  "species_seasons": [
+   {
+    "species": "Kingfish",
+    "when": "Year-round in Sydney Harbour; peak September to December",
+    "source": "https://wahoocharters.com.au/fishing-charters/kingfish-charters/"
+   },
+   {
+    "species": "Jewfish",
+    "when": "Best October to July in the harbour",
+    "source": "https://www.fishaboutsydney.com.au/"
+   },
+   {
+    "species": "Snapper",
+    "when": "Year-round on the offshore reefs; winter is strong for reef fish",
+    "source": "https://www.sydneypremiumcharters.com.au/shared-sydney-fishing-charters/"
+   },
+   {
+    "species": "Mahi Mahi",
+    "when": "Summer (around the FADs); larger fish early in the season",
+    "source": "https://ambitioncharters.com.au/fishing/"
+   },
+   {
+    "species": "Striped Marlin",
+    "when": "Summer, often from November-December; caught in every month",
+    "source": "https://ambitioncharters.com.au/fishing/"
+   },
+   {
+    "species": "Black Marlin",
+    "when": "From about Christmas on inshore reefs and estuary mouths",
+    "source": "https://ambitioncharters.com.au/fishing/"
+   },
+   {
+    "species": "Blue Marlin",
+    "when": "February to May, peaking late summer-early autumn",
+    "source": "https://ambitioncharters.com.au/fishing/"
+   },
+   {
+    "species": "Yellowfin Tuna",
+    "when": "Late summer through winter, best in winter (with albacore)",
+    "source": "https://ambitioncharters.com.au/fishing/"
+   }
+  ],
+  "notes": [
+   "Sydney Harbour itself holds kingfish to over a metre and big jewfish within sight of the Opera House; harbour guides fish east of the bridge, North Harbour and Middle Harbour.",
+   "Offshore reef trips typically fish 1-12 nautical miles out in 30-120 m of water for snapper, morwong, pearl perch, flathead and nannygai.",
+   "Named sport and game grounds include Long Reef, the 9-mile and 12-mile reefs, 'the Peak' and the NSW DPI fish aggregating devices (FADs).",
+   "Southern trips from Cronulla run past Jibbon Bommie and along the Royal National Park coast; Port Botany gives quick access to the southern reefs.",
+   "Winter brings gemfish runs at Browns Mountain with mako and blue sharks, and occasional southern bluefin in July-August."
+  ],
+  "sources": [
+   "https://ambitioncharters.com.au/fishing/",
+   "https://www.fishaboutsydney.com.au/",
+   "https://wahoocharters.com.au/fishing-charters/kingfish-charters/",
+   "https://www.sydneypremiumcharters.com.au/shared-sydney-fishing-charters/",
+   "https://sydneycharterfishing.com.au/charters/sports-fishing-trips/",
+   "https://deepbluecharters.com.au/fishing-charters/",
+   "https://cronullareeffishingcharters.com/pricing/"
+  ],
+  "operators": [
+   "cronulla-reef-fishing-charters",
+   "fishabout-tours-sydney",
+   "wahoo-fishing-charters-sydney",
+   "blue-reef-fishing-charters-sydney",
+   "sydney-charter-fishing-manly",
+   "deep-blue-charters-sydney",
+   "sydney-premium-charters-cronulla",
+   "reel-adventure-fishing-sydney",
+   "ambition-charters-sydney",
+   "sydney-fly-fishing"
+  ]
+ },
+ {
+  "key": "central-coast",
+  "name": "Central Coast",
+  "departure_points": [
+   "Terrigal Haven boat ramp (Fisherman's Beach)",
+   "Hardys Bay jetty (Killcare Rd, Broken Bay)"
+  ],
+  "species_seasons": [
+   {
+    "species": "Snapper",
+    "when": "Year-round reef fishing",
+    "source": "http://www.reefandgamefishing.com/fishing.html"
+   },
+   {
+    "species": "Marlin",
+    "when": "Seasonal game fishing (tag and release preferred)",
+    "source": "http://www.reefandgamefishing.com/fishing.html"
+   },
+   {
+    "species": "Mahi Mahi",
+    "when": "Summer pelagic",
+    "source": "https://terrigalfishingtours.com.au/"
+   }
+  ],
+  "notes": [
+   "Terrigal boats launch from The Haven and are offshore within minutes; reef species include snapper, jewfish, kingfish, teraglin, blue morwong, flathead, trevally and John Dory.",
+   "Hardys Bay gives access to the offshore reefs and wrecks of the Bouddi Peninsula, with calm-water options inside Broken Bay and the Hawkesbury when it is windy.",
+   "At least one Terrigal operator runs fishing charters only in summer (December to April)."
+  ],
+  "sources": [
+   "http://www.reefandgamefishing.com/",
+   "http://www.reefandgamefishing.com/fishing.html",
+   "https://terrigalfishingtours.com.au/",
+   "https://terrigalfishingtours.com.au/fishing-charter-tour-information/",
+   "https://terrigalfishingtours.com.au/fishing-charter-gift-vouchers/"
+  ],
+  "operators": [
+   "terrigal-fishing-tours",
+   "central-coast-reef-and-game-fishing-charters"
+  ]
+ },
+ {
+  "key": "newcastle",
+  "name": "Newcastle",
+  "departure_points": [
+   "Kilaben Bay public jetty (Lake Macquarie)",
+   "Other public jetties on Lake Macquarie by arrangement"
+  ],
+  "species_seasons": [
+   {
+    "species": "Flathead",
+    "when": "Year-round",
+    "source": "https://day-trippin-charters.squarespace.com/half-day-fishing"
+   },
+   {
+    "species": "Jewfish",
+    "when": "Year-round, with twilight sessions aimed at mulloway",
+    "source": "https://day-trippin-charters.squarespace.com/half-day-fishing"
+   },
+   {
+    "species": "Australian Salmon",
+    "when": "Cooler months in Swansea Channel",
+    "source": "https://www.dpi.nsw.gov.au/fishing/recreational/resources/info/fishing-locations/go-fishing-lake-macquarie"
+   }
+  ],
+  "notes": [
+   "Lake Macquarie is a Recreational Fishing Haven of about 110 sq km - the largest coastal saltwater lake in Australia - linked to the sea by the Swansea Channel.",
+   "Swansea Channel is popular for dusky flathead, bream, whiting and luderick; Australian salmon school there in the cooler months, and yellowtail kingfish are a prized catch around Swansea Bridge.",
+   "The lake has a series of DPI artificial reefs built with Recreational Fishing Trust funds.",
+   "Flathead, bream and whiting are the lake's 'big three'; mulloway and kingfish are the prized sportfish.",
+   "The Hunter River and Newcastle Harbour (oyster beds, wrecks and structure) are also fished by local guides."
+  ],
+  "sources": [
+   "https://day-trippin-charters.squarespace.com/the-fish",
+   "https://day-trippin-charters.squarespace.com/half-day-fishing",
+   "https://www.dpi.nsw.gov.au/fishing/recreational/resources/info/fishing-locations/go-fishing-lake-macquarie"
+  ],
+  "operators": [
+   "day-trippin-charters"
+  ]
+ },
+ {
+  "key": "port-stephens",
+  "name": "Port Stephens",
+  "departure_points": [
+   "d'Albora Marinas, Nelson Bay",
+   "Anchorage Marina, Corlette",
+   "Soldiers Point"
+  ],
+  "species_seasons": [
+   {
+    "species": "Black Marlin",
+    "when": "Late spring through summer (30-100 kg fish); December to March at the FADs and the Big Gibber",
+    "source": "https://www.marlinfishingaustralia.com.au/marlin-fishing-port-stephens/"
+   },
+   {
+    "species": "Striped Marlin",
+    "when": "December to March, often in packs on bait balls",
+    "source": "https://www.reelcontagiouscharters.com.au/charters/"
+   },
+   {
+    "species": "Blue Marlin",
+    "when": "January to March over the continental shelf",
+    "source": "https://www.reelcontagiouscharters.com.au/charters/"
+   },
+   {
+    "species": "Tuna",
+    "when": "April to July wide of Port Stephens",
+    "source": "https://www.reelcontagiouscharters.com.au/"
+   },
+   {
+    "species": "Mahi Mahi",
+    "when": "December to March around the FADs",
+    "source": "https://www.reelcontagiouscharters.com.au/"
+   },
+   {
+    "species": "Snapper",
+    "when": "Reef trips around Broughton, Cabbage Tree and Little islands",
+    "source": "https://hammerheadcharters.com.au/reef-fishing/"
+   }
+  ],
+  "notes": [
+   "Port Stephens is one of the few places where blue, black and striped marlin can all be caught in a single day, and it hosts the NSW Interclub game fishing tournament.",
+   "Named grounds: Broughton Island, Cabbage Tree Island, Boondelbah, Little Island, Fingal Head, the Big Gibber, 'the Car Park' and the FAD region about 20 km out.",
+   "Inside the port, the estuary and its Myall, Karuah and Tilligerry tributaries hold flathead, bream, whiting, mulloway, luderick, kingfish and even longtail tuna."
+  ],
+  "sources": [
+   "https://www.marlinfishingaustralia.com.au/marlin-fishing-port-stephens/",
+   "https://www.reelcontagiouscharters.com.au/charters/",
+   "https://hammerheadcharters.com.au/reef-fishing/",
+   "https://fishportstephensestuarycharters.com/"
+  ],
+  "operators": [
+   "hammerhead-charters-nelson-bay",
+   "pacific-blue-fishing-charters-nelson-bay",
+   "reel-contagious-charters-port-stephens",
+   "fish-port-stephens-estuary-charters",
+   "calypso-fishing-adventures"
+  ]
+ },
+ {
+  "key": "port-macquarie",
+  "name": "Port Macquarie",
+  "departure_points": [
+   "Town Green boardwalk, Short St car park end (74 Clarence St)",
+   "McInherney Park boat ramp (River Park Rd), Hastings River"
+  ],
+  "species_seasons": [
+   {
+    "species": "Flathead",
+    "when": "Year-round (dusky flathead in the estuaries)",
+    "source": "https://www.castawayfishing.com.au/target-species"
+   },
+   {
+    "species": "Jewfish",
+    "when": "Year-round in the Hastings River",
+    "source": "https://www.castawayfishing.com.au/target-species"
+   },
+   {
+    "species": "Whiting",
+    "when": "October to April on the sand flats",
+    "source": "https://www.castawayfishing.com.au/target-species"
+   },
+   {
+    "species": "Mahi Mahi",
+    "when": "Warmer offshore months",
+    "source": "https://www.portmacquariefishingcharters.com.au/port-macquarie-fishing-information-holidays-charter-boat-port-macquarie-fishing-charters/"
+   },
+   {
+    "species": "Snapper",
+    "when": "Offshore reefs; spring and summer are the main seasons",
+    "source": "https://www.portmacquariefishingcharters.com.au/port-macquarie-fishing-information-holidays-charter-boat-port-macquarie-fishing-charters/"
+   }
+  ],
+  "notes": [
+   "Offshore boats leave from the town centre and fish the reefs for snapper, pearl perch, kingfish and jewfish.",
+   "The Hastings River is tidal for about 32 km inland; the Maria River, Limeburners Creek and the Camden Haven, Manning and Macleay rivers are also fished.",
+   "Australian bass are guided from September to May in the Hastings, Maria and Macleay rivers (catch and release)."
+  ],
+  "sources": [
+   "https://www.portmacquariefishingcharters.com.au/",
+   "https://www.castawayfishing.com.au/target-species",
+   "https://www.portmacquariefishingcharters.com.au/port-macquarie-fishing-information-holidays-charter-boat-port-macquarie-fishing-charters/"
+  ],
+  "operators": [
+   "port-macquarie-fishing-charters",
+   "castaway-estuary-fishing-charters"
+  ]
+ },
+ {
+  "key": "south-west-rocks",
+  "name": "South West Rocks",
+  "departure_points": [
+   "South West Rocks boat shed moorings",
+   "New Entrance Rd, South West Rocks"
+  ],
+  "species_seasons": [
+   {
+    "species": "Snapper",
+    "when": "Winter and spring are best",
+    "source": "https://www.southwestrocksfishcharters.com.au/questions-and-answers/"
+   },
+   {
+    "species": "Pearl Perch",
+    "when": "Winter and spring",
+    "source": "https://www.southwestrocksfishcharters.com.au/questions-and-answers/"
+   },
+   {
+    "species": "Spanish Mackerel",
+    "when": "Summer (with spotted and school mackerel)",
+    "source": "https://www.southwestrocksfishcharters.com.au/questions-and-answers/"
+   },
+   {
+    "species": "Marlin",
+    "when": "Summer surface fishing, with sailfish, wahoo and mahi mahi",
+    "source": "https://www.southwestrocksfishcharters.com.au/questions-and-answers/"
+   }
+  ],
+  "notes": [
+   "The first ocean reef is about ten minutes from the bar and only a kilometre offshore; most fishing is 1-5 km out in 10-100 m of water, ranging to about 30 km.",
+   "The continental shelf is only about 12 nautical miles off South West Rocks, so the East Australian Current pushes warm water close in; three deep canyons along the shelf hold blue marlin.",
+   "When it is rough outside, the Macleay River estuary offers flathead, trevally, bream, whiting, mulloway and mangrove jack."
+  ],
+  "sources": [
+   "https://www.southwestrocksfishcharters.com.au/questions-and-answers/",
+   "https://www.wildsidesportfishing.com/offshore-fishing-charters-south-west-rocks/",
+   "https://www.wildsidesportfishing.com/game-fishing/"
+  ],
+  "operators": [
+   "south-west-rocks-fishing-charters",
+   "wildside-sportfishing"
+  ]
+ },
+ {
+  "key": "coffs-harbour",
+  "name": "Coffs Harbour",
+  "departure_points": [
+   "Coffs Harbour International Marina"
+  ],
+  "species_seasons": [
+   {
+    "species": "Snapper",
+    "when": "Year-round reef fishing",
+    "source": "https://coffsharbourfishing.rezdy.com/"
+   },
+   {
+    "species": "Mahi Mahi",
+    "when": "Summer offshore pelagic season",
+    "source": "https://www.coffscoast.com.au/article/fishing-on-the-coffs-coast/"
+   },
+   {
+    "species": "Marlin",
+    "when": "Summer, out on the shelf",
+    "source": "https://www.coffscoast.com.au/article/fishing-on-the-coffs-coast/"
+   }
+  ],
+  "notes": [
+   "The Solitary Islands Marine Park is the oldest marine park in NSW, covering about 71,000 ha and 100 km of coast from Coffs Harbour to the Sandon River; tropical and temperate currents meet here.",
+   "Charter reef trips fish live- and dead-bait reefs from about 20 m to 120 m for snapper, pearl perch, tuskfish and jewfish; South Solitary Island is a noted kingfish, cobia, mackerel and wahoo spot.",
+   "Check marine park zoning (FishSmart app) before fishing."
+  ],
+  "sources": [
+   "https://www.coffscoast.com.au/article/fishing-on-the-coffs-coast/",
+   "https://coffsharbourfishing.rezdy.com/"
+  ],
+  "operators": [
+   "coffs-harbour-fishing-charters"
+  ]
+ },
+ {
+  "key": "yamba",
+  "name": "Yamba & Iluka",
+  "departure_points": [
+   "Yamba Shores Tavern, The Mainbrace (Yamba Marina area)",
+   "Iluka Boatshed / Iluka pick-ups",
+   "Yamba pick-up points"
+  ],
+  "species_seasons": [
+   {
+    "species": "Snapper",
+    "when": "Offshore reefs",
+    "source": "https://www.gofishyamba.com.au/about"
+   },
+   {
+    "species": "Pearl Perch",
+    "when": "Offshore reefs",
+    "source": "https://www.gofishyamba.com.au/about"
+   },
+   {
+    "species": "Mackerel",
+    "when": "Seasonal pelagic",
+    "source": "https://www.gofishyamba.com.au/about"
+   }
+  ],
+  "notes": [
+   "Charter grounds run from Evans Head in the north to Sandon in the south and out to the continental shelf; many reef trips fish 5-10 km off the Clarence River bar.",
+   "Operators also run humpback whale watching in season between Woody Head and Angourie."
+  ],
+  "sources": [
+   "https://www.gofishyamba.com.au/about",
+   "https://www.yambafishingandcharters.com.au/faq"
+  ],
+  "operators": [
+   "go-fish-yamba-charters",
+   "yamba-fishing-and-charters"
+  ]
+ },
+ {
+  "key": "ballina-byron",
+  "name": "Ballina & Byron Bay",
+  "departure_points": [
+   "Brunswick Heads jetty (Boat Harbour)",
+   "Evans Head marina"
+  ],
+  "species_seasons": [
+   {
+    "species": "Pearl Perch",
+    "when": "Year-round; specialty in about 80 m of water ~30 km off Evans Head",
+    "source": "https://www.evansheadfishingcharters.com.au/"
+   },
+   {
+    "species": "Kingfish",
+    "when": "Reef target off Byron and Brunswick",
+    "source": "https://byronbaycharters.com.au/about/"
+   }
+  ],
+  "notes": [
+   "A new DPI offshore artificial reef (two steel towers in 32 m, about 5 km south of the Richmond River mouth) was deployed off Ballina in March 2026; expected species are mackerel, snapper and mulloway.",
+   "Brunswick Heads boats fish off Byron Bay and the Cape Byron Marine Park area for snapper, pearl perch, jewfish and kingfish, with mackerel, wahoo, tuna and marlin in the warmer months."
+  ],
+  "sources": [
+   "https://byronbaycharters.com.au/about/",
+   "https://www.evansheadfishingcharters.com.au/",
+   "https://www.dpi.nsw.gov.au/fishing/recreational/resources/artificial-reef/ballina-offshore-artificial-reef"
+  ],
+  "operators": [
+   "byron-bay-charters",
+   "evans-head-deep-sea-fishing-charters"
+  ]
+ },
+ {
+  "key": "tweed",
+  "name": "Tweed Heads",
+  "departure_points": [
+   "Tweed Marina, River Terrace, Tweed Heads"
+  ],
+  "species_seasons": [
+   {
+    "species": "Snapper",
+    "when": "Year-round reef fishing",
+    "source": "https://cushyfishingcharters.com.au/fishing-charters/"
+   },
+   {
+    "species": "Marlin",
+    "when": "December to March game season (with wahoo, mackerel, mahi mahi and tuna)",
+    "source": "https://cushyfishingcharters.com.au/fishing-charters/"
+   }
+  ],
+  "notes": [
+   "The closest reefs are within 3 km of the Tweed River entrance, extending east to the continental shelf; live baiting targets kingfish, cobia, mulloway, amberjack and samsonfish.",
+   "Humpback whales are commonly seen on winter fishing trips."
+  ],
+  "sources": [
+   "https://cushyfishingcharters.com.au/",
+   "https://cushyfishingcharters.com.au/fishing-charters/"
+  ],
+  "operators": [
+   "cushy-fishing-charters"
+  ]
+ },
+ {
+  "key": "wollongong",
+  "name": "Wollongong",
+  "departure_points": [
+   "Wollongong Harbour (Belmore Basin)",
+   "Kiama Harbour (Robertson Basin)"
+  ],
+  "species_seasons": [
+   {
+    "species": "Snapper",
+    "when": "Year-round reef fishing",
+    "source": "https://kiamafishing.com.au/reef-fishing/"
+   },
+   {
+    "species": "Marlin",
+    "when": "December to April (black, striped and blue)",
+    "source": "https://www.fiveislandcharters.com.au/pricing/"
+   },
+   {
+    "species": "Yellowfin Tuna",
+    "when": "December to April and June to October (with bluefin and albacore in winter)",
+    "source": "https://www.fiveislandcharters.com.au/pricing/"
+   }
+  ],
+  "notes": [
+   "Wollongong boats drift the coast between Stanwell Park and Shellharbour, from just off the beach to about ten miles out (Bellambi, Five Islands/Port Kembla).",
+   "From Kiama the boat is 'outside' almost immediately; reef trips stay within about 15 km in up to 140 m, and the shelf is about 30 km offshore.",
+   "Deep-sea trips for blue-eye trevalla, gemfish and hapuku are a cool-season option, roughly May to September, in water to 400 m."
+  ],
+  "sources": [
+   "https://www.aquillacharters.com.au/faq",
+   "https://kiamafishing.com.au/",
+   "https://kiamafishing.com.au/deep-sea-fishing/",
+   "https://www.fiveislandcharters.com.au/pricing/"
+  ],
+  "operators": [
+   "five-island-charters-wollongong",
+   "aquilla-fishing-charters-wollongong",
+   "kiama-charter-service"
+  ]
+ },
+ {
+  "key": "jervis-bay",
+  "name": "Jervis Bay & Shoalhaven",
+  "departure_points": [
+   "Huskisson / Currambene Creek",
+   "Greenwell Point"
+  ],
+  "species_seasons": [
+   {
+    "species": "Squid",
+    "when": "Jervis Bay is renowned for squid over the seagrass edges",
+    "source": "https://www.dpi.nsw.gov.au/fishing/marine-protected-areas/marine-parks/jervis-bay-marine-park/recreational-fishing"
+   },
+   {
+    "species": "Snapper",
+    "when": "Excellent bottom fishing offshore and in the bay",
+    "source": "https://www.dpi.nsw.gov.au/fishing/marine-protected-areas/marine-parks/jervis-bay-marine-park/recreational-fishing"
+   }
+  ],
+  "notes": [
+   "Deep water sits right next to Jervis Bay and the continental shelf is close, so offshore trolling and jigging for kingfish, tuna, bonito, salmon and dolphinfish is easily reached.",
+   "Jervis Bay's land-based game fishing is legendary, with several record marlin landed from the ledges.",
+   "The bay is a marine park: check the zoning map and FishSmart app; spearfishing is banned in creeks and sanctuary zones."
+  ],
+  "sources": [
+   "https://www.dpi.nsw.gov.au/fishing/marine-protected-areas/marine-parks/jervis-bay-marine-park/recreational-fishing",
+   "https://www.escapefishingcharters.com.au/about.html"
+  ],
+  "operators": [
+   "escape-fishing-charters-greenwell-point",
+   "jervis-bay-fishing-charters-huskisson"
+  ]
+ },
+ {
+  "key": "batemans-bay",
+  "name": "Batemans Bay & Narooma",
+  "departure_points": [
+   "d'Albora Marina, Beach Rd, Batemans Bay",
+   "Narooma town wharf (Bluewater Dr)",
+   "O'Shea Wharf, Bermagui Harbour"
+  ],
+  "species_seasons": [
+   {
+    "species": "Kingfish",
+    "when": "Reef and island target",
+    "source": "https://gameoncharters.net.au/"
+   },
+   {
+    "species": "Yellowfin Tuna",
+    "when": "Offshore from Bermagui",
+    "source": "https://www.fishbermicharters.com.au/"
+   }
+  ],
+  "notes": [
+   "Batemans Bay boats fish the reefs of the bay and the Tollgate Islands for snapper, kingfish, morwong, pigfish and flathead.",
+   "Narooma's town wharf is the closest port to Barunguba Montague Island, a key reef and game fishing area.",
+   "Bermagui operators offer reef, kingfish, tuna and deep-water trips (gemfish, blue-eye trevalla)."
+  ],
+  "sources": [
+   "https://gameoncharters.net.au/",
+   "https://naroomacharters.com.au/narooma-fishing-charters",
+   "https://www.fishbermicharters.com.au/"
+  ],
+  "operators": [
+   "game-on-charters-batemans-bay",
+   "narooma-charters",
+   "fishbermi-charters"
+  ]
+ },
+ {
+  "key": "eden",
+  "name": "Merimbula & Eden",
+  "departure_points": [
+   "Mitchies Jetty, Fishpen Rd, Merimbula",
+   "Eden Harbour (Snug Cove)"
+  ],
+  "species_seasons": [
+   {
+    "species": "Marlin",
+    "when": "Main game season November to end of July (with yellowfin, albacore and striped tuna, shark and broadbill)",
+    "source": "https://www.visiteden.com.au/experience/fishing/"
+   },
+   {
+    "species": "Snapper",
+    "when": "Year-round on the inshore reefs ('Snapper country')",
+    "source": "https://freedomcharters.com.au/reef-fishing.html"
+   },
+   {
+    "species": "Morwong",
+    "when": "Wide reef trips February to April (with ocean perch and shark)",
+    "source": "https://freedomcharters.com.au/reef-fishing.html"
+   },
+   {
+    "species": "Kingfish",
+    "when": "About November to June south of Eden (most 5-8 kg)",
+    "source": "https://freedomcharters.com.au/sports-fishing.html"
+   }
+  ],
+  "notes": [
+   "Eden has the Southern Hemisphere's third-deepest natural harbour, with no bar to cross.",
+   "Merimbula's artificial reef has been in place since September 2018."
+  ],
+  "sources": [
+   "https://www.visiteden.com.au/experience/fishing/",
+   "https://www.sapphirecoast.com.au/fishing",
+   "https://fishpen-charters.squarespace.com/",
+   "https://freedomcharters.com.au/reef-fishing.html",
+   "https://freedomcharters.com.au/sports-fishing.html"
+  ],
+  "operators": [
+   "fishpen-charters-merimbula",
+   "freedom-charters-eden"
+  ]
+ },
+ {
+  "key": "lord-howe-island",
+  "name": "Lord Howe Island",
+  "departure_points": [
+   "Lord Howe Island jetty (lagoon)"
+  ],
+  "species_seasons": [
+   {
+    "species": "Kingfish",
+    "when": "Year-round; winter is best",
+    "source": "https://seabuoys.com.au/offshore-fishing/"
+   },
+   {
+    "species": "Yellowfin Tuna",
+    "when": "Offshore",
+    "source": "https://www.dpi.nsw.gov.au/fishing/marine-protected-areas/marine-parks/lord-howe-island-marine-park/recreational-fishing"
+   },
+   {
+    "species": "Wahoo",
+    "when": "Offshore",
+    "source": "https://www.dpi.nsw.gov.au/fishing/marine-protected-areas/marine-parks/lord-howe-island-marine-park/recreational-fishing"
+   }
+  ],
+  "notes": [
+   "The island sits on the world's southernmost coral reef; the East Australian Current pushes deep water up its slopes, so tropical and temperate species overlap.",
+   "Kingfish here are huge; the marine park also holds some of NSW's biggest silver trevally, plus emperors, jobfish and cods on the bottom.",
+   "Balls Pyramid, the world's tallest sea stack (552 m), is about 23 km from the island and is a premier offshore destination.",
+   "Lagoon sight-casting 'grand slam': trevally, silver drummer, bluefish and the endemic double header wrasse. Spearfishing is banned in the marine park; bag limits apply to bluefish and double header."
+  ],
+  "sources": [
+   "https://lordhoweisland.info/experiences/fishing/",
+   "https://www.dpi.nsw.gov.au/fishing/marine-protected-areas/marine-parks/lord-howe-island-marine-park/recreational-fishing",
+   "https://seabuoys.com.au/offshore-fishing/",
+   "https://lordhoweisland.info/experiences/tours/sea-buoys-ocean-charters/"
+  ],
+  "operators": [
+   "sea-to-summit-lord-howe-fishing",
+   "sea-buoys-ocean-charters"
+  ]
+ }
+]
