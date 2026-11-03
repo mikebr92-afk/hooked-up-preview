@@ -1,5 +1,5 @@
 {
-  "finished_at": "2026-11-03T22:40:08.087Z",
+  "finished_at": "2026-11-03T22:42:05.543Z",
   "summary": [
     {
       "slug": "vic-disc-vfa-licence",
@@ -135,12 +135,20 @@
     },
     {
       "slug": "vic-disc-lists6",
-      "candidates": 0,
-      "pages": 12
+      "skipped": true
     },
     {
       "slug": "wildcast-adventures",
-      "candidates": 10,
+      "skipped": true
+    },
+    {
+      "slug": "sea-myth-fishing-charters",
+      "candidates": 3,
+      "pages": 2
+    },
+    {
+      "slug": "vic-disc-lists7",
+      "candidates": 0,
       "pages": 6
     }
   ]

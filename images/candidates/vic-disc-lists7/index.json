@@ -1,0 +1,52 @@
+{
+  "slug": "vic-disc-lists7",
+  "request_hash": "7ca6b2d8e375",
+  "collected_at": "2026-11-03T22:42:05.542Z",
+  "pages_fetched": [
+    "https://www.yarrawongamulwala.com.au/things-to-do/tours-experiences",
+    "https://www.audioscrape.com/podcast/australian-lure-fishing/episode/episode-610-lake-mulwala-murray-cod-with-jack-hocking-87620",
+    "https://www.podbean.com/ew/pb-3hahg-115736a",
+    "https://www.commercialrealestate.com.au/business-for-sale/westernport-fishing-charters-2018854122",
+    "https://www.unreelfishingcharters.com.au/testimonials",
+    "https://www.unreelfishingcharters.com.au/about-us"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.yarrawongamulwala.com.au/things-to-do/tours-experiences",
+      "status": 200,
+      "final_url": "https://www.yarrawongamulwala.com.au/things-to-do/tours-experiences",
+      "bytes": 130096
+    },
+    {
+      "page": "https://www.audioscrape.com/podcast/australian-lure-fishing/episode/episode-610-lake-mulwala-murray-cod-with-jack-hocking-87620",
+      "status": 403,
+      "final_url": "https://www.audioscrape.com/podcast/australian-lure-fishing/episode/episode-610-lake-mulwala-murray-cod-with-jack-hocking-87620",
+      "bytes": 6293
+    },
+    {
+      "page": "https://www.podbean.com/ew/pb-3hahg-115736a",
+      "status": 403,
+      "final_url": "https://ms.podbean.com/media/share/pb-3hahg-115736a?utm_campaign=w_share_ep&utm_source=w_share_pb&utm_medium=dlink",
+      "bytes": 6181
+    },
+    {
+      "page": "https://www.commercialrealestate.com.au/business-for-sale/westernport-fishing-charters-2018854122",
+      "status": 403,
+      "final_url": "https://www.commercialrealestate.com.au/business-for-sale/westernport-fishing-charters-2018854122",
+      "bytes": 470
+    },
+    {
+      "page": "https://www.unreelfishingcharters.com.au/testimonials",
+      "status": 200,
+      "final_url": "https://www.unreelfishingcharters.com.au/testimonials",
+      "bytes": 167280
+    },
+    {
+      "page": "https://www.unreelfishingcharters.com.au/about-us",
+      "status": 404,
+      "final_url": "https://www.unreelfishingcharters.com.au/about-us",
+      "bytes": 193907
+    }
+  ]
+}

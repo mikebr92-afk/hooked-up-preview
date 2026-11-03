@@ -1,0 +1,69 @@
+{
+  "slug": "sea-myth-fishing-charters",
+  "request_hash": "b6d818710be7",
+  "collected_at": "2026-11-03T22:42:02.330Z",
+  "pages_fetched": [
+    "https://seamythcharters.com.au/",
+    "https://www.seamythcharters.com.au/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1500,
+      "height": 849,
+      "original": "1500x849",
+      "source": "https://seamythcharters.com.au/assets/img/the-big-one.jpg",
+      "page": "https://seamythcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 1500,
+      "height": 771,
+      "original": "1500x771",
+      "source": "https://seamythcharters.com.au/assets/img/emma-fish.jpg",
+      "page": "https://seamythcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1500,
+      "height": 502,
+      "original": "1500x502",
+      "source": "https://seamythcharters.com.au/assets/img/gippsland-sunset.jpg",
+      "page": "https://seamythcharters.com.au/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://seamythcharters.com.au/",
+      "status": 200,
+      "final_url": "https://seamythcharters.com.au/",
+      "bytes": 12272
+    },
+    {
+      "page": "https://www.seamythcharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.seamythcharters.com.au/",
+      "bytes": 12272
+    },
+    {
+      "image": "https://seamythcharters.com.au/assets/img/crabs-in-bin.jpg",
+      "error": "too small 429x250"
+    },
+    {
+      "dup": "https://www.seamythcharters.com.au/assets/img/the-big-one.jpg"
+    },
+    {
+      "dup": "https://www.seamythcharters.com.au/assets/img/emma-fish.jpg"
+    },
+    {
+      "dup": "https://www.seamythcharters.com.au/assets/img/gippsland-sunset.jpg"
+    },
+    {
+      "image": "https://www.seamythcharters.com.au/assets/img/crabs-in-bin.jpg",
+      "error": "too small 429x250"
+    }
+  ]
+}
