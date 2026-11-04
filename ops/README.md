@@ -27,6 +27,7 @@ published on the website (both are excluded in `.assetsignore`).
   | `linkcheck.mjs` | check the locally served site: links, head tags and JSON-LD |
   | `crawl.mjs` | compare raw and rendered pages (needs Playwright) |
   | `enquiry.mjs` | test the enquiry form end to end (needs Playwright) |
+| `count-check.mjs` | check every count shown on the site against the live data (needs Playwright) |
 
 ## Running a state agent (orchestrator steps)
 
@@ -49,7 +50,7 @@ published on the website (both are excluded in `.assetsignore`).
    season). Merge `guides.json` into `data/guides.json`, without the `sources` field.
 6. **Verify:**
    - serve locally;
-   - run `qa.mjs` and `linkcheck.mjs`;
+   - run `qa.mjs`, `linkcheck.mjs` and `count-check.mjs`;
    - run the crawl and the enquiry test;
    - visual check.
 7. **Ship:** commit to the working branch, fast-forward `main` (Cloudflare deploys), then run `state_kb.mjs` and
