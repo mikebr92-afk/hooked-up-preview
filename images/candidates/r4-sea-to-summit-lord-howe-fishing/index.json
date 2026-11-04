@@ -1,7 +1,7 @@
 {
   "slug": "r4-sea-to-summit-lord-howe-fishing",
   "request_hash": "1e93865a7e1a",
-  "collected_at": "2026-11-04T03:52:52.042Z",
+  "collected_at": "2026-11-04T04:03:56.142Z",
   "pages_fetched": [
     "https://www.lordhoweislandtours.net/charter-fishing",
     "https://www.lordhoweislandtours.net/",
@@ -88,7 +88,7 @@
       "page": "https://lordhoweisland.info/about/museum-and-visitor-centre/",
       "status": 200,
       "final_url": "https://lordhoweisland.info/about/museum-and-visitor-centre/",
-      "bytes": 118864
+      "bytes": 118891
     }
   ]
 }

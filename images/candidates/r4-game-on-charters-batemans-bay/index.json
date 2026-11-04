@@ -1,7 +1,7 @@
 {
   "slug": "r4-game-on-charters-batemans-bay",
   "request_hash": "40f2290c975b",
-  "collected_at": "2026-11-04T03:55:09.407Z",
+  "collected_at": "2026-11-04T04:06:13.219Z",
   "pages_fetched": [
     "https://gameoncharters.net.au/",
     "https://gameoncharters.net.au/charters/",
@@ -22,25 +22,25 @@
       "page": "https://gameoncharters.net.au/",
       "status": 200,
       "final_url": "https://gameoncharters.net.au/",
-      "bytes": 203870
+      "bytes": 203867
     },
     {
       "page": "https://gameoncharters.net.au/charters/",
       "status": 200,
       "final_url": "https://gameoncharters.net.au/charters/",
-      "bytes": 134311
+      "bytes": 134312
     },
     {
       "page": "https://gameoncharters.net.au/about-us/",
       "status": 200,
       "final_url": "https://gameoncharters.net.au/about-us/",
-      "bytes": 141296
+      "bytes": 141295
     },
     {
       "page": "https://gameoncharters.net.au/fishing-charters-batemans-bay-whale-watching-batemans-bay/",
       "status": 200,
       "final_url": "https://gameoncharters.net.au/fishing-charters-batemans-bay-whale-watching-batemans-bay/",
-      "bytes": 133026
+      "bytes": 133029
     },
     {
       "page": "https://www.visitnsw.com/things-to-do/tours/game-charters-batemans-bay",
@@ -50,45 +50,45 @@
     },
     {
       "page": "https://gameoncharters.net.au/reef-fishing/",
-      "status": 200,
-      "final_url": "https://gameoncharters.net.au/reef-fishing-half-full-day-shared-private/",
-      "bytes": 132296
+      "status": 508,
+      "final_url": "https://gameoncharters.net.au/reef-fishing/",
+      "bytes": 553
     },
     {
       "page": "https://gameoncharters.net.au/game-fishing/",
-      "status": 200,
-      "final_url": "https://gameoncharters.net.au/game-fishing-full-day-private-charter/",
-      "bytes": 132871
+      "status": 508,
+      "final_url": "https://gameoncharters.net.au/game-fishing/",
+      "bytes": 553
     },
     {
       "page": "https://gameoncharters.net.au/deep-drop-fishing/",
-      "status": 200,
-      "final_url": "https://gameoncharters.net.au/deep-drop-fishing-full-day-only-shared-private/",
-      "bytes": 133735
+      "status": 508,
+      "final_url": "https://gameoncharters.net.au/deep-drop-fishing/",
+      "bytes": 553
     },
     {
       "page": "https://gameoncharters.net.au/charter-info/",
-      "status": 200,
+      "status": 508,
       "final_url": "https://gameoncharters.net.au/charter-info/",
-      "bytes": 163200
+      "bytes": 553
     },
     {
       "page": "https://gameoncharters.net.au/policies/",
-      "status": 200,
+      "status": 508,
       "final_url": "https://gameoncharters.net.au/policies/",
-      "bytes": 119965
+      "bytes": 553
     },
     {
       "page": "https://gameoncharters.net.au/whale-watchiing/",
-      "status": 200,
+      "status": 508,
       "final_url": "https://gameoncharters.net.au/whale-watchiing/",
-      "bytes": 156176
+      "bytes": 553
     },
     {
       "page": "https://gameoncharters.net.au/sunseet-cruiise-clyde-river/",
-      "status": 200,
+      "status": 508,
       "final_url": "https://gameoncharters.net.au/sunseet-cruiise-clyde-river/",
-      "bytes": 133093
+      "bytes": 553
     }
   ]
 }

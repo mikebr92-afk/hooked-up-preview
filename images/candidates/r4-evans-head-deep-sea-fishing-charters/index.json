@@ -1,7 +1,7 @@
 {
   "slug": "r4-evans-head-deep-sea-fishing-charters",
   "request_hash": "1faea499b426",
-  "collected_at": "2026-11-04T03:51:56.431Z",
+  "collected_at": "2026-11-04T04:03:16.348Z",
   "pages_fetched": [
     "https://www.evansheadfishingcharters.com.au/",
     "https://www.evansheadfishingcharters.com.au/about-us/",
@@ -46,7 +46,7 @@
       "page": "https://www.evansheadfishingcharters.com.au/fishing-photos/",
       "status": 200,
       "final_url": "https://www.evansheadfishingcharters.com.au/fishing-photos/",
-      "bytes": 97201
+      "bytes": 97197
     },
     {
       "page": "https://www.evansheadfishingcharters.com.au/contact-us/",

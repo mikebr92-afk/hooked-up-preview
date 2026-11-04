@@ -1,0 +1,38 @@
+{
+  "slug": "r4-disc-coffs-2",
+  "request_hash": "4e3fab4b7593",
+  "collected_at": "2026-11-04T04:09:04.677Z",
+  "pages_fetched": [
+    "https://fishingbooker.com/destinations/location/au/NS/coffs-harbour",
+    "https://www.coffscoast.com.au/?p=6104",
+    "https://localsearch.com.au/find/fishing-trips-charters/coffs-harbour-nsw",
+    "https://australiasguide.com/nsw/attraction-tour/clarence-valley/wooli/solitary-island-fishing-charters/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://fishingbooker.com/destinations/location/au/NS/coffs-harbour",
+      "status": 403,
+      "final_url": "https://fishingbooker.com/destinations/location/au/NS/coffs-harbour",
+      "bytes": 5925
+    },
+    {
+      "page": "https://www.coffscoast.com.au/?p=6104",
+      "status": 404,
+      "final_url": "https://www.coffscoast.com.au/?p=6104",
+      "bytes": 132657
+    },
+    {
+      "page": "https://localsearch.com.au/find/fishing-trips-charters/coffs-harbour-nsw",
+      "status": 405,
+      "final_url": "https://www.localsearch.com.au/find/fishing-trips-charters/coffs-harbour-nsw",
+      "bytes": 2503
+    },
+    {
+      "page": "https://australiasguide.com/nsw/attraction-tour/clarence-valley/wooli/solitary-island-fishing-charters/",
+      "status": 404,
+      "final_url": "https://australiasguide.com/nsw/attraction-tour/clarence-valley/wooli/solitary-island-fishing-charters/",
+      "bytes": 103361
+    }
+  ]
+}

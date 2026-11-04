@@ -1,7 +1,7 @@
 {
   "slug": "r4-disc-coffs",
   "request_hash": "6e2bad0d594d",
-  "collected_at": "2026-11-04T03:58:08.678Z",
+  "collected_at": "2026-11-04T04:08:53.587Z",
   "pages_fetched": [
     "https://www.coffscoast.com.au/article/fishing-on-the-coffs-coast/",
     "https://www.coffscoast.com.au/?s=fishing+charter",
@@ -13,13 +13,13 @@
       "page": "https://www.coffscoast.com.au/article/fishing-on-the-coffs-coast/",
       "status": 200,
       "final_url": "https://www.coffscoast.com.au/article/fishing-on-the-coffs-coast/",
-      "bytes": 12127
+      "bytes": 193766
     },
     {
       "page": "https://www.coffscoast.com.au/?s=fishing+charter",
       "status": 200,
       "final_url": "https://www.coffscoast.com.au/?s=fishing+charter",
-      "bytes": 12112
+      "bytes": 136060
     },
     {
       "page": "https://www.visitnsw.com/destinations/north-coast/coffs-coast/coffs-harbour-area/coffs-harbour/attractions",

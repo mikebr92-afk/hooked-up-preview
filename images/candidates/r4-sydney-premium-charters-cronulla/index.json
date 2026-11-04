@@ -1,13 +1,18 @@
 {
   "slug": "r4-sydney-premium-charters-cronulla",
   "request_hash": "ca5ac8a42871",
-  "collected_at": "2026-11-04T03:56:44.009Z",
+  "collected_at": "2026-11-04T04:07:44.172Z",
   "pages_fetched": [
     "https://www.sydneypremiumcharters.com.au/",
     "https://www.sydneypremiumcharters.com.au/boats/",
     "https://www.sydneypremiumcharters.com.au/shared-sydney-fishing-charters/",
     "https://www.sydneypremiumcharters.com.au/fishing-trips-sydney-4hrs/",
-    "https://www.sydneypremiumcharters.com.au/private-fishing-charter-sydney-5hrs/"
+    "https://www.sydneypremiumcharters.com.au/private-fishing-charter-sydney-5hrs/",
+    "https://www.sydneypremiumcharters.com.au/deep-sea-fishing-sydney/",
+    "https://www.sydneypremiumcharters.com.au/fishing-charters-sydney-6-5hrs/",
+    "https://www.sydneypremiumcharters.com.au/mahi-mahi-fishing-sydney/",
+    "https://www.sydneypremiumcharters.com.au/gift-voucher/",
+    "https://www.sydneypremiumcharters.com.au/frequently-asked-questions/"
   ],
   "candidates": [],
   "log": [
@@ -15,31 +20,61 @@
       "page": "https://www.sydneypremiumcharters.com.au/",
       "status": 200,
       "final_url": "https://www.sydneypremiumcharters.com.au/",
-      "bytes": 11929
+      "bytes": 287219
     },
     {
       "page": "https://www.sydneypremiumcharters.com.au/boats/",
       "status": 200,
       "final_url": "https://www.sydneypremiumcharters.com.au/boats/",
-      "bytes": 11824
+      "bytes": 283611
     },
     {
       "page": "https://www.sydneypremiumcharters.com.au/shared-sydney-fishing-charters/",
       "status": 200,
       "final_url": "https://www.sydneypremiumcharters.com.au/shared-sydney-fishing-charters/",
-      "bytes": 11849
+      "bytes": 291047
     },
     {
       "page": "https://www.sydneypremiumcharters.com.au/fishing-trips-sydney-4hrs/",
       "status": 200,
       "final_url": "https://www.sydneypremiumcharters.com.au/fishing-trips-sydney-4hrs/",
-      "bytes": 11844
+      "bytes": 289725
     },
     {
       "page": "https://www.sydneypremiumcharters.com.au/private-fishing-charter-sydney-5hrs/",
       "status": 200,
       "final_url": "https://www.sydneypremiumcharters.com.au/private-fishing-charter-sydney-5hrs/",
-      "bytes": 11854
+      "bytes": 287490
+    },
+    {
+      "page": "https://www.sydneypremiumcharters.com.au/deep-sea-fishing-sydney/",
+      "status": 200,
+      "final_url": "https://www.sydneypremiumcharters.com.au/deep-sea-fishing-sydney/",
+      "bytes": 339645
+    },
+    {
+      "page": "https://www.sydneypremiumcharters.com.au/fishing-charters-sydney-6-5hrs/",
+      "status": 200,
+      "final_url": "https://www.sydneypremiumcharters.com.au/fishing-charters-sydney-6-5hrs/",
+      "bytes": 295833
+    },
+    {
+      "page": "https://www.sydneypremiumcharters.com.au/mahi-mahi-fishing-sydney/",
+      "status": 200,
+      "final_url": "https://www.sydneypremiumcharters.com.au/mahi-mahi-fishing-sydney/",
+      "bytes": 268615
+    },
+    {
+      "page": "https://www.sydneypremiumcharters.com.au/gift-voucher/",
+      "status": 200,
+      "final_url": "https://www.sydneypremiumcharters.com.au/gift-voucher/",
+      "bytes": 344318
+    },
+    {
+      "page": "https://www.sydneypremiumcharters.com.au/frequently-asked-questions/",
+      "status": 200,
+      "final_url": "https://www.sydneypremiumcharters.com.au/frequently-asked-questions/",
+      "bytes": 284746
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "slug": "r4-coffs-harbour-fishing-charters",
   "request_hash": "a3c4f78ba7ee",
-  "collected_at": "2026-11-04T03:52:32.145Z",
+  "collected_at": "2026-11-04T04:03:38.567Z",
   "pages_fetched": [
     "https://coffsharbourfishing.com.au/",
     "https://coffsharbourfishing.com.au/about-us/",
@@ -40,7 +40,7 @@
       "page": "https://www.coffscoast.com.au/article/fishing-on-the-coffs-coast/",
       "status": 200,
       "final_url": "https://www.coffscoast.com.au/article/fishing-on-the-coffs-coast/",
-      "bytes": 12174
+      "bytes": 193766
     },
     {
       "page": "https://coffsharbourfishing.com.au/charters/",

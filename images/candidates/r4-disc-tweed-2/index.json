@@ -1,0 +1,31 @@
+{
+  "slug": "r4-disc-tweed-2",
+  "request_hash": "244da5f25c23",
+  "collected_at": "2026-11-04T04:08:59.075Z",
+  "pages_fetched": [
+    "https://fishingbooker.com/destinations/location/au/NS/tweed-heads",
+    "https://localsearch.com.au/find/fishing-trips-charters/tweed-heads-nsw",
+    "https://localsearch.com.au/find/fishing-trips-charters/tweed-coast-nsw"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://fishingbooker.com/destinations/location/au/NS/tweed-heads",
+      "status": 403,
+      "final_url": "https://fishingbooker.com/destinations/location/au/NS/tweed-heads",
+      "bytes": 5919
+    },
+    {
+      "page": "https://localsearch.com.au/find/fishing-trips-charters/tweed-heads-nsw",
+      "status": 405,
+      "final_url": "https://www.localsearch.com.au/find/fishing-trips-charters/tweed-heads-nsw",
+      "bytes": 2503
+    },
+    {
+      "page": "https://localsearch.com.au/find/fishing-trips-charters/tweed-coast-nsw",
+      "status": 405,
+      "final_url": "https://www.localsearch.com.au/find/fishing-trips-charters/tweed-coast-nsw",
+      "bytes": 2503
+    }
+  ]
+}

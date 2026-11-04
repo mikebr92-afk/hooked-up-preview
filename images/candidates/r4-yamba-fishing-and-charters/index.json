@@ -1,7 +1,7 @@
 {
   "slug": "r4-yamba-fishing-and-charters",
   "request_hash": "03eb8450dee2",
-  "collected_at": "2026-11-04T03:54:33.812Z",
+  "collected_at": "2026-11-04T04:05:51.435Z",
   "pages_fetched": [
     "https://www.yambafishingandcharters.com.au/",
     "https://www.yambafishingandcharters.com.au/faq",
@@ -22,7 +22,7 @@
       "page": "https://www.yambafishingandcharters.com.au/",
       "status": 200,
       "final_url": "https://www.yambafishingandcharters.com.au/",
-      "bytes": 736809
+      "bytes": 741540
     },
     {
       "page": "https://www.yambafishingandcharters.com.au/faq",
@@ -34,7 +34,7 @@
       "page": "https://www.yambafishingandcharters.com.au/book-online",
       "status": 200,
       "final_url": "https://www.yambafishingandcharters.com.au/book-online",
-      "bytes": 896573
+      "bytes": 900478
     },
     {
       "page": "https://www.yambafishingandcharters.com.au/what-do-i-need-to-bring",
@@ -76,7 +76,7 @@
       "page": "https://www.yambafishingandcharters.com.au/gift-card",
       "status": 200,
       "final_url": "https://www.yambafishingandcharters.com.au/gift-card",
-      "bytes": 1380501
+      "bytes": 1380519
     },
     {
       "page": "https://www.visitnsw.com/in/things-to-do/tours/yamba-fishing-and-charters",

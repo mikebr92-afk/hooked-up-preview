@@ -1,7 +1,7 @@
 {
   "slug": "r4-wahoo-fishing-charters-sydney",
   "request_hash": "430850feb3ad",
-  "collected_at": "2026-11-04T03:56:50.621Z",
+  "collected_at": "2026-11-04T04:07:49.291Z",
   "pages_fetched": [
     "https://wahoocharters.com.au/",
     "https://wahoocharters.com.au/price-list/",
@@ -34,7 +34,7 @@
       "page": "https://wahoocharters.com.au/pickup-locations/",
       "status": 200,
       "final_url": "https://wahoocharters.com.au/pickup-locations/",
-      "bytes": 507841
+      "bytes": 507868
     },
     {
       "page": "https://wahoocharters.com.au/about/",

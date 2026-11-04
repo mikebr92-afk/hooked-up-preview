@@ -1,0 +1,45 @@
+{
+  "slug": "r4-lead-nrs-tourism",
+  "request_hash": "e077b78be75d",
+  "collected_at": "2026-11-04T04:08:57.160Z",
+  "pages_fetched": [
+    "https://www.visitnsw.com/things-to-do/tours/northern-rivers-sportfishing",
+    "https://www.fishfriender.com/businesses/fdNiIN0yR/Simon-FITZPATRICK-Northern-Rivers-Sportfishing-fdNiIN0yR?_locale=en",
+    "https://theguide.tab.travel/LVTUR/northern-rivers-sportfishing",
+    "https://northernriverssportfishing.com.au/charters-2/",
+    "https://northernriverssportfishing.com.au/testamonials/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.visitnsw.com/things-to-do/tours/northern-rivers-sportfishing",
+      "status": 404,
+      "final_url": "https://www.visitnsw.com/things-to-do/tours/northern-rivers-sportfishing",
+      "bytes": 179319
+    },
+    {
+      "page": "https://www.fishfriender.com/businesses/fdNiIN0yR/Simon-FITZPATRICK-Northern-Rivers-Sportfishing-fdNiIN0yR?_locale=en",
+      "status": 200,
+      "final_url": "https://www.fishfriender.com/businesses/fdNiIN0yR/Simon-FITZPATRICK-Northern-Rivers-Sportfishing-fdNiIN0yR",
+      "bytes": 89459
+    },
+    {
+      "page": "https://theguide.tab.travel/LVTUR/northern-rivers-sportfishing",
+      "status": 200,
+      "final_url": "https://theguide.tab.travel/LVTUR/northern-rivers-sportfishing/",
+      "bytes": 24212
+    },
+    {
+      "page": "https://northernriverssportfishing.com.au/charters-2/",
+      "status": 404,
+      "final_url": "https://northernriverssportfishing.com.au/charters-2/",
+      "bytes": 51670
+    },
+    {
+      "page": "https://northernriverssportfishing.com.au/testamonials/",
+      "status": 200,
+      "final_url": "https://northernriverssportfishing.com.au/testamonials/",
+      "bytes": 102679
+    }
+  ]
+}

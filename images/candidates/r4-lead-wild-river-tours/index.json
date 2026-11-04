@@ -1,0 +1,24 @@
+{
+  "slug": "r4-lead-wild-river-tours",
+  "request_hash": "1220eea9e3af",
+  "collected_at": "2026-11-04T04:08:57.773Z",
+  "pages_fetched": [
+    "https://www.visitnsw.com/things-to-do/tours/wild-river-tours/bass-fishing-adventures",
+    "https://www.visitnsw.com/things-to-do/tours/wild-river-tours"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.visitnsw.com/things-to-do/tours/wild-river-tours/bass-fishing-adventures",
+      "status": 404,
+      "final_url": "https://www.visitnsw.com/things-to-do/tours/wild-river-tours/bass-fishing-adventures",
+      "bytes": 179364
+    },
+    {
+      "page": "https://www.visitnsw.com/things-to-do/tours/wild-river-tours",
+      "status": 404,
+      "final_url": "https://www.visitnsw.com/things-to-do/tours/wild-river-tours",
+      "bytes": 179295
+    }
+  ]
+}

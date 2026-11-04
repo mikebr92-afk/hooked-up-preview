@@ -1,10 +1,10 @@
 {
-  "finished_at": "2026-11-04T03:58:11.532Z",
+  "finished_at": "2026-11-04T04:09:07.771Z",
   "summary": [
     {
       "slug": "r4-byron-bay-charters",
       "candidates": 0,
-      "pages": 4
+      "pages": 10
     },
     {
       "slug": "r4-evans-head-deep-sea-fishing-charters",
@@ -74,7 +74,7 @@
     {
       "slug": "r4-pacific-blue-fishing-charters-nelson-bay",
       "candidates": 0,
-      "pages": 3
+      "pages": 6
     },
     {
       "slug": "r4-reel-contagious-charters-port-stephens",
@@ -89,7 +89,7 @@
     {
       "slug": "r4-wildside-sportfishing",
       "candidates": 0,
-      "pages": 7
+      "pages": 12
     },
     {
       "slug": "r4-cushy-fishing-charters",
@@ -189,7 +189,7 @@
     {
       "slug": "r4-sydney-premium-charters-cronulla",
       "candidates": 0,
-      "pages": 5
+      "pages": 10
     },
     {
       "slug": "r4-wahoo-fishing-charters-sydney",
@@ -235,6 +235,31 @@
       "slug": "r4-disc-tweed",
       "candidates": 0,
       "pages": 3
+    },
+    {
+      "slug": "r4-lead-nrs-tourism",
+      "candidates": 0,
+      "pages": 5
+    },
+    {
+      "slug": "r4-lead-wild-river-tours",
+      "candidates": 0,
+      "pages": 2
+    },
+    {
+      "slug": "r4-disc-tweed-2",
+      "candidates": 0,
+      "pages": 3
+    },
+    {
+      "slug": "r4-disc-coffs-2",
+      "candidates": 0,
+      "pages": 4
+    },
+    {
+      "slug": "r4-watch-tourism",
+      "candidates": 0,
+      "pages": 6
     }
   ]
 }
