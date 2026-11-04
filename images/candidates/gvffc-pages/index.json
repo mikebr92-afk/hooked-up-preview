@@ -1,0 +1,73 @@
+{
+  "slug": "gvffc-pages",
+  "request_hash": "d344ac463dc3",
+  "collected_at": "2026-11-04T04:01:47.968Z",
+  "pages_fetched": [
+    "https://gvflyfishing.com/prices/",
+    "https://gvflyfishing.com/goulburn-river-fly-fishing-drift-boat-trips/",
+    "https://gvflyfishing.com/drift-boating/",
+    "https://gvflyfishing.com/faq/",
+    "https://gvflyfishing.com/our-story/",
+    "https://gvflyfishing.com/fly_fishing_guiding_tuition_lessons/",
+    "https://gvflyfishing.com/cancellation-policy/",
+    "https://gvflyfishing.com/connect-with-experts/",
+    "https://gvflyfishing.com/the-goulburn-river-journey/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://gvflyfishing.com/prices/",
+      "status": 200,
+      "final_url": "https://gvflyfishing.com/prices/",
+      "bytes": 11974
+    },
+    {
+      "page": "https://gvflyfishing.com/goulburn-river-fly-fishing-drift-boat-trips/",
+      "status": 200,
+      "final_url": "https://gvflyfishing.com/goulburn-river-fly-fishing-drift-boat-trips/",
+      "bytes": 11996
+    },
+    {
+      "page": "https://gvflyfishing.com/drift-boating/",
+      "status": 200,
+      "final_url": "https://gvflyfishing.com/drift-boating/",
+      "bytes": 11966
+    },
+    {
+      "page": "https://gvflyfishing.com/faq/",
+      "status": 200,
+      "final_url": "https://gvflyfishing.com/faq/",
+      "bytes": 11956
+    },
+    {
+      "page": "https://gvflyfishing.com/our-story/",
+      "status": 200,
+      "final_url": "https://gvflyfishing.com/our-story/",
+      "bytes": 12018
+    },
+    {
+      "page": "https://gvflyfishing.com/fly_fishing_guiding_tuition_lessons/",
+      "status": 200,
+      "final_url": "https://gvflyfishing.com/fly_fishing_guiding_tuition_lessons/",
+      "bytes": 12044
+    },
+    {
+      "page": "https://gvflyfishing.com/cancellation-policy/",
+      "status": 200,
+      "final_url": "https://gvflyfishing.com/cancellation-policy/",
+      "bytes": 12028
+    },
+    {
+      "page": "https://gvflyfishing.com/connect-with-experts/",
+      "status": 200,
+      "final_url": "https://gvflyfishing.com/connect-with-experts/",
+      "bytes": 12029
+    },
+    {
+      "page": "https://gvflyfishing.com/the-goulburn-river-journey/",
+      "status": 200,
+      "final_url": "https://gvflyfishing.com/the-goulburn-river-journey/",
+      "bytes": 12035
+    }
+  ]
+}

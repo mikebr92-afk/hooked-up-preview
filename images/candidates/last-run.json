@@ -1,5 +1,5 @@
 {
-  "finished_at": "2026-11-04T04:01:01.823Z",
+  "finished_at": "2026-11-04T04:01:47.969Z",
   "summary": [
     {
       "slug": "southern-fly-fishing-adventures",
@@ -55,8 +55,12 @@
     },
     {
       "slug": "vic-r4-gipps-disc2",
+      "skipped": true
+    },
+    {
+      "slug": "gvffc-pages",
       "candidates": 0,
-      "pages": 5
+      "pages": 9
     }
   ]
 }
