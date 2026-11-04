@@ -1,7 +1,7 @@
 {
   "slug": "top-gear-fishing-charters",
   "request_hash": "f1ae4587c241",
-  "collected_at": "2026-11-04T03:57:03.082Z",
+  "collected_at": "2026-11-04T04:01:47.044Z",
   "pages_fetched": [
     "https://topgearfishingcharters.com.au/",
     "https://topgearfishingcharters.com.au/about-us/",
@@ -20,7 +20,7 @@
       "page": "https://topgearfishingcharters.com.au/",
       "status": 200,
       "final_url": "https://topgearfishingcharters.com.au/",
-      "bytes": 245430
+      "bytes": 245415
     },
     {
       "page": "https://topgearfishingcharters.com.au/about-us/",

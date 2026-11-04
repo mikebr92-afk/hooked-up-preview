@@ -1,7 +1,7 @@
 {
   "slug": "brisbane-fishing-tour",
   "request_hash": "fa5e2bad34be",
-  "collected_at": "2026-11-04T03:56:24.248Z",
+  "collected_at": "2026-11-04T04:01:13.355Z",
   "pages_fetched": [
     "https://www.brisbanefishingtour.com.au/",
     "https://www.brisbanefishingtour.com.au/book-online"
@@ -12,13 +12,13 @@
       "page": "https://www.brisbanefishingtour.com.au/",
       "status": 200,
       "final_url": "https://www.brisbanefishingtour.com.au/",
-      "bytes": 1213306
+      "bytes": 1216277
     },
     {
       "page": "https://www.brisbanefishingtour.com.au/book-online",
       "status": 200,
       "final_url": "https://www.brisbanefishingtour.com.au/book-online",
-      "bytes": 912464
+      "bytes": 912450
     }
   ]
 }

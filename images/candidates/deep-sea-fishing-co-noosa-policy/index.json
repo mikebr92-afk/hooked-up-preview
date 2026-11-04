@@ -1,0 +1,17 @@
+{
+  "slug": "deep-sea-fishing-co-noosa-policy",
+  "request_hash": "d386223a70ee",
+  "collected_at": "2026-11-04T04:03:22.440Z",
+  "pages_fetched": [
+    "https://www.deepseafishingco.com.au/booking-and-refund-policy/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.deepseafishingco.com.au/booking-and-refund-policy/",
+      "status": 200,
+      "final_url": "https://www.deepseafishingco.com.au/booking-and-refund-policy/",
+      "bytes": 76659
+    }
+  ]
+}

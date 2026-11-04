@@ -1,7 +1,7 @@
 {
   "slug": "deep-sea-fishing-co-noosa",
   "request_hash": "27924e24fa01",
-  "collected_at": "2026-11-04T03:57:58.805Z",
+  "collected_at": "2026-11-04T04:02:44.258Z",
   "pages_fetched": [
     "https://www.deepseafishingco.com.au/",
     "https://www.deepseafishingco.com.au/fishing-charters/",
@@ -50,7 +50,7 @@
       "page": "https://www.deepseafishingco.com.au/contact-us/",
       "status": 200,
       "final_url": "https://www.deepseafishingco.com.au/contact-us/",
-      "bytes": 109496
+      "bytes": 109495
     },
     {
       "page": "https://www.deepseafishingco.com.au/deep-sea-fishing-co-noosa-5/",

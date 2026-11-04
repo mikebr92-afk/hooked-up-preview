@@ -1,0 +1,31 @@
+{
+  "slug": "night-crossing-extra",
+  "request_hash": "dbcca27421cc",
+  "collected_at": "2026-11-04T04:03:24.198Z",
+  "pages_fetched": [
+    "https://nightcrossing.com.au/mv-night-crossing/",
+    "https://nightcrossing.com.au/location/",
+    "https://nightcrossing.com.au/fyi/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://nightcrossing.com.au/mv-night-crossing/",
+      "status": 200,
+      "final_url": "https://nightcrossing.com.au/mv-night-crossing/",
+      "bytes": 51949
+    },
+    {
+      "page": "https://nightcrossing.com.au/location/",
+      "status": 200,
+      "final_url": "https://nightcrossing.com.au/location/",
+      "bytes": 48108
+    },
+    {
+      "page": "https://nightcrossing.com.au/fyi/",
+      "status": 200,
+      "final_url": "https://nightcrossing.com.au/fyi/",
+      "bytes": 47617
+    }
+  ]
+}

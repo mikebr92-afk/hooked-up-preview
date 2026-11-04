@@ -1,0 +1,52 @@
+{
+  "slug": "australiana-charters-lead",
+  "request_hash": "bda9bf3cbe8d",
+  "collected_at": "2026-11-04T04:03:18.701Z",
+  "pages_fetched": [
+    "https://www.auscharters.com.au/",
+    "https://auscharters.com.au/",
+    "https://www.change.org/about",
+    "https://www.change.org/about/vision",
+    "https://www.change.org/about/team",
+    "https://www.change.org/about/press"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.auscharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.change.org/p/stop-auda-s-policy-changes-protect-australian-domains-small-businesses-160cc927-704c-476b-a170-11826d9f62c2?utm_medium=custom_url&utm_source=share_petition&recruited_by_id=d912d9b0-b56d-11f1-a29b-65af07a9b07e&share_id=mshcKhm5",
+      "bytes": 321079
+    },
+    {
+      "page": "https://auscharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.change.org/p/stop-auda-s-policy-changes-protect-australian-domains-small-businesses-160cc927-704c-476b-a170-11826d9f62c2?utm_medium=custom_url&utm_source=share_petition&recruited_by_id=d912d9b0-b56d-11f1-a29b-65af07a9b07e&share_id=mshcKhm5",
+      "bytes": 321082
+    },
+    {
+      "page": "https://www.change.org/about",
+      "status": 200,
+      "final_url": "https://www.change.org/about",
+      "bytes": 173093
+    },
+    {
+      "page": "https://www.change.org/about/vision",
+      "status": 200,
+      "final_url": "https://www.change.org/about/vision",
+      "bytes": 195618
+    },
+    {
+      "page": "https://www.change.org/about/team",
+      "status": 200,
+      "final_url": "https://www.change.org/about/team",
+      "bytes": 348972
+    },
+    {
+      "page": "https://www.change.org/about/press",
+      "status": 200,
+      "final_url": "https://www.change.org/about/press",
+      "bytes": 178671
+    }
+  ]
+}
