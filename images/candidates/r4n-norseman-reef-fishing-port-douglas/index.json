@@ -1,0 +1,73 @@
+{
+  "slug": "r4n-norseman-reef-fishing-port-douglas",
+  "request_hash": "8bbdff1ca1f5",
+  "collected_at": "2026-11-04T03:51:43.396Z",
+  "pages_fetched": [
+    "https://mvnorseman.com.au/",
+    "https://mvnorseman.com.au/norseman-reef-fishing-charters/",
+    "https://mvnorseman.com.au/norseman-sportfishing/",
+    "https://mvnorseman.com.au/private-norseman-reef-fishing-charters/",
+    "https://mvnorseman.com.au/about-us/",
+    "https://mvnorseman.com.au/our-boat/",
+    "https://mvnorseman.com.au/fishing-gallery/",
+    "https://mvnorseman.com.au/faq/",
+    "https://mvnorseman.com.au/contact-us/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://mvnorseman.com.au/",
+      "status": 200,
+      "final_url": "https://mvnorseman.com.au/",
+      "bytes": 156996
+    },
+    {
+      "page": "https://mvnorseman.com.au/norseman-reef-fishing-charters/",
+      "status": 200,
+      "final_url": "https://mvnorseman.com.au/norseman-reef-fishing-charters/",
+      "bytes": 150425
+    },
+    {
+      "page": "https://mvnorseman.com.au/norseman-sportfishing/",
+      "status": 200,
+      "final_url": "https://mvnorseman.com.au/norseman-sportfishing/",
+      "bytes": 150775
+    },
+    {
+      "page": "https://mvnorseman.com.au/private-norseman-reef-fishing-charters/",
+      "status": 200,
+      "final_url": "https://mvnorseman.com.au/private-norseman-reef-fishing-charters/",
+      "bytes": 138202
+    },
+    {
+      "page": "https://mvnorseman.com.au/about-us/",
+      "status": 200,
+      "final_url": "https://mvnorseman.com.au/about-us/",
+      "bytes": 123636
+    },
+    {
+      "page": "https://mvnorseman.com.au/our-boat/",
+      "status": 200,
+      "final_url": "https://mvnorseman.com.au/our-boat/",
+      "bytes": 124587
+    },
+    {
+      "page": "https://mvnorseman.com.au/fishing-gallery/",
+      "status": 200,
+      "final_url": "https://mvnorseman.com.au/fishing-gallery/",
+      "bytes": 162817
+    },
+    {
+      "page": "https://mvnorseman.com.au/faq/",
+      "status": 200,
+      "final_url": "https://mvnorseman.com.au/faq/",
+      "bytes": 132623
+    },
+    {
+      "page": "https://mvnorseman.com.au/contact-us/",
+      "status": 200,
+      "final_url": "https://mvnorseman.com.au/contact-us/",
+      "bytes": 154531
+    }
+  ]
+}

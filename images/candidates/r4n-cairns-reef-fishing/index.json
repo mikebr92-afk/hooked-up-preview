@@ -1,0 +1,80 @@
+{
+  "slug": "r4n-cairns-reef-fishing",
+  "request_hash": "acaae275cd7b",
+  "collected_at": "2026-11-04T03:50:17.894Z",
+  "pages_fetched": [
+    "https://www.cairnsreeffishing.com.au/",
+    "https://www.cairnsreeffishing.com.au/shared-charters/",
+    "https://www.cairnsreeffishing.com.au/private-charters/",
+    "https://www.cairnsreeffishing.com.au/crew/",
+    "https://www.cairnsreeffishing.com.au/boats/",
+    "https://www.cairnsreeffishing.com.au/faqs/",
+    "https://www.cairnsreeffishing.com.au/book-now/",
+    "https://www.cairnsreeffishing.com.au/contact/",
+    "https://www.cairnsreeffishing.com.au/sustainability/",
+    "https://www.cairnsreeffishing.com.au/reef-closures/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.cairnsreeffishing.com.au/",
+      "status": 200,
+      "final_url": "https://www.cairnsreeffishing.com.au/",
+      "bytes": 133488
+    },
+    {
+      "page": "https://www.cairnsreeffishing.com.au/shared-charters/",
+      "status": 200,
+      "final_url": "https://www.cairnsreeffishing.com.au/shared-charters/",
+      "bytes": 158522
+    },
+    {
+      "page": "https://www.cairnsreeffishing.com.au/private-charters/",
+      "status": 200,
+      "final_url": "https://www.cairnsreeffishing.com.au/private-charters/",
+      "bytes": 200263
+    },
+    {
+      "page": "https://www.cairnsreeffishing.com.au/crew/",
+      "status": 200,
+      "final_url": "https://www.cairnsreeffishing.com.au/crew/",
+      "bytes": 143236
+    },
+    {
+      "page": "https://www.cairnsreeffishing.com.au/boats/",
+      "status": 200,
+      "final_url": "https://www.cairnsreeffishing.com.au/boats/",
+      "bytes": 161028
+    },
+    {
+      "page": "https://www.cairnsreeffishing.com.au/faqs/",
+      "status": 200,
+      "final_url": "https://www.cairnsreeffishing.com.au/faqs/",
+      "bytes": 137968
+    },
+    {
+      "page": "https://www.cairnsreeffishing.com.au/book-now/",
+      "status": 200,
+      "final_url": "https://www.cairnsreeffishing.com.au/book-now/",
+      "bytes": 127133
+    },
+    {
+      "page": "https://www.cairnsreeffishing.com.au/contact/",
+      "status": 200,
+      "final_url": "https://www.cairnsreeffishing.com.au/contact/",
+      "bytes": 128607
+    },
+    {
+      "page": "https://www.cairnsreeffishing.com.au/sustainability/",
+      "status": 200,
+      "final_url": "https://www.cairnsreeffishing.com.au/sustainability/",
+      "bytes": 127952
+    },
+    {
+      "page": "https://www.cairnsreeffishing.com.au/reef-closures/",
+      "status": 200,
+      "final_url": "https://www.cairnsreeffishing.com.au/reef-closures/",
+      "bytes": 125322
+    }
+  ]
+}

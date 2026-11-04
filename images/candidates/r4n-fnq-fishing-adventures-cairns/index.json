@@ -1,0 +1,80 @@
+{
+  "slug": "r4n-fnq-fishing-adventures-cairns",
+  "request_hash": "e39f4610710c",
+  "collected_at": "2026-11-04T03:50:27.359Z",
+  "pages_fetched": [
+    "https://www.fnqfishingadventures.com.au/",
+    "https://www.fnqfishingadventures.com.au/cart",
+    "https://www.fnqfishingadventures.com.au/charters",
+    "https://www.fnqfishingadventures.com.au/cairns",
+    "https://www.fnqfishingadventures.com.au/port-douglas",
+    "https://www.fnqfishingadventures.com.au/lake-tinaroo",
+    "https://www.fnqfishingadventures.com.au/river-barramundi",
+    "https://www.fnqfishingadventures.com.au/about",
+    "https://www.fnqfishingadventures.com.au/merch",
+    "https://www.fnqfishingadventures.com.au/contact"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.fnqfishingadventures.com.au/",
+      "status": 200,
+      "final_url": "https://www.fnqfishingadventures.com.au/",
+      "bytes": 804986
+    },
+    {
+      "page": "https://www.fnqfishingadventures.com.au/cart",
+      "status": 200,
+      "final_url": "https://www.fnqfishingadventures.com.au/cart",
+      "bytes": 341526
+    },
+    {
+      "page": "https://www.fnqfishingadventures.com.au/charters",
+      "status": 200,
+      "final_url": "https://www.fnqfishingadventures.com.au/charters",
+      "bytes": 270132
+    },
+    {
+      "page": "https://www.fnqfishingadventures.com.au/cairns",
+      "status": 200,
+      "final_url": "https://www.fnqfishingadventures.com.au/cairns",
+      "bytes": 639436
+    },
+    {
+      "page": "https://www.fnqfishingadventures.com.au/port-douglas",
+      "status": 200,
+      "final_url": "https://www.fnqfishingadventures.com.au/port-douglas",
+      "bytes": 695413
+    },
+    {
+      "page": "https://www.fnqfishingadventures.com.au/lake-tinaroo",
+      "status": 200,
+      "final_url": "https://www.fnqfishingadventures.com.au/lake-tinaroo",
+      "bytes": 921937
+    },
+    {
+      "page": "https://www.fnqfishingadventures.com.au/river-barramundi",
+      "status": 200,
+      "final_url": "https://www.fnqfishingadventures.com.au/river-barramundi",
+      "bytes": 387263
+    },
+    {
+      "page": "https://www.fnqfishingadventures.com.au/about",
+      "status": 200,
+      "final_url": "https://www.fnqfishingadventures.com.au/about",
+      "bytes": 325171
+    },
+    {
+      "page": "https://www.fnqfishingadventures.com.au/merch",
+      "status": 200,
+      "final_url": "https://www.fnqfishingadventures.com.au/merch",
+      "bytes": 362616
+    },
+    {
+      "page": "https://www.fnqfishingadventures.com.au/contact",
+      "status": 200,
+      "final_url": "https://www.fnqfishingadventures.com.au/contact",
+      "bytes": 207478
+    }
+  ]
+}

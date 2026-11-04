@@ -1,0 +1,80 @@
+{
+  "slug": "r4n-topnotch-game-fishing-hamilton-island",
+  "request_hash": "ebbbdc093c56",
+  "collected_at": "2026-11-04T03:52:47.805Z",
+  "pages_fetched": [
+    "https://www.topnotchgamefishing.com.au/",
+    "https://www.topnotchgamefishing.com.au/book-now/",
+    "https://www.topnotchgamefishing.com.au/vessels/",
+    "https://www.topnotchgamefishing.com.au/the-pirate/",
+    "https://www.topnotchgamefishing.com.au/moonshine/",
+    "https://www.topnotchgamefishing.com.au/hamilton-island-fishing-charters/",
+    "https://www.topnotchgamefishing.com.au/whitsundays-sailfish-fishing-charters/",
+    "https://www.topnotchgamefishing.com.au/whitsundays-black-marlin-charters/",
+    "https://www.topnotchgamefishing.com.au/contact-us/",
+    "https://www.topnotchgamefishing.com.au/faq/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.topnotchgamefishing.com.au/",
+      "status": 200,
+      "final_url": "https://www.topnotchgamefishing.com.au/",
+      "bytes": 91292
+    },
+    {
+      "page": "https://www.topnotchgamefishing.com.au/book-now/",
+      "status": 200,
+      "final_url": "https://www.topnotchgamefishing.com.au/book-now/",
+      "bytes": 74810
+    },
+    {
+      "page": "https://www.topnotchgamefishing.com.au/vessels/",
+      "status": 200,
+      "final_url": "https://www.topnotchgamefishing.com.au/vessels/",
+      "bytes": 73150
+    },
+    {
+      "page": "https://www.topnotchgamefishing.com.au/the-pirate/",
+      "status": 200,
+      "final_url": "https://www.topnotchgamefishing.com.au/the-pirate/",
+      "bytes": 87662
+    },
+    {
+      "page": "https://www.topnotchgamefishing.com.au/moonshine/",
+      "status": 200,
+      "final_url": "https://www.topnotchgamefishing.com.au/moonshine/",
+      "bytes": 86301
+    },
+    {
+      "page": "https://www.topnotchgamefishing.com.au/hamilton-island-fishing-charters/",
+      "status": 200,
+      "final_url": "https://www.topnotchgamefishing.com.au/hamilton-island-fishing-charters/",
+      "bytes": 99304
+    },
+    {
+      "page": "https://www.topnotchgamefishing.com.au/whitsundays-sailfish-fishing-charters/",
+      "status": 200,
+      "final_url": "https://www.topnotchgamefishing.com.au/whitsundays-sailfish-fishing-charters/",
+      "bytes": 88468
+    },
+    {
+      "page": "https://www.topnotchgamefishing.com.au/whitsundays-black-marlin-charters/",
+      "status": 200,
+      "final_url": "https://www.topnotchgamefishing.com.au/whitsundays-black-marlin-charters/",
+      "bytes": 91697
+    },
+    {
+      "page": "https://www.topnotchgamefishing.com.au/contact-us/",
+      "status": 200,
+      "final_url": "https://www.topnotchgamefishing.com.au/contact-us/",
+      "bytes": 87336
+    },
+    {
+      "page": "https://www.topnotchgamefishing.com.au/faq/",
+      "status": 200,
+      "final_url": "https://www.topnotchgamefishing.com.au/faq/",
+      "bytes": 90274
+    }
+  ]
+}

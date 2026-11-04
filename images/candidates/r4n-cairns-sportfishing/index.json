@@ -1,0 +1,66 @@
+{
+  "slug": "r4n-cairns-sportfishing",
+  "request_hash": "1e1c985f71bb",
+  "collected_at": "2026-11-04T03:50:20.475Z",
+  "pages_fetched": [
+    "https://www.cairnssportfishing.com.au/",
+    "https://www.cairnssportfishing.com.au/index.html",
+    "https://www.cairnssportfishing.com.au/cairns-reef-experiences.html",
+    "https://www.cairnssportfishing.com.au/what-to-expect.html",
+    "https://www.cairnssportfishing.com.au/cairns-fishing-charter-faq.html",
+    "https://www.cairnssportfishing.com.au/cairns-fishing-charter-reviews.html",
+    "https://www.cairnssportfishing.com.au/cairns-fishing-gallery.html",
+    "https://www.cairnssportfishing.com.au/cairns-reef-experiences-enquiry.html"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.cairnssportfishing.com.au/",
+      "status": 200,
+      "final_url": "https://www.cairnssportfishing.com.au/",
+      "bytes": 13225
+    },
+    {
+      "page": "https://www.cairnssportfishing.com.au/index.html",
+      "status": 200,
+      "final_url": "https://www.cairnssportfishing.com.au/index.html",
+      "bytes": 13225
+    },
+    {
+      "page": "https://www.cairnssportfishing.com.au/cairns-reef-experiences.html",
+      "status": 200,
+      "final_url": "https://www.cairnssportfishing.com.au/cairns-reef-experiences.html",
+      "bytes": 15580
+    },
+    {
+      "page": "https://www.cairnssportfishing.com.au/what-to-expect.html",
+      "status": 200,
+      "final_url": "https://www.cairnssportfishing.com.au/what-to-expect.html",
+      "bytes": 13967
+    },
+    {
+      "page": "https://www.cairnssportfishing.com.au/cairns-fishing-charter-faq.html",
+      "status": 200,
+      "final_url": "https://www.cairnssportfishing.com.au/cairns-fishing-charter-faq.html",
+      "bytes": 16301
+    },
+    {
+      "page": "https://www.cairnssportfishing.com.au/cairns-fishing-charter-reviews.html",
+      "status": 200,
+      "final_url": "https://www.cairnssportfishing.com.au/cairns-fishing-charter-reviews.html",
+      "bytes": 15187
+    },
+    {
+      "page": "https://www.cairnssportfishing.com.au/cairns-fishing-gallery.html",
+      "status": 200,
+      "final_url": "https://www.cairnssportfishing.com.au/cairns-fishing-gallery.html",
+      "bytes": 17698
+    },
+    {
+      "page": "https://www.cairnssportfishing.com.au/cairns-reef-experiences-enquiry.html",
+      "status": 200,
+      "final_url": "https://www.cairnssportfishing.com.au/cairns-reef-experiences-enquiry.html",
+      "bytes": 27007
+    }
+  ]
+}

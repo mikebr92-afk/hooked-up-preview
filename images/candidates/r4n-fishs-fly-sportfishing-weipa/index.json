@@ -1,0 +1,59 @@
+{
+  "slug": "r4n-fishs-fly-sportfishing-weipa",
+  "request_hash": "98e9a7ba76f4",
+  "collected_at": "2026-11-04T03:52:08.371Z",
+  "pages_fetched": [
+    "https://www.weipaflyfish.com.au/",
+    "https://www.weipaflyfish.com.au/fishing-packages-in-weipa",
+    "https://www.weipaflyfish.com.au/the-fishing-in-weipa",
+    "https://www.weipaflyfish.com.au/fishing-faqs",
+    "https://www.weipaflyfish.com.au/booking-enquiry",
+    "https://www.weipaflyfish.com.au/weipa-fishing-charters",
+    "https://www.weipaflyfish.com.au/contact-us"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.weipaflyfish.com.au/",
+      "status": 200,
+      "final_url": "https://www.weipaflyfish.com.au/",
+      "bytes": 180043
+    },
+    {
+      "page": "https://www.weipaflyfish.com.au/fishing-packages-in-weipa",
+      "status": 200,
+      "final_url": "https://www.weipaflyfish.com.au/fishing-packages-in-weipa",
+      "bytes": 110221
+    },
+    {
+      "page": "https://www.weipaflyfish.com.au/the-fishing-in-weipa",
+      "status": 200,
+      "final_url": "https://www.weipaflyfish.com.au/the-fishing-in-weipa",
+      "bytes": 168109
+    },
+    {
+      "page": "https://www.weipaflyfish.com.au/fishing-faqs",
+      "status": 200,
+      "final_url": "https://www.weipaflyfish.com.au/fishing-faqs",
+      "bytes": 124511
+    },
+    {
+      "page": "https://www.weipaflyfish.com.au/booking-enquiry",
+      "status": 200,
+      "final_url": "https://www.weipaflyfish.com.au/booking-enquiry",
+      "bytes": 87319
+    },
+    {
+      "page": "https://www.weipaflyfish.com.au/weipa-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.weipaflyfish.com.au/weipa-fishing-charters",
+      "bytes": 103546
+    },
+    {
+      "page": "https://www.weipaflyfish.com.au/contact-us",
+      "status": 200,
+      "final_url": "https://www.weipaflyfish.com.au/contact-us",
+      "bytes": 147506
+    }
+  ]
+}

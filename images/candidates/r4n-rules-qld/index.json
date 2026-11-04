@@ -1,0 +1,29 @@
+{
+  "slug": "r4n-rules-qld",
+  "request_hash": "d684c8804b72",
+  "collected_at": "2026-11-04T03:53:17.138Z",
+  "pages_fetched": [
+    "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/rules/closed-seasons",
+    "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/rules/limits-tidal",
+    "https://www2.gbrmpa.gov.au/access/environmental-management-charge"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/rules/closed-seasons",
+      "status": 404,
+      "final_url": "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/rules/closed-seasons",
+      "bytes": 177838
+    },
+    {
+      "page": "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/rules/limits-tidal",
+      "status": 200,
+      "final_url": "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/rules/limits-tidal",
+      "bytes": 247762
+    },
+    {
+      "page": "https://www2.gbrmpa.gov.au/access/environmental-management-charge",
+      "error": "The operation was aborted due to timeout"
+    }
+  ]
+}

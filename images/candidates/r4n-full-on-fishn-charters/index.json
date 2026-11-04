@@ -1,0 +1,38 @@
+{
+  "slug": "r4n-full-on-fishn-charters",
+  "request_hash": "dadef2024b18",
+  "collected_at": "2026-11-04T03:51:26.065Z",
+  "pages_fetched": [
+    "https://fullonfishn.com.au/",
+    "https://fullonfishn.com.au/nathan-kemp-charter/",
+    "https://fullonfishn.com.au/charter-faq/",
+    "https://fullonfishn.com.au/contact/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://fullonfishn.com.au/",
+      "status": 200,
+      "final_url": "https://fullonfishn.com.au/",
+      "bytes": 118304
+    },
+    {
+      "page": "https://fullonfishn.com.au/nathan-kemp-charter/",
+      "status": 200,
+      "final_url": "https://fullonfishn.com.au/nathan-kemp-charter/",
+      "bytes": 56658
+    },
+    {
+      "page": "https://fullonfishn.com.au/charter-faq/",
+      "status": 200,
+      "final_url": "https://fullonfishn.com.au/charter-faq/",
+      "bytes": 70977
+    },
+    {
+      "page": "https://fullonfishn.com.au/contact/",
+      "status": 200,
+      "final_url": "https://fullonfishn.com.au/contact/",
+      "bytes": 45742
+    }
+  ]
+}

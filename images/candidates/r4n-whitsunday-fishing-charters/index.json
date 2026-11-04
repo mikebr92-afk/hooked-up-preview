@@ -1,0 +1,80 @@
+{
+  "slug": "r4n-whitsunday-fishing-charters",
+  "request_hash": "44f0ac0e9bef",
+  "collected_at": "2026-11-04T03:52:48.057Z",
+  "pages_fetched": [
+    "https://www.whitsundayfishingcharters.com.au/",
+    "https://www.whitsundayfishingcharters.com.au/our-crew",
+    "https://www.whitsundayfishingcharters.com.au/whitsundays-tours",
+    "https://www.whitsundayfishingcharters.com.au/half-day-fishing",
+    "https://www.whitsundayfishingcharters.com.au/full-day-fishing",
+    "https://www.whitsundayfishingcharters.com.au/whale-watching-tours",
+    "https://www.whitsundayfishingcharters.com.au/snorkelling",
+    "https://www.whitsundayfishingcharters.com.au/private-charters",
+    "https://www.whitsundayfishingcharters.com.au/terms-conditions",
+    "https://www.whitsundayfishingcharters.com.au/contact"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.whitsundayfishingcharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.whitsundayfishingcharters.com.au/",
+      "bytes": 252678
+    },
+    {
+      "page": "https://www.whitsundayfishingcharters.com.au/our-crew",
+      "status": 200,
+      "final_url": "https://www.whitsundayfishingcharters.com.au/our-crew",
+      "bytes": 79467
+    },
+    {
+      "page": "https://www.whitsundayfishingcharters.com.au/whitsundays-tours",
+      "status": 200,
+      "final_url": "https://www.whitsundayfishingcharters.com.au/whitsundays-tours",
+      "bytes": 173044
+    },
+    {
+      "page": "https://www.whitsundayfishingcharters.com.au/half-day-fishing",
+      "status": 200,
+      "final_url": "https://www.whitsundayfishingcharters.com.au/half-day-fishing",
+      "bytes": 176520
+    },
+    {
+      "page": "https://www.whitsundayfishingcharters.com.au/full-day-fishing",
+      "status": 200,
+      "final_url": "https://www.whitsundayfishingcharters.com.au/full-day-fishing",
+      "bytes": 169172
+    },
+    {
+      "page": "https://www.whitsundayfishingcharters.com.au/whale-watching-tours",
+      "status": 200,
+      "final_url": "https://www.whitsundayfishingcharters.com.au/whale-watching-tours",
+      "bytes": 162496
+    },
+    {
+      "page": "https://www.whitsundayfishingcharters.com.au/snorkelling",
+      "status": 200,
+      "final_url": "https://www.whitsundayfishingcharters.com.au/snorkelling",
+      "bytes": 147413
+    },
+    {
+      "page": "https://www.whitsundayfishingcharters.com.au/private-charters",
+      "status": 200,
+      "final_url": "https://www.whitsundayfishingcharters.com.au/private-charters",
+      "bytes": 305951
+    },
+    {
+      "page": "https://www.whitsundayfishingcharters.com.au/terms-conditions",
+      "status": 200,
+      "final_url": "https://www.whitsundayfishingcharters.com.au/terms-conditions",
+      "bytes": 107134
+    },
+    {
+      "page": "https://www.whitsundayfishingcharters.com.au/contact",
+      "status": 200,
+      "final_url": "https://www.whitsundayfishingcharters.com.au/contact",
+      "bytes": 153065
+    }
+  ]
+}

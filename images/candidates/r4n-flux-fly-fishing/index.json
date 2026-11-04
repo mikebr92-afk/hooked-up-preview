@@ -1,0 +1,87 @@
+{
+  "slug": "r4n-flux-fly-fishing",
+  "request_hash": "29a6d66f50c9",
+  "collected_at": "2026-11-04T03:52:50.904Z",
+  "pages_fetched": [
+    "https://fluxflyfishing.com/",
+    "https://www.fluxflyfishing.com/cart",
+    "https://www.fluxflyfishing.com/",
+    "https://www.fluxflyfishing.com/about-us",
+    "https://www.fluxflyfishing.com/tripoverview",
+    "https://www.fluxflyfishing.com/our-guides",
+    "https://www.fluxflyfishing.com/vessels",
+    "https://www.fluxflyfishing.com/the-fishing",
+    "https://www.fluxflyfishing.com/our-history",
+    "https://www.fluxflyfishing.com/faq",
+    "https://www.fluxflyfishing.com/weipa-lodge-based"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://fluxflyfishing.com/",
+      "status": 200,
+      "final_url": "https://www.fluxflyfishing.com/",
+      "bytes": 463522
+    },
+    {
+      "page": "https://www.fluxflyfishing.com/cart",
+      "status": 200,
+      "final_url": "https://www.fluxflyfishing.com/cart",
+      "bytes": 340488
+    },
+    {
+      "page": "https://www.fluxflyfishing.com/",
+      "status": 200,
+      "final_url": "https://www.fluxflyfishing.com/",
+      "bytes": 463522
+    },
+    {
+      "page": "https://www.fluxflyfishing.com/about-us",
+      "status": 200,
+      "final_url": "https://www.fluxflyfishing.com/about-us",
+      "bytes": 267125
+    },
+    {
+      "page": "https://www.fluxflyfishing.com/tripoverview",
+      "status": 200,
+      "final_url": "https://www.fluxflyfishing.com/tripoverview",
+      "bytes": 975875
+    },
+    {
+      "page": "https://www.fluxflyfishing.com/our-guides",
+      "status": 200,
+      "final_url": "https://www.fluxflyfishing.com/our-guides",
+      "bytes": 566906
+    },
+    {
+      "page": "https://www.fluxflyfishing.com/vessels",
+      "status": 200,
+      "final_url": "https://www.fluxflyfishing.com/vessels",
+      "bytes": 284446
+    },
+    {
+      "page": "https://www.fluxflyfishing.com/the-fishing",
+      "status": 200,
+      "final_url": "https://www.fluxflyfishing.com/the-fishing",
+      "bytes": 363652
+    },
+    {
+      "page": "https://www.fluxflyfishing.com/our-history",
+      "status": 200,
+      "final_url": "https://www.fluxflyfishing.com/our-history",
+      "bytes": 296301
+    },
+    {
+      "page": "https://www.fluxflyfishing.com/faq",
+      "status": 200,
+      "final_url": "https://www.fluxflyfishing.com/faq",
+      "bytes": 575420
+    },
+    {
+      "page": "https://www.fluxflyfishing.com/weipa-lodge-based",
+      "status": 200,
+      "final_url": "https://www.fluxflyfishing.com/weipa-lodge-based",
+      "bytes": 532658
+    }
+  ]
+}

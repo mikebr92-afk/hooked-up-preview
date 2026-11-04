@@ -1,0 +1,52 @@
+{
+  "slug": "r4n-daintree-river-fishing-david-patterson",
+  "request_hash": "e849037fdad9",
+  "collected_at": "2026-11-04T03:50:53.679Z",
+  "pages_fetched": [
+    "https://daintreefishing.com.au/",
+    "https://daintreefishing.com.au/personalised-charters/",
+    "https://daintreefishing.com.au/river-fishing-share-charters/",
+    "https://daintreefishing.com.au/coastal-and-reef-charters/",
+    "https://daintreefishing.com.au/brag-board/",
+    "https://daintreefishing.com.au/map/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://daintreefishing.com.au/",
+      "status": 200,
+      "final_url": "https://daintreefishing.com.au/",
+      "bytes": 65194
+    },
+    {
+      "page": "https://daintreefishing.com.au/personalised-charters/",
+      "status": 404,
+      "final_url": "https://daintreefishing.com.au/personalised-charters/",
+      "bytes": 555
+    },
+    {
+      "page": "https://daintreefishing.com.au/river-fishing-share-charters/",
+      "status": 404,
+      "final_url": "https://daintreefishing.com.au/river-fishing-share-charters/",
+      "bytes": 555
+    },
+    {
+      "page": "https://daintreefishing.com.au/coastal-and-reef-charters/",
+      "status": 404,
+      "final_url": "https://daintreefishing.com.au/coastal-and-reef-charters/",
+      "bytes": 555
+    },
+    {
+      "page": "https://daintreefishing.com.au/brag-board/",
+      "status": 404,
+      "final_url": "https://daintreefishing.com.au/brag-board/",
+      "bytes": 555
+    },
+    {
+      "page": "https://daintreefishing.com.au/map/",
+      "status": 404,
+      "final_url": "https://daintreefishing.com.au/map/",
+      "bytes": 555
+    }
+  ]
+}

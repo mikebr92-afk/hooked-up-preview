@@ -1,0 +1,17 @@
+{
+  "slug": "r4n-cast-and-catch-fishing-charters",
+  "request_hash": "b8618a656c36",
+  "collected_at": "2026-11-04T03:51:27.561Z",
+  "pages_fetched": [
+    "https://castandcatch.com.au/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://castandcatch.com.au/",
+      "status": 200,
+      "final_url": "https://castandcatch.com.au/",
+      "bytes": 170464
+    }
+  ]
+}

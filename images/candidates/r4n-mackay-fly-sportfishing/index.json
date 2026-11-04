@@ -1,0 +1,80 @@
+{
+  "slug": "r4n-mackay-fly-sportfishing",
+  "request_hash": "9773b4b548a5",
+  "collected_at": "2026-11-04T03:51:30.310Z",
+  "pages_fetched": [
+    "https://www.mackaysportfishing.com.au/",
+    "https://www.mackaysportfishing.com.au/about",
+    "https://www.mackaysportfishing.com.au/our-fleet",
+    "https://www.mackaysportfishing.com.au/links",
+    "https://www.mackaysportfishing.com.au/fishing-packages",
+    "https://www.mackaysportfishing.com.au/saltwater-fishing-packages",
+    "https://www.mackaysportfishing.com.au/freshwater-fishing-packages",
+    "https://www.mackaysportfishing.com.au/gallery",
+    "https://www.mackaysportfishing.com.au/mackay-fishery",
+    "https://www.mackaysportfishing.com.au/our-region"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.mackaysportfishing.com.au/",
+      "status": 200,
+      "final_url": "https://www.mackaysportfishing.com.au/",
+      "bytes": 835066
+    },
+    {
+      "page": "https://www.mackaysportfishing.com.au/about",
+      "status": 200,
+      "final_url": "https://www.mackaysportfishing.com.au/about",
+      "bytes": 569432
+    },
+    {
+      "page": "https://www.mackaysportfishing.com.au/our-fleet",
+      "status": 200,
+      "final_url": "https://www.mackaysportfishing.com.au/our-fleet",
+      "bytes": 567736
+    },
+    {
+      "page": "https://www.mackaysportfishing.com.au/links",
+      "status": 200,
+      "final_url": "https://www.mackaysportfishing.com.au/links",
+      "bytes": 577542
+    },
+    {
+      "page": "https://www.mackaysportfishing.com.au/fishing-packages",
+      "status": 200,
+      "final_url": "https://www.mackaysportfishing.com.au/fishing-packages",
+      "bytes": 587023
+    },
+    {
+      "page": "https://www.mackaysportfishing.com.au/saltwater-fishing-packages",
+      "status": 200,
+      "final_url": "https://www.mackaysportfishing.com.au/saltwater-fishing-packages",
+      "bytes": 580120
+    },
+    {
+      "page": "https://www.mackaysportfishing.com.au/freshwater-fishing-packages",
+      "status": 200,
+      "final_url": "https://www.mackaysportfishing.com.au/freshwater-fishing-packages",
+      "bytes": 579114
+    },
+    {
+      "page": "https://www.mackaysportfishing.com.au/gallery",
+      "status": 200,
+      "final_url": "https://www.mackaysportfishing.com.au/gallery",
+      "bytes": 770808
+    },
+    {
+      "page": "https://www.mackaysportfishing.com.au/mackay-fishery",
+      "status": 200,
+      "final_url": "https://www.mackaysportfishing.com.au/mackay-fishery",
+      "bytes": 586543
+    },
+    {
+      "page": "https://www.mackaysportfishing.com.au/our-region",
+      "status": 200,
+      "final_url": "https://www.mackaysportfishing.com.au/our-region",
+      "bytes": 566311
+    }
+  ]
+}

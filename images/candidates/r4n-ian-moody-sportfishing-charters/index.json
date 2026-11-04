@@ -1,0 +1,17 @@
+{
+  "slug": "r4n-ian-moody-sportfishing-charters",
+  "request_hash": "4ce0d3cefa8c",
+  "collected_at": "2026-11-04T03:50:56.837Z",
+  "pages_fetched": [
+    "https://www.facebook.com/Ian-Moody-Sportfishing-Charters-1906230329651429/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.facebook.com/Ian-Moody-Sportfishing-Charters-1906230329651429/",
+      "status": 400,
+      "final_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FIan-Moody-Sportfishing-Charters-1906230329651429%2F",
+      "bytes": 1542
+    }
+  ]
+}

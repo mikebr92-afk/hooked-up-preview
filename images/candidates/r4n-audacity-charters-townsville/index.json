@@ -1,0 +1,52 @@
+{
+  "slug": "r4n-audacity-charters-townsville",
+  "request_hash": "7889bb7ede1e",
+  "collected_at": "2026-11-04T03:51:54.434Z",
+  "pages_fetched": [
+    "https://audacitymarine.com.au/",
+    "https://audacitymarine.com.au/fishing-charters/",
+    "https://audacitymarine.com.au/our-fleet/",
+    "https://audacitymarine.com.au/about-us/",
+    "https://audacitymarine.com.au/gallery/",
+    "https://audacitymarine.com.au/contact/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://audacitymarine.com.au/",
+      "status": 200,
+      "final_url": "https://audacitymarine.com.au/",
+      "bytes": 468240
+    },
+    {
+      "page": "https://audacitymarine.com.au/fishing-charters/",
+      "status": 200,
+      "final_url": "https://audacitymarine.com.au/fishing-charters/",
+      "bytes": 412021
+    },
+    {
+      "page": "https://audacitymarine.com.au/our-fleet/",
+      "status": 200,
+      "final_url": "https://audacitymarine.com.au/our-fleet/",
+      "bytes": 408626
+    },
+    {
+      "page": "https://audacitymarine.com.au/about-us/",
+      "status": 200,
+      "final_url": "https://audacitymarine.com.au/about-us/",
+      "bytes": 363149
+    },
+    {
+      "page": "https://audacitymarine.com.au/gallery/",
+      "status": 200,
+      "final_url": "https://audacitymarine.com.au/gallery/",
+      "bytes": 408415
+    },
+    {
+      "page": "https://audacitymarine.com.au/contact/",
+      "status": 200,
+      "final_url": "https://audacitymarine.com.au/contact/",
+      "bytes": 318456
+    }
+  ]
+}
