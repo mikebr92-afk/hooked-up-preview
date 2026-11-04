@@ -1,0 +1,4 @@
+{"requests":[
+{"slug":"r4-rules","pages":["https://www.dpird.wa.gov.au/businesses/charter-boat-fishing/","https://www.dpird.wa.gov.au/individuals/recreational-fishing/west-coast-demersal-scalefish--information-for-recreational-fishers","https://www.dpird.wa.gov.au/businesses/charter-boat-fishing/west-coast-demersal-scalefish--information-for-charter-operators/","https://www.dpird.wa.gov.au/siteassets/documents/fisheries/recreational/guides-and-infographics/new-demersal-recfishing-rules-brochure-1june2026.pdf"],"text":true,"max":0,"follow":false,"force":true},
+{"slug":"r4-regions","pages":["https://www.australiascoralcoast.com/","https://www.australiascoralcoast.com/destinations/geraldton-surrounds/houtman-abrolhos-islands","https://www.australiasnorthwest.com/see-do/fishing/","https://www.australiasnorthwest.com/explore/kimberley/kununurra/fishing-kununurra/","https://www.visitkununurra.com/kimberley-fishing"],"text":true,"max":0,"follow":false,"force":true}
+]}
