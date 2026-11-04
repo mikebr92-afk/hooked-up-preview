@@ -1,0 +1,24 @@
+{
+  "slug": "r4n2-ian-moody",
+  "request_hash": "c725abf91375",
+  "collected_at": "2026-11-04T16:46:32.411Z",
+  "pages_fetched": [
+    "https://www.queensland.com/au/en/things-to-do/tours/p-6045f4108fc1e7796a9d63ac-ian-moody-sportfishing-charters",
+    "https://fishingbooker.com/charters/view/16164"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.queensland.com/au/en/things-to-do/tours/p-6045f4108fc1e7796a9d63ac-ian-moody-sportfishing-charters",
+      "status": 200,
+      "final_url": "https://www.queensland.com/au/en/things-to-do/tours/p-6045f4108fc1e7796a9d63ac-ian-moody-sportfishing-charters",
+      "bytes": 16682
+    },
+    {
+      "page": "https://fishingbooker.com/charters/view/16164",
+      "status": 403,
+      "final_url": "https://fishingbooker.com/charters/view/16164",
+      "bytes": 5838
+    }
+  ]
+}

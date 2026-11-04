@@ -1,0 +1,38 @@
+{
+  "slug": "r4n2-carpentaria-barra",
+  "request_hash": "cbef9430ab9a",
+  "collected_at": "2026-11-04T16:46:26.096Z",
+  "pages_fetched": [
+    "https://www.carpentariabarra.com.au/?p=117",
+    "https://www.carpentariabarra.com.au/?p=183",
+    "https://www.carpentariabarra.com.au/?p=8",
+    "https://carpentariabarra.com.au/?p=10"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.carpentariabarra.com.au/?p=117",
+      "status": 404,
+      "final_url": "https://www.carpentariabarra.com.au/faqs/",
+      "bytes": 1251
+    },
+    {
+      "page": "https://www.carpentariabarra.com.au/?p=183",
+      "status": 404,
+      "final_url": "https://www.carpentariabarra.com.au/vesselstackle/",
+      "bytes": 1251
+    },
+    {
+      "page": "https://www.carpentariabarra.com.au/?p=8",
+      "status": 404,
+      "final_url": "https://www.carpentariabarra.com.au/about-us/",
+      "bytes": 1251
+    },
+    {
+      "page": "https://carpentariabarra.com.au/?p=10",
+      "status": 404,
+      "final_url": "https://www.carpentariabarra.com.au/contact-us/",
+      "bytes": 1251
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "r4n2-flux-fly-fishing",
+  "request_hash": "487e3ebb0dfe",
+  "collected_at": "2026-11-04T16:46:28.862Z",
+  "pages_fetched": [
+    "https://www.fluxflyfishing.com/west-cape-mothership",
+    "https://www.fluxflyfishing.com/east-cape-mothership",
+    "https://www.fluxflyfishing.com/blog-1",
+    "https://www.fluxflyfishing.com/tours",
+    "https://www.fluxflyfishing.com/accommodation"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.fluxflyfishing.com/west-cape-mothership",
+      "status": 200,
+      "final_url": "https://www.fluxflyfishing.com/west-cape-mothership",
+      "bytes": 332373
+    },
+    {
+      "page": "https://www.fluxflyfishing.com/east-cape-mothership",
+      "status": 200,
+      "final_url": "https://www.fluxflyfishing.com/east-cape-mothership",
+      "bytes": 325077
+    },
+    {
+      "page": "https://www.fluxflyfishing.com/blog-1",
+      "status": 200,
+      "final_url": "https://www.fluxflyfishing.com/blog-1",
+      "bytes": 230220
+    },
+    {
+      "page": "https://www.fluxflyfishing.com/tours",
+      "status": 404,
+      "final_url": "https://www.fluxflyfishing.com/tours",
+      "bytes": 186215
+    },
+    {
+      "page": "https://www.fluxflyfishing.com/accommodation",
+      "status": 200,
+      "final_url": "https://www.fluxflyfishing.com/accommodation",
+      "bytes": 346209
+    }
+  ]
+}
