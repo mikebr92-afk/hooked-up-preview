@@ -26,6 +26,9 @@ Big state. When the orchestrator gives a scope, run as **south** (Gold Coast →
 | karumba | Karumba & the Gulf | |
 | bowen / mission-beach / cooktown | — | **no listings yet** (gaps) |
 
+## Removed at the owner's request
+- **Top Gear Fishing Charters** (Main Beach, Gold Coast): removed Nov 2026 at the owner's request. Don't re-add without asking.
+
 ## Held, and leads to confirm by phone
 - **Held:**
   - Reef Fish & Dive 1770 (07 4974 7906): site down; boat advertised for sale in 2024.
@@ -208,7 +211,7 @@ RESEARCH
 
 <!-- AUTO:listings:start -->
 
-_Generated 2026-11-04 from data/operators.json: 51 live listings._
+_Generated 2026-11-04 from data/operators.json: 50 live listings._
 
 ### Cairns (`cairns`) — 6 listings, page live
 - `cairns-reef-fishing` — Cairns Reef Fishing · Marlin Marina, Cairns · https://www.cairnsreeffishing.com.au/ · checked 2026-10-29
@@ -218,18 +221,17 @@ _Generated 2026-11-04 from data/operators.json: 51 live listings._
 - `tropic-barra-adventures-cairns` — Tropic Barra Adventures · Cairns · https://www.tropicbarraadventures.com.au/ · checked 2026-10-29
 - `tropical-sportfisher-cairns` — Tropical Sportfisher · Cairns · https://www.tropicalsportfisher.com/ · checked 2026-10-29
 
-### Gold Coast (`gold-coast`) — 5 listings, page live
-- `bks-gold-coast-fishing-charters` — BKs Gold Coast Fishing Charters · Runaway Bay, Gold Coast · https://bksfishing.com.au/ · checked 2026-10-29
-- `fish-the-deep-charters` — Fish The Deep Charters · Main Beach, Gold Coast · https://www.fishthedeep.com/ · checked 2026-10-29
-- `hooker-1-fishing-charters-gold-coast` — Hooker 1 Fishing Charters · Main Beach, Gold Coast · https://goldcoastfishingtrips.net.au/ · checked 2026-10-29
-- `top-gear-fishing-charters` — Top Gear Fishing Charters · Main Beach, Gold Coast · https://topgearfishingcharters.com.au/ · checked 2026-10-29
-- `true-blue-fishing-charters` — True Blue Fishing Charters · Main Beach, Gold Coast · https://truebluefishing.com.au/ · checked 2026-10-29
-
 ### Brisbane & Moreton Bay (`brisbane`) — 4 listings, page live
 - `brisbane-fishing-tour` — Brisbane Fishing Tour · Manly, Brisbane & Moreton Bay · https://www.brisbanefishingtour.com.au/ · checked 2026-10-29
 - `fish-moreton` — Fish Moreton · Sandstone Point, Brisbane & Moreton Bay · https://www.fishmoreton.com.au/ · checked 2026-10-29
 - `frenzy-charters-brisbane` — Frenzy Charters · Manly, Brisbane & Moreton Bay · https://www.frenzycharters.com.au/ · checked 2026-10-29
 - `moreton-island-fishing-charters` — Moreton Island Fishing Charters · Manly, Brisbane & Moreton Bay · https://moretonislandfishingcharters.com.au/ · checked 2026-10-29
+
+### Gold Coast (`gold-coast`) — 4 listings, page live
+- `bks-gold-coast-fishing-charters` — BKs Gold Coast Fishing Charters · Runaway Bay, Gold Coast · https://bksfishing.com.au/ · checked 2026-10-29
+- `fish-the-deep-charters` — Fish The Deep Charters · Main Beach, Gold Coast · https://www.fishthedeep.com/ · checked 2026-10-29
+- `hooker-1-fishing-charters-gold-coast` — Hooker 1 Fishing Charters · Main Beach, Gold Coast · https://goldcoastfishingtrips.net.au/ · checked 2026-10-29
+- `true-blue-fishing-charters` — True Blue Fishing Charters · Main Beach, Gold Coast · https://truebluefishing.com.au/ · checked 2026-10-29
 
 ### Sunshine Coast (`sunshine-coast`) — 4 listings, page live
 - `deep-sea-fishing-co-noosa` — Deep Sea Fishing Co. Noosa · Tewantin, Sunshine Coast · https://www.deepseafishingco.com.au/ · checked 2026-10-29
