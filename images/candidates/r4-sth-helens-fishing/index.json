@@ -1,0 +1,353 @@
+{
+  "slug": "r4-sth-helens-fishing",
+  "request_hash": "82bec2222cd0",
+  "collected_at": "2026-11-04T03:53:54.593Z",
+  "pages_fetched": [
+    "https://eastcoasttasmania.com/atdw_listings/st-helens-fishing",
+    "https://www.spiritoftasmania.com.au/things-to-do/st-helens-fishing",
+    "https://eastcoasttasmania.com/atdw_listings/keen-angler-charters/",
+    "https://eastcoasttasmania.com/to-do/adventure/itinerary/fishing/",
+    "https://eastcoasttasmania.com/plan-your-trip/conference-event-venues/",
+    "https://eastcoasttasmania.com/plan-your-trip/ev-charging-map/",
+    "https://eastcoasttasmania.com/plan-your-trip/maps-visitor-guides/",
+    "https://eastcoasttasmania.com/see-and-do/roadtrips/",
+    "https://eastcoasttasmania.com/plan-your-trip/accessibility-inclusion/",
+    "https://eastcoasttasmania.com/plan-your-trip/seasons-weather/",
+    "https://eastcoasttasmania.com/plan-your-trip/transport-options/",
+    "https://eastcoasttasmania.com/plan-your-trip/travel-times/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2048x1536",
+      "source": "https://eastcoasttasmania.com/wp-content/uploads/2022/08/2de0ecfe12106b75c784efc9493cb3f9.jpeg",
+      "page": "https://eastcoasttasmania.com/atdw_listings/keen-angler-charters/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 1920,
+      "height": 756,
+      "original": "1920x756",
+      "source": "https://eastcoasttasmania.com/wp-content/uploads/2020/12/Blog.jpg",
+      "page": "https://eastcoasttasmania.com/atdw_listings/keen-angler-charters/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 970,
+      "height": 645,
+      "original": "970x645",
+      "source": "https://eastcoasttasmania.com/wp-content/uploads/2015/08/Fishing.jpg",
+      "page": "https://eastcoasttasmania.com/to-do/adventure/itinerary/fishing/",
+      "priority": true
+    },
+    {
+      "file": "c04.webp",
+      "width": 1000,
+      "height": 667,
+      "original": "1000x667",
+      "source": "https://eastcoasttasmania.com/wp-content/uploads/2016/04/Elise-Great-Eastern-Drive-10.jpg",
+      "page": "https://eastcoasttasmania.com/to-do/adventure/itinerary/fishing/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1500,
+      "height": 998,
+      "original": "1500x998",
+      "source": "https://eastcoasttasmania.com/wp-content/uploads/2015/10/DSC_0904.jpg",
+      "page": "https://eastcoasttasmania.com/to-do/adventure/itinerary/fishing/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1080,
+      "height": 720,
+      "original": "1080x720",
+      "source": "https://eastcoasttasmania.com/wp-content/uploads/2021/08/Craigie-Knowe-Vineyard-1.jpg",
+      "page": "https://eastcoasttasmania.com/to-do/adventure/itinerary/fishing/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 900,
+      "height": 600,
+      "original": "900x600",
+      "source": "https://eastcoasttasmania.com/wp-content/uploads/2024/12/events.jpg",
+      "page": "https://eastcoasttasmania.com/plan-your-trip/conference-event-venues/",
+      "priority": true
+    },
+    {
+      "file": "c08.webp",
+      "width": 1920,
+      "height": 600,
+      "original": "1920x600",
+      "source": "https://eastcoasttasmania.com/wp-content/uploads/2020/10/Maps-and-Visitor-Guides-East-Coast-Tasmania.jpg",
+      "page": "https://eastcoasttasmania.com/plan-your-trip/maps-visitor-guides/",
+      "priority": true
+    },
+    {
+      "file": "c09.webp",
+      "width": 600,
+      "height": 600,
+      "original": "600x600",
+      "source": "https://eastcoasttasmania.com/wp-content/uploads/2022/03/2022-Food-and-Drink-Guide-front-cover-600x600.jpg",
+      "page": "https://eastcoasttasmania.com/plan-your-trip/maps-visitor-guides/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 600,
+      "height": 600,
+      "original": "600x600",
+      "source": "https://eastcoasttasmania.com/wp-content/uploads/2020/10/2020-Holiday-Park-and-Camping-Guide-cover_450-600x600.jpg",
+      "page": "https://eastcoasttasmania.com/plan-your-trip/maps-visitor-guides/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 600,
+      "height": 600,
+      "original": "600x600",
+      "source": "https://eastcoasttasmania.com/wp-content/uploads/2022/03/2022-Walking-and-Cycling-Guide-600x600.jpg",
+      "page": "https://eastcoasttasmania.com/plan-your-trip/maps-visitor-guides/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 600,
+      "height": 600,
+      "original": "600x600",
+      "source": "https://eastcoasttasmania.com/wp-content/uploads/2020/10/East-Coast-Tasmania-Tear-Off-Maps-and-Town-Maps-450-600x600.jpg",
+      "page": "https://eastcoasttasmania.com/plan-your-trip/maps-visitor-guides/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 600,
+      "height": 600,
+      "original": "600x600",
+      "source": "https://eastcoasttasmania.com/wp-content/uploads/2019/12/2019_GED_holiday-guide_DIGITAL-1-450-e1603771069706-600x600.jpg",
+      "page": "https://eastcoasttasmania.com/plan-your-trip/maps-visitor-guides/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 770,
+      "height": 513,
+      "original": "770x513",
+      "source": "https://eastcoasttasmania.com/wp-content/uploads/2015/07/orford.jpg",
+      "page": "https://eastcoasttasmania.com/see-and-do/roadtrips/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 600,
+      "height": 400,
+      "original": "600x400",
+      "source": "https://eastcoasttasmania.com/wp-content/uploads/2015/07/national-park2-600x400.jpg",
+      "page": "https://eastcoasttasmania.com/see-and-do/roadtrips/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1500,
+      "height": 998,
+      "original": "1500x998",
+      "source": "https://eastcoasttasmania.com/wp-content/uploads/2015/08/DSC_1053.jpg",
+      "page": "https://eastcoasttasmania.com/see-and-do/roadtrips/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://eastcoasttasmania.com/atdw_listings/st-helens-fishing",
+      "status": 404,
+      "final_url": "https://eastcoasttasmania.com/atdw_listings/st-helens-fishing",
+      "bytes": 78155
+    },
+    {
+      "page": "https://www.spiritoftasmania.com.au/things-to-do/st-helens-fishing",
+      "status": 404,
+      "final_url": "https://www.spiritoftasmania.com.au/things-to-do/st-helens-fishing",
+      "bytes": 680169
+    },
+    {
+      "page": "https://eastcoasttasmania.com/atdw_listings/keen-angler-charters/",
+      "status": 200,
+      "final_url": "https://eastcoasttasmania.com/atdw_listings/keen-angler-charters/",
+      "bytes": 83678
+    },
+    {
+      "page": "https://eastcoasttasmania.com/to-do/adventure/itinerary/fishing/",
+      "status": 200,
+      "final_url": "https://eastcoasttasmania.com/to-do/adventure/itinerary/fishing/",
+      "bytes": 92457
+    },
+    {
+      "page": "https://eastcoasttasmania.com/plan-your-trip/conference-event-venues/",
+      "status": 200,
+      "final_url": "https://eastcoasttasmania.com/plan-your-trip/conference-event-venues/",
+      "bytes": 88993
+    },
+    {
+      "page": "https://eastcoasttasmania.com/plan-your-trip/ev-charging-map/",
+      "status": 200,
+      "final_url": "https://www.plugshare.com/",
+      "bytes": 19976
+    },
+    {
+      "page": "https://eastcoasttasmania.com/plan-your-trip/maps-visitor-guides/",
+      "status": 200,
+      "final_url": "https://eastcoasttasmania.com/plan-your-trip/maps-visitor-guides/",
+      "bytes": 90045
+    },
+    {
+      "page": "https://eastcoasttasmania.com/see-and-do/roadtrips/",
+      "status": 200,
+      "final_url": "https://eastcoasttasmania.com/see-and-do/roadtrips/",
+      "bytes": 100327
+    },
+    {
+      "page": "https://eastcoasttasmania.com/plan-your-trip/accessibility-inclusion/",
+      "status": 200,
+      "final_url": "https://eastcoasttasmania.com/plan-your-trip/accessibility-inclusion/",
+      "bytes": 96575
+    },
+    {
+      "page": "https://eastcoasttasmania.com/plan-your-trip/seasons-weather/",
+      "status": 200,
+      "final_url": "https://eastcoasttasmania.com/plan-your-trip/seasons-weather/",
+      "bytes": 92182
+    },
+    {
+      "page": "https://eastcoasttasmania.com/plan-your-trip/transport-options/",
+      "status": 200,
+      "final_url": "https://eastcoasttasmania.com/plan-your-trip/transport-options/",
+      "bytes": 88097
+    },
+    {
+      "page": "https://eastcoasttasmania.com/plan-your-trip/travel-times/",
+      "status": 200,
+      "final_url": "https://eastcoasttasmania.com/plan-your-trip/travel-times/",
+      "bytes": 85412
+    },
+    {
+      "dup": "https://eastcoasttasmania.com/wp-content/uploads/2022/08/2de0ecfe12106b75c784efc9493cb3f9-1024x768.jpeg"
+    },
+    {
+      "image": "https://eastcoasttasmania.com/wp-content/uploads/2016/04/Elise-Great-Eastern-Drive-10-370x247.jpg",
+      "error": "too small 370x247"
+    },
+    {
+      "dup": "https://eastcoasttasmania.com/wp-content/uploads/2016/04/Elise-Great-Eastern-Drive-10-600x400.jpg"
+    },
+    {
+      "image": "https://eastcoasttasmania.com/wp-content/uploads/2015/10/DSC_0904-370x246.jpg",
+      "error": "too small 370x246"
+    },
+    {
+      "dup": "https://eastcoasttasmania.com/wp-content/uploads/2015/10/DSC_0904-1024x681.jpg"
+    },
+    {
+      "dup": "https://eastcoasttasmania.com/wp-content/uploads/2015/10/DSC_0904-600x400.jpg"
+    },
+    {
+      "image": "https://eastcoasttasmania.com/wp-content/uploads/2021/08/Craigie-Knowe-Vineyard-1-370x247.jpg",
+      "error": "too small 370x247"
+    },
+    {
+      "dup": "https://eastcoasttasmania.com/wp-content/uploads/2021/08/Craigie-Knowe-Vineyard-1-1024x683.jpg"
+    },
+    {
+      "dup": "https://eastcoasttasmania.com/wp-content/uploads/2021/08/Craigie-Knowe-Vineyard-1-600x400.jpg"
+    },
+    {
+      "image": "https://assets.plugshare.com/assets/plugshare-og.png",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://assets.plugshare.com/assets/plugshare-web.png",
+      "error": "too small 413x100"
+    },
+    {
+      "image": "https://assets.plugshare.com/assets/plugshare-white.webp",
+      "error": "too small 306x100"
+    },
+    {
+      "image": "https://eastcoasttasmania.com/wp-content/uploads/2022/03/2022-Food-and-Drink-Guide-front-cover.jpg",
+      "error": "too small 450x450"
+    },
+    {
+      "image": "https://eastcoasttasmania.com/wp-content/uploads/2020/10/2020-Holiday-Park-and-Camping-Guide-cover_450.jpg",
+      "error": "too small 450x450"
+    },
+    {
+      "image": "https://eastcoasttasmania.com/wp-content/uploads/2022/03/2022-Walking-and-Cycling-Guide.jpg",
+      "error": "too small 450x450"
+    },
+    {
+      "image": "https://eastcoasttasmania.com/wp-content/uploads/2020/10/East-Coast-Tasmania-Tear-Off-Maps-and-Town-Maps-450.jpg",
+      "error": "too small 450x450"
+    },
+    {
+      "image": "https://eastcoasttasmania.com/wp-content/uploads/2019/12/2019_GED_holiday-guide_DIGITAL-1-450-e1603771069706.jpg",
+      "error": "too small 449x449"
+    },
+    {
+      "image": "https://eastcoasttasmania.com/wp-content/uploads/2022/03/2022-Food-and-Drink-Guide-front-cover-370x370.jpg",
+      "error": "too small 370x370"
+    },
+    {
+      "image": "https://eastcoasttasmania.com/wp-content/uploads/2022/03/2022-Food-and-Drink-Guide-front-cover-150x150.jpg",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://eastcoasttasmania.com/wp-content/uploads/2020/10/2020-Holiday-Park-and-Camping-Guide-cover_450-370x370.jpg",
+      "error": "too small 370x370"
+    },
+    {
+      "image": "https://eastcoasttasmania.com/wp-content/uploads/2020/10/2020-Holiday-Park-and-Camping-Guide-cover_450-150x150.jpg",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://eastcoasttasmania.com/wp-content/uploads/2022/03/2022-Walking-and-Cycling-Guide-370x370.jpg",
+      "error": "too small 370x370"
+    },
+    {
+      "image": "https://eastcoasttasmania.com/wp-content/uploads/2022/03/2022-Walking-and-Cycling-Guide-150x150.jpg",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://eastcoasttasmania.com/wp-content/uploads/2020/10/East-Coast-Tasmania-Tear-Off-Maps-and-Town-Maps-450-370x370.jpg",
+      "error": "too small 370x370"
+    },
+    {
+      "image": "https://eastcoasttasmania.com/wp-content/uploads/2020/10/East-Coast-Tasmania-Tear-Off-Maps-and-Town-Maps-450-150x150.jpg",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://eastcoasttasmania.com/wp-content/uploads/2019/12/2019_GED_holiday-guide_DIGITAL-1-450.jpg",
+      "error": "too small 450x631"
+    },
+    {
+      "image": "https://eastcoasttasmania.com/wp-content/uploads/2019/12/2019_GED_holiday-guide_DIGITAL-1-450-e1603771069706-370x370.jpg",
+      "error": "too small 370x370"
+    },
+    {
+      "image": "https://eastcoasttasmania.com/wp-content/uploads/2019/12/2019_GED_holiday-guide_DIGITAL-1-450-e1603771069706-150x150.jpg",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://eastcoasttasmania.com/wp-content/uploads/2015/07/Roadtrip_Section-Header.jpg",
+      "error": "banner/strip 1920x400"
+    },
+    {
+      "image": "https://eastcoasttasmania.com/wp-content/uploads/2015/07/national-park2.jpg",
+      "error": "too small 370x247"
+    }
+  ]
+}

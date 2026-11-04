@@ -1,70 +1,72 @@
 {
-  "finished_at": "2026-11-04T03:51:50.129Z",
+  "finished_at": "2026-11-04T03:54:18.725Z",
   "summary": [
     {
       "slug": "r4-miena-guiding-tasmania",
-      "candidates": 0,
-      "pages": 9
+      "skipped": true
     },
     {
       "slug": "r4-trout-tales-tasmania",
-      "candidates": 0,
-      "pages": 11
+      "skipped": true
     },
     {
       "slug": "r4-divers-fishing-charters-hobart",
-      "candidates": 0,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "r4-tassie-fly-guide",
-      "candidates": 0,
-      "pages": 3
+      "skipped": true
     },
     {
       "slug": "r4-trout-territory",
-      "candidates": 0,
-      "pages": 7
+      "skipped": true
     },
     {
       "slug": "r4-riverfly-1864",
-      "candidates": 0,
-      "pages": 9
+      "skipped": true
     },
     {
       "slug": "r4-tasmania-fly-fishing",
-      "candidates": 0,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "r4-mr-flathead",
-      "candidates": 0,
-      "pages": 5
+      "skipped": true
     },
     {
       "slug": "r4-tasman-spirit-charters",
-      "candidates": 0,
-      "pages": 1
+      "skipped": true
     },
     {
       "slug": "r4-south-east-charters",
-      "candidates": 0,
-      "pages": 12
+      "skipped": true
     },
     {
       "slug": "r4-red-tag-trout-tours",
-      "candidates": 0,
-      "pages": 12
+      "skipped": true
     },
     {
       "slug": "r4-gone-fishing",
+      "skipped": true
+    },
+    {
+      "slug": "r4-sth-discovery",
+      "skipped": true
+    },
+    {
+      "slug": "r4-sth-helens-fishing",
+      "candidates": 16,
+      "pages": 12
+    },
+    {
+      "slug": "r4-gone-fishing-b",
       "candidates": 0,
       "pages": 2
     },
     {
-      "slug": "r4-sth-discovery",
+      "slug": "r4-sameas-check",
       "candidates": 0,
-      "pages": 3
+      "pages": 8
     }
   ]
 }

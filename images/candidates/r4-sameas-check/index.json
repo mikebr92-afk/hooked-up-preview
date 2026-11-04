@@ -1,0 +1,66 @@
+{
+  "slug": "r4-sameas-check",
+  "request_hash": "6d5b61f22ce6",
+  "collected_at": "2026-11-04T03:54:18.725Z",
+  "pages_fetched": [
+    "https://www.spiritoftasmania.com.au/things-to-do/divers-fishing-charters-hobart",
+    "https://hobartandbeyond.com.au/place/divers-fishing-charters-hobart/",
+    "https://www.tripadvisor.com.au/Attraction_Review-g4013752-d6695270-Reviews-Trout_Territory-Cressy_Tasmania.html",
+    "https://www.spiritoftasmania.com.au/things-to-do/mr-flathead",
+    "https://www.spiritoftasmania.com.au/things-to-do/trout-territory",
+    "https://www.spiritoftasmania.com.au/things-to-do/riverfly-1864",
+    "https://www.discovertasmania.com.au/things-to-do/tours/mrflathead/",
+    "https://www.troutguidestasmania.com.au/guide/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.spiritoftasmania.com.au/things-to-do/divers-fishing-charters-hobart",
+      "status": 200,
+      "final_url": "https://www.spiritoftasmania.com.au/things-to-do/divers-fishing-charters-hobart/",
+      "bytes": 745910
+    },
+    {
+      "page": "https://hobartandbeyond.com.au/place/divers-fishing-charters-hobart/",
+      "status": 200,
+      "final_url": "https://hobartandbeyond.com.au/place/divers-fishing-charters-hobart/",
+      "bytes": 287037
+    },
+    {
+      "page": "https://www.tripadvisor.com.au/Attraction_Review-g4013752-d6695270-Reviews-Trout_Territory-Cressy_Tasmania.html",
+      "status": 403,
+      "final_url": "https://www.tripadvisor.com.au/Attraction_Review-g4013752-d6695270-Reviews-Trout_Territory-Cressy_Tasmania.html",
+      "bytes": 778
+    },
+    {
+      "page": "https://www.spiritoftasmania.com.au/things-to-do/mr-flathead",
+      "status": 404,
+      "final_url": "https://www.spiritoftasmania.com.au/things-to-do/mr-flathead",
+      "bytes": 680139
+    },
+    {
+      "page": "https://www.spiritoftasmania.com.au/things-to-do/trout-territory",
+      "status": 200,
+      "final_url": "https://www.spiritoftasmania.com.au/things-to-do/trout-territory-fly-fishing-tours/",
+      "bytes": 746580
+    },
+    {
+      "page": "https://www.spiritoftasmania.com.au/things-to-do/riverfly-1864",
+      "status": 200,
+      "final_url": "https://www.spiritoftasmania.com.au/things-to-do/riverfly-1864/",
+      "bytes": 745076
+    },
+    {
+      "page": "https://www.discovertasmania.com.au/things-to-do/tours/mrflathead/",
+      "status": 404,
+      "final_url": "https://www.discovertasmania.com.au/things-to-do/tours/mrflathead/",
+      "bytes": 275931
+    },
+    {
+      "page": "https://www.troutguidestasmania.com.au/guide/",
+      "status": 200,
+      "final_url": "https://www.troutguidestasmania.com.au/guide/",
+      "bytes": 168660
+    }
+  ]
+}

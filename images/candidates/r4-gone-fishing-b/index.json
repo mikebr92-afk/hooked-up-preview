@@ -1,0 +1,22 @@
+{
+  "slug": "r4-gone-fishing-b",
+  "request_hash": "f074319a0fa0",
+  "collected_at": "2026-11-04T03:53:55.069Z",
+  "pages_fetched": [
+    "http://www.breamfishing.com.au/",
+    "https://api.runswithtogo.com/au/tas/nature/gone-fishing-charters-tas"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "http://www.breamfishing.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://api.runswithtogo.com/au/tas/nature/gone-fishing-charters-tas",
+      "status": 403,
+      "final_url": "https://maps.roadtrippers.com/au/tas/nature/gone-fishing-charters-tas",
+      "bytes": 5923
+    }
+  ]
+}
