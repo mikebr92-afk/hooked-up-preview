@@ -1,0 +1,17 @@
+{
+  "slug": "r4b-humbug-fishing-darwin",
+  "request_hash": "25b5c85cb3b2",
+  "collected_at": "2026-11-04T04:01:26.579Z",
+  "pages_fetched": [
+    "https://northernterritory.com/tours/humbug-fishing"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://northernterritory.com/tours/humbug-fishing",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/humbug-fishing",
+      "bytes": 524334
+    }
+  ]
+}

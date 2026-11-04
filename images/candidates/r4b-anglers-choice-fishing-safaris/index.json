@@ -1,0 +1,38 @@
+{
+  "slug": "r4b-anglers-choice-fishing-safaris",
+  "request_hash": "2bf724713bb9",
+  "collected_at": "2026-11-04T04:01:25.564Z",
+  "pages_fetched": [
+    "https://www.anglerschoice.com.au/multi-day-packages",
+    "https://www.anglerschoice.com.au/the-guides",
+    "https://www.anglerschoice.com.au/blog",
+    "https://fareharbor.com/anglerschoice/items/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.anglerschoice.com.au/multi-day-packages",
+      "status": 200,
+      "final_url": "https://www.anglerschoice.com.au/multi-day-packages",
+      "bytes": 89832
+    },
+    {
+      "page": "https://www.anglerschoice.com.au/the-guides",
+      "status": 200,
+      "final_url": "https://www.anglerschoice.com.au/the-guides",
+      "bytes": 96616
+    },
+    {
+      "page": "https://www.anglerschoice.com.au/blog",
+      "status": 200,
+      "final_url": "https://www.anglerschoice.com.au/blog",
+      "bytes": 90663
+    },
+    {
+      "page": "https://fareharbor.com/anglerschoice/items/",
+      "status": 200,
+      "final_url": "https://fareharbor.com/anglerschoice/items/",
+      "bytes": 1864622
+    }
+  ]
+}

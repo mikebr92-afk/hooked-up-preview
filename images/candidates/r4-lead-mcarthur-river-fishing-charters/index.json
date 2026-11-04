@@ -1,0 +1,27 @@
+{
+  "slug": "r4-lead-mcarthur-river-fishing-charters",
+  "request_hash": "4b7c8b9c3c14",
+  "collected_at": "2026-11-04T04:01:20.106Z",
+  "pages_fetched": [
+    "http://mccarthurrivercharters.com.au/",
+    "http://www.mcarthurrivercharters.com.au/",
+    "https://www.localsearch.com.au/find/fishing-trips-charters/mcarthur-nt"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "http://mccarthurrivercharters.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "http://www.mcarthurrivercharters.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://www.localsearch.com.au/find/fishing-trips-charters/mcarthur-nt",
+      "status": 405,
+      "final_url": "https://www.localsearch.com.au/find/fishing-trips-charters/mcarthur-nt",
+      "bytes": 2503
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "r4b-nt-fish-and-4x4",
+  "request_hash": "11d6636fdc6a",
+  "collected_at": "2026-11-04T04:01:20.606Z",
+  "pages_fetched": [
+    "https://www.ntfish4x4.com/information"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.ntfish4x4.com/information",
+      "status": 200,
+      "final_url": "https://www.ntfish4x4.com/information",
+      "bytes": 684580
+    }
+  ]
+}

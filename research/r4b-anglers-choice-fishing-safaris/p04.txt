@@ -1,0 +1,1883 @@
+HTTP 200
+URL: https://fareharbor.com/anglerschoice/items/
+TITLE: FareHarbor
+DESCRIPTION: Book directly online with live availability, whether you
+CONTACT LINKS: tel:[[  mailto:[!  mailto:support@fareharbor.com
+
+--- TEXT ---
+FareHarbor
+• 
+• 
+• 
+• 
+• 
+FareHarbor did not load properly.
+Please try refreshing the page. If you continue to see this message, please contact us .
+Error code: no-assets .
+Loading Anglers Choice Fishing Safaris...
+[! rebook.currentBooking.availability.item.settings.isMemberships ? T('Stop change') : T('Stop rebooking') !]
+[! plusbook.isRenewingMembership ? T("Stop renewing") : T("Stop booking") !]
+[! plusbook.isRenewingMembership ? T("Renewing membership for:") : T("Making new booking for:") !]
+New Order
+Order #[! order.identifier !]
+Not in an order
+Loading invoice...
+Pay invoices from [! invoice.remitToCompany.billingName || invoice.remitToCompany.name !] with FareHarbor
+Pay for this invoice, see more details, and keep track of invoices from all FareHarbor companies. Your FareHarbor dashboard is waiting for you.
+Get Started 
+Log In 
+Tax Invoice
+Remit to
+Billed to
+Invoice
+Date Range
+Created
+Due Date
+Included [! Company.taxDisplayRate(invoice.company) !] [! Company.taxDisplayName(invoice.company) !]
+Total
+[! invoice.identifier !]
+[! invoice.periodStartAt|dateRange:invoice.periodEndAt:'dateOnlyShort':'absolute' !]
+[! invoice.createdAt|date:'dateOnlyShort':'absolute' !]
+[! invoice.dueAt|date:'dateOnlyShort':'absolute' !]
+[! invoice.includedTaxAmount|amount:invoice.company !]
+[! (invoice.invoicedToCharter || invoice.invoicedToAffiliate)|amount:invoice.company !]
+— 
+1"
+ng-link="invoice-grouping"
+>
+[[ group.name ]]: [[ group.as ]] 
+[[ interpolate(nT('%(count)s booking', '%(count)s bookings', group.rows.length), { count: group.rows.length }) ]]
+ID
+Contact
+Agent
+Desk
+Voucher
+Customers
+Item
+Availability
+Amount Due
+#[! entry.booking.pk !]
+#[! entry.booking.pk !]
+[! entry.booking.contact.name !]
+[! entry.booking.agent ? entry.booking.agent.name : '' !]
+[! entry.booking.desk ? entry.booking.desk.name : '' !]
+[! entry.booking.voucherNumber !]
+[! entry.booking.customerBreakdown !]
+[! entry.booking.availability.item.name !]
+[! entry.booking.availability.startAt|datetime:'short':'absolute':(entry.booking.availability.endAt) !]
+[! entry.displayOffset|amount:entry.booking !]
+[[ interpolate(nT('%(count)s booking', '%(count)s bookings', $summary), { count: $summary }) ]] 
+[[ interpolate(nT('%(count)s customer', '%(count)s customers', $summary), { count: $summary }) ]] 
+[[ $summary|amount:booking ]] 
+Invoice actions
+• 
+Print
+FareHarbor 
+• 
+Read-only
+You're in viewing only mode because some parts of FareHarbor are unavailable.
+Go to status page 
+Help 
+• 
+FareHarbor Help Center 
+• 
+FareHarbor Compass 
+0)"
+ng-with="nagsCtrl.updateActiveNags({
+directBookingFee: showDirectBookingFeeNag,
+directBookingFee2: showDirectBookingFee2Nag,
+});"
+>
+0 || (alertsCount > 0 && (User.hasAnyNags(auth.currentUser) || Company.hasAnyNags(auth.currentUser.company))))"
+>
+[[ alwaysOnNags ? unreadNagCount : alertsCount ]] 
+[! auth.currentUser.name !]
+FH 
+• 
+Admin 
+• 
+Switch Companies 
+• 
+Overview 
+• 
+Your Account 
+• 
+Log out 
+[[ headerCtrl.company.name ]]
+Demo 
+[[ headerCtrl.company.name ]]
+Demo 
+• 
+[[ auth.currentUser.company.name ]] Demo 
+• 
+[[ relatedCompany.name ]] Demo 
+[[ headerCtrl.company.name ]]
+Demo 
+[[ headerCtrl.company.name ]]
+Demo 
+• 
+[[ auth.currentUser.company.name ]] Demo 
+• 
+[[ relatedCompany.name ]] Demo 
+• 
+Read-only
+You're in viewing only mode because some parts of FareHarbor are unavailable.
+Go to status page 
+[! auth.currentUser.name !]
+FH 
+Help 
+0)"
+ng-with="nagsCtrl.updateActiveNags({
+directBookingFee: showDirectBookingFeeNag,
+directBookingFee2: showDirectBookingFee2Nag,
+});"
+>
+0 || (alertsCount > 0 && (User.hasAnyNags(auth.currentUser) || Company.hasAnyNags(auth.currentUser.company))))"
+>
+[[ alwaysOnNags ? unreadNagCount : alertsCount ]] 
+Dashboard 
+• 
+Admin 
+• 
+Switch Companies 
+• 
+Overview 
+• 
+Your Account 
+• 
+Log out 
+• 
+FareHarbor Help Center 
+• 
+FareHarbor Compass 
+• [[ company.name ]] 
+• [[ company.url|hostname ]]
+• [[ company.phone ]]
+• [[ company.email ]]
+• 
+[! company.url|hostname !] 
+Return to site 
+• 
+Book Now
+• 
+[[ T('View') ]] 
+[! T('Buy') !] 
+[[ T('Select date') ]] 
+[[ T('Book package') ]] 
+Archived 
+Private 
+Unlisted 
+• 
+• 
+Book Now 
+• 
+Book Now 
+• 
+About 
+• 
+FAQ 
+• 
+Cart ([[ cart.entries.length ]])
+• 
+Read reviews on Yelp 
+• 
+Read reviews on TripAdvisor 
+• 
+Review us on Google 
+• 
+Follow us on X 
+• 
+Like us on Facebook 
+• 
+Follow us on Instagram 
+• 
+Subscribe on YouTube 
+• 
+Follow us on Pinterest 
+• 
+Follow us on TikTok 
+• 
+About us 
+• 
+[! company.url|hostname !]
+• 
+Home 
+• 
+About + Contact 
+• 
+FAQ 
+• 
+Policies 
+• 
+Read reviews on Yelp 
+• 
+Read reviews on TripAdvisor 
+• 
+Review us on Google 
+• 
+Follow us on X 
+• 
+Like us on Facebook 
+• 
+Follow us on Instagram 
+• 
+Subscribe on YouTube 
+• 
+Follow us on Pinterest 
+• 
+Follow us on TikTok 
+• 
+Cart ([[ cart.entries.length ]])
+&rsaquo;
+[! company.name !] 
+[! company.summary !]
+• 
+[! company.name !]
+[! company.location !]
+Loading your cart...
+This order has been cancelled.
+If you feel this was an error, please call us at [! order.company.phone|phone !].
+Edit order 
+Thanks for your payment!
+We've emailed you a receipt.
+Thanks for booking with us!
+We've emailed you this confirmation and a receipt.
+We've emailed you this confirmation.
+If you need to make a change, please call [! order.company.phone|phone !].
+We look forward to seeing you!
+• 
+Order #[! booking.pk !]
+Booking #[! booking.pk !]
+[! booking.item.name !] 
+— [! booking.availability.headline !] 
+[! booking.customerBreakdown !]
+• 
+Member ID: [! order.contact.member.code !] 
+• 
+View benefits 
+• 
+Print this page 
+• 
+Give booking feedback &rsaquo;
+1 minute survey about your booking experience
+Processing payment...
+Please do not leave or refresh this page.
+Make a payment
+Close 
+• Payment could not be processed. Please refresh the page and try again, or contact FareHarbor Support. (C-UNSPECIFIED)
+• Payment could not be processed. Please refresh the page and try again, or contact FareHarbor Support. (C-LOW)
+• Payment could not be processed. Please refresh the page and try again, or contact FareHarbor Support. (C-HIGH)
+• Payment could not be processed. Please refresh the page and try again, or contact FareHarbor Support. (F-UNSPECIFIED)
+• Payment could not be processed. Please refresh the page and try again, or contact FareHarbor Support. (F-LOW)
+• Payment could not be processed. Please refresh the page and try again, or contact FareHarbor Support. (F-HIGH)
+• Payment could not be processed. Please refresh the page and try again, or contact FareHarbor Support. (G-UNSPECIFIED)
+• Payment could not be processed. Please refresh the page and try again, or contact FareHarbor Support. (G-LOW)
+• Payment could not be processed. Please refresh the page and try again, or contact FareHarbor Support. (G-HIGH)
+• Invalid payment option. Please refresh the page and try again.
+• Please refresh the page and try again.
+• Please refresh the page and try again.
+• Demo mode must be enabled to add payments to demo bookings.
+• Demo mode must be disabled to add payments to non-demo bookings.
+• Cannot create a payment for a saved card when demo mode is enabled.
+• This booking has been rebooked. Please refresh the page.
+• Card not found.
+• Cannot charge that card. Please refresh the page and try again.
+• Cannot skip payment. Please refresh the page and try again.
+• Cannot save card. Please refresh the page and try again.
+• Cannot create affiliate payment. Please refresh the page and try again.
+• Cannot create in-store payment. Please refresh the page and try again.
+• Sorry, your account is not authorized to redeem gift cards.
+• Sorry, you are not authorized to create in-store payments. Please refresh the page and try again.
+• Cannot create in-store payment, type not found. Please refresh the page and try again.
+• Cannot create in-store payment, selection not valid. Please refresh the page and try again.
+• '%(payment_note)s' cannot be empty. Please refresh the page and try again.
+• Gift card not found. Please refresh the page and try again.
+• Cannot create credit card payment. Please refresh the page and try again.
+• Unable to use card for payment. Please refresh the page and try again.
+• Cannot create hold. Please refresh the page and try again.
+• An affiliate must be selected.
+• Payment could not be processed. Cardholder's name is required.
+• Payment could not be processed. Billing country is required. Please refresh the page and try again.
+• Payment could not be processed. Billing postal (zip) code is required. Please refresh the page and try again.
+• Please refresh the page and try again.
+• Please refresh the page and try again.
+• Please refresh the page and try again.
+• Payment device provider not recognized. Please contact FareHarbor Support.
+• Cannot pay with %(payment_method)s when demo mode is enabled.
+• Please refresh the page and try again.
+• Payments collected by affiliates must be marked as such. Please contact FareHarbor Support. (A-1)
+• Only payments collected by affiliates may be marked as such. Please contact FareHarbor Support. (A-2)
+• Cannot create payment. Please refresh the page and try again.
+• Hold amount is not specified.
+• Please refresh the page and try again.
+• Please refresh the page and try again.
+• Please refresh the page and try again.
+• Payment could not be processed. EMV device not specified. Please contact FareHarbor Support.
+• Payment could not be processed. EMV device type not specified. Please contact FareHarbor Support.
+• This booking is not eligible for a deposit.
+• A deposit is required for this booking.
+• Sorry, you are not authorized to pay a deposit.
+• Cannot add payment while another payment is pending.
+• This booking is not eligible for online payment.
+• Partial payments are not available for this booking.
+• Proposal cannot be confirmed, please contact %(company_name)s
+• Stripe EMV device id is required for server-driven transaction.
+• 
+• 
+[[ error ]]
+• [! bookSeatingCtrl.seatingSelectionErrorMessage() !]
+Amount
+• 
+Pay in full
+• 
+Partial payment
+• 
+[! (booking || 'usd')|currencySymbol:'short' !]
+• 
+Don't add payment now
+• 
+No available payment options. Please try again later.
+• 
+[[ paymentCtrl.isDefaultAmountInvoicePrice() ? T('Invoice amount') : T('Pay in full') ]]
+• 
+Partial payment
+• 
+• 
+• — #[! booking.pk !]
+• [! booking.availability.item|name !] &bull; [! booking.availability.startAt|datetime:'short':(booking.availability.endAt) !] &bull; [! booking.customerBreakdownShort !]
+[! (booking || 'usd')|currencySymbol:'short' !]
+• 
+Fees
+[[ orderFees|amount: booking ]]
+Payment total
+[[ orderTotal|amount: booking ]]
+• 
+No available payment options. Please try again later.
+Payment
+Collected By
+• 
+Collected by you 
+Collected by [[ paymentCtrl.company|name ]] 
+• 
+Collected by you 
+Collected by [[ paymentCtrl.affiliation().affiliateCompany|name ]] 
+• 
+[[ inStorePaymentType.name ]]
+Calculate change: 
+[! (booking || 'usd')|currencySymbol:'short' !]
+Change due 
+• [[ error ]]
+• 
+[[ inStorePaymentType.name ]]
+Calculate change: 
+[! (booking || 'usd')|currencySymbol:'short' !]
+Change due 
+• [[ error ]]
+• 
+Charge [[ payment.displayProcessorBasedType ]] [[ payment.processorBasedIdentifier ]] 
+• 
+Charge company card [[ cardOnFile.name ]] 
+• 
+Card payment
+• 
+Tap to Pay
+• 
+Charge with [[ emv.currentDevice ? emv.currentDevice.name : T('Bluetooth EMV card reader') ]] 
+• 
+Apple Pay
+• 
+Google Pay
+• 
+iDEAL | Wero
+• 
+PayPal, Credit or Debit Card
+PayPal
+• 
+Bancontact
+• 
+Vipps
+• 
+Afterpay
+• 
+MobilePay
+• 
+Alipay
+• 
+WeChat Pay
+• 
+Satispay
+• 
+MB WAY
+• 
+Klarna
+• 
+Bizum
+• 
+Swish
+• 
+Thai QR
+• 
+Bank Transfer
+• 
+No valid payment options
+Please select your bank
+ABN AMRO 
+ASN Bank 
+bunq 
+ING 
+Knab 
+Rabobank 
+RegioBank 
+Revolut 
+De Volksbank (SNS Bank) 
+Triodos Bank 
+Van Lanschot 
+• Select a valid choice. The value is not one of the available choices.
+• [[ error ]]
+Account holder's name
+• [[ error ]]
+Address
+• [[ error ]]
+City
+• [[ error ]]
+State
+• [[ error ]]
+ZIP or postcode
+• [[ error ]]
+Country
+Australia 
+New Zealand 
+United States 
+• Select a valid choice. The value is not one of the available choices.
+• [[ error ]]
+MB WAY phone number
+• Invalid value
+• [[ error ]]
+Thai National ID
+• [[ error ]]
+South African National ID
+• [[ error ]]
+Sorry, cards cannot be processed for amounts less than [! paymentCtrl.amountMin()|amount:company !].
+Sorry, payments cannot be created for [! 0|amount:booking !].
+Demo mode
+Only test credit card numbers accepted
+Card number
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Expiration (MM/YY)
+Name on card
+• [[ error ]]
+CVC 
+Your card's three or four digit verification (CVC) number, usually on the back.
+Close hint 
+Demo mode
+Only test credit card numbers accepted
+Swiped successfully 
+Enter different card
+Swipe card
+Card number
+• 
+• 
+• 
+• 
+• 
+• [[ error ]]
+Card number
+• 
+• 
+• 
+• 
+• 
+• [[ error ]]
+Expiration 
+Month
+01 - January 
+02 - February 
+03 - March 
+04 - April 
+05 - May 
+06 - June 
+07 - July 
+08 - August 
+09 - September 
+10 - October 
+11 - November 
+12 - December 
+• Select a valid choice. The value is not one of the available choices.
+• [[ error ]]
+Year
+2026 
+2027 
+2028 
+2029 
+2030 
+2031 
+2032 
+2033 
+2034 
+2035 
+2036 
+2037 
+2038 
+2039 
+2040 
+2041 
+2042 
+2043 
+• Select a valid choice. The value is not one of the available choices.
+• [[ error ]]
+Name on card
+• [[ error ]]
+Name on card
+• [[ error ]]
+CVC 
+• [[ error ]]
+CVC 
+• [[ error ]]
+Your card's three or four digit verification (CVC) number, usually on the back.
+Close hint 
+Country/Region
+USA 
+Afghanistan 
+Albania 
+Algeria 
+American Samoa 
+Andorra 
+Angola 
+Anguilla 
+Antigua and Barbuda 
+Argentina 
+Armenia 
+Aruba 
+Ascension Island 
+Australia 
+Austria 
+Azerbaijan 
+Bahamas 
+Bahrain 
+Bangladesh 
+Barbados 
+Belarus 
+Belgium 
+Belize 
+Benin 
+Bermuda 
+Bhutan 
+Bolivia 
+Bosnia and Herzegovina 
+Botswana 
+Brazil 
+British Indian Ocean Territory 
+British Virgin Islands 
+Brunei 
+Bulgaria 
+Burkina Faso 
+Burundi 
+Cambodia 
+Cameroon 
+Canada 
+Cape Verde 
+Caribbean Netherlands 
+Cayman Islands 
+Central African Republic 
+Chad 
+Chile 
+China 
+Christmas Island 
+Cocos (Keeling) Islands 
+Colombia 
+Comoros 
+Congo (DRC) 
+Congo (Republic) 
+Cook Islands 
+Costa Rica 
+Côte d’Ivoire 
+Croatia 
+Cuba 
+Curaçao 
+Cyprus 
+Czech Republic 
+Denmark 
+Djibouti 
+Dominica 
+Dominican Republic 
+Ecuador 
+Egypt 
+El Salvador 
+Equatorial Guinea 
+Eritrea 
+Estonia 
+Eswatini 
+Ethiopia 
+Falkland Islands (Malvinas) 
+Faroe Islands 
+Fiji 
+Finland 
+France 
+French Guiana 
+French Polynesia 
+Gabon 
+Gambia 
+Georgia 
+Germany 
+Ghana 
+Gibraltar 
+Greece 
+Greenland 
+Grenada 
+Guadeloupe 
+Guam 
+Guatemala 
+Guernsey 
+Guinea 
+Guinea-Bissau 
+Guyana 
+Haiti 
+Honduras 
+Hong Kong 
+Hungary 
+Iceland 
+India 
+Indonesia 
+Iran 
+Iraq 
+Ireland 
+Isle of Man 
+Israel 
+Italy 
+Jamaica 
+Japan 
+Jersey 
+Jordan 
+Kazakhstan 
+Kenya 
+Kiribati 
+Kosovo 
+Kuwait 
+Kyrgyzstan 
+Laos 
+Latvia 
+Lebanon 
+Lesotho 
+Liberia 
+Libya 
+Liechtenstein 
+Lithuania 
+Luxembourg 
+Macau 
+Madagascar 
+Malawi 
+Malaysia 
+Maldives 
+Mali 
+Malta 
+Marshall Islands 
+Martinique 
+Mauritania 
+Mauritius 
+Mayotte 
+Mexico 
+Micronesia 
+Moldova 
+Monaco 
+Mongolia 
+Montenegro 
+Montserrat 
+Morocco 
+Mozambique 
+Myanmar 
+Namibia 
+Nauru 
+Nepal 
+Netherlands 
+New Caledonia 
+New Zealand 
+Nicaragua 
+Niger 
+Nigeria 
+Niue 
+Norfolk Island 
+North Korea 
+North Macedonia 
+Northern Mariana Islands 
+Norway 
+Oman 
+Pakistan 
+Palau 
+Palestine 
+Panama 
+Papua New Guinea 
+Paraguay 
+Peru 
+Philippines 
+Poland 
+Portugal 
+Puerto Rico 
+Qatar 
+Réunion 
+Romania 
+Russia 
+Rwanda 
+Saint Barthélemy 
+Saint Helena 
+Saint Kitts and Nevis 
+Saint Lucia 
+Saint Martin 
+Saint Pierre and Miquelon 
+Saint Vincent and the Grenadines 
+Samoa 
+San Marino 
+São Tomé and Príncipe 
+Saudi Arabia 
+Senegal 
+Serbia 
+Seychelles 
+Sierra Leone 
+Singapore 
+Sint Maarten 
+Slovakia 
+Slovenia 
+Solomon Islands 
+Somalia 
+South Africa 
+South Korea 
+South Sudan 
+Spain 
+Sri Lanka 
+Sudan 
+Suriname 
+Svalbard and Jan Mayen 
+Sweden 
+Switzerland 
+Syria 
+Taiwan 
+Tajikistan 
+Tanzania 
+Thailand 
+Timor-Leste 
+Togo 
+Tokelau 
+Tonga 
+Trinidad and Tobago 
+Tunisia 
+Turkey 
+Turkmenistan 
+Turks and Caicos Islands 
+Tuvalu 
+U.S. Virgin Islands 
+Uganda 
+Ukraine 
+United Arab Emirates 
+United Kingdom (Great Britain) 
+USA 
+Unknown or unspecified country 
+Uruguay 
+Uzbekistan 
+Vanuatu 
+Vatican City 
+Venezuela 
+Vietnam 
+Wallis and Futuna 
+Western Sahara 
+Yemen 
+Zambia 
+Zimbabwe 
+Åland Islands 
+• Select a valid choice. The value is not one of the available choices.
+• [[ error ]]
+Billing postal code
+Billing zip code
+• [[ error ]]
+Billing postal code
+Billing zip code
+• [[ error ]]
+Ready to swipe card...
+Note: It is strongly recommended that you enter the country for American Express cards, or the charge will fail.
+Payments are secured and encrypted
+Complete
+Please answer all fields marked with
+* 
+and make sure your payment total is correct before proceeding.
+Please answer all fields marked with
+* 
+to complete your payment.
+Your card will be charged for [[ paymentCtrl.amount()|amount:availability ]].
+• [[ error ]]
+• [[ error ]]
+• Select a valid choice. The value is not one of the available choices.
+• [[ error ]]
+Adyen payment method
+• Enter a valid JSON.
+• [[ error ]]
+• Payment could not be processed. Please refresh the page and try again, or contact FareHarbor Support. (C-UNSPECIFIED)
+• Payment could not be processed. Please refresh the page and try again, or contact FareHarbor Support. (C-LOW)
+• Payment could not be processed. Please refresh the page and try again, or contact FareHarbor Support. (C-HIGH)
+• Payment could not be processed. Please refresh the page and try again, or contact FareHarbor Support. (F-UNSPECIFIED)
+• Payment could not be processed. Please refresh the page and try again, or contact FareHarbor Support. (F-LOW)
+• Payment could not be processed. Please refresh the page and try again, or contact FareHarbor Support. (F-HIGH)
+• Payment could not be processed. Please refresh the page and try again, or contact FareHarbor Support. (G-UNSPECIFIED)
+• Payment could not be processed. Please refresh the page and try again, or contact FareHarbor Support. (G-LOW)
+• Payment could not be processed. Please refresh the page and try again, or contact FareHarbor Support. (G-HIGH)
+• Invalid payment option. Please refresh the page and try again.
+• Please refresh the page and try again.
+• Please refresh the page and try again.
+• Demo mode must be enabled to add payments to demo bookings.
+• Demo mode must be disabled to add payments to non-demo bookings.
+• Cannot create a payment for a saved card when demo mode is enabled.
+• This booking has been rebooked. Please refresh the page.
+• Card not found.
+• Cannot charge that card. Please refresh the page and try again.
+• Cannot skip payment. Please refresh the page and try again.
+• Cannot save card. Please refresh the page and try again.
+• Cannot create affiliate payment. Please refresh the page and try again.
+• Cannot create in-store payment. Please refresh the page and try again.
+• Sorry, your account is not authorized to redeem gift cards.
+• Sorry, you are not authorized to create in-store payments. Please refresh the page and try again.
+• Cannot create in-store payment, type not found. Please refresh the page and try again.
+• Cannot create in-store payment, selection not valid. Please refresh the page and try again.
+• '%(payment_note)s' cannot be empty. Please refresh the page and try again.
+• Gift card not found. Please refresh the page and try again.
+• Cannot create credit card payment. Please refresh the page and try again.
+• Unable to use card for payment. Please refresh the page and try again.
+• Cannot create hold. Please refresh the page and try again.
+• An affiliate must be selected.
+• Payment could not be processed. Cardholder's name is required.
+• Payment could not be processed. Billing country is required. Please refresh the page and try again.
+• Payment could not be processed. Billing postal (zip) code is required. Please refresh the page and try again.
+• Please refresh the page and try again.
+• Please refresh the page and try again.
+• Please refresh the page and try again.
+• Payment device provider not recognized. Please contact FareHarbor Support.
+• Cannot pay with %(payment_method)s when demo mode is enabled.
+• Please refresh the page and try again.
+• Payments collected by affiliates must be marked as such. Please contact FareHarbor Support. (A-1)
+• Only payments collected by affiliates may be marked as such. Please contact FareHarbor Support. (A-2)
+• Cannot create payment. Please refresh the page and try again.
+• Hold amount is not specified.
+• Please refresh the page and try again.
+• Please refresh the page and try again.
+• Please refresh the page and try again.
+• Payment could not be processed. EMV device not specified. Please contact FareHarbor Support.
+• Payment could not be processed. EMV device type not specified. Please contact FareHarbor Support.
+• This booking is not eligible for a deposit.
+• A deposit is required for this booking.
+• Sorry, you are not authorized to pay a deposit.
+• Cannot add payment while another payment is pending.
+• This booking is not eligible for online payment.
+• Partial payments are not available for this booking.
+• Proposal cannot be confirmed, please contact %(company_name)s
+• Stripe EMV device id is required for server-driven transaction.
+• 
+• 
+[[ error ]]
+Booking [! $index + 1 !] of [! bookingCount !]
+—
+&lsaquo; Previous 
+&lsaquo; Previous 
+&sol;
+Next &rsaquo; 
+Next &rsaquo; 
+&vert;
+Back to top 
+Back 
+[! company.name !]
+To [[ viewStoredValueCardCtrl.recipientName ]]
+[[ viewStoredValueCardCtrl.note ]] 
+[[ company.name ]]
+[[ company.name ]]
+Gift Card
+[! storedValueCard.number !]
+Issue date
+[! storedValueCard.createdAt|date !]
+Expiration date
+[! storedValueCard.expiresAt|date !]
+Balance
+[! storedValueCard.balance|amount:storedValueCard:true !]
+Card balance as of [! balanceAccurateAt|datetime !].
+Redeem online at [! company.url|hostname !] .
+Would you like to send by email or print?
+• 
+Email
+• 
+Print
+Recipient name
+• [[ error ]]
+Recipient email
+• [[ error ]]
+Message (optional)
+• [[ error ]]
+• Only authorized users can send emails
+• Subject is required
+• 
+[[ storedValueCardNotificationForm.$submitting ? T('Sending email...') : T('Send email') ]]
+Recipient name
+Message (optional)
+140}"
+data-test-id="max-char-counter"
+>
+[[ 140 - viewStoredValueCardCtrl.note.length ]] characters left
+Print
+Your email has been sent.
+To: [! viewStoredValueCardCtrl.recipientName !] 
+[[ viewStoredValueCardCtrl.note ]]
+Redeem gift card
+Redeem online at [! company.url|hostname !] .
+Print gift card
+Print
+Your gift card may only be used for making purchases with [[ storedValueCard.company.name ]], and cannot be redeemed for cash unless required by law. Complete terms and conditions available at fareharbor.com . By using this gift card you accept these terms and conditions.
+[! company.name !]
+Browse by activity 
+Calendar 
+Search by date 
+Book online
+• 
+[[ T('View') ]] 
+[! T('Buy') !] 
+[[ T('Select date') ]] 
+[[ T('Book package') ]] 
+Archived 
+Private 
+Unlisted 
+• 
+600 && !isForceSmall; refreshWhenScreenNarrowed(isLargeCalendar);"
+class="calendar-wrap
+[[ isLargeCalendar ? '-large' : '-small' ]]
+-style-simple
+-anon
+"
+data-test-id="calendar-view"
+>
+Today 
+Next Month 
+Su 
+Sunday 
+M 
+Monday 
+T 
+Tuesday 
+W 
+Wednesday 
+Th 
+Thursday 
+F 
+Friday 
+S 
+Saturday 
+Su 
+Sunday 
+[! calendarCtrl.dayLabel(day, week) !] 
+[! itemGroup.item|name !] ([! itemGroup.availabilityCount !])
+[! itemGroup.item.name !]
+[! (availability.startAt|time:(availability.endAt)) !]
+[! availability.item|itemName:auth.currentUser.isAuthenticated !]
+—
+Time overlap
+left!
+[[ Availability.isCallToBookText(availability) ]]
+[[ availability.proposalStatus ]]
+[! day.number !] 
+[[ calendarCtrl.prices[day.at.year()][day.at.month()][day.number] ]]
+Click a date to browse availability
+Secure your spot
+Make a small payment today. Pay the rest when you arrive.
+[! day.at|date:'long' !]
+No online availability for this day
+Loading availabilities...
+Create availability on this day
+• 
+[! itemGroup.item|name !] ([! itemGroup.availabilityCount !])
+[! itemGroup.item.name !]
+• 
+[! (availability.startAt|time:(availability.endAt)) !]
+[! availability.item|itemName:auth.currentUser.isAuthenticated !]
+Time overlap
+left!
+[[ Availability.isCallToBookText(availability) ]]
+[[ availability.proposalStatus ]]
+Sorry, there is no online availability for [! calendarCtrl.date|month:'long' !].
+Next available: 
+Book [[ calendarCtrl.calendar.nextBookableStartAt|month:'long' ]] &rsaquo; 
+Please call us at [! calendarCtrl.company.phone|phone !] .
+Choose date
+Skip calendar 
+600 && !isForceSmall; refreshWhenScreenNarrowed(isLargeCalendar);"
+class="calendar-wrap
+[[ isLargeCalendar ? '-large' : '-small' ]]
+-style-simple
+-anon
+"
+data-test-id="calendar-view"
+>
+Today 
+Next Month 
+Su 
+Sunday 
+M 
+Monday 
+T 
+Tuesday 
+W 
+Wednesday 
+Th 
+Thursday 
+F 
+Friday 
+S 
+Saturday 
+Su 
+Sunday 
+[! calendarCtrl.dayLabel(day, week) !] 
+[! itemGroup.item|name !] ([! itemGroup.availabilityCount !])
+[! itemGroup.item.name !]
+[! (availability.startAt|time:(availability.endAt)) !]
+[! availability.item|itemName:auth.currentUser.isAuthenticated !]
+—
+Time overlap
+left!
+[[ Availability.isCallToBookText(availability) ]]
+[[ availability.proposalStatus ]]
+[! day.number !] 
+[[ calendarCtrl.prices[day.at.year()][day.at.month()][day.number] ]]
+Click a date to browse availability
+Secure your spot
+Make a small payment today. Pay the rest when you arrive.
+[! day.at|date:'long' !]
+No online availability for this day
+Loading availabilities...
+Create availability on this day
+• 
+[! itemGroup.item|name !] ([! itemGroup.availabilityCount !])
+[! itemGroup.item.name !]
+• 
+[! (availability.startAt|time:(availability.endAt)) !]
+[! availability.item|itemName:auth.currentUser.isAuthenticated !]
+Time overlap
+left!
+[[ Availability.isCallToBookText(availability) ]]
+[[ availability.proposalStatus ]]
+Sorry, there is no online availability for [! calendarCtrl.date|month:'long' !].
+Next available: 
+Book [[ calendarCtrl.calendar.nextBookableStartAt|month:'long' ]] &rsaquo; 
+Please call us at [! calendarCtrl.company.phone|phone !] .
+[[ flowPageDateCtrl.date|date:'long' ]]
+• 
+[! item.name !]
+[! item.location !] 
+&middot; 
+[[ itemDescription.short_description || item.headline ]]
+• 
+Loading... 
+• 
+[! availability.startAt|date:'short' !]
+[! (availability.startAt|time:(availability.endAt)) !]
+Time overlap
+left!
+[[ Availability.isCallToBookText(availability) ]]
+[[ availability.proposalStatus ]]
+Details
+• 
+• 
+• 
+1"
+>
+• 
+Sorry, there is no availability for this day.
+Go to the next available date &rsaquo; 
+Please choose another day.
+Edit booking 
+Thanks for your payment!
+We've emailed you a receipt.
+[! postBookingPaymentSuccessTitle() !]
+We've emailed you this confirmation and a receipt. 
+We've emailed you this confirmation. 
+If you need to make a change, please call [! booking.company.phone|phone !].
+We look forward to seeing you! 
+[! company.membershipCommunication.memberCodeLabel || T("Member ID") !]:
+[! booking.contact.member.code !]
+1 ||
+(booking.contact.member && !booking.availability.item.settings.isMemberships)"
+>
+1">
+[!
+interpolate(nT('This booking was bought together with %(count)s other', 'This booking was bought together with %(count)s others', (booking.order.contributingBookingCount - 1)), { count: (booking.order.contributingBookingCount - 1) })
+!]
+— Order #[! booking.order.identifier !] &raquo; 
+• 
+[! company.membershipCommunication.memberCodeLabel ? company.membershipCommunication.memberCodeLabel + ':' : cT('"ID" is abbreviation of "Identifier"', 'Member ID:') !] [! booking.contact.member.code !] 
+• 
+View benefits 
+• 
+Print this page 
+• 
+Give booking feedback &rsaquo;
+1 minute survey about your booking experience
+Sending you to your bank...
+Please wait a moment.
+Completing your payment...
+Please wait a moment.
+Waiting for payment...
+We're waiting to hear back from your bank.
+Please complete your payment
+If you haven't already, authorize your payment with your bank.
+Go to your bank &rsaquo; 
+If you've made a mistake, you can also cancel your booking and start over .
+Payment failed 
+Sorry, your payment could not be collected or this booking no longer exists. Please try again.
+Start over 
+Payment failed
+Sorry, there was an issue processing your payment.
+Please try again. 
+Processing payment...
+Please do not leave or refresh this page.
+Make a payment
+Close 
+• Payment could not be processed. Please refresh the page and try again, or contact FareHarbor Support. (C-UNSPECIFIED)
+• Payment could not be processed. Please refresh the page and try again, or contact FareHarbor Support. (C-LOW)
+• Payment could not be processed. Please refresh the page and try again, or contact FareHarbor Support. (C-HIGH)
+• Payment could not be processed. Please refresh the page and try again, or contact FareHarbor Support. (F-UNSPECIFIED)
+• Payment could not be processed. Please refresh the page and try again, or contact FareHarbor Support. (F-LOW)
+• Payment could not be processed. Please refresh the page and try again, or contact FareHarbor Support. (F-HIGH)
+• Payment could not be processed. Please refresh the page and try again, or contact FareHarbor Support. (G-UNSPECIFIED)
+• Payment could not be processed. Please refresh the page and try again, or contact FareHarbor Support. (G-LOW)
+• Payment could not be processed. Please refresh the page and try again, or contact FareHarbor Support. (G-HIGH)
+• Invalid payment option. Please refresh the page and try again.
+• Please refresh the page and try again.
+• Please refresh the page and try again.
+• Demo mode must be enabled to add payments to demo bookings.
+• Demo mode must be disabled to add payments to non-demo bookings.
+• Cannot create a payment for a saved card when demo mode is enabled.
+• This booking has been rebooked. Please refresh the page.
+• Card not found.
+• Cannot charge that card. Please refresh the page and try again.
+• Cannot skip payment. Please refresh the page and try again.
+• Cannot save card. Please refresh the page and try again.
+• Cannot create affiliate payment. Please refresh the page and try again.
+• Cannot create in-store payment. Please refresh the page and try again.
+• Sorry, your account is not authorized to redeem gift cards.
+• Sorry, you are not authorized to create in-store payments. Please refresh the page and try again.
+• Cannot create in-store payment, type not found. Please refresh the page and try again.
+• Cannot create in-store payment, selection not valid. Please refresh the page and try again.
+• '%(payment_note)s' cannot be empty. Please refresh the page and try again.
+• Gift card not found. Please refresh the page and try again.
+• Cannot create credit card payment. Please refresh the page and try again.
+• Unable to use card for payment. Please refresh the page and try again.
+• Cannot create hold. Please refresh the page and try again.
+• An affiliate must be selected.
+• Payment could not be processed. Cardholder's name is required.
+• Payment could not be processed. Billing country is required. Please refresh the page and try again.
+• Payment could not be processed. Billing postal (zip) code is required. Please refresh the page and try again.
+• Please refresh the page and try again.
+• Please refresh the page and try again.
+• Please refresh the page and try again.
+• Payment device provider not recognized. Please contact FareHarbor Support.
+• Cannot pay with %(payment_method)s when demo mode is enabled.
+• Please refresh the page and try again.
+• Payments collected by affiliates must be marked as such. Please contact FareHarbor Support. (A-1)
+• Only payments collected by affiliates may be marked as such. Please contact FareHarbor Support. (A-2)
+• Cannot create payment. Please refresh the page and try again.
+• Hold amount is not specified.
+• Please refresh the page and try again.
+• Please refresh the page and try again.
+• Please refresh the page and try again.
+• Payment could not be processed. EMV device not specified. Please contact FareHarbor Support.
+• Payment could not be processed. EMV device type not specified. Please contact FareHarbor Support.
+• This booking is not eligible for a deposit.
+• A deposit is required for this booking.
+• Sorry, you are not authorized to pay a deposit.
+• Cannot add payment while another payment is pending.
+• This booking is not eligible for online payment.
+• Partial payments are not available for this booking.
+• Proposal cannot be confirmed, please contact %(company_name)s
+• Stripe EMV device id is required for server-driven transaction.
+• 
+• 
+[[ error ]]
+• [! bookSeatingCtrl.seatingSelectionErrorMessage() !]
+Amount
+• 
+Pay in full
+• 
+Partial payment
+• 
+[! (booking || 'usd')|currencySymbol:'short' !]
+• 
+Don't add payment now
+• 
+No available payment options. Please try again later.
+• 
+[[ paymentCtrl.isDefaultAmountInvoicePrice() ? T('Invoice amount') : T('Pay in full') ]]
+• 
+Partial payment
+• 
+• 
+• — #[! booking.pk !]
+• [! booking.availability.item|name !] &bull; [! booking.availability.startAt|datetime:'short':(booking.availability.endAt) !] &bull; [! booking.customerBreakdownShort !]
+[! (booking || 'usd')|currencySymbol:'short' !]
+• 
+Fees
+[[ orderFees|amount: booking ]]
+Payment total
+[[ orderTotal|amount: booking ]]
+• 
+No available payment options. Please try again later.
+Payment
+Collected By
+• 
+Collected by you 
+Collected by [[ paymentCtrl.company|name ]] 
+• 
+Collected by you 
+Collected by [[ paymentCtrl.affiliation().affiliateCompany|name ]] 
+• 
+[[ inStorePaymentType.name ]]
+Calculate change: 
+[! (booking || 'usd')|currencySymbol:'short' !]
+Change due 
+• [[ error ]]
+• 
+[[ inStorePaymentType.name ]]
+Calculate change: 
+[! (booking || 'usd')|currencySymbol:'short' !]
+Change due 
+• [[ error ]]
+• 
+Charge [[ payment.displayProcessorBasedType ]] [[ payment.processorBasedIdentifier ]] 
+• 
+Charge company card [[ cardOnFile.name ]] 
+• 
+Card payment
+• 
+Tap to Pay
+• 
+Charge with [[ emv.currentDevice ? emv.currentDevice.name : T('Bluetooth EMV card reader') ]] 
+• 
+Apple Pay
+• 
+Google Pay
+• 
+iDEAL | Wero
+• 
+PayPal, Credit or Debit Card
+PayPal
+• 
+Bancontact
+• 
+Vipps
+• 
+Afterpay
+• 
+MobilePay
+• 
+Alipay
+• 
+WeChat Pay
+• 
+Satispay
+• 
+MB WAY
+• 
+Klarna
+• 
+Bizum
+• 
+Swish
+• 
+Thai QR
+• 
+Bank Transfer
+• 
+No valid payment options
+Please select your bank
+ABN AMRO 
+ASN Bank 
+bunq 
+ING 
+Knab 
+Rabobank 
+RegioBank 
+Revolut 
+De Volksbank (SNS Bank) 
+Triodos Bank 
+Van Lanschot 
+• Select a valid choice. The value is not one of the available choices.
+• [[ error ]]
+Account holder's name
+• [[ error ]]
+Address
+• [[ error ]]
+City
+• [[ error ]]
+State
+• [[ error ]]
+ZIP or postcode
+• [[ error ]]
+Country
+Australia 
+New Zealand 
+United States 
+• Select a valid choice. The value is not one of the available choices.
+• [[ error ]]
+MB WAY phone number
+• Invalid value
+• [[ error ]]
+Thai National ID
+• [[ error ]]
+South African National ID
+• [[ error ]]
+Sorry, cards cannot be processed for amounts less than [! paymentCtrl.amountMin()|amount:company !].
+Sorry, payments cannot be created for [! 0|amount:booking !].
+Demo mode
+Only test credit card numbers accepted
+Card number
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Expiration (MM/YY)
+Name on card
+• [[ error ]]
+CVC 
+Your card's three or four digit verification (CVC) number, usually on the back.
+Close hint 
+Demo mode
+Only test credit card numbers accepted
+Swiped successfully 
+Enter different card
+Swipe card
+Card number
+• 
+• 
+• 
+• 
+• 
+• [[ error ]]
+Card number
+• 
+• 
+• 
+• 
+• 
+• [[ error ]]
+Expiration 
+Month
+01 - January 
+02 - February 
+03 - March 
+04 - April 
+05 - May 
+06 - June 
+07 - July 
+08 - August 
+09 - September 
+10 - October 
+11 - November 
+12 - December 
+• Select a valid choice. The value is not one of the available choices.
+• [[ error ]]
+Year
+2026 
+2027 
+2028 
+2029 
+2030 
+2031 
+2032 
+2033 
+2034 
+2035 
+2036 
+2037 
+2038 
+2039 
+2040 
+2041 
+2042 
+2043 
+• Select a valid choice. The value is not one of the available choices.
+• [[ error ]]
+Name on card
+• [[ error ]]
+Name on card
+• [[ error ]]
+CVC 
+• [[ error ]]
+CVC 
+• [[ error ]]
+Your card's three or four digit verification (CVC) number, usually on the back.
+Close hint 
+Country/Region
+USA 
+Afghanistan 
+Albania 
+Algeria 
+American Samoa 
+Andorra 
+Angola 
+Anguilla 
+Antigua and Barbuda 
+Argentina 
+Armenia 
+Aruba 
+Ascension Island 
+Australia 
+Austria 
+Azerbaijan 
+Bahamas 
+Bahrain 
+Bangladesh 
+Barbados 
+Belarus 
+Belgium 
+Belize 
+Benin 
+Bermuda 
+Bhutan 
+Bolivia 
+Bosnia and Herzegovina 
+Botswana 
+Brazil 
+British Indian Ocean Territory 
+British Virgin Islands 
+Brunei 
+Bulgaria 
+Burkina Faso 
+Burundi 
+Cambodia 
+Cameroon 
+Canada 
+Cape Verde 
+Caribbean Netherlands 
+Cayman Islands 
+Central African Republic 
+Chad 
+Chile 
+China 
+Christmas Island 
+Cocos (Keeling) Islands 
+Colombia 
+Comoros 
+Congo (DRC) 
+Congo (Republic) 
+Cook Islands 
+Costa Rica 
+Côte d’Ivoire 
+Croatia 
+Cuba 
+Curaçao 
+Cyprus 
+Czech Republic 
+Denmark 
+Djibouti 
+Dominica 
+Dominican Republic 
+Ecuador 
+Egypt 
+El Salvador 
+Equatorial Guinea 
+Eritrea 
+Estonia 
+Eswatini 
+Ethiopia 
+Falkland Islands (Malvinas) 
+Faroe Islands 
+Fiji 
+Finland 
+France 
+French Guiana 
+French Polynesia 
+Gabon 
+Gambia 
+Georgia 
+Germany 
+Ghana 
+Gibraltar 
+Greece 
+Greenland 
+Grenada 
+Guadeloupe 
+Guam 
+Guatemala 
+Guernsey 
+Guinea 
+Guinea-Bissau 
+Guyana 
+Haiti 
+Honduras 
+Hong Kong 
+Hungary 
+Iceland 
+India 
+Indonesia 
+Iran 
+Iraq 
+Ireland 
+Isle of Man 
+Israel 
+Italy 
+Jamaica 
+Japan 
+Jersey 
+Jordan 
+Kazakhstan 
+Kenya 
+Kiribati 
+Kosovo 
+Kuwait 
+Kyrgyzstan 
+Laos 
+Latvia 
+Lebanon 
+Lesotho 
+Liberia 
+Libya 
+Liechtenstein 
+Lithuania 
+Luxembourg 
+Macau 
+Madagascar 
+Malawi 
+Malaysia 
+Maldives 
+Mali 
+Malta 
+Marshall Islands 
+Martinique 
+Mauritania 
+Mauritius 
+Mayotte 
+Mexico 
+Micronesia 
+Moldova 
+Monaco 
+Mongolia 
+Montenegro 
+Montserrat 
+Morocco 
+Mozambique 
+Myanmar 
+Namibia 
+Nauru 
+Nepal 
+Netherlands 
+New Caledonia 
+New Zealand 
+Nicaragua 
+Niger 
+Nigeria 
+Niue 
+Norfolk Island 
+North Korea 
+North Macedonia 
+Northern Mariana Islands 
+Norway 
+Oman 
+Pakistan 
+Palau 
+Palestine 
+Panama 
+Papua New Guinea 
+Paraguay 
+Peru 
+Philippines 
+Poland 
+Portugal 
+Puerto Rico 
+Qatar 
+Réunion 
+Romania 
+Russia 
+Rwanda 
+Saint Barthélemy 
+Saint Helena 
+Saint Kitts and Nevis 
+Saint Lucia 
+Saint Martin 
+Saint Pierre and Miquelon 
+Saint Vincent and the Grenadines 
+Samoa 
+San Marino 
+São Tomé and Príncipe 
+Saudi Arabia 
+Senegal 
+Serbia 
+Seychelles 
+Sierra Leone 
+Singapore 
+Sint Maarten 
+Slovakia 
+Slovenia 
+Solomon Islands 
+Somalia 
+South Africa 
+South Korea 
+South Sudan 
+Spain 
+Sri Lanka 
+Sudan 
+Suriname 
+Svalbard and Jan Mayen 
+Sweden 
+Switzerland 
+Syria 
+Taiwan 
+Tajikistan 
+Tanzania 
+Thailand 
+Timor-Leste 
+Togo 
+Tokelau 
+Tonga 
+Trinidad and Tobago 
+Tunisia 
+Turkey 
+Turkmenistan 
+Turks and Caicos Islands 
+Tuvalu 
+U.S. Virgin Islands 
+Uganda 
+Ukraine 
+United Arab Emirates 
+United Kingdom (Great Britain) 
+USA 
+Unknown or unspecified country 
+Uruguay 
+Uzbekistan 
+Vanuatu 
+Vatican City 
+Venezuela 
+Vietnam 
+Wallis and Futuna 
+Western Sahara 
+Yemen 
+Zambia 
+Zimbabwe 
+Åland Islands 
+• Select a valid choice. The value is not one of the available choices.
+• [[ error ]]
+Billing postal code
+Billing zip code
+• [[ error ]]
+Billing postal code
+Billing zip code
+• [[ error ]]
+Ready to swipe card...
+Note: It is strongly recommended that you enter the country for American Express cards, or the charge will fail.
+Payments are secured and encrypted
+Complete
+Please answer all fields marked with
+* 
+and make sure your payment total is correct before proceeding.
+Please answer all fields marked with
+* 
+to complete your payment.
+Your card will be charged for [[ paymentCtrl.amount()|amount:availability ]].
+• [[ error ]]
+• [[ error ]]
+• Select a valid choice. The value is not one of the available choices.
+• [[ error ]]
+Adyen payment method
+• Enter a valid JSON.
+• [[ error ]]
+• Payment could not be processed. Please refresh the page and try again, or contact FareHarbor Support. (C-UNSPECIFIED)
+• Payment could not be processed. Please refresh the page and try again, or contact FareHarbor Support. (C-LOW)
+• Payment could not be processed. Please refresh the page and try again, or contact FareHarbor Support. (C-HIGH)
+• Payment could not be processed. Please refresh the page and try again, or contact FareHarbor Support. (F-UNSPECIFIED)
+• Payment could not be processed. Please refresh the page and try again, or contact FareHarbor Support. (F-LOW)
+• Payment could not be processed. Please refresh the page and try again, or contact FareHarbor Support. (F-HIGH)
+• Payment could not be processed. Please refresh the page and try again, or contact FareHarbor Support. (G-UNSPECIFIED)
+• Payment could not be processed. Please refresh the page and try again, or contact FareHarbor Support. (G-LOW)
+• Payment could not be processed. Please refresh the page and try again, or contact FareHarbor Support. (G-HIGH)
+• Invalid payment option. Please refresh the page and try again.
+• Please refresh the page and try again.
+• Please refresh the page and try again.
+• Demo mode must be enabled to add payments to demo bookings.
+• Demo mode must be disabled to add payments to non-demo bookings.
+• Cannot create a payment for a saved card when demo mode is enabled.
+• This booking has been rebooked. Please refresh the page.
+• Card not found.
+• Cannot charge that card. Please refresh the page and try again.
+• Cannot skip payment. Please refresh the page and try again.
+• Cannot save card. Please refresh the page and try again.
+• Cannot create affiliate payment. Please refresh the page and try again.
+• Cannot create in-store payment. Please refresh the page and try again.
+• Sorry, your account is not authorized to redeem gift cards.
+• Sorry, you are not authorized to create in-store payments. Please refresh the page and try again.
+• Cannot create in-store payment, type not found. Please refresh the page and try again.
+• Cannot create in-store payment, selection not valid. Please refresh the page and try again.
+• '%(payment_note)s' cannot be empty. Please refresh the page and try again.
+• Gift card not found. Please refresh the page and try again.
+• Cannot create credit card payment. Please refresh the page and try again.
+• Unable to use card for payment. Please refresh the page and try again.
+• Cannot create hold. Please refresh the page and try again.
+• An affiliate must be selected.
+• Payment could not be processed. Cardholder's name is required.
+• Payment could not be processed. Billing country is required. Please refresh the page and try again.
+• Payment could not be processed. Billing postal (zip) code is required. Please refresh the page and try again.
+• Please refresh the page and try again.
+• Please refresh the page and try again.
+• Please refresh the page and try again.
+• Payment device provider not recognized. Please contact FareHarbor Support.
+• Cannot pay with %(payment_method)s when demo mode is enabled.
+• Please refresh the page and try again.
+• Payments collected by affiliates must be marked as such. Please contact FareHarbor Support. (A-1)
+• Only payments collected by affiliates may be marked as such. Please contact FareHarbor Support. (A-2)
+• Cannot create payment. Please refresh the page and try again.
+• Hold amount is not specified.
+• Please refresh the page and try again.
+• Please refresh the page and try again.
+• Please refresh the page and try again.
+• Payment could not be processed. EMV device not specified. Please contact FareHarbor Support.
+• Payment could not be processed. EMV device type not specified. Please contact FareHarbor Support.
+• This booking is not eligible for a deposit.
+• A deposit is required for this booking.
+• Sorry, you are not authorized to pay a deposit.
+• Cannot add payment while another payment is pending.
+• This booking is not eligible for online payment.
+• Partial payments are not available for this booking.
+• Proposal cannot be confirmed, please contact %(company_name)s
+• Stripe EMV device id is required for server-driven transaction.
+• 
+• 
+[[ error ]]
+[! company.membershipCommunication.membershipSingularLabel ? interpolate(T("Your %(membershipLabel)s summary"), {membershipLabel: company.membershipCommunication.membershipSingularLabel}) : T("Your membership summary") !]
+[! booking.availability.item.settings.isMemberships ? T('Your membership has been cancelled') : booking.availability.item.isRetail ?
+cT('"order" as in sales order', 'Your order has been cancelled.') : T('Your booking has been cancelled.')
+!]
+Please contact us if you'd like to make a change.
+[! company.phone|phone !] 
+&bull; 
+[! company.email !] 
+&bull; 
+[! company.url|hostname !]
+[! company.membershipCommunication.membershipSingularLabel ? interpolate(T("Your %(membershipLabel)s summary"), {membershipLabel: company.membershipCommunication.membershipSingularLabel}) : T("Your membership summary") !]
+[! company.membershipCommunication.memberCodeLabel || T("Member ID") !]:
+[! booking.contact.member.code !] 
+[! booking.availability.item.isRetail ? cT('"order" as in sales order', 'Your order has been modified.') : T('Your reservation has been modified.') !]
+Your order ID has changed from #[! booking.pk !] to #[! booking.rebookedTo.pk !].
+Your booking ID has changed from #[! booking.pk !] to #[! booking.rebookedTo.pk !].
+See your new details 
+This activity is no longer happening.
+We apologize for 
+
+--- LINKS ---
+contact us -> https://fareharbor.com/help/submit/
+Get directions &rsaquo; -> https://fareharbor.com/anglerschoice/items/[!%20physicalLocation.googleDirectionsUrl%20!]
+Resend or print gift card &rsaquo; -> https://fareharbor.com/anglerschoice/items/[!%20storedValueCard.$url(urls.company.storedValueCard.index)%20+
+See pickup location on a map -> https://fareharbor.com/anglerschoice/items/[!%20booking.stop.pickup.mapUrl%20!]
+Google Calendar -> https://fareharbor.com/anglerschoice/items/[!%20booking.googleCalendarEventTemplateUrl%20!]
+Apple Calendar -> https://fareharbor.com/anglerschoice/items/[!%20order.icsUrl%20||%20booking.icsUrl%20!]
+Yahoo Calendar -> https://fareharbor.com/anglerschoice/items/[!%20booking.yahooCalendarEventTemplateUrl%20!]
+[! booking.company.url|hostname !] -> https://fareharbor.com/anglerschoice/items/[!%20booking.company.url%20!]
+fareharbor.com -> https://fareharbor.com/legal/tos/consumers/
+[! nT('Go to your ticket', 'Go to your tickets', booking.customerCount) !] &rsaq -> https://fareharbor.com/anglerschoice/items/[!%20booking.$url(urls.embeds.checkin.company.booking.index)%20!]?source=web
+Sign [! connectedWaiver.waiver.displayName || connectedWaiver.waiver.name !] &rs -> https://fareharbor.com/anglerschoice/items/[!%20connectedWaiver.waiver|waiverUrl:booking%20!]
+Learn more -> https://fareharbor.com/help/more/read-only/
+log in as a different user -> https://fareharbor.com/anglerschoice/items/[!%20navigation.loginRedirectUrl(true)%20!]
+[! supportedLanguage.unicode !] (Not Active) [! popoverCtrl.fetchTranslatedField -> https://fareharbor.com/anglerschoice/items/[!%20popoverCtrl.translationOverlayUrl(supportedLanguage)%20!]
+No languages added yet -> https://fareharbor.com/anglerschoice/items/[!%20company.$url(urls.dashboard.settings.translations.index)%20!]
+Learn about language translation -> https://fareharbor.com/help/dashboard/communication/language-translation/
+[[ queuedItems[itemPk].name ]] -> https://fareharbor.com/anglerschoice/items/[[%20tokenDetailsCtrl.frontendUrl(queuedItems[itemPk],%20null)%20]]
+[! translationToggleCtrl.display(language) !] -> https://fareharbor.com/anglerschoice/items/[!%20translationToggleCtrl.urlForLanguageCode(language)%20!]
+How to use -> https://fareharbor.com/help/dashboard/availabilities/unlisted/
+ -> https://fareharbor.com/anglerschoice/items/[[%20currentOptionUrl%20]]
+Get help with online booking statuses -> https://fareharbor.com/help/dashboard/availabilities/updating/online-booking-status/
+Go back Go back and choose a different time Go back and choose a different date  -> https://fareharbor.com/anglerschoice/items/[!%20flows.getBackButtonUrl(availability)%20!]
+Return to cart -> https://fareharbor.com/anglerschoice/items/[!%20cart.permalinkUrl(company)%20!]
+Back -> https://fareharbor.com/anglerschoice/items/[!%20flows.getBackButtonUrlForRetailAvailability(availability)%20!]
+test credit card numbers -> https://docs.adyen.com/development-resources/test-cards/test-card-numbers
+test credit card numbers -> https://fareharbor.com/help/getting-started/demo-mode/#making-bookings-in-demo-mode
+See pickup location on a map -> https://fareharbor.com/anglerschoice/items/[[%20newTransportationCtrl.currentStop.pickup.mapUrl%20]]
+[! customField.campaign.name !] -> https://fareharbor.com/anglerschoice/items/[!%20customField.campaign.$url(urls.dashboard.settings.campaigns.campaign.index)%20!]
+[! connectedWaiver.waiver.name !] -> https://fareharbor.com/anglerschoice/items/[!%20connectedWaiver.waiver.$url(urls.dashboard.settings.waivers.waiver.index)%20!]
+Get one here -> https://autorizacionillasatlanticas.xunta.gal/illasr/inicio
+[! company.phone|phone !] -> https://fareharbor.com/anglerschoice/items/[!
+settings -> https://fareharbor.com/anglerschoice/items/[!%20company.$url(urls.dashboard.settings.cannedMessages.index)%20!]
+[! resourceUseSummary.resourceName + (resourceUseSummary.isResourceArchived ? '  -> https://fareharbor.com/anglerschoice/items/[[%20resourceUseSummary.url%20]]
+[! connectedCampaign.campaign.name !] -> https://fareharbor.com/anglerschoice/items/[!%20connectedCampaign.campaign.$url(urls.dashboard.settings.campaigns.campaign.index)%20!]
+Help -> https://fareharbor.com/help/dashboard/seating/assigning-seats-while-booking/
+[[ T('View') ]] [! T('Buy') !] [[ T('Select date') ]] [[ T('Book package') ]] Ar -> https://fareharbor.com/anglerschoice/items/[!%20FlowNode.suggestedItemUrl(flowNode,%20suggestedItemsCtrl.targetDate,%20!!cartCtrl)%20!]
+Return to cart -> https://fareharbor.com/anglerschoice/items/[!%20flows.backToCartUrl()%20!]
+[! FlowNode.breadcrumbName(flowNode) !] -> https://fareharbor.com/anglerschoice/items/[!%20flowNode.$url(urls.company.flowNode.index)%20!]
+Keep shopping -> https://fareharbor.com/anglerschoice/items/[!%20cart.keepShoppingUrl(company)%20!]
+Get Started -> https://fareharbor.com/anglerschoice/items/[!%20partnerInvoiceUrl%20!]
+#[! entry.booking.pk !] -> https://fareharbor.com/anglerschoice/items/[!%20entry.booking|bookingUrl%20!]
+[! entry.booking.availability.item.name !] -> https://fareharbor.com/anglerschoice/items/[!%20entry.booking.availability.item|itemUrl%20!]
+Admin -> https://fareharbor.com/anglerschoice/items/[[%20headerCtrl.company.$url(urls.dashboard.admin.index)%20]]
+Onboarding -> https://fareharbor.com/anglerschoice/items/[[%20headerCtrl.company.$url(urls.dashboard.admin.onboarding.index)%20]]
+Home -> https://fareharbor.com/anglerschoice/items/[[%20headerCtrl.company.$url(urls.dashboard.bookings.index)%20]]
+Bookings -> https://fareharbor.com/anglerschoice/items/[[%20headerCtrl.company.$url(urls.dashboard.affiliateHub.bookedActivities)%20]]
+Manifest -> https://fareharbor.com/anglerschoice/items/[[%20headerCtrl.company.$url(urls.dashboard.manifest.index)%20]]
+Reports -> https://fareharbor.com/anglerschoice/items/[[%20headerCtrl.company.$url(urls.dashboard.reports.index)%20]]
+Items -> https://fareharbor.com/anglerschoice/items/[[%20headerCtrl.company.$url(urls.dashboard.items.index)%20]]
+ -> https://fareharbor.com/anglerschoice/items/[[%20headerCtrl.company.$url(urls.dashboard.retail.index)%20]]
+ -> https://fareharbor.com/anglerschoice/items/[[%20headerCtrl.company.$url(urls.dashboard.customerProfiles.index%20+
+Settings -> https://fareharbor.com/anglerschoice/items/[[%20headerCtrl.company.$url(urls.dashboard.settings.index)%20]]
+Learn more -> https://help.fareharbor.com/more/oct-2024-bkng-fee/#fee-offline-bkngs
+Payment Processing Documents -> https://fareharbor.com/anglerschoice/items/[!%20auth.currentUser.company.shortname%20+
+Submit new availability request -> https://fareharbor.com/submit/new-availabilities/?ref=dash
+Go to status page -> http://status.fareharbor.com/
+FareHarbor Help Center -> https://help.fareharbor.com/hc/
+FareHarbor Compass -> https://compass.fareharbor.com/?utm_source=dashboard&utm_medium=topnav
+Admin -> https://fareharbor.com/anglerschoice/items/[!%20auth.currentUser.$url(urls.dashboard.index)%20!]
+Overview -> https://fareharbor.com/anglerschoice/items/[!%20auth.currentUser.$url(urls.dashboard.settings.permissions.user.index)%20!]
+Your Account -> https://fareharbor.com/anglerschoice/items/[!%20auth.currentUser.$url(urls.dashboard.settings.permissions.user.settings)%20!]
+[[ headerCtrl.company.name ]] Demo -> https://fareharbor.com/anglerschoice/items/[[%20headerCtrl.company.$url(urls.dashboard.index)%20]]
+[[ auth.currentUser.company.name ]] Demo -> https://fareharbor.com/anglerschoice/items/[[%20auth.currentUser.company.$url(urls.dashboard.index)%20]]
+[[ relatedCompany.name ]] Demo -> https://fareharbor.com/anglerschoice/items/[[%20relatedCompany.$url(urls.dashboard.index)%20]]
+[! company.url|hostname !] Return to site -> https://fareharbor.com/anglerschoice/items/[!%20company.url%20!]
+[[ T('View') ]] [! T('Buy') !] [[ T('Select date') ]] [[ T('Book package') ]] Ar -> https://fareharbor.com/anglerschoice/items/[!%20FlowNode.frontendUrl(flowNode)%20!]
+Book Now -> https://fareharbor.com/anglerschoice/items/[!%20singleItem.$url(urls.company.item.index)%20!]
+Book Now -> https://fareharbor.com/anglerschoice/items/[!%20flows.initialFlowNode.$url(urls.company.flowNode.index)%20!]
+About -> https://fareharbor.com/anglerschoice/items/[!%20company.$url(urls.company.about)%20!]
+FAQ -> https://fareharbor.com/anglerschoice/items/[!%20company.$url(urls.company.faq)%20!]
+Read reviews on Yelp -> https://fareharbor.com/anglerschoice/items/[!%20company.urlYelp%20!]
+Read reviews on TripAdvisor -> https://fareharbor.com/anglerschoice/items/[!%20company.urlTripadvisor%20!]
+Review us on Google -> https://fareharbor.com/anglerschoice/items/[!%20company.urlGoogleplus%20!]
+Follow us on X -> https://fareharbor.com/anglerschoice/items/[!%20company.urlTwitter%20!]
+Like us on Facebook -> https://fareharbor.com/anglerschoice/items/[!%20company.urlFacebook%20!]
+Follow us on Instagram -> https://fareharbor.com/anglerschoice/items/[!%20company.urlInstagram%20!]
+Subscribe on YouTube -> https://fareharbor.com/anglerschoice/items/[!%20company.urlYoutube%20!]
+Follow us on Pinterest -> https://fareharbor.com/anglerschoice/items/[!%20company.urlPinterest%20!]
+Follow us on TikTok -> https://fareharbor.com/anglerschoice/items/[!%20company.urlTiktok%20!]
+Home -> https://fareharbor.com/anglerschoice/items/[!%20company.$url(urls.company.index)%20!]
+Policies -> https://fareharbor.com/anglerschoice/items/[!%20company.$url(urls.company.policies)%20!]
+Cart ([[ cart.entries.length ]]) &rsaquo; -> https://fareharbor.com/anglerschoice/items/[!%20company.$url(urls.company.cart.index)%20!]
+Edit order -> https://fareharbor.com/anglerschoice/items/[!%20order|orderUrl%20!]
+Calendar -> https://fareharbor.com/anglerschoice/items/[!%20flowNode.$url(urls.company.flowNode.calendar)%20!]
+Search by date -> https://fareharbor.com/anglerschoice/items/[!%20flowNode.$url(urls.company.flowNode.date.index)%20!]
+ -> https://fareharbor.com/anglerschoice/items/[[%20calendarCtrl.previousMonthUrl()%20]]
+Next Month -> https://fareharbor.com/anglerschoice/items/[[%20calendarCtrl.nextMonthUrl()%20]]
+[! itemGroup.item|name !] ([! itemGroup.availabilityCount !]) [! itemGroup.item. -> https://fareharbor.com/anglerschoice/items/[!%20itemGroup|itemGroupUrl:day.at%20!]
+[! (availability.startAt|time:(availability.endAt)) !] [! availability.item|item -> https://fareharbor.com/anglerschoice/items/[!%20navigation.compose(availability.$url(!auth.currentUser.isAuthenticated%20&&%20availability.isWaitlist%20?%20urls.company.item.waitlist%20:%20urls.company.item.book),%20availabilityQueryParams)%20!]
+Book [[ calendarCtrl.calendar.nextBookableStartAt|month:'long' ]] &rsaquo; -> https://fareharbor.com/anglerschoice/items/[!%20calendarCtrl.nextBookableMonthUrl()%20!]
+[! calendarCtrl.company.phone|phone !] -> https://fareharbor.com/anglerschoice/items/[[
+ -> https://fareharbor.com/anglerschoice/items/[[%20previousDayUrl()%20]]
+ -> https://fareharbor.com/anglerschoice/items/[[%20nextDayUrl()%20]]
+Go to the next available date &rsaquo; -> https://fareharbor.com/anglerschoice/items/[[%20flowPageDateCtrl.nextBookableUrl%20]]
+Edit booking -> https://fareharbor.com/anglerschoice/items/[!%20booking|bookingUrl%20!]
+Order #[! booking.order.identifier !] &raquo; -> https://fareharbor.com/anglerschoice/items/[!%20booking.order.$url(urls.company.order.index)%20!]
+Go to your bank &rsaquo; -> https://fareharbor.com/anglerschoice/items/[!%20nextActionPayload.url%20!]
+Start over -> https://fareharbor.com/anglerschoice/items/[!isRebooking%20?rebook.currentBooking.$url(urls.embeds.book.item.booking)%20:company.$url(urls.embeds.book.index)!]
+Please try again. -> https://fareharbor.com/anglerschoice/items/[!%20confirmationPageUrl%20!]
+[! booking.availability.item.isRetail ? cT('"order" as in sales order', 'Your or -> https://fareharbor.com/anglerschoice/items/[!%20booking.rebookedTo|bookingUrl%20!]
+Edit item &raquo; -> https://fareharbor.com/anglerschoice/items/[!%20item.$url(urls.dashboard.items.item.index)%20!]
+Buy now -> https://fareharbor.com/anglerschoice/items/[[%20buyNowUrl%20]]
+Book now See available dates and times -> https://fareharbor.com/anglerschoice/items/[[%20item.$url(urls.company.item.calendar)%20]]
+Close -> https://fareharbor.com/anglerschoice/items/[[%20item.$url(urls.company.item.index)%20]]
+Still browsing? See all our activities &raquo; -> https://fareharbor.com/anglerschoice/items/[!%20company.$url(urls.company.items.index)%20!]
+Choose a different date -> https://fareharbor.com/anglerschoice/items/[!%20flows.getBackButtonUrlFor3ColumnView(item,%20date)%20!]
+ -> https://fareharbor.com/anglerschoice/items/[!%20backwardUrl%20!]
+ -> https://fareharbor.com/anglerschoice/items/[!%20forwardUrl%20!]
+&copy;2026 FareHarbor -> https://fareharbor.com/anglerschoice/items/[!%20urls.root.index%20!]
+Privacy -> https://fareharbor.com/legal/privacy/
+Log in -> https://fareharbor.com/anglerschoice/items/[[%20navigation.currentCompany%20?%20navigation.currentCompany.$url(urls.company.login)%20:%20urls.root.login%20]]
+this form -> https://fareharbor.com/legal/dsa-webform/
+Learn more -> https://fareharbor.com/help/getting-started/recommended-hardware-software/#javascript
