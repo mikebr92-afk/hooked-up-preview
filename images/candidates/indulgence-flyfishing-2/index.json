@@ -1,0 +1,247 @@
+{
+  "slug": "indulgence-flyfishing-2",
+  "request_hash": "39f5db7903ee",
+  "collected_at": "2026-11-04T03:59:01.945Z",
+  "pages_fetched": [
+    "http://indulgenceflyfishing.com/",
+    "https://indulgenceflyfishing.com.au/",
+    "https://www.indulgenceflyfishing.com.au/",
+    "https://www.indulgenceflyfishing.com.au/about/",
+    "https://www.indulgenceflyfishing.com.au/packages/",
+    "https://www.indulgenceflyfishing.com.au/gallery/",
+    "https://www.indulgenceflyfishing.com.au/shop/",
+    "https://www.indulgenceflyfishing.com.au/product-category/gifts/",
+    "https://www.indulgenceflyfishing.com.au/product-category/rod-reel-combos/",
+    "https://www.indulgenceflyfishing.com.au/product-category/fly-rods/",
+    "https://www.indulgenceflyfishing.com.au/product-category/reels/",
+    "https://www.indulgenceflyfishing.com.au/product-category/royal-wulff-lines/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 813,
+      "height": 502,
+      "original": "813x502",
+      "source": "https://www.indulgenceflyfishing.com.au/wp-content/uploads/2015/09/REVIEWS.jpg",
+      "page": "http://indulgenceflyfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 1037,
+      "height": 413,
+      "original": "1037x413",
+      "source": "https://www.indulgenceflyfishing.com.au/wp-content/uploads/2017/08/ABOUT_PAGE_03_1.jpg",
+      "page": "https://www.indulgenceflyfishing.com.au/about/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1037,
+      "height": 568,
+      "original": "1037x568",
+      "source": "https://www.indulgenceflyfishing.com.au/wp-content/uploads/2017/08/ABOUT_PAGE_01_3.jpg",
+      "page": "https://www.indulgenceflyfishing.com.au/about/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1037,
+      "height": 568,
+      "original": "1037x568",
+      "source": "https://www.indulgenceflyfishing.com.au/wp-content/uploads/2017/08/ABOUT_PAGE_02_3.jpg",
+      "page": "https://www.indulgenceflyfishing.com.au/about/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1000,
+      "height": 750,
+      "original": "1000x750",
+      "source": "https://www.indulgenceflyfishing.com.au/wp-content/uploads/2019/02/Byron-02.jpg",
+      "page": "https://www.indulgenceflyfishing.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1000,
+      "height": 750,
+      "original": "1000x750",
+      "source": "https://www.indulgenceflyfishing.com.au/wp-content/uploads/2019/02/Byron-05.jpg",
+      "page": "https://www.indulgenceflyfishing.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1000,
+      "height": 750,
+      "original": "1000x750",
+      "source": "https://www.indulgenceflyfishing.com.au/wp-content/uploads/2019/02/Byron-07.jpg",
+      "page": "https://www.indulgenceflyfishing.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 750,
+      "height": 1000,
+      "original": "750x1000",
+      "source": "https://www.indulgenceflyfishing.com.au/wp-content/uploads/2019/02/Byron-09.jpg",
+      "page": "https://www.indulgenceflyfishing.com.au/gallery/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "http://indulgenceflyfishing.com/",
+      "status": 200,
+      "final_url": "https://www.indulgenceflyfishing.com.au/",
+      "bytes": 103453
+    },
+    {
+      "page": "https://indulgenceflyfishing.com.au/",
+      "status": 200,
+      "final_url": "https://www.indulgenceflyfishing.com.au/",
+      "bytes": 103453
+    },
+    {
+      "page": "https://www.indulgenceflyfishing.com.au/",
+      "status": 200,
+      "final_url": "https://www.indulgenceflyfishing.com.au/",
+      "bytes": 103453
+    },
+    {
+      "page": "https://www.indulgenceflyfishing.com.au/about/",
+      "status": 200,
+      "final_url": "https://www.indulgenceflyfishing.com.au/about/",
+      "bytes": 60452
+    },
+    {
+      "page": "https://www.indulgenceflyfishing.com.au/packages/",
+      "status": 200,
+      "final_url": "https://www.indulgenceflyfishing.com.au/packages/",
+      "bytes": 79514
+    },
+    {
+      "page": "https://www.indulgenceflyfishing.com.au/gallery/",
+      "status": 200,
+      "final_url": "https://www.indulgenceflyfishing.com.au/gallery/",
+      "bytes": 248823
+    },
+    {
+      "page": "https://www.indulgenceflyfishing.com.au/shop/",
+      "status": 200,
+      "final_url": "https://www.indulgenceflyfishing.com.au/shop/",
+      "bytes": 65936
+    },
+    {
+      "page": "https://www.indulgenceflyfishing.com.au/product-category/gifts/",
+      "status": 200,
+      "final_url": "https://www.indulgenceflyfishing.com.au/product-category/gifts/",
+      "bytes": 86311
+    },
+    {
+      "page": "https://www.indulgenceflyfishing.com.au/product-category/rod-reel-combos/",
+      "status": 200,
+      "final_url": "https://www.indulgenceflyfishing.com.au/product-category/rod-reel-combos/",
+      "bytes": 70217
+    },
+    {
+      "page": "https://www.indulgenceflyfishing.com.au/product-category/fly-rods/",
+      "status": 200,
+      "final_url": "https://www.indulgenceflyfishing.com.au/product-category/fly-rods/",
+      "bytes": 89859
+    },
+    {
+      "page": "https://www.indulgenceflyfishing.com.au/product-category/reels/",
+      "status": 200,
+      "final_url": "https://www.indulgenceflyfishing.com.au/product-category/reels/",
+      "bytes": 70749
+    },
+    {
+      "page": "https://www.indulgenceflyfishing.com.au/product-category/royal-wulff-lines/",
+      "status": 200,
+      "final_url": "https://www.indulgenceflyfishing.com.au/product-category/royal-wulff-lines/",
+      "bytes": 63878
+    },
+    {
+      "image": "https://www.indulgenceflyfishing.com.au/wp-content/plugins/revslider/public/assets/assets/dummy.png",
+      "error": "too small 1x1"
+    },
+    {
+      "image": "https://avada.theme-fusion.com/classic-shop/wp-content/uploads/sites/48/2015/09/five_stars_customer.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.indulgenceflyfishing.com.au/wp-content/uploads/2015/09/steve.jpg",
+      "error": "too small 150x109"
+    },
+    {
+      "image": "https://www.indulgenceflyfishing.com.au/wp-content/uploads/2015/09/ANTHONY.jpg",
+      "error": "too small 150x228"
+    },
+    {
+      "image": "https://www.indulgenceflyfishing.com.au/wp-content/uploads/2015/09/leigh.jpg",
+      "error": "too small 150x228"
+    },
+    {
+      "image": "https://www.indulgenceflyfishing.com.au/wp-content/uploads/2015/09/DOUG.jpg",
+      "error": "too small 150x228"
+    },
+    {
+      "image": "https://www.indulgenceflyfishing.com.au/wp-content/uploads/2015/09/kim.jpg",
+      "error": "too small 150x122"
+    },
+    {
+      "image": "https://www.indulgenceflyfishing.com.au/wp-content/uploads/2015/09/guy.jpg",
+      "error": "too small 150x120"
+    },
+    {
+      "image": "https://www.indulgenceflyfishing.com.au/wp-content/uploads/2015/09/alan.jpg",
+      "error": "too small 150x239"
+    },
+    {
+      "image": "https://www.indulgenceflyfishing.com.au/wp-content/uploads/2015/09/facebooks_XSMALL.png",
+      "error": "too small 60x60"
+    },
+    {
+      "image": "https://www.indulgenceflyfishing.com.au/wp-content/uploads/2015/09/instagram_XSMALL.png",
+      "error": "too small 60x60"
+    },
+    {
+      "image": "https://www.indulgenceflyfishing.com.au/wp-content/uploads/2023/11/PFIGA_SMALL.png",
+      "error": "too small 438x218"
+    },
+    {
+      "image": "https://www.mysecuressls.com/images/seals/crazy_secure_02.png",
+      "error": "too small 140x60"
+    },
+    {
+      "image": "https://www.indulgenceflyfishing.com.au/wp-content/uploads/2015/09/FRONT-PAGE-SLOGAN.jpg",
+      "error": "too small 738x389"
+    },
+    {
+      "image": "https://www.indulgenceflyfishing.com.au/wp-content/uploads/2015/09/lunch_in_style.jpg",
+      "error": "too small 467x311"
+    },
+    {
+      "image": "https://www.indulgenceflyfishing.com.au/wp-content/uploads/2015/09/lloyd.jpg",
+      "error": "too small 467x311"
+    },
+    {
+      "image": "https://www.indulgenceflyfishing.com.au/wp-content/uploads/2015/09/platter.jpg",
+      "error": "too small 467x311"
+    },
+    {
+      "image": "https://www.indulgenceflyfishing.com.au/wp-content/uploads/2015/09/indulgent_dinner.jpg",
+      "error": "too small 467x311"
+    },
+    {
+      "image": "https://www.indulgenceflyfishing.com.au/wp-content/uploads/2015/09/landed_in_style.jpg",
+      "error": "too small 467x311"
+    },
+    {
+      "image": "https://www.indulgenceflyfishing.com.au/wp-content/uploads/2017/08/RATES_NEW.jpg",
+      "error": "too small 1029x388"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "vic-r4-visitnsw-murray",
+  "request_hash": "45ea643d70eb",
+  "collected_at": "2026-11-04T03:59:07.949Z",
+  "pages_fetched": [
+    "https://www.visitnsw.com/destinations/country-nsw/the-murray/yarrawonga-mulwala/attractions/lake-mulwala",
+    "https://www.visitnsw.com/river-activities",
+    "https://www.visitthemurray.com.au/blog/fishing-on-the-murray-river-tips-for-success",
+    "https://www.visiteastgippsland.com.au/wp-content/uploads/2026/01/February-2026-WHATS-ON-.pdf"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.visitnsw.com/destinations/country-nsw/the-murray/yarrawonga-mulwala/attractions/lake-mulwala",
+      "status": 200,
+      "final_url": "https://www.visitnsw.com/destinations/country-nsw/the-murray/yarrawonga-mulwala/attractions/lake-mulwala",
+      "bytes": 218419
+    },
+    {
+      "page": "https://www.visitnsw.com/river-activities",
+      "status": 200,
+      "final_url": "https://www.visitnsw.com/destinations/country-nsw/the-murray",
+      "bytes": 285285
+    },
+    {
+      "page": "https://www.visitthemurray.com.au/blog/fishing-on-the-murray-river-tips-for-success",
+      "status": 200,
+      "final_url": "https://www.visitthemurray.com.au/blog",
+      "bytes": 156590
+    },
+    {
+      "page": "https://www.visiteastgippsland.com.au/wp-content/uploads/2026/01/February-2026-WHATS-ON-.pdf",
+      "status": 200,
+      "final_url": "https://www.visiteastgippsland.com.au/wp-content/uploads/2026/01/February-2026-WHATS-ON-.pdf",
+      "bytes": 21867577
+    }
+  ]
+}
