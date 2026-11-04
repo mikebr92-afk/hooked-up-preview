@@ -170,3 +170,38 @@ Save progress after each hot spot.
 
    Use `.txt`, because `.md` writes may be blocked.
 5. Final reply: a summary table (hot spot → listings → notes) and key concerns.
+
+## 7. SEO/GEO optimisation rounds (charter, destination, region, state)
+
+The orchestrator generates an input folder for your group with `node scripts/listings/seo_inputs.mjs <dir>`. It
+contains:
+- `records.json`: every live listing, with its current page title, description and automatic FAQ questions;
+- `hotspots.json`: live destination pages plus the state page;
+- `thin-hotspots.json`: destinations that need more listings;
+- `existing-keys.json`;
+- `prior-facts/`: earlier sourced research.
+
+Deliver into the same folder:
+
+- **`seo-patches.json`**: one entry for **every** listing in `records.json`.
+  `{"slug","lead","highlights","areas_fished","faqs":[{q,a,source}],"same_as","search_keywords","corrections":{},"_sources","_notes","_flag"}`
+  - Keep good existing values (copy them) and improve weak ones. A lead that doesn't name the departure point, vague
+    highlights, no FAQs or empty grounds all need work.
+  - `corrections` covers anything now wrong versus the operator's current site: prices, trips, departure point,
+    boat, crew, website. Use the field names exactly as in `records.json`; give the whole array when correcting
+    `trips`.
+  - Set `"_flag": "closed?"` (with `_notes`) if a business looks closed, rather than dropping it.
+- **`guides.json`**: a guide (format in section 4) for every key in `hotspots.json`, including the state page.
+  Improve on the current text; never weaken it.
+- **`regions.json`** (optional but encouraged): 2–4 **region hubs** grouping your destinations under the names people
+  search, e.g. "Far North Queensland", "NSW South Coast", "Top End", "Great Ocean Road & South West".
+  `[{"key","n","short","in","hotspots":[destination keys],"c":[search terms],"intro":[2 paras],"season","sections":[3–5],"faq":[[q,a],…],"sources":[…]}]`
+  - Keys must be new: not in `existing-keys.json`.
+  - Each region needs 2+ of your destination keys.
+  - `in` reads like "in Far North Queensland".
+- **`listings.json`**: new operators only (playbook schema, `--seo`), to bring thin hot spots to 2+ listings.
+- **`held.json`**, and **`knowledge-updates.txt`**.
+
+Validate:
+- `node scripts/listings/validate-seo.mjs <dir>` must show 0 errors;
+- `node scripts/listings/validate-listings.mjs <dir>/listings.json --seo` must show 0 errors, if you add listings.

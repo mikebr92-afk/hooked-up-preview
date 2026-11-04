@@ -1,5 +1,5 @@
 // Validate a state SEO agent's output folder (seo-patches.json + guides.json).
-// Usage: node validate-seo.mjs <folder>
+// Usage: node scripts/listings/validate-seo.mjs <folder>   (seo-patches.json, guides.json, optional regions.json)
 import fs from 'node:fs';
 import path from 'node:path';
 
@@ -89,6 +89,34 @@ for (const h of hotspots) {
   if (!Array.isArray(g.sources) || !g.sources.length) E(h.key, 'sources required');
 }
 for (const k of Object.keys(guides)) if (!hotspots.some((h) => h.key === k)) E(k, 'guide for a key not in hotspots.json');
+
+// ── region hubs (optional) ──
+const rp = path.join(dir, 'regions.json');
+const regions = fs.existsSync(rp) ? JSON.parse(fs.readFileSync(rp, 'utf8')) : [];
+const ek = path.join(dir, 'existing-keys.json');
+const existing = new Set(fs.existsSync(ek) ? JSON.parse(fs.readFileSync(ek, 'utf8')) : []);
+const thinP = path.join(dir, 'thin-hotspots.json');
+const groupKeys = new Set([...hotspots.filter((h) => !h.state_page).map((h) => h.key), ...(fs.existsSync(thinP) ? JSON.parse(fs.readFileSync(thinP, 'utf8')).map((h) => h.key) : [])]);
+const seenR = new Set();
+for (const r of regions) {
+  const s = 'region ' + (r.key || '(no key)');
+  if (!/^[a-z0-9]+(-[a-z0-9]+)*$/.test(r.key || '')) E(s, 'key must be kebab-case');
+  if (existing.has(r.key)) E(s, 'key clashes with an existing page key');
+  if (seenR.has(r.key)) E(s, 'duplicate region key'); seenR.add(r.key);
+  for (const k of ['n', 'short', 'in', 'season']) if (!r[k]) E(s, `${k} required`);
+  if (!/^(in|on|at|around|across)\b/.test(r.in || '')) E(s, '"in" must read like "in Far North Queensland"');
+  if (!Array.isArray(r.hotspots) || r.hotspots.length < 2) E(s, 'hotspots: at least 2 destination keys');
+  for (const h of r.hotspots || []) if (!groupKeys.has(h)) E(s, `hotspot "${h}" is not one of your destinations`);
+  if (!Array.isArray(r.c) || !r.c.length) E(s, 'c: search terms required');
+  if (!Array.isArray(r.intro) || r.intro.length < 2 || r.intro.length > 3) E(s, 'intro: 2–3 paragraphs');
+  if (words(r.season) > 70) E(s, 'season ≤70 words');
+  const n = (r.sections || []).length; if (n < 3 || n > 5) E(s, 'sections: 3–5');
+  for (const x of r.sections || []) { if (!x.h || !Array.isArray(x.p)) E(s, 'section needs h and p[]'); if (x.items && !x.items.every((i) => Array.isArray(i) && i.length === 2)) E(s, 'items must be [name, detail]'); }
+  if (!Array.isArray(r.faq) || r.faq.length < 2 || r.faq.length > 5) E(s, 'faq: 2–5 [q, a]');
+  for (const f of r.faq || []) if (!Array.isArray(f) || f.length !== 2 || words(f[1]) > 70) E(s, 'faq items must be [q, a≤70 words]');
+  if (!Array.isArray(r.sources) || !r.sources.length) E(s, 'sources required');
+}
+if (regions.length) console.log(`${regions.length} region hub(s)`);
 
 console.log(`${patches.length}/${records.length} patches, ${Object.keys(guides).length}/${hotspots.length} guides: ${errors.length} error(s), ${warns.length} warning(s)`);
 if (errors.length) console.log('ERRORS:\n' + errors.map((x) => '  ' + x).join('\n'));
