@@ -1,0 +1,7 @@
+{"requests":[
+ {"slug":"hooked-on-1770-agnes-water","pages":["https://www.1770tours.com/charters.html","https://www.1770tours.com/hooked/calendar.php","https://www.1770tours.com/index.html","https://www.1770tours.com/hooked/"],"text":true,"max":0,"follow":true,"force":true},
+ {"slug":"hervey-bay-fly-and-sportfishing","pages":["https://herveybaysportfishing.com.au/fishing-packages/","https://herveybaysportfishing.com.au/faqs/","https://herveybaysportfishing.com.au/fishing-news/"],"text":true,"max":0,"follow":false,"force":true},
+ {"slug":"fishing-offshore-1770","pages":["https://qica.com.au/tours/town-of-1770-agnes-water/fishing-offshore-1770","https://www.qica.com.au/accommodation/fishing-offshore-1770"],"text":true,"max":0,"follow":false,"force":true},
+ {"slug":"mv-mikat-charters-gladstone","pages":["https://mikatcharters.com.au/","https://mikatcharters.com.au/trip-reports-gallery/"],"text":true,"max":0,"follow":false,"force":true},
+ {"slug":"night-crossing-fishing-adventures-gladstone","pages":["https://nightcrossing.com.au/fishing-trips/","https://nightcrossing.com.au/testimonials/","https://nightcrossing.com.au/articles/"],"text":true,"max":0,"follow":false,"force":true}
+]}
