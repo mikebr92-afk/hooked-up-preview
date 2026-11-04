@@ -49,8 +49,8 @@ Big state. When the orchestrator gives a scope, run as **south** (Gold Coast →
 
 ## Watchlist
 - Daintree River Fishing (David Patterson): rates valid only to Mar 2026; inner pages 404.
-- Fish's Fly & Sportfishing (Weipa): fly side rebranded Flux Fly Fishing (fluxflyfishing.com), new owner Kurt
-  Rowlands. Owner to decide whether to rename the listing.
+- Flux Fly Fishing (Weipa; formerly Fish's Fly & Sportfishing): renamed Nov 2026 to match the business's current
+  trading name; slug unchanged (`fishs-fly-sportfishing-weipa`).
 - Hooked On 1770: "restructuring" from Dec 2026; dates released at short notice. No photos yet (site images <500px).
 - Night Crossing and Eastern Voyager (Gladstone) share a booking phone.
 - Frenzy Charters: under new management. Hooker 1 and Kanimbla: no 2025–26 dated content.
@@ -128,6 +128,80 @@ GUIDES
 - State page: the intro no longer claims Cooktown listings (there are none; Gone Fishing Cooktown is held). It adds a "Northern Queensland fishing regions" section, a licence and Stocked Impoundment Permit line, a closure-dates note and two FAQs. The north agent may want to review the northern items.
 
 SEARCH BUDGET: 11 of 25 WebSearches used.
+```
+
+
+## Research notes, round 4 SEO/GEO (qld_north, Nov 2026)
+
+```
+QLD north, round 4 SEO/GEO (checked 2026-11). Updates for ops/states/qld.md
+==========================================================================
+
+WATCHLIST RESULTS
+- Daintree River Fishing (David Patterson): homepage still says "Rates are valid to 31 March 2026" and shows no prices; every inner page
+  (personalised, share, coastal/reef, brag board, map) still 404s. It is still trading: Destination Daintree's "Daintree Experiences" July 2026 guide
+  lists Daintree Fishing, 0488 907 776, dave@daintreefishing.com.au, half-day personalised tours from the Daintree Ferry boat ramp, max 8.
+  Tourism Port Douglas still shows AU$120 pp, so the listing price is kept. Third-party prices disagree (Fishing Cairns: private half day,
+  1-2 pax, $400). KEEP ON WATCHLIST: owner to phone for 2026-27 rates.
+- Fish's Fly & Sportfishing (Weipa) -> Flux Fly Fishing: the WHOLE business has rebranded, not just the fly side. fluxflyfishing.com says
+  "Formerly Fishes Fly & Sport Fishing" / "formerly Weipa Fly Fish", owner Kurt Rowlands, and sells both sport and fly packages. It is clearly
+  trading, with monthly 2026 fishing reports up to September 2026. New details: phone 0448 108 210, 18 Transmission Street, Weipa; lodge-based
+  trips Apr-Nov (4+ days, up to 10 guests); West Cape mothership Jul-Sep and East Cape mothership Oct-Dec (5-6 fishing days, 6 anglers,
+  27 m Argo, joined at Horn Island); boats Line Burner (6.8 m Cyclone), Keywest 21 Bay Reef, Nummus (6 m Billfisher), Anak (6.5 m Hooker).
+  Old weipaflyfish.com.au is still up (© 2025). seo-patches proposes a rename to "Flux Fly Fishing" (slug kept), plus new website, phone, trips
+  and description. OWNER TO APPROVE THE RENAME. After that, update the state-file row and drop it from the watchlist.
+- Mackay Fly & Sportfishing (Paul Dolan): site still headed "2024 SEASON", footer ©2023. A web search found only podcasts and directories
+  (based at Mirani), nothing dated 2025-26. The saratoga/Eungella bush camps have gone from the packages pages; the patch removes that trip.
+  Phone 0407 674 350. Recommend a phone check; move it to held if no 2026 season is confirmed.
+- Carpentaria Barra & Sport Fishing (Karumba): homepage is live (© 2026, 0408 796 705, info@carpentariabarra.com.au), but every inner page
+  404s, including the ?p= permalinks. Search snippets give the guide's full name, Gavin "Groover" New: trained under Andrew Mead (Aussie Barra
+  Charters, Townsville), worked with Allan "Fish" Philliskirk in Weipa, packages of 1-7 days. No dated 2025-26 content beyond the
+  auto-generated © year. KEEP ON WATCHLIST: phone check.
+- Norseman (Port Douglas): RESOLVED. The booking widget on the home, reef and private pages says "From A$350", so the listing's $350 is right.
+  Only the FAQ page still says "Adult $300 / Child $250" (stale). Odin prices confirmed: $370 shared, $850 / $1,000 private half day,
+  $1,850 private full day.
+- Ian Moody Sportfishing: still third-party only. Facebook blocks the pipeline (login wall). Queensland.com/ATDW still lists $720-$1,050
+  with a base at 7 Marblewood Circuit, Mount Low (Townsville). FishingBooker Townsville listing: 4.9/5 from 29 reviews. Newest dated
+  content is Fishing Monthly Hinchinbrook columns to mid-2023. Keep on the watchlist; phone check recommended.
+
+PRICE / DETAIL CHANGES FOUND
+- Whitsunday Fishing Charters: shared half day now $260 adult / $230 child (was $230); full day now $460 adult / $400 child, 8-10 h.
+  Corrected in seo-patches (trips, price_from).
+- Cairns Sportfishing: temporary 13% fuel levy on bookings from 14 Oct 2026. Cairns Reef Fishing: fuel levy per person (shared) and per
+  vessel (private). Topnotch: new fuel-surcharge policy. Fuel levies are spreading, so guides now tell readers to ask for the all-up price.
+- Tropic Barra Adventures: Great Barrier Reef offshore trips page "coming October 2026"; 2026 leaderboard; says it was voted Cairns best
+  tourism fishing experience 2024/2025.
+- Tropical Sportfisher (Cairns) sells Karumba multi-day barra packages (2 anglers $6,450 pp twin share; 1 angler $11,500) and an island
+  camp. Possible cross-listing for the Karumba page (owner to decide).
+- Audacity (Townsville): an extended 16-23 h full-boat trip is also listed.
+
+RULES / OFFICIAL SOURCES
+- Fisheries pages have moved from DAF to DPI. Closed seasons: https://www.dpi.qld.gov.au/services/fisheries/closures/tidal-seasons
+  (the old qld.gov.au closed-seasons URL now 404s). Limits: https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/rules/limits-tidal
+  (fetched OK, updated 25 Sep 2026): barramundi 58-120 cm, 5 pp / 10 per boat; Spanish mackerel east coast 75 cm, 1 pp / 4 per boat;
+  Gulf Spanish mackerel 3 pp / 6 per boat (6 pp on licensed charter trips of 48 h+ entirely in Gulf waters); coral reef fin fish combined
+  limit 20, two five-day closures in Oct/Nov; mud crab 15 cm, 7 pp, no females.
+- Reef tax (EMC): $8.50 pp from 1 Apr 2026, $9 from 1 Apr 2027 (operator sites).
+
+REGION HUBS (new keys, in regions.json)
+- tropical-north-queensland: cairns, port-douglas, daintree
+- whitsundays-mackay: whitsundays, mackay
+- townsville-hinchinbrook: townsville, hinchinbrook
+- cape-york-gulf: weipa, karumba
+
+GAPS (unchanged)
+- Bowen, Mission Beach and Cooktown still have no listings. Leads: Pegasus Fishing Charter, Bowen (0409 662 750); Kurrimine Boat Hire &
+  Fishing Charters (0411 845 345). Razorfish (Cape Gloucester) departs Bowen by arrangement, which the Whitsundays guide now mentions.
+
+OWNER CHECKS
+- Approve or decline the Flux Fly Fishing rename (fishs-fly-sportfishing-weipa).
+- Phone Daintree Fishing, Mackay Fly, Carpentaria Barra and Ian Moody to confirm they are trading in 2026-27 and their current rates.
+- Carpentaria captain bio uses search-snippet facts (surname New, Andrew Mead training); drop that correction if you want fetched-page-only facts.
+- Fish's Fly patch keeps weipaflyfish.com.au in same_as (validator warning only), because the website correction points to fluxflyfishing.com.
+
+RESEARCH
+- Pipeline branch operator-images/state-qld-north-r4: research/r4n-* (26 listings, Flux, rules) and research/r4n2-* (Carpentaria,
+  Flux motherships and blog, Daintree tourism, Ian Moody). WebSearch used: 4 of 20.
 ```
 
 ## Current listings
@@ -214,7 +288,7 @@ _Generated 2026-11-04 from data/operators.json: 51 live listings._
 
 ### Weipa & Cape York (`weipa`) — 2 listings, page live
 - `far-north-fishing-weipa` — Far North Fishing Weipa · Weipa · https://www.farnorthfishingweipa.com.au/ · checked 2026-10-29
-- `fishs-fly-sportfishing-weipa` — Fish's Fly & Sportfishing · Weipa · https://www.weipaflyfish.com.au/ · checked 2026-10-29
+- `fishs-fly-sportfishing-weipa` — Flux Fly Fishing · Weipa · https://www.fluxflyfishing.com/ · checked 2026-10-29
 
 ### Yeppoon & Capricorn Coast (`yeppoon`) — 2 listings, page live
 - `double-threat-charters-yeppoon` — Double Threat Charters Yeppoon · Rosslyn Bay, Yeppoon & Capricorn Coast · https://www.doublethreatchartersyeppoon.com.au/ · checked 2026-10-29

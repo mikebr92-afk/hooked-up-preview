@@ -1,0 +1,379 @@
+[
+ {
+  "key": "tropical-north-queensland",
+  "n": "Tropical North Queensland",
+  "short": "Tropical North Queensland",
+  "in": "in Tropical North Queensland",
+  "hotspots": [
+   "cairns",
+   "port-douglas",
+   "daintree"
+  ],
+  "c": [
+   "tropical north queensland fishing charters",
+   "far north queensland fishing charters",
+   "fnq fishing charters",
+   "cairns and port douglas fishing",
+   "great barrier reef fishing charters cairns",
+   "black marlin fishing cairns",
+   "daintree barramundi fishing",
+   "lake tinaroo barramundi charter"
+  ],
+  "intro": [
+   "Tropical North Queensland runs from Cairns north through Port Douglas to the Daintree, and it is where most visitors fish the Great Barrier Reef. Shared reef boats from Cairns' Marlin Marina and Port Douglas fish for coral trout, red emperor, nannygai and Spanish mackerel, while game boats chase giant black marlin on the reef edge between Cairns and Lizard Island each spring.",
+   "Inshore, the region is barramundi country: Trinity Inlet beside Cairns, the Mulgrave and Russell rivers to the south, the Port Douglas estuaries and the rainforest-lined Daintree River, plus stocked metre-plus barramundi in Lake Tinaroo on the Atherton Tablelands. Many guides collect guests from Cairns or Port Douglas accommodation and fish several of these waters."
+  ],
+  "season": "Reef fishing runs year-round, with the coral reef fin fish closures around the October and November new moons (8–12 October and 6–10 November in 2026). Giant black marlin run from early September to mid-December. Saltwater barramundi are closed from 1 November to 31 January, when guides switch to mangrove jack and other species or fish Lake Tinaroo.",
+  "sections": [
+   {
+    "h": "Destinations in Tropical North Queensland",
+    "p": [],
+    "items": [
+     [
+      "Cairns",
+      "The largest fleet: shared and private reef boats, Trinity Inlet estuary trips, river days to the Mulgrave and Russell, Lake Tinaroo barra and marlin game boats"
+     ],
+     [
+      "Port Douglas",
+      "About an hour to the reef on the big boats; small sportfishing boats mix fringing reefs, the Low Isles and estuaries; liveaboards to the Ribbon Reefs"
+     ],
+     [
+      "Daintree",
+      "Barramundi, mangrove jack and mud crabs on more than 25 km of navigable river, with Snapper Island and river-mouth reefs on calm days"
+     ]
+    ]
+   },
+   {
+    "h": "Choosing a trip",
+    "p": [
+     "Shared reef days cost about $340–$350 per person from Cairns or Port Douglas, and shared estuary half days start at about $120–$200. Private river and estuary trips are usually $650–$1,320 per boat for four to six hours, private reef or GT days about $1,650–$1,900, and marlin game boats about $3,200–$3,600 per day."
+    ],
+    "items": [
+     [
+      "Families and first-timers",
+      "Shared reef boats with handlines and rods, or a half day in Trinity Inlet or the Port Douglas estuaries"
+     ],
+     [
+      "Barramundi anglers",
+      "Private river guides on the Daintree, Cairns rivers or Lake Tinaroo, often with hotel pick-up"
+     ],
+     [
+      "Sportfishing and fly",
+      "Topwater GT on the reef, flats and island fly trips, and light-tackle juvenile marlin"
+     ],
+     [
+      "Game fishing",
+      "Giant black marlin liveaboards of three to seven days from September to mid-December"
+     ]
+    ]
+   },
+   {
+    "h": "Getting around",
+    "p": [
+     "Cairns Airport is the arrival point for the region. Port Douglas is about 60 km north of Cairns, under an hour's drive, and the Daintree River ferry crossing is further north again on the road to Cape Tribulation. Several guides fish Cairns, Port Douglas and the Daintree, so one booking can cover more than one area."
+    ],
+    "items": []
+   },
+   {
+    "h": "Good to know",
+    "p": [
+     "Great Barrier Reef trips carry the Environmental Management Charge (reef tax), $8.50 per person from 1 April 2026, and many reef boats now add a fuel levy. Coral reef fin fish and Spanish mackerel have seasonal closures in October and November, and east-coast barramundi are closed from 1 November to 31 January. Saltwater crocodiles live in every river and estuary here, so keep well back from the water's edge."
+    ],
+    "items": []
+   }
+  ],
+  "faq": [
+   [
+    "Should I fish from Cairns or Port Douglas?",
+    "Both reach the Great Barrier Reef. Cairns has the larger fleet and the most shared reef boats; Port Douglas boats reach the outer reef sooner, about an hour on the larger boats, and small boats there can retreat to the estuaries in wind. Many guides pick up from either town."
+   ],
+   [
+    "Where can I catch a barramundi in Tropical North Queensland?",
+    "Guides fish Trinity Inlet in Cairns, the Mulgrave and Russell rivers, the Port Douglas estuaries and the Daintree River, outside the 1 November to 31 January closure. Lake Tinaroo on the Atherton Tablelands holds stocked metre-plus barramundi and is fished during the saltwater closure."
+   ],
+   [
+    "When is black marlin season in Far North Queensland?",
+    "Giant black marlin gather on the reef edge between Cairns and Lizard Island from early September to mid-December, usually fished on liveaboards. Juvenile black marlin are caught on light tackle closer to Cairns and Port Douglas through much of the year."
+   ]
+  ],
+  "sources": [
+   "https://www.cairnsreeffishing.com.au/shared-charters/",
+   "https://fishtales.com.au/cairns-reef-fishing/",
+   "https://mvnorseman.com.au/norseman-reef-fishing-charters/",
+   "https://www.outnaboutfishing.com.au/",
+   "https://www.sublimesportfishing.com.au/",
+   "https://tourismportdouglas.com.au/daintree-river-fishing-with-david-patterson",
+   "https://www.tropicbarraadventures.com.au/",
+   "https://www.tropicalsportfisher.com/",
+   "https://www.cairnssportfishing.com.au/cairns-reef-experiences.html",
+   "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/rules/limits-tidal",
+   "https://www.dpi.qld.gov.au/services/fisheries/closures/tidal-seasons"
+  ]
+ },
+ {
+  "key": "whitsundays-mackay",
+  "n": "Whitsundays & Mackay",
+  "short": "Whitsundays & Mackay",
+  "in": "in the Whitsundays and Mackay region",
+  "hotspots": [
+   "whitsundays",
+   "mackay"
+  ],
+  "c": [
+   "whitsundays fishing charters",
+   "airlie beach fishing charters",
+   "hamilton island fishing charter",
+   "mackay fishing charters",
+   "whitsundays reef fishing",
+   "mackay barramundi fishing",
+   "seaforth fly fishing",
+   "sailfish charters whitsundays"
+  ],
+  "intro": [
+   "The Whitsundays and Mackay share the central Great Barrier Reef coast. Around the Whitsunday Islands, charters from Airlie Beach, Hamilton Island and Cape Gloucester fish island grounds 40–70 m deep and the outer reef about 40 nautical miles out for coral trout, red emperor, nannygai and sweetlip, with sailfish and light-tackle black marlin offshore.",
+   "Mackay, to the south, mixes offshore reef trips from Hay Point among the Cumberland and Sir James Smith islands with the Mackay Net Free Zone's creeks for barramundi, mangrove jack and salmon, the Seaforth flats for permit and golden trevally, and stocked barramundi dams in the Pioneer Valley."
+  ],
+  "season": "Reef fishing runs all year, with coral reef fin fish closed 8–12 October and 6–10 November 2026 and northern Spanish mackerel closures in October and November. Sailfish peak from about August to December. Mackay's creek barramundi fish best from February to May, and the stocked dams stay open during the 1 November to 31 January saltwater barra closure.",
+  "sections": [
+   {
+    "h": "Destinations in the Whitsundays and Mackay",
+    "p": [],
+    "items": [
+     [
+      "Whitsundays",
+      "Coral Sea Marina (Airlie Beach), Hamilton Island Marina and Cape Gloucester Resort; shared half and full days, private outer reef trips and game boats"
+     ],
+     [
+      "Mackay",
+      "Offshore reef days from Hay Point, fly and lure guiding on the Seaforth flats, and impoundment barramundi on Kinchant and Teemburra dams"
+     ]
+    ]
+   },
+   {
+    "h": "Choosing a trip",
+    "p": [
+     "Shared Whitsunday reef trips cost about $250–$335 per person for a half day and $450–$480 for a full day; private boats run about $1,800–$5,150 depending on length and vessel. A full offshore day from Hay Point is about $500 per person with a minimum of four."
+    ],
+    "items": [
+     [
+      "Families",
+      "Shared half days around the islands, many of which clean and fillet your catch"
+     ],
+     [
+      "Reef fish to eat",
+      "Full-day or extended outer reef trips for red emperor and coral trout"
+     ],
+     [
+      "Sportfish",
+      "Sailfish and black marlin from Hamilton Island; GT, permit and golden trevally on Mackay's flats"
+     ],
+     [
+      "Barramundi",
+      "Mackay creeks in the warmer months, and stocked dams year-round"
+     ]
+    ]
+   },
+   {
+    "h": "Good to know",
+    "p": [
+     "The whole region is inside the Great Barrier Reef Marine Park, so zoning applies; one Airlie Beach operator holds Yellow Zone certification for areas many charters cannot fish. Spanish mackerel north of 22°S are limited to one per person on the east coast and have closed seasons in October and November. One Mackay offshore operator brings all fish back whole, citing the rules on filleting at sea."
+    ],
+    "items": []
+   }
+  ],
+  "faq": [
+   [
+    "Is fishing better in the Whitsundays or Mackay?",
+    "They suit different trips. The Whitsundays have the most shared and private reef charters and easy island scenery, while Mackay adds fly and lure flats fishing, net-free creeks for barramundi and stocked dams. Mackay offshore days leave Hay Point, about 30 minutes south of town."
+   ],
+   [
+    "Can I fish the outer reef from the Whitsundays?",
+    "Yes, on longer trips. The outer reef is about 40 nautical miles from Airlie Beach, so it is fished on 8-hour private or 10–11 hour extended trips; half days and most shared trips fish the island grounds."
+   ],
+   [
+    "Can I catch barramundi near Mackay in summer?",
+    "Saltwater barramundi are closed from 1 November to 31 January, but Kinchant and Teemburra dams are stocked and stay open, and local guides run half and full days there for one or two anglers."
+   ]
+  ],
+  "sources": [
+   "https://airliebeachfishingcharters.com.au/",
+   "https://www.razorfishcharters.com.au/",
+   "https://www.topnotchgamefishing.com.au/hamilton-island-fishing-charters/",
+   "https://www.whitsundayfishingcharters.com.au/whitsundays-tours",
+   "https://castandcatch.com.au/",
+   "https://www.mackaysportfishing.com.au/mackay-fishery",
+   "https://www.mackaysportfishing.com.au/freshwater-fishing-packages",
+   "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/rules/limits-tidal",
+   "https://www.dpi.qld.gov.au/services/fisheries/closures/tidal-seasons"
+  ]
+ },
+ {
+  "key": "townsville-hinchinbrook",
+  "n": "Townsville & Hinchinbrook",
+  "short": "Townsville & Hinchinbrook",
+  "in": "around Townsville and Hinchinbrook",
+  "hotspots": [
+   "townsville",
+   "hinchinbrook"
+  ],
+  "c": [
+   "townsville fishing charters",
+   "north queensland fishing charters",
+   "hinchinbrook barramundi charter",
+   "lucinda fishing charter",
+   "magnetic island fishing charter",
+   "townsville reef fishing",
+   "cardwell fishing charter",
+   "hinchinbrook channel fishing guide"
+  ],
+  "intro": [
+   "Townsville and the Hinchinbrook coast to its north make up one of north Queensland's most varied fishing regions. From Townsville's Breakwater Marina, long day, night and extended reef trips run 1.5–2 hours out to the central Great Barrier Reef for red emperor, nannygai and coral trout, and Magnetic Island charters fish the island's bays, wrecks and offshore shoals.",
+   "About 1.5 hours' drive north, the Hinchinbrook Channel between Hinchinbrook Island and the mainland is a protected, mangrove-lined barramundi fishery, launched from the Dungeness ramp at Lucinda or from Cardwell. Its creeks, flats and the 5 km Lucinda sugar-loading jetty also hold mangrove jack, fingermark, threadfin, trevally and queenfish."
+  ],
+  "season": "Reef trips from Townsville run year-round, weather permitting, apart from the October and November coral reef fin fish closures. Hinchinbrook barramundi are open outside the 1 November to 31 January closure, and mangrove jack, fingermark, threadfin and trevally are fished all year, including during the barra closure.",
+  "sections": [
+   {
+    "h": "Destinations around Townsville and Hinchinbrook",
+    "p": [],
+    "items": [
+     [
+      "Townsville and Magnetic Island",
+      "Full-boat and mixed-group reef trips of 9–23 hours from Breakwater Marina; private inshore and offshore charters from Horseshoe Bay"
+     ],
+     [
+      "Hinchinbrook and Lucinda",
+      "Guided barramundi in the channel and Missionary Bay, offshore days to the islands and reef, and multi-day accommodated packages"
+     ]
+    ]
+   },
+   {
+    "h": "Choosing a trip",
+    "p": [
+     "Townsville's big reef boats are mostly booked as a whole boat (about $4,500 for a 9-hour shoal trip, $6,800 for a 13-hour reef day), with single seats on mixed-group trips when the weather suits. Hinchinbrook guides take two to four anglers, about $720–$1,050 a day depending on group size."
+    ],
+    "items": [
+     [
+      "Reef fish for the freezer",
+      "Long Townsville day or overnight trips for red emperor and nannygai"
+     ],
+     [
+      "A trophy barramundi",
+      "Private Hinchinbrook Channel days, timed to the tides"
+     ],
+     [
+      "Families on holiday",
+      "Private half days around Magnetic Island's bays"
+     ]
+    ]
+   },
+   {
+    "h": "Good to know",
+    "p": [
+     "Launch at Dungeness from half tide up; near low tide the ramp end can be exposed and the channel bar impassable. Long Townsville reef trips usually supply bait, tackle and ice but not meals. The channel and creeks are crocodile habitat and lie inside the Great Barrier Reef Marine Park, so check zoning and keep back from the bank."
+    ],
+    "items": []
+   }
+  ],
+  "faq": [
+   [
+    "How far is Hinchinbrook from Townsville?",
+    "Lucinda, the main launch point for the Hinchinbrook Channel, is about 1.5 hours' drive north of Townsville and about 2.5 hours south of Cairns. Some Hinchinbrook packages include Townsville Airport transfers."
+   ],
+   [
+    "Can I join a reef fishing trip from Townsville on my own?",
+    "Yes. Mixed-group charters sell individual places on 12–13 hour reef trips for up to 12 people. They are opened when the weather suits, often at short notice, and need enough bookings to go ahead."
+   ]
+  ],
+  "sources": [
+   "https://audacitymarine.com.au/fishing-charters/",
+   "https://www.magneticislandfishingcharters.com.au/",
+   "https://crackfish.com/",
+   "https://fullonfishn.com.au/",
+   "https://fullonfishn.com.au/charter-faq/",
+   "https://www.queensland.com/au/en/things-to-do/tours/p-6045f4108fc1e7796a9d63ac-ian-moody-sportfishing-charters",
+   "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/rules/limits-tidal",
+   "https://www.dpi.qld.gov.au/services/fisheries/closures/tidal-seasons"
+  ]
+ },
+ {
+  "key": "cape-york-gulf",
+  "n": "Cape York & the Gulf",
+  "short": "Cape York & the Gulf",
+  "in": "in Cape York and the Gulf",
+  "hotspots": [
+   "weipa",
+   "karumba"
+  ],
+  "c": [
+   "cape york fishing charters",
+   "gulf of carpentaria fishing charters",
+   "weipa fishing charters",
+   "karumba fishing charters",
+   "remote barramundi fishing queensland",
+   "cape york mothership fishing",
+   "weipa fly fishing",
+   "karumba barramundi charter"
+  ],
+  "intro": [
+   "Cape York and the Queensland side of the Gulf of Carpentaria offer some of Australia's most remote fishing. Weipa, on Albatross Bay on the Gulf coast of Cape York, is about an hour's flight from Cairns, and its guides fish rivers, flats, beaches and offshore grounds for barramundi, threadfin, permit, golden trevally, queenfish and longtail tuna.",
+   "Further south, Karumba sits at the mouth of the Norman River, where charters fish the sheltered river and creeks for barramundi and threadfin and run 40–50 km into the Gulf for Spanish mackerel and cobia. Most visitors book multi-day packages with accommodation and transfers, and mothership and camping trips reach water few anglers see."
+  ],
+  "season": "Weipa guides work from about late March to mid December and stop for the wet. The Gulf barramundi closed season starts on 7 October, so Karumba barra charters run February to April and September to early October, while threadfin and offshore species are fished year-round. Cape York mothership trips run from about July to December.",
+  "sections": [
+   {
+    "h": "Destinations in Cape York and the Gulf",
+    "p": [],
+    "items": [
+     [
+      "Weipa and Cape York",
+      "Accommodated packages of four days or more, a fishing lodge with private chef, and mothership trips to remote rivers, the Torres Strait and east-coast reef flats"
+     ],
+     [
+      "Karumba and the Gulf",
+      "Half- and full-day Norman River and offshore charters, dedicated barramundi days, multi-day and remote camping trips"
+     ]
+    ]
+   },
+   {
+    "h": "Getting there",
+    "p": [
+     "Weipa has twice-daily QantasLink flights from Cairns on most days, with a one-bag, 23 kg luggage limit, and guides collect from the airport. Karumba visitors usually fly into Normanton and transfer by road, or drive across from the east coast. Cape York motherships are joined at Horn Island, flying from Cairns."
+    ],
+    "items": []
+   },
+   {
+    "h": "Good to know",
+    "p": [
+     "Gulf rules differ from the east coast. The Gulf barramundi closure starts on 7 October, and the Gulf Spanish mackerel limit is 3 per person or 6 per boat, higher on licensed charter trips of 48 hours or more. Fishing here is largely catch and release, mobile coverage is limited, and crocodiles, box jellyfish and stingrays mean you wade only where your guide says it is safe."
+    ],
+    "items": []
+   }
+  ],
+  "faq": [
+   [
+    "Is Weipa or Karumba better for barramundi?",
+    "Both are well known for barramundi. Weipa offers more variety, with permit, golden trevally and tuna on the flats and offshore, and most trips are multi-day packages. Karumba focuses on the Norman River and Gulf, with dedicated barra charters from February to April and September to early October."
+   ],
+   [
+    "How long should a Cape York fishing trip be?",
+    "Most Weipa packages run four to seven days including travel days, and Cape York mothership trips are five to six fishing days. Karumba has half- and full-day charters as well as multi-day and remote camping trips."
+   ],
+   [
+    "When is the barramundi closed season in the Gulf of Carpentaria?",
+    "The Gulf closed season starts on 7 October, earlier than the east coast's 1 November start. Check the current Queensland closed-season page for the end date before you book, and plan barra-focused Gulf trips for autumn or September."
+   ]
+  ],
+  "sources": [
+   "https://www.farnorthfishingweipa.com.au/charters",
+   "https://www.fluxflyfishing.com/",
+   "https://www.fluxflyfishing.com/west-cape-mothership",
+   "https://www.fluxflyfishing.com/faq",
+   "https://www.weipaflyfish.com.au/fishing-faqs",
+   "https://kerrydfishing.com.au/fishing-charters/",
+   "https://www.carpentariabarra.com.au/",
+   "https://www.tropicalsportfisher.com/multi-day-trips/kurumba-multi-day-trip/",
+   "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/rules/limits-tidal",
+   "https://www.dpi.qld.gov.au/services/fisheries/closures/tidal-seasons"
+  ]
+ }
+]
