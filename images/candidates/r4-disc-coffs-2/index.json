@@ -1,7 +1,7 @@
 {
   "slug": "r4-disc-coffs-2",
   "request_hash": "4e3fab4b7593",
-  "collected_at": "2026-11-04T04:17:16.392Z",
+  "collected_at": "2026-11-04T04:24:24.047Z",
   "pages_fetched": [
     "https://fishingbooker.com/destinations/location/au/NS/coffs-harbour",
     "https://www.coffscoast.com.au/?p=6104",
@@ -20,7 +20,7 @@
       "page": "https://www.coffscoast.com.au/?p=6104",
       "status": 404,
       "final_url": "https://www.coffscoast.com.au/?p=6104",
-      "bytes": 132658
+      "bytes": 132657
     },
     {
       "page": "https://localsearch.com.au/find/fishing-trips-charters/coffs-harbour-nsw",

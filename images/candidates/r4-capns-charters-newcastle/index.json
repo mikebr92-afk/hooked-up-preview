@@ -1,7 +1,7 @@
 {
   "slug": "r4-capns-charters-newcastle",
   "request_hash": "8b83fd24496c",
-  "collected_at": "2026-11-04T04:12:32.603Z",
+  "collected_at": "2026-11-04T04:20:34.427Z",
   "pages_fetched": [
     "https://www.capnschartersnewcastle.com.au/",
     "https://www.capnschartersnewcastle.com.au/bookings/",
@@ -11,54 +11,54 @@
     "https://www.capnschartersnewcastle.com.au/kids-fishing-charter/",
     "https://www.capnschartersnewcastle.com.au/about-us/",
     "https://www.poyst.com/business/capns-charters-newcastle",
-    "https://www.poyst.com/business/au/new-south-wales/tomago/fishing",
-    "https://www.poyst.com/about",
-    "https://www.poyst.com/pricing",
-    "https://www.poyst.com/contact"
+    "https://www.capnschartersnewcastle.com.au/gallery/",
+    "https://www.capnschartersnewcastle.com.au/contactus/",
+    "https://www.capnschartersnewcastle.com.au/product/gift-card/",
+    "https://www.poyst.com/business/au/new-south-wales/tomago/fishing"
   ],
   "candidates": [],
   "log": [
     {
       "page": "https://www.capnschartersnewcastle.com.au/",
-      "status": 500,
+      "status": 200,
       "final_url": "https://www.capnschartersnewcastle.com.au/",
-      "bytes": 188
+      "bytes": 188449
     },
     {
       "page": "https://www.capnschartersnewcastle.com.au/bookings/",
-      "status": 500,
+      "status": 200,
       "final_url": "https://www.capnschartersnewcastle.com.au/bookings/",
-      "bytes": 188
+      "bytes": 195105
     },
     {
       "page": "https://www.capnschartersnewcastle.com.au/one-on-one-charters/",
-      "status": 500,
+      "status": 200,
       "final_url": "https://www.capnschartersnewcastle.com.au/one-on-one-charters/",
-      "bytes": 188
+      "bytes": 259950
     },
     {
       "page": "https://www.capnschartersnewcastle.com.au/half-day-charters/",
-      "status": 500,
+      "status": 200,
       "final_url": "https://www.capnschartersnewcastle.com.au/half-day-charters/",
-      "bytes": 0
+      "bytes": 260517
     },
     {
       "page": "https://www.capnschartersnewcastle.com.au/full-day-charters/",
-      "status": 500,
+      "status": 200,
       "final_url": "https://www.capnschartersnewcastle.com.au/full-day-charters/",
-      "bytes": 188
+      "bytes": 261191
     },
     {
       "page": "https://www.capnschartersnewcastle.com.au/kids-fishing-charter/",
-      "status": 500,
+      "status": 200,
       "final_url": "https://www.capnschartersnewcastle.com.au/kids-fishing-charter/",
-      "bytes": 0
+      "bytes": 261794
     },
     {
       "page": "https://www.capnschartersnewcastle.com.au/about-us/",
-      "status": 500,
+      "status": 200,
       "final_url": "https://www.capnschartersnewcastle.com.au/about-us/",
-      "bytes": 188
+      "bytes": 136377
     },
     {
       "page": "https://www.poyst.com/business/capns-charters-newcastle",
@@ -67,28 +67,28 @@
       "bytes": 333825
     },
     {
+      "page": "https://www.capnschartersnewcastle.com.au/gallery/",
+      "status": 200,
+      "final_url": "https://www.capnschartersnewcastle.com.au/gallery/",
+      "bytes": 153849
+    },
+    {
+      "page": "https://www.capnschartersnewcastle.com.au/contactus/",
+      "status": 200,
+      "final_url": "https://www.capnschartersnewcastle.com.au/contactus/",
+      "bytes": 169118
+    },
+    {
+      "page": "https://www.capnschartersnewcastle.com.au/product/gift-card/",
+      "status": 200,
+      "final_url": "https://www.capnschartersnewcastle.com.au/product/gift-card/",
+      "bytes": 206372
+    },
+    {
       "page": "https://www.poyst.com/business/au/new-south-wales/tomago/fishing",
       "status": 200,
       "final_url": "https://www.poyst.com/business/au/new-south-wales/tomago/fishing",
       "bytes": 171831
-    },
-    {
-      "page": "https://www.poyst.com/about",
-      "status": 200,
-      "final_url": "https://www.poyst.com/about",
-      "bytes": 217429
-    },
-    {
-      "page": "https://www.poyst.com/pricing",
-      "status": 200,
-      "final_url": "https://www.poyst.com/pricing",
-      "bytes": 187202
-    },
-    {
-      "page": "https://www.poyst.com/contact",
-      "status": 200,
-      "final_url": "https://www.poyst.com/support",
-      "bytes": 153783
     }
   ]
 }

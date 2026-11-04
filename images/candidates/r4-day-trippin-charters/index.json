@@ -1,7 +1,7 @@
 {
   "slug": "r4-day-trippin-charters",
   "request_hash": "399bee10684e",
-  "collected_at": "2026-11-04T04:12:35.591Z",
+  "collected_at": "2026-11-04T04:20:35.989Z",
   "pages_fetched": [
     "https://day-trippin-charters.squarespace.com/",
     "https://day-trippin-charters.squarespace.com/the-boat",
@@ -56,7 +56,7 @@
       "page": "https://day-trippin-charters.squarespace.com/cart",
       "status": 200,
       "final_url": "https://day-trippin-charters.squarespace.com/cart",
-      "bytes": 312201
+      "bytes": 375561
     },
     {
       "page": "https://day-trippin-charters.squarespace.com/gallery",

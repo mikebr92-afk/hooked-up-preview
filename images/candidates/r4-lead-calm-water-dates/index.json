@@ -1,0 +1,52 @@
+{
+  "slug": "r4-lead-calm-water-dates",
+  "request_hash": "a504a3edb450",
+  "collected_at": "2026-11-04T04:25:29.269Z",
+  "pages_fetched": [
+    "https://www.calmwaterfishing.com/sitemap.xml",
+    "https://www.calmwaterfishing.com/pages-sitemap.xml",
+    "https://www.calmwaterfishing.com/booking-services-sitemap.xml",
+    "https://www.instagram.com/calmwaterfishing/",
+    "https://www.instagram.com/calm_water_fishing_co/",
+    "https://www.facebook.com/Calm-Water-Fishing-112749184525721"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.calmwaterfishing.com/sitemap.xml",
+      "status": 200,
+      "final_url": "https://www.calmwaterfishing.com/sitemap.xml",
+      "bytes": 621
+    },
+    {
+      "page": "https://www.calmwaterfishing.com/pages-sitemap.xml",
+      "status": 200,
+      "final_url": "https://www.calmwaterfishing.com/pages-sitemap.xml",
+      "bytes": 931
+    },
+    {
+      "page": "https://www.calmwaterfishing.com/booking-services-sitemap.xml",
+      "status": 200,
+      "final_url": "https://www.calmwaterfishing.com/booking-services-sitemap.xml",
+      "bytes": 693
+    },
+    {
+      "page": "https://www.instagram.com/calmwaterfishing/",
+      "status": 429,
+      "final_url": "https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fcalmwaterfishing%2F&is_from_rle",
+      "bytes": 0
+    },
+    {
+      "page": "https://www.instagram.com/calm_water_fishing_co/",
+      "status": 429,
+      "final_url": "https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fcalm_water_fishing_co%2F&is_from_rle",
+      "bytes": 0
+    },
+    {
+      "page": "https://www.facebook.com/Calm-Water-Fishing-112749184525721",
+      "status": 400,
+      "final_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FCalm-Water-Fishing-112749184525721",
+      "bytes": 1542
+    }
+  ]
+}

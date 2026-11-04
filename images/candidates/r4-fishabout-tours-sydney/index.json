@@ -1,7 +1,7 @@
 {
   "slug": "r4-fishabout-tours-sydney",
   "request_hash": "1b1ce49debe7",
-  "collected_at": "2026-11-04T04:14:55.145Z",
+  "collected_at": "2026-11-04T04:22:28.882Z",
   "pages_fetched": [
     "https://www.fishaboutsydney.com.au/",
     "https://www.fishaboutsydney.com.au/about-craig-mcgill/",
@@ -9,12 +9,7 @@
     "https://fishabout.com.au/sydney/",
     "https://www.fishaboutsydney.com.au/articles/",
     "https://www.fishaboutsydney.com.au/gallery/",
-    "https://www.fishaboutsydney.com.au/about",
-    "https://fishabout.com.au/",
-    "https://fishabout.com.au/destination/",
-    "https://fishabout.com.au/destination/nt/",
-    "https://fishabout.com.au/destination/destinations-western-australia/",
-    "https://fishabout.com.au/destination/destinations-queensland/"
+    "https://www.fishaboutsydney.com.au/about"
   ],
   "candidates": [],
   "log": [
@@ -38,9 +33,9 @@
     },
     {
       "page": "https://fishabout.com.au/sydney/",
-      "status": 200,
-      "final_url": "https://fishabout.com.au/sydney-charters/",
-      "bytes": 191188
+      "status": 202,
+      "final_url": "https://fishabout.com.au/sydney/",
+      "bytes": 178
     },
     {
       "page": "https://www.fishaboutsydney.com.au/articles/",
@@ -59,36 +54,6 @@
       "status": 200,
       "final_url": "https://www.fishaboutsydney.com.au/about-craig-mcgill/",
       "bytes": 23920
-    },
-    {
-      "page": "https://fishabout.com.au/",
-      "status": 200,
-      "final_url": "https://fishabout.com.au/",
-      "bytes": 271066
-    },
-    {
-      "page": "https://fishabout.com.au/destination/",
-      "status": 200,
-      "final_url": "https://fishabout.com.au/destination/",
-      "bytes": 211717
-    },
-    {
-      "page": "https://fishabout.com.au/destination/nt/",
-      "status": 200,
-      "final_url": "https://fishabout.com.au/destination/nt/",
-      "bytes": 249326
-    },
-    {
-      "page": "https://fishabout.com.au/destination/destinations-western-australia/",
-      "status": 200,
-      "final_url": "https://fishabout.com.au/destination/destinations-western-australia/",
-      "bytes": 223370
-    },
-    {
-      "page": "https://fishabout.com.au/destination/destinations-queensland/",
-      "status": 200,
-      "final_url": "https://fishabout.com.au/destination/destinations-queensland/",
-      "bytes": 223805
     }
   ]
 }

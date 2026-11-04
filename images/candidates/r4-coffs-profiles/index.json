@@ -1,0 +1,31 @@
+{
+  "slug": "r4-coffs-profiles",
+  "request_hash": "a5672c75ee9f",
+  "collected_at": "2026-11-04T04:25:31.731Z",
+  "pages_fetched": [
+    "https://www.coffscoast.com/operator/coffs-harbour-fishing-charters/",
+    "https://www.tripadvisor.com.au/Attraction_Review-g255059-d23467877-Reviews-Coffs_Harbour_Fishing_Charters-Coffs_Harbour_New_South_Wales.html",
+    "https://www.facebook.com/kcsfishingcharterscoffsharbour.com.au/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.coffscoast.com/operator/coffs-harbour-fishing-charters/",
+      "status": 404,
+      "final_url": "https://www.coffscoast.com/operator/coffs-harbour-fishing-charters/",
+      "bytes": 132601
+    },
+    {
+      "page": "https://www.tripadvisor.com.au/Attraction_Review-g255059-d23467877-Reviews-Coffs_Harbour_Fishing_Charters-Coffs_Harbour_New_South_Wales.html",
+      "status": 403,
+      "final_url": "https://www.tripadvisor.com.au/Attraction_Review-g255059-d23467877-Reviews-Coffs_Harbour_Fishing_Charters-Coffs_Harbour_New_South_Wales.html",
+      "bytes": 778
+    },
+    {
+      "page": "https://www.facebook.com/kcsfishingcharterscoffsharbour.com.au/",
+      "status": 400,
+      "final_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fkcsfishingcharterscoffsharbour.com.au%2F",
+      "bytes": 1542
+    }
+  ]
+}

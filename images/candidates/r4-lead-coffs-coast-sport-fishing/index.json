@@ -1,0 +1,412 @@
+{
+  "slug": "r4-lead-coffs-coast-sport-fishing",
+  "request_hash": "e6cfbcd64455",
+  "collected_at": "2026-11-04T04:25:26.430Z",
+  "pages_fetched": [
+    "https://www.beachfrontescapes.com.au/while-your-here/coffs-coast-sport-fishing-adventures/",
+    "https://www.coffscoastsportfishing.com.au/",
+    "https://coffscoastsportfishing.com.au/",
+    "https://www.coffscoastsportfishingadventures.com.au/",
+    "https://www.coffscoastsportfishing.com/",
+    "https://www.coffscoast.com/article/fishing-on-the-coffs-coast/",
+    "https://www.beachfrontescapes.com.au/awe-booking-check/",
+    "https://www.beachfrontescapes.com.au/coffs-coast-sport-fishing-adventures/",
+    "https://www.coffscoast.com/plan-your-trip/",
+    "https://www.coffscoast.com/plan-your-trip/holiday-tips/visitor-information-services/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 640,
+      "height": 430,
+      "original": "640x430",
+      "source": "https://www.beachfrontescapes.com.au/wp-content/uploads/2016/04/ccsp4-640x430.jpg",
+      "page": "https://www.beachfrontescapes.com.au/while-your-here/coffs-coast-sport-fishing-adventures/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 1600,
+      "height": 1067,
+      "original": "1600x1067",
+      "source": "https://www.coffscoast.com/wp-content/uploads/2025/07/Fire-Fly-Photography-212.jpg",
+      "page": "https://www.coffscoast.com/article/fishing-on-the-coffs-coast/",
+      "priority": true
+    },
+    {
+      "file": "c03.webp",
+      "width": 1600,
+      "height": 1067,
+      "original": "1600x1067",
+      "source": "https://www.coffscoast.com//wp-content/uploads/2025/07/Fire-Fly-Photography-216.jpg",
+      "page": "https://www.coffscoast.com/article/fishing-on-the-coffs-coast/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1600,
+      "height": 1067,
+      "original": "1600x1067",
+      "source": "https://www.coffscoast.com//wp-content/uploads/2025/07/Fire-Fly-Photography-154.jpg",
+      "page": "https://www.coffscoast.com/article/fishing-on-the-coffs-coast/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1600,
+      "height": 1067,
+      "original": "1600x1067",
+      "source": "https://www.coffscoast.com//wp-content/uploads/2025/07/Fire-Fly-Photography-191.jpg",
+      "page": "https://www.coffscoast.com/article/fishing-on-the-coffs-coast/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1600,
+      "height": 1067,
+      "original": "1600x1067",
+      "source": "https://www.coffscoast.com//wp-content/uploads/2025/07/Fire-Fly-Photography-76.jpg",
+      "page": "https://www.coffscoast.com/article/fishing-on-the-coffs-coast/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1600,
+      "height": 1067,
+      "original": "1600x1067",
+      "source": "https://www.coffscoast.com//wp-content/uploads/2025/07/Fire-Fly-Photography-84.jpg",
+      "page": "https://www.coffscoast.com/article/fishing-on-the-coffs-coast/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1600,
+      "height": 1067,
+      "original": "1600x1067",
+      "source": "https://www.coffscoast.com//wp-content/uploads/2025/07/Fire-Fly-Photography-119.jpg",
+      "page": "https://www.coffscoast.com/article/fishing-on-the-coffs-coast/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1600,
+      "height": 1067,
+      "original": "1600x1067",
+      "source": "https://www.coffscoast.com//wp-content/uploads/2025/07/Fire-Fly-Photography-25.jpg",
+      "page": "https://www.coffscoast.com/article/fishing-on-the-coffs-coast/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2560x1707",
+      "source": "https://www.coffscoast.com//wp-content/uploads/2022/09/Surfing_TLC_3069-scaled.jpg",
+      "page": "https://www.coffscoast.com/article/fishing-on-the-coffs-coast/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2560x1708",
+      "source": "https://www.coffscoast.com//wp-content/uploads/2021/09/HWH_Horseriding_14062021_004-scaled.jpg",
+      "page": "https://www.coffscoast.com/article/fishing-on-the-coffs-coast/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 768,
+      "height": 575,
+      "original": "768x575",
+      "source": "https://www.coffscoast.com/wp-content/uploads/2023/02/63eec2219f3376d0230f4455-768x575.jpg",
+      "page": "https://www.coffscoast.com/article/fishing-on-the-coffs-coast/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2560x1707",
+      "source": "https://www.coffscoast.com/wp-content/uploads/2021/09/Coffs_Jetty_Fishing_150621_22-scaled.jpg",
+      "page": "https://www.coffscoast.com/plan-your-trip/",
+      "priority": true
+    },
+    {
+      "file": "c14.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "6000x4002",
+      "source": "https://www.coffscoast.com/wp-content/uploads/2021/09/MontemBikeTours_14062021_017.jpg",
+      "page": "https://www.coffscoast.com/plan-your-trip/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1080,
+      "height": 1080,
+      "original": "1080x1080",
+      "source": "https://www.coffscoast.com/wp-content/uploads/2025/03/Skypier.png",
+      "page": "https://www.coffscoast.com/plan-your-trip/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1800,
+      "height": 1200,
+      "original": "1800x1200",
+      "source": "https://www.coffscoast.com/wp-content/uploads/2023/03/PacificBay_Reception_250521_03.jpg",
+      "page": "https://www.coffscoast.com/plan-your-trip/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.beachfrontescapes.com.au/while-your-here/coffs-coast-sport-fishing-adventures/",
+      "status": 200,
+      "final_url": "https://www.beachfrontescapes.com.au/while-your-here/coffs-coast-sport-fishing-adventures/",
+      "bytes": 70770
+    },
+    {
+      "page": "https://www.coffscoastsportfishing.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://coffscoastsportfishing.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://www.coffscoastsportfishingadventures.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://www.coffscoastsportfishing.com/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://www.coffscoast.com/article/fishing-on-the-coffs-coast/",
+      "status": 200,
+      "final_url": "https://www.coffscoast.com/article/fishing-on-the-coffs-coast/",
+      "bytes": 194091
+    },
+    {
+      "page": "https://www.beachfrontescapes.com.au/awe-booking-check/",
+      "status": 200,
+      "final_url": "https://www.beachfrontescapes.com.au/enquire/",
+      "bytes": 80268
+    },
+    {
+      "page": "https://www.beachfrontescapes.com.au/coffs-coast-sport-fishing-adventures/",
+      "status": 200,
+      "final_url": "https://www.beachfrontescapes.com.au/while-your-here/coffs-coast-sport-fishing-adventures/",
+      "bytes": 70770
+    },
+    {
+      "page": "https://www.coffscoast.com/plan-your-trip/",
+      "status": 200,
+      "final_url": "https://www.coffscoast.com/plan-your-trip/",
+      "bytes": 173168
+    },
+    {
+      "page": "https://www.coffscoast.com/plan-your-trip/holiday-tips/visitor-information-services/",
+      "status": 200,
+      "final_url": "https://www.coffscoast.com/info/",
+      "bytes": 186098
+    },
+    {
+      "image": "https://www.beachfrontescapes.com.au/wp-content/uploads/2016/04/ccsp4.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.beachfrontescapes.com.au/wp-content/uploads/2016/04/facebook.png",
+      "error": "too small 12x26"
+    },
+    {
+      "image": "https://www.beachfrontescapes.com.au/wp-content/uploads/2016/04/twitter.png",
+      "error": "too small 26x21"
+    },
+    {
+      "image": "https://www.beachfrontescapes.com.au/wp-content/uploads/2016/04/googleplus.png",
+      "error": "too small 26x25"
+    },
+    {
+      "image": "https://www.beachfrontescapes.com.au/wp-content/uploads/2016/04/pintrest.png",
+      "error": "too small 20x26"
+    },
+    {
+      "image": "https://www.beachfrontescapes.com.au/wp-content/uploads/2016/04/ccsp4-640x430-300x201.jpg",
+      "error": "too small 300x201"
+    },
+    {
+      "dup": "https://www.beachfrontescapes.com.au/wp-content/uploads/2016/04/ccsp4-640x430-600x403.jpg"
+    },
+    {
+      "dup": "https://www.coffscoast.com//wp-content/uploads/2023/02/63eec2219f3376d0230f4455.jpg"
+    },
+    {
+      "dup": "https://www.coffscoast.com/wp-content/uploads/2025/07/Fire-Fly-Photography-216.jpg"
+    },
+    {
+      "dup": "https://www.coffscoast.com/wp-content/uploads/2025/07/Fire-Fly-Photography-154.jpg"
+    },
+    {
+      "dup": "https://www.coffscoast.com/wp-content/uploads/2025/07/Fire-Fly-Photography-191.jpg"
+    },
+    {
+      "dup": "https://www.coffscoast.com/wp-content/uploads/2025/07/Fire-Fly-Photography-76.jpg"
+    },
+    {
+      "dup": "https://www.coffscoast.com/wp-content/uploads/2025/07/Fire-Fly-Photography-84.jpg"
+    },
+    {
+      "dup": "https://www.coffscoast.com/wp-content/uploads/2025/07/Fire-Fly-Photography-119.jpg"
+    },
+    {
+      "dup": "https://www.coffscoast.com/wp-content/uploads/2025/07/Fire-Fly-Photography-25.jpg"
+    },
+    {
+      "dup": "https://www.coffscoast.com/wp-content/uploads/2022/09/Surfing_TLC_3069-scaled.jpg"
+    },
+    {
+      "dup": "https://www.coffscoast.com/wp-content/uploads/2023/02/63eec2219f3376d0230f4455.jpg"
+    },
+    {
+      "dup": "https://www.coffscoast.com/wp-content/uploads/2021/09/HWH_Horseriding_14062021_004-scaled.jpg"
+    },
+    {
+      "dup": "https://www.coffscoast.com//wp-content/uploads/2025/07/Fire-Fly-Photography-216-1536x1024.jpg"
+    },
+    {
+      "dup": "https://www.coffscoast.com/wp-content/uploads/2025/07/Fire-Fly-Photography-216-1536x1024.jpg"
+    },
+    {
+      "image": "https://www.coffscoast.com/wp-content/uploads/2025/07/Fire-Fly-Photography-216-300x200.jpg",
+      "error": "too small 300x200"
+    },
+    {
+      "dup": "https://www.coffscoast.com/wp-content/uploads/2025/07/Fire-Fly-Photography-216-768x512.jpg"
+    },
+    {
+      "dup": "https://www.coffscoast.com//wp-content/uploads/2025/07/Fire-Fly-Photography-154-1536x1024.jpg"
+    },
+    {
+      "dup": "https://www.coffscoast.com/wp-content/uploads/2025/07/Fire-Fly-Photography-154-1536x1024.jpg"
+    },
+    {
+      "image": "https://www.coffscoast.com/wp-content/uploads/2025/07/Fire-Fly-Photography-154-300x200.jpg",
+      "error": "too small 300x200"
+    },
+    {
+      "dup": "https://www.coffscoast.com/wp-content/uploads/2025/07/Fire-Fly-Photography-154-768x512.jpg"
+    },
+    {
+      "dup": "https://www.coffscoast.com//wp-content/uploads/2025/07/Fire-Fly-Photography-191-1536x1024.jpg"
+    },
+    {
+      "dup": "https://www.coffscoast.com/wp-content/uploads/2025/07/Fire-Fly-Photography-191-1536x1024.jpg"
+    },
+    {
+      "image": "https://www.coffscoast.com/wp-content/uploads/2025/07/Fire-Fly-Photography-191-300x200.jpg",
+      "error": "too small 300x200"
+    },
+    {
+      "dup": "https://www.coffscoast.com/wp-content/uploads/2025/07/Fire-Fly-Photography-191-768x512.jpg"
+    },
+    {
+      "dup": "https://www.coffscoast.com//wp-content/uploads/2025/07/Fire-Fly-Photography-76-1536x1024.jpg"
+    },
+    {
+      "dup": "https://www.coffscoast.com/wp-content/uploads/2025/07/Fire-Fly-Photography-76-1536x1024.jpg"
+    },
+    {
+      "image": "https://www.coffscoast.com/wp-content/uploads/2025/07/Fire-Fly-Photography-76-300x200.jpg",
+      "error": "too small 300x200"
+    },
+    {
+      "dup": "https://www.coffscoast.com/wp-content/uploads/2025/07/Fire-Fly-Photography-76-768x512.jpg"
+    },
+    {
+      "dup": "https://www.coffscoast.com//wp-content/uploads/2025/07/Fire-Fly-Photography-84-1536x1024.jpg"
+    },
+    {
+      "dup": "https://www.coffscoast.com/wp-content/uploads/2025/07/Fire-Fly-Photography-84-1536x1024.jpg"
+    },
+    {
+      "image": "https://www.coffscoast.com/wp-content/uploads/2025/07/Fire-Fly-Photography-84-300x200.jpg",
+      "error": "too small 300x200"
+    },
+    {
+      "dup": "https://www.coffscoast.com/wp-content/uploads/2025/07/Fire-Fly-Photography-84-768x512.jpg"
+    },
+    {
+      "dup": "https://www.coffscoast.com//wp-content/uploads/2025/07/Fire-Fly-Photography-119-1536x1024.jpg"
+    },
+    {
+      "dup": "https://www.coffscoast.com/wp-content/uploads/2025/07/Fire-Fly-Photography-119-1536x1024.jpg"
+    },
+    {
+      "image": "https://www.coffscoast.com/wp-content/uploads/2025/07/Fire-Fly-Photography-119-300x200.jpg",
+      "error": "too small 300x200"
+    },
+    {
+      "dup": "https://www.coffscoast.com/wp-content/uploads/2025/07/Fire-Fly-Photography-119-768x512.jpg"
+    },
+    {
+      "dup": "https://www.coffscoast.com//wp-content/uploads/2025/07/Fire-Fly-Photography-25-1536x1024.jpg"
+    },
+    {
+      "dup": "https://www.coffscoast.com/wp-content/uploads/2025/07/Fire-Fly-Photography-25-1536x1024.jpg"
+    },
+    {
+      "image": "https://www.coffscoast.com/wp-content/uploads/2025/07/Fire-Fly-Photography-25-300x200.jpg",
+      "error": "too small 300x200"
+    },
+    {
+      "dup": "https://www.coffscoast.com/wp-content/uploads/2025/07/Fire-Fly-Photography-25-768x512.jpg"
+    },
+    {
+      "dup": "https://www.coffscoast.com/wp-content/uploads/2022/09/Surfing_TLC_3069.jpg"
+    },
+    {
+      "dup": "https://www.coffscoast.com/wp-content/uploads/2022/09/Surfing_TLC_3069-1024x683.jpg"
+    },
+    {
+      "dup": "https://www.coffscoast.com/wp-content/uploads/2022/09/Surfing_TLC_3069-768x512.jpg"
+    },
+    {
+      "dup": "https://www.coffscoast.com/wp-content/uploads/2022/09/Surfing_TLC_3069-1536x1024.jpg"
+    },
+    {
+      "dup": "https://www.coffscoast.com/wp-content/uploads/2022/09/Surfing_TLC_3069-2048x1365.jpg"
+    },
+    {
+      "image": "https://www.coffscoast.com/wp-content/uploads/2023/02/63eec2219f3376d0230f4455-300x225.jpg",
+      "error": "too small 300x225"
+    },
+    {
+      "dup": "https://www.coffscoast.com/wp-content/uploads/2023/02/63eec2219f3376d0230f4455-1367x1024.jpg"
+    },
+    {
+      "dup": "https://www.coffscoast.com/wp-content/uploads/2023/02/63eec2219f3376d0230f4455-1536x1150.jpg"
+    },
+    {
+      "dup": "https://www.coffscoast.com/wp-content/uploads/2021/09/HWH_Horseriding_14062021_004.jpg"
+    },
+    {
+      "dup": "https://www.coffscoast.com/wp-content/uploads/2021/09/HWH_Horseriding_14062021_004-1024x683.jpg"
+    },
+    {
+      "dup": "https://www.coffscoast.com/wp-content/uploads/2021/09/HWH_Horseriding_14062021_004-768x512.jpg"
+    },
+    {
+      "dup": "https://www.coffscoast.com/wp-content/uploads/2021/09/HWH_Horseriding_14062021_004-1536x1025.jpg"
+    },
+    {
+      "dup": "https://www.coffscoast.com/wp-content/uploads/2021/09/HWH_Horseriding_14062021_004-2048x1366.jpg"
+    },
+    {
+      "image": "https://www.beachfrontescapes.com.au/wp-content/plugins/gravityforms/images/calendar.png",
+      "error": "too small 17x16"
+    }
+  ]
+}

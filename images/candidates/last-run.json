@@ -1,5 +1,5 @@
 {
-  "finished_at": "2026-11-04T04:17:50.401Z",
+  "finished_at": "2026-11-04T04:25:31.731Z",
   "summary": [
     {
       "slug": "r4-byron-bay-charters",
@@ -64,7 +64,7 @@
     {
       "slug": "r4-fish-port-stephens-estuary-charters",
       "candidates": 0,
-      "pages": 11
+      "pages": 4
     },
     {
       "slug": "r4-hammerhead-charters-nelson-bay",
@@ -164,12 +164,12 @@
     {
       "slug": "r4-deep-blue-charters-sydney",
       "candidates": 0,
-      "pages": 11
+      "pages": 5
     },
     {
       "slug": "r4-fishabout-tours-sydney",
       "candidates": 0,
-      "pages": 12
+      "pages": 7
     },
     {
       "slug": "r4-reel-adventure-fishing-sydney",
@@ -268,6 +268,21 @@
     },
     {
       "slug": "r4-disc-coffs-3",
+      "candidates": 0,
+      "pages": 3
+    },
+    {
+      "slug": "r4-lead-coffs-coast-sport-fishing",
+      "candidates": 16,
+      "pages": 10
+    },
+    {
+      "slug": "r4-lead-calm-water-dates",
+      "candidates": 0,
+      "pages": 6
+    },
+    {
+      "slug": "r4-coffs-profiles",
       "candidates": 0,
       "pages": 3
     }

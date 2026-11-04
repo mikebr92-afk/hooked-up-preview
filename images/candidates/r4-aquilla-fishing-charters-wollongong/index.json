@@ -1,7 +1,7 @@
 {
   "slug": "r4-aquilla-fishing-charters-wollongong",
   "request_hash": "2c92c844586f",
-  "collected_at": "2026-11-04T04:15:54.647Z",
+  "collected_at": "2026-11-04T04:23:17.807Z",
   "pages_fetched": [
     "https://www.aquillacharters.com.au/",
     "https://www.aquillacharters.com.au/per-person-charters",
@@ -58,7 +58,7 @@
       "page": "https://www.visitwollongong.com.au/operators/transport-and-tours/tour/aquilla-fishing-charters/",
       "status": 200,
       "final_url": "https://www.visitwollongong.com.au/operators/transport-and-tours/tour/aquilla-fishing-charters/",
-      "bytes": 239522
+      "bytes": 239516
     },
     {
       "page": "https://www.aquillacharters.com.au/search",

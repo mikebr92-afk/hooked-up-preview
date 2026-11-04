@@ -1,7 +1,7 @@
 {
   "slug": "r4-lead-nrs-tourism",
   "request_hash": "e077b78be75d",
-  "collected_at": "2026-11-04T04:17:10.713Z",
+  "collected_at": "2026-11-04T04:24:19.760Z",
   "pages_fetched": [
     "https://www.visitnsw.com/things-to-do/tours/northern-rivers-sportfishing",
     "https://www.fishfriender.com/businesses/fdNiIN0yR/Simon-FITZPATRICK-Northern-Rivers-Sportfishing-fdNiIN0yR?_locale=en",
@@ -27,7 +27,7 @@
       "page": "https://theguide.tab.travel/LVTUR/northern-rivers-sportfishing",
       "status": 200,
       "final_url": "https://theguide.tab.travel/LVTUR/northern-rivers-sportfishing/",
-      "bytes": 24215
+      "bytes": 24207
     },
     {
       "page": "https://northernriverssportfishing.com.au/charters-2/",

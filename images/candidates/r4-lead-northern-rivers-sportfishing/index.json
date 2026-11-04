@@ -1,7 +1,7 @@
 {
   "slug": "r4-lead-northern-rivers-sportfishing",
   "request_hash": "4532686854dd",
-  "collected_at": "2026-11-04T04:17:00.930Z",
+  "collected_at": "2026-11-04T04:24:10.801Z",
   "pages_fetched": [
     "https://northernriverssportfishing.com.au/trip-reports-blog/",
     "https://northernriverssportfishing.com.au/locations/",
@@ -273,7 +273,7 @@
     },
     {
       "image": "https://i0.wp.com/northernriverssportfishing.com.au/wp-content/uploads/2023/08/mick1.jpg?w=313&#038;h=313&#038;crop=1&#038;ssl=1",
-      "error": "HTTP 400"
+      "error": "too small 313x313"
     },
     {
       "image": "https://i0.wp.com/northernriverssportfishing.com.au/wp-content/uploads/2023/08/mick3.jpg?w=313&#038;h=312&#038;ssl=1",
@@ -329,8 +329,7 @@
       "error": "too small 509x509"
     },
     {
-      "image": "https://i0.wp.com/northernriverssportfishing.com.au/wp-content/uploads/2023/08/322707393_1154933288748178_814732651954553648_n.jpg?w=1034&ssl=1",
-      "error": "HTTP 400"
+      "dup": "https://i0.wp.com/northernriverssportfishing.com.au/wp-content/uploads/2023/08/322707393_1154933288748178_814732651954553648_n.jpg?w=1034&ssl=1"
     }
   ]
 }

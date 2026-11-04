@@ -1,7 +1,7 @@
 {
   "slug": "r4-cushy-fishing-charters",
   "request_hash": "999dbe15d21f",
-  "collected_at": "2026-11-04T04:13:38.446Z",
+  "collected_at": "2026-11-04T04:21:30.963Z",
   "pages_fetched": [
     "https://cushyfishingcharters.com.au/",
     "https://cushyfishingcharters.com.au/fishing-charters/",
@@ -38,7 +38,7 @@
       "page": "https://cushyfishingcharters.com.au/contact-us/",
       "status": 200,
       "final_url": "https://cushyfishingcharters.com.au/contact-us/",
-      "bytes": 77100
+      "bytes": 77099
     },
     {
       "page": "https://cushyfishingcharters.com.au/commercial-work/",

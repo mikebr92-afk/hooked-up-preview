@@ -1,7 +1,7 @@
 {
   "slug": "r4-watch-tourism",
   "request_hash": "1c2c88c09b4a",
-  "collected_at": "2026-11-04T04:17:20.584Z",
+  "collected_at": "2026-11-04T04:24:27.777Z",
   "pages_fetched": [
     "https://www.visitnsw.com/things-to-do/tours/cushy-fishing-charters-tweed-heads",
     "https://www.portstephens.com.au/products/fish-port-stephens-estuary-charters",
@@ -34,7 +34,7 @@
       "page": "https://agfg.com.au/attraction/central-coast-reef-game-fishing-charters-26535",
       "status": 403,
       "final_url": "https://agfg.com.au/attraction/central-coast-reef-game-fishing-charters-26535",
-      "bytes": 5186
+      "bytes": 5189
     },
     {
       "page": "https://playsport.com/fiveislandcharters_ag_6a487335",

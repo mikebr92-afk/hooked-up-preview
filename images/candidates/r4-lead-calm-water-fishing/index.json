@@ -1,7 +1,7 @@
 {
   "slug": "r4-lead-calm-water-fishing",
   "request_hash": "c4b81aa07b1f",
-  "collected_at": "2026-11-04T04:17:46.336Z",
+  "collected_at": "2026-11-04T04:24:41.407Z",
   "pages_fetched": [
     "https://www.australias.guide/nsw/attraction-tour/tweed/pottsville/calm-water-fishing/",
     "https://www.calmwaterfishing.com.au/",
@@ -229,7 +229,7 @@
       "page": "https://www.calmwaterfishing.com/gift-card",
       "status": 200,
       "final_url": "https://www.calmwaterfishing.com/gift-card",
-      "bytes": 1431520
+      "bytes": 1431568
     },
     {
       "dup": "https://australiasguide.com/wp-content/uploads/outback_road.jpg"

@@ -1,7 +1,7 @@
 {
   "slug": "r4-sea-buoys-ocean-charters",
   "request_hash": "cdb3d2a8ab4f",
-  "collected_at": "2026-11-04T04:12:13.350Z",
+  "collected_at": "2026-11-04T04:20:13.268Z",
   "pages_fetched": [
     "https://seabuoys.com.au/",
     "https://seabuoys.com.au/offshore-fishing/",
@@ -22,31 +22,31 @@
       "page": "https://seabuoys.com.au/",
       "status": 200,
       "final_url": "https://seabuoys.com.au/",
-      "bytes": 192979
+      "bytes": 194303
     },
     {
       "page": "https://seabuoys.com.au/offshore-fishing/",
       "status": 200,
       "final_url": "https://seabuoys.com.au/offshore-fishing/",
-      "bytes": 119661
+      "bytes": 120050
     },
     {
       "page": "https://seabuoys.com.au/day-fishing-lord-howe-island/",
       "status": 200,
       "final_url": "https://seabuoys.com.au/day-fishing-lord-howe-island/",
-      "bytes": 113040
+      "bytes": 113415
     },
     {
       "page": "https://seabuoys.com.au/about/",
       "status": 200,
       "final_url": "https://seabuoys.com.au/about/",
-      "bytes": 114488
+      "bytes": 114855
     },
     {
       "page": "https://seabuoys.com.au/faqs/",
       "status": 200,
       "final_url": "https://seabuoys.com.au/faqs/",
-      "bytes": 110048
+      "bytes": 110486
     },
     {
       "page": "https://lordhoweisland.info/experiences/tours/sea-buoys-ocean-charters/",
@@ -58,7 +58,7 @@
       "page": "https://seabuoys.com.au/contact/",
       "status": 200,
       "final_url": "https://seabuoys.com.au/contact/",
-      "bytes": 138311
+      "bytes": 138705
     },
     {
       "page": "https://lordhoweisland.info/experiences/tours/",
@@ -82,7 +82,7 @@
       "page": "https://lordhoweisland.info/about/",
       "status": 200,
       "final_url": "https://lordhoweisland.info/about/",
-      "bytes": 122156
+      "bytes": 122183
     },
     {
       "page": "https://lordhoweisland.info/about/island-directory/",
