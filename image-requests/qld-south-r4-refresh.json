@@ -1,0 +1,254 @@
+{
+ "requests": [
+  {
+   "slug": "hooked-on-1770-agnes-water",
+   "pages": [
+    "https://www.1770tours.com/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "brisbane-fishing-tour",
+   "pages": [
+    "https://www.brisbanefishingtour.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "fish-moreton",
+   "pages": [
+    "https://www.fishmoreton.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "frenzy-charters-brisbane",
+   "pages": [
+    "https://www.frenzycharters.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "moreton-island-fishing-charters",
+   "pages": [
+    "https://moretonislandfishingcharters.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "bundaberg-river-fishing-charters",
+   "pages": [
+    "https://bundabergriverfishing.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "truansea-charters-bundaberg",
+   "pages": [
+    "https://truansea.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "eastern-voyager-gladstone",
+   "pages": [
+    "https://easternvoyager.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "mv-mikat-charters-gladstone",
+   "pages": [
+    "https://mikatcharters.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "night-crossing-fishing-adventures-gladstone",
+   "pages": [
+    "https://nightcrossing.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "bks-gold-coast-fishing-charters",
+   "pages": [
+    "https://bksfishing.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "fish-the-deep-charters",
+   "pages": [
+    "https://www.fishthedeep.com/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "hooker-1-fishing-charters-gold-coast",
+   "pages": [
+    "https://goldcoastfishingtrips.net.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "top-gear-fishing-charters",
+   "pages": [
+    "https://topgearfishingcharters.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "true-blue-fishing-charters",
+   "pages": [
+    "https://truebluefishing.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "hervey-bay-fly-and-sportfishing",
+   "pages": [
+    "https://herveybaysportfishing.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "saltwater-playground-hervey-bay",
+   "pages": [
+    "https://www.saltwaterplayground.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "keely-rose-fishing-charters",
+   "pages": [
+    "https://keelyrosefishingcharters.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "deep-sea-fishing-co-noosa",
+   "pages": [
+    "https://www.deepseafishingco.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "noosa-bluewater-charters",
+   "pages": [
+    "https://noosabluefishing.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "saltys-fishing-charters-caloundra",
+   "pages": [
+    "https://saltyfishingcharters.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "what-a-catch-deep-sea-fishing",
+   "pages": [
+    "https://whatacatchfishing.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "rainbow-beach-fishing-charters",
+   "pages": [
+    "https://www.rainbowbeachfishing.com/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "double-threat-charters-yeppoon",
+   "pages": [
+    "https://www.doublethreatchartersyeppoon.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "kanimbla-charters-yeppoon",
+   "pages": [
+    "https://www.kanimblacharters.net.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  }
+ ]
+}
