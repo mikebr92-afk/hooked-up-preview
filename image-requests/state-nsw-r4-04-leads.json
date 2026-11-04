@@ -1,0 +1,4 @@
+{"requests":[
+ {"slug":"r4-lead-calm-water-fishing","pages":["https://www.australias.guide/nsw/attraction-tour/tweed/pottsville/calm-water-fishing/","https://www.calmwaterfishing.com.au/","https://calmwaterfishing.com.au/","https://www.calmwaterfishing.com/"],"text":true,"max":16,"follow":true,"force":true},
+ {"slug":"r4-disc-coffs-3","pages":["https://www.coffscoastholidayparks.com.au/fishing-on-the-coffs-coast/","https://www.coffscoast.com.au/?p=552","https://www.australias.guide/nsw/attraction-tour/tweed/south-murwillumbah/northern-rivers-sportfishing/"],"text":true,"max":0,"follow":false,"force":true}
+]}
