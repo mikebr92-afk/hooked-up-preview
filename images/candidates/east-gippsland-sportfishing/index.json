@@ -1,0 +1,192 @@
+{
+  "slug": "east-gippsland-sportfishing",
+  "request_hash": "3c1b19c4b461",
+  "collected_at": "2026-11-04T04:03:37.116Z",
+  "pages_fetched": [
+    "https://www.visiteastgippsland.com.au/operator/east-gippsland-sportfishing/",
+    "https://www.eastgippslandsportfishing.com.au/",
+    "https://eastgippslandsportfishing.com/",
+    "https://www.visiteastgippsland.com.au/trip-planner/",
+    "https://www.visiteastgippsland.com.au/gallery/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1600,
+      "height": 1200,
+      "original": "1600x1200",
+      "source": "https://assets.atdw-online.com.au/images/ea193ec9761b7bbfe914c3f3f3038635.jpeg?rect=0%2C2%2C1600%2C1200&w=1600&h=1200&rot=360&q=eyJ0eXBlIjoibGlzdGluZyIsImxpc3RpbmdJZCI6IjYyZjViMzExNjE4MDc1NWQyNzdjMGU0NCIsImRpc3RyaWJ1dG9ySWQiOiI2ODM5NDE2N2FhYmY0MGRlMTYyN2VhYjUiLCJhcGlrZXlJZCI6IjY4Mzk0MTY3YWFiZjQwZGUxNjI3ZWFiOCJ9",
+      "page": "https://www.visiteastgippsland.com.au/operator/east-gippsland-sportfishing/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 2000,
+      "height": 1335,
+      "original": "6479x4324",
+      "source": "https://www.visiteastgippsland.com.au/wp-content/uploads/2025/07/The-view-of-the-Snowy-River-from-Mckillops-Bridge.jpg",
+      "page": "https://www.visiteastgippsland.com.au/operator/east-gippsland-sportfishing/",
+      "priority": true
+    },
+    {
+      "file": "c03.webp",
+      "width": 1987,
+      "height": 2000,
+      "original": "3667x3691",
+      "source": "https://www.visiteastgippsland.com.au/wp-content/uploads/2025/08/Omeo-Valley.jpg",
+      "page": "https://www.visiteastgippsland.com.au/operator/east-gippsland-sportfishing/",
+      "priority": true
+    },
+    {
+      "file": "c04.webp",
+      "width": 2000,
+      "height": 1333,
+      "original": "5184x3456",
+      "source": "https://www.visiteastgippsland.com.au/wp-content/uploads/2025/06/AerialLakesEntrance2.jpg",
+      "page": "https://www.visiteastgippsland.com.au/operator/east-gippsland-sportfishing/",
+      "priority": true
+    },
+    {
+      "file": "c05.webp",
+      "width": 1983,
+      "height": 2000,
+      "original": "3650x3681",
+      "source": "https://www.visiteastgippsland.com.au/wp-content/uploads/2025/07/Lake-Barracoota-Croajingolong-National-Park.jpg",
+      "page": "https://www.visiteastgippsland.com.au/operator/east-gippsland-sportfishing/",
+      "priority": true
+    },
+    {
+      "file": "c06.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "3001x2251",
+      "source": "https://assets.atdw-online.com.au/images/25e6a883c3575aded72aeddf76307e4b.jpeg?rect=0%2C935%2C3001%2C2251&#038;w=2048&#038;h=1536&#038;rot=360&#038;q=eyJ0eXBlIjoibGlzdGluZyIsImxpc3RpbmdJZCI6IjYyZjViMzExNjE4MDc1NWQyNzdjMGU0NCIsImRpc3RyaWJ1dG9ySWQiOiI2ODM5NDE2N2FhYmY0MGRlMTYyN2VhYjUiLCJhcGlrZXlJZCI6IjY4Mzk0MTY3YWFiZjQwZGUxNjI3ZWFiOCJ9",
+      "page": "https://www.visiteastgippsland.com.au/operator/east-gippsland-sportfishing/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "3024x2268",
+      "source": "https://assets.atdw-online.com.au/images/a40dd8f9857b2802fe3c15b402490c3c.jpeg?rect=0%2C882%2C3024%2C2268&#038;w=2048&#038;h=1536&#038;rot=360&#038;q=eyJ0eXBlIjoibGlzdGluZyIsImxpc3RpbmdJZCI6IjYyZjViMzExNjE4MDc1NWQyNzdjMGU0NCIsImRpc3RyaWJ1dG9ySWQiOiI2ODM5NDE2N2FhYmY0MGRlMTYyN2VhYjUiLCJhcGlrZXlJZCI6IjY4Mzk0MTY3YWFiZjQwZGUxNjI3ZWFiOCJ9",
+      "page": "https://www.visiteastgippsland.com.au/operator/east-gippsland-sportfishing/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "3024x2268",
+      "source": "https://assets.atdw-online.com.au/images/de640f2140e610a803c8bdc813cc8780.jpeg?rect=0%2C882%2C3024%2C2268&#038;w=2048&#038;h=1536&#038;rot=360&#038;q=eyJ0eXBlIjoibGlzdGluZyIsImxpc3RpbmdJZCI6IjYyZjViMzExNjE4MDc1NWQyNzdjMGU0NCIsImRpc3RyaWJ1dG9ySWQiOiI2ODM5NDE2N2FhYmY0MGRlMTYyN2VhYjUiLCJhcGlrZXlJZCI6IjY4Mzk0MTY3YWFiZjQwZGUxNjI3ZWFiOCJ9",
+      "page": "https://www.visiteastgippsland.com.au/operator/east-gippsland-sportfishing/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2951x2213",
+      "source": "https://assets.atdw-online.com.au/images/544eb3dfa057a657901743f5dc717bb9.jpeg?rect=0%2C564%2C2951%2C2213&#038;w=2048&#038;h=1536&#038;rot=360&#038;q=eyJ0eXBlIjoibGlzdGluZyIsImxpc3RpbmdJZCI6IjYyZjViMzExNjE4MDc1NWQyNzdjMGU0NCIsImRpc3RyaWJ1dG9ySWQiOiI2ODM5NDE2N2FhYmY0MGRlMTYyN2VhYjUiLCJhcGlrZXlJZCI6IjY4Mzk0MTY3YWFiZjQwZGUxNjI3ZWFiOCJ9",
+      "page": "https://www.visiteastgippsland.com.au/operator/east-gippsland-sportfishing/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2560x1707",
+      "source": "https://www.visiteastgippsland.com.au/wp-content/uploads/2025/07/metung-hot-springs-bathing-barrels-scaled.jpg",
+      "page": "https://www.visiteastgippsland.com.au/operator/east-gippsland-sportfishing/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2560x1707",
+      "source": "https://www.visiteastgippsland.com.au/wp-content/uploads/2025/08/Sodafish-Lakes-Entrance-5-scaled.jpg",
+      "page": "https://www.visiteastgippsland.com.au/operator/east-gippsland-sportfishing/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 2000,
+      "height": 1125,
+      "original": "2560x1440",
+      "source": "https://www.visiteastgippsland.com.au/wp-content/uploads/2025/08/Captains-Cove-Waterfront-Apartments-Paynesville-2-scaled.jpg",
+      "page": "https://www.visiteastgippsland.com.au/operator/east-gippsland-sportfishing/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2560x1707",
+      "source": "https://www.visiteastgippsland.com.au/wp-content/uploads/2025/08/Raymond-Island-Koala-Trail-22-scaled.jpg",
+      "page": "https://www.visiteastgippsland.com.au/operator/east-gippsland-sportfishing/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2560x1707",
+      "source": "https://www.visiteastgippsland.com.au/wp-content/uploads/2025/09/Forge-Theatre-Bairnsdale-Rogue-2-scaled.jpg",
+      "page": "https://www.visiteastgippsland.com.au/operator/east-gippsland-sportfishing/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1414,
+      "height": 2000,
+      "original": "1810x2560",
+      "source": "https://www.visiteastgippsland.com.au/wp-content/uploads/2026/09/Swifts-Creek-Surrounds-Walking-Map-scaled.jpg",
+      "page": "https://www.visiteastgippsland.com.au/operator/east-gippsland-sportfishing/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1334,
+      "height": 2000,
+      "original": "1707x2560",
+      "source": "https://www.visiteastgippsland.com.au/wp-content/uploads/2025/08/Sardine-Dining-Paynesville-30-scaled.jpg",
+      "page": "https://www.visiteastgippsland.com.au/operator/east-gippsland-sportfishing/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.visiteastgippsland.com.au/operator/east-gippsland-sportfishing/",
+      "status": 200,
+      "final_url": "https://www.visiteastgippsland.com.au/operator/east-gippsland-sportfishing/",
+      "bytes": 297881
+    },
+    {
+      "page": "https://www.eastgippslandsportfishing.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://eastgippslandsportfishing.com/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://www.visiteastgippsland.com.au/trip-planner/",
+      "status": 200,
+      "final_url": "https://www.visiteastgippsland.com.au/trip-planner/",
+      "bytes": 279206
+    },
+    {
+      "page": "https://www.visiteastgippsland.com.au/gallery/",
+      "status": 200,
+      "final_url": "https://www.visiteastgippsland.com.au/gallery/",
+      "bytes": 307799
+    },
+    {
+      "dup": "https://assets.atdw-online.com.au/images/ea193ec9761b7bbfe914c3f3f3038635.jpeg?rect=0%2C2%2C1600%2C1200&#038;w=1600&#038;h=1200&#038;rot=360&#038;q=eyJ0eXBlIjoibGlzdGluZyIsImxpc3RpbmdJZCI6IjYyZjViMzExNjE4MDc1NWQyNzdjMGU0NCIsImRpc3RyaWJ1dG9ySWQiOiI2ODM5NDE2N2FhYmY0MGRlMTYyN2VhYjUiLCJhcGlrZXlJZCI6IjY4Mzk0MTY3YWFiZjQwZGUxNjI3ZWFiOCJ9"
+    },
+    {
+      "dup": "https://www.visiteastgippsland.com.au/wp-content/uploads/2025/06/AerialLakesEntrance2-scaled.jpg"
+    }
+  ]
+}

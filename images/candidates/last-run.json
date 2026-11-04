@@ -1,5 +1,5 @@
 {
-  "finished_at": "2026-11-04T04:01:47.969Z",
+  "finished_at": "2026-11-04T04:03:37.117Z",
   "summary": [
     {
       "slug": "southern-fly-fishing-adventures",
@@ -59,8 +59,17 @@
     },
     {
       "slug": "gvffc-pages",
+      "skipped": true
+    },
+    {
+      "slug": "mako-fishing-charters",
       "candidates": 0,
-      "pages": 9
+      "pages": 1
+    },
+    {
+      "slug": "east-gippsland-sportfishing",
+      "candidates": 16,
+      "pages": 5
     }
   ]
 }

@@ -1,0 +1,15 @@
+{
+  "slug": "mako-fishing-charters",
+  "request_hash": "e281cc3c3149",
+  "collected_at": "2026-11-04T04:03:05.626Z",
+  "pages_fetched": [
+    "http://www.makofishingcharters.com/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "http://www.makofishingcharters.com/",
+      "error": "fetch failed"
+    }
+  ]
+}
