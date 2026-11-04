@@ -1,0 +1,94 @@
+{
+  "slug": "r4-wild-west-charters",
+  "request_hash": "1de8fdd15cba",
+  "collected_at": "2026-11-04T03:55:42.569Z",
+  "pages_fetched": [
+    "https://www.wildwestcharters.com.au/",
+    "https://wildwestcharters.com.au/",
+    "https://australian.rezdy.com/view/PYSFSK",
+    "https://developmentwa.com.au/projects/redevelopment/elizabeth-quay/wild-west-charters",
+    "https://wildwestcharters.com.au/about/",
+    "https://wildwestcharters.com.au/tours/private-charters/",
+    "https://wildwestcharters.com.au/tours/swan-river-adventure-tour/",
+    "https://wildwestcharters.com.au/wildlife/",
+    "https://wildwestcharters.com.au/contact/",
+    "https://wildwestcharters.com.au/zh-hans/",
+    "https://wildwestcharters.com.au/boats/",
+    "https://wildwestcharters.com.au/tours/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.wildwestcharters.com.au/",
+      "status": 200,
+      "final_url": "https://wildwestcharters.com.au/",
+      "bytes": 160556
+    },
+    {
+      "page": "https://wildwestcharters.com.au/",
+      "status": 200,
+      "final_url": "https://wildwestcharters.com.au/",
+      "bytes": 160556
+    },
+    {
+      "page": "https://australian.rezdy.com/view/PYSFSK",
+      "status": 403,
+      "final_url": "https://australian.rezdy.com/view/PYSFSK",
+      "bytes": 5186
+    },
+    {
+      "page": "https://developmentwa.com.au/projects/redevelopment/elizabeth-quay/wild-west-charters",
+      "status": 200,
+      "final_url": "https://developmentwa.com.au/projects/redevelopment/elizabeth-quay/wild-west-charters",
+      "bytes": 173933
+    },
+    {
+      "page": "https://wildwestcharters.com.au/about/",
+      "status": 200,
+      "final_url": "https://wildwestcharters.com.au/about/",
+      "bytes": 125823
+    },
+    {
+      "page": "https://wildwestcharters.com.au/tours/private-charters/",
+      "status": 200,
+      "final_url": "https://wildwestcharters.com.au/tours/private-charters/",
+      "bytes": 123079
+    },
+    {
+      "page": "https://wildwestcharters.com.au/tours/swan-river-adventure-tour/",
+      "status": 200,
+      "final_url": "https://wildwestcharters.com.au/tours/swan-river-adventure-tour/",
+      "bytes": 126880
+    },
+    {
+      "page": "https://wildwestcharters.com.au/wildlife/",
+      "status": 200,
+      "final_url": "https://wildwestcharters.com.au/wildlife/",
+      "bytes": 125916
+    },
+    {
+      "page": "https://wildwestcharters.com.au/contact/",
+      "status": 200,
+      "final_url": "https://wildwestcharters.com.au/contact/",
+      "bytes": 124105
+    },
+    {
+      "page": "https://wildwestcharters.com.au/zh-hans/",
+      "status": 200,
+      "final_url": "https://wildwestcharters.com.au/zh-hans/",
+      "bytes": 139326
+    },
+    {
+      "page": "https://wildwestcharters.com.au/boats/",
+      "status": 200,
+      "final_url": "https://wildwestcharters.com.au/private-charter/",
+      "bytes": 126209
+    },
+    {
+      "page": "https://wildwestcharters.com.au/tours/",
+      "status": 200,
+      "final_url": "https://wildwestcharters.com.au/swan-river-tours/",
+      "bytes": 109850
+    }
+  ]
+}

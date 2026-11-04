@@ -1,0 +1,45 @@
+{
+  "slug": "r4-blue-juice-2",
+  "request_hash": "599afdf880a6",
+  "collected_at": "2026-11-04T03:55:50.167Z",
+  "pages_fetched": [
+    "https://visitfremantle.com.au/blue-juice-charters",
+    "https://www.waholidayguide.com.au/blue-juice-charters",
+    "https://www.wavisitorcentre.com.au/blue-juice-charters",
+    "https://bluejuicecharters.rezdy.com/357580/rock-lobster-tour?iframe=1",
+    "https://www.tripadvisor.com/AttractionProductReview-g1572375-d19347916-Abrolhos_Islands_3_day_fishing_charter-Hillarys_Joondalup_Greater_Perth_Western_A.html"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://visitfremantle.com.au/blue-juice-charters",
+      "status": 403,
+      "final_url": "https://visitfremantle.com.au/blue-juice-charters",
+      "bytes": 5842
+    },
+    {
+      "page": "https://www.waholidayguide.com.au/blue-juice-charters",
+      "status": 200,
+      "final_url": "https://www.waholidayguide.com.au/western-australia-tours-things-to-do/browse-tours/western-australia-cruise-boat-hire-kayak",
+      "bytes": 415724
+    },
+    {
+      "page": "https://www.wavisitorcentre.com.au/blue-juice-charters",
+      "status": 404,
+      "final_url": "https://www.wavisitorcentre.com.au/blue-juice-charters",
+      "bytes": 40858
+    },
+    {
+      "page": "https://bluejuicecharters.rezdy.com/357580/rock-lobster-tour?iframe=1",
+      "status": 403,
+      "final_url": "https://bluejuicecharters.rezdy.com/357580/rock-lobster-tour?iframe=1",
+      "bytes": 5186
+    },
+    {
+      "page": "https://www.tripadvisor.com/AttractionProductReview-g1572375-d19347916-Abrolhos_Islands_3_day_fishing_charter-Hillarys_Joondalup_Greater_Perth_Western_A.html",
+      "status": 403,
+      "final_url": "https://www.tripadvisor.com/AttractionProductReview-g1572375-d19347916-Abrolhos_Islands_3_day_fishing_charter-Hillarys_Joondalup_Greater_Perth_Western_A.html",
+      "bytes": 775
+    }
+  ]
+}

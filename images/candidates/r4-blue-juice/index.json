@@ -1,7 +1,7 @@
 {
   "slug": "r4-blue-juice",
   "request_hash": "e6be088d7b9a",
-  "collected_at": "2026-11-04T03:52:16.951Z",
+  "collected_at": "2026-11-04T03:56:59.148Z",
   "pages_fetched": [
     "https://www.bluejuicecharters.com.au/",
     "https://bluejuicecharters.rezdy.com/catalog/74489/all-charters"
@@ -12,13 +12,13 @@
       "page": "https://www.bluejuicecharters.com.au/",
       "status": 200,
       "final_url": "https://www.bluejuicecharters.com.au/",
-      "bytes": 27544
+      "bytes": 27378
     },
     {
       "page": "https://bluejuicecharters.rezdy.com/catalog/74489/all-charters",
       "status": 403,
       "final_url": "https://bluejuicecharters.rezdy.com/catalog/74489/all-charters",
-      "bytes": 5185
+      "bytes": 5186
     }
   ]
 }

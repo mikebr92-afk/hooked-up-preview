@@ -1,0 +1,45 @@
+{
+  "slug": "r4-profiles",
+  "request_hash": "e30893642e8e",
+  "collected_at": "2026-11-04T03:55:52.925Z",
+  "pages_fetched": [
+    "https://www.tripadvisor.com.au/Attraction_Review-g255102-d2234834-Reviews-Absolute_Ocean_Charters-Broome_Kimberley_Region_Western_Australia.html",
+    "https://www.westernaustralia.com/au/tour/absolute-ocean-charters/56b268f02880253d74c5107f",
+    "https://www.tripadvisor.com.au/Attraction_Review-g488342-d6580612-Reviews-Blue_Horizon_Fishing_Charters-Exmouth_Western_Australia.html",
+    "https://www.tripadvisor.com.au/Attraction_Review-g255365-d20939645-Reviews-Offshore_Charters_WA-Geraldton_Western_Australia.html",
+    "https://www.tripadvisor.com/Attraction_Review-g285726-d3957005-Reviews-Apache_Charters-Fremantle_Greater_Perth_Western_Australia.html"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.tripadvisor.com.au/Attraction_Review-g255102-d2234834-Reviews-Absolute_Ocean_Charters-Broome_Kimberley_Region_Western_Australia.html",
+      "status": 403,
+      "final_url": "https://www.tripadvisor.com.au/Attraction_Review-g255102-d2234834-Reviews-Absolute_Ocean_Charters-Broome_Kimberley_Region_Western_Australia.html",
+      "bytes": 778
+    },
+    {
+      "page": "https://www.westernaustralia.com/au/tour/absolute-ocean-charters/56b268f02880253d74c5107f",
+      "status": 200,
+      "final_url": "https://www.westernaustralia.com/au/tour/absolute-ocean-charters/56b268f02880253d74c5107f",
+      "bytes": 1419682
+    },
+    {
+      "page": "https://www.tripadvisor.com.au/Attraction_Review-g488342-d6580612-Reviews-Blue_Horizon_Fishing_Charters-Exmouth_Western_Australia.html",
+      "status": 403,
+      "final_url": "https://www.tripadvisor.com.au/Attraction_Review-g488342-d6580612-Reviews-Blue_Horizon_Fishing_Charters-Exmouth_Western_Australia.html",
+      "bytes": 778
+    },
+    {
+      "page": "https://www.tripadvisor.com.au/Attraction_Review-g255365-d20939645-Reviews-Offshore_Charters_WA-Geraldton_Western_Australia.html",
+      "status": 403,
+      "final_url": "https://www.tripadvisor.com.au/Attraction_Review-g255365-d20939645-Reviews-Offshore_Charters_WA-Geraldton_Western_Australia.html",
+      "bytes": 778
+    },
+    {
+      "page": "https://www.tripadvisor.com/Attraction_Review-g285726-d3957005-Reviews-Apache_Charters-Fremantle_Greater_Perth_Western_Australia.html",
+      "status": 403,
+      "final_url": "https://www.tripadvisor.com/Attraction_Review-g285726-d3957005-Reviews-Apache_Charters-Fremantle_Greater_Perth_Western_Australia.html",
+      "bytes": 775
+    }
+  ]
+}

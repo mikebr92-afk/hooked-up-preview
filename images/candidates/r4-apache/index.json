@@ -1,7 +1,7 @@
 {
   "slug": "r4-apache",
   "request_hash": "515e1979d450",
-  "collected_at": "2026-11-04T03:52:03.053Z",
+  "collected_at": "2026-11-04T03:56:45.650Z",
   "pages_fetched": [
     "https://www.apachecharters.com.au/",
     "https://www.apachecharters.com.au/abrolhos-fishing-charters",
@@ -38,7 +38,7 @@
       "page": "https://www.apachecharters.com.au/cart",
       "status": 200,
       "final_url": "https://www.apachecharters.com.au/cart",
-      "bytes": 297256
+      "bytes": 290020
     },
     {
       "page": "https://www.apachecharters.com.au/shark-bay-fishing-charters",
