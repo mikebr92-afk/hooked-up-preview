@@ -1,0 +1,5 @@
+{"requests":[
+ {"slug":"goulburn-valley-fly-fishing-centre","pages":["https://gvflyfishing.com/"],"text":true,"max":16,"follow":true},
+ {"slug":"indulgence-flyfishing-2","pages":["http://indulgenceflyfishing.com/","https://indulgenceflyfishing.com.au/"],"text":true,"max":8,"follow":true},
+ {"slug":"vic-r4-visitnsw-murray","pages":["https://www.visitnsw.com/destinations/country-nsw/the-murray/yarrawonga-mulwala/attractions/lake-mulwala","https://www.visitnsw.com/river-activities","https://www.visitthemurray.com.au/blog/fishing-on-the-murray-river-tips-for-success","https://www.visiteastgippsland.com.au/wp-content/uploads/2026/01/February-2026-WHATS-ON-.pdf"],"text":true,"max":0,"follow":false}
+]}
