@@ -1,0 +1,263 @@
+{
+ "requests": [
+  {
+   "slug": "r4-cobourg-fishing-safaris",
+   "pages": [
+    "https://www.cobourgfishingsafaris.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r4-dhipirri-barra-and-sportfishing-lodge",
+   "pages": [
+    "https://dhipirribarra.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r4-obj-adventures-nhulunbuy-fishing-charters",
+   "pages": [
+    "https://www.objadventures.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r4-humbug-fishing-darwin",
+   "pages": [
+    "https://fishingcharterdarwin.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r4-nt-fish-and-4x4",
+   "pages": [
+    "https://www.ntfish4x4.com/",
+    "https://northernterritory.com/tours/nt-fish-and-4x4"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r4-barra-or-blue-fishing-charters-darwin",
+   "pages": [
+    "https://barraorblue.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r4-barra-private-tours-darwin",
+   "pages": [
+    "https://www.barraprivatetours.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r4-darwin-harbour-fishing-charters",
+   "pages": [
+    "https://www.darwinharbourfishingcharters.com.au/",
+    "https://northernterritory.com/tours/darwin-harbour-fishing-charters"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r4-equinox-fishing-charters-darwin",
+   "pages": [
+    "https://www.equinoxcharters.com.au/",
+    "https://northernterritory.com/tours/equinox-fishing-charters"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r4-offshore-boats-darwin",
+   "pages": [
+    "https://offshoreboats.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r4-river-and-reef-fishing-charters",
+   "pages": [
+    "https://riverandreef.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r4-yknot-fishing-charters",
+   "pages": [
+    "https://www.yknot.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r4-anglers-choice-fishing-safaris",
+   "pages": [
+    "https://www.anglerschoice.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r4-dundee-beach-fishing-charters",
+   "pages": [
+    "https://www.dundeebeachfishingcharters.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r4-groote-eylandt-sports-fishing",
+   "pages": [
+    "https://www.gelnt.com.au/experiences/private-fishing-charter/",
+    "https://northernterritory.com/tours/groote-eylandt-tours"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r4-dna-barra-fishing",
+   "pages": [
+    "https://dnabarrafishing.com.au/",
+    "https://northernterritory.com/tours/dna-barra-fishing"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r4-kakadu-fishing-tours",
+   "pages": [
+    "https://www.kakadufishingtours.com.au/",
+    "https://northernterritory.com/tours/kakadu-fishing-tours"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r4-estuary-escapes-fishing-charters",
+   "pages": [
+    "https://www.estuaryescapes.com.au/",
+    "https://northernterritory.com/tours/estuary-escapes-fishing-charters"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r4-just-doon-it-fishing-charters",
+   "pages": [
+    "https://www.justdoonit.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r4-obsession-fishing-safaris",
+   "pages": [
+    "https://obsessionfishing.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r4-point-stuart-wilderness-lodge",
+   "pages": [
+    "https://www.pointstuart.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r4-alure-fishing-charters-nt",
+   "pages": [
+    "https://alurefishingchartersnt.com.au/",
+    "https://northernterritory.com/tours/alure-fishing-charters-nt"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r4-tiwi-island-retreat",
+   "pages": [
+    "https://tiwiislandretreat.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r4-lead-australian-sportfishing-charters",
+   "pages": [
+    "https://australiansportfishingcharters.com/",
+    "https://australiansportfishingcharters.com/arnhem-land-fishing/",
+    "https://australiansportfishingcharters.com/roper-river-charters/",
+    "https://northernterritory.com/tours/australian-sportfishing-charters/roper-river-fishing",
+    "https://northernterritory.com/tours/australian-sportfishing-charters"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "r4-lead-king-ash-bay",
+   "pages": [
+    "https://www.kingashbay.com.au/",
+    "https://northernterritory.com/katherine-and-surrounds/see-and-do/king-ash-bay-fishing-club-incorporated",
+    "http://www.wiyibifishing.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r4-lead-remote-adventures-nt",
+   "pages": [
+    "https://northernterritory.com/tours/remote-adventures-nt/extended-helifishing-trips",
+    "https://northernterritory.com/tours/remote-adventures-nt"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r4-katherine-tourism",
+   "pages": [
+    "https://northernterritory.com/katherine-and-surrounds/see-and-do/outdoor-activities/fishing",
+    "https://www.visittopend.com.au/plan-trip/regions/katherine-region/mataranka/mataranka-fishing"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  }
+ ]
+}
