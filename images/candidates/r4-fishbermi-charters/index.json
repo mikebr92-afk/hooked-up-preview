@@ -1,7 +1,7 @@
 {
   "slug": "r4-fishbermi-charters",
   "request_hash": "714d6685848c",
-  "collected_at": "2026-11-04T04:21:43.702Z",
+  "collected_at": "2026-11-04T04:29:28.946Z",
   "pages_fetched": [
     "https://www.fishbermicharters.com.au/",
     "https://www.fishbermicharters.com.au/fishing-charters/",
@@ -52,7 +52,7 @@
       "page": "https://www.fishbermicharters.com.au/gallery-2/",
       "status": 200,
       "final_url": "https://www.fishbermicharters.com.au/gallery-2/",
-      "bytes": 91867
+      "bytes": 91859
     },
     {
       "page": "https://www.fishbermicharters.com.au/privacy-policy/",

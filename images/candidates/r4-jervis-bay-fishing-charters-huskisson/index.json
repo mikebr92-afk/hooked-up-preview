@@ -1,7 +1,7 @@
 {
   "slug": "r4-jervis-bay-fishing-charters-huskisson",
   "request_hash": "1d1a3e440fcf",
-  "collected_at": "2026-11-04T04:22:07.349Z",
+  "collected_at": "2026-11-04T04:29:52.001Z",
   "pages_fetched": [
     "https://jbfishingcharters.com.au/"
   ],
@@ -11,7 +11,7 @@
       "page": "https://jbfishingcharters.com.au/",
       "status": 200,
       "final_url": "https://jbfishingcharters.com.au/",
-      "bytes": 120214
+      "bytes": 120215
     }
   ]
 }

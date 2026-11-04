@@ -1,0 +1,446 @@
+{
+  "slug": "calm-water-fishing-tweed",
+  "request_hash": "de10463ce79e",
+  "collected_at": "2026-11-04T04:34:06.312Z",
+  "pages_fetched": [
+    "https://www.calmwaterfishing.com/",
+    "https://www.calmwaterfishing.com/about-us",
+    "https://www.calmwaterfishing.com/tweed-river-fishing-tour",
+    "https://www.calmwaterfishing.com/broadwater-fishing-tour"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1080,
+      "height": 1080,
+      "original": "1080x1080",
+      "source": "https://static.wixstatic.com/media/c8a5cc_8209fedf24ef403cae669d328e710458~mv2.png",
+      "page": "https://www.calmwaterfishing.com/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 2000,
+      "height": 1333,
+      "original": "3500x2333",
+      "source": "https://static.wixstatic.com/media/0efe08a4469c4ebf8e486022e22e75a3.jpg",
+      "page": "https://www.calmwaterfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1172,
+      "height": 2000,
+      "original": "1363x2325",
+      "source": "https://static.wixstatic.com/media/c8a5cc_a870e8ef61af4643b71a0dda5ebb1a2b~mv2.png",
+      "page": "https://www.calmwaterfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2250x3000",
+      "source": "https://static.wixstatic.com/media/c8a5cc_1659bb04771747049e327938c7a2fbca~mv2.jpg",
+      "page": "https://www.calmwaterfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "3024x4032",
+      "source": "https://static.wixstatic.com/media/c8a5cc_7c1875d189a947d5b88c1d996d09a731~mv2.png",
+      "page": "https://www.calmwaterfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 2000,
+      "height": 1125,
+      "original": "2720x1530",
+      "source": "https://static.wixstatic.com/media/c8a5cc_f66aff0a51fb409b8e07fa21922bbb68f000.jpg",
+      "page": "https://www.calmwaterfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "3024x4032",
+      "source": "https://static.wixstatic.com/media/c8a5cc_70bf8558bd14423c831240f57ab95396~mv2.png",
+      "page": "https://www.calmwaterfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 834,
+      "height": 626,
+      "original": "834x626",
+      "source": "https://static.wixstatic.com/media/c8a5cc_3d986f2816fe48298a167b211eb38410~mv2.png",
+      "page": "https://www.calmwaterfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1200,
+      "height": 1600,
+      "original": "1200x1600",
+      "source": "https://static.wixstatic.com/media/c8a5cc_510709a720874a6bace384267daf7076~mv2.jpg",
+      "page": "https://www.calmwaterfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "3024x4032",
+      "source": "https://static.wixstatic.com/media/c8a5cc_dab92d9594b146959bdc851965d407de~mv2.png",
+      "page": "https://www.calmwaterfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1080,
+      "height": 1080,
+      "original": "1080x1080",
+      "source": "https://static.wixstatic.com/media/c8a5cc_027a09e4a8704441961e7499e1d42642~mv2.png",
+      "page": "https://www.calmwaterfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1080,
+      "height": 1080,
+      "original": "1080x1080",
+      "source": "https://static.wixstatic.com/media/c8a5cc_7649a3911b16438f8cbf66f07f08506f%7Emv2.png",
+      "page": "https://www.calmwaterfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 2000,
+      "height": 701,
+      "original": "3024x1060",
+      "source": "https://static.wixstatic.com/media/c8a5cc_2967a9d9f77f4ca7b570e01aa096fe2b~mv2.webp",
+      "page": "https://www.calmwaterfishing.com/about-us",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 2000,
+      "height": 1000,
+      "original": "3780x1890",
+      "source": "https://static.wixstatic.com/media/c8a5cc_c6e6f8edc0d749089f4412d7d14dda20~mv2.png",
+      "page": "https://www.calmwaterfishing.com/tweed-river-fishing-tour",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 768,
+      "height": 929,
+      "original": "768x929",
+      "source": "https://static.wixstatic.com/media/c8a5cc_e90c616b84ab48939d3d14a87a3ed7c8~mv2.jpg",
+      "page": "https://www.calmwaterfishing.com/tweed-river-fishing-tour",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "3024x4032",
+      "source": "https://static.wixstatic.com/media/c8a5cc_09de6b0d3e57475daab9bba558d3464c~mv2.png",
+      "page": "https://www.calmwaterfishing.com/tweed-river-fishing-tour",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.calmwaterfishing.com/",
+      "status": 200,
+      "final_url": "https://www.calmwaterfishing.com/",
+      "bytes": 1004622
+    },
+    {
+      "page": "https://www.calmwaterfishing.com/about-us",
+      "status": 200,
+      "final_url": "https://www.calmwaterfishing.com/about-us",
+      "bytes": 760968
+    },
+    {
+      "page": "https://www.calmwaterfishing.com/tweed-river-fishing-tour",
+      "status": 200,
+      "final_url": "https://www.calmwaterfishing.com/tweed-river-fishing-tour",
+      "bytes": 989315
+    },
+    {
+      "page": "https://www.calmwaterfishing.com/broadwater-fishing-tour",
+      "status": 200,
+      "final_url": "https://www.calmwaterfishing.com/broadwater-fishing-tour",
+      "bytes": 984478
+    },
+    {
+      "image": "https://static.wixstatic.com/media/23fd2a2be53141ed810f4d3dcdcd01fa.png",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/23fd2a2be53141ed810f4d3dcdcd01fa.png/v1/fill/w_20,h_20,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/facebook.png",
+      "error": "too small 20x20"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/81af6121f84c41a5b4391d7d37fce12a.png",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/81af6121f84c41a5b4391d7d37fce12a.png/v1/fill/w_20,h_20,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/instagram.png",
+      "error": "too small 20x20"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/c8a5cc_027a09e4a8704441961e7499e1d42642~mv2.png/v1/crop/x_218,y_576,w_697,h_259/fill/w_250,h_93,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/SPAR%20(3).png",
+      "error": "too small 250x93"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/c8a5cc_aac62686dfc240e2af0e1923f8acf1c0~mv2.png",
+      "error": "too small 600x75"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/c8a5cc_aac62686dfc240e2af0e1923f8acf1c0~mv2.png/v1/fill/w_252,h_31,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/download%20(6).png",
+      "error": "too small 252x31"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/0fdef751204647a3bbd7eaa2827ed4f9.png",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/0fdef751204647a3bbd7eaa2827ed4f9.png/v1/fill/w_26,h_26,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/facebook.png",
+      "error": "too small 26x26"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/01c3aff52f2a4dffa526d7a9843d46ea.png",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/01c3aff52f2a4dffa526d7a9843d46ea.png/v1/fill/w_26,h_26,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/instagram.png",
+      "error": "too small 26x26"
+    },
+    {
+      "image": "https://www.calmwaterfishing.com/quality_auto/facebook.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.calmwaterfishing.com/quality_auto/instagram.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.calmwaterfishing.com/quality_auto/c8a5cc_70bf8558bd14423c831240f57ab95396~mv2.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.calmwaterfishing.com/quality_auto/c8a5cc_3d986f2816fe48298a167b211eb38410~mv2.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.calmwaterfishing.com/quality_auto/c8a5cc_510709a720874a6bace384267daf7076~mv2.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.calmwaterfishing.com/quality_auto/c8a5cc_dab92d9594b146959bdc851965d407de~mv2.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.calmwaterfishing.com/quality_auto/SPAR%20(3).png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.calmwaterfishing.com/quality_auto/download%20(6).png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/c8a5cc_7649a3911b16438f8cbf66f07f08506f%7Emv2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/c8a5cc_7649a3911b16438f8cbf66f07f08506f%7Emv2.png",
+      "error": "too small 32x32"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/c8a5cc_7649a3911b16438f8cbf66f07f08506f%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/c8a5cc_7649a3911b16438f8cbf66f07f08506f%7Emv2.png",
+      "error": "too small 180x180"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/23fd2a2be53141ed810f4d3dcdcd01fa.png/v1/fill/w_40,h_40,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/facebook.png",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/81af6121f84c41a5b4391d7d37fce12a.png/v1/fill/w_40,h_40,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/instagram.png",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/0efe08a4469c4ebf8e486022e22e75a3.jpg/v1/fill/w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/0efe08a4469c4ebf8e486022e22e75a3.jpg",
+      "error": "too small 147x98"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/c8a5cc_a870e8ef61af4643b71a0dda5ebb1a2b~mv2.png/v1/fill/w_77,h_130,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/c8a5cc_a870e8ef61af4643b71a0dda5ebb1a2b~mv2.png",
+      "error": "too small 77x130"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/c8a5cc_1659bb04771747049e327938c7a2fbca~mv2.jpg/v1/fill/w_77,h_102,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/c8a5cc_1659bb04771747049e327938c7a2fbca~mv2.jpg",
+      "error": "too small 77x102"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/c8a5cc_7c1875d189a947d5b88c1d996d09a731~mv2.png/v1/fill/w_77,h_102,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/c8a5cc_7c1875d189a947d5b88c1d996d09a731~mv2.png",
+      "error": "too small 77x102"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/c8a5cc_f66aff0a51fb409b8e07fa21922bbb68f000.jpg/v1/fill/w_147,h_83,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/c8a5cc_f66aff0a51fb409b8e07fa21922bbb68f000.jpg",
+      "error": "too small 147x83"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/c8a5cc_70bf8558bd14423c831240f57ab95396~mv2.png/v1/fill/w_263,h_351,q_90,enc_avif,quality_auto/c8a5cc_70bf8558bd14423c831240f57ab95396~mv2.png",
+      "error": "too small 263x351"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/c8a5cc_70bf8558bd14423c831240f57ab95396~mv2.png/v1/fill/w_526,h_702,q_90,enc_avif,quality_auto/c8a5cc_70bf8558bd14423c831240f57ab95396~mv2.png",
+      "error": "too small 526x702"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/c8a5cc_70bf8558bd14423c831240f57ab95396~mv2.png/v1/fill/w_789,h_1053,q_90,enc_avif,quality_auto/c8a5cc_70bf8558bd14423c831240f57ab95396~mv2.png"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/c8a5cc_70bf8558bd14423c831240f57ab95396~mv2.png/v1/fill/w_1052,h_1404,q_90,enc_avif,quality_auto/c8a5cc_70bf8558bd14423c831240f57ab95396~mv2.png"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/c8a5cc_70bf8558bd14423c831240f57ab95396~mv2.png/v1/fill/w_1315,h_1755,q_90,enc_avif,quality_auto/c8a5cc_70bf8558bd14423c831240f57ab95396~mv2.png"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/c8a5cc_3d986f2816fe48298a167b211eb38410~mv2.png/v1/fill/w_263,h_198,q_90,enc_avif,quality_auto/c8a5cc_3d986f2816fe48298a167b211eb38410~mv2.png",
+      "error": "too small 263x198"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/c8a5cc_3d986f2816fe48298a167b211eb38410~mv2.png/v1/fill/w_526,h_396,q_90,enc_avif,quality_auto/c8a5cc_3d986f2816fe48298a167b211eb38410~mv2.png",
+      "error": "too small 526x396"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/c8a5cc_3d986f2816fe48298a167b211eb38410~mv2.png/v1/fill/w_789,h_594,q_90,enc_avif,quality_auto/c8a5cc_3d986f2816fe48298a167b211eb38410~mv2.png"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/c8a5cc_3d986f2816fe48298a167b211eb38410~mv2.png/v1/fill/w_832,h_626,q_90,enc_avif,quality_auto/c8a5cc_3d986f2816fe48298a167b211eb38410~mv2.png"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/c8a5cc_510709a720874a6bace384267daf7076~mv2.jpg/v1/fill/w_415,h_553,q_90,enc_avif,quality_auto/c8a5cc_510709a720874a6bace384267daf7076~mv2.jpg",
+      "error": "too small 415x553"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/c8a5cc_510709a720874a6bace384267daf7076~mv2.jpg/v1/fill/w_830,h_1106,q_90,enc_avif,quality_auto/c8a5cc_510709a720874a6bace384267daf7076~mv2.jpg"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/c8a5cc_510709a720874a6bace384267daf7076~mv2.jpg/v1/fill/w_1200,h_1599,q_90,enc_avif,quality_auto/c8a5cc_510709a720874a6bace384267daf7076~mv2.jpg"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/c8a5cc_dab92d9594b146959bdc851965d407de~mv2.png/v1/fill/w_415,h_553,q_90,enc_avif,quality_auto/c8a5cc_dab92d9594b146959bdc851965d407de~mv2.png",
+      "error": "too small 415x553"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/c8a5cc_dab92d9594b146959bdc851965d407de~mv2.png/v1/fill/w_830,h_1106,q_90,enc_avif,quality_auto/c8a5cc_dab92d9594b146959bdc851965d407de~mv2.png"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/c8a5cc_dab92d9594b146959bdc851965d407de~mv2.png/v1/fill/w_1245,h_1659,q_90,enc_avif,quality_auto/c8a5cc_dab92d9594b146959bdc851965d407de~mv2.png"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/c8a5cc_dab92d9594b146959bdc851965d407de~mv2.png/v1/fill/w_1660,h_2212,q_90,enc_avif,quality_auto/c8a5cc_dab92d9594b146959bdc851965d407de~mv2.png"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/c8a5cc_dab92d9594b146959bdc851965d407de~mv2.png/v1/fill/w_2075,h_2765,q_90,enc_avif,quality_auto/c8a5cc_dab92d9594b146959bdc851965d407de~mv2.png"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/c8a5cc_027a09e4a8704441961e7499e1d42642~mv2.png/v1/crop/x_216,y_92,w_643,h_342/fill/w_235,h_125,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/SPAR%20(3",
+      "error": "too small 235x125"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/c8a5cc_027a09e4a8704441961e7499e1d42642~mv2.png/v1/crop/x_216,y_92,w_643,h_342/fill/w_470,h_250,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/SPAR%20(3",
+      "error": "too small 470x250"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/c8a5cc_027a09e4a8704441961e7499e1d42642~mv2.png/v1/crop/x_218,y_576,w_697,h_259/fill/w_250,h_93,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/SPAR%20(3",
+      "error": "too small 250x93"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/c8a5cc_027a09e4a8704441961e7499e1d42642~mv2.png/v1/crop/x_218,y_576,w_697,h_259/fill/w_500,h_186,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/SPAR%20(3",
+      "error": "too small 500x186"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/c8a5cc_aac62686dfc240e2af0e1923f8acf1c0~mv2.png/v1/fill/w_252,h_31,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/download%20(6",
+      "error": "too small 252x31"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/c8a5cc_aac62686dfc240e2af0e1923f8acf1c0~mv2.png/v1/fill/w_504,h_62,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/download%20(6",
+      "error": "too small 504x62"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/0fdef751204647a3bbd7eaa2827ed4f9.png/v1/fill/w_52,h_52,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/facebook.png",
+      "error": "too small 52x52"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/01c3aff52f2a4dffa526d7a9843d46ea.png/v1/fill/w_52,h_52,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/instagram.png",
+      "error": "too small 52x52"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/c8a5cc_7649a3911b16438f8cbf66f07f08506f~mv2.png"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/c8a5cc_568f493bf9374af1930280ea51e68896~mv2.png",
+      "error": "too small 750x245"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/c8a5cc_af45b9385a88469986c5e9c6592fc7d5f000.jpg"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/c8a5cc_aac62686dfc240e2af0e1923f8acf1c0~mv2.png/v1/fill/w_192,h_24,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/download%20(6).png",
+      "error": "too small 192x24"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/c8a5cc_027a09e4a8704441961e7499e1d42642~mv2.png/v1/crop/x_216,y_92,w_643,h_342/fill/w_153,h_82,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/SPAR%20(3).png",
+      "error": "too small 153x82"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/c8a5cc_027a09e4a8704441961e7499e1d42642~mv2.png/v1/crop/x_218,y_576,w_697,h_259/fill/w_179,h_66,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/SPAR%20(3).png",
+      "error": "too small 179x66"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/c8a5cc_7649a3911b16438f8cbf66f07f08506f%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/c8a5cc_7649a3911b16438f8cbf66f07f08506f%7Emv2.png",
+      "error": "too small 192x192"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/c8a5cc_af45b9385a88469986c5e9c6592fc7d5f000.jpg/v1/fill/w_147,h_83,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/c8a5cc_af45b9385a88469986c5e9c6592fc7d5f000.jpg",
+      "error": "too small 147x83"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/c8a5cc_aac62686dfc240e2af0e1923f8acf1c0~mv2.png/v1/fill/w_192,h_24,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/download%20(6",
+      "error": "too small 192x24"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/c8a5cc_aac62686dfc240e2af0e1923f8acf1c0~mv2.png/v1/fill/w_384,h_48,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/download%20(6",
+      "error": "too small 384x48"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/c8a5cc_027a09e4a8704441961e7499e1d42642~mv2.png/v1/crop/x_216,y_92,w_643,h_342/fill/w_153,h_82,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/SPAR%20(3",
+      "error": "too small 153x82"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/c8a5cc_027a09e4a8704441961e7499e1d42642~mv2.png/v1/crop/x_216,y_92,w_643,h_342/fill/w_306,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/SPAR%20(3",
+      "error": "too small 306x164"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/c8a5cc_027a09e4a8704441961e7499e1d42642~mv2.png/v1/crop/x_218,y_576,w_697,h_259/fill/w_179,h_66,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/SPAR%20(3",
+      "error": "too small 179x66"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/c8a5cc_027a09e4a8704441961e7499e1d42642~mv2.png/v1/crop/x_218,y_576,w_697,h_259/fill/w_358,h_132,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/SPAR%20(3",
+      "error": "too small 358x132"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/c8a5cc_2967a9d9f77f4ca7b570e01aa096fe2b~mv2.webp/v1/fill/w_147,h_52,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/c8a5cc_2967a9d9f77f4ca7b570e01aa096fe2b~mv2.webp",
+      "error": "too small 147x52"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/c8a5cc_c6e6f8edc0d749089f4412d7d14dda20~mv2.png/v1/fill/w_303,h_152,q_90,enc_avif,quality_auto/c8a5cc_c6e6f8edc0d749089f4412d7d14dda20~mv2.png",
+      "error": "too small 303x152"
+    }
+  ]
+}

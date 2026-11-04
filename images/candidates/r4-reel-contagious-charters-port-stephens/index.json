@@ -1,7 +1,7 @@
 {
   "slug": "r4-reel-contagious-charters-port-stephens",
   "request_hash": "8e2268546b14",
-  "collected_at": "2026-11-04T04:21:15.630Z",
+  "collected_at": "2026-11-04T04:28:51.797Z",
   "pages_fetched": [
     "https://www.reelcontagiouscharters.com.au/",
     "https://www.reelcontagiouscharters.com.au/charters/",
@@ -22,7 +22,7 @@
       "page": "https://www.reelcontagiouscharters.com.au/charters/",
       "status": 200,
       "final_url": "https://www.reelcontagiouscharters.com.au/charters/",
-      "bytes": 75256
+      "bytes": 75254
     },
     {
       "page": "https://www.reelcontagiouscharters.com.au/contact-us/",
@@ -34,19 +34,19 @@
       "page": "https://www.portstephensfishingcharters.com.au/",
       "status": 200,
       "final_url": "https://www.portstephensfishingcharters.com.au/",
-      "bytes": 46944
+      "bytes": 46896
     },
     {
       "page": "https://www.reelcontagiouscharters.com.au/raizem-marlin-teasers/",
       "status": 200,
       "final_url": "https://www.reelcontagiouscharters.com.au/raizem-marlin-teasers/",
-      "bytes": 62584
+      "bytes": 62478
     },
     {
       "page": "https://www.reelcontagiouscharters.com.au/gallery/",
       "status": 200,
       "final_url": "https://www.reelcontagiouscharters.com.au/gallery/",
-      "bytes": 108730
+      "bytes": 108836
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "slug": "r4-blue-reef-fishing-charters-sydney",
   "request_hash": "8abebdca7779",
-  "collected_at": "2026-11-04T04:22:16.666Z",
+  "collected_at": "2026-11-04T04:30:00.671Z",
   "pages_fetched": [
     "https://www.bluereefcharters.info/",
     "https://www.bluereefcharters.info/about-us.html",
@@ -22,13 +22,13 @@
       "page": "https://www.bluereefcharters.info/",
       "status": 200,
       "final_url": "https://www.bluereefcharters.info/",
-      "bytes": 62532
+      "bytes": 62775
     },
     {
       "page": "https://www.bluereefcharters.info/about-us.html",
       "status": 200,
       "final_url": "https://www.bluereefcharters.info/about-us.html",
-      "bytes": 31900
+      "bytes": 31902
     },
     {
       "page": "https://www.bluereefcharters.info/general-boat-info.html",
@@ -46,13 +46,13 @@
       "page": "https://www.bluereefcharters.info/fishing-charters/sports-fishing-trips.html",
       "status": 200,
       "final_url": "https://www.bluereefcharters.info/fishing-charters/sports-fishing-trips.html",
-      "bytes": 34651
+      "bytes": 34654
     },
     {
       "page": "https://www.bluereefcharters.info/contact.html",
       "status": 200,
       "final_url": "https://www.bluereefcharters.info/contact.html",
-      "bytes": 31491
+      "bytes": 31488
     },
     {
       "page": "https://www.bluereefcharters.info/fishing-charters.html",
@@ -82,13 +82,13 @@
       "page": "https://www.bluereefcharters.info/testimonials.html",
       "status": 200,
       "final_url": "https://www.bluereefcharters.info/testimonials.html",
-      "bytes": 60382
+      "bytes": 60381
     },
     {
       "page": "https://www.bluereefcharters.info/fishing-charters/game-fishing-trips.html",
       "status": 200,
       "final_url": "https://www.bluereefcharters.info/fishing-charters/game-fishing-trips.html",
-      "bytes": 33418
+      "bytes": 33419
     }
   ]
 }

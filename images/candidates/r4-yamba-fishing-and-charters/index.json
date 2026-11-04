@@ -1,7 +1,7 @@
 {
   "slug": "r4-yamba-fishing-and-charters",
   "request_hash": "03eb8450dee2",
-  "collected_at": "2026-11-04T04:21:35.075Z",
+  "collected_at": "2026-11-04T04:29:17.548Z",
   "pages_fetched": [
     "https://www.yambafishingandcharters.com.au/",
     "https://www.yambafishingandcharters.com.au/faq",
@@ -76,7 +76,7 @@
       "page": "https://www.yambafishingandcharters.com.au/gift-card",
       "status": 200,
       "final_url": "https://www.yambafishingandcharters.com.au/gift-card",
-      "bytes": 1380460
+      "bytes": 1380507
     },
     {
       "page": "https://www.visitnsw.com/in/things-to-do/tours/yamba-fishing-and-charters",
