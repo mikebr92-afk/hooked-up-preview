@@ -1,0 +1,52 @@
+{
+  "slug": "r4-just-doon-it-fishing-charters",
+  "request_hash": "79b8af174163",
+  "collected_at": "2026-11-04T03:53:54.758Z",
+  "pages_fetched": [
+    "https://www.justdoonit.com.au/",
+    "https://www.justdoonit.com.au/price-2",
+    "https://www.justdoonit.com.au/price-2/copy-of-price",
+    "https://www.justdoonit.com.au/price-2/copy-of-dry-season-tours",
+    "https://www.justdoonit.com.au/about",
+    "https://www.justdoonit.com.au/faq"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.justdoonit.com.au/",
+      "status": 200,
+      "final_url": "https://www.justdoonit.com.au/",
+      "bytes": 1356057
+    },
+    {
+      "page": "https://www.justdoonit.com.au/price-2",
+      "status": 200,
+      "final_url": "https://www.justdoonit.com.au/price-2",
+      "bytes": 1243818
+    },
+    {
+      "page": "https://www.justdoonit.com.au/price-2/copy-of-price",
+      "status": 200,
+      "final_url": "https://www.justdoonit.com.au/price-2/copy-of-price",
+      "bytes": 1334735
+    },
+    {
+      "page": "https://www.justdoonit.com.au/price-2/copy-of-dry-season-tours",
+      "status": 200,
+      "final_url": "https://www.justdoonit.com.au/price-2/copy-of-dry-season-tours",
+      "bytes": 1396511
+    },
+    {
+      "page": "https://www.justdoonit.com.au/about",
+      "status": 200,
+      "final_url": "https://www.justdoonit.com.au/about",
+      "bytes": 1344326
+    },
+    {
+      "page": "https://www.justdoonit.com.au/faq",
+      "status": 200,
+      "final_url": "https://www.justdoonit.com.au/faq",
+      "bytes": 1501563
+    }
+  ]
+}

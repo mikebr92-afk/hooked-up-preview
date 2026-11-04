@@ -1,0 +1,94 @@
+{
+  "slug": "r4-estuary-escapes-fishing-charters",
+  "request_hash": "4f3e4725b997",
+  "collected_at": "2026-11-04T03:53:51.182Z",
+  "pages_fetched": [
+    "https://www.estuaryescapes.com.au/",
+    "https://northernterritory.com/tours/estuary-escapes-fishing-charters",
+    "https://estuaryescapes.com.au/booking/",
+    "https://estuaryescapes.com.au/about-us/",
+    "https://estuaryescapes.com.au/gallery/",
+    "https://estuaryescapes.com.au/fishing-reports/",
+    "https://estuaryescapes.com.au/contact-us/",
+    "https://northernterritory.com/us/en/tours/estuary-escapes-fishing-charters",
+    "https://northernterritory.com/things-to-do/outdoor-activities/fishing",
+    "https://northernterritory.com/tours",
+    "https://northernterritory.com/tours/estuary-escapes-fishing-charters/run-off-fishing-escapes-1---6-days",
+    "https://northernterritory.com/tours/estuary-escapes-fishing-charters/billabong-barramundi-fishing-escapes"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.estuaryescapes.com.au/",
+      "status": 200,
+      "final_url": "https://estuaryescapes.com.au/",
+      "bytes": 16003
+    },
+    {
+      "page": "https://northernterritory.com/tours/estuary-escapes-fishing-charters",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/estuary-escapes-fishing-charters",
+      "bytes": 528447
+    },
+    {
+      "page": "https://estuaryescapes.com.au/booking/",
+      "status": 200,
+      "final_url": "https://estuaryescapes.com.au/booking/",
+      "bytes": 17402
+    },
+    {
+      "page": "https://estuaryescapes.com.au/about-us/",
+      "status": 200,
+      "final_url": "https://estuaryescapes.com.au/about-us/",
+      "bytes": 12896
+    },
+    {
+      "page": "https://estuaryescapes.com.au/gallery/",
+      "status": 200,
+      "final_url": "https://estuaryescapes.com.au/gallery/",
+      "bytes": 53088
+    },
+    {
+      "page": "https://estuaryescapes.com.au/fishing-reports/",
+      "status": 200,
+      "final_url": "https://estuaryescapes.com.au/fishing-reports/",
+      "bytes": 14618
+    },
+    {
+      "page": "https://estuaryescapes.com.au/contact-us/",
+      "status": 200,
+      "final_url": "https://estuaryescapes.com.au/contact-us/",
+      "bytes": 10355
+    },
+    {
+      "page": "https://northernterritory.com/us/en/tours/estuary-escapes-fishing-charters",
+      "status": 200,
+      "final_url": "https://northernterritory.com/us/en/tours/estuary-escapes-fishing-charters",
+      "bytes": 528826
+    },
+    {
+      "page": "https://northernterritory.com/things-to-do/outdoor-activities/fishing",
+      "status": 200,
+      "final_url": "https://northernterritory.com/things-to-do/outdoor-activities/fishing",
+      "bytes": 539958
+    },
+    {
+      "page": "https://northernterritory.com/tours",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours",
+      "bytes": 1248504
+    },
+    {
+      "page": "https://northernterritory.com/tours/estuary-escapes-fishing-charters/run-off-fishing-escapes-1---6-days",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/estuary-escapes-fishing-charters/run-off-fishing-escapes-1---6-days",
+      "bytes": 514968
+    },
+    {
+      "page": "https://northernterritory.com/tours/estuary-escapes-fishing-charters/billabong-barramundi-fishing-escapes",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/estuary-escapes-fishing-charters/billabong-barramundi-fishing-escapes",
+      "bytes": 523371
+    }
+  ]
+}

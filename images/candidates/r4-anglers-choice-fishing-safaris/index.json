@@ -1,0 +1,45 @@
+{
+  "slug": "r4-anglers-choice-fishing-safaris",
+  "request_hash": "7355c7cdcadd",
+  "collected_at": "2026-11-04T03:52:41.362Z",
+  "pages_fetched": [
+    "https://www.anglerschoice.com.au/",
+    "https://www.anglerschoice.com.au/contact",
+    "https://www.anglerschoice.com.au/day-tour",
+    "https://www.anglerschoice.com.au/the-fishing",
+    "https://www.anglerschoice.com.au/boats"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.anglerschoice.com.au/",
+      "status": 200,
+      "final_url": "https://www.anglerschoice.com.au/",
+      "bytes": 88157
+    },
+    {
+      "page": "https://www.anglerschoice.com.au/contact",
+      "status": 200,
+      "final_url": "https://www.anglerschoice.com.au/contact",
+      "bytes": 76730
+    },
+    {
+      "page": "https://www.anglerschoice.com.au/day-tour",
+      "status": 200,
+      "final_url": "https://www.anglerschoice.com.au/day-tour",
+      "bytes": 89044
+    },
+    {
+      "page": "https://www.anglerschoice.com.au/the-fishing",
+      "status": 200,
+      "final_url": "https://www.anglerschoice.com.au/the-fishing",
+      "bytes": 85291
+    },
+    {
+      "page": "https://www.anglerschoice.com.au/boats",
+      "status": 200,
+      "final_url": "https://www.anglerschoice.com.au/boats",
+      "bytes": 82539
+    }
+  ]
+}

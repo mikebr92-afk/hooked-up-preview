@@ -1,0 +1,94 @@
+{
+  "slug": "r4-darwin-harbour-fishing-charters",
+  "request_hash": "43863737a78f",
+  "collected_at": "2026-11-04T03:52:19.750Z",
+  "pages_fetched": [
+    "https://www.darwinharbourfishingcharters.com.au/",
+    "https://northernterritory.com/tours/darwin-harbour-fishing-charters",
+    "https://www.darwinharbourfishingcharters.com.au/darwin-fishing-charters-2/",
+    "https://www.darwinharbourfishingcharters.com.au/barra-fishing-darwin-corroboree-billabong/",
+    "https://www.darwinharbourfishingcharters.com.au/litchfield-park-adventures-and-accomodation/",
+    "https://www.darwinharbourfishingcharters.com.au/fishing-pics/",
+    "https://www.darwinharbourfishingcharters.com.au/about/",
+    "https://www.darwinharbourfishingcharters.com.au/faq/",
+    "https://www.darwinharbourfishingcharters.com.au/darwin-fishing-stories/",
+    "https://www.darwinharbourfishingcharters.com.au/contact/",
+    "https://www.darwinharbourfishingcharters.com.au/million-dollar-fish/",
+    "https://northernterritory.com/us/en/tours/darwin-harbour-fishing-charters"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.darwinharbourfishingcharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.darwinharbourfishingcharters.com.au/",
+      "bytes": 187871
+    },
+    {
+      "page": "https://northernterritory.com/tours/darwin-harbour-fishing-charters",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/darwin-harbour-fishing-charters",
+      "bytes": 533371
+    },
+    {
+      "page": "https://www.darwinharbourfishingcharters.com.au/darwin-fishing-charters-2/",
+      "status": 200,
+      "final_url": "https://www.darwinharbourfishingcharters.com.au/darwin-fishing-charters-2/",
+      "bytes": 134008
+    },
+    {
+      "page": "https://www.darwinharbourfishingcharters.com.au/barra-fishing-darwin-corroboree-billabong/",
+      "status": 200,
+      "final_url": "https://www.darwinharbourfishingcharters.com.au/barra-fishing-darwin-corroboree-billabong/",
+      "bytes": 99480
+    },
+    {
+      "page": "https://www.darwinharbourfishingcharters.com.au/litchfield-park-adventures-and-accomodation/",
+      "status": 200,
+      "final_url": "https://www.darwinharbourfishingcharters.com.au/litchfield-park-adventures-and-accomodation/",
+      "bytes": 106361
+    },
+    {
+      "page": "https://www.darwinharbourfishingcharters.com.au/fishing-pics/",
+      "status": 200,
+      "final_url": "https://www.darwinharbourfishingcharters.com.au/fishing-pics/",
+      "bytes": 186887
+    },
+    {
+      "page": "https://www.darwinharbourfishingcharters.com.au/about/",
+      "status": 200,
+      "final_url": "https://www.darwinharbourfishingcharters.com.au/about/",
+      "bytes": 86815
+    },
+    {
+      "page": "https://www.darwinharbourfishingcharters.com.au/faq/",
+      "status": 200,
+      "final_url": "https://www.darwinharbourfishingcharters.com.au/faq/",
+      "bytes": 98650
+    },
+    {
+      "page": "https://www.darwinharbourfishingcharters.com.au/darwin-fishing-stories/",
+      "status": 200,
+      "final_url": "https://www.darwinharbourfishingcharters.com.au/darwin-fishing-stories/",
+      "bytes": 79711
+    },
+    {
+      "page": "https://www.darwinharbourfishingcharters.com.au/contact/",
+      "status": 200,
+      "final_url": "https://www.darwinharbourfishingcharters.com.au/contact/",
+      "bytes": 80057
+    },
+    {
+      "page": "https://www.darwinharbourfishingcharters.com.au/million-dollar-fish/",
+      "status": 200,
+      "final_url": "https://www.darwinharbourfishingcharters.com.au/million-dollar-fish/",
+      "bytes": 88370
+    },
+    {
+      "page": "https://northernterritory.com/us/en/tours/darwin-harbour-fishing-charters",
+      "status": 200,
+      "final_url": "https://northernterritory.com/us/en/tours/darwin-harbour-fishing-charters",
+      "bytes": 533848
+    }
+  ]
+}

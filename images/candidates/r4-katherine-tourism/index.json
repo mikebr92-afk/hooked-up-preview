@@ -1,0 +1,24 @@
+{
+  "slug": "r4-katherine-tourism",
+  "request_hash": "03b2524a6935",
+  "collected_at": "2026-11-04T03:55:07.889Z",
+  "pages_fetched": [
+    "https://northernterritory.com/katherine-and-surrounds/see-and-do/outdoor-activities/fishing",
+    "https://www.visittopend.com.au/plan-trip/regions/katherine-region/mataranka/mataranka-fishing"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://northernterritory.com/katherine-and-surrounds/see-and-do/outdoor-activities/fishing",
+      "status": 200,
+      "final_url": "https://northernterritory.com/katherine-and-surrounds/see-and-do/outdoor-activities/fishing",
+      "bytes": 550232
+    },
+    {
+      "page": "https://www.visittopend.com.au/plan-trip/regions/katherine-region/mataranka/mataranka-fishing",
+      "status": 200,
+      "final_url": "https://www.visittopend.com.au/plan-trip/regions/katherine-region/mataranka/mataranka-fishing",
+      "bytes": 81253
+    }
+  ]
+}

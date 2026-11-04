@@ -1,0 +1,94 @@
+{
+  "slug": "r4-lead-king-ash-bay",
+  "request_hash": "aa88fde5a687",
+  "collected_at": "2026-11-04T03:54:59.437Z",
+  "pages_fetched": [
+    "https://www.kingashbay.com.au/",
+    "https://northernterritory.com/katherine-and-surrounds/see-and-do/king-ash-bay-fishing-club-incorporated",
+    "http://www.wiyibifishing.com.au/",
+    "https://www.kingashbay.com.au/category/about-king-ash-bay/",
+    "https://www.kingashbay.com.au/borroloola-houseboats/",
+    "https://www.kingashbay.com.au/mcarthur-river-fishing-charters/",
+    "https://www.kingashbay.com.au/wiyibi-fishing-wilderness-lodge-north-island/",
+    "https://www.kingashbay.com.au/members-area/code-of-conduct-for-committee-members-of-the-king-ash-bay-fishing-club/",
+    "https://www.kingashbay.com.au/king-ash-bay-fishing-club-financial-statements-for-year-ended-31-march-2022/",
+    "https://www.kingashbay.com.au/contact-us/",
+    "https://www.kingashbay.com.au/king-ash-bay-fishing-club-northern-territory-welcome/",
+    "https://www.kingashbay.com.au/promotion/fishing/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.kingashbay.com.au/",
+      "status": 200,
+      "final_url": "https://www.kingashbay.com.au/",
+      "bytes": 97920
+    },
+    {
+      "page": "https://northernterritory.com/katherine-and-surrounds/see-and-do/king-ash-bay-fishing-club-incorporated",
+      "status": 404,
+      "final_url": "https://northernterritory.com/katherine-and-surrounds/see-and-do/king-ash-bay-fishing-club-incorporated",
+      "bytes": 517251
+    },
+    {
+      "page": "http://www.wiyibifishing.com.au/",
+      "status": 200,
+      "final_url": "http://www.wiyibifishing.com.au/",
+      "bytes": 76313
+    },
+    {
+      "page": "https://www.kingashbay.com.au/category/about-king-ash-bay/",
+      "status": 200,
+      "final_url": "https://www.kingashbay.com.au/category/about-king-ash-bay/",
+      "bytes": 46049
+    },
+    {
+      "page": "https://www.kingashbay.com.au/borroloola-houseboats/",
+      "status": 200,
+      "final_url": "https://www.kingashbay.com.au/borroloola-houseboats/",
+      "bytes": 48609
+    },
+    {
+      "page": "https://www.kingashbay.com.au/mcarthur-river-fishing-charters/",
+      "status": 200,
+      "final_url": "https://www.kingashbay.com.au/mcarthur-river-fishing-charters/",
+      "bytes": 47936
+    },
+    {
+      "page": "https://www.kingashbay.com.au/wiyibi-fishing-wilderness-lodge-north-island/",
+      "status": 200,
+      "final_url": "https://www.kingashbay.com.au/wiyibi-fishing-wilderness-lodge-north-island/",
+      "bytes": 38466
+    },
+    {
+      "page": "https://www.kingashbay.com.au/members-area/code-of-conduct-for-committee-members-of-the-king-ash-bay-fishing-club/",
+      "status": 200,
+      "final_url": "https://www.kingashbay.com.au/members-area/code-of-conduct-for-committee-members-of-the-king-ash-bay-fishing-club/",
+      "bytes": 37859
+    },
+    {
+      "page": "https://www.kingashbay.com.au/king-ash-bay-fishing-club-financial-statements-for-year-ended-31-march-2022/",
+      "status": 200,
+      "final_url": "https://www.kingashbay.com.au/king-ash-bay-fishing-club-financial-statements-for-year-ended-31-march-2022/",
+      "bytes": 37778
+    },
+    {
+      "page": "https://www.kingashbay.com.au/contact-us/",
+      "status": 200,
+      "final_url": "https://www.kingashbay.com.au/contact-us/",
+      "bytes": 51379
+    },
+    {
+      "page": "https://www.kingashbay.com.au/king-ash-bay-fishing-club-northern-territory-welcome/",
+      "status": 200,
+      "final_url": "https://www.kingashbay.com.au/king-ash-bay-fishing-club-northern-territory-welcome/",
+      "bytes": 52422
+    },
+    {
+      "page": "https://www.kingashbay.com.au/promotion/fishing/",
+      "status": 200,
+      "final_url": "https://www.kingashbay.com.au/promotion/fishing/",
+      "bytes": 37633
+    }
+  ]
+}

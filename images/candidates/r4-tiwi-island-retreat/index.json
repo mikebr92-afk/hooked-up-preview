@@ -1,0 +1,66 @@
+{
+  "slug": "r4-tiwi-island-retreat",
+  "request_hash": "5ed102ca24cd",
+  "collected_at": "2026-11-04T03:54:30.365Z",
+  "pages_fetched": [
+    "https://tiwiislandretreat.com.au/",
+    "https://tiwiislandretreat.com.au/about/",
+    "https://tiwiislandretreat.com.au/gallery/",
+    "https://tiwiislandretreat.com.au/faq",
+    "https://tiwiislandretreat.com.au/p/fishing-adventure/",
+    "https://tiwiislandretreat.com.au/contact/",
+    "https://tiwiislandretreat.com.au/contact",
+    "https://tiwiislandretreat.com.au/faq/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://tiwiislandretreat.com.au/",
+      "status": 200,
+      "final_url": "https://tiwiislandretreat.com.au/",
+      "bytes": 198092
+    },
+    {
+      "page": "https://tiwiislandretreat.com.au/about/",
+      "status": 200,
+      "final_url": "https://tiwiislandretreat.com.au/about/",
+      "bytes": 117096
+    },
+    {
+      "page": "https://tiwiislandretreat.com.au/gallery/",
+      "status": 200,
+      "final_url": "https://tiwiislandretreat.com.au/gallery/",
+      "bytes": 164257
+    },
+    {
+      "page": "https://tiwiislandretreat.com.au/faq",
+      "status": 200,
+      "final_url": "https://tiwiislandretreat.com.au/faq/",
+      "bytes": 137711
+    },
+    {
+      "page": "https://tiwiislandretreat.com.au/p/fishing-adventure/",
+      "status": 200,
+      "final_url": "https://tiwiislandretreat.com.au/p/fishing-adventure/",
+      "bytes": 144854
+    },
+    {
+      "page": "https://tiwiislandretreat.com.au/contact/",
+      "status": 200,
+      "final_url": "https://tiwiislandretreat.com.au/contact/",
+      "bytes": 112184
+    },
+    {
+      "page": "https://tiwiislandretreat.com.au/contact",
+      "status": 200,
+      "final_url": "https://tiwiislandretreat.com.au/contact/",
+      "bytes": 112184
+    },
+    {
+      "page": "https://tiwiislandretreat.com.au/faq/",
+      "status": 200,
+      "final_url": "https://tiwiislandretreat.com.au/faq/",
+      "bytes": 137711
+    }
+  ]
+}

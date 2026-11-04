@@ -1,0 +1,94 @@
+{
+  "slug": "r4-groote-eylandt-sports-fishing",
+  "request_hash": "1410ff7e4a5e",
+  "collected_at": "2026-11-04T03:52:50.755Z",
+  "pages_fetched": [
+    "https://www.gelnt.com.au/experiences/private-fishing-charter/",
+    "https://northernterritory.com/tours/groote-eylandt-tours",
+    "https://www.gelnt.com.au/experiences/groote-explorer-tour/",
+    "https://www.gelnt.com.au/contact/",
+    "https://www.gelnt.com.au/experiences/groote-explorer-tour",
+    "https://northernterritory.com/us/en/tours/groote-eylandt-tours",
+    "https://northernterritory.com/things-to-do/outdoor-activities/fishing",
+    "https://northernterritory.com/tours",
+    "https://northernterritory.com/tours/groote-eylandt-tours/groote-eylandt-sports-fishing",
+    "https://northernterritory.com/tours/groote-eylandt-tours/groote-eylandt-explorer",
+    "https://northernterritory.com/tours/groote-eylandt-tours/groote-eylandt-snapshot",
+    "https://northernterritory.com/find-out-more/contact-us"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.gelnt.com.au/experiences/private-fishing-charter/",
+      "status": 200,
+      "final_url": "https://www.gelnt.com.au/experiences/private-fishing-charter/",
+      "bytes": 337559
+    },
+    {
+      "page": "https://northernterritory.com/tours/groote-eylandt-tours",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/groote-eylandt-tours",
+      "bytes": 522731
+    },
+    {
+      "page": "https://www.gelnt.com.au/experiences/groote-explorer-tour/",
+      "status": 200,
+      "final_url": "https://www.gelnt.com.au/experiences/groote-explorer-tour/",
+      "bytes": 312244
+    },
+    {
+      "page": "https://www.gelnt.com.au/contact/",
+      "status": 200,
+      "final_url": "https://www.gelnt.com.au/contact/",
+      "bytes": 289058
+    },
+    {
+      "page": "https://www.gelnt.com.au/experiences/groote-explorer-tour",
+      "status": 200,
+      "final_url": "https://www.gelnt.com.au/experiences/groote-explorer-tour/",
+      "bytes": 312244
+    },
+    {
+      "page": "https://northernterritory.com/us/en/tours/groote-eylandt-tours",
+      "status": 200,
+      "final_url": "https://northernterritory.com/us/en/tours/groote-eylandt-tours",
+      "bytes": 523158
+    },
+    {
+      "page": "https://northernterritory.com/things-to-do/outdoor-activities/fishing",
+      "status": 200,
+      "final_url": "https://northernterritory.com/things-to-do/outdoor-activities/fishing",
+      "bytes": 539958
+    },
+    {
+      "page": "https://northernterritory.com/tours",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours",
+      "bytes": 1248504
+    },
+    {
+      "page": "https://northernterritory.com/tours/groote-eylandt-tours/groote-eylandt-sports-fishing",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/groote-eylandt-tours/groote-eylandt-sports-fishing",
+      "bytes": 524597
+    },
+    {
+      "page": "https://northernterritory.com/tours/groote-eylandt-tours/groote-eylandt-explorer",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/groote-eylandt-tours/groote-eylandt-explorer",
+      "bytes": 523120
+    },
+    {
+      "page": "https://northernterritory.com/tours/groote-eylandt-tours/groote-eylandt-snapshot",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/groote-eylandt-tours/groote-eylandt-snapshot",
+      "bytes": 512713
+    },
+    {
+      "page": "https://northernterritory.com/find-out-more/contact-us",
+      "status": 200,
+      "final_url": "https://northernterritory.com/find-out-more/contact-us",
+      "bytes": 495915
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "r4-lead-remote-adventures-nt",
+  "request_hash": "2b39a9f5d50c",
+  "collected_at": "2026-11-04T03:55:04.556Z",
+  "pages_fetched": [
+    "https://northernterritory.com/tours/remote-adventures-nt/extended-helifishing-trips",
+    "https://northernterritory.com/tours/remote-adventures-nt",
+    "https://northernterritory.com/us/en/tours/remote-adventures-nt/extended-helifishing-trips",
+    "https://northernterritory.com/things-to-do/outdoor-activities/fishing",
+    "https://northernterritory.com/tours",
+    "https://northernterritory.com/find-out-more/contact-us",
+    "https://northernterritory.com/gb/en/tours/remote-adventures-nt/extended-helifishing-trips",
+    "https://northernterritory.com/sg/en/tours/remote-adventures-nt/extended-helifishing-trips",
+    "https://northernterritory.com/fr/fr/tours/remote-adventures-nt/extended-helifishing-trips",
+    "https://northernterritory.com/it/it/tours/remote-adventures-nt/extended-helifishing-trips",
+    "https://northernterritory.com/us/en/tours/remote-adventures-nt",
+    "https://northernterritory.com/tours/remote-adventures-nt/litchfield-park-adventure-tour"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://northernterritory.com/tours/remote-adventures-nt/extended-helifishing-trips",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/remote-adventures-nt/extended-helifishing-trips",
+      "bytes": 514013
+    },
+    {
+      "page": "https://northernterritory.com/tours/remote-adventures-nt",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/remote-adventures-nt",
+      "bytes": 528388
+    },
+    {
+      "page": "https://northernterritory.com/us/en/tours/remote-adventures-nt/extended-helifishing-trips",
+      "status": 200,
+      "final_url": "https://northernterritory.com/us/en/tours/remote-adventures-nt/extended-helifishing-trips",
+      "bytes": 514174
+    },
+    {
+      "page": "https://northernterritory.com/things-to-do/outdoor-activities/fishing",
+      "status": 200,
+      "final_url": "https://northernterritory.com/things-to-do/outdoor-activities/fishing",
+      "bytes": 539958
+    },
+    {
+      "page": "https://northernterritory.com/tours",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours",
+      "bytes": 1248504
+    },
+    {
+      "page": "https://northernterritory.com/find-out-more/contact-us",
+      "status": 200,
+      "final_url": "https://northernterritory.com/find-out-more/contact-us",
+      "bytes": 495915
+    },
+    {
+      "page": "https://northernterritory.com/gb/en/tours/remote-adventures-nt/extended-helifishing-trips",
+      "status": 200,
+      "final_url": "https://northernterritory.com/gb/en/tours/remote-adventures-nt/extended-helifishing-trips",
+      "bytes": 515164
+    },
+    {
+      "page": "https://northernterritory.com/sg/en/tours/remote-adventures-nt/extended-helifishing-trips",
+      "status": 200,
+      "final_url": "https://northernterritory.com/sg/en/tours/remote-adventures-nt/extended-helifishing-trips",
+      "bytes": 515353
+    },
+    {
+      "page": "https://northernterritory.com/fr/fr/tours/remote-adventures-nt/extended-helifishing-trips",
+      "status": 200,
+      "final_url": "https://northernterritory.com/fr/fr/tours/remote-adventures-nt/extended-helifishing-trips",
+      "bytes": 478708
+    },
+    {
+      "page": "https://northernterritory.com/it/it/tours/remote-adventures-nt/extended-helifishing-trips",
+      "status": 200,
+      "final_url": "https://northernterritory.com/it/it/tours/remote-adventures-nt/extended-helifishing-trips",
+      "bytes": 478504
+    },
+    {
+      "page": "https://northernterritory.com/us/en/tours/remote-adventures-nt",
+      "status": 200,
+      "final_url": "https://northernterritory.com/us/en/tours/remote-adventures-nt",
+      "bytes": 528905
+    },
+    {
+      "page": "https://northernterritory.com/tours/remote-adventures-nt/litchfield-park-adventure-tour",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/remote-adventures-nt/litchfield-park-adventure-tour",
+      "bytes": 513938
+    }
+  ]
+}
