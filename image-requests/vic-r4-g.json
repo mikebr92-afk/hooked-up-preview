@@ -1,0 +1,4 @@
+{"requests":[
+ {"slug":"egsportfishing","pages":["https://www.egsportfishing.com.au/"],"text":true,"max":16,"follow":true},
+ {"slug":"mako-fishing-charters-2","pages":["https://www.makofishingcharters.com/","https://makofishingcharters.com/","http://makofishingcharters.com.au/"],"text":true,"max":12,"follow":true}
+]}
