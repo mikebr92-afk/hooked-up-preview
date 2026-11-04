@@ -1,0 +1,5 @@
+{"requests":[
+ {"slug":"r4-sth-helens-fishing","pages":["https://eastcoasttasmania.com/atdw_listings/st-helens-fishing","https://www.spiritoftasmania.com.au/things-to-do/st-helens-fishing","https://eastcoasttasmania.com/atdw_listings/keen-angler-charters/"],"text":true,"max":16,"follow":true},
+ {"slug":"r4-gone-fishing-b","pages":["http://www.breamfishing.com.au/","https://api.runswithtogo.com/au/tas/nature/gone-fishing-charters-tas"],"text":true,"max":0,"follow":true,"force":true},
+ {"slug":"r4-sameas-check","pages":["https://www.spiritoftasmania.com.au/things-to-do/divers-fishing-charters-hobart","https://hobartandbeyond.com.au/place/divers-fishing-charters-hobart/","https://www.tripadvisor.com.au/Attraction_Review-g4013752-d6695270-Reviews-Trout_Territory-Cressy_Tasmania.html","https://www.spiritoftasmania.com.au/things-to-do/mr-flathead","https://www.spiritoftasmania.com.au/things-to-do/trout-territory","https://www.spiritoftasmania.com.au/things-to-do/riverfly-1864","https://www.discovertasmania.com.au/things-to-do/tours/mrflathead/","https://www.troutguidestasmania.com.au/guide/"],"text":true,"max":0,"follow":false}
+]}
