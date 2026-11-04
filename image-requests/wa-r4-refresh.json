@@ -1,0 +1,16 @@
+{"requests":[
+{"slug":"r4-absolute-ocean-charters","pages":["https://www.absoluteoceancharters.com.au/","https://www.absoluteoceancharters.com.au/broome-fishing-charters/","https://www.absoluteoceancharters.com.au/creek-and-estuary-fishing-charters/"],"text":true,"max":0,"follow":true,"force":true},
+{"slug":"r4-akame-sportfishing","pages":["https://akamesportfishing.com.au/","https://www.visitbroome.com.au/members/akame-sportfishing"],"text":true,"max":0,"follow":true,"force":true},
+{"slug":"r4-broome-billfish","pages":["https://broomebillfish.com.au/"],"text":true,"max":0,"follow":true,"force":true},
+{"slug":"r4-atgni","pages":["https://allthegearnoideasportfishing.com/","https://allthegearnoideasportfishing.com/our-charters/","https://allthegearnoideasportfishing.com/faq/"],"text":true,"max":0,"follow":true,"force":true},
+{"slug":"r4-blue-horizon","pages":["https://www.bluehorizoncharters.com.au/"],"text":true,"max":0,"follow":true,"force":true},
+{"slug":"r4-innkeeper","pages":["https://innkeepersportfishing.com/"],"text":true,"max":0,"follow":true,"force":true},
+{"slug":"r4-apache","pages":["https://www.apachecharters.com.au/","https://www.apachecharters.com.au/abrolhos-fishing-charters","https://www.apachecharters.com.au/montebello-islands-fishing-charters"],"text":true,"max":0,"follow":true,"force":true},
+{"slug":"r4-offshore-charters-wa","pages":["https://www.offshorecharterswa.com.au/"],"text":true,"max":0,"follow":true,"force":true},
+{"slug":"r4-birchys","pages":["https://birchysfishingtours.com.au/"],"text":true,"max":0,"follow":true,"force":true},
+{"slug":"r4-kuri-bay","pages":["https://www.kuribaysportfishingtours.com.au/"],"text":true,"max":0,"follow":true,"force":true},
+{"slug":"r4-reel-teaser","pages":["https://reelteaserfishingadventures.com/","https://reelteaserfishingadventures.com/charter-prices-3/"],"text":true,"max":0,"follow":true,"force":true},
+{"slug":"r4-game-time","pages":["https://www.gametimecharters.com.au/","https://www.gametimecharters.com.au/private-game-fishing-charters"],"text":true,"max":0,"follow":true,"force":true},
+{"slug":"r4-blue-juice","pages":["https://www.bluejuicecharters.com.au/","https://bluejuicecharters.rezdy.com/catalog/74489/all-charters"],"text":true,"max":0,"follow":true,"force":true},
+{"slug":"r4-pelican","pages":["https://www.pelicancharters.com.au/montebello-islands-fishing/","https://www.pelicancharters.com.au/montebello-islands-charters/","https://www.pelicancharters.com.au/"],"text":true,"max":0,"follow":true,"force":true}
+]}
