@@ -1,0 +1,9 @@
+{"requests":[
+ {"slug":"southern-fly-fishing-adventures","pages":["https://www.southernflyfishingadventures.com/","https://www.visitbright.com.au/?p=21159"],"text":true,"max":16,"follow":true},
+ {"slug":"indulgence-flyfishing","pages":["https://www.indulgenceflyfishing.com/"],"text":true,"max":16,"follow":true},
+ {"slug":"vic-r4-gipps-tourism","pages":["https://www.visiteastgippsland.com.au/lakes-charter-fishing","https://visiteastgippsland.com.au/sea-myth","https://www.visiteastgippsland.com.au/far-out-fishing-charters","https://www.spendwithus.com.au/store/keepin-it-reel-charters/policies","https://lakespost.com.au/18345/from-lakes-to-offshore-fishing-remains-strong/","https://lakespost.com.au/17263/fishing-success-continues/","https://www.visiteastgippsland.com.au/things-to-see-a-do/activities/fishing/lake"],"text":true,"max":0,"follow":false},
+ {"slug":"sea-myth-fishing-charters-r4","pages":["https://seamythcharters.com.au/"],"text":true,"max":16,"follow":true},
+ {"slug":"screw-loose-fishing-charters-r4","pages":["https://sites.google.com/view/screwloosecharters/"],"text":true,"max":16,"follow":true},
+ {"slug":"vic-r4-murray-tourism","pages":["https://www.yarrawongamulwala.com.au/things-to-do/tours-experiences/view/5ed58eed89f2672628f93cde/lake-mulwala-fish-camp-and-ski","https://visitthemurray.com.au/places-to-go/west/swanhill/see-do/outdoor-experiences/fishing","https://www.visitechucamoama.com.au/things-to-do/get-outdoors/fishing","https://lakeeildon.com/things-to-do/fishing","https://www.murrayoffroadadventures.com.au/","http://www.lakehumehire.com/"],"text":true,"max":0,"follow":false},
+ {"slug":"westernport-fishing-charters-r4","pages":["https://www.westernportfishingcharters.com.au/","https://www.westernportfishingcharters.com.au/about-us"],"text":true,"max":0,"follow":true}
+]}
