@@ -1,6 +1,6 @@
 """Extract a state agent's chosen photos and build review sheets.
 
-Usage: python3 -I photos_review.py <repo> <agentsDir> <group>
+Usage: python3 -I photos_review.py <repo> <agentsDir> <group> [pipelineBranch]
 Writes <agentsDir>/<group>/review/<slug>--hero.webp etc, hero/extras sheets, and
 proposed-photos.json ({slug: {hero: path, extras: [paths]}}) — copy/edit it to
 approved-photos.json after reviewing.
@@ -13,9 +13,10 @@ import sys
 from PIL import Image, ImageDraw
 
 REPO, AG, G = sys.argv[1:4]
+BRANCH = sys.argv[4] if len(sys.argv) > 4 else f'operator-images/state-{G}'  # optional: pipeline branch name
 L = json.load(open(f'{AG}/{G}/listings.json'))
-branch = f'origin/operator-images/state-{G}'
-subprocess.run(['git', '-C', REPO, 'fetch', '-q', 'origin', f'operator-images/state-{G}'], check=True)
+branch = f'origin/{BRANCH}'
+subprocess.run(['git', '-C', REPO, 'fetch', '-q', 'origin', BRANCH], check=True)
 out_dir = f'{AG}/{G}/review'
 os.makedirs(out_dir, exist_ok=True)
 proposed = {}

@@ -297,6 +297,22 @@ export const LOCS = {
     ],
     season: "Snapper and flathead are caught year-round. Kingfish run from about November to June, and Eden's game season (marlin, yellowfin and albacore tuna) runs from around November to July, with January to March often best for marlin.",
   },
+  'tweed': {
+    n: 'Tweed Coast', short: 'Tweed', in: 'on the Tweed Coast', parent: 'new-south-wales', c: ['tweed', 'tweed heads', 'kingscliff', 'pottsville', 'cudgen'], state: 'NSW',
+    intro: [
+      "The Tweed Coast, on the NSW side of the Queensland border, offers both offshore reef fishing and calm-water estuary trips. Charters leave Tweed Marina for reefs that start within about 3 km of the Tweed River entrance and run out towards the continental shelf, targeting snapper, pearl perch, tuskfish, teraglin and sweetlip, with marlin, mahi mahi and mackerel in summer.",
+      "Inside, the lower Tweed River's rock walls and bridges hold mulloway, mangrove jack, bream and trevally, the sand flats hold summer whiting, and small creeks such as Mooball Creek at Pottsville suit relaxed family lure-fishing trips. Tweed Marina is about 5 km from Gold Coast Airport.",
+    ],
+    season: "Reef fishing runs year-round. Summer (about December to March) is game season for marlin, wahoo, mahi mahi and mackerel offshore, and whiting fire on the river flats. The cooler months bring better mulloway and luderick fishing around the deeper rock walls and bridges.",
+  },
+  'coffs-harbour': {
+    n: 'Coffs Harbour', short: 'Coffs Harbour', in: 'in Coffs Harbour', parent: 'new-south-wales', c: ['coffs harbour', 'coffs', 'woolgoolga', 'sawtell', 'solitary islands'], state: 'NSW',
+    intro: [
+      "Coffs Harbour charters fish the Solitary Islands Marine Park: inshore reefs and islands for snapper, pearl perch and flathead, South Solitary Island (about 18 km north-east) for kingfish, cobia and mackerel, and the continental shelf, FADs and canyons for marlin, mahi mahi, wahoo and tuna.",
+      "Boats leave Coffs Harbour International Marina in the Jetty precinct. The marine park has sanctuary zones where no fishing is allowed, so local skippers know where you can and can't drop a line.",
+    ],
+    season: "Coffs fishes year-round. Local guides rate May to July best for snapper and kingfish and February to March for mackerel, while summer brings marlin, mahi mahi and tuna offshore.",
+  },
   // ── Queensland (south) hot spots ────────────────────────────────────────────
   'brisbane': {
     n: 'Brisbane & Moreton Bay', short: 'Brisbane', in: 'in Brisbane and Moreton Bay', parent: 'queensland', c: ['brisbane', 'moreton', 'bribie', 'redcliffe'], state: 'QLD',
