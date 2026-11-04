@@ -1,0 +1,8 @@
+{
+ "requests": [
+  {"slug": "r4n2-carpentaria-barra", "pages": ["https://www.carpentariabarra.com.au/?p=117", "https://www.carpentariabarra.com.au/?p=183", "https://www.carpentariabarra.com.au/?p=8", "https://carpentariabarra.com.au/?p=10"], "text": true, "max": 0, "follow": false},
+  {"slug": "r4n2-flux-fly-fishing", "pages": ["https://www.fluxflyfishing.com/west-cape-mothership", "https://www.fluxflyfishing.com/east-cape-mothership", "https://www.fluxflyfishing.com/blog-1", "https://www.fluxflyfishing.com/tours", "https://www.fluxflyfishing.com/accommodation"], "text": true, "max": 0, "follow": false},
+  {"slug": "r4n2-daintree-tourism", "pages": ["https://tropicalnorthqueensland.org.au/listing/product/daintree-river-fishing-and-photography-tours/", "https://destinationdaintree.com/tours-attractions/fishing", "https://tourismportdouglas.com.au/daintree-river-fishing-with-david-patterson"], "text": true, "max": 0, "follow": false},
+  {"slug": "r4n2-ian-moody", "pages": ["https://www.queensland.com/au/en/things-to-do/tours/p-6045f4108fc1e7796a9d63ac-ian-moody-sportfishing-charters", "https://fishingbooker.com/charters/view/16164"], "text": true, "max": 0, "follow": false}
+ ]
+}
