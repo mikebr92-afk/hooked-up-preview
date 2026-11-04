@@ -1,0 +1,17 @@
+{
+  "slug": "r4-tasman-spirit-charters",
+  "request_hash": "e82352cc4d0b",
+  "collected_at": "2026-11-04T03:51:31.292Z",
+  "pages_fetched": [
+    "https://tasmanspiritcharters.com/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://tasmanspiritcharters.com/",
+      "status": 200,
+      "final_url": "https://tasmanspiritcharters.com/",
+      "bytes": 12698
+    }
+  ]
+}

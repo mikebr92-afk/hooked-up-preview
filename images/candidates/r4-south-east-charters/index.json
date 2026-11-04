@@ -1,0 +1,94 @@
+{
+  "slug": "r4-south-east-charters",
+  "request_hash": "ae5895e9560c",
+  "collected_at": "2026-11-04T03:51:43.093Z",
+  "pages_fetched": [
+    "https://www.southeastcharters.com.au/",
+    "https://discovertasmania.com.au/things-to-do/tours/southeastcharters",
+    "https://www.spiritoftasmania.com.au/things-to-do/south-east-charters",
+    "https://www.southeastcharters.com.au/index.html",
+    "https://www.southeastcharters.com.au/about-us.html",
+    "https://www.southeastcharters.com.au/fishing-charters.html",
+    "https://www.southeastcharters.com.au/the-boat.html",
+    "https://www.southeastcharters.com.au/gallery.html",
+    "https://www.southeastcharters.com.au/contact.html",
+    "https://www.discovertasmania.com.au/things-to-do/road-trips/",
+    "https://www.discovertasmania.com.au/things-to-do/tours/",
+    "https://www.discovertasmania.com.au/things-to-do/outdoor-and-adventure/fishing-and-fly-fishing/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.southeastcharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.southeastcharters.com.au/",
+      "bytes": 13410
+    },
+    {
+      "page": "https://discovertasmania.com.au/things-to-do/tours/southeastcharters",
+      "status": 200,
+      "final_url": "https://www.discovertasmania.com.au/things-to-do/tours/southeastcharters",
+      "bytes": 315859
+    },
+    {
+      "page": "https://www.spiritoftasmania.com.au/things-to-do/south-east-charters",
+      "status": 200,
+      "final_url": "https://www.spiritoftasmania.com.au/things-to-do/south-east-charters/",
+      "bytes": 744703
+    },
+    {
+      "page": "https://www.southeastcharters.com.au/index.html",
+      "status": 200,
+      "final_url": "https://www.southeastcharters.com.au/index.html",
+      "bytes": 13410
+    },
+    {
+      "page": "https://www.southeastcharters.com.au/about-us.html",
+      "status": 200,
+      "final_url": "https://www.southeastcharters.com.au/about-us.html",
+      "bytes": 10263
+    },
+    {
+      "page": "https://www.southeastcharters.com.au/fishing-charters.html",
+      "status": 200,
+      "final_url": "https://www.southeastcharters.com.au/fishing-charters.html",
+      "bytes": 16282
+    },
+    {
+      "page": "https://www.southeastcharters.com.au/the-boat.html",
+      "status": 200,
+      "final_url": "https://www.southeastcharters.com.au/the-boat.html",
+      "bytes": 9795
+    },
+    {
+      "page": "https://www.southeastcharters.com.au/gallery.html",
+      "status": 200,
+      "final_url": "https://www.southeastcharters.com.au/gallery.html",
+      "bytes": 19701
+    },
+    {
+      "page": "https://www.southeastcharters.com.au/contact.html",
+      "status": 200,
+      "final_url": "https://www.southeastcharters.com.au/contact.html",
+      "bytes": 14598
+    },
+    {
+      "page": "https://www.discovertasmania.com.au/things-to-do/road-trips/",
+      "status": 200,
+      "final_url": "https://www.discovertasmania.com.au/things-to-do/road-trips/",
+      "bytes": 334011
+    },
+    {
+      "page": "https://www.discovertasmania.com.au/things-to-do/tours/",
+      "status": 200,
+      "final_url": "https://www.discovertasmania.com.au/things-to-do/tours/",
+      "bytes": 335868
+    },
+    {
+      "page": "https://www.discovertasmania.com.au/things-to-do/outdoor-and-adventure/fishing-and-fly-fishing/",
+      "status": 200,
+      "final_url": "https://www.discovertasmania.com.au/things-to-do/outdoor-and-adventure/fishing-and-fly-fishing/",
+      "bytes": 293495
+    }
+  ]
+}

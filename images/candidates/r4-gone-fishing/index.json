@@ -1,0 +1,20 @@
+{
+  "slug": "r4-gone-fishing",
+  "request_hash": "042d41d0ccdc",
+  "collected_at": "2026-11-04T03:51:47.472Z",
+  "pages_fetched": [
+    "https://www.breamfishing.com.au/",
+    "http://breamfishing.com.au/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.breamfishing.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "http://breamfishing.com.au/",
+      "error": "fetch failed"
+    }
+  ]
+}

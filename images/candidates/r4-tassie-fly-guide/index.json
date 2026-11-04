@@ -1,0 +1,31 @@
+{
+  "slug": "r4-tassie-fly-guide",
+  "request_hash": "477f50f19d8e",
+  "collected_at": "2026-11-04T03:51:13.271Z",
+  "pages_fetched": [
+    "https://tassieflyguide.com.au/",
+    "https://tassieflyguide.com.au/about",
+    "https://tassieflyguide.com.au/bookings"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://tassieflyguide.com.au/",
+      "status": 200,
+      "final_url": "https://tassieflyguide.com.au/",
+      "bytes": 138696
+    },
+    {
+      "page": "https://tassieflyguide.com.au/about",
+      "status": 200,
+      "final_url": "https://tassieflyguide.com.au/about",
+      "bytes": 107249
+    },
+    {
+      "page": "https://tassieflyguide.com.au/bookings",
+      "status": 200,
+      "final_url": "https://tassieflyguide.com.au/bookings",
+      "bytes": 121467
+    }
+  ]
+}

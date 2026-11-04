@@ -1,0 +1,31 @@
+{
+  "slug": "r4-sth-discovery",
+  "request_hash": "aea9678c3618",
+  "collected_at": "2026-11-04T03:51:50.129Z",
+  "pages_fetched": [
+    "https://eastcoasttasmania.com/to-do/adventure/itinerary/fishing/",
+    "https://fishing.tas.gov.au/recreational-fishing/fishing-tips/hot-fishing-spots/fishing-around-st-helens",
+    "https://www.discovertasmania.com.au/things-to-do/tours/keenanglercharters/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://eastcoasttasmania.com/to-do/adventure/itinerary/fishing/",
+      "status": 200,
+      "final_url": "https://eastcoasttasmania.com/to-do/adventure/itinerary/fishing/",
+      "bytes": 92457
+    },
+    {
+      "page": "https://fishing.tas.gov.au/recreational-fishing/fishing-tips/hot-fishing-spots/fishing-around-st-helens",
+      "status": 200,
+      "final_url": "https://fishing.tas.gov.au/recreational-fishing/fishing-tips/hot-fishing-spots/fishing-around-st-helens",
+      "bytes": 87056
+    },
+    {
+      "page": "https://www.discovertasmania.com.au/things-to-do/tours/keenanglercharters/",
+      "status": 200,
+      "final_url": "https://www.discovertasmania.com.au/things-to-do/tours/keenanglercharters/",
+      "bytes": 311303
+    }
+  ]
+}

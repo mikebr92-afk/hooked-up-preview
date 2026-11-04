@@ -1,0 +1,87 @@
+{
+  "slug": "r4-trout-tales-tasmania",
+  "request_hash": "d5a803fd6792",
+  "collected_at": "2026-11-04T03:51:04.774Z",
+  "pages_fetched": [
+    "https://www.trouttalestasmania.com.au/",
+    "https://www.trouttalestasmania.com.au/contact-us",
+    "https://www.trouttalestasmania.com.au/about",
+    "https://www.trouttalestasmania.com.au/trout-fishing-guide-tasmania",
+    "https://www.trouttalestasmania.com.au/blog/fly-fishing-tasmania",
+    "https://www.trouttalestasmania.com.au/fly-fishing-locations",
+    "https://www.trouttalestasmania.com.au/tours/fly-fishing-tours-near-central-highlands-tasmania",
+    "https://www.trouttalestasmania.com.au/tours/fly-fishing-tours-near-launceston",
+    "https://www.trouttalestasmania.com.au/tours/fly-fishing-tours-hobart",
+    "https://www.trouttalestasmania.com.au/fly-fishing-tasmania-packages",
+    "https://www.trouttalestasmania.com.au/package-category/fly-fishing-at-currawong-lakes-in-tasmania"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.trouttalestasmania.com.au/",
+      "status": 200,
+      "final_url": "https://www.trouttalestasmania.com.au/",
+      "bytes": 68608
+    },
+    {
+      "page": "https://www.trouttalestasmania.com.au/contact-us",
+      "status": 200,
+      "final_url": "https://www.trouttalestasmania.com.au/contact-us",
+      "bytes": 30312
+    },
+    {
+      "page": "https://www.trouttalestasmania.com.au/about",
+      "status": 200,
+      "final_url": "https://www.trouttalestasmania.com.au/about",
+      "bytes": 38855
+    },
+    {
+      "page": "https://www.trouttalestasmania.com.au/trout-fishing-guide-tasmania",
+      "status": 200,
+      "final_url": "https://www.trouttalestasmania.com.au/trout-fishing-guide-tasmania",
+      "bytes": 51586
+    },
+    {
+      "page": "https://www.trouttalestasmania.com.au/blog/fly-fishing-tasmania",
+      "status": 200,
+      "final_url": "https://www.trouttalestasmania.com.au/blog/fly-fishing-tasmania",
+      "bytes": 86442
+    },
+    {
+      "page": "https://www.trouttalestasmania.com.au/fly-fishing-locations",
+      "status": 200,
+      "final_url": "https://www.trouttalestasmania.com.au/fly-fishing-locations",
+      "bytes": 37172
+    },
+    {
+      "page": "https://www.trouttalestasmania.com.au/tours/fly-fishing-tours-near-central-highlands-tasmania",
+      "status": 200,
+      "final_url": "https://www.trouttalestasmania.com.au/tours/fly-fishing-tours-near-central-highlands-tasmania",
+      "bytes": 37611
+    },
+    {
+      "page": "https://www.trouttalestasmania.com.au/tours/fly-fishing-tours-near-launceston",
+      "status": 200,
+      "final_url": "https://www.trouttalestasmania.com.au/tours/fly-fishing-tours-near-launceston",
+      "bytes": 37140
+    },
+    {
+      "page": "https://www.trouttalestasmania.com.au/tours/fly-fishing-tours-hobart",
+      "status": 200,
+      "final_url": "https://www.trouttalestasmania.com.au/tours/fly-fishing-tours-hobart",
+      "bytes": 37277
+    },
+    {
+      "page": "https://www.trouttalestasmania.com.au/fly-fishing-tasmania-packages",
+      "status": 200,
+      "final_url": "https://www.trouttalestasmania.com.au/fly-fishing-tasmania-packages",
+      "bytes": 58200
+    },
+    {
+      "page": "https://www.trouttalestasmania.com.au/package-category/fly-fishing-at-currawong-lakes-in-tasmania",
+      "status": 200,
+      "final_url": "https://www.trouttalestasmania.com.au/package-category/fly-fishing-at-currawong-lakes-in-tasmania",
+      "bytes": 40146
+    }
+  ]
+}
