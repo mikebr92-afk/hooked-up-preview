@@ -1,0 +1,87 @@
+{
+  "slug": "r4-atgni",
+  "request_hash": "b8daf34e939c",
+  "collected_at": "2026-11-04T03:51:51.031Z",
+  "pages_fetched": [
+    "https://allthegearnoideasportfishing.com/",
+    "https://allthegearnoideasportfishing.com/our-charters/",
+    "https://allthegearnoideasportfishing.com/faq/",
+    "https://allthegearnoideasportfishing.com/about/",
+    "https://allthegearnoideasportfishing.com/vessel-3/",
+    "https://allthegearnoideasportfishing.com/book-now/",
+    "https://allthegearnoideasportfishing.com/contact-us/",
+    "https://allthegearnoideasportfishing.com/terms-condition/",
+    "https://allthegearnoideasportfishing.com/accessibility-statement/",
+    "https://allthegearnoideasportfishing.com/?p=1317",
+    "https://allthegearnoideasportfishing.com/ourservices/sportfishing/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://allthegearnoideasportfishing.com/",
+      "status": 200,
+      "final_url": "https://allthegearnoideasportfishing.com/",
+      "bytes": 233661
+    },
+    {
+      "page": "https://allthegearnoideasportfishing.com/our-charters/",
+      "status": 200,
+      "final_url": "https://allthegearnoideasportfishing.com/our-charters/",
+      "bytes": 283044
+    },
+    {
+      "page": "https://allthegearnoideasportfishing.com/faq/",
+      "status": 200,
+      "final_url": "https://allthegearnoideasportfishing.com/faq/",
+      "bytes": 163949
+    },
+    {
+      "page": "https://allthegearnoideasportfishing.com/about/",
+      "status": 200,
+      "final_url": "https://allthegearnoideasportfishing.com/about/",
+      "bytes": 184673
+    },
+    {
+      "page": "https://allthegearnoideasportfishing.com/vessel-3/",
+      "status": 200,
+      "final_url": "https://allthegearnoideasportfishing.com/vessel-3/",
+      "bytes": 193115
+    },
+    {
+      "page": "https://allthegearnoideasportfishing.com/book-now/",
+      "status": 200,
+      "final_url": "https://allthegearnoideasportfishing.com/book-now/",
+      "bytes": 168774
+    },
+    {
+      "page": "https://allthegearnoideasportfishing.com/contact-us/",
+      "status": 200,
+      "final_url": "https://allthegearnoideasportfishing.com/contact-us/",
+      "bytes": 161993
+    },
+    {
+      "page": "https://allthegearnoideasportfishing.com/terms-condition/",
+      "status": 200,
+      "final_url": "https://allthegearnoideasportfishing.com/terms-condition/",
+      "bytes": 128215
+    },
+    {
+      "page": "https://allthegearnoideasportfishing.com/accessibility-statement/",
+      "status": 200,
+      "final_url": "https://allthegearnoideasportfishing.com/accessibility-statement/",
+      "bytes": 105955
+    },
+    {
+      "page": "https://allthegearnoideasportfishing.com/?p=1317",
+      "status": 404,
+      "final_url": "https://allthegearnoideasportfishing.com/?p=1317",
+      "bytes": 108721
+    },
+    {
+      "page": "https://allthegearnoideasportfishing.com/ourservices/sportfishing/",
+      "status": 404,
+      "final_url": "https://allthegearnoideasportfishing.com/ourservices/sportfishing/",
+      "bytes": 108745
+    }
+  ]
+}

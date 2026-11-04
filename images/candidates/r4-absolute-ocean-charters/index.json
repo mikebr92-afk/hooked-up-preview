@@ -1,0 +1,80 @@
+{
+  "slug": "r4-absolute-ocean-charters",
+  "request_hash": "b8b08fe28542",
+  "collected_at": "2026-11-04T03:50:48.485Z",
+  "pages_fetched": [
+    "https://www.absoluteoceancharters.com.au/",
+    "https://www.absoluteoceancharters.com.au/broome-fishing-charters/",
+    "https://www.absoluteoceancharters.com.au/creek-and-estuary-fishing-charters/",
+    "https://www.absoluteoceancharters.com.au/charters/",
+    "https://www.absoluteoceancharters.com.au/overnight-fishing-charters/",
+    "https://www.absoluteoceancharters.com.au/exclusive-charters-cruises/",
+    "https://www.absoluteoceancharters.com.au/exclusive-tailored-charters/",
+    "https://www.absoluteoceancharters.com.au/rowley-shoals/",
+    "https://www.absoluteoceancharters.com.au/broome-town-tours/",
+    "https://www.absoluteoceancharters.com.au/cruises/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.absoluteoceancharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.absoluteoceancharters.com.au/",
+      "bytes": 166737
+    },
+    {
+      "page": "https://www.absoluteoceancharters.com.au/broome-fishing-charters/",
+      "status": 200,
+      "final_url": "https://www.absoluteoceancharters.com.au/broome-fishing-charters/",
+      "bytes": 178543
+    },
+    {
+      "page": "https://www.absoluteoceancharters.com.au/creek-and-estuary-fishing-charters/",
+      "status": 200,
+      "final_url": "https://www.absoluteoceancharters.com.au/creek-and-estuary-fishing-charters/",
+      "bytes": 186730
+    },
+    {
+      "page": "https://www.absoluteoceancharters.com.au/charters/",
+      "status": 200,
+      "final_url": "https://www.absoluteoceancharters.com.au/charters/",
+      "bytes": 99015
+    },
+    {
+      "page": "https://www.absoluteoceancharters.com.au/overnight-fishing-charters/",
+      "status": 200,
+      "final_url": "https://www.absoluteoceancharters.com.au/overnight-fishing-charters/",
+      "bytes": 195515
+    },
+    {
+      "page": "https://www.absoluteoceancharters.com.au/exclusive-charters-cruises/",
+      "status": 200,
+      "final_url": "https://www.absoluteoceancharters.com.au/exclusive-charters-cruises/",
+      "bytes": 96636
+    },
+    {
+      "page": "https://www.absoluteoceancharters.com.au/exclusive-tailored-charters/",
+      "status": 200,
+      "final_url": "https://www.absoluteoceancharters.com.au/exclusive-tailored-charters/",
+      "bytes": 188188
+    },
+    {
+      "page": "https://www.absoluteoceancharters.com.au/rowley-shoals/",
+      "status": 200,
+      "final_url": "https://www.absoluteoceancharters.com.au/rowley-shoals/",
+      "bytes": 179787
+    },
+    {
+      "page": "https://www.absoluteoceancharters.com.au/broome-town-tours/",
+      "status": 200,
+      "final_url": "https://www.absoluteoceancharters.com.au/broome-town-tours/",
+      "bytes": 161557
+    },
+    {
+      "page": "https://www.absoluteoceancharters.com.au/cruises/",
+      "status": 200,
+      "final_url": "https://www.absoluteoceancharters.com.au/cruises/",
+      "bytes": 99180
+    }
+  ]
+}

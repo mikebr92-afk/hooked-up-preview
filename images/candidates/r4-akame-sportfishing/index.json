@@ -1,0 +1,94 @@
+{
+  "slug": "r4-akame-sportfishing",
+  "request_hash": "f33e6ed3187f",
+  "collected_at": "2026-11-04T03:50:52.957Z",
+  "pages_fetched": [
+    "https://akamesportfishing.com.au/",
+    "https://www.visitbroome.com.au/members/akame-sportfishing",
+    "https://akamesportfishing.com.au/about/",
+    "https://akamesportfishing.com.au/vessels/",
+    "https://akamesportfishing.com.au/creekfishing-livescope/",
+    "https://akamesportfishing.com.au/remote-charters/",
+    "https://akamesportfishing.com.au/fly-fishing/",
+    "https://akamesportfishing.com.au/topwater-fishing/",
+    "https://akamesportfishing.com.au/game-fishing/",
+    "https://akamesportfishing.com.au/contact/",
+    "https://www.visitbroome.com.au/contact-us",
+    "https://www.visitbroome.com.au/see-and-do/pearl-tours"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://akamesportfishing.com.au/",
+      "status": 200,
+      "final_url": "https://akamesportfishing.com.au/",
+      "bytes": 119591
+    },
+    {
+      "page": "https://www.visitbroome.com.au/members/akame-sportfishing",
+      "status": 200,
+      "final_url": "https://www.visitbroome.com.au/members/akame-sportfishing",
+      "bytes": 57513
+    },
+    {
+      "page": "https://akamesportfishing.com.au/about/",
+      "status": 200,
+      "final_url": "https://akamesportfishing.com.au/about/",
+      "bytes": 115237
+    },
+    {
+      "page": "https://akamesportfishing.com.au/vessels/",
+      "status": 200,
+      "final_url": "https://akamesportfishing.com.au/vessels/",
+      "bytes": 114305
+    },
+    {
+      "page": "https://akamesportfishing.com.au/creekfishing-livescope/",
+      "status": 200,
+      "final_url": "https://akamesportfishing.com.au/creekfishing-livescope/",
+      "bytes": 89417
+    },
+    {
+      "page": "https://akamesportfishing.com.au/remote-charters/",
+      "status": 200,
+      "final_url": "https://akamesportfishing.com.au/remote-charters/",
+      "bytes": 89383
+    },
+    {
+      "page": "https://akamesportfishing.com.au/fly-fishing/",
+      "status": 200,
+      "final_url": "https://akamesportfishing.com.au/fly-fishing/",
+      "bytes": 89746
+    },
+    {
+      "page": "https://akamesportfishing.com.au/topwater-fishing/",
+      "status": 200,
+      "final_url": "https://akamesportfishing.com.au/topwater-fishing/",
+      "bytes": 87821
+    },
+    {
+      "page": "https://akamesportfishing.com.au/game-fishing/",
+      "status": 200,
+      "final_url": "https://akamesportfishing.com.au/game-fishing/",
+      "bytes": 88298
+    },
+    {
+      "page": "https://akamesportfishing.com.au/contact/",
+      "status": 200,
+      "final_url": "https://akamesportfishing.com.au/contact/",
+      "bytes": 92304
+    },
+    {
+      "page": "https://www.visitbroome.com.au/contact-us",
+      "status": 200,
+      "final_url": "https://www.visitbroome.com.au/contact-us",
+      "bytes": 64839
+    },
+    {
+      "page": "https://www.visitbroome.com.au/see-and-do/pearl-tours",
+      "status": 200,
+      "final_url": "https://www.visitbroome.com.au/see-and-do/pearl-tours",
+      "bytes": 109871
+    }
+  ]
+}

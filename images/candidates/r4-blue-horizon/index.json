@@ -1,0 +1,80 @@
+{
+  "slug": "r4-blue-horizon",
+  "request_hash": "b29902baeb76",
+  "collected_at": "2026-11-04T03:51:56.279Z",
+  "pages_fetched": [
+    "https://www.bluehorizoncharters.com.au/",
+    "https://www.bluehorizoncharters.com.au/about-blue-horizon-charters/",
+    "https://www.bluehorizoncharters.com.au/fishing-trips/montebello-islands/",
+    "https://www.bluehorizoncharters.com.au/fishing-trips/island-adventures/",
+    "https://www.bluehorizoncharters.com.au/fishing-trips/day-trips/",
+    "https://www.bluehorizoncharters.com.au/fishing-trips/exclusive-charters/",
+    "https://www.bluehorizoncharters.com.au/fishing-trips/gamex/",
+    "https://www.bluehorizoncharters.com.au/fishing-trips/charter-fishing-bookings/",
+    "https://www.bluehorizoncharters.com.au/perth-cruises/",
+    "https://www.bluehorizoncharters.com.au/perth-cruises/rottnest-island-cruises/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.bluehorizoncharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.bluehorizoncharters.com.au/",
+      "bytes": 239756
+    },
+    {
+      "page": "https://www.bluehorizoncharters.com.au/about-blue-horizon-charters/",
+      "status": 200,
+      "final_url": "https://www.bluehorizoncharters.com.au/about-blue-horizon-charters/",
+      "bytes": 154792
+    },
+    {
+      "page": "https://www.bluehorizoncharters.com.au/fishing-trips/montebello-islands/",
+      "status": 200,
+      "final_url": "https://www.bluehorizoncharters.com.au/fishing-trips/montebello-islands/",
+      "bytes": 219752
+    },
+    {
+      "page": "https://www.bluehorizoncharters.com.au/fishing-trips/island-adventures/",
+      "status": 200,
+      "final_url": "https://www.bluehorizoncharters.com.au/fishing-trips/island-adventures/",
+      "bytes": 226563
+    },
+    {
+      "page": "https://www.bluehorizoncharters.com.au/fishing-trips/day-trips/",
+      "status": 200,
+      "final_url": "https://www.bluehorizoncharters.com.au/fishing-trips/day-trips/",
+      "bytes": 234505
+    },
+    {
+      "page": "https://www.bluehorizoncharters.com.au/fishing-trips/exclusive-charters/",
+      "status": 200,
+      "final_url": "https://www.bluehorizoncharters.com.au/fishing-trips/exclusive-charters/",
+      "bytes": 221377
+    },
+    {
+      "page": "https://www.bluehorizoncharters.com.au/fishing-trips/gamex/",
+      "status": 200,
+      "final_url": "https://www.bluehorizoncharters.com.au/fishing-trips/gamex/",
+      "bytes": 216292
+    },
+    {
+      "page": "https://www.bluehorizoncharters.com.au/fishing-trips/charter-fishing-bookings/",
+      "status": 200,
+      "final_url": "https://www.bluehorizoncharters.com.au/fishing-trips/charter-fishing-bookings/",
+      "bytes": 154585
+    },
+    {
+      "page": "https://www.bluehorizoncharters.com.au/perth-cruises/",
+      "status": 200,
+      "final_url": "https://www.bluehorizoncharters.com.au/perth-cruises/",
+      "bytes": 176896
+    },
+    {
+      "page": "https://www.bluehorizoncharters.com.au/perth-cruises/rottnest-island-cruises/",
+      "status": 200,
+      "final_url": "https://www.bluehorizoncharters.com.au/perth-cruises/rottnest-island-cruises/",
+      "bytes": 216577
+    }
+  ]
+}

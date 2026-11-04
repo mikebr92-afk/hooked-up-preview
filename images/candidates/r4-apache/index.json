@@ -1,0 +1,80 @@
+{
+  "slug": "r4-apache",
+  "request_hash": "515e1979d450",
+  "collected_at": "2026-11-04T03:52:03.053Z",
+  "pages_fetched": [
+    "https://www.apachecharters.com.au/",
+    "https://www.apachecharters.com.au/abrolhos-fishing-charters",
+    "https://www.apachecharters.com.au/montebello-islands-fishing-charters",
+    "https://www.apachecharters.com.au/cart",
+    "https://www.apachecharters.com.au/shark-bay-fishing-charters",
+    "https://www.apachecharters.com.au/rottnest-island-boat-charters",
+    "https://www.apachecharters.com.au/carnac-island-boat-charters",
+    "https://www.apachecharters.com.au/swan-river-cruises",
+    "https://www.apachecharters.com.au/about",
+    "https://www.apachecharters.com.au/contact"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.apachecharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.apachecharters.com.au/",
+      "bytes": 415288
+    },
+    {
+      "page": "https://www.apachecharters.com.au/abrolhos-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.apachecharters.com.au/abrolhos-fishing-charters",
+      "bytes": 443085
+    },
+    {
+      "page": "https://www.apachecharters.com.au/montebello-islands-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.apachecharters.com.au/montebello-islands-fishing-charters",
+      "bytes": 619952
+    },
+    {
+      "page": "https://www.apachecharters.com.au/cart",
+      "status": 200,
+      "final_url": "https://www.apachecharters.com.au/cart",
+      "bytes": 297256
+    },
+    {
+      "page": "https://www.apachecharters.com.au/shark-bay-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.apachecharters.com.au/shark-bay-fishing-charters",
+      "bytes": 930679
+    },
+    {
+      "page": "https://www.apachecharters.com.au/rottnest-island-boat-charters",
+      "status": 200,
+      "final_url": "https://www.apachecharters.com.au/rottnest-island-boat-charters",
+      "bytes": 712766
+    },
+    {
+      "page": "https://www.apachecharters.com.au/carnac-island-boat-charters",
+      "status": 200,
+      "final_url": "https://www.apachecharters.com.au/carnac-island-boat-charters",
+      "bytes": 757416
+    },
+    {
+      "page": "https://www.apachecharters.com.au/swan-river-cruises",
+      "status": 200,
+      "final_url": "https://www.apachecharters.com.au/swan-river-cruises",
+      "bytes": 684982
+    },
+    {
+      "page": "https://www.apachecharters.com.au/about",
+      "status": 200,
+      "final_url": "https://www.apachecharters.com.au/about",
+      "bytes": 235179
+    },
+    {
+      "page": "https://www.apachecharters.com.au/contact",
+      "status": 200,
+      "final_url": "https://www.apachecharters.com.au/contact",
+      "bytes": 308963
+    }
+  ]
+}

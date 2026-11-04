@@ -1,0 +1,80 @@
+{
+  "slug": "r4-innkeeper",
+  "request_hash": "c0d7d64024cf",
+  "collected_at": "2026-11-04T03:51:59.878Z",
+  "pages_fetched": [
+    "https://innkeepersportfishing.com/",
+    "https://innkeepersportfishing.com/about/",
+    "https://innkeepersportfishing.com/packages/",
+    "https://innkeepersportfishing.com/packages/billfishing/",
+    "https://innkeepersportfishing.com/packages/reef-fishing/",
+    "https://innkeepersportfishing.com/packages/live-aboards/",
+    "https://innkeepersportfishing.com/packages/exmouth-gulf-sailfish-adventure/",
+    "https://innkeepersportfishing.com/the-boat/",
+    "https://innkeepersportfishing.com/the-skipper/",
+    "https://innkeepersportfishing.com/gallery/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://innkeepersportfishing.com/",
+      "status": 200,
+      "final_url": "https://innkeepersportfishing.com/",
+      "bytes": 91574
+    },
+    {
+      "page": "https://innkeepersportfishing.com/about/",
+      "status": 200,
+      "final_url": "https://innkeepersportfishing.com/about/",
+      "bytes": 83580
+    },
+    {
+      "page": "https://innkeepersportfishing.com/packages/",
+      "status": 200,
+      "final_url": "https://innkeepersportfishing.com/packages/",
+      "bytes": 84920
+    },
+    {
+      "page": "https://innkeepersportfishing.com/packages/billfishing/",
+      "status": 200,
+      "final_url": "https://innkeepersportfishing.com/packages/billfishing/",
+      "bytes": 74840
+    },
+    {
+      "page": "https://innkeepersportfishing.com/packages/reef-fishing/",
+      "status": 200,
+      "final_url": "https://innkeepersportfishing.com/packages/reef-fishing/",
+      "bytes": 76623
+    },
+    {
+      "page": "https://innkeepersportfishing.com/packages/live-aboards/",
+      "status": 200,
+      "final_url": "https://innkeepersportfishing.com/packages/live-aboards/",
+      "bytes": 80415
+    },
+    {
+      "page": "https://innkeepersportfishing.com/packages/exmouth-gulf-sailfish-adventure/",
+      "status": 200,
+      "final_url": "https://innkeepersportfishing.com/packages/exmouth-gulf-sailfish-adventure/",
+      "bytes": 74217
+    },
+    {
+      "page": "https://innkeepersportfishing.com/the-boat/",
+      "status": 200,
+      "final_url": "https://innkeepersportfishing.com/the-boat/",
+      "bytes": 91011
+    },
+    {
+      "page": "https://innkeepersportfishing.com/the-skipper/",
+      "status": 200,
+      "final_url": "https://innkeepersportfishing.com/the-skipper/",
+      "bytes": 81054
+    },
+    {
+      "page": "https://innkeepersportfishing.com/gallery/",
+      "status": 200,
+      "final_url": "https://innkeepersportfishing.com/gallery/",
+      "bytes": 137390
+    }
+  ]
+}

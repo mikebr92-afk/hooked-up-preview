@@ -1,0 +1,94 @@
+{
+  "slug": "r4-pelican",
+  "request_hash": "49784e5dfcd2",
+  "collected_at": "2026-11-04T03:53:44.460Z",
+  "pages_fetched": [
+    "https://www.pelicancharters.com.au/montebello-islands-fishing/",
+    "https://www.pelicancharters.com.au/montebello-islands-charters/",
+    "https://www.pelicancharters.com.au/",
+    "https://www.pelicancharters.com.au/swan-river-cruise-boat-hire-perth/",
+    "https://www.pelicancharters.com.au/carnac-island-charters/",
+    "https://www.pelicancharters.com.au/boat-hire-perth-to-rottnest-island-wa/",
+    "https://www.pelicancharters.com.au/perth-birthday-boat-hire/",
+    "https://www.pelicancharters.com.au/hens-night-boat-party-perth/",
+    "https://www.pelicancharters.com.au/bucks-party-bucks-night-ideas-games/",
+    "https://www.pelicancharters.com.au/perth-christmas-party-boat-cruises/",
+    "https://www.pelicancharters.com.au/vessels/",
+    "https://www.pelicancharters.com.au/the-pelican/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.pelicancharters.com.au/montebello-islands-fishing/",
+      "status": 200,
+      "final_url": "https://www.pelicancharters.com.au/montebello-islands-fishing/",
+      "bytes": 1134443
+    },
+    {
+      "page": "https://www.pelicancharters.com.au/montebello-islands-charters/",
+      "status": 200,
+      "final_url": "https://www.pelicancharters.com.au/montebello-islands-charters/",
+      "bytes": 1122521
+    },
+    {
+      "page": "https://www.pelicancharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.pelicancharters.com.au/",
+      "bytes": 1031104
+    },
+    {
+      "page": "https://www.pelicancharters.com.au/swan-river-cruise-boat-hire-perth/",
+      "status": 200,
+      "final_url": "https://www.pelicancharters.com.au/swan-river-cruise-boat-hire-perth/",
+      "bytes": 1100365
+    },
+    {
+      "page": "https://www.pelicancharters.com.au/carnac-island-charters/",
+      "status": 200,
+      "final_url": "https://www.pelicancharters.com.au/carnac-island-charters/",
+      "bytes": 1095398
+    },
+    {
+      "page": "https://www.pelicancharters.com.au/boat-hire-perth-to-rottnest-island-wa/",
+      "status": 200,
+      "final_url": "https://www.pelicancharters.com.au/boat-hire-perth-to-rottnest-island-wa/",
+      "bytes": 1111422
+    },
+    {
+      "page": "https://www.pelicancharters.com.au/perth-birthday-boat-hire/",
+      "status": 200,
+      "final_url": "https://www.pelicancharters.com.au/perth-birthday-boat-hire/",
+      "bytes": 976943
+    },
+    {
+      "page": "https://www.pelicancharters.com.au/hens-night-boat-party-perth/",
+      "status": 200,
+      "final_url": "https://www.pelicancharters.com.au/hens-night-boat-party-perth/",
+      "bytes": 1013051
+    },
+    {
+      "page": "https://www.pelicancharters.com.au/bucks-party-bucks-night-ideas-games/",
+      "status": 200,
+      "final_url": "https://www.pelicancharters.com.au/bucks-party-bucks-night-ideas-games/",
+      "bytes": 1099220
+    },
+    {
+      "page": "https://www.pelicancharters.com.au/perth-christmas-party-boat-cruises/",
+      "status": 200,
+      "final_url": "https://www.pelicancharters.com.au/perth-christmas-party-boat-cruises/",
+      "bytes": 995932
+    },
+    {
+      "page": "https://www.pelicancharters.com.au/vessels/",
+      "status": 200,
+      "final_url": "https://www.pelicancharters.com.au/vessels/",
+      "bytes": 1105434
+    },
+    {
+      "page": "https://www.pelicancharters.com.au/the-pelican/",
+      "status": 200,
+      "final_url": "https://www.pelicancharters.com.au/the-pelican/",
+      "bytes": 1076342
+    }
+  ]
+}

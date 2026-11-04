@@ -1,0 +1,59 @@
+{
+  "slug": "r4-birchys",
+  "request_hash": "fa8bf407da34",
+  "collected_at": "2026-11-04T03:52:09.807Z",
+  "pages_fetched": [
+    "https://birchysfishingtours.com.au/",
+    "https://birchysfishingtours.com.au/about",
+    "https://birchysfishingtours.com.au/fishing-safari",
+    "https://birchysfishingtours.com.au/tagalong",
+    "https://birchysfishingtours.com.au/gallery",
+    "https://birchysfishingtours.com.au/instagram",
+    "https://birchysfishingtours.com.au/contact"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://birchysfishingtours.com.au/",
+      "status": 200,
+      "final_url": "https://birchysfishingtours.com.au/",
+      "bytes": 27413
+    },
+    {
+      "page": "https://birchysfishingtours.com.au/about",
+      "status": 200,
+      "final_url": "https://birchysfishingtours.com.au/about",
+      "bytes": 17649
+    },
+    {
+      "page": "https://birchysfishingtours.com.au/fishing-safari",
+      "status": 200,
+      "final_url": "https://birchysfishingtours.com.au/fishing-safari",
+      "bytes": 53266
+    },
+    {
+      "page": "https://birchysfishingtours.com.au/tagalong",
+      "status": 200,
+      "final_url": "https://birchysfishingtours.com.au/tagalong",
+      "bytes": 22748
+    },
+    {
+      "page": "https://birchysfishingtours.com.au/gallery",
+      "status": 200,
+      "final_url": "https://birchysfishingtours.com.au/gallery",
+      "bytes": 63868
+    },
+    {
+      "page": "https://birchysfishingtours.com.au/instagram",
+      "status": 200,
+      "final_url": "https://birchysfishingtours.com.au/instagram",
+      "bytes": 13208
+    },
+    {
+      "page": "https://birchysfishingtours.com.au/contact",
+      "status": 200,
+      "final_url": "https://birchysfishingtours.com.au/contact",
+      "bytes": 20521
+    }
+  ]
+}
