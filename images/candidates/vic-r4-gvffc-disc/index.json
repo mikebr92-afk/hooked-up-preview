@@ -1,0 +1,45 @@
+{
+  "slug": "vic-r4-gvffc-disc",
+  "request_hash": "26346509ada5",
+  "collected_at": "2026-11-04T03:55:07.068Z",
+  "pages_fetched": [
+    "https://www.melbourneplaygrounds.com.au/thornton-goulburn-valley-fly-fishing-centre",
+    "https://www.melbourneplaygrounds.com.au/goulburn-river-fishing",
+    "https://shop.onehourout.com.au/pages/about-antony-boliancu",
+    "https://thorntonvillage.org/thornton-fly-fishery/",
+    "https://assets.big4.com.au/caravan-parks/vic/victorias-high-country/taggerty-holiday-park/whats-local/fly-fishing"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.melbourneplaygrounds.com.au/thornton-goulburn-valley-fly-fishing-centre",
+      "status": 200,
+      "final_url": "https://www.melbourneplaygrounds.com.au/thornton-goulburn-valley-fly-fishing-centre",
+      "bytes": 52057
+    },
+    {
+      "page": "https://www.melbourneplaygrounds.com.au/goulburn-river-fishing",
+      "status": 200,
+      "final_url": "https://www.melbourneplaygrounds.com.au/goulburn-river-fishing",
+      "bytes": 51636
+    },
+    {
+      "page": "https://shop.onehourout.com.au/pages/about-antony-boliancu",
+      "status": 402,
+      "final_url": "https://shop.onehourout.com.au/pages/about-antony-boliancu",
+      "bytes": 10348
+    },
+    {
+      "page": "https://thorntonvillage.org/thornton-fly-fishery/",
+      "status": 200,
+      "final_url": "https://thorntonvillage.org/thornton-fly-fishery/",
+      "bytes": 172777
+    },
+    {
+      "page": "https://assets.big4.com.au/caravan-parks/vic/victorias-high-country/taggerty-holiday-park/whats-local/fly-fishing",
+      "status": 200,
+      "final_url": "https://assets.big4.com.au/caravan-parks/vic/victorias-high-country/taggerty-holiday-park/whats-local/fly-fishing",
+      "bytes": 354735
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "vic-r4-pdfs",
+  "request_hash": "3289faac2410",
+  "collected_at": "2026-11-04T03:55:22.539Z",
+  "pages_fetched": [
+    "https://www.visitalburywodonga.com/wp-content/uploads/2025/12/Water-Activities-.pdf",
+    "https://www.visiteastgippsland.com.au/wp-content/uploads/2025/09/SEPTEMBER-2025-WHATS-ON-1.pdf",
+    "https://www.greatvictorianrailtrail.com.au/listing/back-of-beyond-fly-fishing-mansfield/",
+    "https://www.greatvictorianrailtrail.com.au/listing/murray-cod-driftboat-fly-fishing-mansfield/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.visitalburywodonga.com/wp-content/uploads/2025/12/Water-Activities-.pdf",
+      "status": 200,
+      "final_url": "https://www.visitalburywodonga.com/wp-content/uploads/2025/12/Water-Activities-.pdf",
+      "bytes": 301916
+    },
+    {
+      "page": "https://www.visiteastgippsland.com.au/wp-content/uploads/2025/09/SEPTEMBER-2025-WHATS-ON-1.pdf",
+      "status": 404,
+      "final_url": "https://www.visiteastgippsland.com.au/wp-content/uploads/2025/09/SEPTEMBER-2025-WHATS-ON-1.pdf",
+      "bytes": 1674
+    },
+    {
+      "page": "https://www.greatvictorianrailtrail.com.au/listing/back-of-beyond-fly-fishing-mansfield/",
+      "status": 404,
+      "final_url": "https://www.greatvictorianrailtrail.com.au/listing/back-of-beyond-fly-fishing-mansfield/",
+      "bytes": 60939
+    },
+    {
+      "page": "https://www.greatvictorianrailtrail.com.au/listing/murray-cod-driftboat-fly-fishing-mansfield/",
+      "status": 404,
+      "final_url": "https://www.greatvictorianrailtrail.com.au/listing/murray-cod-driftboat-fly-fishing-mansfield/",
+      "bytes": 60581
+    }
+  ]
+}

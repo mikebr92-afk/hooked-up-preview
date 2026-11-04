@@ -1,0 +1,137 @@
+{
+  "slug": "troutlore-guided",
+  "request_hash": "5e8024745869",
+  "collected_at": "2026-11-04T03:55:17.030Z",
+  "pages_fetched": [
+    "https://troutlore.com.au/pages/guided-fly-fishing",
+    "https://troutlore.com.au/collections/guided-fishing"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1440,
+      "height": 924,
+      "original": "1440x924",
+      "source": "https://cdn.shopify.com/s/files/1/0722/2234/3409/files/BROWN_TROUT_SUNSHINE.jpg?v=1738819185",
+      "page": "https://troutlore.com.au/pages/guided-fly-fishing",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 1440,
+      "height": 924,
+      "original": "1440x924",
+      "source": "https://cdn.shopify.com/s/files/1/0722/2234/3409/files/carpn.jpg?v=1737954418",
+      "page": "https://troutlore.com.au/pages/guided-fly-fishing",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1391,
+      "height": 780,
+      "original": "1391x780",
+      "source": "https://cdn.shopify.com/s/files/1/0722/2234/3409/files/SMALL_STREAM_BIG_TROUT.jpg?v=1737956014",
+      "page": "https://troutlore.com.au/pages/guided-fly-fishing",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1440,
+      "height": 924,
+      "original": "1440x924",
+      "source": "https://cdn.shopify.com/s/files/1/0722/2234/3409/files/STREAMSIDE.jpg?v=1738819193",
+      "page": "https://troutlore.com.au/pages/guided-fly-fishing",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1147,
+      "height": 645,
+      "original": "1147x645",
+      "source": "http://www.troutlore.com.au/cdn/shop/collections/GUIDING_04.jpg?v=1735190198",
+      "page": "https://troutlore.com.au/collections/guided-fishing",
+      "priority": true
+    }
+  ],
+  "log": [
+    {
+      "page": "https://troutlore.com.au/pages/guided-fly-fishing",
+      "status": 200,
+      "final_url": "https://www.troutlore.com.au/pages/guided-fly-fishing",
+      "bytes": 287586
+    },
+    {
+      "page": "https://troutlore.com.au/collections/guided-fishing",
+      "status": 200,
+      "final_url": "https://www.troutlore.com.au/collections/guided-fishing",
+      "bytes": 342864
+    },
+    {
+      "dup": "https://www.troutlore.com.au/cdn/shop/collections/GUIDING_04.jpg?v=1735190198"
+    },
+    {
+      "image": "https://www.troutlore.com.au/cdn/shop/files/GUIDING_03.jpg?v=1755496577&width=533",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://www.troutlore.com.au/cdn/shop/files/CARP_FLY_FISHING_GUIDE_TROUTLORE.jpg?v=1741765972&width=533",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://www.troutlore.com.au/cdn/shop/files/CARP_GUIDING_03.jpg?v=1741765972&width=533",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://www.troutlore.com.au/cdn/shop/files/CARP_GUIDING_01.jpg?v=1741765972&width=533",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://www.troutlore.com.au/cdn/shop/files/TROUT_GUIDING_01.jpg?v=1755496577&width=533",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://www.troutlore.com.au/cdn/shop/files/GUIDING_02.jpg?v=1755496577&width=533",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://www.troutlore.com.au/cdn/shop/files/DUO_CARPO.jpg?v=1738819656&width=533",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://www.troutlore.com.au/cdn/shop/files/BEN_CARP.jpg?v=1738819656&width=533",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://www.troutlore.com.au/cdn/shop/files/GUIDING_03.jpg?v=1755496577",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://www.troutlore.com.au/cdn/shop/files/CARP_FLY_FISHING_GUIDE_TROUTLORE.jpg?v=1741765972",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://www.troutlore.com.au/cdn/shop/files/CARP_GUIDING_03.jpg?v=1741765972",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://www.troutlore.com.au/cdn/shop/files/CARP_GUIDING_01.jpg?v=1741765972",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://www.troutlore.com.au/cdn/shop/files/TROUT_GUIDING_01.jpg?v=1755496577",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://www.troutlore.com.au/cdn/shop/files/GUIDING_02.jpg?v=1755496577",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://www.troutlore.com.au/cdn/shop/files/DUO_CARPO.jpg?v=1738819656",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://www.troutlore.com.au/cdn/shop/files/BEN_CARP.jpg?v=1738819656",
+      "error": "too small 500x500"
+    }
+  ]
+}

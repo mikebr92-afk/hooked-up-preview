@@ -1,40 +1,48 @@
 {
-  "finished_at": "2026-11-04T03:53:17.448Z",
+  "finished_at": "2026-11-04T03:55:22.539Z",
   "summary": [
     {
       "slug": "southern-fly-fishing-adventures",
-      "candidates": 16,
-      "pages": 11
+      "skipped": true
     },
     {
       "slug": "indulgence-flyfishing",
-      "candidates": 0,
-      "pages": 1
+      "skipped": true
     },
     {
       "slug": "vic-r4-gipps-tourism",
-      "candidates": 0,
-      "pages": 7
+      "skipped": true
     },
     {
       "slug": "sea-myth-fishing-charters-r4",
-      "candidates": 3,
-      "pages": 1
+      "skipped": true
     },
     {
       "slug": "screw-loose-fishing-charters-r4",
-      "candidates": 10,
-      "pages": 7
+      "skipped": true
     },
     {
       "slug": "vic-r4-murray-tourism",
-      "candidates": 0,
-      "pages": 6
+      "skipped": true
     },
     {
       "slug": "westernport-fishing-charters-r4",
+      "skipped": true
+    },
+    {
+      "slug": "vic-r4-gvffc-disc",
       "candidates": 0,
-      "pages": 11
+      "pages": 5
+    },
+    {
+      "slug": "troutlore-guided",
+      "candidates": 5,
+      "pages": 2
+    },
+    {
+      "slug": "vic-r4-pdfs",
+      "candidates": 0,
+      "pages": 4
     }
   ]
 }
