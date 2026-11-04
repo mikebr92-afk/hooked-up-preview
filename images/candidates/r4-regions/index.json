@@ -1,0 +1,45 @@
+{
+  "slug": "r4-regions",
+  "request_hash": "91ffac70fa0a",
+  "collected_at": "2026-11-04T04:04:55.882Z",
+  "pages_fetched": [
+    "https://www.australiascoralcoast.com/",
+    "https://www.australiascoralcoast.com/destinations/geraldton-surrounds/houtman-abrolhos-islands",
+    "https://www.australiasnorthwest.com/see-do/fishing/",
+    "https://www.australiasnorthwest.com/explore/kimberley/kununurra/fishing-kununurra/",
+    "https://www.visitkununurra.com/kimberley-fishing"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.australiascoralcoast.com/",
+      "status": 200,
+      "final_url": "https://www.australiascoralcoast.com/",
+      "bytes": 309150
+    },
+    {
+      "page": "https://www.australiascoralcoast.com/destinations/geraldton-surrounds/houtman-abrolhos-islands",
+      "status": 200,
+      "final_url": "https://www.australiascoralcoast.com/destinations/geraldton-surrounds/houtman-abrolhos-islands",
+      "bytes": 253703
+    },
+    {
+      "page": "https://www.australiasnorthwest.com/see-do/fishing/",
+      "status": 200,
+      "final_url": "https://www.australiasnorthwest.com/see-do/fishing/",
+      "bytes": 421326
+    },
+    {
+      "page": "https://www.australiasnorthwest.com/explore/kimberley/kununurra/fishing-kununurra/",
+      "status": 200,
+      "final_url": "https://www.australiasnorthwest.com/explore/kimberley/kununurra/fishing-kununurra/",
+      "bytes": 178963
+    },
+    {
+      "page": "https://www.visitkununurra.com/kimberley-fishing",
+      "status": 200,
+      "final_url": "https://www.visitkununurra.com/kimberley-fishing",
+      "bytes": 48025
+    }
+  ]
+}

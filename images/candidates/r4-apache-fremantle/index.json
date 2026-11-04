@@ -1,7 +1,7 @@
 {
   "slug": "r4-apache-fremantle",
   "request_hash": "a296fa08f8c2",
-  "collected_at": "2026-11-04T03:55:07.531Z",
+  "collected_at": "2026-11-04T04:01:36.995Z",
   "pages_fetched": [
     "https://www.apachecharters.com.au/fremantle-deep-sea-fishing-and-rock-lobster-tour",
     "https://visitfremantle.com.au/fremantle-rock-lobster-tours",
@@ -25,7 +25,7 @@
       "page": "https://www.westernaustralia.com/au/tour/apache-charters---fremantle/56b26979aeeeaaf773cfbf95",
       "status": 200,
       "final_url": "https://www.westernaustralia.com/au/tour/apache-charters---fremantle/56b26979aeeeaaf773cfbf95",
-      "bytes": 1403377
+      "bytes": 1403349
     }
   ]
 }

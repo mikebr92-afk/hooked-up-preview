@@ -1,5 +1,5 @@
 {
-  "finished_at": "2026-11-04T03:58:29.414Z",
+  "finished_at": "2026-11-04T04:04:55.882Z",
   "summary": [
     {
       "slug": "r4-apache-fremantle",
@@ -95,6 +95,16 @@
       "slug": "r4-pelican",
       "candidates": 0,
       "pages": 12
+    },
+    {
+      "slug": "r4-rules",
+      "candidates": 0,
+      "pages": 4
+    },
+    {
+      "slug": "r4-regions",
+      "candidates": 0,
+      "pages": 5
     }
   ]
 }

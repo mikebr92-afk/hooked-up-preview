@@ -1,7 +1,7 @@
 {
   "slug": "r4-offshore-charters-wa",
   "request_hash": "97148c67ef8d",
-  "collected_at": "2026-11-04T03:56:50.192Z",
+  "collected_at": "2026-11-04T04:03:14.704Z",
   "pages_fetched": [
     "https://www.offshorecharterswa.com.au/",
     "https://www.offshorecharterswa.com.au/gallery",
@@ -18,49 +18,49 @@
       "page": "https://www.offshorecharterswa.com.au/",
       "status": 200,
       "final_url": "https://www.offshorecharterswa.com.au/",
-      "bytes": 942740
+      "bytes": 938818
     },
     {
       "page": "https://www.offshorecharterswa.com.au/gallery",
       "status": 200,
       "final_url": "https://www.offshorecharterswa.com.au/gallery",
-      "bytes": 609051
+      "bytes": 609848
     },
     {
       "page": "https://www.offshorecharterswa.com.au/snorkeling",
       "status": 200,
       "final_url": "https://www.offshorecharterswa.com.au/snorkeling",
-      "bytes": 577126
+      "bytes": 577838
     },
     {
       "page": "https://www.offshorecharterswa.com.au/abrolhos-islands",
       "status": 200,
       "final_url": "https://www.offshorecharterswa.com.au/abrolhos-islands",
-      "bytes": 742147
+      "bytes": 741700
     },
     {
       "page": "https://www.offshorecharterswa.com.au/crayfish-charters",
       "status": 200,
       "final_url": "https://www.offshorecharterswa.com.au/crayfish-charters",
-      "bytes": 604319
+      "bytes": 604444
     },
     {
       "page": "https://www.offshorecharterswa.com.au/fishing-charters",
       "status": 200,
       "final_url": "https://www.offshorecharterswa.com.au/fishing-charters",
-      "bytes": 851426
+      "bytes": 857067
     },
     {
       "page": "https://www.offshorecharterswa.com.au/whale-watching",
       "status": 200,
       "final_url": "https://www.offshorecharterswa.com.au/whale-watching",
-      "bytes": 556899
+      "bytes": 553452
     },
     {
       "page": "https://www.offshorecharterswa.com.au/about-1",
       "status": 200,
       "final_url": "https://www.offshorecharterswa.com.au/about-1",
-      "bytes": 575619
+      "bytes": 576315
     }
   ]
 }

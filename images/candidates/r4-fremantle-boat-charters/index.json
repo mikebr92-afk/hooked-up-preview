@@ -1,7 +1,7 @@
 {
   "slug": "r4-fremantle-boat-charters",
   "request_hash": "b14ce35e5404",
-  "collected_at": "2026-11-04T03:55:43.051Z",
+  "collected_at": "2026-11-04T04:02:13.125Z",
   "pages_fetched": [
     "https://fremantleboatcharters.com.au/",
     "https://fishingbooker.com/charters/view/8508"
@@ -18,7 +18,7 @@
       "page": "https://fishingbooker.com/charters/view/8508",
       "status": 403,
       "final_url": "https://fishingbooker.com/charters/view/8508",
-      "bytes": 5835
+      "bytes": 5813
     }
   ]
 }

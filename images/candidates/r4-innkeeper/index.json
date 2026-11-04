@@ -1,7 +1,7 @@
 {
   "slug": "r4-innkeeper",
   "request_hash": "c0d7d64024cf",
-  "collected_at": "2026-11-04T03:56:44.917Z",
+  "collected_at": "2026-11-04T04:03:12.411Z",
   "pages_fetched": [
     "https://innkeepersportfishing.com/",
     "https://innkeepersportfishing.com/about/",
@@ -20,61 +20,61 @@
       "page": "https://innkeepersportfishing.com/",
       "status": 200,
       "final_url": "https://innkeepersportfishing.com/",
-      "bytes": 93889
+      "bytes": 93453
     },
     {
       "page": "https://innkeepersportfishing.com/about/",
       "status": 200,
       "final_url": "https://innkeepersportfishing.com/about/",
-      "bytes": 85214
+      "bytes": 83850
     },
     {
       "page": "https://innkeepersportfishing.com/packages/",
       "status": 200,
       "final_url": "https://innkeepersportfishing.com/packages/",
-      "bytes": 84094
+      "bytes": 85179
     },
     {
       "page": "https://innkeepersportfishing.com/packages/billfishing/",
       "status": 200,
       "final_url": "https://innkeepersportfishing.com/packages/billfishing/",
-      "bytes": 75750
+      "bytes": 74896
     },
     {
       "page": "https://innkeepersportfishing.com/packages/reef-fishing/",
       "status": 200,
       "final_url": "https://innkeepersportfishing.com/packages/reef-fishing/",
-      "bytes": 77362
+      "bytes": 76662
     },
     {
       "page": "https://innkeepersportfishing.com/packages/live-aboards/",
       "status": 200,
       "final_url": "https://innkeepersportfishing.com/packages/live-aboards/",
-      "bytes": 78993
+      "bytes": 78374
     },
     {
       "page": "https://innkeepersportfishing.com/packages/exmouth-gulf-sailfish-adventure/",
       "status": 200,
       "final_url": "https://innkeepersportfishing.com/packages/exmouth-gulf-sailfish-adventure/",
-      "bytes": 74128
+      "bytes": 75306
     },
     {
       "page": "https://innkeepersportfishing.com/the-boat/",
       "status": 200,
       "final_url": "https://innkeepersportfishing.com/the-boat/",
-      "bytes": 89458
+      "bytes": 89099
     },
     {
       "page": "https://innkeepersportfishing.com/the-skipper/",
       "status": 200,
       "final_url": "https://innkeepersportfishing.com/the-skipper/",
-      "bytes": 80433
+      "bytes": 80611
     },
     {
       "page": "https://innkeepersportfishing.com/gallery/",
       "status": 200,
       "final_url": "https://innkeepersportfishing.com/gallery/",
-      "bytes": 136185
+      "bytes": 136263
     }
   ]
 }

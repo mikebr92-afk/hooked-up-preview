@@ -1,7 +1,7 @@
 {
   "slug": "r4-wild-west-charters",
   "request_hash": "1de8fdd15cba",
-  "collected_at": "2026-11-04T03:55:42.569Z",
+  "collected_at": "2026-11-04T04:02:12.706Z",
   "pages_fetched": [
     "https://www.wildwestcharters.com.au/",
     "https://wildwestcharters.com.au/",
@@ -34,13 +34,13 @@
       "page": "https://australian.rezdy.com/view/PYSFSK",
       "status": 403,
       "final_url": "https://australian.rezdy.com/view/PYSFSK",
-      "bytes": 5186
+      "bytes": 5184
     },
     {
       "page": "https://developmentwa.com.au/projects/redevelopment/elizabeth-quay/wild-west-charters",
       "status": 200,
       "final_url": "https://developmentwa.com.au/projects/redevelopment/elizabeth-quay/wild-west-charters",
-      "bytes": 173933
+      "bytes": 173927
     },
     {
       "page": "https://wildwestcharters.com.au/about/",

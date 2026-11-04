@@ -1,7 +1,7 @@
 {
   "slug": "r4-blue-juice-2",
   "request_hash": "599afdf880a6",
-  "collected_at": "2026-11-04T03:55:50.167Z",
+  "collected_at": "2026-11-04T04:02:22.415Z",
   "pages_fetched": [
     "https://visitfremantle.com.au/blue-juice-charters",
     "https://www.waholidayguide.com.au/blue-juice-charters",
@@ -33,7 +33,7 @@
       "page": "https://bluejuicecharters.rezdy.com/357580/rock-lobster-tour?iframe=1",
       "status": 403,
       "final_url": "https://bluejuicecharters.rezdy.com/357580/rock-lobster-tour?iframe=1",
-      "bytes": 5186
+      "bytes": 5184
     },
     {
       "page": "https://www.tripadvisor.com/AttractionProductReview-g1572375-d19347916-Abrolhos_Islands_3_day_fishing_charter-Hillarys_Joondalup_Greater_Perth_Western_A.html",
