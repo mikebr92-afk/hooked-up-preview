@@ -1,0 +1,80 @@
+{
+  "slug": "moreton-island-fishing-charters",
+  "request_hash": "9e6f7333dec2",
+  "collected_at": "2026-11-04T03:50:24.892Z",
+  "pages_fetched": [
+    "https://moretonislandfishingcharters.com.au/",
+    "https://moretonislandfishingcharters.com.au/booking/",
+    "https://moretonislandfishingcharters.com.au/cart/",
+    "https://moretonislandfishingcharters.com.au/rates/",
+    "https://moretonislandfishingcharters.com.au/the-charters/",
+    "https://moretonislandfishingcharters.com.au/gift-vouchers/",
+    "https://moretonislandfishingcharters.com.au/the-vessel/",
+    "https://moretonislandfishingcharters.com.au/about-us/",
+    "https://moretonislandfishingcharters.com.au/gallery/",
+    "https://moretonislandfishingcharters.com.au/contact/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://moretonislandfishingcharters.com.au/",
+      "status": 200,
+      "final_url": "https://moretonislandfishingcharters.com.au/",
+      "bytes": 160066
+    },
+    {
+      "page": "https://moretonislandfishingcharters.com.au/booking/",
+      "status": 200,
+      "final_url": "https://moretonislandfishingcharters.com.au/booking/",
+      "bytes": 109756
+    },
+    {
+      "page": "https://moretonislandfishingcharters.com.au/cart/",
+      "status": 200,
+      "final_url": "https://moretonislandfishingcharters.com.au/cart/",
+      "bytes": 148219
+    },
+    {
+      "page": "https://moretonislandfishingcharters.com.au/rates/",
+      "status": 200,
+      "final_url": "https://moretonislandfishingcharters.com.au/rates/",
+      "bytes": 143660
+    },
+    {
+      "page": "https://moretonislandfishingcharters.com.au/the-charters/",
+      "status": 200,
+      "final_url": "https://moretonislandfishingcharters.com.au/the-charters/",
+      "bytes": 140131
+    },
+    {
+      "page": "https://moretonislandfishingcharters.com.au/gift-vouchers/",
+      "status": 200,
+      "final_url": "https://moretonislandfishingcharters.com.au/gift-vouchers/",
+      "bytes": 130761
+    },
+    {
+      "page": "https://moretonislandfishingcharters.com.au/the-vessel/",
+      "status": 200,
+      "final_url": "https://moretonislandfishingcharters.com.au/the-vessel/",
+      "bytes": 137857
+    },
+    {
+      "page": "https://moretonislandfishingcharters.com.au/about-us/",
+      "status": 200,
+      "final_url": "https://moretonislandfishingcharters.com.au/about-us/",
+      "bytes": 133276
+    },
+    {
+      "page": "https://moretonislandfishingcharters.com.au/gallery/",
+      "status": 200,
+      "final_url": "https://moretonislandfishingcharters.com.au/gallery/",
+      "bytes": 149066
+    },
+    {
+      "page": "https://moretonislandfishingcharters.com.au/contact/",
+      "status": 200,
+      "final_url": "https://moretonislandfishingcharters.com.au/contact/",
+      "bytes": 118382
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "noosa-bluewater-charters",
+  "request_hash": "d5755d03ef8d",
+  "collected_at": "2026-11-04T03:52:10.391Z",
+  "pages_fetched": [
+    "https://noosabluefishing.com.au/",
+    "https://noosabluefishing.com.au/fishing-charters/",
+    "https://noosabluefishing.com.au/private-fishing-charters/",
+    "https://noosabluefishing.com.au/about-us/",
+    "https://noosabluefishing.com.au/gallery/",
+    "https://noosabluefishing.com.au/gift-certificate-gift-cards/",
+    "https://noosabluefishing.com.au/kiosk/",
+    "https://noosabluefishing.com.au/blog/",
+    "https://noosabluefishing.com.au/bar-report/",
+    "https://noosabluefishing.com.au/contact-us/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://noosabluefishing.com.au/",
+      "status": 200,
+      "final_url": "https://noosabluefishing.com.au/",
+      "bytes": 201789
+    },
+    {
+      "page": "https://noosabluefishing.com.au/fishing-charters/",
+      "status": 200,
+      "final_url": "https://noosabluefishing.com.au/fishing-charters/",
+      "bytes": 179416
+    },
+    {
+      "page": "https://noosabluefishing.com.au/private-fishing-charters/",
+      "status": 200,
+      "final_url": "https://noosabluefishing.com.au/private-fishing-charters/",
+      "bytes": 185901
+    },
+    {
+      "page": "https://noosabluefishing.com.au/about-us/",
+      "status": 200,
+      "final_url": "https://noosabluefishing.com.au/about-us/",
+      "bytes": 119986
+    },
+    {
+      "page": "https://noosabluefishing.com.au/gallery/",
+      "status": 200,
+      "final_url": "https://noosabluefishing.com.au/gallery/",
+      "bytes": 236488
+    },
+    {
+      "page": "https://noosabluefishing.com.au/gift-certificate-gift-cards/",
+      "status": 200,
+      "final_url": "https://noosabluefishing.com.au/gift-certificate-gift-cards/",
+      "bytes": 119388
+    },
+    {
+      "page": "https://noosabluefishing.com.au/kiosk/",
+      "status": 200,
+      "final_url": "https://noosabluefishing.com.au/kiosk/",
+      "bytes": 123798
+    },
+    {
+      "page": "https://noosabluefishing.com.au/blog/",
+      "status": 200,
+      "final_url": "https://noosabluefishing.com.au/blog/",
+      "bytes": 127989
+    },
+    {
+      "page": "https://noosabluefishing.com.au/bar-report/",
+      "status": 200,
+      "final_url": "https://noosabluefishing.com.au/bar-report/",
+      "bytes": 116428
+    },
+    {
+      "page": "https://noosabluefishing.com.au/contact-us/",
+      "status": 200,
+      "final_url": "https://noosabluefishing.com.au/contact-us/",
+      "bytes": 154161
+    }
+  ]
+}

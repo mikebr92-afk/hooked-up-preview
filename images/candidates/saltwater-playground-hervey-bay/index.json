@@ -1,0 +1,59 @@
+{
+  "slug": "saltwater-playground-hervey-bay",
+  "request_hash": "56d79684d1f9",
+  "collected_at": "2026-11-04T03:51:31.542Z",
+  "pages_fetched": [
+    "https://www.saltwaterplayground.com.au/",
+    "https://www.saltwaterplayground.com.au/hervey-bay-fishing-charters",
+    "https://www.saltwaterplayground.com.au/pricing",
+    "https://www.saltwaterplayground.com.au/aboutus",
+    "https://www.saltwaterplayground.com.au/faq",
+    "https://www.saltwaterplayground.com.au/contact",
+    "https://www.saltwaterplayground.com.au/fishingcharters"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.saltwaterplayground.com.au/",
+      "status": 200,
+      "final_url": "https://www.saltwaterplayground.com.au/",
+      "bytes": 531127
+    },
+    {
+      "page": "https://www.saltwaterplayground.com.au/hervey-bay-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.saltwaterplayground.com.au/hervey-bay-fishing-charters",
+      "bytes": 690907
+    },
+    {
+      "page": "https://www.saltwaterplayground.com.au/pricing",
+      "status": 200,
+      "final_url": "https://www.saltwaterplayground.com.au/pricing",
+      "bytes": 466081
+    },
+    {
+      "page": "https://www.saltwaterplayground.com.au/aboutus",
+      "status": 200,
+      "final_url": "https://www.saltwaterplayground.com.au/aboutus",
+      "bytes": 224511
+    },
+    {
+      "page": "https://www.saltwaterplayground.com.au/faq",
+      "status": 200,
+      "final_url": "https://www.saltwaterplayground.com.au/faq",
+      "bytes": 265290
+    },
+    {
+      "page": "https://www.saltwaterplayground.com.au/contact",
+      "status": 200,
+      "final_url": "https://www.saltwaterplayground.com.au/contact",
+      "bytes": 339713
+    },
+    {
+      "page": "https://www.saltwaterplayground.com.au/fishingcharters",
+      "status": 404,
+      "final_url": "https://www.saltwaterplayground.com.au/fishingcharters",
+      "bytes": 261007
+    }
+  ]
+}

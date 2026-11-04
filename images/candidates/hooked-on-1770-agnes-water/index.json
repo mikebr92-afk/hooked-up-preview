@@ -1,0 +1,17 @@
+{
+  "slug": "hooked-on-1770-agnes-water",
+  "request_hash": "4dfa3738b0a4",
+  "collected_at": "2026-11-04T03:50:12.316Z",
+  "pages_fetched": [
+    "https://www.1770tours.com/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.1770tours.com/",
+      "status": 200,
+      "final_url": "https://www.1770tours.com/",
+      "bytes": 123
+    }
+  ]
+}
