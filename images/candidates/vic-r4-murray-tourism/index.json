@@ -1,0 +1,52 @@
+{
+  "slug": "vic-r4-murray-tourism",
+  "request_hash": "8c38dde1b8ad",
+  "collected_at": "2026-11-04T03:53:14.005Z",
+  "pages_fetched": [
+    "https://www.yarrawongamulwala.com.au/things-to-do/tours-experiences/view/5ed58eed89f2672628f93cde/lake-mulwala-fish-camp-and-ski",
+    "https://visitthemurray.com.au/places-to-go/west/swanhill/see-do/outdoor-experiences/fishing",
+    "https://www.visitechucamoama.com.au/things-to-do/get-outdoors/fishing",
+    "https://lakeeildon.com/things-to-do/fishing",
+    "https://www.murrayoffroadadventures.com.au/",
+    "http://www.lakehumehire.com/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.yarrawongamulwala.com.au/things-to-do/tours-experiences/view/5ed58eed89f2672628f93cde/lake-mulwala-fish-camp-and-ski",
+      "status": 200,
+      "final_url": "https://www.yarrawongamulwala.com.au/things-to-do/tours-experiences/view/5ed58eed89f2672628f93cde/lake-mulwala-fish-camp-and-ski",
+      "bytes": 92794
+    },
+    {
+      "page": "https://visitthemurray.com.au/places-to-go/west/swanhill/see-do/outdoor-experiences/fishing",
+      "status": 200,
+      "final_url": "https://www.visitthemurray.com.au/destinations/west/swan-hill",
+      "bytes": 244649
+    },
+    {
+      "page": "https://www.visitechucamoama.com.au/things-to-do/get-outdoors/fishing",
+      "status": 404,
+      "final_url": "https://www.visitechucamoama.com.au/things-to-do/get-outdoors/fishing",
+      "bytes": 270566
+    },
+    {
+      "page": "https://lakeeildon.com/things-to-do/fishing",
+      "status": 200,
+      "final_url": "https://lakeeildon.com/things-to-do/fishing",
+      "bytes": 80897
+    },
+    {
+      "page": "https://www.murrayoffroadadventures.com.au/",
+      "status": 200,
+      "final_url": "https://www.murrayoffroadadventures.com.au/",
+      "bytes": 235378
+    },
+    {
+      "page": "http://www.lakehumehire.com/",
+      "status": 200,
+      "final_url": "http://www.lakehumehire.com/",
+      "bytes": 52518
+    }
+  ]
+}

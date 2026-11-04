@@ -1,0 +1,49 @@
+{
+  "slug": "sea-myth-fishing-charters-r4",
+  "request_hash": "1ab0b15406af",
+  "collected_at": "2026-11-04T03:52:59.075Z",
+  "pages_fetched": [
+    "https://seamythcharters.com.au/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1500,
+      "height": 849,
+      "original": "1500x849",
+      "source": "https://seamythcharters.com.au/assets/img/the-big-one.jpg",
+      "page": "https://seamythcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 1500,
+      "height": 771,
+      "original": "1500x771",
+      "source": "https://seamythcharters.com.au/assets/img/emma-fish.jpg",
+      "page": "https://seamythcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1500,
+      "height": 502,
+      "original": "1500x502",
+      "source": "https://seamythcharters.com.au/assets/img/gippsland-sunset.jpg",
+      "page": "https://seamythcharters.com.au/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://seamythcharters.com.au/",
+      "status": 200,
+      "final_url": "https://seamythcharters.com.au/",
+      "bytes": 12272
+    },
+    {
+      "image": "https://seamythcharters.com.au/assets/img/crabs-in-bin.jpg",
+      "error": "too small 429x250"
+    }
+  ]
+}

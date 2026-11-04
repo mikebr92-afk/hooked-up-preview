@@ -1,0 +1,87 @@
+{
+  "slug": "westernport-fishing-charters-r4",
+  "request_hash": "32fd377aa51b",
+  "collected_at": "2026-11-04T03:53:17.448Z",
+  "pages_fetched": [
+    "https://www.westernportfishingcharters.com.au/",
+    "https://www.westernportfishingcharters.com.au/about-us",
+    "https://www.westernportfishingcharters.com.au/index",
+    "https://www.westernportfishingcharters.com.au/about.html",
+    "https://www.westernportfishingcharters.com.au/index.html",
+    "https://www.westernportfishingcharters.com.au/about",
+    "https://www.westernportfishingcharters.com.au/fishing-trip-price",
+    "https://www.westernportfishingcharters.com.au/private",
+    "https://www.westernportfishingcharters.com.au/memorial",
+    "https://www.westernportfishingcharters.com.au/giftandlicence",
+    "https://www.westernportfishingcharters.com.au/booking"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.westernportfishingcharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.westernportfishingcharters.com.au/",
+      "bytes": 24235
+    },
+    {
+      "page": "https://www.westernportfishingcharters.com.au/about-us",
+      "status": 404,
+      "final_url": "https://www.westernportfishingcharters.com.au/about-us",
+      "bytes": 12379
+    },
+    {
+      "page": "https://www.westernportfishingcharters.com.au/index",
+      "status": 200,
+      "final_url": "https://www.westernportfishingcharters.com.au/index",
+      "bytes": 24235
+    },
+    {
+      "page": "https://www.westernportfishingcharters.com.au/about.html",
+      "status": 404,
+      "final_url": "https://www.westernportfishingcharters.com.au/about.html",
+      "bytes": 12379
+    },
+    {
+      "page": "https://www.westernportfishingcharters.com.au/index.html",
+      "status": 404,
+      "final_url": "https://www.westernportfishingcharters.com.au/index.html",
+      "bytes": 12379
+    },
+    {
+      "page": "https://www.westernportfishingcharters.com.au/about",
+      "status": 200,
+      "final_url": "https://www.westernportfishingcharters.com.au/about",
+      "bytes": 14242
+    },
+    {
+      "page": "https://www.westernportfishingcharters.com.au/fishing-trip-price",
+      "status": 200,
+      "final_url": "https://www.westernportfishingcharters.com.au/fishing-trip-price",
+      "bytes": 12372
+    },
+    {
+      "page": "https://www.westernportfishingcharters.com.au/private",
+      "status": 200,
+      "final_url": "https://www.westernportfishingcharters.com.au/private",
+      "bytes": 12015
+    },
+    {
+      "page": "https://www.westernportfishingcharters.com.au/memorial",
+      "status": 200,
+      "final_url": "https://www.westernportfishingcharters.com.au/memorial",
+      "bytes": 10893
+    },
+    {
+      "page": "https://www.westernportfishingcharters.com.au/giftandlicence",
+      "status": 200,
+      "final_url": "https://www.westernportfishingcharters.com.au/giftandlicence",
+      "bytes": 10419
+    },
+    {
+      "page": "https://www.westernportfishingcharters.com.au/booking",
+      "status": 200,
+      "final_url": "https://www.westernportfishingcharters.com.au/booking",
+      "bytes": 11325
+    }
+  ]
+}

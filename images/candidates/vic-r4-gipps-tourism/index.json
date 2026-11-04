@@ -1,0 +1,59 @@
+{
+  "slug": "vic-r4-gipps-tourism",
+  "request_hash": "1a48453d79f1",
+  "collected_at": "2026-11-04T03:52:56.437Z",
+  "pages_fetched": [
+    "https://www.visiteastgippsland.com.au/lakes-charter-fishing",
+    "https://visiteastgippsland.com.au/sea-myth",
+    "https://www.visiteastgippsland.com.au/far-out-fishing-charters",
+    "https://www.spendwithus.com.au/store/keepin-it-reel-charters/policies",
+    "https://lakespost.com.au/18345/from-lakes-to-offshore-fishing-remains-strong/",
+    "https://lakespost.com.au/17263/fishing-success-continues/",
+    "https://www.visiteastgippsland.com.au/things-to-see-a-do/activities/fishing/lake"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.visiteastgippsland.com.au/lakes-charter-fishing",
+      "status": 404,
+      "final_url": "https://www.visiteastgippsland.com.au/lakes-charter-fishing",
+      "bytes": 294490
+    },
+    {
+      "page": "https://visiteastgippsland.com.au/sea-myth",
+      "status": 404,
+      "final_url": "https://www.visiteastgippsland.com.au/sea-myth",
+      "bytes": 294477
+    },
+    {
+      "page": "https://www.visiteastgippsland.com.au/far-out-fishing-charters",
+      "status": 404,
+      "final_url": "https://www.visiteastgippsland.com.au/far-out-fishing-charters",
+      "bytes": 294493
+    },
+    {
+      "page": "https://www.spendwithus.com.au/store/keepin-it-reel-charters/policies",
+      "status": 200,
+      "final_url": "https://www.spendwithus.com.au/store/keepin-it-reel-charters/policies",
+      "bytes": 11946
+    },
+    {
+      "page": "https://lakespost.com.au/18345/from-lakes-to-offshore-fishing-remains-strong/",
+      "status": 200,
+      "final_url": "https://lakespost.com.au/18345/from-lakes-to-offshore-fishing-remains-strong/",
+      "bytes": 163980
+    },
+    {
+      "page": "https://lakespost.com.au/17263/fishing-success-continues/",
+      "status": 200,
+      "final_url": "https://lakespost.com.au/17263/fishing-success-continues/",
+      "bytes": 154121
+    },
+    {
+      "page": "https://www.visiteastgippsland.com.au/things-to-see-a-do/activities/fishing/lake",
+      "status": 200,
+      "final_url": "https://www.visiteastgippsland.com.au/see-and-do/",
+      "bytes": 299798
+    }
+  ]
+}

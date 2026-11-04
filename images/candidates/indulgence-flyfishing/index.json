@@ -1,0 +1,15 @@
+{
+  "slug": "indulgence-flyfishing",
+  "request_hash": "ad938b6e22e4",
+  "collected_at": "2026-11-04T03:52:47.356Z",
+  "pages_fetched": [
+    "https://www.indulgenceflyfishing.com/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.indulgenceflyfishing.com/",
+      "error": "fetch failed"
+    }
+  ]
+}

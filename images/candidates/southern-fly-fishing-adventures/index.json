@@ -1,0 +1,290 @@
+{
+  "slug": "southern-fly-fishing-adventures",
+  "request_hash": "fa03a515e560",
+  "collected_at": "2026-11-04T03:52:46.992Z",
+  "pages_fetched": [
+    "https://www.southernflyfishingadventures.com/",
+    "https://www.visitbright.com.au/?p=21159",
+    "https://southernflyfishingadventures.com/",
+    "https://southernflyfishingadventures.com/?cat=1",
+    "https://southernflyfishingadventures.com/?m=202310",
+    "https://www.visitbright.com.au/things-to-do/trip-ideas/",
+    "https://www.visitbright.com.au/plan-your-trip/places-to-stay/",
+    "https://www.visitbright.com.au/plan-your-trip/visitor-information/",
+    "https://www.visitbright.com.au/plan-your-trip/weddings-celebrations/",
+    "https://www.visitbright.com.au/plan-your-trip/gift-vouchers/",
+    "https://www.visitbright.com.au/plan-your-trip/faq/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 800,
+      "height": 600,
+      "original": "800x600",
+      "source": "https://www.visitbright.com.au/wp-content/uploads/sites/42/ecdbbdb12dcbbc78a457a0e60ebcf0dbfd7968d7.jpeg",
+      "page": "https://www.visitbright.com.au/?p=21159",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 2000,
+      "height": 716,
+      "original": "2500x895",
+      "source": "https://www.visitbright.com.au/wp-content/uploads/sites/42/Mountain-Graphic-Blue.png",
+      "page": "https://www.visitbright.com.au/?p=21159",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 700,
+      "height": 500,
+      "original": "700x500",
+      "source": "https://www.visitbright.com.au/wp-content/uploads/sites/42/The-Buckland-Studio-5.jpg",
+      "page": "https://www.visitbright.com.au/plan-your-trip/places-to-stay/",
+      "priority": true
+    },
+    {
+      "file": "c04.webp",
+      "width": 2000,
+      "height": 1000,
+      "original": "2048x1024",
+      "source": "https://www.visitbright.com.au/wp-content/uploads/sites/42/bb-plugin/cache/atdw-AU0400581-5e4a0eae9c8338e6363bf44d-panorama-1dd3ec1f7d69f7c8b809dbaa0d0106a3-61ad54f7be8b7.jpg",
+      "page": "https://www.visitbright.com.au/plan-your-trip/places-to-stay/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1500,
+      "height": 750,
+      "original": "1500x750",
+      "source": "https://www.visitbright.com.au/wp-content/uploads/sites/42/bb-plugin/cache/caravan-park-bright-autumn-16_9-panorama-dca541ef36d20d408d6027ecc7dd3353-61ad54f7be8a5.jpg",
+      "page": "https://www.visitbright.com.au/plan-your-trip/places-to-stay/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1751,
+      "height": 875,
+      "original": "1751x875",
+      "source": "https://www.visitbright.com.au/wp-content/uploads/sites/42/bb-plugin/cache/info-centre-mount-beauty-spring-16_9-1-panorama-20fa33ff3bf4a70f2fbbed21e9019db2-61ac9f36b3bfe.jpg",
+      "page": "https://www.visitbright.com.au/plan-your-trip/visitor-information/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1500,
+      "height": 750,
+      "original": "1500x750",
+      "source": "https://www.visitbright.com.au/wp-content/uploads/sites/42/bb-plugin/cache/how-to-get-here-Happy-Valley-summer-16_9-panorama-ee13f36bb139dbcd7a90b52fc4939410-61ac9f36b3bec.jpg",
+      "page": "https://www.visitbright.com.au/plan-your-trip/visitor-information/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1500,
+      "height": 750,
+      "original": "1500x750",
+      "source": "https://www.visitbright.com.au/wp-content/uploads/sites/42/bb-plugin/cache/eurobin-falls-buffalo-winter-16_9-panorama-4e836b7c4d9df3fb789ae5515f569831-61ac9f36b3c10.jpg",
+      "page": "https://www.visitbright.com.au/plan-your-trip/visitor-information/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1500,
+      "height": 750,
+      "original": "1500x750",
+      "source": "https://www.visitbright.com.au/wp-content/uploads/sites/42/bb-plugin/cache/walks-dogs-bright-autumn-16_9-panorama-cdde801eb686c2b4590b51f3fc632296-61aca7bb84cc7.jpg",
+      "page": "https://www.visitbright.com.au/plan-your-trip/visitor-information/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1500,
+      "height": 750,
+      "original": "1500x750",
+      "source": "https://www.visitbright.com.au/wp-content/uploads/sites/42/bb-plugin/cache/view-mount-beauty-winter-16_9-panorama-e87786a43bfcd42f3a8b44c5f1176432-61aca3fa58c66.jpg",
+      "page": "https://www.visitbright.com.au/plan-your-trip/visitor-information/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1500,
+      "height": 750,
+      "original": "1500x750",
+      "source": "https://www.visitbright.com.au/wp-content/uploads/sites/42/bb-plugin/cache/accessible-trail-bright-autumn-16_9-panorama-bfe7b7d4aa7fa9a8db98786573b09a2c-61aca3ebe24fe.jpg",
+      "page": "https://www.visitbright.com.au/plan-your-trip/visitor-information/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1500,
+      "height": 750,
+      "original": "1500x750",
+      "source": "https://www.visitbright.com.au/wp-content/uploads/sites/42/bb-plugin/cache/centenary-park-bright-autumn-16_9-panorama-68bb343b7aa668eb144618534ac608a4-61aca964e7be5.jpg",
+      "page": "https://www.visitbright.com.au/plan-your-trip/visitor-information/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1600,
+      "height": 2000,
+      "original": "2329x2911",
+      "source": "https://www.visitbright.com.au/wp-content/uploads/sites/42/wedding-EllenMayCCBuckland62.jpg",
+      "page": "https://www.visitbright.com.au/plan-your-trip/weddings-celebrations/",
+      "priority": true
+    },
+    {
+      "file": "c14.webp",
+      "width": 2000,
+      "height": 1600,
+      "original": "2430x1944",
+      "source": "https://www.visitbright.com.au/wp-content/uploads/sites/42/atdw-AU0031964-6aa8f5ab1d2b7b1d04fb7cdf.jpg",
+      "page": "https://www.visitbright.com.au/plan-your-trip/weddings-celebrations/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 2000,
+      "height": 1335,
+      "original": "2362x1577",
+      "source": "https://www.visitbright.com.au/wp-content/uploads/sites/42/atdw-AU0095095-64cc4ff0adb6767a01c0fe7a.jpg",
+      "page": "https://www.visitbright.com.au/plan-your-trip/weddings-celebrations/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 2000,
+      "height": 1328,
+      "original": "3448x2290",
+      "source": "https://www.visitbright.com.au/wp-content/uploads/sites/42/atdw-AU0027999-56b24d2b3ed14ca745329fe5.jpg",
+      "page": "https://www.visitbright.com.au/plan-your-trip/weddings-celebrations/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.southernflyfishingadventures.com/",
+      "status": 200,
+      "final_url": "https://southernflyfishingadventures.com/",
+      "bytes": 144366
+    },
+    {
+      "page": "https://www.visitbright.com.au/?p=21159",
+      "status": 200,
+      "final_url": "https://www.visitbright.com.au/listing/hook-your-hunger/",
+      "bytes": 71783
+    },
+    {
+      "page": "https://southernflyfishingadventures.com/",
+      "status": 200,
+      "final_url": "https://southernflyfishingadventures.com/",
+      "bytes": 144366
+    },
+    {
+      "page": "https://southernflyfishingadventures.com/?cat=1",
+      "status": 200,
+      "final_url": "https://southernflyfishingadventures.com/?cat=1",
+      "bytes": 139008
+    },
+    {
+      "page": "https://southernflyfishingadventures.com/?m=202310",
+      "status": 200,
+      "final_url": "https://southernflyfishingadventures.com/?m=202310",
+      "bytes": 138571
+    },
+    {
+      "page": "https://www.visitbright.com.au/things-to-do/trip-ideas/",
+      "status": 200,
+      "final_url": "https://www.visitbright.com.au/things-to-do/trip-ideas/",
+      "bytes": 65904
+    },
+    {
+      "page": "https://www.visitbright.com.au/plan-your-trip/places-to-stay/",
+      "status": 200,
+      "final_url": "https://www.visitbright.com.au/plan-your-trip/places-to-stay/",
+      "bytes": 72902
+    },
+    {
+      "page": "https://www.visitbright.com.au/plan-your-trip/visitor-information/",
+      "status": 200,
+      "final_url": "https://www.visitbright.com.au/plan-your-trip/visitor-information/",
+      "bytes": 98502
+    },
+    {
+      "page": "https://www.visitbright.com.au/plan-your-trip/weddings-celebrations/",
+      "status": 200,
+      "final_url": "https://www.visitbright.com.au/plan-your-trip/weddings-celebrations/",
+      "bytes": 113653
+    },
+    {
+      "page": "https://www.visitbright.com.au/plan-your-trip/gift-vouchers/",
+      "status": 200,
+      "final_url": "https://www.visitbright.com.au/plan-your-trip/gift-vouchers/",
+      "bytes": 108683
+    },
+    {
+      "page": "https://www.visitbright.com.au/plan-your-trip/faq/",
+      "status": 200,
+      "final_url": "https://www.visitbright.com.au/plan-your-trip/faq/",
+      "bytes": 124799
+    },
+    {
+      "image": "http://southernflyfishingadventures.com/wp-content/uploads/2023/10/SFFA_W.png",
+      "error": "too small 93x50"
+    },
+    {
+      "image": "http://southernflyfishingadventures.com/wp-content/uploads/2023/10/moodShot.jpg",
+      "error": "too small 547x410"
+    },
+    {
+      "image": "http://southernflyfishingadventures.com/wp-content/uploads/2023/10/GT_Liffey_River2.jpg",
+      "error": "too small 512x384"
+    },
+    {
+      "image": "https://southernflyfishingadventures.com/wp-content/uploads/2023/10/moodShot.jpg",
+      "error": "too small 547x410"
+    },
+    {
+      "image": "https://southernflyfishingadventures.com/wp-content/uploads/2023/10/GT_Liffey_River2.jpg",
+      "error": "too small 512x384"
+    },
+    {
+      "image": "https://southernflyfishingadventures.com/wp-content/uploads/2023/10/moodShot-480x360.jpg",
+      "error": "too small 480x360"
+    },
+    {
+      "image": "https://southernflyfishingadventures.com/wp-content/uploads/2023/10/GT_Liffey_River2-480x360.jpg",
+      "error": "too small 480x360"
+    },
+    {
+      "dup": "https://listings.rdp.tourismnortheast.com.au/wp-content/uploads/sites/6/2016/08/ecdbbdb12dcbbc78a457a0e60ebcf0dbfd7968d7.jpeg"
+    },
+    {
+      "dup": "https://www.visitbright.com.au/wp-content/uploads/sites/42/bb-plugin/cache/atdw-AU0400581-5e4a0eae9c8338e6363bf44d-panorama-1dd3ec1f7d69f7c8b809dbaa0d0106a3-61ad54f7be89d.jpg"
+    },
+    {
+      "dup": "https://www.visitbright.com.au/wp-content/uploads/sites/42/bb-plugin/cache/caravan-park-bright-autumn-16_9-panorama-dca541ef36d20d408d6027ecc7dd3353-61ad54f7be8c0.jpg"
+    },
+    {
+      "dup": "https://www.visitbright.com.au/wp-content/uploads/sites/42/bb-plugin/cache/info-centre-mount-beauty-spring-16_9-1-panorama-20fa33ff3bf4a70f2fbbed21e9019db2-61ac9f36b3be4.jpg"
+    },
+    {
+      "dup": "https://www.visitbright.com.au/wp-content/uploads/sites/42/bb-plugin/cache/how-to-get-here-Happy-Valley-summer-16_9-panorama-ee13f36bb139dbcd7a90b52fc4939410-61ac9f36b3c07.jpg"
+    },
+    {
+      "dup": "https://www.visitbright.com.au/wp-content/uploads/sites/42/bb-plugin/cache/eurobin-falls-buffalo-winter-16_9-panorama-4e836b7c4d9df3fb789ae5515f569831-61ac9f36b3c19.jpg"
+    },
+    {
+      "dup": "https://www.visitbright.com.au/wp-content/uploads/sites/42/bb-plugin/cache/walks-dogs-bright-autumn-16_9-panorama-cdde801eb686c2b4590b51f3fc632296-61aca3add0a97.jpg"
+    },
+    {
+      "dup": "https://www.visitbright.com.au/wp-content/uploads/sites/42/bb-plugin/cache/view-mount-beauty-winter-16_9-panorama-e87786a43bfcd42f3a8b44c5f1176432-61aca3e4023d1.jpg"
+    },
+    {
+      "dup": "https://www.visitbright.com.au/wp-content/uploads/sites/42/bb-plugin/cache/accessible-trail-bright-autumn-16_9-panorama-bfe7b7d4aa7fa9a8db98786573b09a2c-61aca65a57ad7.jpg"
+    },
+    {
+      "dup": "https://www.visitbright.com.au/wp-content/uploads/sites/42/bb-plugin/cache/centenary-park-bright-autumn-16_9-panorama-68bb343b7aa668eb144618534ac608a4-61aca80009f29.jpg"
+    }
+  ]
+}
