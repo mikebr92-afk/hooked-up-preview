@@ -1,0 +1,5 @@
+{"requests":[
+ {"slug":"australiana-charters-lead","pages":["https://www.auscharters.com.au/","https://auscharters.com.au/"],"text":true,"max":0,"follow":true,"force":true},
+ {"slug":"deep-sea-fishing-co-noosa-policy","pages":["https://www.deepseafishingco.com.au/booking-and-refund-policy/"],"text":true,"max":0,"follow":false,"force":true},
+ {"slug":"night-crossing-extra","pages":["https://nightcrossing.com.au/mv-night-crossing/","https://nightcrossing.com.au/location/","https://nightcrossing.com.au/fyi/"],"text":true,"max":0,"follow":false,"force":true}
+]}
