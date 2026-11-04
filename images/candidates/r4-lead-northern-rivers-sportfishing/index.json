@@ -1,7 +1,7 @@
 {
   "slug": "r4-lead-northern-rivers-sportfishing",
   "request_hash": "4532686854dd",
-  "collected_at": "2026-11-04T04:08:47.862Z",
+  "collected_at": "2026-11-04T04:17:00.930Z",
   "pages_fetched": [
     "https://northernriverssportfishing.com.au/trip-reports-blog/",
     "https://northernriverssportfishing.com.au/locations/",
@@ -127,15 +127,6 @@
     },
     {
       "file": "c13.webp",
-      "width": 856,
-      "height": 856,
-      "original": "856x856",
-      "source": "https://i0.wp.com/northernriverssportfishing.com.au/wp-content/uploads/2023/08/323443196_1093950487964243_7358587319526551080_n.jpg?resize=856%2C856&#038;ssl=1",
-      "page": "https://northernriverssportfishing.com.au/trip-reports-blog/",
-      "priority": false
-    },
-    {
-      "file": "c14.webp",
       "width": 629,
       "height": 629,
       "original": "629x629",
@@ -144,7 +135,7 @@
       "priority": false
     },
     {
-      "file": "c15.webp",
+      "file": "c14.webp",
       "width": 629,
       "height": 629,
       "original": "629x629",
@@ -153,11 +144,20 @@
       "priority": false
     },
     {
-      "file": "c16.webp",
+      "file": "c15.webp",
       "width": 1916,
       "height": 771,
       "original": "1916x771",
       "source": "https://i0.wp.com/northernriverssportfishing.com.au/wp-content/uploads/2020/12/Untitled-1.jpg?fit=1916%2C771&ssl=1",
+      "page": "https://northernriverssportfishing.com.au/trip-reports-blog/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 856,
+      "height": 856,
+      "original": "856x856",
+      "source": "https://i0.wp.com/northernriverssportfishing.com.au/wp-content/uploads/2023/08/323443196_1093950487964243_7358587319526551080_n.jpg?w=856&ssl=1",
       "page": "https://northernriverssportfishing.com.au/trip-reports-blog/",
       "priority": false
     }
@@ -252,6 +252,10 @@
       "error": "too small 313x313"
     },
     {
+      "image": "https://i0.wp.com/northernriverssportfishing.com.au/wp-content/uploads/2023/08/323443196_1093950487964243_7358587319526551080_n.jpg?resize=856%2C856&#038;ssl=1",
+      "error": "HTTP 400"
+    },
+    {
       "image": "https://i0.wp.com/northernriverssportfishing.com.au/wp-content/uploads/2023/08/321454129_545330540828585_4724389199055170933_n.jpg?w=313&#038;h=313&#038;crop=1&#038;ssl=1",
       "error": "too small 313x313"
     },
@@ -269,11 +273,64 @@
     },
     {
       "image": "https://i0.wp.com/northernriverssportfishing.com.au/wp-content/uploads/2023/08/mick1.jpg?w=313&#038;h=313&#038;crop=1&#038;ssl=1",
-      "error": "too small 313x313"
+      "error": "HTTP 400"
     },
     {
       "image": "https://i0.wp.com/northernriverssportfishing.com.au/wp-content/uploads/2023/08/mick3.jpg?w=313&#038;h=312&#038;ssl=1",
       "error": "too small 313x313"
+    },
+    {
+      "image": "https://i0.wp.com/northernriverssportfishing.com.au/wp-content/uploads/2019/03/suffolk-sports-header.jpg?fit=300%2C120&ssl=1",
+      "error": "too small 300x120"
+    },
+    {
+      "image": "https://i0.wp.com/northernriverssportfishing.com.au/wp-content/uploads/2019/10/PFIGA-OFFICIAL-REVERSED-small-e1601180845903.png?fit=300%2C149&ssl=1",
+      "error": "too small 300x149"
+    },
+    {
+      "dup": "https://i0.wp.com/northernriverssportfishing.com.au/wp-content/uploads/2023/10/tweed-bass.jpg?w=1440&ssl=1"
+    },
+    {
+      "dup": "https://i0.wp.com/northernriverssportfishing.com.au/wp-content/uploads/2023/10/first-bass-on-fly.jpg?w=1440&ssl=1"
+    },
+    {
+      "dup": "https://i0.wp.com/northernriverssportfishing.com.au/wp-content/uploads/2023/10/fly-fishing-the-tweed-river.jpg?w=1440&ssl=1"
+    },
+    {
+      "dup": "https://i0.wp.com/northernriverssportfishing.com.au/wp-content/uploads/2023/10/383342510_817141930414982_6391069563147782859_n.jpg?w=1440&ssl=1"
+    },
+    {
+      "dup": "https://i0.wp.com/northernriverssportfishing.com.au/wp-content/uploads/2023/10/384284532_817141933748315_1691117378104845966_n.jpg?w=915&ssl=1"
+    },
+    {
+      "dup": "https://i0.wp.com/northernriverssportfishing.com.au/wp-content/uploads/2023/10/381230482_817141927081649_5633568678712332789_n.jpg?w=1440&ssl=1"
+    },
+    {
+      "dup": "https://i0.wp.com/northernriverssportfishing.com.au/wp-content/uploads/2023/10/385259144_817141923748316_8993064749731681565_n.jpg?w=1440&ssl=1"
+    },
+    {
+      "dup": "https://i0.wp.com/northernriverssportfishing.com.au/wp-content/uploads/2023/10/bass1.jpg?w=600&ssl=1"
+    },
+    {
+      "dup": "https://i0.wp.com/northernriverssportfishing.com.au/wp-content/uploads/2023/10/bass4.jpg?w=1440&ssl=1"
+    },
+    {
+      "dup": "https://i0.wp.com/northernriverssportfishing.com.au/wp-content/uploads/2023/10/bass2.jpg?w=1440&ssl=1"
+    },
+    {
+      "dup": "https://i0.wp.com/northernriverssportfishing.com.au/wp-content/uploads/2023/10/bass3.jpg?w=1440&ssl=1"
+    },
+    {
+      "image": "https://i0.wp.com/northernriverssportfishing.com.au/wp-content/uploads/2023/08/324088367_2038531253205246_7280343722019735729_n.jpg?w=528&ssl=1",
+      "error": "too small 528x528"
+    },
+    {
+      "image": "https://i0.wp.com/northernriverssportfishing.com.au/wp-content/uploads/2023/08/323326807_512979924265486_6215254423862905442_n.jpg?w=509&ssl=1",
+      "error": "too small 509x509"
+    },
+    {
+      "image": "https://i0.wp.com/northernriverssportfishing.com.au/wp-content/uploads/2023/08/322707393_1154933288748178_814732651954553648_n.jpg?w=1034&ssl=1",
+      "error": "HTTP 400"
     }
   ]
 }

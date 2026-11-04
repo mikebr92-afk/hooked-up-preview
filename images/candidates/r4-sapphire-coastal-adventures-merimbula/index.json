@@ -1,7 +1,7 @@
 {
   "slug": "r4-sapphire-coastal-adventures-merimbula",
   "request_hash": "588930f3e4f3",
-  "collected_at": "2026-11-04T04:06:21.604Z",
+  "collected_at": "2026-11-04T04:14:28.756Z",
   "pages_fetched": [
     "https://www.sapphirecoastaladventures.com.au/",
     "https://www.sapphirecoastaladventures.com.au/fishing-charters",
@@ -57,13 +57,13 @@
       "page": "https://www.escapetomerimbula.com.au/sapphire-coastal-adventures",
       "status": 200,
       "final_url": "https://www.escapetomerimbula.com.au/sapphire-coastal-adventures",
-      "bytes": 780701
+      "bytes": 780984
     },
     {
       "page": "https://www.escapetomerimbula.com.au/fishing-boating",
       "status": 200,
       "final_url": "https://www.escapetomerimbula.com.au/fishing-boating",
-      "bytes": 796789
+      "bytes": 795418
     },
     {
       "page": "https://www.sapphirecoastaladventures.com.au/contact",
@@ -75,13 +75,13 @@
       "page": "https://www.escapetomerimbula.com.au/fishpen-charters",
       "status": 200,
       "final_url": "https://www.escapetomerimbula.com.au/fishpen-charters",
-      "bytes": 781507
+      "bytes": 781873
     },
     {
       "page": "https://www.escapetomerimbula.com.au/merimbula-fishing-report",
       "status": 200,
       "final_url": "https://www.escapetomerimbula.com.au/merimbula-fishing-report",
-      "bytes": 775736
+      "bytes": 775476
     }
   ]
 }

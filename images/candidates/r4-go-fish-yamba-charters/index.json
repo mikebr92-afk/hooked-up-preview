@@ -1,7 +1,7 @@
 {
   "slug": "r4-go-fish-yamba-charters",
   "request_hash": "ab7f0fd4565b",
-  "collected_at": "2026-11-04T04:05:48.083Z",
+  "collected_at": "2026-11-04T04:13:42.645Z",
   "pages_fetched": [
     "https://www.gofishyamba.com.au/",
     "https://www.gofishyamba.com.au/about",
@@ -22,7 +22,7 @@
       "page": "https://www.gofishyamba.com.au/",
       "status": 200,
       "final_url": "https://www.gofishyamba.com.au/",
-      "bytes": 486729
+      "bytes": 302935
     },
     {
       "page": "https://www.gofishyamba.com.au/about",

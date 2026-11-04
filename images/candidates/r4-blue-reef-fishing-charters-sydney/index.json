@@ -1,7 +1,7 @@
 {
   "slug": "r4-blue-reef-fishing-charters-sydney",
   "request_hash": "8abebdca7779",
-  "collected_at": "2026-11-04T04:06:28.786Z",
+  "collected_at": "2026-11-04T04:14:42.528Z",
   "pages_fetched": [
     "https://www.bluereefcharters.info/",
     "https://www.bluereefcharters.info/about-us.html",
@@ -22,37 +22,37 @@
       "page": "https://www.bluereefcharters.info/",
       "status": 200,
       "final_url": "https://www.bluereefcharters.info/",
-      "bytes": 62217
+      "bytes": 61905
     },
     {
       "page": "https://www.bluereefcharters.info/about-us.html",
       "status": 200,
       "final_url": "https://www.bluereefcharters.info/about-us.html",
-      "bytes": 31898
+      "bytes": 31900
     },
     {
       "page": "https://www.bluereefcharters.info/general-boat-info.html",
       "status": 200,
       "final_url": "https://www.bluereefcharters.info/general-boat-info.html",
-      "bytes": 34189
+      "bytes": 34194
     },
     {
       "page": "https://www.bluereefcharters.info/fishing-charters/reef-fishing-trips.html",
       "status": 200,
       "final_url": "https://www.bluereefcharters.info/fishing-charters/reef-fishing-trips.html",
-      "bytes": 35394
+      "bytes": 35395
     },
     {
       "page": "https://www.bluereefcharters.info/fishing-charters/sports-fishing-trips.html",
       "status": 200,
       "final_url": "https://www.bluereefcharters.info/fishing-charters/sports-fishing-trips.html",
-      "bytes": 34653
+      "bytes": 34651
     },
     {
       "page": "https://www.bluereefcharters.info/contact.html",
       "status": 200,
       "final_url": "https://www.bluereefcharters.info/contact.html",
-      "bytes": 31488
+      "bytes": 31489
     },
     {
       "page": "https://www.bluereefcharters.info/fishing-charters.html",
@@ -64,13 +64,13 @@
       "page": "https://www.bluereefcharters.info/gallery.html",
       "status": 200,
       "final_url": "https://www.bluereefcharters.info/gallery.html",
-      "bytes": 55988
+      "bytes": 55992
     },
     {
       "page": "https://www.bluereefcharters.info/boat-info.html",
       "status": 200,
       "final_url": "https://www.bluereefcharters.info/boat-info.html",
-      "bytes": 34183
+      "bytes": 34181
     },
     {
       "page": "https://www.bluereefcharters.info/pickup-locations.html",
@@ -82,13 +82,13 @@
       "page": "https://www.bluereefcharters.info/testimonials.html",
       "status": 200,
       "final_url": "https://www.bluereefcharters.info/testimonials.html",
-      "bytes": 60386
+      "bytes": 60381
     },
     {
       "page": "https://www.bluereefcharters.info/fishing-charters/game-fishing-trips.html",
       "status": 200,
       "final_url": "https://www.bluereefcharters.info/fishing-charters/game-fishing-trips.html",
-      "bytes": 33416
+      "bytes": 33414
     }
   ]
 }

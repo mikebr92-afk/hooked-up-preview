@@ -1,7 +1,7 @@
 {
   "slug": "r4-freedom-charters-eden",
   "request_hash": "d5a9890ea383",
-  "collected_at": "2026-11-04T04:06:18.446Z",
+  "collected_at": "2026-11-04T04:14:23.166Z",
   "pages_fetched": [
     "https://freedomcharters.com.au/",
     "https://freedomcharters.com.au/about.html",
@@ -64,7 +64,7 @@
       "page": "https://www.escapetomerimbula.com.au/fishing-boating",
       "status": 200,
       "final_url": "https://www.escapetomerimbula.com.au/fishing-boating",
-      "bytes": 796789
+      "bytes": 795418
     },
     {
       "page": "https://freedomcharters.com.au/index.html",

@@ -1,0 +1,31 @@
+{
+  "slug": "r4-disc-coffs-3",
+  "request_hash": "bb7df0579092",
+  "collected_at": "2026-11-04T04:17:50.401Z",
+  "pages_fetched": [
+    "https://www.coffscoastholidayparks.com.au/fishing-on-the-coffs-coast/",
+    "https://www.coffscoast.com.au/?p=552",
+    "https://www.australias.guide/nsw/attraction-tour/tweed/south-murwillumbah/northern-rivers-sportfishing/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.coffscoastholidayparks.com.au/fishing-on-the-coffs-coast/",
+      "status": 200,
+      "final_url": "https://www.coffscoastholidayparks.com.au/fishing-on-the-coffs-coast/",
+      "bytes": 151901
+    },
+    {
+      "page": "https://www.coffscoast.com.au/?p=552",
+      "status": 404,
+      "final_url": "https://www.coffscoast.com.au/?p=552",
+      "bytes": 132276
+    },
+    {
+      "page": "https://www.australias.guide/nsw/attraction-tour/tweed/south-murwillumbah/northern-rivers-sportfishing/",
+      "status": 200,
+      "final_url": "https://australiasguide.com/",
+      "bytes": 146324
+    }
+  ]
+}

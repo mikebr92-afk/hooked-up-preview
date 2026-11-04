@@ -1,7 +1,7 @@
 {
   "slug": "r4-sydney-fly-fishing",
   "request_hash": "e430a8143ebd",
-  "collected_at": "2026-11-04T04:07:31.905Z",
+  "collected_at": "2026-11-04T04:15:42.738Z",
   "pages_fetched": [
     "https://www.sydneyflyfishing.com.au/",
     "https://www.sydneyflyfishing.com.au/tours-pricing",
@@ -20,61 +20,61 @@
       "page": "https://www.sydneyflyfishing.com.au/",
       "status": 200,
       "final_url": "https://www.sydneyflyfishing.com.au/",
-      "bytes": 1084978
+      "bytes": 1092696
     },
     {
       "page": "https://www.sydneyflyfishing.com.au/tours-pricing",
       "status": 200,
       "final_url": "https://www.sydneyflyfishing.com.au/tours-pricing",
-      "bytes": 1221171
+      "bytes": 1221165
     },
     {
       "page": "https://www.sydneyflyfishing.com.au/your-guide",
       "status": 200,
       "final_url": "https://www.sydneyflyfishing.com.au/your-guide",
-      "bytes": 956324
+      "bytes": 955082
     },
     {
       "page": "https://www.sydneyflyfishing.com.au/about-2",
       "status": 200,
       "final_url": "https://www.sydneyflyfishing.com.au/about-2",
-      "bytes": 1026017
+      "bytes": 1026130
     },
     {
       "page": "https://www.sydneyflyfishing.com.au/contact-us",
       "status": 200,
       "final_url": "https://www.sydneyflyfishing.com.au/contact-us",
-      "bytes": 1014298
+      "bytes": 1014397
     },
     {
       "page": "https://www.sydneyflyfishing.com.au/general-8",
       "status": 200,
       "final_url": "https://www.sydneyflyfishing.com.au/general-8",
-      "bytes": 954621
+      "bytes": 954584
     },
     {
       "page": "https://www.sydneyflyfishing.com.au/newsletter",
       "status": 200,
       "final_url": "https://www.sydneyflyfishing.com.au/newsletter",
-      "bytes": 1166738
+      "bytes": 1166770
     },
     {
       "page": "https://www.sydneyflyfishing.com.au/casting-tuition",
       "status": 200,
       "final_url": "https://www.sydneyflyfishing.com.au/casting-tuition",
-      "bytes": 1199365
+      "bytes": 1199335
     },
     {
       "page": "https://www.sydneyflyfishing.com.au/gift-voucher",
       "status": 200,
       "final_url": "https://www.sydneyflyfishing.com.au/gift-voucher",
-      "bytes": 1699394
+      "bytes": 1699390
     },
     {
       "page": "https://www.sydneyflyfishing.com.au/gallery",
       "status": 200,
       "final_url": "https://www.sydneyflyfishing.com.au/gallery",
-      "bytes": 1349476
+      "bytes": 1349419
     }
   ]
 }

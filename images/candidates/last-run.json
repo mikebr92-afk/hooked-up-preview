@@ -1,5 +1,5 @@
 {
-  "finished_at": "2026-11-04T04:09:07.771Z",
+  "finished_at": "2026-11-04T04:17:50.401Z",
   "summary": [
     {
       "slug": "r4-byron-bay-charters",
@@ -260,6 +260,16 @@
       "slug": "r4-watch-tourism",
       "candidates": 0,
       "pages": 6
+    },
+    {
+      "slug": "r4-lead-calm-water-fishing",
+      "candidates": 16,
+      "pages": 12
+    },
+    {
+      "slug": "r4-disc-coffs-3",
+      "candidates": 0,
+      "pages": 3
     }
   ]
 }

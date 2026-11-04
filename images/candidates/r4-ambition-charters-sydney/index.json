@@ -1,7 +1,7 @@
 {
   "slug": "r4-ambition-charters-sydney",
   "request_hash": "3e07a31b6233",
-  "collected_at": "2026-11-04T04:06:22.670Z",
+  "collected_at": "2026-11-04T04:14:37.091Z",
   "pages_fetched": [
     "https://ambitioncharters.com.au/",
     "https://ambitioncharters.com.au/fishing/",
@@ -20,61 +20,61 @@
       "page": "https://ambitioncharters.com.au/",
       "status": 200,
       "final_url": "https://ambitioncharters.com.au/",
-      "bytes": 148755
+      "bytes": 148823
     },
     {
       "page": "https://ambitioncharters.com.au/fishing/",
       "status": 200,
       "final_url": "https://ambitioncharters.com.au/fishing/",
-      "bytes": 149552
+      "bytes": 149544
     },
     {
       "page": "https://ambitioncharters.com.au/game-fishing-charter-sydney/",
       "status": 200,
       "final_url": "https://ambitioncharters.com.au/game-fishing-charter-sydney/",
-      "bytes": 161870
+      "bytes": 161948
     },
     {
       "page": "https://ambitioncharters.com.au/pricing/",
       "status": 200,
       "final_url": "https://ambitioncharters.com.au/pricing/",
-      "bytes": 144627
+      "bytes": 144667
     },
     {
       "page": "https://ambitioncharters.com.au/category/fishing-reports/",
       "status": 200,
       "final_url": "https://ambitioncharters.com.au/category/fishing-reports/",
-      "bytes": 252854
+      "bytes": 252921
     },
     {
       "page": "https://ambitioncharters.com.au/ambition-charters/summer/",
       "status": 200,
       "final_url": "https://ambitioncharters.com.au/ambition-charters/summer/",
-      "bytes": 149081
+      "bytes": 149072
     },
     {
       "page": "https://ambitioncharters.com.au/autumn/",
       "status": 200,
       "final_url": "https://ambitioncharters.com.au/autumn/",
-      "bytes": 145164
+      "bytes": 145281
     },
     {
       "page": "https://ambitioncharters.com.au/winter/",
       "status": 200,
       "final_url": "https://ambitioncharters.com.au/winter/",
-      "bytes": 149986
+      "bytes": 150053
     },
     {
       "page": "https://ambitioncharters.com.au/spring/",
       "status": 200,
       "final_url": "https://ambitioncharters.com.au/spring/",
-      "bytes": 145448
+      "bytes": 145565
     },
     {
       "page": "https://ambitioncharters.com.au/links/",
       "status": 200,
       "final_url": "https://ambitioncharters.com.au/links/",
-      "bytes": 141466
+      "bytes": 141534
     }
   ]
 }

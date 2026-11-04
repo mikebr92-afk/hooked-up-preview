@@ -1,7 +1,7 @@
 {
   "slug": "r4-yamba-fishing-and-charters",
   "request_hash": "03eb8450dee2",
-  "collected_at": "2026-11-04T04:05:51.435Z",
+  "collected_at": "2026-11-04T04:13:48.281Z",
   "pages_fetched": [
     "https://www.yambafishingandcharters.com.au/",
     "https://www.yambafishingandcharters.com.au/faq",
@@ -22,19 +22,19 @@
       "page": "https://www.yambafishingandcharters.com.au/",
       "status": 200,
       "final_url": "https://www.yambafishingandcharters.com.au/",
-      "bytes": 741540
+      "bytes": 736809
     },
     {
       "page": "https://www.yambafishingandcharters.com.au/faq",
       "status": 200,
       "final_url": "https://www.yambafishingandcharters.com.au/faq",
-      "bytes": 634604
+      "bytes": 638074
     },
     {
       "page": "https://www.yambafishingandcharters.com.au/book-online",
       "status": 200,
       "final_url": "https://www.yambafishingandcharters.com.au/book-online",
-      "bytes": 900478
+      "bytes": 900127
     },
     {
       "page": "https://www.yambafishingandcharters.com.au/what-do-i-need-to-bring",
@@ -52,31 +52,31 @@
       "page": "https://www.yambafishingandcharters.com.au/terms-and-conditions",
       "status": 200,
       "final_url": "https://www.yambafishingandcharters.com.au/terms-and-conditions",
-      "bytes": 630766
+      "bytes": 634065
     },
     {
       "page": "https://www.yambafishingandcharters.com.au/covid-19-restrictions",
       "status": 200,
       "final_url": "https://www.yambafishingandcharters.com.au/covid-19-restrictions",
-      "bytes": 637123
+      "bytes": 637208
     },
     {
       "page": "https://www.yambafishingandcharters.com.au/services",
       "status": 200,
       "final_url": "https://www.yambafishingandcharters.com.au/services",
-      "bytes": 636644
+      "bytes": 640901
     },
     {
       "page": "https://www.yambafishingandcharters.com.au/shop",
       "status": 200,
       "final_url": "https://www.yambafishingandcharters.com.au/shop",
-      "bytes": 1125027
+      "bytes": 1125224
     },
     {
       "page": "https://www.yambafishingandcharters.com.au/gift-card",
       "status": 200,
       "final_url": "https://www.yambafishingandcharters.com.au/gift-card",
-      "bytes": 1380519
+      "bytes": 1380593
     },
     {
       "page": "https://www.visitnsw.com/in/things-to-do/tours/yamba-fishing-and-charters",

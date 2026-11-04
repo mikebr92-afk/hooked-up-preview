@@ -1,7 +1,7 @@
 {
   "slug": "r4-port-macquarie-fishing-charters",
   "request_hash": "e89776a0b8bb",
-  "collected_at": "2026-11-04T04:04:51.008Z",
+  "collected_at": "2026-11-04T04:12:54.472Z",
   "pages_fetched": [
     "https://www.portmacquariefishingcharters.com.au/",
     "https://www.portmacquariefishingcharters.com.au/port-macquarie-deep-sea-fishing-charter-boats-port-macquarie/",
@@ -20,7 +20,9 @@
   "log": [
     {
       "page": "https://www.portmacquariefishingcharters.com.au/",
-      "error": "The operation was aborted due to timeout"
+      "status": 200,
+      "final_url": "https://www.portmacquariefishingcharters.com.au/",
+      "bytes": 59107
     },
     {
       "page": "https://www.portmacquariefishingcharters.com.au/port-macquarie-deep-sea-fishing-charter-boats-port-macquarie/",
