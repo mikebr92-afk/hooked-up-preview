@@ -1,0 +1,230 @@
+[
+ {
+  "key": "coral-coast",
+  "n": "Coral Coast",
+  "short": "Coral Coast",
+  "in": "on the Coral Coast",
+  "c": [
+   "coral coast",
+   "geraldton",
+   "abrolhos",
+   "exmouth",
+   "ningaloo",
+   "tantabiddi"
+  ],
+  "hotspots": [
+   "geraldton",
+   "exmouth"
+  ],
+  "intro": [
+   "Australia's Coral Coast stretches about 1,100km from Cervantes, two hours north of Perth, to the World Heritage-listed Ningaloo Reef. For anglers it has two main charter bases: Geraldton, the jumping-off point for the Houtman Abrolhos Islands, and Exmouth, where the continental shelf comes within about 12km of the North West Cape.",
+   "The two ends fish very differently. At the Abrolhos, the warm Leeuwin Current lets WA dhufish, pink snapper and baldchin groper share reefs with coral trout, and trips are mostly six-night live-aboards or weather-permitting day runs. Off Exmouth, gameboats chase blue, black and striped marlin and sailfish, while day boats and live-aboards fish Ningaloo Reef, the Gulf and islands north to the Montebellos."
+  ],
+  "season": "Abrolhos live-aboards from Geraldton run from late February to mid May. Exmouth fishes year round: blue marlin heavy-tackle trips run from October to April, Exmouth Gulf sailfish in October and November, and island live-aboards from April to November. The Abrolhos baldchin groper spawning closure runs 1 October to 31 December.",
+  "sections": [
+   {
+    "h": "Destinations on the Coral Coast",
+    "p": [],
+    "items": [
+     [
+      "Geraldton & the Abrolhos",
+      "Six-night Abrolhos live-aboards, Abrolhos day trips, rock lobster tours and near-coast day fishing from Batavia Coast Marina"
+     ],
+     [
+      "Exmouth & Ningaloo",
+      "Billfish gameboats from Tantabiddi and Exmouth Marina, shared bottom-fishing days, and Ningaloo, island and Montebello live-aboards"
+     ]
+    ]
+   },
+   {
+    "h": "What you can catch",
+    "p": [],
+    "items": [
+     [
+      "Abrolhos Islands",
+      "Dhufish, pink snapper and baldchin groper (tagged charters only), coral trout, Spanish mackerel, tuna and rock lobster"
+     ],
+     [
+      "Ningaloo and the shelf",
+      "Blue, black and striped marlin, sailfish, wahoo, mahi mahi and yellowfin tuna"
+     ],
+     [
+      "Ningaloo Reef and islands",
+      "Red emperor, coral trout, spangled emperor, rankin cod, giant trevally and Spanish mackerel"
+     ]
+    ]
+   },
+   {
+    "h": "Rules that differ along the coast",
+    "p": [
+     "Geraldton and the Abrolhos sit in the West Coast bioregion, where boat-based recreational demersal fishing is closed until spring 2027. There, only charters holding demersal tags can keep species such as dhufish. Exmouth is in the Gascoyne, where demersal fishing is open but new bag and size limits apply from 1 June 2026. Paying guests on licensed charters don't need a boat fishing licence anywhere on the coast. Check the current DPIRD rules before you go."
+    ]
+   }
+  ],
+  "faq": [
+   [
+    "Is Exmouth part of the Coral Coast?",
+    "Yes. Australia's Coral Coast tourism region runs about 1,100km from Cervantes, north of Perth, to Ningaloo Reef, so it includes Geraldton, the Abrolhos Islands, Kalbarri, Shark Bay, Coral Bay and Exmouth."
+   ],
+   [
+    "Where on the Coral Coast can I still keep dhufish?",
+    "At the Abrolhos, only on a charter that holds West Coast demersal tags, because boat-based recreational demersal fishing in the West Coast bioregion is closed until spring 2027. Further north in the Gascoyne, around Exmouth, demersal fishing is open under the current DPIRD limits."
+   ],
+   [
+    "Which is better for marlin, Geraldton or Exmouth?",
+    "Exmouth. Its charters are built around billfish, because the continental shelf lies close to the North West Cape, with blue marlin trips from October to April and Gulf sailfish in spring. Geraldton charters focus on Abrolhos reef fish, pelagics and rock lobster, though some live-aboards troll for marlin on wider days."
+   ]
+  ],
+  "sources": [
+   "https://www.australiascoralcoast.com/",
+   "https://www.australiascoralcoast.com/destinations/geraldton-surrounds/houtman-abrolhos-islands",
+   "https://www.apachecharters.com.au/abrolhos-fishing-charters",
+   "https://www.offshorecharterswa.com.au/",
+   "https://innkeepersportfishing.com/",
+   "https://innkeepersportfishing.com/packages/exmouth-gulf-sailfish-adventure/",
+   "https://allthegearnoideasportfishing.com/our-charters/",
+   "https://www.bluehorizoncharters.com.au/fishing-trips/day-trips/",
+   "https://www.dpird.wa.gov.au/individuals/recreational-fishing/west-coast-demersal-scalefish--information-for-recreational-fishers",
+   "https://www.dpird.wa.gov.au/businesses/charter-boat-fishing/"
+  ],
+  "search_keywords": [
+   "Coral Coast fishing charters",
+   "Coral Coast WA fishing",
+   "Abrolhos and Exmouth fishing charters",
+   "Ningaloo fishing charters",
+   "Geraldton fishing charters",
+   "Exmouth fishing charters",
+   "Mid West and Gascoyne fishing trips"
+  ],
+  "meta_title": "Coral Coast Fishing Charters WA: Abrolhos & Exmouth | Hooked Trips",
+  "meta_description": "Compare Coral Coast fishing charters: Abrolhos live-aboards and cray tours from Geraldton, plus marlin, sailfish and Ningaloo reef trips from Exmouth.",
+  "_operators": [
+   "apache-charters-abrolhos",
+   "offshore-charters-wa-geraldton",
+   "all-the-gear-no-idea-sportfishing-exmouth",
+   "blue-horizon-charters-exmouth",
+   "innkeeper-sportfishing-charters-exmouth"
+  ],
+  "_notes": "Only destinations from this round's list are included (geraldton, exmouth). Shark Bay and Coral Bay are in the Coral Coast tourism region but have no destination page yet. Apache's Shark Bay trips (from Denham) could be linked once a shark-bay page exists."
+ },
+ {
+  "key": "north-west-kimberley",
+  "n": "North West & Kimberley",
+  "short": "North West & Kimberley",
+  "in": "in WA’s North West & the Kimberley",
+  "c": [
+   "broome",
+   "kimberley",
+   "kununurra",
+   "roebuck bay",
+   "kuri bay",
+   "wyndham"
+  ],
+  "hotspots": [
+   "broome",
+   "kimberley"
+  ],
+  "intro": [
+   "Australia's North West, from Broome across the Kimberley to Kununurra, is WA's tropical fishing frontier. Mangrove creeks and tidal flats hold barramundi, threadfin salmon and mangrove jack, offshore reefs hold red emperor and coral trout, and sailfish, marlin and Spanish mackerel run in the bluewater.",
+   "Broome is the hub, with day charters on Roebuck Bay and offshore, gameboats for sailfish, and live-aboards heading up the Kimberley coast or out to the Rowley Shoals and Scott Reef. Beyond Broome, anglers fly into remote lodges such as Kuri Bay, or fish the Ord River and East Kimberley with local and Aboriginal guides. The West Coast demersal closure doesn't apply here, so reef fish can still be kept within the North Coast rules."
+  ],
+  "season": "The dry season, roughly April to October, is peak time: calm mornings for Broome reef trips, Kimberley live-aboards from April to August, and Broome billfish days from April to November. Live-aboards switch to the Rowley Shoals and Scott Reef from late August. Creek barramundi fishing carries on into the build-up and wet season, and the Ord River around Kununurra fishes year round.",
+  "sections": [
+   {
+    "h": "Destinations in the North West",
+    "p": [],
+    "items": [
+     [
+      "Broome",
+      "Creek and Roebuck Bay trips, offshore reef days with accommodation pickup, sailfish and black marlin gameboats, private lure and fly sportfishing"
+     ],
+     [
+      "Kimberley",
+      "Nine-day live-aboards from Broome, the Kuri Bay fly-in lodge in Camden Sound, and Aboriginal-guided tours on Balanggarra Country near Kununurra and Wyndham"
+     ]
+    ]
+   },
+   {
+    "h": "Choosing a trip",
+    "p": [],
+    "items": [
+     [
+      "One day, small group",
+      "Broome creek trip for barramundi and threadfin, or a private sportfishing charter"
+     ],
+     [
+      "One day, family or group",
+      "Broome offshore reef day on a large boat with lunch and pickup"
+     ],
+     [
+      "Billfish",
+      "Broome gameboats from April to November, including sailfish on fly"
+     ],
+     [
+      "A week or more",
+      "Kimberley live-aboard (up to six anglers) or a four- to seven-night Kuri Bay lodge stay"
+     ],
+     [
+      "Cultural fishing",
+      "Catch-and-cook days, overnight safaris and tagalongs with a Balanggarra guide"
+     ]
+    ]
+   },
+   {
+    "h": "Safety and rules",
+    "p": [
+     "Saltwater crocodiles live in almost every waterway that holds barramundi, so stand back from the edge and never clean fish at the water. Tides can exceed eight to nine metres, which is why creek trips are timed to the tide. Demersal fishing is open in the North West, but new North Coast bag and size limits applied from 1 June 2026, so check the current DPIRD rules. Paying guests on licensed charters don't need a boat fishing licence."
+    ]
+   }
+  ],
+  "faq": [
+   [
+    "What is the difference between Broome and Kimberley fishing charters?",
+    "Broome charters are mostly day trips from town: creek barramundi, offshore reef fishing and sailfish. Kimberley trips go much further and take longer, using live-aboards that leave Broome for nine days, fly-in lodges reached by seaplane, or guided trips out of Kununurra and the East Kimberley."
+   ],
+   [
+    "When is the best time to fish the Kimberley and Broome?",
+    "The dry season from about April to October has the calmest weather. Kimberley coast live-aboards fish from April to August, Rowley Shoals and Scott Reef trips run from late August to November, and Broome billfish days run April to November. Creek barramundi fishing continues in the wetter months, and the Ord River fishes year round."
+   ],
+   [
+    "Can you keep reef fish in the North West?",
+    "Yes. The West Coast demersal closure doesn't apply in the North West, and tourism bodies note that recreational and charter demersal fishing remains available there. Bag and size limits changed from 1 June 2026, so check the current DPIRD rules. Some live-aboards, though, are catch and release apart from fish eaten aboard."
+   ]
+  ],
+  "sources": [
+   "https://www.australiasnorthwest.com/see-do/fishing/",
+   "https://www.australiasnorthwest.com/explore/kimberley/kununurra/fishing-kununurra/",
+   "https://www.visitkununurra.com/kimberley-fishing",
+   "https://www.absoluteoceancharters.com.au/broome-fishing-charters/",
+   "https://akamesportfishing.com.au/",
+   "https://broomebillfish.com.au/chartres_tours/full-day-sports-fishing-shared-charter/",
+   "https://broomebillfish.com.au/chartres_tours/fly-fishing-broome/",
+   "https://reelteaserfishingadventures.com/charter-prices-3/",
+   "https://reelteaserfishingadventures.com/",
+   "https://www.kuribaysportfishingtours.com.au/tour-packages/",
+   "https://birchysfishingtours.com.au/fishing-safari",
+   "https://watravel.com.au/broome/activites/fishing/",
+   "https://www.dpird.wa.gov.au/businesses/charter-boat-fishing/"
+  ],
+  "search_keywords": [
+   "Kimberley fishing charters",
+   "Broome and Kimberley fishing",
+   "North West WA fishing charters",
+   "Kimberley barramundi fishing trip",
+   "Broome fishing charters",
+   "Kimberley fishing live aboard",
+   "Kununurra fishing tours"
+  ],
+  "meta_title": "Broome & Kimberley Fishing Charters | North West WA | Hooked Trips",
+  "meta_description": "Compare Broome and Kimberley fishing charters: creek barramundi, reef days, sailfish, Kimberley live-aboards, fly-in lodges and Aboriginal-guided tours.",
+  "_operators": [
+   "absolute-ocean-charters-broome",
+   "akame-sportfishing-broome",
+   "broome-billfish-charters",
+   "reel-teaser-fishing-adventures",
+   "kuri-bay-sport-fishing-tours",
+   "birchys-fishing-tours"
+  ],
+  "_notes": "Only destinations from this round's list are included (broome, kimberley). Dampier & Karratha (Pilbara) would fit a wider 'North West' hub, but it has no live page (Pelican Charters is still held)."
+ }
+]

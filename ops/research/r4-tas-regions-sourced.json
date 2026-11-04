@@ -1,0 +1,177 @@
+[
+ {
+  "key": "south-east-tasmania",
+  "n": "South East Tasmania",
+  "short": "South East Tasmania",
+  "in": "in South East Tasmania",
+  "hotspots": [
+   "hobart",
+   "tasman-peninsula"
+  ],
+  "c": [
+   "fishing charters South East Tasmania",
+   "Hobart fishing charter",
+   "Tasman Peninsula fishing charter",
+   "Eaglehawk Neck tuna charter",
+   "southern bluefin tuna charter Tasmania",
+   "Storm Bay fishing",
+   "Port Arthur fishing charter",
+   "Hobart fly fishing guide"
+  ],
+  "intro": [
+   "South East Tasmania is the state's busiest saltwater charter region, from the sheltered bays south of Hobart to the deep water off the Tasman Peninsula. Shared boats leave Margate Marina for flathead, squid and salmon, while Eaglehawk Neck and Port Arthur are the bases for southern bluefin and albacore tuna and deep-reef striped trumpeter.",
+   "The region suits mixed trips. Calmer bay charters run from Dodges Ferry when the open coast is rough, Hobart fly fishing guides fish the Derwent estuary for sea-run trout and bream, and the Tasman Peninsula is about 45 minutes from Hobart Airport."
+  ],
+  "season": "Inshore bottom fishing runs all year. Local charters target tuna off the Tasman Peninsula from about March to August, and yellowtail kingfish and snapper turn up in the bays from November to March. Striped trumpeter are closed 1 September to 31 October, and south-east squid 15 October to 14 November in 2025 and 2026.",
+  "sections": [
+   {
+    "h": "Where to fish in South East Tasmania",
+    "p": [],
+    "items": [
+     [
+      "Hobart & Storm Bay",
+      "Shared inshore trips from Margate Marina, private offshore charters, and Derwent estuary fly fishing"
+     ],
+     [
+      "Tasman Peninsula",
+      "Eaglehawk Neck, Pirates Bay and Port Arthur for tuna, striped trumpeter, flathead and morwong"
+     ],
+     [
+      "Frederick Henry Bay",
+      "Sheltered bay charters from Dodges Ferry for sand flathead, calamari, salmon and whiting"
+     ]
+    ]
+   },
+   {
+    "h": "Choosing a trip",
+    "p": [
+     "Pick a shared trip from Hobart for a short, calm-water outing with family or beginners, a Tasman Peninsula charter for tuna and deep reef fish, or a private charter if your group wants to choose the grounds. Some charters can arrange pick-ups from Hobart."
+    ],
+    "items": []
+   },
+   {
+    "h": "Rules and safety",
+    "p": [
+     "Rod-and-line sea fishing needs no licence, but diving for rock lobster or abalone does. Frederick Henry, Norfolk and Blackman bays are shark refuge areas where sharks, skates and rays other than elephantfish cannot be taken. Check the current NRE Tas rules for bag and size limits."
+    ],
+    "items": []
+   }
+  ],
+  "faq": [
+   [
+    "Where is tuna fishing based in South East Tasmania?",
+    "Mainly at Eaglehawk Neck (Pirates Bay) and Port Arthur on the Tasman Peninsula, where local charters run tuna trips from about March to August. Hobart charters reach Storm Bay tuna grounds by private charter."
+   ],
+   [
+    "Which South East Tasmania fishing trip suits families?",
+    "Calm-water options are the shared trips from Margate Marina, which Diver's says mostly fish sheltered water and where children under 6 ride free, and Mr Flathead's Dodges Ferry bay charter on Frederick Henry Bay for flathead, calamari, salmon and whiting."
+   ]
+  ],
+  "sources": [
+   "https://www.tasyachttrip.com.au/faq",
+   "https://www.tasyachttrip.com.au/half-day-fishing-charter-hobart",
+   "https://tassieflyguide.com.au/guiding",
+   "https://tassieflyguide.com.au/blog",
+   "https://fishing.tas.gov.au/recreational-fishing/rules/recreational-fishing-seasons",
+   "https://fishing.tas.gov.au/recreational-fishing/recreational-sea-fishing-licences",
+   "https://fishing.tas.gov.au/commercial-fishing/commercial-fishing-licences/charter-and-seafood-tourism",
+   "https://www.ifs.tas.gov.au/the-rules/season-dates-and-times",
+   "https://www.ifs.tas.gov.au/the-rules/angling-licence",
+   "https://www.tasyachttrip.com.au/hobart-fishing-cruise",
+   "https://fishing.tas.gov.au/recreational-fishing/fishing-tips/hot-fishing-spots/fishing-around-the-tasman-peninsula-region",
+   "https://www.mrflathead.com.au/tasmania-fishing-charter-tour",
+   "https://www.mrflathead.com.au/contact-charters-hobart",
+   "https://tasmanspiritcharters.com/"
+  ]
+ },
+ {
+  "key": "tasmania-trout-country",
+  "n": "Central & Northern Tasmania Trout Country",
+  "short": "Tasmanian trout country",
+  "in": "in Central and Northern Tasmania",
+  "hotspots": [
+   "central-highlands",
+   "launceston"
+  ],
+  "c": [
+   "Tasmania fly fishing guide",
+   "trout fishing Tasmania",
+   "Central Highlands fly fishing",
+   "Launceston fly fishing tour",
+   "Great Lake trout guide",
+   "Western Lakes fly fishing",
+   "Brumbys Creek fly fishing",
+   "Tasmania trout fishing tours"
+  ],
+  "intro": [
+   "Central and Northern Tasmania is the state's trout country: the lake-studded Central Highlands plateau around Miena and Great Lake, and the meadow streams and tailwaters of the Northern Midlands around Launceston and Cressy. Professional guides here sight fish for wild brown and rainbow trout by boat, raft or on foot.",
+   "Highland guides work Great Lake, Arthurs Lake, the shallow lagoons and the World Heritage Western Lakes, while river guides drift or wade Brumbys Creek, the South Esk, Macquarie and Meander. Many trips include tuition, transfers and lunch, and private fisheries such as Currawong Lakes add another option."
+  ],
+  "season": "Most trout waters are open from 1 August 2026 to 2 May 2027; Great Lake (except Canal Bay) is open all year, and the lower Brumbys, Macquarie, Meander and South Esk stay open to 30 May 2027. Discover Tasmania rates mid-October to mid-April as the best fishing, and guides say dry fly takes over on the rivers after early October.",
+  "sections": [
+   {
+    "h": "Where the guides fish",
+    "p": [],
+    "items": [
+     [
+      "Central Highlands",
+      "Great Lake, Arthurs Lake, Penstock and Little Pine lagoons, and the Western Lakes from Miena"
+     ],
+     [
+      "Launceston & the North",
+      "Brumbys Creek, South Esk, Macquarie, Meander, St Patricks and Mersey rivers, plus the Tamar estuary"
+     ],
+     [
+      "Private fisheries",
+      "Currawong Lakes on the Eastern Tiers: no licence needed, access fees apply"
+     ]
+    ]
+   },
+   {
+    "h": "Lakes or rivers?",
+    "p": [
+     "Highland lakes offer polaroiding, tailing fish and big mayfly and beetle days but can be cold and windy; the lowland rivers are closer to Launceston accommodation, more sheltered, and suit half days. Many guides fish both and choose on the day."
+    ],
+    "items": []
+   },
+   {
+    "h": "Licences and getting there",
+    "p": [
+     "Everyone 14 or older needs an Inland Fisheries Service angling licence, including guided clients; short-term licences are available and some guides sell them. Launceston has direct flights from Sydney, Melbourne and Brisbane, and highland guides such as Miena Guiding recommend arriving the night before."
+    ],
+    "items": []
+   }
+  ],
+  "faq": [
+   [
+    "Should I base myself in Launceston or Miena for a trout trip?",
+    "Launceston suits river fishing and shorter days, with most venues within an hour; Miena puts you on Great Lake and the highland lagoons, and Miena Guiding starts its days with a 9am pick-up from local accommodation. Several guides run both."
+   ],
+   [
+    "Do guided trout clients need their own licence in Tasmania?",
+    "Yes. The Inland Fisheries Service says anyone 14 or older fishing inland waters needs a current angling licence, with no exemption for guided clients. Registered private fisheries such as Currawong Lakes are the exception."
+   ]
+  ],
+  "sources": [
+   "https://www.ifs.tas.gov.au/the-rules/season-dates-and-times",
+   "https://www.ifs.tas.gov.au/the-rules/angling-licence",
+   "https://ifs.tas.gov.au/get-expert-advice",
+   "https://www.ifs.tas.gov.au/",
+   "https://www.trouttalestasmania.com.au/tours/fly-fishing-tours-near-central-highlands-tasmania",
+   "https://www.trouttalestasmania.com.au/fly-fishing-tasmania-packages",
+   "https://mienaguidingtasmania.com.au/",
+   "https://www.tasflyfish.com.au/",
+   "https://riverfly.com.au/fly-fishing-tasmania/",
+   "https://tasmaniaflyfishing.com.au/tasmania-fly-fishing-charters-rates-tours/",
+   "https://troutterritory.com.au/about/",
+   "https://troutterritory.com.au/fly-fishing-tour-rates/",
+   "https://www.redtagtrout.com/tour-options/",
+   "https://www.ifs.tas.gov.au/the-rules/season-dates-and-times",
+   "https://www.ifs.tas.gov.au/the-rules/angling-licence",
+   "https://ifs.tas.gov.au/get-expert-advice",
+   "https://www.mayflyguiding.com.au/trip-information-1",
+   "https://www.peterhayesflyfishing.com/",
+   "https://www.discovertasmania.com.au/things-to-do/outdoor-and-adventure/fishing-and-fly-fishing/"
+  ]
+ }
+]

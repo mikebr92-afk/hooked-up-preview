@@ -171,11 +171,110 @@ Life jackets: everyone must wear one crossing Port Phillip Heads (operator state
 
 Sourced guides: `ops/research/r3-vic-guides-sourced.json` · held records: `ops/research/r3-vic-held.json`
 
+
+## Research notes, round 4 SEO/GEO (vic, Nov 2026)
+
+```
+VICTORIA - KNOWLEDGE UPDATES FOR ops/states/vic.md  (state-vic, round 4 SEO/GEO + coverage, checked 2026-11-04)
+==========================================================================================================
+
+1. NEW LISTINGS (listings.json, --seo, 0 errors / 0 warnings)
+--------------------------------------------------------------
+  eildon      goulburn-valley-fly-fishing-centre   Goulburn Valley Fly Fishing Centre, Thornton/Alexandra
+              https://gvflyfishing.com/  0418 995 611 (Anthony) / 03 5773 2513  fb.com/GVflyfishing
+              Guiding since 1994; private Goulburn drift boats (1-2 anglers, priced per boat), bank and wade,
+              lessons ($590 half / $790 full, one price for 1-2), 2-day beginner workshop $490 pp (monthly Nov 2026 to May 2027).
+              Trading: (c) 2026, 2026-27 dates; TripAdvisor review 28 Dec 2025 (via search).
+              GAP: drift-boat prices sit behind an Imunify bot check (/prices/) - drift trip has price null. Owner to fill.
+  gippsland   east-gippsland-sportfishing          East Gippsland Sportfishing (guide Chris, PFIGA accredited)
+              https://www.egsportfishing.com.au/  +61 448 195 356 / 1800 637 060  fb/ig: egsportfish
+              Guided lure fishing for dusky flathead and bream on the Gippsland Lakes, Lake Tyers, Bemm River and Mallacoota;
+              max 3 anglers; 4 h $450/$550/$680 and 7 h $650/$750/$875 by group size (GST incl.).
+              Trading: (c) 2026 on all pages; current Visit East Gippsland (ATDW) operator listing.
+              NOTE: its ATDW base is Mallacoota. Filed under gippsland because it has dedicated Gippsland Lakes and Lake Tyers pages.
+              -> Add "also serves: mallacoota" when that page exists (it would be the first Mallacoota operator).
+  murray-river: NO new operator found that meets the standard (see gaps). The page stays at 1 listing.
+
+  => After this round: gippsland 2 (page can go live), eildon 2 (page can go live), murray-river 1 (still not live).
+
+2. WESTERNPORT FISHING CHARTERS - OWNERSHIP RE-CHECK
+----------------------------------------------------
+  Site re-fetched 2026-11-04: unchanged. Still "Please contact Robin & Michelle on 03 9769 5544"; prices identical
+  ($140/$160/$180/$220/$260 pp, private $440/h, 4 h min, up to 20). The business-for-sale ads (CRE Brokers $350k, owners
+  retiring; also bsale, businessforsale, seekbusiness) are still indexed, with no evidence of a completed sale or new owner.
+  Keep live; PHONE to ask whether it has sold and whether the boat, crew and prices are unchanged.
+
+3. HELD / LEADS (held.json has detail and phone numbers)
+--------------------------------------------------------
+  Southern Fly Fishing Adventures (Bright, Graham)        0408 221 161   prices on own site; site "under construction", latest date Oct 2023
+  Indulgence Flyfishing (Wodonga, Scott McPherson)        02 6059 6040 / 0412 690 696   site (c) 2017; packages page modified Mar 2025
+  Troutlore guided days (Rob Gee, Goulburn Valley)        0418 304 414   fly-tying shop; guided trout/carp days $385-$705
+  Screw Loose Fishing Charters (Lakes Entrance)           0428 397 849   NOW has prices (3 h $70 adult / $40 child); still undated
+  Sea Myth Fishing Charters                               0427 357 755   unchanged template site
+  Mako Fishing Charters (Tony Pollard, Panama II)         0412 699 394   NEW lead from lakesentrance.com; its domain is dead (redirects to a Miami site)
+  Lakes Entrance Offshore Charters (Sarn Eckhardt, SECA)  0434 778 275   no own site (Airbnb Experiences; VEG Sept 2025 What's On)
+  Keepin' It Reel Charters (Lakes Ent./Lake Tyers/Mallacoota)  phone not found   NEW lead; Spend With Us store + FishingBooker only
+  Lakes Charter Fishing                                   0458 669 820   VEG URL still 404
+  Lake Hume Hire & Guided Fishing Tours                   0418 463 609   domain resolves again, but (c) 2016 and mainly boat hire
+  WildCast Adventures / Murray Offroad Adventures         0428 224 368   operator homepage no longer mentions fishing (4WD tours only)
+  Not eligible: Lake Mulwala Fish Camp and Ski (tackle store with seasonal guided tours); The River Explorer, Echuca
+  (only a 2015 mention found).
+
+4. GAPS
+-------
+  - MURRAY RIVER: 8 Murray-focused searches plus tourism pages (Visit the Murray, Visit NSW, Yarrawonga Mulwala, Echuca Moama (404),
+    Visit Albury Wodonga PDF) found no second dedicated Murray cod guide with an own site and 2025-26 evidence.
+    Best bets for the owner to phone: Lake Hume Hire (0418 463 609) and WildCast (Mildura). Visit the Murray's fishing page
+    lists "Back of Beyond - Guided Murray Cod Tours", so Back of Beyond Fly Fishing (live, eildon) could be "also serves:
+    murray-river" if the owner confirms the operator fishes the Murray itself (its own cod page names only High Country rivers).
+  - Mallacoota still has 0 dedicated listings; East Gippsland Sportfishing covers it.
+  - Great Ocean Road & South West could not become a region hub: portland is the only destination key there.
+
+5. DESTINATION GUIDE NOTES / CORRECTIONS
+----------------------------------------
+  - Portland guide: the old Departure points item named Game On Charters, which is HELD (not live). Replaced with
+    "Used by local Portland charter boats" for the Yacht Club ramp.
+  - Thin-destination guides (gippsland, murray-river, eildon) are in guides-thin.json, because validate-seo.mjs rejects guide
+    keys not in hotspots.json. They were validated separately with thin-hotspots.json as hotspots (0 errors).
+  - Westernport Fishing Charters does NOT sell Victorian licences (giftandlicence page); used in its FAQ.
+  - Gone Fishing evening snapper charter: the page gives both "1 Nov to 23 Dec" and "1 Nov to 15 Dec"; guides say "about
+    1 November to mid-December".
+  - The VFA "Murray River (NSW)" article (via search) says Victorian licences are generally not valid on the Murray except
+    at Lake Hume. Guides now say "Lake Hume is the exception, where a Victorian licence is valid" (round 1 said reciprocal).
+    Owner: confirm on the VFA page.
+
+6. SEO PATCH FLAGS FOR THE OWNER
+--------------------------------
+  - Removed highlights that quoted Google ratings (Sharkmen 716 reviews; I'm Hooked 4.8/107), because they go stale.
+  - Far Out Charters: the highlight now says "usually eight, up to 12 for single groups" (charter FAQ), not "capped at eight".
+  - Unreel crew per its About page: James (founder/head skipper), Tristan and Dylan Rogers (skippers), Bailey (holidays),
+    Nino (bookings). Check the captains array.
+  - Salty Dog: added Lady Julia Percy Island (the operator runs eco tours there) and continental-shelf trips (About page).
+    Drop the island from areas_fished if a fishing-specific source is wanted.
+  - Gone Fishing: Swan Bay comes from round-3 guide research, not the operator site.
+  - Back of Beyond: the Great Victorian Rail Trail listing now 404s (removed from same_as).
+  - Visit East Gippsland old product URLs (far-out-fishing-charters, sea-myth, lakes-charter-fishing) are still 404;
+    the new pattern is /operator/<slug>/.
+
+7. REGIONS (regions.json)
+-------------------------
+  melbourne-bays (port-phillip, western-port); bass-strait (portland, western-port, port-phillip, gippsland);
+  murray-high-country (murray-river, eildon). The murray-high-country hub cites gvflyfishing.com, which supports the new eildon listing.
+
+8. DISCOVERY NOTES
+------------------
+  - Works: visiteastgippsland.com.au/operator_category/cswtours/ (the "Tours & Hire" category lists guides) and
+    /operator/<slug>/ pages (ATDW, with website and social links); lakesentrance.com/cruises/fishing-charter (directory).
+  - Blocked: gvflyfishing.com subpages behind an Imunify bot check after the first ~6 pages (429, then "One moment, please");
+    spendwithus.com.au; makofishingcharters.com dead. PDFs come back binary (not parsed).
+  - WebSearch used this round: 21 of 25.
+```
+
 ## Current listings
 
 <!-- AUTO:listings:start -->
 
-_Generated 2026-11-03 from data/operators.json: 12 live listings._
+_Generated 2026-11-04 from data/operators.json: 14 live listings._
 
 ### Melbourne & Port Phillip (`port-phillip`) — 5 listings, page live
 - `geelong-fishing-charters` — Geelong Fishing Charters · Geelong, Melbourne & Port Phillip · https://www.geelongfishingcharter.com.au/ · checked 2026-11-03
@@ -189,11 +288,13 @@ _Generated 2026-11-03 from data/operators.json: 12 live listings._
 - `im-hooked-fishing-charters` — I'm Hooked Fishing Charters · Hastings, Western Port & Phillip Island · https://imhookedfishingcharters.com.au/ · checked 2026-11-03
 - `westernport-fishing-charters` — Westernport Fishing Charters · Hastings, Western Port & Phillip Island · https://www.westernportfishingcharters.com.au/ · checked 2026-11-03
 
-### Lake Eildon & the High Country (`eildon`) — 1 listing, page NOT live (needs more listings)
-- `back-of-beyond-fly-fishing` — Back of Beyond Fly Fishing · Mansfield, Lake Eildon & the High Country · https://backofbeyondflyfishing.com/ · checked 2026-11-03
-
-### Gippsland Lakes & Lakes Entrance (`gippsland`) — 1 listing, page NOT live (needs more listings)
+### Gippsland Lakes & Lakes Entrance (`gippsland`) — 2 listings, page live
+- `east-gippsland-sportfishing` — East Gippsland Sportfishing · Lake Tyers, Gippsland Lakes & Lakes Entrance · https://www.egsportfishing.com.au/ · checked 2026-11-04
 - `far-out-charters` — Far Out Charters · Lakes Entrance · https://faroutcharters.com.au/ · checked 2026-11-03
+
+### Lake Eildon & the High Country (`eildon`) — 2 listings, page live
+- `back-of-beyond-fly-fishing` — Back of Beyond Fly Fishing · Mansfield, Lake Eildon & the High Country · https://backofbeyondflyfishing.com/ · checked 2026-11-03
+- `goulburn-valley-fly-fishing-centre` — Goulburn Valley Fly Fishing Centre · Thornton, Lake Eildon & the High Country · https://gvflyfishing.com/ · checked 2026-11-04
 
 ### Murray River (`murray-river`) — 1 listing, page NOT live (needs more listings)
 - `lake-mulwala-sportfishing` — Lake Mulwala Sportfishing · Yarrawonga, Murray River · https://www.lakemulwalasportfishing.com.au/ · checked 2026-11-03

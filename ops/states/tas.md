@@ -176,11 +176,100 @@ THINGS THE OWNER SHOULD CHECK
 
 Sourced guides: `ops/research/r3-tas-guides-sourced.json` · held records: `ops/research/r3-tas-held.json`
 
+
+## Research notes, round 4 SEO/GEO (tas, Nov 2026)
+
+```
+TASMANIA - knowledge updates for ops/states/tas.md (state-tas, round 4 SEO/GEO, checked 2026-11-04)
+====================================================================================================
+WebSearch used: 10 of 25. Pipeline branch: operator-images/state-tas-r4 (research/r4-*).
+
+DELIVERED
+---------
+- seo-patches.json: all 9 listings, with stronger leads (each names the departure point), 5 highlights each, 3 FAQs for 8 of them
+  (2 for Tasman Spirit), more specific grounds for Trout Territory, Trout Tales, Diver's and Tasman Spirit, and new same_as profiles.
+- guides.json: hobart, tasman-peninsula, central-highlands, launceston, tasmania (state). Extra FAQs, items and sources;
+  nothing removed except the state-page licence FAQ (it duplicated the automatic licence question; its content now sits in the
+  Licences section).
+- regions.json: south-east-tasmania ("South East Tasmania": hobart + tasman-peninsula) and tasmania-trout-country
+  ("Central & Northern Tasmania Trout Country": central-highlands + launceston).
+- No listings.json: no St Helens operator could be verified (see below), so no st-helens hot spot or guide this round.
+- held.json: Gone Fishing, Keen Angler, South East Charters, Red Tag (all re-checked) + new lead Rocky Carosi.
+
+CORRECTIONS IN seo-patches.json (owner to review)
+-------------------------------------------------
+- divers-fishing-charters-hobart: Private Charter price null -> 800 per_group. The site says "from $800 per charter", but its rates
+  bullet also says "$800 per hour includes GST". Ask the operator which it is. The 3-hour shared cruise is now sold mainly as a sunset trip
+  (morning on request). Children under 6 go free and ages 6-11 pay half price on shared trips.
+- trout-territory: added the "4 anglers, 1 guide (usually shore based) $1,800/day" rate (prices valid from 1 Jan 2026).
+  Replaced the same_as entry for the IFS advisory council page (it isn't a profile of the business) with Tripadvisor and Spirit of Tasmania.
+- trout-tales-tasmania: added 2 new Currawong Lakes packages (Two Days Two Nights from $1,750; Signature, 3 days fishing / 4 nights,
+  from $4,000). Modelled per person like the other packages; the listing page shows only "From $".
+- mr-flathead: no data change. The site now advertises paired accommodation, The Fisherman's Shack (discounted stays with a charter).
+  The departure FAQ was replaced, because it duplicated the automatic question.
+
+ST HELENS & THE EAST COAST - STILL ZERO VERIFIED (gap)
+-----------------------------------------------------
+- Gone Fishing Charters (Michael Haley), 03 6376 1553: breamfishing.com.au failed again (4 attempts across 2 rounds). East Coast
+  Tasmania still names it as the St Helens charter. Tasfish also calls it "Gone Fishing Adventures". THE PHONE CALL IS THE ONLY WAY IN.
+- Keen Angler Charters, 0409 964 847 / 03 6376 3119: ATDW still live, now showing ATIC Sustainable Tourism Accreditation, but nothing
+  dated. Skippers per directories: Lionel (Peters) and Kai-lee. Up to 4 people.
+- "St Helens Fishing" ATDW listing (eastcoasttasmania.com/atdw_listings/st-helens-fishing and the Spirit of Tasmania page) now 404:
+  lapsed. Remove it as a lead.
+- Rocky Carosi Professional Charters (St Helens): Yellow Pages only; no contact found.
+- Context for a future st-helens guide (sourced): NRE Tas says Georges Bay is a recreational-only scalefishing area and a shark refuge
+  area; charters fish inside the bay and offshore. Bay species are sand flathead, bream, silver trevally, garfish, snapper, KG whiting,
+  salmon and calamari; offshore are tiger flathead, striped trumpeter, morwong, tuna, blue-eye trevalla and mako
+  (https://fishing.tas.gov.au/recreational-fishing/fishing-tips/hot-fishing-spots/fishing-around-st-helens). Discover Tasmania calls
+  St Helens "Tasmania's saltwater sport-fishing capital", with yellowfin, striped marlin, albacore, striped tuna and mako
+  (https://www.discovertasmania.com.au/things-to-do/outdoor-and-adventure/fishing-and-fly-fishing/). Marine reserves: western Maria
+  Island and Governor Island (Bicheno), no fishing (East Coast Tasmania).
+
+HELD RE-CHECKS
+--------------
+- South East Charters (0437 246 956): no change. The site is undated, with the same prices ($600/$900 flat boat rate, max 5). The ATDW listings
+  on Discover Tasmania and Spirit of Tasmania are still live. Keep held until phoned.
+- Red Tag Trout Tours (Ray Curran, 0414 294 639): trading. 2026 posts are dated Jan, Feb and Apr, and a March 2026 workshop ran. Still no base
+  town or prices. Old /tour-options/ and /blog/ URLs now 404; tour info is at /about/. Transfers to/from the airport or greater Hobart.
+  Waters fished include Currawong Lakes, 28 Gates, Herne and the Macquarie River. A phone call for base and rates would let us list it
+  (suggest hobart + also_serves launceston).
+
+NEW LEADS
+---------
+- Aussie Fly Fisher: TGALT registered guide (https://www.troutguidestasmania.com.au/guide/). Not researched yet.
+- TGALT directory still lists Troutfit Guiding as "based in Miena"; its own site is a Snowy Mountains (NSW) guide (round 1). Stays excluded.
+
+LISTING HEALTH (re-checked 2026-11-04)
+--------------------------------------
+- Copyright years seen: RiverFly (c) 2026, Tassie Fly Guide (c) 2026, Tasman Spirit (c) 2026, Miena Guiding (c) 2025,
+  Diver's (c) 2024, Mr Flathead (c) 2013. Trout Territory rates page updated 2026-01-03.
+- Mr Flathead: Discover Tasmania product page 404 and no Spirit of Tasmania page; trading evidence is still Tripadvisor 2026 review
+  snippets only. The owner should phone.
+- Tasman Spirit Charters: still a one-page site with no prices or hours. The owner should phone.
+- Diver's site FAQ still says "No licence is needed for sea fishing" (true for rod and line only).
+
+OFFICIAL / USEFUL SOURCES ADDED
+-------------------------------
+- Discover Tasmania fishing page (best trout fishing mid-Oct to mid-Apr; ~3,000 highland lakes; St Helens game fishing):
+  https://www.discovertasmania.com.au/things-to-do/outdoor-and-adventure/fishing-and-fly-fishing/
+- NRE Tas St Helens hot spot page (above). The rules sources from round 1 are unchanged.
+- Same_as URLs confirmed live: spiritoftasmania.com.au/things-to-do/divers-fishing-charters-hobart/, /trout-territory-fly-fishing-tours/,
+  /riverfly-1864/; hobartandbeyond.com.au/place/divers-fishing-charters-hobart/.
+
+THINGS THE OWNER SHOULD CHECK
+-----------------------------
+1. Diver's private charter: $800 per charter or per hour?
+2. Phone Gone Fishing (03 6376 1553) and Keen Angler (0409 964 847). Either one confirmed would open a st-helens page, and both
+   would make it live.
+3. Phone South East Charters, Mr Flathead and Tasman Spirit (unchanged from round 1).
+4. Trout Tales Currawong packages: per person or per group?
+```
+
 ## Current listings
 
 <!-- AUTO:listings:start -->
 
-_Generated 2026-11-03 from data/operators.json: 9 live listings._
+_Generated 2026-11-04 from data/operators.json: 9 live listings._
 
 ### Launceston & the North (`launceston`) — 3 listings, page live
 - `trout-territory` — Trout Territory · Cressy, Launceston & the North · https://troutterritory.com.au · checked 2026-11-03

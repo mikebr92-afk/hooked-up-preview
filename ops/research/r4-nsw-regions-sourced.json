@@ -1,0 +1,393 @@
+[
+ {
+  "key": "nsw-north-coast",
+  "n": "NSW North Coast",
+  "short": "North Coast",
+  "in": "on the NSW North Coast",
+  "hotspots": [
+   "tweed",
+   "ballina-byron",
+   "yamba"
+  ],
+  "c": [
+   "NSW North Coast fishing charters",
+   "Northern Rivers fishing charters",
+   "far north coast NSW deep sea fishing",
+   "Tweed Heads to Yamba fishing charter",
+   "Byron Bay fishing charter",
+   "Yamba fishing charter"
+  ],
+  "intro": [
+   "The NSW North Coast runs from Tweed Heads on the Queensland border south through Brunswick Heads, Byron Bay, Ballina and Evans Head to Yamba and Iluka on the Clarence River. It is where tropical and temperate water meet, so reef trips for snapper and pearl perch share the calendar with summer mackerel, wahoo, mahi mahi and marlin.",
+   "Charters here are mostly offshore reef boats that cross a river bar (the Tweed, Brunswick or Clarence) to reach grounds a few kilometres out, with deeper pearl perch reefs about 30 km off Evans Head. Tweed Heads is about 5 km from Gold Coast Airport, which makes the region an easy add-on to a Gold Coast or Byron holiday."
+  ],
+  "season": "Snapper and pearl perch are caught year-round, with winter and spring the strongest months. The warmer months, roughly December to March off the Tweed, bring marlin, wahoo, mackerel, mahi mahi and tuna. Humpback whales pass close by from about May to July heading north and September to November heading south, and are often seen from fishing boats.",
+  "sections": [
+   {
+    "h": "Where to go",
+    "p": [
+     "Each port has its own character, so pick by trip style and travel time."
+    ],
+    "items": [
+     [
+      "Tweed Heads (Tweed Coast)",
+      "Offshore reefs within about 3 km of the Tweed River entrance, live-bait trips for kingfish and cobia, and summer game fishing; departures from Tweed Marina"
+     ],
+     [
+      "Brunswick Heads and Byron Bay",
+      "Full-day reef and pelagic trips from the Brunswick Heads jetty, 15 minutes north of Byron, for snapper, pearl perch, jewfish and kingfish"
+     ],
+     [
+      "Evans Head",
+      "Deep-water pearl perch and snapper in about 80 m, roughly 30 km out; individual seats and week-long fishing packages"
+     ],
+     [
+      "Ballina",
+      "NSW DPI's offshore artificial reef, deployed in March 2026 about 5 km south of the Richmond River mouth"
+     ],
+     [
+      "Yamba and Iluka",
+      "Reef trips 5 to 10 km off the Clarence River bar, ranging from Evans Head to Sandon; Iluka pick-ups on request"
+     ]
+    ]
+   },
+   {
+    "h": "Trip styles and prices",
+    "p": [
+     "Shared seats suit solo anglers and couples; private charters suit groups who want to choose the target."
+    ],
+    "items": [
+     [
+      "Shared reef trip",
+      "About $200-$300 per person for six to eight hours (Evans Head $200, Yamba $220-$250, Tweed Heads $220-$300)"
+     ],
+     [
+      "Private boat",
+      "From about $1,650 for six hours on a Yamba boat for eight, up to $2,400 for eight hours on a 15 m boat"
+     ],
+     [
+      "Fishing holidays",
+      "Evans Head pairs seven nights' accommodation with three or five days' fishing from $670 per person"
+     ]
+    ]
+   },
+   {
+    "h": "Good to know",
+    "p": [
+     "Every offshore trip on this coast crosses a river bar, so skippers make the final call the evening before; weather cancellations are refunded or rebooked. Life jackets must be worn on the Clarence River bar crossing at Yamba.",
+     "Cape Byron Marine Park and the Solitary Islands Marine Park have zoning rules; charter skippers know the boundaries. Check whether your trip includes licence cover; if not, the NSW recreational fishing fee applies."
+    ]
+   }
+  ],
+  "faq": [
+   [
+    "What is the best North Coast port for a fishing charter?",
+    "It depends on the trip. Evans Head suits anglers after deep-water pearl perch, Yamba has the most choice of shared and private reef trips, Brunswick Heads runs full days close to Byron Bay, and Tweed Heads is the closest to Gold Coast Airport, with reefs only about 3 km from the river entrance."
+   ],
+   [
+    "When is game fishing season on the NSW North Coast?",
+    "Mainly summer. Tweed Heads boats chase marlin, wahoo, mahi mahi, mackerel and tuna from about December to March, and the warmer months bring the same pelagics off Byron and Evans Head."
+   ],
+   [
+    "Do North Coast fishing charters cross a bar?",
+    "Yes. Tweed Heads boats cross the Tweed bar, Byron Bay Charters runs from Brunswick Heads and confirms each trip the night before once sea and bar conditions are checked, and Yamba boats cross the Clarence River bar with life jackets worn during the crossing."
+   ]
+  ],
+  "sources": [
+   "https://cushyfishingcharters.com.au/",
+   "https://cushyfishingcharters.com.au/fishing-charters/",
+   "https://byronbaycharters.com.au/pricelist/",
+   "https://www.evansheadfishingcharters.com.au/fishing-charter-prices/",
+   "https://www.evansheadfishingcharters.com.au/",
+   "https://www.dpi.nsw.gov.au/fishing/recreational/resources/artificial-reef/ballina-offshore-artificial-reef",
+   "https://www.yambafishingandcharters.com.au/",
+   "https://www.yambafishingandcharters.com.au/faq",
+   "https://www.gofishyamba.com.au/trip-pricings",
+   "https://www.dpi.nsw.gov.au/fishing/marine-protected-areas/marine-parks"
+  ]
+ },
+ {
+  "key": "mid-north-coast-nsw",
+  "n": "Mid North Coast",
+  "short": "Mid North Coast",
+  "in": "on the NSW Mid North Coast",
+  "hotspots": [
+   "coffs-harbour",
+   "south-west-rocks",
+   "port-macquarie"
+  ],
+  "c": [
+   "Mid North Coast fishing charters",
+   "Coffs Coast fishing charters",
+   "Coffs Harbour fishing charter",
+   "South West Rocks fishing charter",
+   "Port Macquarie fishing charter",
+   "Macleay Valley fishing"
+  ],
+  "intro": [
+   "The Mid North Coast takes in Coffs Harbour, South West Rocks and Port Macquarie, roughly halfway between Sydney and Brisbane. The continental shelf runs unusually close to shore here, only about 12 nautical miles off Laggers Point at South West Rocks, so the East Australian Current can bring marlin, wahoo and mahi mahi within a short run of port.",
+   "Offshore boats target snapper, pearl perch and kingfish on the reefs and around islands such as South Solitary and Fish Rock, while estuary guides fish the Hastings, Macleay, Maria and Manning rivers for dusky flathead, mulloway and Australian bass. It is a good region for mixing an offshore day with a calm river session."
+  ],
+  "season": "There is fishing all year. Cool-water species such as snapper and kingfish are best from about May to December, and warm-water fish such as mackerel from about January to May. Black marlin turn up from early summer to late autumn, mahi mahi peak in November and December, and estuary flathead and mulloway are caught year-round, with bass trips September to May.",
+  "sections": [
+   {
+    "h": "Where to go",
+    "p": [],
+    "items": [
+     [
+      "Coffs Harbour",
+      "Daily reef, South Solitary Island sportfishing and shelf game trips from Coffs Harbour; the Solitary Islands Marine Park surrounds the port"
+     ],
+     [
+      "South West Rocks",
+      "Fish Rock, Green Island and the Gaol Grounds off Smoky Cape, reefs from Nambucca Heads to Hungry Head, and the shelf about 12 nm out"
+     ],
+     [
+      "Port Macquarie",
+      "Six-hour deep sea trips from the Town Green boardwalk, plus private lure guiding on the Hastings and nearby rivers"
+     ]
+    ]
+   },
+   {
+    "h": "Islands and marine parks",
+    "p": [
+     "Two marine-park areas shape where you can fish. The Solitary Islands Marine Park runs from Coffs Harbour to the Sandon River and has sanctuary zones where no fishing is allowed. Off South West Rocks, Fish Rock and Green Island protect grey nurse sharks, and bait fishing isn't allowed within 200 m, though lures are. Charter skippers know the boundaries."
+    ]
+   },
+   {
+    "h": "Trip styles and prices",
+    "p": [],
+    "items": [
+     [
+      "Shared reef trips",
+      "About $200 per person for six hours at Port Macquarie and South West Rocks"
+     ],
+     [
+      "Small-group sportfishing",
+      "South Solitary sport and reef trips at Coffs Harbour for up to seven ($350 per person) and offshore guiding at South West Rocks for up to four ($350 per person)"
+     ],
+     [
+      "Estuary lure guiding",
+      "From $470 for one angler on a half day at Port Macquarie"
+     ],
+     [
+      "Fishing holidays",
+      "South West Rocks packages with a beach house for groups of eight or more, from $500 per person"
+     ]
+    ]
+   }
+  ],
+  "faq": [
+   [
+    "Can you fish the Solitary Islands near Coffs Harbour?",
+    "Yes, outside the sanctuary zones. The Solitary Islands Marine Park stretches from Coffs Harbour to the Sandon River, and Coffs Harbour charters run small-group trips to South Solitary Island for kingfish, cobia, jewfish, snapper and pearl perch, with mackerel, marlin and wahoo in season."
+   ],
+   [
+    "Why is South West Rocks good for game fishing?",
+    "The continental shelf is only about 12 nautical miles off Laggers Point, one of its closest points to the NSW coast, so warm current and pelagics such as black marlin, wahoo and mahi mahi can come very close to shore."
+   ],
+   [
+    "What can you do if it's too rough offshore on the Mid North Coast?",
+    "Head for a river. Port Macquarie guides fish the Hastings, Maria, Macleay and Manning rivers, and South West Rocks guides can switch to the Macleay River estuary for flathead, mulloway, bream, whiting and mangrove jack."
+   ]
+  ],
+  "sources": [
+   "https://coffsharbourfishing.com.au/charters/",
+   "https://coffsharbourfishing.rezdy.com/545447/south-solitary-sportfishing-experience",
+   "https://www.coffscoast.com.au/article/fishing-on-the-coffs-coast/",
+   "https://www.dpi.nsw.gov.au/fishing/marine-protected-areas/marine-parks/solitary-islands-marine-park/recreational-fishing",
+   "https://www.southwestrocksfishcharters.com.au/",
+   "https://www.southwestrocksfishcharters.com.au/packages/",
+   "https://www.wildsidesportfishing.com/offshore-fishing-charters-south-west-rocks/",
+   "https://www.wildsidesportfishing.com/game-fishing/",
+   "https://www.portmacquariefishingcharters.com.au/",
+   "https://www.castawayfishing.com.au/castaway-charter-rates",
+   "https://www.castawayfishing.com.au/target-species"
+  ]
+ },
+ {
+  "key": "hunter-central-coast",
+  "n": "Hunter & Central Coast",
+  "short": "Hunter & Central Coast",
+  "in": "in the Hunter and on the Central Coast",
+  "hotspots": [
+   "port-stephens",
+   "newcastle",
+   "central-coast"
+  ],
+  "c": [
+   "Hunter region fishing charters",
+   "Port Stephens fishing charters",
+   "Nelson Bay fishing charter",
+   "Newcastle fishing charter",
+   "Lake Macquarie fishing charter",
+   "Central Coast fishing charters",
+   "Terrigal fishing charter"
+  ],
+  "intro": [
+   "North of Sydney, the Hunter and Central Coast pack three very different fisheries into a couple of hours' drive. Port Stephens is the region's game-fishing port, where blue, black and striped marlin can all be caught in a day; Newcastle's guides fish the Hunter River and Lake Macquarie; and Terrigal and Hardys Bay on the Central Coast offer reef trips within minutes of the ramp.",
+   "That spread makes it easy to match a trip to a group: sheltered estuary sessions for kids and beginners, half-day reef trips for a feed of snapper and flathead, or a full day on the shelf chasing marlin. Terrigal is about an hour from Sydney and Port Stephens about 2.5 hours."
+  ],
+  "season": "Reef and estuary fishing run all year. Port Stephens' marlin and mahi mahi season runs from about December to March at the FADs, with blue marlin over the shelf from January to March and tuna wide of the port from about April to July. Central Coast game boats fish the summer, and Lake Macquarie's flathead are best in the warmer months.",
+  "sections": [
+   {
+    "h": "Where to go",
+    "p": [],
+    "items": [
+     [
+      "Port Stephens (Nelson Bay, Corlette, Soldiers Point)",
+      "Marlin at the FADs about 20 km out and the Big Gibber, reef fishing around Cabbage Tree and Broughton islands, and a big sheltered estuary"
+     ],
+     [
+      "Newcastle and Lake Macquarie",
+      "Small-boat lure guiding on the Hunter River from Tomago, and private trips on Lake Macquarie from Kilaben Bay for flathead and mulloway"
+     ],
+     [
+      "Terrigal",
+      "Reef boats from The Haven for snapper, jewfish and kingfish, and game trips to Browns Mountain and the Norah Head Canyons"
+     ],
+     [
+      "Hardys Bay (Broken Bay)",
+      "Bouddi Peninsula reefs, or calm water inside Broken Bay when it's windy; fishing charters run December to April"
+     ]
+    ]
+   },
+   {
+    "h": "Families and first-timers",
+    "p": [
+     "This region has some of the state's best short trips for kids. Port Stephens boats run sheltered family mornings near Cabbage Tree Island and Fingal, Capn's Charters runs three-hour calm-water kids' sessions on the Hunter River, and Terrigal Fishing Tours runs Young Guns trips from Hardys Bay."
+    ]
+   },
+   {
+    "h": "Good to know",
+    "p": [
+     "Port Stephens is a marine park and Lake Macquarie hasn't been commercially netted since 2002; zoning and NSW bag limits apply. Shared trips usually need minimum numbers (five on one Central Coast boat), so wait for confirmation before booking accommodation. Most charters include licence cover."
+    ]
+   }
+  ],
+  "faq": [
+   [
+    "Where is the best place for marlin near Sydney?",
+    "Port Stephens, about 2.5 hours north. Light-tackle boats fish the FADs about 20 km out for black and striped marlin and mahi mahi from December to March, blue marlin trips go over the shelf from January to March, and black marlin sometimes push in to the Big Gibber."
+   ],
+   [
+    "Is there calm-water fishing for kids near Newcastle?",
+    "Yes. Capn's Charters runs a three-hour kids' charter on the Hunter River for three children aged 6 to 16 (or two kids and an adult), and Day Trippin Charters fishes sheltered Lake Macquarie with up to four guests."
+   ],
+   [
+    "Can I do a fishing day trip from Sydney to the Central Coast?",
+    "Yes. Terrigal is about an hour's drive north of Sydney via the M1 and the Gosford exit, and reef charters from The Haven run about seven and a half hours, leaving at 6 am."
+   ]
+  ],
+  "sources": [
+   "https://www.reelcontagiouscharters.com.au/charters/",
+   "https://www.marlinfishingaustralia.com.au/marlin-fishing-port-stephens/",
+   "https://hammerheadcharters.com.au/reef-fishing/",
+   "https://www.capnschartersnewcastle.com.au/kids-fishing-charter/",
+   "https://day-trippin-charters.squarespace.com/faqs",
+   "https://www.dpi.nsw.gov.au/fishing/recreational/resources/info/fishing-locations/go-fishing-lake-macquarie",
+   "http://www.reefandgamefishing.com/info.html",
+   "http://www.reefandgamefishing.com/fishing.html",
+   "https://terrigalfishingtours.com.au/fishing-charter-tour-information/",
+   "https://terrigalfishingtours.com.au/",
+   "https://www.dpi.nsw.gov.au/fishing/marine-protected-areas/marine-parks/port-stephens-marine-park/recreational-fishing"
+  ]
+ },
+ {
+  "key": "nsw-south-coast",
+  "n": "NSW South Coast",
+  "short": "South Coast",
+  "in": "on the NSW South Coast",
+  "hotspots": [
+   "wollongong",
+   "jervis-bay",
+   "batemans-bay",
+   "eden"
+  ],
+  "c": [
+   "South Coast NSW fishing charters",
+   "NSW South Coast deep sea fishing",
+   "Illawarra fishing charters",
+   "Shoalhaven fishing charter",
+   "Eurobodalla fishing charter",
+   "Sapphire Coast fishing charters",
+   "Narooma fishing charter",
+   "Eden fishing charter"
+  ],
+  "intro": [
+   "The NSW South Coast runs from Wollongong and Kiama through Jervis Bay and the Shoalhaven, Batemans Bay, Narooma and Bermagui, to Merimbula and Eden near the Victorian border. The continental shelf sits close to much of this coast, about 22 km from Batemans Bay and 20 km off Narooma, so reef, game and deep-drop trips are all a short run from port.",
+   "Reef fishing for snapper, morwong and flathead runs all year, island grounds such as Barunguba (Montague Island) hold kingfish, and the game season runs later the further south you go, finishing at the end of July at Eden. Eden's Twofold Bay has no bar to cross, which keeps boats fishing when bar ports are closed."
+  ],
+  "season": "Reef fishing runs year-round. Game fishing peaks from December to April off Wollongong, about December to June off Narooma, and November to July at Eden. Tuna come through in winter: June to October off the Illawarra. Deep-drop trips for blue-eye trevalla, gemfish and hapuku run in the cooler months, about May to September off Kiama.",
+  "sections": [
+   {
+    "h": "Where to go",
+    "p": [],
+    "items": [
+     [
+      "Wollongong and Kiama",
+      "Big shared reef boats from Belmore Basin, game and overnight trips, and deep-sea trips to 400 m off Kiama"
+     ],
+     [
+      "Jervis Bay and Greenwell Point",
+      "Squid and snapper in a marine-park bay, offshore reefs, and game and deep-water trips for groups up to 12"
+     ],
+     [
+      "Batemans Bay, Narooma and Bermagui",
+      "Bay reefs and the Tollgate Islands, Montague Island about 9 km off Narooma, and Bermagui's deep-water grounds"
+     ],
+     [
+      "Merimbula and Eden",
+      "Short reef trips from Merimbula, kingfish south of Eden from about November to June, and Eden's long game season"
+     ]
+    ]
+   },
+   {
+    "h": "Deep-drop and game fishing",
+    "p": [
+     "The South Coast is the state's deep-drop country. Kiama Charter Service fishes the shelf about 30 km out in up to 400 m from May to September, Game On Charters runs full-day deep-drop trips from Batemans Bay with electric reels, and FishBermi targets gemfish and blue-eye trevalla from Bermagui. For game fish, Narooma's season runs from about Christmas to June and Eden's from November to the end of July."
+    ]
+   },
+   {
+    "h": "Good to know",
+    "p": [
+     "Jervis Bay and Batemans are marine parks with zoning rules that skippers follow. Humpback whales pass close to shore from about May to November, and several operators also run whale-watching trips. Most South Coast charters include licence cover, and shared reef seats cost about $100 for three hours at Merimbula to $240 for a five-hour trip at Batemans Bay."
+    ]
+   }
+  ],
+  "faq": [
+   [
+    "Where can you go deep-drop fishing on the NSW South Coast?",
+    "Kiama Charter Service runs deep-sea trips to the shelf about 30 km out, in water up to 400 m, from May to September. Game On Charters runs full-day deep-drop trips from Batemans Bay, and FishBermi in Bermagui targets gemfish and blue-eye trevalla."
+   ],
+   [
+    "When is game fishing season on the South Coast?",
+    "It runs later the further south you go: about December to April off Wollongong, December to June off Narooma, and November to the end of July at Eden, where January to late March is often best for marlin."
+   ],
+   [
+    "Which South Coast port has no bar crossing?",
+    "Eden. Twofold Bay is one of the deepest natural harbours in the Southern Hemisphere and has no bar to cross, so Eden charters can head out in conditions that keep bar ports closed."
+   ],
+   [
+    "Are there short fishing trips for families on the South Coast?",
+    "Yes. Merimbula has three-hour reef trips from about $100 per adult, with family tickets at Fishpen Charters, and Aquilla Fishing Charters in Wollongong runs two-hour Junior Angler sessions for kids aged 8 to 16 in the school holidays."
+   ]
+  ],
+  "sources": [
+   "https://kiamafishing.com.au/deep-sea-fishing/",
+   "https://www.fiveislandcharters.com.au/pricing/",
+   "https://www.aquillacharters.com.au/junior-anglers",
+   "https://www.dpi.nsw.gov.au/fishing/marine-protected-areas/marine-parks/jervis-bay-marine-park/recreational-fishing",
+   "https://www.escapefishingcharters.com.au/",
+   "https://gameoncharters.net.au/",
+   "https://gameoncharters.net.au/deep-drop-fishing/",
+   "https://naroomacharters.com.au/narooma-fishing-charters",
+   "https://www.fishbermicharters.com.au/",
+   "https://www.visiteden.com.au/experience/fishing/",
+   "https://freedomcharters.com.au/sports-fishing.html",
+   "https://fishpen-charters.squarespace.com/",
+   "https://www.sapphirecoastaladventures.com.au/merimbula-fishing-charter",
+   "https://www.tradeaboat.com.au/news-reviews/8081-eden-nsw-fishing-and-boating"
+  ]
+ }
+]

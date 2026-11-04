@@ -181,11 +181,129 @@ Search budget used: 43 of 60 WebSearch calls.
 
 Sourced guides: `ops/research/r3-wa-guides-sourced.json` · held records: `ops/research/r3-wa-held.json`
 
+
+## Research notes, round 4 SEO/GEO (wa, Nov 2026)
+
+```
+WESTERN AUSTRALIA - knowledge updates for ops/states/wa.md (state-wa, round 4 SEO/GEO, checked 2026-11)
+======================================================================================================
+
+Deliverables in this folder: seo-patches.json (12/12), guides.json (5/5: western-australia, exmouth, broome,
+kimberley, geraldton), regions.json (coral-coast, north-west-kimberley), held.json (4 records).
+validate-seo.mjs: 0 errors, 0 warnings. No new listings this round (no listings.json).
+WebSearch used: 18 of 25. Pipeline branch: operator-images/state-wa-r4 (research/r4-*).
+
+1. CORRECTIONS MADE (in seo-patches.json "corrections")
+-------------------------------------------------------
+- kuri-bay-sport-fishing-tours: boat fields and description. The current FAQ says two 5.7m custom boats, Koyoyo and
+  Bidadjin, max 3 anglers per boat. 'Saba San' is not on the site; Saba San is Phat Time Fishing's Broome boat (held
+  list), so it was an old or mixed-up entry. boat_name, boat_type, boat_length_m (5.7), boat_features and
+  description updated.
+- broome-billfish-charters: new trip-005 'Billfish fly fishing, private full day' (from $2,800, 8 hrs, May-Oct,
+  tease and switch). trip-001 notes now give the April-November season.
+- all-the-gear-no-idea-sportfishing-exmouth: filled the empty cancellation_policy and weather_policy from its Terms page.
+
+2. PRICE NOTES FROM THE STATE FILE: RESULTS
+-------------------------------------------
+- All The Gear No Idea: RESOLVED. The FAQ and Book Now pages say $1,800 half / $3,000 full, and the FAQ explains the
+  rise ('rising fuel costs'). The Our Charters page still shows the old $1,500 / $2,700. The listing already uses
+  $1,800 / $3,000, so no change. Remove this item from the owner-check list.
+- Akame Sportfishing: unchanged. Its own site still has no prices; $1,500 per charter (max 4) is only on the Broome
+  Visitor Centre page (re-confirmed). The price was removed from highlights.
+- Absolute Ocean Charters, Reel Teaser, Offshore Charters WA, Kuri Bay: still no published prices (enquiry only).
+  Third-party hints, not applied: Tripadvisor shows AOC full day at AU$390 per adult and Offshore Charters WA
+  Geraldton charter at AU$250 per adult for 8 hrs (skipper 'Captain Kim').
+- NEW conflict, Blue Horizon Charters: the day-trips price table says Adult $340 and exclusive boat $3,600, but the
+  FAQ on the same page says $360 and $4,000 ('booking page always shows the current price'). The listing uses
+  $360 / $4,000. Boat size also conflicts: '57 foot, sleeps 8' vs '20 metres' (listing says 20m). Owner should check.
+
+3. CLOSURES AND CHANGES
+-----------------------
+- Apache Charters' Fremantle 'Deep Sea Fishing and Rock Lobster Tour' (Lady Grace, Dec-Feb) now says 'Due to current
+  metro Demersal Fishing Closures these tours are not currently operating'. Not a Perth option.
+- Apache Charters: 2026 fully booked; 2027 bookings open (prices unchanged).
+- Innkeeper: new 'Blue Marlin Heavy Tackle Season 2026/27, October to April'.
+- Broome Billfish: new private sailfish fly-fishing product (May-Oct).
+- Birchy's Fishing Tours: site still © 2023; latest dated content is the 2025 tagalong dates; no 2026 dates.
+  Phone 0459 540 763 to confirm 2026 operations (not flagged closed).
+- Reel Teaser: 2026 and 2027 dates published (Apr 2026 - Sep 2027).
+- DPIRD: the statewide strategic charter review consultation closed 11 May 2026. Outcome still not published on
+  the charter page (rechecked 2026-11).
+
+4. PERTH COVERAGE (still 1 listing)
+-----------------------------------
+No second verifiable Perth operator found. Checked:
+- Blue Juice Charters (0402 040 312): strongest candidate. Live Rezdy lobster tours from Fremantle and Hillarys
+  (lobster is allowed under the closure), 2026 Abrolhos products on Tripadvisor (4.8 / 199). But the own domain is
+  blank, there are no socials, and Rezdy, visitfremantle and Tripadvisor are all blocked to our fetcher. PHONE IT.
+- Fremantle Boat Charters: own site still a holding page (© 2025); FishingBooker 8508 has 2026 reviews, squid,
+  nearshore and cray trips. Needs owner sign-off for FishingBooker-only verification, or a phone check.
+- Wild West Charters (0467 225 454, Elizabeth Quay): a Swan River cruise operator; a cray tour is only mentioned on
+  its site. Not a fishing charter by our standard.
+- Apache Fremantle lobster tours: suspended (see 3).
+- Mills Charters, Perth Fishing Safaris (Tripadvisor 'permanently closed'): not listable.
+- Searches for Swan River lure guides and Cockburn Sound squid/whiting charters found no operator with its own site.
+Suggestion: if the owner can confirm Blue Juice by phone, list it as 'Blue Juice Charters, Hillarys, Perth &
+Rottnest' with lobster tours (non-demersal) plus Abrolhos trips.
+
+5. HELD LEADS (see held.json)
+-----------------------------
+- Pelican Charters (Dampier): still held. Pages are dated 2026-10-30, but season (Jul-Oct vs Aug-Oct) and trip
+  length (5-day vs 6-night/5-day) still conflict, with no prices or dated departures. Australia's North West still
+  features it. Phone the Malaga office, 08 9249 1535.
+- Blue Juice, Fremantle Boat Charters, Wild West Charters: updated (see 4).
+
+6. NEW LEADS SEEN (not checked this round)
+------------------------------------------
+- WA Fishing Charters (Broome): now featured on australiasnorthwest.com's fishing page as 'Broome's longest-running
+  creek charter, proudly family-owned'. Still no own site found; tourism-listing-only candidate.
+- Australia's North West fishing page also lists Kimberley Coastal Camp, Berkeley River Lodge and Mount Hart
+  Wilderness Lodge (fly-in or lodge fishing), plus Frontier Helicopters and HeliSpirit (heli-fishing): possible
+  Kimberley additions.
+
+7. SAME_AS PROFILES ADDED
+-------------------------
+Tripadvisor: Absolute Ocean Charters (d2234834), Blue Horizon (d6580612), Offshore Charters WA (d20939645),
+Apache Charters (d3957005). Tourism WA: Absolute Ocean Charters, Apache Charters - Fremantle. YouTube: All The Gear
+No Idea (@allthegearnoideasportfishing), Reel Teaser (channel UCYV0-qE8d2W3074xzMCb3ow). TikTok: Apache
+(@apachecharters). Note: Tripadvisor returns 403 to the pipeline; identities come from search results.
+
+8. REGION HUBS (regions.json, playbook section 7 array format; validate-seo passes)
+-----------------------------------------------------------------------------------
+- coral-coast: n 'Coral Coast', in 'on the Coral Coast', hotspots geraldton + exmouth. Australia's Coral Coast runs
+  about 1,100km from Cervantes to Ningaloo. Shark Bay could join once a shark-bay page exists (Apache sells Shark Bay
+  trips from Denham).
+- north-west-kimberley: n 'North West & Kimberley', in 'in WA's North West & the Kimberley', hotspots broome +
+  kimberley. Dampier & Karratha could join if Pelican or another Pilbara operator is listed.
+Extra fields (search_keywords, meta_title, meta_description, _operators, _notes) are included for reference;
+apply_regions can ignore them.
+
+9. OFFICIAL RULE SOURCES (unchanged; rechecked)
+-----------------------------------------------
+- https://www.dpird.wa.gov.au/businesses/charter-boat-fishing/ (licence exemption; rock lobster since 1 Dec 2024,
+  8 per passenger)
+- https://www.dpird.wa.gov.au/individuals/recreational-fishing/west-coast-demersal-scalefish--information-for-recreational-fishers
+  (boat demersal closed until spring 2027; advisory committee Feb 2026 - May 2027)
+- https://www.dpird.wa.gov.au/businesses/charter-boat-fishing/west-coast-demersal-scalefish--information-for-charter-operators/
+  (metro charter demersal closed from 16 Dec 2025; 25t tag limit elsewhere)
+- North Coast and Gascoyne 1 June 2026 brochure (PDF) came through the pipeline as raw binary, so the numbers are
+  still unread. Guides say 'check the current DPIRD rules'.
+
+10. THINGS THE OWNER SHOULD CHECK
+---------------------------------
+- Blue Horizon price table vs FAQ ($340/$3,600 vs $360/$4,000) and boat length (57ft vs 20m).
+- Broome Billfish: the 'shared charter doesn't fill -> upgrade or 2-year credit' rule could not be re-found in the
+  current page text (still in the trip-001 notes).
+- Birchy's 2026 operating dates.
+- Phone Blue Juice to unlock the second Perth listing.
+- Broome Billfish's '2025 most billfish releases worldwide' and award list are the operator's own claims.
+```
+
 ## Current listings
 
 <!-- AUTO:listings:start -->
 
-_Generated 2026-11-03 from data/operators.json: 12 live listings._
+_Generated 2026-11-04 from data/operators.json: 12 live listings._
 
 ### Broome (`broome`) — 3 listings, page live
 - `absolute-ocean-charters-broome` — Absolute Ocean Charters · Broome · https://www.absoluteoceancharters.com.au/ · checked 2026-11-03

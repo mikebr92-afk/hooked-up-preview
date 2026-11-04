@@ -1,0 +1,61 @@
+[
+ {
+  "name": "Blue Juice Charters",
+  "_hotspot": "perth",
+  "location": "92 Southside Drive, Hillarys Boat Harbour (also Fremantle departures)",
+  "website": "https://www.bluejuicecharters.com.au/",
+  "phone": "0402 040 312",
+  "found": "Rechecked 2026-11. The own domain still returns a blank page (only a 'Do Not Sell or Share My Personal Information' line). The Rezdy store and its product pages return Cloudflare 403 to our fetcher, and visitfremantle.com.au and Tripadvisor also block it. Search results (not first-hand) show live Rezdy products: a Fremantle Rock Lobster Tour (about 4 hrs, from AUD 370, with a Rottnest stop), a Catch N Cook Lobster Tour (3 hrs from Hillarys Marina at 8am, lobster BBQ at the marina), TALASEA II private Rottnest charters and a Rottnest overnight charter. Old Perth deep sea and mahi mahi products are prefixed 'Z' (archived). Tripadvisor shows '2026 Abrolhos Islands 3 day fishing charter (Hillarys)' and a 4-day version, rated 4.8 from 199 reviews; one review says a new, more expensive boat was bought in response to the fishing restrictions. No Facebook or Instagram found.",
+  "reason": "Very likely trading (2026 Abrolhos products, live lobster tours), and its rock lobster tours are allowed under the metro demersal closure. That makes it the strongest second-Perth candidate, but there is no readable own website, socials or ATDW listing to verify trips and prices first-hand. Phone to confirm current Perth lobster tours, prices, boat (TALASEA II) and departure point, or ask the owner to view the Rezdy store in a browser.",
+  "sources": [
+   "https://www.bluejuicecharters.com.au/",
+   "https://bluejuicecharters.rezdy.com/357580/rock-lobster-tour?iframe=1",
+   "https://bluejuicecharters.rezdy.com/361255/catch-n-cook-lobster-tour?iframe=1",
+   "https://bluejuicecharters.rezdy.com/531362/talasea-ii-private-rottnest-island",
+   "https://www.tripadvisor.com/AttractionProductReview-g1572375-d19347916-Abrolhos_Islands_3_day_fishing_charter-Hillarys_Joondalup_Greater_Perth_Western_A.html",
+   "https://visitfremantle.com.au/blue-juice-charters"
+  ]
+ },
+ {
+  "name": "Fremantle Boat Charters",
+  "_hotspot": "perth",
+  "location": "South Fremantle",
+  "website": "https://fremantleboatcharters.com.au/",
+  "phone": "",
+  "found": "Rechecked 2026-11. The own site is still a one-page holding page ('Luxury Charters for Adventurous Souls', contact form, © 2025) with no trips. FishingBooker (blocked to the fetcher; seen via search) lists a 57ft boat for up to 12, established 1994, rated about 4.6 from about 21-23 reviews, with 2026 reviews. It sells squid jigging, nearshore fishing (excluding Cockburn Sound) and seasonal crayfish trips, with licence and gear included. Prices conflict between language versions (AU$1,400 per group for a cray trip vs AU$249-399 per person). No Facebook or Instagram found.",
+  "reason": "Probably trading, and its squid, nearshore and cray products are outside the demersal closure, but the only trip details come from a third-party booking site. Ask the owner whether FishingBooker-only verification is acceptable, or phone through FishingBooker (listing 8508).",
+  "sources": [
+   "https://fremantleboatcharters.com.au/",
+   "https://fishingbooker.com/charters/view/8508"
+  ]
+ },
+ {
+  "name": "Wild West Charters",
+  "_hotspot": "perth",
+  "location": "Berth 1, Commercial Jetty, Elizabeth Quay, Perth (cray tours reported from Fremantle Fishing Boat Harbour)",
+  "website": "https://wildwestcharters.com.au/",
+  "phone": "0467 225 454",
+  "found": "Own site is current and operating since 2008, but it's a Swan River cruise and wildlife tour business (daily 11am, 1pm and 3pm river tours; adult $125). Rock lobster fishing is mentioned only in one About-page sentence ('a charter to catch Western Rock Lobster ... pulling crayfishing pots and to take the catch home'), with no product page. A Rezdy 'Perth Cray Fishing Tour' (about 2 hrs from A$75 on the boat Moutai, FTOL allows 12 pots a day) was seen only in search results; the store is Cloudflare-blocked.",
+  "reason": "Mainly a sightseeing cruise operator, so it doesn't meet the 'fishing is the product or a clearly sold product' test on its own site. Not recommended unless the cray tour is confirmed as a regular, bookable product.",
+  "sources": [
+   "https://wildwestcharters.com.au/about/",
+   "https://developmentwa.com.au/projects/redevelopment/elizabeth-quay/wild-west-charters",
+   "https://australian.rezdy.com/view/PYSFSK"
+  ]
+ },
+ {
+  "slug": "pelican-charters-montebello",
+  "name": "Pelican Charters",
+  "_hotspot": "dampier",
+  "location": "Hampton Harbour Yacht Club, Dampier (main business: Perth party and cruise boat hire)",
+  "website": "https://www.pelicancharters.com.au/montebello-islands-fishing/",
+  "phone": "08 9249 1535",
+  "found": "Rechecked 2026-11. The Montebello pages are dated 2026-10-30 (© 2026) and Australia's North West's fishing page still features 'Pelican Charters | Pilbara Fishing Trips'. The same inconsistencies remain. The fishing page says trips run 'strictly' July to October and are 'Extreme 5-Day' trips, while the charters page says 'six-night, five-day' and 'August to October dry season'. Testimonials still look templated (one mentions a 'four-day liveaboard'). No prices, trip dates or dated catch reports. Fillet limits (4 fish per day; 15kg demersal and 5kg pelagic per guest) and the Hampton Harbour Yacht Club departure are unchanged. The site still links an Abrolhos page.",
+  "reason": "Real business with a current site, but the fishing product details conflict and there's no dated evidence of 2026 departures. Keep held. Phone the Malaga office to confirm season, trip length, price and whether the 2026 Montebello trips ran. If confirmed, the full draft record from round 3 can be listed under dampier.",
+  "sources": [
+   "https://www.pelicancharters.com.au/montebello-islands-fishing/",
+   "https://www.pelicancharters.com.au/montebello-islands-charters/",
+   "https://www.australiasnorthwest.com/see-do/fishing/"
+  ]
+ }
+]

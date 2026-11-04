@@ -104,6 +104,8 @@ for (const r of regions) {
   if (existing.has(r.key)) E(s, 'key clashes with an existing page key');
   if (seenR.has(r.key)) E(s, 'duplicate region key'); seenR.add(r.key);
   for (const k of ['n', 'short', 'in', 'season']) if (!r[k]) E(s, `${k} required`);
+  if ((r.short || '').length > 30) E(s, 'short is used in page titles: keep it ≤30 characters (e.g. "Top End")');
+  if ((r.n || '').length > 50) E(s, 'n ≤50 characters');
   if (!/^(in|on|at|around|across)\b/.test(r.in || '')) E(s, '"in" must read like "in Far North Queensland"');
   if (!Array.isArray(r.hotspots) || r.hotspots.length < 2) E(s, 'hotspots: at least 2 destination keys');
   for (const h of r.hotspots || []) if (!groupKeys.has(h)) E(s, `hotspot "${h}" is not one of your destinations`);
