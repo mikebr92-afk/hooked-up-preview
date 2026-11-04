@@ -1,0 +1,4 @@
+{"requests":[
+ {"slug":"mako-fishing-charters","pages":["http://www.makofishingcharters.com/"],"text":true,"max":16,"follow":true},
+ {"slug":"east-gippsland-sportfishing","pages":["https://www.visiteastgippsland.com.au/operator/east-gippsland-sportfishing/","https://www.eastgippslandsportfishing.com.au/","https://eastgippslandsportfishing.com/"],"text":true,"max":16,"follow":true}
+]}
