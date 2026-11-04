@@ -1,0 +1,297 @@
+{
+  "slug": "egsportfishing",
+  "request_hash": "498695e7b06b",
+  "collected_at": "2026-11-04T04:05:03.670Z",
+  "pages_fetched": [
+    "https://www.egsportfishing.com.au/",
+    "https://www.egsportfishing.com.au/blog",
+    "https://www.egsportfishing.com.au/contactus",
+    "https://www.egsportfishing.com.au/charter-locations/bemm-river-charter-fishing",
+    "https://www.egsportfishing.com.au/charter-locations/lake-tyres-charter-fishing",
+    "https://www.egsportfishing.com.au/charter-locations/mallacoota-charter-fishing",
+    "https://www.egsportfishing.com.au/charter-locations/gippsland-lakes-charter-fishing",
+    "https://www.egsportfishing.com.au/termsandconditions",
+    "https://www.egsportfishing.com.au/faq"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 768,
+      "height": 512,
+      "original": "768x512",
+      "source": "https://static.wixstatic.com/media/2b108d_ae2cef9d9038451a995d25af53aa7fa1~mv2.jpg",
+      "page": "https://www.egsportfishing.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 1200,
+      "height": 900,
+      "original": "1200x900",
+      "source": "https://static.wixstatic.com/media/2b108d_48fd0d8eddd54d1bbbae9a1e2d011816~mv2.jpg",
+      "page": "https://www.egsportfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 750,
+      "height": 1000,
+      "original": "750x1000",
+      "source": "https://static.wixstatic.com/media/2b108d_d7b7d8f41cf441c1a3605fd57f9fb168~mv2.jpg",
+      "page": "https://www.egsportfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1600,
+      "height": 1067,
+      "original": "1600x1067",
+      "source": "https://static.wixstatic.com/media/2b108d_d8d698ebcca94966aa68d174aff3b1a7~mv2.jpg",
+      "page": "https://www.egsportfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1249,
+      "height": 737,
+      "original": "1249x737",
+      "source": "https://static.wixstatic.com/media/2b108d_23fadf6b663c45678fa1b1134b346f66~mv2.jpg",
+      "page": "https://www.egsportfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1600,
+      "height": 1132,
+      "original": "1600x1132",
+      "source": "https://static.wixstatic.com/media/2b108d_e3287115e398459183f1db8545b6c823~mv2.jpg",
+      "page": "https://www.egsportfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1248,
+      "height": 832,
+      "original": "1248x832",
+      "source": "https://static.wixstatic.com/media/2b108d_503f3dbc5d074d47a35c9e9a2891c45b~mv2.png",
+      "page": "https://www.egsportfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 852,
+      "height": 432,
+      "original": "852x432",
+      "source": "https://static.wixstatic.com/media/2b108d_0b74266eff0c4d44907f08b18d3c2509~mv2.jpg",
+      "page": "https://www.egsportfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1516,
+      "height": 1010,
+      "original": "1516x1010",
+      "source": "https://static.wixstatic.com/media/2b108d_047db07d01224a1b8caf1965ac95f32a~mv2.jpg",
+      "page": "https://www.egsportfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 768,
+      "height": 1024,
+      "original": "768x1024",
+      "source": "https://static.wixstatic.com/media/2b108d_f014606b8aae4e0fb57aec8e71c96974~mv2.jpg",
+      "page": "https://www.egsportfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1000,
+      "height": 1227,
+      "original": "1000x1227",
+      "source": "https://static.wixstatic.com/media/2b108d_3c3f24d9af334612b00a24c96196202f~mv2.jpg",
+      "page": "https://www.egsportfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1210,
+      "height": 1223,
+      "original": "1210x1223",
+      "source": "https://static.wixstatic.com/media/2b108d_3dfc1ed2cd7a4421b6f5ea8d956fc008~mv2.jpg",
+      "page": "https://www.egsportfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 842,
+      "height": 595,
+      "original": "842x595",
+      "source": "https://static.wixstatic.com/media/2b108d_dd995b39499f49bba3835191bcd6ae41~mv2.png",
+      "page": "https://www.egsportfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 834,
+      "height": 885,
+      "original": "834x885",
+      "source": "https://static.wixstatic.com/media/2b108d_076c71bf8cb74c4d988c03c9b379977b~mv2.jpg",
+      "page": "https://www.egsportfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 694,
+      "height": 786,
+      "original": "694x786",
+      "source": "https://static.wixstatic.com/media/2b108d_16a1d43e5aa74b399e2fd8adcdaeaaf8~mv2.jpg",
+      "page": "https://www.egsportfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 640,
+      "height": 640,
+      "original": "640x640",
+      "source": "https://static.wixstatic.com/media/2b108d_cc5629e901684824adb45b53f2844da2~mv2.jpg",
+      "page": "https://www.egsportfishing.com.au/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.egsportfishing.com.au/",
+      "status": 200,
+      "final_url": "https://www.egsportfishing.com.au/",
+      "bytes": 1506090
+    },
+    {
+      "page": "https://www.egsportfishing.com.au/blog",
+      "status": 200,
+      "final_url": "https://www.egsportfishing.com.au/blog",
+      "bytes": 1178202
+    },
+    {
+      "page": "https://www.egsportfishing.com.au/contactus",
+      "status": 200,
+      "final_url": "https://www.egsportfishing.com.au/contactus",
+      "bytes": 1637648
+    },
+    {
+      "page": "https://www.egsportfishing.com.au/charter-locations/bemm-river-charter-fishing",
+      "status": 200,
+      "final_url": "https://www.egsportfishing.com.au/charter-locations/bemm-river-charter-fishing",
+      "bytes": 905377
+    },
+    {
+      "page": "https://www.egsportfishing.com.au/charter-locations/lake-tyres-charter-fishing",
+      "status": 200,
+      "final_url": "https://www.egsportfishing.com.au/charter-locations/lake-tyers-charter-fishing",
+      "bytes": 905848
+    },
+    {
+      "page": "https://www.egsportfishing.com.au/charter-locations/mallacoota-charter-fishing",
+      "status": 200,
+      "final_url": "https://www.egsportfishing.com.au/charter-locations/mallacoota-charter-fishing",
+      "bytes": 904995
+    },
+    {
+      "page": "https://www.egsportfishing.com.au/charter-locations/gippsland-lakes-charter-fishing",
+      "status": 200,
+      "final_url": "https://www.egsportfishing.com.au/charter-locations/gippsland-lakes-charter-fishing",
+      "bytes": 905088
+    },
+    {
+      "page": "https://www.egsportfishing.com.au/termsandconditions",
+      "status": 200,
+      "final_url": "https://www.egsportfishing.com.au/termsandconditions",
+      "bytes": 849072
+    },
+    {
+      "page": "https://www.egsportfishing.com.au/faq",
+      "status": 200,
+      "final_url": "https://www.egsportfishing.com.au/faq",
+      "bytes": 845101
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/2b108d_ae2cef9d9038451a995d25af53aa7fa1~mv2.jpg/v1/fill/w_768,h_512,al_c/2b108d_ae2cef9d9038451a995d25af53aa7fa1~mv2.jpg"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/2b108d_1f9b36a89f844203875dfbf6189bc8d6~mv2.png",
+      "error": "too small 100x100"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/2b108d_1f9b36a89f844203875dfbf6189bc8d6~mv2.png/v1/fill/w_24,h_24,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2b108d_1f9b36a89f844203875dfbf6189bc8d6~mv2.png",
+      "error": "too small 24x24"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/2b108d_e511a0a99973419a8acaf56c65afc404~mv2.png",
+      "error": "too small 100x100"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/2b108d_e511a0a99973419a8acaf56c65afc404~mv2.png/v1/fill/w_24,h_24,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2b108d_e511a0a99973419a8acaf56c65afc404~mv2.png",
+      "error": "too small 24x24"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/2b108d_81d26a4d71cb4c7cb7b5b22f7e09e12a~mv2.png",
+      "error": "too small 100x100"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/2b108d_81d26a4d71cb4c7cb7b5b22f7e09e12a~mv2.png/v1/fill/w_24,h_24,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2b108d_81d26a4d71cb4c7cb7b5b22f7e09e12a~mv2.png",
+      "error": "too small 24x24"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/2b108d_ef49cd0ad4e447ff9485325562af57b4~mv2.png",
+      "error": "too small 100x100"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/2b108d_ef49cd0ad4e447ff9485325562af57b4~mv2.png/v1/fill/w_24,h_24,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2b108d_ef49cd0ad4e447ff9485325562af57b4~mv2.png",
+      "error": "too small 24x24"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/2b108d_4f4096a9bb1240e288b15bf83cb3416b~mv2.png",
+      "error": "too small 100x100"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/2b108d_4f4096a9bb1240e288b15bf83cb3416b~mv2.png/v1/fill/w_24,h_24,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2b108d_4f4096a9bb1240e288b15bf83cb3416b~mv2.png",
+      "error": "too small 24x24"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/2b108d_4f4015674d154d5dbd376f539f094354~mv2.png",
+      "error": "too small 460x444"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/2b108d_4f4015674d154d5dbd376f539f094354~mv2.png/v1/fill/w_28,h_24,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/EGSP_Starfish.png",
+      "error": "too small 28x24"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/2b108d_cd13f46409014558855bf470d54e5803~mv2.png",
+      "error": "too small 1996x233"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/2b108d_cd13f46409014558855bf470d54e5803~mv2.png/v1/fill/w_49,h_6,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/2b108d_cd13f46409014558855bf470d54e5803~mv2.png",
+      "error": "too small 49x6"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/2b108d_06287533fc7a4a41838e51e18c8b4c48~mv2.png",
+      "error": "too small 1996x233"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/2b108d_06287533fc7a4a41838e51e18c8b4c48~mv2.png/v1/fill/w_49,h_6,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/2b108d_06287533fc7a4a41838e51e18c8b4c48~mv2.png",
+      "error": "too small 49x6"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/2b108d_4f4015674d154d5dbd376f539f094354~mv2.png/v1/fill/w_40,h_38,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/EGSP_Starfish.png",
+      "error": "too small 40x38"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/2b108d_354480492dba4051ac7f5bfcbd9b3e52~mv2.jpg",
+      "error": "too small 469x640"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/2b108d_354480492dba4051ac7f5bfcbd9b3e52~mv2.jpg/v1/fill/w_469,h_625,fp_0.53_0.23,q_90,enc_avif,quality_auto/2b108d_354480492dba4051ac7f5bfcbd9b3e52~mv2.jpg",
+      "error": "too small 469x625"
+    }
+  ]
+}

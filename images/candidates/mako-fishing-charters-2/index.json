@@ -1,0 +1,27 @@
+{
+  "slug": "mako-fishing-charters-2",
+  "request_hash": "cd45bb673f02",
+  "collected_at": "2026-11-04T04:05:03.921Z",
+  "pages_fetched": [
+    "https://www.makofishingcharters.com/",
+    "https://makofishingcharters.com/",
+    "http://makofishingcharters.com.au/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.makofishingcharters.com/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://makofishingcharters.com/",
+      "status": 403,
+      "final_url": "https://feelingyachty.com/miami-fishing-charters/",
+      "bytes": 6028
+    },
+    {
+      "page": "http://makofishingcharters.com.au/",
+      "error": "fetch failed"
+    }
+  ]
+}
