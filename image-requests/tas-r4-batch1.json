@@ -1,0 +1,15 @@
+{"requests":[
+ {"slug":"r4-miena-guiding-tasmania","pages":["https://mienaguidingtasmania.com.au/"],"text":true,"max":0,"follow":true},
+ {"slug":"r4-trout-tales-tasmania","pages":["https://www.trouttalestasmania.com.au/"],"text":true,"max":0,"follow":true},
+ {"slug":"r4-divers-fishing-charters-hobart","pages":["https://www.tasyachttrip.com.au/"],"text":true,"max":0,"follow":true},
+ {"slug":"r4-tassie-fly-guide","pages":["https://tassieflyguide.com.au/"],"text":true,"max":0,"follow":true},
+ {"slug":"r4-trout-territory","pages":["https://troutterritory.com.au/","https://troutterritory.com.au/fly-fishing-tour-rates/"],"text":true,"max":0,"follow":true},
+ {"slug":"r4-riverfly-1864","pages":["https://riverfly.com.au/"],"text":true,"max":0,"follow":true},
+ {"slug":"r4-tasmania-fly-fishing","pages":["https://tasmaniaflyfishing.com.au/","https://tasmaniaflyfishing.com.au/tasmania-fly-fishing-charters-rates-tours/"],"text":true,"max":0,"follow":true},
+ {"slug":"r4-mr-flathead","pages":["https://www.mrflathead.com.au/"],"text":true,"max":0,"follow":true},
+ {"slug":"r4-tasman-spirit-charters","pages":["https://tasmanspiritcharters.com/"],"text":true,"max":0,"follow":true},
+ {"slug":"r4-south-east-charters","pages":["https://www.southeastcharters.com.au/","https://discovertasmania.com.au/things-to-do/tours/southeastcharters","https://www.spiritoftasmania.com.au/things-to-do/south-east-charters"],"text":true,"max":0,"follow":true},
+ {"slug":"r4-red-tag-trout-tours","pages":["https://www.redtagtrout.com/","https://www.redtagtrout.com/tour-options/","https://www.redtagtrout.com/blog/"],"text":true,"max":0,"follow":true},
+ {"slug":"r4-gone-fishing","pages":["https://www.breamfishing.com.au/","http://breamfishing.com.au/"],"text":true,"max":16,"follow":true},
+ {"slug":"r4-sth-discovery","pages":["https://eastcoasttasmania.com/to-do/adventure/itinerary/fishing/","https://fishing.tas.gov.au/recreational-fishing/fishing-tips/hot-fishing-spots/fishing-around-st-helens","https://www.discovertasmania.com.au/things-to-do/tours/keenanglercharters/"],"text":true,"max":0,"follow":false}
+]}
