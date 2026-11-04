@@ -1,0 +1,94 @@
+{
+  "slug": "r4-blue-reef-fishing-charters-sydney",
+  "request_hash": "8abebdca7779",
+  "collected_at": "2026-11-04T03:55:31.813Z",
+  "pages_fetched": [
+    "https://www.bluereefcharters.info/",
+    "https://www.bluereefcharters.info/about-us.html",
+    "https://www.bluereefcharters.info/general-boat-info.html",
+    "https://www.bluereefcharters.info/fishing-charters/reef-fishing-trips.html",
+    "https://www.bluereefcharters.info/fishing-charters/sports-fishing-trips.html",
+    "https://www.bluereefcharters.info/contact.html",
+    "https://www.bluereefcharters.info/fishing-charters.html",
+    "https://www.bluereefcharters.info/gallery.html",
+    "https://www.bluereefcharters.info/boat-info.html",
+    "https://www.bluereefcharters.info/pickup-locations.html",
+    "https://www.bluereefcharters.info/testimonials.html",
+    "https://www.bluereefcharters.info/fishing-charters/game-fishing-trips.html"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.bluereefcharters.info/",
+      "status": 200,
+      "final_url": "https://www.bluereefcharters.info/",
+      "bytes": 60935
+    },
+    {
+      "page": "https://www.bluereefcharters.info/about-us.html",
+      "status": 200,
+      "final_url": "https://www.bluereefcharters.info/about-us.html",
+      "bytes": 31898
+    },
+    {
+      "page": "https://www.bluereefcharters.info/general-boat-info.html",
+      "status": 200,
+      "final_url": "https://www.bluereefcharters.info/general-boat-info.html",
+      "bytes": 34188
+    },
+    {
+      "page": "https://www.bluereefcharters.info/fishing-charters/reef-fishing-trips.html",
+      "status": 200,
+      "final_url": "https://www.bluereefcharters.info/fishing-charters/reef-fishing-trips.html",
+      "bytes": 35392
+    },
+    {
+      "page": "https://www.bluereefcharters.info/fishing-charters/sports-fishing-trips.html",
+      "status": 200,
+      "final_url": "https://www.bluereefcharters.info/fishing-charters/sports-fishing-trips.html",
+      "bytes": 34653
+    },
+    {
+      "page": "https://www.bluereefcharters.info/contact.html",
+      "status": 200,
+      "final_url": "https://www.bluereefcharters.info/contact.html",
+      "bytes": 31489
+    },
+    {
+      "page": "https://www.bluereefcharters.info/fishing-charters.html",
+      "status": 200,
+      "final_url": "https://www.bluereefcharters.info/fishing-charters.html",
+      "bytes": 40969
+    },
+    {
+      "page": "https://www.bluereefcharters.info/gallery.html",
+      "status": 200,
+      "final_url": "https://www.bluereefcharters.info/gallery.html",
+      "bytes": 55990
+    },
+    {
+      "page": "https://www.bluereefcharters.info/boat-info.html",
+      "status": 200,
+      "final_url": "https://www.bluereefcharters.info/boat-info.html",
+      "bytes": 34183
+    },
+    {
+      "page": "https://www.bluereefcharters.info/pickup-locations.html",
+      "status": 200,
+      "final_url": "https://www.bluereefcharters.info/pickup-locations.html",
+      "bytes": 34965
+    },
+    {
+      "page": "https://www.bluereefcharters.info/testimonials.html",
+      "status": 200,
+      "final_url": "https://www.bluereefcharters.info/testimonials.html",
+      "bytes": 60381
+    },
+    {
+      "page": "https://www.bluereefcharters.info/fishing-charters/game-fishing-trips.html",
+      "status": 200,
+      "final_url": "https://www.bluereefcharters.info/fishing-charters/game-fishing-trips.html",
+      "bytes": 33413
+    }
+  ]
+}

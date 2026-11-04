@@ -1,0 +1,45 @@
+{
+  "slug": "r4-sydney-premium-charters-cronulla",
+  "request_hash": "ca5ac8a42871",
+  "collected_at": "2026-11-04T03:56:44.009Z",
+  "pages_fetched": [
+    "https://www.sydneypremiumcharters.com.au/",
+    "https://www.sydneypremiumcharters.com.au/boats/",
+    "https://www.sydneypremiumcharters.com.au/shared-sydney-fishing-charters/",
+    "https://www.sydneypremiumcharters.com.au/fishing-trips-sydney-4hrs/",
+    "https://www.sydneypremiumcharters.com.au/private-fishing-charter-sydney-5hrs/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.sydneypremiumcharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.sydneypremiumcharters.com.au/",
+      "bytes": 11929
+    },
+    {
+      "page": "https://www.sydneypremiumcharters.com.au/boats/",
+      "status": 200,
+      "final_url": "https://www.sydneypremiumcharters.com.au/boats/",
+      "bytes": 11824
+    },
+    {
+      "page": "https://www.sydneypremiumcharters.com.au/shared-sydney-fishing-charters/",
+      "status": 200,
+      "final_url": "https://www.sydneypremiumcharters.com.au/shared-sydney-fishing-charters/",
+      "bytes": 11849
+    },
+    {
+      "page": "https://www.sydneypremiumcharters.com.au/fishing-trips-sydney-4hrs/",
+      "status": 200,
+      "final_url": "https://www.sydneypremiumcharters.com.au/fishing-trips-sydney-4hrs/",
+      "bytes": 11844
+    },
+    {
+      "page": "https://www.sydneypremiumcharters.com.au/private-fishing-charter-sydney-5hrs/",
+      "status": 200,
+      "final_url": "https://www.sydneypremiumcharters.com.au/private-fishing-charter-sydney-5hrs/",
+      "bytes": 11854
+    }
+  ]
+}

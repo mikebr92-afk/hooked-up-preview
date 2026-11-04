@@ -1,0 +1,94 @@
+{
+  "slug": "r4-go-fish-yamba-charters",
+  "request_hash": "ab7f0fd4565b",
+  "collected_at": "2026-11-04T03:54:30.428Z",
+  "pages_fetched": [
+    "https://www.gofishyamba.com.au/",
+    "https://www.gofishyamba.com.au/about",
+    "https://www.gofishyamba.com.au/our-team",
+    "https://www.gofishyamba.com.au/trip-pricings",
+    "https://www.gofishyamba.com.au/faqs",
+    "https://www.visitnsw.com/things-to-do/tours/go-fish-yamba-charters/individual-go-fish-yamba-charter",
+    "https://www.gofishyamba.com.au/contact",
+    "https://www.visitnsw.com/in/things-to-do/tours/go-fish-yamba-charters/individual-go-fish-yamba-charter",
+    "https://www.visitnsw.com/nz/things-to-do/tours/go-fish-yamba-charters/individual-go-fish-yamba-charter",
+    "https://www.visitnsw.com/uk/things-to-do/tours/go-fish-yamba-charters/individual-go-fish-yamba-charter",
+    "https://www.visitnsw.com/us/things-to-do/tours/go-fish-yamba-charters/individual-go-fish-yamba-charter",
+    "https://www.visitnsw.com/sg/things-to-do/tours/go-fish-yamba-charters/individual-go-fish-yamba-charter"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.gofishyamba.com.au/",
+      "status": 200,
+      "final_url": "https://www.gofishyamba.com.au/",
+      "bytes": 486729
+    },
+    {
+      "page": "https://www.gofishyamba.com.au/about",
+      "status": 200,
+      "final_url": "https://www.gofishyamba.com.au/about",
+      "bytes": 135250
+    },
+    {
+      "page": "https://www.gofishyamba.com.au/our-team",
+      "status": 200,
+      "final_url": "https://www.gofishyamba.com.au/our-team",
+      "bytes": 160919
+    },
+    {
+      "page": "https://www.gofishyamba.com.au/trip-pricings",
+      "status": 200,
+      "final_url": "https://www.gofishyamba.com.au/trip-pricings",
+      "bytes": 181248
+    },
+    {
+      "page": "https://www.gofishyamba.com.au/faqs",
+      "status": 200,
+      "final_url": "https://www.gofishyamba.com.au/faqs",
+      "bytes": 245858
+    },
+    {
+      "page": "https://www.visitnsw.com/things-to-do/tours/go-fish-yamba-charters/individual-go-fish-yamba-charter",
+      "status": 200,
+      "final_url": "https://www.visitnsw.com/things-to-do/tours/go-fish-yamba-charters/individual-go-fish-yamba-charter",
+      "bytes": 210409
+    },
+    {
+      "page": "https://www.gofishyamba.com.au/contact",
+      "status": 200,
+      "final_url": "https://www.gofishyamba.com.au/contact",
+      "bytes": 216245
+    },
+    {
+      "page": "https://www.visitnsw.com/in/things-to-do/tours/go-fish-yamba-charters/individual-go-fish-yamba-charter",
+      "status": 200,
+      "final_url": "https://www.visitnsw.com/in/things-to-do/tours/go-fish-yamba-charters/individual-go-fish-yamba-charter",
+      "bytes": 210751
+    },
+    {
+      "page": "https://www.visitnsw.com/nz/things-to-do/tours/go-fish-yamba-charters/individual-go-fish-yamba-charter",
+      "status": 200,
+      "final_url": "https://www.visitnsw.com/nz/things-to-do/tours/go-fish-yamba-charters/individual-go-fish-yamba-charter",
+      "bytes": 210757
+    },
+    {
+      "page": "https://www.visitnsw.com/uk/things-to-do/tours/go-fish-yamba-charters/individual-go-fish-yamba-charter",
+      "status": 200,
+      "final_url": "https://www.visitnsw.com/uk/things-to-do/tours/go-fish-yamba-charters/individual-go-fish-yamba-charter",
+      "bytes": 210760
+    },
+    {
+      "page": "https://www.visitnsw.com/us/things-to-do/tours/go-fish-yamba-charters/individual-go-fish-yamba-charter",
+      "status": 200,
+      "final_url": "https://www.visitnsw.com/us/things-to-do/tours/go-fish-yamba-charters/individual-go-fish-yamba-charter",
+      "bytes": 210759
+    },
+    {
+      "page": "https://www.visitnsw.com/sg/things-to-do/tours/go-fish-yamba-charters/individual-go-fish-yamba-charter",
+      "status": 200,
+      "final_url": "https://www.visitnsw.com/sg/things-to-do/tours/go-fish-yamba-charters/individual-go-fish-yamba-charter",
+      "bytes": 210755
+    }
+  ]
+}

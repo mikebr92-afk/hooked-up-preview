@@ -1,0 +1,94 @@
+{
+  "slug": "r4-calypso-fishing-adventures",
+  "request_hash": "ad3fc5ee270b",
+  "collected_at": "2026-11-04T03:53:38.500Z",
+  "pages_fetched": [
+    "https://www.marlinfishingaustralia.com.au/",
+    "https://www.marlinfishingaustralia.com.au/meet-calypso/",
+    "https://www.marlinfishingaustralia.com.au/capt-tim-dean/",
+    "https://www.marlinfishingaustralia.com.au/marlin-fishing-port-stephens/",
+    "https://www.visitnsw.com/things-to-do/tours/calypso-fishing-adventures",
+    "https://www.marlinfishingaustralia.com.au/cairns-giant-black-marlin-fishing/",
+    "https://www.marlinfishingaustralia.com.au/cooktown-ribbon-reefs/",
+    "https://www.marlinfishingaustralia.com.au/lizard-island-black-marlin-fishing/",
+    "https://www.marlinfishingaustralia.com.au/giant-black-marlin-fishing/",
+    "https://www.marlinfishingaustralia.com.au/gallery/",
+    "https://www.marlinfishingaustralia.com.au/contact/",
+    "https://www.visitnsw.com/in/things-to-do/tours/calypso-fishing-adventures"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.marlinfishingaustralia.com.au/",
+      "status": 200,
+      "final_url": "https://www.marlinfishingaustralia.com.au/",
+      "bytes": 157485
+    },
+    {
+      "page": "https://www.marlinfishingaustralia.com.au/meet-calypso/",
+      "status": 200,
+      "final_url": "https://www.marlinfishingaustralia.com.au/meet-calypso/",
+      "bytes": 148351
+    },
+    {
+      "page": "https://www.marlinfishingaustralia.com.au/capt-tim-dean/",
+      "status": 200,
+      "final_url": "https://www.marlinfishingaustralia.com.au/capt-tim-dean/",
+      "bytes": 146829
+    },
+    {
+      "page": "https://www.marlinfishingaustralia.com.au/marlin-fishing-port-stephens/",
+      "status": 200,
+      "final_url": "https://www.marlinfishingaustralia.com.au/marlin-fishing-port-stephens/",
+      "bytes": 150716
+    },
+    {
+      "page": "https://www.visitnsw.com/things-to-do/tours/calypso-fishing-adventures",
+      "status": 200,
+      "final_url": "https://www.visitnsw.com/things-to-do/tours/calypso-fishing-adventures",
+      "bytes": 224922
+    },
+    {
+      "page": "https://www.marlinfishingaustralia.com.au/cairns-giant-black-marlin-fishing/",
+      "status": 200,
+      "final_url": "https://www.marlinfishingaustralia.com.au/cairns-giant-black-marlin-fishing/",
+      "bytes": 148673
+    },
+    {
+      "page": "https://www.marlinfishingaustralia.com.au/cooktown-ribbon-reefs/",
+      "status": 200,
+      "final_url": "https://www.marlinfishingaustralia.com.au/cooktown-ribbon-reefs/",
+      "bytes": 148780
+    },
+    {
+      "page": "https://www.marlinfishingaustralia.com.au/lizard-island-black-marlin-fishing/",
+      "status": 200,
+      "final_url": "https://www.marlinfishingaustralia.com.au/lizard-island-black-marlin-fishing/",
+      "bytes": 148332
+    },
+    {
+      "page": "https://www.marlinfishingaustralia.com.au/giant-black-marlin-fishing/",
+      "status": 200,
+      "final_url": "https://www.marlinfishingaustralia.com.au/giant-black-marlin-fishing/",
+      "bytes": 142886
+    },
+    {
+      "page": "https://www.marlinfishingaustralia.com.au/gallery/",
+      "status": 200,
+      "final_url": "https://www.marlinfishingaustralia.com.au/gallery/",
+      "bytes": 189028
+    },
+    {
+      "page": "https://www.marlinfishingaustralia.com.au/contact/",
+      "status": 200,
+      "final_url": "https://www.marlinfishingaustralia.com.au/contact/",
+      "bytes": 139555
+    },
+    {
+      "page": "https://www.visitnsw.com/in/things-to-do/tours/calypso-fishing-adventures",
+      "status": 200,
+      "final_url": "https://www.visitnsw.com/in/things-to-do/tours/calypso-fishing-adventures",
+      "bytes": 225228
+    }
+  ]
+}

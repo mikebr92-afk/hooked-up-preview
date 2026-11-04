@@ -1,0 +1,94 @@
+{
+  "slug": "r4-castaway-estuary-fishing-charters",
+  "request_hash": "26c03ca52d9c",
+  "collected_at": "2026-11-04T03:53:00.838Z",
+  "pages_fetched": [
+    "https://www.castawayfishing.com.au/",
+    "https://www.castawayfishing.com.au/the-guide",
+    "https://www.castawayfishing.com.au/the-vessel",
+    "https://www.castawayfishing.com.au/target-species",
+    "https://www.castawayfishing.com.au/faq",
+    "https://www.castawayfishing.com.au/castaway-guided-estuary-sportfishing",
+    "https://www.visitnsw.com/things-to-do/tours/castaway-estuary-fishing-charters",
+    "https://www.castawayfishing.com.au/?hsLang=en",
+    "https://www.castawayfishing.com.au/castaway-charter-rates",
+    "https://www.castawayfishing.com.au/contact-us",
+    "https://www.castawayfishing.com.au/castaway-learn",
+    "https://www.castawayfishing.com.au/castaway-guided-estuary-sportfishing?hsLang=en"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.castawayfishing.com.au/",
+      "status": 200,
+      "final_url": "https://www.castawayfishing.com.au/",
+      "bytes": 59696
+    },
+    {
+      "page": "https://www.castawayfishing.com.au/the-guide",
+      "status": 200,
+      "final_url": "https://www.castawayfishing.com.au/the-guide",
+      "bytes": 40881
+    },
+    {
+      "page": "https://www.castawayfishing.com.au/the-vessel",
+      "status": 200,
+      "final_url": "https://www.castawayfishing.com.au/the-vessel",
+      "bytes": 30146
+    },
+    {
+      "page": "https://www.castawayfishing.com.au/target-species",
+      "status": 200,
+      "final_url": "https://www.castawayfishing.com.au/target-species",
+      "bytes": 32182
+    },
+    {
+      "page": "https://www.castawayfishing.com.au/faq",
+      "status": 200,
+      "final_url": "https://www.castawayfishing.com.au/faq",
+      "bytes": 36408
+    },
+    {
+      "page": "https://www.castawayfishing.com.au/castaway-guided-estuary-sportfishing",
+      "status": 200,
+      "final_url": "https://www.castawayfishing.com.au/castaway-guided-estuary-sportfishing",
+      "bytes": 43107
+    },
+    {
+      "page": "https://www.visitnsw.com/things-to-do/tours/castaway-estuary-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.visitnsw.com/things-to-do/tours/castaway-estuary-fishing-charters",
+      "bytes": 229232
+    },
+    {
+      "page": "https://www.castawayfishing.com.au/?hsLang=en",
+      "status": 200,
+      "final_url": "https://www.castawayfishing.com.au/",
+      "bytes": 59696
+    },
+    {
+      "page": "https://www.castawayfishing.com.au/castaway-charter-rates",
+      "status": 200,
+      "final_url": "https://www.castawayfishing.com.au/castaway-charter-rates",
+      "bytes": 42116
+    },
+    {
+      "page": "https://www.castawayfishing.com.au/contact-us",
+      "status": 200,
+      "final_url": "https://www.castawayfishing.com.au/contact-us",
+      "bytes": 26549
+    },
+    {
+      "page": "https://www.castawayfishing.com.au/castaway-learn",
+      "status": 200,
+      "final_url": "https://www.castawayfishing.com.au/castaway-learn",
+      "bytes": 65141
+    },
+    {
+      "page": "https://www.castawayfishing.com.au/castaway-guided-estuary-sportfishing?hsLang=en",
+      "status": 200,
+      "final_url": "https://www.castawayfishing.com.au/castaway-guided-estuary-sportfishing",
+      "bytes": 43107
+    }
+  ]
+}

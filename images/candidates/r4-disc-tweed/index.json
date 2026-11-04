@@ -1,0 +1,31 @@
+{
+  "slug": "r4-disc-tweed",
+  "request_hash": "2c4cce4e57e6",
+  "collected_at": "2026-11-04T03:58:11.532Z",
+  "pages_fetched": [
+    "https://www.visitthetweed.com.au/things-to-do/fishing",
+    "https://www.visitthetweed.com.au/?s=fishing",
+    "https://www.visitthetweed.com.au/listing/cushy-fishing-charters"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.visitthetweed.com.au/things-to-do/fishing",
+      "status": 200,
+      "final_url": "https://www.visitthetweed.com.au/",
+      "bytes": 502358
+    },
+    {
+      "page": "https://www.visitthetweed.com.au/?s=fishing",
+      "status": 500,
+      "final_url": "https://www.visitthetweed.com.au/?s=fishing",
+      "bytes": 61854
+    },
+    {
+      "page": "https://www.visitthetweed.com.au/listing/cushy-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.visitthetweed.com.au/",
+      "bytes": 502358
+    }
+  ]
+}

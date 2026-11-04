@@ -1,0 +1,94 @@
+{
+  "slug": "r4-kiama-charter-service",
+  "request_hash": "7f9d070a0898",
+  "collected_at": "2026-11-04T03:57:40.466Z",
+  "pages_fetched": [
+    "https://kiamafishing.com.au/",
+    "https://kiamafishing.com.au/reef-fishing/",
+    "https://kiamafishing.com.au/deep-sea-fishing/",
+    "https://kiamafishing.com.au/faq/",
+    "https://kiamafishing.com.au/finding-us/",
+    "https://kiamafishing.com.au/availability/",
+    "https://www.visitnsw.com/things-to-do/tours/kiama-charter-service",
+    "https://www.visitnsw.com/in/things-to-do/tours/kiama-charter-service",
+    "https://www.visitnsw.com/nz/things-to-do/tours/kiama-charter-service",
+    "https://www.visitnsw.com/uk/things-to-do/tours/kiama-charter-service",
+    "https://www.visitnsw.com/us/things-to-do/tours/kiama-charter-service",
+    "https://www.visitnsw.com/sg/things-to-do/tours/kiama-charter-service"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://kiamafishing.com.au/",
+      "status": 200,
+      "final_url": "https://kiamafishing.com.au/",
+      "bytes": 11970
+    },
+    {
+      "page": "https://kiamafishing.com.au/reef-fishing/",
+      "status": 200,
+      "final_url": "https://kiamafishing.com.au/reef-fishing/",
+      "bytes": 11988
+    },
+    {
+      "page": "https://kiamafishing.com.au/deep-sea-fishing/",
+      "status": 200,
+      "final_url": "https://kiamafishing.com.au/deep-sea-fishing/",
+      "bytes": 11992
+    },
+    {
+      "page": "https://kiamafishing.com.au/faq/",
+      "status": 200,
+      "final_url": "https://kiamafishing.com.au/faq/",
+      "bytes": 11979
+    },
+    {
+      "page": "https://kiamafishing.com.au/finding-us/",
+      "status": 200,
+      "final_url": "https://kiamafishing.com.au/finding-us/",
+      "bytes": 12061
+    },
+    {
+      "page": "https://kiamafishing.com.au/availability/",
+      "status": 200,
+      "final_url": "https://kiamafishing.com.au/availability/",
+      "bytes": 12063
+    },
+    {
+      "page": "https://www.visitnsw.com/things-to-do/tours/kiama-charter-service",
+      "status": 200,
+      "final_url": "https://www.visitnsw.com/things-to-do/tours/kiama-charter-service",
+      "bytes": 234367
+    },
+    {
+      "page": "https://www.visitnsw.com/in/things-to-do/tours/kiama-charter-service",
+      "status": 200,
+      "final_url": "https://www.visitnsw.com/in/things-to-do/tours/kiama-charter-service",
+      "bytes": 234668
+    },
+    {
+      "page": "https://www.visitnsw.com/nz/things-to-do/tours/kiama-charter-service",
+      "status": 200,
+      "final_url": "https://www.visitnsw.com/nz/things-to-do/tours/kiama-charter-service",
+      "bytes": 234674
+    },
+    {
+      "page": "https://www.visitnsw.com/uk/things-to-do/tours/kiama-charter-service",
+      "status": 200,
+      "final_url": "https://www.visitnsw.com/uk/things-to-do/tours/kiama-charter-service",
+      "bytes": 234677
+    },
+    {
+      "page": "https://www.visitnsw.com/us/things-to-do/tours/kiama-charter-service",
+      "status": 200,
+      "final_url": "https://www.visitnsw.com/us/things-to-do/tours/kiama-charter-service",
+      "bytes": 234676
+    },
+    {
+      "page": "https://www.visitnsw.com/sg/things-to-do/tours/kiama-charter-service",
+      "status": 200,
+      "final_url": "https://www.visitnsw.com/sg/things-to-do/tours/kiama-charter-service",
+      "bytes": 234672
+    }
+  ]
+}

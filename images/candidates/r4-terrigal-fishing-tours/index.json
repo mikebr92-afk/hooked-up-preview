@@ -1,0 +1,94 @@
+{
+  "slug": "r4-terrigal-fishing-tours",
+  "request_hash": "69e1462efb06",
+  "collected_at": "2026-11-04T03:52:15.629Z",
+  "pages_fetched": [
+    "https://terrigalfishingtours.com.au/",
+    "https://terrigalfishingtours.com.au/fishing-charters-sydney/",
+    "https://terrigalfishingtours.com.au/fishing-charter-tour-information/",
+    "https://terrigalfishingtours.com.au/about/",
+    "https://terrigalfishingtours.com.au/fishing-charter-gift-vouchers/",
+    "https://www.visitnsw.com/things-to-do/tours/terrigal-fishing-tours",
+    "https://terrigalfishingtours.com.au/hardys-bay-charters/",
+    "https://terrigalfishingtours.com.au/lunch-cruises-corporate-charters-central-coast/",
+    "https://terrigalfishingtours.com.au/contact/",
+    "https://www.visitnsw.com/in/things-to-do/tours/terrigal-fishing-tours",
+    "https://www.visitnsw.com/nz/things-to-do/tours/terrigal-fishing-tours",
+    "https://www.visitnsw.com/uk/things-to-do/tours/terrigal-fishing-tours"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://terrigalfishingtours.com.au/",
+      "status": 200,
+      "final_url": "https://terrigalfishingtours.com.au/",
+      "bytes": 185865
+    },
+    {
+      "page": "https://terrigalfishingtours.com.au/fishing-charters-sydney/",
+      "status": 200,
+      "final_url": "https://terrigalfishingtours.com.au/fishing-charters-sydney/",
+      "bytes": 179509
+    },
+    {
+      "page": "https://terrigalfishingtours.com.au/fishing-charter-tour-information/",
+      "status": 200,
+      "final_url": "https://terrigalfishingtours.com.au/fishing-charter-tour-information/",
+      "bytes": 197550
+    },
+    {
+      "page": "https://terrigalfishingtours.com.au/about/",
+      "status": 200,
+      "final_url": "https://terrigalfishingtours.com.au/about/",
+      "bytes": 188671
+    },
+    {
+      "page": "https://terrigalfishingtours.com.au/fishing-charter-gift-vouchers/",
+      "status": 200,
+      "final_url": "https://terrigalfishingtours.com.au/fishing-charter-gift-vouchers/",
+      "bytes": 178689
+    },
+    {
+      "page": "https://www.visitnsw.com/things-to-do/tours/terrigal-fishing-tours",
+      "status": 200,
+      "final_url": "https://www.visitnsw.com/things-to-do/tours/terrigal-fishing-tours",
+      "bytes": 218443
+    },
+    {
+      "page": "https://terrigalfishingtours.com.au/hardys-bay-charters/",
+      "status": 200,
+      "final_url": "https://terrigalfishingtours.com.au/hardys-bay-charters/",
+      "bytes": 186677
+    },
+    {
+      "page": "https://terrigalfishingtours.com.au/lunch-cruises-corporate-charters-central-coast/",
+      "status": 200,
+      "final_url": "https://terrigalfishingtours.com.au/lunch-cruises-corporate-charters-central-coast/",
+      "bytes": 178207
+    },
+    {
+      "page": "https://terrigalfishingtours.com.au/contact/",
+      "status": 200,
+      "final_url": "https://terrigalfishingtours.com.au/contact/",
+      "bytes": 165113
+    },
+    {
+      "page": "https://www.visitnsw.com/in/things-to-do/tours/terrigal-fishing-tours",
+      "status": 200,
+      "final_url": "https://www.visitnsw.com/in/things-to-do/tours/terrigal-fishing-tours",
+      "bytes": 218745
+    },
+    {
+      "page": "https://www.visitnsw.com/nz/things-to-do/tours/terrigal-fishing-tours",
+      "status": 200,
+      "final_url": "https://www.visitnsw.com/nz/things-to-do/tours/terrigal-fishing-tours",
+      "bytes": 218751
+    },
+    {
+      "page": "https://www.visitnsw.com/uk/things-to-do/tours/terrigal-fishing-tours",
+      "status": 200,
+      "final_url": "https://www.visitnsw.com/uk/things-to-do/tours/terrigal-fishing-tours",
+      "bytes": 218754
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "r4-port-macquarie-fishing-charters",
+  "request_hash": "e89776a0b8bb",
+  "collected_at": "2026-11-04T03:53:21.086Z",
+  "pages_fetched": [
+    "https://www.portmacquariefishingcharters.com.au/",
+    "https://www.portmacquariefishingcharters.com.au/port-macquarie-deep-sea-fishing-charter-boats-port-macquarie/",
+    "https://www.portmacquariefishingcharters.com.au/the-crew-on-port-macquarie-fishing-charters-ocean-star/",
+    "https://www.portmacquariefishingcharters.com.au/port-macquarie-fishing-on-ocean-star-contact/",
+    "https://www.portmacquarieinfo.com.au/products/port-macquarie-fishing-charters",
+    "https://www.portmacquariefishingcharters.com.au/port-macquarie-fishing-information-holidays-charter-boat-port-macquarie-fishing-charters/",
+    "https://www.portmacquariefishingcharters.com.au/port-macquarie-fishing-charters-video-and-photo-gallery/",
+    "https://www.portmacquariefishingcharters.com.au/port-macquarie-fishing-information-and-website-links/",
+    "https://www.portmacquariefishingcharters.com.au/reviews-for-port-macquarie-fishing-charters-from-tripadvisor-facebook-google/",
+    "https://www.portmacquarieinfo.com.au/see-do/beaches-waterways/boating-4wd",
+    "https://www.portmacquarieinfo.com.au/see-do/walk-hike/hike-bike-trike-tours-hire",
+    "https://www.portmacquarieinfo.com.au/see-do/art-culture-history/the-glasshouse-gallery"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.portmacquariefishingcharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.portmacquariefishingcharters.com.au/",
+      "bytes": 59107
+    },
+    {
+      "page": "https://www.portmacquariefishingcharters.com.au/port-macquarie-deep-sea-fishing-charter-boats-port-macquarie/",
+      "status": 200,
+      "final_url": "https://www.portmacquariefishingcharters.com.au/port-macquarie-deep-sea-fishing-charter-boats-port-macquarie/",
+      "bytes": 89520
+    },
+    {
+      "page": "https://www.portmacquariefishingcharters.com.au/the-crew-on-port-macquarie-fishing-charters-ocean-star/",
+      "status": 200,
+      "final_url": "https://www.portmacquariefishingcharters.com.au/the-crew-on-port-macquarie-fishing-charters-ocean-star/",
+      "bytes": 50806
+    },
+    {
+      "page": "https://www.portmacquariefishingcharters.com.au/port-macquarie-fishing-on-ocean-star-contact/",
+      "status": 200,
+      "final_url": "https://www.portmacquariefishingcharters.com.au/port-macquarie-fishing-on-ocean-star-contact/",
+      "bytes": 45959
+    },
+    {
+      "page": "https://www.portmacquarieinfo.com.au/products/port-macquarie-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.portmacquarieinfo.com.au/products/port-macquarie-fishing-charters",
+      "bytes": 251957
+    },
+    {
+      "page": "https://www.portmacquariefishingcharters.com.au/port-macquarie-fishing-information-holidays-charter-boat-port-macquarie-fishing-charters/",
+      "status": 200,
+      "final_url": "https://www.portmacquariefishingcharters.com.au/port-macquarie-fishing-information-holidays-charter-boat-port-macquarie-fishing-charters/",
+      "bytes": 65967
+    },
+    {
+      "page": "https://www.portmacquariefishingcharters.com.au/port-macquarie-fishing-charters-video-and-photo-gallery/",
+      "status": 200,
+      "final_url": "https://www.portmacquariefishingcharters.com.au/port-macquarie-fishing-charters-video-and-photo-gallery/",
+      "bytes": 85295
+    },
+    {
+      "page": "https://www.portmacquariefishingcharters.com.au/port-macquarie-fishing-information-and-website-links/",
+      "status": 200,
+      "final_url": "https://www.portmacquariefishingcharters.com.au/port-macquarie-fishing-information-and-website-links/",
+      "bytes": 54939
+    },
+    {
+      "page": "https://www.portmacquariefishingcharters.com.au/reviews-for-port-macquarie-fishing-charters-from-tripadvisor-facebook-google/",
+      "status": 200,
+      "final_url": "https://www.portmacquariefishingcharters.com.au/reviews-for-port-macquarie-fishing-charters-from-tripadvisor-facebook-google/",
+      "bytes": 91683
+    },
+    {
+      "page": "https://www.portmacquarieinfo.com.au/see-do/beaches-waterways/boating-4wd",
+      "status": 200,
+      "final_url": "https://www.portmacquarieinfo.com.au/see-do/beaches-waterways/boating-4wd",
+      "bytes": 307618
+    },
+    {
+      "page": "https://www.portmacquarieinfo.com.au/see-do/walk-hike/hike-bike-trike-tours-hire",
+      "status": 200,
+      "final_url": "https://www.portmacquarieinfo.com.au/see-do/walk-hike/hike-bike-trike-tours-hire",
+      "bytes": 252369
+    },
+    {
+      "page": "https://www.portmacquarieinfo.com.au/see-do/art-culture-history/the-glasshouse-gallery",
+      "status": 200,
+      "final_url": "https://www.portmacquarieinfo.com.au/see-do/art-culture-history/the-glasshouse-gallery",
+      "bytes": 290128
+    }
+  ]
+}

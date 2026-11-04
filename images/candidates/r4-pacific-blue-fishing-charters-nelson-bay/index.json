@@ -1,0 +1,31 @@
+{
+  "slug": "r4-pacific-blue-fishing-charters-nelson-bay",
+  "request_hash": "eeedd190a0ae",
+  "collected_at": "2026-11-04T03:53:56.046Z",
+  "pages_fetched": [
+    "https://pacificbluecharters.com.au/",
+    "https://pacificbluecharters.com.au/services/",
+    "https://pacificbluecharters.com.au/contact/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://pacificbluecharters.com.au/",
+      "status": 200,
+      "final_url": "https://pacificbluecharters.com.au/",
+      "bytes": 11997
+    },
+    {
+      "page": "https://pacificbluecharters.com.au/services/",
+      "status": 200,
+      "final_url": "https://pacificbluecharters.com.au/services/",
+      "bytes": 12056
+    },
+    {
+      "page": "https://pacificbluecharters.com.au/contact/",
+      "status": 200,
+      "final_url": "https://pacificbluecharters.com.au/contact/",
+      "bytes": 12055
+    }
+  ]
+}

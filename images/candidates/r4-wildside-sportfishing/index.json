@@ -1,0 +1,59 @@
+{
+  "slug": "r4-wildside-sportfishing",
+  "request_hash": "fa59c2005f06",
+  "collected_at": "2026-11-04T03:54:15.767Z",
+  "pages_fetched": [
+    "https://www.wildsidesportfishing.com/",
+    "https://www.wildsidesportfishing.com/about/",
+    "https://www.wildsidesportfishing.com/fishing-charters-tours/",
+    "https://www.wildsidesportfishing.com/offshore-fishing-charters-south-west-rocks/",
+    "https://www.wildsidesportfishing.com/game-fishing/",
+    "https://www.wildsidesportfishing.com/fishing-charters-tours/frequently-asked-questions-about-wildside-sportfishing/",
+    "https://macleayvalleycoast.com.au/tours/wildside-sportfishing/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.wildsidesportfishing.com/",
+      "status": 200,
+      "final_url": "https://www.wildsidesportfishing.com/",
+      "bytes": 7170
+    },
+    {
+      "page": "https://www.wildsidesportfishing.com/about/",
+      "status": 200,
+      "final_url": "https://www.wildsidesportfishing.com/about/",
+      "bytes": 7201
+    },
+    {
+      "page": "https://www.wildsidesportfishing.com/fishing-charters-tours/",
+      "status": 200,
+      "final_url": "https://www.wildsidesportfishing.com/fishing-charters-tours/",
+      "bytes": 7218
+    },
+    {
+      "page": "https://www.wildsidesportfishing.com/offshore-fishing-charters-south-west-rocks/",
+      "status": 200,
+      "final_url": "https://www.wildsidesportfishing.com/offshore-fishing-charters-south-west-rocks/",
+      "bytes": 7243
+    },
+    {
+      "page": "https://www.wildsidesportfishing.com/game-fishing/",
+      "status": 200,
+      "final_url": "https://www.wildsidesportfishing.com/game-fishing/",
+      "bytes": 7177
+    },
+    {
+      "page": "https://www.wildsidesportfishing.com/fishing-charters-tours/frequently-asked-questions-about-wildside-sportfishing/",
+      "status": 200,
+      "final_url": "https://www.wildsidesportfishing.com/fishing-charters-tours/frequently-asked-questions-about-wildside-sportfishing/",
+      "bytes": 7203
+    },
+    {
+      "page": "https://macleayvalleycoast.com.au/tours/wildside-sportfishing/",
+      "status": 200,
+      "final_url": "https://macleayvalleycoast.com.au/tours/wildside-sportfishing/",
+      "bytes": 12096
+    }
+  ]
+}

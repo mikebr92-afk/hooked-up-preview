@@ -1,0 +1,94 @@
+{
+  "slug": "r4-capns-charters-newcastle",
+  "request_hash": "8b83fd24496c",
+  "collected_at": "2026-11-04T03:52:55.967Z",
+  "pages_fetched": [
+    "https://www.capnschartersnewcastle.com.au/",
+    "https://www.capnschartersnewcastle.com.au/bookings/",
+    "https://www.capnschartersnewcastle.com.au/one-on-one-charters/",
+    "https://www.capnschartersnewcastle.com.au/half-day-charters/",
+    "https://www.capnschartersnewcastle.com.au/full-day-charters/",
+    "https://www.capnschartersnewcastle.com.au/kids-fishing-charter/",
+    "https://www.capnschartersnewcastle.com.au/about-us/",
+    "https://www.poyst.com/business/capns-charters-newcastle",
+    "https://www.poyst.com/business/au/new-south-wales/tomago/fishing",
+    "https://www.poyst.com/about",
+    "https://www.poyst.com/pricing",
+    "https://www.poyst.com/contact"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.capnschartersnewcastle.com.au/",
+      "status": 200,
+      "final_url": "https://www.capnschartersnewcastle.com.au/",
+      "bytes": 11941
+    },
+    {
+      "page": "https://www.capnschartersnewcastle.com.au/bookings/",
+      "status": 200,
+      "final_url": "https://www.capnschartersnewcastle.com.au/bookings/",
+      "bytes": 11913
+    },
+    {
+      "page": "https://www.capnschartersnewcastle.com.au/one-on-one-charters/",
+      "status": 200,
+      "final_url": "https://www.capnschartersnewcastle.com.au/one-on-one-charters/",
+      "bytes": 11924
+    },
+    {
+      "page": "https://www.capnschartersnewcastle.com.au/half-day-charters/",
+      "status": 200,
+      "final_url": "https://www.capnschartersnewcastle.com.au/half-day-charters/",
+      "bytes": 11858
+    },
+    {
+      "page": "https://www.capnschartersnewcastle.com.au/full-day-charters/",
+      "status": 200,
+      "final_url": "https://www.capnschartersnewcastle.com.au/full-day-charters/",
+      "bytes": 11858
+    },
+    {
+      "page": "https://www.capnschartersnewcastle.com.au/kids-fishing-charter/",
+      "status": 200,
+      "final_url": "https://www.capnschartersnewcastle.com.au/kids-fishing-charter/",
+      "bytes": 11861
+    },
+    {
+      "page": "https://www.capnschartersnewcastle.com.au/about-us/",
+      "status": 200,
+      "final_url": "https://www.capnschartersnewcastle.com.au/about-us/",
+      "bytes": 11849
+    },
+    {
+      "page": "https://www.poyst.com/business/capns-charters-newcastle",
+      "status": 200,
+      "final_url": "https://www.poyst.com/business/capns-charters-newcastle",
+      "bytes": 333825
+    },
+    {
+      "page": "https://www.poyst.com/business/au/new-south-wales/tomago/fishing",
+      "status": 200,
+      "final_url": "https://www.poyst.com/business/au/new-south-wales/tomago/fishing",
+      "bytes": 171831
+    },
+    {
+      "page": "https://www.poyst.com/about",
+      "status": 200,
+      "final_url": "https://www.poyst.com/about",
+      "bytes": 217429
+    },
+    {
+      "page": "https://www.poyst.com/pricing",
+      "status": 200,
+      "final_url": "https://www.poyst.com/pricing",
+      "bytes": 187202
+    },
+    {
+      "page": "https://www.poyst.com/contact",
+      "status": 200,
+      "final_url": "https://www.poyst.com/support",
+      "bytes": 153783
+    }
+  ]
+}

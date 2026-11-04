@@ -1,0 +1,20 @@
+{
+  "slug": "r4-lead-reel-fishn",
+  "request_hash": "37ee1d07eb58",
+  "collected_at": "2026-11-04T03:57:42.724Z",
+  "pages_fetched": [
+    "https://www.reelfishn.com.au/",
+    "https://reelfishn.com.au/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.reelfishn.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://reelfishn.com.au/",
+      "error": "fetch failed"
+    }
+  ]
+}

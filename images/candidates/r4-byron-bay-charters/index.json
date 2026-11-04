@@ -1,0 +1,38 @@
+{
+  "slug": "r4-byron-bay-charters",
+  "request_hash": "4dd9bb001fb7",
+  "collected_at": "2026-11-04T03:51:41.204Z",
+  "pages_fetched": [
+    "https://byronbaycharters.com.au/",
+    "https://byronbaycharters.com.au/about/",
+    "https://byronbaycharters.com.au/pricelist/",
+    "https://byronbaycharters.com.au/fishing-charters/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://byronbaycharters.com.au/",
+      "status": 200,
+      "final_url": "https://byronbaycharters.com.au/",
+      "bytes": 12019
+    },
+    {
+      "page": "https://byronbaycharters.com.au/about/",
+      "status": 200,
+      "final_url": "https://byronbaycharters.com.au/about/",
+      "bytes": 12045
+    },
+    {
+      "page": "https://byronbaycharters.com.au/pricelist/",
+      "status": 200,
+      "final_url": "https://byronbaycharters.com.au/pricelist/",
+      "bytes": 12049
+    },
+    {
+      "page": "https://byronbaycharters.com.au/fishing-charters/",
+      "status": 200,
+      "final_url": "https://byronbaycharters.com.au/fishing-charters/",
+      "bytes": 12007
+    }
+  ]
+}

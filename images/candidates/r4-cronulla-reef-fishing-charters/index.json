@@ -1,0 +1,80 @@
+{
+  "slug": "r4-cronulla-reef-fishing-charters",
+  "request_hash": "2813195287b4",
+  "collected_at": "2026-11-04T03:55:35.419Z",
+  "pages_fetched": [
+    "https://cronullareeffishingcharters.com/",
+    "https://cronullareeffishingcharters.com/vessel-prored/",
+    "https://cronullareeffishingcharters.com/pricing/",
+    "https://cronullareeffishingcharters.com/about-us/",
+    "https://cronullareeffishingcharters.com/history/",
+    "https://cronullareeffishingcharters.com/reviews/",
+    "https://cronullareeffishingcharters.com/area-covered/",
+    "https://cronullareeffishingcharters.com/fishing-report/",
+    "https://cronullareeffishingcharters.com/faq/",
+    "https://cronullareeffishingcharters.com/gallery/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://cronullareeffishingcharters.com/",
+      "status": 200,
+      "final_url": "https://cronullareeffishingcharters.com/",
+      "bytes": 117851
+    },
+    {
+      "page": "https://cronullareeffishingcharters.com/vessel-prored/",
+      "status": 200,
+      "final_url": "https://cronullareeffishingcharters.com/vessel-prored/",
+      "bytes": 114750
+    },
+    {
+      "page": "https://cronullareeffishingcharters.com/pricing/",
+      "status": 200,
+      "final_url": "https://cronullareeffishingcharters.com/pricing/",
+      "bytes": 88711
+    },
+    {
+      "page": "https://cronullareeffishingcharters.com/about-us/",
+      "status": 200,
+      "final_url": "https://cronullareeffishingcharters.com/about-us/",
+      "bytes": 85536
+    },
+    {
+      "page": "https://cronullareeffishingcharters.com/history/",
+      "status": 200,
+      "final_url": "https://cronullareeffishingcharters.com/history/",
+      "bytes": 105303
+    },
+    {
+      "page": "https://cronullareeffishingcharters.com/reviews/",
+      "status": 200,
+      "final_url": "https://cronullareeffishingcharters.com/reviews/",
+      "bytes": 108790
+    },
+    {
+      "page": "https://cronullareeffishingcharters.com/area-covered/",
+      "status": 200,
+      "final_url": "https://cronullareeffishingcharters.com/area-covered/",
+      "bytes": 88118
+    },
+    {
+      "page": "https://cronullareeffishingcharters.com/fishing-report/",
+      "status": 200,
+      "final_url": "https://cronullareeffishingcharters.com/fishing-report/",
+      "bytes": 78250
+    },
+    {
+      "page": "https://cronullareeffishingcharters.com/faq/",
+      "status": 200,
+      "final_url": "https://cronullareeffishingcharters.com/faq/",
+      "bytes": 81744
+    },
+    {
+      "page": "https://cronullareeffishingcharters.com/gallery/",
+      "status": 200,
+      "final_url": "https://cronullareeffishingcharters.com/gallery/",
+      "bytes": 90693
+    }
+  ]
+}
