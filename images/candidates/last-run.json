@@ -1,5 +1,5 @@
 {
-  "finished_at": "2026-11-04T03:52:35.176Z",
+  "finished_at": "2026-11-04T03:58:37.246Z",
   "summary": [
     {
       "slug": "hooked-on-1770-agnes-water",
@@ -125,6 +125,31 @@
       "slug": "kanimbla-charters-yeppoon",
       "candidates": 0,
       "pages": 9
+    },
+    {
+      "slug": "hooked-on-1770-agnes-water",
+      "candidates": 0,
+      "pages": 12
+    },
+    {
+      "slug": "hervey-bay-fly-and-sportfishing",
+      "candidates": 0,
+      "pages": 3
+    },
+    {
+      "slug": "fishing-offshore-1770",
+      "candidates": 0,
+      "pages": 2
+    },
+    {
+      "slug": "mv-mikat-charters-gladstone",
+      "candidates": 0,
+      "pages": 2
+    },
+    {
+      "slug": "night-crossing-fishing-adventures-gladstone",
+      "candidates": 0,
+      "pages": 3
     }
   ]
 }

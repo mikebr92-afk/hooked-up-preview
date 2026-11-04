@@ -1,7 +1,7 @@
 {
   "slug": "rainbow-beach-fishing-charters",
   "request_hash": "d7e7cd593ef2",
-  "collected_at": "2026-11-04T03:52:27.840Z",
+  "collected_at": "2026-11-04T03:58:08.804Z",
   "pages_fetched": [
     "https://www.rainbowbeachfishing.com/",
     "https://www.rainbowbeachfishing.com/cart",
@@ -26,7 +26,7 @@
       "page": "https://www.rainbowbeachfishing.com/cart",
       "status": 200,
       "final_url": "https://www.rainbowbeachfishing.com/cart",
-      "bytes": 215893
+      "bytes": 340363
     },
     {
       "page": "https://www.rainbowbeachfishing.com/about",

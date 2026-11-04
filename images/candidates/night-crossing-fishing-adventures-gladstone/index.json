@@ -1,20 +1,14 @@
 {
   "slug": "night-crossing-fishing-adventures-gladstone",
-  "request_hash": "f6bbc328bc23",
-  "collected_at": "2026-11-04T03:50:43.591Z",
+  "request_hash": "6c1ff26e0721",
+  "collected_at": "2026-11-04T03:58:37.246Z",
   "pages_fetched": [
-    "https://nightcrossing.com.au/",
     "https://nightcrossing.com.au/fishing-trips/",
-    "https://nightcrossing.com.au/gallery/"
+    "https://nightcrossing.com.au/testimonials/",
+    "https://nightcrossing.com.au/articles/"
   ],
   "candidates": [],
   "log": [
-    {
-      "page": "https://nightcrossing.com.au/",
-      "status": 200,
-      "final_url": "https://nightcrossing.com.au/",
-      "bytes": 47570
-    },
     {
       "page": "https://nightcrossing.com.au/fishing-trips/",
       "status": 200,
@@ -22,10 +16,16 @@
       "bytes": 47962
     },
     {
-      "page": "https://nightcrossing.com.au/gallery/",
+      "page": "https://nightcrossing.com.au/testimonials/",
+      "status": 404,
+      "final_url": "https://nightcrossing.com.au/testimonials/",
+      "bytes": 44230
+    },
+    {
+      "page": "https://nightcrossing.com.au/articles/",
       "status": 200,
-      "final_url": "https://nightcrossing.com.au/gallery/",
-      "bytes": 47545
+      "final_url": "https://nightcrossing.com.au/articles/",
+      "bytes": 53422
     }
   ]
 }

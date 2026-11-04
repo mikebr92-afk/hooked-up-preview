@@ -1,0 +1,24 @@
+{
+  "slug": "fishing-offshore-1770",
+  "request_hash": "e826aa9af6c7",
+  "collected_at": "2026-11-04T03:58:33.973Z",
+  "pages_fetched": [
+    "https://qica.com.au/tours/town-of-1770-agnes-water/fishing-offshore-1770",
+    "https://www.qica.com.au/accommodation/fishing-offshore-1770"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://qica.com.au/tours/town-of-1770-agnes-water/fishing-offshore-1770",
+      "status": 200,
+      "final_url": "https://www.qica.com.au/tours/town-of-1770-agnes-water/fishing-offshore-1770",
+      "bytes": 37666
+    },
+    {
+      "page": "https://www.qica.com.au/accommodation/fishing-offshore-1770",
+      "status": 200,
+      "final_url": "https://www.qica.com.au/accommodation/fishing-offshore-1770",
+      "bytes": 37649
+    }
+  ]
+}

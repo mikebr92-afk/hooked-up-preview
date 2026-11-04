@@ -1,7 +1,7 @@
 {
   "slug": "frenzy-charters-brisbane",
   "request_hash": "fab7547b11d9",
-  "collected_at": "2026-11-04T03:50:16.940Z",
+  "collected_at": "2026-11-04T03:56:26.309Z",
   "pages_fetched": [
     "https://www.frenzycharters.com.au/",
     "https://www.frenzycharters.com.au/site_map",
@@ -27,13 +27,13 @@
       "page": "https://www.frenzycharters.com.au/site_map",
       "status": 200,
       "final_url": "https://www.frenzycharters.com.au/site_map",
-      "bytes": 17084
+      "bytes": 17011
     },
     {
       "page": "https://www.frenzycharters.com.au/contact_us",
       "status": 200,
       "final_url": "https://www.frenzycharters.com.au/contact_us",
-      "bytes": 25453
+      "bytes": 25380
     },
     {
       "page": "https://www.frenzycharters.com.au/home",
@@ -75,7 +75,7 @@
       "page": "https://www.frenzycharters.com.au/links",
       "status": 200,
       "final_url": "https://www.frenzycharters.com.au/links",
-      "bytes": 24000
+      "bytes": 23927
     },
     {
       "page": "https://www.frenzycharters.com.au/calendar",
