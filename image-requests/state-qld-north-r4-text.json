@@ -1,0 +1,258 @@
+{
+ "requests": [
+  {
+   "slug": "r4n-cairns-reef-fishing",
+   "pages": [
+    "https://www.cairnsreeffishing.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r4n-cairns-sportfishing",
+   "pages": [
+    "https://www.cairnssportfishing.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r4n-fish-tales-charters-cairns",
+   "pages": [
+    "https://fishtales.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r4n-fnq-fishing-adventures-cairns",
+   "pages": [
+    "https://www.fnqfishingadventures.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r4n-tropic-barra-adventures-cairns",
+   "pages": [
+    "https://www.tropicbarraadventures.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r4n-tropical-sportfisher-cairns",
+   "pages": [
+    "https://www.tropicalsportfisher.com/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r4n-daintree-river-fishing-david-patterson",
+   "pages": [
+    "https://daintreefishing.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r4n-sublime-sportfishing-adventures",
+   "pages": [
+    "https://www.sublimesportfishing.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r4n-ian-moody-sportfishing-charters",
+   "pages": [
+    "https://www.facebook.com/Ian-Moody-Sportfishing-Charters-1906230329651429/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r4n-carpentaria-barra-sport-fishing-charters",
+   "pages": [
+    "https://www.carpentariabarra.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r4n-kerry-d-fishing-charters-karumba",
+   "pages": [
+    "https://kerrydfishing.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r4n-crackajack-sportfishing-adventures",
+   "pages": [
+    "https://crackfish.com/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r4n-full-on-fishn-charters",
+   "pages": [
+    "https://fullonfishn.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r4n-cast-and-catch-fishing-charters",
+   "pages": [
+    "https://castandcatch.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r4n-mackay-fly-sportfishing",
+   "pages": [
+    "https://www.mackaysportfishing.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r4n-akula-sportfishing-port-douglas",
+   "pages": [
+    "https://akulasportfishing.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r4n-norseman-reef-fishing-port-douglas",
+   "pages": [
+    "https://mvnorseman.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r4n-out-n-about-sportfishing-port-douglas",
+   "pages": [
+    "https://www.outnaboutfishing.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r4n-audacity-charters-townsville",
+   "pages": [
+    "https://audacitymarine.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r4n-magnetic-island-fishing-charters",
+   "pages": [
+    "https://www.magneticislandfishingcharters.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r4n-far-north-fishing-weipa",
+   "pages": [
+    "https://www.farnorthfishingweipa.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r4n-fishs-fly-sportfishing-weipa",
+   "pages": [
+    "https://www.weipaflyfish.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r4n-airlie-beach-fishing-charters",
+   "pages": [
+    "https://airliebeachfishingcharters.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r4n-razorfish-whitsundays-fishing-charters",
+   "pages": [
+    "https://www.razorfishcharters.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r4n-topnotch-game-fishing-hamilton-island",
+   "pages": [
+    "https://www.topnotchgamefishing.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r4n-whitsunday-fishing-charters",
+   "pages": [
+    "https://www.whitsundayfishingcharters.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r4n-flux-fly-fishing",
+   "pages": [
+    "https://fluxflyfishing.com/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r4n-rules-qld",
+   "pages": [
+    "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/rules/closed-seasons",
+    "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/rules/limits-tidal",
+    "https://www2.gbrmpa.gov.au/access/environmental-management-charge"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  }
+ ]
+}
