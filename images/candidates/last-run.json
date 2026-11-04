@@ -1,5 +1,5 @@
 {
-  "finished_at": "2026-11-04T03:59:07.949Z",
+  "finished_at": "2026-11-04T04:01:01.823Z",
   "summary": [
     {
       "slug": "southern-fly-fishing-adventures",
@@ -43,18 +43,20 @@
     },
     {
       "slug": "goulburn-valley-fly-fishing-centre",
-      "candidates": 6,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "indulgence-flyfishing-2",
-      "candidates": 8,
-      "pages": 12
+      "skipped": true
     },
     {
       "slug": "vic-r4-visitnsw-murray",
+      "skipped": true
+    },
+    {
+      "slug": "vic-r4-gipps-disc2",
       "candidates": 0,
-      "pages": 4
+      "pages": 5
     }
   ]
 }

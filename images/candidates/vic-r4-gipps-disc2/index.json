@@ -1,0 +1,45 @@
+{
+  "slug": "vic-r4-gipps-disc2",
+  "request_hash": "2a3461fd16fb",
+  "collected_at": "2026-11-04T04:01:01.822Z",
+  "pages_fetched": [
+    "https://www.visiteastgippsland.com.au/operator_category/cswtours/",
+    "https://www.visiteastgippsland.com.au/operator_category/antours",
+    "https://lakesentrance.com/cruises/fishing-charter/item/mako-fishing-charters",
+    "https://lakesentrance.com/cruises/fishing-charter",
+    "https://melbourneplaygrounds.com.au/lake-tyers-charters"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.visiteastgippsland.com.au/operator_category/cswtours/",
+      "status": 200,
+      "final_url": "https://www.visiteastgippsland.com.au/operator_category/cswtours/",
+      "bytes": 268828
+    },
+    {
+      "page": "https://www.visiteastgippsland.com.au/operator_category/antours",
+      "status": 200,
+      "final_url": "https://www.visiteastgippsland.com.au/operator_category/antours/",
+      "bytes": 268790
+    },
+    {
+      "page": "https://lakesentrance.com/cruises/fishing-charter/item/mako-fishing-charters",
+      "status": 200,
+      "final_url": "https://lakesentrance.com/cruises/fishing-charter/item/mako-fishing-charters",
+      "bytes": 34835
+    },
+    {
+      "page": "https://lakesentrance.com/cruises/fishing-charter",
+      "status": 200,
+      "final_url": "https://lakesentrance.com/cruises/fishing-charter",
+      "bytes": 29075
+    },
+    {
+      "page": "https://melbourneplaygrounds.com.au/lake-tyers-charters",
+      "status": 200,
+      "final_url": "https://www.melbourneplaygrounds.com.au/lake-tyers-charters",
+      "bytes": 48607
+    }
+  ]
+}
