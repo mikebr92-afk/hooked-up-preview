@@ -1,0 +1,65 @@
+{
+ "requests": [
+  {
+   "slug": "r4-lead-reel-fishn",
+   "pages": [
+    "https://www.reelfishn.com.au/",
+    "https://reelfishn.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "r4-lead-northern-rivers-sportfishing",
+   "pages": [
+    "https://northernriverssportfishing.com.au/trip-reports-blog/",
+    "https://northernriverssportfishing.com.au/locations/",
+    "https://northernriverssportfishing.com.au/northern-rivers-fishing-charter/",
+    "https://northernriverssportfishing.com.au/bookings/",
+    "https://northernriverssportfishing.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "r4-lead-solitary-island",
+   "pages": [
+    "https://www.solitaryislandfishingcharters.com.au/",
+    "https://solitaryislandfishingcharters.com.au/",
+    "https://reflectionsholidays.com.au/parks/corindi-beach/attractions/solitary-island-fishing-charters/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "r4-disc-coffs",
+   "pages": [
+    "https://www.coffscoast.com.au/article/fishing-on-the-coffs-coast/",
+    "https://www.coffscoast.com.au/?s=fishing+charter",
+    "https://www.visitnsw.com/destinations/north-coast/coffs-coast/coffs-harbour-area/coffs-harbour/attractions"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false,
+   "force": true
+  },
+  {
+   "slug": "r4-disc-tweed",
+   "pages": [
+    "https://www.visitthetweed.com.au/things-to-do/fishing",
+    "https://www.visitthetweed.com.au/?s=fishing",
+    "https://www.visitthetweed.com.au/listing/cushy-fishing-charters"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false,
+   "force": true
+  }
+ ]
+}

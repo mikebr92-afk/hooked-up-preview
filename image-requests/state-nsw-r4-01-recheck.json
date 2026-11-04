@@ -1,0 +1,596 @@
+{
+ "requests": [
+  {
+   "slug": "r4-byron-bay-charters",
+   "pages": [
+    "https://byronbaycharters.com.au/",
+    "https://byronbaycharters.com.au/about/",
+    "https://byronbaycharters.com.au/pricelist/",
+    "https://byronbaycharters.com.au/fishing-charters/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "r4-evans-head-deep-sea-fishing-charters",
+   "pages": [
+    "https://www.evansheadfishingcharters.com.au/",
+    "https://www.evansheadfishingcharters.com.au/about-us/",
+    "https://www.evansheadfishingcharters.com.au/fishing-charter-prices/",
+    "https://www.visitnsw.com/things-to-do/tours/evans-head-deep-sea-fishing-charters"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "r4-central-coast-reef-and-game-fishing-charters",
+   "pages": [
+    "http://www.reefandgamefishing.com/",
+    "http://www.reefandgamefishing.com/about.html",
+    "http://www.reefandgamefishing.com/info.html",
+    "http://www.reefandgamefishing.com/fishing.html"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "r4-terrigal-fishing-tours",
+   "pages": [
+    "https://terrigalfishingtours.com.au/",
+    "https://terrigalfishingtours.com.au/fishing-charters-sydney/",
+    "https://terrigalfishingtours.com.au/fishing-charter-tour-information/",
+    "https://terrigalfishingtours.com.au/about/",
+    "https://terrigalfishingtours.com.au/fishing-charter-gift-vouchers/",
+    "https://www.visitnsw.com/things-to-do/tours/terrigal-fishing-tours"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "r4-coffs-harbour-fishing-charters",
+   "pages": [
+    "https://coffsharbourfishing.com.au/",
+    "https://coffsharbourfishing.com.au/about-us/",
+    "https://coffsharbourfishing.com.au/our-boats/",
+    "https://www.coffscoast.com.au/article/fishing-on-the-coffs-coast/",
+    "https://coffsharbourfishing.com.au/charters/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "r4-sea-buoys-ocean-charters",
+   "pages": [
+    "https://seabuoys.com.au/",
+    "https://seabuoys.com.au/offshore-fishing/",
+    "https://seabuoys.com.au/day-fishing-lord-howe-island/",
+    "https://seabuoys.com.au/about/",
+    "https://seabuoys.com.au/faqs/",
+    "https://lordhoweisland.info/experiences/tours/sea-buoys-ocean-charters/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "r4-sea-to-summit-lord-howe-fishing",
+   "pages": [
+    "https://www.lordhoweislandtours.net/charter-fishing",
+    "https://www.lordhoweislandtours.net/",
+    "https://lordhoweisland.info/experiences/fishing/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "r4-capns-charters-newcastle",
+   "pages": [
+    "https://www.capnschartersnewcastle.com.au/",
+    "https://www.capnschartersnewcastle.com.au/bookings/",
+    "https://www.capnschartersnewcastle.com.au/one-on-one-charters/",
+    "https://www.capnschartersnewcastle.com.au/half-day-charters/",
+    "https://www.capnschartersnewcastle.com.au/full-day-charters/",
+    "https://www.capnschartersnewcastle.com.au/kids-fishing-charter/",
+    "https://www.capnschartersnewcastle.com.au/about-us/",
+    "https://www.poyst.com/business/capns-charters-newcastle"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "r4-day-trippin-charters",
+   "pages": [
+    "https://day-trippin-charters.squarespace.com/",
+    "https://day-trippin-charters.squarespace.com/the-boat",
+    "https://day-trippin-charters.squarespace.com/faqs",
+    "https://day-trippin-charters.squarespace.com/half-day-fishing",
+    "https://day-trippin-charters.squarespace.com/full-day-fishing",
+    "https://day-trippin-charters.squarespace.com/the-fish"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "r4-castaway-estuary-fishing-charters",
+   "pages": [
+    "https://www.castawayfishing.com.au/",
+    "https://www.castawayfishing.com.au/the-guide",
+    "https://www.castawayfishing.com.au/the-vessel",
+    "https://www.castawayfishing.com.au/target-species",
+    "https://www.castawayfishing.com.au/faq",
+    "https://www.castawayfishing.com.au/castaway-guided-estuary-sportfishing",
+    "https://www.visitnsw.com/things-to-do/tours/castaway-estuary-fishing-charters"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "r4-port-macquarie-fishing-charters",
+   "pages": [
+    "https://www.portmacquariefishingcharters.com.au/",
+    "https://www.portmacquariefishingcharters.com.au/port-macquarie-deep-sea-fishing-charter-boats-port-macquarie/",
+    "https://www.portmacquariefishingcharters.com.au/the-crew-on-port-macquarie-fishing-charters-ocean-star/",
+    "https://www.portmacquariefishingcharters.com.au/port-macquarie-fishing-on-ocean-star-contact/",
+    "https://www.portmacquarieinfo.com.au/products/port-macquarie-fishing-charters"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "r4-calypso-fishing-adventures",
+   "pages": [
+    "https://www.marlinfishingaustralia.com.au/",
+    "https://www.marlinfishingaustralia.com.au/meet-calypso/",
+    "https://www.marlinfishingaustralia.com.au/capt-tim-dean/",
+    "https://www.marlinfishingaustralia.com.au/marlin-fishing-port-stephens/",
+    "https://www.visitnsw.com/things-to-do/tours/calypso-fishing-adventures"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "r4-fish-port-stephens-estuary-charters",
+   "pages": [
+    "https://fishportstephensestuarycharters.com/",
+    "https://fishportstephensestuarycharters.com/new/",
+    "https://fishportstephensestuarycharters.com/the-boat/",
+    "https://www.portstephens.org.au/see-and-do/fish-port-stephens-estuary-charters/overview"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "r4-hammerhead-charters-nelson-bay",
+   "pages": [
+    "https://hammerheadcharters.com.au/",
+    "https://hammerheadcharters.com.au/reef-fishing/",
+    "https://hammerheadcharters.com.au/estuary-fishing/",
+    "https://hammerheadcharters.com.au/gametournament-charter/",
+    "https://hammerheadcharters.com.au/contact-us/",
+    "https://hammerheadcharters.com.au/news-feed/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "r4-pacific-blue-fishing-charters-nelson-bay",
+   "pages": [
+    "https://pacificbluecharters.com.au/",
+    "https://pacificbluecharters.com.au/services/",
+    "https://pacificbluecharters.com.au/contact/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "r4-reel-contagious-charters-port-stephens",
+   "pages": [
+    "https://www.reelcontagiouscharters.com.au/",
+    "https://www.reelcontagiouscharters.com.au/charters/",
+    "https://www.reelcontagiouscharters.com.au/contact-us/",
+    "https://www.portstephensfishingcharters.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "r4-south-west-rocks-fishing-charters",
+   "pages": [
+    "https://www.southwestrocksfishcharters.com.au/",
+    "https://www.southwestrocksfishcharters.com.au/packages/",
+    "https://www.southwestrocksfishcharters.com.au/questions-and-answers/",
+    "https://www.southwestrocksfishcharters.com.au/contact/",
+    "https://www.visitnsw.com/things-to-do/tours/south-west-rocks-fishing-charters"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "r4-wildside-sportfishing",
+   "pages": [
+    "https://www.wildsidesportfishing.com/",
+    "https://www.wildsidesportfishing.com/about/",
+    "https://www.wildsidesportfishing.com/fishing-charters-tours/",
+    "https://www.wildsidesportfishing.com/offshore-fishing-charters-south-west-rocks/",
+    "https://www.wildsidesportfishing.com/game-fishing/",
+    "https://www.wildsidesportfishing.com/fishing-charters-tours/frequently-asked-questions-about-wildside-sportfishing/",
+    "https://macleayvalleycoast.com.au/tours/wildside-sportfishing/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "r4-cushy-fishing-charters",
+   "pages": [
+    "https://cushyfishingcharters.com.au/",
+    "https://cushyfishingcharters.com.au/fishing-charters/",
+    "https://cushyfishingcharters.com.au/our-boat/",
+    "https://cushyfishingcharters.com.au/contact-us/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "r4-go-fish-yamba-charters",
+   "pages": [
+    "https://www.gofishyamba.com.au/",
+    "https://www.gofishyamba.com.au/about",
+    "https://www.gofishyamba.com.au/our-team",
+    "https://www.gofishyamba.com.au/trip-pricings",
+    "https://www.gofishyamba.com.au/faqs",
+    "https://www.visitnsw.com/things-to-do/tours/go-fish-yamba-charters/individual-go-fish-yamba-charter"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "r4-yamba-fishing-and-charters",
+   "pages": [
+    "https://www.yambafishingandcharters.com.au/",
+    "https://www.yambafishingandcharters.com.au/faq",
+    "https://www.yambafishingandcharters.com.au/book-online",
+    "https://www.yambafishingandcharters.com.au/what-do-i-need-to-bring",
+    "https://www.visitnsw.com/things-to-do/tours/yamba-fishing-and-charters"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "r4-fishbermi-charters",
+   "pages": [
+    "https://www.fishbermicharters.com.au/",
+    "https://www.fishbermicharters.com.au/fishing-charters/",
+    "https://www.fishbermicharters.com.au/exclusive-charters/",
+    "https://www.fishbermicharters.com.au/contact/",
+    "https://www.visitnsw.com/things-to-do/tours/fishbermi-bermagui-fishing-charters"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "r4-game-on-charters-batemans-bay",
+   "pages": [
+    "https://gameoncharters.net.au/",
+    "https://gameoncharters.net.au/charters/",
+    "https://gameoncharters.net.au/about-us/",
+    "https://gameoncharters.net.au/fishing-charters-batemans-bay-whale-watching-batemans-bay/",
+    "https://www.visitnsw.com/things-to-do/tours/game-charters-batemans-bay",
+    "https://gameoncharters.net.au/reef-fishing/",
+    "https://gameoncharters.net.au/game-fishing/",
+    "https://gameoncharters.net.au/deep-drop-fishing/",
+    "https://gameoncharters.net.au/charter-info/",
+    "https://gameoncharters.net.au/policies/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "r4-freedom-charters-eden",
+   "pages": [
+    "https://freedomcharters.com.au/",
+    "https://freedomcharters.com.au/about.html",
+    "https://freedomcharters.com.au/prices.html",
+    "https://freedomcharters.com.au/reef-fishing.html",
+    "https://freedomcharters.com.au/sports-fishing.html",
+    "https://freedomcharters.com.au/game-fishing.html",
+    "https://www.visiteden.com.au/experience/fishing/",
+    "https://www.escapetomerimbula.com.au/fishing-boating"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "r4-escape-fishing-charters-greenwell-point",
+   "pages": [
+    "https://www.escapefishingcharters.com.au/",
+    "https://www.escapefishingcharters.com.au/about.html",
+    "https://www.escapefishingcharters.com.au/services.html"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "r4-jervis-bay-fishing-charters-huskisson",
+   "pages": [
+    "https://jbfishingcharters.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "r4-fishpen-charters-merimbula",
+   "pages": [
+    "https://fishpen-charters.squarespace.com/",
+    "https://fishpen-charters.squarespace.com/our-boat",
+    "https://fishpen-charters.squarespace.com/contact",
+    "https://fishpen-charters.squarespace.com/fishpen-charters-more-info"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "r4-sapphire-coastal-adventures-merimbula",
+   "pages": [
+    "https://www.sapphirecoastaladventures.com.au/",
+    "https://www.sapphirecoastaladventures.com.au/fishing-charters",
+    "https://www.sapphirecoastaladventures.com.au/merimbula-fishing-charter",
+    "https://www.sapphirecoastaladventures.com.au/about",
+    "https://www.sapphirecoastaladventures.com.au/faqs",
+    "https://www.sapphirecoastaladventures.com.au/booking-terms-and-conditions",
+    "https://www.escapetomerimbula.com.au/sapphire-coastal-adventures",
+    "https://www.escapetomerimbula.com.au/fishing-boating"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "r4-narooma-charters",
+   "pages": [
+    "https://naroomacharters.com.au/",
+    "https://naroomacharters.com.au/narooma-fishing-charters",
+    "https://naroomacharters.com.au/about-us.html",
+    "https://www.visitnsw.com/things-to-do/tours/narooma-charters-and-barunguba-montague-island-tours"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "r4-ambition-charters-sydney",
+   "pages": [
+    "https://ambitioncharters.com.au/",
+    "https://ambitioncharters.com.au/fishing/",
+    "https://ambitioncharters.com.au/game-fishing-charter-sydney/",
+    "https://ambitioncharters.com.au/pricing/",
+    "https://ambitioncharters.com.au/category/fishing-reports/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "r4-blue-reef-fishing-charters-sydney",
+   "pages": [
+    "https://www.bluereefcharters.info/",
+    "https://www.bluereefcharters.info/about-us.html",
+    "https://www.bluereefcharters.info/general-boat-info.html",
+    "https://www.bluereefcharters.info/fishing-charters/reef-fishing-trips.html",
+    "https://www.bluereefcharters.info/fishing-charters/sports-fishing-trips.html",
+    "https://www.bluereefcharters.info/contact.html"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "r4-cronulla-reef-fishing-charters",
+   "pages": [
+    "https://cronullareeffishingcharters.com/",
+    "https://cronullareeffishingcharters.com/vessel-prored/",
+    "https://cronullareeffishingcharters.com/pricing/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "r4-deep-blue-charters-sydney",
+   "pages": [
+    "https://deepbluecharters.com.au/",
+    "https://deepbluecharters.com.au/our-boats/",
+    "https://deepbluecharters.com.au/fishing-charters/",
+    "https://deepbluecharters.com.au/wharfs/",
+    "https://deepbluecharters.com.au/faq/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "r4-fishabout-tours-sydney",
+   "pages": [
+    "https://www.fishaboutsydney.com.au/",
+    "https://www.fishaboutsydney.com.au/about-craig-mcgill/",
+    "https://www.fishaboutsydney.com.au/pick-up-points/",
+    "https://fishabout.com.au/sydney/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "r4-reel-adventure-fishing-sydney",
+   "pages": [
+    "https://www.sydney.com/things-to-do/tours/reel-adventure-fishing",
+    "https://www.fishsydney.com.au/",
+    "https://www.fishsydney.com.au/sydney-fishing-charters"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "r4-sydney-charter-fishing-manly",
+   "pages": [
+    "https://sydneycharterfishing.com.au/",
+    "https://sydneycharterfishing.com.au/about/",
+    "https://sydneycharterfishing.com.au/boat-info/",
+    "https://sydneycharterfishing.com.au/charters/reef-fishing-trips/",
+    "https://sydneycharterfishing.com.au/charters/sports-fishing-trips/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "r4-sydney-fly-fishing",
+   "pages": [
+    "https://www.sydneyflyfishing.com.au/",
+    "https://www.sydneyflyfishing.com.au/tours-pricing",
+    "https://www.sydneyflyfishing.com.au/your-guide",
+    "https://www.sydneyflyfishing.com.au/about-2",
+    "https://www.sydneyflyfishing.com.au/contact-us"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "r4-sydney-premium-charters-cronulla",
+   "pages": [
+    "https://www.sydneypremiumcharters.com.au/",
+    "https://www.sydneypremiumcharters.com.au/boats/",
+    "https://www.sydneypremiumcharters.com.au/shared-sydney-fishing-charters/",
+    "https://www.sydneypremiumcharters.com.au/fishing-trips-sydney-4hrs/",
+    "https://www.sydneypremiumcharters.com.au/private-fishing-charter-sydney-5hrs/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "r4-wahoo-fishing-charters-sydney",
+   "pages": [
+    "https://wahoocharters.com.au/",
+    "https://wahoocharters.com.au/price-list/",
+    "https://wahoocharters.com.au/pickup-locations/",
+    "https://wahoocharters.com.au/about/",
+    "https://wahoocharters.com.au/faqs/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "r4-aquilla-fishing-charters-wollongong",
+   "pages": [
+    "https://www.aquillacharters.com.au/",
+    "https://www.aquillacharters.com.au/per-person-charters",
+    "https://www.aquillacharters.com.au/whole-boat-charters",
+    "https://www.aquillacharters.com.au/our-vessel",
+    "https://www.aquillacharters.com.au/welcome-aboard",
+    "https://www.aquillacharters.com.au/faq",
+    "https://www.visitwollongong.com.au/operators/transport-and-tours/tour/aquilla-fishing-charters/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "r4-five-island-charters-wollongong",
+   "pages": [
+    "https://www.fiveislandcharters.com.au/",
+    "https://www.fiveislandcharters.com.au/vessel/",
+    "https://www.fiveislandcharters.com.au/pricing/",
+    "https://www.fiveislandcharters.com.au/contact/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  },
+  {
+   "slug": "r4-kiama-charter-service",
+   "pages": [
+    "https://kiamafishing.com.au/",
+    "https://kiamafishing.com.au/reef-fishing/",
+    "https://kiamafishing.com.au/deep-sea-fishing/",
+    "https://kiamafishing.com.au/faq/",
+    "https://kiamafishing.com.au/finding-us/",
+    "https://kiamafishing.com.au/availability/",
+    "https://www.visitnsw.com/things-to-do/tours/kiama-charter-service"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true,
+   "force": true
+  }
+ ]
+}
