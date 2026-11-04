@@ -293,7 +293,7 @@ function cardList(cards) {
 function locationChips(cards) {
   const chip = (k, label) => `<li><a href="/fishing-charters/${k}">${esc(label)}</a></li>`;
   const groups = STATE_KEYS.filter(live).map((sk) => `<h3><a href="/fishing-charters/${sk}">${esc(LOCS[sk].n)} fishing charters</a></h3>`
-    + `<ul class="ssr-chips">${SEO.childLocs(cards, sk).map((k) => chip(k, LOCS[k].short + ' Fishing Charters')).join('')}</ul>`).join('');
+    + `<ul class="ssr-chips">${[...SEO.regionLocs(cards, sk), ...SEO.childLocs(cards, sk)].map((k) => chip(k, LOCS[k].short + ' Fishing Charters')).join('')}</ul>`).join('');
   return `<h2>Browse fishing charters by location</h2>${groups}
 <h2>Browse by species</h2><ul class="ssr-chips">${SPECIES_KEYS.filter(live).map((k) => chip(k, LOCS[k].h1)).join('')}</ul>`;
 }
@@ -312,6 +312,7 @@ function renderHome(cards) {
 <h3>1. Tell us where &amp; what</h3><p>Pick a region, a species you're chasing, or just browse. We feature licensed operators based on quality and reviews — not who pays us most.</p>
 <h3>2. Compare honestly</h3><p>Boat specs, target species by season, and what each operator actually offers.</p>
 <h3>3. Book &amp; go fish</h3><p>Send your enquiry — operators typically respond within hours. Confirm directly with the operator and lock in your trip.</p>
+${(() => { const g = SEO.homeGuide(cards); return `<section><h2>${esc(g.h)}</h2>${g.paras.map((x) => `<p>${esc(x)}</p>`).join('')}<h2>Frequently asked questions</h2>${g.faq.map(([q, a]) => `<h3>${esc(q)}</h3><p>${esc(a)}</p>`).join('')}</section>`; })()}
 </main>`,
     { over: true },
   );
@@ -340,7 +341,7 @@ function renderLocation(key, L, items, cards) {
   return page(`<main class="ssr-main">${crumbsHtml(SEO.locTrail(key, L))}
 <h1>${esc(SEO.locH1(L))}</h1>
 <p>Compare ${items.length} fishing ${items.length === 1 ? 'charter' : 'charters'} ${esc(L.in)}. Browse trips, target species and prices — then enquire direct with the operator.</p>
-${L.st && SEO.childLocs(cards, key).length ? `<h2>Fishing destinations in ${esc(L.n)}</h2><ul class="ssr-chips">${SEO.childLocs(cards, key).map((k) => `<li><a href="/fishing-charters/${k}">${esc(LOCS[k].n)} (${SEO.locItems(cards, LOCS[k]).length})</a></li>`).join('')}</ul>` : ''}
+${SEO.subLocGroups(cards, key).map(([h, ks]) => `<h2>${esc(h)}</h2><ul class="ssr-chips">${ks.map((k) => `<li><a href="/fishing-charters/${k}">${esc(LOCS[k].n)} (${SEO.locItems(cards, LOCS[k]).length})</a></li>`).join('')}</ul>`).join('')}
 ${cardList(items)}
 <section><h2>${esc(g.heading)}</h2>${g.paras.map((p) => `<p>${esc(p)}</p>`).join('')}
 ${sectionsHtml(g.sections)}
@@ -464,7 +465,7 @@ function llms(cards) {
     '',
     ...STATE_KEYS.filter(live).flatMap((sk) => [
       `- [${SEO.locH1(LOCS[sk])}](${SITE}/fishing-charters/${sk}): ${ops(SEO.locItems(cards, LOCS[sk]).length)}`,
-      ...SEO.childLocs(cards, sk).map((k) => `  - [${SEO.locH1(LOCS[k])}](${SITE}/fishing-charters/${k}): ${ops(SEO.locItems(cards, LOCS[k]).length)}`),
+      ...[...SEO.regionLocs(cards, sk), ...SEO.childLocs(cards, sk)].map((k) => `  - [${SEO.locH1(LOCS[k])}](${SITE}/fishing-charters/${k}): ${ops(SEO.locItems(cards, LOCS[k]).length)}`),
     ]),
     '',
     '## Species and fishing styles',
@@ -541,10 +542,7 @@ function locationMd(key, L, items, cards) {
   }
   else out.push(`## Fishing charters ${L.in}`, '', ...items.map((c) => `- [${c.name}](${SITE}/charters/${c.slug}): ${oneLine(c)}`), '');
   out.push('## Frequently asked questions', '', ...g.faq.flatMap(([q, a]) => [`### ${q}`, '', mdClean(a), '']));
-  if (L.st) {
-    const kids = SEO.childLocs(cards, key);
-    if (kids.length) out.push(`## Destinations in ${L.n}`, '', ...kids.map((k) => `- [${SEO.locH1(LOCS[k])}](${SITE}/fishing-charters/${k})`), '');
-  }
+  for (const [h, ks] of SEO.subLocGroups(cards, key)) out.push(`## ${h}`, '', ...ks.map((k) => `- [${SEO.locH1(LOCS[k])}](${SITE}/fishing-charters/${k})`), '');
   return out.join('\n');
 }
 

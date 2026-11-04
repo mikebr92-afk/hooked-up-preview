@@ -642,12 +642,16 @@ export const STATE_KEYS = ['new-south-wales', 'queensland', 'victoria', 'tasmani
 export const CITY_KEYS = ['sydney', 'port-phillip', 'gold-coast', 'brisbane', 'sunshine-coast', 'cairns', 'whitsundays', 'port-douglas', 'darwin', 'exmouth', 'hobart', 'port-stephens', 'hervey-bay'];
 export const SPECIES_KEYS = Object.keys(LOCS).filter((k) => LOCS[k].kind === 'species');
 export const isSpecies = (L) => L && L.kind === 'species';
+// Region hubs group several destinations in a state ("Tropical North Queensland").
+export const isRegion = (L) => L && L.kind === 'region';
+export const regionOf = (key) => Object.keys(LOCS).find((k) => isRegion(LOCS[k]) && (LOCS[k].hotspots || []).includes(key)) || null;
 
 // A destination/species page only exists while it has enough real operators
 // (states: 1+, everything else: MIN_LOC_ITEMS+). Below that it 404s and drops
 // out of links, the sitemap and the footer automatically.
 export const MIN_LOC_ITEMS = 2;
 const liveCache = new WeakMap();
+let lastLive = null; // most recent live set (used by breadcrumbs, which don't receive the cards)
 export function liveLocKeys(cards) {
   if (cards && liveCache.has(cards)) return liveCache.get(cards);
   const keys = Object.keys(LOCS).filter((k) => {
@@ -655,14 +659,27 @@ export function liveLocKeys(cards) {
     // L.min lets a high-demand destination with a full guide go live with fewer listings.
     return LOCS[k].st ? n >= 1 : n >= (LOCS[k].min || MIN_LOC_ITEMS);
   });
-  if (cards) liveCache.set(cards, keys);
+  if (cards) { liveCache.set(cards, keys); lastLive = new Set(keys); }
   return keys;
 }
 export const isLive = (cards, key) => liveLocKeys(cards).includes(key);
 // Live destination pages inside a state (for state hub pages), largest first.
 export function childLocs(cards, stateKey) {
-  return liveLocKeys(cards).filter((k) => LOCS[k].parent === stateKey)
+  return liveLocKeys(cards).filter((k) => LOCS[k].parent === stateKey && !isRegion(LOCS[k]))
     .sort((a, b) => locItems(cards, LOCS[b]).length - locItems(cards, LOCS[a]).length);
+}
+const bySize = (cards) => (a, b) => locItems(cards, LOCS[b]).length - locItems(cards, LOCS[a]).length;
+export const regionLocs = (cards, stateKey) => liveLocKeys(cards).filter((k) => isRegion(LOCS[k]) && LOCS[k].parent === stateKey).sort(bySize(cards));
+// Chip groups shown under a page's intro: regions + destinations on a state page,
+// destinations on a region page, the region and its other destinations on a destination page.
+export function subLocGroups(cards, key) {
+  const L = LOCS[key]; const live = liveLocKeys(cards);
+  if (!L || isSpecies(L)) return [];
+  if (L.st) return [[`Regions in ${L.n}`, regionLocs(cards, key)], [`Fishing destinations in ${L.n}`, childLocs(cards, key)]].filter(([, k]) => k.length);
+  if (isRegion(L)) return [[`Fishing destinations in ${L.n}`, (L.hotspots || []).filter((k) => live.includes(k)).sort(bySize(cards))]].filter(([, k]) => k.length);
+  const reg = regionOf(key);
+  if (reg && live.includes(reg)) return [[`More fishing in ${LOCS[reg].n}`, [reg, ...LOCS[reg].hotspots.filter((k) => k !== key && live.includes(k))]]];
+  return [];
 }
 export const locH1 = (L) => L.h1 || `Fishing Charters ${L.in}`;
 
@@ -692,6 +709,7 @@ const clip = (s, n) => {
 
 // ── location matching + stats ────────────────────────────────────────────────
 export function inLoc(card, L) {
+  if (L.hotspots) return L.hotspots.includes(card.hotspot) || (card.also_serves || []).some((k) => L.hotspots.includes(k));
   if (L.sp) {
     // exact species names (so "Golden Snapper" doesn't land on the Snapper page)
     const tags = [...(card.species_tags || []), ...(card.species || [])].map((s) => s.toLowerCase());
@@ -1147,6 +1165,8 @@ export function charterTrail(op, cards) {
 export function locTrail(key, L) {
   const t = [['Home', '/'], ['Fishing Charters', '/charters']];
   if (L.parent && LOCS[L.parent]) t.push([LOCS[L.parent].n, '/fishing-charters/' + L.parent]);
+  const reg = !L.st && !isSpecies(L) && !isRegion(L) ? regionOf(key) : null;
+  if (reg && (!lastLive || lastLive.has(reg))) t.push([LOCS[reg].n, '/fishing-charters/' + reg]);
   t.push([L.n, '/fishing-charters/' + key]);
   return t;
 }
@@ -1225,6 +1245,47 @@ export function relatedCharters(op, cards, max = 6) {
   return { loc: lf, items: [...near, ...state].slice(0, max) };
 }
 
+// Home page guide + FAQ, built from the live data so it stays accurate.
+const pct = (arr, q) => { const a = [...arr].sort((x, y) => x - y); return a.length ? a[Math.min(a.length - 1, Math.floor(q * (a.length - 1)))] : 0; };
+const r10 = (v) => Math.round(v / 10) * 10;
+const HOME_HOOKS = { NSW: 'Sydney Harbour kingfish', QLD: 'Great Barrier Reef reef fishing', NT: 'Top End barramundi', WA: 'Ningaloo billfish', TAS: 'Tasmanian wild trout', VIC: 'Port Phillip snapper' };
+const LICENCE_SHORT = {
+  NSW: 'NSW: you’re covered by the charter boat’s licence.',
+  QLD: 'Queensland: no saltwater licence is needed.',
+  VIC: 'Victoria: you need your own Recreational Fishing Licence unless exempt.',
+  TAS: 'Tasmania: no licence for sea rod-and-line fishing, but trout anglers 14 and over need an Inland Fisheries Service licence.',
+  WA: 'WA: paying charter guests don’t need a boat fishing licence.',
+  NT: 'NT: no recreational fishing licence is needed.',
+};
+export function homeGuide(cards) {
+  const act = activeCards(cards || []);
+  const states = ['NSW', 'QLD', 'VIC', 'TAS', 'WA', 'NT'].filter((st) => act.some((c) => c.state === st));
+  const live = liveLocKeys(cards || []);
+  const dests = live.filter((k) => !LOCS[k].st && !isSpecies(LOCS[k]) && !isRegion(LOCS[k]));
+  const per = act.filter((c) => c.price > 0 && /person/.test(c.priceUnit)).map((c) => c.price);
+  const grp = act.filter((c) => c.price > 0 && !/person/.test(c.priceUnit)).map((c) => c.price);
+  const top = [...dests].sort(bySize(cards)).slice(0, 6).map((k) => `${LOCS[k].n} (${locItems(cards, LOCS[k]).length})`);
+  const faq = [];
+  if (per.length || grp.length) {
+    const bits = [];
+    if (per.length) bits.push(`shared, per-person trips start from ${money(Math.min(...per))}, and most sit between ${money(r10(pct(per, 0.25)))} and ${money(r10(pct(per, 0.75)))} per person`);
+    if (grp.length) bits.push(`private charters, where your group has the boat, start from ${money(Math.min(...grp))} and typically run ${money(r10(pct(grp, 0.25)))}–${money(r10(pct(grp, 0.75)))}`);
+    faq.push(['How much does a fishing charter cost in Australia?', `Across the ${act.length} operators on Hooked Trips, ${bits.join('; ')}. Multi-day liveaboards and remote lodges cost more. Each listing shows its trips and published prices.`]);
+  }
+  faq.push(['Do I need a fishing licence on a charter?', `It depends on the state. ${states.map((st) => LICENCE_SHORT[st]).join(' ')} Size and bag limits apply everywhere, and each state page explains the local rules.`]);
+  if (top.length) faq.push(['Where are the best places to book a fishing charter in Australia?', `The destinations with the most charters on Hooked Trips are ${list(top)}. Each destination page has a local guide to where the charters fish, the best seasons, departure points and rules.`]);
+  faq.push(['How do I book a fishing charter on Hooked Trips?', 'Choose a charter, pick a trip and send an enquiry with your dates and group size. Enquiring is free and there is no payment on the site: we pass your enquiry to the operator, who confirms availability and price with you.']);
+  faq.push(['Are the charters on Hooked Trips real businesses?', 'Yes. Every listing is a currently trading charter or fishing-guide business, checked against the operator’s own website or tourism listing before it goes live and re-checked regularly. Each charter page shows when it was last checked.']);
+  return {
+    h: 'Fishing charters in Australia',
+    paras: [
+      `Hooked Trips lists ${act.length} verified fishing charter and fishing-guide operators across ${stateList(cards)}, from ${list(states.map((st) => HOME_HOOKS[st]))}.`,
+      `Browse ${dests.length} destination guides, compare trips, prices, target species and boats side by side, then send an enquiry straight to the operator.`,
+    ],
+    faq,
+  };
+}
+
 // About-page "how we check listings" (shown to people, search engines and AI assistants).
 export function methodology(cards) {
   const n = activeCards(cards || []).length;
@@ -1261,6 +1322,8 @@ export function pageMeta(path, ctx = {}) {
   switch (path) {
     case '/':
       return { ...base,
+        ...(ctx.cards ? { ld: { '@context': 'https://schema.org', '@graph': [{ '@type': 'FAQPage', '@id': SITE + '/#faq',
+          mainEntity: homeGuide(ctx.cards).faq.map(([q, a]) => ({ '@type': 'Question', name: q, acceptedAnswer: { '@type': 'Answer', text: a } })) }] } } : {}),
         title: `${BRAND} – Compare & Book Fishing Charters in Australia`,
         desc: `Find and compare ${n} fishing charters across ${where} — reef, game and barramundi trips with prices and target species. Enquire direct.` };
     case '/charters':

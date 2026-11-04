@@ -77,11 +77,11 @@ for (const k of live) {
   const m2 = t.match(/Compare (\d+) fishing charters?/); if (m2 && +m2[1] !== n) I(u, `"${m2[0]}" ≠ ${n}`);
   const m3 = title.match(/Compare (\d+) Operators?/); if (m3 && +m3[1] !== n) I(u, `title "${title}" ≠ ${n}`);
   const rows = await pg.$$eval('.hk-compare tbody tr', (e) => e.length); if (rows && rows !== n) I(u, `compare table ${rows} rows ≠ ${n}`);
-  // state pages: destination chips
-  if (L.st) {
+  // region/destination chips (state, region and destination pages)
+  if (!SEO.isSpecies(L)) {
     const ch = await pg.$$eval('.hk-children a', (els) => els.map((e) => [e.getAttribute('href').split('/').pop(), e.innerText.replace(/\s+/g, ' ').trim()]));
     for (const [ck, tx] of ch) { const m = tx.match(/(\d+)\s*$/); if (m && +m[1] !== count(ck)) I(u, `chip "${tx}" ≠ ${count(ck)}`); }
-    const kids = SEO.childLocs(cards, k); if (ch.length && ch.length !== kids.length) I(u, `${ch.length} destination chips ≠ ${kids.length}`);
+    const kids = SEO.subLocGroups(cards, k).flatMap(([, ks]) => ks); if (ch.length !== kids.length) I(u, `${ch.length} region/destination chips ≠ ${kids.length}`);
   }
   const desc = await pg.$eval('meta[name=description]', (e) => e.content);
   const md = desc.match(/(?:Compare|Book) (\d+)?/); if (md && md[1] && +md[1] !== n) I(u, `meta description "${desc.slice(0, 60)}…" ≠ ${n}`);
