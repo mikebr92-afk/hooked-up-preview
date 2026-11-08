@@ -1,65 +1,63 @@
 {
-  "finished_at": "2026-11-08T23:36:45.785Z",
+  "finished_at": "2026-11-08T23:37:42.418Z",
   "summary": [
     {
       "slug": "r5-miena-guiding-tasmania",
-      "candidates": 0,
-      "pages": 9
+      "skipped": true
     },
     {
       "slug": "r5-trout-tales-tasmania",
-      "candidates": 0,
-      "pages": 11
+      "skipped": true
     },
     {
       "slug": "r5-divers-fishing-charters-hobart",
-      "candidates": 0,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "r5-tassie-fly-guide",
-      "candidates": 0,
-      "pages": 5
+      "skipped": true
     },
     {
       "slug": "r5-trout-territory",
-      "candidates": 0,
-      "pages": 7
+      "skipped": true
     },
     {
       "slug": "r5-riverfly-1864",
-      "candidates": 0,
-      "pages": 12
+      "skipped": true
     },
     {
       "slug": "r5-tasmania-fly-fishing",
-      "candidates": 0,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "r5-mr-flathead",
-      "candidates": 0,
-      "pages": 5
+      "skipped": true
     },
     {
       "slug": "r5-tasman-spirit-charters",
-      "candidates": 0,
-      "pages": 1
+      "skipped": true
     },
     {
       "slug": "r5-red-tag-trout-tours",
+      "skipped": true
+    },
+    {
+      "slug": "r5-official",
+      "skipped": true
+    },
+    {
+      "slug": "r5-sth-discovery",
+      "skipped": true
+    },
+    {
+      "slug": "r5-trout-tales-packages",
       "candidates": 0,
       "pages": 11
     },
     {
-      "slug": "r5-official",
+      "slug": "r5-atdw-check",
       "candidates": 0,
-      "pages": 8
-    },
-    {
-      "slug": "r5-sth-discovery",
-      "candidates": 0,
-      "pages": 4
+      "pages": 10
     }
   ]
 }

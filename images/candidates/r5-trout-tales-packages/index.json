@@ -1,0 +1,87 @@
+{
+  "slug": "r5-trout-tales-packages",
+  "request_hash": "992306ea1981",
+  "collected_at": "2026-11-08T23:37:22.702Z",
+  "pages_fetched": [
+    "https://www.trouttalestasmania.com.au/packages",
+    "https://www.trouttalestasmania.com.au/packages/day-fishing-trip-tasmania",
+    "https://www.trouttalestasmania.com.au/packages/lowland-rivers-fly-fishing-packages",
+    "https://www.trouttalestasmania.com.au/packages/two-day-fishing-package-tasmania",
+    "https://www.trouttalestasmania.com.au/packages/three-fly-fishing-package-tasmania",
+    "https://www.trouttalestasmania.com.au/packages/five-day-fishing-package-tasmania",
+    "https://www.trouttalestasmania.com.au/packages/single-day-currawong-lakes",
+    "https://www.trouttalestasmania.com.au/packages/two-days-currawong-package",
+    "https://www.trouttalestasmania.com.au/packages/currawong-lakes-signature",
+    "https://www.trouttalestasmania.com.au/frequently-asked-questions",
+    "https://www.trouttalestasmania.com.au/llms.txt"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.trouttalestasmania.com.au/packages",
+      "status": 200,
+      "final_url": "https://www.trouttalestasmania.com.au/fly-fishing-tasmania-packages",
+      "bytes": 58200
+    },
+    {
+      "page": "https://www.trouttalestasmania.com.au/packages/day-fishing-trip-tasmania",
+      "status": 200,
+      "final_url": "https://www.trouttalestasmania.com.au/packages/day-fishing-trip-tasmania",
+      "bytes": 96283
+    },
+    {
+      "page": "https://www.trouttalestasmania.com.au/packages/lowland-rivers-fly-fishing-packages",
+      "status": 404,
+      "final_url": "https://www.trouttalestasmania.com.au/packages/lowland-rivers-fly-fishing-packages",
+      "bytes": 12479
+    },
+    {
+      "page": "https://www.trouttalestasmania.com.au/packages/two-day-fishing-package-tasmania",
+      "status": 200,
+      "final_url": "https://www.trouttalestasmania.com.au/packages/two-day-fishing-package-tasmania",
+      "bytes": 97130
+    },
+    {
+      "page": "https://www.trouttalestasmania.com.au/packages/three-fly-fishing-package-tasmania",
+      "status": 200,
+      "final_url": "https://www.trouttalestasmania.com.au/packages/three-fly-fishing-package-tasmania",
+      "bytes": 99045
+    },
+    {
+      "page": "https://www.trouttalestasmania.com.au/packages/five-day-fishing-package-tasmania",
+      "status": 200,
+      "final_url": "https://www.trouttalestasmania.com.au/packages/five-day-fishing-package-tasmania",
+      "bytes": 99066
+    },
+    {
+      "page": "https://www.trouttalestasmania.com.au/packages/single-day-currawong-lakes",
+      "status": 404,
+      "final_url": "https://www.trouttalestasmania.com.au/packages/single-day-currawong-lakes",
+      "bytes": 12479
+    },
+    {
+      "page": "https://www.trouttalestasmania.com.au/packages/two-days-currawong-package",
+      "status": 200,
+      "final_url": "https://www.trouttalestasmania.com.au/packages/two-days-currawong-package",
+      "bytes": 96174
+    },
+    {
+      "page": "https://www.trouttalestasmania.com.au/packages/currawong-lakes-signature",
+      "status": 200,
+      "final_url": "https://www.trouttalestasmania.com.au/packages/currawong-lakes-signature",
+      "bytes": 52400
+    },
+    {
+      "page": "https://www.trouttalestasmania.com.au/frequently-asked-questions",
+      "status": 200,
+      "final_url": "https://www.trouttalestasmania.com.au/frequently-asked-questions",
+      "bytes": 46695
+    },
+    {
+      "page": "https://www.trouttalestasmania.com.au/llms.txt",
+      "status": 200,
+      "final_url": "https://www.trouttalestasmania.com.au/llms.txt",
+      "bytes": 4794
+    }
+  ]
+}

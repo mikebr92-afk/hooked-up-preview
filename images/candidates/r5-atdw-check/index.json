@@ -1,0 +1,80 @@
+{
+  "slug": "r5-atdw-check",
+  "request_hash": "40e7fa71887e",
+  "collected_at": "2026-11-08T23:37:42.418Z",
+  "pages_fetched": [
+    "https://www.discovertasmania.com.au/things-to-do/tours/redtagtrouttours/",
+    "https://www.spiritoftasmania.com.au/things-to-do/red-tag-trout-tours",
+    "https://hobartandbeyond.com.au/place/red-tag-trout-tours/",
+    "https://discovertasmania.com.au/things-to-do/tours/mrflathead/bay-fishing-and-sightseeing-tour",
+    "https://www.discovertasmania.com.au/things-to-do/tours/mrflathead/",
+    "https://www.spiritoftasmania.com.au/things-to-do/keen-angler-charters",
+    "https://eastcoasttasmania.com/atdw_listings/keen-angler-charters/",
+    "https://playsport.com/tasmanspiritcharters_ag_617f92d5",
+    "https://discovertasmania.com.au/things-to-do/tours/tassie-fly-guide",
+    "https://northerntasmania.com.au/see-and-do/tasmania-fly-fishing"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.discovertasmania.com.au/things-to-do/tours/redtagtrouttours/",
+      "status": 200,
+      "final_url": "https://www.discovertasmania.com.au/things-to-do/tours/redtagtrouttours/",
+      "bytes": 339565
+    },
+    {
+      "page": "https://www.spiritoftasmania.com.au/things-to-do/red-tag-trout-tours",
+      "status": 200,
+      "final_url": "https://www.spiritoftasmania.com.au/things-to-do/red-tag-trout-tours/",
+      "bytes": 745907
+    },
+    {
+      "page": "https://hobartandbeyond.com.au/place/red-tag-trout-tours/",
+      "status": 200,
+      "final_url": "https://hobartandbeyond.com.au/place/red-tag-trout-tours/",
+      "bytes": 284613
+    },
+    {
+      "page": "https://discovertasmania.com.au/things-to-do/tours/mrflathead/bay-fishing-and-sightseeing-tour",
+      "status": 404,
+      "final_url": "https://www.discovertasmania.com.au/things-to-do/tours/mrflathead/bay-fishing-and-sightseeing-tour",
+      "bytes": 275941
+    },
+    {
+      "page": "https://www.discovertasmania.com.au/things-to-do/tours/mrflathead/",
+      "status": 404,
+      "final_url": "https://www.discovertasmania.com.au/things-to-do/tours/mrflathead/",
+      "bytes": 275941
+    },
+    {
+      "page": "https://www.spiritoftasmania.com.au/things-to-do/keen-angler-charters",
+      "status": 200,
+      "final_url": "https://www.spiritoftasmania.com.au/things-to-do/keen-angler-charters/",
+      "bytes": 745837
+    },
+    {
+      "page": "https://eastcoasttasmania.com/atdw_listings/keen-angler-charters/",
+      "status": 200,
+      "final_url": "https://eastcoasttasmania.com/atdw_listings/keen-angler-charters/",
+      "bytes": 83678
+    },
+    {
+      "page": "https://playsport.com/tasmanspiritcharters_ag_617f92d5",
+      "status": 200,
+      "final_url": "https://playsport.com/tasmanspiritcharters_ag_617f92d5",
+      "bytes": 257179
+    },
+    {
+      "page": "https://discovertasmania.com.au/things-to-do/tours/tassie-fly-guide",
+      "status": 200,
+      "final_url": "https://www.discovertasmania.com.au/things-to-do/tours/tassie-fly-guide",
+      "bytes": 327701
+    },
+    {
+      "page": "https://northerntasmania.com.au/see-and-do/tasmania-fly-fishing",
+      "status": 404,
+      "final_url": "https://northerntasmania.com.au/see-and-do/tasmania-fly-fishing",
+      "bytes": 56895
+    }
+  ]
+}
