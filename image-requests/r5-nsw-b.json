@@ -1,0 +1,113 @@
+{
+ "requests": [
+  {
+   "slug": "r5-scf-reef",
+   "pages": [
+    "https://sydneycharterfishing.com.au/charters/reef-fishing-trips",
+    "https://sydneycharterfishing.com.au/charters/game-fishing-trips"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  },
+  {
+   "slug": "r5-terrigal-rezdy",
+   "pages": [
+    "https://terrigaltours.rezdy.com/612518/reef-and-bay-shared-fishing-charter",
+    "https://terrigaltours.rezdy.com/517523/reef-bay-private-fishing-charter",
+    "https://terrigaltours.rezdy.com/665941/young-guns-fishing-charter-private",
+    "https://terrigaltours.rezdy.com/665319/young-guns-fishing-charter-shared"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  },
+  {
+   "slug": "r5-gameon-rezdy",
+   "pages": [
+    "https://gameoncharters32.rezdy.com/catalog/504908/fishing"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r5-coffs-rezdy",
+   "pages": [
+    "https://coffsharbourfishing.rezdy.com/",
+    "https://coffsharbourfishing.com.au/charters/",
+    "https://coffsharbourfishing.rezdy.com/276429/1-half-day-mixed-fishing-charter",
+    "https://coffsharbourfishing.rezdy.com/444348/8-hour-full-day-mixed-reef-charter",
+    "https://coffsharbourfishing.rezdy.com/545638/sport-and-game-fishing-mixed-charter",
+    "https://coffsharbourfishing.rezdy.com/276440/whole-boat-exclusive-1-half-day-charter",
+    "https://coffsharbourfishing.rezdy.com/276452/whole-boat-exclusive-full-day-charter",
+    "https://coffsharbourfishing.rezdy.com/545447/south-solitary-sportfishing-experience"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  },
+  {
+   "slug": "r5-bluereef-retry",
+   "pages": [
+    "http://www.bluereefcharters.info/",
+    "https://bluereefcharters.info/",
+    "http://bluereefcharters.info/pricing"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  },
+  {
+   "slug": "r5-outthere",
+   "pages": [
+    "https://www.outtherecharters.com.au/",
+    "https://outtherecharters.com.au/",
+    "https://wikiaustralia.com/tour/coffs-harbour-fishing-charters/",
+    "https://www.coffscoastholidayparks.com.au/fishing-on-the-coffs-coast/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r5-watch-tourism",
+   "pages": [
+    "https://www.visitnsw.com/things-to-do/tours/cushy-fishing-charters-tweed-heads",
+    "https://visitnsw.com/destinations/central-coast/gosford-area/terrigal/hire/central-coast-reef-and-game-fishing-charters",
+    "https://icentralcoast.com/places/central-coast-reef-game-fishing-charters/",
+    "https://playsport.com/fiveislandcharters_ag_6a487335",
+    "https://playsport.com/CentralCoastReefandGameFishing_Terrigal",
+    "https://playsport.com/cushyfishingchartersest1996_ag_63a70f87",
+    "https://australiasguide.com/nsw/attraction-tour/tweed/tweed-heads/cushy-fishing-charters-tweed-heads/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  },
+  {
+   "slug": "r5-fps-news",
+   "pages": [
+    "https://portstephens.newsofthearea.com.au/category/lifestyle/fishing/",
+    "https://www.portstephens.org.au/see-and-do/fish-port-stephens-estuary-charters/overview"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  },
+  {
+   "slug": "r5-official-2",
+   "pages": [
+    "https://www.dpird.nsw.gov.au/fishing/recreational/fishing-fee",
+    "https://www.dpird.nsw.gov.au/fishing/marine-protected-areas/marine-parks",
+    "https://www.dpird.nsw.gov.au/fishing/closures/location-closures/tweed-river",
+    "https://www.nsw.gov.au/driving-boating-and-transport/marine-safety-and-rules",
+    "https://www.nsw.gov.au/driving-boating-and-transport/using-waterways-boating-and-transport-information/conditions-weather-and-tides/coastal-bars",
+    "https://www.visitnsw.com/things-to-do/outdoor-activities/fishing"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  }
+ ]
+}
