@@ -1,0 +1,66 @@
+{
+  "slug": "r5-offshore-charters-wa",
+  "request_hash": "382a17de0986",
+  "collected_at": "2026-11-08T23:37:46.147Z",
+  "pages_fetched": [
+    "https://www.offshorecharterswa.com.au/",
+    "https://www.offshorecharterswa.com.au/fishing-charters",
+    "https://www.offshorecharterswa.com.au/crayfish-charters",
+    "https://www.offshorecharterswa.com.au/abrolhos-islands",
+    "https://www.offshorecharterswa.com.au/gallery",
+    "https://www.offshorecharterswa.com.au/snorkeling",
+    "https://www.offshorecharterswa.com.au/whale-watching",
+    "https://www.offshorecharterswa.com.au/about-1"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.offshorecharterswa.com.au/",
+      "status": 200,
+      "final_url": "https://www.offshorecharterswa.com.au/",
+      "bytes": 942740
+    },
+    {
+      "page": "https://www.offshorecharterswa.com.au/fishing-charters",
+      "status": 200,
+      "final_url": "https://www.offshorecharterswa.com.au/fishing-charters",
+      "bytes": 861621
+    },
+    {
+      "page": "https://www.offshorecharterswa.com.au/crayfish-charters",
+      "status": 200,
+      "final_url": "https://www.offshorecharterswa.com.au/crayfish-charters",
+      "bytes": 614776
+    },
+    {
+      "page": "https://www.offshorecharterswa.com.au/abrolhos-islands",
+      "status": 200,
+      "final_url": "https://www.offshorecharterswa.com.au/abrolhos-islands",
+      "bytes": 742147
+    },
+    {
+      "page": "https://www.offshorecharterswa.com.au/gallery",
+      "status": 200,
+      "final_url": "https://www.offshorecharterswa.com.au/gallery",
+      "bytes": 609051
+    },
+    {
+      "page": "https://www.offshorecharterswa.com.au/snorkeling",
+      "status": 200,
+      "final_url": "https://www.offshorecharterswa.com.au/snorkeling",
+      "bytes": 577126
+    },
+    {
+      "page": "https://www.offshorecharterswa.com.au/whale-watching",
+      "status": 200,
+      "final_url": "https://www.offshorecharterswa.com.au/whale-watching",
+      "bytes": 556899
+    },
+    {
+      "page": "https://www.offshorecharterswa.com.au/about-1",
+      "status": 200,
+      "final_url": "https://www.offshorecharterswa.com.au/about-1",
+      "bytes": 575619
+    }
+  ]
+}

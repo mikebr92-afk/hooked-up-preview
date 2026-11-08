@@ -1,0 +1,94 @@
+{
+  "slug": "r5-birchys",
+  "request_hash": "e6984711c941",
+  "collected_at": "2026-11-08T23:38:06.923Z",
+  "pages_fetched": [
+    "https://birchysfishingtours.com.au/",
+    "https://birchysfishingtours.com.au/fishing-safari",
+    "https://birchysfishingtours.com.au/tagalong",
+    "https://birchysfishingtours.com.au/instagram",
+    "https://www.visitkununurra.com/business-directory/birchys-fishing-tours",
+    "https://birchysfishingtours.com.au/about",
+    "https://birchysfishingtours.com.au/gallery",
+    "https://birchysfishingtours.com.au/contact",
+    "https://www.visitkununurra.com/book",
+    "https://www.visitkununurra.com/about-us/contact",
+    "https://www.visitkununurra.com/plan/car-boat-camping-hire",
+    "https://www.visitkununurra.com/explore/tours"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://birchysfishingtours.com.au/",
+      "status": 200,
+      "final_url": "https://birchysfishingtours.com.au/",
+      "bytes": 27413
+    },
+    {
+      "page": "https://birchysfishingtours.com.au/fishing-safari",
+      "status": 200,
+      "final_url": "https://birchysfishingtours.com.au/fishing-safari",
+      "bytes": 53266
+    },
+    {
+      "page": "https://birchysfishingtours.com.au/tagalong",
+      "status": 200,
+      "final_url": "https://birchysfishingtours.com.au/tagalong",
+      "bytes": 22748
+    },
+    {
+      "page": "https://birchysfishingtours.com.au/instagram",
+      "status": 200,
+      "final_url": "https://birchysfishingtours.com.au/instagram",
+      "bytes": 13208
+    },
+    {
+      "page": "https://www.visitkununurra.com/business-directory/birchys-fishing-tours",
+      "status": 200,
+      "final_url": "https://www.visitkununurra.com/business-directory/birchys-fishing-tours",
+      "bytes": 46325
+    },
+    {
+      "page": "https://birchysfishingtours.com.au/about",
+      "status": 200,
+      "final_url": "https://birchysfishingtours.com.au/about",
+      "bytes": 17649
+    },
+    {
+      "page": "https://birchysfishingtours.com.au/gallery",
+      "status": 200,
+      "final_url": "https://birchysfishingtours.com.au/gallery",
+      "bytes": 63868
+    },
+    {
+      "page": "https://birchysfishingtours.com.au/contact",
+      "status": 200,
+      "final_url": "https://birchysfishingtours.com.au/contact",
+      "bytes": 20521
+    },
+    {
+      "page": "https://www.visitkununurra.com/book",
+      "status": 403,
+      "final_url": "https://www.visitkununurra.com/book",
+      "bytes": 5759
+    },
+    {
+      "page": "https://www.visitkununurra.com/about-us/contact",
+      "status": 200,
+      "final_url": "https://www.visitkununurra.com/about-us/contact",
+      "bytes": 45086
+    },
+    {
+      "page": "https://www.visitkununurra.com/plan/car-boat-camping-hire",
+      "status": 200,
+      "final_url": "https://www.visitkununurra.com/plan/car-boat-camping-hire",
+      "bytes": 44193
+    },
+    {
+      "page": "https://www.visitkununurra.com/explore/tours",
+      "status": 200,
+      "final_url": "https://www.visitkununurra.com/explore/tours",
+      "bytes": 44812
+    }
+  ]
+}

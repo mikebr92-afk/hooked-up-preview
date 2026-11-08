@@ -1,0 +1,38 @@
+{
+  "slug": "r5-rules",
+  "request_hash": "ad3ae9047852",
+  "collected_at": "2026-11-08T23:36:17.755Z",
+  "pages_fetched": [
+    "https://www.dpird.wa.gov.au/businesses/charter-boat-fishing/",
+    "https://www.dpird.wa.gov.au/individuals/recreational-fishing/west-coast-demersal-scalefish--information-for-recreational-fishers",
+    "https://www.dpird.wa.gov.au/businesses/charter-boat-fishing/west-coast-demersal-scalefish--information-for-charter-operators/",
+    "https://www.dpird.wa.gov.au/individuals/recreational-fishing/get-a-recreational-fishing-licence/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.dpird.wa.gov.au/businesses/charter-boat-fishing/",
+      "status": 200,
+      "final_url": "https://www.dpird.wa.gov.au/businesses/charter-boat-fishing/",
+      "bytes": 87516
+    },
+    {
+      "page": "https://www.dpird.wa.gov.au/individuals/recreational-fishing/west-coast-demersal-scalefish--information-for-recreational-fishers",
+      "status": 200,
+      "final_url": "https://www.dpird.wa.gov.au/individuals/recreational-fishing/west-coast-demersal-scalefish--information-for-recreational-fishers",
+      "bytes": 93513
+    },
+    {
+      "page": "https://www.dpird.wa.gov.au/businesses/charter-boat-fishing/west-coast-demersal-scalefish--information-for-charter-operators/",
+      "status": 200,
+      "final_url": "https://www.dpird.wa.gov.au/businesses/charter-boat-fishing/west-coast-demersal-scalefish--information-for-charter-operators/",
+      "bytes": 191904
+    },
+    {
+      "page": "https://www.dpird.wa.gov.au/individuals/recreational-fishing/get-a-recreational-fishing-licence/",
+      "status": 200,
+      "final_url": "https://www.dpird.wa.gov.au/individuals/recreational-fishing/get-a-recreational-fishing-licence/",
+      "bytes": 129668
+    }
+  ]
+}

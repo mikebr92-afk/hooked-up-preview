@@ -1,0 +1,45 @@
+{
+  "slug": "r5-parks",
+  "request_hash": "300e7b7d69da",
+  "collected_at": "2026-11-08T23:36:20.191Z",
+  "pages_fetched": [
+    "https://exploreparks.dbca.wa.gov.au/park/ningaloo-marine-park",
+    "https://exploreparks.dbca.wa.gov.au/park/houtman-abrolhos-islands-national-park",
+    "https://exploreparks.dbca.wa.gov.au/park/rowley-shoals-marine-park",
+    "https://exploreparks.dbca.wa.gov.au/park/lalang-garram-camden-sound-marine-park",
+    "https://exploreparks.dbca.wa.gov.au/park/yawuru-nagulagun-roebuck-bay-marine-park"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://exploreparks.dbca.wa.gov.au/park/ningaloo-marine-park",
+      "status": 406,
+      "final_url": "https://exploreparks.dbca.wa.gov.au/park/ningaloo-marine-park",
+      "bytes": 558
+    },
+    {
+      "page": "https://exploreparks.dbca.wa.gov.au/park/houtman-abrolhos-islands-national-park",
+      "status": 406,
+      "final_url": "https://exploreparks.dbca.wa.gov.au/park/houtman-abrolhos-islands-national-park",
+      "bytes": 558
+    },
+    {
+      "page": "https://exploreparks.dbca.wa.gov.au/park/rowley-shoals-marine-park",
+      "status": 406,
+      "final_url": "https://exploreparks.dbca.wa.gov.au/park/rowley-shoals-marine-park",
+      "bytes": 558
+    },
+    {
+      "page": "https://exploreparks.dbca.wa.gov.au/park/lalang-garram-camden-sound-marine-park",
+      "status": 406,
+      "final_url": "https://exploreparks.dbca.wa.gov.au/park/lalang-garram-camden-sound-marine-park",
+      "bytes": 558
+    },
+    {
+      "page": "https://exploreparks.dbca.wa.gov.au/park/yawuru-nagulagun-roebuck-bay-marine-park",
+      "status": 406,
+      "final_url": "https://exploreparks.dbca.wa.gov.au/park/yawuru-nagulagun-roebuck-bay-marine-park",
+      "bytes": 558
+    }
+  ]
+}

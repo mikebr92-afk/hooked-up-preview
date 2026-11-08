@@ -1,0 +1,59 @@
+{
+  "slug": "r5-kuri-bay",
+  "request_hash": "f7b11656acfa",
+  "collected_at": "2026-11-08T23:38:08.769Z",
+  "pages_fetched": [
+    "https://www.kuribaysportfishingtours.com.au/",
+    "https://www.kuribaysportfishingtours.com.au/tour-packages/",
+    "https://www.kuribaysportfishingtours.com.au/frequently-asked-questions/",
+    "https://www.kuribaysportfishingtours.com.au/kimberley-sportfishing/",
+    "https://www.kuribaysportfishingtours.com.au/kuri-bay-attractions/",
+    "https://www.kuribaysportfishingtours.com.au/photo-gallery/",
+    "https://www.kuribaysportfishingtours.com.au/contact-kuri-bay-sportfishing-tours/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.kuribaysportfishingtours.com.au/",
+      "status": 200,
+      "final_url": "https://www.kuribaysportfishingtours.com.au/",
+      "bytes": 18857
+    },
+    {
+      "page": "https://www.kuribaysportfishingtours.com.au/tour-packages/",
+      "status": 200,
+      "final_url": "https://www.kuribaysportfishingtours.com.au/tour-packages/",
+      "bytes": 16778
+    },
+    {
+      "page": "https://www.kuribaysportfishingtours.com.au/frequently-asked-questions/",
+      "status": 200,
+      "final_url": "https://www.kuribaysportfishingtours.com.au/frequently-asked-questions/",
+      "bytes": 20507
+    },
+    {
+      "page": "https://www.kuribaysportfishingtours.com.au/kimberley-sportfishing/",
+      "status": 200,
+      "final_url": "https://www.kuribaysportfishingtours.com.au/kimberley-sportfishing/",
+      "bytes": 20056
+    },
+    {
+      "page": "https://www.kuribaysportfishingtours.com.au/kuri-bay-attractions/",
+      "status": 200,
+      "final_url": "https://www.kuribaysportfishingtours.com.au/kuri-bay-attractions/",
+      "bytes": 13645
+    },
+    {
+      "page": "https://www.kuribaysportfishingtours.com.au/photo-gallery/",
+      "status": 200,
+      "final_url": "https://www.kuribaysportfishingtours.com.au/photo-gallery/",
+      "bytes": 16780
+    },
+    {
+      "page": "https://www.kuribaysportfishingtours.com.au/contact-kuri-bay-sportfishing-tours/",
+      "status": 200,
+      "final_url": "https://www.kuribaysportfishingtours.com.au/contact-kuri-bay-sportfishing-tours/",
+      "bytes": 11011
+    }
+  ]
+}

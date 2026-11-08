@@ -1,0 +1,87 @@
+{
+  "slug": "r5-game-time",
+  "request_hash": "1656a9c86b17",
+  "collected_at": "2026-11-08T23:38:41.741Z",
+  "pages_fetched": [
+    "https://www.gametimecharters.com.au/",
+    "https://www.gametimecharters.com.au/private-game-fishing-charters",
+    "https://www.gametimecharters.com.au/booking-page",
+    "https://www.gametimecharters.com.au/departing-from-jurien-bay",
+    "https://www.gametimecharters.com.au/rottnest-island-private-charters",
+    "https://www.gametimecharters.com.au/our-story",
+    "https://www.gametimecharters.com.au/departing-from-hillarys-boat-harbour-perth",
+    "https://www.gametimecharters.com.au/gallery",
+    "https://www.gametimecharters.com.au/enquiries-contact",
+    "https://www.gametimecharters.com.au/privacy-policy",
+    "https://www.gametimecharters.com.au/game-fishing-gallery"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.gametimecharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.gametimecharters.com.au/",
+      "bytes": 65023
+    },
+    {
+      "page": "https://www.gametimecharters.com.au/private-game-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.gametimecharters.com.au/private-game-fishing-charters",
+      "bytes": 67416
+    },
+    {
+      "page": "https://www.gametimecharters.com.au/booking-page",
+      "status": 200,
+      "final_url": "https://www.gametimecharters.com.au/booking-page",
+      "bytes": 40437
+    },
+    {
+      "page": "https://www.gametimecharters.com.au/departing-from-jurien-bay",
+      "status": 200,
+      "final_url": "https://www.gametimecharters.com.au/departing-from-jurien-bay",
+      "bytes": 52011
+    },
+    {
+      "page": "https://www.gametimecharters.com.au/rottnest-island-private-charters",
+      "status": 200,
+      "final_url": "https://www.gametimecharters.com.au/rottnest-island-private-charters",
+      "bytes": 78312
+    },
+    {
+      "page": "https://www.gametimecharters.com.au/our-story",
+      "status": 200,
+      "final_url": "https://www.gametimecharters.com.au/our-story",
+      "bytes": 55314
+    },
+    {
+      "page": "https://www.gametimecharters.com.au/departing-from-hillarys-boat-harbour-perth",
+      "status": 200,
+      "final_url": "https://www.gametimecharters.com.au/departing-from-hillarys-boat-harbour-perth",
+      "bytes": 54229
+    },
+    {
+      "page": "https://www.gametimecharters.com.au/gallery",
+      "status": 200,
+      "final_url": "https://www.gametimecharters.com.au/gallery",
+      "bytes": 42886
+    },
+    {
+      "page": "https://www.gametimecharters.com.au/enquiries-contact",
+      "status": 200,
+      "final_url": "https://www.gametimecharters.com.au/enquiries-contact",
+      "bytes": 52380
+    },
+    {
+      "page": "https://www.gametimecharters.com.au/privacy-policy",
+      "status": 200,
+      "final_url": "https://www.gametimecharters.com.au/privacy-policy",
+      "bytes": 45237
+    },
+    {
+      "page": "https://www.gametimecharters.com.au/game-fishing-gallery",
+      "status": 200,
+      "final_url": "https://www.gametimecharters.com.au/game-fishing-gallery",
+      "bytes": 50610
+    }
+  ]
+}

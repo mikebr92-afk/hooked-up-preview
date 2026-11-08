@@ -1,0 +1,25 @@
+{
+  "slug": "r5-reel-teaser",
+  "request_hash": "ce05107e6d26",
+  "collected_at": "2026-11-08T23:38:40.054Z",
+  "pages_fetched": [
+    "https://reelteaserfishingadventures.com/",
+    "https://reelteaserfishingadventures.com/charter-prices-3/",
+    "https://reelteaserfishingadventures.com/charter-prices/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://reelteaserfishingadventures.com/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://reelteaserfishingadventures.com/charter-prices-3/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://reelteaserfishingadventures.com/charter-prices/",
+      "error": "fetch failed"
+    }
+  ]
+}

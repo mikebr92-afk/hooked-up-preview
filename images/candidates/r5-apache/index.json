@@ -1,0 +1,87 @@
+{
+  "slug": "r5-apache",
+  "request_hash": "6d7f547f2af6",
+  "collected_at": "2026-11-08T23:37:43.261Z",
+  "pages_fetched": [
+    "https://www.apachecharters.com.au/",
+    "https://www.apachecharters.com.au/abrolhos-fishing-charters",
+    "https://www.apachecharters.com.au/shark-bay-fishing-charters",
+    "https://www.apachecharters.com.au/montebello-islands-fishing-charters",
+    "https://www.apachecharters.com.au/fremantle-deep-sea-fishing-and-rock-lobster-tour",
+    "https://www.apachecharters.com.au/cart",
+    "https://www.apachecharters.com.au/rottnest-island-boat-charters",
+    "https://www.apachecharters.com.au/carnac-island-boat-charters",
+    "https://www.apachecharters.com.au/swan-river-cruises",
+    "https://www.apachecharters.com.au/about",
+    "https://www.apachecharters.com.au/contact"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.apachecharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.apachecharters.com.au/",
+      "bytes": 930268
+    },
+    {
+      "page": "https://www.apachecharters.com.au/abrolhos-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.apachecharters.com.au/abrolhos-fishing-charters",
+      "bytes": 441679
+    },
+    {
+      "page": "https://www.apachecharters.com.au/shark-bay-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.apachecharters.com.au/shark-bay-fishing-charters",
+      "bytes": 1772297
+    },
+    {
+      "page": "https://www.apachecharters.com.au/montebello-islands-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.apachecharters.com.au/montebello-islands-fishing-charters",
+      "bytes": 377831
+    },
+    {
+      "page": "https://www.apachecharters.com.au/fremantle-deep-sea-fishing-and-rock-lobster-tour",
+      "status": 200,
+      "final_url": "https://www.apachecharters.com.au/fremantle-deep-sea-fishing-and-rock-lobster-tour",
+      "bytes": 2089662
+    },
+    {
+      "page": "https://www.apachecharters.com.au/cart",
+      "status": 200,
+      "final_url": "https://www.apachecharters.com.au/cart",
+      "bytes": 375007
+    },
+    {
+      "page": "https://www.apachecharters.com.au/rottnest-island-boat-charters",
+      "status": 200,
+      "final_url": "https://www.apachecharters.com.au/rottnest-island-boat-charters",
+      "bytes": 340381
+    },
+    {
+      "page": "https://www.apachecharters.com.au/carnac-island-boat-charters",
+      "status": 200,
+      "final_url": "https://www.apachecharters.com.au/carnac-island-boat-charters",
+      "bytes": 3263913
+    },
+    {
+      "page": "https://www.apachecharters.com.au/swan-river-cruises",
+      "status": 200,
+      "final_url": "https://www.apachecharters.com.au/swan-river-cruises",
+      "bytes": 936619
+    },
+    {
+      "page": "https://www.apachecharters.com.au/about",
+      "status": 200,
+      "final_url": "https://www.apachecharters.com.au/about",
+      "bytes": 1153006
+    },
+    {
+      "page": "https://www.apachecharters.com.au/contact",
+      "status": 200,
+      "final_url": "https://www.apachecharters.com.au/contact",
+      "bytes": 498141
+    }
+  ]
+}
