@@ -1,0 +1,465 @@
+{
+ "requests": [
+  {
+   "slug": "byron-bay-charters",
+   "pages": [
+    "https://byronbaycharters.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "evans-head-deep-sea-fishing-charters",
+   "pages": [
+    "https://www.evansheadfishingcharters.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "fishbermi-charters",
+   "pages": [
+    "https://www.fishbermicharters.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "game-on-charters-batemans-bay",
+   "pages": [
+    "https://gameoncharters.net.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "central-coast-reef-and-game-fishing-charters",
+   "pages": [
+    "http://www.reefandgamefishing.com/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "terrigal-fishing-tours",
+   "pages": [
+    "https://terrigalfishingtours.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "coffs-harbour-fishing-charters",
+   "pages": [
+    "https://coffsharbourfishing.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "freedom-charters-eden",
+   "pages": [
+    "https://freedomcharters.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "escape-fishing-charters-greenwell-point",
+   "pages": [
+    "https://www.escapefishingcharters.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "jervis-bay-fishing-charters-huskisson",
+   "pages": [
+    "https://jbfishingcharters.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "sea-buoys-ocean-charters",
+   "pages": [
+    "https://seabuoys.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "sea-to-summit-lord-howe-fishing",
+   "pages": [
+    "https://www.lordhoweislandtours.net/charter-fishing"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "fishpen-charters-merimbula",
+   "pages": [
+    "https://fishpen-charters.squarespace.com/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "sapphire-coastal-adventures-merimbula",
+   "pages": [
+    "https://www.sapphirecoastaladventures.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "narooma-charters",
+   "pages": [
+    "https://naroomacharters.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "capns-charters-newcastle",
+   "pages": [
+    "https://www.capnschartersnewcastle.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "day-trippin-charters",
+   "pages": [
+    "https://day-trippin-charters.squarespace.com/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "castaway-estuary-fishing-charters",
+   "pages": [
+    "https://www.castawayfishing.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "port-macquarie-fishing-charters",
+   "pages": [
+    "https://www.portmacquariefishingcharters.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "calypso-fishing-adventures",
+   "pages": [
+    "https://www.marlinfishingaustralia.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "fish-port-stephens-estuary-charters",
+   "pages": [
+    "https://fishportstephensestuarycharters.com/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "hammerhead-charters-nelson-bay",
+   "pages": [
+    "https://hammerheadcharters.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "pacific-blue-fishing-charters-nelson-bay",
+   "pages": [
+    "https://pacificbluecharters.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "reel-contagious-charters-port-stephens",
+   "pages": [
+    "https://www.reelcontagiouscharters.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "south-west-rocks-fishing-charters",
+   "pages": [
+    "https://www.southwestrocksfishcharters.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "wildside-sportfishing",
+   "pages": [
+    "https://www.wildsidesportfishing.com/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "ambition-charters-sydney",
+   "pages": [
+    "https://ambitioncharters.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "blue-reef-fishing-charters-sydney",
+   "pages": [
+    "https://www.bluereefcharters.info/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "cronulla-reef-fishing-charters",
+   "pages": [
+    "https://cronullareeffishingcharters.com/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "deep-blue-charters-sydney",
+   "pages": [
+    "https://deepbluecharters.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "fishabout-tours-sydney",
+   "pages": [
+    "https://www.fishaboutsydney.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "reel-adventure-fishing-sydney",
+   "pages": [
+    "https://www.fishsydney.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "sydney-charter-fishing-manly",
+   "pages": [
+    "https://sydneycharterfishing.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "sydney-fly-fishing",
+   "pages": [
+    "https://www.sydneyflyfishing.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "sydney-premium-charters-cronulla",
+   "pages": [
+    "https://www.sydneypremiumcharters.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "wahoo-fishing-charters-sydney",
+   "pages": [
+    "https://wahoocharters.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "calm-water-fishing-tweed",
+   "pages": [
+    "https://www.calmwaterfishing.com/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "cushy-fishing-charters",
+   "pages": [
+    "https://cushyfishingcharters.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "aquilla-fishing-charters-wollongong",
+   "pages": [
+    "https://www.aquillacharters.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "five-island-charters-wollongong",
+   "pages": [
+    "https://www.fiveislandcharters.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "kiama-charter-service",
+   "pages": [
+    "https://kiamafishing.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "go-fish-yamba-charters",
+   "pages": [
+    "https://www.gofishyamba.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "yamba-fishing-and-charters",
+   "pages": [
+    "https://www.yambafishingandcharters.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r5-fps-tourism",
+   "pages": [
+    "https://www.portstephens.com.au/products/fish-port-stephens-estuary-charters",
+    "https://www.portstephens.com.au/things-to-do/tours/fishing-charters"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r5-coffs-discovery",
+   "pages": [
+    "https://www.coffscoast.com/article/fishing-on-the-coffs-coast/",
+    "https://www.beachfrontescapes.com.au/while-your-here/coffs-coast-sport-fishing-adventures/",
+    "https://www.coffsharbourmarina.com.au/",
+    "https://www.coffsmarina.com.au/",
+    "https://www.coffscoast.com/things-to-do/tours/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r5-coffs-sportfishing",
+   "pages": [
+    "http://www.coffscoastsportfishing.com.au/",
+    "https://coffscoastsportfishing.com/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r5-solitary-island",
+   "pages": [
+    "https://www.solitaryislandfishingcharters.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r5-official-dpi",
+   "pages": [
+    "https://www.dpi.nsw.gov.au/fishing/recreational/fishing-fee",
+    "https://www.dpi.nsw.gov.au/fishing/marine-protected-areas/marine-parks",
+    "https://www.dpi.nsw.gov.au/fishing/recreational/fishing-rules-and-regs"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r5-official-marine",
+   "pages": [
+    "https://www.marine.nsw.gov.au/marine-estate-programs/marine-parks",
+    "https://www.nsw.gov.au/driving-boating-and-transport/marine-safety/boating/coastal-bars",
+    "https://www.transport.nsw.gov.au/maritime-safety"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r5-official-lhi",
+   "pages": [
+    "https://www.lhib.nsw.gov.au/",
+    "https://www.lordhoweisland.info/experiences/fishing/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  }
+ ]
+}
