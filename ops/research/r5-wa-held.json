@@ -1,0 +1,59 @@
+[
+ {
+  "name": "Blue Juice Charters",
+  "_hotspot": "perth",
+  "location": "92 Southside Drive, Hillarys Boat Harbour (also Fremantle departures)",
+  "website": "https://www.bluejuicecharters.com.au/",
+  "phone": "0402 040 312",
+  "found": "Rechecked 2026-11-08. The own domain still returns a blank page (only a 'Do Not Sell or Share My Personal Information' line). Rezdy, FishingBooker and Tripadvisor still block our fetcher. Search results (not first-hand) still show a Rock Lobster Tour from Fremantle (about 4 hrs, from AUD 370, Rottnest lunch stop, fishing licence included), a Catch N Cook Lobster Tour from Hillarys, TALASEA II private Rottnest charters and 'Perth to Abrolhos 4 Talasea' (3-4 fishing days, March to July). Old Perth deep sea, night fishing, mahi mahi and Ledge Point products are prefixed 'Z' (archived). Directory listings give 92 Southside Dr, Hillarys; one gives 4/19 Koorana Road.",
+  "reason": "Very likely trading, and lobster tours are allowed under the metro demersal closure, but there is still no readable own website, socials or ATDW listing. Phone to confirm current lobster tours, Abrolhos trips, prices and boat, or have the owner view the Rezdy store in a browser. Strongest second-Perth candidate.",
+  "sources": [
+   "https://www.bluejuicecharters.com.au/",
+   "https://bluejuicecharters.rezdy.com/357580/rock-lobster-tour?iframe=1",
+   "https://bluejuicecharters.rezdy.com/531619/perth-to-abrolhos-4-talasea",
+   "https://waholidayguide.com.au/bluejuice-charters",
+   "https://visitfremantle.com.au/blue-juice-charters"
+  ]
+ },
+ {
+  "name": "No Limitts Pty Ltd (accessible charters)",
+  "_hotspot": "perth",
+  "location": "Hillarys, Perth",
+  "website": "",
+  "phone": "",
+  "found": "NEW LEAD 2026-11-08, from search results only. Adventure Collective listings describe a wheelchair-accessible custom catamaran running private charters from Hillarys: a 3-4 hour cray (rock lobster) potting tour from A$319, a 4-hour Swan River fishing tour for mulloway, flathead and seasonal blue manna crab (about $243.60), an inshore tour for King George whiting through to pink snapper, and an 8-hour custom charter (about $638). Listings say availability, pricing and inclusions are confirmed at booking. No own website, socials or ATDW listing found; Adventure Collective pages return 403 to our fetcher.",
+  "reason": "Could be a distinctive Perth listing (wheelchair-accessible fishing), but nothing first-hand and no own site. Note: inshore pink snapper is a demersal species; boat-based demersal fishing is closed in the West Coast bioregion, so its current product mix needs checking. Find the operator's phone or website and confirm.",
+  "sources": [
+   "https://app.advcollective.com/local-experts/accessible-private-tours-and-fishing-charters-in-hillarys",
+   "https://app.advcollective.com/local-experts/water-activities-no-limits-pty-ltd-crayfish-fishing-perth",
+   "https://app.advcollective.com/local-experts/swan-river-fishing-tour",
+   "https://app.advcollective.com/local-experts/inshore-fishing-tour-no-limitts-pty-ltd-perth"
+  ]
+ },
+ {
+  "name": "Fremantle Boat Charters",
+  "_hotspot": "perth",
+  "location": "South Fremantle",
+  "website": "https://fremantleboatcharters.com.au/",
+  "phone": "",
+  "found": "Rechecked 2026-11-08. Own site is still a holding page ('Luxury Charters for Adventurous Souls', contact form, (c) 2025). FishingBooker 8508 (403 to our fetcher) per search results: 57ft boat for up to 12, private charters from South Fremantle, 4.6 from 23 reviews, a 31 Jan 2026 whiting and King George whiting trip, crayfish and squid 'when the season allows'; 'nearshore fishing (except Cockburn Sound)'.",
+  "reason": "Trading in 2026 per FishingBooker reviews, but no first-hand trip details or prices on its own site. List only if the owner accepts FishingBooker-only verification or confirms by phone.",
+  "sources": [
+   "https://fremantleboatcharters.com.au/",
+   "https://fishingbooker.com/charters/view/8508"
+  ]
+ },
+ {
+  "name": "Evolution Fishing Charters",
+  "_hotspot": "exmouth",
+  "location": "Exmouth",
+  "website": "",
+  "phone": "",
+  "found": "Seen 2026-11-08 on Tourism WA's water sports and activities page (still featured): 15-metre vessel 'Teraliza', mixed-group day trips, private charters and three-day/two-night live-aboards on Ningaloo Reef, Exmouth Gulf and the shelf; captain 'Whitey' with 35+ years. Its Tourism WA listing dates from 2019 (listing ID). Round 1 found its website suspended; not rechecked this round.",
+  "reason": "Still promoted by Tourism WA, but no working own site seen. Exmouth already has 3 listings. Phone via the Tourism WA listing to confirm it is trading.",
+  "sources": [
+   "https://www.westernaustralia.com/en/things-to-do/beaches-and-lakes/water-sports-and-activities",
+   "https://www.westernaustralia.com/en/tour/evolution-fishing-charters/5d36a0306df8c91948aaf441"
+  ]
+ }
+]

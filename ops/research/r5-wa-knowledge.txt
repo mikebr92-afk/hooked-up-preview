@@ -1,0 +1,106 @@
+WESTERN AUSTRALIA - knowledge updates for ops/states/wa.md (state-wa, round 5 weekly AEO review, checked 2026-11-08)
+====================================================================================================================
+
+Deliverables in this folder: seo-patches.json (12/12), guides.json (7/7: western-australia, exmouth, broome, kimberley,
+geraldton, coral-coast, north-west-kimberley), held.json (4 records). No listings.json: no second Perth operator met
+the standard. validate-seo.mjs: 12/12 patches, 7/7 guides, 0 errors, 0 warnings.
+WebSearch used: 14 of 25. Pipeline branch: operator-images/state-wa-r5 (research/r5-*). Only image-requests/ committed.
+
+1. FRESHNESS RESULTS (all 12 operator sites re-fetched 2026-11-08)
+------------------------------------------------------------------
+- Trading, with 2026 evidence on their own sites: Absolute Ocean (c 2026), Akame (c 2026), Broome Billfish (trip
+  pages live, RentalTide booking), All The Gear No Idea (Mar 2026 uploads), Blue Horizon (blog post 1 Nov 2026),
+  Innkeeper (2026/27 blue marlin season, Aug 2026 uploads), Apache (2026 full, 2027 open, 2026-2027 brochures),
+  Offshore Charters WA (c 2026), Kuri Bay (c 2026), Reel Teaser (dates to Nov 2026 and from Mar 2027),
+  Game Time (c 2026). No price changes on any of them.
+- Birchy's Fishing Tours: own site unchanged (c 2023, 'Tour dates 2024-25', tagalongs June/July 2025; no 2026 dates).
+  Evidence it is still active: a Tourism WA tour listing created about 24 June 2026 (decoded from the listing ID
+  6a3b8b51...), featured on Tourism WA's water sports and activities page; a 24 Nov 2025 Tall Tails Fishing podcast
+  episode promoting current tours; still in the Kununurra Visitor Centre directory (0459 540 763). NOT flagged
+  closed. Owner: phone to confirm 2026-27 dates. Tourism WA listing added to same_as.
+  Also on its site but not in trips: 'Ultimate Experience fishing and hunting' day, adult $1,350 / child $670 (no
+  duration published, so not added).
+- Blue Horizon price conflict: NOT FIXED. The day-trips page is byte-identical to round 4. Table: Adult $340,
+  Pensioner $320, Child (14 and under) $320, share a line $490 (adult+child) / $520 (2 adults), observers $100,
+  whole boat $3,600 (exclusive-charters page also $3,600; family day $3,400). FAQ on the same page: $360 / $340 /
+  $110 / $500 / $550 and $4,000, 'booking page always shows the current price'. Rezdy store returns 403. Trips left
+  at $360 / $4,000; the lead now says 'adult fares listed at $340 to $360'. OWNER: phone 0417 940 930 or check the
+  Rezdy store in a browser.
+- Blue Horizon boat length CORRECTED 20m -> 17.4m: every current trip page's spec box says '57 FOOT'; '20 metres'
+  appears only in a 2015 news post. Spec box says 'sleeps 10' (day trips) vs 'sleeps 8' (exclusive page).
+- Apache Fremantle deep sea / rock lobster tour: still 'not currently operating' (metro demersal closure).
+- Kuri Bay: toll-free 1800 11 11 63 removed from the contact page; mobile 0407 006 474 remains.
+- All The Gear No Idea: Our Charters page still shows the old $1,500 / $2,700 (FAQ and Book Now say $1,800 / $3,000).
+- Phones seen on operator sites (records have phone ""): Broome Billfish 0438 811 164 / 0476 793 527;
+  Blue Horizon 08 9949 1620 / 0417 940 930; Game Time 0419 251 730; Apache 0409 968 371; Offshore Charters WA
+  0428 531 231.
+
+2. WHAT CHANGED IN THE PATCHES
+------------------------------
+- Every lead rewritten to answer who / where (departure point) / what / for whom / from how much, all <=45 words.
+  Where no price is published (Absolute Ocean, Offshore Charters WA, Kuri Bay, Reel Teaser) the lead says so
+  ('prices on its booking page', 'quoted by phone', 'on enquiry') rather than quoting third-party prices.
+- Every FAQ now has a source URL (round-4 FAQs had none; the validator requires them).
+- corrections: blue-horizon-charters-exmouth boat_length_m 17.4 (see 1). No other corrections.
+- areas_fished: All The Gear No Idea adds 'Ningaloo deep-sea drop-offs and canyons' (from its charters page).
+
+3. RULES CONFIRMED THIS ROUND (official pages read first-hand unless noted)
+---------------------------------------------------------------------------
+- NEW, confirmed: from 1 June 2026, outside the West Coast bioregion (North Coast, Gascoyne, South Coast): mixed
+  demersal bag limit 4 per person per day (was 5); dhufish 1; coral trout, coronation trout, western blue groper 1;
+  pink snapper, red emperor and tuskfish (incl. baldchin, bluebone) 2; pink snapper and red emperor min size 45cm.
+  Sources: DPIRD rules page and bag-and-size-limits page (mixed 4, snapper 2, red emperor 2 worked example), and
+  Recfishwest's summary. Guides now state these numbers instead of 'check the DPIRD rules'.
+  https://www.dpird.wa.gov.au/individuals/recreational-fishing/recreational-fishing-rules/
+  https://www.dpird.wa.gov.au/individuals/recreational-fishing/recreational-fishing-rules/recreational-bag-and-size-limits/
+  https://recfishwest.org.au/news/new-demersal-rules-and-50-tackle-rebate-announced/
+- Possession limits (DPIRD bag-and-size page): general 10kg fillets + 10kg skin-on large pelagic fillets (or other
+  combos); 20kg of fillets allowed after an extended charter tour with overnight accommodation if labelled with
+  name, boat name and tour end date (explains Apache's 'up to 20kg'); Abrolhos: 5kg fillets + 5kg large pelagic
+  fillets, or one day's bag of whole fish, and the West Coast demersal boat limit applies; barramundi away from
+  home: 2 whole or 4 fillets.
+- Bioregion boundaries (DPIRD): North Coast = Ashburton River (south of Onslow) to the NT border; Gascoyne =
+  Zuytdorp Cliffs (north of Kalbarri) to the Ashburton River. Shark Bay pink snapper closures: Freycinet Estuary
+  15 Aug-30 Sep; Northern Bernier Island 1 Jun-31 Aug (useful for a future shark-bay page).
+- Abrolhos (DPIRD): anyone travelling by boat must notify DPIRD online before entering the fish habitat protection
+  area; jointly managed by DPIRD and DBCA; strong southerlies (>32km/h) 44% of the time; register trips with
+  Marine Rescue Geraldton.
+- Unchanged: charter page (clients exempt from RFBL; strategic charter review consultation closed 11 May 2026,
+  outcome still not published); West Coast demersal closed until spring 2027; metro charter demersal closed from
+  16 Dec 2025, 25t tag limit elsewhere.
+- Parks and Wildlife (DBCA): exploreparks.dbca.wa.gov.au and dbca.wa.gov.au return HTTP 406 to the pipeline, so these
+  facts come from search-result text of the official pages (not fetched first-hand): sanctuary zones are 'look but
+  don't take' (marine-park-conservation page); Tantabiddi boat ramp sits beside a recreation zone next to the
+  Tantabiddi Sanctuary Zone; Rowley Shoals: no fishing in sanctuary zones at Clerke and Imperieuse reefs, cod,
+  groper and wrasse fully protected in all zones (2023 visitor guide); Abrolhos NP: responsible fishing permitted,
+  no camping (park page); Be CROCWISE: saltwater crocodiles throughout the Kimberley, active year round, also in
+  freshwater far from the coast (factsheet). Owner may want to spot-check these in a browser.
+- Tourism WA source now cited: https://www.westernaustralia.com/en/things-to-do/beaches-and-lakes/water-sports-and-activities
+  (features Evolution Fishing Charters, Birchy's and Blue Lightning Fishing Charters).
+
+4. PERTH (still 1 listing; no listings.json)
+--------------------------------------------
+- Blue Juice: own domain still blank; Rezdy/Tripadvisor blocked. Still the best candidate: PHONE 0402 040 312.
+- Fremantle Boat Charters: still a holding page (c 2025); FishingBooker shows a 31 Jan 2026 trip.
+- NEW lead, No Limitts Pty Ltd (Hillarys): wheelchair-accessible catamaran; cray tours (from A$319), Swan River and
+  inshore fishing tours, per Adventure Collective listings only. No own site found. Held.
+- Searches for other Perth/Mindarie/Fremantle game boats, Cockburn Sound squid/whiting and Swan River lure guides
+  found no operator with its own site (FishingBooker pages 403 to the fetcher).
+- Suggestion unchanged: a phone check of Blue Juice is the quickest way to unlock the Perth page.
+
+5. GAPS AND NEXT STEPS
+----------------------
+- Perth needs 1 more listing (see 4). Dampier & Karratha, Mandurah, Geographe Bay & Augusta, Albany, Shark Bay: no
+  listings (not in scope this round).
+- Blue Lightning Fishing Charters (Mandurah; Montebello and Abrolhos live-aboards) is still featured by Tourism WA;
+  site was unreachable in round 1. Worth a recheck for Mandurah.
+- Evolution Fishing Charters (Exmouth) still featured by Tourism WA (15m 'Teraliza'); recheck its website.
+- DBCA pages are blocked to the fetcher (406): next time try the PDFs via the pipeline or accept search-text sourcing.
+
+6. THINGS THE OWNER SHOULD CHECK
+--------------------------------
+- Blue Horizon: which day-trip price is current ($340/$3,600 vs $360/$4,000).
+- Birchy's: 2026-27 operating dates (0459 540 763).
+- Phone Blue Juice to unlock the second Perth listing.
+- Broome Billfish's '2025 most billfish releases worldwide' and award list remain the operator's own claims.
+- Akame's $1,500 price is still only on the Broome Visitor Centre page.
