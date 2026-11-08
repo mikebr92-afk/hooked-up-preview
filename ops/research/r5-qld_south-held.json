@@ -1,0 +1,32 @@
+[
+ {
+  "name": "Fishing Offshore 1770",
+  "hotspot": "agnes-water",
+  "phone": "",
+  "address": "1770 Marina, 741 Captain Cook Drive, Seventeen Seventy QLD 4677",
+  "found": "Re-checked 2026-11-08: still only a Queensland Visitor Information Centres (QICA/Bookeasy) listing, unchanged from round 4: '1770's Best Offshore Fishing Since 1996', half, three-quarter and full-day reef trips to the Capricorn and Bunker Group, 8.2 m boat cruising at 20 knots, everything supplied except lunch, hours 7am-7pm with the phone 'manned after hours', 20% cancellation fee under 48 hours. No phone number in the listing text, no website, no prices and no dated 2025-26 content (the only (c) 2026 is QICA's footer). A web search for a phone number found nothing new.",
+  "sources": ["https://www.qica.com.au/tours/town-of-1770-agnes-water/fishing-offshore-1770", "https://www.qica.com.au/accommodation/fishing-offshore-1770"],
+  "_checked": "2026-11",
+  "next_step": "Owner to phone the Agnes Water Visitor Information Centre or the 1770 Marina office for the operator's number and confirm the boat is running. High value: Agnes Water has only one listing and that operator is restructuring."
+ },
+ {
+  "name": "Reef Fishing Charters 1770 (Southern Comfort)",
+  "hotspot": "agnes-water",
+  "phone": "07 4974 7906",
+  "address": "1770 Marina, Town of 1770 QLD 4677",
+  "found": "Re-checked 2026-11-08 by web search: only undated third-party pages (a travel-guide article quoting a $390 full day from the 1770 Marina, 7am-4pm, on the Noosa Cat 'Southern Comfort'; a playsport directory profile). A boatsonline listing for a Noosa Cat 3100 commercial vessel is still returned for the same search. No operator website and nothing dated 2025-26. Phone number is from the state file (site down; boat advertised for sale in 2024).",
+  "sources": ["https://australiatravelquestions.com/?p=34551", "https://playsport.com/reeffishingcharters1770_ag_d2815b29", "https://www.boatsonline.com.au/boats-for-sale/used/commercial-vessel/noosa-cat-3100-sports-cruiser/303292"],
+  "_checked": "2026-11",
+  "next_step": "Probably sold or closed. A single phone call to 07 4974 7906 would settle it; do not list without confirmation."
+ },
+ {
+  "name": "Australiana Charters",
+  "hotspot": "yeppoon",
+  "phone": "0427 599 832",
+  "address": "Rosslyn Bay (directory listings also say Gladstone / Lake Mary)",
+  "found": "Re-checked 2026-11-08 by web search: still directory listings only (Yellow Pages, playsport) for 7-10 day Swain Reefs group charters for up to 12-14 on a 60 ft steel monohull, run by Michael and Helen Ross. The old domain auscharters.com.au redirected to a change.org petition in round 4. No working site and no dated 2025-26 evidence.",
+  "sources": ["https://www.yellowpages.com.au/rosslyn-qld/bpp/australiana-charters-581885679", "https://www.yellowpages.com.au/lake-mary-qld/bpp/australiana-charters-580292375", "https://playsport.com/australianacharters_ag_0e079d99"],
+  "_checked": "2026-11",
+  "next_step": "Phone 0427 599 832. Worth confirming now: if Kanimbla, MV Mikat and Night Crossing (all flagged stale?) prove inactive, Yeppoon and Gladstone each fall to one liveaboard."
+ }
+]

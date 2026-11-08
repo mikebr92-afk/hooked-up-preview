@@ -1,0 +1,98 @@
+QLD SOUTH - ROUND 5 AEO REVIEW: KNOWLEDGE UPDATES (checked 2026-11-08)
+For ops/states/qld.md. Research text is on branch operator-images/state-qld-south-r5 under research/r5-<slug>/ (all 24 operators,
+plus research/r5-qld-official and research/r5-qld-official2 for rules, zoning and tourism pages).
+
+FRESHNESS: THE FOUR FLAGGED ITEMS
+- Hooked On 1770 (restructure): STILL TRADING. Calendar (1770tours.com/hooked/calendar.php) shows November 2026 mostly "FULLY BOOKED"
+  (seats left on 11 and 13 Nov), 9-10 Nov marked "Reef Closure", and every December 2026 date "Not Open Yet - future trips are released at
+  short notice". Booking requests open to 28-02-2027. Prices $450 full / $320 half per person (home page + calendar); payment on the day,
+  no prepayment; 24 h cancellation. Older charters.html still shows $400/$300 and private $2,800/$2,100 (private prices stay null).
+  Keep on watchlist until the restructure settles; check again in Feb 2027 (when the booking window ends).
+- Night Crossing (Gladstone): NO CHANGE, second round in a row. Still "Fully booked 2023, book 2024 / 2025 now", (c) 2016, 2016 uploads;
+  one web search found only undated directories. Its phone 0436 640 197 is the number Eastern Voyager publishes. Patch keeps _flag "stale?".
+  RECOMMENDATION: owner phones 0436 640 197; if MV Night Crossing isn't running 2026-27 trips, move it to held (or note it as part of
+  Eastern Voyager's operation).
+- Kanimbla (Yeppoon): NO CHANGE, second round. Newest trip report 14-21 Oct 2016; footer (c) 2026 auto-updates; availability page says
+  only "call 0429 159 233"; one search found directory listings only (one still mentions pandemic-era border closures). _flag "stale?".
+  OWNER ACTION: phone 0429 159 233; move to held if no 2026-27 trips are confirmed.
+- MV Mikat (Gladstone): NO CHANGE, second round. Nothing dated after 2024; one search found nothing. _flag "stale?".
+  OWNER ACTION: phone +61 400 697 242 / mikatchartersqld@gmail.com; move to held if unconfirmed.
+- GAP RISK (unchanged): if all three stale liveaboards drop, Gladstone has 1 listing (Eastern Voyager) and Yeppoon 1 (Double Threat).
+  Australiana Charters (0427 599 832) remains the only southern-GBR liveaboard lead.
+
+OTHER LISTING CHANGES (seo-patches.json)
+- All 24 leads rewritten to answer who / where (named departure point) / what / for whom / from how much in one sentence.
+- All 72 FAQs now carry a source URL to the exact operator page fetched this round.
+- moreton-island-fishing-charters: added the published 10-guest private rate ($3,500) as a trip; price_to 3,500. Rates page updated 2026-09-07.
+- hervey-bay-fly-and-sportfishing and saltwater-playground-hervey-bay: trip prices corrected from the two-angler tier to the lowest
+  per-person tier (three anglers): HBFSF $300 half / $450 full (price_from 300, price_to 950); Saltwater Playground $400 half / $500 full /
+  $1,000 Breaksea (price_from 400, price_to 2,000). Full sliding scales are in each trip's suitability_notes. OWNER: approve this
+  convention (lowest per-person tier as the "from" price) or drop these two corrections.
+- saltwater-playground-hervey-bay: NEW temporary 10% fuel surcharge on all charters (pricing page). Accommodation FAQ swapped for a
+  fuel-surcharge FAQ. Minimum age is inconsistent on its site (FAQ page says 4, charters page says 5); children pay the adult rate.
+- fish-the-deep-charters: the "call 4:30-5pm the evening before" FAQ could not be re-sourced (not on any page fetched in rounds 4 or 5);
+  replaced with a sourced BYO-alcohol FAQ.
+- fish-moreton: the "ice slurry" highlight is no longer on the site and was replaced. Smooth-water trips now name a second boat,
+  "Searcher" (max 10); the 9 m Shark Cat "Discovery" (max 8) does bay/offshore trips. Owner may want boat details updated.
+- truansea-charters-bundaberg: areas_fished widened (inshore reefs to ~20 nm; wide grounds to ~50 nm at the shelf; Burnett River).
+- bks-gold-coast-fishing-charters: added "Gold Coast offshore reefs" to areas_fished. Departures 6am and 11:15am.
+- eastern-voyager-gladstone: highlights now state inclusions (GST, reef levy/EMC, meals, bedding, bait, ice, fuel, tenders). Dates listed:
+  11 Dec 2026; Mar, Apr, May 2027 (7 nights, $4,350); 4 Sep 2027 (6 nights, $3,900). News posts Dec 2025, Feb 2026, Jun 2026.
+- noosa-bluewater-charters: site now warns a fuel surcharge may apply if fuel prices rise significantly.
+- saltys-fishing-charters-caloundra: child prices published on every trip (calm water $69 for 3-12; offshore $200/$240/$275/$350 for
+  under-13s; pensioner/RSL $89). Owner may want these in trip notes.
+- Prices re-checked and unchanged for: BKs, Fish The Deep, Hooker 1, True Blue, Brisbane Fishing Tour, Frenzy, Bundaberg River,
+  Truansea, Keely Rose, Rainbow Beach FC, Deep Sea Fishing Co., Noosa Bluewater, Salty's, What A Catch, Double Threat, Eastern Voyager.
+- Weak freshness (not flagged; phone check optional): Hooker 1 (only dated items are Jan-Feb 2024 reviews; live booking packages);
+  Bundaberg River Fishing Charters, Double Threat, Brisbane Fishing Tour (no dates on the fetched pages; round-4 evidence stands);
+  Frenzy (newest report 17 Sep 2025); Hervey Bay Fly (newsletters to autumn/winter 2025, (c) 2026).
+
+RULES AND OFFICIAL SOURCES (new or changed)
+- Coral reef fin fish closures 2027: 26-30 October and 25-29 November 2027 (Fisheries amendment SL 2024 No. 189, per web search, plus
+  the Fishos Tackle World Hervey Bay rules page, which mirrors the official list; it also gives 2028 as 15-19 Oct and 13-17 Nov).
+  All guides rolled forward from the 2026 dates. The legislation PDF did not parse in the pipeline and the DPI page returns 403, so the
+  owner may want to confirm once on dpi.qld.gov.au.
+- Southern Spanish mackerel closures: 1-21 February and 1-21 March EVERY YEAR, east coast waters south of latitude 22 S (just north of
+  Stanage Bay), so they apply to every QLD-south destination. Added to the state page, Gold Coast, Sunshine Coast, Bundaberg, Yeppoon and
+  the Southern GBR hub. Northern (north of 22 S) closures are new-moon based and vary by year.
+- Fisheries pages: DAF has become DPI. Use https://www.dpi.qld.gov.au/services/fisheries/closures/tidal-seasons (403 to the pipeline).
+  Limits page fetched OK: https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/rules/limits-tidal (combined coral
+  reef fin fish limit 20; no blue-spotted coral trout fillets on boats; two five-day Oct/Nov closures).
+  The old URL .../rec-fishing/rules/closed-seasons now 404s.
+- Designated coastal bars (MSQ, https://www.msq.qld.gov.au/Safety/Crossing-a-bar, per search; page blocks the pipeline): include Gold
+  Coast Seaway, Jumpinpin, Currumbin, Bribie Island, Caloundra, Mooloolah, Maroochy, Noosa, Round Hill Creek and Cawarral Creek. South
+  Passage was NOT in the list returned. New lifejacket rules for bar crossings started 1 Dec 2024 and are enforced from 1 Jul 2025;
+  sources differ on scope (open boats of any length vs open boats under 4.8 m), so the guides don't state the rule.
+- Round Hill Creek (1770): MSQ Discovery Coast beacon guide says cross only in daylight without local knowledge and contact VMR Round
+  Hill first; VMR Round Hill base 07 4974 9383 (VHF 16, 81, 82; 0630-1800 daily). Buoys moved in 2023 and Oct 2024 (MSQ notices).
+- Marine parks: https://www.qld.gov.au/environment/coasts-waterways/marine-parks/zoning (fetched: green = no take; three state marine
+  parks). Great Sandy Marine Park new zoning plan commenced 21 May 2024 (https://www.qld.gov.au/greatsandymarinepark, per search; green
+  zones reportedly up from 3.9% to 12.8% - not used). Moreton Bay FAQ (parks.qld.gov.au, per search): no fishing in green zones; transit
+  with fish caught elsewhere is allowed.
+- Agnes Water tourism (Discovery Coast Tourism and Commerce): visitagnes1770.com.au says the closest reef is "approx. 30 miles offshore"
+  (the Bunker Group), while Hooked On 1770 fishes deep-water reef patches within 15 nm; the guide now explains both. Also lists Baffle
+  Creek, Jenny Lind Creek, Wreck Rock and Agnes Point; Miriam Vale is the nearest train station (40 min).
+
+GUIDES (guides.json, 13 pages)
+- Every page has a 40-60 word summary (place, departure points, species and season, trip styles, price range) and 6-8 FAQs covering the
+  fan-out facets (half vs full day, private vs shared, kids/families, bars and safety, marine park zoning, what's included, where to fish
+  for barramundi). Every existing section and FAQ is kept; regions now carry their intro and season in guides.json.
+- Agnes Water & 1770: new summary; Round Hill Creek bar paragraph with MSQ/VMR advice; "Charter options and prices" rebuilt with items
+  (half/full/private/what to bring) and the restructure status; new FAQs on half vs full day, summer 2026-27 availability and estuary
+  barramundi/mangrove jack; travel details updated (480 km, Miriam Vale train).
+- Gladstone: FAQ order no longer leads with Night Crossing; new FAQs on inclusions and next Swains dates.
+- Rainbow Beach: empty "Trip lengths and prices" items filled (per-boat prices and deposits).
+- Sources are now page URLs only, led by operator pages and qld.gov.au / DPI / GBRMPA / MSQ / tourism-body pages.
+
+LEADS AND HELD (held.json)
+- Fishing Offshore 1770: unchanged QICA listing only; no phone in listing text. Phone the Agnes Water Visitor Information Centre or 1770
+  Marina. HIGH VALUE: Agnes Water still has one listing, and it is restructuring.
+- Reef Fishing Charters 1770 (Southern Comfort, 07 4974 7906): undated third-party pages only; Noosa Cat 3100 sale listing still shows.
+- Australiana Charters (0427 599 832): directory listings only.
+- Night Crossing, Kanimbla, MV Mikat: remain listed with _flag "stale?" (see above); move to held if the owner's calls fail.
+
+GAPS
+- Agnes Water & 1770: one listing (min 1 met, but fragile). No new trading operator found this round.
+- Gladstone and Yeppoon liveaboard depth depends on the three stale operators.
+
+SEARCH BUDGET: 14 of 25 WebSearches used.
