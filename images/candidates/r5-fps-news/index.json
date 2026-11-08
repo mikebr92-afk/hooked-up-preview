@@ -1,0 +1,22 @@
+{
+  "slug": "r5-fps-news",
+  "request_hash": "64cc07f94a12",
+  "collected_at": "2026-11-08T23:43:20.438Z",
+  "pages_fetched": [
+    "https://portstephens.newsofthearea.com.au/category/lifestyle/fishing/",
+    "https://www.portstephens.org.au/see-and-do/fish-port-stephens-estuary-charters/overview"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://portstephens.newsofthearea.com.au/category/lifestyle/fishing/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://www.portstephens.org.au/see-and-do/fish-port-stephens-estuary-charters/overview",
+      "status": 404,
+      "final_url": "https://www.portstephens.com.au/see-and-do/fish-port-stephens-estuary-charters/overview",
+      "bytes": 322904
+    }
+  ]
+}

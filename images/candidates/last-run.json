@@ -1,255 +1,250 @@
 {
-  "finished_at": "2026-11-08T23:40:25.784Z",
+  "finished_at": "2026-11-08T23:43:24.229Z",
   "summary": [
     {
       "slug": "byron-bay-charters",
-      "candidates": 0,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "evans-head-deep-sea-fishing-charters",
-      "candidates": 0,
-      "pages": 7
+      "skipped": true
     },
     {
       "slug": "fishbermi-charters",
-      "candidates": 0,
-      "pages": 6
+      "skipped": true
     },
     {
       "slug": "game-on-charters-batemans-bay",
-      "candidates": 0,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "central-coast-reef-and-game-fishing-charters",
-      "candidates": 0,
-      "pages": 7
+      "skipped": true
     },
     {
       "slug": "terrigal-fishing-tours",
-      "candidates": 0,
-      "pages": 8
+      "skipped": true
     },
     {
       "slug": "coffs-harbour-fishing-charters",
-      "candidates": 0,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "freedom-charters-eden",
-      "candidates": 0,
-      "pages": 11
+      "skipped": true
     },
     {
       "slug": "escape-fishing-charters-greenwell-point",
-      "candidates": 0,
-      "pages": 6
+      "skipped": true
     },
     {
       "slug": "jervis-bay-fishing-charters-huskisson",
-      "candidates": 0,
-      "pages": 1
+      "skipped": true
     },
     {
       "slug": "sea-buoys-ocean-charters",
-      "candidates": 0,
-      "pages": 6
+      "skipped": true
     },
     {
       "slug": "sea-to-summit-lord-howe-fishing",
-      "candidates": 0,
-      "pages": 6
+      "skipped": true
     },
     {
       "slug": "fishpen-charters-merimbula",
-      "candidates": 0,
-      "pages": 5
+      "skipped": true
     },
     {
       "slug": "sapphire-coastal-adventures-merimbula",
-      "candidates": 0,
-      "pages": 7
+      "skipped": true
     },
     {
       "slug": "narooma-charters",
-      "candidates": 0,
-      "pages": 11
+      "skipped": true
     },
     {
       "slug": "capns-charters-newcastle",
-      "candidates": 0,
-      "pages": 9
+      "skipped": true
     },
     {
       "slug": "day-trippin-charters",
-      "candidates": 0,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "castaway-estuary-fishing-charters",
-      "candidates": 0,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "port-macquarie-fishing-charters",
-      "candidates": 0,
-      "pages": 8
+      "skipped": true
     },
     {
       "slug": "calypso-fishing-adventures",
-      "candidates": 0,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "fish-port-stephens-estuary-charters",
-      "candidates": 0,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "hammerhead-charters-nelson-bay",
-      "candidates": 0,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "pacific-blue-fishing-charters-nelson-bay",
-      "candidates": 0,
-      "pages": 6
+      "skipped": true
     },
     {
       "slug": "reel-contagious-charters-port-stephens",
-      "candidates": 0,
-      "pages": 5
+      "skipped": true
     },
     {
       "slug": "south-west-rocks-fishing-charters",
-      "candidates": 0,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "wildside-sportfishing",
-      "candidates": 0,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "ambition-charters-sydney",
-      "candidates": 0,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "blue-reef-fishing-charters-sydney",
-      "candidates": 0,
-      "pages": 1
+      "skipped": true
     },
     {
       "slug": "cronulla-reef-fishing-charters",
-      "candidates": 0,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "deep-blue-charters-sydney",
-      "candidates": 0,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "fishabout-tours-sydney",
-      "candidates": 0,
-      "pages": 6
+      "skipped": true
     },
     {
       "slug": "reel-adventure-fishing-sydney",
-      "candidates": 0,
-      "pages": 5
+      "skipped": true
     },
     {
       "slug": "sydney-charter-fishing-manly",
-      "candidates": 0,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "sydney-fly-fishing",
-      "candidates": 0,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "sydney-premium-charters-cronulla",
-      "candidates": 0,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "wahoo-fishing-charters-sydney",
-      "candidates": 0,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "calm-water-fishing-tweed",
-      "candidates": 0,
-      "pages": 7
+      "skipped": true
     },
     {
       "slug": "cushy-fishing-charters",
-      "candidates": 0,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "aquilla-fishing-charters-wollongong",
-      "candidates": 0,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "five-island-charters-wollongong",
-      "candidates": 0,
-      "pages": 8
+      "skipped": true
     },
     {
       "slug": "kiama-charter-service",
-      "candidates": 0,
-      "pages": 9
+      "skipped": true
     },
     {
       "slug": "go-fish-yamba-charters",
-      "candidates": 0,
-      "pages": 6
+      "skipped": true
     },
     {
       "slug": "yamba-fishing-and-charters",
-      "candidates": 0,
-      "pages": 9
+      "skipped": true
     },
     {
       "slug": "r5-fps-tourism",
-      "candidates": 0,
-      "pages": 7
+      "skipped": true
     },
     {
       "slug": "r5-coffs-discovery",
-      "candidates": 0,
-      "pages": 9
+      "skipped": true
     },
     {
       "slug": "r5-coffs-sportfishing",
+      "skipped": true
+    },
+    {
+      "slug": "r5-solitary-island",
+      "skipped": true
+    },
+    {
+      "slug": "r5-official-dpi",
+      "skipped": true
+    },
+    {
+      "slug": "r5-official-marine",
+      "skipped": true
+    },
+    {
+      "slug": "r5-official-lhi",
+      "skipped": true
+    },
+    {
+      "slug": "r5-scf-reef",
       "candidates": 0,
       "pages": 2
     },
     {
-      "slug": "r5-solitary-island",
+      "slug": "r5-terrigal-rezdy",
+      "candidates": 0,
+      "pages": 4
+    },
+    {
+      "slug": "r5-gameon-rezdy",
       "candidates": 0,
       "pages": 1
     },
     {
-      "slug": "r5-official-dpi",
+      "slug": "r5-coffs-rezdy",
+      "candidates": 0,
+      "pages": 8
+    },
+    {
+      "slug": "r5-bluereef-retry",
       "candidates": 0,
       "pages": 3
     },
     {
-      "slug": "r5-official-marine",
-      "candidates": 0,
-      "pages": 3
-    },
-    {
-      "slug": "r5-official-lhi",
+      "slug": "r5-outthere",
       "candidates": 0,
       "pages": 12
+    },
+    {
+      "slug": "r5-watch-tourism",
+      "candidates": 0,
+      "pages": 7
+    },
+    {
+      "slug": "r5-fps-news",
+      "candidates": 0,
+      "pages": 2
+    },
+    {
+      "slug": "r5-official-2",
+      "candidates": 0,
+      "pages": 6
     }
   ]
 }

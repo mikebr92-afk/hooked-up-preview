@@ -1,0 +1,66 @@
+{
+  "slug": "r5-coffs-rezdy",
+  "request_hash": "70b5a259ac5b",
+  "collected_at": "2026-11-08T23:42:51.159Z",
+  "pages_fetched": [
+    "https://coffsharbourfishing.rezdy.com/",
+    "https://coffsharbourfishing.com.au/charters/",
+    "https://coffsharbourfishing.rezdy.com/276429/1-half-day-mixed-fishing-charter",
+    "https://coffsharbourfishing.rezdy.com/444348/8-hour-full-day-mixed-reef-charter",
+    "https://coffsharbourfishing.rezdy.com/545638/sport-and-game-fishing-mixed-charter",
+    "https://coffsharbourfishing.rezdy.com/276440/whole-boat-exclusive-1-half-day-charter",
+    "https://coffsharbourfishing.rezdy.com/276452/whole-boat-exclusive-full-day-charter",
+    "https://coffsharbourfishing.rezdy.com/545447/south-solitary-sportfishing-experience"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://coffsharbourfishing.rezdy.com/",
+      "status": 403,
+      "final_url": "https://coffsharbourfishing.rezdy.com/",
+      "bytes": 5186
+    },
+    {
+      "page": "https://coffsharbourfishing.com.au/charters/",
+      "status": 200,
+      "final_url": "https://coffsharbourfishing.com.au/charters/",
+      "bytes": 29644
+    },
+    {
+      "page": "https://coffsharbourfishing.rezdy.com/276429/1-half-day-mixed-fishing-charter",
+      "status": 403,
+      "final_url": "https://coffsharbourfishing.rezdy.com/276429/1-half-day-mixed-fishing-charter",
+      "bytes": 5186
+    },
+    {
+      "page": "https://coffsharbourfishing.rezdy.com/444348/8-hour-full-day-mixed-reef-charter",
+      "status": 403,
+      "final_url": "https://coffsharbourfishing.rezdy.com/444348/8-hour-full-day-mixed-reef-charter",
+      "bytes": 5186
+    },
+    {
+      "page": "https://coffsharbourfishing.rezdy.com/545638/sport-and-game-fishing-mixed-charter",
+      "status": 403,
+      "final_url": "https://coffsharbourfishing.rezdy.com/545638/sport-and-game-fishing-mixed-charter",
+      "bytes": 5186
+    },
+    {
+      "page": "https://coffsharbourfishing.rezdy.com/276440/whole-boat-exclusive-1-half-day-charter",
+      "status": 403,
+      "final_url": "https://coffsharbourfishing.rezdy.com/276440/whole-boat-exclusive-1-half-day-charter",
+      "bytes": 5186
+    },
+    {
+      "page": "https://coffsharbourfishing.rezdy.com/276452/whole-boat-exclusive-full-day-charter",
+      "status": 403,
+      "final_url": "https://coffsharbourfishing.rezdy.com/276452/whole-boat-exclusive-full-day-charter",
+      "bytes": 5186
+    },
+    {
+      "page": "https://coffsharbourfishing.rezdy.com/545447/south-solitary-sportfishing-experience",
+      "status": 403,
+      "final_url": "https://coffsharbourfishing.rezdy.com/545447/south-solitary-sportfishing-experience",
+      "bytes": 5186
+    }
+  ]
+}

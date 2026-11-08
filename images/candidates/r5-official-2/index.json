@@ -1,0 +1,52 @@
+{
+  "slug": "r5-official-2",
+  "request_hash": "f8be743ec69d",
+  "collected_at": "2026-11-08T23:43:24.229Z",
+  "pages_fetched": [
+    "https://www.dpird.nsw.gov.au/fishing/recreational/fishing-fee",
+    "https://www.dpird.nsw.gov.au/fishing/marine-protected-areas/marine-parks",
+    "https://www.dpird.nsw.gov.au/fishing/closures/location-closures/tweed-river",
+    "https://www.nsw.gov.au/driving-boating-and-transport/marine-safety-and-rules",
+    "https://www.nsw.gov.au/driving-boating-and-transport/using-waterways-boating-and-transport-information/conditions-weather-and-tides/coastal-bars",
+    "https://www.visitnsw.com/things-to-do/outdoor-activities/fishing"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.dpird.nsw.gov.au/fishing/recreational/fishing-fee",
+      "status": 403,
+      "final_url": "https://www.dpird.nsw.gov.au/fishing/recreational/fishing-fee",
+      "bytes": 5901
+    },
+    {
+      "page": "https://www.dpird.nsw.gov.au/fishing/marine-protected-areas/marine-parks",
+      "status": 403,
+      "final_url": "https://www.dpird.nsw.gov.au/fishing/marine-protected-areas/marine-parks",
+      "bytes": 5955
+    },
+    {
+      "page": "https://www.dpird.nsw.gov.au/fishing/closures/location-closures/tweed-river",
+      "status": 403,
+      "final_url": "https://www.dpird.nsw.gov.au/fishing/closures/location-closures/tweed-river",
+      "bytes": 5964
+    },
+    {
+      "page": "https://www.nsw.gov.au/driving-boating-and-transport/marine-safety-and-rules",
+      "status": 404,
+      "final_url": "https://www.nsw.gov.au/driving-boating-and-transport/marine-safety-and-rules",
+      "bytes": 124087
+    },
+    {
+      "page": "https://www.nsw.gov.au/driving-boating-and-transport/using-waterways-boating-and-transport-information/conditions-weather-and-tides/coastal-bars",
+      "status": 404,
+      "final_url": "https://www.nsw.gov.au/driving-boating-and-transport/using-waterways-boating-and-transport-information/conditions-weather-and-tides/coastal-bars",
+      "bytes": 124155
+    },
+    {
+      "page": "https://www.visitnsw.com/things-to-do/outdoor-activities/fishing",
+      "status": 404,
+      "final_url": "https://www.visitnsw.com/things-to-do/outdoor-activities/fishing",
+      "bytes": 194146
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "slug": "r5-watch-tourism",
+  "request_hash": "33ee1218d110",
+  "collected_at": "2026-11-08T23:43:08.829Z",
+  "pages_fetched": [
+    "https://www.visitnsw.com/things-to-do/tours/cushy-fishing-charters-tweed-heads",
+    "https://visitnsw.com/destinations/central-coast/gosford-area/terrigal/hire/central-coast-reef-and-game-fishing-charters",
+    "https://icentralcoast.com/places/central-coast-reef-game-fishing-charters/",
+    "https://playsport.com/fiveislandcharters_ag_6a487335",
+    "https://playsport.com/CentralCoastReefandGameFishing_Terrigal",
+    "https://playsport.com/cushyfishingchartersest1996_ag_63a70f87",
+    "https://australiasguide.com/nsw/attraction-tour/tweed/tweed-heads/cushy-fishing-charters-tweed-heads/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.visitnsw.com/things-to-do/tours/cushy-fishing-charters-tweed-heads",
+      "status": 404,
+      "final_url": "https://www.visitnsw.com/things-to-do/tours/cushy-fishing-charters-tweed-heads",
+      "bytes": 194178
+    },
+    {
+      "page": "https://visitnsw.com/destinations/central-coast/gosford-area/terrigal/hire/central-coast-reef-and-game-fishing-charters",
+      "status": 404,
+      "final_url": "https://www.visitnsw.com/destinations/central-coast/gosford-area/terrigal/hire/central-coast-reef-and-game-fishing-charters",
+      "bytes": 194487
+    },
+    {
+      "page": "https://icentralcoast.com/places/central-coast-reef-game-fishing-charters/",
+      "status": 200,
+      "final_url": "https://icentralcoast.com/places/central-coast-reef-game-fishing-charters/",
+      "bytes": 211633
+    },
+    {
+      "page": "https://playsport.com/fiveislandcharters_ag_6a487335",
+      "status": 200,
+      "final_url": "https://playsport.com/fiveislandcharters_ag_6a487335",
+      "bytes": 274944
+    },
+    {
+      "page": "https://playsport.com/CentralCoastReefandGameFishing_Terrigal",
+      "status": 200,
+      "final_url": "https://playsport.com/CentralCoastReefandGameFishing_Terrigal",
+      "bytes": 276673
+    },
+    {
+      "page": "https://playsport.com/cushyfishingchartersest1996_ag_63a70f87",
+      "status": 200,
+      "final_url": "https://playsport.com/cushyfishingchartersest1996_ag_63a70f87",
+      "bytes": 287687
+    },
+    {
+      "page": "https://australiasguide.com/nsw/attraction-tour/tweed/tweed-heads/cushy-fishing-charters-tweed-heads/",
+      "status": 404,
+      "final_url": "https://australiasguide.com/nsw/attraction-tour/tweed/tweed-heads/cushy-fishing-charters-tweed-heads/",
+      "bytes": 103361
+    }
+  ]
+}

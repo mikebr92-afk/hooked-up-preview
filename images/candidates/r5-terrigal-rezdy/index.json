@@ -1,0 +1,38 @@
+{
+  "slug": "r5-terrigal-rezdy",
+  "request_hash": "9918f8510fa0",
+  "collected_at": "2026-11-08T23:42:49.428Z",
+  "pages_fetched": [
+    "https://terrigaltours.rezdy.com/612518/reef-and-bay-shared-fishing-charter",
+    "https://terrigaltours.rezdy.com/517523/reef-bay-private-fishing-charter",
+    "https://terrigaltours.rezdy.com/665941/young-guns-fishing-charter-private",
+    "https://terrigaltours.rezdy.com/665319/young-guns-fishing-charter-shared"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://terrigaltours.rezdy.com/612518/reef-and-bay-shared-fishing-charter",
+      "status": 403,
+      "final_url": "https://terrigaltours.rezdy.com/612518/reef-and-bay-shared-fishing-charter",
+      "bytes": 5186
+    },
+    {
+      "page": "https://terrigaltours.rezdy.com/517523/reef-bay-private-fishing-charter",
+      "status": 403,
+      "final_url": "https://terrigaltours.rezdy.com/517523/reef-bay-private-fishing-charter",
+      "bytes": 5186
+    },
+    {
+      "page": "https://terrigaltours.rezdy.com/665941/young-guns-fishing-charter-private",
+      "status": 403,
+      "final_url": "https://terrigaltours.rezdy.com/665941/young-guns-fishing-charter-private",
+      "bytes": 5186
+    },
+    {
+      "page": "https://terrigaltours.rezdy.com/665319/young-guns-fishing-charter-shared",
+      "status": 403,
+      "final_url": "https://terrigaltours.rezdy.com/665319/young-guns-fishing-charter-shared",
+      "bytes": 5186
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "r5-scf-reef",
+  "request_hash": "2e3ec55abd92",
+  "collected_at": "2026-11-08T23:42:49.309Z",
+  "pages_fetched": [
+    "https://sydneycharterfishing.com.au/charters/reef-fishing-trips",
+    "https://sydneycharterfishing.com.au/charters/game-fishing-trips"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://sydneycharterfishing.com.au/charters/reef-fishing-trips",
+      "status": 200,
+      "final_url": "https://sydneycharterfishing.com.au/charters/reef-fishing-trips/",
+      "bytes": 110296
+    },
+    {
+      "page": "https://sydneycharterfishing.com.au/charters/game-fishing-trips",
+      "status": 200,
+      "final_url": "https://sydneycharterfishing.com.au/charters/game-fishing-trips/",
+      "bytes": 105598
+    }
+  ]
+}

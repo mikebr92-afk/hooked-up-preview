@@ -1,0 +1,31 @@
+{
+  "slug": "r5-bluereef-retry",
+  "request_hash": "61480c24e4dd",
+  "collected_at": "2026-11-08T23:42:55.022Z",
+  "pages_fetched": [
+    "http://www.bluereefcharters.info/",
+    "https://bluereefcharters.info/",
+    "http://bluereefcharters.info/pricing"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "http://www.bluereefcharters.info/",
+      "status": 200,
+      "final_url": "https://www.bluereefcharters.info/",
+      "bytes": 62328
+    },
+    {
+      "page": "https://bluereefcharters.info/",
+      "status": 200,
+      "final_url": "https://www.bluereefcharters.info/",
+      "bytes": 62960
+    },
+    {
+      "page": "http://bluereefcharters.info/pricing",
+      "status": 200,
+      "final_url": "https://www.bluereefcharters.info/pricing",
+      "bytes": 62141
+    }
+  ]
+}

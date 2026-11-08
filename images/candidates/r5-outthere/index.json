@@ -1,0 +1,90 @@
+{
+  "slug": "r5-outthere",
+  "request_hash": "9a4a30011cfd",
+  "collected_at": "2026-11-08T23:43:03.511Z",
+  "pages_fetched": [
+    "https://www.outtherecharters.com.au/",
+    "https://outtherecharters.com.au/",
+    "https://wikiaustralia.com/tour/coffs-harbour-fishing-charters/",
+    "https://www.coffscoastholidayparks.com.au/fishing-on-the-coffs-coast/",
+    "https://wikiaustralia.com/tours/",
+    "https://wikiaustralia.com/tours/nsw/",
+    "https://wikiaustralia.com/tour/coastal-experiences/",
+    "https://wikiaustralia.com/tour/cougar-cat-12/",
+    "https://wikiaustralia.com/tour/spirit-of-coffs-harbour-cruises/",
+    "https://wikiaustralia.com/tour/jarbu-lodge/",
+    "https://wikiaustralia.com/tour/pungalina-safaris/",
+    "https://wikiaustralia.com/tour/mackas-barra-camp/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.outtherecharters.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://outtherecharters.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://wikiaustralia.com/tour/coffs-harbour-fishing-charters/",
+      "status": 200,
+      "final_url": "https://wikiaustralia.com/tour/coffs-harbour-fishing-charters/",
+      "bytes": 172496
+    },
+    {
+      "page": "https://www.coffscoastholidayparks.com.au/fishing-on-the-coffs-coast/",
+      "status": 200,
+      "final_url": "https://www.coffscoastholidayparks.com.au/fishing-on-the-coffs-coast/",
+      "bytes": 152003
+    },
+    {
+      "page": "https://wikiaustralia.com/tours/",
+      "status": 200,
+      "final_url": "https://wikiaustralia.com/tours/",
+      "bytes": 148356
+    },
+    {
+      "page": "https://wikiaustralia.com/tours/nsw/",
+      "status": 200,
+      "final_url": "https://wikiaustralia.com/tours/nsw/",
+      "bytes": 158127
+    },
+    {
+      "page": "https://wikiaustralia.com/tour/coastal-experiences/",
+      "status": 200,
+      "final_url": "https://wikiaustralia.com/tour/coastal-experiences/",
+      "bytes": 172397
+    },
+    {
+      "page": "https://wikiaustralia.com/tour/cougar-cat-12/",
+      "status": 200,
+      "final_url": "https://wikiaustralia.com/tour/cougar-cat-12/",
+      "bytes": 173884
+    },
+    {
+      "page": "https://wikiaustralia.com/tour/spirit-of-coffs-harbour-cruises/",
+      "status": 200,
+      "final_url": "https://wikiaustralia.com/tour/spirit-of-coffs-harbour-cruises/",
+      "bytes": 173134
+    },
+    {
+      "page": "https://wikiaustralia.com/tour/jarbu-lodge/",
+      "status": 200,
+      "final_url": "https://wikiaustralia.com/tour/jarbu-lodge/",
+      "bytes": 172928
+    },
+    {
+      "page": "https://wikiaustralia.com/tour/pungalina-safaris/",
+      "status": 200,
+      "final_url": "https://wikiaustralia.com/tour/pungalina-safaris/",
+      "bytes": 170651
+    },
+    {
+      "page": "https://wikiaustralia.com/tour/mackas-barra-camp/",
+      "status": 200,
+      "final_url": "https://wikiaustralia.com/tour/mackas-barra-camp/",
+      "bytes": 176930
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "r5-gameon-rezdy",
+  "request_hash": "d4a2bd3e3ae0",
+  "collected_at": "2026-11-08T23:42:49.481Z",
+  "pages_fetched": [
+    "https://gameoncharters32.rezdy.com/catalog/504908/fishing"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://gameoncharters32.rezdy.com/catalog/504908/fishing",
+      "status": 403,
+      "final_url": "https://gameoncharters32.rezdy.com/catalog/504908/fishing",
+      "bytes": 5186
+    }
+  ]
+}
