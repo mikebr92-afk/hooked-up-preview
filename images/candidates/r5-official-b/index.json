@@ -1,0 +1,66 @@
+{
+  "slug": "r5-official-b",
+  "request_hash": "1b3ff3b47cac",
+  "collected_at": "2026-11-08T23:40:28.321Z",
+  "pages_fetched": [
+    "https://fishing.tas.gov.au/species/southern-bluefin-tuna",
+    "https://fishing.tas.gov.au/species/striped-trumpeter",
+    "https://fishing.tas.gov.au/species/flathead",
+    "https://fishing.tas.gov.au/recreational-fishing/rules/size-and-bag-limits",
+    "https://ifs.tas.gov.au/get-expert-advice",
+    "https://www.ifs.tas.gov.au/trout-fish-tasmania/registered-private-fisheries",
+    "https://www.discovertasmania.com.au/regions/east-coast/st-helens/",
+    "https://www.ifs.tas.gov.au/going-fishing/safety"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://fishing.tas.gov.au/species/southern-bluefin-tuna",
+      "status": 200,
+      "final_url": "https://fishing.tas.gov.au/species/southern-bluefin-tuna",
+      "bytes": 94370
+    },
+    {
+      "page": "https://fishing.tas.gov.au/species/striped-trumpeter",
+      "status": 404,
+      "final_url": "https://fishing.tas.gov.au/species/striped-trumpeter",
+      "bytes": 674
+    },
+    {
+      "page": "https://fishing.tas.gov.au/species/flathead",
+      "status": 404,
+      "final_url": "https://fishing.tas.gov.au/species/flathead",
+      "bytes": 665
+    },
+    {
+      "page": "https://fishing.tas.gov.au/recreational-fishing/rules/size-and-bag-limits",
+      "status": 200,
+      "final_url": "https://fishing.tas.gov.au/recreational-fishing/rules/size-and-bag-limits",
+      "bytes": 136355
+    },
+    {
+      "page": "https://ifs.tas.gov.au/get-expert-advice",
+      "status": 200,
+      "final_url": "https://www.ifs.tas.gov.au/get-expert-advice",
+      "bytes": 42551
+    },
+    {
+      "page": "https://www.ifs.tas.gov.au/trout-fish-tasmania/registered-private-fisheries",
+      "status": 404,
+      "final_url": "https://www.ifs.tas.gov.au/trout-fish-tasmania/registered-private-fisheries",
+      "bytes": 2786
+    },
+    {
+      "page": "https://www.discovertasmania.com.au/regions/east-coast/st-helens/",
+      "status": 200,
+      "final_url": "https://www.discovertasmania.com.au/regions/east-coast/st-helens/",
+      "bytes": 300630
+    },
+    {
+      "page": "https://www.ifs.tas.gov.au/going-fishing/safety",
+      "status": 404,
+      "final_url": "https://www.ifs.tas.gov.au/going-fishing/safety",
+      "bytes": 2786
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "finished_at": "2026-11-08T23:37:42.418Z",
+  "finished_at": "2026-11-08T23:40:28.321Z",
   "summary": [
     {
       "slug": "r5-miena-guiding-tasmania",
@@ -51,13 +51,16 @@
     },
     {
       "slug": "r5-trout-tales-packages",
-      "candidates": 0,
-      "pages": 11
+      "skipped": true
     },
     {
       "slug": "r5-atdw-check",
+      "skipped": true
+    },
+    {
+      "slug": "r5-official-b",
       "candidates": 0,
-      "pages": 10
+      "pages": 8
     }
   ]
 }
