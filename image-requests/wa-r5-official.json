@@ -1,0 +1,4 @@
+{"requests":[
+{"slug":"r5-rules","pages":["https://www.dpird.wa.gov.au/businesses/charter-boat-fishing/","https://www.dpird.wa.gov.au/individuals/recreational-fishing/west-coast-demersal-scalefish--information-for-recreational-fishers","https://www.dpird.wa.gov.au/businesses/charter-boat-fishing/west-coast-demersal-scalefish--information-for-charter-operators/","https://www.dpird.wa.gov.au/individuals/recreational-fishing/get-a-recreational-fishing-licence/"],"text":true,"max":0,"follow":false,"force":true},
+{"slug":"r5-parks","pages":["https://exploreparks.dbca.wa.gov.au/park/ningaloo-marine-park","https://exploreparks.dbca.wa.gov.au/park/houtman-abrolhos-islands-national-park","https://exploreparks.dbca.wa.gov.au/park/rowley-shoals-marine-park","https://exploreparks.dbca.wa.gov.au/park/lalang-garram-camden-sound-marine-park","https://exploreparks.dbca.wa.gov.au/park/yawuru-nagulagun-roebuck-bay-marine-park"],"text":true,"max":0,"follow":false,"force":true}
+]}
