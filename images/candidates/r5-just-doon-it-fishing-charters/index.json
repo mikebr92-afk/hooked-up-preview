@@ -1,0 +1,52 @@
+{
+  "slug": "r5-just-doon-it-fishing-charters",
+  "request_hash": "fd5563d60503",
+  "collected_at": "2026-11-08T23:39:13.280Z",
+  "pages_fetched": [
+    "https://www.justdoonit.com.au/",
+    "https://www.justdoonit.com.au/price-2",
+    "https://www.justdoonit.com.au/faq",
+    "https://www.justdoonit.com.au/price-2/copy-of-price",
+    "https://www.justdoonit.com.au/price-2/copy-of-dry-season-tours",
+    "https://www.justdoonit.com.au/about"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.justdoonit.com.au/",
+      "status": 200,
+      "final_url": "https://www.justdoonit.com.au/",
+      "bytes": 1373279
+    },
+    {
+      "page": "https://www.justdoonit.com.au/price-2",
+      "status": 200,
+      "final_url": "https://www.justdoonit.com.au/price-2",
+      "bytes": 1257440
+    },
+    {
+      "page": "https://www.justdoonit.com.au/faq",
+      "status": 200,
+      "final_url": "https://www.justdoonit.com.au/faq",
+      "bytes": 1515269
+    },
+    {
+      "page": "https://www.justdoonit.com.au/price-2/copy-of-price",
+      "status": 200,
+      "final_url": "https://www.justdoonit.com.au/price-2/copy-of-price",
+      "bytes": 1348415
+    },
+    {
+      "page": "https://www.justdoonit.com.au/price-2/copy-of-dry-season-tours",
+      "status": 200,
+      "final_url": "https://www.justdoonit.com.au/price-2/copy-of-dry-season-tours",
+      "bytes": 1410115
+    },
+    {
+      "page": "https://www.justdoonit.com.au/about",
+      "status": 200,
+      "final_url": "https://www.justdoonit.com.au/about",
+      "bytes": 1357979
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "r5-humbug-fishing-darwin",
+  "request_hash": "ef1491a34c01",
+  "collected_at": "2026-11-08T23:39:05.373Z",
+  "pages_fetched": [
+    "https://fishingcharterdarwin.com.au/",
+    "https://fishingcharterdarwin.com.au/live-aboard-fishing-charters/",
+    "https://fishingcharterdarwin.com.au/mary-river-system/",
+    "https://fishingcharterdarwin.com.au/daly-river-reynold-flood-plains/",
+    "https://fishingcharterdarwin.com.au/commercial-marine-services/",
+    "https://fishingcharterdarwin.com.au/fishing-charter-options/",
+    "https://fishingcharterdarwin.com.au/tag-along-fishing-charters/",
+    "https://fishingcharterdarwin.com.au/fishing-destinations/",
+    "https://fishingcharterdarwin.com.au/kimberley-fishing-charters/",
+    "https://fishingcharterdarwin.com.au/fish-the-cobourg-peninsula-arnhem-land/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://fishingcharterdarwin.com.au/",
+      "status": 200,
+      "final_url": "https://fishingcharterdarwin.com.au/",
+      "bytes": 329942
+    },
+    {
+      "page": "https://fishingcharterdarwin.com.au/live-aboard-fishing-charters/",
+      "status": 200,
+      "final_url": "https://fishingcharterdarwin.com.au/live-aboard-fishing-charters/",
+      "bytes": 336899
+    },
+    {
+      "page": "https://fishingcharterdarwin.com.au/mary-river-system/",
+      "status": 200,
+      "final_url": "https://fishingcharterdarwin.com.au/mary-river-system/",
+      "bytes": 358371
+    },
+    {
+      "page": "https://fishingcharterdarwin.com.au/daly-river-reynold-flood-plains/",
+      "status": 200,
+      "final_url": "https://fishingcharterdarwin.com.au/daly-river-reynold-flood-plains/",
+      "bytes": 358695
+    },
+    {
+      "page": "https://fishingcharterdarwin.com.au/commercial-marine-services/",
+      "status": 200,
+      "final_url": "https://fishingcharterdarwin.com.au/commercial-marine-services/",
+      "bytes": 331919
+    },
+    {
+      "page": "https://fishingcharterdarwin.com.au/fishing-charter-options/",
+      "status": 200,
+      "final_url": "https://fishingcharterdarwin.com.au/fishing-charter-options/",
+      "bytes": 336044
+    },
+    {
+      "page": "https://fishingcharterdarwin.com.au/tag-along-fishing-charters/",
+      "status": 200,
+      "final_url": "https://fishingcharterdarwin.com.au/tag-along-fishing-charters/",
+      "bytes": 343129
+    },
+    {
+      "page": "https://fishingcharterdarwin.com.au/fishing-destinations/",
+      "status": 200,
+      "final_url": "https://fishingcharterdarwin.com.au/fishing-destinations/",
+      "bytes": 343643
+    },
+    {
+      "page": "https://fishingcharterdarwin.com.au/kimberley-fishing-charters/",
+      "status": 200,
+      "final_url": "https://fishingcharterdarwin.com.au/kimberley-fishing-charters/",
+      "bytes": 490678
+    },
+    {
+      "page": "https://fishingcharterdarwin.com.au/fish-the-cobourg-peninsula-arnhem-land/",
+      "status": 200,
+      "final_url": "https://fishingcharterdarwin.com.au/fish-the-cobourg-peninsula-arnhem-land/",
+      "bytes": 459657
+    }
+  ]
+}

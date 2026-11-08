@@ -1,0 +1,80 @@
+{
+  "slug": "r5-dundee-beach-fishing-charters",
+  "request_hash": "9cbb0f82b2b8",
+  "collected_at": "2026-11-08T23:38:54.228Z",
+  "pages_fetched": [
+    "https://www.dundeebeachfishingcharters.com.au/",
+    "https://www.dundeebeachfishingcharters.com.au/charters",
+    "https://www.dundeebeachfishingcharters.com.au/blog-posts",
+    "https://www.dundeebeachfishingcharters.com.au/barra-bluewater-fishing-charters",
+    "https://www.dundeebeachfishingcharters.com.au/reef-fishing-charters",
+    "https://www.dundeebeachfishingcharters.com.au/barramundi-fishing-charters",
+    "https://www.dundeebeachfishingcharters.com.au/bluewater-sportfishing",
+    "https://www.dundeebeachfishingcharters.com.au/accommodation",
+    "https://www.dundeebeachfishingcharters.com.au/about-us",
+    "https://www.dundeebeachfishingcharters.com.au/boats"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.dundeebeachfishingcharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.dundeebeachfishingcharters.com.au/",
+      "bytes": 1481934
+    },
+    {
+      "page": "https://www.dundeebeachfishingcharters.com.au/charters",
+      "status": 200,
+      "final_url": "https://www.dundeebeachfishingcharters.com.au/charters",
+      "bytes": 1256674
+    },
+    {
+      "page": "https://www.dundeebeachfishingcharters.com.au/blog-posts",
+      "status": 200,
+      "final_url": "https://www.dundeebeachfishingcharters.com.au/blog-posts",
+      "bytes": 1179297
+    },
+    {
+      "page": "https://www.dundeebeachfishingcharters.com.au/barra-bluewater-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.dundeebeachfishingcharters.com.au/barra-bluewater-fishing-charters",
+      "bytes": 1468867
+    },
+    {
+      "page": "https://www.dundeebeachfishingcharters.com.au/reef-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.dundeebeachfishingcharters.com.au/reef-fishing-charters",
+      "bytes": 1245897
+    },
+    {
+      "page": "https://www.dundeebeachfishingcharters.com.au/barramundi-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.dundeebeachfishingcharters.com.au/barramundi-fishing-charters",
+      "bytes": 1245773
+    },
+    {
+      "page": "https://www.dundeebeachfishingcharters.com.au/bluewater-sportfishing",
+      "status": 200,
+      "final_url": "https://www.dundeebeachfishingcharters.com.au/bluewater-sportfishing",
+      "bytes": 1245686
+    },
+    {
+      "page": "https://www.dundeebeachfishingcharters.com.au/accommodation",
+      "status": 200,
+      "final_url": "https://www.dundeebeachfishingcharters.com.au/accommodation",
+      "bytes": 1450069
+    },
+    {
+      "page": "https://www.dundeebeachfishingcharters.com.au/about-us",
+      "status": 200,
+      "final_url": "https://www.dundeebeachfishingcharters.com.au/about-us",
+      "bytes": 1277224
+    },
+    {
+      "page": "https://www.dundeebeachfishingcharters.com.au/boats",
+      "status": 200,
+      "final_url": "https://www.dundeebeachfishingcharters.com.au/boats",
+      "bytes": 1186796
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "r5-barra-private-tours-darwin",
+  "request_hash": "8936cdea5c02",
+  "collected_at": "2026-11-08T23:37:44.595Z",
+  "pages_fetched": [
+    "https://barraprivatetours.com.au/",
+    "https://barraprivatetours.com.au/day-charter/",
+    "https://barraprivatetours.com.au/multiday-charters/",
+    "https://barraprivatetours.com.au/fishing-charters/half-day-shared/",
+    "https://barraprivatetours.com.au/fishing-charters/half-day-private/",
+    "https://barraprivatetours.com.au/fishing-charters/full-day-shared/",
+    "https://barraprivatetours.com.au/fishing-charters/full-day-private/",
+    "https://barraprivatetours.com.au/fishing-charters/multi-days-private-charter/",
+    "https://barraprivatetours.com.au/fishing-charters/multi-days-private-charters-dry-season/",
+    "https://barraprivatetours.com.au/fishing-charters/new-caledonia-7-days-6-nights/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://barraprivatetours.com.au/",
+      "status": 200,
+      "final_url": "https://barraprivatetours.com.au/",
+      "bytes": 189349
+    },
+    {
+      "page": "https://barraprivatetours.com.au/day-charter/",
+      "status": 200,
+      "final_url": "https://barraprivatetours.com.au/day-charter/",
+      "bytes": 82192
+    },
+    {
+      "page": "https://barraprivatetours.com.au/multiday-charters/",
+      "status": 200,
+      "final_url": "https://barraprivatetours.com.au/multiday-charters/",
+      "bytes": 84397
+    },
+    {
+      "page": "https://barraprivatetours.com.au/fishing-charters/half-day-shared/",
+      "status": 200,
+      "final_url": "https://barraprivatetours.com.au/fishing-charters/half-day-shared/",
+      "bytes": 89836
+    },
+    {
+      "page": "https://barraprivatetours.com.au/fishing-charters/half-day-private/",
+      "status": 200,
+      "final_url": "https://barraprivatetours.com.au/fishing-charters/half-day-private/",
+      "bytes": 87791
+    },
+    {
+      "page": "https://barraprivatetours.com.au/fishing-charters/full-day-shared/",
+      "status": 200,
+      "final_url": "https://barraprivatetours.com.au/fishing-charters/full-day-shared/",
+      "bytes": 88277
+    },
+    {
+      "page": "https://barraprivatetours.com.au/fishing-charters/full-day-private/",
+      "status": 200,
+      "final_url": "https://barraprivatetours.com.au/fishing-charters/full-day-private/",
+      "bytes": 88756
+    },
+    {
+      "page": "https://barraprivatetours.com.au/fishing-charters/multi-days-private-charter/",
+      "status": 200,
+      "final_url": "https://barraprivatetours.com.au/fishing-charters/multi-days-private-charter/",
+      "bytes": 95331
+    },
+    {
+      "page": "https://barraprivatetours.com.au/fishing-charters/multi-days-private-charters-dry-season/",
+      "status": 200,
+      "final_url": "https://barraprivatetours.com.au/fishing-charters/multi-days-private-charters-dry-season/",
+      "bytes": 94261
+    },
+    {
+      "page": "https://barraprivatetours.com.au/fishing-charters/new-caledonia-7-days-6-nights/",
+      "status": 200,
+      "final_url": "https://barraprivatetours.com.au/fishing-charters/new-caledonia-7-days-6-nights/",
+      "bytes": 125460
+    }
+  ]
+}

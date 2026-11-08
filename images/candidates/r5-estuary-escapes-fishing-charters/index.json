@@ -1,0 +1,94 @@
+{
+  "slug": "r5-estuary-escapes-fishing-charters",
+  "request_hash": "81753122e93b",
+  "collected_at": "2026-11-08T23:36:44.078Z",
+  "pages_fetched": [
+    "https://estuaryescapes.com.au/",
+    "https://estuaryescapes.com.au/booking/",
+    "https://estuaryescapes.com.au/fishing-reports/",
+    "https://estuaryescapes.com.au/about-us/",
+    "https://northernterritory.com/tours/estuary-escapes-fishing-charters",
+    "https://estuaryescapes.com.au/gallery/",
+    "https://estuaryescapes.com.au/contact-us/",
+    "https://estuaryescapes.com.au/booking/?p=190",
+    "https://estuaryescapes.com.au/fishing-reports/?p=190",
+    "https://estuaryescapes.com.au/about-us/?p=190",
+    "https://northernterritory.com/us/en/tours/estuary-escapes-fishing-charters",
+    "https://northernterritory.com/things-to-do/outdoor-activities/fishing"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://estuaryescapes.com.au/",
+      "status": 200,
+      "final_url": "https://estuaryescapes.com.au/",
+      "bytes": 16004
+    },
+    {
+      "page": "https://estuaryescapes.com.au/booking/",
+      "status": 200,
+      "final_url": "https://estuaryescapes.com.au/booking/",
+      "bytes": 17426
+    },
+    {
+      "page": "https://estuaryescapes.com.au/fishing-reports/",
+      "status": 200,
+      "final_url": "https://estuaryescapes.com.au/fishing-reports/",
+      "bytes": 14642
+    },
+    {
+      "page": "https://estuaryescapes.com.au/about-us/",
+      "status": 200,
+      "final_url": "https://estuaryescapes.com.au/about-us/",
+      "bytes": 12896
+    },
+    {
+      "page": "https://northernterritory.com/tours/estuary-escapes-fishing-charters",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/estuary-escapes-fishing-charters",
+      "bytes": 545314
+    },
+    {
+      "page": "https://estuaryescapes.com.au/gallery/",
+      "status": 200,
+      "final_url": "https://estuaryescapes.com.au/gallery/",
+      "bytes": 53117
+    },
+    {
+      "page": "https://estuaryescapes.com.au/contact-us/",
+      "status": 200,
+      "final_url": "https://estuaryescapes.com.au/contact-us/",
+      "bytes": 10355
+    },
+    {
+      "page": "https://estuaryescapes.com.au/booking/?p=190",
+      "status": 200,
+      "final_url": "https://estuaryescapes.com.au/terms-and-conditions/",
+      "bytes": 15814
+    },
+    {
+      "page": "https://estuaryescapes.com.au/fishing-reports/?p=190",
+      "status": 200,
+      "final_url": "https://estuaryescapes.com.au/terms-and-conditions/",
+      "bytes": 15814
+    },
+    {
+      "page": "https://estuaryescapes.com.au/about-us/?p=190",
+      "status": 200,
+      "final_url": "https://estuaryescapes.com.au/terms-and-conditions/",
+      "bytes": 15814
+    },
+    {
+      "page": "https://northernterritory.com/us/en/tours/estuary-escapes-fishing-charters",
+      "status": 200,
+      "final_url": "https://northernterritory.com/us/en/tours/estuary-escapes-fishing-charters",
+      "bytes": 545677
+    },
+    {
+      "page": "https://northernterritory.com/things-to-do/outdoor-activities/fishing",
+      "status": 200,
+      "final_url": "https://northernterritory.com/things-to-do/outdoor-activities/fishing",
+      "bytes": 556614
+    }
+  ]
+}

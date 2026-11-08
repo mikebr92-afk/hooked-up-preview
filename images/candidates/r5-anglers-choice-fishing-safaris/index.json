@@ -1,0 +1,50 @@
+{
+  "slug": "r5-anglers-choice-fishing-safaris",
+  "request_hash": "d14d13cc0c85",
+  "collected_at": "2026-11-08T23:37:29.708Z",
+  "pages_fetched": [
+    "https://www.anglerschoice.com.au/",
+    "https://www.anglerschoice.com.au/day-tour",
+    "https://www.anglerschoice.com.au/the-fishing",
+    "https://www.anglerschoice.com.au/blog",
+    "https://www.anglerschoice.com.au/contact",
+    "https://www.anglerschoice.com.au/boats"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.anglerschoice.com.au/",
+      "status": 200,
+      "final_url": "https://www.anglerschoice.com.au/",
+      "bytes": 88157
+    },
+    {
+      "page": "https://www.anglerschoice.com.au/day-tour",
+      "status": 200,
+      "final_url": "https://www.anglerschoice.com.au/day-tour",
+      "bytes": 89044
+    },
+    {
+      "page": "https://www.anglerschoice.com.au/the-fishing",
+      "status": 200,
+      "final_url": "https://www.anglerschoice.com.au/the-fishing",
+      "bytes": 85291
+    },
+    {
+      "page": "https://www.anglerschoice.com.au/blog",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "page": "https://www.anglerschoice.com.au/contact",
+      "status": 200,
+      "final_url": "https://www.anglerschoice.com.au/contact",
+      "bytes": 76730
+    },
+    {
+      "page": "https://www.anglerschoice.com.au/boats",
+      "status": 200,
+      "final_url": "https://www.anglerschoice.com.au/boats",
+      "bytes": 82539
+    }
+  ]
+}

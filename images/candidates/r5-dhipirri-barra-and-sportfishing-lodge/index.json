@@ -1,0 +1,94 @@
+{
+  "slug": "r5-dhipirri-barra-and-sportfishing-lodge",
+  "request_hash": "2739270ea481",
+  "collected_at": "2026-11-08T23:37:55.543Z",
+  "pages_fetched": [
+    "https://dhipirribarra.com.au/",
+    "https://dhipirribarra.com.au/fishing/",
+    "https://dhipirribarra.com.au/2026/01/faqs-for-dhipirri-lodge/",
+    "https://dhipirribarra.com.au/fishing/the-fish/",
+    "https://dhipirribarra.com.au/fishing/the-rivers-and-islands/",
+    "https://dhipirribarra.com.au/fishing/the-team/",
+    "https://dhipirribarra.com.au/fishing/the-boats-and-tackle/",
+    "https://dhipirribarra.com.au/contact-us/",
+    "https://dhipirribarra.com.au/2026/10/every-metre-barramundi-caught-at-dhipirri-lodge-in-2026-available-boats/",
+    "https://dhipirribarra.com.au/2026/07/available-boats-at-dhipirri-barra-lodge-for-2nd-half-of-2026/",
+    "https://dhipirribarra.com.au/faqs-for-dhipirri-lodge/",
+    "https://dhipirribarra.com.au/category/trip-reports/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://dhipirribarra.com.au/",
+      "status": 200,
+      "final_url": "https://dhipirribarra.com.au/",
+      "bytes": 81939
+    },
+    {
+      "page": "https://dhipirribarra.com.au/fishing/",
+      "status": 200,
+      "final_url": "https://dhipirribarra.com.au/fishing/",
+      "bytes": 50056
+    },
+    {
+      "page": "https://dhipirribarra.com.au/2026/01/faqs-for-dhipirri-lodge/",
+      "status": 200,
+      "final_url": "https://dhipirribarra.com.au/2026/01/faqs-for-dhipirri-lodge/",
+      "bytes": 68772
+    },
+    {
+      "page": "https://dhipirribarra.com.au/fishing/the-fish/",
+      "status": 200,
+      "final_url": "https://dhipirribarra.com.au/fishing/the-fish/",
+      "bytes": 82299
+    },
+    {
+      "page": "https://dhipirribarra.com.au/fishing/the-rivers-and-islands/",
+      "status": 200,
+      "final_url": "https://dhipirribarra.com.au/fishing/the-rivers-and-islands/",
+      "bytes": 76778
+    },
+    {
+      "page": "https://dhipirribarra.com.au/fishing/the-team/",
+      "status": 200,
+      "final_url": "https://dhipirribarra.com.au/fishing/the-team/",
+      "bytes": 88279
+    },
+    {
+      "page": "https://dhipirribarra.com.au/fishing/the-boats-and-tackle/",
+      "status": 200,
+      "final_url": "https://dhipirribarra.com.au/fishing/the-boats-and-tackle/",
+      "bytes": 60297
+    },
+    {
+      "page": "https://dhipirribarra.com.au/contact-us/",
+      "status": 200,
+      "final_url": "https://dhipirribarra.com.au/contact-us/",
+      "bytes": 66675
+    },
+    {
+      "page": "https://dhipirribarra.com.au/2026/10/every-metre-barramundi-caught-at-dhipirri-lodge-in-2026-available-boats/",
+      "status": 200,
+      "final_url": "https://dhipirribarra.com.au/2026/10/every-metre-barramundi-caught-at-dhipirri-lodge-in-2026-available-boats/",
+      "bytes": 113651
+    },
+    {
+      "page": "https://dhipirribarra.com.au/2026/07/available-boats-at-dhipirri-barra-lodge-for-2nd-half-of-2026/",
+      "status": 200,
+      "final_url": "https://dhipirribarra.com.au/2026/07/available-boats-at-dhipirri-barra-lodge-for-2nd-half-of-2026/",
+      "bytes": 62068
+    },
+    {
+      "page": "https://dhipirribarra.com.au/faqs-for-dhipirri-lodge/",
+      "status": 200,
+      "final_url": "https://dhipirribarra.com.au/2026/01/faqs-for-dhipirri-lodge/",
+      "bytes": 63799
+    },
+    {
+      "page": "https://dhipirribarra.com.au/category/trip-reports/",
+      "status": 200,
+      "final_url": "https://dhipirribarra.com.au/category/trip-reports/",
+      "bytes": 58147
+    }
+  ]
+}

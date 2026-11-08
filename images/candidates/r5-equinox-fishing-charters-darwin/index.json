@@ -1,0 +1,45 @@
+{
+  "slug": "r5-equinox-fishing-charters-darwin",
+  "request_hash": "5c9c236b8c40",
+  "collected_at": "2026-11-08T23:38:59.068Z",
+  "pages_fetched": [
+    "https://www.equinoxcharters.com.au/",
+    "https://www.equinoxcharters.com.au/fishing-charters/",
+    "https://www.equinoxcharters.com.au/bookings/",
+    "https://www.equinoxcharters.com.au/our-boats/",
+    "https://www.equinoxcharters.com.au/gallery/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.equinoxcharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.equinoxcharters.com.au/",
+      "bytes": 161516
+    },
+    {
+      "page": "https://www.equinoxcharters.com.au/fishing-charters/",
+      "status": 200,
+      "final_url": "https://www.equinoxcharters.com.au/fishing-charters/",
+      "bytes": 184613
+    },
+    {
+      "page": "https://www.equinoxcharters.com.au/bookings/",
+      "status": 200,
+      "final_url": "https://www.equinoxcharters.com.au/bookings/",
+      "bytes": 140565
+    },
+    {
+      "page": "https://www.equinoxcharters.com.au/our-boats/",
+      "status": 200,
+      "final_url": "https://www.equinoxcharters.com.au/our-boats/",
+      "bytes": 236882
+    },
+    {
+      "page": "https://www.equinoxcharters.com.au/gallery/",
+      "status": 200,
+      "final_url": "https://www.equinoxcharters.com.au/gallery/",
+      "bytes": 207685
+    }
+  ]
+}

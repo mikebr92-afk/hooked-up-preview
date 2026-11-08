@@ -1,0 +1,94 @@
+{
+  "slug": "r5-nt-fish-and-4x4",
+  "request_hash": "8e6e5ff6db6c",
+  "collected_at": "2026-11-08T23:36:47.571Z",
+  "pages_fetched": [
+    "https://www.ntfish4x4.com/",
+    "https://www.ntfish4x4.com/charters-tours",
+    "https://www.ntfish4x4.com/about",
+    "https://northernterritory.com/tours/nt-fish-and-4x4",
+    "https://www.facebook.com/DalyRiverNT/",
+    "https://www.ntfish4x4.com/gallery",
+    "https://www.ntfish4x4.com/contact",
+    "https://northernterritory.com/us/en/tours/nt-fish-and-4x4",
+    "https://northernterritory.com/things-to-do/outdoor-activities/fishing",
+    "https://northernterritory.com/tours",
+    "https://northernterritory.com/tours/nt-fish-and-4x4/full-day-barramundi-fishing-charter",
+    "https://northernterritory.com/find-out-more/contact-us"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.ntfish4x4.com/",
+      "status": 200,
+      "final_url": "https://www.ntfish4x4.com/",
+      "bytes": 633458
+    },
+    {
+      "page": "https://www.ntfish4x4.com/charters-tours",
+      "status": 200,
+      "final_url": "https://www.ntfish4x4.com/charters-tours",
+      "bytes": 684107
+    },
+    {
+      "page": "https://www.ntfish4x4.com/about",
+      "status": 200,
+      "final_url": "https://www.ntfish4x4.com/about",
+      "bytes": 688852
+    },
+    {
+      "page": "https://northernterritory.com/tours/nt-fish-and-4x4",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/nt-fish-and-4x4",
+      "bytes": 537536
+    },
+    {
+      "page": "https://www.facebook.com/DalyRiverNT/",
+      "status": 400,
+      "final_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FDalyRiverNT%2F",
+      "bytes": 1542
+    },
+    {
+      "page": "https://www.ntfish4x4.com/gallery",
+      "status": 200,
+      "final_url": "https://www.ntfish4x4.com/gallery",
+      "bytes": 635585
+    },
+    {
+      "page": "https://www.ntfish4x4.com/contact",
+      "status": 200,
+      "final_url": "https://www.ntfish4x4.com/contact",
+      "bytes": 690960
+    },
+    {
+      "page": "https://northernterritory.com/us/en/tours/nt-fish-and-4x4",
+      "status": 200,
+      "final_url": "https://northernterritory.com/us/en/tours/nt-fish-and-4x4",
+      "bytes": 537933
+    },
+    {
+      "page": "https://northernterritory.com/things-to-do/outdoor-activities/fishing",
+      "status": 200,
+      "final_url": "https://northernterritory.com/things-to-do/outdoor-activities/fishing",
+      "bytes": 556614
+    },
+    {
+      "page": "https://northernterritory.com/tours",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours",
+      "bytes": 1269536
+    },
+    {
+      "page": "https://northernterritory.com/tours/nt-fish-and-4x4/full-day-barramundi-fishing-charter",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/nt-fish-and-4x4/full-day-barramundi-fishing-charter",
+      "bytes": 529762
+    },
+    {
+      "page": "https://northernterritory.com/find-out-more/contact-us",
+      "status": 200,
+      "final_url": "https://northernterritory.com/find-out-more/contact-us",
+      "bytes": 512607
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "r5-gulf-leads",
+  "request_hash": "27ce98b7810f",
+  "collected_at": "2026-11-08T23:40:31.775Z",
+  "pages_fetched": [
+    "https://www.kingashbay.com.au/mcarthur-river-fishing-charters/",
+    "http://mccarthurrivercharters.com.au/",
+    "https://northernterritory.com/katherine-and-surrounds/destinations/borroloola",
+    "https://northernterritory.com/tours/australian-sportfishing-charters/roper-river-fishing"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.kingashbay.com.au/mcarthur-river-fishing-charters/",
+      "status": 200,
+      "final_url": "https://www.kingashbay.com.au/mcarthur-river-fishing-charters/",
+      "bytes": 47969
+    },
+    {
+      "page": "http://mccarthurrivercharters.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://northernterritory.com/katherine-and-surrounds/destinations/borroloola",
+      "status": 200,
+      "final_url": "https://northernterritory.com/katherine-and-surrounds/destinations/borroloola",
+      "bytes": 556809
+    },
+    {
+      "page": "https://northernterritory.com/tours/australian-sportfishing-charters/roper-river-fishing",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/australian-sportfishing-charters/roper-river-fishing",
+      "bytes": 531213
+    }
+  ]
+}

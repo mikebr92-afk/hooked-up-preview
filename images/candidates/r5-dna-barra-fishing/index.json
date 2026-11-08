@@ -1,0 +1,87 @@
+{
+  "slug": "r5-dna-barra-fishing",
+  "request_hash": "aab054a5f81e",
+  "collected_at": "2026-11-08T23:38:47.802Z",
+  "pages_fetched": [
+    "https://dnabarrafishing.com.au/",
+    "https://dnabarrafishing.com.au/acitivities/barra-fishing-day-tours/",
+    "https://dnabarrafishing.com.au/acitivities/run-off-barra-fishing-kakadu/",
+    "https://dnabarrafishing.com.au/acitivities/darwin-harbour-fishing-charters/",
+    "https://dnabarrafishing.com.au/acitivities/arnhem-land-barra-fishing-camp/",
+    "https://dnabarrafishing.com.au/about/",
+    "https://dnabarrafishing.com.au/booking-conditions/",
+    "https://dnabarrafishing.com.au/kakadu-things-to-do/",
+    "https://dnabarrafishing.com.au/contacts/",
+    "https://dnabarrafishing.com.au/acitivities/anhemland-barra-fishing-camp/",
+    "https://dnabarrafishing.com.au/wp-login.php?action=register"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://dnabarrafishing.com.au/",
+      "status": 200,
+      "final_url": "https://dnabarrafishing.com.au/",
+      "bytes": 150627
+    },
+    {
+      "page": "https://dnabarrafishing.com.au/acitivities/barra-fishing-day-tours/",
+      "status": 200,
+      "final_url": "https://dnabarrafishing.com.au/acitivities/barra-fishing-day-tours/",
+      "bytes": 144337
+    },
+    {
+      "page": "https://dnabarrafishing.com.au/acitivities/run-off-barra-fishing-kakadu/",
+      "status": 200,
+      "final_url": "https://dnabarrafishing.com.au/acitivities/run-off-barra-fishing-kakadu/",
+      "bytes": 149553
+    },
+    {
+      "page": "https://dnabarrafishing.com.au/acitivities/darwin-harbour-fishing-charters/",
+      "status": 200,
+      "final_url": "https://dnabarrafishing.com.au/acitivities/darwin-harbour-fishing-charters/",
+      "bytes": 145770
+    },
+    {
+      "page": "https://dnabarrafishing.com.au/acitivities/arnhem-land-barra-fishing-camp/",
+      "status": 200,
+      "final_url": "https://dnabarrafishing.com.au/acitivities/arnhem-land-barra-fishing-camp/",
+      "bytes": 198098
+    },
+    {
+      "page": "https://dnabarrafishing.com.au/about/",
+      "status": 200,
+      "final_url": "https://dnabarrafishing.com.au/about/",
+      "bytes": 116042
+    },
+    {
+      "page": "https://dnabarrafishing.com.au/booking-conditions/",
+      "status": 200,
+      "final_url": "https://dnabarrafishing.com.au/booking-conditions/",
+      "bytes": 120159
+    },
+    {
+      "page": "https://dnabarrafishing.com.au/kakadu-things-to-do/",
+      "status": 200,
+      "final_url": "https://dnabarrafishing.com.au/kakadu-things-to-do/",
+      "bytes": 113251
+    },
+    {
+      "page": "https://dnabarrafishing.com.au/contacts/",
+      "status": 200,
+      "final_url": "https://dnabarrafishing.com.au/contacts/",
+      "bytes": 123249
+    },
+    {
+      "page": "https://dnabarrafishing.com.au/acitivities/anhemland-barra-fishing-camp/",
+      "status": 200,
+      "final_url": "https://dnabarrafishing.com.au/acitivities/arnhem-land-barra-fishing-camp/",
+      "bytes": 198100
+    },
+    {
+      "page": "https://dnabarrafishing.com.au/wp-login.php?action=register",
+      "status": 200,
+      "final_url": "https://dnabarrafishing.com.au/wp-login.php?registration=disabled",
+      "bytes": 11548
+    }
+  ]
+}

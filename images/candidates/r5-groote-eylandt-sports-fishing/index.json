@@ -1,0 +1,45 @@
+{
+  "slug": "r5-groote-eylandt-sports-fishing",
+  "request_hash": "29aebcdde212",
+  "collected_at": "2026-11-08T23:39:02.669Z",
+  "pages_fetched": [
+    "https://www.gelnt.com.au/experiences/private-fishing-charter/",
+    "https://www.gelnt.com.au/",
+    "https://www.gelnt.com.au/experiences/groote-explorer-tour/",
+    "https://www.gelnt.com.au/contact/",
+    "https://www.gelnt.com.au/experiences/groote-explorer-tour"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.gelnt.com.au/experiences/private-fishing-charter/",
+      "status": 200,
+      "final_url": "https://www.gelnt.com.au/experiences/private-fishing-charter/",
+      "bytes": 337559
+    },
+    {
+      "page": "https://www.gelnt.com.au/",
+      "status": 200,
+      "final_url": "https://www.gelnt.com.au/",
+      "bytes": 412743
+    },
+    {
+      "page": "https://www.gelnt.com.au/experiences/groote-explorer-tour/",
+      "status": 200,
+      "final_url": "https://www.gelnt.com.au/experiences/groote-explorer-tour/",
+      "bytes": 312244
+    },
+    {
+      "page": "https://www.gelnt.com.au/contact/",
+      "status": 200,
+      "final_url": "https://www.gelnt.com.au/contact/",
+      "bytes": 289058
+    },
+    {
+      "page": "https://www.gelnt.com.au/experiences/groote-explorer-tour",
+      "status": 200,
+      "final_url": "https://www.gelnt.com.au/experiences/groote-explorer-tour/",
+      "bytes": 312244
+    }
+  ]
+}

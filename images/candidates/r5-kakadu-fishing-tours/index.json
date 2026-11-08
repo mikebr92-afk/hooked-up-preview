@@ -1,0 +1,94 @@
+{
+  "slug": "r5-kakadu-fishing-tours",
+  "request_hash": "a33cfbc02307",
+  "collected_at": "2026-11-08T23:36:21.113Z",
+  "pages_fetched": [
+    "https://www.kakadufishingtours.com.au/",
+    "https://www.kakadufishingtours.com.au/about/",
+    "https://www.kakadufishingtours.com.au/half-day-tours/",
+    "https://www.kakadufishingtours.com.au/full-day-tours/",
+    "https://www.kakadufishingtours.com.au/contact-us/",
+    "https://northernterritory.com/tours/kakadu-fishing-tours",
+    "https://www.kakadufishingtours.com.au/our-equipment/",
+    "https://www.kakadufishingtours.com.au/photo-gallery/",
+    "https://northernterritory.com/us/en/tours/kakadu-fishing-tours",
+    "https://northernterritory.com/things-to-do/outdoor-activities/fishing",
+    "https://northernterritory.com/tours",
+    "https://northernterritory.com/tours/kakadu-fishing-tours/half-day-fishing-tour"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.kakadufishingtours.com.au/",
+      "status": 200,
+      "final_url": "https://www.kakadufishingtours.com.au/",
+      "bytes": 155237
+    },
+    {
+      "page": "https://www.kakadufishingtours.com.au/about/",
+      "status": 200,
+      "final_url": "https://www.kakadufishingtours.com.au/about/",
+      "bytes": 150936
+    },
+    {
+      "page": "https://www.kakadufishingtours.com.au/half-day-tours/",
+      "status": 200,
+      "final_url": "https://www.kakadufishingtours.com.au/half-day-tours/",
+      "bytes": 153386
+    },
+    {
+      "page": "https://www.kakadufishingtours.com.au/full-day-tours/",
+      "status": 200,
+      "final_url": "https://www.kakadufishingtours.com.au/full-day-tours/",
+      "bytes": 139889
+    },
+    {
+      "page": "https://www.kakadufishingtours.com.au/contact-us/",
+      "status": 200,
+      "final_url": "https://www.kakadufishingtours.com.au/contact-us/",
+      "bytes": 104999
+    },
+    {
+      "page": "https://northernterritory.com/tours/kakadu-fishing-tours",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/kakadu-fishing-tours",
+      "bytes": 541092
+    },
+    {
+      "page": "https://www.kakadufishingtours.com.au/our-equipment/",
+      "status": 200,
+      "final_url": "https://www.kakadufishingtours.com.au/our-equipment/",
+      "bytes": 150869
+    },
+    {
+      "page": "https://www.kakadufishingtours.com.au/photo-gallery/",
+      "status": 200,
+      "final_url": "https://www.kakadufishingtours.com.au/photo-gallery/",
+      "bytes": 185836
+    },
+    {
+      "page": "https://northernterritory.com/us/en/tours/kakadu-fishing-tours",
+      "status": 200,
+      "final_url": "https://northernterritory.com/us/en/tours/kakadu-fishing-tours",
+      "bytes": 541485
+    },
+    {
+      "page": "https://northernterritory.com/things-to-do/outdoor-activities/fishing",
+      "status": 200,
+      "final_url": "https://northernterritory.com/things-to-do/outdoor-activities/fishing",
+      "bytes": 556614
+    },
+    {
+      "page": "https://northernterritory.com/tours",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours",
+      "bytes": 1269536
+    },
+    {
+      "page": "https://northernterritory.com/tours/kakadu-fishing-tours/half-day-fishing-tour",
+      "status": 200,
+      "final_url": "https://northernterritory.com/tours/kakadu-fishing-tours/half-day-fishing-tour",
+      "bytes": 530124
+    }
+  ]
+}

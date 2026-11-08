@@ -1,0 +1,66 @@
+{
+  "slug": "r5-obj-adventures-nhulunbuy-fishing-charters",
+  "request_hash": "f7aba8692388",
+  "collected_at": "2026-11-08T23:39:14.491Z",
+  "pages_fetched": [
+    "https://www.objadventures.com.au/",
+    "https://www.objadventures.com.au/Nhulunbuy-Fishing-Charters",
+    "https://www.objadventures.com.au/faq",
+    "https://www.objadventures.com.au/east-arnhem-fishing-charters",
+    "https://www.objadventures.com.au/Nhulunbuy-Fishing-Charters-photos",
+    "https://www.objadventures.com.au/Nhulunbuy-Fishing-vessel",
+    "https://www.objadventures.com.au/about-nhulunbuy",
+    "https://www.objadventures.com.au/contact-us"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.objadventures.com.au/",
+      "status": 200,
+      "final_url": "https://www.objadventures.com.au/",
+      "bytes": 181456
+    },
+    {
+      "page": "https://www.objadventures.com.au/Nhulunbuy-Fishing-Charters",
+      "status": 200,
+      "final_url": "https://www.objadventures.com.au/Nhulunbuy-Fishing-Charters",
+      "bytes": 181006
+    },
+    {
+      "page": "https://www.objadventures.com.au/faq",
+      "status": 200,
+      "final_url": "https://www.objadventures.com.au/faq",
+      "bytes": 230686
+    },
+    {
+      "page": "https://www.objadventures.com.au/east-arnhem-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.objadventures.com.au/east-arnhem-fishing-charters",
+      "bytes": 224106
+    },
+    {
+      "page": "https://www.objadventures.com.au/Nhulunbuy-Fishing-Charters-photos",
+      "status": 200,
+      "final_url": "https://www.objadventures.com.au/Nhulunbuy-Fishing-Charters-photos",
+      "bytes": 263972
+    },
+    {
+      "page": "https://www.objadventures.com.au/Nhulunbuy-Fishing-vessel",
+      "status": 200,
+      "final_url": "https://www.objadventures.com.au/Nhulunbuy-Fishing-vessel",
+      "bytes": 171608
+    },
+    {
+      "page": "https://www.objadventures.com.au/about-nhulunbuy",
+      "status": 200,
+      "final_url": "https://www.objadventures.com.au/about-nhulunbuy",
+      "bytes": 193979
+    },
+    {
+      "page": "https://www.objadventures.com.au/contact-us",
+      "status": 200,
+      "final_url": "https://www.objadventures.com.au/contact-us",
+      "bytes": 146879
+    }
+  ]
+}

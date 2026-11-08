@@ -1,0 +1,73 @@
+{
+  "slug": "r5-tiwi-island-retreat",
+  "request_hash": "10b0dd0bcc9a",
+  "collected_at": "2026-11-08T23:40:23.133Z",
+  "pages_fetched": [
+    "https://tiwiislandretreat.com.au/",
+    "https://tiwiislandretreat.com.au/fishing/",
+    "https://tiwiislandretreat.com.au/about/",
+    "https://tiwiislandretreat.com.au/gallery/",
+    "https://tiwiislandretreat.com.au/faq",
+    "https://tiwiislandretreat.com.au/p/fishing-adventure/",
+    "https://tiwiislandretreat.com.au/contact/",
+    "https://tiwiislandretreat.com.au/contact",
+    "https://tiwiislandretreat.com.au/faq/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://tiwiislandretreat.com.au/",
+      "status": 200,
+      "final_url": "https://tiwiislandretreat.com.au/",
+      "bytes": 196393
+    },
+    {
+      "page": "https://tiwiislandretreat.com.au/fishing/",
+      "status": 200,
+      "final_url": "https://tiwiislandretreat.com.au/p/fishing-adventure/",
+      "bytes": 144769
+    },
+    {
+      "page": "https://tiwiislandretreat.com.au/about/",
+      "status": 200,
+      "final_url": "https://tiwiislandretreat.com.au/about/",
+      "bytes": 114471
+    },
+    {
+      "page": "https://tiwiislandretreat.com.au/gallery/",
+      "status": 200,
+      "final_url": "https://tiwiislandretreat.com.au/gallery/",
+      "bytes": 164252
+    },
+    {
+      "page": "https://tiwiislandretreat.com.au/faq",
+      "status": 200,
+      "final_url": "https://tiwiislandretreat.com.au/faq/",
+      "bytes": 137651
+    },
+    {
+      "page": "https://tiwiislandretreat.com.au/p/fishing-adventure/",
+      "status": 200,
+      "final_url": "https://tiwiislandretreat.com.au/p/fishing-adventure/",
+      "bytes": 144769
+    },
+    {
+      "page": "https://tiwiislandretreat.com.au/contact/",
+      "status": 200,
+      "final_url": "https://tiwiislandretreat.com.au/contact/",
+      "bytes": 112189
+    },
+    {
+      "page": "https://tiwiislandretreat.com.au/contact",
+      "status": 200,
+      "final_url": "https://tiwiislandretreat.com.au/contact/",
+      "bytes": 112189
+    },
+    {
+      "page": "https://tiwiislandretreat.com.au/faq/",
+      "status": 200,
+      "final_url": "https://tiwiislandretreat.com.au/faq/",
+      "bytes": 137651
+    }
+  ]
+}

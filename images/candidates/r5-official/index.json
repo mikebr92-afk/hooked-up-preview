@@ -1,0 +1,52 @@
+{
+  "slug": "r5-official",
+  "request_hash": "1bb1069ef522",
+  "collected_at": "2026-11-08T23:40:29.103Z",
+  "pages_fetched": [
+    "https://parksaustralia.gov.au/kakadu/plan/passes/",
+    "https://parksaustralia.gov.au/kakadu/do/fishing/",
+    "https://northernterritory.com/darwin-and-surrounds/destinations/mary-river",
+    "https://northernterritory.com/articles/11-of-the-best-fishing-spots-to-visit-in-the-top-end",
+    "https://www.nlc.org.au/permits",
+    "https://northernterritory.com/things-to-do/outdoor-activities/fishing/fishing-charters"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://parksaustralia.gov.au/kakadu/plan/passes/",
+      "status": 200,
+      "final_url": "https://kakadu.gov.au/plan/passes/",
+      "bytes": 837093
+    },
+    {
+      "page": "https://parksaustralia.gov.au/kakadu/do/fishing/",
+      "status": 200,
+      "final_url": "https://kakadu.gov.au/things-do/activities/fishing-boating/",
+      "bytes": 875890
+    },
+    {
+      "page": "https://northernterritory.com/darwin-and-surrounds/destinations/mary-river",
+      "status": 200,
+      "final_url": "https://northernterritory.com/darwin-and-surrounds/destinations/mary-river",
+      "bytes": 577947
+    },
+    {
+      "page": "https://northernterritory.com/articles/11-of-the-best-fishing-spots-to-visit-in-the-top-end",
+      "status": 200,
+      "final_url": "https://northernterritory.com/articles/11-of-the-best-fishing-spots-to-visit-in-the-top-end",
+      "bytes": 568831
+    },
+    {
+      "page": "https://www.nlc.org.au/permits",
+      "status": 200,
+      "final_url": "https://www.nlc.org.au/permits",
+      "bytes": 659836
+    },
+    {
+      "page": "https://northernterritory.com/things-to-do/outdoor-activities/fishing/fishing-charters",
+      "status": 200,
+      "final_url": "https://northernterritory.com/things-to-do/outdoor-activities/fishing/fishing-charters",
+      "bytes": 621412
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "r5-australian-sportfishing-charters",
+  "request_hash": "78603b117178",
+  "collected_at": "2026-11-08T23:37:33.690Z",
+  "pages_fetched": [
+    "https://australiansportfishingcharters.com/",
+    "https://australiansportfishingcharters.com/arnhem-land-fishing/",
+    "https://australiansportfishingcharters.com/roper-river-charters/",
+    "https://australiansportfishingcharters.com/fishing-blog/",
+    "https://australiansportfishingcharters.com/cairns-marlin-charters/",
+    "https://australiansportfishingcharters.com/the-iron-lady/",
+    "https://australiansportfishingcharters.com/wild-turkey/",
+    "https://australiansportfishingcharters.com/tenders/",
+    "https://australiansportfishingcharters.com/the-experience/",
+    "https://australiansportfishingcharters.com/contact-us/",
+    "https://australiansportfishingcharters.com/barra-fishing-nt/",
+    "https://australiansportfishingcharters.com/privacy-policy/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://australiansportfishingcharters.com/",
+      "status": 200,
+      "final_url": "https://australiansportfishingcharters.com/",
+      "bytes": 167425
+    },
+    {
+      "page": "https://australiansportfishingcharters.com/arnhem-land-fishing/",
+      "status": 200,
+      "final_url": "https://australiansportfishingcharters.com/arnhem-land-fishing/",
+      "bytes": 232436
+    },
+    {
+      "page": "https://australiansportfishingcharters.com/roper-river-charters/",
+      "status": 200,
+      "final_url": "https://australiansportfishingcharters.com/roper-river-charters/",
+      "bytes": 223478
+    },
+    {
+      "page": "https://australiansportfishingcharters.com/fishing-blog/",
+      "status": 200,
+      "final_url": "https://australiansportfishingcharters.com/fishing-blog/",
+      "bytes": 360159
+    },
+    {
+      "page": "https://australiansportfishingcharters.com/cairns-marlin-charters/",
+      "status": 200,
+      "final_url": "https://australiansportfishingcharters.com/cairns-marlin-charters/",
+      "bytes": 251071
+    },
+    {
+      "page": "https://australiansportfishingcharters.com/the-iron-lady/",
+      "status": 200,
+      "final_url": "https://australiansportfishingcharters.com/the-iron-lady/",
+      "bytes": 202119
+    },
+    {
+      "page": "https://australiansportfishingcharters.com/wild-turkey/",
+      "status": 200,
+      "final_url": "https://australiansportfishingcharters.com/wild-turkey/",
+      "bytes": 201542
+    },
+    {
+      "page": "https://australiansportfishingcharters.com/tenders/",
+      "status": 200,
+      "final_url": "https://australiansportfishingcharters.com/tenders/",
+      "bytes": 192725
+    },
+    {
+      "page": "https://australiansportfishingcharters.com/the-experience/",
+      "status": 200,
+      "final_url": "https://australiansportfishingcharters.com/the-experience/",
+      "bytes": 192388
+    },
+    {
+      "page": "https://australiansportfishingcharters.com/contact-us/",
+      "status": 200,
+      "final_url": "https://australiansportfishingcharters.com/contact-us/",
+      "bytes": 259254
+    },
+    {
+      "page": "https://australiansportfishingcharters.com/barra-fishing-nt/",
+      "status": 200,
+      "final_url": "https://australiansportfishingcharters.com/barra-fishing-nt/",
+      "bytes": 240594
+    },
+    {
+      "page": "https://australiansportfishingcharters.com/privacy-policy/",
+      "status": 200,
+      "final_url": "https://australiansportfishingcharters.com/privacy-policy/",
+      "bytes": 139066
+    }
+  ]
+}
