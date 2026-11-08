@@ -1,7 +1,7 @@
 {
   "slug": "r5-qld-official",
   "request_hash": "393543d6b9a2",
-  "collected_at": "2026-11-08T23:38:51.775Z",
+  "collected_at": "2026-11-08T23:44:30.033Z",
   "pages_fetched": [
     "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/rules/limits-tidal",
     "https://www.dpi.qld.gov.au/services/fisheries/closures/tidal-seasons",
@@ -25,7 +25,7 @@
       "page": "https://www.dpi.qld.gov.au/services/fisheries/closures/tidal-seasons",
       "status": 403,
       "final_url": "https://www.dpi.qld.gov.au/services/fisheries/closures/tidal-seasons",
-      "bytes": 5926
+      "bytes": 5947
     },
     {
       "page": "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/rules",
@@ -47,7 +47,7 @@
       "page": "https://parks.desi.qld.gov.au/parks/great-sandy-marine",
       "status": 403,
       "final_url": "https://parks.desi.qld.gov.au/parks/great-sandy-marine",
-      "bytes": 5857
+      "bytes": 5878
     },
     {
       "page": "https://visitagnes1770.com.au/fishing-agnes-water-1770/",

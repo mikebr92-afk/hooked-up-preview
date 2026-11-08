@@ -1,7 +1,7 @@
 {
   "slug": "r5-what-a-catch-deep-sea-fishing",
   "request_hash": "d7e578b368d5",
-  "collected_at": "2026-11-08T23:38:10.136Z",
+  "collected_at": "2026-11-08T23:43:53.389Z",
   "pages_fetched": [
     "https://whatacatchfishing.com.au/",
     "https://whatacatchfishing.com.au/pages/our-trips",
@@ -61,7 +61,7 @@
     {
       "page": "https://whatacatchfishing.com.au/customer_authentication/redirect?locale=en&region_country=AU",
       "status": 200,
-      "final_url": "https://shopify.com/authentication/92432761137/oauth/authorize?buyer_flags=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ5djl0a2EteWQubXlzaG9waWZ5LmNvbSIsImZsYWdzIjpbXSwiZXhwIjoxNzk0Nzg1ODg5LCJuYmYiOjE3OTQxODEwODl9.3r2udsCTXmhUypsVcQgwoX7BYz3IXjPNwijD2_VdLeI&client_id=c640a401-2adb-4949-9d8d-0ed573fd9bd9&locale=en-AU&nonce=1b1bb456-95ed-4d12-b01a-698e4d8e0bcb&redirect_uri=https%3A%2F%2Fshopify.com%2F92432761137%2Faccount%2Fcallback&region_country=AU&response_type=code&scope=openid+email+customer-account-api%3Afull&state=hWNIvYRkafHRF6395FO7O9Sb",
+      "final_url": "https://shopify.com/authentication/92432761137/oauth/authorize?buyer_flags=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ5djl0a2EteWQubXlzaG9waWZ5LmNvbSIsImZsYWdzIjpbXSwiZXhwIjoxNzk0Nzg2MjMyLCJuYmYiOjE3OTQxODE0MzJ9.OV6IPCf_CPLl_dTvWjreKmONodS-4q4lzDTZv0RO1zs&client_id=c640a401-2adb-4949-9d8d-0ed573fd9bd9&locale=en-AU&nonce=24b22795-2aee-4f8d-b156-4cb1839dc830&redirect_uri=https%3A%2F%2Fshopify.com%2F92432761137%2Faccount%2Fcallback&region_country=AU&response_type=code&scope=openid+email+customer-account-api%3Afull&state=hWNIvZ1h0IlKYPKOaTaIGH9l",
       "bytes": 11275
     },
     {

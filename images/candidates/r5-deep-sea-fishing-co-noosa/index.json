@@ -1,7 +1,7 @@
 {
   "slug": "r5-deep-sea-fishing-co-noosa",
   "request_hash": "6fa78b702e7b",
-  "collected_at": "2026-11-08T23:37:34.704Z",
+  "collected_at": "2026-11-08T23:43:46.439Z",
   "pages_fetched": [
     "https://www.deepseafishingco.com.au/",
     "https://www.deepseafishingco.com.au/booking-and-refund-policy/",
@@ -58,7 +58,7 @@
       "page": "https://www.deepseafishingco.com.au/contact-us/",
       "status": 200,
       "final_url": "https://www.deepseafishingco.com.au/contact-us/",
-      "bytes": 109495
+      "bytes": 109496
     },
     {
       "page": "https://www.deepseafishingco.com.au/deep-sea-fishing-co-noosa-5/",

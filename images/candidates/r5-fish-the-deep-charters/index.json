@@ -1,7 +1,7 @@
 {
   "slug": "r5-fish-the-deep-charters",
   "request_hash": "c67e407b6bb7",
-  "collected_at": "2026-11-08T23:36:32.842Z",
+  "collected_at": "2026-11-08T23:43:05.842Z",
   "pages_fetched": [
     "https://www.fishthedeep.com/",
     "https://www.fishthedeep.com/deep-sea-fishing-gold-coast-vessel-crew/",
@@ -9,11 +9,11 @@
     "https://www.fishthedeep.com/contact/",
     "https://www.fishthedeep.com/gold-coast-fishing-charters/",
     "https://www.fishthedeep.com/find-fishing-charters-gold-coast/",
+    "https://www.fishthedeep.com/tour/private-reef-and-game-fishing-full-day-10-angler/",
+    "https://www.fishthedeep.com/tour/half-day/",
     "https://www.fishthedeep.com/tour/full-day/",
     "https://www.fishthedeep.com/tour/private-reef-and-game-fishing-full-day/",
-    "https://www.fishthedeep.com/tour/private-reef-and-game-fishing-half-day/",
-    "https://www.fishthedeep.com/tour/private-reef-and-game-fishing-full-day-scotts-8-angler-special/",
-    "https://www.fishthedeep.com/tour/private-reef-and-game-fishing-half-day-scotts-8-angler-special/"
+    "https://www.fishthedeep.com/tour/private-reef-and-game-fishing-half-day/"
   ],
   "candidates": [],
   "log": [
@@ -21,7 +21,7 @@
       "page": "https://www.fishthedeep.com/",
       "status": 200,
       "final_url": "https://www.fishthedeep.com/",
-      "bytes": 88325
+      "bytes": 88118
     },
     {
       "page": "https://www.fishthedeep.com/deep-sea-fishing-gold-coast-vessel-crew/",
@@ -54,6 +54,18 @@
       "bytes": 52419
     },
     {
+      "page": "https://www.fishthedeep.com/tour/private-reef-and-game-fishing-full-day-10-angler/",
+      "status": 200,
+      "final_url": "https://www.fishthedeep.com/tour/private-reef-and-game-fishing-full-day-10-angler/",
+      "bytes": 81359
+    },
+    {
+      "page": "https://www.fishthedeep.com/tour/half-day/",
+      "status": 200,
+      "final_url": "https://www.fishthedeep.com/tour/half-day/",
+      "bytes": 81636
+    },
+    {
       "page": "https://www.fishthedeep.com/tour/full-day/",
       "status": 200,
       "final_url": "https://www.fishthedeep.com/tour/full-day/",
@@ -70,18 +82,6 @@
       "status": 200,
       "final_url": "https://www.fishthedeep.com/tour/private-reef-and-game-fishing-half-day/",
       "bytes": 81710
-    },
-    {
-      "page": "https://www.fishthedeep.com/tour/private-reef-and-game-fishing-full-day-scotts-8-angler-special/",
-      "status": 200,
-      "final_url": "https://www.fishthedeep.com/tour/private-reef-and-game-fishing-full-day-scotts-8-angler-special/",
-      "bytes": 81412
-    },
-    {
-      "page": "https://www.fishthedeep.com/tour/private-reef-and-game-fishing-half-day-scotts-8-angler-special/",
-      "status": 200,
-      "final_url": "https://www.fishthedeep.com/tour/private-reef-and-game-fishing-half-day-scotts-8-angler-special/",
-      "bytes": 81803
     }
   ]
 }

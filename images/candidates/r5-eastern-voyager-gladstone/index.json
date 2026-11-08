@@ -1,7 +1,7 @@
 {
   "slug": "r5-eastern-voyager-gladstone",
   "request_hash": "5ed2730d6a71",
-  "collected_at": "2026-11-08T23:36:14.943Z",
+  "collected_at": "2026-11-08T23:42:49.334Z",
   "pages_fetched": [
     "https://easternvoyager.com.au/",
     "https://easternvoyager.com.au/about-us/",
@@ -51,7 +51,7 @@
       "page": "https://easternvoyager.com.au/contact-us/",
       "status": 200,
       "final_url": "https://easternvoyager.com.au/contact-us/",
-      "bytes": 137768
+      "bytes": 137766
     },
     {
       "page": "https://easternvoyager.com.au/trip-types/organised-trip/",
