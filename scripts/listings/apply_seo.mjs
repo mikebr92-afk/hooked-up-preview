@@ -86,8 +86,9 @@ for (const g of fs.readdirSync(DIR).filter((d) => fs.existsSync(path.join(DIR, d
   const gp = path.join(DIR, g, 'guides.json');
   if (fs.existsSync(gp)) {
     for (const [k, v] of Object.entries(JSON.parse(fs.readFileSync(gp, 'utf8')))) {
-      const { sources, ...pub } = v; // sources stay in the research files, not the published data
-      guides[k] = pub;
+      // sources are published as the guide's source list (official/primary pages only, http(s) URLs)
+      const sources = [...new Set((v.sources || []).filter((u) => /^https?:\/\//.test(u)))].slice(0, 8);
+      guides[k] = { ...v, sources, reviewed: new Date().toISOString().slice(0, 10) };
       log.guides.push(k);
     }
   }

@@ -89,6 +89,7 @@ for (const h of hotspots) {
   if (g.intro && (!Array.isArray(g.intro) || g.intro.length > 3)) E(h.key, 'intro must be an array of 1–3 paragraphs');
   if (g.season && words(g.season) > 70) E(h.key, 'season too long');
   if (!Array.isArray(g.sources) || !g.sources.length) E(h.key, 'sources required');
+  else if (g.sources.some((u) => typeof u !== 'string' || !/^https?:\/\//.test(u))) W(h.key, 'sources should be page URLs (non-URLs are dropped when published)');
 }
 for (const k of Object.keys(guides)) if (!hotspots.some((h) => h.key === k)) E(k, 'guide for a key not in hotspots.json');
 

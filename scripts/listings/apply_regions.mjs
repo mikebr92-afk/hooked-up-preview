@@ -37,7 +37,7 @@ for (const g of fs.readdirSync(DIR)) {
     if (SEO.LOCS[r.key] && !SEO.isRegion(SEO.LOCS[r.key])) throw new Error(`${r.key}: clashes with an existing page`);
     const L = { kind: 'region', parent: STATE_PAGE[st], state: st, n: r.n, short: r.short, in: r.in, hotspots: r.hotspots, c: r.c, intro: r.intro, season: r.season };
     entries[r.key] = JSON.stringify(L);
-    guides[r.key] = { sections: r.sections, faq: r.faq };
+    guides[r.key] = { sections: r.sections, faq: r.faq, ...(r.summary ? { summary: r.summary } : {}), sources: [...new Set((r.sources || []).filter((u) => /^https?:\/\//.test(u)))].slice(0, 8), reviewed: new Date().toISOString().slice(0, 10) };
     log.push(`${r.key} (${st}): ${r.hotspots.join(', ')}`);
   }
 }

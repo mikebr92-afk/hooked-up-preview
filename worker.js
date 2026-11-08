@@ -224,6 +224,9 @@ const SSR_CSS = `<style>
 .ssr h1{font-size:clamp(32px,4.4vw,48px);margin:0 0 12px}
 .ssr h2{font-size:clamp(22px,2.4vw,28px);margin:40px 0 14px}
 .ssr h3{font-size:17px;margin:0 0 4px;color:#0B3954}
+.ssr-short{background:#FAF6EE;border-left:4px solid #1F7A7A;border-radius:8px;padding:14px 18px;margin:16px 0 8px;max-width:76ch}
+.ssr-short p{margin:0}
+.ssr-sources{font-size:13px;color:#5A5A5A}
 .ssr-glance{display:grid;grid-template-columns:max-content 1fr;gap:6px 18px;margin:0}
 .ssr-glance dt{font-weight:600;color:#0B3954}
 .ssr-glance dd{margin:0}
@@ -336,17 +339,32 @@ function compareTable(rows) {
     .map((r) => `<tr><td><a href="/charters/${esc(r.slug)}">${esc(r.name)}</a></td><td>${esc(r.from)}</td><td>${esc(r.styles)}</td><td>${esc(r.duration)}</td><td>${esc(r.price)}</td><td>${esc(r.species)}</td></tr>`).join('')}</tbody></table>`;
 }
 
+function shortHtml(g) {
+  return g.summary ? `<aside class="ssr-short" aria-label="In short"><p><strong>In short:</strong> ${esc(g.summary)}</p></aside>` : '';
+}
+function suitsHtml(g) {
+  return g.suits.length ? `<h2>${esc(g.suitsTitle)}</h2><ul>${g.suits.map(([t, d]) => `<li><strong>${esc(t)}</strong> — ${esc(d)}</li>`).join('')}</ul>` : '';
+}
+function sourcesHtml(g) {
+  if (!g.sources.length && !g.reviewed) return '';
+  return `<h2>Sources</h2><div class="ssr-sources">${g.sources.length ? `<ul>${g.sources.map((u) => `<li><a href="${esc(u)}" rel="nofollow noopener">${esc(SEO.sourceLabel(u))}</a></li>`).join('')}</ul>` : ''}${
+    g.reviewed ? `<p>Guide last reviewed ${esc(SEO.reviewedLabel(g.reviewed))}. Listings are checked against each operator's own website.</p>` : ''}</div>`;
+}
+
 function renderLocation(key, L, items, cards) {
   const g = SEO.locGuide(L, items, cards);
   return page(`<main class="ssr-main">${crumbsHtml(SEO.locTrail(key, L))}
 <h1>${esc(SEO.locH1(L))}</h1>
 <p>Compare ${items.length} fishing ${items.length === 1 ? 'charter' : 'charters'} ${esc(L.in)}. Browse trips, target species and prices — then enquire direct with the operator.</p>
+${shortHtml(g)}
 ${SEO.subLocGroups(cards, key).map(([h, ks]) => `<h2>${esc(h)}</h2><ul class="ssr-chips">${ks.map((k) => `<li><a href="/fishing-charters/${k}">${esc(LOCS[k].n)} (${SEO.locItems(cards, LOCS[k]).length})</a></li>`).join('')}</ul>`).join('')}
 ${cardList(items)}
 <section><h2>${esc(g.heading)}</h2>${g.paras.map((p) => `<p>${esc(p)}</p>`).join('')}
 ${sectionsHtml(g.sections)}
+${suitsHtml(g)}
 ${g.compare.length ? `<h2>${esc(g.compareTitle)}</h2>${compareTable(g.compare)}` : ''}
-<h2>Frequently asked questions</h2>${g.faq.map(([q, a]) => `<h3>${esc(q)}</h3><p>${esc(a)}</p>`).join('')}</section>
+<h2>Frequently asked questions</h2>${g.faq.map(([q, a]) => `<h3>${esc(q)}</h3><p>${esc(a)}</p>`).join('')}
+${sourcesHtml(g)}</section>
 ${locationChips(cards)}</main>`);
 }
 
@@ -415,13 +433,13 @@ function render404(cards) {
 
 // ── generated files ──────────────────────────────────────────────────────────
 function sitemap(cards, ops) {
-  // lastmod: when each listing was last checked; destination pages use their newest listing.
+  // lastmod: when each listing was last checked; destination pages use their newest listing or guide review.
   const when = (slug) => ops?.get(slug)?.verified_at || '';
   const newest = (items) => items.map((c) => when(c.slug)).filter(Boolean).sort().pop() || '';
   const act = SEO.activeCards(cards);
   const urls = [
     ...STATIC_PAGES.map((u) => [u, u === '/' || u === '/charters' ? newest(act) : '']),
-    ...Object.keys(LOCS).filter(live).map((k) => ['/fishing-charters/' + k, newest(SEO.locItems(cards, LOCS[k]))]),
+    ...Object.keys(LOCS).filter(live).map((k) => ['/fishing-charters/' + k, [newest(SEO.locItems(cards, LOCS[k])), LOCS[k].reviewed || ''].sort().pop()]),
     ...act.map((c) => ['/charters/' + c.slug, when(c.slug)]),
   ];
   return `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls
@@ -531,11 +549,12 @@ function locationMd(key, L, items, cards) {
   const g = SEO.locGuide(L, items, cards);
   const m = SEO.locMeta(key, L, items);
   const url = `${SITE}/fishing-charters/${key}`;
-  const out = [`# ${SEO.locH1(L)}`, '', `> ${mdClean(m.desc)}`, '', `Page: ${url}`, '', `## ${g.heading}`, '', ...g.paras.flatMap((p) => [mdClean(p), ''])];
+  const out = [`# ${SEO.locH1(L)}`, '', `> ${mdClean(g.summary || m.desc)}`, '', `Page: ${url}`, ...(g.reviewed ? [`Guide last reviewed: ${g.reviewed}`] : []), '', `## ${g.heading}`, '', ...g.paras.flatMap((p) => [mdClean(p), ''])];
   for (const x of g.sections) {
     out.push(`## ${x.h}`, '', ...(x.p || []).flatMap((p) => [mdClean(p), '']));
     if (x.items?.length) out.push(...x.items.map(([t, d]) => `- **${t}**${d ? `: ${mdClean(d)}` : ''}`), '');
   }
+  if (g.suits.length) out.push(`## ${g.suitsTitle}`, '', ...g.suits.map(([t, d]) => `- **${t}**: ${mdClean(d)}`), '');
   if (g.compare.length) {
     out.push(`## ${g.compareTitle}`, '', '| Charter | Departs | Style | Duration | From | Main species |', '|---|---|---|---|---|---|',
       ...g.compare.map((r) => `| [${mdCell(r.name)}](${SITE}/charters/${r.slug}) | ${mdCell(r.from)} | ${mdCell(r.styles)} | ${mdCell(r.duration)} | ${mdCell(r.price)} | ${mdCell(r.species)} |`), '');
@@ -543,6 +562,7 @@ function locationMd(key, L, items, cards) {
   else out.push(`## Fishing charters ${L.in}`, '', ...items.map((c) => `- [${c.name}](${SITE}/charters/${c.slug}): ${oneLine(c)}`), '');
   out.push('## Frequently asked questions', '', ...g.faq.flatMap(([q, a]) => [`### ${q}`, '', mdClean(a), '']));
   for (const [h, ks] of SEO.subLocGroups(cards, key)) out.push(`## ${h}`, '', ...ks.map((k) => `- [${SEO.locH1(LOCS[k])}](${SITE}/fishing-charters/${k})`), '');
+  if (g.sources.length) out.push('## Sources', '', ...g.sources.map((u) => `- ${u}`), '');
   return out.join('\n');
 }
 

@@ -27,7 +27,8 @@ published on the website (both are excluded in `.assetsignore`).
   | `linkcheck.mjs` | check the locally served site: links, head tags and JSON-LD |
   | `crawl.mjs` | compare raw and rendered pages (needs Playwright) |
   | `enquiry.mjs` | test the enquiry form end to end (needs Playwright) |
-| `count-check.mjs` | check every count shown on the site against the live data (needs Playwright) |
+  | `count-check.mjs` | check every count shown on the site against the live data (needs Playwright) |
+  | `indexnow.mjs` | tell Bing/Yandex (IndexNow) which pages changed; runs automatically after each deploy (`.github/workflows/indexnow.yml`) |
 
 ## Running a state agent (orchestrator steps)
 
@@ -47,7 +48,7 @@ published on the website (both are excluded in `.assetsignore`).
 4. **Build:** `node scripts/listings/build_listings.mjs <repo> <outParent>`. This merges every `<group>/listings.json`
    under `<outParent>` and keeps all other listings unchanged.
 5. **Destinations:** add any new hot spot to `LOCS` in `site-seo.js` (n, short, in, parent, c, state, intro,
-   season). Merge `guides.json` into `data/guides.json`, without the `sources` field.
+   season). Merge `guides.json` into `data/guides.json` with `apply_seo.mjs`. Its `summary` (the "In short" answer) and `sources` (URLs) are published, and `reviewed` is stamped with the merge date.
 6. **Verify:**
    - serve locally;
    - run `qa.mjs`, `linkcheck.mjs` and `count-check.mjs`;

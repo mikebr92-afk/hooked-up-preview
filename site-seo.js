@@ -848,6 +848,56 @@ function placesOf(items) {
   return [...m.entries()].sort((a, b) => (a[0].startsWith('elsewhere') - b[0].startsWith('elsewhere')) || b[1] - a[1]);
 }
 
+
+// ── answer-first page summary + "which charter suits you" facets + published sources ──
+const firstSentence = (t) => ((t || '').match(/^.*?[.!?](\s|$)/) || [t || ''])[0].trim();
+function autoSummary(L, items, st) {
+  const who = isSpecies(L) ? `${st.count} ${plural(st.count, L.noun, L.noun + 's')}` : `${st.count} fishing ${plural(st.count, 'charter', 'charters')} ${L.in}`;
+  const one = st.count === 1;
+  const parts = [`Hooked Trips lists ${who}, ${one ? '' : 'each '}checked against the operator's own website.`];
+  if (st.species.length && !isSpecies(L)) parts.push(`${one ? 'It mainly targets' : 'They mainly target'} ${list(st.species.slice(0, 4))}.`);
+  const p = priceClause(st); if (p) parts.push(p.charAt(0).toUpperCase() + p.slice(1) + '.');
+  const sea = firstSentence(L.season); if (sea) parts.push(sea);
+  return parts.join(' ');
+}
+const hasTag = (c, ...t) => t.some((x) => (c.trip_type_tags || []).includes(x) || (c.experience_tags || []).includes(x));
+const perPerson = (c) => c.price > 0 && /person/.test(c.priceUnit);
+// Data-driven answers to the follow-up questions people (and AI assistants) ask about a place:
+// families, budget, private groups, game fishing, fly, multi-day. Names only — every fact is from the listing.
+export function suitsRows(items) {
+  if (!items || items.length < 2) return [];
+  const names = (arr, f) => list(arr.slice(0, 3).map((c) => (f ? `${c.name} (${f(c)})` : c.name)));
+  const by = (...fns) => (a, b) => { for (const f of fns) { const d = f(b) - f(a); if (d) return d; } return 0; };
+  const rows = [];
+  // tag facets that match (nearly) every listing don't help anyone choose, so they're left out
+  const add = (label, arr, f, always) => { if (arr.length && (always || items.length < 4 || arr.length / items.length <= 0.8)) rows.push([label, names(arr, f)]); };
+  add('Families and first-timers', items.filter((c) => hasTag(c, 'Family Friendly', 'Families', 'Beginner Friendly'))
+    .sort(by((c) => hasTag(c, 'Half Day'), (c) => hasTag(c, 'Family Friendly', 'Families'), (c) => -(c.price || 9999))));
+  add('On a budget', items.filter(perPerson).sort((a, b) => a.price - b.price), (c) => `from ${money(c.price)} per person`, true);
+  add('Private groups', items.filter((c) => hasTag(c, 'Private Charter') && c.max_capacity > 0).sort((a, b) => b.max_capacity - a.max_capacity), (c) => `up to ${c.max_capacity} guests`, true);
+  add('Game fishing', items.filter((c) => hasTag(c, 'Game Fishing')).sort(by((c) => hasTag(c, 'Deep Sea', 'Offshore'), (c) => c.price || 0)));
+  add('Barramundi', items.filter((c) => hasTag(c, 'Barramundi Fishing')).sort(by((c) => (c.species || [])[0] === 'Barramundi')));
+  add('Fly fishing', items.filter((c) => hasTag(c, 'Fly Fishing')).sort(by((c) => /fly/i.test(c.name))));
+  add('Calm water (estuary, river or bay)', items.filter((c) => hasTag(c, 'Estuary Fishing', 'River Fishing', 'Bay Fishing', 'Harbour Fishing', 'Lake Fishing'))
+    .sort(by((c) => !hasTag(c, 'Offshore', 'Deep Sea'), (c) => hasTag(c, 'Half Day'))));
+  add('Multi-day and overnight trips', items.filter((c) => hasTag(c, 'Multi-Day', 'Overnight')).sort(by((c) => hasTag(c, 'Multi-Day'), (c) => !hasTag(c, 'Half Day'))));
+  return rows.length >= 2 ? rows : [];
+}
+export function sourceLabel(u) {
+  try { return new URL(u).hostname.replace(/^www\./, ''); } catch { return u; }
+}
+export function reviewedLabel(d) {
+  if (!d) return '';
+  const [y, m, day] = d.split('-').map(Number);
+  const M = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+  return `${day} ${M[m - 1]} ${y}`;
+}
+const guideExtras = (L, items, st) => ({
+  summary: L.summary || autoSummary(L, items, st),
+  sources: (L.sources || []).filter((u) => /^https?:\/\//.test(u)),
+  reviewed: L.reviewed || '',
+});
+
 function speciesGuide(L, items, cards) {
   const st = locStats(items);
   const faq = [];
@@ -869,7 +919,7 @@ function speciesGuide(L, items, cards) {
   const dests = [...byDest.entries()].sort((a, b) => b[1].length - a[1].length).slice(0, 12)
     .map(([d, names]) => [d, names.length <= 3 ? list(names) : `${names.length} operators, including ${list(names.slice(0, 3))}`]);
   const auto = dests.length ? [{ h: `Where to book a ${L.noun}`, p: [], items: dests }] : [];
-  return { heading: `${L.n}: what to know`, paras: L.intro, sections: [...auto, ...(L.sections || [])], compare: [], compareTitle: '', faq };
+  return { heading: `${L.n}: what to know`, paras: L.intro, sections: [...auto, ...(L.sections || [])], compare: [], compareTitle: '', suits: [], suitsTitle: '', faq, ...guideExtras(L, items, st) };
 }
 
 export function locGuide(L, items, cards) {
@@ -889,7 +939,8 @@ export function locGuide(L, items, cards) {
   if (LICENCE[L.state]) faq.push(LICENCE[L.state]);
   for (const qa of L.faq || []) faq.push(qa);
   // sections: [{ h: 'Where the charters fish', p: ['…'], items: [['Name', 'detail'], …] }]
-  return { heading: `Fishing ${L.in}`, paras: L.intro, sections: L.sections || [], compare: !L.st && items.length <= 20 ? compareRows(items) : [], compareTitle: `Compare fishing charters ${L.in}`, faq };
+  return { heading: `Fishing ${L.in}`, paras: L.intro, sections: L.sections || [], compare: !L.st && items.length <= 20 ? compareRows(items) : [], compareTitle: `Compare fishing charters ${L.in}`,
+    suits: suitsRows(items), suitsTitle: `Which charter ${L.in} suits you?`, faq, ...guideExtras(L, items, st) };
 }
 
 // One row per listing for the "compare charters" table on destination pages.
@@ -938,10 +989,12 @@ export function locMeta(key, L, items) {
       '@context': 'https://schema.org',
       '@graph': [
         crumbs(locTrail(key, L)),
+        { '@type': 'WebPage', '@id': SITE + path, url: SITE + path, name: title.split(' | ')[0], description: clip(g.summary, 300), inLanguage: 'en-AU',
+          ...(g.reviewed ? { dateModified: g.reviewed } : {}), ...(g.sources.length ? { citation: g.sources } : {}) },
         itemList(items),
         ...(isSpecies(L) ? [] : [{
           '@type': 'TouristDestination', '@id': SITE + path + '#destination', name: L.n,
-          description: clip((L.intro || [])[0] || '', 300),
+          description: clip(g.summary || (L.intro || [])[0] || '', 300),
           ...(L.state ? { containedInPlace: { '@type': 'State', name: STATE_NAMES[L.state] || L.state } } : {}),
           touristType: 'Recreational fishing',
         }]),
