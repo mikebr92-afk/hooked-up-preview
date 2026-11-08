@@ -1,0 +1,14 @@
+{"requests":[
+ {"slug":"r5-miena-guiding-tasmania","pages":["https://mienaguidingtasmania.com.au/"],"text":true,"max":0,"follow":true},
+ {"slug":"r5-trout-tales-tasmania","pages":["https://www.trouttalestasmania.com.au/","https://www.trouttalestasmania.com.au/fly-fishing-tasmania-packages"],"text":true,"max":0,"follow":true},
+ {"slug":"r5-divers-fishing-charters-hobart","pages":["https://www.tasyachttrip.com.au/","https://www.tasyachttrip.com.au/faq"],"text":true,"max":0,"follow":true},
+ {"slug":"r5-tassie-fly-guide","pages":["https://tassieflyguide.com.au/","https://tassieflyguide.com.au/guiding","https://tassieflyguide.com.au/blog"],"text":true,"max":0,"follow":true},
+ {"slug":"r5-trout-territory","pages":["https://troutterritory.com.au/","https://troutterritory.com.au/fly-fishing-tour-rates/"],"text":true,"max":0,"follow":true},
+ {"slug":"r5-riverfly-1864","pages":["https://riverfly.com.au/","https://riverfly.com.au/fly-fishing-tasmania/"],"text":true,"max":0,"follow":true},
+ {"slug":"r5-tasmania-fly-fishing","pages":["https://tasmaniaflyfishing.com.au/","https://tasmaniaflyfishing.com.au/tasmania-fly-fishing-charters-rates-tours/"],"text":true,"max":0,"follow":true},
+ {"slug":"r5-mr-flathead","pages":["https://www.mrflathead.com.au/","https://www.mrflathead.com.au/tasmania-fishing-charter-tour","https://www.mrflathead.com.au/contact-charters-hobart"],"text":true,"max":0,"follow":true},
+ {"slug":"r5-tasman-spirit-charters","pages":["https://tasmanspiritcharters.com/"],"text":true,"max":0,"follow":true},
+ {"slug":"r5-red-tag-trout-tours","pages":["https://www.redtagtrout.com/","https://www.redtagtrout.com/about/"],"text":true,"max":0,"follow":true},
+ {"slug":"r5-official","pages":["https://www.ifs.tas.gov.au/the-rules/season-dates-and-times","https://www.ifs.tas.gov.au/the-rules/angling-licence","https://fishing.tas.gov.au/recreational-fishing/rules/recreational-fishing-seasons","https://fishing.tas.gov.au/recreational-fishing/recreational-sea-fishing-licences","https://fishing.tas.gov.au/commercial-fishing/commercial-fishing-licences/charter-and-seafood-tourism","https://fishing.tas.gov.au/recreational-fishing/fishing-tips/hot-fishing-spots/fishing-around-st-helens","https://fishing.tas.gov.au/recreational-fishing/fishing-tips/hot-fishing-spots/fishing-around-the-tasman-peninsula-region","https://www.discovertasmania.com.au/things-to-do/outdoor-and-adventure/fishing-and-fly-fishing/"],"text":true,"max":0,"follow":false},
+ {"slug":"r5-sth-discovery","pages":["https://eastcoasttasmania.com/to-do/adventure/itinerary/fishing/","https://www.discovertasmania.com.au/things-to-do/tours/keenanglercharters/","https://www.troutguidestasmania.com.au/guide/","http://www.breamfishing.com.au/"],"text":true,"max":0,"follow":false}
+]}
