@@ -1,0 +1,83 @@
+QLD NORTH - ROUND 5 AEO REVIEW - KNOWLEDGE UPDATES (checked 2026-11-08)
+For ops/states/qld.md. Research text is on pipeline branch operator-images/state-qld-north-r5 under research/r5n-*
+(26 operators, rules, tourism). Round 4 research (operator-images/state-qld-north-r4) was reused for Cairns Sportfishing.
+
+DELIVERABLES
+- seo-patches.json: 26/26. Every lead rewritten to answer who / where (departure point) / what / for whom / from how much
+  (or "prices on enquiry"). Every FAQ now carries a source URL to the exact operator page. Validator: 0 errors, 0 warnings.
+- guides.json: 13/13 (9 destinations + 4 region hubs). Each has a 40-60 word summary, the existing intro/season/sections
+  kept, 5-8 FAQs (2-3 new facet FAQs each: kids/families, half vs full day, shared vs private, reef vs estuary, what's
+  included, departure points, crocodiles, permits), and a published sources list led by operator pages plus official
+  pages (DPI closed seasons, qld.gov.au tidal limits, GBRMPA EMC, Be Crocwise, SIPS dam pages).
+- held.json: 3 listed operators recommended for hold/phone check + 4 carried-forward leads.
+
+WATCHLIST RESULTS
+- Daintree River Fishing (David Patterson): UNCHANGED. Homepage still says "Rates are valid to 31 March 2026" with no prices;
+  (c)2026 footer; all inner pages (personalised, share, coastal/reef, brag board, map) still 404. Tourism Port Douglas
+  Daintree listing still AU$120 pp. Destination Daintree now returns 403 to the pipeline. Kept listed on the strength of the
+  July 2026 Destination Daintree guide (r4). FAQs rewritten from homepage facts only (old private-charter FAQ relied on a dead
+  page). Keep on watchlist; owner phone 0488 907 776 for 2026-27 rates.
+- Mackay Fly & Sportfishing: STILL STALE. "2024 SEASON" pricing and (c)2023 on every page; one web search found only undated
+  podcasts/directories. Patched with _flag "stale?" and added to held.json with a recommendation to unpublish unless a phone
+  call (0407 674 350) confirms a 2026-27 season. If removed, Mackay drops to 1 listing (Cast and Catch) - thin.
+- Carpentaria Barra & Sport Fishing Charters: WORSE. Homepage up (auto (c)2026), but the new-style inner URLs (about-us,
+  fishing-packages, faqs, contact-us) all 404, as did the old ?p= permalinks in r4. One web search: nothing dated 2025-26.
+  _flag "stale?", in held.json; phone 0408 796 705. If removed, Karumba drops to 1 listing (Kerry D).
+- Ian Moody Sportfishing Charters: STILL THIRD-PARTY ONLY. Queensland.com live; Facebook login wall; FishingBooker bot check.
+  Search found FishingBooker listings 16164 (Townsville) and 17663 (Cardwell, 4.3/5 from 5) and an AU$950 group full-day price.
+  _flag "stale?"; owner to get a phone number from ATDW/FishingBooker.
+- Flux Fly Fishing rename (fishs-fly-sportfishing-weipa): still awaiting owner approval; site trading (c)2026-era menu with
+  West/East Cape motherships and lodge pages. FAQ 3 reworded to "Flux Fly Fishing".
+
+PRICE / DETAIL CHANGES FOUND (2026-11-08)
+- Cairns Reef Fishing: REPRICED. Shared full day $380 per guest (was $340), now "fuel levy included", described as 8 hours
+  (was 9). Private per vessel now $4,200 Blue Whaler / $4,800 Aqua Cat / $5,300 Serranidae, "include fuel, GST and applicable
+  reef fees, no additional fuel levy" (was $3,800/$4,400/$4,900 + levy). Typical depth now "25-50 m". Corrected in
+  seo-patches (trips, price_from 380, price_to 5300, highlights). Cairns and TNQ guides updated to "$340-$380" shared reef day
+  and "$4,200-$5,300" whole reef boats.
+- Fish Tales: unchanged, but its reef page still shows a $40 pp (shared) / $100 (private) temporary fuel tax and EMC $8.50
+  from 1 Apr 2026, $9 from 1 Apr 2027. Its homepage still says EMC "$8.00 from 1 July 2023" (stale text on their site).
+- Airlie Beach Fishing Charters: unchanged prices; private 4 h $1,950 and 6 h $2,950 are now separate product pages (already
+  in trip notes). Its private page says the reef tax included is "$7 per person" (stale text on their site).
+- Razorfish: private half day $1,800 (5 h) shown on homepage (already in trip notes). Whitsunday Fishing Charters: full-day
+  private $3,850 (already in notes). Topnotch: fuel levy policy unchanged.
+- All other operators: prices, trips and departure points unchanged versus records; (c)2026 footers on Akula, Audacity,
+  Crackajack, Full On Fish'n, Cast and Catch, Far North Fishing Weipa, Kerry D, Whitsunday Fishing, Topnotch.
+- Tropical Sportfisher: "Join us in 2026/27" and "2026 Multi-Day Trip Dates Now Open". Tropic Barra: GBR trips "coming
+  October 2026" still showing.
+
+RULES / OFFICIAL SOURCES
+- DPI closed-seasons page (https://www.dpi.qld.gov.au/services/fisheries/closures/tidal-seasons) and the old DAF URL both
+  return 403 to the pipeline. Cited from r4 plus search. Coral reef fin fish 2027 closures: 26-30 Oct and 25-29 Nov 2027
+  (search snippet of the DAF page; matches Cairns Reef Fishing's and Fish Tales' published 2027 dates). Added to Cairns,
+  Whitsundays and Townsville guides as "indicative". Search snippet notes the DAF page's 2029 entry appears to contain a typo.
+- Tidal limits page (qld.gov.au limits-tidal) fetched OK, "Last updated 25 September 2026": barramundi 58-120 cm, 5 pp / 10 per
+  boat; coral reef fin fish combined 20; Gulf Spanish mackerel 6 pp on licensed charter trips of 48 h+ entirely in Gulf waters.
+- Stocked Impoundment Permits (fetched): Tinaroo Falls (about 14 km NE of Atherton), Kinchant (about 30 km SW of Mackay) and
+  Teemburra (about 54 km W of Mackay) all need a SIP; "all persons 18 years and over must hold a permit"; under-18s do not.
+  Eungella was not checked; the Mackay guide tells readers to check the current list.
+- GBRMPA EMC: https://www.gbrmpa.gov.au/access/environmental-management-charge (search: full-day $8.50 from 1 April 2026;
+  part-day $4.25). The pipeline could not fetch gbrmpa.gov.au (no output, two attempts).
+- Be Crocwise (fetched): https://www.qld.gov.au/environment/plants-animals/animals/living-with/crocodiles/becrocwise -
+  crocodile habitat "starts near Gladstone and extends north to the Torres Strait, across Cape York Peninsula and in the Gulf".
+  Weipa Town Authority CrocWise page also fetched OK.
+- Gulf barramundi closure end date still not confirmed from an official page (secondary sources say 7 Oct - 31 Jan).
+
+PIPELINE NOTES
+- cairnssportfishing.com.au failed to fetch twice in r5 (no output). FAQ sources use r4 URLs; re-check next round.
+- Tourism body "fishing" pages guessed for TTNQ, Tourism Whitsundays, Mackay Isaac, Townsville North Qld and Outback Qld
+  Karumba all returned 403/404. Find correct URLs with one search each next time if official tourism sources are wanted.
+
+GAPS (unchanged)
+- Bowen, Mission Beach and Cooktown still have no listings. Leads in held.json (Pegasus 0409 662 750; Kurrimine 0411 845 345;
+  Gone Fishing Cooktown 0409 942 597).
+- Thin-risk: Mackay and Karumba would each fall to 1 listing if the stale operators are removed.
+
+OWNER CHECKS
+1. Phone Mackay Fly (0407 674 350) and Carpentaria Barra (0408 796 705); unpublish if no 2026-27 season is confirmed.
+2. Get a phone number for Ian Moody (ATDW/FishingBooker) and confirm trading.
+3. Phone Daintree Fishing (0488 907 776) for 2026-27 rates (site rates expired 31 March 2026).
+4. Approve the Cairns Reef Fishing price correction (trips/price_from/price_to) - large change, from the operator's own pages.
+5. Approve or decline the Flux Fly Fishing rename (carried from r4).
+
+SEARCH BUDGET: 7 of 25 WebSearches used (DPI closures, GBRMPA EMC, Crocwise, SIPS, Ian Moody, Mackay Fly, Carpentaria).

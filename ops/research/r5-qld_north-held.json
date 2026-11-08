@@ -1,0 +1,72 @@
+[
+ {
+  "name": "Mackay Fly & Sportfishing",
+  "slug": "mackay-fly-sportfishing",
+  "status": "currently listed; recommend moving to held",
+  "hotspot": "mackay",
+  "phone": "0407 674 350",
+  "website": "https://www.mackaysportfishing.com.au/",
+  "found": "Re-checked 2026-11-08. Every page still carries the '2024 SEASON' price heading and a (c)2023 footer. One web search found only undated podcast interviews with Paul Dolan and directory entries (based at Mirani). No dated 2025-26 activity, so it no longer meets the verification standard.",
+  "action": "Phone Paul Dolan to confirm a 2026-27 season and current half/full-day rates. If confirmed, keep listed; if not, unpublish and keep here.",
+  "_checked": "2026-11"
+ },
+ {
+  "name": "Carpentaria Barra & Sport Fishing Charters",
+  "slug": "carpentaria-barra-sport-fishing-charters",
+  "status": "currently listed; recommend moving to held",
+  "hotspot": "karumba",
+  "phone": "0408 796 705",
+  "email": "info@carpentariabarra.com.au",
+  "website": "https://www.carpentariabarra.com.au/",
+  "found": "Re-checked 2026-11-08. The homepage loads with an auto-generated (c)2026 footer, but every inner page (about-us, fishing-packages, faqs, contact-us, vessels and tackle) returns 404. One web search found no 2025-26 dated content; search snippets of older pages refer to 2017 availability.",
+  "action": "Phone Gavin 'Groover' New to confirm 2026-27 trading and rates. If there is no answer, unpublish and keep here. Karumba would then have one listing (Kerry D), so the Tropical Sportfisher Karumba package could be cross-listed.",
+  "_checked": "2026-11"
+ },
+ {
+  "name": "Ian Moody Sportfishing Charters",
+  "slug": "ian-moody-sportfishing-charters",
+  "status": "currently listed (third-party evidence only); phone check",
+  "hotspot": "hinchinbrook",
+  "phone": "",
+  "website": "",
+  "found": "Re-checked 2026-11-08. No own website. Facebook shows a login wall and FishingBooker shows a bot check to the pipeline. The Queensland.com (ATDW) listing is live ($720-$1,050 by group size). Web search shows FishingBooker listings 16164 (Townsville, about 4.9 from ~31 reviews) and 17663 (Cardwell, 4.3 from 5) and an AU$950 full-day group price, but nothing dated 2025-26 from the operator. No phone number was found in the fetched sources.",
+  "action": "Owner to obtain the phone number from the ATDW listing or FishingBooker and confirm 2026-27 trading.",
+  "_checked": "2026-11"
+ },
+ {
+  "name": "Pegasus Fishing Charter",
+  "status": "lead (not re-researched this round)",
+  "hotspot": "bowen (gap)",
+  "phone": "0409 662 750",
+  "found": "Carried forward from earlier rounds. Bowen still has no listing.",
+  "action": "Phone to confirm trading; would open a Bowen page.",
+  "_checked": "2026-11"
+ },
+ {
+  "name": "Kurrimine Boat Hire & Fishing Charters",
+  "status": "lead (not re-researched this round)",
+  "hotspot": "mission-beach (gap)",
+  "phone": "0411 845 345",
+  "found": "Carried forward. Partly boat hire, so confirm that guided fishing charters are a clearly sold product.",
+  "action": "Phone to confirm.",
+  "_checked": "2026-11"
+ },
+ {
+  "name": "Gone Fishing Cooktown",
+  "status": "held (not re-researched this round)",
+  "hotspot": "cooktown (gap)",
+  "phone": "0409 942 597",
+  "found": "Carried forward from earlier rounds.",
+  "action": "Phone to confirm.",
+  "_checked": "2026-11"
+ },
+ {
+  "name": "Big Fish Down Under",
+  "status": "held (not re-researched this round)",
+  "hotspot": "cairns",
+  "phone": "",
+  "found": "Carried forward: newest content 2023.",
+  "action": "Re-check next coverage round.",
+  "_checked": "2026-11"
+ }
+]
