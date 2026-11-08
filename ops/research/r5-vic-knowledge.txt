@@ -1,0 +1,100 @@
+VICTORIA - KNOWLEDGE UPDATES FOR ops/states/vic.md  (state-vic, round 5 weekly AEO review, checked 2026-11-08)
+=============================================================================================================
+
+0. DELIVERABLES
+---------------
+  seo-patches.json  14/14 listings; guides.json 8/8 pages (state, 5 destinations, 2 region hubs), each with a 40-60 word
+  summary. validate-seo.mjs: 0 errors, 0 warnings.
+  guides-thin.json  murray-river guide with summary (validated separately against thin-hotspots.json: 0 guide errors).
+  held.json         12 records (r4 list carried forward; Lake Hume Hire, WildCast and Westernport ownership re-checked).
+  listings.json     NOT produced: no second Murray River operator meets the standard (see 4).
+  Pipeline: image-requests/vic-r5-aeo.json on operator-images/state-vic-r5 (text only, max 0).
+  WebSearch used: 17 of 25.
+
+1. OFFICIAL RULES - NOW CONFIRMED FROM OFFICIAL PAGES (use these on the site)
+------------------------------------------------------------------------------
+Licence prices 2026-27 (Service Victoria, fetched: https://www.service.vic.gov.au/fishing)
+  3-day $10.00; 28-day $24.70; 1-year $43.30 ($2.50 cheaper online = $40.80); 3-year $117.40 ($6.20 cheaper online = $111.20).
+  Licence needed if 18 to 69; under-18 and 70+ get a FREE junior/senior fisher card. The licence is valid in Victorian waters only.
+  (Official schedule PDF agrees on $10 / $40.80 online / $111.20 online: djsir.vic.gov.au 2026-27 Fees and Penalties VFA.)
+  Charter clients: no charter exemption in Victoria (VFA licence page via search; operators repeat it: Gone Fishing, I'm Hooked, Sharkmen FAQ).
+Lake Hume (fetched: https://www.vic.gov.au/fisheries-management-lake-hume-notice-2026, published 15 Apr 2026 by VFA)
+  Anyone who has paid the NSW fishing fee is exempt from needing a Victorian licence on Lake Hume, if carrying the NSW receipt.
+  VFA manages Lake Hume (so a Vic licence is valid there); NSW DPI manages Lake Mulwala.
+  -> Replace older wording "Lake Hume is the exception, where a Victorian licence is valid" with "either licence is accepted".
+Murray River / Lake Mulwala: NSW licence needed even when fishing from the Victorian bank; a Victorian licence is NOT valid on the
+  Murray except Lake Hume (VFA "Murray River (NSW)" article, via search). Lake Mulwala = NSW water (yarrawongamulwala.com.au, fetched).
+Murray cod (VFA murraycod page, via search extract; vfa.vic.gov.au still 403 to pipeline and fetcher)
+  Closed 1 Sep - 30 Nov INCLUSIVE; not closed at Lake Eildon, Eildon Pondage, Arcadia Pondage (+ other listed lakes).
+  Slot 55-75 cm; bag 1 in rivers, 2 in specified lakes/impoundments (+ urban lakes). The guides say "specified lakes the VFA lists"
+  rather than naming Eildon as one. OWNER: confirm Lake Eildon is on the specified-lakes list before quoting "2 a day at Eildon".
+  NSW reopened inland waters for cod on 1 Dec 2025 (DPI media release). Lake Mulwala Sportfishing's site says "until 1 December";
+  official end is 30 Nov - its FAQ was rewritten to 30 November.
+Trout (VFA trout and salmon regulations, via search)
+  River/stream closed season 2026: Tue 9 June to Fri 4 Sept inclusive (first open day Sat 5 Sept 2026). Rule of thumb: from the
+  Monday of the King's Birthday weekend to the first Friday in September. Lakes are not closed. VRFish (1 Jun 2026): total ban on all
+  hook-and-line fishing in sections of the Goulburn, Mitta Mitta, Tanjil and Kiewa during the closure.
+  -> Replaces round-1 "trout river seasons NOT confirmed".
+Marine national parks (Parks Victoria, fetched)
+  Port Phillip Heads MNP: "Fishing from the shore or at sea is prohibited"; you may carry fish caught outside and a rod while
+  travelling straight through. Yaringa MNP page points anglers to the VFA app boundary locator. French Island / Churchill Island MNPs
+  are no-fishing per Visit Bass Coast (search) - VFA restricted-areas page cited.
+
+2. FRESHNESS CHECKS ASKED FOR
+-----------------------------
+Westernport Fishing Charters - ownership: STILL UNRESOLVED, keep live, PHONE 03 9769 5544.
+  Site unchanged (Robin & Michelle named; prices $140/$160/$180/$220/$260). Sale ads still up (CRE Brokers $350k boat+business or
+  $275k + GST boat only; owners retiring). FishingBooker 2026 reviews name Captain Robin Gray. No sign of a completed sale.
+Goulburn Valley Fly Fishing Centre - drift-boat prices: FOUND. https://gvflyfishing.com/prices/ is now readable.
+  Private Goulburn drift boat A$850 (5 h) / A$990 (8 h) per boat, 1-2 anglers; scenic/wildlife drift same price;
+  bank & wade A$590 (~5 h) / A$790 (~8 h); lessons A$590 / A$790; workshop A$490 pp; $100 deposit. Patch corrects trips (null price
+  removed) and price_to 790 -> 990.
+
+3. OTHER LISTING CHANGES (all in seo-patches.json corrections / _notes)
+-----------------------------------------------------------------------
+  Pro Red: new Whiting & Mixed Species and Calamari & Squid trips ($200 pp, $1,800 private); private tuna $2,450 for 7;
+           price_from 200, price_to 2450; departures also Corinella.
+  Gone Fishing: Evening Snapper now $200 pp, Gummy $280 pp (were null); Portsea pick-up now PRIVATE GROUP BOOKINGS ONLY.
+           Site contradicts itself on kingfish/tuna (15 Jan-1 Apr vs 1 Feb-early Apr) and gummy (end Apr-mid Jul vs mid Apr-30 Sep).
+  Geelong: 5 h ($1,700/12, $2,100/20) and 6 h ($2,100/12, $2,600/20) private trips added; price_to 2600; owners Tracy & Brian;
+           schedule updated 9/11/2026; online booking system announced for Oct 2026.
+  Cassar: tuna page restructured (local half-day tuna Jan-Apr $1,700/5 or $2,400/7; barrel May-Sept $2,000/4 or $2,800/6).
+           The $350 Portland per-seat trip is no longer shown - OWNER: confirm or drop trip-006. price_to 2800.
+  Sharkmen: departures now also Sorrento and Port Fairy (departure_address corrected). "Marco" no longer on site (reviews name
+           skippers Dimma and Goldy) - owner highlight removed; cancellation FAQ replaced with the current weather policy.
+  Unreel: crew page adds Bailey Rogers (school holidays). Prices unchanged. Still phone-only bookings.
+  Far Out: unchanged; site notes the boat also does wind-farm survey work (Star of the South) - may limit dates.
+  Unchanged and trading ((c) 2026 or dated content): EGS, Back of Beyond, I'm Hooked, Lake Mulwala Sportfishing, Salty Dog (no (c) year).
+  All 14 patches: leads now state who/where/what/for whom/from-price; every FAQ now has a source URL (records had none).
+
+4. GAPS
+-------
+  MURRAY RIVER still 1 listing (page not live). 5 Murray searches this round (Echuca/Moama, Mildura, Yarrawonga/Corowa/Tocumwal/Barmah,
+  Echuca/Barmah/Lake Hume, FishingBooker) + tourism pages: no dedicated guide with own site and 2025-26 evidence.
+  Visit Echuca Moama fishing page is 404; Great Victorian Rail Trail "Murray Cod Driftboat Fly Fishing" listing is 404.
+  Back of Beyond's cod page names North East Victoria waters (Bright, Whitfield, Beechworth, Wodonga, Khancoban) but no Murray River
+  water -> still no "also serves: murray-river". Best phone bets: Lake Hume Hire 0418 463 609; WildCast (Mildura) 0428 224 368.
+  Mallacoota still 0 dedicated listings (EGS covers it; it is now named in the gippsland guide).
+
+5. NEW LEADS (unverified)
+-------------------------
+  Rip Charters, Sorrento Pier (Port Phillip) - Visit Victoria listing via search: 5 h ocean/bay trip from $145, 6 h from $165,
+  fishes all year. https://visitvictoria.com/regions/mornington-peninsula/things-to-do/tours/cruises-and-boat-tours/rip-charters-fishing-trips
+  (Also on the round-1 unchecked list.) Worth a coverage check next round: it would add a Sorrento departure.
+
+6. OFFICIAL / TOURISM SOURCE URLS (now cited in guides)
+-------------------------------------------------------
+  Service Victoria licence: https://www.service.vic.gov.au/fishing   (fetchable - best official licence source)
+  VFA (403 to pipeline): /recreational-fishing/fishing-licence ; /murraycod ; /recreational-fishing/recreational-fishing-guide/trout-and-salmon-regulations ;
+       /recreational-fishing/restricted-fishing-locations/restricted-areas-marine-national-parks ; /ripparks ;
+       /recreational-fishing/fishing-licence/your-fishing-licence-fees-at-work/reciprocal-licences-for-lake-hume
+  vic.gov.au Lake Hume notice 2026 (fetchable); NSW DPI hume-and-mulwala (403); Parks Victoria PPH MNP, Yaringa MNP, Lake Eildon NP (fetchable).
+  Visit Victoria / Visit Melbourne fishing pages (403 to pipeline; cited from search): /see-and-do/outdoor-and-adventure/fishing (state),
+       Melbourne, Mornington Peninsula, Geelong & Bellarine, Phillip Island, Gippsland (lake fishing), High Country, The Murray.
+
+7. DISCOVERY / TOOLING NOTES
+----------------------------
+  Blocked (403) to the pipeline this round: vfa.vic.gov.au, visitvictoria.com, dpi.nsw.gov.au, commercialrealestate.com.au,
+  murrayoffroadadventures.rezdy.com. gvflyfishing.com: /prices/ fetched fine, deeper pages 429 after ~6 requests.
+  Worktree note: validate-seo.mjs and ops/ live only in the main checkout (/home/user/hooked-up-preview/...); the agent worktree
+  branch base has neither.

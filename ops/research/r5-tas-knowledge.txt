@@ -1,0 +1,108 @@
+TASMANIA - knowledge updates for ops/states/tas.md (state-tas, round 5 AEO review, checked 2026-11-08)
+=====================================================================================================
+WebSearch used: 10 of 25. Pipeline branch: operator-images/state-tas-r5 (research/r5-*; 4 request batches).
+
+DELIVERED
+---------
+- seo-patches.json: all 9 listings. Every lead now gives who / where / what / for whom / from how much (or "prices on
+  enquiry"). Every FAQ now carries a source URL. Corrections for trout-tales-tasmania (trips), riverfly-1864 (trips) and
+  tassie-fly-guide (accreditations). No listing flagged closed.
+- guides.json: all 7 pages (tasmania, hobart, tasman-peninsula, central-highlands, launceston, south-east-tasmania,
+  tasmania-trout-country). Each has a 40-60 word summary, a "Choosing a trip" style section with real prices, facet FAQs
+  (kids, shared vs private, solo vs pair pricing, tuna limits, sand flathead, licence cost, all-year waters, closed
+  streams) and official sources. Nothing accurate was removed. Published source lists no longer cite held or 404 pages
+  (redtagtrout /tour-options/, mayflyguiding, peterhayesflyfishing, southeastcharters).
+- held.json: Red Tag (updated), Gone Fishing, Keen Angler, South East Charters, Rocky Carosi.
+- No listings.json: Red Tag now publishes a base but still no prices; no St Helens operator meets the standard.
+
+BIG RULE CHANGE - SAND FLATHEAD (NRE Tas, in effect from 1 March 2026)  *** add to "Rules to verify and cite" ***
+-------------------------------------------------------------------------------------------------------------
+- South-eastern zone: sand flathead bag limit 0 and on-water possession 0 (catch and release only). The zone is all water
+  between a north-south line at Whale Head (146 52'15"E) and one at Cape Pillar (148 00'41"E), including the old
+  D'Entrecasteaux Channel, Derwent River, Frederick Henry and Norfolk Bays zone; northern boundary is the southern end of
+  the Dunalley Canal. So Margate/Blackmans Bay/Opossum Bay (Diver's) and Dodges Ferry (Mr Flathead bay charter) are inside;
+  Pirates Bay appears to be inside too (confirm on the NRE map).
+- Eastern zone: sand flathead bag 5, legal size 35-40 cm slot (10 on land). Northern/Western zone: bag 10, 35-40 cm slot.
+  King and Flinders islands: bag 10, min 35 cm. Tiger flathead: bag 20, min 32 cm. Combined sand + tiger: bag 20,
+  possession 30.
+- Statewide: all flathead must be landed whole or as fillets with intact frames (head and tail attached).
+- Sources: https://fishing.tas.gov.au/community/flathead-for-the-future/new-rules-and-research-to-rebuild-tasmanias-sand-flathead-fishery
+  and https://fishing.tas.gov.au/recreational-fishing/rules/size-and-bag-limits
+  (old /Pages/... URLs redirect to these).
+
+OTHER OFFICIAL RULES (re-confirmed 2026-11-08)
+---------------------------------------------
+- IFS 2026-27 season dates unchanged from round 1 (1 Aug 2026 open; rainbow waters 3 Oct 2026; Canal Bay 28 Nov 2026 -
+  28 Mar 2027; most close 2 May 2027; rainbow + lower Brumbys/Macquarie/Meander/South Esk + lakes Mackintosh and
+  Rosebery close 30 May 2027). New detail: Gone Fishing Day 18 Oct 2026; Penstock Lagoon No. 1 and 2 canals closed above
+  the white posts; some waters restricted to 1 hour before sunrise - 3 hours after sunset. Indigenous fish waters (bream)
+  need no licence; trout caught there unlicensed must be released.
+  https://www.ifs.tas.gov.au/the-rules/season-dates-and-times
+- IFS licence 2026-27 (one rod / two rods): adult season $96 / $115.50; 28 days $76 / $85.50; 7 days $49 / $58.50;
+  48 hours $29 / $38.50; five seasons adult $480; juniors 14-17 free; young adults 18-21 $52.50; 80+ $29. Licence year
+  1 Aug - 31 Jul. https://www.ifs.tas.gov.au/the-rules/angling-licence
+- IFS still says all guides operating in Tasmania must meet certified, audited accreditation including Tourism Council
+  Tasmania endorsement; private fisheries need no licence (Currawong Lakes listed).
+  https://www.ifs.tas.gov.au/get-expert-advice  (the /trout-fish-tasmania/registered-private-fisheries URL 404s)
+- NRE Tas sea licence 2026-27: licensing year 1 Nov 2026 - 31 Oct 2027; standard first licence $68.60, each extra type
+  $9.80; concession $39.20; no short-term licences; new online system at https://reclicence.fishing.tas.gov.au/.
+- Charter rules unchanged: no charter licence under LMRMA; clients need any recreational licence the activity requires;
+  crew cannot set gear for clients; operator must enforce bag/boat/possession limits; future registration/reporting
+  possible. https://fishing.tas.gov.au/commercial-fishing/commercial-fishing-licences/charter-and-seafood-tourism
+- Tuna (NRE size and bag limits): southern bluefin + yellowfin + bigeye combined bag 2, possession 2, boat limit 4 (only
+  2 over 1.5 m); albacore bag 5; skipjack bag 10. Striped trumpeter eastern bag 2, min 55 cm.
+- SBT timing (official): NRE Tas species page - SBT arrive as water cools, "generally from March to June", targeted off
+  the east and south coasts in autumn and into winter. Use this instead of the South East Charters "March-August" claim.
+  https://fishing.tas.gov.au/species/southern-bluefin-tuna
+- Seasons page (2026-11-08): south-east squid closure live until 14 Nov 2026; garfish Southern Waters closed
+  15 Nov - 14 Dec 2026 (new); rock lobster ECSRZ opens 5 Dec 2026; scallops open 20 Mar - 31 Jul 2027 (D'Entrecasteaux
+  Channel stays closed). Wild shellfish alert: Pipe Clay Lagoon, White Beach, Nubeena.
+- NRE Tas species URLs for striped trumpeter (/species/striped-trumpeter) and flathead (/species/flathead) 404; sand
+  flathead is at /species/flathead-sand.
+
+LISTING HEALTH (re-checked 2026-11-08)
+--------------------------------------
+- trout-tales-tasmania: prices now split - per person for 2+ (old 'from' prices) vs single angler: 1 day $980,
+  2 days $2,450, 3 days $3,750, 5 days $6,250, Currawong 2 days $2,600; Currawong 2-day now $1,750pp and Signature
+  $4,000pp with 2027 dates (Jan sold out; 10-14 Feb, 10-14 Mar, 14-18 Apr). Hobart pick-up 7.30am or meet in Miena 9am.
+  Lowland rivers and one-day Currawong detail URLs 404. Search snippets show other one-day figures ($950/$600pp lowland;
+  $1,100/$750pp) - owner may ask which is current. Licence "can be arranged on the day".
+- riverfly-1864: single angler $875/day vs $550 each for 2+; three-day rivers $1,650pp (2) or $2,625 (1); groups 1-4.
+  Western Lakes: card says from $2,250pp but trip page says $1,950pp (mid-Nov to March peak) - ASK. Departs Launceston
+  6.45am, back ~8.30pm day 3, two guides, Parks Pass needed. New guide Andy (since 2021).
+- tassie-fly-guide: has a live Discover Tasmania ATDW listing with Quality Tourism + ATIC accreditation (new same_as).
+  Blog post 28 May 2026.
+- divers-fishing-charters-hobart: unchanged; private charter "$800 per charter" vs "$800 per hour" still unresolved.
+  News page has a "2026 Prices" post.
+- trout-territory: rates unchanged (valid from 1 Jan 2026). NOT on the TGALT guide directory page (11 members listed:
+  Aussie Fly Fisher, Mayfly Guiding, Miena Guiding, Peter Hayes, Red Tag, RiverFly 1864, Tas High Country, Tasmania Fly
+  Fishing, Tassie Fly Guide, Trout Tales, Troutfit). Owner to check whether its TGALT membership has lapsed.
+- tasmania-fly-fishing, miena-guiding-tasmania: unchanged; (c) 2026 and (c) 2025. Miena advertises a hosted Europe trip
+  May-July 2027.
+- mr-flathead: unchanged, (c) 2013, Discover Tasmania pages still 404; no new dated evidence. PHONE.
+- tasman-spirit-charters: unchanged one-page site (c) 2026; only third-party evidence is PlaySport. PHONE.
+
+ST HELENS & THE EAST COAST - STILL ZERO VERIFIED
+------------------------------------------------
+- Gone Fishing (03 6376 1553): site failed for the fifth time. Keen Angler (0409 964 847): ATDW live, accredited, no
+  prices/dated item. Rocky Carosi: no contact. No new operator found by search.
+- Discover Tasmania St Helens page: "the island's game-fishing hub and second largest fishing port"; offshore charters
+  for marlin, albacore and yellowfin. https://www.discovertasmania.com.au/regions/east-coast/st-helens/
+- A st-helens guide still can't be published without an operator. Context for it is in the round 4 notes plus: Georges
+  Bay is a shark refuge and recreational-only scalefish area; netting banned; marine reserves at western Maria Island and
+  Governor Island (Bicheno).
+
+NEW LEADS / EXCLUSIONS
+----------------------
+- Red Tag Trout Tours: base now published (4 Bindara Road, Tranmere, Hobart; ATDW). Only prices missing - one call.
+- Aussie Fly Fisher: TGALT member, but its link goes to aussieflyfisher.com/product/tasmania/ - a national fly-fishing
+  outfitter selling a trip product (booking agent / outfitter). Exclude unless it runs its own Tasmanian guides.
+
+THINGS THE OWNER SHOULD CHECK
+-----------------------------
+1. Mr Flathead and Diver's: how they handle sand flathead now (south-eastern zone closure). Mr Flathead's bay-charter
+   description and all_species note should say sand flathead are catch and release.
+2. RiverFly Western Lakes price: $2,250 or $1,950 per person?
+3. Diver's private charter: $800 per charter or per hour?
+4. Trout Territory: still a TGALT member?
+5. Phone Red Tag (rates), Keen Angler and Gone Fishing (St Helens), South East Charters, Mr Flathead and Tasman Spirit.

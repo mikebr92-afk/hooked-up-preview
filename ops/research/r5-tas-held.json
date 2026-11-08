@@ -1,0 +1,72 @@
+[
+ {
+  "name": "Red Tag Trout Tours (Ray Curran)",
+  "hotspot": "hobart (also serves launceston / Midlands rivers)",
+  "town": "Tranmere, Hobart (4 Bindara Road, Tranmere TAS 7018, per its Discover Tasmania ATDW listing)",
+  "phone": "0414 294 639 (round 1); a Localista directory gives 0419 348 070, possibly Roger Butler's old number",
+  "website": "https://www.redtagtrout.com/",
+  "found": "Round 5 (2026-11-08): BASE NOW PUBLISHED. Its own ATDW tourism listing (Discover Tasmania, Spirit of Tasmania, Hobart and Beyond) now names Ray Curran as owner-operator and says 'Red Tag Trout Tours is based in Hobart', collecting clients from greater Hobart or Hobart Airport; address 4 Bindara Road, Tranmere. The Spirit of Tasmania copy shows the product 'Runs until 07/05/2027', and the listing carries Quality Tourism and ATIC Sustainable Tourism accreditation. Own site still trading: posts dated 3 Jan, 23 Feb and 21 Apr 2026 plus 2026 'Season ending', 'The big catch up' and 'Tassie Challenge' posts. Tour Options (/about/) describes all-inclusive one-day to multi-day river and stream tours (dry fly after early October), private lakes (Currawong Lakes, 28 Gates, Herne), workshops, IFS licence agent, TGALT and TICT accredited; linked accommodation is in Campbell Town and Ross (Midlands). STILL NO PRICES on the site or ATDW listing. A web search snippet showed 'From $695 to $795' and 'From $755 to $895' on aggregator pages that mix several operators, so they cannot be attributed.",
+  "why_held": "The coverage condition was a published base AND prices. The base is now confirmed (Tranmere, Hobart & Storm Bay), but there are still no published prices. Ask Ray for his current day and package rates; it could then be listed under hobart with a Hobart pick-up, as a Midlands river specialist.",
+  "sources": [
+   "https://www.redtagtrout.com/",
+   "https://www.redtagtrout.com/about/",
+   "https://www.discovertasmania.com.au/things-to-do/tours/redtagtrouttours/",
+   "https://www.spiritoftasmania.com.au/things-to-do/red-tag-trout-tours/",
+   "https://hobartandbeyond.com.au/place/red-tag-trout-tours/",
+   "https://www.troutguidestasmania.com.au/guide/"
+  ]
+ },
+ {
+  "name": "Gone Fishing Charters (Michael Haley)",
+  "hotspot": "st-helens",
+  "town": "St Helens",
+  "phone": "03 6376 1553",
+  "website": "http://www.breamfishing.com.au/",
+  "found": "Round 5 (2026-11-08): breamfishing.com.au failed again ('fetch failed'; fifth attempt across three rounds). East Coast Tasmania's fishing page still names 'Michael Haley's Gone Fishing' as the St Helens charter. A web search again found only an undated directory snippet (half-day estuary tour $350 for 5 people). Round 1 saw a March 2026 Tripadvisor review in search snippets.",
+  "why_held": "No operator-run website, socials or live ATDW listing can be read, so trips, prices and boat cannot be confirmed from the operator. Probably trading. One phone call is the only way in: ask for current trips, prices, boat, departure point and a working website or Facebook page.",
+  "sources": [
+   "https://eastcoasttasmania.com/to-do/adventure/itinerary/fishing/",
+   "https://www.tripadvisor.com.au/Attraction_Review-g504328-d10112852-Reviews-Michael_Haley_Gone_Fishing_Charters-St_Helens_Break_O_Day_Tasmania.html"
+  ]
+ },
+ {
+  "name": "Keen Angler Charters",
+  "hotspot": "st-helens",
+  "town": "St Helens (Burns Bay boat ramp)",
+  "phone": "0409 964 847 (a directory also gives 03 6376 3119)",
+  "website": "",
+  "found": "Round 5 (2026-11-08): ATDW listing still live on Discover Tasmania (page (c) 2026), East Coast Tasmania and Spirit of Tasmania, with Quality Tourism and ATIC Sustainable Tourism accreditation. Skipper Lionel aboard 'Keen Angler', a survey Steber Persuader with toilet; bay, reef and game fishing plus sightseeing; half and full days nearly all year; first ground 10 minutes from the ramp; children from 6; gear, sunscreen and light refreshments supplied; catch cleaned and bagged. Directories say up to 4 people and name bream, garfish, squid, salmon, flathead and kingfish. Email deblionel21@gmail.com. Still no website, socials, prices or dated item.",
+  "why_held": "Nothing dated 2025-26 from the operator and no prices, so it does not yet meet the trading-evidence standard. This is the closest St Helens lead: a phone call confirming it is running this season (and its rates) would let it be listed from its ATDW listing and open a st-helens page.",
+  "sources": [
+   "https://www.discovertasmania.com.au/things-to-do/tours/keenanglercharters/",
+   "https://eastcoasttasmania.com/atdw_listings/keen-angler-charters/",
+   "https://www.spiritoftasmania.com.au/things-to-do/keen-angler-charters/"
+  ]
+ },
+ {
+  "name": "South East Charters (Michael Kent)",
+  "hotspot": "tasman-peninsula",
+  "town": "Eaglehawk Neck / Port Arthur (game); Orford or Dunalley (reef); base Sorell",
+  "phone": "0437 246 956",
+  "website": "https://www.southeastcharters.com.au",
+  "found": "Not re-fetched in round 5. East Coast Tasmania's fishing page (read 2026-11-08) still names South East Charters as the Orford charter. Round 4 found the site unchanged and undated (reef half day $600, full day $900, game full day $900 March-August, flat boat rate, max 5) with live ATDW pages. Full listing draft is in ops/research/r4-tas-held.json.",
+  "why_held": "No dated 2025-26 evidence on its own site. Phone to confirm it is running this season, then list from the round 4 draft. Note the new sand flathead closure: its Dunalley reef trips fish the south-eastern zone.",
+  "sources": [
+   "https://www.southeastcharters.com.au/fishing-charters.html",
+   "https://eastcoasttasmania.com/to-do/adventure/itinerary/fishing/"
+  ]
+ },
+ {
+  "name": "Rocky Carosi Professional Charters",
+  "hotspot": "st-helens",
+  "town": "St Helens",
+  "phone": "",
+  "website": "",
+  "found": "Round 5 web searches again surfaced only Yellow Pages and an older Tasfish article naming Rocky Carosi for saltwater sport fishing (morning tea, sunblock, spray jackets, gear, catch filleted and iced).",
+  "why_held": "No website, socials, tourism listing, phone or dated evidence. Low priority; possibly retired.",
+  "sources": [
+   "https://yellowpages.com.au/find/fishing-trips/st-helens-tas-7216",
+   "https://tasfish.com/126-estuary-fishing/st-helens/248-saltwater-sport-fishing-st-helens"
+  ]
+ }
+]
