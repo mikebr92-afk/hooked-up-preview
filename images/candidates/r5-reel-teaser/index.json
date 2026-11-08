@@ -1,25 +1,80 @@
 {
   "slug": "r5-reel-teaser",
   "request_hash": "ce05107e6d26",
-  "collected_at": "2026-11-08T23:38:40.054Z",
+  "collected_at": "2026-11-08T23:39:52.527Z",
   "pages_fetched": [
     "https://reelteaserfishingadventures.com/",
     "https://reelteaserfishingadventures.com/charter-prices-3/",
-    "https://reelteaserfishingadventures.com/charter-prices/"
+    "https://reelteaserfishingadventures.com/charter-prices/",
+    "https://reelteaserfishingadventures.com/marlin-fishing-charters-2/",
+    "https://reelteaserfishingadventures.com/exmouth-game-fishing-2/",
+    "https://reelteaserfishingadventures.com/kimberley-barramundi-safari-2/",
+    "https://reelteaserfishingadventures.com/marlin-fishing-charters/",
+    "https://reelteaserfishingadventures.com/rowley-shoals-2/",
+    "https://reelteaserfishingadventures.com/barramundi-fishing-charters-2/",
+    "https://reelteaserfishingadventures.com/gallery/"
   ],
   "candidates": [],
   "log": [
     {
       "page": "https://reelteaserfishingadventures.com/",
-      "error": "fetch failed"
+      "status": 200,
+      "final_url": "https://reelteaserfishingadventures.com/",
+      "bytes": 97650
     },
     {
       "page": "https://reelteaserfishingadventures.com/charter-prices-3/",
-      "error": "fetch failed"
+      "status": 200,
+      "final_url": "https://reelteaserfishingadventures.com/charter-prices-3/",
+      "bytes": 77948
     },
     {
       "page": "https://reelteaserfishingadventures.com/charter-prices/",
-      "error": "fetch failed"
+      "status": 200,
+      "final_url": "https://reelteaserfishingadventures.com/charter-prices/",
+      "bytes": 77807
+    },
+    {
+      "page": "https://reelteaserfishingadventures.com/marlin-fishing-charters-2/",
+      "status": 200,
+      "final_url": "https://reelteaserfishingadventures.com/marlin-fishing-charters-2/",
+      "bytes": 76046
+    },
+    {
+      "page": "https://reelteaserfishingadventures.com/exmouth-game-fishing-2/",
+      "status": 200,
+      "final_url": "https://reelteaserfishingadventures.com/exmouth-game-fishing-2/",
+      "bytes": 78330
+    },
+    {
+      "page": "https://reelteaserfishingadventures.com/kimberley-barramundi-safari-2/",
+      "status": 200,
+      "final_url": "https://reelteaserfishingadventures.com/kimberley-barramundi-safari-2/",
+      "bytes": 78690
+    },
+    {
+      "page": "https://reelteaserfishingadventures.com/marlin-fishing-charters/",
+      "status": 200,
+      "final_url": "https://reelteaserfishingadventures.com/marlin-fishing-charters/",
+      "bytes": 76695
+    },
+    {
+      "page": "https://reelteaserfishingadventures.com/rowley-shoals-2/",
+      "status": 200,
+      "final_url": "https://reelteaserfishingadventures.com/rowley-shoals-2/",
+      "bytes": 77540
+    },
+    {
+      "page": "https://reelteaserfishingadventures.com/barramundi-fishing-charters-2/",
+      "status": 200,
+      "final_url": "https://reelteaserfishingadventures.com/barramundi-fishing-charters-2/",
+      "bytes": 77250
+    },
+    {
+      "page": "https://reelteaserfishingadventures.com/gallery/",
+      "status": 200,
+      "final_url": "https://reelteaserfishingadventures.com/gallery/",
+      "bytes": 173379
     }
   ]
 }

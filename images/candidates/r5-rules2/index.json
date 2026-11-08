@@ -1,0 +1,38 @@
+{
+  "slug": "r5-rules2",
+  "request_hash": "eb39bae1af5d",
+  "collected_at": "2026-11-08T23:39:57.188Z",
+  "pages_fetched": [
+    "https://www.dpird.wa.gov.au/individuals/recreational-fishing/recreational-fishing-rules/",
+    "https://www.wa.gov.au/government/announcements/do-not-spoil-your-trip-north-know-your-bag-limit",
+    "https://recfishwest.org.au/news/new-demersal-rules-and-50-tackle-rebate-announced/",
+    "https://www.wa.gov.au/government/announcements/new-statewide-reforms-demersal-fishing-wa"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.dpird.wa.gov.au/individuals/recreational-fishing/recreational-fishing-rules/",
+      "status": 200,
+      "final_url": "https://www.dpird.wa.gov.au/individuals/recreational-fishing/recreational-fishing-rules/",
+      "bytes": 105432
+    },
+    {
+      "page": "https://www.wa.gov.au/government/announcements/do-not-spoil-your-trip-north-know-your-bag-limit",
+      "status": 200,
+      "final_url": "https://www.wa.gov.au/government/announcements/do-not-spoil-your-trip-north-know-your-bag-limit",
+      "bytes": 71564
+    },
+    {
+      "page": "https://recfishwest.org.au/news/new-demersal-rules-and-50-tackle-rebate-announced/",
+      "status": 200,
+      "final_url": "https://recfishwest.org.au/news/new-demersal-rules-and-50-tackle-rebate-announced/",
+      "bytes": 102739
+    },
+    {
+      "page": "https://www.wa.gov.au/government/announcements/new-statewide-reforms-demersal-fishing-wa",
+      "status": 200,
+      "final_url": "https://www.wa.gov.au/government/announcements/new-statewide-reforms-demersal-fishing-wa",
+      "bytes": 70770
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "r5-tourism",
+  "request_hash": "2aad2ab50dcf",
+  "collected_at": "2026-11-08T23:40:09.807Z",
+  "pages_fetched": [
+    "https://www.westernaustralia.com/en/things-to-do/beaches-and-lakes/water-sports-and-activities",
+    "https://www.westernaustralia.com/en/pages/aquatic-adventures",
+    "https://www.australiasnorthwest.com/see-do/fishing/",
+    "https://www.australiascoralcoast.com/destinations/geraldton-surrounds/houtman-abrolhos-islands",
+    "https://www.visitkununurra.com/explore/tours/fishing-tours"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.westernaustralia.com/en/things-to-do/beaches-and-lakes/water-sports-and-activities",
+      "status": 200,
+      "final_url": "https://www.westernaustralia.com/en/things-to-do/beaches-and-lakes/water-sports-and-activities",
+      "bytes": 1726808
+    },
+    {
+      "page": "https://www.westernaustralia.com/en/pages/aquatic-adventures",
+      "status": 200,
+      "final_url": "https://www.westernaustralia.com/en/pages/aquatic-adventures",
+      "bytes": 1726745
+    },
+    {
+      "page": "https://www.australiasnorthwest.com/see-do/fishing/",
+      "status": 200,
+      "final_url": "https://www.australiasnorthwest.com/see-do/fishing/",
+      "bytes": 421555
+    },
+    {
+      "page": "https://www.australiascoralcoast.com/destinations/geraldton-surrounds/houtman-abrolhos-islands",
+      "status": 200,
+      "final_url": "https://www.australiascoralcoast.com/destinations/geraldton-surrounds/houtman-abrolhos-islands",
+      "bytes": 253703
+    },
+    {
+      "page": "https://www.visitkununurra.com/explore/tours/fishing-tours",
+      "status": 200,
+      "final_url": "https://www.visitkununurra.com/explore/tours/fishing-tours",
+      "bytes": 60413
+    }
+  ]
+}

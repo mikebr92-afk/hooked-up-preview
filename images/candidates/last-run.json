@@ -1,75 +1,82 @@
 {
-  "finished_at": "2026-11-08T23:38:41.741Z",
+  "finished_at": "2026-11-08T23:40:11.492Z",
   "summary": [
     {
-      "slug": "r5-rules",
+      "slug": "r5-reel-teaser",
+      "candidates": 0,
+      "pages": 10
+    },
+    {
+      "slug": "r5-rules2",
       "candidates": 0,
       "pages": 4
     },
     {
-      "slug": "r5-parks",
+      "slug": "r5-parks2",
       "candidates": 0,
       "pages": 5
     },
     {
-      "slug": "r5-absolute-ocean-charters",
+      "slug": "r5-tourism",
       "candidates": 0,
-      "pages": 10
+      "pages": 5
     },
     {
-      "slug": "r5-akame-sportfishing",
-      "candidates": 0,
-      "pages": 12
-    },
-    {
-      "slug": "r5-broome-billfish",
-      "candidates": 0,
-      "pages": 12
-    },
-    {
-      "slug": "r5-atgni",
-      "candidates": 0,
-      "pages": 11
-    },
-    {
-      "slug": "r5-blue-horizon",
-      "candidates": 0,
-      "pages": 10
-    },
-    {
-      "slug": "r5-innkeeper",
-      "candidates": 0,
-      "pages": 10
-    },
-    {
-      "slug": "r5-apache",
-      "candidates": 0,
-      "pages": 11
-    },
-    {
-      "slug": "r5-offshore-charters-wa",
-      "candidates": 0,
-      "pages": 8
-    },
-    {
-      "slug": "r5-birchys",
-      "candidates": 0,
-      "pages": 12
-    },
-    {
-      "slug": "r5-kuri-bay",
+      "slug": "r5-perth-discovery",
       "candidates": 0,
       "pages": 7
     },
     {
-      "slug": "r5-reel-teaser",
-      "candidates": 0,
-      "pages": 3
+      "slug": "r5-rules",
+      "skipped": true
+    },
+    {
+      "slug": "r5-parks",
+      "skipped": true
+    },
+    {
+      "slug": "r5-absolute-ocean-charters",
+      "skipped": true
+    },
+    {
+      "slug": "r5-akame-sportfishing",
+      "skipped": true
+    },
+    {
+      "slug": "r5-broome-billfish",
+      "skipped": true
+    },
+    {
+      "slug": "r5-atgni",
+      "skipped": true
+    },
+    {
+      "slug": "r5-blue-horizon",
+      "skipped": true
+    },
+    {
+      "slug": "r5-innkeeper",
+      "skipped": true
+    },
+    {
+      "slug": "r5-apache",
+      "skipped": true
+    },
+    {
+      "slug": "r5-offshore-charters-wa",
+      "skipped": true
+    },
+    {
+      "slug": "r5-birchys",
+      "skipped": true
+    },
+    {
+      "slug": "r5-kuri-bay",
+      "skipped": true
     },
     {
       "slug": "r5-game-time",
-      "candidates": 0,
-      "pages": 11
+      "skipped": true
     }
   ]
 }

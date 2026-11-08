@@ -1,0 +1,59 @@
+{
+  "slug": "r5-perth-discovery",
+  "request_hash": "24c11f09d9da",
+  "collected_at": "2026-11-08T23:40:11.491Z",
+  "pages_fetched": [
+    "https://watravel.com.au/perth-fishing-charters/",
+    "https://fishingbooker.com/destinations/location/au/WA/hillarys",
+    "https://fishingbooker.com/destinations/poi/au/fremantle",
+    "https://app.advcollective.com/local-experts/accessible-private-tours-and-fishing-charters-in-hillarys",
+    "https://www.bluejuicecharters.com.au/",
+    "https://fremantleboatcharters.com.au/",
+    "https://fishingbooker.com/charters/view/8508"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://watravel.com.au/perth-fishing-charters/",
+      "status": 200,
+      "final_url": "https://watravel.com.au/perth-fishing-charters/",
+      "bytes": 80749
+    },
+    {
+      "page": "https://fishingbooker.com/destinations/location/au/WA/hillarys",
+      "status": 403,
+      "final_url": "https://fishingbooker.com/destinations/location/au/WA/hillarys",
+      "bytes": 5910
+    },
+    {
+      "page": "https://fishingbooker.com/destinations/poi/au/fremantle",
+      "status": 403,
+      "final_url": "https://fishingbooker.com/destinations/poi/au/fremantle",
+      "bytes": 5868
+    },
+    {
+      "page": "https://app.advcollective.com/local-experts/accessible-private-tours-and-fishing-charters-in-hillarys",
+      "status": 403,
+      "final_url": "https://app.advcollective.com/local-experts/accessible-private-tours-and-fishing-charters-in-hillarys",
+      "bytes": 5976
+    },
+    {
+      "page": "https://www.bluejuicecharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.bluejuicecharters.com.au/",
+      "bytes": 27402
+    },
+    {
+      "page": "https://fremantleboatcharters.com.au/",
+      "status": 200,
+      "final_url": "https://fremantleboatcharters.com.au/",
+      "bytes": 92713
+    },
+    {
+      "page": "https://fishingbooker.com/charters/view/8508",
+      "status": 403,
+      "final_url": "https://fishingbooker.com/charters/view/8508",
+      "bytes": 5835
+    }
+  ]
+}
