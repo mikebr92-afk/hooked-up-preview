@@ -46,9 +46,11 @@ for (const [name, g] of Object.entries(GROUPS)) {
   const page = (k) => {
     const L = SEO.LOCS[k];
     return { key: k, name: L.n, state_page: !!L.st, url: `https://hookedtrips.com/fishing-charters/${k}`, intro: L.intro, season: L.season,
-      current_sections: (L.sections || []).map((x) => x.h), current_faq: (L.faq || []).map((f) => f[0]), operators: SEO.locItems(cards, L).map((c) => c.slug) };
+      current_summary: L.summary || '', current_sections: (L.sections || []).map((x) => x.h), current_faq: (L.faq || []).map((f) => f[0]), operators: SEO.locItems(cards, L).map((c) => c.slug) };
   };
-  const hs = [...(g.statePage ? [g.statePage] : []), ...destKeys.filter((k) => live.has(k))].map(page);
+  // region hubs whose destinations belong to this group
+  const regionKeys = allKeys.filter((k) => SEO.isRegion(SEO.LOCS[k]) && SEO.LOCS[k].state === g.st && live.has(k) && SEO.LOCS[k].hotspots.some((h) => inGroup(g, h)));
+  const hs = [...(g.statePage ? [g.statePage] : []), ...destKeys.filter((k) => live.has(k)), ...regionKeys].map((k) => ({ ...page(k), ...(SEO.isRegion(SEO.LOCS[k]) ? { region: true, destinations: SEO.LOCS[k].hotspots } : {}) }));
   const thin = destKeys.filter((k) => !live.has(k)).map((k) => ({ ...page(k), listings: SEO.locItems(cards, SEO.LOCS[k]).length, needs: (SEO.LOCS[k].min || SEO.MIN_LOC_ITEMS) - SEO.locItems(cards, SEO.LOCS[k]).length }));
   // hot spots that have listings but no destination page yet (e.g. a single operator)
   for (const k of [...new Set(mine.map((o) => o.hotspot))].filter((k) => k && !SEO.LOCS[k])) {

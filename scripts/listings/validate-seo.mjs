@@ -79,7 +79,9 @@ for (const h of hotspots) {
     if (x.items && !x.items.every((i) => Array.isArray(i) && i.length === 2)) E(h.key, `section "${x.h}" items must be [name, detail] pairs`);
     for (const t of x.p || []) if (words(t) > 120) W(h.key, `long paragraph in "${x.h}"`);
   }
-  if (!Array.isArray(g.faq) || g.faq.length < (st ? 1 : 2) || g.faq.length > 5) E(h.key, 'faq: 2–5 [q, a] pairs');
+  if (!Array.isArray(g.faq) || g.faq.length < (st ? 1 : 2) || g.faq.length > 8) E(h.key, 'faq: 2–8 [q, a] pairs');
+  if (!g.summary) E(h.key, 'summary required: the 40–60 word answer shown at the top of the page');
+  else if (words(g.summary) < 30 || words(g.summary) > 65) E(h.key, `summary is ${words(g.summary)} words (want 40–60)`);
   for (const f of g.faq || []) {
     if (!Array.isArray(f) || f.length !== 2) E(h.key, 'faq items must be [q, a]');
     else if (words(f[1]) > 70) E(h.key, `faq answer too long: ${f[0]}`);

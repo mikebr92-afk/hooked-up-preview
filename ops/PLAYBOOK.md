@@ -205,3 +205,42 @@ Deliver into the same folder:
 Validate:
 - `node scripts/listings/validate-seo.mjs <dir>` must show 0 errors;
 - `node scripts/listings/validate-listings.mjs <dir>/listings.json --seo` must show 0 errors, if you add listings.
+
+## 8. Weekly review: answer-engine optimisation (AEO)
+
+AI answer engines (Google AI Mode / AI Overviews, ChatGPT via Bing, Perplexity, Gemini) don't rank a page for one
+keyword. They split each question into parts ("query fan-out") and lift the clearest, most trustworthy passage for
+each part. A weekly review makes every page the best answer to the questions people actually ask about that place.
+The input folder and deliverables are the same as section 7. `hotspots.json` now also includes the **region hubs**
+(`"region": true`).
+
+For **every page** in `hotspots.json` (state, region, destination), deliver a full guide in `guides.json`:
+- **`summary`** (required, 40–60 words): the direct answer to "fishing charters in <place>". It names the place, the
+  main departure point(s), what you catch and when, and the typical trip styles and price range from the listings.
+  It is shown first on the page and must stand alone if quoted.
+- **Facet FAQs (query fan-out):** list the 6–10 real sub-questions people ask about the place. Examples:
+  - best time for <species>;
+  - half day vs full day;
+  - charters for kids/families/beginners;
+  - private vs shared;
+  - cheapest or how much;
+  - reef vs estuary;
+  - where to launch or depart;
+  - do I need a licence there;
+  - crocodiles, bars and safety;
+  - what's included.
+
+  Make sure the page answers each one, either in the sections or as FAQs (2–8 in total). Don't duplicate the
+  automatic questions (section 4).
+- **Entities:** name the real places, species, operators, marinas, reefs, rivers and seasons, never generic filler.
+- **Sources:** list the pages each fact comes from in `sources`. These are now **published** as the guide's source
+  list, so prefer official sources: state fisheries departments, marine park authorities, tourism bodies and the
+  operators' own sites.
+- **Improve; never weaken.** Keep everything accurate that is already there.
+
+For **every listing** in `records.json`, deliver a patch in `seo-patches.json` (copy unchanged values):
+- **Freshness:** check it is still trading, with current prices and trips. Correct what has changed, and use
+  `_flag` for anything that looks closed.
+- **Lead:** the lead must answer "who, where, what, for whom, from how much" in one quotable sentence.
+
+Validate with `node scripts/listings/validate-seo.mjs <dir>`: 0 errors.
