@@ -1,0 +1,45 @@
+{
+ "requests": [
+  {
+   "slug": "r5-c-gameon",
+   "pages": [
+    "https://gameoncharters.net.au/charter-info/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  },
+  {
+   "slug": "r5-c-bluereef",
+   "pages": [
+    "https://www.bluereefcharters.info/pickup-locations.html",
+    "https://www.bluereefcharters.info/fishing-charters.html",
+    "https://www.bluereefcharters.info/reef-fishing-trips.html"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  },
+  {
+   "slug": "r5-c-calypso",
+   "pages": [
+    "https://www.visitnsw.com/things-to-do/tours/calypso-fishing-adventures",
+    "https://www.marlinfishingaustralia.com.au/meet-calypso/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  },
+  {
+   "slug": "r5-c-coffs",
+   "pages": [
+    "https://coffsharbourfishing.com.au/our-news/book-your-coffs-harbour-fishing-charter/",
+    "https://coffsharbourfishing.com.au/book/charters.html",
+    "https://www.tripadvisor.com.au/Attraction_Review-g255059-d23467877-Reviews-Coffs_Harbour_Fishing_Charters-Coffs_Harbour_New_South_Wales.html"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  }
+ ]
+}
