@@ -1,0 +1,25 @@
+{
+  "slug": "r5n2-cairns-sportfishing",
+  "request_hash": "d0ec7e2eaa11",
+  "collected_at": "2026-11-08T23:42:06.357Z",
+  "pages_fetched": [
+    "https://www.cairnssportfishing.com.au/",
+    "https://www.cairnssportfishing.com.au/cairns-reef-experiences.html",
+    "https://cairnssportfishing.com.au/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.cairnssportfishing.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://www.cairnssportfishing.com.au/cairns-reef-experiences.html",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://cairnssportfishing.com.au/",
+      "error": "fetch failed"
+    }
+  ]
+}
