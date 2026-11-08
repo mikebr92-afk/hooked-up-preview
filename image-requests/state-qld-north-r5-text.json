@@ -1,0 +1,277 @@
+{
+ "requests": [
+  {
+   "slug": "r5n-cairns-reef-fishing",
+   "pages": [
+    "https://www.cairnsreeffishing.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r5n-cairns-sportfishing",
+   "pages": [
+    "https://www.cairnssportfishing.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r5n-fish-tales-charters-cairns",
+   "pages": [
+    "https://fishtales.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r5n-fnq-fishing-adventures-cairns",
+   "pages": [
+    "https://www.fnqfishingadventures.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r5n-tropic-barra-adventures-cairns",
+   "pages": [
+    "https://www.tropicbarraadventures.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r5n-tropical-sportfisher-cairns",
+   "pages": [
+    "https://www.tropicalsportfisher.com/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r5n-daintree-river-fishing-david-patterson",
+   "pages": [
+    "https://daintreefishing.com.au/",
+    "https://tourismportdouglas.com.au/daintree-river-fishing-with-david-patterson",
+    "https://destinationdaintree.com/tours-attractions/fishing"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r5n-sublime-sportfishing-adventures",
+   "pages": [
+    "https://www.sublimesportfishing.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r5n-ian-moody-sportfishing-charters",
+   "pages": [
+    "https://www.facebook.com/Ian-Moody-Sportfishing-Charters-1906230329651429/",
+    "https://www.queensland.com/au/en/things-to-do/tours/p-6045f4108fc1e7796a9d63ac-ian-moody-sportfishing-charters",
+    "https://fishingbooker.com/charters/view/16164"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r5n-carpentaria-barra-sport-fishing-charters",
+   "pages": [
+    "https://www.carpentariabarra.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r5n-kerry-d-fishing-charters-karumba",
+   "pages": [
+    "https://kerrydfishing.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r5n-crackajack-sportfishing-adventures",
+   "pages": [
+    "https://crackfish.com/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r5n-full-on-fishn-charters",
+   "pages": [
+    "https://fullonfishn.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r5n-cast-and-catch-fishing-charters",
+   "pages": [
+    "https://castandcatch.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r5n-mackay-fly-sportfishing",
+   "pages": [
+    "https://www.mackaysportfishing.com.au/",
+    "https://www.mackaysportfishing.com.au/freshwater-fishing-packages",
+    "https://www.mackaysportfishing.com.au/mackay-fishery"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r5n-akula-sportfishing-port-douglas",
+   "pages": [
+    "https://akulasportfishing.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r5n-norseman-reef-fishing-port-douglas",
+   "pages": [
+    "https://mvnorseman.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r5n-out-n-about-sportfishing-port-douglas",
+   "pages": [
+    "https://www.outnaboutfishing.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r5n-audacity-charters-townsville",
+   "pages": [
+    "https://audacitymarine.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r5n-magnetic-island-fishing-charters",
+   "pages": [
+    "https://www.magneticislandfishingcharters.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r5n-far-north-fishing-weipa",
+   "pages": [
+    "https://www.farnorthfishingweipa.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r5n-fishs-fly-sportfishing-weipa",
+   "pages": [
+    "https://www.fluxflyfishing.com/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r5n-airlie-beach-fishing-charters",
+   "pages": [
+    "https://airliebeachfishingcharters.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r5n-razorfish-whitsundays-fishing-charters",
+   "pages": [
+    "https://www.razorfishcharters.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r5n-topnotch-game-fishing-hamilton-island",
+   "pages": [
+    "https://www.topnotchgamefishing.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r5n-whitsunday-fishing-charters",
+   "pages": [
+    "https://www.whitsundayfishingcharters.com.au/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": true
+  },
+  {
+   "slug": "r5n-rules",
+   "pages": [
+    "https://www.dpi.qld.gov.au/services/fisheries/closures/tidal-seasons",
+    "https://www.dpi.qld.gov.au/business-priorities/fisheries/closures/tidal/seasons",
+    "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/rules/limits-tidal",
+    "https://www.gbrmpa.gov.au/access/environmental-management-charge",
+    "https://www.gbrmpa.gov.au/access/environmental-management-charge/what-are-charges",
+    "https://www.qld.gov.au/environment/plants-animals/animals/living-with/crocodiles/becrocwise",
+    "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/dams/stocked-impoundment-permits/locations/tinaroo-falls",
+    "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/dams/stocked-impoundment-permits/locations/teemburra",
+    "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/dams/stocked-impoundment-permits/locations/kinchant",
+    "https://www2.gbrmpa.gov.au/access/zoning",
+    "https://www.weipatownauthority.com.au/Places-and-Spaces/Explore-Weipa/CrocWise"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  },
+  {
+   "slug": "r5n-tourism",
+   "pages": [
+    "https://www.tropicalnorthqueensland.org.au/things-to-do/fishing/",
+    "https://www.tourismwhitsundays.com.au/things-to-do/fishing",
+    "https://www.mackayregion.com/things-to-do/fishing/",
+    "https://www.townsvillenorthqueensland.com.au/things-to-do/fishing/",
+    "https://www.outbackqueensland.com.au/destinations/karumba/",
+    "https://www.outbackqueensland.com.au/tours/kerry-d-charters/"
+   ],
+   "text": true,
+   "max": 0,
+   "follow": false
+  }
+ ]
+}
