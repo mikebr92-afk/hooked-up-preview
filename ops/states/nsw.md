@@ -137,7 +137,7 @@ WebSearch used: 18 of 25.
 
 <!-- AUTO:listings:start -->
 
-_Generated 2026-11-04 from data/operators.json: 43 live listings._
+_Generated 2026-11-08 from data/operators.json: 43 live listings._
 
 ### Sydney (`sydney`) — 10 listings, page live
 - `ambition-charters-sydney` — Ambition Game Fishing Charters · Watsons Bay, Sydney · https://ambitioncharters.com.au/ · checked 2026-10-29

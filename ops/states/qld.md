@@ -211,7 +211,7 @@ RESEARCH
 
 <!-- AUTO:listings:start -->
 
-_Generated 2026-11-04 from data/operators.json: 50 live listings._
+_Generated 2026-11-08 from data/operators.json: 50 live listings._
 
 ### Cairns (`cairns`) — 6 listings, page live
 - `cairns-reef-fishing` — Cairns Reef Fishing · Marlin Marina, Cairns · https://www.cairnsreeffishing.com.au/ · checked 2026-10-29

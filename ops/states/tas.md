@@ -269,7 +269,7 @@ THINGS THE OWNER SHOULD CHECK
 
 <!-- AUTO:listings:start -->
 
-_Generated 2026-11-04 from data/operators.json: 9 live listings._
+_Generated 2026-11-08 from data/operators.json: 9 live listings._
 
 ### Launceston & the North (`launceston`) — 3 listings, page live
 - `trout-territory` — Trout Territory · Cressy, Launceston & the North · https://troutterritory.com.au · checked 2026-11-03

@@ -303,7 +303,7 @@ apply_regions can ignore them.
 
 <!-- AUTO:listings:start -->
 
-_Generated 2026-11-04 from data/operators.json: 12 live listings._
+_Generated 2026-11-08 from data/operators.json: 12 live listings._
 
 ### Broome (`broome`) — 3 listings, page live
 - `absolute-ocean-charters-broome` — Absolute Ocean Charters · Broome · https://www.absoluteoceancharters.com.au/ · checked 2026-11-03

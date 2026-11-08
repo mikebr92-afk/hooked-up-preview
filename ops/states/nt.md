@@ -159,11 +159,11 @@ RULES SOURCES (unchanged)
 
 <!-- AUTO:listings:start -->
 
-_Generated 2026-11-04 from data/operators.json: 24 live listings._
+_Generated 2026-11-08 from data/operators.json: 24 live listings._
 
 ### Darwin (`darwin`) — 7 listings, page live
 - `barra-or-blue-fishing-charters-darwin` — Barra or Blue Fishing Charters · Darwin City, Darwin · https://barraorblue.com.au/ · checked 2026-10-29
-- `barra-private-tours-darwin` — Barra Private Tours · Darwin City, Darwin · https://www.barraprivatetours.com.au/ · checked 2026-10-29
+- `barra-private-tours-darwin` — Barra Private Tours · Darwin City, Darwin · https://barraprivatetours.com.au/ · checked 2026-10-29
 - `darwin-harbour-fishing-charters` — Darwin Harbour Fishing Charters · Stokes Hill Wharf, Darwin · https://www.darwinharbourfishingcharters.com.au/ · checked 2026-10-29
 - `equinox-fishing-charters-darwin` — Equinox Fishing Charters · Cullen Bay, Darwin · https://www.equinoxcharters.com.au/ · checked 2026-10-29
 - `offshore-boats-darwin` — Offshore Boats · Stuart Park, Darwin · https://offshoreboats.com.au/ · checked 2026-10-29

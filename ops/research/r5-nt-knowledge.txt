@@ -1,0 +1,75 @@
+NT knowledge updates (round 5 weekly AEO review, checked 2026-11-08)
+====================================================================
+Searches used: 7 of 25. Pipeline: operator-images/state-nt-r5 (image-requests/nt-r5.json, text only, 26 requests).
+
+OFFICIAL RULE SOURCES (new; nt.gov.au pages read via search results, as the pipeline is still blocked)
+- No recreational fishing licence or recreational boat licence in the NT:
+  https://nt.gov.au/marine/recreational-fishing/rules/about-recreational-fishing
+- Mary River Fish Management Zone: 3 barramundi per person, minimum 55 cm, vessel limit of 1 barra over 90 cm; no cast
+  or drag nets; within 100 m of the Shady Camp barrage wall only a lure or fly with a single-point hook.
+  https://nt.gov.au/marine/recreational-fishing/rules-for-fishing-in-specific-areas/mary-river-fish-management-zone
+  Year-round opening below the barrage since 2014: https://mediareleases.nt.gov.au/article?id=14713
+  (An older PFES release says 2 barra; the current NT page says 3.)
+- Daly River seasonal closure, 1 Oct–31 Jan: no fishing, no possessing barramundi, no baited or hooked line in the
+  closure area (map on the page). Boundary per a 2015 release: downstream of the old outlet channel of Moon Billabong to
+  the mouth. https://nt.gov.au/marine/recreational-fishing/rules-for-fishing-in-specific-areas/daly-river-fish-management-zone
+  The 2016 'Fishing the Daly River' guide also gives 3 barra/55 cm/1 over 90 cm per vessel for the Daly zone (not
+  published, as it's old).
+- Kakadu (Parks Australia now serves from kakadu.gov.au; parksaustralia.gov.au/kakadu/... redirects):
+  - passes valid 7 days; adult $40 dry season (15 May–31 Oct), $25 tropical summer; NT residents free; passes for
+    1 Jul–31 Oct 2026 are charged at wet-season rates. https://kakadu.gov.au/plan/passes/
+  - Kakadu has the same bag limits as the Mary and Daly rivers; fish only in visitor areas; stand at least 5 m back
+    from the bank. https://kakadu.gov.au/things-do/activities/fishing-boating/
+- Northern Land Council permits (https://www.nlc.org.au/permits): written permit needed to enter Aboriginal land,
+  including intertidal waters; recreational fishing permits cover specific zones. CHANGE: the page now says
+  "Recreation applications are temporarily unavailable online" (download the application pack instead). Guides no
+  longer say "free online permit since 2023". Fines: 50 penalty units ($18,200) Commonwealth or 8 units ($1,512) NT.
+
+GULF (gulf-nt): still 1 listing; no second operator meets the standard.
+- McArthur River Fishing Charters: still HELD (see held.json). The club page is current (©2026) but the operator site
+  http://mccarthurrivercharters.com.au/ still fails, and two searches found no website, Facebook or tourism listing.
+  Phone 0475 888 565.
+- A search shows NT Tourism also lists Groote Eylandt Sports Fishing under the 'groote-eylandt-touring-company' path
+  (same business as the existing listing, not a second operator).
+- Australian Sportfishing Charters: Roper River page unchanged and still not on the main charter menu, so no gulf-nt
+  "also serves" yet. Ask the operator about 2027 Roper dates.
+
+FRESHNESS / WATCHLIST
+- Kakadu Fishing Tours: ownership still unresolved. The About page has "Mitch & Anni" (family-owned) above Shannon
+  Summerton's "owned since 2004" text. One search found no names. Run-off "bookings are now open", NT Tourism listing
+  live, phone 08 8979 2025 unchanged. Run-off $2,380/day for up to 4 is still on its site. The listing names no guide.
+  OWNER: phone to confirm the owners before naming anyone.
+- Darwin Harbour Fishing Charters: still ©2016, with a "Season 4" Million Dollar Fish promo (the competition is in
+  Season 11, per ASC's 2026 page), so the site is unmaintained. NT Tourism listing live; prices unchanged. Kept.
+  OWNER: phone 0428 175 331.
+- Estuary Escapes: site unchanged (©2020); NT Tourism live ('From $495' headline). Kept. Phone 0414 292 900.
+- NT Fish & 4x4: site unchanged, no dates; NT Tourism listing and full-day product page live. Facebook needs a login.
+  Kept.
+- Anglers Choice: site live and unchanged; no prices; blog page didn't fetch; site says it has fished Dundee for
+  about 15 years. Kept.
+- Yknot: site live (same trips, boats, online booking). The guessed URL northernterritory.com/tours/yknot-fishing-charters
+  is 404, but no tourism listing was ever recorded, so it isn't evidence of closure.
+- Barra Private Tours: homepage rewritten around private trips ("From $1,200 per boat", up to 4); 2–5 day May–December
+  multiday with a Bayview marina house (sleeps 6), optional Dundee nights; New Caledonia from $5,900pp (out of scope).
+  Shared half/full-day pages are still live. Website corrected to https://barraprivatetours.com.au/ (no www).
+- Australian Sportfishing Charters: new page "How to catch barra in the NT", "Updated August 2026" (fresh evidence);
+  Arnhem barra season February–October, peak February–June.
+- Dundee Beach Fishing Charters: reef days return around 3pm and barra days around 4pm (FAQ corrected).
+- No other operator page changed materially since round 4 (2026-11-04).
+
+GUIDES (this round)
+- All 10 pages have a 40–60 word summary, 5–8 facet FAQs and official sources (nt.gov.au, kakadu.gov.au, nlc.org.au,
+  NT Tourism, operator sites).
+- Mary River: summary covers departure (Darwin about 5am pick-up, Shady Camp ramp, Point Stuart), species, run-off
+  timing and prices ($230–$750pp guided; private about $2,200–$2,300). New FAQs: Shady Camp vs Corroboree,
+  closed season and barra limits (official numbers), beginners/kids, shared vs private. Bank-fishing FAQ now gives the
+  100 m single-hook rule. Croc density (up to 15 per km, NT Tourism) added to Rules. Trip-style items added
+  (Corroboree day, Shady Camp day, run-off packages, self-drive). No existing fact removed; the closed-season question
+  is merged into "Is there a closed season or special barra limit on the Mary River?".
+- Arnhem Land and the Arnhem & Gulf hub: NLC permit wording updated (see above).
+- Daly River: closure now cited to the NT Fisheries page, not NT Tourism.
+- Top End hub: a licence FAQ was avoided because it duplicates the automatic question; a family FAQ was added instead.
+
+GAPS
+- gulf-nt: 1 listing (needs McArthur River Fishing Charters confirmed, or the ASC Roper trip as "also serves").
+- katherine: still no listings.

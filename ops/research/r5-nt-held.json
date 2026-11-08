@@ -1,0 +1,23 @@
+[
+ {
+  "name": "McArthur River Fishing Charters",
+  "hotspot": "gulf-nt",
+  "location": "Black Rock Landing, Batten Road, King Ash Bay NT 0854 (McArthur River, about 40–50 km from Borroloola)",
+  "phone": "08 8975 9507 / 0475 888 565",
+  "operators": "Greg & Di Quayle",
+  "licence": "NT fishing tour operator licence D2/7589 (as published by the King Ash Bay Fishing Club)",
+  "found": "Re-checked 2026-11-08. The King Ash Bay Fishing Club page (©2026, 2026 fees and 2026 financial statements) still lists the business and links http://mccarthurrivercharters.com.au/, which again failed to load through the fetcher. Two web searches this round ('Borroloola King Ash Bay fishing charter', 'McArthur River barramundi fishing charters Quayle Borroloola') found no website, Facebook page or tourism listing for it, and NT Tourism's King Ash Bay and Borroloola pages name no charter operator.",
+  "why_held": "Still no own website, socials or tourism listing that can be seen, and no operator-dated 2025–26 evidence; the club page is a third-party mention.",
+  "to_confirm": "Call 0475 888 565: still guiding in 2026/27? Trip lengths and prices, boat, max group, a working website or Facebook URL, and whether they fish the Sir Edward Pellew Islands. If confirmed, this would be the second gulf-nt listing and make that page live.",
+  "sources": ["https://www.kingashbay.com.au/mcarthur-river-fishing-charters/", "https://www.kingashbay.com.au/", "https://northernterritory.com/katherine-and-surrounds/destinations/borroloola"]
+ },
+ {
+  "name": "Reel Screamin Barra Fishing",
+  "hotspot": "mary-river",
+  "phone": "",
+  "found": "Carried over (newest dated content 2024; tourism listing 404). Not re-checked this round. NT Tourism's '11 best fishing spots' article still says it is based at Shady Camp all year.",
+  "why_held": "No 2025–26 evidence.",
+  "to_confirm": "Phone check by the owner (no number recorded).",
+  "sources": ["https://northernterritory.com/articles/11-of-the-best-fishing-spots-to-visit-in-the-top-end"]
+ }
+]

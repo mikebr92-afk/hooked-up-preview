@@ -274,7 +274,7 @@ VICTORIA - KNOWLEDGE UPDATES FOR ops/states/vic.md  (state-vic, round 4 SEO/GEO 
 
 <!-- AUTO:listings:start -->
 
-_Generated 2026-11-04 from data/operators.json: 14 live listings._
+_Generated 2026-11-08 from data/operators.json: 14 live listings._
 
 ### Melbourne & Port Phillip (`port-phillip`) — 5 listings, page live
 - `geelong-fishing-charters` — Geelong Fishing Charters · Geelong, Melbourne & Port Phillip · https://www.geelongfishingcharter.com.au/ · checked 2026-11-03
