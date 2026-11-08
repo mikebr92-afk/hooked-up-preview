@@ -1,0 +1,66 @@
+{
+  "slug": "r5-cassar-fishing-charters",
+  "request_hash": "4b02269f9de9",
+  "collected_at": "2026-11-08T23:37:54.451Z",
+  "pages_fetched": [
+    "https://www.cassarfishingcharters.com.au/",
+    "https://www.cassarfishingcharters.com.au/private-events",
+    "https://www.cassarfishingcharters.com.au/tuna-fishing-charters-portland",
+    "https://www.cassarfishingcharters.com.au/snapper-fishing-charters-melbourne",
+    "https://www.cassarfishingcharters.com.au/gummy-shark-fishing-charters-melbourne",
+    "https://www.cassarfishingcharters.com.au/Squid-whiting",
+    "https://www.cassarfishingcharters.com.au/kingfish-fishing-charters-melbourne",
+    "https://www.cassarfishingcharters.com.au/offshore-fishing-Melbourne"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.cassarfishingcharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.cassarfishingcharters.com.au/",
+      "bytes": 116905
+    },
+    {
+      "page": "https://www.cassarfishingcharters.com.au/private-events",
+      "status": 200,
+      "final_url": "https://www.cassarfishingcharters.com.au/private-events",
+      "bytes": 59136
+    },
+    {
+      "page": "https://www.cassarfishingcharters.com.au/tuna-fishing-charters-portland",
+      "status": 200,
+      "final_url": "https://www.cassarfishingcharters.com.au/tuna-fishing-charters-portland",
+      "bytes": 111063
+    },
+    {
+      "page": "https://www.cassarfishingcharters.com.au/snapper-fishing-charters-melbourne",
+      "status": 200,
+      "final_url": "https://www.cassarfishingcharters.com.au/snapper-fishing-charters-melbourne",
+      "bytes": 647533
+    },
+    {
+      "page": "https://www.cassarfishingcharters.com.au/gummy-shark-fishing-charters-melbourne",
+      "status": 200,
+      "final_url": "https://www.cassarfishingcharters.com.au/gummy-shark-fishing-charters-melbourne",
+      "bytes": 132841
+    },
+    {
+      "page": "https://www.cassarfishingcharters.com.au/Squid-whiting",
+      "status": 200,
+      "final_url": "https://www.cassarfishingcharters.com.au/Squid-whiting",
+      "bytes": 131946
+    },
+    {
+      "page": "https://www.cassarfishingcharters.com.au/kingfish-fishing-charters-melbourne",
+      "status": 200,
+      "final_url": "https://www.cassarfishingcharters.com.au/kingfish-fishing-charters-melbourne",
+      "bytes": 119152
+    },
+    {
+      "page": "https://www.cassarfishingcharters.com.au/offshore-fishing-Melbourne",
+      "status": 200,
+      "final_url": "https://www.cassarfishingcharters.com.au/offshore-fishing-Melbourne",
+      "bytes": 109797
+    }
+  ]
+}

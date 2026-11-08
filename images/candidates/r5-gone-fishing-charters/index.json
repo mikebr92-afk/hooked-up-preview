@@ -1,0 +1,80 @@
+{
+  "slug": "r5-gone-fishing-charters",
+  "request_hash": "c9d8e47e27c5",
+  "collected_at": "2026-11-08T23:37:29.434Z",
+  "pages_fetched": [
+    "https://www.gonefishing.com.au/charter-locations/pricing/",
+    "https://www.gonefishing.com.au/",
+    "https://www.gonefishing.com.au/my-account/",
+    "https://www.gonefishing.com.au/cart/",
+    "https://www.gonefishing.com.au/charter-locations/queenscliff-5-hour-fishing-charter/",
+    "https://www.gonefishing.com.au/charter-locations/queenscliff-8-hour-charter-offshore/",
+    "https://www.gonefishing.com.au/charter-locations/queenscliff-evening-snapper-charter/",
+    "https://www.gonefishing.com.au/charter-locations/queenscliff-4-hour-summer-evening-fishing-charter/",
+    "https://www.gonefishing.com.au/charter-locations/queenscliff-king-fish-tuna-charter/",
+    "https://www.gonefishing.com.au/charter-locations/geelong-gummy-shark-charter/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.gonefishing.com.au/charter-locations/pricing/",
+      "status": 200,
+      "final_url": "https://www.gonefishing.com.au/charter-locations/pricing/",
+      "bytes": 101077
+    },
+    {
+      "page": "https://www.gonefishing.com.au/",
+      "status": 200,
+      "final_url": "https://www.gonefishing.com.au/",
+      "bytes": 98657
+    },
+    {
+      "page": "https://www.gonefishing.com.au/my-account/",
+      "status": 200,
+      "final_url": "https://www.gonefishing.com.au/my-account/",
+      "bytes": 50240
+    },
+    {
+      "page": "https://www.gonefishing.com.au/cart/",
+      "status": 200,
+      "final_url": "https://www.gonefishing.com.au/cart/",
+      "bytes": 77117
+    },
+    {
+      "page": "https://www.gonefishing.com.au/charter-locations/queenscliff-5-hour-fishing-charter/",
+      "status": 200,
+      "final_url": "https://www.gonefishing.com.au/charter-locations/queenscliff-5-hour-fishing-charter/",
+      "bytes": 107121
+    },
+    {
+      "page": "https://www.gonefishing.com.au/charter-locations/queenscliff-8-hour-charter-offshore/",
+      "status": 200,
+      "final_url": "https://www.gonefishing.com.au/charter-locations/queenscliff-8-hour-charter-offshore/",
+      "bytes": 105563
+    },
+    {
+      "page": "https://www.gonefishing.com.au/charter-locations/queenscliff-evening-snapper-charter/",
+      "status": 200,
+      "final_url": "https://www.gonefishing.com.au/charter-locations/queenscliff-evening-snapper-charter/",
+      "bytes": 106145
+    },
+    {
+      "page": "https://www.gonefishing.com.au/charter-locations/queenscliff-4-hour-summer-evening-fishing-charter/",
+      "status": 200,
+      "final_url": "https://www.gonefishing.com.au/charter-locations/queenscliff-4-hour-summer-evening-fishing-charter/",
+      "bytes": 107682
+    },
+    {
+      "page": "https://www.gonefishing.com.au/charter-locations/queenscliff-king-fish-tuna-charter/",
+      "status": 200,
+      "final_url": "https://www.gonefishing.com.au/charter-locations/queenscliff-king-fish-tuna-charter/",
+      "bytes": 105432
+    },
+    {
+      "page": "https://www.gonefishing.com.au/charter-locations/geelong-gummy-shark-charter/",
+      "status": 200,
+      "final_url": "https://www.gonefishing.com.au/charter-locations/geelong-gummy-shark-charter/",
+      "bytes": 105693
+    }
+  ]
+}

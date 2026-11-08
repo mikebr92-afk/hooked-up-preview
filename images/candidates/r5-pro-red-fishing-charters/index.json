@@ -1,0 +1,87 @@
+{
+  "slug": "r5-pro-red-fishing-charters",
+  "request_hash": "a6d41fb3ceba",
+  "collected_at": "2026-11-08T23:37:41.553Z",
+  "pages_fetched": [
+    "https://proredfishingcharters.com.au/",
+    "https://proredfishingcharters.com.au/home/",
+    "https://proredfishingcharters.com.au/fishing-charters/",
+    "https://proredfishingcharters.com.au/bookings/",
+    "https://proredfishingcharters.com.au/snapper-fishing-charters-melbourne/",
+    "https://proredfishingcharters.com.au/gummy-shark-fishing-charter-melbourne/",
+    "https://proredfishingcharters.com.au/bluefin-tuna-fishing-charter-melbourne/",
+    "https://proredfishingcharters.com.au/calamari-and-squid-fishing-charter-melbourne/",
+    "https://proredfishingcharters.com.au/shark-fishing-charter-melbourne/",
+    "https://proredfishingcharters.com.au/king-george-whiting-and-mixed-species-fishing-charter/",
+    "https://proredfishingcharters.com.au/fishing-charter-gift-vouchers/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://proredfishingcharters.com.au/",
+      "status": 200,
+      "final_url": "https://proredfishingcharters.com.au/",
+      "bytes": 178538
+    },
+    {
+      "page": "https://proredfishingcharters.com.au/home/",
+      "status": 200,
+      "final_url": "https://proredfishingcharters.com.au/",
+      "bytes": 178538
+    },
+    {
+      "page": "https://proredfishingcharters.com.au/fishing-charters/",
+      "status": 200,
+      "final_url": "https://proredfishingcharters.com.au/fishing-charters/",
+      "bytes": 77445
+    },
+    {
+      "page": "https://proredfishingcharters.com.au/bookings/",
+      "status": 200,
+      "final_url": "https://proredfishingcharters.com.au/bookings/",
+      "bytes": 78737
+    },
+    {
+      "page": "https://proredfishingcharters.com.au/snapper-fishing-charters-melbourne/",
+      "status": 200,
+      "final_url": "https://proredfishingcharters.com.au/snapper-fishing-charters-melbourne/",
+      "bytes": 102761
+    },
+    {
+      "page": "https://proredfishingcharters.com.au/gummy-shark-fishing-charter-melbourne/",
+      "status": 200,
+      "final_url": "https://proredfishingcharters.com.au/gummy-shark-fishing-charter-melbourne/",
+      "bytes": 94616
+    },
+    {
+      "page": "https://proredfishingcharters.com.au/bluefin-tuna-fishing-charter-melbourne/",
+      "status": 200,
+      "final_url": "https://proredfishingcharters.com.au/bluefin-tuna-fishing-charter-melbourne/",
+      "bytes": 97776
+    },
+    {
+      "page": "https://proredfishingcharters.com.au/calamari-and-squid-fishing-charter-melbourne/",
+      "status": 200,
+      "final_url": "https://proredfishingcharters.com.au/calamari-and-squid-fishing-charter-melbourne/",
+      "bytes": 97512
+    },
+    {
+      "page": "https://proredfishingcharters.com.au/shark-fishing-charter-melbourne/",
+      "status": 200,
+      "final_url": "https://proredfishingcharters.com.au/shark-fishing-charter-melbourne/",
+      "bytes": 95285
+    },
+    {
+      "page": "https://proredfishingcharters.com.au/king-george-whiting-and-mixed-species-fishing-charter/",
+      "status": 200,
+      "final_url": "https://proredfishingcharters.com.au/king-george-whiting-and-mixed-species-fishing-charter/",
+      "bytes": 94515
+    },
+    {
+      "page": "https://proredfishingcharters.com.au/fishing-charter-gift-vouchers/",
+      "status": 200,
+      "final_url": "https://proredfishingcharters.com.au/fishing-charter-gift-vouchers/",
+      "bytes": 82595
+    }
+  ]
+}

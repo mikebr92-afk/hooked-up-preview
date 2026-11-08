@@ -1,0 +1,94 @@
+{
+  "slug": "r5-im-hooked-fishing-charters",
+  "request_hash": "91a9f512fb24",
+  "collected_at": "2026-11-08T23:37:56.147Z",
+  "pages_fetched": [
+    "https://imhookedfishingcharters.com.au/",
+    "https://imhookedfishingcharters.com.au/fishing-charter-faq",
+    "https://imhookedfishingcharters.com.au/about",
+    "https://imhookedfishingcharters.com.au/fishing-tips",
+    "https://imhookedfishingcharters.com.au/gallery",
+    "https://imhookedfishingcharters.com.au/contact",
+    "https://imhookedfishingcharters.com.au/bookings",
+    "https://imhookedfishingcharters.com.au/bookings?charter=offshore",
+    "https://imhookedfishingcharters.com.au/fishing-charter-bookings",
+    "https://imhookedfishingcharters.com.au/snapper-fishing-charters",
+    "https://imhookedfishingcharters.com.au/fishing-charter-near-me",
+    "https://imhookedfishingcharters.com.au/product/fishing-charter-gift-card"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://imhookedfishingcharters.com.au/",
+      "status": 200,
+      "final_url": "https://imhookedfishingcharters.com.au/",
+      "bytes": 120879
+    },
+    {
+      "page": "https://imhookedfishingcharters.com.au/fishing-charter-faq",
+      "status": 200,
+      "final_url": "https://imhookedfishingcharters.com.au/fishing-charter-faq",
+      "bytes": 110698
+    },
+    {
+      "page": "https://imhookedfishingcharters.com.au/about",
+      "status": 200,
+      "final_url": "https://imhookedfishingcharters.com.au/about",
+      "bytes": 67817
+    },
+    {
+      "page": "https://imhookedfishingcharters.com.au/fishing-tips",
+      "status": 200,
+      "final_url": "https://imhookedfishingcharters.com.au/fishing-tips",
+      "bytes": 76168
+    },
+    {
+      "page": "https://imhookedfishingcharters.com.au/gallery",
+      "status": 200,
+      "final_url": "https://imhookedfishingcharters.com.au/gallery",
+      "bytes": 67408
+    },
+    {
+      "page": "https://imhookedfishingcharters.com.au/contact",
+      "status": 200,
+      "final_url": "https://imhookedfishingcharters.com.au/contact",
+      "bytes": 64961
+    },
+    {
+      "page": "https://imhookedfishingcharters.com.au/bookings",
+      "status": 200,
+      "final_url": "https://imhookedfishingcharters.com.au/bookings",
+      "bytes": 2731
+    },
+    {
+      "page": "https://imhookedfishingcharters.com.au/bookings?charter=offshore",
+      "status": 200,
+      "final_url": "https://imhookedfishingcharters.com.au/bookings?charter=offshore",
+      "bytes": 2731
+    },
+    {
+      "page": "https://imhookedfishingcharters.com.au/fishing-charter-bookings",
+      "status": 200,
+      "final_url": "https://imhookedfishingcharters.com.au/fishing-charter-bookings",
+      "bytes": 91917
+    },
+    {
+      "page": "https://imhookedfishingcharters.com.au/snapper-fishing-charters",
+      "status": 200,
+      "final_url": "https://imhookedfishingcharters.com.au/snapper-fishing-charters",
+      "bytes": 73745
+    },
+    {
+      "page": "https://imhookedfishingcharters.com.au/fishing-charter-near-me",
+      "status": 200,
+      "final_url": "https://imhookedfishingcharters.com.au/fishing-charter-near-me",
+      "bytes": 82137
+    },
+    {
+      "page": "https://imhookedfishingcharters.com.au/product/fishing-charter-gift-card",
+      "status": 200,
+      "final_url": "https://imhookedfishingcharters.com.au/product/fishing-charter-gift-card",
+      "bytes": 64434
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "slug": "r5-far-out-charters",
+  "request_hash": "351ae37445ff",
+  "collected_at": "2026-11-08T23:37:20.555Z",
+  "pages_fetched": [
+    "https://faroutcharters.com.au/",
+    "https://faroutcharters.com.au/charter-faq/",
+    "https://faroutcharters.com.au/bookings-enquiry/",
+    "https://faroutcharters.com.au/about-us/",
+    "https://faroutcharters.com.au/fishing-blog/",
+    "https://faroutcharters.com.au/bookings-enquiry",
+    "https://faroutcharters.com.au/charter-faq",
+    "https://faroutcharters.com.au/busy-jan-mar-2022/",
+    "https://faroutcharters.com.au/snapper-gummies/",
+    "https://faroutcharters.com.au/sword-fish-snapper/",
+    "https://faroutcharters.com.au/?blackhole=80d75f4ce9"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://faroutcharters.com.au/",
+      "status": 200,
+      "final_url": "https://faroutcharters.com.au/",
+      "bytes": 139840
+    },
+    {
+      "page": "https://faroutcharters.com.au/charter-faq/",
+      "status": 200,
+      "final_url": "https://faroutcharters.com.au/charter-faq/",
+      "bytes": 125658
+    },
+    {
+      "page": "https://faroutcharters.com.au/bookings-enquiry/",
+      "status": 200,
+      "final_url": "https://faroutcharters.com.au/bookings-enquiry/",
+      "bytes": 123743
+    },
+    {
+      "page": "https://faroutcharters.com.au/about-us/",
+      "status": 200,
+      "final_url": "https://faroutcharters.com.au/about-us/",
+      "bytes": 117829
+    },
+    {
+      "page": "https://faroutcharters.com.au/fishing-blog/",
+      "status": 200,
+      "final_url": "https://faroutcharters.com.au/fishing-blog/",
+      "bytes": 122454
+    },
+    {
+      "page": "https://faroutcharters.com.au/bookings-enquiry",
+      "status": 200,
+      "final_url": "https://faroutcharters.com.au/bookings-enquiry/",
+      "bytes": 123743
+    },
+    {
+      "page": "https://faroutcharters.com.au/charter-faq",
+      "status": 200,
+      "final_url": "https://faroutcharters.com.au/charter-faq/",
+      "bytes": 125658
+    },
+    {
+      "page": "https://faroutcharters.com.au/busy-jan-mar-2022/",
+      "status": 200,
+      "final_url": "https://faroutcharters.com.au/busy-jan-mar-2022/",
+      "bytes": 115609
+    },
+    {
+      "page": "https://faroutcharters.com.au/snapper-gummies/",
+      "status": 200,
+      "final_url": "https://faroutcharters.com.au/snapper-gummies/",
+      "bytes": 114433
+    },
+    {
+      "page": "https://faroutcharters.com.au/sword-fish-snapper/",
+      "status": 200,
+      "final_url": "https://faroutcharters.com.au/sword-fish-snapper/",
+      "bytes": 115108
+    },
+    {
+      "page": "https://faroutcharters.com.au/?blackhole=80d75f4ce9",
+      "status": 200,
+      "final_url": "https://faroutcharters.com.au/?blackhole=80d75f4ce9",
+      "bytes": 139840
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "r5-westernport-fishing-charters",
+  "request_hash": "fa497579a86a",
+  "collected_at": "2026-11-08T23:38:02.102Z",
+  "pages_fetched": [
+    "https://www.westernportfishingcharters.com.au/",
+    "https://www.westernportfishingcharters.com.au/about",
+    "https://www.westernportfishingcharters.com.au/fishing-trip-price",
+    "https://www.commercialrealestate.com.au/business-for-sale/westernport-fishing-charters-2018854122",
+    "https://bsale.com.au/listing/westernport-fishing-hastings-vic-627834",
+    "https://www.melbourneplaygrounds.com.au/westernport-fishing-charters"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.westernportfishingcharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.westernportfishingcharters.com.au/",
+      "bytes": 24235
+    },
+    {
+      "page": "https://www.westernportfishingcharters.com.au/about",
+      "status": 200,
+      "final_url": "https://www.westernportfishingcharters.com.au/about",
+      "bytes": 14242
+    },
+    {
+      "page": "https://www.westernportfishingcharters.com.au/fishing-trip-price",
+      "status": 200,
+      "final_url": "https://www.westernportfishingcharters.com.au/fishing-trip-price",
+      "bytes": 12372
+    },
+    {
+      "page": "https://www.commercialrealestate.com.au/business-for-sale/westernport-fishing-charters-2018854122",
+      "status": 403,
+      "final_url": "https://www.commercialrealestate.com.au/business-for-sale/westernport-fishing-charters-2018854122",
+      "bytes": 468
+    },
+    {
+      "page": "https://bsale.com.au/listing/westernport-fishing-hastings-vic-627834",
+      "status": 200,
+      "final_url": "https://bsale.com.au/businesses-for-sale/vic",
+      "bytes": 260579
+    },
+    {
+      "page": "https://www.melbourneplaygrounds.com.au/westernport-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.melbourneplaygrounds.com.au/westernport-fishing-charters",
+      "bytes": 51884
+    }
+  ]
+}

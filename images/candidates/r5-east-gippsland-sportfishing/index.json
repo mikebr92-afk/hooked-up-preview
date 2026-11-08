@@ -1,0 +1,73 @@
+{
+  "slug": "r5-east-gippsland-sportfishing",
+  "request_hash": "17ede9f1f208",
+  "collected_at": "2026-11-08T23:36:56.205Z",
+  "pages_fetched": [
+    "https://www.egsportfishing.com.au/",
+    "https://www.egsportfishing.com.au/blog",
+    "https://www.egsportfishing.com.au/contactus",
+    "https://www.egsportfishing.com.au/charter-locations/bemm-river-charter-fishing",
+    "https://www.egsportfishing.com.au/charter-locations/lake-tyres-charter-fishing",
+    "https://www.egsportfishing.com.au/charter-locations/mallacoota-charter-fishing",
+    "https://www.egsportfishing.com.au/charter-locations/gippsland-lakes-charter-fishing",
+    "https://www.egsportfishing.com.au/termsandconditions",
+    "https://www.egsportfishing.com.au/faq"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.egsportfishing.com.au/",
+      "status": 200,
+      "final_url": "https://www.egsportfishing.com.au/",
+      "bytes": 1516703
+    },
+    {
+      "page": "https://www.egsportfishing.com.au/blog",
+      "status": 200,
+      "final_url": "https://www.egsportfishing.com.au/blog",
+      "bytes": 1187117
+    },
+    {
+      "page": "https://www.egsportfishing.com.au/contactus",
+      "status": 200,
+      "final_url": "https://www.egsportfishing.com.au/contactus",
+      "bytes": 1653189
+    },
+    {
+      "page": "https://www.egsportfishing.com.au/charter-locations/bemm-river-charter-fishing",
+      "status": 200,
+      "final_url": "https://www.egsportfishing.com.au/charter-locations/bemm-river-charter-fishing",
+      "bytes": 914637
+    },
+    {
+      "page": "https://www.egsportfishing.com.au/charter-locations/lake-tyres-charter-fishing",
+      "status": 200,
+      "final_url": "https://www.egsportfishing.com.au/charter-locations/lake-tyers-charter-fishing",
+      "bytes": 916265
+    },
+    {
+      "page": "https://www.egsportfishing.com.au/charter-locations/mallacoota-charter-fishing",
+      "status": 200,
+      "final_url": "https://www.egsportfishing.com.au/charter-locations/mallacoota-charter-fishing",
+      "bytes": 914323
+    },
+    {
+      "page": "https://www.egsportfishing.com.au/charter-locations/gippsland-lakes-charter-fishing",
+      "status": 200,
+      "final_url": "https://www.egsportfishing.com.au/charter-locations/gippsland-lakes-charter-fishing",
+      "bytes": 914233
+    },
+    {
+      "page": "https://www.egsportfishing.com.au/termsandconditions",
+      "status": 200,
+      "final_url": "https://www.egsportfishing.com.au/termsandconditions",
+      "bytes": 856275
+    },
+    {
+      "page": "https://www.egsportfishing.com.au/faq",
+      "status": 200,
+      "final_url": "https://www.egsportfishing.com.au/faq",
+      "bytes": 854278
+    }
+  ]
+}

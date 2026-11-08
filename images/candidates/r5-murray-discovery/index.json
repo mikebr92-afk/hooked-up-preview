@@ -1,0 +1,59 @@
+{
+  "slug": "r5-murray-discovery",
+  "request_hash": "e7ff990d83e2",
+  "collected_at": "2026-11-08T23:38:12.862Z",
+  "pages_fetched": [
+    "https://www.visitechucamoama.com.au/things-to-do/get-outdoors/fishing",
+    "https://www.visitthemurray.com.au/see-do/the-river/fishing",
+    "https://www.greatvictorianrailtrail.com.au/?p=262764",
+    "https://mildura.com/article/an-experts-guide-to-fishing-in-tropical-north-victoria/",
+    "https://murrayoffroadadventures.rezdy.com/760071/wildcast-adventures-tour",
+    "http://www.lakehumehire.com/",
+    "https://www.yarrawongamulwala.com.au/things-to-do/fishing"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.visitechucamoama.com.au/things-to-do/get-outdoors/fishing",
+      "status": 404,
+      "final_url": "https://www.visitechucamoama.com.au/things-to-do/get-outdoors/fishing",
+      "bytes": 270566
+    },
+    {
+      "page": "https://www.visitthemurray.com.au/see-do/the-river/fishing",
+      "status": 200,
+      "final_url": "https://www.visitthemurray.com.au/see-do/the-river/fishing",
+      "bytes": 194593
+    },
+    {
+      "page": "https://www.greatvictorianrailtrail.com.au/?p=262764",
+      "status": 404,
+      "final_url": "https://www.greatvictorianrailtrail.com.au/?p=262764",
+      "bytes": 60581
+    },
+    {
+      "page": "https://mildura.com/article/an-experts-guide-to-fishing-in-tropical-north-victoria/",
+      "status": 200,
+      "final_url": "https://mildura.com/article/an-experts-guide-to-fishing-in-tropical-north-victoria/",
+      "bytes": 161416
+    },
+    {
+      "page": "https://murrayoffroadadventures.rezdy.com/760071/wildcast-adventures-tour",
+      "status": 403,
+      "final_url": "https://murrayoffroadadventures.rezdy.com/760071/wildcast-adventures-tour",
+      "bytes": 5185
+    },
+    {
+      "page": "http://www.lakehumehire.com/",
+      "status": 200,
+      "final_url": "http://www.lakehumehire.com/",
+      "bytes": 52518
+    },
+    {
+      "page": "https://www.yarrawongamulwala.com.au/things-to-do/fishing",
+      "status": 200,
+      "final_url": "https://www.yarrawongamulwala.com.au/things-to-do/fishing",
+      "bytes": 89698
+    }
+  ]
+}

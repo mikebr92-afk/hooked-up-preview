@@ -1,0 +1,94 @@
+{
+  "slug": "r5-vic-official",
+  "request_hash": "2027f4602a8b",
+  "collected_at": "2026-11-08T23:38:28.106Z",
+  "pages_fetched": [
+    "https://vfa.vic.gov.au/recreational-fishing/fishing-licence",
+    "https://vfa.vic.gov.au/murraycod",
+    "https://vfa.vic.gov.au/recreational-fishing/restricted-fishing-locations/restricted-areas-marine-national-parks",
+    "https://www.vic.gov.au/fisheries-management-lake-hume-notice-2026",
+    "https://www.parks.vic.gov.au/things-to-do/fishing/4-best-fishing-spots-in-victoria",
+    "https://www.parks.vic.gov.au/places-to-see/parks/port-phillip-heads-marine-national-park",
+    "https://www.parks.vic.gov.au/places-to-see/parks/yaringa-marine-national-park",
+    "https://www.parks.vic.gov.au/places-to-see/parks/lake-eildon-national-park",
+    "https://www.visitvictoria.com/see-and-do/outdoor-and-adventure/fishing",
+    "https://www.service.vic.gov.au/fishing",
+    "https://www.dpi.nsw.gov.au/fishing/recreational/resources/info/fishing-locations/go-fishing-lake-mulwala",
+    "https://www.dpi.nsw.gov.au/fishing/closures/general-rules/murray-cod"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://vfa.vic.gov.au/recreational-fishing/fishing-licence",
+      "status": 403,
+      "final_url": "https://vfa.vic.gov.au/recreational-fishing/fishing-licence",
+      "bytes": 5907
+    },
+    {
+      "page": "https://vfa.vic.gov.au/murraycod",
+      "status": 403,
+      "final_url": "https://vfa.vic.gov.au/murraycod",
+      "bytes": 5783
+    },
+    {
+      "page": "https://vfa.vic.gov.au/recreational-fishing/restricted-fishing-locations/restricted-areas-marine-national-parks",
+      "status": 403,
+      "final_url": "https://vfa.vic.gov.au/recreational-fishing/restricted-fishing-locations/restricted-areas-marine-national-parks",
+      "bytes": 6127
+    },
+    {
+      "page": "https://www.vic.gov.au/fisheries-management-lake-hume-notice-2026",
+      "status": 200,
+      "final_url": "https://www.vic.gov.au/fisheries-management-lake-hume-notice-2026",
+      "bytes": 138770
+    },
+    {
+      "page": "https://www.parks.vic.gov.au/things-to-do/fishing/4-best-fishing-spots-in-victoria",
+      "status": 200,
+      "final_url": "https://www.parks.vic.gov.au/things-to-do/fishing/4-best-fishing-spots-in-victoria",
+      "bytes": 67762
+    },
+    {
+      "page": "https://www.parks.vic.gov.au/places-to-see/parks/port-phillip-heads-marine-national-park",
+      "status": 200,
+      "final_url": "https://www.parks.vic.gov.au/places-to-see/parks/port-phillip-heads-marine-national-park",
+      "bytes": 87809
+    },
+    {
+      "page": "https://www.parks.vic.gov.au/places-to-see/parks/yaringa-marine-national-park",
+      "status": 200,
+      "final_url": "https://www.parks.vic.gov.au/places-to-see/parks/yaringa-marine-national-park",
+      "bytes": 78575
+    },
+    {
+      "page": "https://www.parks.vic.gov.au/places-to-see/parks/lake-eildon-national-park",
+      "status": 200,
+      "final_url": "https://www.parks.vic.gov.au/places-to-see/parks/lake-eildon-national-park",
+      "bytes": 97161
+    },
+    {
+      "page": "https://www.visitvictoria.com/see-and-do/outdoor-and-adventure/fishing",
+      "status": 403,
+      "final_url": "https://www.visitvictoria.com/see-and-do/outdoor-and-adventure/fishing",
+      "bytes": 5926
+    },
+    {
+      "page": "https://www.service.vic.gov.au/fishing",
+      "status": 200,
+      "final_url": "https://www.service.vic.gov.au/fishing",
+      "bytes": 285285
+    },
+    {
+      "page": "https://www.dpi.nsw.gov.au/fishing/recreational/resources/info/fishing-locations/go-fishing-lake-mulwala",
+      "status": 403,
+      "final_url": "https://www.dpi.nsw.gov.au/fishing/recreational/resources/info/fishing-locations/go-fishing-lake-mulwala",
+      "bytes": 6098
+    },
+    {
+      "page": "https://www.dpi.nsw.gov.au/fishing/closures/general-rules/murray-cod",
+      "status": 403,
+      "final_url": "https://www.dpi.nsw.gov.au/fishing/closures/general-rules/murray-cod",
+      "bytes": 5947
+    }
+  ]
+}

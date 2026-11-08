@@ -1,0 +1,87 @@
+{
+  "slug": "r5-gvflyfishing",
+  "request_hash": "19ca7920d706",
+  "collected_at": "2026-11-08T23:37:08.321Z",
+  "pages_fetched": [
+    "https://gvflyfishing.com/prices/",
+    "https://gvflyfishing.com/",
+    "https://gvflyfishing.com/all_services/",
+    "https://gvflyfishing.com/cart/",
+    "https://gvflyfishing.com/fly-fishing-gift-certificates-vouchers/",
+    "https://gvflyfishing.com/beginner-fly-fishing-workshop/",
+    "https://gvflyfishing.com/private-fly-fishing-lessons/",
+    "https://gvflyfishing.com/streamcraft_fly_fishing_lessons/",
+    "https://gvflyfishing.com/fly_fishing_guiding_tuition_lessons/",
+    "https://gvflyfishing.com/drift-boating/",
+    "https://gvflyfishing.com/goulburn-river-fly-fishing-drift-boat-trips/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://gvflyfishing.com/prices/",
+      "status": 200,
+      "final_url": "https://gvflyfishing.com/prices/",
+      "bytes": 96323
+    },
+    {
+      "page": "https://gvflyfishing.com/",
+      "status": 200,
+      "final_url": "https://gvflyfishing.com/",
+      "bytes": 93671
+    },
+    {
+      "page": "https://gvflyfishing.com/all_services/",
+      "status": 200,
+      "final_url": "https://gvflyfishing.com/all_services/",
+      "bytes": 94154
+    },
+    {
+      "page": "https://gvflyfishing.com/cart/",
+      "status": 200,
+      "final_url": "https://gvflyfishing.com/cart/",
+      "bytes": 168471
+    },
+    {
+      "page": "https://gvflyfishing.com/fly-fishing-gift-certificates-vouchers/",
+      "status": 200,
+      "final_url": "https://gvflyfishing.com/fly-fishing-gift-certificates-vouchers/",
+      "bytes": 89498
+    },
+    {
+      "page": "https://gvflyfishing.com/beginner-fly-fishing-workshop/",
+      "status": 200,
+      "final_url": "https://gvflyfishing.com/beginner-fly-fishing-workshop/",
+      "bytes": 104590
+    },
+    {
+      "page": "https://gvflyfishing.com/private-fly-fishing-lessons/",
+      "status": 429,
+      "final_url": "https://gvflyfishing.com/private-fly-fishing-lessons/",
+      "bytes": 41
+    },
+    {
+      "page": "https://gvflyfishing.com/streamcraft_fly_fishing_lessons/",
+      "status": 429,
+      "final_url": "https://gvflyfishing.com/streamcraft_fly_fishing_lessons/",
+      "bytes": 41
+    },
+    {
+      "page": "https://gvflyfishing.com/fly_fishing_guiding_tuition_lessons/",
+      "status": 429,
+      "final_url": "https://gvflyfishing.com/fly_fishing_guiding_tuition_lessons/",
+      "bytes": 41
+    },
+    {
+      "page": "https://gvflyfishing.com/drift-boating/",
+      "status": 429,
+      "final_url": "https://gvflyfishing.com/drift-boating/",
+      "bytes": 41
+    },
+    {
+      "page": "https://gvflyfishing.com/goulburn-river-fly-fishing-drift-boat-trips/",
+      "status": 429,
+      "final_url": "https://gvflyfishing.com/goulburn-river-fly-fishing-drift-boat-trips/",
+      "bytes": 41
+    }
+  ]
+}

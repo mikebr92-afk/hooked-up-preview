@@ -1,0 +1,73 @@
+{
+  "slug": "r5-lake-mulwala-sportfishing",
+  "request_hash": "a45692d9ae74",
+  "collected_at": "2026-11-08T23:37:51.972Z",
+  "pages_fetched": [
+    "https://www.lakemulwalasportfishing.com.au/",
+    "https://www.lakemulwalasportfishing.com.au/charter-information",
+    "https://www.lakemulwalasportfishing.com.au/gallery",
+    "https://www.lakemulwalasportfishing.com.au/aboutus",
+    "https://www.lakemulwalasportfishing.com.au/contact-us",
+    "https://www.lakemulwalasportfishing.com.au/online-courses-and-masterclasses",
+    "https://www.lakemulwalasportfishing.com.au/store-gift-voucher-apparel-lures",
+    "https://www.lakemulwalasportfishing.com.au/cart",
+    "https://www.lakemulwalasportfishing.com.au/email-sign-up"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.lakemulwalasportfishing.com.au/",
+      "status": 200,
+      "final_url": "https://www.lakemulwalasportfishing.com.au/",
+      "bytes": 292532
+    },
+    {
+      "page": "https://www.lakemulwalasportfishing.com.au/charter-information",
+      "status": 200,
+      "final_url": "https://www.lakemulwalasportfishing.com.au/charter-information",
+      "bytes": 177703
+    },
+    {
+      "page": "https://www.lakemulwalasportfishing.com.au/gallery",
+      "status": 200,
+      "final_url": "https://www.lakemulwalasportfishing.com.au/gallery",
+      "bytes": 252046
+    },
+    {
+      "page": "https://www.lakemulwalasportfishing.com.au/aboutus",
+      "status": 200,
+      "final_url": "https://www.lakemulwalasportfishing.com.au/aboutus",
+      "bytes": 695989
+    },
+    {
+      "page": "https://www.lakemulwalasportfishing.com.au/contact-us",
+      "status": 200,
+      "final_url": "https://www.lakemulwalasportfishing.com.au/contact-us",
+      "bytes": 205061
+    },
+    {
+      "page": "https://www.lakemulwalasportfishing.com.au/online-courses-and-masterclasses",
+      "status": 200,
+      "final_url": "https://www.lakemulwalasportfishing.com.au/online-courses-and-masterclasses",
+      "bytes": 1272876
+    },
+    {
+      "page": "https://www.lakemulwalasportfishing.com.au/store-gift-voucher-apparel-lures",
+      "status": 200,
+      "final_url": "https://www.lakemulwalasportfishing.com.au/store-gift-voucher-apparel-lures",
+      "bytes": 489283
+    },
+    {
+      "page": "https://www.lakemulwalasportfishing.com.au/cart",
+      "status": 200,
+      "final_url": "https://www.lakemulwalasportfishing.com.au/cart",
+      "bytes": 320278
+    },
+    {
+      "page": "https://www.lakemulwalasportfishing.com.au/email-sign-up",
+      "status": 200,
+      "final_url": "https://www.lakemulwalasportfishing.com.au/email-sign-up",
+      "bytes": 353496
+    }
+  ]
+}

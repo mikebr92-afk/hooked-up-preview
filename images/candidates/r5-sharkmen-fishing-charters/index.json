@@ -1,0 +1,52 @@
+{
+  "slug": "r5-sharkmen-fishing-charters",
+  "request_hash": "32f546ac4fff",
+  "collected_at": "2026-11-08T23:37:43.908Z",
+  "pages_fetched": [
+    "https://sharkmen.com.au/",
+    "https://sharkmen.com.au/whiting_charter/",
+    "https://sharkmen.com.au/corporate/",
+    "https://sharkmen.com.au/faq/",
+    "https://sharkmen.com.au/pre-charter-breifing/",
+    "https://sharkmen.com.au/contact/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://sharkmen.com.au/",
+      "status": 200,
+      "final_url": "https://sharkmen.com.au/",
+      "bytes": 301817
+    },
+    {
+      "page": "https://sharkmen.com.au/whiting_charter/",
+      "status": 200,
+      "final_url": "https://sharkmen.com.au/whiting_charter/",
+      "bytes": 266385
+    },
+    {
+      "page": "https://sharkmen.com.au/corporate/",
+      "status": 200,
+      "final_url": "https://sharkmen.com.au/corporate/",
+      "bytes": 306054
+    },
+    {
+      "page": "https://sharkmen.com.au/faq/",
+      "status": 200,
+      "final_url": "https://sharkmen.com.au/faq/",
+      "bytes": 264356
+    },
+    {
+      "page": "https://sharkmen.com.au/pre-charter-breifing/",
+      "status": 200,
+      "final_url": "https://sharkmen.com.au/pre-charter-breifing/",
+      "bytes": 282295
+    },
+    {
+      "page": "https://sharkmen.com.au/contact/",
+      "status": 200,
+      "final_url": "https://sharkmen.com.au/contact/",
+      "bytes": 253509
+    }
+  ]
+}

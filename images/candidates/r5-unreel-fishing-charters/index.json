@@ -1,0 +1,87 @@
+{
+  "slug": "r5-unreel-fishing-charters",
+  "request_hash": "57f831e13f48",
+  "collected_at": "2026-11-08T23:37:48.018Z",
+  "pages_fetched": [
+    "https://www.unreelfishingcharters.com.au/charter-prices-1",
+    "https://www.unreelfishingcharters.com.au/",
+    "https://www.unreelfishingcharters.com.au/cart",
+    "https://www.unreelfishingcharters.com.au/home-2",
+    "https://www.unreelfishingcharters.com.au/snapper-1",
+    "https://www.unreelfishingcharters.com.au/king-fish-1-1",
+    "https://www.unreelfishingcharters.com.au/king-fish-1-2",
+    "https://www.unreelfishingcharters.com.au/king-george-whiting-1",
+    "https://www.unreelfishingcharters.com.au/squid-1",
+    "https://www.unreelfishingcharters.com.au/shark-1",
+    "https://www.unreelfishingcharters.com.au/reef"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.unreelfishingcharters.com.au/charter-prices-1",
+      "status": 200,
+      "final_url": "https://www.unreelfishingcharters.com.au/charter-prices-1",
+      "bytes": 458476
+    },
+    {
+      "page": "https://www.unreelfishingcharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.unreelfishingcharters.com.au/",
+      "bytes": 1162665
+    },
+    {
+      "page": "https://www.unreelfishingcharters.com.au/cart",
+      "status": 200,
+      "final_url": "https://www.unreelfishingcharters.com.au/cart",
+      "bytes": 507625
+    },
+    {
+      "page": "https://www.unreelfishingcharters.com.au/home-2",
+      "status": 200,
+      "final_url": "https://www.unreelfishingcharters.com.au/home-2",
+      "bytes": 1254926
+    },
+    {
+      "page": "https://www.unreelfishingcharters.com.au/snapper-1",
+      "status": 200,
+      "final_url": "https://www.unreelfishingcharters.com.au/snapper-1",
+      "bytes": 809123
+    },
+    {
+      "page": "https://www.unreelfishingcharters.com.au/king-fish-1-1",
+      "status": 200,
+      "final_url": "https://www.unreelfishingcharters.com.au/king-fish-1-1",
+      "bytes": 258852
+    },
+    {
+      "page": "https://www.unreelfishingcharters.com.au/king-fish-1-2",
+      "status": 200,
+      "final_url": "https://www.unreelfishingcharters.com.au/king-fish-1-2",
+      "bytes": 286924
+    },
+    {
+      "page": "https://www.unreelfishingcharters.com.au/king-george-whiting-1",
+      "status": 200,
+      "final_url": "https://www.unreelfishingcharters.com.au/king-george-whiting-1",
+      "bytes": 482675
+    },
+    {
+      "page": "https://www.unreelfishingcharters.com.au/squid-1",
+      "status": 200,
+      "final_url": "https://www.unreelfishingcharters.com.au/squid-1",
+      "bytes": 444369
+    },
+    {
+      "page": "https://www.unreelfishingcharters.com.au/shark-1",
+      "status": 200,
+      "final_url": "https://www.unreelfishingcharters.com.au/shark-1",
+      "bytes": 226207
+    },
+    {
+      "page": "https://www.unreelfishingcharters.com.au/reef",
+      "status": 200,
+      "final_url": "https://www.unreelfishingcharters.com.au/reef",
+      "bytes": 389263
+    }
+  ]
+}
