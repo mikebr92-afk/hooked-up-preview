@@ -1,0 +1,80 @@
+{
+  "slug": "r5n-out-n-about-sportfishing-port-douglas",
+  "request_hash": "562d9f9db265",
+  "collected_at": "2026-11-08T23:37:49.594Z",
+  "pages_fetched": [
+    "https://www.outnaboutfishing.com.au/",
+    "https://www.outnaboutfishing.com.au/private-half-day-charter/",
+    "https://www.outnaboutfishing.com.au/private-6-hour-charter-port-douglas/",
+    "https://www.outnaboutfishing.com.au/private-full-day-charter/",
+    "https://www.outnaboutfishing.com.au/shared-half-day-charter/",
+    "https://www.outnaboutfishing.com.au/port-douglas-charters/",
+    "https://www.outnaboutfishing.com.au/cairns-charters/full-day-charter/",
+    "https://www.outnaboutfishing.com.au/cairns-charters/private-6-hour-cairns-fishing-charter/",
+    "https://www.outnaboutfishing.com.au/cairns-charters/",
+    "https://www.outnaboutfishing.com.au/gift-voucher/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.outnaboutfishing.com.au/",
+      "status": 200,
+      "final_url": "https://www.outnaboutfishing.com.au/",
+      "bytes": 192273
+    },
+    {
+      "page": "https://www.outnaboutfishing.com.au/private-half-day-charter/",
+      "status": 200,
+      "final_url": "https://www.outnaboutfishing.com.au/private-half-day-charter/",
+      "bytes": 164537
+    },
+    {
+      "page": "https://www.outnaboutfishing.com.au/private-6-hour-charter-port-douglas/",
+      "status": 200,
+      "final_url": "https://www.outnaboutfishing.com.au/private-6-hour-charter-port-douglas/",
+      "bytes": 161415
+    },
+    {
+      "page": "https://www.outnaboutfishing.com.au/private-full-day-charter/",
+      "status": 200,
+      "final_url": "https://www.outnaboutfishing.com.au/private-full-day-charter/",
+      "bytes": 166424
+    },
+    {
+      "page": "https://www.outnaboutfishing.com.au/shared-half-day-charter/",
+      "status": 200,
+      "final_url": "https://www.outnaboutfishing.com.au/shared-half-day-charter/",
+      "bytes": 164423
+    },
+    {
+      "page": "https://www.outnaboutfishing.com.au/port-douglas-charters/",
+      "status": 200,
+      "final_url": "https://www.outnaboutfishing.com.au/port-douglas-charters/",
+      "bytes": 156115
+    },
+    {
+      "page": "https://www.outnaboutfishing.com.au/cairns-charters/full-day-charter/",
+      "status": 200,
+      "final_url": "https://www.outnaboutfishing.com.au/cairns-charters/full-day-charter/",
+      "bytes": 146034
+    },
+    {
+      "page": "https://www.outnaboutfishing.com.au/cairns-charters/private-6-hour-cairns-fishing-charter/",
+      "status": 200,
+      "final_url": "https://www.outnaboutfishing.com.au/cairns-charters/private-6-hour-cairns-fishing-charter/",
+      "bytes": 146000
+    },
+    {
+      "page": "https://www.outnaboutfishing.com.au/cairns-charters/",
+      "status": 200,
+      "final_url": "https://www.outnaboutfishing.com.au/cairns-charters/",
+      "bytes": 139449
+    },
+    {
+      "page": "https://www.outnaboutfishing.com.au/gift-voucher/",
+      "status": 200,
+      "final_url": "https://www.outnaboutfishing.com.au/gift-voucher/",
+      "bytes": 141880
+    }
+  ]
+}

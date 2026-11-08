@@ -1,0 +1,80 @@
+{
+  "slug": "r5n-airlie-beach-fishing-charters",
+  "request_hash": "1992ae70787e",
+  "collected_at": "2026-11-08T23:38:15.121Z",
+  "pages_fetched": [
+    "https://airliebeachfishingcharters.com.au/",
+    "https://airliebeachfishingcharters.com.au/half-day-fishing-charter/",
+    "https://airliebeachfishingcharters.com.au/early-bird-fishing-charter/",
+    "https://airliebeachfishingcharters.com.au/full-day-fishing-charter/",
+    "https://airliebeachfishingcharters.com.au/private-fishing-charter/",
+    "https://airliebeachfishingcharters.com.au/about/",
+    "https://airliebeachfishingcharters.com.au/gallery/",
+    "https://airliebeachfishingcharters.com.au/contact/",
+    "https://airliebeachfishingcharters.com.au/4-hour-private-fishing-charter/",
+    "https://airliebeachfishingcharters.com.au/6-hour-private-fishing-charter/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://airliebeachfishingcharters.com.au/",
+      "status": 200,
+      "final_url": "https://airliebeachfishingcharters.com.au/",
+      "bytes": 187307
+    },
+    {
+      "page": "https://airliebeachfishingcharters.com.au/half-day-fishing-charter/",
+      "status": 200,
+      "final_url": "https://airliebeachfishingcharters.com.au/half-day-fishing-charter/",
+      "bytes": 156480
+    },
+    {
+      "page": "https://airliebeachfishingcharters.com.au/early-bird-fishing-charter/",
+      "status": 200,
+      "final_url": "https://airliebeachfishingcharters.com.au/early-bird-fishing-charter/",
+      "bytes": 156175
+    },
+    {
+      "page": "https://airliebeachfishingcharters.com.au/full-day-fishing-charter/",
+      "status": 200,
+      "final_url": "https://airliebeachfishingcharters.com.au/full-day-fishing-charter/",
+      "bytes": 155159
+    },
+    {
+      "page": "https://airliebeachfishingcharters.com.au/private-fishing-charter/",
+      "status": 200,
+      "final_url": "https://airliebeachfishingcharters.com.au/private-fishing-charter/",
+      "bytes": 156420
+    },
+    {
+      "page": "https://airliebeachfishingcharters.com.au/about/",
+      "status": 200,
+      "final_url": "https://airliebeachfishingcharters.com.au/about/",
+      "bytes": 124729
+    },
+    {
+      "page": "https://airliebeachfishingcharters.com.au/gallery/",
+      "status": 200,
+      "final_url": "https://airliebeachfishingcharters.com.au/gallery/",
+      "bytes": 143839
+    },
+    {
+      "page": "https://airliebeachfishingcharters.com.au/contact/",
+      "status": 200,
+      "final_url": "https://airliebeachfishingcharters.com.au/contact/",
+      "bytes": 156438
+    },
+    {
+      "page": "https://airliebeachfishingcharters.com.au/4-hour-private-fishing-charter/",
+      "status": 200,
+      "final_url": "https://airliebeachfishingcharters.com.au/4-hour-private-fishing-charter/",
+      "bytes": 143662
+    },
+    {
+      "page": "https://airliebeachfishingcharters.com.au/6-hour-private-fishing-charter/",
+      "status": 200,
+      "final_url": "https://airliebeachfishingcharters.com.au/6-hour-private-fishing-charter/",
+      "bytes": 139736
+    }
+  ]
+}

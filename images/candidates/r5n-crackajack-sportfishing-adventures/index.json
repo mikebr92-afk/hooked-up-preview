@@ -1,0 +1,17 @@
+{
+  "slug": "r5n-crackajack-sportfishing-adventures",
+  "request_hash": "810391ebe854",
+  "collected_at": "2026-11-08T23:37:25.580Z",
+  "pages_fetched": [
+    "https://crackfish.com/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://crackfish.com/",
+      "status": 200,
+      "final_url": "https://crackfish.com/",
+      "bytes": 136756
+    }
+  ]
+}

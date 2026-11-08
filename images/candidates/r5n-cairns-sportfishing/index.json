@@ -1,0 +1,15 @@
+{
+  "slug": "r5n-cairns-sportfishing",
+  "request_hash": "1e1c985f71bb",
+  "collected_at": "2026-11-08T23:36:27.910Z",
+  "pages_fetched": [
+    "https://www.cairnssportfishing.com.au/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.cairnssportfishing.com.au/",
+      "error": "fetch failed"
+    }
+  ]
+}

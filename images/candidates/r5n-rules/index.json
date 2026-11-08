@@ -1,0 +1,81 @@
+{
+  "slug": "r5n-rules",
+  "request_hash": "883493abc515",
+  "collected_at": "2026-11-08T23:40:12.752Z",
+  "pages_fetched": [
+    "https://www.dpi.qld.gov.au/services/fisheries/closures/tidal-seasons",
+    "https://www.dpi.qld.gov.au/business-priorities/fisheries/closures/tidal/seasons",
+    "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/rules/limits-tidal",
+    "https://www.gbrmpa.gov.au/access/environmental-management-charge",
+    "https://www.gbrmpa.gov.au/access/environmental-management-charge/what-are-charges",
+    "https://www.qld.gov.au/environment/plants-animals/animals/living-with/crocodiles/becrocwise",
+    "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/dams/stocked-impoundment-permits/locations/tinaroo-falls",
+    "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/dams/stocked-impoundment-permits/locations/teemburra",
+    "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/dams/stocked-impoundment-permits/locations/kinchant",
+    "https://www2.gbrmpa.gov.au/access/zoning",
+    "https://www.weipatownauthority.com.au/Places-and-Spaces/Explore-Weipa/CrocWise"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.dpi.qld.gov.au/services/fisheries/closures/tidal-seasons",
+      "status": 403,
+      "final_url": "https://www.dpi.qld.gov.au/services/fisheries/closures/tidal-seasons",
+      "bytes": 5947
+    },
+    {
+      "page": "https://www.dpi.qld.gov.au/business-priorities/fisheries/closures/tidal/seasons",
+      "status": 403,
+      "final_url": "https://www.dpi.qld.gov.au/business-priorities/fisheries/closures/tidal/seasons",
+      "bytes": 5980
+    },
+    {
+      "page": "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/rules/limits-tidal",
+      "status": 200,
+      "final_url": "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/rules/limits-tidal",
+      "bytes": 247762
+    },
+    {
+      "page": "https://www.gbrmpa.gov.au/access/environmental-management-charge",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "page": "https://www.gbrmpa.gov.au/access/environmental-management-charge/what-are-charges",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "page": "https://www.qld.gov.au/environment/plants-animals/animals/living-with/crocodiles/becrocwise",
+      "status": 200,
+      "final_url": "https://www.qld.gov.au/environment/plants-animals/animals/living-with/crocodiles/becrocwise",
+      "bytes": 189038
+    },
+    {
+      "page": "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/dams/stocked-impoundment-permits/locations/tinaroo-falls",
+      "status": 200,
+      "final_url": "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/dams/stocked-impoundment-permits/locations/tinaroo-falls",
+      "bytes": 201864
+    },
+    {
+      "page": "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/dams/stocked-impoundment-permits/locations/teemburra",
+      "status": 200,
+      "final_url": "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/dams/stocked-impoundment-permits/locations/teemburra",
+      "bytes": 201340
+    },
+    {
+      "page": "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/dams/stocked-impoundment-permits/locations/kinchant",
+      "status": 200,
+      "final_url": "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/dams/stocked-impoundment-permits/locations/kinchant",
+      "bytes": 201791
+    },
+    {
+      "page": "https://www2.gbrmpa.gov.au/access/zoning",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "page": "https://www.weipatownauthority.com.au/Places-and-Spaces/Explore-Weipa/CrocWise",
+      "status": 403,
+      "final_url": "https://www.weipatownauthority.com.au/Places-and-Spaces/Explore-Weipa/CrocWise",
+      "bytes": 447
+    }
+  ]
+}

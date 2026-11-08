@@ -1,0 +1,52 @@
+{
+  "slug": "r5n-tourism",
+  "request_hash": "25c90fad5505",
+  "collected_at": "2026-11-08T23:40:18.502Z",
+  "pages_fetched": [
+    "https://www.tropicalnorthqueensland.org.au/things-to-do/fishing/",
+    "https://www.tourismwhitsundays.com.au/things-to-do/fishing",
+    "https://www.mackayregion.com/things-to-do/fishing/",
+    "https://www.townsvillenorthqueensland.com.au/things-to-do/fishing/",
+    "https://www.outbackqueensland.com.au/destinations/karumba/",
+    "https://www.outbackqueensland.com.au/tours/kerry-d-charters/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.tropicalnorthqueensland.org.au/things-to-do/fishing/",
+      "status": 403,
+      "final_url": "https://www.tropicalnorthqueensland.org.au/things-to-do/fishing/",
+      "bytes": 5903
+    },
+    {
+      "page": "https://www.tourismwhitsundays.com.au/things-to-do/fishing",
+      "status": 404,
+      "final_url": "https://www.tourismwhitsundays.com.au/things-to-do/fishing",
+      "bytes": 128853
+    },
+    {
+      "page": "https://www.mackayregion.com/things-to-do/fishing/",
+      "status": 404,
+      "final_url": "https://www.mackayisaac.com/things-to-do/fishing/",
+      "bytes": 41850
+    },
+    {
+      "page": "https://www.townsvillenorthqueensland.com.au/things-to-do/fishing/",
+      "status": 404,
+      "final_url": "https://www.townsvillenorthqueensland.com.au/things-to-do/fishing/",
+      "bytes": 59611
+    },
+    {
+      "page": "https://www.outbackqueensland.com.au/destinations/karumba/",
+      "status": 404,
+      "final_url": "https://www.outbackqueensland.com.au/destinations/karumba/",
+      "bytes": 75817
+    },
+    {
+      "page": "https://www.outbackqueensland.com.au/tours/kerry-d-charters/",
+      "status": 200,
+      "final_url": "https://www.outbackqueensland.com.au/tours/kerry-d-charters/",
+      "bytes": 109052
+    }
+  ]
+}

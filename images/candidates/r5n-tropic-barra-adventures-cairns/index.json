@@ -1,0 +1,80 @@
+{
+  "slug": "r5n-tropic-barra-adventures-cairns",
+  "request_hash": "c421e08035ab",
+  "collected_at": "2026-11-08T23:36:39.587Z",
+  "pages_fetched": [
+    "https://www.tropicbarraadventures.com.au/",
+    "https://www.tropicbarraadventures.com.au/charters",
+    "https://www.tropicbarraadventures.com.au/locations/fishing-charters-cairns",
+    "https://www.tropicbarraadventures.com.au/locations/fishing-trips-port-douglas",
+    "https://www.tropicbarraadventures.com.au/locations/lake-tinaroo-fishing-charters",
+    "https://www.tropicbarraadventures.com.au/locations/fishing-charters-daintree",
+    "https://www.tropicbarraadventures.com.au/locations/great-barrier-reef-fishing-trips",
+    "https://www.tropicbarraadventures.com.au/about",
+    "https://www.tropicbarraadventures.com.au/contact",
+    "https://www.tropicbarraadventures.com.au/full-day-river-charter"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.tropicbarraadventures.com.au/",
+      "status": 200,
+      "final_url": "https://www.tropicbarraadventures.com.au/",
+      "bytes": 1559326
+    },
+    {
+      "page": "https://www.tropicbarraadventures.com.au/charters",
+      "status": 200,
+      "final_url": "https://www.tropicbarraadventures.com.au/charters",
+      "bytes": 616502
+    },
+    {
+      "page": "https://www.tropicbarraadventures.com.au/locations/fishing-charters-cairns",
+      "status": 200,
+      "final_url": "https://www.tropicbarraadventures.com.au/locations/fishing-charters-cairns",
+      "bytes": 1082053
+    },
+    {
+      "page": "https://www.tropicbarraadventures.com.au/locations/fishing-trips-port-douglas",
+      "status": 200,
+      "final_url": "https://www.tropicbarraadventures.com.au/locations/fishing-trips-port-douglas",
+      "bytes": 3055112
+    },
+    {
+      "page": "https://www.tropicbarraadventures.com.au/locations/lake-tinaroo-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.tropicbarraadventures.com.au/locations/lake-tinaroo-fishing-charters",
+      "bytes": 328561
+    },
+    {
+      "page": "https://www.tropicbarraadventures.com.au/locations/fishing-charters-daintree",
+      "status": 200,
+      "final_url": "https://www.tropicbarraadventures.com.au/locations/fishing-charters-daintree",
+      "bytes": 3054904
+    },
+    {
+      "page": "https://www.tropicbarraadventures.com.au/locations/great-barrier-reef-fishing-trips",
+      "status": 200,
+      "final_url": "https://www.tropicbarraadventures.com.au/locations/great-barrier-reef-fishing-trips",
+      "bytes": 469983
+    },
+    {
+      "page": "https://www.tropicbarraadventures.com.au/about",
+      "status": 200,
+      "final_url": "https://www.tropicbarraadventures.com.au/about",
+      "bytes": 1162576
+    },
+    {
+      "page": "https://www.tropicbarraadventures.com.au/contact",
+      "status": 200,
+      "final_url": "https://www.tropicbarraadventures.com.au/contact",
+      "bytes": 637678
+    },
+    {
+      "page": "https://www.tropicbarraadventures.com.au/full-day-river-charter",
+      "status": 200,
+      "final_url": "https://www.tropicbarraadventures.com.au/full-day-river-charter",
+      "bytes": 1463684
+    }
+  ]
+}

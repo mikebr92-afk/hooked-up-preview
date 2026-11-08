@@ -1,0 +1,73 @@
+{
+  "slug": "r5n-fish-tales-charters-cairns",
+  "request_hash": "02a097c654da",
+  "collected_at": "2026-11-08T23:36:30.099Z",
+  "pages_fetched": [
+    "https://fishtales.com.au/",
+    "https://fishtales.com.au/about-us/",
+    "https://fishtales.com.au/cairns-estuary-fishing/",
+    "https://fishtales.com.au/cairns-river-fishing/",
+    "https://fishtales.com.au/cairns-reef-fishing/",
+    "https://fishtales.com.au/cairns-private-fishing-charters/",
+    "https://fishtales.com.au/cairns-barramundi-fishing/",
+    "https://fishtales.com.au/contact-details/",
+    "https://fishtales.com.au/gt-popper-fishing-on-the-reef/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://fishtales.com.au/",
+      "status": 200,
+      "final_url": "https://fishtales.com.au/",
+      "bytes": 196665
+    },
+    {
+      "page": "https://fishtales.com.au/about-us/",
+      "status": 200,
+      "final_url": "https://fishtales.com.au/about-us/",
+      "bytes": 172234
+    },
+    {
+      "page": "https://fishtales.com.au/cairns-estuary-fishing/",
+      "status": 200,
+      "final_url": "https://fishtales.com.au/cairns-estuary-fishing/",
+      "bytes": 409349
+    },
+    {
+      "page": "https://fishtales.com.au/cairns-river-fishing/",
+      "status": 200,
+      "final_url": "https://fishtales.com.au/cairns-river-fishing/",
+      "bytes": 409980
+    },
+    {
+      "page": "https://fishtales.com.au/cairns-reef-fishing/",
+      "status": 200,
+      "final_url": "https://fishtales.com.au/cairns-reef-fishing/",
+      "bytes": 382400
+    },
+    {
+      "page": "https://fishtales.com.au/cairns-private-fishing-charters/",
+      "status": 200,
+      "final_url": "https://fishtales.com.au/cairns-private-fishing-charters/",
+      "bytes": 183665
+    },
+    {
+      "page": "https://fishtales.com.au/cairns-barramundi-fishing/",
+      "status": 200,
+      "final_url": "https://fishtales.com.au/cairns-barramundi-fishing/",
+      "bytes": 238925
+    },
+    {
+      "page": "https://fishtales.com.au/contact-details/",
+      "status": 200,
+      "final_url": "https://fishtales.com.au/contact-details/",
+      "bytes": 220907
+    },
+    {
+      "page": "https://fishtales.com.au/gt-popper-fishing-on-the-reef/",
+      "status": 200,
+      "final_url": "https://fishtales.com.au/gt-popper-fishing-on-the-reef/",
+      "bytes": 68998
+    }
+  ]
+}
