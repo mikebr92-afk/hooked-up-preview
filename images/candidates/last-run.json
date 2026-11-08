@@ -1,30 +1,40 @@
 {
-  "finished_at": "2026-11-08T23:40:11.492Z",
+  "finished_at": "2026-11-08T23:42:59.314Z",
   "summary": [
     {
       "slug": "r5-reel-teaser",
-      "candidates": 0,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "r5-rules2",
-      "candidates": 0,
-      "pages": 4
+      "skipped": true
     },
     {
       "slug": "r5-parks2",
-      "candidates": 0,
-      "pages": 5
+      "skipped": true
     },
     {
       "slug": "r5-tourism",
+      "skipped": true
+    },
+    {
+      "slug": "r5-perth-discovery",
+      "skipped": true
+    },
+    {
+      "slug": "r5-rules3",
       "candidates": 0,
       "pages": 5
     },
     {
-      "slug": "r5-perth-discovery",
+      "slug": "r5-birchys-2",
       "candidates": 0,
-      "pages": 7
+      "pages": 3
+    },
+    {
+      "slug": "r5-blue-horizon-2",
+      "candidates": 0,
+      "pages": 2
     },
     {
       "slug": "r5-rules",

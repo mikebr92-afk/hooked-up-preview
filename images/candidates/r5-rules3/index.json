@@ -1,0 +1,45 @@
+{
+  "slug": "r5-rules3",
+  "request_hash": "b28a53b47875",
+  "collected_at": "2026-11-08T23:42:54.735Z",
+  "pages_fetched": [
+    "https://www.dpird.wa.gov.au/individuals/recreational-fishing/marine-protected-areas/houtman-abrolhos-islands/recreational-fishing-at-the-houtman-abrolhos-islands/",
+    "https://www.dpird.wa.gov.au/individuals/recreational-fishing/marine-protected-areas/houtman-abrolhos-islands/houtman-abrolhos-islands-visitor-information/",
+    "https://www.dpird.wa.gov.au/individuals/recreational-fishing/recreational-fishing-rules/north-coast-bioregion/",
+    "https://www.dpird.wa.gov.au/individuals/recreational-fishing/recreational-fishing-rules/gascoyne-coast-bioregion/",
+    "https://www.dpird.wa.gov.au/individuals/recreational-fishing/recreational-fishing-rules/recreational-bag-and-size-limits/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.dpird.wa.gov.au/individuals/recreational-fishing/marine-protected-areas/houtman-abrolhos-islands/recreational-fishing-at-the-houtman-abrolhos-islands/",
+      "status": 200,
+      "final_url": "https://www.dpird.wa.gov.au/individuals/recreational-fishing/marine-protected-areas/houtman-abrolhos-islands/recreational-fishing-at-the-houtman-abrolhos-islands/",
+      "bytes": 84324
+    },
+    {
+      "page": "https://www.dpird.wa.gov.au/individuals/recreational-fishing/marine-protected-areas/houtman-abrolhos-islands/houtman-abrolhos-islands-visitor-information/",
+      "status": 200,
+      "final_url": "https://www.dpird.wa.gov.au/individuals/recreational-fishing/marine-protected-areas/houtman-abrolhos-islands/houtman-abrolhos-islands-visitor-information/",
+      "bytes": 98671
+    },
+    {
+      "page": "https://www.dpird.wa.gov.au/individuals/recreational-fishing/recreational-fishing-rules/north-coast-bioregion/",
+      "status": 200,
+      "final_url": "https://www.dpird.wa.gov.au/individuals/recreational-fishing/recreational-fishing-rules/north-coast-bioregion/",
+      "bytes": 87291
+    },
+    {
+      "page": "https://www.dpird.wa.gov.au/individuals/recreational-fishing/recreational-fishing-rules/gascoyne-coast-bioregion/",
+      "status": 200,
+      "final_url": "https://www.dpird.wa.gov.au/individuals/recreational-fishing/recreational-fishing-rules/gascoyne-coast-bioregion/",
+      "bytes": 87569
+    },
+    {
+      "page": "https://www.dpird.wa.gov.au/individuals/recreational-fishing/recreational-fishing-rules/recreational-bag-and-size-limits/",
+      "status": 200,
+      "final_url": "https://www.dpird.wa.gov.au/individuals/recreational-fishing/recreational-fishing-rules/recreational-bag-and-size-limits/",
+      "bytes": 130039
+    }
+  ]
+}

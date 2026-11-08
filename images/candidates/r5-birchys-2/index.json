@@ -1,0 +1,31 @@
+{
+  "slug": "r5-birchys-2",
+  "request_hash": "2359a8184d91",
+  "collected_at": "2026-11-08T23:42:57.728Z",
+  "pages_fetched": [
+    "https://www.westernaustralia.com/en/tour/birchy%27s-fishing-tours/6a3b8b515afc2a331f0e01cb",
+    "https://birchysfishingtours.rezdy.com/",
+    "https://www.buzzsprout.com/2450969/episodes/18237950-ep-21-sam-birch-birchy-s-fishing-tours-the-barra-king"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.westernaustralia.com/en/tour/birchy%27s-fishing-tours/6a3b8b515afc2a331f0e01cb",
+      "status": 200,
+      "final_url": "https://www.westernaustralia.com/en/tour/birchy%27s-fishing-tours/6a3b8b515afc2a331f0e01cb",
+      "bytes": 1369784
+    },
+    {
+      "page": "https://birchysfishingtours.rezdy.com/",
+      "status": 403,
+      "final_url": "https://birchysfishingtours.rezdy.com/",
+      "bytes": 5186
+    },
+    {
+      "page": "https://www.buzzsprout.com/2450969/episodes/18237950-ep-21-sam-birch-birchy-s-fishing-tours-the-barra-king",
+      "status": 200,
+      "final_url": "https://www.buzzsprout.com/2450969/episodes/18237950-ep-21-sam-birch-birchy-s-fishing-tours-the-barra-king",
+      "bytes": 990172
+    }
+  ]
+}
