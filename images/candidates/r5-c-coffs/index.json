@@ -1,0 +1,31 @@
+{
+  "slug": "r5-c-coffs",
+  "request_hash": "0913d4c73d45",
+  "collected_at": "2026-11-08T23:46:01.331Z",
+  "pages_fetched": [
+    "https://coffsharbourfishing.com.au/our-news/book-your-coffs-harbour-fishing-charter/",
+    "https://coffsharbourfishing.com.au/book/charters.html",
+    "https://www.tripadvisor.com.au/Attraction_Review-g255059-d23467877-Reviews-Coffs_Harbour_Fishing_Charters-Coffs_Harbour_New_South_Wales.html"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://coffsharbourfishing.com.au/our-news/book-your-coffs-harbour-fishing-charter/",
+      "status": 200,
+      "final_url": "https://coffsharbourfishing.com.au/our-news/book-your-coffs-harbour-fishing-charter/",
+      "bytes": 26592
+    },
+    {
+      "page": "https://coffsharbourfishing.com.au/book/charters.html",
+      "status": 404,
+      "final_url": "https://coffsharbourfishing.com.au/book/charters.html",
+      "bytes": 29702
+    },
+    {
+      "page": "https://www.tripadvisor.com.au/Attraction_Review-g255059-d23467877-Reviews-Coffs_Harbour_Fishing_Charters-Coffs_Harbour_New_South_Wales.html",
+      "status": 403,
+      "final_url": "https://www.tripadvisor.com.au/Attraction_Review-g255059-d23467877-Reviews-Coffs_Harbour_Fishing_Charters-Coffs_Harbour_New_South_Wales.html",
+      "bytes": 778
+    }
+  ]
+}

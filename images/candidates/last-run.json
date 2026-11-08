@@ -1,5 +1,5 @@
 {
-  "finished_at": "2026-11-08T23:43:24.229Z",
+  "finished_at": "2026-11-08T23:46:01.331Z",
   "summary": [
     {
       "slug": "byron-bay-charters",
@@ -203,48 +203,59 @@
     },
     {
       "slug": "r5-scf-reef",
-      "candidates": 0,
-      "pages": 2
+      "skipped": true
     },
     {
       "slug": "r5-terrigal-rezdy",
-      "candidates": 0,
-      "pages": 4
+      "skipped": true
     },
     {
       "slug": "r5-gameon-rezdy",
+      "skipped": true
+    },
+    {
+      "slug": "r5-coffs-rezdy",
+      "skipped": true
+    },
+    {
+      "slug": "r5-bluereef-retry",
+      "skipped": true
+    },
+    {
+      "slug": "r5-outthere",
+      "skipped": true
+    },
+    {
+      "slug": "r5-watch-tourism",
+      "skipped": true
+    },
+    {
+      "slug": "r5-fps-news",
+      "skipped": true
+    },
+    {
+      "slug": "r5-official-2",
+      "skipped": true
+    },
+    {
+      "slug": "r5-c-gameon",
       "candidates": 0,
       "pages": 1
     },
     {
-      "slug": "r5-coffs-rezdy",
-      "candidates": 0,
-      "pages": 8
-    },
-    {
-      "slug": "r5-bluereef-retry",
+      "slug": "r5-c-bluereef",
       "candidates": 0,
       "pages": 3
     },
     {
-      "slug": "r5-outthere",
-      "candidates": 0,
-      "pages": 12
-    },
-    {
-      "slug": "r5-watch-tourism",
-      "candidates": 0,
-      "pages": 7
-    },
-    {
-      "slug": "r5-fps-news",
+      "slug": "r5-c-calypso",
       "candidates": 0,
       "pages": 2
     },
     {
-      "slug": "r5-official-2",
+      "slug": "r5-c-coffs",
       "candidates": 0,
-      "pages": 6
+      "pages": 3
     }
   ]
 }

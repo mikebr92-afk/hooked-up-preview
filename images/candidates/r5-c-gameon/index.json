@@ -1,0 +1,17 @@
+{
+  "slug": "r5-c-gameon",
+  "request_hash": "1bee1e5b4915",
+  "collected_at": "2026-11-08T23:45:55.057Z",
+  "pages_fetched": [
+    "https://gameoncharters.net.au/charter-info/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://gameoncharters.net.au/charter-info/",
+      "status": 200,
+      "final_url": "https://gameoncharters.net.au/charter-info/",
+      "bytes": 163192
+    }
+  ]
+}

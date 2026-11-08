@@ -1,0 +1,24 @@
+{
+  "slug": "r5-c-calypso",
+  "request_hash": "dfc17d90fa78",
+  "collected_at": "2026-11-08T23:45:57.951Z",
+  "pages_fetched": [
+    "https://www.visitnsw.com/things-to-do/tours/calypso-fishing-adventures",
+    "https://www.marlinfishingaustralia.com.au/meet-calypso/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.visitnsw.com/things-to-do/tours/calypso-fishing-adventures",
+      "status": 200,
+      "final_url": "https://www.visitnsw.com/things-to-do/tours/calypso-fishing-adventures",
+      "bytes": 240191
+    },
+    {
+      "page": "https://www.marlinfishingaustralia.com.au/meet-calypso/",
+      "status": 200,
+      "final_url": "https://www.marlinfishingaustralia.com.au/meet-calypso/",
+      "bytes": 148351
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "r5-c-bluereef",
+  "request_hash": "f22b6e852431",
+  "collected_at": "2026-11-08T23:45:56.200Z",
+  "pages_fetched": [
+    "https://www.bluereefcharters.info/pickup-locations.html",
+    "https://www.bluereefcharters.info/fishing-charters.html",
+    "https://www.bluereefcharters.info/reef-fishing-trips.html"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.bluereefcharters.info/pickup-locations.html",
+      "status": 403,
+      "final_url": "https://www.bluereefcharters.info/pickup-locations.html",
+      "bytes": 1037
+    },
+    {
+      "page": "https://www.bluereefcharters.info/fishing-charters.html",
+      "status": 403,
+      "final_url": "https://www.bluereefcharters.info/fishing-charters.html",
+      "bytes": 1037
+    },
+    {
+      "page": "https://www.bluereefcharters.info/reef-fishing-trips.html",
+      "status": 403,
+      "final_url": "https://www.bluereefcharters.info/reef-fishing-trips.html",
+      "bytes": 1037
+    }
+  ]
+}
