@@ -1,0 +1,6 @@
+{
+ "requests": [
+  {"slug": "r5n2-cairns-sportfishing", "pages": ["https://www.cairnssportfishing.com.au/", "https://www.cairnssportfishing.com.au/cairns-reef-experiences.html", "https://cairnssportfishing.com.au/"], "text": true, "max": 0, "follow": true},
+  {"slug": "r5n2-gbrmpa", "pages": ["https://www2.gbrmpa.gov.au/node/289", "https://www.gbrmpa.gov.au/node/289", "https://www2.gbrmpa.gov.au/access/environmental-management-charge", "https://www2.gbrmpa.gov.au/access/zoning/zoning-maps", "https://www2.gbrmpa.gov.au/access/zoning"], "text": true, "max": 0, "follow": false}
+ ]
+}
