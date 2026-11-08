@@ -1,5 +1,5 @@
 {
-  "finished_at": "2026-11-08T23:40:28.321Z",
+  "finished_at": "2026-11-08T23:41:38.016Z",
   "summary": [
     {
       "slug": "r5-miena-guiding-tasmania",
@@ -59,8 +59,12 @@
     },
     {
       "slug": "r5-official-b",
+      "skipped": true
+    },
+    {
+      "slug": "r5-flathead-rules",
       "candidates": 0,
-      "pages": 8
+      "pages": 3
     }
   ]
 }

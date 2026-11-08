@@ -1,0 +1,31 @@
+{
+  "slug": "r5-flathead-rules",
+  "request_hash": "fa03299da446",
+  "collected_at": "2026-11-08T23:41:38.016Z",
+  "pages_fetched": [
+    "https://fishing.tas.gov.au/Pages/New-rules-and-research-to-rebuild-Tasmanias-sand-flathead-fishery0203-4956.aspx",
+    "https://fishing.tas.gov.au/Pages/Flathead---Sand.aspx",
+    "https://fishing.tas.gov.au/Pages/Flathead-for-the-Future.aspx"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://fishing.tas.gov.au/Pages/New-rules-and-research-to-rebuild-Tasmanias-sand-flathead-fishery0203-4956.aspx",
+      "status": 200,
+      "final_url": "https://fishing.tas.gov.au/community/flathead-for-the-future/new-rules-and-research-to-rebuild-tasmanias-sand-flathead-fishery",
+      "bytes": 109878
+    },
+    {
+      "page": "https://fishing.tas.gov.au/Pages/Flathead---Sand.aspx",
+      "status": 200,
+      "final_url": "https://fishing.tas.gov.au/species/flathead-sand",
+      "bytes": 113123
+    },
+    {
+      "page": "https://fishing.tas.gov.au/Pages/Flathead-for-the-Future.aspx",
+      "status": 200,
+      "final_url": "https://fishing.tas.gov.au/community/flathead-for-the-future",
+      "bytes": 96963
+    }
+  ]
+}
