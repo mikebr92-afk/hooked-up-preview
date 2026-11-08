@@ -1,0 +1,73 @@
+{
+  "slug": "r5-miena-guiding-tasmania",
+  "request_hash": "11b2da652186",
+  "collected_at": "2026-11-08T23:35:54.282Z",
+  "pages_fetched": [
+    "https://mienaguidingtasmania.com.au/",
+    "https://mienaguidingtasmania.com.au/about-us/",
+    "https://mienaguidingtasmania.com.au/contact-us/",
+    "https://mienaguidingtasmania.com.au/guided-fly-fishing/",
+    "https://mienaguidingtasmania.com.au/a-taste-of-fly-fishing-tasmanias-lowlands/",
+    "https://mienaguidingtasmania.com.au/fly-fishing-tasmanias-central-highlands/",
+    "https://mienaguidingtasmania.com.au/western-lakes-fly-fishing-safari/",
+    "https://mienaguidingtasmania.com.au/fly-fishing-trips-to-tasmania/",
+    "https://mienaguidingtasmania.com.au/international-fly-fishing-trips/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://mienaguidingtasmania.com.au/",
+      "status": 200,
+      "final_url": "https://mienaguidingtasmania.com.au/",
+      "bytes": 201109
+    },
+    {
+      "page": "https://mienaguidingtasmania.com.au/about-us/",
+      "status": 200,
+      "final_url": "https://mienaguidingtasmania.com.au/about-us/",
+      "bytes": 136157
+    },
+    {
+      "page": "https://mienaguidingtasmania.com.au/contact-us/",
+      "status": 200,
+      "final_url": "https://mienaguidingtasmania.com.au/contact-us/",
+      "bytes": 110932
+    },
+    {
+      "page": "https://mienaguidingtasmania.com.au/guided-fly-fishing/",
+      "status": 200,
+      "final_url": "https://mienaguidingtasmania.com.au/guided-fly-fishing/",
+      "bytes": 137135
+    },
+    {
+      "page": "https://mienaguidingtasmania.com.au/a-taste-of-fly-fishing-tasmanias-lowlands/",
+      "status": 200,
+      "final_url": "https://mienaguidingtasmania.com.au/a-taste-of-fly-fishing-tasmanias-lowlands/",
+      "bytes": 250258
+    },
+    {
+      "page": "https://mienaguidingtasmania.com.au/fly-fishing-tasmanias-central-highlands/",
+      "status": 200,
+      "final_url": "https://mienaguidingtasmania.com.au/fly-fishing-tasmanias-central-highlands/",
+      "bytes": 170381
+    },
+    {
+      "page": "https://mienaguidingtasmania.com.au/western-lakes-fly-fishing-safari/",
+      "status": 200,
+      "final_url": "https://mienaguidingtasmania.com.au/western-lakes-fly-fishing-safari/",
+      "bytes": 252943
+    },
+    {
+      "page": "https://mienaguidingtasmania.com.au/fly-fishing-trips-to-tasmania/",
+      "status": 200,
+      "final_url": "https://mienaguidingtasmania.com.au/fly-fishing-trips-to-tasmania/",
+      "bytes": 245956
+    },
+    {
+      "page": "https://mienaguidingtasmania.com.au/international-fly-fishing-trips/",
+      "status": 200,
+      "final_url": "https://mienaguidingtasmania.com.au/international-fly-fishing-trips/",
+      "bytes": 298140
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "r5-riverfly-1864",
+  "request_hash": "a3d6e3384a3d",
+  "collected_at": "2026-11-08T23:36:20.668Z",
+  "pages_fetched": [
+    "https://riverfly.com.au/",
+    "https://riverfly.com.au/fly-fishing-tasmania/",
+    "https://riverfly.com.au/about/",
+    "https://riverfly.com.au/about/gallery/",
+    "https://riverfly.com.au/about/media-articles/",
+    "https://riverfly.com.au/about/testimonials-all/",
+    "https://riverfly.com.au/about/newsletter/",
+    "https://riverfly.com.au/contact/",
+    "https://riverfly.com.au/about/terms/",
+    "https://riverfly.com.au/fly-fishing/one-day/",
+    "https://riverfly.com.au/fly-fishing/three-day/",
+    "https://riverfly.com.au/fly-fishing-tasmania/three-day-huts/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://riverfly.com.au/",
+      "status": 200,
+      "final_url": "https://riverfly.com.au/",
+      "bytes": 70167
+    },
+    {
+      "page": "https://riverfly.com.au/fly-fishing-tasmania/",
+      "status": 200,
+      "final_url": "https://riverfly.com.au/fly-fishing-tasmania/",
+      "bytes": 82260
+    },
+    {
+      "page": "https://riverfly.com.au/about/",
+      "status": 200,
+      "final_url": "https://riverfly.com.au/about/",
+      "bytes": 84245
+    },
+    {
+      "page": "https://riverfly.com.au/about/gallery/",
+      "status": 200,
+      "final_url": "https://riverfly.com.au/about/gallery/",
+      "bytes": 99579
+    },
+    {
+      "page": "https://riverfly.com.au/about/media-articles/",
+      "status": 200,
+      "final_url": "https://riverfly.com.au/about/media-articles/",
+      "bytes": 76543
+    },
+    {
+      "page": "https://riverfly.com.au/about/testimonials-all/",
+      "status": 200,
+      "final_url": "https://riverfly.com.au/about/testimonials-all/",
+      "bytes": 98099
+    },
+    {
+      "page": "https://riverfly.com.au/about/newsletter/",
+      "status": 200,
+      "final_url": "https://riverfly.com.au/about/newsletter/",
+      "bytes": 68638
+    },
+    {
+      "page": "https://riverfly.com.au/contact/",
+      "status": 200,
+      "final_url": "https://riverfly.com.au/contact/",
+      "bytes": 87371
+    },
+    {
+      "page": "https://riverfly.com.au/about/terms/",
+      "status": 200,
+      "final_url": "https://riverfly.com.au/about/terms/",
+      "bytes": 65708
+    },
+    {
+      "page": "https://riverfly.com.au/fly-fishing/one-day/",
+      "status": 200,
+      "final_url": "https://riverfly.com.au/fly-fishing-tasmania/one-day/",
+      "bytes": 101822
+    },
+    {
+      "page": "https://riverfly.com.au/fly-fishing/three-day/",
+      "status": 200,
+      "final_url": "https://riverfly.com.au/fly-fishing-tasmania/three-day/",
+      "bytes": 101637
+    },
+    {
+      "page": "https://riverfly.com.au/fly-fishing-tasmania/three-day-huts/",
+      "status": 200,
+      "final_url": "https://riverfly.com.au/fly-fishing-tasmania/three-day-huts/",
+      "bytes": 108168
+    }
+  ]
+}

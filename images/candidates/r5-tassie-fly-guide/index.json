@@ -1,0 +1,45 @@
+{
+  "slug": "r5-tassie-fly-guide",
+  "request_hash": "1bf1a4d53586",
+  "collected_at": "2026-11-08T23:36:04.370Z",
+  "pages_fetched": [
+    "https://tassieflyguide.com.au/",
+    "https://tassieflyguide.com.au/guiding",
+    "https://tassieflyguide.com.au/blog",
+    "https://tassieflyguide.com.au/about",
+    "https://tassieflyguide.com.au/bookings"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://tassieflyguide.com.au/",
+      "status": 200,
+      "final_url": "https://tassieflyguide.com.au/",
+      "bytes": 138679
+    },
+    {
+      "page": "https://tassieflyguide.com.au/guiding",
+      "status": 200,
+      "final_url": "https://tassieflyguide.com.au/guiding",
+      "bytes": 125615
+    },
+    {
+      "page": "https://tassieflyguide.com.au/blog",
+      "status": 200,
+      "final_url": "https://tassieflyguide.com.au/blog",
+      "bytes": 473815
+    },
+    {
+      "page": "https://tassieflyguide.com.au/about",
+      "status": 200,
+      "final_url": "https://tassieflyguide.com.au/about",
+      "bytes": 107232
+    },
+    {
+      "page": "https://tassieflyguide.com.au/bookings",
+      "status": 200,
+      "final_url": "https://tassieflyguide.com.au/bookings",
+      "bytes": 121450
+    }
+  ]
+}

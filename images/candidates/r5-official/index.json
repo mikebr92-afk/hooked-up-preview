@@ -1,0 +1,66 @@
+{
+  "slug": "r5-official",
+  "request_hash": "380b37b77561",
+  "collected_at": "2026-11-08T23:36:40.610Z",
+  "pages_fetched": [
+    "https://www.ifs.tas.gov.au/the-rules/season-dates-and-times",
+    "https://www.ifs.tas.gov.au/the-rules/angling-licence",
+    "https://fishing.tas.gov.au/recreational-fishing/rules/recreational-fishing-seasons",
+    "https://fishing.tas.gov.au/recreational-fishing/recreational-sea-fishing-licences",
+    "https://fishing.tas.gov.au/commercial-fishing/commercial-fishing-licences/charter-and-seafood-tourism",
+    "https://fishing.tas.gov.au/recreational-fishing/fishing-tips/hot-fishing-spots/fishing-around-st-helens",
+    "https://fishing.tas.gov.au/recreational-fishing/fishing-tips/hot-fishing-spots/fishing-around-the-tasman-peninsula-region",
+    "https://www.discovertasmania.com.au/things-to-do/outdoor-and-adventure/fishing-and-fly-fishing/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.ifs.tas.gov.au/the-rules/season-dates-and-times",
+      "status": 200,
+      "final_url": "https://www.ifs.tas.gov.au/the-rules/season-dates-and-times",
+      "bytes": 42514
+    },
+    {
+      "page": "https://www.ifs.tas.gov.au/the-rules/angling-licence",
+      "status": 200,
+      "final_url": "https://www.ifs.tas.gov.au/the-rules/angling-licence",
+      "bytes": 51369
+    },
+    {
+      "page": "https://fishing.tas.gov.au/recreational-fishing/rules/recreational-fishing-seasons",
+      "status": 200,
+      "final_url": "https://fishing.tas.gov.au/recreational-fishing/rules/recreational-fishing-seasons",
+      "bytes": 88391
+    },
+    {
+      "page": "https://fishing.tas.gov.au/recreational-fishing/recreational-sea-fishing-licences",
+      "status": 200,
+      "final_url": "https://fishing.tas.gov.au/recreational-fishing/recreational-sea-fishing-licences",
+      "bytes": 92491
+    },
+    {
+      "page": "https://fishing.tas.gov.au/commercial-fishing/commercial-fishing-licences/charter-and-seafood-tourism",
+      "status": 200,
+      "final_url": "https://fishing.tas.gov.au/commercial-fishing/commercial-fishing-licences/charter-and-seafood-tourism",
+      "bytes": 90093
+    },
+    {
+      "page": "https://fishing.tas.gov.au/recreational-fishing/fishing-tips/hot-fishing-spots/fishing-around-st-helens",
+      "status": 200,
+      "final_url": "https://fishing.tas.gov.au/recreational-fishing/fishing-tips/hot-fishing-spots/fishing-around-st-helens",
+      "bytes": 87056
+    },
+    {
+      "page": "https://fishing.tas.gov.au/recreational-fishing/fishing-tips/hot-fishing-spots/fishing-around-the-tasman-peninsula-region",
+      "status": 200,
+      "final_url": "https://fishing.tas.gov.au/recreational-fishing/fishing-tips/hot-fishing-spots/fishing-around-the-tasman-peninsula-region",
+      "bytes": 87404
+    },
+    {
+      "page": "https://www.discovertasmania.com.au/things-to-do/outdoor-and-adventure/fishing-and-fly-fishing/",
+      "status": 200,
+      "final_url": "https://www.discovertasmania.com.au/things-to-do/outdoor-and-adventure/fishing-and-fly-fishing/",
+      "bytes": 293499
+    }
+  ]
+}

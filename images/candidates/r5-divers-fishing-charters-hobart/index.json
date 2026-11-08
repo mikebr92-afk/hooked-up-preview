@@ -1,0 +1,80 @@
+{
+  "slug": "r5-divers-fishing-charters-hobart",
+  "request_hash": "4fcb856b2b3f",
+  "collected_at": "2026-11-08T23:36:02.685Z",
+  "pages_fetched": [
+    "https://www.tasyachttrip.com.au/",
+    "https://www.tasyachttrip.com.au/faq",
+    "https://www.tasyachttrip.com.au/products",
+    "https://www.tasyachttrip.com.au/half-day-fishing-charter-hobart",
+    "https://www.tasyachttrip.com.au/private-boat-charter-hobart",
+    "https://www.tasyachttrip.com.au/hobart-fishing-cruise",
+    "https://www.tasyachttrip.com.au/about",
+    "https://www.tasyachttrip.com.au/gallery",
+    "https://www.tasyachttrip.com.au/news",
+    "https://www.tasyachttrip.com.au/contact"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.tasyachttrip.com.au/",
+      "status": 200,
+      "final_url": "https://www.tasyachttrip.com.au/",
+      "bytes": 41589
+    },
+    {
+      "page": "https://www.tasyachttrip.com.au/faq",
+      "status": 200,
+      "final_url": "https://www.tasyachttrip.com.au/faq",
+      "bytes": 53653
+    },
+    {
+      "page": "https://www.tasyachttrip.com.au/products",
+      "status": 200,
+      "final_url": "https://www.tasyachttrip.com.au/products",
+      "bytes": 34779
+    },
+    {
+      "page": "https://www.tasyachttrip.com.au/half-day-fishing-charter-hobart",
+      "status": 200,
+      "final_url": "https://www.tasyachttrip.com.au/half-day-fishing-charter-hobart",
+      "bytes": 42790
+    },
+    {
+      "page": "https://www.tasyachttrip.com.au/private-boat-charter-hobart",
+      "status": 200,
+      "final_url": "https://www.tasyachttrip.com.au/private-boat-charter-hobart",
+      "bytes": 40087
+    },
+    {
+      "page": "https://www.tasyachttrip.com.au/hobart-fishing-cruise",
+      "status": 200,
+      "final_url": "https://www.tasyachttrip.com.au/hobart-fishing-cruise",
+      "bytes": 41319
+    },
+    {
+      "page": "https://www.tasyachttrip.com.au/about",
+      "status": 200,
+      "final_url": "https://www.tasyachttrip.com.au/about",
+      "bytes": 32372
+    },
+    {
+      "page": "https://www.tasyachttrip.com.au/gallery",
+      "status": 200,
+      "final_url": "https://www.tasyachttrip.com.au/gallery",
+      "bytes": 36182
+    },
+    {
+      "page": "https://www.tasyachttrip.com.au/news",
+      "status": 200,
+      "final_url": "https://www.tasyachttrip.com.au/news",
+      "bytes": 30760
+    },
+    {
+      "page": "https://www.tasyachttrip.com.au/contact",
+      "status": 200,
+      "final_url": "https://www.tasyachttrip.com.au/contact",
+      "bytes": 30012
+    }
+  ]
+}

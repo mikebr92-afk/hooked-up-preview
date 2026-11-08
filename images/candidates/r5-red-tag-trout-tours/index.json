@@ -1,0 +1,87 @@
+{
+  "slug": "r5-red-tag-trout-tours",
+  "request_hash": "50b39eb2aa3a",
+  "collected_at": "2026-11-08T23:36:31.179Z",
+  "pages_fetched": [
+    "https://www.redtagtrout.com/",
+    "https://www.redtagtrout.com/about/",
+    "https://www.redtagtrout.com/%e2%80%a2-bookings-calendar/",
+    "https://www.redtagtrout.com/contact/",
+    "https://www.redtagtrout.com/2017/better-weather-better-fishing/imgp0050/",
+    "https://www.redtagtrout.com/2017/better-weather-better-fishing/imgp0055/",
+    "https://www.redtagtrout.com/2026/season-ending/?share=facebook",
+    "https://www.redtagtrout.com/category/fishing-tales/first-timers/",
+    "https://www.redtagtrout.com/category/fishing-tales/old-hands/",
+    "https://www.redtagtrout.com/2026/the-big-catch-up/?share=facebook",
+    "https://www.redtagtrout.com/2026/tassie-challenge/?share=facebook"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.redtagtrout.com/",
+      "status": 200,
+      "final_url": "https://www.redtagtrout.com/",
+      "bytes": 170471
+    },
+    {
+      "page": "https://www.redtagtrout.com/about/",
+      "status": 200,
+      "final_url": "https://www.redtagtrout.com/about/",
+      "bytes": 89869
+    },
+    {
+      "page": "https://www.redtagtrout.com/%e2%80%a2-bookings-calendar/",
+      "status": 200,
+      "final_url": "https://www.redtagtrout.com/%e2%80%a2-bookings-calendar/",
+      "bytes": 95078
+    },
+    {
+      "page": "https://www.redtagtrout.com/contact/",
+      "status": 200,
+      "final_url": "https://www.redtagtrout.com/contact/",
+      "bytes": 106855
+    },
+    {
+      "page": "https://www.redtagtrout.com/2017/better-weather-better-fishing/imgp0050/",
+      "status": 200,
+      "final_url": "https://www.redtagtrout.com/2017/better-weather-better-fishing/imgp0050/",
+      "bytes": 87949
+    },
+    {
+      "page": "https://www.redtagtrout.com/2017/better-weather-better-fishing/imgp0055/",
+      "status": 200,
+      "final_url": "https://www.redtagtrout.com/2017/better-weather-better-fishing/imgp0055/",
+      "bytes": 87949
+    },
+    {
+      "page": "https://www.redtagtrout.com/2026/season-ending/?share=facebook",
+      "status": 400,
+      "final_url": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.redtagtrout.com%2F2026%2Fseason-ending%2F&t=Season%20ending",
+      "bytes": 1542
+    },
+    {
+      "page": "https://www.redtagtrout.com/category/fishing-tales/first-timers/",
+      "status": 200,
+      "final_url": "https://www.redtagtrout.com/category/fishing-tales/first-timers/",
+      "bytes": 108997
+    },
+    {
+      "page": "https://www.redtagtrout.com/category/fishing-tales/old-hands/",
+      "status": 200,
+      "final_url": "https://www.redtagtrout.com/category/fishing-tales/old-hands/",
+      "bytes": 108005
+    },
+    {
+      "page": "https://www.redtagtrout.com/2026/the-big-catch-up/?share=facebook",
+      "status": 400,
+      "final_url": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.redtagtrout.com%2F2026%2Fthe-big-catch-up%2F&t=The%20big%20catch%20up%20%E2%80%A6",
+      "bytes": 1542
+    },
+    {
+      "page": "https://www.redtagtrout.com/2026/tassie-challenge/?share=facebook",
+      "status": 400,
+      "final_url": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.redtagtrout.com%2F2026%2Ftassie-challenge%2F&t=Tassie%20Challenge",
+      "bytes": 1542
+    }
+  ]
+}

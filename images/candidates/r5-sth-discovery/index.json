@@ -1,0 +1,36 @@
+{
+  "slug": "r5-sth-discovery",
+  "request_hash": "95fd0ac2ffaa",
+  "collected_at": "2026-11-08T23:36:45.785Z",
+  "pages_fetched": [
+    "https://eastcoasttasmania.com/to-do/adventure/itinerary/fishing/",
+    "https://www.discovertasmania.com.au/things-to-do/tours/keenanglercharters/",
+    "https://www.troutguidestasmania.com.au/guide/",
+    "http://www.breamfishing.com.au/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://eastcoasttasmania.com/to-do/adventure/itinerary/fishing/",
+      "status": 200,
+      "final_url": "https://eastcoasttasmania.com/to-do/adventure/itinerary/fishing/",
+      "bytes": 92638
+    },
+    {
+      "page": "https://www.discovertasmania.com.au/things-to-do/tours/keenanglercharters/",
+      "status": 200,
+      "final_url": "https://www.discovertasmania.com.au/things-to-do/tours/keenanglercharters/",
+      "bytes": 313498
+    },
+    {
+      "page": "https://www.troutguidestasmania.com.au/guide/",
+      "status": 200,
+      "final_url": "https://www.troutguidestasmania.com.au/guide/",
+      "bytes": 168660
+    },
+    {
+      "page": "http://www.breamfishing.com.au/",
+      "error": "fetch failed"
+    }
+  ]
+}

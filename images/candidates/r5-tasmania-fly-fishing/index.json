@@ -1,0 +1,80 @@
+{
+  "slug": "r5-tasmania-fly-fishing",
+  "request_hash": "005772eb3ea6",
+  "collected_at": "2026-11-08T23:36:25.693Z",
+  "pages_fetched": [
+    "https://tasmaniaflyfishing.com.au/",
+    "https://tasmaniaflyfishing.com.au/tasmania-fly-fishing-charters-rates-tours/",
+    "https://tasmaniaflyfishing.com.au/fly-fishing-for-beginners-in-tasmania/",
+    "https://tasmaniaflyfishing.com.au/things-to-do-in-launceston/",
+    "https://tasmaniaflyfishing.com.au/places-to-stay-fly-fishing-tasmania/",
+    "https://tasmaniaflyfishing.com.au/trout-flies-tasmania-fly-fishing/",
+    "https://tasmaniaflyfishing.com.au/tasmania-fly-fishing-gear-and-merchandise/",
+    "https://tasmaniaflyfishing.com.au/tasmaniaflyfishing-com-au-tasmania-fly-fishing-guides/",
+    "https://tasmaniaflyfishing.com.au/fly-fishing-resources-tasmania/",
+    "https://tasmaniaflyfishing.com.au/history-of-fly-fishing-in-tasmania/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://tasmaniaflyfishing.com.au/",
+      "status": 200,
+      "final_url": "https://tasmaniaflyfishing.com.au/",
+      "bytes": 121782
+    },
+    {
+      "page": "https://tasmaniaflyfishing.com.au/tasmania-fly-fishing-charters-rates-tours/",
+      "status": 200,
+      "final_url": "https://tasmaniaflyfishing.com.au/tasmania-fly-fishing-charters-rates-tours/",
+      "bytes": 72339
+    },
+    {
+      "page": "https://tasmaniaflyfishing.com.au/fly-fishing-for-beginners-in-tasmania/",
+      "status": 200,
+      "final_url": "https://tasmaniaflyfishing.com.au/fly-fishing-for-beginners-in-tasmania/",
+      "bytes": 93310
+    },
+    {
+      "page": "https://tasmaniaflyfishing.com.au/things-to-do-in-launceston/",
+      "status": 200,
+      "final_url": "https://tasmaniaflyfishing.com.au/things-to-do-in-launceston/",
+      "bytes": 73218
+    },
+    {
+      "page": "https://tasmaniaflyfishing.com.au/places-to-stay-fly-fishing-tasmania/",
+      "status": 200,
+      "final_url": "https://tasmaniaflyfishing.com.au/places-to-stay-fly-fishing-tasmania/",
+      "bytes": 152649
+    },
+    {
+      "page": "https://tasmaniaflyfishing.com.au/trout-flies-tasmania-fly-fishing/",
+      "status": 200,
+      "final_url": "https://tasmaniaflyfishing.com.au/trout-flies-tasmania-fly-fishing/",
+      "bytes": 60941
+    },
+    {
+      "page": "https://tasmaniaflyfishing.com.au/tasmania-fly-fishing-gear-and-merchandise/",
+      "status": 200,
+      "final_url": "https://tasmaniaflyfishing.com.au/tasmania-fly-fishing-gear-and-merchandise/",
+      "bytes": 82136
+    },
+    {
+      "page": "https://tasmaniaflyfishing.com.au/tasmaniaflyfishing-com-au-tasmania-fly-fishing-guides/",
+      "status": 200,
+      "final_url": "https://tasmaniaflyfishing.com.au/tasmaniaflyfishing-com-au-tasmania-fly-fishing-guides/",
+      "bytes": 94399
+    },
+    {
+      "page": "https://tasmaniaflyfishing.com.au/fly-fishing-resources-tasmania/",
+      "status": 200,
+      "final_url": "https://tasmaniaflyfishing.com.au/fly-fishing-resources-tasmania/",
+      "bytes": 69786
+    },
+    {
+      "page": "https://tasmaniaflyfishing.com.au/history-of-fly-fishing-in-tasmania/",
+      "status": 200,
+      "final_url": "https://tasmaniaflyfishing.com.au/history-of-fly-fishing-in-tasmania/",
+      "bytes": 68263
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "r5-mr-flathead",
+  "request_hash": "9589e3a6adf5",
+  "collected_at": "2026-11-08T23:36:26.146Z",
+  "pages_fetched": [
+    "https://www.mrflathead.com.au/",
+    "https://www.mrflathead.com.au/tasmania-fishing-charter-tour",
+    "https://www.mrflathead.com.au/contact-charters-hobart",
+    "https://www.mrflathead.com.au/fishing-in-tasmania",
+    "https://www.mrflathead.com.au/experience-fishing-tasmania"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.mrflathead.com.au/",
+      "status": 200,
+      "final_url": "https://www.mrflathead.com.au/",
+      "bytes": 372469
+    },
+    {
+      "page": "https://www.mrflathead.com.au/tasmania-fishing-charter-tour",
+      "status": 200,
+      "final_url": "https://www.mrflathead.com.au/tasmania-fishing-charter-tour",
+      "bytes": 367100
+    },
+    {
+      "page": "https://www.mrflathead.com.au/contact-charters-hobart",
+      "status": 200,
+      "final_url": "https://www.mrflathead.com.au/contact-charters-hobart",
+      "bytes": 385138
+    },
+    {
+      "page": "https://www.mrflathead.com.au/fishing-in-tasmania",
+      "status": 200,
+      "final_url": "https://www.mrflathead.com.au/fishing-in-tasmania",
+      "bytes": 371803
+    },
+    {
+      "page": "https://www.mrflathead.com.au/experience-fishing-tasmania",
+      "status": 200,
+      "final_url": "https://www.mrflathead.com.au/experience-fishing-tasmania",
+      "bytes": 355836
+    }
+  ]
+}
