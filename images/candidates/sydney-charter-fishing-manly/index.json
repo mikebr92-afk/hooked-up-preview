@@ -1,0 +1,80 @@
+{
+  "slug": "sydney-charter-fishing-manly",
+  "request_hash": "67807f66e22c",
+  "collected_at": "2026-11-08T23:38:34.774Z",
+  "pages_fetched": [
+    "https://sydneycharterfishing.com.au/",
+    "https://sydneycharterfishing.com.au/charters",
+    "https://sydneycharterfishing.com.au/about",
+    "https://sydneycharterfishing.com.au/gallery",
+    "https://sydneycharterfishing.com.au/boat-info",
+    "https://sydneycharterfishing.com.au/pickup-locations",
+    "https://sydneycharterfishing.com.au/contact-us",
+    "https://sydneycharterfishing.com.au/author/scfenochadmin/",
+    "https://sydneycharterfishing.com.au/contact-us/",
+    "https://sydneycharterfishing.com.au/sports-fishing-trips/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://sydneycharterfishing.com.au/",
+      "status": 200,
+      "final_url": "https://sydneycharterfishing.com.au/",
+      "bytes": 203812
+    },
+    {
+      "page": "https://sydneycharterfishing.com.au/charters",
+      "status": 200,
+      "final_url": "https://sydneycharterfishing.com.au/charters/",
+      "bytes": 143183
+    },
+    {
+      "page": "https://sydneycharterfishing.com.au/about",
+      "status": 200,
+      "final_url": "https://sydneycharterfishing.com.au/about/",
+      "bytes": 123849
+    },
+    {
+      "page": "https://sydneycharterfishing.com.au/gallery",
+      "status": 200,
+      "final_url": "https://sydneycharterfishing.com.au/gallery/",
+      "bytes": 137330
+    },
+    {
+      "page": "https://sydneycharterfishing.com.au/boat-info",
+      "status": 200,
+      "final_url": "https://sydneycharterfishing.com.au/boat-info/",
+      "bytes": 122091
+    },
+    {
+      "page": "https://sydneycharterfishing.com.au/pickup-locations",
+      "status": 200,
+      "final_url": "https://sydneycharterfishing.com.au/pickup-locations/",
+      "bytes": 144761
+    },
+    {
+      "page": "https://sydneycharterfishing.com.au/contact-us",
+      "status": 200,
+      "final_url": "https://sydneycharterfishing.com.au/contact-us/",
+      "bytes": 128640
+    },
+    {
+      "page": "https://sydneycharterfishing.com.au/author/scfenochadmin/",
+      "status": 200,
+      "final_url": "https://sydneycharterfishing.com.au/author/scfenochadmin/",
+      "bytes": 89493
+    },
+    {
+      "page": "https://sydneycharterfishing.com.au/contact-us/",
+      "status": 200,
+      "final_url": "https://sydneycharterfishing.com.au/contact-us/",
+      "bytes": 128640
+    },
+    {
+      "page": "https://sydneycharterfishing.com.au/sports-fishing-trips/",
+      "status": 200,
+      "final_url": "https://sydneycharterfishing.com.au/charters/sports-fishing-trips/",
+      "bytes": 105622
+    }
+  ]
+}

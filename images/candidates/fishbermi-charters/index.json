@@ -1,0 +1,52 @@
+{
+  "slug": "fishbermi-charters",
+  "request_hash": "46a2112f7207",
+  "collected_at": "2026-11-08T23:35:35.347Z",
+  "pages_fetched": [
+    "https://www.fishbermicharters.com.au/",
+    "https://www.fishbermicharters.com.au/fishing-charters/",
+    "https://www.fishbermicharters.com.au/exclusive-charters/",
+    "https://www.fishbermicharters.com.au/gallery-2/",
+    "https://www.fishbermicharters.com.au/contact/",
+    "https://www.fishbermicharters.com.au/privacy-policy/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.fishbermicharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.fishbermicharters.com.au/",
+      "bytes": 71985
+    },
+    {
+      "page": "https://www.fishbermicharters.com.au/fishing-charters/",
+      "status": 200,
+      "final_url": "https://www.fishbermicharters.com.au/fishing-charters/",
+      "bytes": 63388
+    },
+    {
+      "page": "https://www.fishbermicharters.com.au/exclusive-charters/",
+      "status": 200,
+      "final_url": "https://www.fishbermicharters.com.au/exclusive-charters/",
+      "bytes": 63144
+    },
+    {
+      "page": "https://www.fishbermicharters.com.au/gallery-2/",
+      "status": 200,
+      "final_url": "https://www.fishbermicharters.com.au/gallery-2/",
+      "bytes": 91857
+    },
+    {
+      "page": "https://www.fishbermicharters.com.au/contact/",
+      "status": 200,
+      "final_url": "https://www.fishbermicharters.com.au/contact/",
+      "bytes": 67093
+    },
+    {
+      "page": "https://www.fishbermicharters.com.au/privacy-policy/",
+      "status": 200,
+      "final_url": "https://www.fishbermicharters.com.au/privacy-policy/",
+      "bytes": 67162
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "slug": "terrigal-fishing-tours",
+  "request_hash": "0725601df1bf",
+  "collected_at": "2026-11-08T23:35:52.098Z",
+  "pages_fetched": [
+    "https://terrigalfishingtours.com.au/",
+    "https://terrigalfishingtours.com.au/fishing-charters-sydney/",
+    "https://terrigalfishingtours.com.au/hardys-bay-charters/",
+    "https://terrigalfishingtours.com.au/lunch-cruises-corporate-charters-central-coast/",
+    "https://terrigalfishingtours.com.au/fishing-charter-tour-information/",
+    "https://terrigalfishingtours.com.au/fishing-charter-gift-vouchers/",
+    "https://terrigalfishingtours.com.au/contact/",
+    "https://terrigalfishingtours.com.au/about/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://terrigalfishingtours.com.au/",
+      "status": 200,
+      "final_url": "https://terrigalfishingtours.com.au/",
+      "bytes": 185865
+    },
+    {
+      "page": "https://terrigalfishingtours.com.au/fishing-charters-sydney/",
+      "status": 200,
+      "final_url": "https://terrigalfishingtours.com.au/fishing-charters-sydney/",
+      "bytes": 179509
+    },
+    {
+      "page": "https://terrigalfishingtours.com.au/hardys-bay-charters/",
+      "status": 200,
+      "final_url": "https://terrigalfishingtours.com.au/hardys-bay-charters/",
+      "bytes": 186677
+    },
+    {
+      "page": "https://terrigalfishingtours.com.au/lunch-cruises-corporate-charters-central-coast/",
+      "status": 200,
+      "final_url": "https://terrigalfishingtours.com.au/lunch-cruises-corporate-charters-central-coast/",
+      "bytes": 178207
+    },
+    {
+      "page": "https://terrigalfishingtours.com.au/fishing-charter-tour-information/",
+      "status": 200,
+      "final_url": "https://terrigalfishingtours.com.au/fishing-charter-tour-information/",
+      "bytes": 198282
+    },
+    {
+      "page": "https://terrigalfishingtours.com.au/fishing-charter-gift-vouchers/",
+      "status": 200,
+      "final_url": "https://terrigalfishingtours.com.au/fishing-charter-gift-vouchers/",
+      "bytes": 178689
+    },
+    {
+      "page": "https://terrigalfishingtours.com.au/contact/",
+      "status": 200,
+      "final_url": "https://terrigalfishingtours.com.au/contact/",
+      "bytes": 165113
+    },
+    {
+      "page": "https://terrigalfishingtours.com.au/about/",
+      "status": 200,
+      "final_url": "https://terrigalfishingtours.com.au/about/",
+      "bytes": 188671
+    }
+  ]
+}

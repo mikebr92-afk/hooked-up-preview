@@ -1,0 +1,94 @@
+{
+  "slug": "r5-official-lhi",
+  "request_hash": "7a5e0cbeb5ff",
+  "collected_at": "2026-11-08T23:40:25.784Z",
+  "pages_fetched": [
+    "https://www.lhib.nsw.gov.au/",
+    "https://www.lordhoweisland.info/experiences/fishing/",
+    "https://www.lhib.nsw.gov.au/about",
+    "https://www.lhib.nsw.gov.au/about/mission-statement",
+    "https://www.lhib.nsw.gov.au/about/board-structure",
+    "https://www.lhib.nsw.gov.au/about/board-meetings",
+    "https://www.lhib.nsw.gov.au/about/board-meetings/agendas-and-business-papers",
+    "https://www.lhib.nsw.gov.au/about/board-meetings/minutes",
+    "https://www.lhib.nsw.gov.au/about/board-members",
+    "https://www.lhib.nsw.gov.au/about/employment",
+    "https://www.lhib.nsw.gov.au/about/community-engagement",
+    "https://www.lhib.nsw.gov.au/about/community-engagement/community-environment-advisory-committee-ceac"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.lhib.nsw.gov.au/",
+      "status": 200,
+      "final_url": "https://www.lhib.nsw.gov.au/",
+      "bytes": 119411
+    },
+    {
+      "page": "https://www.lordhoweisland.info/experiences/fishing/",
+      "status": 200,
+      "final_url": "https://lordhoweisland.info/experiences/fishing/",
+      "bytes": 129757
+    },
+    {
+      "page": "https://www.lhib.nsw.gov.au/about",
+      "status": 200,
+      "final_url": "https://www.lhib.nsw.gov.au/about",
+      "bytes": 142632
+    },
+    {
+      "page": "https://www.lhib.nsw.gov.au/about/mission-statement",
+      "status": 200,
+      "final_url": "https://www.lhib.nsw.gov.au/about/mission-statement",
+      "bytes": 109825
+    },
+    {
+      "page": "https://www.lhib.nsw.gov.au/about/board-structure",
+      "status": 200,
+      "final_url": "https://www.lhib.nsw.gov.au/about/board-structure",
+      "bytes": 109420
+    },
+    {
+      "page": "https://www.lhib.nsw.gov.au/about/board-meetings",
+      "status": 200,
+      "final_url": "https://www.lhib.nsw.gov.au/about/board-meetings",
+      "bytes": 121469
+    },
+    {
+      "page": "https://www.lhib.nsw.gov.au/about/board-meetings/agendas-and-business-papers",
+      "status": 200,
+      "final_url": "https://www.lhib.nsw.gov.au/about/board-meetings/agendas-and-business-papers",
+      "bytes": 184458
+    },
+    {
+      "page": "https://www.lhib.nsw.gov.au/about/board-meetings/minutes",
+      "status": 200,
+      "final_url": "https://www.lhib.nsw.gov.au/about/board-meetings/minutes",
+      "bytes": 190347
+    },
+    {
+      "page": "https://www.lhib.nsw.gov.au/about/board-members",
+      "status": 200,
+      "final_url": "https://www.lhib.nsw.gov.au/about/board-members",
+      "bytes": 128013
+    },
+    {
+      "page": "https://www.lhib.nsw.gov.au/about/employment",
+      "status": 200,
+      "final_url": "https://www.lhib.nsw.gov.au/about/employment",
+      "bytes": 109599
+    },
+    {
+      "page": "https://www.lhib.nsw.gov.au/about/community-engagement",
+      "status": 200,
+      "final_url": "https://www.lhib.nsw.gov.au/about/community-engagement",
+      "bytes": 112703
+    },
+    {
+      "page": "https://www.lhib.nsw.gov.au/about/community-engagement/community-environment-advisory-committee-ceac",
+      "status": 200,
+      "final_url": "https://www.lhib.nsw.gov.au/about/community-engagement/community-environment-advisory-committee-ceac",
+      "bytes": 112140
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "r5-official-dpi",
+  "request_hash": "2a1706688060",
+  "collected_at": "2026-11-08T23:40:12.811Z",
+  "pages_fetched": [
+    "https://www.dpi.nsw.gov.au/fishing/recreational/fishing-fee",
+    "https://www.dpi.nsw.gov.au/fishing/marine-protected-areas/marine-parks",
+    "https://www.dpi.nsw.gov.au/fishing/recreational/fishing-rules-and-regs"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.dpi.nsw.gov.au/fishing/recreational/fishing-fee",
+      "status": 403,
+      "final_url": "https://www.dpi.nsw.gov.au/fishing/recreational/fishing-fee",
+      "bytes": 5899
+    },
+    {
+      "page": "https://www.dpi.nsw.gov.au/fishing/marine-protected-areas/marine-parks",
+      "status": 403,
+      "final_url": "https://www.dpi.nsw.gov.au/fishing/marine-protected-areas/marine-parks",
+      "bytes": 5953
+    },
+    {
+      "page": "https://www.dpi.nsw.gov.au/fishing/recreational/fishing-rules-and-regs",
+      "status": 403,
+      "final_url": "https://www.dpi.nsw.gov.au/fishing/recreational/fishing-rules-and-regs",
+      "bytes": 5953
+    }
+  ]
+}

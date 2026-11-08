@@ -1,0 +1,59 @@
+{
+  "slug": "r5-fps-tourism",
+  "request_hash": "d3e1c88a0291",
+  "collected_at": "2026-11-08T23:40:02.489Z",
+  "pages_fetched": [
+    "https://www.portstephens.com.au/products/fish-port-stephens-estuary-charters",
+    "https://www.portstephens.com.au/things-to-do/tours/fishing-charters",
+    "https://www.portstephens.com.au/peninsula/one-mile-boat-harbour",
+    "https://www.portstephens.com.au/eco-tourism",
+    "https://www.portstephens.com.au/tours",
+    "https://www.portstephens.com.au/about",
+    "https://www.portstephens.com.au/contact"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.portstephens.com.au/products/fish-port-stephens-estuary-charters",
+      "status": 200,
+      "final_url": "https://www.portstephens.com.au/products/fish-port-stephens-estuary-charters",
+      "bytes": 242678
+    },
+    {
+      "page": "https://www.portstephens.com.au/things-to-do/tours/fishing-charters",
+      "status": 404,
+      "final_url": "https://www.portstephens.com.au/things-to-do/tours/fishing-charters",
+      "bytes": 322904
+    },
+    {
+      "page": "https://www.portstephens.com.au/peninsula/one-mile-boat-harbour",
+      "status": 200,
+      "final_url": "https://www.portstephens.com.au/peninsula/one-mile-boat-harbour",
+      "bytes": 287760
+    },
+    {
+      "page": "https://www.portstephens.com.au/eco-tourism",
+      "status": 200,
+      "final_url": "https://www.portstephens.com.au/eco-tourism",
+      "bytes": 245361
+    },
+    {
+      "page": "https://www.portstephens.com.au/tours",
+      "status": 200,
+      "final_url": "https://www.portstephens.com.au/tours",
+      "bytes": 268337
+    },
+    {
+      "page": "https://www.portstephens.com.au/about",
+      "status": 200,
+      "final_url": "https://www.portstephens.com.au/about",
+      "bytes": 250405
+    },
+    {
+      "page": "https://www.portstephens.com.au/contact",
+      "status": 200,
+      "final_url": "https://www.portstephens.com.au/contact",
+      "bytes": 217870
+    }
+  ]
+}

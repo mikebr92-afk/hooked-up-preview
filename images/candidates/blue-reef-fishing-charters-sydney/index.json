@@ -1,0 +1,17 @@
+{
+  "slug": "blue-reef-fishing-charters-sydney",
+  "request_hash": "02fed1eb6c6b",
+  "collected_at": "2026-11-08T23:37:40.819Z",
+  "pages_fetched": [
+    "https://www.bluereefcharters.info/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.bluereefcharters.info/",
+      "status": 403,
+      "final_url": "https://www.bluereefcharters.info/",
+      "bytes": 1037
+    }
+  ]
+}

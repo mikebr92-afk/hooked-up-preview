@@ -1,0 +1,80 @@
+{
+  "slug": "aquilla-fishing-charters-wollongong",
+  "request_hash": "7b80bd18f742",
+  "collected_at": "2026-11-08T23:39:02.164Z",
+  "pages_fetched": [
+    "https://www.aquillacharters.com.au/",
+    "https://www.aquillacharters.com.au/search",
+    "https://www.aquillacharters.com.au/private-cruises",
+    "https://www.aquillacharters.com.au/gift-vouchers",
+    "https://www.aquillacharters.com.au/per-person-charters",
+    "https://www.aquillacharters.com.au/whole-boat-charters",
+    "https://www.aquillacharters.com.au/junior-anglers",
+    "https://www.aquillacharters.com.au/bare-boat",
+    "https://www.aquillacharters.com.au/our-vessel",
+    "https://www.aquillacharters.com.au/welcome-aboard"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.aquillacharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.aquillacharters.com.au/",
+      "bytes": 221374
+    },
+    {
+      "page": "https://www.aquillacharters.com.au/search",
+      "status": 200,
+      "final_url": "https://www.aquillacharters.com.au/search",
+      "bytes": 103375
+    },
+    {
+      "page": "https://www.aquillacharters.com.au/private-cruises",
+      "status": 200,
+      "final_url": "https://www.aquillacharters.com.au/private-cruises",
+      "bytes": 167911
+    },
+    {
+      "page": "https://www.aquillacharters.com.au/gift-vouchers",
+      "status": 200,
+      "final_url": "https://www.aquillacharters.com.au/gift-vouchers",
+      "bytes": 113911
+    },
+    {
+      "page": "https://www.aquillacharters.com.au/per-person-charters",
+      "status": 200,
+      "final_url": "https://www.aquillacharters.com.au/per-person-charters",
+      "bytes": 146179
+    },
+    {
+      "page": "https://www.aquillacharters.com.au/whole-boat-charters",
+      "status": 200,
+      "final_url": "https://www.aquillacharters.com.au/whole-boat-charters",
+      "bytes": 173662
+    },
+    {
+      "page": "https://www.aquillacharters.com.au/junior-anglers",
+      "status": 200,
+      "final_url": "https://www.aquillacharters.com.au/junior-anglers",
+      "bytes": 207755
+    },
+    {
+      "page": "https://www.aquillacharters.com.au/bare-boat",
+      "status": 200,
+      "final_url": "https://www.aquillacharters.com.au/bare-boat",
+      "bytes": 143047
+    },
+    {
+      "page": "https://www.aquillacharters.com.au/our-vessel",
+      "status": 200,
+      "final_url": "https://www.aquillacharters.com.au/our-vessel",
+      "bytes": 156692
+    },
+    {
+      "page": "https://www.aquillacharters.com.au/welcome-aboard",
+      "status": 200,
+      "final_url": "https://www.aquillacharters.com.au/welcome-aboard",
+      "bytes": 140445
+    }
+  ]
+}

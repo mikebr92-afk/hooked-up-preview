@@ -1,0 +1,17 @@
+{
+  "slug": "r5-solitary-island",
+  "request_hash": "4685338e70c5",
+  "collected_at": "2026-11-08T23:40:12.214Z",
+  "pages_fetched": [
+    "https://www.solitaryislandfishingcharters.com.au/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.solitaryislandfishingcharters.com.au/",
+      "status": 404,
+      "final_url": "https://www.solitaryislandfishingcharters.com.au/",
+      "bytes": 2357
+    }
+  ]
+}

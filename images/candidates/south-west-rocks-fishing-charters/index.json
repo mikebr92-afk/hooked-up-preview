@@ -1,0 +1,80 @@
+{
+  "slug": "south-west-rocks-fishing-charters",
+  "request_hash": "1f6a44f9aed3",
+  "collected_at": "2026-11-08T23:37:31.787Z",
+  "pages_fetched": [
+    "https://www.southwestrocksfishcharters.com.au/",
+    "https://www.southwestrocksfishcharters.com.au/gift-vouchers/",
+    "https://www.southwestrocksfishcharters.com.au/packages/",
+    "https://www.southwestrocksfishcharters.com.au/questions-and-answers/",
+    "https://www.southwestrocksfishcharters.com.au/about-us/weather/",
+    "https://www.southwestrocksfishcharters.com.au/charter-what-to-bring/",
+    "https://www.southwestrocksfishcharters.com.au/testimonials/",
+    "https://www.southwestrocksfishcharters.com.au/accommodation/",
+    "https://www.southwestrocksfishcharters.com.au/gallery_fishing_charter_company_south_west_rocks/",
+    "https://www.southwestrocksfishcharters.com.au/contact/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.southwestrocksfishcharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.southwestrocksfishcharters.com.au/",
+      "bytes": 159436
+    },
+    {
+      "page": "https://www.southwestrocksfishcharters.com.au/gift-vouchers/",
+      "status": 200,
+      "final_url": "https://www.southwestrocksfishcharters.com.au/gift-vouchers/",
+      "bytes": 99332
+    },
+    {
+      "page": "https://www.southwestrocksfishcharters.com.au/packages/",
+      "status": 200,
+      "final_url": "https://www.southwestrocksfishcharters.com.au/packages/",
+      "bytes": 105294
+    },
+    {
+      "page": "https://www.southwestrocksfishcharters.com.au/questions-and-answers/",
+      "status": 200,
+      "final_url": "https://www.southwestrocksfishcharters.com.au/questions-and-answers/",
+      "bytes": 100243
+    },
+    {
+      "page": "https://www.southwestrocksfishcharters.com.au/about-us/weather/",
+      "status": 200,
+      "final_url": "https://www.southwestrocksfishcharters.com.au/about-us/weather/",
+      "bytes": 95859
+    },
+    {
+      "page": "https://www.southwestrocksfishcharters.com.au/charter-what-to-bring/",
+      "status": 200,
+      "final_url": "https://www.southwestrocksfishcharters.com.au/charter-what-to-bring/",
+      "bytes": 102801
+    },
+    {
+      "page": "https://www.southwestrocksfishcharters.com.au/testimonials/",
+      "status": 200,
+      "final_url": "https://www.southwestrocksfishcharters.com.au/testimonials/",
+      "bytes": 120566
+    },
+    {
+      "page": "https://www.southwestrocksfishcharters.com.au/accommodation/",
+      "status": 200,
+      "final_url": "https://www.southwestrocksfishcharters.com.au/accommodation/",
+      "bytes": 181226
+    },
+    {
+      "page": "https://www.southwestrocksfishcharters.com.au/gallery_fishing_charter_company_south_west_rocks/",
+      "status": 200,
+      "final_url": "https://www.southwestrocksfishcharters.com.au/gallery_fishing_charter_company_south_west_rocks/",
+      "bytes": 161635
+    },
+    {
+      "page": "https://www.southwestrocksfishcharters.com.au/contact/",
+      "status": 200,
+      "final_url": "https://www.southwestrocksfishcharters.com.au/contact/",
+      "bytes": 94559
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "slug": "freedom-charters-eden",
+  "request_hash": "45a2ee916b04",
+  "collected_at": "2026-11-08T23:36:08.611Z",
+  "pages_fetched": [
+    "https://freedomcharters.com.au/",
+    "https://freedomcharters.com.au/index.html",
+    "https://freedomcharters.com.au/about.html",
+    "https://freedomcharters.com.au/prices.html",
+    "https://freedomcharters.com.au/contact-us.html",
+    "https://freedomcharters.com.au/reef-fishing.html",
+    "https://freedomcharters.com.au/whale-watching.html",
+    "https://freedomcharters.com.au/sports-fishing.html",
+    "https://freedomcharters.com.au/game-fishing.html",
+    "https://freedomcharters.com.au/birdwatching.html",
+    "https://freedomcharters.com.au/marine-wildlife-tours.html"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://freedomcharters.com.au/",
+      "status": 200,
+      "final_url": "https://freedomcharters.com.au/",
+      "bytes": 15847
+    },
+    {
+      "page": "https://freedomcharters.com.au/index.html",
+      "status": 200,
+      "final_url": "https://freedomcharters.com.au/index.html",
+      "bytes": 15847
+    },
+    {
+      "page": "https://freedomcharters.com.au/about.html",
+      "status": 200,
+      "final_url": "https://freedomcharters.com.au/about.html",
+      "bytes": 9411
+    },
+    {
+      "page": "https://freedomcharters.com.au/prices.html",
+      "status": 200,
+      "final_url": "https://freedomcharters.com.au/prices.html",
+      "bytes": 8975
+    },
+    {
+      "page": "https://freedomcharters.com.au/contact-us.html",
+      "status": 200,
+      "final_url": "https://freedomcharters.com.au/contact-us.html",
+      "bytes": 7476
+    },
+    {
+      "page": "https://freedomcharters.com.au/reef-fishing.html",
+      "status": 200,
+      "final_url": "https://freedomcharters.com.au/reef-fishing.html",
+      "bytes": 8484
+    },
+    {
+      "page": "https://freedomcharters.com.au/whale-watching.html",
+      "status": 200,
+      "final_url": "https://freedomcharters.com.au/whale-watching.html",
+      "bytes": 8364
+    },
+    {
+      "page": "https://freedomcharters.com.au/sports-fishing.html",
+      "status": 200,
+      "final_url": "https://freedomcharters.com.au/sports-fishing.html",
+      "bytes": 8592
+    },
+    {
+      "page": "https://freedomcharters.com.au/game-fishing.html",
+      "status": 200,
+      "final_url": "https://freedomcharters.com.au/game-fishing.html",
+      "bytes": 8609
+    },
+    {
+      "page": "https://freedomcharters.com.au/birdwatching.html",
+      "status": 200,
+      "final_url": "https://freedomcharters.com.au/birdwatching.html",
+      "bytes": 8945
+    },
+    {
+      "page": "https://freedomcharters.com.au/marine-wildlife-tours.html",
+      "status": 200,
+      "final_url": "https://freedomcharters.com.au/marine-wildlife-tours.html",
+      "bytes": 8384
+    }
+  ]
+}

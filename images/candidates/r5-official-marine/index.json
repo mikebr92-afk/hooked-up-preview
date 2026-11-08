@@ -1,0 +1,31 @@
+{
+  "slug": "r5-official-marine",
+  "request_hash": "5c45f21d64d2",
+  "collected_at": "2026-11-08T23:40:16.020Z",
+  "pages_fetched": [
+    "https://www.marine.nsw.gov.au/marine-estate-programs/marine-parks",
+    "https://www.nsw.gov.au/driving-boating-and-transport/marine-safety/boating/coastal-bars",
+    "https://www.transport.nsw.gov.au/maritime-safety"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.marine.nsw.gov.au/marine-estate-programs/marine-parks",
+      "status": 403,
+      "final_url": "https://www.marine.nsw.gov.au/marine-estate-programs/marine-parks",
+      "bytes": 5932
+    },
+    {
+      "page": "https://www.nsw.gov.au/driving-boating-and-transport/marine-safety/boating/coastal-bars",
+      "status": 404,
+      "final_url": "https://www.nsw.gov.au/driving-boating-and-transport/marine-safety/boating/coastal-bars",
+      "bytes": 124098
+    },
+    {
+      "page": "https://www.transport.nsw.gov.au/maritime-safety",
+      "status": 404,
+      "final_url": "https://www.transport.nsw.gov.au/maritime-safety",
+      "bytes": 20149
+    }
+  ]
+}

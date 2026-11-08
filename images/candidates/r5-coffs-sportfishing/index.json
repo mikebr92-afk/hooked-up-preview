@@ -1,0 +1,20 @@
+{
+  "slug": "r5-coffs-sportfishing",
+  "request_hash": "882d7d50ae75",
+  "collected_at": "2026-11-08T23:40:11.740Z",
+  "pages_fetched": [
+    "http://www.coffscoastsportfishing.com.au/",
+    "https://coffscoastsportfishing.com/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "http://www.coffscoastsportfishing.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://coffscoastsportfishing.com/",
+      "error": "fetch failed"
+    }
+  ]
+}

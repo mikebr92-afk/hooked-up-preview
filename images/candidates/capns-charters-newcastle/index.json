@@ -1,0 +1,73 @@
+{
+  "slug": "capns-charters-newcastle",
+  "request_hash": "1f02650e6252",
+  "collected_at": "2026-11-08T23:36:29.023Z",
+  "pages_fetched": [
+    "https://www.capnschartersnewcastle.com.au/",
+    "https://www.capnschartersnewcastle.com.au/bookings/",
+    "https://www.capnschartersnewcastle.com.au/one-on-one-charters/",
+    "https://www.capnschartersnewcastle.com.au/half-day-charters/",
+    "https://www.capnschartersnewcastle.com.au/full-day-charters/",
+    "https://www.capnschartersnewcastle.com.au/kids-fishing-charter/",
+    "https://www.capnschartersnewcastle.com.au/about-us/",
+    "https://www.capnschartersnewcastle.com.au/gallery/",
+    "https://www.capnschartersnewcastle.com.au/contactus/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.capnschartersnewcastle.com.au/",
+      "status": 200,
+      "final_url": "https://www.capnschartersnewcastle.com.au/",
+      "bytes": 188446
+    },
+    {
+      "page": "https://www.capnschartersnewcastle.com.au/bookings/",
+      "status": 200,
+      "final_url": "https://www.capnschartersnewcastle.com.au/bookings/",
+      "bytes": 195102
+    },
+    {
+      "page": "https://www.capnschartersnewcastle.com.au/one-on-one-charters/",
+      "status": 200,
+      "final_url": "https://www.capnschartersnewcastle.com.au/one-on-one-charters/",
+      "bytes": 259947
+    },
+    {
+      "page": "https://www.capnschartersnewcastle.com.au/half-day-charters/",
+      "status": 200,
+      "final_url": "https://www.capnschartersnewcastle.com.au/half-day-charters/",
+      "bytes": 260514
+    },
+    {
+      "page": "https://www.capnschartersnewcastle.com.au/full-day-charters/",
+      "status": 200,
+      "final_url": "https://www.capnschartersnewcastle.com.au/full-day-charters/",
+      "bytes": 261188
+    },
+    {
+      "page": "https://www.capnschartersnewcastle.com.au/kids-fishing-charter/",
+      "status": 200,
+      "final_url": "https://www.capnschartersnewcastle.com.au/kids-fishing-charter/",
+      "bytes": 261791
+    },
+    {
+      "page": "https://www.capnschartersnewcastle.com.au/about-us/",
+      "status": 200,
+      "final_url": "https://www.capnschartersnewcastle.com.au/about-us/",
+      "bytes": 136374
+    },
+    {
+      "page": "https://www.capnschartersnewcastle.com.au/gallery/",
+      "status": 200,
+      "final_url": "https://www.capnschartersnewcastle.com.au/gallery/",
+      "bytes": 153846
+    },
+    {
+      "page": "https://www.capnschartersnewcastle.com.au/contactus/",
+      "status": 200,
+      "final_url": "https://www.capnschartersnewcastle.com.au/contactus/",
+      "bytes": 169115
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "day-trippin-charters",
+  "request_hash": "fa54e4e75082",
+  "collected_at": "2026-11-08T23:36:33.627Z",
+  "pages_fetched": [
+    "https://day-trippin-charters.squarespace.com/",
+    "https://day-trippin-charters.squarespace.com/cart",
+    "https://day-trippin-charters.squarespace.com/the-boat",
+    "https://day-trippin-charters.squarespace.com/faqs",
+    "https://day-trippin-charters.squarespace.com/the-fish",
+    "https://day-trippin-charters.squarespace.com/half-day-fishing",
+    "https://day-trippin-charters.squarespace.com/full-day-fishing",
+    "https://day-trippin-charters.squarespace.com/gallery",
+    "https://day-trippin-charters.squarespace.com/ndis",
+    "https://day-trippin-charters.squarespace.com/open-day"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://day-trippin-charters.squarespace.com/",
+      "status": 200,
+      "final_url": "https://day-trippin-charters.squarespace.com/",
+      "bytes": 880439
+    },
+    {
+      "page": "https://day-trippin-charters.squarespace.com/cart",
+      "status": 200,
+      "final_url": "https://day-trippin-charters.squarespace.com/cart",
+      "bytes": 160865
+    },
+    {
+      "page": "https://day-trippin-charters.squarespace.com/the-boat",
+      "status": 200,
+      "final_url": "https://day-trippin-charters.squarespace.com/the-boat",
+      "bytes": 345885
+    },
+    {
+      "page": "https://day-trippin-charters.squarespace.com/faqs",
+      "status": 200,
+      "final_url": "https://day-trippin-charters.squarespace.com/faqs",
+      "bytes": 767022
+    },
+    {
+      "page": "https://day-trippin-charters.squarespace.com/the-fish",
+      "status": 200,
+      "final_url": "https://day-trippin-charters.squarespace.com/the-fish",
+      "bytes": 448352
+    },
+    {
+      "page": "https://day-trippin-charters.squarespace.com/half-day-fishing",
+      "status": 200,
+      "final_url": "https://day-trippin-charters.squarespace.com/half-day-fishing",
+      "bytes": 227842
+    },
+    {
+      "page": "https://day-trippin-charters.squarespace.com/full-day-fishing",
+      "status": 200,
+      "final_url": "https://day-trippin-charters.squarespace.com/full-day-fishing",
+      "bytes": 535302
+    },
+    {
+      "page": "https://day-trippin-charters.squarespace.com/gallery",
+      "status": 200,
+      "final_url": "https://day-trippin-charters.squarespace.com/gallery",
+      "bytes": 942820
+    },
+    {
+      "page": "https://day-trippin-charters.squarespace.com/ndis",
+      "status": 200,
+      "final_url": "https://day-trippin-charters.squarespace.com/ndis",
+      "bytes": 319081
+    },
+    {
+      "page": "https://day-trippin-charters.squarespace.com/open-day",
+      "status": 200,
+      "final_url": "https://day-trippin-charters.squarespace.com/open-day",
+      "bytes": 775602
+    }
+  ]
+}

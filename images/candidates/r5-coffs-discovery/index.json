@@ -1,0 +1,71 @@
+{
+  "slug": "r5-coffs-discovery",
+  "request_hash": "8cc994acff25",
+  "collected_at": "2026-11-08T23:40:11.617Z",
+  "pages_fetched": [
+    "https://www.coffscoast.com/article/fishing-on-the-coffs-coast/",
+    "https://www.beachfrontescapes.com.au/while-your-here/coffs-coast-sport-fishing-adventures/",
+    "https://www.coffsharbourmarina.com.au/",
+    "https://www.coffsmarina.com.au/",
+    "https://www.coffscoast.com/things-to-do/tours/",
+    "https://www.beachfrontescapes.com.au/awe-booking-check/",
+    "https://www.beachfrontescapes.com.au/coffs-coast-sport-fishing-adventures/",
+    "https://www.coffsharbourmarina.com.au/about",
+    "https://www.coffsharbourmarina.com.au/contact"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.coffscoast.com/article/fishing-on-the-coffs-coast/",
+      "status": 503,
+      "final_url": "https://www.coffscoast.com/article/fishing-on-the-coffs-coast/",
+      "bytes": 18071
+    },
+    {
+      "page": "https://www.beachfrontescapes.com.au/while-your-here/coffs-coast-sport-fishing-adventures/",
+      "status": 200,
+      "final_url": "https://www.beachfrontescapes.com.au/while-your-here/coffs-coast-sport-fishing-adventures/",
+      "bytes": 70770
+    },
+    {
+      "page": "https://www.coffsharbourmarina.com.au/",
+      "status": 200,
+      "final_url": "https://www.coffsharbourmarina.com.au/",
+      "bytes": 1801771
+    },
+    {
+      "page": "https://www.coffsmarina.com.au/",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://www.coffscoast.com/things-to-do/tours/",
+      "status": 503,
+      "final_url": "https://www.coffscoast.com/things-to-do/tours/",
+      "bytes": 18071
+    },
+    {
+      "page": "https://www.beachfrontescapes.com.au/awe-booking-check/",
+      "status": 200,
+      "final_url": "https://www.beachfrontescapes.com.au/enquire/",
+      "bytes": 80268
+    },
+    {
+      "page": "https://www.beachfrontescapes.com.au/coffs-coast-sport-fishing-adventures/",
+      "status": 200,
+      "final_url": "https://www.beachfrontescapes.com.au/while-your-here/coffs-coast-sport-fishing-adventures/",
+      "bytes": 70770
+    },
+    {
+      "page": "https://www.coffsharbourmarina.com.au/about",
+      "status": 200,
+      "final_url": "https://www.coffsharbourmarina.com.au/about",
+      "bytes": 1146765
+    },
+    {
+      "page": "https://www.coffsharbourmarina.com.au/contact",
+      "status": 200,
+      "final_url": "https://www.coffsharbourmarina.com.au/contact",
+      "bytes": 1277250
+    }
+  ]
+}

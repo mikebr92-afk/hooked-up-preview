@@ -1,0 +1,80 @@
+{
+  "slug": "game-on-charters-batemans-bay",
+  "request_hash": "cadb955eddbb",
+  "collected_at": "2026-11-08T23:35:47.235Z",
+  "pages_fetched": [
+    "https://gameoncharters.net.au/",
+    "https://gameoncharters.net.au/fishing-charters-batemans-bay-whale-watching-batemans-bay/",
+    "https://gameoncharters.net.au/charters/",
+    "https://gameoncharters.net.au/whale-watching/",
+    "https://gameoncharters.net.au/sunseet-cruiise-clyde-river/",
+    "https://gameoncharters.net.au/tollgate-island-dolphin-cruise/",
+    "https://gameoncharters.net.au/clyde-river-cruise/",
+    "https://gameoncharters.net.au/snorkelling/",
+    "https://gameoncharters.net.au/tollgate-islands-and-surrounds/",
+    "https://gameoncharters.net.au/about-us/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://gameoncharters.net.au/",
+      "status": 200,
+      "final_url": "https://gameoncharters.net.au/",
+      "bytes": 203868
+    },
+    {
+      "page": "https://gameoncharters.net.au/fishing-charters-batemans-bay-whale-watching-batemans-bay/",
+      "status": 200,
+      "final_url": "https://gameoncharters.net.au/fishing-charters-batemans-bay-whale-watching-batemans-bay/",
+      "bytes": 133022
+    },
+    {
+      "page": "https://gameoncharters.net.au/charters/",
+      "status": 200,
+      "final_url": "https://gameoncharters.net.au/charters/",
+      "bytes": 134308
+    },
+    {
+      "page": "https://gameoncharters.net.au/whale-watching/",
+      "status": 200,
+      "final_url": "https://gameoncharters.net.au/whale-watching/",
+      "bytes": 155946
+    },
+    {
+      "page": "https://gameoncharters.net.au/sunseet-cruiise-clyde-river/",
+      "status": 200,
+      "final_url": "https://gameoncharters.net.au/sunseet-cruiise-clyde-river/",
+      "bytes": 133086
+    },
+    {
+      "page": "https://gameoncharters.net.au/tollgate-island-dolphin-cruise/",
+      "status": 200,
+      "final_url": "https://gameoncharters.net.au/tollgate-island-dolphin-cruise/",
+      "bytes": 132875
+    },
+    {
+      "page": "https://gameoncharters.net.au/clyde-river-cruise/",
+      "status": 200,
+      "final_url": "https://gameoncharters.net.au/clyde-river-cruise/",
+      "bytes": 133604
+    },
+    {
+      "page": "https://gameoncharters.net.au/snorkelling/",
+      "status": 200,
+      "final_url": "https://gameoncharters.net.au/snorkelling/",
+      "bytes": 132973
+    },
+    {
+      "page": "https://gameoncharters.net.au/tollgate-islands-and-surrounds/",
+      "status": 200,
+      "final_url": "https://gameoncharters.net.au/tollgate-islands-and-surrounds/",
+      "bytes": 133582
+    },
+    {
+      "page": "https://gameoncharters.net.au/about-us/",
+      "status": 200,
+      "final_url": "https://gameoncharters.net.au/about-us/",
+      "bytes": 141289
+    }
+  ]
+}

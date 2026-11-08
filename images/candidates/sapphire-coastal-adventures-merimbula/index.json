@@ -1,0 +1,59 @@
+{
+  "slug": "sapphire-coastal-adventures-merimbula",
+  "request_hash": "6b9b785a6937",
+  "collected_at": "2026-11-08T23:36:19.088Z",
+  "pages_fetched": [
+    "https://www.sapphirecoastaladventures.com.au/",
+    "https://www.sapphirecoastaladventures.com.au/fishing-charters",
+    "https://www.sapphirecoastaladventures.com.au/merimbula-fishing-charter",
+    "https://www.sapphirecoastaladventures.com.au/about",
+    "https://www.sapphirecoastaladventures.com.au/faqs",
+    "https://www.sapphirecoastaladventures.com.au/contact",
+    "https://www.sapphirecoastaladventures.com.au/booking-terms-and-conditions"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.sapphirecoastaladventures.com.au/",
+      "status": 200,
+      "final_url": "https://www.sapphirecoastaladventures.com.au/",
+      "bytes": 240846
+    },
+    {
+      "page": "https://www.sapphirecoastaladventures.com.au/fishing-charters",
+      "status": 200,
+      "final_url": "https://www.sapphirecoastaladventures.com.au/fishing-charters",
+      "bytes": 234992
+    },
+    {
+      "page": "https://www.sapphirecoastaladventures.com.au/merimbula-fishing-charter",
+      "status": 200,
+      "final_url": "https://www.sapphirecoastaladventures.com.au/merimbula-fishing-charter",
+      "bytes": 240131
+    },
+    {
+      "page": "https://www.sapphirecoastaladventures.com.au/about",
+      "status": 200,
+      "final_url": "https://www.sapphirecoastaladventures.com.au/about",
+      "bytes": 254661
+    },
+    {
+      "page": "https://www.sapphirecoastaladventures.com.au/faqs",
+      "status": 200,
+      "final_url": "https://www.sapphirecoastaladventures.com.au/faqs",
+      "bytes": 200761
+    },
+    {
+      "page": "https://www.sapphirecoastaladventures.com.au/contact",
+      "status": 200,
+      "final_url": "https://www.sapphirecoastaladventures.com.au/contact",
+      "bytes": 214533
+    },
+    {
+      "page": "https://www.sapphirecoastaladventures.com.au/booking-terms-and-conditions",
+      "status": 200,
+      "final_url": "https://www.sapphirecoastaladventures.com.au/booking-terms-and-conditions",
+      "bytes": 114903
+    }
+  ]
+}
