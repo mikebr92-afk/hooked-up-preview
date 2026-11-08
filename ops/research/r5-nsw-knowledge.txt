@@ -1,0 +1,80 @@
+NSW round 5 (weekly AEO review) - knowledge updates for ops/states/nsw.md
+Checked 2026-11-08. Pipeline branch: operator-images/state-nsw-r5 (research/<slug>/ for all 43 listings, research/r5-*).
+WebSearch used: 16 of 25.
+
+== Deliverables ==
+- seo-patches.json: 43/43. Every lead rewritten as one sentence answering who / where / what / for whom / from how much (max 45 words).
+  Every listing FAQ now carries a source URL (matched to the operator page that states the fact). 3 trip corrections. 5 check-trading flags.
+- guides.json: 19/19 (state, 14 destinations, 4 region hubs). Each has a 40-60 word summary, 2-3 new facet FAQs (shared vs private,
+  half vs full day, kids/families, bars, offshore vs estuary, packages), and a published sources list. Existing text kept.
+- held.json: 5 leads (Out There Charters is new). listings.json: none (no Coffs operator meets the standard).
+- Validator: 43/43 patches, 19/19 guides, 0 errors, 0 warnings.
+
+== Phone-check watchlist results (all five still look real, none show closure; none has a dated 2025-26 item) ==
+- Escape Fishing Charters (Greenwell Point): site unchanged, (c) 2019. Contact block now read in full: Gary Crocker, 0407 891 688,
+  (02) 4441 2279, gcrocker@shoal.net.au, address "Sussex Inlet NSW 2540" (probably postal; trips still described as from Greenwell Point).
+  Two searches found nothing else. Latest evidence = DPI charter register Apr 2024. _flag check-trading. PRIORITY PHONE.
+- Five Island Charters (Wollongong): site (c) 2020, prices identical to stored (reef $200, afternoon $165, game $2,250, sports $1,700,
+  deep drop $3,000, overnight $4,850, bareboat $170/h). PlaySport profile (undated) shows older prices ($175/$140/$2,000/$1,400/$2,500).
+  No dated item found. DPI register Apr 2024. _flag check-trading. Phone Trent 0448 733 362. PRIORITY PHONE.
+- Central Coast Reef & Game (Terrigal): no dated content; prices unchanged ($250 pp reef, exclusive reef boat $2,500 - now added as a trip,
+  game up to $3,000, whale watching $1,100). VisitNSW hire page still 404; icentralcoast.com and PlaySport profiles undated (both say
+  "no licence required", since 1996). _flag check-trading. Phone 0427 66 55 44.
+- Fish Port Stephens Estuary Charters: blog still ends 2023. Current Destination Port Stephens product page is live and was refreshed
+  (portstephens.com.au/products/fish-port-stephens-estuary-charters, email paul.lennon.fishing@gmail.com). portstephens.org.au URL 404.
+  Search shows Paul Lennon's Fishing Monthly columns to mid-2023 only. _flag check-trading. Phone 0434 370 687.
+- Cushy Fishing Charters (Tweed): site still (c) 2023, prices unchanged; VisitNSW page 404 (still indexed in search); australiasguide 404;
+  PlaySport undated. _flag check-trading. Note: Tweed page depends on Cushy + Calm Water; if Cushy fails the phone check, Tweed drops to 1.
+- Recommendation: if Escape or Five Island can't be reached by phone, move them to held (no own-site evidence since 2019/2020).
+
+== Other freshness findings ==
+- Trading confirmed this round by dated items: Ambition (fishing reports to Jul 2026, calendar Nov 2026), Cronulla Reef (reviews Oct-Nov 2026),
+  Blue Reef ((c) 2026 - site loads again on a retry, pricing/pickup pages 403), Port Macquarie Fishing Charters ((c) 2026),
+  Sydney Premium, Fishabout, Day Trippin, Calypso, Pacific Blue, The Rocks, Terrigal, Go Fish Yamba, Kiama, Sea Buoys, Wildside (2026 items).
+- No on-site dated item this round (relying on r4 evidence): Byron Bay Charters, Evans Head, Freedom, Sapphire (2023), Reel Contagious (2023),
+  Sydney Flyfishing (2023), Capn's (2024), JB Fishing (2024), Hammerhead (site 2015; r4 Facebook dates 2026), Yamba Fishing and Charters,
+  Coffs Harbour Fishing Charters, Calm Water (r4 sitemap 2026). Worth a light check next refresh.
+- Bot checks have moved: byronbaycharters, sydneypremiumcharters, pacificbluecharters, wildsidesportfishing and kiamafishing now load
+  in the pipeline again. wahoocharters text loads (bot markers present but content fine). Rezdy (coffsharbourfishing, terrigaltours,
+  gameoncharters32) is now behind Cloudflare 403 for the pipeline. coffscoast.com returns 503 ("access limited"). DPI and DPIRD still 403.
+
+== Corrections in seo-patches.json ==
+- Central Coast Reef & Game: added "Reef fishing charter - exclusive boat hire" 7.5 h, $2,500, no minimum, max 10.
+- Freedom Charters: added 8-hour private reef $1,700 and full-day private sports hire $1,800 (prices.html). Share reef child (<16) $120.
+- Kiama Charter Service: added whole-boat reef rate, 10 people $2,000 ($205 pp applies from 1 Nov 2024, min 4).
+- Narooma: game FAQ re-sourced to the operator's fishing page (was attributed to Visit NSW).
+- Calm Water: FAQ question renamed ("Is the fishing licence covered on a Calm Water Fishing tour?") to avoid the automatic licence FAQ.
+
+== Things for the owner to check ==
+- Sydney Premium Charters: own pages disagree on the 4-hour private price, $1,440 (most pages) vs $1,470 (homepage). Kept $1,440.
+- Coffs Harbour Fishing Charters: Rezdy prices could not be re-read (Cloudflare). Rezdy now titles 276429 "6 Hour 3/4 Day Mixed Fishing
+  Charter, from $195" (search snippet), while stored trips have a 4 h half day at $195 and a 6 h 3/4 day at $255. Confirm by phone.
+- Blue Reef: prices ($1,900-$3,300) and the Mort Street parking / 15-minute arrival FAQs rest on the 2026-10-29 fetch; pages now 403.
+- Wahoo: site also lists a deep-sea full day on On Point from $2,000 (not added as a trip).
+- Port Macquarie Fishing Charters: child 10-16 fare is $180 on one page and $190 on another.
+
+== Coffs Harbour (thin hot spot): still 1 listing ==
+- New lead: Out There Charters - only an undated Wiki Australia page (licensed for 22 fishing / 60 functions and whale watching). No site,
+  phone or socials. Added to held.json.
+- Coffs Coast Sport Fishing Adventures: own domains still dead; Beachfront Escapes page unchanged. Held.
+- Solitary Island Fishing Charters (Wooli, 0484 952 543): Wix domain still 404. Held.
+- Coffs Harbour International Marina (coffsharbourmarina.com.au, (02) 6651 4222) - site has no tenant list; phoning the marina office
+  for its charter tenants is the quickest way to find a second operator.
+- Dead ends: "Hooked Again Fishing Charters" (FishingBooker review Dec 2025) is in Durban, South Africa, not NSW.
+- Official source found: NSW DPI "Coffs Harbour to Nambucca recreational fishing guide" and GoFishingGuide_CoffsCoast2022.pdf
+  (https://dpi.nsw.gov.au/__data/assets/pdf_file/0010/1276660/GoFishingGuide_CoffsCoast2022.pdf) - use for the Coffs guide when it goes live.
+
+== New leads (not verified) ==
+- Central Coast: "Terrigal Blue Water Charters" and "Haven Sport Fishing Charters" appear in directory results as Haven-based reef/game/
+  kingfish operators. Worth a coverage check (Central Coast has 2 listings, one on the watchlist).
+- Wiki Australia also lists "Cougar Cat 12" (Coffs Harbour whale watching and fishing) and "Spirit of Coffs Harbour Cruises" - likely
+  cruise/whale operators, check whether fishing is a sold product.
+
+== Official sources used in guides ==
+- https://www.dpi.nsw.gov.au/fishing/marine-protected-areas/marine-parks (+ Port Stephens, Jervis Bay, Lord Howe recreational-fishing pages)
+- https://www.dpi.nsw.gov.au/fishing/recreational/charter/go-charter-fishing-in-nsw (DPI charter fishing page; surfaced by search)
+- https://www.dpird.nsw.gov.au/fishing/closures/location-closures/tweed-river
+- https://www.lhib.nsw.gov.au/ (Lord Howe Island Board; fetches fine)
+- NSW DPI Terrigal Offshore Artificial Reef page exists (https://www.dpi.nsw.gov.au/fishing/recreational/resources/artificial-reef/terrigal-offshore-artificial-reef)
+  but could not be read (403); add to the Central Coast guide once its details can be sourced.
+- Not found: nsw.gov.au coastal bars page (guessed URLs 404) and the marine.nsw.gov.au marine parks page (Cloudflare).

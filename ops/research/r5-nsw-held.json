@@ -1,0 +1,75 @@
+[
+ {
+  "name": "Northern Rivers Sportfishing",
+  "hotspot": "tweed",
+  "location": "Tweed Valley (Tweed River and Clarrie Hall Dam, near Murwillumbah)",
+  "phone": "0409 760 380",
+  "email": "northernriverssportfishing@gmail.com",
+  "website": "https://northernriverssportfishing.com.au/",
+  "found": "Guide Simon Fitzpatrick runs catch-and-release Australian bass trips by boat (4.2 m Quintrex) or Native Watercraft kayak, lure or fly, for 2-4 anglers, with accommodation pick-ups; prices published (e.g. one angler $550, four anglers $225 each). Newest trip report is dated 8 Oct 2023; the VisitNSW listing now returns 404; directory pages (fishfriender, tab.travel) show no dated activity. Fishing is freshwater bass, not saltwater. Not re-checked in r5 (AEO round).",
+  "why_held": "No dated 2025-26 evidence. Phone to confirm it is still guiding; if so it would be a second Tweed listing (bass/freshwater).",
+  "sources": [
+   "https://northernriverssportfishing.com.au/trip-reports-blog/",
+   "https://northernriverssportfishing.com.au/faqs/",
+   "https://northernriverssportfishing.com.au/your-guide/",
+   "https://www.visitnsw.com/things-to-do/tours/northern-rivers-sportfishing"
+  ],
+  "checked": "2026-11"
+ },
+ {
+  "name": "Reel Fishn",
+  "hotspot": "tweed",
+  "location": "Tweed Marina, Tweed Heads",
+  "phone": "0411 151 755",
+  "website": "https://www.reelfishn.com.au/",
+  "found": "Domain no longer resolves (fetch failed on www and bare domain, 2026-11-04). Only a PlaySport stub listing remains. Licence CFB22252 was published earlier. Not re-checked in r5 (AEO round).",
+  "why_held": "No website or dated activity. Phone check only.",
+  "sources": [
+   "https://www.reelfishn.com.au/",
+   "https://playsport.com/reelfishn_ag_a9edf3e6"
+  ],
+  "checked": "2026-11"
+ },
+ {
+  "name": "Solitary Island Fishing Charters",
+  "hotspot": "coffs-harbour",
+  "location": "Wooli (Clarence Valley), fishing the Solitary Islands",
+  "phone": "0484 952 543",
+  "email": "solitaryislandfc@outlook.com",
+  "website": "https://www.solitaryislandfishingcharters.com.au/",
+  "found": "Own Wix domain still returns a ConnectYourDomain 404. A Reflections Holidays (Corindi Beach) attraction page still describes an 8-hour deep sea charter for up to 10 with a deckhand; australiasguide and BIG4 pages are 404. r5 (2026-11-08): own Wix domain still returns the ConnectYourDomain 404.",
+  "why_held": "No own site and no dated 2025-26 item. Phone to confirm; Wooli is about 45 minutes north of Coffs, so it could sit under coffs-harbour or yamba.",
+  "sources": [
+   "https://reflectionsholidays.com.au/parks/corindi-beach/attractions/solitary-island-fishing-charters/",
+   "https://www.solitaryislandfishingcharters.com.au/"
+  ],
+  "checked": "2026-11"
+ },
+ {
+  "name": "Coffs Coast Sport Fishing Adventures",
+  "hotspot": "coffs-harbour",
+  "location": "Coffs Harbour International Marina",
+  "phone": "",
+  "website": "http://www.coffscoastsportfishing.com.au/",
+  "found": "Described on the Beachfront Escapes accommodation site (page (c) 2026) as specialising in bluewater game and sportfishing, guided estuary fishing and eco tours: full-day bluewater sole charter on 'Black N Blue', $1,800 inc GST, about 10 hours, max 6 anglers, heavy and light tackle game, deep jigging and reef. The linked own domain does not resolve (fetch failed on www/bare and .com variants). The official Coffs Coast fishing article lists only Coffs Harbour Fishing Charters. r5 (2026-11-08): coffscoastsportfishing.com.au and .com still do not resolve; the Beachfront Escapes page is unchanged ($1,800 full-day bluewater sole charter on Black N Blue, max 6). The Coffs Harbour International Marina site lists no tenant charters.",
+  "why_held": "No reachable own site or socials and no operator phone number (the page's contact is the accommodation's reservations line, 0403 020 101). Needs a phone/Facebook check before listing.",
+  "sources": [
+   "https://www.beachfrontescapes.com.au/while-your-here/coffs-coast-sport-fishing-adventures/",
+   "https://www.coffscoast.com/article/fishing-on-the-coffs-coast/"
+  ],
+  "checked": "2026-11"
+ },
+ {
+  "name": "Out There Charters",
+  "hotspot": "coffs-harbour",
+  "location": "Coffs Harbour",
+  "phone": "",
+  "website": "",
+  "found": "Only an undated Wiki Australia tour page describes it: a Coffs Harbour boat licensed for up to 22 people fishing and up to 60 for private functions and whale watching, whale season late May to December. No own website (outtherecharters.com.au with and without www did not resolve), no phone, no socials and no dated activity found; a WebSearch for the name returned only that page.",
+  "why_held": "No own site, socials or evidence of trading. Needs a phone or marina check before it could be the second Coffs Harbour listing.",
+  "sources": [
+   "https://wikiaustralia.com/tour/coffs-harbour-fishing-charters/"
+  ],
+  "checked": "2026-11"
+ }
+]
