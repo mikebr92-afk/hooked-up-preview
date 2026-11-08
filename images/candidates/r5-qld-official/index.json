@@ -1,0 +1,71 @@
+{
+  "slug": "r5-qld-official",
+  "request_hash": "393543d6b9a2",
+  "collected_at": "2026-11-08T23:38:51.775Z",
+  "pages_fetched": [
+    "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/rules/limits-tidal",
+    "https://www.dpi.qld.gov.au/services/fisheries/closures/tidal-seasons",
+    "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/rules",
+    "https://www.gbrmpa.gov.au/know-your-zones",
+    "https://parks.desi.qld.gov.au/parks/moreton-bay",
+    "https://parks.desi.qld.gov.au/parks/great-sandy-marine",
+    "https://visitagnes1770.com.au/fishing-agnes-water-1770/",
+    "https://www.visitagnes1770.com.au/how-to-get-here/",
+    "https://yeppooncapricorncoast.com.au/fishing/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/rules/limits-tidal",
+      "status": 200,
+      "final_url": "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/rules/limits-tidal",
+      "bytes": 247762
+    },
+    {
+      "page": "https://www.dpi.qld.gov.au/services/fisheries/closures/tidal-seasons",
+      "status": 403,
+      "final_url": "https://www.dpi.qld.gov.au/services/fisheries/closures/tidal-seasons",
+      "bytes": 5926
+    },
+    {
+      "page": "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/rules",
+      "status": 200,
+      "final_url": "https://www.qld.gov.au/recreation/activities/boating-fishing/rec-fishing/rules",
+      "bytes": 180956
+    },
+    {
+      "page": "https://www.gbrmpa.gov.au/know-your-zones",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "page": "https://parks.desi.qld.gov.au/parks/moreton-bay",
+      "status": 403,
+      "final_url": "https://parks.desi.qld.gov.au/parks/moreton-bay",
+      "bytes": 5836
+    },
+    {
+      "page": "https://parks.desi.qld.gov.au/parks/great-sandy-marine",
+      "status": 403,
+      "final_url": "https://parks.desi.qld.gov.au/parks/great-sandy-marine",
+      "bytes": 5857
+    },
+    {
+      "page": "https://visitagnes1770.com.au/fishing-agnes-water-1770/",
+      "status": 200,
+      "final_url": "https://www.visitagnes1770.com.au/fishing-agnes-water-1770/",
+      "bytes": 385298
+    },
+    {
+      "page": "https://www.visitagnes1770.com.au/how-to-get-here/",
+      "status": 200,
+      "final_url": "https://www.visitagnes1770.com.au/how-to-get-here/",
+      "bytes": 374608
+    },
+    {
+      "page": "https://yeppooncapricorncoast.com.au/fishing/",
+      "status": 200,
+      "final_url": "https://yeppooncapricorncoast.com.au/fishing/",
+      "bytes": 201762
+    }
+  ]
+}

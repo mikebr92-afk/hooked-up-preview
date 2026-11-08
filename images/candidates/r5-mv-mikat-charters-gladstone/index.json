@@ -1,0 +1,59 @@
+{
+  "slug": "r5-mv-mikat-charters-gladstone",
+  "request_hash": "273d6e806f75",
+  "collected_at": "2026-11-08T23:36:19.299Z",
+  "pages_fetched": [
+    "https://mikatcharters.com.au/",
+    "https://mikatcharters.com.au/trip-reports-gallery/",
+    "https://mikatcharters.com.au/about-us/",
+    "https://mikatcharters.com.au/contact/",
+    "https://mikatcharters.com.au/about-us",
+    "https://mikatcharters.com.au/trip-reports-gallery",
+    "https://mikatcharters.com.au/contact"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://mikatcharters.com.au/",
+      "status": 200,
+      "final_url": "https://mikatcharters.com.au/",
+      "bytes": 150789
+    },
+    {
+      "page": "https://mikatcharters.com.au/trip-reports-gallery/",
+      "status": 200,
+      "final_url": "https://mikatcharters.com.au/trip-reports-gallery/",
+      "bytes": 112183
+    },
+    {
+      "page": "https://mikatcharters.com.au/about-us/",
+      "status": 200,
+      "final_url": "https://mikatcharters.com.au/about-us/",
+      "bytes": 128026
+    },
+    {
+      "page": "https://mikatcharters.com.au/contact/",
+      "status": 200,
+      "final_url": "https://mikatcharters.com.au/contact/",
+      "bytes": 99922
+    },
+    {
+      "page": "https://mikatcharters.com.au/about-us",
+      "status": 200,
+      "final_url": "https://mikatcharters.com.au/about-us/",
+      "bytes": 128026
+    },
+    {
+      "page": "https://mikatcharters.com.au/trip-reports-gallery",
+      "status": 200,
+      "final_url": "https://mikatcharters.com.au/trip-reports-gallery/",
+      "bytes": 112183
+    },
+    {
+      "page": "https://mikatcharters.com.au/contact",
+      "status": 200,
+      "final_url": "https://mikatcharters.com.au/contact/",
+      "bytes": 99922
+    }
+  ]
+}

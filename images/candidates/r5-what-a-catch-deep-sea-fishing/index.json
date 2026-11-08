@@ -1,0 +1,80 @@
+{
+  "slug": "r5-what-a-catch-deep-sea-fishing",
+  "request_hash": "d7e578b368d5",
+  "collected_at": "2026-11-08T23:38:10.136Z",
+  "pages_fetched": [
+    "https://whatacatchfishing.com.au/",
+    "https://whatacatchfishing.com.au/pages/our-trips",
+    "https://whatacatchfishing.com.au/collections/what-we-have-been-catching",
+    "https://whatacatchfishing.com.au/pages/about-us",
+    "https://whatacatchfishing.com.au/pages/faqs",
+    "https://whatacatchfishing.com.au/pages/contact",
+    "https://whatacatchfishing.com.au/pages/terms-and-conditions-of-bookings",
+    "https://whatacatchfishing.com.au/customer_authentication/redirect?locale=en&region_country=AU",
+    "https://whatacatchfishing.com.au/cart",
+    "https://whatacatchfishing.com.au/pages/our-boat"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://whatacatchfishing.com.au/",
+      "status": 200,
+      "final_url": "https://whatacatchfishing.com.au/",
+      "bytes": 127328
+    },
+    {
+      "page": "https://whatacatchfishing.com.au/pages/our-trips",
+      "status": 200,
+      "final_url": "https://whatacatchfishing.com.au/pages/our-trips",
+      "bytes": 108850
+    },
+    {
+      "page": "https://whatacatchfishing.com.au/collections/what-we-have-been-catching",
+      "status": 200,
+      "final_url": "https://whatacatchfishing.com.au/collections/what-we-have-been-catching",
+      "bytes": 100589
+    },
+    {
+      "page": "https://whatacatchfishing.com.au/pages/about-us",
+      "status": 200,
+      "final_url": "https://whatacatchfishing.com.au/pages/about-us",
+      "bytes": 108375
+    },
+    {
+      "page": "https://whatacatchfishing.com.au/pages/faqs",
+      "status": 200,
+      "final_url": "https://whatacatchfishing.com.au/pages/faqs",
+      "bytes": 105760
+    },
+    {
+      "page": "https://whatacatchfishing.com.au/pages/contact",
+      "status": 200,
+      "final_url": "https://whatacatchfishing.com.au/pages/contact",
+      "bytes": 108183
+    },
+    {
+      "page": "https://whatacatchfishing.com.au/pages/terms-and-conditions-of-bookings",
+      "status": 200,
+      "final_url": "https://whatacatchfishing.com.au/pages/terms-and-conditions-of-bookings",
+      "bytes": 125427
+    },
+    {
+      "page": "https://whatacatchfishing.com.au/customer_authentication/redirect?locale=en&region_country=AU",
+      "status": 200,
+      "final_url": "https://shopify.com/authentication/92432761137/oauth/authorize?buyer_flags=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ5djl0a2EteWQubXlzaG9waWZ5LmNvbSIsImZsYWdzIjpbXSwiZXhwIjoxNzk0Nzg1ODg5LCJuYmYiOjE3OTQxODEwODl9.3r2udsCTXmhUypsVcQgwoX7BYz3IXjPNwijD2_VdLeI&client_id=c640a401-2adb-4949-9d8d-0ed573fd9bd9&locale=en-AU&nonce=1b1bb456-95ed-4d12-b01a-698e4d8e0bcb&redirect_uri=https%3A%2F%2Fshopify.com%2F92432761137%2Faccount%2Fcallback&region_country=AU&response_type=code&scope=openid+email+customer-account-api%3Afull&state=hWNIvYRkafHRF6395FO7O9Sb",
+      "bytes": 11275
+    },
+    {
+      "page": "https://whatacatchfishing.com.au/cart",
+      "status": 200,
+      "final_url": "https://whatacatchfishing.com.au/cart",
+      "bytes": 106416
+    },
+    {
+      "page": "https://whatacatchfishing.com.au/pages/our-boat",
+      "status": 200,
+      "final_url": "https://whatacatchfishing.com.au/pages/our-boat",
+      "bytes": 107758
+    }
+  ]
+}

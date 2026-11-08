@@ -1,0 +1,94 @@
+{
+  "slug": "r5-hooked-on-1770-agnes-water",
+  "request_hash": "c4decbfbe73b",
+  "collected_at": "2026-11-08T23:35:53.095Z",
+  "pages_fetched": [
+    "https://www.1770tours.com/",
+    "https://www.1770tours.com/hooked/calendar.php",
+    "https://www.1770tours.com/charters.html",
+    "https://www.1770tours.com/hooked/",
+    "https://www.1770tours.com/index.php",
+    "https://www.1770tours.com/hooked/calendar.php?month=10&year=2026",
+    "https://www.1770tours.com/hooked/calendar.php?month=12&year=2026",
+    "https://www.1770tours.com/hooked/request_booking.php?request_date=2026-11-11&standby=0",
+    "https://www.1770tours.com/hooked/request_booking.php?request_date=2026-11-12&standby=1",
+    "https://www.1770tours.com/hooked/request_booking.php?request_date=2026-11-13&standby=0",
+    "https://www.1770tours.com/hooked/request_booking.php?request_date=2026-11-14&standby=1",
+    "https://www.1770tours.com/hooked/request_booking.php?request_date=2026-11-15&standby=1"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.1770tours.com/",
+      "status": 200,
+      "final_url": "https://www.1770tours.com/",
+      "bytes": 123
+    },
+    {
+      "page": "https://www.1770tours.com/hooked/calendar.php",
+      "status": 200,
+      "final_url": "https://www.1770tours.com/hooked/calendar.php",
+      "bytes": 58703
+    },
+    {
+      "page": "https://www.1770tours.com/charters.html",
+      "status": 200,
+      "final_url": "https://www.1770tours.com/charters.html",
+      "bytes": 15694
+    },
+    {
+      "page": "https://www.1770tours.com/hooked/",
+      "status": 403,
+      "final_url": "https://www.1770tours.com/hooked/",
+      "bytes": 358
+    },
+    {
+      "page": "https://www.1770tours.com/index.php",
+      "status": 200,
+      "final_url": "https://www.1770tours.com/index.php",
+      "bytes": 2161
+    },
+    {
+      "page": "https://www.1770tours.com/hooked/calendar.php?month=10&year=2026",
+      "status": 200,
+      "final_url": "https://www.1770tours.com/hooked/calendar.php?month=10&year=2026",
+      "bytes": 54360
+    },
+    {
+      "page": "https://www.1770tours.com/hooked/calendar.php?month=12&year=2026",
+      "status": 200,
+      "final_url": "https://www.1770tours.com/hooked/calendar.php?month=12&year=2026",
+      "bytes": 56368
+    },
+    {
+      "page": "https://www.1770tours.com/hooked/request_booking.php?request_date=2026-11-11&standby=0",
+      "status": 200,
+      "final_url": "https://www.1770tours.com/hooked/request_booking.php?request_date=2026-11-11&standby=0",
+      "bytes": 15123
+    },
+    {
+      "page": "https://www.1770tours.com/hooked/request_booking.php?request_date=2026-11-12&standby=1",
+      "status": 200,
+      "final_url": "https://www.1770tours.com/hooked/request_booking.php?request_date=2026-11-12&standby=1",
+      "bytes": 15583
+    },
+    {
+      "page": "https://www.1770tours.com/hooked/request_booking.php?request_date=2026-11-13&standby=0",
+      "status": 200,
+      "final_url": "https://www.1770tours.com/hooked/request_booking.php?request_date=2026-11-13&standby=0",
+      "bytes": 15197
+    },
+    {
+      "page": "https://www.1770tours.com/hooked/request_booking.php?request_date=2026-11-14&standby=1",
+      "status": 200,
+      "final_url": "https://www.1770tours.com/hooked/request_booking.php?request_date=2026-11-14&standby=1",
+      "bytes": 15583
+    },
+    {
+      "page": "https://www.1770tours.com/hooked/request_booking.php?request_date=2026-11-15&standby=1",
+      "status": 200,
+      "final_url": "https://www.1770tours.com/hooked/request_booking.php?request_date=2026-11-15&standby=1",
+      "bytes": 15583
+    }
+  ]
+}
