@@ -1,9 +1,10 @@
 {
-  "finished_at": "2026-11-09T02:39:34.893Z",
+  "finished_at": "2026-11-09T02:43:14.271Z",
   "summary": [
     {
       "slug": "central-coast-reef-and-game-fishing-charters",
-      "skipped": true
+      "candidates": 2,
+      "pages": 7
     },
     {
       "slug": "byron-bay-charters",
@@ -68,143 +69,125 @@
     },
     {
       "slug": "five-island-charters-wollongong",
-      "candidates": 16,
-      "pages": 8
+      "skipped": true
     },
     {
       "slug": "escape-fishing-charters-greenwell-point",
-      "candidates": 16,
-      "pages": 6
+      "skipped": true
     },
     {
       "slug": "day-trippin-charters",
-      "candidates": 16,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "go-fish-yamba-charters",
-      "candidates": 16,
-      "pages": 6
+      "skipped": true
     },
     {
       "slug": "yamba-fishing-and-charters",
-      "candidates": 15,
-      "pages": 9
+      "skipped": true
     },
     {
       "slug": "capns-charters-newcastle",
-      "candidates": 16,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "fishbermi-charters",
-      "candidates": 16,
-      "pages": 6
+      "skipped": true
     },
     {
       "slug": "evans-head-deep-sea-fishing-charters",
-      "candidates": 10,
-      "pages": 9
+      "skipped": true
     },
     {
       "slug": "calypso-fishing-adventures",
-      "candidates": 16,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "south-west-rocks-fishing-charters",
-      "candidates": 16,
-      "pages": 11
+      "skipped": true
     },
     {
       "slug": "pacific-blue-fishing-charters-nelson-bay",
-      "candidates": 16,
-      "pages": 6
+      "skipped": true
     },
     {
       "slug": "sydney-charter-fishing-manly",
-      "candidates": 16,
-      "pages": 12
+      "skipped": true
     },
     {
       "slug": "reel-contagious-charters-port-stephens",
-      "candidates": 16,
-      "pages": 5
+      "skipped": true
     },
     {
       "slug": "ambition-charters-sydney",
-      "candidates": 0,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "castaway-estuary-fishing-charters",
-      "candidates": 0,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "fishabout-tours-sydney",
-      "candidates": 0,
-      "pages": 6
+      "skipped": true
     },
     {
       "slug": "reel-adventure-fishing-sydney",
-      "candidates": 0,
-      "pages": 5
+      "skipped": true
     },
     {
       "slug": "sydney-fly-fishing",
-      "candidates": 0,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "terrigal-fishing-tours",
-      "candidates": 0,
-      "pages": 8
+      "skipped": true
     },
     {
       "slug": "wildside-sportfishing",
-      "candidates": 0,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "kiama-charter-service",
-      "candidates": 0,
-      "pages": 9
+      "skipped": true
     },
     {
       "slug": "port-macquarie-fishing-charters",
-      "candidates": 0,
-      "pages": 1
+      "skipped": true
     },
     {
       "slug": "sapphire-coastal-adventures-merimbula",
-      "candidates": 0,
-      "pages": 7
+      "skipped": true
     },
     {
       "slug": "sea-buoys-ocean-charters",
-      "candidates": 0,
-      "pages": 6
+      "skipped": true
     },
     {
       "slug": "fishpen-charters-merimbula",
-      "candidates": 0,
-      "pages": 5
+      "skipped": true
     },
     {
       "slug": "game-on-charters-batemans-bay",
-      "candidates": 0,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "calm-water-fishing-tweed",
-      "candidates": 0,
-      "pages": 7
+      "skipped": true
     },
     {
       "slug": "cronulla-reef-fishing-charters",
-      "candidates": 0,
-      "pages": 10
+      "skipped": true
+    },
+    {
+      "slug": "central-coast-reef-and-game-fishing-charters-site",
+      "candidates": 1,
+      "pages": 0
+    },
+    {
+      "slug": "freedom-charters-eden-gallery",
+      "candidates": 4,
+      "pages": 0
     }
   ]
 }

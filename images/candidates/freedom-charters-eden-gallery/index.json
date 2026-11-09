@@ -1,0 +1,58 @@
+{
+  "slug": "freedom-charters-eden-gallery",
+  "request_hash": "4fe48bb61ca5",
+  "collected_at": "2026-11-09T02:43:14.271Z",
+  "pages_fetched": [],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 692,
+      "height": 960,
+      "original": "692x960",
+      "source": "https://freedomcharters.com.au/media/posts/2/gallery/sportsFishing2.jpg",
+      "page": "direct",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 720,
+      "height": 960,
+      "original": "720x960",
+      "source": "https://freedomcharters.com.au/media/posts/2/gallery/reefFishing2.jpg",
+      "page": "direct",
+      "priority": true
+    },
+    {
+      "file": "c03.webp",
+      "width": 1125,
+      "height": 2000,
+      "original": "1133x2015",
+      "source": "https://freedomcharters.com.au/media/posts/2/gallery/sportsFishing1.jpg",
+      "page": "direct",
+      "priority": true
+    },
+    {
+      "file": "c04.webp",
+      "width": 720,
+      "height": 960,
+      "original": "720x960",
+      "source": "https://freedomcharters.com.au/media/posts/10/reefFishing1.jpg",
+      "page": "direct",
+      "priority": true
+    }
+  ],
+  "log": [
+    {
+      "image": "https://freedomcharters.com.au/media/posts/2/gallery/manwithfish5.jpg",
+      "error": "too small 528x960"
+    },
+    {
+      "image": "https://freedomcharters.com.au/media/posts/2/gallery/sportsFishing4.jpg",
+      "error": "too small 528x960"
+    },
+    {
+      "image": "https://freedomcharters.com.au/media/posts/2/gallery/sportsFishing3.jpg",
+      "error": "too small 528x960"
+    }
+  ]
+}
