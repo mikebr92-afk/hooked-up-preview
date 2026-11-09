@@ -244,3 +244,35 @@ For **every listing** in `records.json`, deliver a patch in `seo-patches.json` (
 - **Lead:** the lead must answer "who, where, what, for whom, from how much" in one quotable sentence.
 
 Validate with `node scripts/listings/validate-seo.mjs <dir>`: 0 errors.
+
+## 9. Photo and details audit
+
+Goal: every listing shows **accurate** photos (this operator's own boat, clients, catches and waters) and **strong**
+ones (the hero sells the trip at card size), and its contact details are correct.
+
+**Inputs** (per group, from `scripts/listings/photo_audit.py`): `sheets/<slug>.jpg` (every current photo, labelled
+with file, size and flags), `heroes.jpg` (all heroes at card size), `audit.json` (sizes, sharpness, brightness, flags,
+listing issues: `no-photos`, `few-photos`, `hero-flagged`), `records.json` (current contact/boat details).
+
+**Review every listing:**
+1. **Accuracy:** compare each photo with the operator's own site/socials. Is it their boat (name, livery, layout,
+   length match `boat_name`/`boat_type`), their waters and their trips? Remove anything that is another business's,
+   stock/AI, a logo/flyer/text graphic, watermarked, or where a child is the main subject. A flag of
+   `dup-other-operator` means the same photo is on another listing: find out whose it really is.
+2. **Strength:** the hero should be a sharp, well-lit catch or action shot (a client with a good fish on deck is the
+   best performer), or a clean shot of the boat on the water. It is shown centre-cropped at 800×550 on cards and
+   1200×630 when shared, so a square photo is fine if the subject is central; a tall portrait often is not. Prefer
+   ≥1000px wide. Order the gallery hero → best catch → boat → scenery/action, 3–5 photos.
+3. **Coverage:** listings with `no-photos` or `few-photos` come first. Fetch the operator's pages with the pipeline
+   (`max:16`, plus `follow:true` for gallery pages) and choose from the candidates' `sheet.jpg`.
+4. **Details:** check `phone`, `email`, `website`, `facebook`, `instagram`, `departure_address`, boat and captain
+   names against the operator's own site. Correct only what the site shows; never guess.
+
+**Deliverables:**
+- `photos.json`: one entry per listing you change (omit unchanged ones):
+  `{"slug","verdict":"improve|replace|fill","keep_current":["02.webp","01.webp"],"hero":{"file":"images/candidates/<slug>/c03.webp","source_url":"…","reason":"…"}|null,"extras":[{"file","source_url","reason"}],"remove":[{"file":"03.webp","reason":"…"}],"centering":[0.5,0.4]?,"notes":""}`.
+  Final order = `hero` (or the first of `keep_current`), then the rest of `keep_current`, then `extras` (max 5).
+  Anything not in `keep_current` is dropped, so list every current photo you keep.
+- `details.json`: `[{"slug","corrections":{"phone":"…"},"_sources":["…"],"_notes":""}]` for contact/boat fixes only.
+- `photo-report.txt`: per listing, one line: verdict and why. Plus anything that needs the owner (e.g. a photo you
+  suspect is not theirs but can't confirm).

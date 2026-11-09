@@ -1,6 +1,6 @@
 // Apply the state SEO agents' output to the site data.
 // Usage: node apply_seo.mjs <repo> <state-seo dir> [--dry]
-//   <dir>/<group>/seo-patches.json -> data/operators.json (+ listing cards in index.html when trips/etc change)
+//   <dir>/<group>/seo-patches.json | details.json -> data/operators.json (+ listing cards in index.html when trips/etc change)
 //   <dir>/<group>/guides.json      -> data/guides.json
 import fs from 'node:fs';
 import path from 'node:path';
@@ -25,7 +25,7 @@ const SEO_FIELDS = ['lead', 'highlights', 'areas_fished', 'same_as', 'search_key
 const CORRECTABLE = new Set(['name', 'description', 'primary_location', 'departure_address', 'latitude', 'longitude', 'primary_species', 'all_species',
   'species_tags', 'trip_type_tags', 'experience_tags', 'trips', 'boat_name', 'boat_type', 'boat_length_m', 'max_capacity', 'comfortable_capacity',
   'survey_certification', 'boat_features', 'captains', 'whats_included', 'what_to_bring', 'cancellation_policy', 'weather_policy',
-  'years_in_business', 'accreditations', 'website', 'facebook', 'instagram']);
+  'years_in_business', 'accreditations', 'website', 'facebook', 'instagram', 'phone', 'email']);
 
 const unit = (m) => (m === 'per_person' ? 'person' : 'group');
 function durationLabel(trips) {
@@ -58,8 +58,10 @@ function refreshCard(op) {
   if (ct) op.price_model = ct.price_model;
 }
 
-for (const g of fs.readdirSync(DIR).filter((d) => fs.existsSync(path.join(DIR, d, 'seo-patches.json')))) {
-  for (const p of JSON.parse(fs.readFileSync(path.join(DIR, g, 'seo-patches.json'), 'utf8'))) {
+// seo-patches.json (full SEO patches) and/or details.json (corrections only: [{slug, corrections, _sources, _flag?, _notes?}])
+const patchFiles = (g) => ['seo-patches.json', 'details.json'].map((f) => path.join(DIR, g, f)).filter((f) => fs.existsSync(f));
+for (const g of fs.readdirSync(DIR).filter((d) => patchFiles(d).length)) {
+  for (const p of patchFiles(g).flatMap((f) => JSON.parse(fs.readFileSync(f, 'utf8')))) {
     const op = bySlug.get(p.slug);
     if (!op) { log.missing.push(p.slug); continue; }
     if (p._flag) { log.flagged.push(`${p.slug}: ${p._flag} — ${p._notes || ''}`); if (p._flag === 'closed?') continue; }
