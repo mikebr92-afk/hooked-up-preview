@@ -1,0 +1,24 @@
+{"requests":[
+ {"slug":"p6-hooked-on-1770-tourism","pages":[
+   "https://qica.com.au/tours/town-of-1770-agnes-water/hooked-on-1770-adventure-tours",
+   "https://www.qica.com.au/hooked-on-1770-adventure-tours",
+   "https://www.australias.guide/qld/attraction-tour/gladstone/seventeen-seventy/hooked-on-1770-adventure-tours/",
+   "https://www.gladstoneregion.info/explore/agnes-water-1770/tour/hooked-on-1770-adventure-tours/",
+   "https://www.gladstoneregion.info/fishing/1770-agnes-water/"],
+  "text":true,"max":16,"follow":false},
+ {"slug":"p6-hooked-on-1770-fb","pages":[
+   "https://r.jina.ai/https://www.facebook.com/pages/Hooked-on-1770-Fishing-Charters/401675299945964",
+   "https://r.jina.ai/https://www.1770tours.com/Photo%20Album.html",
+   "https://r.jina.ai/https://www.1770tours.com/index.php"],
+  "text":true,"max":16,"follow":false},
+ {"slug":"p6-frenzy-charters-brisbane","pages":[
+   "https://r.jina.ai/https://www.frenzycharters.com.au/snapshots",
+   "https://r.jina.ai/https://www.frenzycharters.com.au/our_vessel",
+   "https://r.jina.ai/https://www.frenzycharters.com.au/home",
+   "https://r.jina.ai/https://www.frenzycharters.com.au/fishing_report",
+   "https://r.jina.ai/https://www.frenzycharters.com.au/about"],
+  "text":true,"max":16,"follow":false},
+ {"slug":"p6-frenzy-fb","pages":[
+   "https://r.jina.ai/https://www.facebook.com/Frenzy-Charters-156328777710755"],
+  "text":true,"max":16,"follow":false}
+]}
