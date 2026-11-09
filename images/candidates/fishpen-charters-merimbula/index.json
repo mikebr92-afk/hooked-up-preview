@@ -1,0 +1,45 @@
+{
+  "slug": "fishpen-charters-merimbula",
+  "request_hash": "d098a3179530",
+  "collected_at": "2026-11-09T02:39:15.882Z",
+  "pages_fetched": [
+    "https://fishpen-charters.squarespace.com/",
+    "https://fishpen-charters.squarespace.com/kayak-and-sup-hire",
+    "https://fishpen-charters.squarespace.com/mitchies",
+    "https://fishpen-charters.squarespace.com/contact",
+    "https://fishpen-charters.squarespace.com/fishpen-charters-more-info"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://fishpen-charters.squarespace.com/",
+      "status": 200,
+      "final_url": "https://fishpen-charters.squarespace.com/",
+      "bytes": 125052
+    },
+    {
+      "page": "https://fishpen-charters.squarespace.com/kayak-and-sup-hire",
+      "status": 200,
+      "final_url": "https://fishpen-charters.squarespace.com/kayak-and-sup-hire",
+      "bytes": 98254
+    },
+    {
+      "page": "https://fishpen-charters.squarespace.com/mitchies",
+      "status": 200,
+      "final_url": "https://fishpen-charters.squarespace.com/mitchies",
+      "bytes": 97870
+    },
+    {
+      "page": "https://fishpen-charters.squarespace.com/contact",
+      "status": 200,
+      "final_url": "https://fishpen-charters.squarespace.com/contact",
+      "bytes": 119682
+    },
+    {
+      "page": "https://fishpen-charters.squarespace.com/fishpen-charters-more-info",
+      "status": 200,
+      "final_url": "https://fishpen-charters.squarespace.com/fishpen-charters-more-info",
+      "bytes": 125052
+    }
+  ]
+}

@@ -1,42 +1,36 @@
 {
   "slug": "central-coast-reef-and-game-fishing-charters",
-  "request_hash": "646d3dd44b50",
-  "collected_at": "2026-11-09T02:23:42.823Z",
+  "request_hash": "0633b8f49af0",
+  "collected_at": "2026-11-09T02:31:37.761Z",
   "pages_fetched": [
-    "http://www.reefandgamefishing.com/",
+    "https://visitnsw.com/destinations/central-coast/gosford-area/terrigal/hire/central-coast-reef-and-game-fishing-charters",
+    "https://playsport.com/CentralCoastReefandGameFishing_Terrigal",
     "http://www.reefandgamefishing.com/gallery.html",
-    "http://www.reefandgamefishing.com/about.html",
-    "http://www.reefandgamefishing.com/index.html",
-    "http://www.reefandgamefishing.com/info.html",
-    "http://www.reefandgamefishing.com/fishing.html",
-    "http://www.reefandgamefishing.com/contact.html"
+    "http://www.reefandgamefishing.com/"
   ],
   "candidates": [
     {
       "file": "c01.webp",
-      "width": 1249,
-      "height": 401,
-      "original": "1249x401",
-      "source": "http://www.reefandgamefishing.com/images/pic10.jpg",
-      "page": "http://www.reefandgamefishing.com/about.html",
-      "priority": false
-    },
-    {
-      "file": "c02.webp",
-      "width": 1249,
-      "height": 401,
-      "original": "1249x401",
-      "source": "http://www.reefandgamefishing.com/images/pic10a.jpg",
-      "page": "http://www.reefandgamefishing.com/about.html",
-      "priority": false
+      "width": 796,
+      "height": 417,
+      "original": "796x417",
+      "source": "https://cdn.playsport.com/image/og-image_vzivkd.png",
+      "page": "https://playsport.com/CentralCoastReefandGameFishing_Terrigal",
+      "priority": true
     }
   ],
   "log": [
     {
-      "page": "http://www.reefandgamefishing.com/",
+      "page": "https://visitnsw.com/destinations/central-coast/gosford-area/terrigal/hire/central-coast-reef-and-game-fishing-charters",
+      "status": 404,
+      "final_url": "https://www.visitnsw.com/destinations/central-coast/gosford-area/terrigal/hire/central-coast-reef-and-game-fishing-charters",
+      "bytes": 194487
+    },
+    {
+      "page": "https://playsport.com/CentralCoastReefandGameFishing_Terrigal",
       "status": 200,
-      "final_url": "http://www.reefandgamefishing.com/",
-      "bytes": 9461
+      "final_url": "https://playsport.com/CentralCoastReefandGameFishing_Terrigal",
+      "bytes": 276673
     },
     {
       "page": "http://www.reefandgamefishing.com/gallery.html",
@@ -45,58 +39,22 @@
       "bytes": 11668
     },
     {
-      "page": "http://www.reefandgamefishing.com/about.html",
+      "page": "http://www.reefandgamefishing.com/",
       "status": 200,
-      "final_url": "http://www.reefandgamefishing.com/about.html",
-      "bytes": 8395
-    },
-    {
-      "page": "http://www.reefandgamefishing.com/index.html",
-      "status": 200,
-      "final_url": "http://www.reefandgamefishing.com/index.html",
+      "final_url": "http://www.reefandgamefishing.com/",
       "bytes": 9461
     },
     {
-      "page": "http://www.reefandgamefishing.com/info.html",
-      "status": 200,
-      "final_url": "http://www.reefandgamefishing.com/info.html",
-      "bytes": 9430
+      "image": "https://cdn.playsport.com/image/q_90,w_200,h_200,c_fill/fjsx4x02cs8od3hf28je.webp",
+      "error": "too small 200x200"
     },
     {
-      "page": "http://www.reefandgamefishing.com/fishing.html",
-      "status": 200,
-      "final_url": "http://www.reefandgamefishing.com/fishing.html",
-      "bytes": 9727
+      "image": "https://playsport.com/c_fill/fjsx4x02cs8od3hf28je.webp",
+      "error": "HTTP 404"
     },
     {
-      "page": "http://www.reefandgamefishing.com/contact.html",
-      "status": 200,
-      "final_url": "http://www.reefandgamefishing.com/contact.html",
-      "bytes": 5965
-    },
-    {
-      "image": "http://www.reefandgamefishing.com/images/pic01.jpg",
-      "error": "too small 208x213"
-    },
-    {
-      "image": "http://www.reefandgamefishing.com/images/pic02.jpg",
-      "error": "too small 208x213"
-    },
-    {
-      "image": "http://www.reefandgamefishing.com/images/pic03.jpg",
-      "error": "too small 208x213"
-    },
-    {
-      "image": "http://www.reefandgamefishing.com/images/pic04.jpg",
-      "error": "too small 208x213"
-    },
-    {
-      "image": "http://www.reefandgamefishing.com/images/pic05.jpg",
-      "error": "too small 208x213"
-    },
-    {
-      "image": "http://www.reefandgamefishing.com/images/pic06.jpg",
-      "error": "too small 208x213"
+      "image": "https://cdn.playsport.com/image/h_200,w_200,c_fill,q_auto:best,dpr_2/fjsx4x02cs8od3hf28je.jpg",
+      "error": "too small 400x400"
     },
     {
       "image": "http://www.reefandgamefishing.com/images/gallery1.jpg",
@@ -303,40 +261,28 @@
       "error": "too small 520x363"
     },
     {
-      "image": "http://www.reefandgamefishing.com/images/bia.png",
-      "error": "too small 71x71"
+      "image": "http://www.reefandgamefishing.com/images/pic01.jpg",
+      "error": "too small 208x213"
     },
     {
-      "image": "http://www.reefandgamefishing.com/images/rfa.png",
-      "error": "too small 71x71"
+      "image": "http://www.reefandgamefishing.com/images/pic02.jpg",
+      "error": "too small 208x213"
     },
     {
-      "image": "http://www.reefandgamefishing.com/images/rfansw.png",
-      "error": "too small 71x71"
+      "image": "http://www.reefandgamefishing.com/images/pic03.jpg",
+      "error": "too small 208x213"
     },
     {
-      "image": "http://www.reefandgamefishing.com/images/pic07.jpg",
-      "error": "too small 625x251"
+      "image": "http://www.reefandgamefishing.com/images/pic04.jpg",
+      "error": "too small 208x213"
     },
     {
-      "image": "http://www.reefandgamefishing.com/images/pic09a.jpg",
-      "error": "too small 625x251"
+      "image": "http://www.reefandgamefishing.com/images/pic05.jpg",
+      "error": "too small 208x213"
     },
     {
-      "image": "http://www.reefandgamefishing.com/images/pic07a.jpg",
-      "error": "too small 625x251"
-    },
-    {
-      "image": "http://www.reefandgamefishing.com/images/pic09b.jpg",
-      "error": "too small 625x251"
-    },
-    {
-      "image": "http://www.reefandgamefishing.com/images/pic08.jpg",
-      "error": "too small 625x251"
-    },
-    {
-      "image": "http://www.reefandgamefishing.com/images/rgfc.png",
-      "error": "too small 625x251"
+      "image": "http://www.reefandgamefishing.com/images/pic06.jpg",
+      "error": "too small 208x213"
     }
   ]
 }

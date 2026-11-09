@@ -1,79 +1,209 @@
 {
-  "finished_at": "2026-11-09T02:30:16.232Z",
+  "finished_at": "2026-11-09T02:39:34.893Z",
   "summary": [
     {
       "slug": "central-coast-reef-and-game-fishing-charters",
-      "candidates": 2,
-      "pages": 7
+      "skipped": true
     },
     {
       "slug": "byron-bay-charters",
-      "candidates": 16,
-      "pages": 12
+      "skipped": true
     },
     {
       "slug": "jervis-bay-fishing-charters-huskisson",
-      "candidates": 15,
-      "pages": 1
+      "skipped": true
     },
     {
       "slug": "fish-port-stephens-estuary-charters",
-      "candidates": 16,
-      "pages": 12
+      "skipped": true
     },
     {
       "slug": "cushy-fishing-charters",
-      "candidates": 16,
-      "pages": 11
+      "skipped": true
     },
     {
       "slug": "coffs-harbour-fishing-charters",
-      "candidates": 13,
-      "pages": 12
+      "skipped": true
     },
     {
       "slug": "freedom-charters-eden",
-      "candidates": 12,
-      "pages": 11
+      "skipped": true
     },
     {
       "slug": "sea-to-summit-lord-howe-fishing",
+      "skipped": true
+    },
+    {
+      "slug": "narooma-charters",
+      "skipped": true
+    },
+    {
+      "slug": "hammerhead-charters-nelson-bay",
+      "skipped": true
+    },
+    {
+      "slug": "blue-reef-fishing-charters-sydney",
+      "skipped": true
+    },
+    {
+      "slug": "deep-blue-charters-sydney",
+      "skipped": true
+    },
+    {
+      "slug": "sydney-premium-charters-cronulla",
+      "skipped": true
+    },
+    {
+      "slug": "wahoo-fishing-charters-sydney",
+      "skipped": true
+    },
+    {
+      "slug": "aquilla-fishing-charters-wollongong",
+      "skipped": true
+    },
+    {
+      "slug": "central-coast-reef-and-game-fishing-charters",
+      "candidates": 1,
+      "pages": 4
+    },
+    {
+      "slug": "five-island-charters-wollongong",
+      "candidates": 16,
+      "pages": 8
+    },
+    {
+      "slug": "escape-fishing-charters-greenwell-point",
       "candidates": 16,
       "pages": 6
     },
     {
-      "slug": "narooma-charters",
+      "slug": "day-trippin-charters",
       "candidates": 16,
-      "pages": 12
+      "pages": 10
     },
     {
-      "slug": "hammerhead-charters-nelson-bay",
+      "slug": "go-fish-yamba-charters",
       "candidates": 16,
-      "pages": 12
+      "pages": 6
     },
     {
-      "slug": "blue-reef-fishing-charters-sydney",
-      "candidates": 7,
-      "pages": 12
+      "slug": "yamba-fishing-and-charters",
+      "candidates": 15,
+      "pages": 9
     },
     {
-      "slug": "deep-blue-charters-sydney",
+      "slug": "capns-charters-newcastle",
+      "candidates": 16,
+      "pages": 10
+    },
+    {
+      "slug": "fishbermi-charters",
+      "candidates": 16,
+      "pages": 6
+    },
+    {
+      "slug": "evans-head-deep-sea-fishing-charters",
+      "candidates": 10,
+      "pages": 9
+    },
+    {
+      "slug": "calypso-fishing-adventures",
+      "candidates": 16,
+      "pages": 10
+    },
+    {
+      "slug": "south-west-rocks-fishing-charters",
       "candidates": 16,
       "pages": 11
     },
     {
-      "slug": "sydney-premium-charters-cronulla",
+      "slug": "pacific-blue-fishing-charters-nelson-bay",
       "candidates": 16,
-      "pages": 11
+      "pages": 6
     },
     {
-      "slug": "wahoo-fishing-charters-sydney",
+      "slug": "sydney-charter-fishing-manly",
       "candidates": 16,
-      "pages": 11
+      "pages": 12
     },
     {
-      "slug": "aquilla-fishing-charters-wollongong",
+      "slug": "reel-contagious-charters-port-stephens",
       "candidates": 16,
+      "pages": 5
+    },
+    {
+      "slug": "ambition-charters-sydney",
+      "candidates": 0,
+      "pages": 10
+    },
+    {
+      "slug": "castaway-estuary-fishing-charters",
+      "candidates": 0,
+      "pages": 10
+    },
+    {
+      "slug": "fishabout-tours-sydney",
+      "candidates": 0,
+      "pages": 6
+    },
+    {
+      "slug": "reel-adventure-fishing-sydney",
+      "candidates": 0,
+      "pages": 5
+    },
+    {
+      "slug": "sydney-fly-fishing",
+      "candidates": 0,
+      "pages": 10
+    },
+    {
+      "slug": "terrigal-fishing-tours",
+      "candidates": 0,
+      "pages": 8
+    },
+    {
+      "slug": "wildside-sportfishing",
+      "candidates": 0,
+      "pages": 10
+    },
+    {
+      "slug": "kiama-charter-service",
+      "candidates": 0,
+      "pages": 9
+    },
+    {
+      "slug": "port-macquarie-fishing-charters",
+      "candidates": 0,
+      "pages": 1
+    },
+    {
+      "slug": "sapphire-coastal-adventures-merimbula",
+      "candidates": 0,
+      "pages": 7
+    },
+    {
+      "slug": "sea-buoys-ocean-charters",
+      "candidates": 0,
+      "pages": 6
+    },
+    {
+      "slug": "fishpen-charters-merimbula",
+      "candidates": 0,
+      "pages": 5
+    },
+    {
+      "slug": "game-on-charters-batemans-bay",
+      "candidates": 0,
+      "pages": 10
+    },
+    {
+      "slug": "calm-water-fishing-tweed",
+      "candidates": 0,
+      "pages": 7
+    },
+    {
+      "slug": "cronulla-reef-fishing-charters",
+      "candidates": 0,
       "pages": 10
     }
   ]

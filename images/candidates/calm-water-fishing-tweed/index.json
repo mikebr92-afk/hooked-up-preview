@@ -1,0 +1,59 @@
+{
+  "slug": "calm-water-fishing-tweed",
+  "request_hash": "0e94f29530b0",
+  "collected_at": "2026-11-09T02:39:31.393Z",
+  "pages_fetched": [
+    "https://www.calmwaterfishing.com/",
+    "https://www.calmwaterfishing.com/tweed-river-fishing-tour",
+    "https://www.calmwaterfishing.com/about-us",
+    "https://www.calmwaterfishing.com/caml-water-fishing-faq",
+    "https://www.calmwaterfishing.com/book-online",
+    "https://www.calmwaterfishing.com/category/all-products",
+    "https://www.calmwaterfishing.com/gift-card"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.calmwaterfishing.com/",
+      "status": 200,
+      "final_url": "https://www.calmwaterfishing.com/",
+      "bytes": 1006766
+    },
+    {
+      "page": "https://www.calmwaterfishing.com/tweed-river-fishing-tour",
+      "status": 200,
+      "final_url": "https://www.calmwaterfishing.com/tweed-river-fishing-tour",
+      "bytes": 998884
+    },
+    {
+      "page": "https://www.calmwaterfishing.com/about-us",
+      "status": 200,
+      "final_url": "https://www.calmwaterfishing.com/about-us",
+      "bytes": 771009
+    },
+    {
+      "page": "https://www.calmwaterfishing.com/caml-water-fishing-faq",
+      "status": 200,
+      "final_url": "https://www.calmwaterfishing.com/caml-water-fishing-faq",
+      "bytes": 1102690
+    },
+    {
+      "page": "https://www.calmwaterfishing.com/book-online",
+      "status": 200,
+      "final_url": "https://www.calmwaterfishing.com/book-online",
+      "bytes": 891076
+    },
+    {
+      "page": "https://www.calmwaterfishing.com/category/all-products",
+      "status": 200,
+      "final_url": "https://www.calmwaterfishing.com/category/all-products",
+      "bytes": 1417394
+    },
+    {
+      "page": "https://www.calmwaterfishing.com/gift-card",
+      "status": 200,
+      "final_url": "https://www.calmwaterfishing.com/gift-card",
+      "bytes": 1441815
+    }
+  ]
+}

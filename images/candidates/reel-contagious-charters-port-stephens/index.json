@@ -1,0 +1,197 @@
+{
+  "slug": "reel-contagious-charters-port-stephens",
+  "request_hash": "4a011a70343a",
+  "collected_at": "2026-11-09T02:38:15.789Z",
+  "pages_fetched": [
+    "https://www.reelcontagiouscharters.com.au/gallery/",
+    "https://www.reelcontagiouscharters.com.au/",
+    "https://www.reelcontagiouscharters.com.au/charters/",
+    "https://www.reelcontagiouscharters.com.au/raizem-marlin-teasers/",
+    "https://www.reelcontagiouscharters.com.au/contact-us/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1000,
+      "height": 669,
+      "original": "1000x669",
+      "source": "https://www.reelcontagiouscharters.com.au/wp-content/uploads/contagious-gallery-31.jpg",
+      "page": "https://www.reelcontagiouscharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 1000,
+      "height": 669,
+      "original": "1000x669",
+      "source": "https://www.reelcontagiouscharters.com.au/wp-content/uploads/contagious-gallery-30.jpg",
+      "page": "https://www.reelcontagiouscharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1000,
+      "height": 669,
+      "original": "1000x669",
+      "source": "https://www.reelcontagiouscharters.com.au/wp-content/uploads/contagious-gallery-28.jpg",
+      "page": "https://www.reelcontagiouscharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1000,
+      "height": 669,
+      "original": "1000x669",
+      "source": "https://www.reelcontagiouscharters.com.au/wp-content/uploads/contagious-gallery-25.jpg",
+      "page": "https://www.reelcontagiouscharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1000,
+      "height": 669,
+      "original": "1000x669",
+      "source": "https://www.reelcontagiouscharters.com.au/wp-content/uploads/contagious-gallery-19.jpg",
+      "page": "https://www.reelcontagiouscharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1000,
+      "height": 669,
+      "original": "1000x669",
+      "source": "https://www.reelcontagiouscharters.com.au/wp-content/uploads/contagious-gallery-24.jpg",
+      "page": "https://www.reelcontagiouscharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1000,
+      "height": 669,
+      "original": "1000x669",
+      "source": "https://www.reelcontagiouscharters.com.au/wp-content/uploads/contagious-gallery-16.jpg",
+      "page": "https://www.reelcontagiouscharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1000,
+      "height": 669,
+      "original": "1000x669",
+      "source": "https://www.reelcontagiouscharters.com.au/wp-content/uploads/contagious-gallery-23.jpg",
+      "page": "https://www.reelcontagiouscharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1000,
+      "height": 669,
+      "original": "1000x669",
+      "source": "https://www.reelcontagiouscharters.com.au/wp-content/uploads/contagious-gallery-22.jpg",
+      "page": "https://www.reelcontagiouscharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 669,
+      "height": 1000,
+      "original": "669x1000",
+      "source": "https://www.reelcontagiouscharters.com.au/wp-content/uploads/contagious-gallery-29.jpg",
+      "page": "https://www.reelcontagiouscharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1000,
+      "height": 669,
+      "original": "1000x669",
+      "source": "https://www.reelcontagiouscharters.com.au/wp-content/uploads/contagious-gallery-21.jpg",
+      "page": "https://www.reelcontagiouscharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1000,
+      "height": 669,
+      "original": "1000x669",
+      "source": "https://www.reelcontagiouscharters.com.au/wp-content/uploads/contagious-gallery-20.jpg",
+      "page": "https://www.reelcontagiouscharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1000,
+      "height": 669,
+      "original": "1000x669",
+      "source": "https://www.reelcontagiouscharters.com.au/wp-content/uploads/contagious-gallery-18.jpg",
+      "page": "https://www.reelcontagiouscharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1000,
+      "height": 669,
+      "original": "1000x669",
+      "source": "https://www.reelcontagiouscharters.com.au/wp-content/uploads/contagious-gallery-17.jpg",
+      "page": "https://www.reelcontagiouscharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1000,
+      "height": 750,
+      "original": "1000x750",
+      "source": "https://www.reelcontagiouscharters.com.au/wp-content/uploads/Gallery-sept20-2-1.jpg",
+      "page": "https://www.reelcontagiouscharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1000,
+      "height": 669,
+      "original": "1000x669",
+      "source": "https://www.reelcontagiouscharters.com.au/wp-content/uploads/contagious-gallery-14.jpg",
+      "page": "https://www.reelcontagiouscharters.com.au/gallery/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.reelcontagiouscharters.com.au/gallery/",
+      "status": 200,
+      "final_url": "https://www.reelcontagiouscharters.com.au/gallery/",
+      "bytes": 108730
+    },
+    {
+      "page": "https://www.reelcontagiouscharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.reelcontagiouscharters.com.au/",
+      "bytes": 68144
+    },
+    {
+      "page": "https://www.reelcontagiouscharters.com.au/charters/",
+      "status": 200,
+      "final_url": "https://www.reelcontagiouscharters.com.au/charters/",
+      "bytes": 75256
+    },
+    {
+      "page": "https://www.reelcontagiouscharters.com.au/raizem-marlin-teasers/",
+      "status": 200,
+      "final_url": "https://www.reelcontagiouscharters.com.au/raizem-marlin-teasers/",
+      "bytes": 62586
+    },
+    {
+      "page": "https://www.reelcontagiouscharters.com.au/contact-us/",
+      "status": 200,
+      "final_url": "https://www.reelcontagiouscharters.com.au/contact-us/",
+      "bytes": 55852
+    },
+    {
+      "image": "https://www.reelcontagiouscharters.com.au/wp-content/uploads/facebook.png",
+      "error": "too small 40x40"
+    },
+    {
+      "dup": "https://www.reelcontagiouscharters.com.au/wp-content/uploads/Gallery-sept20-2-2.jpg"
+    }
+  ]
+}
