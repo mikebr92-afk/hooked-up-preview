@@ -1,0 +1,231 @@
+{
+  "slug": "divers-fishing-charters-hobart",
+  "request_hash": "cd85ebde29a8",
+  "collected_at": "2026-11-09T02:26:49.181Z",
+  "pages_fetched": [
+    "https://www.tasyachttrip.com.au/gallery",
+    "https://www.tasyachttrip.com.au/news",
+    "https://www.tasyachttrip.com.au/contact",
+    "https://www.tasyachttrip.com.au/about",
+    "https://www.tasyachttrip.com.au/",
+    "https://www.tasyachttrip.com.au/products",
+    "https://www.tasyachttrip.com.au/half-day-fishing-charter-hobart",
+    "https://www.tasyachttrip.com.au/private-boat-charter-hobart",
+    "https://www.tasyachttrip.com.au/hobart-fishing-cruise",
+    "https://www.tasyachttrip.com.au/faq"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1200,
+      "height": 630,
+      "original": "1200x630",
+      "source": "https://www.tasyachttrip.com.au/og-image.jpg",
+      "page": "https://www.tasyachttrip.com.au/gallery",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 1200,
+      "height": 786,
+      "original": "1200x786",
+      "source": "https://www.tasyachttrip.com.au/images/hobart-fishing.jpg",
+      "page": "https://www.tasyachttrip.com.au/gallery",
+      "priority": true
+    },
+    {
+      "file": "c03.webp",
+      "width": 1170,
+      "height": 1836,
+      "original": "1170x1836",
+      "source": "http://booking-now.oss-accelerate.aliyuncs.com/uploads/1776842887726-IMG_5533.jpg",
+      "page": "https://www.tasyachttrip.com.au/gallery",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1280,
+      "height": 1707,
+      "original": "1280x1707",
+      "source": "https://www.tasyachttrip.com.au/uploads/1765194678868-8d114f1dd52d5b7889660c9c060d026c.JPG",
+      "page": "https://www.tasyachttrip.com.au/gallery",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "4032x3024",
+      "source": "https://www.tasyachttrip.com.au/uploads/1765194222420-DJI_0093.JPG",
+      "page": "https://www.tasyachttrip.com.au/gallery",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1600,
+      "height": 1066,
+      "original": "1600x1066",
+      "source": "https://www.tasyachttrip.com.au/uploads/1765194154308-20bcce82-b212-4feb-bb56-3c0e0565525a.JPG",
+      "page": "https://www.tasyachttrip.com.au/gallery",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1600,
+      "height": 1066,
+      "original": "1600x1066",
+      "source": "https://www.tasyachttrip.com.au/uploads/1765112816250-b202038b-93ca-4407-b7f6-850f70ac0b80.JPG",
+      "page": "https://www.tasyachttrip.com.au/gallery",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1600,
+      "height": 1066,
+      "original": "1600x1066",
+      "source": "https://www.tasyachttrip.com.au/uploads/1765112807563-b7d8779c-fb0b-4e24-812e-f9e2c3d5647a.JPG",
+      "page": "https://www.tasyachttrip.com.au/gallery",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1600,
+      "height": 1067,
+      "original": "1600x1067",
+      "source": "https://www.tasyachttrip.com.au/uploads/1765112798778-a91578ca-2c28-4d18-a5b7-348e617c2c85.JPG",
+      "page": "https://www.tasyachttrip.com.au/gallery",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 2000,
+      "height": 1129,
+      "original": "2268x1280",
+      "source": "https://www.tasyachttrip.com.au/uploads/1765112788091-81081762430229_.pic.jpg",
+      "page": "https://www.tasyachttrip.com.au/gallery",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 2000,
+      "height": 1115,
+      "original": "2295x1280",
+      "source": "https://www.tasyachttrip.com.au/uploads/1765112772605-81061762430225_.pic.jpg",
+      "page": "https://www.tasyachttrip.com.au/gallery",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1280,
+      "height": 1707,
+      "original": "1280x1707",
+      "source": "https://www.tasyachttrip.com.au/uploads/1765112765094-81031762430219_.pic.jpg",
+      "page": "https://www.tasyachttrip.com.au/gallery",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1600,
+      "height": 1066,
+      "original": "1600x1066",
+      "source": "https://www.tasyachttrip.com.au/uploads/1765112755339-382a4876-bb7d-4254-8f8e-ba18970be265.JPG",
+      "page": "https://www.tasyachttrip.com.au/gallery",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1600,
+      "height": 1066,
+      "original": "1600x1066",
+      "source": "https://www.tasyachttrip.com.au/uploads/1765112740353-9d3b174d-d8ee-4706-bf15-1abe5264f550.JPG",
+      "page": "https://www.tasyachttrip.com.au/gallery",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1600,
+      "height": 1066,
+      "original": "1600x1066",
+      "source": "https://www.tasyachttrip.com.au/uploads/1765112734425-3c3cfc1d-3103-4991-8bdb-151b0e6fd986.JPG",
+      "page": "https://www.tasyachttrip.com.au/gallery",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1600,
+      "height": 995,
+      "original": "1600x995",
+      "source": "https://www.tasyachttrip.com.au/uploads/1765112724442-2f5340d1-e4a7-4a79-8ee0-9ba08070e63f.JPG",
+      "page": "https://www.tasyachttrip.com.au/gallery",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.tasyachttrip.com.au/gallery",
+      "status": 200,
+      "final_url": "https://www.tasyachttrip.com.au/gallery",
+      "bytes": 36182
+    },
+    {
+      "page": "https://www.tasyachttrip.com.au/news",
+      "status": 200,
+      "final_url": "https://www.tasyachttrip.com.au/news",
+      "bytes": 30760
+    },
+    {
+      "page": "https://www.tasyachttrip.com.au/contact",
+      "status": 200,
+      "final_url": "https://www.tasyachttrip.com.au/contact",
+      "bytes": 30012
+    },
+    {
+      "page": "https://www.tasyachttrip.com.au/about",
+      "status": 200,
+      "final_url": "https://www.tasyachttrip.com.au/about",
+      "bytes": 32372
+    },
+    {
+      "page": "https://www.tasyachttrip.com.au/",
+      "status": 200,
+      "final_url": "https://www.tasyachttrip.com.au/",
+      "bytes": 41589
+    },
+    {
+      "page": "https://www.tasyachttrip.com.au/products",
+      "status": 200,
+      "final_url": "https://www.tasyachttrip.com.au/products",
+      "bytes": 34779
+    },
+    {
+      "page": "https://www.tasyachttrip.com.au/half-day-fishing-charter-hobart",
+      "status": 200,
+      "final_url": "https://www.tasyachttrip.com.au/half-day-fishing-charter-hobart",
+      "bytes": 42790
+    },
+    {
+      "page": "https://www.tasyachttrip.com.au/private-boat-charter-hobart",
+      "status": 200,
+      "final_url": "https://www.tasyachttrip.com.au/private-boat-charter-hobart",
+      "bytes": 40087
+    },
+    {
+      "page": "https://www.tasyachttrip.com.au/hobart-fishing-cruise",
+      "status": 200,
+      "final_url": "https://www.tasyachttrip.com.au/hobart-fishing-cruise",
+      "bytes": 41319
+    },
+    {
+      "page": "https://www.tasyachttrip.com.au/faq",
+      "status": 200,
+      "final_url": "https://www.tasyachttrip.com.au/faq",
+      "bytes": 53653
+    },
+    {
+      "dup": "https://www.tasyachttrip.com.au/images/boat-1.jpg"
+    },
+    {
+      "dup": "https://www.tasyachttrip.com.au/uploads/1765112749110-20bcce82-b212-4feb-bb56-3c0e0565525a.JPG"
+    }
+  ]
+}

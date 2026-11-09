@@ -1,0 +1,54 @@
+{
+  "slug": "tasman-spirit-charters",
+  "request_hash": "e9c738c64bb0",
+  "collected_at": "2026-11-09T02:26:51.491Z",
+  "pages_fetched": [
+    "https://tasmanspiritcharters.com/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1440,
+      "height": 1080,
+      "original": "1440x1080",
+      "source": "https://tasmanspiritcharters.com/images/tasman-spirit-charters-port-arthur.jpg",
+      "page": "https://tasmanspiritcharters.com/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 1280,
+      "height": 640,
+      "original": "1280x640",
+      "source": "https://tasmanspiritcharters.com/images/tasman-spirit-charters-boat.jpg",
+      "page": "https://tasmanspiritcharters.com/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 900,
+      "height": 675,
+      "original": "900x675",
+      "source": "https://tasmanspiritcharters.com/images/tasman-spirit-charters-boat-tall.webp",
+      "page": "https://tasmanspiritcharters.com/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://tasmanspiritcharters.com/",
+      "status": 200,
+      "final_url": "https://tasmanspiritcharters.com/",
+      "bytes": 12698
+    },
+    {
+      "dup": "https://tasmanspiritcharters.com/images/tasman-spirit-charters-port-arthur.webp"
+    },
+    {
+      "dup": "https://tasmanspiritcharters.com/images/tasman-spirit-charters-boat-tall.jpg"
+    },
+    {
+      "dup": "https://tasmanspiritcharters.com/images/tasman-spirit-charters-boat.webp"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "tas-rules-flathead",
+  "request_hash": "3a8dbedb7e90",
+  "collected_at": "2026-11-09T02:26:05.959Z",
+  "pages_fetched": [
+    "https://fishing.tas.gov.au/community/flathead-for-the-future/new-rules-and-research-to-rebuild-tasmanias-sand-flathead-fishery",
+    "https://fishing.tas.gov.au/community/flathead-for-the-future/new-rules-and-research-to-rebuild-tasmanias-sand-flathead-fishery/sand-flathead-frequently-asked-questions",
+    "https://fishing.tas.gov.au/alerts",
+    "https://fishing.tas.gov.au/",
+    "https://fishing.tas.gov.au/Pages/Recreational-Fishing.aspx",
+    "https://fishing.tas.gov.au/Pages/Recreational-Sea-Fishing-Licences.aspx",
+    "https://fishing.tas.gov.au/Pages/Aboriginal-Fishing.aspx",
+    "https://fishing.tas.gov.au/Pages/Rules.aspx",
+    "https://fishing.tas.gov.au/Pages/Bag-and-Possession-Limits-Scalefish.aspx",
+    "https://fishing.tas.gov.au/Pages/Recreational-Fishing-Seasons.aspx",
+    "https://fishing.tas.gov.au/Pages/Gear-Restrictions.aspx",
+    "https://fishing.tas.gov.au/Pages/Bait-Restrictions.aspx"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://fishing.tas.gov.au/community/flathead-for-the-future/new-rules-and-research-to-rebuild-tasmanias-sand-flathead-fishery",
+      "status": 200,
+      "final_url": "https://fishing.tas.gov.au/community/flathead-for-the-future/new-rules-and-research-to-rebuild-tasmanias-sand-flathead-fishery",
+      "bytes": 109878
+    },
+    {
+      "page": "https://fishing.tas.gov.au/community/flathead-for-the-future/new-rules-and-research-to-rebuild-tasmanias-sand-flathead-fishery/sand-flathead-frequently-asked-questions",
+      "status": 200,
+      "final_url": "https://fishing.tas.gov.au/community/flathead-for-the-future/new-rules-and-research-to-rebuild-tasmanias-sand-flathead-fishery/sand-flathead-frequently-asked-questions",
+      "bytes": 97408
+    },
+    {
+      "page": "https://fishing.tas.gov.au/alerts",
+      "status": 200,
+      "final_url": "https://fishing.tas.gov.au/alerts",
+      "bytes": 83957
+    },
+    {
+      "page": "https://fishing.tas.gov.au/",
+      "status": 200,
+      "final_url": "https://fishing.tas.gov.au/",
+      "bytes": 163099
+    },
+    {
+      "page": "https://fishing.tas.gov.au/Pages/Recreational-Fishing.aspx",
+      "status": 200,
+      "final_url": "https://fishing.tas.gov.au/recreational-fishing",
+      "bytes": 84465
+    },
+    {
+      "page": "https://fishing.tas.gov.au/Pages/Recreational-Sea-Fishing-Licences.aspx",
+      "status": 200,
+      "final_url": "https://fishing.tas.gov.au/recreational-fishing/recreational-sea-fishing-licences",
+      "bytes": 92491
+    },
+    {
+      "page": "https://fishing.tas.gov.au/Pages/Aboriginal-Fishing.aspx",
+      "status": 200,
+      "final_url": "https://fishing.tas.gov.au/community/aboriginal-fishing",
+      "bytes": 86837
+    },
+    {
+      "page": "https://fishing.tas.gov.au/Pages/Rules.aspx",
+      "status": 200,
+      "final_url": "https://fishing.tas.gov.au/recreational-fishing/rules",
+      "bytes": 87994
+    },
+    {
+      "page": "https://fishing.tas.gov.au/Pages/Bag-and-Possession-Limits-Scalefish.aspx",
+      "status": 200,
+      "final_url": "https://fishing.tas.gov.au/recreational-fishing/rules/size-and-bag-limits",
+      "bytes": 136355
+    },
+    {
+      "page": "https://fishing.tas.gov.au/Pages/Recreational-Fishing-Seasons.aspx",
+      "status": 200,
+      "final_url": "https://fishing.tas.gov.au/recreational-fishing/rules/recreational-fishing-seasons",
+      "bytes": 88391
+    },
+    {
+      "page": "https://fishing.tas.gov.au/Pages/Gear-Restrictions.aspx",
+      "status": 200,
+      "final_url": "https://fishing.tas.gov.au/recreational-fishing/rules/gear",
+      "bytes": 85305
+    },
+    {
+      "page": "https://fishing.tas.gov.au/Pages/Bait-Restrictions.aspx",
+      "status": 200,
+      "final_url": "https://fishing.tas.gov.au/recreational-fishing/rules/bait",
+      "bytes": 86359
+    }
+  ]
+}

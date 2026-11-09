@@ -1,0 +1,66 @@
+{
+  "slug": "riverfly-1864",
+  "request_hash": "c3caaa9824bc",
+  "collected_at": "2026-11-09T02:27:26.063Z",
+  "pages_fetched": [
+    "https://riverfly.com.au/contact/",
+    "https://riverfly.com.au/fly-fishing-tasmania/",
+    "https://riverfly.com.au/about/",
+    "https://riverfly.com.au/about/gallery/",
+    "https://riverfly.com.au/about/media-articles/",
+    "https://riverfly.com.au/about/testimonials-all/",
+    "https://riverfly.com.au/about/newsletter/",
+    "https://riverfly.com.au/about/terms/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://riverfly.com.au/contact/",
+      "status": 200,
+      "final_url": "https://riverfly.com.au/contact/",
+      "bytes": 87377
+    },
+    {
+      "page": "https://riverfly.com.au/fly-fishing-tasmania/",
+      "status": 200,
+      "final_url": "https://riverfly.com.au/fly-fishing-tasmania/",
+      "bytes": 82260
+    },
+    {
+      "page": "https://riverfly.com.au/about/",
+      "status": 200,
+      "final_url": "https://riverfly.com.au/about/",
+      "bytes": 84245
+    },
+    {
+      "page": "https://riverfly.com.au/about/gallery/",
+      "status": 200,
+      "final_url": "https://riverfly.com.au/about/gallery/",
+      "bytes": 99579
+    },
+    {
+      "page": "https://riverfly.com.au/about/media-articles/",
+      "status": 200,
+      "final_url": "https://riverfly.com.au/about/media-articles/",
+      "bytes": 76543
+    },
+    {
+      "page": "https://riverfly.com.au/about/testimonials-all/",
+      "status": 200,
+      "final_url": "https://riverfly.com.au/about/testimonials-all/",
+      "bytes": 98099
+    },
+    {
+      "page": "https://riverfly.com.au/about/newsletter/",
+      "status": 200,
+      "final_url": "https://riverfly.com.au/about/newsletter/",
+      "bytes": 68638
+    },
+    {
+      "page": "https://riverfly.com.au/about/terms/",
+      "status": 200,
+      "final_url": "https://riverfly.com.au/about/terms/",
+      "bytes": 65708
+    }
+  ]
+}

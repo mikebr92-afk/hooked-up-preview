@@ -1,0 +1,236 @@
+{
+  "slug": "tasmania-fly-fishing",
+  "request_hash": "809df73f7529",
+  "collected_at": "2026-11-09T02:27:21.982Z",
+  "pages_fetched": [
+    "https://tasmaniaflyfishing.com.au/",
+    "https://tasmaniaflyfishing.com.au/contact/",
+    "https://tasmaniaflyfishing.com.au/tasmania-fly-fishing-charters-rates-tours/",
+    "https://tasmaniaflyfishing.com.au/fly-fishing-for-beginners-in-tasmania/",
+    "https://tasmaniaflyfishing.com.au/things-to-do-in-launceston/",
+    "https://tasmaniaflyfishing.com.au/places-to-stay-fly-fishing-tasmania/",
+    "https://tasmaniaflyfishing.com.au/trout-flies-tasmania-fly-fishing/",
+    "https://tasmaniaflyfishing.com.au/tasmania-fly-fishing-gear-and-merchandise/",
+    "https://tasmaniaflyfishing.com.au/tasmaniaflyfishing-com-au-tasmania-fly-fishing-guides/",
+    "https://tasmaniaflyfishing.com.au/fly-fishing-resources-tasmania/",
+    "https://tasmaniaflyfishing.com.au/history-of-fly-fishing-in-tasmania/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1125,
+      "height": 2000,
+      "original": "1125x2000",
+      "source": "https://tasmaniaflyfishing.com.au/wp-content/uploads/2025/07/75410D55-6FE4-4FB2-A32E-4B66C7330BA0-1.jpg",
+      "page": "https://tasmaniaflyfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 2000,
+      "height": 1125,
+      "original": "2560x1440",
+      "source": "https://tasmaniaflyfishing.com.au/wp-content/uploads/2022/05/Tasmania-Fly-Fishing-Charters-scaled.jpg",
+      "page": "https://tasmaniaflyfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://tasmaniaflyfishing.com.au/wp-content/uploads/2023/06/IMG_0572-scaled.jpeg",
+      "page": "https://tasmaniaflyfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://tasmaniaflyfishing.com.au/wp-content/uploads/2023/10/Tasmania-Fly-Fishing-Peter-Shands-and-Trout-scaled.jpg",
+      "page": "https://tasmaniaflyfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1367,
+      "height": 1136,
+      "original": "1367x1136",
+      "source": "https://tasmaniaflyfishing.com.au/wp-content/uploads/2023/06/d3c06e98-c4dc-4137-9bfc-76a2e26aae3a-e1686627405353.jpeg",
+      "page": "https://tasmaniaflyfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1512,
+      "height": 1002,
+      "original": "1512x1002",
+      "source": "https://tasmaniaflyfishing.com.au/wp-content/uploads/2023/06/e2352d4a-3ce4-4bc2-900f-2d5d44a8f81b-e1686627022210.jpeg",
+      "page": "https://tasmaniaflyfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 2000,
+      "height": 1265,
+      "original": "2560x1619",
+      "source": "https://tasmaniaflyfishing.com.au/wp-content/uploads/2023/06/IMG_6167-scaled-e1686625477279.jpeg",
+      "page": "https://tasmaniaflyfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1920,
+      "height": 1113,
+      "original": "1920x1113",
+      "source": "https://tasmaniaflyfishing.com.au/wp-content/uploads/2023/06/IMG_7944-scaled-e1686622590328.jpeg",
+      "page": "https://tasmaniaflyfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 2000,
+      "height": 760,
+      "original": "2560x973",
+      "source": "https://tasmaniaflyfishing.com.au/wp-content/uploads/2021/03/Pied-beauty-from-Penstock-2-scaled.jpg",
+      "page": "https://tasmaniaflyfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1204,
+      "height": 796,
+      "original": "1204x796",
+      "source": "https://tasmaniaflyfishing.com.au/wp-content/uploads/2023/06/8f73e077-c9d8-43a4-bf7b-d8583edbd7ae-1-e1686623051421.jpeg",
+      "page": "https://tasmaniaflyfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 2000,
+      "height": 1205,
+      "original": "2560x1542",
+      "source": "https://tasmaniaflyfishing.com.au/wp-content/uploads/2023/06/IMG_8307-1-scaled-e1686625919389.jpeg",
+      "page": "https://tasmaniaflyfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 2000,
+      "height": 1502,
+      "original": "2560x1923",
+      "source": "https://tasmaniaflyfishing.com.au/wp-content/uploads/2023/06/IMG_7100-scaled.jpeg",
+      "page": "https://tasmaniaflyfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1125,
+      "height": 795,
+      "original": "1125x795",
+      "source": "https://tasmaniaflyfishing.com.au/wp-content/uploads/2025/07/IMG_2898.jpg",
+      "page": "https://tasmaniaflyfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://tasmaniaflyfishing.com.au/wp-content/uploads/2025/10/cfb22d3b-859c-4c37-a184-6a0538984e33-scaled.jpg",
+      "page": "https://tasmaniaflyfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 2000,
+      "height": 1450,
+      "original": "2560x1856",
+      "source": "https://tasmaniaflyfishing.com.au/wp-content/uploads/2023/06/IMG_7755-scaled-e1686626775567.jpeg",
+      "page": "https://tasmaniaflyfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://tasmaniaflyfishing.com.au/wp-content/uploads/2023/06/IMG_8457-scaled.jpeg",
+      "page": "https://tasmaniaflyfishing.com.au/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://tasmaniaflyfishing.com.au/",
+      "status": 200,
+      "final_url": "https://tasmaniaflyfishing.com.au/",
+      "bytes": 121782
+    },
+    {
+      "page": "https://tasmaniaflyfishing.com.au/contact/",
+      "status": 404,
+      "final_url": "https://tasmaniaflyfishing.com.au/contact/",
+      "bytes": 31933
+    },
+    {
+      "page": "https://tasmaniaflyfishing.com.au/tasmania-fly-fishing-charters-rates-tours/",
+      "status": 200,
+      "final_url": "https://tasmaniaflyfishing.com.au/tasmania-fly-fishing-charters-rates-tours/",
+      "bytes": 72339
+    },
+    {
+      "page": "https://tasmaniaflyfishing.com.au/fly-fishing-for-beginners-in-tasmania/",
+      "status": 200,
+      "final_url": "https://tasmaniaflyfishing.com.au/fly-fishing-for-beginners-in-tasmania/",
+      "bytes": 93310
+    },
+    {
+      "page": "https://tasmaniaflyfishing.com.au/things-to-do-in-launceston/",
+      "status": 200,
+      "final_url": "https://tasmaniaflyfishing.com.au/things-to-do-in-launceston/",
+      "bytes": 73218
+    },
+    {
+      "page": "https://tasmaniaflyfishing.com.au/places-to-stay-fly-fishing-tasmania/",
+      "status": 200,
+      "final_url": "https://tasmaniaflyfishing.com.au/places-to-stay-fly-fishing-tasmania/",
+      "bytes": 152649
+    },
+    {
+      "page": "https://tasmaniaflyfishing.com.au/trout-flies-tasmania-fly-fishing/",
+      "status": 200,
+      "final_url": "https://tasmaniaflyfishing.com.au/trout-flies-tasmania-fly-fishing/",
+      "bytes": 60941
+    },
+    {
+      "page": "https://tasmaniaflyfishing.com.au/tasmania-fly-fishing-gear-and-merchandise/",
+      "status": 200,
+      "final_url": "https://tasmaniaflyfishing.com.au/tasmania-fly-fishing-gear-and-merchandise/",
+      "bytes": 82136
+    },
+    {
+      "page": "https://tasmaniaflyfishing.com.au/tasmaniaflyfishing-com-au-tasmania-fly-fishing-guides/",
+      "status": 200,
+      "final_url": "https://tasmaniaflyfishing.com.au/tasmaniaflyfishing-com-au-tasmania-fly-fishing-guides/",
+      "bytes": 94399
+    },
+    {
+      "page": "https://tasmaniaflyfishing.com.au/fly-fishing-resources-tasmania/",
+      "status": 200,
+      "final_url": "https://tasmaniaflyfishing.com.au/fly-fishing-resources-tasmania/",
+      "bytes": 69786
+    },
+    {
+      "page": "https://tasmaniaflyfishing.com.au/history-of-fly-fishing-in-tasmania/",
+      "status": 200,
+      "final_url": "https://tasmaniaflyfishing.com.au/history-of-fly-fishing-in-tasmania/",
+      "bytes": 68263
+    },
+    {
+      "image": "https://tasmaniaflyfishing.com.au/wp-content/uploads/sb-instagram-feed-images/tasmania_fly_fishing.webp",
+      "error": "too small 150x150"
+    }
+  ]
+}
