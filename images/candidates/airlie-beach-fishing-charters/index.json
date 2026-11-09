@@ -1,0 +1,236 @@
+{
+  "slug": "airlie-beach-fishing-charters",
+  "request_hash": "6b8d9d898026",
+  "collected_at": "2026-11-09T02:27:15.005Z",
+  "pages_fetched": [
+    "https://airliebeachfishingcharters.com.au/gallery/",
+    "https://airliebeachfishingcharters.com.au/",
+    "https://airliebeachfishingcharters.com.au/half-day-fishing-charter/",
+    "https://airliebeachfishingcharters.com.au/early-bird-fishing-charter/",
+    "https://airliebeachfishingcharters.com.au/full-day-fishing-charter/",
+    "https://airliebeachfishingcharters.com.au/private-fishing-charter/",
+    "https://airliebeachfishingcharters.com.au/about/",
+    "https://airliebeachfishingcharters.com.au/contact/",
+    "https://airliebeachfishingcharters.com.au/privacy-policy/",
+    "https://airliebeachfishingcharters.com.au/4-hour-private-fishing-charter/",
+    "https://airliebeachfishingcharters.com.au/6-hour-private-fishing-charter/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1376,
+      "height": 959,
+      "original": "1376x959",
+      "source": "https://airliebeachfishingcharters.com.au/wp-content/uploads/sites/7002/2023/11/Airlie-Beach-Fishing-Charters-2-e1699312040152.jpg?w=700&h=700&zoom=2",
+      "page": "https://airliebeachfishingcharters.com.au/gallery/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 800,
+      "height": 800,
+      "original": "800x800",
+      "source": "https://airliebeachfishingcharters.com.au/wp-content/uploads/sites/7002/2023/11/Airlie-Beach-Fishing-Charters-1-scaled.jpg?resize=400%2C400&zoom=2",
+      "page": "https://airliebeachfishingcharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 800,
+      "height": 800,
+      "original": "800x800",
+      "source": "https://airliebeachfishingcharters.com.au/wp-content/uploads/sites/7002/2023/11/Airlie-Beach-Fishing-Charters-3.jpg?resize=400%2C400&zoom=2",
+      "page": "https://airliebeachfishingcharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 800,
+      "height": 800,
+      "original": "800x800",
+      "source": "https://airliebeachfishingcharters.com.au/wp-content/uploads/sites/7002/2023/11/Airlie-Beach-Fishing-Charters-4-scaled.jpg?resize=400%2C400&zoom=2",
+      "page": "https://airliebeachfishingcharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 800,
+      "height": 800,
+      "original": "800x800",
+      "source": "https://airliebeachfishingcharters.com.au/wp-content/uploads/sites/7002/2023/11/Airlie-Beach-Fishing-Charters-5-scaled.jpg?resize=400%2C400&zoom=2",
+      "page": "https://airliebeachfishingcharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 800,
+      "height": 800,
+      "original": "800x800",
+      "source": "https://airliebeachfishingcharters.com.au/wp-content/uploads/sites/7002/2023/11/Airlie-Beach-Fishing-Charters-6-scaled.jpg?resize=400%2C400&zoom=2",
+      "page": "https://airliebeachfishingcharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 800,
+      "height": 800,
+      "original": "800x800",
+      "source": "https://airliebeachfishingcharters.com.au/wp-content/uploads/sites/7002/2023/11/Airlie-Beach-Fishing-Charters-9-scaled.jpg?resize=400%2C400&zoom=2",
+      "page": "https://airliebeachfishingcharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 800,
+      "height": 800,
+      "original": "800x800",
+      "source": "https://airliebeachfishingcharters.com.au/wp-content/uploads/sites/7002/2023/11/Airlie-Beach-Fishing-Charters-10-scaled.jpg?resize=400%2C400&zoom=2",
+      "page": "https://airliebeachfishingcharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 800,
+      "height": 800,
+      "original": "800x800",
+      "source": "https://airliebeachfishingcharters.com.au/wp-content/uploads/sites/7002/2023/11/Airlie-Beach-Fishing-Charters-11-scaled.jpg?resize=400%2C400&zoom=2",
+      "page": "https://airliebeachfishingcharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 800,
+      "height": 800,
+      "original": "800x800",
+      "source": "https://airliebeachfishingcharters.com.au/wp-content/uploads/sites/7002/2023/11/Airlie-Beach-Fishing-Charters-12-scaled.jpg?resize=400%2C400&zoom=2",
+      "page": "https://airliebeachfishingcharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 800,
+      "height": 800,
+      "original": "800x800",
+      "source": "https://airliebeachfishingcharters.com.au/wp-content/uploads/sites/7002/2023/11/Airlie-Beach-Fishing-Charters-37-scaled.jpg?resize=400%2C400&zoom=2",
+      "page": "https://airliebeachfishingcharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 800,
+      "height": 800,
+      "original": "800x800",
+      "source": "https://airliebeachfishingcharters.com.au/wp-content/uploads/sites/7002/2023/11/Airlie-Beach-Fishing-Charters-13-scaled.jpg?resize=400%2C400&zoom=2",
+      "page": "https://airliebeachfishingcharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 800,
+      "height": 800,
+      "original": "800x800",
+      "source": "https://airliebeachfishingcharters.com.au/wp-content/uploads/sites/7002/2023/11/Airlie-Beach-Fishing-Charters-45-scaled.jpg?resize=400%2C400&zoom=2",
+      "page": "https://airliebeachfishingcharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 800,
+      "height": 800,
+      "original": "800x800",
+      "source": "https://airliebeachfishingcharters.com.au/wp-content/uploads/sites/7002/2023/11/Airlie-Beach-Fishing-Charters-14-scaled.jpg?resize=400%2C400&zoom=2",
+      "page": "https://airliebeachfishingcharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 800,
+      "height": 800,
+      "original": "800x800",
+      "source": "https://airliebeachfishingcharters.com.au/wp-content/uploads/sites/7002/2023/11/Airlie-Beach-Fishing-Charters-46-scaled.jpg?resize=400%2C400&zoom=2",
+      "page": "https://airliebeachfishingcharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 800,
+      "height": 800,
+      "original": "800x800",
+      "source": "https://airliebeachfishingcharters.com.au/wp-content/uploads/sites/7002/2023/11/Airlie-Beach-Fishing-Charters-15-scaled.jpg?resize=400%2C400&zoom=2",
+      "page": "https://airliebeachfishingcharters.com.au/gallery/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://airliebeachfishingcharters.com.au/gallery/",
+      "status": 200,
+      "final_url": "https://airliebeachfishingcharters.com.au/gallery/",
+      "bytes": 143830
+    },
+    {
+      "page": "https://airliebeachfishingcharters.com.au/",
+      "status": 200,
+      "final_url": "https://airliebeachfishingcharters.com.au/",
+      "bytes": 187403
+    },
+    {
+      "page": "https://airliebeachfishingcharters.com.au/half-day-fishing-charter/",
+      "status": 200,
+      "final_url": "https://airliebeachfishingcharters.com.au/half-day-fishing-charter/",
+      "bytes": 156575
+    },
+    {
+      "page": "https://airliebeachfishingcharters.com.au/early-bird-fishing-charter/",
+      "status": 200,
+      "final_url": "https://airliebeachfishingcharters.com.au/early-bird-fishing-charter/",
+      "bytes": 156233
+    },
+    {
+      "page": "https://airliebeachfishingcharters.com.au/full-day-fishing-charter/",
+      "status": 200,
+      "final_url": "https://airliebeachfishingcharters.com.au/full-day-fishing-charter/",
+      "bytes": 155175
+    },
+    {
+      "page": "https://airliebeachfishingcharters.com.au/private-fishing-charter/",
+      "status": 200,
+      "final_url": "https://airliebeachfishingcharters.com.au/private-fishing-charter/",
+      "bytes": 156439
+    },
+    {
+      "page": "https://airliebeachfishingcharters.com.au/about/",
+      "status": 200,
+      "final_url": "https://airliebeachfishingcharters.com.au/about/",
+      "bytes": 124727
+    },
+    {
+      "page": "https://airliebeachfishingcharters.com.au/contact/",
+      "status": 200,
+      "final_url": "https://airliebeachfishingcharters.com.au/contact/",
+      "bytes": 156431
+    },
+    {
+      "page": "https://airliebeachfishingcharters.com.au/privacy-policy/",
+      "status": 200,
+      "final_url": "https://airliebeachfishingcharters.com.au/privacy-policy/",
+      "bytes": 162664
+    },
+    {
+      "page": "https://airliebeachfishingcharters.com.au/4-hour-private-fishing-charter/",
+      "status": 200,
+      "final_url": "https://airliebeachfishingcharters.com.au/4-hour-private-fishing-charter/",
+      "bytes": 143517
+    },
+    {
+      "page": "https://airliebeachfishingcharters.com.au/6-hour-private-fishing-charter/",
+      "status": 200,
+      "final_url": "https://airliebeachfishingcharters.com.au/6-hour-private-fishing-charter/",
+      "bytes": 139675
+    },
+    {
+      "image": "https://airliebeachfishingcharters.com.au/wp-content/uploads/sites/7002/2023/11/Airlie-Beach-Fishing-Charters.png?h=120&zoom=2",
+      "error": "too small 240x240"
+    }
+  ]
+}

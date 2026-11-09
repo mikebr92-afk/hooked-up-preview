@@ -1,0 +1,216 @@
+{
+  "slug": "audacity-charters-townsville",
+  "request_hash": "96d4bf3b3270",
+  "collected_at": "2026-11-09T02:26:59.350Z",
+  "pages_fetched": [
+    "https://audacitymarine.com.au/gallery/",
+    "https://audacitymarine.com.au/our-fleet/",
+    "https://audacitymarine.com.au/",
+    "https://audacitymarine.com.au/fishing-charters/",
+    "https://audacitymarine.com.au/about-us/",
+    "https://audacitymarine.com.au/contact/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 2000,
+      "height": 830,
+      "original": "2560x1062",
+      "source": "https://audacitymarine.com.au/wp-content/uploads/2026/06/Vanguard2BannerGreenbanner2.jpg",
+      "page": "https://audacitymarine.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 1300,
+      "height": 1300,
+      "original": "1300x1300",
+      "source": "https://audacitymarine.com.au/wp-content/uploads/2022/02/family.jpg",
+      "page": "https://audacitymarine.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1300,
+      "height": 1300,
+      "original": "1300x1300",
+      "source": "https://audacitymarine.com.au/wp-content/uploads/2022/02/Ladies-Only.jpg",
+      "page": "https://audacitymarine.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1300,
+      "height": 1300,
+      "original": "1300x1300",
+      "source": "https://audacitymarine.com.au/wp-content/uploads/2022/02/Fishing-Excursion.jpg",
+      "page": "https://audacitymarine.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 720,
+      "height": 720,
+      "original": "720x720",
+      "source": "https://audacitymarine.com.au/wp-content/uploads/2022/02/Adventure.jpg",
+      "page": "https://audacitymarine.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 750,
+      "height": 563,
+      "original": "750x563",
+      "source": "https://audacitymarine.com.au/wp-content/uploads/2022/02/received_321108236179617.jpeg",
+      "page": "https://audacitymarine.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 750,
+      "height": 563,
+      "original": "750x563",
+      "source": "https://audacitymarine.com.au/wp-content/uploads/2022/02/received_854879225173014.jpeg",
+      "page": "https://audacitymarine.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 827,
+      "height": 827,
+      "original": "827x827",
+      "source": "https://audacitymarine.com.au/wp-content/uploads/2022/02/received_259315349463973-e1707883914371.jpeg",
+      "page": "https://audacitymarine.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 768,
+      "height": 576,
+      "original": "768x576",
+      "source": "https://audacitymarine.com.au/wp-content/uploads/2022/02/received_613314956664253.jpeg",
+      "page": "https://audacitymarine.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 768,
+      "height": 576,
+      "original": "768x576",
+      "source": "https://audacitymarine.com.au/wp-content/uploads/2022/02/received_412209207366937.jpeg",
+      "page": "https://audacitymarine.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 768,
+      "height": 576,
+      "original": "768x576",
+      "source": "https://audacitymarine.com.au/wp-content/uploads/2022/02/received_1265286670614923.jpeg",
+      "page": "https://audacitymarine.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 768,
+      "height": 576,
+      "original": "768x576",
+      "source": "https://audacitymarine.com.au/wp-content/uploads/2022/02/received_597710707980592.jpeg",
+      "page": "https://audacitymarine.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 757,
+      "height": 567,
+      "original": "757x567",
+      "source": "https://audacitymarine.com.au/wp-content/uploads/2022/02/received_1058124231513632.jpeg",
+      "page": "https://audacitymarine.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 768,
+      "height": 576,
+      "original": "768x576",
+      "source": "https://audacitymarine.com.au/wp-content/uploads/2022/02/received_1443564029374598.jpeg",
+      "page": "https://audacitymarine.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 768,
+      "height": 576,
+      "original": "768x576",
+      "source": "https://audacitymarine.com.au/wp-content/uploads/2022/02/received_650244896216175.jpeg",
+      "page": "https://audacitymarine.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 768,
+      "height": 576,
+      "original": "768x576",
+      "source": "https://audacitymarine.com.au/wp-content/uploads/2022/02/received_238175595061255.jpeg",
+      "page": "https://audacitymarine.com.au/gallery/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://audacitymarine.com.au/gallery/",
+      "status": 200,
+      "final_url": "https://audacitymarine.com.au/gallery/",
+      "bytes": 408404
+    },
+    {
+      "page": "https://audacitymarine.com.au/our-fleet/",
+      "status": 200,
+      "final_url": "https://audacitymarine.com.au/our-fleet/",
+      "bytes": 408615
+    },
+    {
+      "page": "https://audacitymarine.com.au/",
+      "status": 200,
+      "final_url": "https://audacitymarine.com.au/",
+      "bytes": 468240
+    },
+    {
+      "page": "https://audacitymarine.com.au/fishing-charters/",
+      "status": 200,
+      "final_url": "https://audacitymarine.com.au/fishing-charters/",
+      "bytes": 412010
+    },
+    {
+      "page": "https://audacitymarine.com.au/about-us/",
+      "status": 200,
+      "final_url": "https://audacitymarine.com.au/about-us/",
+      "bytes": 363149
+    },
+    {
+      "page": "https://audacitymarine.com.au/contact/",
+      "status": 200,
+      "final_url": "https://audacitymarine.com.au/contact/",
+      "bytes": 318456
+    },
+    {
+      "dup": "https://audacitymarine.com.au/wp-content/uploads/2022/02/family-768x768.jpg"
+    },
+    {
+      "dup": "https://audacitymarine.com.au/wp-content/uploads/2022/02/Ladies-Only-768x768.jpg"
+    },
+    {
+      "dup": "https://audacitymarine.com.au/wp-content/uploads/2022/02/Fishing-Excursion-768x768.jpg"
+    },
+    {
+      "dup": "https://audacitymarine.com.au/wp-content/uploads/2022/02/received_259315349463973-e1707883914371-768x768.jpeg"
+    },
+    {
+      "image": "https://audacitymarine.com.au/wp-content/uploads/2022/02/received_506976177321554.jpeg",
+      "error": "too small 475x342"
+    },
+    {
+      "dup": "https://audacitymarine.com.au/wp-content/uploads/2022/02/received_621353715850709.jpeg"
+    }
+  ]
+}

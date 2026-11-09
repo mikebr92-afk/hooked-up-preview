@@ -1,0 +1,20 @@
+{
+  "slug": "cairns-sportfishing",
+  "request_hash": "f55581eaf1a8",
+  "collected_at": "2026-11-09T02:25:55.782Z",
+  "pages_fetched": [
+    "https://www.cairnssportfishing.com.au/cairns-fishing-gallery.html",
+    "https://www.cairnssportfishing.com.au/index.html"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://www.cairnssportfishing.com.au/cairns-fishing-gallery.html",
+      "error": "fetch failed"
+    },
+    {
+      "page": "https://www.cairnssportfishing.com.au/index.html",
+      "error": "fetch failed"
+    }
+  ]
+}

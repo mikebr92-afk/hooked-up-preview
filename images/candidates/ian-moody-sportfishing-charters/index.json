@@ -1,0 +1,366 @@
+{
+  "slug": "ian-moody-sportfishing-charters",
+  "request_hash": "400a4bfc6158",
+  "collected_at": "2026-11-09T02:25:52.354Z",
+  "pages_fetched": [
+    "https://www.australias.guide/qld/attraction-tour/townsville/mount-low/ian-moody-sportfishing-charters/",
+    "https://qld2032.com/tourism/operator/ian-moody-sportfishing-charters-7ebe76/",
+    "https://assets.big4.com.au/caravan-parks/qld/townsville-surrounds/ingenia-holidays-townsville/whats-local/ian-moody-sportfishing-charters-6045f4108fc1e7796a9d63ac",
+    "https://www.queensland.com/au/en/things-to-do/tours/p-6045f4108fc1e7796a9d63ac-ian-moody-sportfishing-charters",
+    "https://ianmoodyfishing.com/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 800,
+      "height": 768,
+      "original": "800x768",
+      "source": "http://australiasguide.com/ausguide.png",
+      "page": "https://www.australias.guide/qld/attraction-tour/townsville/mount-low/ian-moody-sportfishing-charters/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 1600,
+      "height": 800,
+      "original": "1600x800",
+      "source": "https://australiasguide.com/wp-content/uploads/blue_mountains.jpg",
+      "page": "https://www.australias.guide/qld/attraction-tour/townsville/mount-low/ian-moody-sportfishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1000,
+      "height": 667,
+      "original": "1000x667",
+      "source": "https://australiasguide.com/wp-content/uploads/julia_creek_races.jpg",
+      "page": "https://www.australias.guide/qld/attraction-tour/townsville/mount-low/ian-moody-sportfishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 849,
+      "height": 565,
+      "original": "849x565",
+      "source": "https://australiasguide.com/wp-content/uploads/hotels3.jpg",
+      "page": "https://www.australias.guide/qld/attraction-tour/townsville/mount-low/ian-moody-sportfishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1000,
+      "height": 938,
+      "original": "1000x938",
+      "source": "https://australiasguide.com/wp-content/uploads/joy-flight.jpg",
+      "page": "https://www.australias.guide/qld/attraction-tour/townsville/mount-low/ian-moody-sportfishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 2000,
+      "height": 1330,
+      "original": "2048x1362",
+      "source": "https://australiasguide.com/wp-content/uploads/seacliff-bridge-nsw.jpg",
+      "page": "https://www.australias.guide/qld/attraction-tour/townsville/mount-low/ian-moody-sportfishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1920,
+      "height": 1152,
+      "original": "1920x1152",
+      "source": "https://australiasguide.com/wp-content/uploads/food-drink-cat2.jpg",
+      "page": "https://www.australias.guide/qld/attraction-tour/townsville/mount-low/ian-moody-sportfishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1000,
+      "height": 667,
+      "original": "1000x667",
+      "source": "https://australiasguide.com/wp-content/uploads/sunset.jpg",
+      "page": "https://www.australias.guide/qld/attraction-tour/townsville/mount-low/ian-moody-sportfishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1600,
+      "height": 1067,
+      "original": "1600x1067",
+      "source": "https://australiasguide.com/wp-content/uploads/byron-bay.jpg",
+      "page": "https://www.australias.guide/qld/attraction-tour/townsville/mount-low/ian-moody-sportfishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1600,
+      "height": 693,
+      "original": "1600x693",
+      "source": "https://australiasguide.com/wp-content/uploads/sydney-harbour.jpg",
+      "page": "https://www.australias.guide/qld/attraction-tour/townsville/mount-low/ian-moody-sportfishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1600,
+      "height": 1187,
+      "original": "1600x1187",
+      "source": "https://australiasguide.com/wp-content/uploads/gold-coastf.jpg",
+      "page": "https://www.australias.guide/qld/attraction-tour/townsville/mount-low/ian-moody-sportfishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1600,
+      "height": 1222,
+      "original": "1600x1222",
+      "source": "https://australiasguide.com/wp-content/uploads/melbourne.jpg",
+      "page": "https://www.australias.guide/qld/attraction-tour/townsville/mount-low/ian-moody-sportfishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1003,
+      "height": 545,
+      "original": "1003x545",
+      "source": "https://australiasguide.com/wp-content/uploads/perth.jpg",
+      "page": "https://www.australias.guide/qld/attraction-tour/townsville/mount-low/ian-moody-sportfishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1600,
+      "height": 1070,
+      "original": "1600x1070",
+      "source": "https://australiasguide.com/wp-content/uploads/cairns.jpg",
+      "page": "https://www.australias.guide/qld/attraction-tour/townsville/mount-low/ian-moody-sportfishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1600,
+      "height": 1200,
+      "original": "1600x1200",
+      "source": "https://australiasguide.com/wp-content/uploads/adelaide2.jpg",
+      "page": "https://www.australias.guide/qld/attraction-tour/townsville/mount-low/ian-moody-sportfishing-charters/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1200,
+      "height": 630,
+      "original": "1200x630",
+      "source": "https://qld2032.com/assets/og-default.png",
+      "page": "https://qld2032.com/tourism/operator/ian-moody-sportfishing-charters-7ebe76/",
+      "priority": true
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.australias.guide/qld/attraction-tour/townsville/mount-low/ian-moody-sportfishing-charters/",
+      "status": 200,
+      "final_url": "https://australiasguide.com/",
+      "bytes": 146324
+    },
+    {
+      "page": "https://qld2032.com/tourism/operator/ian-moody-sportfishing-charters-7ebe76/",
+      "status": 200,
+      "final_url": "https://qld2032.com/tourism/operator/ian-moody-sportfishing-charters-7ebe76/",
+      "bytes": 15087
+    },
+    {
+      "page": "https://assets.big4.com.au/caravan-parks/qld/townsville-surrounds/ingenia-holidays-townsville/whats-local/ian-moody-sportfishing-charters-6045f4108fc1e7796a9d63ac",
+      "status": 200,
+      "final_url": "https://assets.big4.com.au/caravan-parks/qld/townsville-surrounds/ingenia-holidays-townsville/whats-local/ian-moody-sportfishing-charters-6045f4108fc1e7796a9d63ac",
+      "bytes": 413716
+    },
+    {
+      "page": "https://www.queensland.com/au/en/things-to-do/tours/p-6045f4108fc1e7796a9d63ac-ian-moody-sportfishing-charters",
+      "status": 200,
+      "final_url": "https://www.queensland.com/au/en/things-to-do/tours/p-6045f4108fc1e7796a9d63ac-ian-moody-sportfishing-charters",
+      "bytes": 16682
+    },
+    {
+      "page": "https://ianmoodyfishing.com/",
+      "error": "fetch failed"
+    },
+    {
+      "dup": "https://australiasguide.com/wp-content/uploads/outback_road.jpg"
+    },
+    {
+      "dup": "https://australiasguide.com/wp-content/uploads/blue_mountains-1600x800.jpg"
+    },
+    {
+      "image": "https://australiasguide.com/wp-content/uploads/blue_mountains-400x200.jpg",
+      "error": "too small 400x200"
+    },
+    {
+      "dup": "https://australiasguide.com/wp-content/uploads/blue_mountains-800x400.jpg"
+    },
+    {
+      "image": "https://australiasguide.com/wp-content/uploads/blue_mountains-280x140.jpg",
+      "error": "too small 280x140"
+    },
+    {
+      "image": "https://australiasguide.com/wp-content/uploads/julia_creek_races-400x267.jpg",
+      "error": "too small 400x267"
+    },
+    {
+      "dup": "https://australiasguide.com/wp-content/uploads/julia_creek_races-800x534.jpg"
+    },
+    {
+      "image": "https://australiasguide.com/wp-content/uploads/julia_creek_races-280x187.jpg",
+      "error": "too small 280x187"
+    },
+    {
+      "image": "https://australiasguide.com/wp-content/uploads/hotels3-400x266.jpg",
+      "error": "too small 400x266"
+    },
+    {
+      "dup": "https://australiasguide.com/wp-content/uploads/hotels3-800x532.jpg"
+    },
+    {
+      "image": "https://australiasguide.com/wp-content/uploads/hotels3-280x186.jpg",
+      "error": "too small 280x186"
+    },
+    {
+      "image": "https://australiasguide.com/wp-content/uploads/joy-flight-400x375.jpg",
+      "error": "too small 400x375"
+    },
+    {
+      "dup": "https://australiasguide.com/wp-content/uploads/joy-flight-800x750.jpg"
+    },
+    {
+      "image": "https://australiasguide.com/wp-content/uploads/joy-flight-280x263.jpg",
+      "error": "too small 280x263"
+    },
+    {
+      "image": "https://australiasguide.com/wp-content/uploads/seacliff-bridge-nsw-400x266.jpg",
+      "error": "too small 400x266"
+    },
+    {
+      "dup": "https://australiasguide.com/wp-content/uploads/seacliff-bridge-nsw-800x532.jpg"
+    },
+    {
+      "dup": "https://australiasguide.com/wp-content/uploads/seacliff-bridge-nsw-1600x1064.jpg"
+    },
+    {
+      "image": "https://australiasguide.com/wp-content/uploads/seacliff-bridge-nsw-280x186.jpg",
+      "error": "too small 280x186"
+    },
+    {
+      "image": "https://australiasguide.com/wp-content/uploads/food-drink-cat2-400x240.jpg",
+      "error": "too small 400x240"
+    },
+    {
+      "dup": "https://australiasguide.com/wp-content/uploads/food-drink-cat2-800x480.jpg"
+    },
+    {
+      "dup": "https://australiasguide.com/wp-content/uploads/food-drink-cat2-1600x960.jpg"
+    },
+    {
+      "image": "https://australiasguide.com/wp-content/uploads/food-drink-cat2-280x168.jpg",
+      "error": "too small 280x168"
+    },
+    {
+      "image": "https://australiasguide.com/wp-content/uploads/outback_road-400x268.jpg",
+      "error": "too small 400x268"
+    },
+    {
+      "dup": "https://australiasguide.com/wp-content/uploads/outback_road-800x536.jpg"
+    },
+    {
+      "image": "https://australiasguide.com/wp-content/uploads/outback_road-280x188.jpg",
+      "error": "too small 280x188"
+    },
+    {
+      "image": "https://australiasguide.com/wp-content/uploads/sunset-400x267.jpg",
+      "error": "too small 400x267"
+    },
+    {
+      "dup": "https://australiasguide.com/wp-content/uploads/sunset-800x534.jpg"
+    },
+    {
+      "image": "https://australiasguide.com/wp-content/uploads/sunset-280x187.jpg",
+      "error": "too small 280x187"
+    },
+    {
+      "image": "https://australiasguide.com/wp-content/uploads/byron-bay-400x267.jpg",
+      "error": "too small 400x267"
+    },
+    {
+      "dup": "https://australiasguide.com/wp-content/uploads/byron-bay-800x534.jpg"
+    },
+    {
+      "image": "https://australiasguide.com/wp-content/uploads/byron-bay-280x187.jpg",
+      "error": "too small 280x187"
+    },
+    {
+      "image": "https://australiasguide.com/wp-content/uploads/sydney-harbour-800x347.jpg",
+      "error": "too small 800x347"
+    },
+    {
+      "image": "https://australiasguide.com/wp-content/uploads/sydney-harbour-400x173.jpg",
+      "error": "too small 400x173"
+    },
+    {
+      "image": "https://australiasguide.com/wp-content/uploads/sydney-harbour-280x121.jpg",
+      "error": "too small 280x121"
+    },
+    {
+      "dup": "https://australiasguide.com/wp-content/uploads/gold-coastf-800x594.jpg"
+    },
+    {
+      "image": "https://australiasguide.com/wp-content/uploads/gold-coastf-400x297.jpg",
+      "error": "too small 400x297"
+    },
+    {
+      "image": "https://australiasguide.com/wp-content/uploads/gold-coastf-280x208.jpg",
+      "error": "too small 280x208"
+    },
+    {
+      "dup": "https://australiasguide.com/wp-content/uploads/melbourne-800x611.jpg"
+    },
+    {
+      "image": "https://australiasguide.com/wp-content/uploads/melbourne-400x306.jpg",
+      "error": "too small 400x306"
+    },
+    {
+      "image": "https://australiasguide.com/wp-content/uploads/melbourne-280x214.jpg",
+      "error": "too small 280x214"
+    },
+    {
+      "image": "https://australiasguide.com/wp-content/uploads/perth-400x217.jpg",
+      "error": "too small 400x217"
+    },
+    {
+      "dup": "https://australiasguide.com/wp-content/uploads/perth-800x435.jpg"
+    },
+    {
+      "image": "https://australiasguide.com/wp-content/uploads/perth-280x152.jpg",
+      "error": "too small 280x152"
+    },
+    {
+      "image": "https://australiasguide.com/wp-content/uploads/cairns-400x268.jpg",
+      "error": "too small 400x268"
+    },
+    {
+      "dup": "https://australiasguide.com/wp-content/uploads/cairns-800x535.jpg"
+    },
+    {
+      "image": "https://australiasguide.com/wp-content/uploads/cairns-280x187.jpg",
+      "error": "too small 280x187"
+    },
+    {
+      "image": "https://australiasguide.com/wp-content/uploads/adelaide2-400x300.jpg",
+      "error": "too small 400x300"
+    },
+    {
+      "dup": "https://australiasguide.com/wp-content/uploads/adelaide2-800x600.jpg"
+    },
+    {
+      "image": "https://australiasguide.com/wp-content/uploads/adelaide2-280x210.jpg",
+      "error": "too small 280x210"
+    }
+  ]
+}
