@@ -1,65 +1,58 @@
 {
-  "finished_at": "2026-11-09T02:31:06.747Z",
+  "finished_at": "2026-11-09T02:33:14.966Z",
   "summary": [
     {
+      "slug": "birchys-fishing-tours-2",
+      "candidates": 10,
+      "pages": 0
+    },
+    {
       "slug": "birchys-fishing-tours",
-      "candidates": 30,
-      "pages": 7
+      "skipped": true
     },
     {
       "slug": "absolute-ocean-charters-broome",
-      "candidates": 14,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "offshore-charters-wa-geraldton",
-      "candidates": 30,
-      "pages": 8
+      "skipped": true
     },
     {
       "slug": "game-time-charters-hillarys",
-      "candidates": 30,
-      "pages": 12
+      "skipped": true
     },
     {
       "slug": "akame-sportfishing-broome",
-      "candidates": 16,
-      "pages": 9
+      "skipped": true
     },
     {
       "slug": "broome-billfish-charters",
-      "candidates": 16,
-      "pages": 12
+      "skipped": true
     },
     {
       "slug": "all-the-gear-no-idea-sportfishing-exmouth",
-      "candidates": 16,
-      "pages": 9
+      "skipped": true
     },
     {
       "slug": "blue-horizon-charters-exmouth",
-      "candidates": 16,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "innkeeper-sportfishing-charters-exmouth",
-      "candidates": 16,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "apache-charters-abrolhos",
-      "candidates": 16,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "kuri-bay-sport-fishing-tours",
-      "candidates": 16,
-      "pages": 7
+      "skipped": true
     },
     {
       "slug": "reel-teaser-fishing-adventures",
-      "candidates": 16,
-      "pages": 10
+      "skipped": true
     }
   ]
 }

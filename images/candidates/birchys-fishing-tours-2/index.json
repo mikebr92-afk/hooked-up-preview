@@ -1,0 +1,99 @@
+{
+  "slug": "birchys-fishing-tours-2",
+  "request_hash": "ad1d4933b099",
+  "collected_at": "2026-11-09T02:33:14.963Z",
+  "pages_fetched": [],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 900,
+      "height": 600,
+      "original": "900x600",
+      "source": "https://birchysfishingtours.com.au/application/files/8416/7919/6274/pic-catch-4.jpg",
+      "page": "direct",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 900,
+      "height": 600,
+      "original": "900x600",
+      "source": "https://birchysfishingtours.com.au/application/files/7716/7919/6271/pic-catch-5.jpg",
+      "page": "direct",
+      "priority": true
+    },
+    {
+      "file": "c03.webp",
+      "width": 900,
+      "height": 600,
+      "original": "900x600",
+      "source": "https://birchysfishingtours.com.au/application/files/8116/7919/6271/pic-catch-6.jpg",
+      "page": "direct",
+      "priority": true
+    },
+    {
+      "file": "c04.webp",
+      "width": 900,
+      "height": 600,
+      "original": "900x600",
+      "source": "https://birchysfishingtours.com.au/application/files/7216/7919/6271/pic-catch-7.jpg",
+      "page": "direct",
+      "priority": true
+    },
+    {
+      "file": "c05.webp",
+      "width": 900,
+      "height": 600,
+      "original": "900x600",
+      "source": "https://birchysfishingtours.com.au/application/files/6316/7919/6271/pic-catch-8.jpg",
+      "page": "direct",
+      "priority": true
+    },
+    {
+      "file": "c06.webp",
+      "width": 900,
+      "height": 600,
+      "original": "900x600",
+      "source": "https://birchysfishingtours.com.au/application/files/2816/7919/6268/pic-catch-9.jpg",
+      "page": "direct",
+      "priority": true
+    },
+    {
+      "file": "c07.webp",
+      "width": 900,
+      "height": 600,
+      "original": "900x600",
+      "source": "https://birchysfishingtours.com.au/application/files/4816/7919/6268/pic-catch-10.jpg",
+      "page": "direct",
+      "priority": true
+    },
+    {
+      "file": "c08.webp",
+      "width": 900,
+      "height": 600,
+      "original": "900x600",
+      "source": "https://birchysfishingtours.com.au/application/files/6216/7919/6268/pic-catch-11.jpg",
+      "page": "direct",
+      "priority": true
+    },
+    {
+      "file": "c09.webp",
+      "width": 900,
+      "height": 600,
+      "original": "900x600",
+      "source": "https://birchysfishingtours.com.au/application/files/5016/7919/6267/pic-catch-12.jpg",
+      "page": "direct",
+      "priority": true
+    },
+    {
+      "file": "c10.webp",
+      "width": 900,
+      "height": 600,
+      "original": "900x600",
+      "source": "https://birchysfishingtours.com.au/application/files/2016/7938/9798/pic-catch-17.jpg",
+      "page": "direct",
+      "priority": true
+    }
+  ],
+  "log": []
+}
