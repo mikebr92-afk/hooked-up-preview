@@ -1,0 +1,371 @@
+{
+  "slug": "game-time-charters-hillarys",
+  "request_hash": "2a3e2ddc5e07",
+  "collected_at": "2026-11-09T02:27:18.815Z",
+  "pages_fetched": [
+    "https://www.gametimecharters.com.au/game-fishing-gallery",
+    "https://www.gametimecharters.com.au/gallery",
+    "https://www.gametimecharters.com.au/enquiries-contact",
+    "https://www.gametimecharters.com.au/",
+    "https://www.gametimecharters.com.au/rottnest-island-private-charters",
+    "https://www.gametimecharters.com.au/private-game-fishing-charters",
+    "https://www.gametimecharters.com.au/our-story",
+    "https://www.gametimecharters.com.au/departing-from-hillarys-boat-harbour-perth",
+    "https://www.gametimecharters.com.au/booking-page",
+    "https://www.gametimecharters.com.au/rottnest-gallery",
+    "https://www.gametimecharters.com.au/departing-from-jurien-bay",
+    "https://www.gametimecharters.com.au/privacy-policy"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1200,
+      "height": 630,
+      "original": "1200x630",
+      "source": "https://cdn.prod.website-files.com/670f54217703bf6e5066979d/6ac71bc9084cdf00875017cc_game-time-charters-game-fishing-og.jpg",
+      "page": "https://www.gametimecharters.com.au/game-fishing-gallery",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://cdn.prod.website-files.com/670f54217703bf6e5066979d/6736fda200e9b6b4d38fdf12_Game-Fishing-Marlin-1.webp",
+      "page": "https://www.gametimecharters.com.au/game-fishing-gallery",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://cdn.prod.website-files.com/670f54217703bf6e5066979d/6736fda2128d15f8013c9bf3_Game-Fishing-Marlin-2.webp",
+      "page": "https://www.gametimecharters.com.au/game-fishing-gallery",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1121,
+      "height": 900,
+      "original": "1121x900",
+      "source": "https://cdn.prod.website-files.com/670f54217703bf6e5066979d/6ac8c711246db0a90368176c_gt2-crop-Game-Fishing-Marlin-5-a5f8.webp",
+      "page": "https://www.gametimecharters.com.au/game-fishing-gallery",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://cdn.prod.website-files.com/670f54217703bf6e5066979d/6736fda1d7a14d9d0ce15feb_Game-Fishing-Marlin-3.webp",
+      "page": "https://www.gametimecharters.com.au/game-fishing-gallery",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://cdn.prod.website-files.com/670f54217703bf6e5066979d/6736fda143fa7457b5e8299e_Game-Fishing-Marlin-6.webp",
+      "page": "https://www.gametimecharters.com.au/game-fishing-gallery",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1600,
+      "height": 1200,
+      "original": "1600x1200",
+      "source": "https://cdn.prod.website-files.com/670f54217703bf6e5066979d/68c6406b24bb7c71c0ba25ba_IMG_2240.webp",
+      "page": "https://www.gametimecharters.com.au/game-fishing-gallery",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://cdn.prod.website-files.com/670f54217703bf6e5066979d/6736fe5576c1fdf47bc4f098_Game-Fishing-Marlin-11.webp",
+      "page": "https://www.gametimecharters.com.au/game-fishing-gallery",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "4000x3000",
+      "source": "https://cdn.prod.website-files.com/670f54217703bf6e5066979d/68c63f03914aa5745992452c_20250304_110339.webp",
+      "page": "https://www.gametimecharters.com.au/game-fishing-gallery",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1080,
+      "height": 1350,
+      "original": "1080x1350",
+      "source": "https://cdn.prod.website-files.com/670f54217703bf6e5066979d/68c7f57aeef5fb8e63968f61_2.webp",
+      "page": "https://www.gametimecharters.com.au/game-fishing-gallery",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "4000x3000",
+      "source": "https://cdn.prod.website-files.com/670f54217703bf6e5066979d/68c7f3f69aba7881ec7106f9_marlin-in-water.webp",
+      "page": "https://www.gametimecharters.com.au/game-fishing-gallery",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1170,
+      "height": 2000,
+      "original": "1264x2160",
+      "source": "https://cdn.prod.website-files.com/670f54217703bf6e5066979d/68c63f3aafa82f97b09a2ad8_gpMediaMetadata_1742865308371.webp",
+      "page": "https://www.gametimecharters.com.au/game-fishing-gallery",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1600,
+      "height": 1200,
+      "original": "1600x1200",
+      "source": "https://cdn.prod.website-files.com/670f54217703bf6e5066979d/6a8b9fa6d6c28d8e5c124d22_game-fishing-charter-group-on-deck.webp",
+      "page": "https://www.gametimecharters.com.au/game-fishing-gallery",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1200,
+      "height": 1600,
+      "original": "1200x1600",
+      "source": "https://cdn.prod.website-files.com/670f54217703bf6e5066979d/6a8b9f0fdca6028a49dc3663_game-fishing-mahi-mahi-marina.webp",
+      "page": "https://www.gametimecharters.com.au/game-fishing-gallery",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1571,
+      "height": 1600,
+      "original": "1571x1600",
+      "source": "https://cdn.prod.website-files.com/670f54217703bf6e5066979d/6a8b9fa440731beab378cc0f_game-fishing-marlin-alongside-boat.webp",
+      "page": "https://www.gametimecharters.com.au/game-fishing-gallery",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1200,
+      "height": 1600,
+      "original": "1200x1600",
+      "source": "https://cdn.prod.website-files.com/670f54217703bf6e5066979d/6a8b9f60282310586cf40b24_game-fishing-junior-angler-mahi-mahi.webp",
+      "page": "https://www.gametimecharters.com.au/game-fishing-gallery",
+      "priority": false
+    },
+    {
+      "file": "c17.webp",
+      "width": 1200,
+      "height": 1600,
+      "original": "1200x1600",
+      "source": "https://cdn.prod.website-files.com/670f54217703bf6e5066979d/6a8b9f0e6dbc2206b28b645d_game-fishing-fresh-sashimi-on-board.webp",
+      "page": "https://www.gametimecharters.com.au/game-fishing-gallery",
+      "priority": false
+    },
+    {
+      "file": "c18.webp",
+      "width": 962,
+      "height": 1282,
+      "original": "962x1282",
+      "source": "https://cdn.prod.website-files.com/670f54217703bf6e5066979d/6a8b9fa6bbd40e6efd435a6e_game-fishing-mahi-mahi-steven-leng.webp",
+      "page": "https://www.gametimecharters.com.au/game-fishing-gallery",
+      "priority": false
+    },
+    {
+      "file": "c19.webp",
+      "width": 2000,
+      "height": 1019,
+      "original": "2120x1080",
+      "source": "https://cdn.prod.website-files.com/670f54217703bf6e5066979d/6736fe1139404eb066c214b8_Game-Fishing-Marlin-10.webp",
+      "page": "https://www.gametimecharters.com.au/game-fishing-gallery",
+      "priority": false
+    },
+    {
+      "file": "c20.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "4000x3000",
+      "source": "https://cdn.prod.website-files.com/670f54217703bf6e5066979d/68c63f2a29dff25c4d7e3557_20250316_112942.webp",
+      "page": "https://www.gametimecharters.com.au/game-fishing-gallery",
+      "priority": false
+    },
+    {
+      "file": "c21.webp",
+      "width": 1346,
+      "height": 1080,
+      "original": "1346x1080",
+      "source": "https://cdn.prod.website-files.com/670f54217703bf6e5066979d/6a8ba84645ffa427c8cc78a2_gallery-marlin-4-debarred.webp",
+      "page": "https://www.gametimecharters.com.au/game-fishing-gallery",
+      "priority": false
+    },
+    {
+      "file": "c22.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "4032x3024",
+      "source": "https://cdn.prod.website-files.com/670f54217703bf6e5066979d/68c63f6f497f18f550e88d39_IMG-20250313-WA0019.webp",
+      "page": "https://www.gametimecharters.com.au/game-fishing-gallery",
+      "priority": false
+    },
+    {
+      "file": "c23.webp",
+      "width": 1080,
+      "height": 1350,
+      "original": "1080x1350",
+      "source": "https://cdn.prod.website-files.com/670f54217703bf6e5066979d/68c7f5793977a2ff658aa8c3_1.webp",
+      "page": "https://www.gametimecharters.com.au/game-fishing-gallery",
+      "priority": false
+    },
+    {
+      "file": "c24.webp",
+      "width": 1080,
+      "height": 1350,
+      "original": "1080x1350",
+      "source": "https://cdn.prod.website-files.com/670f54217703bf6e5066979d/68c7f57a07451968d9868b71_3.webp",
+      "page": "https://www.gametimecharters.com.au/game-fishing-gallery",
+      "priority": false
+    },
+    {
+      "file": "c25.webp",
+      "width": 1080,
+      "height": 1920,
+      "original": "1080x1920",
+      "source": "https://cdn.prod.website-files.com/670f54217703bf6e5066979d/68c63f4f301759aa62544727_GX010027_1736772155722.webp",
+      "page": "https://www.gametimecharters.com.au/game-fishing-gallery",
+      "priority": false
+    },
+    {
+      "file": "c26.webp",
+      "width": 1600,
+      "height": 1200,
+      "original": "1600x1200",
+      "source": "https://cdn.prod.website-files.com/670f54217703bf6e5066979d/6a8b9f0dd6c28d8e5c11f75d_game-fishing-wahoo-crew.webp",
+      "page": "https://www.gametimecharters.com.au/game-fishing-gallery",
+      "priority": false
+    },
+    {
+      "file": "c27.webp",
+      "width": 1556,
+      "height": 1600,
+      "original": "1556x1600",
+      "source": "https://cdn.prod.website-files.com/670f54217703bf6e5066979d/6a8b9f60575931bfd9aa708a_game-fishing-yellowfin-tuna-marina.webp",
+      "page": "https://www.gametimecharters.com.au/game-fishing-gallery",
+      "priority": false
+    },
+    {
+      "file": "c28.webp",
+      "width": 1200,
+      "height": 1600,
+      "original": "1200x1600",
+      "source": "https://cdn.prod.website-files.com/670f54217703bf6e5066979d/6a8b9fa4bbd40e6efd4358b0_game-fishing-angler-hooked-up.webp",
+      "page": "https://www.gametimecharters.com.au/game-fishing-gallery",
+      "priority": false
+    },
+    {
+      "file": "c29.webp",
+      "width": 1200,
+      "height": 1600,
+      "original": "1200x1600",
+      "source": "https://cdn.prod.website-files.com/670f54217703bf6e5066979d/6a8b9f0eb2e691a5c242f22f_game-fishing-mahi-mahi-offshore.webp",
+      "page": "https://www.gametimecharters.com.au/game-fishing-gallery",
+      "priority": false
+    },
+    {
+      "file": "c30.webp",
+      "width": 897,
+      "height": 1044,
+      "original": "897x1044",
+      "source": "https://cdn.prod.website-files.com/670f54217703bf6e5066979d/6a8b9f5fde8bad7c886e8c61_game-fishing-marlin-leadered-boatside.webp",
+      "page": "https://www.gametimecharters.com.au/game-fishing-gallery",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.gametimecharters.com.au/game-fishing-gallery",
+      "status": 200,
+      "final_url": "https://www.gametimecharters.com.au/game-fishing-gallery",
+      "bytes": 50610
+    },
+    {
+      "page": "https://www.gametimecharters.com.au/gallery",
+      "status": 200,
+      "final_url": "https://www.gametimecharters.com.au/gallery",
+      "bytes": 42886
+    },
+    {
+      "page": "https://www.gametimecharters.com.au/enquiries-contact",
+      "status": 200,
+      "final_url": "https://www.gametimecharters.com.au/enquiries-contact",
+      "bytes": 52380
+    },
+    {
+      "page": "https://www.gametimecharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.gametimecharters.com.au/",
+      "bytes": 65023
+    },
+    {
+      "page": "https://www.gametimecharters.com.au/rottnest-island-private-charters",
+      "status": 200,
+      "final_url": "https://www.gametimecharters.com.au/rottnest-island-private-charters",
+      "bytes": 78312
+    },
+    {
+      "page": "https://www.gametimecharters.com.au/private-game-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.gametimecharters.com.au/private-game-fishing-charters",
+      "bytes": 67416
+    },
+    {
+      "page": "https://www.gametimecharters.com.au/our-story",
+      "status": 200,
+      "final_url": "https://www.gametimecharters.com.au/our-story",
+      "bytes": 55314
+    },
+    {
+      "page": "https://www.gametimecharters.com.au/departing-from-hillarys-boat-harbour-perth",
+      "status": 200,
+      "final_url": "https://www.gametimecharters.com.au/departing-from-hillarys-boat-harbour-perth",
+      "bytes": 54229
+    },
+    {
+      "page": "https://www.gametimecharters.com.au/booking-page",
+      "status": 200,
+      "final_url": "https://www.gametimecharters.com.au/booking-page",
+      "bytes": 40437
+    },
+    {
+      "page": "https://www.gametimecharters.com.au/rottnest-gallery",
+      "status": 200,
+      "final_url": "https://www.gametimecharters.com.au/rottnest-gallery",
+      "bytes": 44174
+    },
+    {
+      "page": "https://www.gametimecharters.com.au/departing-from-jurien-bay",
+      "status": 200,
+      "final_url": "https://www.gametimecharters.com.au/departing-from-jurien-bay",
+      "bytes": 52011
+    },
+    {
+      "page": "https://www.gametimecharters.com.au/privacy-policy",
+      "status": 200,
+      "final_url": "https://www.gametimecharters.com.au/privacy-policy",
+      "bytes": 45237
+    },
+    {
+      "dup": "https://cdn.prod.website-files.com/670f54217703bf6e5066979d/6736fda11c7eaa968fade3cb_Game-Fishing-Marlin.webp"
+    },
+    {
+      "dup": "https://cdn.prod.website-files.com/670f54217703bf6e5066979d/6a8ba8458e0268a1c2635086_gallery-marlin-5-debarred.webp"
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "slug": "kuri-bay-sport-fishing-tours",
+  "request_hash": "80eef4e1ba56",
+  "collected_at": "2026-11-09T02:31:04.800Z",
+  "pages_fetched": [
+    "https://www.kuribaysportfishingtours.com.au/photo-gallery/",
+    "https://www.kuribaysportfishingtours.com.au/contact-kuri-bay-sportfishing-tours/",
+    "https://www.kuribaysportfishingtours.com.au/",
+    "https://www.kuribaysportfishingtours.com.au/kimberley-sportfishing/",
+    "https://www.kuribaysportfishingtours.com.au/tour-packages/",
+    "https://www.kuribaysportfishingtours.com.au/kuri-bay-attractions/",
+    "https://www.kuribaysportfishingtours.com.au/frequently-asked-questions/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 2000,
+      "height": 1333,
+      "original": "3731x2487",
+      "source": "https://www.kuribaysportfishingtours.com.au/images/2019/03/Dave-onto-a-GT.jpg",
+      "page": "https://www.kuribaysportfishingtours.com.au/photo-gallery/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 960,
+      "height": 540,
+      "original": "960x540",
+      "source": "https://www.kuribaysportfishingtours.com.au/images/2019/03/Williams-big-Queenie.jpg",
+      "page": "https://www.kuribaysportfishingtours.com.au/photo-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 2000,
+      "height": 1333,
+      "original": "5760x3840",
+      "source": "https://www.kuribaysportfishingtours.com.au/images/2019/03/Tux-and-Queenie.jpg",
+      "page": "https://www.kuribaysportfishingtours.com.au/photo-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1024,
+      "height": 564,
+      "original": "1024x564",
+      "source": "https://www.kuribaysportfishingtours.com.au/images/2019/03/Triple-hook-up-on-Jacks.jpg",
+      "page": "https://www.kuribaysportfishingtours.com.au/photo-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 960,
+      "height": 541,
+      "original": "960x541",
+      "source": "https://www.kuribaysportfishingtours.com.au/images/2019/03/Scottys-18kg-GT-on-Lead-Head.jpg",
+      "page": "https://www.kuribaysportfishingtours.com.au/photo-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1024,
+      "height": 768,
+      "original": "1024x768",
+      "source": "https://www.kuribaysportfishingtours.com.au/images/2019/03/Scotty-with-good-Golden.jpg",
+      "page": "https://www.kuribaysportfishingtours.com.au/photo-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "3264x2448",
+      "source": "https://www.kuribaysportfishingtours.com.au/images/2019/03/Ronny-with-superb-Blue-Bastard.jpg",
+      "page": "https://www.kuribaysportfishingtours.com.au/photo-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "5184x3888",
+      "source": "https://www.kuribaysportfishingtours.com.au/images/2019/03/Ron-with-Cobia.jpg",
+      "page": "https://www.kuribaysportfishingtours.com.au/photo-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 2000,
+      "height": 1894,
+      "original": "2448x2318",
+      "source": "https://www.kuribaysportfishingtours.com.au/images/2019/03/Julie-with-Thredie.jpg",
+      "page": "https://www.kuribaysportfishingtours.com.au/photo-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 960,
+      "height": 720,
+      "original": "960x720",
+      "source": "https://www.kuribaysportfishingtours.com.au/images/2019/03/Keis-1m-Barra-2011.jpg",
+      "page": "https://www.kuribaysportfishingtours.com.au/photo-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1769,
+      "height": 1006,
+      "original": "1769x1006",
+      "source": "https://www.kuribaysportfishingtours.com.au/images/2019/03/Kevin-Sail-side-on.jpg",
+      "page": "https://www.kuribaysportfishingtours.com.au/photo-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 960,
+      "height": 540,
+      "original": "960x540",
+      "source": "https://www.kuribaysportfishingtours.com.au/images/2019/03/Micks-Spanish.jpg",
+      "page": "https://www.kuribaysportfishingtours.com.au/photo-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1024,
+      "height": 751,
+      "original": "1024x751",
+      "source": "https://www.kuribaysportfishingtours.com.au/images/2019/03/Mitch-and-Jack.jpg",
+      "page": "https://www.kuribaysportfishingtours.com.au/photo-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1024,
+      "height": 682,
+      "original": "1024x682",
+      "source": "https://www.kuribaysportfishingtours.com.au/images/2019/03/Mr-Edwards-on-yet-again..jpg",
+      "page": "https://www.kuribaysportfishingtours.com.au/photo-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1080,
+      "height": 717,
+      "original": "1080x717",
+      "source": "https://www.kuribaysportfishingtours.com.au/images/2019/03/Pat-Elliot-with-Cal-Cal.jpg",
+      "page": "https://www.kuribaysportfishingtours.com.au/photo-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "4032x3024",
+      "source": "https://www.kuribaysportfishingtours.com.au/images/2019/03/Jody-with-a-stonker-queeny.jpg",
+      "page": "https://www.kuribaysportfishingtours.com.au/photo-gallery/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.kuribaysportfishingtours.com.au/photo-gallery/",
+      "status": 200,
+      "final_url": "https://www.kuribaysportfishingtours.com.au/photo-gallery/",
+      "bytes": 16780
+    },
+    {
+      "page": "https://www.kuribaysportfishingtours.com.au/contact-kuri-bay-sportfishing-tours/",
+      "status": 200,
+      "final_url": "https://www.kuribaysportfishingtours.com.au/contact-kuri-bay-sportfishing-tours/",
+      "bytes": 11011
+    },
+    {
+      "page": "https://www.kuribaysportfishingtours.com.au/",
+      "status": 200,
+      "final_url": "https://www.kuribaysportfishingtours.com.au/",
+      "bytes": 18857
+    },
+    {
+      "page": "https://www.kuribaysportfishingtours.com.au/kimberley-sportfishing/",
+      "status": 200,
+      "final_url": "https://www.kuribaysportfishingtours.com.au/kimberley-sportfishing/",
+      "bytes": 20056
+    },
+    {
+      "page": "https://www.kuribaysportfishingtours.com.au/tour-packages/",
+      "status": 200,
+      "final_url": "https://www.kuribaysportfishingtours.com.au/tour-packages/",
+      "bytes": 16778
+    },
+    {
+      "page": "https://www.kuribaysportfishingtours.com.au/kuri-bay-attractions/",
+      "status": 200,
+      "final_url": "https://www.kuribaysportfishingtours.com.au/kuri-bay-attractions/",
+      "bytes": 13645
+    },
+    {
+      "page": "https://www.kuribaysportfishingtours.com.au/frequently-asked-questions/",
+      "status": 200,
+      "final_url": "https://www.kuribaysportfishingtours.com.au/frequently-asked-questions/",
+      "bytes": 20507
+    },
+    {
+      "image": "https://i.ytimg.com/vi/w0asTONcPug/hqdefault.jpg",
+      "error": "too small 480x360"
+    },
+    {
+      "image": "https://www.kuribaysportfishingtours.com.au/images/2019/03/Will-and-good-Jack.jpg",
+      "error": "too small 400x267"
+    },
+    {
+      "image": "https://www.kuribaysportfishingtours.com.au/images/2019/03/Queenie-and-Will.jpg",
+      "error": "too small 400x267"
+    }
+  ]
+}

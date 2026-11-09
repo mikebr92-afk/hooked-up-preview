@@ -1,0 +1,218 @@
+{
+  "slug": "akame-sportfishing-broome",
+  "request_hash": "c9bb7d103a52",
+  "collected_at": "2026-11-09T02:27:26.876Z",
+  "pages_fetched": [
+    "https://akamesportfishing.com.au/",
+    "https://akamesportfishing.com.au/vessels/",
+    "https://akamesportfishing.com.au/contact/",
+    "https://akamesportfishing.com.au/about/",
+    "https://akamesportfishing.com.au/creekfishing-livescope/",
+    "https://akamesportfishing.com.au/remote-charters/",
+    "https://akamesportfishing.com.au/fly-fishing/",
+    "https://akamesportfishing.com.au/topwater-fishing/",
+    "https://akamesportfishing.com.au/game-fishing/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1440,
+      "height": 959,
+      "original": "1440x959",
+      "source": "https://akamesportfishing.com.au/wp-content/uploads/2025/06/Barra.jpg",
+      "page": "https://akamesportfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 1440,
+      "height": 959,
+      "original": "1440x959",
+      "source": "https://akamesportfishing.com.au/wp-content/uploads/2025/06/Threadfin-Salmon.jpg",
+      "page": "https://akamesportfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1440,
+      "height": 959,
+      "original": "1440x959",
+      "source": "https://akamesportfishing.com.au/wp-content/uploads/2025/06/Triple-Tail.jpg",
+      "page": "https://akamesportfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1440,
+      "height": 959,
+      "original": "1440x959",
+      "source": "https://akamesportfishing.com.au/wp-content/uploads/2025/06/Mulloway.jpg",
+      "page": "https://akamesportfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 800,
+      "height": 600,
+      "original": "800x600",
+      "source": "https://akamesportfishing.com.au/wp-content/uploads/elementor/thumbs/Livescope-1-r7islacqe0sxt0ywhx52vtkrgie00vywb9zcilch9s.jpg",
+      "page": "https://akamesportfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 800,
+      "height": 600,
+      "original": "800x600",
+      "source": "https://akamesportfishing.com.au/wp-content/uploads/elementor/thumbs/Livescope-2-r7pk0nfzkl6rnvp0lxkt8f0t48vv11wyhweh4rtisw.jpg",
+      "page": "https://akamesportfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 800,
+      "height": 600,
+      "original": "800x600",
+      "source": "https://akamesportfishing.com.au/wp-content/uploads/elementor/thumbs/IMG_9110-scaled-rvf545hxbembj5h66i1ulpotnfrb2xtbenvrrfmesw.webp",
+      "page": "https://akamesportfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 800,
+      "height": 600,
+      "original": "800x600",
+      "source": "https://akamesportfishing.com.au/wp-content/uploads/elementor/thumbs/IMG_1468-scaled-rvf58a0fb89mhjhg3a8wjo7nibfav46wn2yhl5i7hs.webp",
+      "page": "https://akamesportfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1440,
+      "height": 959,
+      "original": "1440x959",
+      "source": "https://akamesportfishing.com.au/wp-content/uploads/2025/06/Macky.jpg",
+      "page": "https://akamesportfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1440,
+      "height": 959,
+      "original": "1440x959",
+      "source": "https://akamesportfishing.com.au/wp-content/uploads/2025/06/Longtail.jpg",
+      "page": "https://akamesportfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1440,
+      "height": 959,
+      "original": "1440x959",
+      "source": "https://akamesportfishing.com.au/wp-content/uploads/2025/06/Cobia.jpg",
+      "page": "https://akamesportfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1440,
+      "height": 959,
+      "original": "1440x959",
+      "source": "https://akamesportfishing.com.au/wp-content/uploads/2025/06/Sail.jpg",
+      "page": "https://akamesportfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1440,
+      "height": 959,
+      "original": "1440x959",
+      "source": "https://akamesportfishing.com.au/wp-content/uploads/2025/06/Queeny.jpg",
+      "page": "https://akamesportfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1440,
+      "height": 959,
+      "original": "1440x959",
+      "source": "https://akamesportfishing.com.au/wp-content/uploads/2025/06/Trevally.jpg",
+      "page": "https://akamesportfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1440,
+      "height": 959,
+      "original": "1440x959",
+      "source": "https://akamesportfishing.com.au/wp-content/uploads/2025/06/Trout.jpg",
+      "page": "https://akamesportfishing.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1440,
+      "height": 959,
+      "original": "1440x959",
+      "source": "https://akamesportfishing.com.au/wp-content/uploads/2025/06/Bluebone.jpg",
+      "page": "https://akamesportfishing.com.au/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://akamesportfishing.com.au/",
+      "status": 200,
+      "final_url": "https://akamesportfishing.com.au/",
+      "bytes": 119656
+    },
+    {
+      "page": "https://akamesportfishing.com.au/vessels/",
+      "status": 200,
+      "final_url": "https://akamesportfishing.com.au/vessels/",
+      "bytes": 114369
+    },
+    {
+      "page": "https://akamesportfishing.com.au/contact/",
+      "status": 200,
+      "final_url": "https://akamesportfishing.com.au/contact/",
+      "bytes": 92368
+    },
+    {
+      "page": "https://akamesportfishing.com.au/about/",
+      "status": 200,
+      "final_url": "https://akamesportfishing.com.au/about/",
+      "bytes": 115272
+    },
+    {
+      "page": "https://akamesportfishing.com.au/creekfishing-livescope/",
+      "status": 200,
+      "final_url": "https://akamesportfishing.com.au/creekfishing-livescope/",
+      "bytes": 89483
+    },
+    {
+      "page": "https://akamesportfishing.com.au/remote-charters/",
+      "status": 200,
+      "final_url": "https://akamesportfishing.com.au/remote-charters/",
+      "bytes": 89449
+    },
+    {
+      "page": "https://akamesportfishing.com.au/fly-fishing/",
+      "status": 200,
+      "final_url": "https://akamesportfishing.com.au/fly-fishing/",
+      "bytes": 89812
+    },
+    {
+      "page": "https://akamesportfishing.com.au/topwater-fishing/",
+      "status": 200,
+      "final_url": "https://akamesportfishing.com.au/topwater-fishing/",
+      "bytes": 87887
+    },
+    {
+      "page": "https://akamesportfishing.com.au/game-fishing/",
+      "status": 200,
+      "final_url": "https://akamesportfishing.com.au/game-fishing/",
+      "bytes": 88364
+    }
+  ]
+}

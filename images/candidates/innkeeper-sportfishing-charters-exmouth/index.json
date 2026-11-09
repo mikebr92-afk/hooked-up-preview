@@ -1,0 +1,320 @@
+{
+  "slug": "innkeeper-sportfishing-charters-exmouth",
+  "request_hash": "20f4a167a9a3",
+  "collected_at": "2026-11-09T02:30:28.482Z",
+  "pages_fetched": [
+    "https://innkeepersportfishing.com/gallery/",
+    "https://innkeepersportfishing.com/the-boat/",
+    "https://innkeepersportfishing.com/",
+    "https://innkeepersportfishing.com/about/",
+    "https://innkeepersportfishing.com/packages/",
+    "https://innkeepersportfishing.com/packages/billfishing/",
+    "https://innkeepersportfishing.com/packages/reef-fishing/",
+    "https://innkeepersportfishing.com/packages/live-aboards/",
+    "https://innkeepersportfishing.com/packages/exmouth-gulf-sailfish-adventure/",
+    "https://innkeepersportfishing.com/the-skipper/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1316,
+      "height": 2000,
+      "original": "1348x2048",
+      "source": "https://innkeepersportfishing.com/wp-content/uploads/2021/09/IMG_3360.jpg",
+      "page": "https://innkeepersportfishing.com/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 1610,
+      "height": 1872,
+      "original": "1610x1872",
+      "source": "https://innkeepersportfishing.com/wp-content/uploads/2019/10/58442260_2027897557504913_3427894208747274240_o.jpg",
+      "page": "https://innkeepersportfishing.com/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1456,
+      "height": 1923,
+      "original": "1456x1923",
+      "source": "https://innkeepersportfishing.com/wp-content/uploads/2019/10/58442245_2027897620838240_5521608727376953344_o.jpg",
+      "page": "https://innkeepersportfishing.com/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1963,
+      "height": 1398,
+      "original": "1963x1398",
+      "source": "https://innkeepersportfishing.com/wp-content/uploads/2020/10/IMG_6135.jpg",
+      "page": "https://innkeepersportfishing.com/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 2000,
+      "height": 1389,
+      "original": "2048x1422",
+      "source": "https://innkeepersportfishing.com/wp-content/uploads/2019/10/57200804_2022707288023940_5524745947583610880_o.jpg",
+      "page": "https://innkeepersportfishing.com/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1838,
+      "height": 1178,
+      "original": "1838x1178",
+      "source": "https://innkeepersportfishing.com/wp-content/uploads/2019/10/54523298_2009508562677146_6719676527312633856_o.jpg",
+      "page": "https://innkeepersportfishing.com/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1782,
+      "height": 1188,
+      "original": "1782x1188",
+      "source": "https://innkeepersportfishing.com/wp-content/uploads/2019/10/57118232_2020765331551469_5767399170172256256_o.jpg",
+      "page": "https://innkeepersportfishing.com/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 2000,
+      "height": 1326,
+      "original": "2018x1338",
+      "source": "https://innkeepersportfishing.com/wp-content/uploads/2019/10/56985367_2022707238023945_891915714963701760_o.jpg",
+      "page": "https://innkeepersportfishing.com/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1851,
+      "height": 1135,
+      "original": "1851x1135",
+      "source": "https://innkeepersportfishing.com/wp-content/uploads/2019/10/57059792_2022155861412416_3029243294317019136_o.jpg",
+      "page": "https://innkeepersportfishing.com/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 2000,
+      "height": 1151,
+      "original": "2016x1160",
+      "source": "https://innkeepersportfishing.com/wp-content/uploads/2019/10/57053759_2022155958079073_2693623670655418368_o.jpg",
+      "page": "https://innkeepersportfishing.com/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1019,
+      "height": 947,
+      "original": "1019x947",
+      "source": "https://innkeepersportfishing.com/wp-content/uploads/2019/10/54728107_2007462289548440_8855537667392143360_o.jpg",
+      "page": "https://innkeepersportfishing.com/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2016x1512",
+      "source": "https://innkeepersportfishing.com/wp-content/uploads/2019/10/53766671_2005594109735258_2089636198074023936_o.jpg",
+      "page": "https://innkeepersportfishing.com/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 2000,
+      "height": 1564,
+      "original": "2039x1595",
+      "source": "https://innkeepersportfishing.com/wp-content/uploads/2019/10/54267970_2005594053068597_2260969049171165184_o.jpg",
+      "page": "https://innkeepersportfishing.com/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1368,
+      "height": 2000,
+      "original": "1382x2021",
+      "source": "https://innkeepersportfishing.com/wp-content/uploads/2019/10/50155018_1979144145713588_410802025450700800_o.jpg",
+      "page": "https://innkeepersportfishing.com/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1125,
+      "height": 1904,
+      "original": "1125x1904",
+      "source": "https://innkeepersportfishing.com/wp-content/uploads/2019/10/50445793_1976146909346645_5308611309074382848_o.jpg",
+      "page": "https://innkeepersportfishing.com/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1974,
+      "height": 1536,
+      "original": "1974x1536",
+      "source": "https://innkeepersportfishing.com/wp-content/uploads/2019/10/50009461_1976146826013320_5396229058524610560_o.jpg",
+      "page": "https://innkeepersportfishing.com/gallery/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://innkeepersportfishing.com/gallery/",
+      "status": 200,
+      "final_url": "https://innkeepersportfishing.com/gallery/",
+      "bytes": 138467
+    },
+    {
+      "page": "https://innkeepersportfishing.com/the-boat/",
+      "status": 200,
+      "final_url": "https://innkeepersportfishing.com/the-boat/",
+      "bytes": 90051
+    },
+    {
+      "page": "https://innkeepersportfishing.com/",
+      "status": 200,
+      "final_url": "https://innkeepersportfishing.com/",
+      "bytes": 91478
+    },
+    {
+      "page": "https://innkeepersportfishing.com/about/",
+      "status": 200,
+      "final_url": "https://innkeepersportfishing.com/about/",
+      "bytes": 83585
+    },
+    {
+      "page": "https://innkeepersportfishing.com/packages/",
+      "status": 200,
+      "final_url": "https://innkeepersportfishing.com/packages/",
+      "bytes": 84335
+    },
+    {
+      "page": "https://innkeepersportfishing.com/packages/billfishing/",
+      "status": 200,
+      "final_url": "https://innkeepersportfishing.com/packages/billfishing/",
+      "bytes": 76017
+    },
+    {
+      "page": "https://innkeepersportfishing.com/packages/reef-fishing/",
+      "status": 200,
+      "final_url": "https://innkeepersportfishing.com/packages/reef-fishing/",
+      "bytes": 76815
+    },
+    {
+      "page": "https://innkeepersportfishing.com/packages/live-aboards/",
+      "status": 200,
+      "final_url": "https://innkeepersportfishing.com/packages/live-aboards/",
+      "bytes": 78869
+    },
+    {
+      "page": "https://innkeepersportfishing.com/packages/exmouth-gulf-sailfish-adventure/",
+      "status": 200,
+      "final_url": "https://innkeepersportfishing.com/packages/exmouth-gulf-sailfish-adventure/",
+      "bytes": 73863
+    },
+    {
+      "page": "https://innkeepersportfishing.com/the-skipper/",
+      "status": 200,
+      "final_url": "https://innkeepersportfishing.com/the-skipper/",
+      "bytes": 81159
+    },
+    {
+      "image": "https://innkeepersportfishing.com/wp-content/uploads/2017/07/inkeeper-sport-fishing-charters-exmouth.jpg",
+      "error": "too small 1260x204"
+    },
+    {
+      "image": "http://innkeepersportfishing.com/wp-content/uploads/2017/07/follow-us-instagram.png",
+      "error": "too small 642x191"
+    },
+    {
+      "image": "https://innkeepersportfishing.com/wp-content/uploads/2017/07/cropped-inkeeper-sport-fishing-charters-exmouth.jpg",
+      "error": "too small 512x512"
+    },
+    {
+      "image": "https://innkeepersportfishing.com/wp-content/uploads/2017/07/cropped-inkeeper-sport-fishing-charters-exmouth-32x32.jpg",
+      "error": "too small 32x32"
+    },
+    {
+      "image": "https://innkeepersportfishing.com/wp-content/uploads/2017/07/cropped-inkeeper-sport-fishing-charters-exmouth-192x192.jpg",
+      "error": "too small 192x192"
+    },
+    {
+      "image": "https://innkeepersportfishing.com/wp-content/uploads/2017/07/cropped-inkeeper-sport-fishing-charters-exmouth-180x180.jpg",
+      "error": "too small 180x180"
+    },
+    {
+      "image": "https://innkeepersportfishing.com/wp-content/uploads/2017/07/cropped-inkeeper-sport-fishing-charters-exmouth-270x270.jpg",
+      "error": "too small 270x270"
+    },
+    {
+      "image": "https://innkeepersportfishing.com/wp-content/uploads/2021/09/IMG_3360-197x300.jpg",
+      "error": "too small 197x300"
+    },
+    {
+      "image": "https://innkeepersportfishing.com/wp-content/uploads/2019/10/58442260_2027897557504913_3427894208747274240_o-258x300.jpg",
+      "error": "too small 258x300"
+    },
+    {
+      "image": "https://innkeepersportfishing.com/wp-content/uploads/2019/10/58442245_2027897620838240_5521608727376953344_o-227x300.jpg",
+      "error": "too small 227x300"
+    },
+    {
+      "image": "https://innkeepersportfishing.com/wp-content/uploads/2020/10/IMG_6135-300x214.jpg",
+      "error": "too small 300x214"
+    },
+    {
+      "image": "https://innkeepersportfishing.com/wp-content/uploads/2019/10/57200804_2022707288023940_5524745947583610880_o-300x208.jpg",
+      "error": "too small 300x208"
+    },
+    {
+      "image": "https://innkeepersportfishing.com/wp-content/uploads/2019/10/54523298_2009508562677146_6719676527312633856_o-300x192.jpg",
+      "error": "too small 300x192"
+    },
+    {
+      "image": "https://innkeepersportfishing.com/wp-content/uploads/2019/10/57118232_2020765331551469_5767399170172256256_o-300x200.jpg",
+      "error": "too small 300x200"
+    },
+    {
+      "image": "https://innkeepersportfishing.com/wp-content/uploads/2019/10/56985367_2022707238023945_891915714963701760_o-300x199.jpg",
+      "error": "too small 300x199"
+    },
+    {
+      "image": "https://innkeepersportfishing.com/wp-content/uploads/2019/10/57059792_2022155861412416_3029243294317019136_o-300x184.jpg",
+      "error": "too small 300x184"
+    },
+    {
+      "image": "https://innkeepersportfishing.com/wp-content/uploads/2019/10/57053759_2022155958079073_2693623670655418368_o-300x173.jpg",
+      "error": "too small 300x173"
+    },
+    {
+      "dup": "https://innkeepersportfishing.com/wp-content/uploads/2019/10/54368172_2008507996110536_6553237306117980160_o.jpg"
+    },
+    {
+      "image": "https://innkeepersportfishing.com/wp-content/uploads/2019/10/54368172_2008507996110536_6553237306117980160_o-300x272.jpg",
+      "error": "too small 300x272"
+    },
+    {
+      "image": "https://innkeepersportfishing.com/wp-content/uploads/2019/10/54728107_2007462289548440_8855537667392143360_o-300x279.jpg",
+      "error": "too small 300x279"
+    },
+    {
+      "image": "https://innkeepersportfishing.com/wp-content/uploads/2019/10/53766671_2005594109735258_2089636198074023936_o-300x225.jpg",
+      "error": "too small 300x225"
+    },
+    {
+      "image": "https://innkeepersportfishing.com/wp-content/uploads/2019/10/54267970_2005594053068597_2260969049171165184_o-300x235.jpg",
+      "error": "too small 300x235"
+    },
+    {
+      "image": "https://innkeepersportfishing.com/wp-content/uploads/2019/10/50155018_1979144145713588_410802025450700800_o-205x300.jpg",
+      "error": "too small 205x300"
+    },
+    {
+      "image": "https://innkeepersportfishing.com/wp-content/uploads/2019/10/50445793_1976146909346645_5308611309074382848_o-177x300.jpg",
+      "error": "too small 177x300"
+    }
+  ]
+}

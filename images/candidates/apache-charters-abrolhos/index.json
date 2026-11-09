@@ -1,0 +1,275 @@
+{
+  "slug": "apache-charters-abrolhos",
+  "request_hash": "4806b09674dc",
+  "collected_at": "2026-11-09T02:30:51.693Z",
+  "pages_fetched": [
+    "https://www.apachecharters.com.au/abrolhos-fishing-charters",
+    "https://www.apachecharters.com.au/contact",
+    "https://www.apachecharters.com.au/",
+    "https://www.apachecharters.com.au/cart",
+    "https://www.apachecharters.com.au/montebello-islands-fishing-charters",
+    "https://www.apachecharters.com.au/shark-bay-fishing-charters",
+    "https://www.apachecharters.com.au/rottnest-island-boat-charters",
+    "https://www.apachecharters.com.au/carnac-island-boat-charters",
+    "https://www.apachecharters.com.au/swan-river-cruises",
+    "https://www.apachecharters.com.au/about"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1640,
+      "height": 674,
+      "original": "1640x674",
+      "source": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/38f88350-9e2e-40bb-844f-58af24021105/Untitled+design+%2843%29.jpg?format=2500w",
+      "page": "https://www.apachecharters.com.au/abrolhos-fishing-charters",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 823,
+      "height": 690,
+      "original": "823x690",
+      "source": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/da236522-4bab-4317-a4b5-24165e27a016/1.png?format=2500w",
+      "page": "https://www.apachecharters.com.au/abrolhos-fishing-charters",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 823,
+      "height": 690,
+      "original": "823x690",
+      "source": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/c7ffdf5d-291f-473c-83e6-2ff94a5560ab/2.png?format=2500w",
+      "page": "https://www.apachecharters.com.au/abrolhos-fishing-charters",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1058,
+      "height": 887,
+      "original": "1058x887",
+      "source": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/42c8c14c-0aba-407d-b99e-1de1973bb9c3/Abrolhos+Island+fishing.png?format=2500w",
+      "page": "https://www.apachecharters.com.au/abrolhos-fishing-charters",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 675,
+      "height": 844,
+      "original": "675x844",
+      "source": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/167018d5-e63f-4632-b888-a00559a7bfd2/Apache+charters+fishing.png?format=2500w",
+      "page": "https://www.apachecharters.com.au/abrolhos-fishing-charters",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1536x2048",
+      "source": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/2bf812b5-f5b5-440a-8320-935307dfef28/Abrolhos+page+one.jpg?format=2500w",
+      "page": "https://www.apachecharters.com.au/abrolhos-fishing-charters",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 823,
+      "height": 690,
+      "original": "823x690",
+      "source": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/89f788d6-1995-4bc3-9d4f-7c2269b2066c/1.png?format=2500w",
+      "page": "https://www.apachecharters.com.au/abrolhos-fishing-charters",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 823,
+      "height": 690,
+      "original": "823x690",
+      "source": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/435e03d6-fb6c-4a5d-8f63-3900ab0432b0/2.png?format=2500w",
+      "page": "https://www.apachecharters.com.au/abrolhos-fishing-charters",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 823,
+      "height": 690,
+      "original": "823x690",
+      "source": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/75e2a8e1-7bc3-41a9-9fa2-38cc19ffcefa/3.png?format=2500w",
+      "page": "https://www.apachecharters.com.au/abrolhos-fishing-charters",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 823,
+      "height": 690,
+      "original": "823x690",
+      "source": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/d444286e-4646-4288-805d-ba51c531c5b7/6.png?format=2500w",
+      "page": "https://www.apachecharters.com.au/abrolhos-fishing-charters",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 823,
+      "height": 690,
+      "original": "823x690",
+      "source": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/c43b9938-2f48-40f8-834b-29bfefe9f334/7.png?format=2500w",
+      "page": "https://www.apachecharters.com.au/abrolhos-fishing-charters",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 823,
+      "height": 690,
+      "original": "823x690",
+      "source": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/1369168b-e13e-42db-ab49-cf0ea148d2a6/8.png?format=2500w",
+      "page": "https://www.apachecharters.com.au/abrolhos-fishing-charters",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 940,
+      "height": 788,
+      "original": "940x788",
+      "source": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/5ac6cef3-284f-4ea1-8612-5baf755ad1a0/Apache+web+images+%282%29.png?format=2500w",
+      "page": "https://www.apachecharters.com.au/abrolhos-fishing-charters",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1058,
+      "height": 887,
+      "original": "1058x887",
+      "source": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/7d5e60d8-1cc1-4d2a-85b0-0590f79d9cac/kids+%284%29.png?format=2500w",
+      "page": "https://www.apachecharters.com.au/abrolhos-fishing-charters",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 940,
+      "height": 788,
+      "original": "940x788",
+      "source": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/1691395617302-PGGZEPXZUIV2WSQ8DYMO/1.png?format=2500w",
+      "page": "https://www.apachecharters.com.au/abrolhos-fishing-charters",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 940,
+      "height": 788,
+      "original": "940x788",
+      "source": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/1691395616610-Y6PO19TF8B3L026W30KN/2.png?format=2500w",
+      "page": "https://www.apachecharters.com.au/abrolhos-fishing-charters",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.apachecharters.com.au/abrolhos-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.apachecharters.com.au/abrolhos-fishing-charters",
+      "bytes": 1489967
+    },
+    {
+      "page": "https://www.apachecharters.com.au/contact",
+      "status": 200,
+      "final_url": "https://www.apachecharters.com.au/contact",
+      "bytes": 498141
+    },
+    {
+      "page": "https://www.apachecharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.apachecharters.com.au/",
+      "bytes": 930268
+    },
+    {
+      "page": "https://www.apachecharters.com.au/cart",
+      "status": 200,
+      "final_url": "https://www.apachecharters.com.au/cart",
+      "bytes": 616207
+    },
+    {
+      "page": "https://www.apachecharters.com.au/montebello-islands-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.apachecharters.com.au/montebello-islands-fishing-charters",
+      "bytes": 377831
+    },
+    {
+      "page": "https://www.apachecharters.com.au/shark-bay-fishing-charters",
+      "status": 200,
+      "final_url": "https://www.apachecharters.com.au/shark-bay-fishing-charters",
+      "bytes": 1772297
+    },
+    {
+      "page": "https://www.apachecharters.com.au/rottnest-island-boat-charters",
+      "status": 200,
+      "final_url": "https://www.apachecharters.com.au/rottnest-island-boat-charters",
+      "bytes": 640805
+    },
+    {
+      "page": "https://www.apachecharters.com.au/carnac-island-boat-charters",
+      "status": 200,
+      "final_url": "https://www.apachecharters.com.au/carnac-island-boat-charters",
+      "bytes": 3263913
+    },
+    {
+      "page": "https://www.apachecharters.com.au/swan-river-cruises",
+      "status": 200,
+      "final_url": "https://www.apachecharters.com.au/swan-river-cruises",
+      "bytes": 3071633
+    },
+    {
+      "page": "https://www.apachecharters.com.au/about",
+      "status": 200,
+      "final_url": "https://www.apachecharters.com.au/about",
+      "bytes": 1153006
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/07e0e00c-ab9b-4e69-863a-6e23e5f38973/Untitled+design+%2815%29.png?format=2500w",
+      "error": "too small 1025x313"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/07e0e00c-ab9b-4e69-863a-6e23e5f38973/Untitled+design+%2815%29.png?format=1500w",
+      "error": "too small 1025x313"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/da236522-4bab-4317-a4b5-24165e27a016/1.png"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/c7ffdf5d-291f-473c-83e6-2ff94a5560ab/2.png"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/42c8c14c-0aba-407d-b99e-1de1973bb9c3/Abrolhos+Island+fishing.png"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/167018d5-e63f-4632-b888-a00559a7bfd2/Apache+charters+fishing.png"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/2bf812b5-f5b5-440a-8320-935307dfef28/Abrolhos+page+one.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/89f788d6-1995-4bc3-9d4f-7c2269b2066c/1.png"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/435e03d6-fb6c-4a5d-8f63-3900ab0432b0/2.png"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/75e2a8e1-7bc3-41a9-9fa2-38cc19ffcefa/3.png"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/d444286e-4646-4288-805d-ba51c531c5b7/6.png"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/c43b9938-2f48-40f8-834b-29bfefe9f334/7.png"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/1369168b-e13e-42db-ab49-cf0ea148d2a6/8.png"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/5ac6cef3-284f-4ea1-8612-5baf755ad1a0/Apache+web+images+%282%29.png"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/7d5e60d8-1cc1-4d2a-85b0-0590f79d9cac/kids+%284%29.png"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/64646ff2de6e095a06ab01b9/1691395617302-PGGZEPXZUIV2WSQ8DYMO/1.png"
+    }
+  ]
+}
