@@ -1,3 +1,3 @@
 {"requests":[
- {"slug":"riverfly-1864","pages":["https://www.riverfly.com.au/","https://riverfly.com.au/about/gallery/","https://riverfly.com.au/fly-fishing-tasmania/"],"text":true,"max":16,"follow":true,"force":true}
+ {"slug":"riverfly-1864-gallery","pages":["https://www.riverfly.com.au/","https://riverfly.com.au/about/gallery/"],"text":false,"max":16,"follow":true,"force":true}
 ]}
