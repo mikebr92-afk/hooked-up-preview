@@ -1,10 +1,15 @@
 {
-  "finished_at": "2026-11-09T02:31:58.466Z",
+  "finished_at": "2026-11-09T02:35:37.359Z",
   "summary": [
     {
+      "slug": "geelong-fishing-charters",
+      "candidates": 2,
+      "pages": 6
+    },
+    {
       "slug": "westernport-fishing-charters",
-      "candidates": 16,
-      "pages": 12
+      "candidates": 0,
+      "pages": 4
     },
     {
       "slug": "sharkmen-fishing-charters",

@@ -1,7 +1,7 @@
 {
   "slug": "east-gippsland-sportfishing",
   "request_hash": "05da978e072f",
-  "collected_at": "2026-11-09T02:30:51.727Z",
+  "collected_at": "2026-11-09T02:34:19.546Z",
   "pages_fetched": [
     "https://www.egsportfishing.com.au/",
     "https://www.egsportfishing.com.au/charter-locations/gippsland-lakes-charter-fishing",
@@ -167,31 +167,31 @@
       "page": "https://www.egsportfishing.com.au/",
       "status": 200,
       "final_url": "https://www.egsportfishing.com.au/",
-      "bytes": 1512238
+      "bytes": 1516703
     },
     {
       "page": "https://www.egsportfishing.com.au/charter-locations/gippsland-lakes-charter-fishing",
       "status": 200,
       "final_url": "https://www.egsportfishing.com.au/charter-locations/gippsland-lakes-charter-fishing",
-      "bytes": 914223
+      "bytes": 914233
     },
     {
       "page": "https://www.egsportfishing.com.au/charter-locations/lake-tyers-charter-fishing",
       "status": 200,
       "final_url": "https://www.egsportfishing.com.au/charter-locations/lake-tyers-charter-fishing",
-      "bytes": 915066
+      "bytes": 916265
     },
     {
       "page": "https://www.egsportfishing.com.au/charter-locations/mallacoota-charter-fishing",
       "status": 200,
       "final_url": "https://www.egsportfishing.com.au/charter-locations/mallacoota-charter-fishing",
-      "bytes": 914245
+      "bytes": 914323
     },
     {
       "page": "https://www.egsportfishing.com.au/charter-locations/bemm-river-charter-fishing",
       "status": 200,
       "final_url": "https://www.egsportfishing.com.au/charter-locations/bemm-river-charter-fishing",
-      "bytes": 914524
+      "bytes": 914637
     },
     {
       "page": "https://www.egsportfishing.com.au/blog",
@@ -215,7 +215,7 @@
       "page": "https://www.egsportfishing.com.au/charter-locations/lake-tyres-charter-fishing",
       "status": 200,
       "final_url": "https://www.egsportfishing.com.au/charter-locations/lake-tyers-charter-fishing",
-      "bytes": 915066
+      "bytes": 916265
     },
     {
       "page": "https://www.egsportfishing.com.au/termsandconditions",
