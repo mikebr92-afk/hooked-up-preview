@@ -1,0 +1,58 @@
+NSW photo and details audit - 2026-11-09
+Pipeline branch: operator-images/state-nsw-photos (3 collect runs). WebSearch used: 2 of 12.
+27 listings changed in photos.json, 16 unchanged, 9 detail corrections in details.json.
+Every photo used comes from the operator's own website (no socials reachable; Facebook/Instagram block the pipeline).
+
+== Priority 1: no photos ==
+central-coast-reef-and-game-fishing-charters | fill (1 photo, STOPGAP) | Own site has only 520x363 gallery thumbs and banner collages; used a crop of the about-page banner showing their boat in Central Coast Charters livery (crop [400,0,1180,401]). Soft at card size. VisitNSW page 404; Playsport profile is an unclaimed directory (not used).
+
+== Priority 2: one photo ==
+byron-bay-charters | improve 1->5 | Added Windarra underway (x2) and two adult catch shots from their gallery. Site hero (c01) and c03 excluded: child is the main subject.
+jervis-bay-fishing-charters-huskisson | improve 1->3 | Added a snapper/flathead catch and the boat at the jetty. Child shots and whale photos excluded; site has little else.
+fish-port-stephens-estuary-charters | improve 1->5 | Added jewfish, their wrapped boat, whiting and bream shots (gallery is strong).
+cushy-fishing-charters | replace hero, 1->5 | Square boat photo moved to 2nd; new hero is a yellowfin catch; added snapper beside Reef Hunter, mackerel offshore, snapper. Photos are older (c.2008) but clearly theirs.
+
+== Priority 3: two photos ==
+coffs-harbour-fishing-charters | improve 2->5, new hero | Mahi mahi hero (2000px); added mackerel and a group-with-catch shot.
+freedom-charters-eden | improve 2->4 | Added a kingfish catch (full-size gallery original) and whale watching from their deck. Other gallery shots are only 528-720px wide.
+sea-to-summit-lord-howe-fishing | improve 2->4 | Added a marlin on the line and the lagoon/Mt Gower. Rest of the site is wildlife and hiking photography.
+narooma-charters | replace hero, 2->5 | Kingfish catch hero; added a group with kingfish on the wharf and a snapper. Five site photos excluded (child main subject).
+hammerhead-charters-nelson-bay | improve 2->4 | Added Hammerhead II at her berth and a wake shot toward the Port Stephens islands. The marlin-jump photos are too small in the frame.
+blue-reef-fishing-charters-sydney | improve 2->4 | Added a marlin boatside (782px, just under 800) and their Thames Street Wharf pick-up point. Gallery has nothing better.
+deep-blue-charters-sydney | replace hero, 2->4 | Kingfish catch hero; added a second vessel. Hero was a boat shot.
+sydney-premium-charters-cronulla | improve 2->5 | Added a kingfish under the cliffs, their blue catamaran, flathead. Collage and logo excluded.
+wahoo-fishing-charters-sydney | improve 2->3 | Added a large tuna catch. See owner note on AI images.
+aquilla-fishing-charters-wollongong | improve 2->5 | Kept the boat-and-lighthouse hero (stronger than any catch shot available); added three on-deck action shots. Instagram text graphics excluded.
+
+== Priority 4: all other listings ==
+five-island-charters-wollongong | improve 3->4 | Hero switched from the moored boat to the wahoo catch; added an on-deck action shot.
+day-trippin-charters | improve | Removed 02 (Day Trippin Charters watermark); added two adult jewfish shots. Most site photos feature children; boat shot is watermarked.
+yamba-fishing-and-charters | improve 3->5 | Added a group with a kingfish haul and an aerial of the Clarence River mouth.
+capns-charters-newcastle | improve 3->5 | Added anglers on the Hunter River and a group with a flathead. Site hero excluded (child main subject).
+evans-head-deep-sea-fishing-charters | improve 3->4 | Added their boat underway (800px).
+calypso-fishing-adventures | improve 3->4 | Added Calypso at the marina with crew. GBR mothership catches not used on this Port Stephens listing.
+south-west-rocks-fishing-charters | improve 3->5 | Added Sea Scout II underway and a jewfish group.
+pacific-blue-fishing-charters-nelson-bay | replace hero, 3->5 | Big snapper hero (2000px) instead of the small boat shot; added a jewfish. Date-stamped photos excluded.
+sydney-charter-fishing-manly | replace hero, 3->5 | Kingfish catch hero; added a kingfish group.
+reel-contagious-charters-port-stephens | replace hero, 3->4 | Yellowfin tuna catch hero; boat shot moved to 2nd.
+sea-buoys-ocean-charters | improve (reorder) | Kingfish catch is now hero instead of the scenic boat-and-Mt Gower shot.
+cronulla-reef-fishing-charters | improve 7->4 | Removed 05 (a large timber cruiser that doesn't match their 7.5 m twin-outboard boat) and two weak shots (empty deck, portrait of rods). The gallery was over the 5-photo cap.
+go-fish-yamba-charters | unchanged | 4 strong own photos; hero angler checked at full size and appears adult.
+escape-fishing-charters-greenwell-point | unchanged | Gallery candidates are 750px and camera date-stamped (2015-16); nothing better.
+fishbermi-charters | unchanged | Boat-on-water hero and 3 catch shots are fine; gallery has nothing larger.
+ambition, calm-water, castaway, fishabout, fishpen, game-on, kiama, port-macquarie, reel-adventure, sapphire, sydney-fly, terrigal, wildside | unchanged | 3-4 sharp own photos with catch or boat heroes; no issues found.
+
+== Details (details.json) ==
+- Cronulla Reef: boat renamed on its own vessel page from Romanda to Trifecta Specs (same specs).
+- Social links found on operators' own sites but missing from records: Deep Blue FB, Freedom FB, Fishbermi FB, Go Fish Yamba IG, Narooma IG, Reel Adventure FB, Sydney Premium IG.
+- Castaway: the footer now links facebook.com/fishcastaway instead of CastawayEstuaryFishingCharters.
+- phone/email are blank on every NSW record (presumably by design). I didn't add any, but the sites still publish them (e.g. Byron 0400 946 066, JB 0414 757 822, Freedom 0415 602 446, Cronulla 0497 124 434).
+
+== For the owner ==
+1. Central Coast Reef & Game: the single photo is a soft stopgap. Ask Paul Minto (0427 665 544, info@reefandgamefishing.com) for 3-4 full-size photos. The site has no dated content either (still watchlist).
+2. Wahoo Fishing Charters: its site mixes in stock/AI images (underwater, cliffs, champagne) and two boat photos with the Gemini sparkle mark. None were used. Current photos 01/02 look genuine, but confirm with the operator.
+3. Byron Bay Charters: the captain on record, "Chris Facey", no longer appears on the site (or in the 4 Nov fetch). The site only says "skipper and deckhand". Confirm.
+4. Coffs Harbour: captain "Brett" is not on the current site; reviews name "Pete". Confirm.
+5. Calypso: hero (angler in a CALYPSO shirt, seen from behind) may be a teenager; not a face shot, kept. Owner may prefer the marlin jump (03) as hero.
+6. Port Macquarie Fishing Charters: the site timed out on the pipeline today, so details were not re-checked (last checked 2026-11-04).
+7. Blue Reef: the added marlin photo is 782px wide (slightly under the 800px floor). It's the only game-fishing image on their site.
