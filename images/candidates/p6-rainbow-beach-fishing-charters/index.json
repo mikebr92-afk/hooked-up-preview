@@ -1,0 +1,225 @@
+{
+  "slug": "p6-rainbow-beach-fishing-charters",
+  "request_hash": "7ae81dc13a03",
+  "collected_at": "2026-11-09T02:43:37.442Z",
+  "pages_fetched": [
+    "https://www.rainbowbeachfishing.com/",
+    "https://www.rainbowbeachfishing.com/about",
+    "https://www.rainbowbeachfishing.com/cart",
+    "https://www.rainbowbeachfishing.com/services",
+    "https://www.rainbowbeachfishing.com/contact",
+    "https://www.rainbowbeachfishing.com/terms-and-conditions",
+    "https://www.rainbowbeachfishing.com/?itemId=ummtflvpg3bepplsilt4tr56u2ogpo",
+    "https://www.rainbowbeachfishing.com/?itemId=ld3fywgi6i4hlw3ycuyy6bjj5k7zq1",
+    "https://www.rainbowbeachfishing.com/?itemId=j9rsp5r1ccau7c4gc34500q382tigb",
+    "https://www.rainbowbeachfishing.com/?itemId=rn1dou0j82brrzg2b3bo7cay7m5drb"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2500x3333",
+      "source": "https://images.squarespace-cdn.com/content/v1/6a8197879a6e910e1944fce2/c056f875-844d-4c4d-88a2-757be3fdd861/IMG_1676.jpeg?format=2500w",
+      "page": "https://www.rainbowbeachfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2500x3333",
+      "source": "https://images.squarespace-cdn.com/content/v1/6a8197879a6e910e1944fce2/6b9f9fee-a020-4710-960e-cc15d58c3c51/IMG_9927.jpeg?format=2500w",
+      "page": "https://www.rainbowbeachfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2500x3333",
+      "source": "https://images.squarespace-cdn.com/content/v1/6a8197879a6e910e1944fce2/4a311ef2-6cf2-4777-87ff-60f3beedb82e/IMG_4346.jpeg?format=2500w",
+      "page": "https://www.rainbowbeachfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2500x1875",
+      "source": "https://images.squarespace-cdn.com/content/v1/6a8197879a6e910e1944fce2/858bab89-e315-48ac-8af7-a4ac53231a62/IMG_4345.jpeg?format=2500w",
+      "page": "https://www.rainbowbeachfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2500x3333",
+      "source": "https://images.squarespace-cdn.com/content/v1/6a8197879a6e910e1944fce2/31e1a96e-7d7e-4faa-b6fe-26c7603598aa/IMG_9948.jpeg?format=2500w",
+      "page": "https://www.rainbowbeachfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2500x3333",
+      "source": "https://images.squarespace-cdn.com/content/v1/6a8197879a6e910e1944fce2/7dfeca03-6bd8-486e-bd50-cd93ffc6c1bf/IMG_1732.jpeg?format=2500w",
+      "page": "https://www.rainbowbeachfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2500x3333",
+      "source": "https://images.squarespace-cdn.com/content/v1/6a8197879a6e910e1944fce2/1247bae6-da2e-4501-873e-0e069f165bbb/IMG_1720.jpeg?format=2500w",
+      "page": "https://www.rainbowbeachfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2500x3333",
+      "source": "https://images.squarespace-cdn.com/content/v1/6a8197879a6e910e1944fce2/cf140e59-60a3-4a6b-9b25-0f66cd7512d7/IMG_1703.jpeg?format=2500w",
+      "page": "https://www.rainbowbeachfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2500x1875",
+      "source": "https://images.squarespace-cdn.com/content/v1/6a8197879a6e910e1944fce2/bcc4488c-c547-4123-87ed-620fc4a40f9d/IMG_1033.jpeg?format=2500w",
+      "page": "https://www.rainbowbeachfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2500x3333",
+      "source": "https://images.squarespace-cdn.com/content/v1/6a8197879a6e910e1944fce2/f5bd054a-8753-4e6d-9bbc-e6640e1250b1/IMG_7739.jpeg?format=2500w",
+      "page": "https://www.rainbowbeachfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2500x3333",
+      "source": "https://images.squarespace-cdn.com/content/v1/6a8197879a6e910e1944fce2/9036bd6b-416b-49a5-a9e2-44dec0b0a945/IMG_1114.jpeg?format=2500w",
+      "page": "https://www.rainbowbeachfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2500x3333",
+      "source": "https://images.squarespace-cdn.com/content/v1/6a8197879a6e910e1944fce2/42d10223-b655-48c0-8bc9-d1ad9ace8801/IMG_7993.jpeg?format=2500w",
+      "page": "https://www.rainbowbeachfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2500x3333",
+      "source": "https://images.squarespace-cdn.com/content/v1/6a8197879a6e910e1944fce2/5e467023-096b-4602-860d-23b41416428a/IMG_7988.jpeg?format=2500w",
+      "page": "https://www.rainbowbeachfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2500x3333",
+      "source": "https://images.squarespace-cdn.com/content/v1/6a8197879a6e910e1944fce2/acfc42d5-77b4-4cda-bdfd-c02901f18180/IMG_6507.jpeg?format=2500w",
+      "page": "https://www.rainbowbeachfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2500x3333",
+      "source": "https://images.squarespace-cdn.com/content/v1/6a8197879a6e910e1944fce2/5286f349-7964-471a-bd3e-28eb4cbcb987/IMG_4798.jpeg?format=2500w",
+      "page": "https://www.rainbowbeachfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2500x3333",
+      "source": "https://images.squarespace-cdn.com/content/v1/6a8197879a6e910e1944fce2/eebf5eb9-98dc-4391-bcaf-0a8fb97540c3/IMG_3497.jpeg?format=2500w",
+      "page": "https://www.rainbowbeachfishing.com/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.rainbowbeachfishing.com/",
+      "status": 200,
+      "final_url": "https://www.rainbowbeachfishing.com/",
+      "bytes": 363831
+    },
+    {
+      "page": "https://www.rainbowbeachfishing.com/about",
+      "status": 200,
+      "final_url": "https://www.rainbowbeachfishing.com/about",
+      "bytes": 245492
+    },
+    {
+      "page": "https://www.rainbowbeachfishing.com/cart",
+      "status": 200,
+      "final_url": "https://www.rainbowbeachfishing.com/cart",
+      "bytes": 820356
+    },
+    {
+      "page": "https://www.rainbowbeachfishing.com/services",
+      "status": 200,
+      "final_url": "https://www.rainbowbeachfishing.com/services",
+      "bytes": 1122684
+    },
+    {
+      "page": "https://www.rainbowbeachfishing.com/contact",
+      "status": 200,
+      "final_url": "https://www.rainbowbeachfishing.com/contact",
+      "bytes": 795509
+    },
+    {
+      "page": "https://www.rainbowbeachfishing.com/terms-and-conditions",
+      "status": 200,
+      "final_url": "https://www.rainbowbeachfishing.com/terms-and-conditions",
+      "bytes": 235547
+    },
+    {
+      "page": "https://www.rainbowbeachfishing.com/?itemId=ummtflvpg3bepplsilt4tr56u2ogpo",
+      "status": 200,
+      "final_url": "https://www.rainbowbeachfishing.com/?itemId=ummtflvpg3bepplsilt4tr56u2ogpo",
+      "bytes": 329943
+    },
+    {
+      "page": "https://www.rainbowbeachfishing.com/?itemId=ld3fywgi6i4hlw3ycuyy6bjj5k7zq1",
+      "status": 200,
+      "final_url": "https://www.rainbowbeachfishing.com/?itemId=ld3fywgi6i4hlw3ycuyy6bjj5k7zq1",
+      "bytes": 329943
+    },
+    {
+      "page": "https://www.rainbowbeachfishing.com/?itemId=j9rsp5r1ccau7c4gc34500q382tigb",
+      "status": 200,
+      "final_url": "https://www.rainbowbeachfishing.com/?itemId=j9rsp5r1ccau7c4gc34500q382tigb",
+      "bytes": 329943
+    },
+    {
+      "page": "https://www.rainbowbeachfishing.com/?itemId=rn1dou0j82brrzg2b3bo7cay7m5drb",
+      "status": 200,
+      "final_url": "https://www.rainbowbeachfishing.com/?itemId=rn1dou0j82brrzg2b3bo7cay7m5drb",
+      "bytes": 329943
+    }
+  ]
+}

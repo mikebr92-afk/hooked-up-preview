@@ -1,0 +1,176 @@
+{
+  "slug": "p6-truansea-charters-bundaberg",
+  "request_hash": "085ecfeb0ea8",
+  "collected_at": "2026-11-09T02:39:22.349Z",
+  "pages_fetched": [
+    "https://truansea.com.au/brag-mat",
+    "https://truansea.com.au/",
+    "https://truansea.com.au/about",
+    "https://truansea.com.au/full-day-reef-fishing",
+    "https://truansea.com.au/half-day-reef-fishing",
+    "https://truansea.com.au/half-day-river-fishing"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2048x1536",
+      "source": "https://img1.wsimg.com/isteam/ip/e8be81f1-4104-4a97-a858-32f107df5bee/fb_277979943581041_2048x1536.jpg",
+      "page": "https://truansea.com.au/brag-mat",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 1240,
+      "height": 930,
+      "original": "1240x930",
+      "source": "https://img1.wsimg.com/isteam/ip/e8be81f1-4104-4a97-a858-32f107df5bee/IMG_20210731_103203780.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1240,cg:true",
+      "page": "https://truansea.com.au/full-day-reef-fishing",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1240,
+      "height": 620,
+      "original": "1240x620",
+      "source": "https://img1.wsimg.com/isteam/ip/e8be81f1-4104-4a97-a858-32f107df5bee/109712643_306579170721118_1583756748644520917_.jpg/:/cr=t:18.99%25,l:0%25,w:100%25,h:66.67%25/rs=w:1240,h:620,cg:true",
+      "page": "https://truansea.com.au/half-day-reef-fishing",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://truansea.com.au/brag-mat",
+      "status": 200,
+      "final_url": "https://truansea.com.au/brag-mat",
+      "bytes": 94653
+    },
+    {
+      "page": "https://truansea.com.au/",
+      "status": 200,
+      "final_url": "https://truansea.com.au/",
+      "bytes": 181381
+    },
+    {
+      "page": "https://truansea.com.au/about",
+      "status": 200,
+      "final_url": "https://truansea.com.au/about",
+      "bytes": 107918
+    },
+    {
+      "page": "https://truansea.com.au/full-day-reef-fishing",
+      "status": 200,
+      "final_url": "https://truansea.com.au/full-day-reef-fishing",
+      "bytes": 84785
+    },
+    {
+      "page": "https://truansea.com.au/half-day-reef-fishing",
+      "status": 200,
+      "final_url": "https://truansea.com.au/half-day-reef-fishing",
+      "bytes": 82646
+    },
+    {
+      "page": "https://truansea.com.au/half-day-river-fishing",
+      "status": 200,
+      "final_url": "https://truansea.com.au/half-day-river-fishing",
+      "bytes": 90236
+    },
+    {
+      "image": "https://img1.wsimg.com/isteam/ip/e8be81f1-4104-4a97-a858-32f107df5bee/IMG_20240727_144023070_HDR.jpg/:/rs=w:370,cg:true,m",
+      "error": "too small 370x315"
+    },
+    {
+      "image": "https://img1.wsimg.com/isteam/ip/e8be81f1-4104-4a97-a858-32f107df5bee/IMG_20240514_162550_920.jpg/:/rs=w:370,cg:true,m",
+      "error": "too small 370x266"
+    },
+    {
+      "image": "https://img1.wsimg.com/isteam/ip/e8be81f1-4104-4a97-a858-32f107df5bee/IMG_20240602_102115297_HDR.jpg/:/rs=w:370,cg:true,m",
+      "error": "too small 370x318"
+    },
+    {
+      "image": "https://img1.wsimg.com/isteam/ip/e8be81f1-4104-4a97-a858-32f107df5bee/IMG_20240807_093459082_HDR.jpg/:/rs=w:370,cg:true,m",
+      "error": "too small 370x278"
+    },
+    {
+      "image": "https://img1.wsimg.com/isteam/ip/e8be81f1-4104-4a97-a858-32f107df5bee/IMG_20240602_094857104_HDR.jpg/:/rs=w:370,cg:true,m",
+      "error": "too small 370x278"
+    },
+    {
+      "image": "https://img1.wsimg.com/isteam/ip/e8be81f1-4104-4a97-a858-32f107df5bee/IMG_20240709_214148_704.jpg/:/rs=w:370,cg:true,m",
+      "error": "too small 370x316"
+    },
+    {
+      "image": "https://img1.wsimg.com/isteam/ip/e8be81f1-4104-4a97-a858-32f107df5bee/IMG_20240601_102728242_HDR.jpg/:/rs=w:370,cg:true,m",
+      "error": "too small 370x278"
+    },
+    {
+      "image": "https://img1.wsimg.com/isteam/ip/e8be81f1-4104-4a97-a858-32f107df5bee/IMG_20240726_125657424_HDR.jpg/:/rs=w:370,cg:true,m",
+      "error": "too small 370x278"
+    },
+    {
+      "image": "https://img1.wsimg.com/isteam/ip/e8be81f1-4104-4a97-a858-32f107df5bee/IMG_20240727_121149406_HDR.jpg/:/rs=w:370,cg:true,m",
+      "error": "too small 370x278"
+    },
+    {
+      "image": "https://img1.wsimg.com/isteam/ip/e8be81f1-4104-4a97-a858-32f107df5bee/IMG_20240726_135832874_HDR.jpg/:/rs=w:370,cg:true,m",
+      "error": "too small 370x493"
+    },
+    {
+      "image": "https://img1.wsimg.com/isteam/ip/e8be81f1-4104-4a97-a858-32f107df5bee/IMG_20241103_134010445_HDR.jpg/:/rs=w:370,cg:true,m",
+      "error": "too small 370x278"
+    },
+    {
+      "image": "https://img1.wsimg.com/isteam/ip/e8be81f1-4104-4a97-a858-32f107df5bee/IMG_20240807_093550328_HDR.jpg/:/rs=w:370,cg:true,m",
+      "error": "too small 370x278"
+    },
+    {
+      "image": "https://img1.wsimg.com/isteam/ip/e8be81f1-4104-4a97-a858-32f107df5bee/IMG_20240720_142702030_HDR.jpg/:/rs=w:370,cg:true,m",
+      "error": "too small 370x278"
+    },
+    {
+      "image": "https://img1.wsimg.com/isteam/ip/e8be81f1-4104-4a97-a858-32f107df5bee/IMG_20240615_121247687_HDR.jpg/:/rs=w:370,cg:true,m",
+      "error": "too small 370x278"
+    },
+    {
+      "image": "https://img1.wsimg.com/isteam/ip/e8be81f1-4104-4a97-a858-32f107df5bee/IMG_20240712_133722866.jpg/:/rs=w:370,cg:true,m",
+      "error": "too small 370x278"
+    },
+    {
+      "image": "https://img1.wsimg.com/isteam/ip/e8be81f1-4104-4a97-a858-32f107df5bee/IMG_20240615_133614748_HDR.jpg/:/rs=w:370,cg:true,m",
+      "error": "too small 370x278"
+    },
+    {
+      "image": "https://img1.wsimg.com/isteam/ip/e8be81f1-4104-4a97-a858-32f107df5bee/IMG_20240908_141238424.jpg/:/rs=w:370,cg:true,m",
+      "error": "too small 370x278"
+    },
+    {
+      "image": "https://img1.wsimg.com/isteam/ip/e8be81f1-4104-4a97-a858-32f107df5bee/IMG_20241028_144614139_HDR.jpg/:/rs=w:370,cg:true,m",
+      "error": "too small 370x278"
+    },
+    {
+      "image": "https://img1.wsimg.com/isteam/ip/e8be81f1-4104-4a97-a858-32f107df5bee/IMG_20240608_115134980.jpg/:/rs=w:370,cg:true,m",
+      "error": "too small 370x493"
+    },
+    {
+      "image": "https://img1.wsimg.com/isteam/ip/e8be81f1-4104-4a97-a858-32f107df5bee/IMG_20240608_122405329.jpg/:/rs=w:370,cg:true,m",
+      "error": "too small 370x278"
+    },
+    {
+      "image": "h:240/qt=q:95",
+      "error": "fetch failed"
+    },
+    {
+      "image": "https://truansea.com.au/m",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "i:true/qt=q:1/ll=n:true",
+      "error": "fetch failed"
+    },
+    {
+      "image": "cg:true",
+      "error": "fetch failed"
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "slug": "p6-noosa-bluewater-charters",
+  "request_hash": "387af8306fe3",
+  "collected_at": "2026-11-09T02:44:41.795Z",
+  "pages_fetched": [
+    "https://noosabluefishing.com.au/gallery/",
+    "https://noosabluefishing.com.au/",
+    "https://noosabluefishing.com.au/about-us/",
+    "https://noosabluefishing.com.au/fishing-charters/",
+    "https://noosabluefishing.com.au/private-fishing-charters/",
+    "https://noosabluefishing.com.au/gift-certificate-gift-cards/",
+    "https://noosabluefishing.com.au/kiosk/",
+    "https://noosabluefishing.com.au/blog/",
+    "https://noosabluefishing.com.au/bar-report/",
+    "https://noosabluefishing.com.au/contact-us/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 957,
+      "height": 957,
+      "original": "957x957",
+      "source": "https://noosabluefishing.com.au/wp-content/uploads/2024/02/nbc-ico.jpg",
+      "page": "https://noosabluefishing.com.au/gallery/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 600,
+      "height": 400,
+      "original": "600x400",
+      "source": "https://noosabluefishing.com.au/wp-content/uploads/2026/10/noosa-bluewater-charters-offshore-fishing-16.avif",
+      "page": "https://noosabluefishing.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 600,
+      "height": 451,
+      "original": "600x451",
+      "source": "https://noosabluefishing.com.au/wp-content/uploads/2026/10/noosa-bluewater-charters-offshore-fishing-18-1.avif",
+      "page": "https://noosabluefishing.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 600,
+      "height": 451,
+      "original": "600x451",
+      "source": "https://noosabluefishing.com.au/wp-content/uploads/2026/10/noosa-bluewater-charters-offshore-fishing-10-1.avif",
+      "page": "https://noosabluefishing.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 600,
+      "height": 400,
+      "original": "600x400",
+      "source": "https://noosabluefishing.com.au/wp-content/uploads/2026/10/wgp_1455-scaled-1.avif",
+      "page": "https://noosabluefishing.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 600,
+      "height": 400,
+      "original": "600x400",
+      "source": "https://noosabluefishing.com.au/wp-content/uploads/2026/10/noosa-bluewater-charters-offshore-fishing-14.avif",
+      "page": "https://noosabluefishing.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1440,
+      "height": 1920,
+      "original": "1440x1920",
+      "source": "https://noosabluefishing.com.au/wp-content/uploads/2025/08/noosa-bluewater-charters-offshore-fishing-19-1.jpg",
+      "page": "https://noosabluefishing.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1920,
+      "height": 1440,
+      "original": "1920x1440",
+      "source": "https://noosabluefishing.com.au/wp-content/uploads/2025/08/noosa-bluewater-charters-offshore-fishing-6-1.jpg",
+      "page": "https://noosabluefishing.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1920,
+      "height": 1440,
+      "original": "1920x1440",
+      "source": "https://noosabluefishing.com.au/wp-content/uploads/2025/08/noosa-bluewater-charters-offshore-fishing-17-1.jpg",
+      "page": "https://noosabluefishing.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1920,
+      "height": 1439,
+      "original": "1920x1439",
+      "source": "https://noosabluefishing.com.au/wp-content/uploads/2025/08/noosa-bluewater-charters-offshore-fishing-3-1.jpg",
+      "page": "https://noosabluefishing.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1280,
+      "height": 1920,
+      "original": "1280x1920",
+      "source": "https://noosabluefishing.com.au/wp-content/uploads/2025/08/noosa-bluewater-charters-offshore-fishing-157.jpg",
+      "page": "https://noosabluefishing.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1200,
+      "height": 808,
+      "original": "1200x808",
+      "source": "https://noosabluefishing.com.au/wp-content/uploads/2025/06/noosa-bluewater-charters-shots-16.jpg",
+      "page": "https://noosabluefishing.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1920,
+      "height": 1440,
+      "original": "1920x1440",
+      "source": "https://noosabluefishing.com.au/wp-content/uploads/2025/08/noosa-bluewater-charters-offshore-fishing-5-1.jpg",
+      "page": "https://noosabluefishing.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1920,
+      "height": 1280,
+      "original": "1920x1280",
+      "source": "https://noosabluefishing.com.au/wp-content/uploads/2025/08/noosa-bluewater-charters-offshore-fishing-185.jpg",
+      "page": "https://noosabluefishing.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1920,
+      "height": 1280,
+      "original": "1920x1280",
+      "source": "https://noosabluefishing.com.au/wp-content/uploads/2025/08/noosa-bluewater-charters-offshore-fishing-74.jpg",
+      "page": "https://noosabluefishing.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1200,
+      "height": 871,
+      "original": "1200x871",
+      "source": "https://noosabluefishing.com.au/wp-content/uploads/2025/06/noosa-bluewater-charters-shots-7.jpg",
+      "page": "https://noosabluefishing.com.au/gallery/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://noosabluefishing.com.au/gallery/",
+      "status": 200,
+      "final_url": "https://noosabluefishing.com.au/gallery/",
+      "bytes": 228282
+    },
+    {
+      "page": "https://noosabluefishing.com.au/",
+      "status": 200,
+      "final_url": "https://noosabluefishing.com.au/",
+      "bytes": 201442
+    },
+    {
+      "page": "https://noosabluefishing.com.au/about-us/",
+      "status": 200,
+      "final_url": "https://noosabluefishing.com.au/about-us/",
+      "bytes": 119618
+    },
+    {
+      "page": "https://noosabluefishing.com.au/fishing-charters/",
+      "status": 200,
+      "final_url": "https://noosabluefishing.com.au/fishing-charters/",
+      "bytes": 179264
+    },
+    {
+      "page": "https://noosabluefishing.com.au/private-fishing-charters/",
+      "status": 200,
+      "final_url": "https://noosabluefishing.com.au/private-fishing-charters/",
+      "bytes": 185599
+    },
+    {
+      "page": "https://noosabluefishing.com.au/gift-certificate-gift-cards/",
+      "status": 200,
+      "final_url": "https://noosabluefishing.com.au/gift-certificate-gift-cards/",
+      "bytes": 119335
+    },
+    {
+      "page": "https://noosabluefishing.com.au/kiosk/",
+      "status": 200,
+      "final_url": "https://noosabluefishing.com.au/kiosk/",
+      "bytes": 123514
+    },
+    {
+      "page": "https://noosabluefishing.com.au/blog/",
+      "status": 200,
+      "final_url": "https://noosabluefishing.com.au/blog/",
+      "bytes": 127988
+    },
+    {
+      "page": "https://noosabluefishing.com.au/bar-report/",
+      "status": 200,
+      "final_url": "https://noosabluefishing.com.au/bar-report/",
+      "bytes": 116420
+    },
+    {
+      "page": "https://noosabluefishing.com.au/contact-us/",
+      "status": 200,
+      "final_url": "https://noosabluefishing.com.au/contact-us/",
+      "bytes": 154282
+    },
+    {
+      "dup": "https://noosabluefishing.com.au/wp-content/uploads/2025/08/noosa-bluewater-charters-offshore-fishing-18-1.jpg"
+    }
+  ]
+}

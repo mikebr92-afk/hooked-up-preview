@@ -1,0 +1,429 @@
+{
+  "slug": "p6-moreton-island-fishing-charters",
+  "request_hash": "b1031b826ba9",
+  "collected_at": "2026-11-09T02:29:02.401Z",
+  "pages_fetched": [
+    "https://moretonislandfishingcharters.com.au/gallery/",
+    "https://moretonislandfishingcharters.com.au/the-vessel/",
+    "https://moretonislandfishingcharters.com.au/",
+    "https://moretonislandfishingcharters.com.au/booking/",
+    "https://moretonislandfishingcharters.com.au/cart/",
+    "https://moretonislandfishingcharters.com.au/rates/",
+    "https://moretonislandfishingcharters.com.au/the-charters/",
+    "https://moretonislandfishingcharters.com.au/gift-vouchers/",
+    "https://moretonislandfishingcharters.com.au/about-us/",
+    "https://moretonislandfishingcharters.com.au/contact/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1080,
+      "height": 1072,
+      "original": "1080x1072",
+      "source": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/img-01.jpg",
+      "page": "https://moretonislandfishingcharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 1078,
+      "height": 1440,
+      "original": "1078x1440",
+      "source": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/img-02.jpg",
+      "page": "https://moretonislandfishingcharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 720,
+      "height": 960,
+      "original": "720x960",
+      "source": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/img-03.jpg",
+      "page": "https://moretonislandfishingcharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 720,
+      "height": 960,
+      "original": "720x960",
+      "source": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/img-04.jpg",
+      "page": "https://moretonislandfishingcharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1100,
+      "height": 620,
+      "original": "1100x620",
+      "source": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/img-05.jpg",
+      "page": "https://moretonislandfishingcharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 720,
+      "height": 960,
+      "original": "720x960",
+      "source": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/img-06.jpg",
+      "page": "https://moretonislandfishingcharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 960,
+      "height": 720,
+      "original": "960x720",
+      "source": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/img-07.jpg",
+      "page": "https://moretonislandfishingcharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 720,
+      "height": 960,
+      "original": "720x960",
+      "source": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/img-08.jpg",
+      "page": "https://moretonislandfishingcharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1078,
+      "height": 1440,
+      "original": "1078x1440",
+      "source": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/img-09.jpg",
+      "page": "https://moretonislandfishingcharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 720,
+      "height": 720,
+      "original": "720x720",
+      "source": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/img-10.jpg",
+      "page": "https://moretonislandfishingcharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1100,
+      "height": 662,
+      "original": "1100x662",
+      "source": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/img-13.jpeg",
+      "page": "https://moretonislandfishingcharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 720,
+      "height": 960,
+      "original": "720x960",
+      "source": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/img-13.jpg",
+      "page": "https://moretonislandfishingcharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 800,
+      "height": 600,
+      "original": "800x600",
+      "source": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/mifc-photo-4.jpg",
+      "page": "https://moretonislandfishingcharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1067,
+      "height": 800,
+      "original": "1067x800",
+      "source": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/mifc-photo-1.jpg",
+      "page": "https://moretonislandfishingcharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1072,
+      "height": 802,
+      "original": "1072x802",
+      "source": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/Prestige-boat-3.jpg",
+      "page": "https://moretonislandfishingcharters.com.au/the-vessel/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 600,
+      "height": 800,
+      "original": "600x800",
+      "source": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/20201110-124707.jpg",
+      "page": "https://moretonislandfishingcharters.com.au/the-vessel/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://moretonislandfishingcharters.com.au/gallery/",
+      "status": 200,
+      "final_url": "https://moretonislandfishingcharters.com.au/gallery/",
+      "bytes": 149066
+    },
+    {
+      "page": "https://moretonislandfishingcharters.com.au/the-vessel/",
+      "status": 200,
+      "final_url": "https://moretonislandfishingcharters.com.au/the-vessel/",
+      "bytes": 137855
+    },
+    {
+      "page": "https://moretonislandfishingcharters.com.au/",
+      "status": 200,
+      "final_url": "https://moretonislandfishingcharters.com.au/",
+      "bytes": 160068
+    },
+    {
+      "page": "https://moretonislandfishingcharters.com.au/booking/",
+      "status": 200,
+      "final_url": "https://moretonislandfishingcharters.com.au/booking/",
+      "bytes": 109756
+    },
+    {
+      "page": "https://moretonislandfishingcharters.com.au/cart/",
+      "status": 200,
+      "final_url": "https://moretonislandfishingcharters.com.au/cart/",
+      "bytes": 148219
+    },
+    {
+      "page": "https://moretonislandfishingcharters.com.au/rates/",
+      "status": 200,
+      "final_url": "https://moretonislandfishingcharters.com.au/rates/",
+      "bytes": 143663
+    },
+    {
+      "page": "https://moretonislandfishingcharters.com.au/the-charters/",
+      "status": 200,
+      "final_url": "https://moretonislandfishingcharters.com.au/the-charters/",
+      "bytes": 140134
+    },
+    {
+      "page": "https://moretonislandfishingcharters.com.au/gift-vouchers/",
+      "status": 200,
+      "final_url": "https://moretonislandfishingcharters.com.au/gift-vouchers/",
+      "bytes": 130761
+    },
+    {
+      "page": "https://moretonislandfishingcharters.com.au/about-us/",
+      "status": 200,
+      "final_url": "https://moretonislandfishingcharters.com.au/about-us/",
+      "bytes": 133274
+    },
+    {
+      "page": "https://moretonislandfishingcharters.com.au/contact/",
+      "status": 200,
+      "final_url": "https://moretonislandfishingcharters.com.au/contact/",
+      "bytes": 118384
+    },
+    {
+      "image": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/img-11.jpg",
+      "error": "too small 480x640"
+    },
+    {
+      "image": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/img-12.jpg",
+      "error": "too small 480x640"
+    },
+    {
+      "image": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/img-01-200x199.jpg",
+      "error": "too small 200x199"
+    },
+    {
+      "image": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/img-01-400x397.jpg",
+      "error": "too small 400x397"
+    },
+    {
+      "dup": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/img-01-600x596.jpg"
+    },
+    {
+      "dup": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/img-01-800x794.jpg"
+    },
+    {
+      "image": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/img-02-200x267.jpg",
+      "error": "too small 200x267"
+    },
+    {
+      "image": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/img-02-400x534.jpg",
+      "error": "too small 400x534"
+    },
+    {
+      "dup": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/img-02-600x801.jpg"
+    },
+    {
+      "dup": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/img-02-800x1069.jpg"
+    },
+    {
+      "image": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/img-03-200x267.jpg",
+      "error": "too small 200x267"
+    },
+    {
+      "image": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/img-03-400x533.jpg",
+      "error": "too small 400x533"
+    },
+    {
+      "dup": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/img-03-600x800.jpg"
+    },
+    {
+      "image": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/img-04-200x267.jpg",
+      "error": "too small 200x267"
+    },
+    {
+      "image": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/img-04-400x533.jpg",
+      "error": "too small 400x533"
+    },
+    {
+      "dup": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/img-04-600x800.jpg"
+    },
+    {
+      "image": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/img-05-200x113.jpg",
+      "error": "too small 200x113"
+    },
+    {
+      "image": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/img-05-400x225.jpg",
+      "error": "too small 400x225"
+    },
+    {
+      "image": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/img-05-600x338.jpg",
+      "error": "too small 600x338"
+    },
+    {
+      "dup": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/img-05-800x451.jpg"
+    },
+    {
+      "image": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/img-06-200x267.jpg",
+      "error": "too small 200x267"
+    },
+    {
+      "image": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/img-06-400x533.jpg",
+      "error": "too small 400x533"
+    },
+    {
+      "dup": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/img-06-600x800.jpg"
+    },
+    {
+      "image": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/img-07-200x150.jpg",
+      "error": "too small 200x150"
+    },
+    {
+      "image": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/img-07-400x300.jpg",
+      "error": "too small 400x300"
+    },
+    {
+      "dup": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/img-07-600x450.jpg"
+    },
+    {
+      "dup": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/img-07-800x600.jpg"
+    },
+    {
+      "image": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/img-08-200x267.jpg",
+      "error": "too small 200x267"
+    },
+    {
+      "image": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/img-08-400x533.jpg",
+      "error": "too small 400x533"
+    },
+    {
+      "dup": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/img-08-600x800.jpg"
+    },
+    {
+      "image": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/img-09-200x267.jpg",
+      "error": "too small 200x267"
+    },
+    {
+      "image": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/img-09-400x534.jpg",
+      "error": "too small 400x534"
+    },
+    {
+      "dup": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/img-09-600x801.jpg"
+    },
+    {
+      "dup": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/img-09-800x1069.jpg"
+    },
+    {
+      "image": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/img-10-200x200.jpg",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/img-10-400x400.jpg",
+      "error": "too small 400x400"
+    },
+    {
+      "dup": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/img-10-600x600.jpg"
+    },
+    {
+      "image": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/img-11-200x267.jpg",
+      "error": "too small 200x267"
+    },
+    {
+      "image": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/img-11-400x533.jpg",
+      "error": "too small 400x533"
+    },
+    {
+      "image": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/img-12-200x267.jpg",
+      "error": "too small 200x267"
+    },
+    {
+      "image": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/img-12-400x533.jpg",
+      "error": "too small 400x533"
+    },
+    {
+      "image": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/img-13-200x120.jpeg",
+      "error": "too small 200x120"
+    },
+    {
+      "image": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/img-13-400x241.jpeg",
+      "error": "too small 400x241"
+    },
+    {
+      "image": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/img-13-600x361.jpeg",
+      "error": "too small 600x361"
+    },
+    {
+      "dup": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/img-13-800x481.jpeg"
+    },
+    {
+      "image": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/img-13-200x267.jpg",
+      "error": "too small 200x267"
+    },
+    {
+      "image": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/img-13-400x533.jpg",
+      "error": "too small 400x533"
+    },
+    {
+      "dup": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/img-13-600x800.jpg"
+    },
+    {
+      "image": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/mifc-photo-4-200x150.jpg",
+      "error": "too small 200x150"
+    },
+    {
+      "image": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/mifc-photo-4-400x300.jpg",
+      "error": "too small 400x300"
+    },
+    {
+      "dup": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/mifc-photo-4-600x450.jpg"
+    },
+    {
+      "image": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/mifc-photo-1-200x150.jpg",
+      "error": "too small 200x150"
+    },
+    {
+      "image": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/mifc-photo-1-400x300.jpg",
+      "error": "too small 400x300"
+    },
+    {
+      "dup": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/mifc-photo-1-600x450.jpg"
+    },
+    {
+      "dup": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/mifc-photo-1-800x600.jpg"
+    },
+    {
+      "dup": "https://moretonislandfishingcharters.com.au/wp-content/uploads/2021/11/prestige-boat.jpeg"
+    }
+  ]
+}

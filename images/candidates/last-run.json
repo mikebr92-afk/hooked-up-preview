@@ -1,25 +1,141 @@
 {
-  "finished_at": "2026-11-09T02:25:36.150Z",
+  "finished_at": "2026-11-09T02:46:07.402Z",
   "summary": [
     {
-      "slug": "p6-hooked-on-1770-tourism",
-      "candidates": 0,
+      "slug": "p6b-hooked-on-1770-tourism",
+      "candidates": 14,
       "pages": 5
+    },
+    {
+      "slug": "p6b-frenzy-gallery",
+      "candidates": 1,
+      "pages": 0
+    },
+    {
+      "slug": "p6-brisbane-fishing-tour",
+      "candidates": 16,
+      "pages": 2
+    },
+    {
+      "slug": "p6-fish-moreton",
+      "candidates": 16,
+      "pages": 6
+    },
+    {
+      "slug": "p6-moreton-island-fishing-charters",
+      "candidates": 16,
+      "pages": 10
+    },
+    {
+      "slug": "p6-bundaberg-river-fishing-charters",
+      "candidates": 2,
+      "pages": 5
+    },
+    {
+      "slug": "p6-truansea-charters-bundaberg",
+      "candidates": 3,
+      "pages": 6
+    },
+    {
+      "slug": "p6-eastern-voyager-gladstone",
+      "candidates": 16,
+      "pages": 12
+    },
+    {
+      "slug": "p6-mv-mikat-charters-gladstone",
+      "candidates": 13,
+      "pages": 7
+    },
+    {
+      "slug": "p6-night-crossing-fishing-adventures-gladstone",
+      "candidates": 16,
+      "pages": 5
+    },
+    {
+      "slug": "p6-bks-gold-coast-fishing-charters",
+      "candidates": 16,
+      "pages": 10
+    },
+    {
+      "slug": "p6-fish-the-deep-charters",
+      "candidates": 16,
+      "pages": 12
+    },
+    {
+      "slug": "p6-hooker-1-fishing-charters-gold-coast",
+      "candidates": 16,
+      "pages": 7
+    },
+    {
+      "slug": "p6-true-blue-fishing-charters",
+      "candidates": 10,
+      "pages": 10
+    },
+    {
+      "slug": "p6-hervey-bay-fly-and-sportfishing",
+      "candidates": 16,
+      "pages": 11
+    },
+    {
+      "slug": "p6-saltwater-playground-hervey-bay",
+      "candidates": 16,
+      "pages": 7
+    },
+    {
+      "slug": "p6-keely-rose-fishing-charters",
+      "candidates": 16,
+      "pages": 10
+    },
+    {
+      "slug": "p6-rainbow-beach-fishing-charters",
+      "candidates": 16,
+      "pages": 10
+    },
+    {
+      "slug": "p6-deep-sea-fishing-co-noosa",
+      "candidates": 16,
+      "pages": 12
+    },
+    {
+      "slug": "p6-noosa-bluewater-charters",
+      "candidates": 16,
+      "pages": 10
+    },
+    {
+      "slug": "p6-saltys-fishing-charters-caloundra",
+      "candidates": 16,
+      "pages": 7
+    },
+    {
+      "slug": "p6-what-a-catch-deep-sea-fishing",
+      "candidates": 10,
+      "pages": 10
+    },
+    {
+      "slug": "p6-double-threat-charters-yeppoon",
+      "candidates": 16,
+      "pages": 9
+    },
+    {
+      "slug": "p6-kanimbla-charters-yeppoon",
+      "candidates": 16,
+      "pages": 10
+    },
+    {
+      "slug": "p6-hooked-on-1770-tourism",
+      "skipped": true
     },
     {
       "slug": "p6-hooked-on-1770-fb",
-      "candidates": 0,
-      "pages": 3
+      "skipped": true
     },
     {
       "slug": "p6-frenzy-charters-brisbane",
-      "candidates": 1,
-      "pages": 5
+      "skipped": true
     },
     {
       "slug": "p6-frenzy-fb",
-      "candidates": 0,
-      "pages": 1
+      "skipped": true
     }
   ]
 }

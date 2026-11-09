@@ -1,0 +1,252 @@
+{
+  "slug": "p6-hervey-bay-fly-and-sportfishing",
+  "request_hash": "a1e6adf7af67",
+  "collected_at": "2026-11-09T02:42:34.436Z",
+  "pages_fetched": [
+    "https://herveybaysportfishing.com.au/fishing-photo-gallery/",
+    "https://herveybaysportfishing.com.au/our-vessels/",
+    "https://herveybaysportfishing.com.au/",
+    "https://herveybaysportfishing.com.au/cart/",
+    "https://herveybaysportfishing.com.au/trip-reports/",
+    "https://herveybaysportfishing.com.au/fishing-news/",
+    "https://herveybaysportfishing.com.au/fishing-guides/",
+    "https://herveybaysportfishing.com.au/testimonials/",
+    "https://herveybaysportfishing.com.au/japanese-friendly-fishing-charters/",
+    "https://herveybaysportfishing.com.au/hervey-bay-fishing/",
+    "https://herveybaysportfishing.com.au/hervey-bays-famous-flats/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1296,
+      "height": 864,
+      "original": "1296x864",
+      "source": "https://herveybaysportfishing.com.au/wp-content/uploads/2020/05/sweetlip-painted-reef-fish.jpg",
+      "page": "https://herveybaysportfishing.com.au/fishing-photo-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 1296,
+      "height": 864,
+      "original": "1296x864",
+      "source": "https://herveybaysportfishing.com.au/wp-content/uploads/2020/05/herrring-giant-sportfishing.jpg",
+      "page": "https://herveybaysportfishing.com.au/fishing-photo-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1296,
+      "height": 864,
+      "original": "1296x864",
+      "source": "https://herveybaysportfishing.com.au/wp-content/uploads/2020/05/flyfishing-longtail-tuna-fraser-island.jpg",
+      "page": "https://herveybaysportfishing.com.au/fishing-photo-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1296,
+      "height": 864,
+      "original": "1296x864",
+      "source": "https://herveybaysportfishing.com.au/wp-content/uploads/2020/05/longtail-fraser-island-spin-fishing-jpg.jpg",
+      "page": "https://herveybaysportfishing.com.au/fishing-photo-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1296,
+      "height": 864,
+      "original": "1296x864",
+      "source": "https://herveybaysportfishing.com.au/wp-content/uploads/2020/05/cod-hervey-bay-mother-ship-fraser-island.jpg",
+      "page": "https://herveybaysportfishing.com.au/fishing-photo-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1296,
+      "height": 864,
+      "original": "1296x864",
+      "source": "https://herveybaysportfishing.com.au/wp-content/uploads/2020/05/fly-fishing-tuna-hervey-bay.jpg",
+      "page": "https://herveybaysportfishing.com.au/fishing-photo-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 972,
+      "height": 648,
+      "original": "972x648",
+      "source": "https://herveybaysportfishing.com.au/wp-content/uploads/2020/05/IMG_3880.jpg",
+      "page": "https://herveybaysportfishing.com.au/fishing-photo-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1296,
+      "height": 864,
+      "original": "1296x864",
+      "source": "https://herveybaysportfishing.com.au/wp-content/uploads/2020/05/snapper-hervey-bay-sportfishing.jpg",
+      "page": "https://herveybaysportfishing.com.au/fishing-photo-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1296,
+      "height": 864,
+      "original": "1296x864",
+      "source": "https://herveybaysportfishing.com.au/wp-content/uploads/2020/05/coral-trout-fraser-island.jpg",
+      "page": "https://herveybaysportfishing.com.au/fishing-photo-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1296,
+      "height": 864,
+      "original": "1296x864",
+      "source": "https://herveybaysportfishing.com.au/wp-content/uploads/2020/05/golden-trevally-hervey-bay-sportfishing.jpg",
+      "page": "https://herveybaysportfishing.com.au/fishing-photo-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1296,
+      "height": 864,
+      "original": "1296x864",
+      "source": "https://herveybaysportfishing.com.au/wp-content/uploads/2020/05/trevally-soft-plastic-lure-fishing-1.jpg",
+      "page": "https://herveybaysportfishing.com.au/fishing-photo-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 904,
+      "height": 533,
+      "original": "904x533",
+      "source": "https://herveybaysportfishing.com.au/wp-content/uploads/2020/05/IMG_3821.jpg",
+      "page": "https://herveybaysportfishing.com.au/fishing-photo-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1296,
+      "height": 864,
+      "original": "1296x864",
+      "source": "https://herveybaysportfishing.com.au/wp-content/uploads/2020/05/zman-golden-trevally-hervey-bay.jpg",
+      "page": "https://herveybaysportfishing.com.au/fishing-photo-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1296,
+      "height": 864,
+      "original": "1296x864",
+      "source": "https://herveybaysportfishing.com.au/wp-content/uploads/2020/05/IMG_4097.jpg",
+      "page": "https://herveybaysportfishing.com.au/fishing-photo-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1296,
+      "height": 864,
+      "original": "1296x864",
+      "source": "https://herveybaysportfishing.com.au/wp-content/uploads/2020/05/snappe-soft-plastic-hervey-bay.jpg",
+      "page": "https://herveybaysportfishing.com.au/fishing-photo-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 972,
+      "height": 648,
+      "original": "972x648",
+      "source": "https://herveybaysportfishing.com.au/wp-content/uploads/2020/05/IMG_3784.jpg",
+      "page": "https://herveybaysportfishing.com.au/fishing-photo-gallery/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://herveybaysportfishing.com.au/fishing-photo-gallery/",
+      "status": 200,
+      "final_url": "https://herveybaysportfishing.com.au/fishing-photo-gallery/",
+      "bytes": 468742
+    },
+    {
+      "page": "https://herveybaysportfishing.com.au/our-vessels/",
+      "status": 200,
+      "final_url": "https://herveybaysportfishing.com.au/our-vessels/",
+      "bytes": 394090
+    },
+    {
+      "page": "https://herveybaysportfishing.com.au/",
+      "status": 200,
+      "final_url": "https://herveybaysportfishing.com.au/",
+      "bytes": 342467
+    },
+    {
+      "page": "https://herveybaysportfishing.com.au/cart/",
+      "status": 200,
+      "final_url": "https://herveybaysportfishing.com.au/cart/",
+      "bytes": 398909
+    },
+    {
+      "page": "https://herveybaysportfishing.com.au/trip-reports/",
+      "status": 200,
+      "final_url": "https://herveybaysportfishing.com.au/trip-reports/",
+      "bytes": 408370
+    },
+    {
+      "page": "https://herveybaysportfishing.com.au/fishing-news/",
+      "status": 200,
+      "final_url": "https://herveybaysportfishing.com.au/fishing-news/",
+      "bytes": 417019
+    },
+    {
+      "page": "https://herveybaysportfishing.com.au/fishing-guides/",
+      "status": 200,
+      "final_url": "https://herveybaysportfishing.com.au/fishing-guides/",
+      "bytes": 318328
+    },
+    {
+      "page": "https://herveybaysportfishing.com.au/testimonials/",
+      "status": 200,
+      "final_url": "https://herveybaysportfishing.com.au/testimonials/",
+      "bytes": 324767
+    },
+    {
+      "page": "https://herveybaysportfishing.com.au/japanese-friendly-fishing-charters/",
+      "status": 200,
+      "final_url": "https://herveybaysportfishing.com.au/japanese-friendly-fishing-charters/",
+      "bytes": 306067
+    },
+    {
+      "page": "https://herveybaysportfishing.com.au/hervey-bay-fishing/",
+      "status": 200,
+      "final_url": "https://herveybaysportfishing.com.au/hervey-bay-fishing/",
+      "bytes": 321663
+    },
+    {
+      "page": "https://herveybaysportfishing.com.au/hervey-bays-famous-flats/",
+      "status": 200,
+      "final_url": "https://herveybaysportfishing.com.au/hervey-bays-famous-flats/",
+      "bytes": 359071
+    },
+    {
+      "image": "https://herveybaysportfishing.com.au/wp-content/uploads/2020/05/hervey-bay-sport-fly-fishing-navy-new-font.png",
+      "error": "too small 924x165"
+    },
+    {
+      "image": "https://herveybaysportfishing.com.au/wp-content/uploads/2020/05/gt-giant-trevally-hervey-bay.jpg",
+      "error": "too small 536x423"
+    },
+    {
+      "image": "https://herveybaysportfishing.com.au/wp-content/uploads/2020/05/gt-giant-trevally-hervey-bay-400x284.jpg",
+      "error": "too small 400x284"
+    },
+    {
+      "image": "https://herveybaysportfishing.com.au/wp-content/uploads/2020/05/mac-tuna-fly-fishing.jpg",
+      "error": "too small 553x411"
+    },
+    {
+      "image": "https://herveybaysportfishing.com.au/wp-content/uploads/2020/05/mac-tuna-fly-fishing-400x284.jpg",
+      "error": "too small 400x284"
+    }
+  ]
+}

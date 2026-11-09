@@ -1,0 +1,179 @@
+{
+  "slug": "p6b-hooked-on-1770-tourism",
+  "request_hash": "0ec98b98b8f7",
+  "collected_at": "2026-11-09T02:28:05.382Z",
+  "pages_fetched": [
+    "https://r.jina.ai/https://www.qica.com.au/tours/town-of-1770-agnes-water/hooked-on-1770-adventure-tours",
+    "https://r.jina.ai/https://www.australias.guide/qld/attraction-tour/gladstone/seventeen-seventy/hooked-on-1770-adventure-tours/",
+    "https://r.jina.ai/https://www.gladstoneregion.info/explore/discovery-coast/hire/",
+    "https://r.jina.ai/https://www.gladstoneregion.info/fishing/1770-agnes-water/",
+    "https://r.jina.ai/https://visitagnes1770.com.au/fishing-agnes-water-1770"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1000,
+      "height": 667,
+      "original": "1000x667",
+      "source": "https://australiasguide.com/wp-content/uploads/julia_creek_races.jpg",
+      "page": "https://r.jina.ai/https://www.australias.guide/qld/attraction-tour/gladstone/seventeen-seventy/hooked-on-1770-adventure-tours/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 849,
+      "height": 565,
+      "original": "849x565",
+      "source": "https://australiasguide.com/wp-content/uploads/hotels3.jpg",
+      "page": "https://r.jina.ai/https://www.australias.guide/qld/attraction-tour/gladstone/seventeen-seventy/hooked-on-1770-adventure-tours/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1000,
+      "height": 938,
+      "original": "1000x938",
+      "source": "https://australiasguide.com/wp-content/uploads/joy-flight.jpg",
+      "page": "https://r.jina.ai/https://www.australias.guide/qld/attraction-tour/gladstone/seventeen-seventy/hooked-on-1770-adventure-tours/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 2000,
+      "height": 1330,
+      "original": "2048x1362",
+      "source": "https://australiasguide.com/wp-content/uploads/seacliff-bridge-nsw.jpg",
+      "page": "https://r.jina.ai/https://www.australias.guide/qld/attraction-tour/gladstone/seventeen-seventy/hooked-on-1770-adventure-tours/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1920,
+      "height": 1152,
+      "original": "1920x1152",
+      "source": "https://australiasguide.com/wp-content/uploads/food-drink-cat2.jpg",
+      "page": "https://r.jina.ai/https://www.australias.guide/qld/attraction-tour/gladstone/seventeen-seventy/hooked-on-1770-adventure-tours/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1000,
+      "height": 667,
+      "original": "1000x667",
+      "source": "https://australiasguide.com/wp-content/uploads/sunset.jpg",
+      "page": "https://r.jina.ai/https://www.australias.guide/qld/attraction-tour/gladstone/seventeen-seventy/hooked-on-1770-adventure-tours/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1600,
+      "height": 1067,
+      "original": "1600x1067",
+      "source": "https://australiasguide.com/wp-content/uploads/byron-bay.jpg",
+      "page": "https://r.jina.ai/https://www.australias.guide/qld/attraction-tour/gladstone/seventeen-seventy/hooked-on-1770-adventure-tours/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1600,
+      "height": 693,
+      "original": "1600x693",
+      "source": "https://australiasguide.com/wp-content/uploads/sydney-harbour.jpg",
+      "page": "https://r.jina.ai/https://www.australias.guide/qld/attraction-tour/gladstone/seventeen-seventy/hooked-on-1770-adventure-tours/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1600,
+      "height": 1187,
+      "original": "1600x1187",
+      "source": "https://australiasguide.com/wp-content/uploads/gold-coastf.jpg",
+      "page": "https://r.jina.ai/https://www.australias.guide/qld/attraction-tour/gladstone/seventeen-seventy/hooked-on-1770-adventure-tours/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1600,
+      "height": 1222,
+      "original": "1600x1222",
+      "source": "https://australiasguide.com/wp-content/uploads/melbourne.jpg",
+      "page": "https://r.jina.ai/https://www.australias.guide/qld/attraction-tour/gladstone/seventeen-seventy/hooked-on-1770-adventure-tours/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1003,
+      "height": 545,
+      "original": "1003x545",
+      "source": "https://australiasguide.com/wp-content/uploads/perth.jpg",
+      "page": "https://r.jina.ai/https://www.australias.guide/qld/attraction-tour/gladstone/seventeen-seventy/hooked-on-1770-adventure-tours/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1600,
+      "height": 1070,
+      "original": "1600x1070",
+      "source": "https://australiasguide.com/wp-content/uploads/cairns.jpg",
+      "page": "https://r.jina.ai/https://www.australias.guide/qld/attraction-tour/gladstone/seventeen-seventy/hooked-on-1770-adventure-tours/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1600,
+      "height": 1200,
+      "original": "1600x1200",
+      "source": "https://australiasguide.com/wp-content/uploads/adelaide2.jpg",
+      "page": "https://r.jina.ai/https://www.australias.guide/qld/attraction-tour/gladstone/seventeen-seventy/hooked-on-1770-adventure-tours/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 2000,
+      "height": 1623,
+      "original": "2048x1662",
+      "source": "https://www.visitagnes1770.com.au/wp-content/uploads/2025/09/parkrun.jpg",
+      "page": "https://r.jina.ai/https://visitagnes1770.com.au/fishing-agnes-water-1770",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://r.jina.ai/https://www.qica.com.au/tours/town-of-1770-agnes-water/hooked-on-1770-adventure-tours",
+      "status": 200,
+      "final_url": "https://r.jina.ai/https://www.qica.com.au/tours/town-of-1770-agnes-water/hooked-on-1770-adventure-tours",
+      "bytes": 12845
+    },
+    {
+      "page": "https://r.jina.ai/https://www.australias.guide/qld/attraction-tour/gladstone/seventeen-seventy/hooked-on-1770-adventure-tours/",
+      "status": 200,
+      "final_url": "https://r.jina.ai/https://www.australias.guide/qld/attraction-tour/gladstone/seventeen-seventy/hooked-on-1770-adventure-tours/",
+      "bytes": 6930
+    },
+    {
+      "page": "https://r.jina.ai/https://www.gladstoneregion.info/explore/discovery-coast/hire/",
+      "status": 200,
+      "final_url": "https://r.jina.ai/https://www.gladstoneregion.info/explore/discovery-coast/hire/",
+      "bytes": 521
+    },
+    {
+      "page": "https://r.jina.ai/https://www.gladstoneregion.info/fishing/1770-agnes-water/",
+      "status": 200,
+      "final_url": "https://r.jina.ai/https://www.gladstoneregion.info/fishing/1770-agnes-water/",
+      "bytes": 517
+    },
+    {
+      "page": "https://r.jina.ai/https://visitagnes1770.com.au/fishing-agnes-water-1770",
+      "status": 200,
+      "final_url": "https://r.jina.ai/https://visitagnes1770.com.au/fishing-agnes-water-1770",
+      "bytes": 30974
+    },
+    {
+      "dup": "https://australiasguide.com/wp-content/uploads/outback_road.jpg"
+    },
+    {
+      "image": "https://www.visitagnes1770.com.au/wp-content/uploads/2021/11/top-shots-image.jpg",
+      "error": "too small 400x519"
+    }
+  ]
+}

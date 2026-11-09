@@ -1,0 +1,51 @@
+{
+  "slug": "p6b-frenzy-gallery",
+  "request_hash": "5bacea37d77c",
+  "collected_at": "2026-11-09T02:28:06.739Z",
+  "pages_fetched": [],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 800,
+      "height": 450,
+      "original": "800x450",
+      "source": "https://www.frenzycharters.com.au/i/u/10092929/i/Frenzy_Charters_Website_Photo_.jpg",
+      "page": "direct",
+      "priority": true
+    }
+  ],
+  "log": [
+    {
+      "image": "https://www.frenzycharters.com.au/i/u/10092929/i/pdir/93/i/1-img_6079.jpg",
+      "error": "too small 150x113"
+    },
+    {
+      "image": "https://www.frenzycharters.com.au/i/u/10092929/i/pdir/93/i/1-img_6096.jpg",
+      "error": "too small 150x113"
+    },
+    {
+      "image": "https://www.frenzycharters.com.au/i/u/10092929/i/pdir/93/i/1-img_3394.jpg",
+      "error": "too small 150x112"
+    },
+    {
+      "image": "https://www.frenzycharters.com.au/i/u/10092929/i/pdir/93/i/1-img_2198.jpg",
+      "error": "too small 150x112"
+    },
+    {
+      "image": "https://www.frenzycharters.com.au/i/u/10092929/i/pdir/93/i/1-img_2302.jpg",
+      "error": "too small 150x112"
+    },
+    {
+      "image": "https://www.frenzycharters.com.au/i/u/10092929/i/pdir/93/i/1-img_2824.jpg",
+      "error": "too small 150x112"
+    },
+    {
+      "image": "https://www.frenzycharters.com.au/i/u/10092929/i/pdir/93/i/1-img_2826.jpg",
+      "error": "too small 150x112"
+    },
+    {
+      "image": "https://www.frenzycharters.com.au/i/u/10092929/i/pdir/93/i/1-img_2258.jpg",
+      "error": "too small 150x112"
+    }
+  ]
+}

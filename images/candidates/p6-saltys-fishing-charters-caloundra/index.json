@@ -1,0 +1,270 @@
+{
+  "slug": "p6-saltys-fishing-charters-caloundra",
+  "request_hash": "cd39f072e29d",
+  "collected_at": "2026-11-09T02:45:08.596Z",
+  "pages_fetched": [
+    "https://saltyfishingcharters.com.au/",
+    "https://saltyfishingcharters.com.au/vessels/",
+    "https://saltyfishingcharters.com.au/vessels-2/",
+    "https://saltyfishingcharters.com.au/charters/",
+    "https://saltyfishingcharters.com.au/coastal-bar-crossing-experience/",
+    "https://saltyfishingcharters.com.au/whale-watching-adventure/",
+    "https://saltyfishingcharters.com.au/contact-us/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1080,
+      "height": 1080,
+      "original": "1080x1080",
+      "source": "https://saltyfishingcharters.com.au/wp-content/uploads/2025/05/1000001060.jpg",
+      "page": "https://saltyfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 1080,
+      "height": 799,
+      "original": "1080x799",
+      "source": "https://saltyfishingcharters.com.au/wp-content/uploads/2025/04/486460430_1083986280419395_6853930561672821881_n.jpg",
+      "page": "https://saltyfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1230,
+      "height": 1100,
+      "original": "1230x1100",
+      "source": "https://saltyfishingcharters.com.au/wp-content/uploads/2025/05/sunset-fishing-charter-sunshine-coast.jpg",
+      "page": "https://saltyfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1000,
+      "height": 1000,
+      "original": "1000x1000",
+      "source": "https://saltyfishingcharters.com.au/wp-content/uploads/2025/07/salty-safaris-vessel-fishing-charters-sunshine-coast-seating-and-helm.jpg",
+      "page": "https://saltyfishingcharters.com.au/vessels/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1000,
+      "height": 1000,
+      "original": "1000x1000",
+      "source": "https://saltyfishingcharters.com.au/wp-content/uploads/2025/07/salty-safaris-vessel-fishing-charters-sunshine-coast-seating-and-eskys.jpg",
+      "page": "https://saltyfishingcharters.com.au/vessels/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1000,
+      "height": 1000,
+      "original": "1000x1000",
+      "source": "https://saltyfishingcharters.com.au/wp-content/uploads/2025/07/salty-safaris-vessel-fishing-charters-sunshine-coast-seating-and-rod-holders.jpg",
+      "page": "https://saltyfishingcharters.com.au/vessels/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1000,
+      "height": 1000,
+      "original": "1000x1000",
+      "source": "https://saltyfishingcharters.com.au/wp-content/uploads/2025/07/salty-safaris-vessel-fishing-charters-sunshine-coast-motors.jpg",
+      "page": "https://saltyfishingcharters.com.au/vessels/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1000,
+      "height": 1000,
+      "original": "1000x1000",
+      "source": "https://saltyfishingcharters.com.au/wp-content/uploads/2025/07/salty-safaris-vessel-fishing-charters-sunshine-coast-front-closeup-with-fishing-rods.jpg",
+      "page": "https://saltyfishingcharters.com.au/vessels/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1000,
+      "height": 1000,
+      "original": "1000x1000",
+      "source": "https://saltyfishingcharters.com.au/wp-content/uploads/2025/07/salty-safaris-vessel-fishing-charters-sunshine-coast-side-view.jpg",
+      "page": "https://saltyfishingcharters.com.au/vessels/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1000,
+      "height": 1000,
+      "original": "1000x1000",
+      "source": "https://saltyfishingcharters.com.au/wp-content/uploads/2025/07/salty-safaris-vessel-fishing-charters-sunshine-coast-motoring.jpg",
+      "page": "https://saltyfishingcharters.com.au/vessels/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 2000,
+      "height": 2000,
+      "original": "2134x2134",
+      "source": "https://saltyfishingcharters.com.au/wp-content/uploads/2025/07/fisherman-fishing-catching-fish.png",
+      "page": "https://saltyfishingcharters.com.au/vessels/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 2000,
+      "height": 2000,
+      "original": "2134x2134",
+      "source": "https://saltyfishingcharters.com.au/wp-content/uploads/2025/07/chair-seat-camping-fishing.png",
+      "page": "https://saltyfishingcharters.com.au/vessels/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 2000,
+      "height": 2000,
+      "original": "2134x2134",
+      "source": "https://saltyfishingcharters.com.au/wp-content/uploads/2025/07/fisherman-boot-shoes-walk.png",
+      "page": "https://saltyfishingcharters.com.au/vessels/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 2000,
+      "height": 2000,
+      "original": "2134x2134",
+      "source": "https://saltyfishingcharters.com.au/wp-content/uploads/2025/07/fishing-rod-fish.png",
+      "page": "https://saltyfishingcharters.com.au/vessels/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 2000,
+      "height": 2000,
+      "original": "2134x2134",
+      "source": "https://saltyfishingcharters.com.au/wp-content/uploads/2025/07/fisherman-occupation-fishing-job.png",
+      "page": "https://saltyfishingcharters.com.au/vessels/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 2000,
+      "height": 2000,
+      "original": "2134x2134",
+      "source": "https://saltyfishingcharters.com.au/wp-content/uploads/2025/07/toilet-paper-wipe-clean-cleaning.png",
+      "page": "https://saltyfishingcharters.com.au/vessels/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://saltyfishingcharters.com.au/",
+      "status": 200,
+      "final_url": "https://saltyfishingcharters.com.au/",
+      "bytes": 407335
+    },
+    {
+      "page": "https://saltyfishingcharters.com.au/vessels/",
+      "status": 200,
+      "final_url": "https://saltyfishingcharters.com.au/vessels/",
+      "bytes": 259890
+    },
+    {
+      "page": "https://saltyfishingcharters.com.au/vessels-2/",
+      "status": 200,
+      "final_url": "https://saltyfishingcharters.com.au/vessels-2/",
+      "bytes": 204953
+    },
+    {
+      "page": "https://saltyfishingcharters.com.au/charters/",
+      "status": 200,
+      "final_url": "https://saltyfishingcharters.com.au/charters/",
+      "bytes": 183835
+    },
+    {
+      "page": "https://saltyfishingcharters.com.au/coastal-bar-crossing-experience/",
+      "status": 200,
+      "final_url": "https://saltyfishingcharters.com.au/coastal-bar-crossing-experience/",
+      "bytes": 230098
+    },
+    {
+      "page": "https://saltyfishingcharters.com.au/whale-watching-adventure/",
+      "status": 200,
+      "final_url": "https://saltyfishingcharters.com.au/whale-watching-adventure/",
+      "bytes": 270197
+    },
+    {
+      "page": "https://saltyfishingcharters.com.au/contact-us/",
+      "status": 200,
+      "final_url": "https://saltyfishingcharters.com.au/contact-us/",
+      "bytes": 201078
+    },
+    {
+      "image": "https://saltyfishingcharters.com.au/wp-content/uploads/2025/05/salty-fishing-divider1.png",
+      "error": "too small 1920x165"
+    },
+    {
+      "image": "https://saltyfishingcharters.com.au/wp-content/uploads/2025/05/saltys-fishing-charters-double-catch.jpg",
+      "error": "too small 518x382"
+    },
+    {
+      "image": "https://saltyfishingcharters.com.au/wp-content/uploads/2025/05/surveying-the-catch-aboard-salty-fishing-charters-sunshine-coast.jpg",
+      "error": "too small 518x382"
+    },
+    {
+      "image": "https://saltyfishingcharters.com.au/wp-content/uploads/2025/05/salty-fishing-divider2.png",
+      "error": "too small 1920x165"
+    },
+    {
+      "image": "https://saltyfishingcharters.com.au/wp-content/uploads/2025/05/hiking-1-sdb-7.png",
+      "error": "too small 128x128"
+    },
+    {
+      "image": "https://saltyfishingcharters.com.au/wp-content/uploads/2025/05/salty-fishing-divider1-1280x110.png",
+      "error": "too small 1280x110"
+    },
+    {
+      "image": "https://saltyfishingcharters.com.au/wp-content/uploads/2025/05/salty-fishing-divider1-980x84.png",
+      "error": "too small 980x84"
+    },
+    {
+      "image": "https://saltyfishingcharters.com.au/wp-content/uploads/2025/05/salty-fishing-divider1-480x41.png",
+      "error": "too small 480x41"
+    },
+    {
+      "dup": "https://saltyfishingcharters.com.au/wp-content/uploads/2025/05/1000001060-980x980.jpg"
+    },
+    {
+      "image": "https://saltyfishingcharters.com.au/wp-content/uploads/2025/05/1000001060-480x480.jpg",
+      "error": "too small 480x480"
+    },
+    {
+      "image": "https://saltyfishingcharters.com.au/wp-content/uploads/2025/05/saltys-fishing-charters-double-catch-480x354.jpg",
+      "error": "too small 480x354"
+    },
+    {
+      "dup": "https://saltyfishingcharters.com.au/wp-content/uploads/2025/04/486460430_1083986280419395_6853930561672821881_n-980x725.jpg"
+    },
+    {
+      "image": "https://saltyfishingcharters.com.au/wp-content/uploads/2025/04/486460430_1083986280419395_6853930561672821881_n-480x355.jpg",
+      "error": "too small 480x355"
+    },
+    {
+      "image": "https://saltyfishingcharters.com.au/wp-content/uploads/2025/05/surveying-the-catch-aboard-salty-fishing-charters-sunshine-coast-480x354.jpg",
+      "error": "too small 480x354"
+    },
+    {
+      "image": "https://saltyfishingcharters.com.au/wp-content/uploads/2025/05/salty-fishing-divider2-1280x110.png",
+      "error": "too small 1280x110"
+    },
+    {
+      "image": "https://saltyfishingcharters.com.au/wp-content/uploads/2025/05/salty-fishing-divider2-980x84.png",
+      "error": "too small 980x84"
+    },
+    {
+      "image": "https://saltyfishingcharters.com.au/wp-content/uploads/2025/05/salty-fishing-divider2-480x41.png",
+      "error": "too small 480x41"
+    }
+  ]
+}
