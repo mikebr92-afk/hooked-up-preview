@@ -1,0 +1,207 @@
+{
+  "slug": "riverfly-1864-gallery",
+  "request_hash": "b8d9c3f017ef",
+  "collected_at": "2026-11-09T02:35:32.159Z",
+  "pages_fetched": [
+    "https://www.riverfly.com.au/",
+    "https://riverfly.com.au/about/gallery/",
+    "https://riverfly.com.au/fly-fishing-tasmania/",
+    "https://riverfly.com.au/about/",
+    "https://riverfly.com.au/about/media-articles/",
+    "https://riverfly.com.au/about/testimonials-all/",
+    "https://riverfly.com.au/about/newsletter/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1260,
+      "height": 840,
+      "original": "1260x840",
+      "source": "https://riverfly.com.au/wp-content/uploads/2020/05/One-Day-Tasmanian-Guided-Fly-Fishing.jpg",
+      "page": "https://riverfly.com.au/about/gallery/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 1750,
+      "height": 1167,
+      "original": "1750x1167",
+      "source": "https://riverfly.com.au/wp-content/uploads/IMG_7292IMG_7292-rafting-low-res.jpg",
+      "page": "https://riverfly.com.au/about/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1333,
+      "height": 2000,
+      "original": "1500x2250",
+      "source": "https://riverfly.com.au/wp-content/uploads/IMG_8923IMG_892lowres3.jpg",
+      "page": "https://riverfly.com.au/about/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1335,
+      "height": 2000,
+      "original": "1500x2248",
+      "source": "https://riverfly.com.au/wp-content/uploads/Rivers-November.jpg",
+      "page": "https://riverfly.com.au/about/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 2000,
+      "height": 1335,
+      "original": "2000x1335",
+      "source": "https://riverfly.com.au/wp-content/uploads/headwaterfish.jpg",
+      "page": "https://riverfly.com.au/about/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 847,
+      "height": 1270,
+      "original": "847x1270",
+      "source": "https://riverfly.com.au/wp-content/uploads/IMG_0537IMG_0537.jpg",
+      "page": "https://riverfly.com.au/about/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1250,
+      "height": 833,
+      "original": "1250x833",
+      "source": "https://riverfly.com.au/wp-content/uploads/IMG_6268-copy.jpg",
+      "page": "https://riverfly.com.au/about/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1500,
+      "height": 1001,
+      "original": "1500x1001",
+      "source": "https://riverfly.com.au/wp-content/uploads/IMG_2352.jpg",
+      "page": "https://riverfly.com.au/about/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2200x1650",
+      "source": "https://riverfly.com.au/wp-content/uploads/sim-at-Chromy-low-res.jpg",
+      "page": "https://riverfly.com.au/about/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2000x1500",
+      "source": "https://riverfly.com.au/wp-content/uploads/IMG_1745-low-res.jpg",
+      "page": "https://riverfly.com.au/about/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1750,
+      "height": 1313,
+      "original": "1750x1313",
+      "source": "https://riverfly.com.au/wp-content/uploads/Lost-river-brown.jpg",
+      "page": "https://riverfly.com.au/about/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2000x1500",
+      "source": "https://riverfly.com.au/wp-content/uploads/Simones-brown-copy1.jpg",
+      "page": "https://riverfly.com.au/about/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 850,
+      "height": 567,
+      "original": "850x567",
+      "source": "https://riverfly.com.au/wp-content/uploads/IMG_9063.jpg",
+      "page": "https://riverfly.com.au/about/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2000x1500",
+      "source": "https://riverfly.com.au/wp-content/uploads/nympher-3-good-fish.jpg",
+      "page": "https://riverfly.com.au/about/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2000x1500",
+      "source": "https://riverfly.com.au/wp-content/uploads/high-water-nympher-happy-angler.jpg",
+      "page": "https://riverfly.com.au/about/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1500,
+      "height": 1125,
+      "original": "1500x1125",
+      "source": "https://riverfly.com.au/wp-content/uploads/Brumbys-3-qtr-DR.jpg",
+      "page": "https://riverfly.com.au/about/gallery/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.riverfly.com.au/",
+      "status": 200,
+      "final_url": "https://riverfly.com.au/",
+      "bytes": 70167
+    },
+    {
+      "page": "https://riverfly.com.au/about/gallery/",
+      "status": 200,
+      "final_url": "https://riverfly.com.au/about/gallery/",
+      "bytes": 99579
+    },
+    {
+      "page": "https://riverfly.com.au/fly-fishing-tasmania/",
+      "status": 200,
+      "final_url": "https://riverfly.com.au/fly-fishing-tasmania/",
+      "bytes": 82260
+    },
+    {
+      "page": "https://riverfly.com.au/about/",
+      "status": 200,
+      "final_url": "https://riverfly.com.au/about/",
+      "bytes": 84245
+    },
+    {
+      "page": "https://riverfly.com.au/about/media-articles/",
+      "status": 200,
+      "final_url": "https://riverfly.com.au/about/media-articles/",
+      "bytes": 76543
+    },
+    {
+      "page": "https://riverfly.com.au/about/testimonials-all/",
+      "status": 200,
+      "final_url": "https://riverfly.com.au/about/testimonials-all/",
+      "bytes": 98099
+    },
+    {
+      "page": "https://riverfly.com.au/about/newsletter/",
+      "status": 200,
+      "final_url": "https://riverfly.com.au/about/newsletter/",
+      "bytes": 68638
+    },
+    {
+      "dup": "https://riverfly.com.au/wp-content/uploads/Simones-brown-copy.jpg"
+    }
+  ]
+}

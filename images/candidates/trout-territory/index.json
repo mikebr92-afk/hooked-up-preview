@@ -1,7 +1,7 @@
 {
   "slug": "trout-territory",
   "request_hash": "d0a5cd1641ff",
-  "collected_at": "2026-11-09T02:34:25.187Z",
+  "collected_at": "2026-11-09T02:37:30.321Z",
   "pages_fetched": [
     "https://troutterritory.com.au/",
     "https://troutterritory.com.au/fly-fishing-tour-rates/",
@@ -17,43 +17,43 @@
       "page": "https://troutterritory.com.au/",
       "status": 200,
       "final_url": "https://troutterritory.com.au/",
-      "bytes": 98816
+      "bytes": 98824
     },
     {
       "page": "https://troutterritory.com.au/fly-fishing-tour-rates/",
       "status": 200,
       "final_url": "https://troutterritory.com.au/fly-fishing-tour-rates/",
-      "bytes": 72181
+      "bytes": 72176
     },
     {
       "page": "https://troutterritory.com.au/fly-fishing-workshops/",
       "status": 200,
       "final_url": "https://troutterritory.com.au/fly-fishing-workshops/",
-      "bytes": 69066
+      "bytes": 69075
     },
     {
       "page": "https://troutterritory.com.au/trout-fishing-in-tasmania-3/",
       "status": 200,
       "final_url": "https://troutterritory.com.au/trout-fishing-in-tasmania-3/",
-      "bytes": 98468
+      "bytes": 98448
     },
     {
       "page": "https://troutterritory.com.au/about/",
       "status": 200,
       "final_url": "https://troutterritory.com.au/about/",
-      "bytes": 73073
+      "bytes": 73067
     },
     {
       "page": "https://troutterritory.com.au/contact/",
       "status": 200,
       "final_url": "https://troutterritory.com.au/contact/",
-      "bytes": 83465
+      "bytes": 83493
     },
     {
       "page": "https://troutterritory.com.au/trout-fishing-in-tasmania/",
       "status": 200,
       "final_url": "https://troutterritory.com.au/trout-fishing-in-tasmania-3/",
-      "bytes": 98469
+      "bytes": 98450
     }
   ]
 }

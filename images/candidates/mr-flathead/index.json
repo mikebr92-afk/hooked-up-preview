@@ -1,7 +1,7 @@
 {
   "slug": "mr-flathead",
   "request_hash": "bfbcbf307e00",
-  "collected_at": "2026-11-09T02:32:08.819Z",
+  "collected_at": "2026-11-09T02:36:03.728Z",
   "pages_fetched": [
     "https://www.mrflathead.com.au/experience-fishing-tasmania",
     "https://www.mrflathead.com.au/",
@@ -85,7 +85,7 @@
       "page": "https://www.mrflathead.com.au/",
       "status": 200,
       "final_url": "https://www.mrflathead.com.au/",
-      "bytes": 372404
+      "bytes": 373757
     },
     {
       "page": "https://www.mrflathead.com.au/tasmania-fishing-charter-tour",
