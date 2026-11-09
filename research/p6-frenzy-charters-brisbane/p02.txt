@@ -1,0 +1,11 @@
+HTTP 422
+URL: https://r.jina.ai/https://www.frenzycharters.com.au/our_vessel
+TITLE: 
+DESCRIPTION: 
+CONTACT LINKS: 
+
+--- TEXT ---
+{"data":null,"code":422,"name":"AssertionFailureError","status":42206,"message":"Unexpected empty file: https://www.frenzycharters.com.au","readableMessage":"AssertionFailureError: Unexpected empty file: https://www.frenzycharters.com.au"}
+
+--- LINKS ---
+

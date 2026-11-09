@@ -1,0 +1,57 @@
+{
+  "slug": "p6-hooked-on-1770-tourism",
+  "request_hash": "e96986149ac9",
+  "collected_at": "2026-11-09T02:25:14.250Z",
+  "pages_fetched": [
+    "https://qica.com.au/tours/town-of-1770-agnes-water/hooked-on-1770-adventure-tours",
+    "https://www.qica.com.au/hooked-on-1770-adventure-tours",
+    "https://www.australias.guide/qld/attraction-tour/gladstone/seventeen-seventy/hooked-on-1770-adventure-tours/",
+    "https://www.gladstoneregion.info/explore/agnes-water-1770/tour/hooked-on-1770-adventure-tours/",
+    "https://www.gladstoneregion.info/fishing/1770-agnes-water/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://qica.com.au/tours/town-of-1770-agnes-water/hooked-on-1770-adventure-tours",
+      "status": 200,
+      "final_url": "https://www.qica.com.au/tours/town-of-1770-agnes-water/hooked-on-1770-adventure-tours",
+      "bytes": 35911
+    },
+    {
+      "page": "https://www.qica.com.au/hooked-on-1770-adventure-tours",
+      "status": 200,
+      "final_url": "https://www.qica.com.au/hooked-on-1770-adventure-tours",
+      "bytes": 35861
+    },
+    {
+      "page": "https://www.australias.guide/qld/attraction-tour/gladstone/seventeen-seventy/hooked-on-1770-adventure-tours/",
+      "status": 200,
+      "final_url": "https://www.australias.guide/qld/attraction-tour/gladstone/seventeen-seventy/hooked-on-1770-adventure-tours/",
+      "bytes": 12150
+    },
+    {
+      "page": "https://www.gladstoneregion.info/explore/agnes-water-1770/tour/hooked-on-1770-adventure-tours/",
+      "status": 403,
+      "final_url": "https://www.gladstoneregion.info/explore/agnes-water-1770/tour/hooked-on-1770-adventure-tours/",
+      "bytes": 6035
+    },
+    {
+      "page": "https://www.gladstoneregion.info/fishing/1770-agnes-water/",
+      "status": 403,
+      "final_url": "https://www.gladstoneregion.info/fishing/1770-agnes-water/",
+      "bytes": 5884
+    },
+    {
+      "image": "https://www.qica.com.au/images//opengraph/default.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "http://maps.google.com/maps/api/staticmap?center=53+Wilson+Drive%2C+Agnes+Water+QLD+4677+Australia%2C+Agnes+Water%2C+Australia&zoom=15&size=392x252&maptype=roadmap&markers=color:red%7Ccolor:red%7Clabel:A%7C53+Wilson+Drive%2C+Agnes+Water+QLD+4677+Australia%2C+Agnes+Water%2C+Australia&sensor=false&key=",
+      "error": "HTTP 403"
+    },
+    {
+      "image": "http://www.google.com/mapfiles/shadow50.png",
+      "error": "too small 37x34"
+    }
+  ]
+}

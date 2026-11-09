@@ -1,0 +1,39 @@
+{
+  "slug": "p6-hooked-on-1770-fb",
+  "request_hash": "e88b5e873427",
+  "collected_at": "2026-11-09T02:25:23.682Z",
+  "pages_fetched": [
+    "https://r.jina.ai/https://www.facebook.com/pages/Hooked-on-1770-Fishing-Charters/401675299945964",
+    "https://r.jina.ai/https://www.1770tours.com/Photo%20Album.html",
+    "https://r.jina.ai/https://www.1770tours.com/index.php"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://r.jina.ai/https://www.facebook.com/pages/Hooked-on-1770-Fishing-Charters/401675299945964",
+      "status": 200,
+      "final_url": "https://r.jina.ai/https://www.facebook.com/pages/Hooked-on-1770-Fishing-Charters/401675299945964",
+      "bytes": 4506
+    },
+    {
+      "page": "https://r.jina.ai/https://www.1770tours.com/Photo%20Album.html",
+      "status": 200,
+      "final_url": "https://r.jina.ai/https://www.1770tours.com/Photo%20Album.html",
+      "bytes": 2572
+    },
+    {
+      "page": "https://r.jina.ai/https://www.1770tours.com/index.php",
+      "status": 200,
+      "final_url": "https://r.jina.ai/https://www.1770tours.com/index.php",
+      "bytes": 482
+    },
+    {
+      "image": "https://www.1770tours.com/Library/hooked-on-webpage.jpg",
+      "error": "too small 1000x280"
+    },
+    {
+      "image": "https://www.1770tours.com/Library/Availability.jpg",
+      "error": "too small 100x30"
+    }
+  ]
+}

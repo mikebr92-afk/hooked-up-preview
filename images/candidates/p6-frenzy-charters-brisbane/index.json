@@ -1,0 +1,379 @@
+{
+  "slug": "p6-frenzy-charters-brisbane",
+  "request_hash": "a2b052b9d2a4",
+  "collected_at": "2026-11-09T02:25:33.533Z",
+  "pages_fetched": [
+    "https://r.jina.ai/https://www.frenzycharters.com.au/snapshots",
+    "https://r.jina.ai/https://www.frenzycharters.com.au/our_vessel",
+    "https://r.jina.ai/https://www.frenzycharters.com.au/home",
+    "https://r.jina.ai/https://www.frenzycharters.com.au/fishing_report",
+    "https://r.jina.ai/https://www.frenzycharters.com.au/about"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 800,
+      "height": 450,
+      "original": "800x450",
+      "source": "https://www.frenzycharters.com.au/i/u/10092929/i/Frenzy_Charters_Website_Photo_.jpg",
+      "page": "https://r.jina.ai/https://www.frenzycharters.com.au/snapshots",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://r.jina.ai/https://www.frenzycharters.com.au/snapshots",
+      "status": 200,
+      "final_url": "https://r.jina.ai/https://www.frenzycharters.com.au/snapshots",
+      "bytes": 5794
+    },
+    {
+      "page": "https://r.jina.ai/https://www.frenzycharters.com.au/our_vessel",
+      "status": 422,
+      "final_url": "https://r.jina.ai/https://www.frenzycharters.com.au/our_vessel",
+      "bytes": 239
+    },
+    {
+      "page": "https://r.jina.ai/https://www.frenzycharters.com.au/home",
+      "status": 422,
+      "final_url": "https://r.jina.ai/https://www.frenzycharters.com.au/home",
+      "bytes": 239
+    },
+    {
+      "page": "https://r.jina.ai/https://www.frenzycharters.com.au/fishing_report",
+      "status": 200,
+      "final_url": "https://r.jina.ai/https://www.frenzycharters.com.au/fishing_report",
+      "bytes": 11531
+    },
+    {
+      "page": "https://r.jina.ai/https://www.frenzycharters.com.au/about",
+      "status": 200,
+      "final_url": "https://r.jina.ai/https://www.frenzycharters.com.au/about",
+      "bytes": 4792
+    },
+    {
+      "image": "https://www.frenzycharters.com.au/zirw/17/i/u/10092929/i/pdir/93/i/1-img_6079.jpg?bd=88)](javascript:th93.viewdetail(0))",
+      "error": "too small 150x113"
+    },
+    {
+      "image": "https://www.frenzycharters.com.au/zirw/17/i/u/10092929/i/pdir/93/i/1-img_6096.jpg?bd=88)](javascript:th93.viewdetail(1))",
+      "error": "too small 150x113"
+    },
+    {
+      "image": "https://www.frenzycharters.com.au/zirw/17/i/u/10092929/i/pdir/93/i/1-img_3394.jpg?bd=88)](javascript:th93.viewdetail(2))",
+      "error": "too small 150x112"
+    },
+    {
+      "image": "https://www.frenzycharters.com.au/zirw/17/i/u/10092929/i/pdir/93/i/1-img_2198.jpg?bd=88)](javascript:th93.viewdetail(3))",
+      "error": "too small 150x112"
+    },
+    {
+      "image": "https://www.frenzycharters.com.au/zirw/17/i/u/10092929/i/pdir/93/i/1-img_2302.jpg?bd=88)](javascript:th93.viewdetail(4))",
+      "error": "too small 150x112"
+    },
+    {
+      "image": "https://www.frenzycharters.com.au/zirw/17/i/u/10092929/i/pdir/93/i/1-img_2824.jpg?bd=88)](javascript:th93.viewdetail(5))",
+      "error": "too small 150x112"
+    },
+    {
+      "image": "https://www.frenzycharters.com.au/zirw/17/i/u/10092929/i/pdir/93/i/1-img_2826.jpg?bd=88)](javascript:th93.viewdetail(6))[![Image",
+      "error": "too small 150x112"
+    },
+    {
+      "image": "https://www.frenzycharters.com.au/zirw/17/i/u/10092929/i/pdir/93/i/1-img_2258.jpg?bd=88)](javascript:th93.viewdetail(7))",
+      "error": "too small 150x112"
+    },
+    {
+      "image": "https://www.frenzycharters.com.au/i/u/10092929/i/IMG_7336.JPG?a=1)",
+      "error": "too small 480x360"
+    },
+    {
+      "image": "https://www.frenzycharters.com.au/i/u/10092929/i/IMG_6825.JPG",
+      "error": "too small 480x360"
+    },
+    {
+      "image": "https://www.frenzycharters.com.au/i/u/10092929/i/IMG_6737.JPG",
+      "error": "too small 360x480"
+    },
+    {
+      "image": "https://www.frenzycharters.com.au/i/u/10092929/i/IMG_6644.JPG",
+      "error": "too small 360x480"
+    },
+    {
+      "image": "https://www.frenzycharters.com.au/i/u/10092929/i/IMG_6560.JPG",
+      "error": "too small 480x688"
+    },
+    {
+      "image": "https://www.frenzycharters.com.au/i/u/10092929/i/IMG_6536.JPG",
+      "error": "too small 360x480"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_6328.JPG",
+      "error": "too small 480x360"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_6264.JPG",
+      "error": "too small 480x360"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_6136.JPG",
+      "error": "too small 480x360"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_6096.JPG",
+      "error": "too small 360x480"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_4917.JPG",
+      "error": "too small 480x360"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_5150.JPG",
+      "error": "too small 480x360"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_5135.JPG",
+      "error": "too small 480x360"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_5095.JPG",
+      "error": "too small 480x360"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_4994.JPG",
+      "error": "too small 360x480"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_4857.JPG",
+      "error": "too small 360x480"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_4627.JPG",
+      "error": "too small 480x360"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_4592.JPG?a=1)",
+      "error": "too small 240x180"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_4524.JPG",
+      "error": "too small 360x480"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_4503.JPG",
+      "error": "too small 360x480"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_4384.JPG",
+      "error": "too small 360x480"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_4057.JPG",
+      "error": "too small 240x180"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_4001.JPG",
+      "error": "too small 480x360"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_3974.JPG",
+      "error": "too small 360x480"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_3809.JPG",
+      "error": "too small 480x360"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_3608.JPG",
+      "error": "too small 480x360"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_3550.JPG",
+      "error": "too small 360x480"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_3516.JPG",
+      "error": "too small 480x360"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_3481.JPG",
+      "error": "too small 360x480"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_3399.JPG",
+      "error": "too small 360x480"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_3243.JPG",
+      "error": "too small 480x360"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_3179.JPG",
+      "error": "too small 480x640"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_3019.JPG",
+      "error": "too small 480x360"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_2653.JPG",
+      "error": "too small 480x360"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_2619.JPG",
+      "error": "too small 480x360"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_2554.JPG",
+      "error": "too small 360x480"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_2226.JPG",
+      "error": "too small 360x480"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_2046.JPG",
+      "error": "too small 360x480"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_1886.JPG",
+      "error": "too small 480x360"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_1800.JPG",
+      "error": "too small 360x480"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_1746.JPG",
+      "error": "too small 360x480"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_1608.JPG",
+      "error": "too small 480x360"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_1541.JPG",
+      "error": "too small 480x360"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_1310.JPG",
+      "error": "too small 479x413"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_1227.JPG",
+      "error": "too small 480x360"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_1076.JPG",
+      "error": "too small 360x480"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_1022.JPG",
+      "error": "too small 360x480"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_0931.JPG",
+      "error": "too small 360x480"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_0784.JPG",
+      "error": "too small 360x480"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_0664.JPG",
+      "error": "too small 360x480"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_0577.JPG",
+      "error": "too small 480x360"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_0549.JPG",
+      "error": "too small 360x480"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_0532.JPG",
+      "error": "too small 360x480"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_0508.JPG",
+      "error": "too small 360x480"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_0449.JPG",
+      "error": "too small 360x480"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_0302.JPG",
+      "error": "too small 480x360"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_0285.JPG",
+      "error": "too small 360x480"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_5476__2_.JPG",
+      "error": "too small 480x573"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_5601.JPG",
+      "error": "too small 480x640"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_5479.JPG",
+      "error": "too small 480x360"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_5460.JPG",
+      "error": "too small 480x640"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_5441.JPG",
+      "error": "too small 480x360"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_5359.JPG",
+      "error": "too small 480x640"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_5218.JPG",
+      "error": "too small 480x360"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_5107.JPG",
+      "error": "too small 480x640"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_5053.JPG",
+      "error": "too small 480x640"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_4988.JPG",
+      "error": "too small 480x640"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_4958.JPG",
+      "error": "too small 480x360"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_1782.JPG",
+      "error": "too small 360x480"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_4897.JPG",
+      "error": "too small 480x360"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_4850.JPG",
+      "error": "too small 480x360"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_4810.JPG",
+      "error": "too small 480x360"
+    },
+    {
+      "image": "https://o.b5z.net/i/u/10092929/i/IMG_4727.JPG",
+      "error": "too small 480x640"
+    }
+  ]
+}
