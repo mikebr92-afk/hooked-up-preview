@@ -1,0 +1,65 @@
+{
+  "slug": "p6d-hooked-on-1770-variants",
+  "request_hash": "6f731eac85d8",
+  "collected_at": "2026-11-09T02:51:25.652Z",
+  "pages_fetched": [],
+  "candidates": [],
+  "log": [
+    {
+      "image": "https://www.1770tours.com/hero.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.1770tours.com/hero-fish.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.1770tours.com/hero-catch.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.1770tours.com/hero-fishing.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.1770tours.com/hero-reef.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.1770tours.com/hero-1.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.1770tours.com/hero-2.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.1770tours.com/hero-boat-2.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.1770tours.com/hero-boat2.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.1770tours.com/Library/Vessel-Rocks-large.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.1770tours.com/Library/Black%20Marlin.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.1770tours.com/Library/01%20005.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.1770tours.com/Library/01%20006.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.1770tours.com/Library/01%20010.jpg",
+      "error": "HTTP 404"
+    }
+  ]
+}

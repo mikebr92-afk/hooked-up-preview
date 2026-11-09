@@ -1,5 +1,5 @@
 {
-  "finished_at": "2026-11-09T02:48:07.787Z",
+  "finished_at": "2026-11-09T02:52:42.040Z",
   "summary": [
     {
       "slug": "p6b-hooked-on-1770-tourism",
@@ -11,8 +11,27 @@
     },
     {
       "slug": "p6c-hooked-on-1770-site",
-      "candidates": 1,
-      "pages": 12
+      "skipped": true
+    },
+    {
+      "slug": "p6d-hooked-on-1770-variants",
+      "candidates": 0,
+      "pages": 0
+    },
+    {
+      "slug": "p6d-frenzy-variants",
+      "candidates": 0,
+      "pages": 0
+    },
+    {
+      "slug": "p6e-bundaberg-river-originals",
+      "candidates": 30,
+      "pages": 0
+    },
+    {
+      "slug": "p6e-truansea-originals",
+      "candidates": 20,
+      "pages": 0
     },
     {
       "slug": "p6-brisbane-fishing-tour",

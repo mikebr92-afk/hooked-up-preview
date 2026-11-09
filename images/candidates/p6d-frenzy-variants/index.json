@@ -1,0 +1,61 @@
+{
+  "slug": "p6d-frenzy-variants",
+  "request_hash": "651ca5f19b1a",
+  "collected_at": "2026-11-09T02:51:27.510Z",
+  "pages_fetched": [],
+  "candidates": [],
+  "log": [
+    {
+      "image": "https://www.frenzycharters.com.au/i/u/10092929/i/pdir/93/i/img_6079.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.frenzycharters.com.au/i/u/10092929/i/pdir/93/i/2-img_6079.jpg",
+      "error": "too small 400x300"
+    },
+    {
+      "image": "https://www.frenzycharters.com.au/i/u/10092929/i/pdir/93/i/0-img_6079.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.frenzycharters.com.au/i/u/10092929/i/pdir/93/i/IMG_6079.JPG",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.frenzycharters.com.au/i/u/10092929/i/IMG_6079.JPG",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.frenzycharters.com.au/i/u/10092929/i/pdir/93/i/img_6096.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.frenzycharters.com.au/i/u/10092929/i/pdir/93/i/2-img_6096.jpg",
+      "error": "too small 400x300"
+    },
+    {
+      "image": "https://www.frenzycharters.com.au/i/u/10092929/i/pdir/93/i/img_3394.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.frenzycharters.com.au/i/u/10092929/i/pdir/93/i/2-img_3394.jpg",
+      "error": "too small 400x300"
+    },
+    {
+      "image": "https://www.frenzycharters.com.au/i/u/10092929/i/pdir/93/i/img_2258.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.frenzycharters.com.au/i/u/10092929/i/pdir/93/i/2-img_2258.jpg",
+      "error": "too small 400x300"
+    },
+    {
+      "image": "https://www.frenzycharters.com.au/i/u/10092929/i/pdir/93/i/img_2824.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.frenzycharters.com.au/i/u/10092929/i/pdir/93/i/2-img_2824.jpg",
+      "error": "too small 400x300"
+    }
+  ]
+}

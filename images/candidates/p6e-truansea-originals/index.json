@@ -1,0 +1,189 @@
+{
+  "slug": "p6e-truansea-originals",
+  "request_hash": "b79a49f4bdd1",
+  "collected_at": "2026-11-09T02:52:42.035Z",
+  "pages_fetched": [],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 2000,
+      "height": 1705,
+      "original": "2560x2182",
+      "source": "https://img1.wsimg.com/isteam/ip/e8be81f1-4104-4a97-a858-32f107df5bee/IMG_20240727_144023070_HDR.jpg",
+      "page": "direct",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 2000,
+      "height": 1435,
+      "original": "2560x1837",
+      "source": "https://img1.wsimg.com/isteam/ip/e8be81f1-4104-4a97-a858-32f107df5bee/IMG_20240514_162550_920.jpg",
+      "page": "direct",
+      "priority": true
+    },
+    {
+      "file": "c03.webp",
+      "width": 2000,
+      "height": 1721,
+      "original": "2560x2203",
+      "source": "https://img1.wsimg.com/isteam/ip/e8be81f1-4104-4a97-a858-32f107df5bee/IMG_20240602_102115297_HDR.jpg",
+      "page": "direct",
+      "priority": true
+    },
+    {
+      "file": "c04.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://img1.wsimg.com/isteam/ip/e8be81f1-4104-4a97-a858-32f107df5bee/IMG_20240807_093459082_HDR.jpg",
+      "page": "direct",
+      "priority": true
+    },
+    {
+      "file": "c05.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://img1.wsimg.com/isteam/ip/e8be81f1-4104-4a97-a858-32f107df5bee/IMG_20240602_094857104_HDR.jpg",
+      "page": "direct",
+      "priority": true
+    },
+    {
+      "file": "c06.webp",
+      "width": 2000,
+      "height": 1707,
+      "original": "2560x2185",
+      "source": "https://img1.wsimg.com/isteam/ip/e8be81f1-4104-4a97-a858-32f107df5bee/IMG_20240709_214148_704.jpg",
+      "page": "direct",
+      "priority": true
+    },
+    {
+      "file": "c07.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://img1.wsimg.com/isteam/ip/e8be81f1-4104-4a97-a858-32f107df5bee/IMG_20240601_102728242_HDR.jpg",
+      "page": "direct",
+      "priority": true
+    },
+    {
+      "file": "c08.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://img1.wsimg.com/isteam/ip/e8be81f1-4104-4a97-a858-32f107df5bee/IMG_20240726_125657424_HDR.jpg",
+      "page": "direct",
+      "priority": true
+    },
+    {
+      "file": "c09.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://img1.wsimg.com/isteam/ip/e8be81f1-4104-4a97-a858-32f107df5bee/IMG_20240727_121149406_HDR.jpg",
+      "page": "direct",
+      "priority": true
+    },
+    {
+      "file": "c10.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1920x2560",
+      "source": "https://img1.wsimg.com/isteam/ip/e8be81f1-4104-4a97-a858-32f107df5bee/IMG_20240726_135832874_HDR.jpg",
+      "page": "direct",
+      "priority": true
+    },
+    {
+      "file": "c11.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://img1.wsimg.com/isteam/ip/e8be81f1-4104-4a97-a858-32f107df5bee/IMG_20241103_134010445_HDR.jpg",
+      "page": "direct",
+      "priority": true
+    },
+    {
+      "file": "c12.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://img1.wsimg.com/isteam/ip/e8be81f1-4104-4a97-a858-32f107df5bee/IMG_20240807_093550328_HDR.jpg",
+      "page": "direct",
+      "priority": true
+    },
+    {
+      "file": "c13.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://img1.wsimg.com/isteam/ip/e8be81f1-4104-4a97-a858-32f107df5bee/IMG_20240720_142702030_HDR.jpg",
+      "page": "direct",
+      "priority": true
+    },
+    {
+      "file": "c14.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://img1.wsimg.com/isteam/ip/e8be81f1-4104-4a97-a858-32f107df5bee/IMG_20240615_121247687_HDR.jpg",
+      "page": "direct",
+      "priority": true
+    },
+    {
+      "file": "c15.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://img1.wsimg.com/isteam/ip/e8be81f1-4104-4a97-a858-32f107df5bee/IMG_20240712_133722866.jpg",
+      "page": "direct",
+      "priority": true
+    },
+    {
+      "file": "c16.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://img1.wsimg.com/isteam/ip/e8be81f1-4104-4a97-a858-32f107df5bee/IMG_20240615_133614748_HDR.jpg",
+      "page": "direct",
+      "priority": true
+    },
+    {
+      "file": "c17.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://img1.wsimg.com/isteam/ip/e8be81f1-4104-4a97-a858-32f107df5bee/IMG_20240908_141238424.jpg",
+      "page": "direct",
+      "priority": true
+    },
+    {
+      "file": "c18.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://img1.wsimg.com/isteam/ip/e8be81f1-4104-4a97-a858-32f107df5bee/IMG_20241028_144614139_HDR.jpg",
+      "page": "direct",
+      "priority": true
+    },
+    {
+      "file": "c19.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1920x2560",
+      "source": "https://img1.wsimg.com/isteam/ip/e8be81f1-4104-4a97-a858-32f107df5bee/IMG_20240608_115134980.jpg",
+      "page": "direct",
+      "priority": true
+    },
+    {
+      "file": "c20.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://img1.wsimg.com/isteam/ip/e8be81f1-4104-4a97-a858-32f107df5bee/IMG_20240608_122405329.jpg",
+      "page": "direct",
+      "priority": true
+    }
+  ],
+  "log": []
+}
