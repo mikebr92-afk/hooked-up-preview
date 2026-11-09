@@ -1,0 +1,40 @@
+TASMANIA - photo and details audit (state-tas, 2026-11-09)
+Pipeline branch: operator-images/state-tas-photos (candidates under images/candidates/<slug>/ and images/candidates/riverfly-1864-gallery/).
+WebSearch used: 1 of 8. Review sheets: review/<slug>.jpg (before/after), all checked.
+
+PER LISTING
+-----------
+mr-flathead: FILL (2 -> 4). Hero kept: sharp shot of Disce Pati under way. Added the site's three catch shots (striped trumpeter, albacore, snapper + trumpeter); dropped the small, distant second boat shot. No photo shows sand flathead, so the closure question does not affect any image. Details: copy corrected for the sand flathead closure, and Facebook added (see below).
+divers-fishing-charters-hobart: IMPROVE (3 -> 4, new hero). 2000 px drone shot of Big Kylin under way replaces the 1200 px banner of the same boat; added the site's only catch photo (reef fish on board, not a flathead). Details: Instagram added; flathead note updated for the closure.
+tasman-spirit-charters: IMPROVE (3 -> 2). 03 was a re-crop of 01 (same moored-boat photo), so it was removed. The hero is now the trolling shot past Tasman Island instead of the boat at its mooring. Only 2 distinct photos exist on the site and there are no socials.
+tasmania-fly-fishing: IMPROVE (4 -> 5, new hero). New hero is a sharp 2000 px angler with a heavy brown trout; added a client with a trout in the guide boat; dropped the darkest photo. Details: Instagram added.
+tassie-fly-guide: IMPROVE (reorder). Hero is now the client with a trout and net in the drift boat (better lit); the drift-boat scene moves to second. Details: Instagram and Facebook added.
+riverfly-1864: IMPROVE (3 -> 5, new hero). New hero is a smiling client with a brown trout mid-river; added a client with a big brown on the boat. Both are from RiverFly's gallery page and have no watermark (three watermarked gallery shots were skipped).
+miena-guiding-tasmania: IMPROVE (reorder). Hero is now the brown trout held beside the guide boat; the wading shot, which reads small and grey at card size, moves to second.
+trout-tales-tasmania: UNCHANGED. Four sharp, accurate trout and on-the-water shots; the hero is two anglers with a rainbow trout. Socials match the site.
+trout-territory: UNCHANGED. The hero is two clients with a brown trout in the boat, and three of the four photos are catches. They look older (compact-camera era) but are accurate. Phone and socials match the site.
+
+DETAILS (details.json; 4 listings corrected)
+--------------------------------------------
+- mr-flathead: description, all_species (Flathead note), trips (Dodges Ferry trip no longer targets Flathead; sand flathead release noted) and facebook (facebook.com/mrflatheadtasmania, linked on every page of the site).
+- divers-fishing-charters-hobart: instagram (divers_fishing_charters) and all_species (Flathead note for the closure).
+- tassie-fly-guide: instagram (tassie_fly_guide) and facebook (profile.php?id=61557394582444), both linked in the site footer.
+- tasmania-fly-fishing: instagram (tasmania_fly_fishing), linked in the site footer.
+- Phones and emails were checked against each site and all match ops/states/tas.md: Mr Flathead 0439 617 200 / mrflathead@iprimus.com.au; Diver's +61 498 855 910 / support@tasyachttrip.com.au; Tassie Fly Guide 0448 683 678 / hello@tassieflyguide.com.au; Tasmania Fly Fishing 0407 334 415; RiverFly 0427 313 972; Trout Territory 0418 875 001; Miena Guiding +61 408 838 753; Tasman Spirit 0408 293 201. None were added, because build_listings.mjs sets phone and email to "" for every listing (0 of 152 have them) and enquiries go through the owner.
+- Departure addresses, boat names and captain names match the sites. No changes.
+
+SAND FLATHEAD CLOSURE (priority 1)
+----------------------------------
+NRE Tas: from 1 March 2026 sand flathead have a bag limit of 0 and an on-water possession limit of 0 in the south-eastern zone. The zone is all water between north-south lines at Whale Head (146 52'15"E) and Cape Pillar (148 00'41"E). It includes the D'Entrecasteaux Channel, Derwent, and Frederick Henry and Norfolk bays, with its northern boundary at the southern end of the Dunalley Canal.
+Sources: https://fishing.tas.gov.au/community/flathead-for-the-future/new-rules-and-research-to-rebuild-tasmanias-sand-flathead-fishery
+and .../sand-flathead-frequently-asked-questions
+- Mr Flathead: no hero or gallery photo shows sand flathead, kept or released. The boat hero stays. However, the listing text (taken from the operator's own page, footer (c) 2013) still sold the Dodges Ferry bay charter "for sand flathead". It is corrected in details.json.
+- All of Mr Flathead's departure points (Eaglehawk Neck, Port Arthur, Dodges Ferry), Diver's (Margate) and Tasman Spirit (Port Arthur) are inside the zone.
+
+FOR THE OWNER
+-------------
+1. Mr Flathead: ask Mark/Hamish for larger catch photos. The site only serves 700 px originals, and its Wix gallery cannot be fetched. Worth mentioning that their own website still advertises sand flathead at Dodges Ferry.
+2. Tasman Spirit Charters: only 2 distinct photos. Ask Brian Douglas (0408 293 201) for catch or tuna photos.
+3. Diver's: the site calls Big Kylin a "13.1 m alloy plate vessel", but its photos show a power catamaran. boat_type is left as the site words it; consider adding "catamaran" after checking with Arnold.
+4. Tasmania Fly Fishing: the site's Facebook icon goes to an "All-Round Guide" page and the footer links allroundguide.com.au. The listing keeps its "Tasmania Fly Fishing" Facebook page. Ask which page is current.
+5. Mr Flathead's Facebook (mrflatheadtasmania) comes from the site link only; Facebook could not be opened to confirm it is active.

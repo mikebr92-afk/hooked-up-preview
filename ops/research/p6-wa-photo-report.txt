@@ -1,0 +1,49 @@
+WA photo and details audit (state-wa, 2026-11-09)
+=================================================
+Pipeline branch: operator-images/state-wa-photos (image-requests/wa-photos.json, -2, -3). WebSearch used: 0 of 10.
+Review sheets: review/<slug>.jpg (made with apply_photos.mjs --sheets; all 11 changed listings checked).
+Result: 10 listings at 5 photos, ATGNI at 4, Innkeeper unchanged at 4. No listing now has fewer than 4.
+
+PER LISTING
+-----------
+birchys-fishing-tours ............ FILL 1 -> 5. New hero: a client with a barramundi on the riverbank, ranges behind. Added 3 more
+                                   guide-and-guest barra/rock-pool catches from the site gallery. The old cast-net photo moves to last.
+                                   Skipped gallery shots with a child as the main subject, text banners and maps. Source images are 900x600.
+absolute-ocean-charters-broome ... FILL 2 -> 5. New hero: a guest with a big red emperor on deck (1600x1200). Added two reef catches.
+                                   Both old photos kept.
+offshore-charters-wa-geraldton ... REPLACE hero. The old hero was a 1600x650 panorama that crops badly on cards. New hero: a big dhufish
+                                   held on deck (near-square, crop biased to the top). Added a boat-on-water shot and a snapper. Dropped
+                                   two tall portraits. Kept the group shot and the baldchin.
+game-time-charters-hillarys ...... REPLACE hero. The old hero showed the back of an angler's head. New hero: three anglers with a sailfish
+                                   in Game Time's cockpit (2000x1500). Added a marlin, a jumping marlin and a wahoo. Dropped the portrait
+                                   mahi and the soft 1200x630 jump shot. Kept the boat-running shot.
+akame-sportfishing-broome ........ IMPROVE 3 -> 5. Added king threadfin (Akame boat livery visible) and golden trevally. Hero unchanged.
+broome-billfish-charters ......... IMPROVE 4 -> 5. Added a coral trout (reef trips). Boat shot moved ahead of the panorama. Hero unchanged.
+all-the-gear-no-idea-...-exmouth . IMPROVE (reorder). Hero is now 04 (bright boatside marlin). The darkest image (old hero 01, top-down)
+                                   moves to last.
+blue-horizon-charters-exmouth .... IMPROVE 4 -> 5. Added a red emperor pair (886px square). Hero unchanged.
+apache-charters-abrolhos ......... IMPROVE 4 -> 5. Added an aerial of the 'Apache Charters' vessel at an Abrolhos island camp. Hero unchanged.
+kuri-bay-sport-fishing-tours ..... IMPROVE 4 -> 5. Added a cobia caught from the small boats, Kimberley cliffs behind. Hero unchanged.
+reel-teaser-fishing-adventures ... REPLACE hero. New hero: a giant trevally on open water (2000x1328, uploaded Nov 2025). The old barra
+                                   hero (dusk, darker) stays as photo 3. Added a Kimberley falls scene. Dropped the GT trio.
+innkeeper-sportfishing-...-exmouth UNCHANGED (4). Its 02 is flagged dark, but it is a deep-blue marlin jump that reads well. All new
+                                   candidates carry an 'INNKEEPER SPORT FISHING' watermark, so none were used.
+
+DETAILS (details.json, 12 listings)
+-----------------------------------
+Every record had an empty phone and email. Filled from each operator's own site: phone on all except Reel Teaser, email where
+published. Added AOC's Facebook and Instagram (linked from its own site; the record had none). Added Reel Teaser's Facebook.
+Boat, captain and departure fields were not changed: nothing on the sites contradicts them.
+
+FOR THE OWNER
+-------------
+- Reel Teaser phone conflict: the footer text says +61 0429 351 193, but the tel link starts +61 439 360... Phone left unset.
+  Please confirm by email (fishing@reelteaser.com.au).
+- Offshore Charters WA email natkim@offshore1.com.au comes from a mailto link on its Abrolhos page (different domain from the website).
+  Probably right, but worth a check.
+- Broome Billfish shows a second tel link (0438 811 164) with no label. The listing uses the printed number, 0476 793 527.
+- Absolute Ocean Charters: the new red emperor, coral trout and reef-catch photos come from its own fishing pages but show an
+  aluminium-decked boat, not obviously the 65ft Contessa C. Probably a smaller AOC boat; not confirmed which vessel.
+- Birchy's: the site gallery is the only image source (900x600 max). The site is still (c) 2023, so confirm 2026-27 dates by phone.
+- Kuri Bay: skipped a strong queenfish photo because the angler wears another tour brand's cap ('Wandjina Tours'). It is probably still
+  a Kuri Bay guest, but this was not confirmed.

@@ -29,9 +29,15 @@ function workerFirst(p) {
   }
   return hit;
 }
+// Mirror Cloudflare: paths listed in .assetsignore are not published as static assets.
+const IGNORED = fs.existsSync(path.join(ROOT, '.assetsignore'))
+  ? fs.readFileSync(path.join(ROOT, '.assetsignore'), 'utf8').split('\n').map((l) => l.trim()).filter((l) => l && !l.startsWith('#'))
+  : [];
 function staticFile(p) {
   let f = path.join(ROOT, decodeURIComponent(p));
   if (!f.startsWith(ROOT)) return null;
+  const rel = path.relative(ROOT, f).split(path.sep);
+  if (IGNORED.some((ig) => rel[0] === ig || path.relative(ROOT, f) === ig)) return null;
   if (fs.existsSync(f) && fs.statSync(f).isDirectory()) f = path.join(f, 'index.html');
   return fs.existsSync(f) && fs.statSync(f).isFile() ? f : null;
 }

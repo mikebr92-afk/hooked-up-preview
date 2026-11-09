@@ -25,7 +25,7 @@ const SEO_FIELDS = ['lead', 'highlights', 'areas_fished', 'same_as', 'search_key
 const CORRECTABLE = new Set(['name', 'description', 'primary_location', 'departure_address', 'latitude', 'longitude', 'primary_species', 'all_species',
   'species_tags', 'trip_type_tags', 'experience_tags', 'trips', 'boat_name', 'boat_type', 'boat_length_m', 'max_capacity', 'comfortable_capacity',
   'survey_certification', 'boat_features', 'captains', 'whats_included', 'what_to_bring', 'cancellation_policy', 'weather_policy',
-  'years_in_business', 'accreditations', 'website', 'facebook', 'instagram', 'phone', 'email']);
+  'years_in_business', 'accreditations', 'website', 'facebook', 'instagram']);
 
 const unit = (m) => (m === 'per_person' ? 'person' : 'group');
 function durationLabel(trips) {
