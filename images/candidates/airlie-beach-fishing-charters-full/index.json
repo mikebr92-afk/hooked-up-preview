@@ -1,0 +1,63 @@
+{
+  "slug": "airlie-beach-fishing-charters-full",
+  "request_hash": "2adf90ddc49c",
+  "collected_at": "2026-11-09T02:31:41.124Z",
+  "pages_fetched": [],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://airliebeachfishingcharters.com.au/wp-content/uploads/sites/7002/2023/11/Airlie-Beach-Fishing-Charters-37-scaled.jpg",
+      "page": "direct",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://airliebeachfishingcharters.com.au/wp-content/uploads/sites/7002/2023/11/Airlie-Beach-Fishing-Charters-11-scaled.jpg",
+      "page": "direct",
+      "priority": true
+    },
+    {
+      "file": "c03.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://airliebeachfishingcharters.com.au/wp-content/uploads/sites/7002/2023/11/Airlie-Beach-Fishing-Charters-12-scaled.jpg",
+      "page": "direct",
+      "priority": true
+    },
+    {
+      "file": "c04.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://airliebeachfishingcharters.com.au/wp-content/uploads/sites/7002/2023/11/Airlie-Beach-Fishing-Charters-9-scaled.jpg",
+      "page": "direct",
+      "priority": true
+    },
+    {
+      "file": "c05.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://airliebeachfishingcharters.com.au/wp-content/uploads/sites/7002/2023/11/Airlie-Beach-Fishing-Charters-5-scaled.jpg",
+      "page": "direct",
+      "priority": true
+    },
+    {
+      "file": "c06.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://airliebeachfishingcharters.com.au/wp-content/uploads/sites/7002/2023/11/Airlie-Beach-Fishing-Charters-15-scaled.jpg",
+      "page": "direct",
+      "priority": true
+    }
+  ],
+  "log": []
+}

@@ -1,0 +1,72 @@
+{
+  "slug": "out-n-about-sportfishing-port-douglas-full",
+  "request_hash": "f3958421a583",
+  "collected_at": "2026-11-09T02:31:45.738Z",
+  "pages_fetched": [],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 897,
+      "height": 748,
+      "original": "897x748",
+      "source": "https://www.outnaboutfishing.com.au/wp-content/uploads/sites/4462/2022/11/1000017101-e1742500624970.jpg",
+      "page": "direct",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 966,
+      "height": 1024,
+      "original": "966x1024",
+      "source": "https://www.outnaboutfishing.com.au/wp-content/uploads/sites/4462/2023/06/received_724129255927392-002-e1683782718538-966x1024-1.jpg",
+      "page": "direct",
+      "priority": true
+    },
+    {
+      "file": "c03.webp",
+      "width": 1000,
+      "height": 526,
+      "original": "1000x526",
+      "source": "https://www.outnaboutfishing.com.au/wp-content/uploads/sites/4462/2025/03/Private-6-Hour-Charter-Port-Douglas-image-1.jpg",
+      "page": "direct",
+      "priority": true
+    },
+    {
+      "file": "c04.webp",
+      "width": 1920,
+      "height": 1540,
+      "original": "1920x1540",
+      "source": "https://www.outnaboutfishing.com.au/wp-content/uploads/sites/4462/2024/04/337431772_1127561941971637_6482249043284362096_n-scaled-e1712097167610.jpg",
+      "page": "direct",
+      "priority": true
+    },
+    {
+      "file": "c05.webp",
+      "width": 1275,
+      "height": 1309,
+      "original": "1275x1309",
+      "source": "https://www.outnaboutfishing.com.au/wp-content/uploads/sites/4462/2024/04/5E61405B-E0C8-40C5-B4C8-930FB7DEBF1A.jpg",
+      "page": "direct",
+      "priority": true
+    },
+    {
+      "file": "c06.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1920x2560",
+      "source": "https://www.outnaboutfishing.com.au/wp-content/uploads/sites/4462/2024/04/337159075_929657941568980_3053371623007234034_n-scaled.jpg",
+      "page": "direct",
+      "priority": true
+    },
+    {
+      "file": "c07.webp",
+      "width": 2000,
+      "height": 946,
+      "original": "2560x1211",
+      "source": "https://www.outnaboutfishing.com.au/wp-content/uploads/sites/4462/2024/04/20220407_144638-scaled.jpg",
+      "page": "direct",
+      "priority": true
+    }
+  ],
+  "log": []
+}

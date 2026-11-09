@@ -1,60 +1,74 @@
 {
-  "finished_at": "2026-11-09T02:27:58.603Z",
+  "finished_at": "2026-11-09T02:31:45.739Z",
   "summary": [
     {
       "slug": "ian-moody-sportfishing-charters",
-      "candidates": 16,
-      "pages": 5
+      "skipped": true
     },
     {
       "slug": "crackajack-sportfishing-adventures",
-      "candidates": 1,
-      "pages": 1
+      "skipped": true
     },
     {
       "slug": "cairns-sportfishing",
-      "candidates": 0,
-      "pages": 2
+      "skipped": true
     },
     {
       "slug": "fish-tales-charters-cairns",
-      "candidates": 16,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "sublime-sportfishing-adventures",
-      "candidates": 16,
-      "pages": 8
+      "skipped": true
     },
     {
       "slug": "audacity-charters-townsville",
-      "candidates": 16,
-      "pages": 6
+      "skipped": true
     },
     {
       "slug": "daintree-river-fishing-david-patterson",
-      "candidates": 3,
-      "pages": 6
+      "skipped": true
     },
     {
       "slug": "airlie-beach-fishing-charters",
-      "candidates": 16,
-      "pages": 11
+      "skipped": true
     },
     {
       "slug": "out-n-about-sportfishing-port-douglas",
-      "candidates": 16,
-      "pages": 10
+      "skipped": true
     },
     {
       "slug": "magnetic-island-fishing-charters",
-      "candidates": 16,
-      "pages": 4
+      "skipped": true
     },
     {
       "slug": "whitsunday-fishing-charters",
+      "skipped": true
+    },
+    {
+      "slug": "ian-moody-sportfishing-charters-atdw",
       "candidates": 16,
-      "pages": 10
+      "pages": 2
+    },
+    {
+      "slug": "crackajack-sportfishing-adventures-atdw",
+      "candidates": 16,
+      "pages": 2
+    },
+    {
+      "slug": "cairns-sportfishing-direct",
+      "candidates": 0,
+      "pages": 1
+    },
+    {
+      "slug": "airlie-beach-fishing-charters-full",
+      "candidates": 6,
+      "pages": 0
+    },
+    {
+      "slug": "out-n-about-sportfishing-port-douglas-full",
+      "candidates": 7,
+      "pages": 0
     }
   ]
 }
