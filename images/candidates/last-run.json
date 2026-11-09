@@ -1,5 +1,5 @@
 {
-  "finished_at": "2026-11-09T02:38:36.314Z",
+  "finished_at": "2026-11-09T02:42:59.042Z",
   "summary": [
     {
       "slug": "geelong-fishing-charters",
@@ -7,18 +7,21 @@
     },
     {
       "slug": "sharkmen-fishing-charters-p2",
-      "candidates": 13,
-      "pages": 6
+      "skipped": true
     },
     {
       "slug": "east-gippsland-sportfishing-p2",
-      "candidates": 4,
-      "pages": 4
+      "skipped": true
+    },
+    {
+      "slug": "east-gippsland-sportfishing-veg",
+      "candidates": 16,
+      "pages": 1
     },
     {
       "slug": "westernport-fishing-charters",
-      "candidates": 16,
-      "pages": 12
+      "candidates": 0,
+      "pages": 4
     },
     {
       "slug": "sharkmen-fishing-charters",
