@@ -1,6 +1,11 @@
 {
-  "finished_at": "2026-11-09T02:27:37.933Z",
+  "finished_at": "2026-11-09T02:34:25.187Z",
   "summary": [
+    {
+      "slug": "riverfly-1864",
+      "candidates": 16,
+      "pages": 12
+    },
     {
       "slug": "tas-rules-flathead",
       "candidates": 0,

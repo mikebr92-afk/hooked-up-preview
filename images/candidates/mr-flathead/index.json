@@ -1,7 +1,7 @@
 {
   "slug": "mr-flathead",
   "request_hash": "bfbcbf307e00",
-  "collected_at": "2026-11-09T02:26:15.382Z",
+  "collected_at": "2026-11-09T02:32:08.819Z",
   "pages_fetched": [
     "https://www.mrflathead.com.au/experience-fishing-tasmania",
     "https://www.mrflathead.com.au/",
@@ -79,31 +79,31 @@
       "page": "https://www.mrflathead.com.au/experience-fishing-tasmania",
       "status": 200,
       "final_url": "https://www.mrflathead.com.au/experience-fishing-tasmania",
-      "bytes": 355836
+      "bytes": 355915
     },
     {
       "page": "https://www.mrflathead.com.au/",
       "status": 200,
       "final_url": "https://www.mrflathead.com.au/",
-      "bytes": 372469
+      "bytes": 372404
     },
     {
       "page": "https://www.mrflathead.com.au/tasmania-fishing-charter-tour",
       "status": 200,
       "final_url": "https://www.mrflathead.com.au/tasmania-fishing-charter-tour",
-      "bytes": 367100
+      "bytes": 367120
     },
     {
       "page": "https://www.mrflathead.com.au/contact-charters-hobart",
       "status": 200,
       "final_url": "https://www.mrflathead.com.au/contact-charters-hobart",
-      "bytes": 385138
+      "bytes": 386638
     },
     {
       "page": "https://www.mrflathead.com.au/fishing-in-tasmania",
       "status": 200,
       "final_url": "https://www.mrflathead.com.au/fishing-in-tasmania",
-      "bytes": 371803
+      "bytes": 371706
     },
     {
       "image": "https://static.wixstatic.com/media/6071e5_3d36d06723c64abf8728b20d4d79fe99.png",
