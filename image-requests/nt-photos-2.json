@@ -1,0 +1,4 @@
+{"requests":[
+ {"slug":"ph2-obsession-fishing-safaris","pages":["https://obsessionfishing.com.au/","https://www.obsessionfishing.com.au/","https://obsessionfishing.com.au/run-off-barra-fishing/","https://obsessionfishing.com.au/about-us-2/","https://obsessionfishing.com.au/contact-us-2/"],"text":true,"max":16,"follow":true,"force":true},
+ {"slug":"ph2-tiwi-island-retreat","pages":["https://tiwiislandretreat.com.au/p/fishing-adventure/","https://tiwiislandretreat.com.au/faq/"],"text":true,"max":16,"follow":false}
+]}
