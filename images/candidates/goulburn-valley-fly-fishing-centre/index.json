@@ -1,0 +1,329 @@
+{
+  "slug": "goulburn-valley-fly-fishing-centre",
+  "request_hash": "cca368fb9b37",
+  "collected_at": "2026-11-09T02:31:58.466Z",
+  "pages_fetched": [
+    "https://gvflyfishing.com/",
+    "https://gvflyfishing.com/drift-boating/",
+    "https://gvflyfishing.com/goulburn-river-fly-fishing-drift-boat-trips/",
+    "https://gvflyfishing.com/cart/",
+    "https://gvflyfishing.com/fly-fishing-gift-certificates-vouchers/",
+    "https://gvflyfishing.com/all_services/",
+    "https://gvflyfishing.com/beginner-fly-fishing-workshop/",
+    "https://gvflyfishing.com/private-fly-fishing-lessons/",
+    "https://gvflyfishing.com/streamcraft_fly_fishing_lessons/",
+    "https://gvflyfishing.com/fly_fishing_guiding_tuition_lessons/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2560x1707",
+      "source": "https://gvflyfishing.com/wp-content/uploads/2025/01/1F3A3040-scaled.jpg",
+      "page": "https://gvflyfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2000x1334",
+      "source": "https://gvflyfishing.com/wp-content/uploads/2026/11/day-3.jpg",
+      "page": "https://gvflyfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1200,
+      "height": 1200,
+      "original": "1200x1200",
+      "source": "https://gvflyfishing.com/wp-content/uploads/2023/05/Goulburn-Valley-rgb.jpg",
+      "page": "https://gvflyfishing.com/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2500x1667",
+      "source": "https://gvflyfishing.com/wp-content/uploads/2026/10/drifting-goulburn.jpg",
+      "page": "https://gvflyfishing.com/goulburn-river-fly-fishing-drift-boat-trips/",
+      "priority": true
+    },
+    {
+      "file": "c05.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2500x1667",
+      "source": "https://gvflyfishing.com/wp-content/uploads/2019/02/1F3A0523-copy.jpg",
+      "page": "https://gvflyfishing.com/goulburn-river-fly-fishing-drift-boat-trips/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 2000,
+      "height": 1125,
+      "original": "2560x1440",
+      "source": "https://gvflyfishing.com/wp-content/uploads/2026/10/david-drifting-scaled.jpg",
+      "page": "https://gvflyfishing.com/goulburn-river-fly-fishing-drift-boat-trips/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2500x1667",
+      "source": "https://gvflyfishing.com/wp-content/uploads/2020/07/the-best-fly-fishing-in-australia-e1594709978178.jpg",
+      "page": "https://gvflyfishing.com/goulburn-river-fly-fishing-drift-boat-trips/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 2000,
+      "height": 1125,
+      "original": "2560x1440",
+      "source": "https://gvflyfishing.com/wp-content/uploads/2026/10/goulburn-fish-scaled.jpg",
+      "page": "https://gvflyfishing.com/goulburn-river-fly-fishing-drift-boat-trips/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1334,
+      "height": 2000,
+      "original": "1667x2500",
+      "source": "https://gvflyfishing.com/wp-content/uploads/2026/11/394a1225-copy.jpg",
+      "page": "https://gvflyfishing.com/goulburn-river-fly-fishing-drift-boat-trips/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1672,
+      "height": 941,
+      "original": "1672x941",
+      "source": "https://gvflyfishing.com/wp-content/uploads/2023/05/GVflyfishingSocials-3.jpg",
+      "page": "https://gvflyfishing.com/goulburn-river-fly-fishing-drift-boat-trips/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1672,
+      "height": 941,
+      "original": "1672x941",
+      "source": "https://gvflyfishing.com/wp-content/uploads/2025/08/GVflyfishingSocials-100.jpg",
+      "page": "https://gvflyfishing.com/goulburn-river-fly-fishing-drift-boat-trips/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1536,
+      "height": 1024,
+      "original": "1536x1024",
+      "source": "https://gvflyfishing.com/wp-content/uploads/2026/11/Fly-Fishing-Gift-Vouchers.jpg",
+      "page": "https://gvflyfishing.com/fly-fishing-gift-certificates-vouchers/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://gvflyfishing.com/",
+      "status": 200,
+      "final_url": "https://gvflyfishing.com/",
+      "bytes": 93671
+    },
+    {
+      "page": "https://gvflyfishing.com/drift-boating/",
+      "status": 200,
+      "final_url": "https://gvflyfishing.com/drift-boating/",
+      "bytes": 86094
+    },
+    {
+      "page": "https://gvflyfishing.com/goulburn-river-fly-fishing-drift-boat-trips/",
+      "status": 200,
+      "final_url": "https://gvflyfishing.com/goulburn-river-fly-fishing-drift-boat-trips/",
+      "bytes": 114280
+    },
+    {
+      "page": "https://gvflyfishing.com/cart/",
+      "status": 200,
+      "final_url": "https://gvflyfishing.com/cart/",
+      "bytes": 168471
+    },
+    {
+      "page": "https://gvflyfishing.com/fly-fishing-gift-certificates-vouchers/",
+      "status": 200,
+      "final_url": "https://gvflyfishing.com/fly-fishing-gift-certificates-vouchers/",
+      "bytes": 89498
+    },
+    {
+      "page": "https://gvflyfishing.com/all_services/",
+      "status": 200,
+      "final_url": "https://gvflyfishing.com/all_services/",
+      "bytes": 94154
+    },
+    {
+      "page": "https://gvflyfishing.com/beginner-fly-fishing-workshop/",
+      "status": 429,
+      "final_url": "https://gvflyfishing.com/beginner-fly-fishing-workshop/",
+      "bytes": 41
+    },
+    {
+      "page": "https://gvflyfishing.com/private-fly-fishing-lessons/",
+      "status": 429,
+      "final_url": "https://gvflyfishing.com/private-fly-fishing-lessons/",
+      "bytes": 41
+    },
+    {
+      "page": "https://gvflyfishing.com/streamcraft_fly_fishing_lessons/",
+      "status": 429,
+      "final_url": "https://gvflyfishing.com/streamcraft_fly_fishing_lessons/",
+      "bytes": 41
+    },
+    {
+      "page": "https://gvflyfishing.com/fly_fishing_guiding_tuition_lessons/",
+      "status": 429,
+      "final_url": "https://gvflyfishing.com/fly_fishing_guiding_tuition_lessons/",
+      "bytes": 41
+    },
+    {
+      "image": "https://gvflyfishing.com/wp-content/uploads/2017/02/page-banner.jpg",
+      "error": "too small 1916x169"
+    },
+    {
+      "image": "https://gvflyfishing.com/wp-content/uploads/2026/10/drifting-goulburn-300x200.jpg",
+      "error": "too small 300x200"
+    },
+    {
+      "dup": "https://gvflyfishing.com/wp-content/uploads/2026/10/drifting-goulburn-1024x683.jpg"
+    },
+    {
+      "dup": "https://gvflyfishing.com/wp-content/uploads/2026/10/drifting-goulburn-768x512.jpg"
+    },
+    {
+      "dup": "https://gvflyfishing.com/wp-content/uploads/2026/10/drifting-goulburn-1536x1024.jpg"
+    },
+    {
+      "dup": "https://gvflyfishing.com/wp-content/uploads/2026/10/drifting-goulburn-2048x1366.jpg"
+    },
+    {
+      "dup": "https://gvflyfishing.com/wp-content/uploads/2026/10/drifting-goulburn-600x400.jpg"
+    },
+    {
+      "dup": "https://gvflyfishing.com/wp-content/uploads/2019/02/1F3A0523-copy-1024x683.jpg"
+    },
+    {
+      "dup": "https://gvflyfishing.com/wp-content/uploads/2026/10/david-drifting.jpg"
+    },
+    {
+      "dup": "https://gvflyfishing.com/wp-content/uploads/2026/10/david-drifting-1024x576.jpg"
+    },
+    {
+      "dup": "https://gvflyfishing.com/wp-content/uploads/2026/10/david-drifting-768x432.jpg"
+    },
+    {
+      "dup": "https://gvflyfishing.com/wp-content/uploads/2026/10/david-drifting-1536x864.jpg"
+    },
+    {
+      "dup": "https://gvflyfishing.com/wp-content/uploads/2026/10/david-drifting-2048x1152.jpg"
+    },
+    {
+      "image": "https://gvflyfishing.com/wp-content/uploads/2026/10/david-drifting-630x354.jpg",
+      "error": "too small 630x354"
+    },
+    {
+      "image": "https://gvflyfishing.com/wp-content/uploads/2026/10/david-drifting-600x338.jpg",
+      "error": "too small 600x338"
+    },
+    {
+      "dup": "https://gvflyfishing.com/wp-content/uploads/2020/07/the-best-fly-fishing-in-australia-e1594709978178-1024x683.jpg"
+    },
+    {
+      "dup": "https://gvflyfishing.com/wp-content/uploads/2026/10/goulburn-fish.jpg"
+    },
+    {
+      "dup": "https://gvflyfishing.com/wp-content/uploads/2026/10/goulburn-fish-1024x576.jpg"
+    },
+    {
+      "dup": "https://gvflyfishing.com/wp-content/uploads/2026/10/goulburn-fish-768x432.jpg"
+    },
+    {
+      "dup": "https://gvflyfishing.com/wp-content/uploads/2026/10/goulburn-fish-1536x864.jpg"
+    },
+    {
+      "dup": "https://gvflyfishing.com/wp-content/uploads/2026/10/goulburn-fish-2048x1152.jpg"
+    },
+    {
+      "image": "https://gvflyfishing.com/wp-content/uploads/2026/10/goulburn-fish-630x354.jpg",
+      "error": "too small 630x354"
+    },
+    {
+      "image": "https://gvflyfishing.com/wp-content/uploads/2026/10/goulburn-fish-600x338.jpg",
+      "error": "too small 600x338"
+    },
+    {
+      "image": "https://gvflyfishing.com/wp-content/uploads/2026/11/394a1225-copy-200x300.jpg",
+      "error": "too small 200x300"
+    },
+    {
+      "dup": "https://gvflyfishing.com/wp-content/uploads/2026/11/394a1225-copy-683x1024.jpg"
+    },
+    {
+      "dup": "https://gvflyfishing.com/wp-content/uploads/2026/11/394a1225-copy-768x1152.jpg"
+    },
+    {
+      "dup": "https://gvflyfishing.com/wp-content/uploads/2026/11/394a1225-copy-1024x1536.jpg"
+    },
+    {
+      "dup": "https://gvflyfishing.com/wp-content/uploads/2026/11/394a1225-copy-1366x2048.jpg"
+    },
+    {
+      "dup": "https://gvflyfishing.com/wp-content/uploads/2026/11/394a1225-copy-600x900.jpg"
+    },
+    {
+      "image": "https://gvflyfishing.com/wp-content/uploads/2023/05/GVflyfishingSocials-3-300x169.jpg",
+      "error": "too small 300x169"
+    },
+    {
+      "dup": "https://gvflyfishing.com/wp-content/uploads/2023/05/GVflyfishingSocials-3-1024x576.jpg"
+    },
+    {
+      "dup": "https://gvflyfishing.com/wp-content/uploads/2023/05/GVflyfishingSocials-3-768x432.jpg"
+    },
+    {
+      "dup": "https://gvflyfishing.com/wp-content/uploads/2023/05/GVflyfishingSocials-3-1536x864.jpg"
+    },
+    {
+      "image": "https://gvflyfishing.com/wp-content/uploads/2023/05/GVflyfishingSocials-3-630x354.jpg",
+      "error": "too small 630x354"
+    },
+    {
+      "image": "https://gvflyfishing.com/wp-content/uploads/2023/05/GVflyfishingSocials-3-600x338.jpg",
+      "error": "too small 600x338"
+    },
+    {
+      "image": "https://gvflyfishing.com/wp-content/uploads/2025/08/GVflyfishingSocials-100-300x169.jpg",
+      "error": "too small 300x169"
+    },
+    {
+      "dup": "https://gvflyfishing.com/wp-content/uploads/2025/08/GVflyfishingSocials-100-1024x576.jpg"
+    },
+    {
+      "dup": "https://gvflyfishing.com/wp-content/uploads/2025/08/GVflyfishingSocials-100-768x432.jpg"
+    },
+    {
+      "dup": "https://gvflyfishing.com/wp-content/uploads/2025/08/GVflyfishingSocials-100-1536x864.jpg"
+    },
+    {
+      "image": "https://gvflyfishing.com/wp-content/uploads/2025/08/GVflyfishingSocials-100-630x354.jpg",
+      "error": "too small 630x354"
+    },
+    {
+      "image": "https://gvflyfishing.com/wp-content/uploads/2025/08/GVflyfishingSocials-100-600x338.jpg",
+      "error": "too small 600x338"
+    },
+    {
+      "image": "https://gvflyfishing.com/wp-content/uploads/2026/10/buy-a-gift-voucher.png",
+      "error": "too small 1440x288"
+    }
+  ]
+}

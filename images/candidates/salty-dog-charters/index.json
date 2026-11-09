@@ -1,0 +1,295 @@
+{
+  "slug": "salty-dog-charters",
+  "request_hash": "a0a361f26063",
+  "collected_at": "2026-11-09T02:31:29.055Z",
+  "pages_fetched": [
+    "https://www.saltydogcharters.com.au/gallery",
+    "https://www.saltydogcharters.com.au/",
+    "https://www.saltydogcharters.com.au/about",
+    "https://visitgreatoceanroad.org.au/tours/salty-dog-charters/",
+    "https://www.saltydogcharters.com.au/search",
+    "https://www.saltydogcharters.com.au/contact",
+    "https://www.saltydogcharters.com.au/bookings",
+    "https://visitgreatoceanroad.org.au/tours/",
+    "https://visitgreatoceanroad.org.au/trip-planner",
+    "https://visitgreatoceanroad.org.au/trip-planner/",
+    "https://visitgreatoceanroad.org.au/plan-your-trip/",
+    "https://visitgreatoceanroad.org.au/plan-your-trip/itineraries/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1000,
+      "height": 638,
+      "original": "1000x638",
+      "source": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1567459165304-9L20QDN1ABGCD0IC5CDE/salty-dog-fishing-charters-port-fairy-victoria-kingfish.jpg?format=2500w",
+      "page": "https://www.saltydogcharters.com.au/gallery",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 640,
+      "height": 800,
+      "original": "640x800",
+      "source": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1593425482224-ATM1UFXM9XE1M7IGVW23/image-asset.jpeg?format=2500w",
+      "page": "https://www.saltydogcharters.com.au/gallery",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 640,
+      "height": 480,
+      "original": "640x480",
+      "source": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1593347650076-OO6A1GPS33Q2218SU8A4/image-asset.jpeg?format=2500w",
+      "page": "https://www.saltydogcharters.com.au/gallery",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 640,
+      "height": 790,
+      "original": "640x790",
+      "source": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1593075300291-S403VEHHGI9DRYV3UACE/image-asset.jpeg?format=2500w",
+      "page": "https://www.saltydogcharters.com.au/gallery",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 640,
+      "height": 800,
+      "original": "640x800",
+      "source": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1592556411247-58QILFAL3FRRYQ79OCR7/image-asset.jpeg?format=2500w",
+      "page": "https://www.saltydogcharters.com.au/gallery",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 640,
+      "height": 640,
+      "original": "640x640",
+      "source": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1592269984423-9VM31AZBYWLX372GBJ83/image-asset.jpeg?format=2500w",
+      "page": "https://www.saltydogcharters.com.au/gallery",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 640,
+      "height": 480,
+      "original": "640x480",
+      "source": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1592258824974-FLTU1G6W266C8LI87MSJ/image-asset.jpeg?format=2500w",
+      "page": "https://www.saltydogcharters.com.au/gallery",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 640,
+      "height": 800,
+      "original": "640x800",
+      "source": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1591651349554-EJKKVCAM9M2KPK8U9VNJ/image-asset.jpeg?format=2500w",
+      "page": "https://www.saltydogcharters.com.au/gallery",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 640,
+      "height": 430,
+      "original": "640x430",
+      "source": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1591521215001-GJ5X49OJ60MKQ2QNLNWW/image-asset.jpeg?format=2500w",
+      "page": "https://www.saltydogcharters.com.au/gallery",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 640,
+      "height": 416,
+      "original": "640x416",
+      "source": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1591502085510-BWNYNH3BTMC8U6STR92A/image-asset.jpeg?format=2500w",
+      "page": "https://www.saltydogcharters.com.au/gallery",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 640,
+      "height": 800,
+      "original": "640x800",
+      "source": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1591477993195-GFRPEGK2O4W1EHIZ0G76/image-asset.jpeg?format=2500w",
+      "page": "https://www.saltydogcharters.com.au/gallery",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 640,
+      "height": 411,
+      "original": "640x411",
+      "source": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1591349198057-HWG6W0VSVOM9TU12GIPX/image-asset.jpeg?format=2500w",
+      "page": "https://www.saltydogcharters.com.au/gallery",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 640,
+      "height": 800,
+      "original": "640x800",
+      "source": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1591262984027-SIT7V8R1ON5DEKCAR5MF/image-asset.jpeg?format=2500w",
+      "page": "https://www.saltydogcharters.com.au/gallery",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 640,
+      "height": 640,
+      "original": "640x640",
+      "source": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1591141772556-Y10G6BA1JQQCCJUG54CY/image-asset.jpeg?format=2500w",
+      "page": "https://www.saltydogcharters.com.au/gallery",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 640,
+      "height": 640,
+      "original": "640x640",
+      "source": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1591058520122-BEQLIQFQUWUL0S2Y5BFS/image-asset.jpeg?format=2500w",
+      "page": "https://www.saltydogcharters.com.au/gallery",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 640,
+      "height": 414,
+      "original": "640x414",
+      "source": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1590964882648-5TXYJFY5ROQWIXQUQ563/image-asset.jpeg?format=2500w",
+      "page": "https://www.saltydogcharters.com.au/gallery",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.saltydogcharters.com.au/gallery",
+      "status": 200,
+      "final_url": "https://www.saltydogcharters.com.au/gallery",
+      "bytes": 280139
+    },
+    {
+      "page": "https://www.saltydogcharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.saltydogcharters.com.au/",
+      "bytes": 203259
+    },
+    {
+      "page": "https://www.saltydogcharters.com.au/about",
+      "status": 200,
+      "final_url": "https://www.saltydogcharters.com.au/about",
+      "bytes": 133322
+    },
+    {
+      "page": "https://visitgreatoceanroad.org.au/tours/salty-dog-charters/",
+      "status": 200,
+      "final_url": "https://visitgreatoceanroad.org.au/tours/salty-dog-charters/",
+      "bytes": 324680
+    },
+    {
+      "page": "https://www.saltydogcharters.com.au/search",
+      "status": 200,
+      "final_url": "https://www.saltydogcharters.com.au/search",
+      "bytes": 86514
+    },
+    {
+      "page": "https://www.saltydogcharters.com.au/contact",
+      "status": 200,
+      "final_url": "https://www.saltydogcharters.com.au/contact",
+      "bytes": 105147
+    },
+    {
+      "page": "https://www.saltydogcharters.com.au/bookings",
+      "status": 404,
+      "final_url": "https://www.saltydogcharters.com.au/bookings",
+      "bytes": 86211
+    },
+    {
+      "page": "https://visitgreatoceanroad.org.au/tours/",
+      "status": 200,
+      "final_url": "https://visitgreatoceanroad.org.au/tours/",
+      "bytes": 575093
+    },
+    {
+      "page": "https://visitgreatoceanroad.org.au/trip-planner",
+      "status": 200,
+      "final_url": "https://visitgreatoceanroad.org.au/trip-planner/",
+      "bytes": 619345
+    },
+    {
+      "page": "https://visitgreatoceanroad.org.au/trip-planner/",
+      "status": 200,
+      "final_url": "https://visitgreatoceanroad.org.au/trip-planner/",
+      "bytes": 619345
+    },
+    {
+      "page": "https://visitgreatoceanroad.org.au/plan-your-trip/",
+      "status": 200,
+      "final_url": "https://visitgreatoceanroad.org.au/plan-your-trip/",
+      "bytes": 368711
+    },
+    {
+      "page": "https://visitgreatoceanroad.org.au/plan-your-trip/itineraries/",
+      "status": 200,
+      "final_url": "https://visitgreatoceanroad.org.au/plan-your-trip/itineraries/",
+      "bytes": 712498
+    },
+    {
+      "image": "https://static1.squarespace.com/static/5d30c96827f73100015781b2/t/5d30d1859c18e1000199f280/1773696876479/",
+      "error": "too small 550x550"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1593425482224-ATM1UFXM9XE1M7IGVW23/image-asset.jpeg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1593347650076-OO6A1GPS33Q2218SU8A4/image-asset.jpeg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1593075300291-S403VEHHGI9DRYV3UACE/image-asset.jpeg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1592556411247-58QILFAL3FRRYQ79OCR7/image-asset.jpeg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1592269984423-9VM31AZBYWLX372GBJ83/image-asset.jpeg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1592258824974-FLTU1G6W266C8LI87MSJ/image-asset.jpeg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1592170651879-JR7XKKII91J8USUUEOZC/image-asset.jpeg?format=2500w",
+      "error": "too small 640x360"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1592170651879-JR7XKKII91J8USUUEOZC/image-asset.jpeg",
+      "error": "too small 640x360"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1591651349554-EJKKVCAM9M2KPK8U9VNJ/image-asset.jpeg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1591521215001-GJ5X49OJ60MKQ2QNLNWW/image-asset.jpeg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1591502085510-BWNYNH3BTMC8U6STR92A/image-asset.jpeg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1591477993195-GFRPEGK2O4W1EHIZ0G76/image-asset.jpeg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1591349198057-HWG6W0VSVOM9TU12GIPX/image-asset.jpeg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1591262984027-SIT7V8R1ON5DEKCAR5MF/image-asset.jpeg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1591258520135-XDL5YE80ZK4AFPEDZ097/image-asset.jpeg?format=2500w",
+      "error": "too small 640x334"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5d30c96827f73100015781b2/1591258520135-XDL5YE80ZK4AFPEDZ097/image-asset.jpeg",
+      "error": "too small 640x334"
+    }
+  ]
+}
