@@ -1,0 +1,156 @@
+{
+  "slug": "ph2-tiwi-island-retreat",
+  "request_hash": "3314eab03259",
+  "collected_at": "2026-11-09T02:48:31.335Z",
+  "pages_fetched": [
+    "https://tiwiislandretreat.com.au/p/fishing-adventure/",
+    "https://tiwiislandretreat.com.au/faq/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1600,
+      "height": 1200,
+      "original": "1600x1200",
+      "source": "https://tiwiislandretreat.com.au/assets/uploads/2026/08/f1e37d7f-52f0-4cc3-9a59-2d910ff7a9fa.jpg",
+      "page": "https://tiwiislandretreat.com.au/p/fishing-adventure/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 2000,
+      "height": 667,
+      "original": "2160x720",
+      "source": "https://tiwiislandretreat.com.au/assets/uploads/2022/05/Newsletter_2160x720.jpg",
+      "page": "https://tiwiislandretreat.com.au/p/fishing-adventure/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2560x1707",
+      "source": "https://tiwiislandretreat.com.au/assets/uploads/2026/08/TIWI-200-scaled.jpg",
+      "page": "https://tiwiislandretreat.com.au/p/fishing-adventure/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1334,
+      "height": 2000,
+      "original": "1707x2560",
+      "source": "https://tiwiislandretreat.com.au/assets/uploads/2026/08/TIWI-87-scaled.jpg",
+      "page": "https://tiwiislandretreat.com.au/p/fishing-adventure/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 2000,
+      "height": 1123,
+      "original": "2560x1438",
+      "source": "https://tiwiislandretreat.com.au/assets/uploads/2026/08/Tiwi-Island-49-1-scaled.jpg",
+      "page": "https://tiwiislandretreat.com.au/p/fishing-adventure/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1920x2560",
+      "source": "https://tiwiislandretreat.com.au/assets/uploads/2026/08/IMG_4483-3-scaled.jpg",
+      "page": "https://tiwiislandretreat.com.au/p/fishing-adventure/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 2000,
+      "height": 1123,
+      "original": "2560x1438",
+      "source": "https://tiwiislandretreat.com.au/assets/uploads/2026/08/Tiwi-Island-26-1-scaled.jpg",
+      "page": "https://tiwiislandretreat.com.au/p/fishing-adventure/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2560x1707",
+      "source": "https://tiwiislandretreat.com.au/assets/uploads/2026/08/TIWI-140-scaled.jpg",
+      "page": "https://tiwiislandretreat.com.au/p/fishing-adventure/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 945,
+      "height": 1407,
+      "original": "945x1407",
+      "source": "https://tiwiislandretreat.com.au/assets/uploads/2026/08/b996d153-05f8-40e7-bd9e-85c2880732c0-1.jpg",
+      "page": "https://tiwiislandretreat.com.au/p/fishing-adventure/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2560x1707",
+      "source": "https://tiwiislandretreat.com.au/assets/uploads/2024/12/TIR05126-scaled.jpg",
+      "page": "https://tiwiislandretreat.com.au/p/fishing-adventure/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2560x1707",
+      "source": "https://tiwiislandretreat.com.au/assets/uploads/2022/11/131214-56-scaled.jpg",
+      "page": "https://tiwiislandretreat.com.au/faq/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://tiwiislandretreat.com.au/p/fishing-adventure/",
+      "status": 200,
+      "final_url": "https://tiwiislandretreat.com.au/p/fishing-adventure/",
+      "bytes": 144769
+    },
+    {
+      "page": "https://tiwiislandretreat.com.au/faq/",
+      "status": 200,
+      "final_url": "https://tiwiislandretreat.com.au/faq/",
+      "bytes": 137651
+    },
+    {
+      "image": "https://tiwiislandretreat.com.au/assets/uploads/2026/08/TIWI-200-scaled-thegem-product-justified-square-l.jpg",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://tiwiislandretreat.com.au/assets/uploads/2026/08/TIWI-87-scaled-thegem-product-justified-square-l.jpg",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://tiwiislandretreat.com.au/assets/uploads/2026/08/Tiwi-Island-49-1-scaled-thegem-product-justified-square-l.jpg",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://tiwiislandretreat.com.au/assets/uploads/2026/08/IMG_4483-3-scaled-thegem-product-justified-square-l.jpg",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://tiwiislandretreat.com.au/assets/uploads/2026/08/Tiwi-Island-26-1-scaled-thegem-product-justified-square-l.jpg",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://tiwiislandretreat.com.au/assets/uploads/2026/08/TIWI-140-scaled-thegem-product-justified-square-l.jpg",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://tiwiislandretreat.com.au/assets/uploads/2026/08/b996d153-05f8-40e7-bd9e-85c2880732c0-1-thegem-product-justified-square-l.jpg",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://tiwiislandretreat.com.au/assets/uploads/2024/12/TIR05126-scaled-thegem-product-justified-square-l.jpg",
+      "error": "too small 500x500"
+    }
+  ]
+}
