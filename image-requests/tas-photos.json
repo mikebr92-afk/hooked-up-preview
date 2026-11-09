@@ -1,0 +1,12 @@
+{"requests":[
+ {"slug":"tas-rules-flathead","pages":["https://fishing.tas.gov.au/community/flathead-for-the-future/new-rules-and-research-to-rebuild-tasmanias-sand-flathead-fishery","https://fishing.tas.gov.au/community/flathead-for-the-future/new-rules-and-research-to-rebuild-tasmanias-sand-flathead-fishery/sand-flathead-frequently-asked-questions"],"text":true,"max":0,"force":true},
+ {"slug":"mr-flathead","pages":["https://www.mrflathead.com.au/experience-fishing-tasmania","https://www.mrflathead.com.au/","https://www.mrflathead.com.au/tasmania-fishing-charter-tour","https://www.mrflathead.com.au/contact-charters-hobart"],"text":true,"max":16,"follow":true,"force":true},
+ {"slug":"divers-fishing-charters-hobart","pages":["https://www.tasyachttrip.com.au/gallery","https://www.tasyachttrip.com.au/news","https://www.tasyachttrip.com.au/contact","https://www.tasyachttrip.com.au/about"],"text":true,"max":16,"follow":true,"force":true},
+ {"slug":"tasman-spirit-charters","pages":["https://tasmanspiritcharters.com/"],"text":true,"max":16,"follow":true,"force":true},
+ {"slug":"tasmania-fly-fishing","pages":["https://tasmaniaflyfishing.com.au/","https://tasmaniaflyfishing.com.au/contact/"],"text":true,"max":16,"follow":true,"force":true},
+ {"slug":"miena-guiding-tasmania","pages":["https://mienaguidingtasmania.com.au/contact-us/"],"text":true,"max":0,"force":true},
+ {"slug":"riverfly-1864","pages":["https://riverfly.com.au/contact/"],"text":true,"max":0,"force":true},
+ {"slug":"trout-tales-tasmania","pages":["https://www.trouttalestasmania.com.au/"],"text":true,"max":0,"force":true},
+ {"slug":"tassie-fly-guide","pages":["https://tassieflyguide.com.au/"],"text":true,"max":0,"force":true},
+ {"slug":"trout-territory","pages":["https://troutterritory.com.au/"],"text":true,"max":0,"force":true}
+]}
