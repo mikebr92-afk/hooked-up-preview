@@ -1,0 +1,167 @@
+{
+ "requests": [
+  {
+   "slug": "central-coast-reef-and-game-fishing-charters",
+   "pages": [
+    "http://www.reefandgamefishing.com/",
+    "http://www.reefandgamefishing.com/gallery.html",
+    "http://www.reefandgamefishing.com/about.html"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "byron-bay-charters",
+   "pages": [
+    "https://byronbaycharters.com.au/gallery/",
+    "https://byronbaycharters.com.au/the-boat/",
+    "https://byronbaycharters.com.au/",
+    "https://byronbaycharters.com.au/news/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "jervis-bay-fishing-charters-huskisson",
+   "pages": [
+    "https://jbfishingcharters.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "fish-port-stephens-estuary-charters",
+   "pages": [
+    "https://fishportstephensestuarycharters.com/gallery/",
+    "https://fishportstephensestuarycharters.com/the-boat/",
+    "https://fishportstephensestuarycharters.com/",
+    "https://fishportstephensestuarycharters.com/my-blog/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "cushy-fishing-charters",
+   "pages": [
+    "https://cushyfishingcharters.com.au/photo-gallery/",
+    "https://cushyfishingcharters.com.au/our-boat/",
+    "https://cushyfishingcharters.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "coffs-harbour-fishing-charters",
+   "pages": [
+    "https://coffsharbourfishing.com.au/",
+    "https://coffsharbourfishing.com.au/our-boats/",
+    "https://coffsharbourfishing.com.au/news/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "freedom-charters-eden",
+   "pages": [
+    "https://freedomcharters.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "sea-to-summit-lord-howe-fishing",
+   "pages": [
+    "https://www.lordhoweislandtours.net/charter-fishing",
+    "https://www.lordhoweislandtours.net/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "narooma-charters",
+   "pages": [
+    "https://naroomacharters.com.au/narooma-fishing-charters/fishing-charter-photos",
+    "https://naroomacharters.com.au/recent-fishing-catches",
+    "https://naroomacharters.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "hammerhead-charters-nelson-bay",
+   "pages": [
+    "https://hammerheadcharters.com.au/galleries/",
+    "https://hammerheadcharters.com.au/gallery/marlin/",
+    "https://hammerheadcharters.com.au/gallery/snapper/",
+    "https://hammerheadcharters.com.au/gallery/mv-hammerhead/",
+    "https://hammerheadcharters.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "blue-reef-fishing-charters-sydney",
+   "pages": [
+    "https://www.bluereefcharters.info/gallery.html",
+    "https://www.bluereefcharters.info/boat-info.html",
+    "https://www.bluereefcharters.info/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "deep-blue-charters-sydney",
+   "pages": [
+    "https://deepbluecharters.com.au/",
+    "https://deepbluecharters.com.au/our-boats/",
+    "https://deepbluecharters.com.au/blog/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "sydney-premium-charters-cronulla",
+   "pages": [
+    "https://www.sydneypremiumcharters.com.au/gallery/fishing-gallery/",
+    "https://www.sydneypremiumcharters.com.au/boats/",
+    "https://www.sydneypremiumcharters.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "wahoo-fishing-charters-sydney",
+   "pages": [
+    "https://wahoocharters.com.au/",
+    "https://wahoocharters.com.au/blog/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "aquilla-fishing-charters-wollongong",
+   "pages": [
+    "https://www.aquillacharters.com.au/",
+    "https://www.aquillacharters.com.au/our-vessel",
+    "https://www.aquillacharters.com.au/whole-boat-charters"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  }
+ ]
+}
