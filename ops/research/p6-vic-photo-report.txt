@@ -1,0 +1,39 @@
+VICTORIA PHOTO AND DETAILS AUDIT (state-vic, 2026-11-09)
+Pipeline branch: operator-images/state-vic-photos. WebSearch used: 0 of 10.
+
+PER LISTING (verdict: why)
+--------------------------
+geelong-fishing-charters         NO CHANGE (still 0 photos): its own site has only two Eventum-theme stock banners (Geelong waterfront, 1920x600) and one 500px image from 2013, so nothing is usable. Its Visit Geelong Bellarine (ATDW) listing can't go through the pipeline: the page carries a Mapbox token, and GitHub push protection rejects the collect commit. OWNER: request 3-5 photos of Sidewinder I and clients with fish.
+westernport-fishing-charters     FILL 0 -> 5: snapper hero (two clients at the rail), group catch on deck, snapper, gummy sharks, three snapper. All from the operator's own gallery. Every image it publishes is 640x426, so these are below the 800px preference. Shots where a child is the main subject were avoided.
+sharkmen-fishing-charters        REPLACE 1 -> 5: the old 1600px hero was the site's faded dark-overlay banner version. New hero: a vivid snapper catch; then a barrel SBT on the Sharkmen-liveried deck, the kingfish shot in true colour, the wrapped boat (Our Vessels page, 1920px) and four snapper. Catch shots are 710px, the largest the site serves.
+east-gippsland-sportfishing      REPLACE (hero 768px -> 1600px): the Wix original of the old hero is only 768px. The operator's own Visit East Gippsland (ATDW) listing has 1600-2000px catch shots. New hero: guide with an Australian salmon (the operator's own ATDW hero); then a 2000px dusky flathead, the old bream hero (kept, now third), the Polycraft boat and a bream on the river. Visit East Gippsland's destination photos on the same page were not used.
+cassar-fishing-charters          IMPROVE (hero kept): judged at card crop, the square four-snapper shot is a strong hero, but at the default 0.4 centring the card cut off both faces. Fix: centering 0.5/0.15, plus the site's larger 1896x2000 copy. Added a 7-angler snapper catch on the Cassar deck (its snapper page); boats and rod shots kept. The site's species pages use AdobeStock/stock underwater images and sponsor logos, none of them used.
+goulburn-valley-fly-fishing-centre IMPROVE: new 2000px hero (guide with a Goulburn brown trout in the drift boat), trout release close-up, guide rowing a client, and the willow drift scene at 2000px. Dropped the dark wading shot and the workshop group (4 strong photos).
+unreel-fishing-charters          NO CHANGE (4): the boat-on-the-water hero is kept. Every Unreel catch photo is portrait, and at card crop each loses the fish (tested on the snapper shot). Gallery is accurate (Unreel livery on deck).
+salty-dog-charters               NO CHANGE (3): almost every gallery image carries a Salty Dog logo watermark (unusable), and the remaining clean ones are reel/rod close-ups. The current 3 are clean. OWNER: ask for unwatermarked originals.
+far-out-charters                 NO CHANGE (4): accurate (Far Out II underway, Lakes Entrance catch table, snapper, gummy); landscape, 1600px.
+gone-fishing-charters            NO CHANGE (4): accurate (Gone Fishing livery on the boat shot, Queenscliff harbour group catches).
+pro-red-fishing-charters         NO CHANGE (4): accurate (Pro Red wrapped boat, group snapper catches, gummy).
+im-hooked-fishing-charters       NO CHANGE (4): accurate (I'm Hooked livery, tuna line-up, snapper, kingfish).
+lake-mulwala-sportfishing        NO CHANGE (4): accurate (Murray cod on the bass boat among Lake Mulwala's dead timber); strong.
+back-of-beyond-fly-fishing       NO CHANGE (4): accurate (wading High Country trout streams, brown trout).
+
+DETAILS (details.json)
+----------------------
+Phone and email were blank on all 14 listings. Each is filled from the operator's own site; apply_seo --dry accepted all 14, nothing ignored.
+Unreel and I'm Hooked publish no email (contact form only) and Back of Beyond publishes no phone, so those fields stay blank.
+Websites, Facebook and Instagram links all match what the operators' sites link to: no corrections.
+Boats and captains: no contradictions found. No changes made.
+
+FOR THE OWNER
+-------------
+1. Geelong Fishing Charters still has no photos. Request them, or copy from its Visit Geelong Bellarine listing by hand.
+2. Westernport Fishing Charters: photos are 640px and look dated; request larger, current ones. Its site names a second vessel, the
+   38 ft (12 m) "Sidewinder". Geelong Fishing Charters runs "Sidewinder I" (11.6 m). Possibly the same boat (sold or shared?).
+   Ask when you phone about the 2025 business-for-sale listing.
+3. Sharkmen: catch photos are 710px; ask for larger originals.
+4. Salty Dog: gallery is logo-watermarked; ask for clean originals.
+5. Phone/email are now stored for every VIC listing. They aren't shown publicly (only enquiry routing uses them), but check that this suits you.
+6. Pro Red: the phone painted on its boat (gallery photo 02) differs from the site number (0421 442 775); the site number is used.
+7. Pipeline note: "force": true in a request file makes every later push re-collect that request. On one re-run Westernport's site
+   failed to fetch and its candidates were wiped. They were re-collected, but other agents should remove "force" once a request succeeds.
