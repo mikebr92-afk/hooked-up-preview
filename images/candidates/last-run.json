@@ -1,5 +1,5 @@
 {
-  "finished_at": "2026-11-09T02:42:59.042Z",
+  "finished_at": "2026-11-09T02:44:49.476Z",
   "summary": [
     {
       "slug": "geelong-fishing-charters",
@@ -15,43 +15,12 @@
     },
     {
       "slug": "east-gippsland-sportfishing-veg",
-      "candidates": 16,
-      "pages": 1
+      "skipped": true
     },
     {
       "slug": "westernport-fishing-charters",
-      "candidates": 0,
-      "pages": 4
-    },
-    {
-      "slug": "sharkmen-fishing-charters",
-      "candidates": 9,
-      "pages": 8
-    },
-    {
-      "slug": "cassar-fishing-charters",
       "candidates": 16,
-      "pages": 8
-    },
-    {
-      "slug": "east-gippsland-sportfishing",
-      "candidates": 16,
-      "pages": 12
-    },
-    {
-      "slug": "unreel-fishing-charters",
-      "candidates": 16,
-      "pages": 11
-    },
-    {
-      "slug": "salty-dog-charters",
-      "candidates": 16,
-      "pages": 12
-    },
-    {
-      "slug": "goulburn-valley-fly-fishing-centre",
-      "candidates": 12,
-      "pages": 10
+      "pages": 2
     }
   ]
 }
