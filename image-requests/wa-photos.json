@@ -1,0 +1,160 @@
+{
+ "requests": [
+  {
+   "slug": "birchys-fishing-tours",
+   "pages": [
+    "https://birchysfishingtours.com.au/gallery",
+    "https://birchysfishingtours.com.au/contact",
+    "https://birchysfishingtours.com.au/fishing-safari"
+   ],
+   "images": [
+    "https://birchysfishingtours.com.au/application/files/8916/7938/9800/pic-catch-13.jpg",
+    "https://birchysfishingtours.com.au/application/files/2416/7938/9800/pic-catch-14.jpg",
+    "https://birchysfishingtours.com.au/application/files/4416/7938/9798/pic-catch-15.jpg",
+    "https://birchysfishingtours.com.au/application/files/6316/7938/9798/pic-catch-16.jpg",
+    "https://birchysfishingtours.com.au/application/files/2016/7938/9798/pic-catch-17.jpg",
+    "https://birchysfishingtours.com.au/application/files/6016/7938/9797/pic-catch-18.jpg",
+    "https://birchysfishingtours.com.au/application/files/1016/7919/6274/pic-catch-1.jpg",
+    "https://birchysfishingtours.com.au/application/files/5516/7919/6274/pic-catch-2.jpg",
+    "https://birchysfishingtours.com.au/application/files/9616/7919/6274/pic-catch-3.jpg",
+    "https://birchysfishingtours.com.au/application/files/8416/7919/6274/pic-catch-4.jpg",
+    "https://birchysfishingtours.com.au/application/files/7716/7919/6271/pic-catch-5.jpg",
+    "https://birchysfishingtours.com.au/application/files/8116/7919/6271/pic-catch-6.jpg",
+    "https://birchysfishingtours.com.au/application/files/7216/7919/6271/pic-catch-7.jpg",
+    "https://birchysfishingtours.com.au/application/files/6316/7919/6271/pic-catch-8.jpg",
+    "https://birchysfishingtours.com.au/application/files/2816/7919/6268/pic-catch-9.jpg",
+    "https://birchysfishingtours.com.au/application/files/4816/7919/6268/pic-catch-10.jpg",
+    "https://birchysfishingtours.com.au/application/files/6216/7919/6268/pic-catch-11.jpg",
+    "https://birchysfishingtours.com.au/application/files/5016/7919/6267/pic-catch-12.jpg"
+   ],
+   "text": true,
+   "max": 30,
+   "follow": true
+  },
+  {
+   "slug": "absolute-ocean-charters-broome",
+   "pages": [
+    "https://www.absoluteoceancharters.com.au/broome-fishing-charters/",
+    "https://www.absoluteoceancharters.com.au/creek-and-estuary-fishing-charters/",
+    "https://www.absoluteoceancharters.com.au/overnight-fishing-charters/",
+    "https://www.absoluteoceancharters.com.au/rowley-shoals/",
+    "https://www.absoluteoceancharters.com.au/exclusive-tailored-charters/",
+    "https://www.absoluteoceancharters.com.au/"
+   ],
+   "text": true,
+   "max": 30,
+   "follow": true
+  },
+  {
+   "slug": "offshore-charters-wa-geraldton",
+   "pages": [
+    "https://www.offshorecharterswa.com.au/gallery",
+    "https://www.offshorecharterswa.com.au/fishing-charters",
+    "https://www.offshorecharterswa.com.au/abrolhos-islands",
+    "https://www.offshorecharterswa.com.au/"
+   ],
+   "text": true,
+   "max": 30,
+   "follow": true
+  },
+  {
+   "slug": "game-time-charters-hillarys",
+   "pages": [
+    "https://www.gametimecharters.com.au/game-fishing-gallery",
+    "https://www.gametimecharters.com.au/gallery",
+    "https://www.gametimecharters.com.au/enquiries-contact",
+    "https://www.gametimecharters.com.au/"
+   ],
+   "text": true,
+   "max": 30,
+   "follow": true
+  },
+  {
+   "slug": "akame-sportfishing-broome",
+   "pages": [
+    "https://akamesportfishing.com.au/",
+    "https://akamesportfishing.com.au/vessels/",
+    "https://akamesportfishing.com.au/contact/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "broome-billfish-charters",
+   "pages": [
+    "https://broomebillfish.com.au/",
+    "https://broomebillfish.com.au/boats/billistic/",
+    "https://broomebillfish.com.au/contact-us/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "all-the-gear-no-idea-sportfishing-exmouth",
+   "pages": [
+    "https://allthegearnoideasportfishing.com/",
+    "https://allthegearnoideasportfishing.com/vessel-3/",
+    "https://allthegearnoideasportfishing.com/contact-us/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "blue-horizon-charters-exmouth",
+   "pages": [
+    "https://www.bluehorizoncharters.com.au/",
+    "https://www.bluehorizoncharters.com.au/fishing-trips/day-trips/",
+    "https://www.bluehorizoncharters.com.au/about-blue-horizon-charters/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "innkeeper-sportfishing-charters-exmouth",
+   "pages": [
+    "https://innkeepersportfishing.com/gallery/",
+    "https://innkeepersportfishing.com/the-boat/",
+    "https://innkeepersportfishing.com/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "apache-charters-abrolhos",
+   "pages": [
+    "https://www.apachecharters.com.au/abrolhos-fishing-charters",
+    "https://www.apachecharters.com.au/contact",
+    "https://www.apachecharters.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "kuri-bay-sport-fishing-tours",
+   "pages": [
+    "https://www.kuribaysportfishingtours.com.au/photo-gallery/",
+    "https://www.kuribaysportfishingtours.com.au/contact-kuri-bay-sportfishing-tours/",
+    "https://www.kuribaysportfishingtours.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "reel-teaser-fishing-adventures",
+   "pages": [
+    "https://reelteaserfishingadventures.com/gallery/",
+    "https://reelteaserfishingadventures.com/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  }
+ ]
+}
