@@ -1,0 +1,234 @@
+{
+ "requests": [
+  {
+   "slug": "p6-brisbane-fishing-tour",
+   "pages": [
+    "https://www.brisbanefishingtour.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "p6-fish-moreton",
+   "pages": [
+    "https://www.fishmoreton.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "p6-moreton-island-fishing-charters",
+   "pages": [
+    "https://moretonislandfishingcharters.com.au/gallery/",
+    "https://moretonislandfishingcharters.com.au/the-vessel/",
+    "https://moretonislandfishingcharters.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "p6-bundaberg-river-fishing-charters",
+   "pages": [
+    "https://bundabergriverfishing.com.au/recent-catches",
+    "https://bundabergriverfishing.com.au/",
+    "https://bundabergriverfishing.com.au/about"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "p6-truansea-charters-bundaberg",
+   "pages": [
+    "https://truansea.com.au/brag-mat",
+    "https://truansea.com.au/",
+    "https://truansea.com.au/about"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "p6-eastern-voyager-gladstone",
+   "pages": [
+    "https://easternvoyager.com.au/gallery/?gallery=mv-eastern-voyager",
+    "https://easternvoyager.com.au/gallery/?gallery=trip-5-12-july-2025",
+    "https://easternvoyager.com.au/gallery/?gallery=trip-18-28-june-2025",
+    "https://easternvoyager.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "p6-mv-mikat-charters-gladstone",
+   "pages": [
+    "https://mikatcharters.com.au/trip-reports-gallery/",
+    "https://mikatcharters.com.au/",
+    "https://mikatcharters.com.au/about-us/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "p6-night-crossing-fishing-adventures-gladstone",
+   "pages": [
+    "https://nightcrossing.com.au/gallery/fish-photos/",
+    "https://nightcrossing.com.au/gallery/night-crossing/",
+    "https://nightcrossing.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "p6-bks-gold-coast-fishing-charters",
+   "pages": [
+    "https://bksfishing.com.au/",
+    "https://bksfishing.com.au/fishing-charter-boat/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "p6-fish-the-deep-charters",
+   "pages": [
+    "https://www.fishthedeep.com/",
+    "https://www.fishthedeep.com/deep-sea-fishing-gold-coast-vessel-crew/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "p6-hooker-1-fishing-charters-gold-coast",
+   "pages": [
+    "https://goldcoastfishingtrips.net.au/",
+    "https://goldcoastfishingtrips.net.au/about-us/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "p6-true-blue-fishing-charters",
+   "pages": [
+    "https://truebluefishing.com.au/",
+    "https://truebluefishing.com.au/our-vessels/",
+    "https://truebluefishing.com.au/about-us/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "p6-hervey-bay-fly-and-sportfishing",
+   "pages": [
+    "https://herveybaysportfishing.com.au/fishing-photo-gallery/",
+    "https://herveybaysportfishing.com.au/our-vessels/",
+    "https://herveybaysportfishing.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "p6-saltwater-playground-hervey-bay",
+   "pages": [
+    "https://www.saltwaterplayground.com.au/",
+    "https://www.saltwaterplayground.com.au/aboutus"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "p6-keely-rose-fishing-charters",
+   "pages": [
+    "https://keelyrosefishingcharters.com.au/Gallery/Gallery-388/",
+    "https://keelyrosefishingcharters.com.au/VesselCrew/VesselCrew-394/",
+    "https://keelyrosefishingcharters.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "p6-rainbow-beach-fishing-charters",
+   "pages": [
+    "https://www.rainbowbeachfishing.com/",
+    "https://www.rainbowbeachfishing.com/about"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "p6-deep-sea-fishing-co-noosa",
+   "pages": [
+    "https://www.deepseafishingco.com.au/gallery/",
+    "https://www.deepseafishingco.com.au/",
+    "https://www.deepseafishingco.com.au/about-us/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "p6-noosa-bluewater-charters",
+   "pages": [
+    "https://noosabluefishing.com.au/gallery/",
+    "https://noosabluefishing.com.au/",
+    "https://noosabluefishing.com.au/about-us/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "p6-saltys-fishing-charters-caloundra",
+   "pages": [
+    "https://saltyfishingcharters.com.au/",
+    "https://saltyfishingcharters.com.au/vessels/",
+    "https://saltyfishingcharters.com.au/vessels-2/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "p6-what-a-catch-deep-sea-fishing",
+   "pages": [
+    "https://whatacatchfishing.com.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "p6-double-threat-charters-yeppoon",
+   "pages": [
+    "https://www.doublethreatchartersyeppoon.com.au/",
+    "https://www.doublethreatchartersyeppoon.com.au/about-us"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  },
+  {
+   "slug": "p6-kanimbla-charters-yeppoon",
+   "pages": [
+    "https://www.kanimblacharters.net.au/our-boats/",
+    "https://www.kanimblacharters.net.au/"
+   ],
+   "text": true,
+   "max": 16,
+   "follow": true
+  }
+ ]
+}
