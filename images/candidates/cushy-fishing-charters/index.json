@@ -1,0 +1,266 @@
+{
+  "slug": "cushy-fishing-charters",
+  "request_hash": "2b6b366e0126",
+  "collected_at": "2026-11-09T02:24:35.329Z",
+  "pages_fetched": [
+    "https://cushyfishingcharters.com.au/photo-gallery/",
+    "https://cushyfishingcharters.com.au/our-boat/",
+    "https://cushyfishingcharters.com.au/",
+    "https://cushyfishingcharters.com.au/fishing-charters/",
+    "https://cushyfishingcharters.com.au/commercial-work/",
+    "https://cushyfishingcharters.com.au/whale-watching/",
+    "https://cushyfishingcharters.com.au/contact-us/",
+    "https://cushyfishingcharters.com.au/portfolio/fishing-38/",
+    "https://cushyfishingcharters.com.au/portfolio/fishing-37/",
+    "https://cushyfishingcharters.com.au/portfolio/fishing-36/",
+    "https://cushyfishingcharters.com.au/weather-fishing/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 960,
+      "height": 720,
+      "original": "960x720",
+      "source": "https://cushyfishingcharters.com.au/wp-content/uploads/2016/03/IMG_2852.jpg",
+      "page": "https://cushyfishingcharters.com.au/photo-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 1020,
+      "height": 768,
+      "original": "1020x768",
+      "source": "https://cushyfishingcharters.com.au/wp-content/uploads/2016/03/DSCF0265.jpg",
+      "page": "https://cushyfishingcharters.com.au/photo-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1020,
+      "height": 768,
+      "original": "1020x768",
+      "source": "https://cushyfishingcharters.com.au/wp-content/uploads/2016/03/DSCF0354.jpg",
+      "page": "https://cushyfishingcharters.com.au/photo-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1020,
+      "height": 768,
+      "original": "1020x768",
+      "source": "https://cushyfishingcharters.com.au/wp-content/uploads/2016/03/DSCF0352.jpg",
+      "page": "https://cushyfishingcharters.com.au/photo-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1020,
+      "height": 768,
+      "original": "1020x768",
+      "source": "https://cushyfishingcharters.com.au/wp-content/uploads/2016/03/DSCF0324.jpg",
+      "page": "https://cushyfishingcharters.com.au/photo-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1020,
+      "height": 768,
+      "original": "1020x768",
+      "source": "https://cushyfishingcharters.com.au/wp-content/uploads/2016/03/DSCF0263.jpg",
+      "page": "https://cushyfishingcharters.com.au/photo-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1020,
+      "height": 768,
+      "original": "1020x768",
+      "source": "https://cushyfishingcharters.com.au/wp-content/uploads/2016/03/DSCF0259.jpg",
+      "page": "https://cushyfishingcharters.com.au/photo-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1024,
+      "height": 768,
+      "original": "1024x768",
+      "source": "https://cushyfishingcharters.com.au/wp-content/uploads/2016/03/DSCF0321.jpg",
+      "page": "https://cushyfishingcharters.com.au/photo-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1020,
+      "height": 768,
+      "original": "1020x768",
+      "source": "https://cushyfishingcharters.com.au/wp-content/uploads/2016/03/DSCF0222.jpg",
+      "page": "https://cushyfishingcharters.com.au/photo-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1020,
+      "height": 768,
+      "original": "1020x768",
+      "source": "https://cushyfishingcharters.com.au/wp-content/uploads/2016/03/DSCF0221.jpg",
+      "page": "https://cushyfishingcharters.com.au/photo-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1024,
+      "height": 768,
+      "original": "1024x768",
+      "source": "https://cushyfishingcharters.com.au/wp-content/uploads/2016/03/DSCF0314.jpg",
+      "page": "https://cushyfishingcharters.com.au/photo-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1024,
+      "height": 768,
+      "original": "1024x768",
+      "source": "https://cushyfishingcharters.com.au/wp-content/uploads/2016/03/DSCF1113.jpg",
+      "page": "https://cushyfishingcharters.com.au/photo-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1020,
+      "height": 768,
+      "original": "1020x768",
+      "source": "https://cushyfishingcharters.com.au/wp-content/uploads/2016/03/DSCF1693.jpg",
+      "page": "https://cushyfishingcharters.com.au/photo-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 845,
+      "height": 636,
+      "original": "845x636",
+      "source": "https://cushyfishingcharters.com.au/wp-content/uploads/2016/03/DSCF1704.jpg",
+      "page": "https://cushyfishingcharters.com.au/photo-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1024,
+      "height": 768,
+      "original": "1024x768",
+      "source": "https://cushyfishingcharters.com.au/wp-content/uploads/2016/03/DSCF1115.jpg",
+      "page": "https://cushyfishingcharters.com.au/photo-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1024,
+      "height": 768,
+      "original": "1024x768",
+      "source": "https://cushyfishingcharters.com.au/wp-content/uploads/2016/03/DSCF1119.jpg",
+      "page": "https://cushyfishingcharters.com.au/photo-gallery/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://cushyfishingcharters.com.au/photo-gallery/",
+      "status": 200,
+      "final_url": "https://cushyfishingcharters.com.au/photo-gallery/",
+      "bytes": 175239
+    },
+    {
+      "page": "https://cushyfishingcharters.com.au/our-boat/",
+      "status": 200,
+      "final_url": "https://cushyfishingcharters.com.au/our-boat/",
+      "bytes": 81732
+    },
+    {
+      "page": "https://cushyfishingcharters.com.au/",
+      "status": 200,
+      "final_url": "https://cushyfishingcharters.com.au/",
+      "bytes": 101179
+    },
+    {
+      "page": "https://cushyfishingcharters.com.au/fishing-charters/",
+      "status": 200,
+      "final_url": "https://cushyfishingcharters.com.au/fishing-charters/",
+      "bytes": 75644
+    },
+    {
+      "page": "https://cushyfishingcharters.com.au/commercial-work/",
+      "status": 200,
+      "final_url": "https://cushyfishingcharters.com.au/commercial-work/",
+      "bytes": 77813
+    },
+    {
+      "page": "https://cushyfishingcharters.com.au/whale-watching/",
+      "status": 200,
+      "final_url": "https://cushyfishingcharters.com.au/whale-watching/",
+      "bytes": 77065
+    },
+    {
+      "page": "https://cushyfishingcharters.com.au/contact-us/",
+      "status": 200,
+      "final_url": "https://cushyfishingcharters.com.au/contact-us/",
+      "bytes": 77099
+    },
+    {
+      "page": "https://cushyfishingcharters.com.au/portfolio/fishing-38/",
+      "status": 200,
+      "final_url": "https://cushyfishingcharters.com.au/portfolio/fishing-38/",
+      "bytes": 80097
+    },
+    {
+      "page": "https://cushyfishingcharters.com.au/portfolio/fishing-37/",
+      "status": 200,
+      "final_url": "https://cushyfishingcharters.com.au/portfolio/fishing-37/",
+      "bytes": 80101
+    },
+    {
+      "page": "https://cushyfishingcharters.com.au/portfolio/fishing-36/",
+      "status": 200,
+      "final_url": "https://cushyfishingcharters.com.au/portfolio/fishing-36/",
+      "bytes": 80092
+    },
+    {
+      "page": "https://cushyfishingcharters.com.au/weather-fishing/",
+      "status": 200,
+      "final_url": "https://cushyfishingcharters.com.au/weather-fishing/",
+      "bytes": 135037
+    },
+    {
+      "image": "https://cushyfishingcharters.com.au/wp-content/uploads/bfi_thumb/033-mjn7pknqft975wwcuachdgkekml28cpx3cz05eh66g.jpg",
+      "error": "too small 363x276"
+    },
+    {
+      "image": "https://cushyfishingcharters.com.au/wp-content/uploads/bfi_thumb/0321-mjn7pis2256mioz359j88h1hduubsyigf3o16ujyiw.jpg",
+      "error": "too small 363x276"
+    },
+    {
+      "image": "https://cushyfishingcharters.com.au/wp-content/uploads/bfi_thumb/095-mjn7pxth3hr7ogd8pg19cd8uw0s78465t63sv9xnrc.jpg",
+      "error": "too small 363x276"
+    },
+    {
+      "image": "https://cushyfishingcharters.com.au/wp-content/uploads/bfi_thumb/2005_0612Image0041-mjn7rk3gv7yzoa0l9584myjfpwsyhclip6jwmfj91k.jpg",
+      "error": "too small 363x276"
+    },
+    {
+      "image": "https://cushyfishingcharters.com.au/wp-content/uploads/bfi_thumb/2331-mjn7rrm6dw9a95po18h56wn4gzrw6xfde7rsgn83ns.jpg",
+      "error": "too small 363x276"
+    },
+    {
+      "image": "https://cushyfishingcharters.com.au/wp-content/uploads/2016/03/DSCF0264.jpg",
+      "error": "too small 578x768"
+    },
+    {
+      "image": "https://cushyfishingcharters.com.au/wp-content/uploads/2016/03/DSCF0264-150x150.jpg",
+      "error": "too small 150x150"
+    },
+    {
+      "dup": "https://cushyfishingcharters.com.au/wp-content/uploads/2016/03/DSCF0316.jpg"
+    },
+    {
+      "dup": "https://cushyfishingcharters.com.au/wp-content/uploads/2016/03/DSCF0312.jpg"
+    }
+  ]
+}

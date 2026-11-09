@@ -1,0 +1,257 @@
+{
+  "slug": "fish-port-stephens-estuary-charters",
+  "request_hash": "54d9844268a0",
+  "collected_at": "2026-11-09T02:24:22.714Z",
+  "pages_fetched": [
+    "https://fishportstephensestuarycharters.com/gallery/",
+    "https://fishportstephensestuarycharters.com/the-boat/",
+    "https://fishportstephensestuarycharters.com/",
+    "https://fishportstephensestuarycharters.com/my-blog/",
+    "https://fishportstephensestuarycharters.com/new/",
+    "https://fishportstephensestuarycharters.com/contact-us/",
+    "https://fishportstephensestuarycharters.com/links-2/",
+    "https://fishportstephensestuarycharters.com/projects/fish-port-stephens-estuary-charters-6/",
+    "https://fishportstephensestuarycharters.com/projects/fish-port-stephens-estuary-charters-5/",
+    "https://fishportstephensestuarycharters.com/projects/fish-port-stephens-estuary-charters-4/",
+    "https://fishportstephensestuarycharters.com/my-blog/page/2/",
+    "https://fishportstephensestuarycharters.com/my-blog/page/9/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 2000,
+      "height": 1333,
+      "original": "5616x3744",
+      "source": "https://fishportstephensestuarycharters.com/wp-content/uploads/2017/10/MG_4962.jpg",
+      "page": "https://fishportstephensestuarycharters.com/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 850,
+      "height": 567,
+      "original": "850x567",
+      "source": "https://fishportstephensestuarycharters.com/wp-content/uploads/2017/10/IMG_9186.jpg",
+      "page": "https://fishportstephensestuarycharters.com/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 850,
+      "height": 557,
+      "original": "850x557",
+      "source": "https://fishportstephensestuarycharters.com/wp-content/uploads/2017/11/unnamed-1rr.jpg",
+      "page": "https://fishportstephensestuarycharters.com/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1440,
+      "height": 960,
+      "original": "1440x960",
+      "source": "https://fishportstephensestuarycharters.com/wp-content/uploads/2017/11/BP5A8781ggff.jpg",
+      "page": "https://fishportstephensestuarycharters.com/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1024,
+      "height": 683,
+      "original": "1024x683",
+      "source": "https://fishportstephensestuarycharters.com/wp-content/uploads/2017/10/new-e1509170060886.jpg",
+      "page": "https://fishportstephensestuarycharters.com/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 850,
+      "height": 557,
+      "original": "850x557",
+      "source": "https://fishportstephensestuarycharters.com/wp-content/uploads/2017/11/web1.jpg",
+      "page": "https://fishportstephensestuarycharters.com/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 850,
+      "height": 566,
+      "original": "850x566",
+      "source": "https://fishportstephensestuarycharters.com/wp-content/uploads/2017/11/dolphin.jpg",
+      "page": "https://fishportstephensestuarycharters.com/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 2000,
+      "height": 1333,
+      "original": "5616x3744",
+      "source": "https://fishportstephensestuarycharters.com/wp-content/uploads/2017/10/IMG_9210-1.jpg",
+      "page": "https://fishportstephensestuarycharters.com/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 2000,
+      "height": 1333,
+      "original": "2160x1440",
+      "source": "https://fishportstephensestuarycharters.com/wp-content/uploads/2017/10/5555fff.jpg",
+      "page": "https://fishportstephensestuarycharters.com/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 992,
+      "height": 650,
+      "original": "992x650",
+      "source": "https://fishportstephensestuarycharters.com/wp-content/uploads/2017/11/web.jpg",
+      "page": "https://fishportstephensestuarycharters.com/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 709,
+      "height": 472,
+      "original": "709x472",
+      "source": "https://fishportstephensestuarycharters.com/wp-content/uploads/2017/11/web11.jpg",
+      "page": "https://fishportstephensestuarycharters.com/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1024,
+      "height": 683,
+      "original": "1024x683",
+      "source": "https://fishportstephensestuarycharters.com/wp-content/uploads/2017/10/2014-05-25-14.03.34-1024x683-1.jpg",
+      "page": "https://fishportstephensestuarycharters.com/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1276,
+      "height": 851,
+      "original": "1276x851",
+      "source": "https://fishportstephensestuarycharters.com/wp-content/uploads/2017/11/fffffff-1.jpg",
+      "page": "https://fishportstephensestuarycharters.com/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1134,
+      "height": 742,
+      "original": "1134x742",
+      "source": "https://fishportstephensestuarycharters.com/wp-content/uploads/2017/11/web6-1.jpg",
+      "page": "https://fishportstephensestuarycharters.com/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 709,
+      "height": 473,
+      "original": "709x473",
+      "source": "https://fishportstephensestuarycharters.com/wp-content/uploads/2017/11/web4.jpg",
+      "page": "https://fishportstephensestuarycharters.com/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1134,
+      "height": 756,
+      "original": "1134x756",
+      "source": "https://fishportstephensestuarycharters.com/wp-content/uploads/2017/10/BP5A0007ddd.jpg",
+      "page": "https://fishportstephensestuarycharters.com/gallery/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://fishportstephensestuarycharters.com/gallery/",
+      "status": 200,
+      "final_url": "https://fishportstephensestuarycharters.com/gallery/",
+      "bytes": 95822
+    },
+    {
+      "page": "https://fishportstephensestuarycharters.com/the-boat/",
+      "status": 200,
+      "final_url": "https://fishportstephensestuarycharters.com/the-boat/",
+      "bytes": 60154
+    },
+    {
+      "page": "https://fishportstephensestuarycharters.com/",
+      "status": 200,
+      "final_url": "https://fishportstephensestuarycharters.com/",
+      "bytes": 121461
+    },
+    {
+      "page": "https://fishportstephensestuarycharters.com/my-blog/",
+      "status": 200,
+      "final_url": "https://fishportstephensestuarycharters.com/my-blog/",
+      "bytes": 119235
+    },
+    {
+      "page": "https://fishportstephensestuarycharters.com/new/",
+      "status": 200,
+      "final_url": "https://fishportstephensestuarycharters.com/new/",
+      "bytes": 73287
+    },
+    {
+      "page": "https://fishportstephensestuarycharters.com/contact-us/",
+      "status": 200,
+      "final_url": "https://fishportstephensestuarycharters.com/contact-us/",
+      "bytes": 62794
+    },
+    {
+      "page": "https://fishportstephensestuarycharters.com/links-2/",
+      "status": 200,
+      "final_url": "https://fishportstephensestuarycharters.com/links-2/",
+      "bytes": 57726
+    },
+    {
+      "page": "https://fishportstephensestuarycharters.com/projects/fish-port-stephens-estuary-charters-6/",
+      "status": 200,
+      "final_url": "https://fishportstephensestuarycharters.com/projects/fish-port-stephens-estuary-charters-6/",
+      "bytes": 55495
+    },
+    {
+      "page": "https://fishportstephensestuarycharters.com/projects/fish-port-stephens-estuary-charters-5/",
+      "status": 200,
+      "final_url": "https://fishportstephensestuarycharters.com/projects/fish-port-stephens-estuary-charters-5/",
+      "bytes": 55490
+    },
+    {
+      "page": "https://fishportstephensestuarycharters.com/projects/fish-port-stephens-estuary-charters-4/",
+      "status": 200,
+      "final_url": "https://fishportstephensestuarycharters.com/projects/fish-port-stephens-estuary-charters-4/",
+      "bytes": 55552
+    },
+    {
+      "page": "https://fishportstephensestuarycharters.com/my-blog/page/2/",
+      "status": 200,
+      "final_url": "https://fishportstephensestuarycharters.com/my-blog/page/2/",
+      "bytes": 119321
+    },
+    {
+      "page": "https://fishportstephensestuarycharters.com/my-blog/page/9/",
+      "status": 200,
+      "final_url": "https://fishportstephensestuarycharters.com/my-blog/page/9/",
+      "bytes": 88464
+    },
+    {
+      "image": "https://c866088.ssl.cf3.rackcdn.com/assets/facebook40x40.png",
+      "error": "too small 40x40"
+    },
+    {
+      "image": "https://c866088.ssl.cf3.rackcdn.com/assets/instagram40x40.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://c866088.ssl.cf3.rackcdn.com/assets/youtube40x40.png",
+      "error": "HTTP 404"
+    },
+    {
+      "dup": "https://fishportstephensestuarycharters.com/wp-content/uploads/2015/03/MG_4962.jpg"
+    },
+    {
+      "dup": "https://fishportstephensestuarycharters.com/wp-content/uploads/2015/03/BP5A8781ggff.jpg"
+    }
+  ]
+}

@@ -1,0 +1,373 @@
+{
+  "slug": "deep-blue-charters-sydney",
+  "request_hash": "440a1f75ee6a",
+  "collected_at": "2026-11-09T02:29:13.574Z",
+  "pages_fetched": [
+    "https://deepbluecharters.com.au/",
+    "https://deepbluecharters.com.au/our-boats/",
+    "https://deepbluecharters.com.au/blog/",
+    "https://deepbluecharters.com.au/fishing-charters/",
+    "https://deepbluecharters.com.au/harbour-cruises/",
+    "https://deepbluecharters.com.au/special-events/",
+    "https://deepbluecharters.com.au/fishing-species-reef-species/",
+    "https://deepbluecharters.com.au/fishing-species-sports-species/",
+    "https://deepbluecharters.com.au/wharfs/",
+    "https://deepbluecharters.com.au/fishing-tips/",
+    "https://deepbluecharters.com.au/faq/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 750,
+      "height": 750,
+      "original": "750x750",
+      "source": "http://deepbluecharters.com.au/wp-content/uploads/2024/09/27580765_173389320103643_6660262062863679488_n.jpg",
+      "page": "https://deepbluecharters.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 1659,
+      "height": 2000,
+      "original": "2124x2560",
+      "source": "http://deepbluecharters.com.au/wp-content/uploads/2021/09/sport-fishing-sydney-full-day-1-scaled.jpg",
+      "page": "https://deepbluecharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 960,
+      "height": 900,
+      "original": "960x900",
+      "source": "https://deepbluecharters.com.au/wp-content/uploads/2021/03/image12.jpg",
+      "page": "https://deepbluecharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 960,
+      "height": 900,
+      "original": "960x900",
+      "source": "https://deepbluecharters.com.au/wp-content/uploads/2021/03/Image5.jpg",
+      "page": "https://deepbluecharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 960,
+      "height": 900,
+      "original": "960x900",
+      "source": "https://deepbluecharters.com.au/wp-content/uploads/2021/03/Image11.jpg",
+      "page": "https://deepbluecharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1000,
+      "height": 615,
+      "original": "1000x615",
+      "source": "https://deepbluecharters.com.au/wp-content/uploads/2021/03/about-slider-2-img-1.jpg",
+      "page": "https://deepbluecharters.com.au/our-boats/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1000,
+      "height": 615,
+      "original": "1000x615",
+      "source": "https://deepbluecharters.com.au/wp-content/uploads/2021/03/about-slider-2-img-2.jpg",
+      "page": "https://deepbluecharters.com.au/our-boats/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://deepbluecharters.com.au/wp-content/uploads/2023/06/20230509_152855-scaled.jpg",
+      "page": "https://deepbluecharters.com.au/our-boats/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://deepbluecharters.com.au/wp-content/uploads/2023/06/20230610_123553-scaled.jpg",
+      "page": "https://deepbluecharters.com.au/our-boats/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://deepbluecharters.com.au/wp-content/uploads/2023/06/20230509_152835-scaled.jpg",
+      "page": "https://deepbluecharters.com.au/our-boats/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1920x2560",
+      "source": "https://deepbluecharters.com.au/wp-content/uploads/2023/06/20230610_135800-scaled.jpg",
+      "page": "https://deepbluecharters.com.au/our-boats/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://deepbluecharters.com.au/wp-content/uploads/2023/06/20230509_151215-scaled.jpg",
+      "page": "https://deepbluecharters.com.au/our-boats/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1920x2560",
+      "source": "https://deepbluecharters.com.au/wp-content/uploads/2023/06/20230509_151156-scaled.jpg",
+      "page": "https://deepbluecharters.com.au/our-boats/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://deepbluecharters.com.au/wp-content/uploads/2023/06/20230509_151019-scaled.jpg",
+      "page": "https://deepbluecharters.com.au/our-boats/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1920x2560",
+      "source": "https://deepbluecharters.com.au/wp-content/uploads/2023/06/20230509_123546-scaled.jpg",
+      "page": "https://deepbluecharters.com.au/our-boats/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 2000,
+      "height": 1258,
+      "original": "2560x1610",
+      "source": "https://deepbluecharters.com.au/wp-content/uploads/2023/06/20230610_001221-scaled.jpg",
+      "page": "https://deepbluecharters.com.au/our-boats/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://deepbluecharters.com.au/",
+      "status": 200,
+      "final_url": "https://deepbluecharters.com.au/",
+      "bytes": 333123
+    },
+    {
+      "page": "https://deepbluecharters.com.au/our-boats/",
+      "status": 200,
+      "final_url": "https://deepbluecharters.com.au/our-boats/",
+      "bytes": 271485
+    },
+    {
+      "page": "https://deepbluecharters.com.au/blog/",
+      "status": 200,
+      "final_url": "https://deepbluecharters.com.au/blog/",
+      "bytes": 231337
+    },
+    {
+      "page": "https://deepbluecharters.com.au/fishing-charters/",
+      "status": 200,
+      "final_url": "https://deepbluecharters.com.au/fishing-charters/",
+      "bytes": 178825
+    },
+    {
+      "page": "https://deepbluecharters.com.au/harbour-cruises/",
+      "status": 200,
+      "final_url": "https://deepbluecharters.com.au/harbour-cruises/",
+      "bytes": 187926
+    },
+    {
+      "page": "https://deepbluecharters.com.au/special-events/",
+      "status": 200,
+      "final_url": "https://deepbluecharters.com.au/special-events/",
+      "bytes": 180026
+    },
+    {
+      "page": "https://deepbluecharters.com.au/fishing-species-reef-species/",
+      "status": 200,
+      "final_url": "https://deepbluecharters.com.au/fishing-species-reef-species/",
+      "bytes": 191918
+    },
+    {
+      "page": "https://deepbluecharters.com.au/fishing-species-sports-species/",
+      "status": 200,
+      "final_url": "https://deepbluecharters.com.au/fishing-species-sports-species/",
+      "bytes": 188881
+    },
+    {
+      "page": "https://deepbluecharters.com.au/wharfs/",
+      "status": 200,
+      "final_url": "https://deepbluecharters.com.au/wharfs/",
+      "bytes": 174940
+    },
+    {
+      "page": "https://deepbluecharters.com.au/fishing-tips/",
+      "status": 200,
+      "final_url": "https://deepbluecharters.com.au/fishing-tips/",
+      "bytes": 182906
+    },
+    {
+      "page": "https://deepbluecharters.com.au/faq/",
+      "status": 200,
+      "final_url": "https://deepbluecharters.com.au/faq/",
+      "bytes": 189765
+    },
+    {
+      "image": "http://deepbluecharters.com.au/wp-content/uploads/2021/08/bx_bxl-facebook.png",
+      "error": "too small 24x24"
+    },
+    {
+      "image": "http://deepbluecharters.com.au/wp-content/uploads/2021/08/bx_bxl-instagram-alt.png",
+      "error": "too small 24x24"
+    },
+    {
+      "image": "http://deepbluecharters.com.au/wp-content/uploads/2021/08/el_phone-alt.png",
+      "error": "too small 20x20"
+    },
+    {
+      "image": "http://deepbluecharters.com.au/wp-content/uploads/2021/08/email_black.png",
+      "error": "too small 20x20"
+    },
+    {
+      "image": "http://deepbluecharters.com.au/wp-content/uploads/2021/08/phone_black.png",
+      "error": "too small 20x20"
+    },
+    {
+      "image": "http://deepbluecharters.com.au/wp-content/uploads/2021/09/thumbnail1.png",
+      "error": "too small 384x216"
+    },
+    {
+      "image": "http://deepbluecharters.com.au/wp-content/uploads/2021/09/thumbnail2.png",
+      "error": "too small 384x216"
+    },
+    {
+      "image": "http://deepbluecharters.com.au/wp-content/uploads/2021/09/thumbnail5.png",
+      "error": "too small 384x216"
+    },
+    {
+      "image": "http://deepbluecharters.com.au/wp-content/uploads/2021/09/thumbnail3.png",
+      "error": "too small 384x216"
+    },
+    {
+      "image": "http://deepbluecharters.com.au/wp-content/uploads/2021/09/thumbnail6.png",
+      "error": "too small 384x216"
+    },
+    {
+      "image": "http://deepbluecharters.com.au/wp-content/uploads/2021/09/thumbnail7.png",
+      "error": "too small 384x216"
+    },
+    {
+      "image": "http://deepbluecharters.com.au/wp-content/uploads/2021/03/quote.png",
+      "error": "too small 512x512"
+    },
+    {
+      "image": "http://deepbluecharters.com.au/wp-content/uploads/2021/03/quote-300x300.png",
+      "error": "too small 300x300"
+    },
+    {
+      "image": "http://deepbluecharters.com.au/wp-content/uploads/2021/06/user-1.png",
+      "error": "too small 100x100"
+    },
+    {
+      "image": "https://deepbluecharters.com.au/wp-content/uploads/2021/09/thumbnail7.png",
+      "error": "too small 384x216"
+    },
+    {
+      "image": "https://deepbluecharters.com.au/wp-content/uploads/2021/09/thumbnail6.png",
+      "error": "too small 384x216"
+    },
+    {
+      "image": "https://deepbluecharters.com.au/wp-content/uploads/2021/09/thumbnail5.png",
+      "error": "too small 384x216"
+    },
+    {
+      "image": "https://deepbluecharters.com.au/wp-content/uploads/2021/09/thumbnail4.png",
+      "error": "too small 384x216"
+    },
+    {
+      "image": "https://deepbluecharters.com.au/wp-content/uploads/2021/09/thumbnail3.png",
+      "error": "too small 384x216"
+    },
+    {
+      "image": "https://deepbluecharters.com.au/wp-content/uploads/2021/09/thumbnail2.png",
+      "error": "too small 384x216"
+    },
+    {
+      "image": "https://deepbluecharters.com.au/wp-content/uploads/2021/09/thumbnail1.png",
+      "error": "too small 384x216"
+    },
+    {
+      "image": "http://deepbluecharters.com.au/wp-content/uploads/2021/08/clarity_email-solid.png",
+      "error": "too small 20x20"
+    },
+    {
+      "dup": "https://deepbluecharters.com.au/wp-content/uploads/2021/09/sport-fishing-sydney-full-day-1-scaled.jpg"
+    },
+    {
+      "image": "https://deepbluecharters.com.au/wp-content/uploads/2021/03/image12-400x284.jpg",
+      "error": "too small 400x284"
+    },
+    {
+      "image": "https://deepbluecharters.com.au/wp-content/uploads/2021/03/Image5-400x284.jpg",
+      "error": "too small 400x284"
+    },
+    {
+      "image": "https://deepbluecharters.com.au/wp-content/uploads/2021/03/Image11-400x284.jpg",
+      "error": "too small 400x284"
+    },
+    {
+      "image": "https://deepbluecharters.com.au/wp-content/uploads/2021/09/thumbnail1-300x169.png",
+      "error": "too small 300x169"
+    },
+    {
+      "image": "https://deepbluecharters.com.au/wp-content/uploads/2021/09/thumbnail2-300x169.png",
+      "error": "too small 300x169"
+    },
+    {
+      "image": "https://deepbluecharters.com.au/wp-content/uploads/2021/09/thumbnail5-300x169.png",
+      "error": "too small 300x169"
+    },
+    {
+      "image": "https://deepbluecharters.com.au/wp-content/uploads/2021/09/thumbnail3-300x169.png",
+      "error": "too small 300x169"
+    },
+    {
+      "dup": "https://deepbluecharters.com.au/wp-content/uploads/2021/09/sport-fishing-sydney-full-day-1.jpg"
+    },
+    {
+      "dup": "https://deepbluecharters.com.au/wp-content/uploads/2021/09/sport-fishing-sydney-full-day-1-980x1181.jpg"
+    },
+    {
+      "image": "https://deepbluecharters.com.au/wp-content/uploads/2021/09/sport-fishing-sydney-full-day-1-480x579.jpg",
+      "error": "too small 480x579"
+    },
+    {
+      "image": "https://deepbluecharters.com.au/wp-content/uploads/2021/09/thumbnail6-300x169.png",
+      "error": "too small 300x169"
+    },
+    {
+      "image": "https://deepbluecharters.com.au/wp-content/uploads/2021/09/thumbnail7-300x169.png",
+      "error": "too small 300x169"
+    },
+    {
+      "image": "http://deepbluecharters.com.au/wp-content/uploads/2024/09/38624322_2089259234477932_8136491027428016128_n.jpg",
+      "error": "too small 320x320"
+    }
+  ]
+}

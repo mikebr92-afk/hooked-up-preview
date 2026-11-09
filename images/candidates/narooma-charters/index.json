@@ -1,0 +1,250 @@
+{
+  "slug": "narooma-charters",
+  "request_hash": "c928ea883f81",
+  "collected_at": "2026-11-09T02:28:25.462Z",
+  "pages_fetched": [
+    "https://naroomacharters.com.au/narooma-fishing-charters/fishing-charter-photos",
+    "https://naroomacharters.com.au/recent-fishing-catches",
+    "https://naroomacharters.com.au/",
+    "https://naroomacharters.com.au/contact-us",
+    "https://naroomacharters.com.au/index.html",
+    "https://naroomacharters.com.au/narooma-whale-watching",
+    "https://naroomacharters.com.au/montague-island-tours",
+    "https://naroomacharters.com.au/snorkelling-with-the-seals",
+    "https://naroomacharters.com.au/narooma-fishing-charters",
+    "https://naroomacharters.com.au/dive-charter-tours",
+    "https://naroomacharters.com.au/montague-island-tours/",
+    "https://naroomacharters.com.au/narooma-whale-watching/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1080,
+      "height": 1350,
+      "original": "1080x1350",
+      "source": "https://naroomacharters.com.au/wp-content/uploads/2022/01/little-archie-and-his-luderick-caught.jpg",
+      "page": "https://naroomacharters.com.au/narooma-fishing-charters/fishing-charter-photos",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 1440,
+      "height": 1800,
+      "original": "1440x1800",
+      "source": "https://naroomacharters.com.au/wp-content/uploads/2022/01/guy-holding-a-fish-he-caught-with-narooma-charters.jpg",
+      "page": "https://naroomacharters.com.au/narooma-fishing-charters/fishing-charter-photos",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1440,
+      "height": 1800,
+      "original": "1440x1800",
+      "source": "https://naroomacharters.com.au/wp-content/uploads/2022/01/fresh-caught-with-narooma-charters.jpg",
+      "page": "https://naroomacharters.com.au/narooma-fishing-charters/fishing-charter-photos",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1348,
+      "height": 1800,
+      "original": "1348x1800",
+      "source": "https://naroomacharters.com.au/wp-content/uploads/2022/01/mum-of-little-archie-and-sophia-after-a-morning-fish-1.jpg",
+      "page": "https://naroomacharters.com.au/narooma-fishing-charters/fishing-charter-photos",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1536x2048",
+      "source": "https://naroomacharters.com.au/wp-content/uploads/2022/01/little-archie-after-a-morning-fish.jpg",
+      "page": "https://naroomacharters.com.au/narooma-fishing-charters/fishing-charter-photos",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "1536x2048",
+      "source": "https://naroomacharters.com.au/wp-content/uploads/2022/01/little-archie-and-sophia-after-a-morning-fish-1.jpg",
+      "page": "https://naroomacharters.com.au/narooma-fishing-charters/fishing-charter-photos",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 640,
+      "height": 800,
+      "original": "640x800",
+      "source": "https://naroomacharters.com.au/wp-content/uploads/2021/09/timbo-wilson-fishing-with-narooma-charters.jpg",
+      "page": "https://naroomacharters.com.au/narooma-fishing-charters/fishing-charter-photos",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 640,
+      "height": 662,
+      "original": "640x662",
+      "source": "https://naroomacharters.com.au/wp-content/uploads/2021/09/little-archie-holding-a-mowie.jpg",
+      "page": "https://naroomacharters.com.au/narooma-fishing-charters/fishing-charter-photos",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 960,
+      "height": 948,
+      "original": "960x948",
+      "source": "https://naroomacharters.com.au/wp-content/uploads/2021/09/kingies-caught-with-narooma-charters.jpg",
+      "page": "https://naroomacharters.com.au/narooma-fishing-charters/fishing-charter-photos",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 640,
+      "height": 480,
+      "original": "640x480",
+      "source": "https://naroomacharters.com.au/wp-content/uploads/2019/11/narooma-fishing-boat-hire-3-1.jpg",
+      "page": "https://naroomacharters.com.au/narooma-fishing-charters/fishing-charter-photos",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 960,
+      "height": 720,
+      "original": "960x720",
+      "source": "https://naroomacharters.com.au/wp-content/uploads/2019/11/narooma-fishing-boat-hire-1.jpg",
+      "page": "https://naroomacharters.com.au/narooma-fishing-charters/fishing-charter-photos",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 960,
+      "height": 720,
+      "original": "960x720",
+      "source": "https://naroomacharters.com.au/wp-content/uploads/2019/11/narooma-fishing-boat-hire-2.jpg",
+      "page": "https://naroomacharters.com.au/narooma-fishing-charters/fishing-charter-photos",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 640,
+      "height": 480,
+      "original": "640x480",
+      "source": "https://naroomacharters.com.au/wp-content/uploads/2019/11/narooma-fishing-boat-hire-4.jpg",
+      "page": "https://naroomacharters.com.au/narooma-fishing-charters/fishing-charter-photos",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 960,
+      "height": 720,
+      "original": "960x720",
+      "source": "https://naroomacharters.com.au/wp-content/uploads/2019/11/narooma-fishing-boat-hire-5.jpg",
+      "page": "https://naroomacharters.com.au/narooma-fishing-charters/fishing-charter-photos",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 960,
+      "height": 720,
+      "original": "960x720",
+      "source": "https://naroomacharters.com.au/wp-content/uploads/2019/11/narooma-fishing-boat-hire-6.jpg",
+      "page": "https://naroomacharters.com.au/narooma-fishing-charters/fishing-charter-photos",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 960,
+      "height": 720,
+      "original": "960x720",
+      "source": "https://naroomacharters.com.au/wp-content/uploads/2019/11/narooma-fishing-boat-hire-7.jpg",
+      "page": "https://naroomacharters.com.au/narooma-fishing-charters/fishing-charter-photos",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://naroomacharters.com.au/narooma-fishing-charters/fishing-charter-photos",
+      "status": 200,
+      "final_url": "https://naroomacharters.com.au/narooma-fishing-charters/fishing-charter-photos",
+      "bytes": 221289
+    },
+    {
+      "page": "https://naroomacharters.com.au/recent-fishing-catches",
+      "status": 200,
+      "final_url": "https://naroomacharters.com.au/recent-fishing-catches",
+      "bytes": 99626
+    },
+    {
+      "page": "https://naroomacharters.com.au/",
+      "status": 200,
+      "final_url": "https://naroomacharters.com.au/",
+      "bytes": 173469
+    },
+    {
+      "page": "https://naroomacharters.com.au/contact-us",
+      "status": 200,
+      "final_url": "https://naroomacharters.com.au/contact-us",
+      "bytes": 107049
+    },
+    {
+      "page": "https://naroomacharters.com.au/index.html",
+      "status": 200,
+      "final_url": "https://naroomacharters.com.au/index.html",
+      "bytes": 173469
+    },
+    {
+      "page": "https://naroomacharters.com.au/narooma-whale-watching",
+      "status": 200,
+      "final_url": "https://naroomacharters.com.au/narooma-whale-watching",
+      "bytes": 179956
+    },
+    {
+      "page": "https://naroomacharters.com.au/montague-island-tours",
+      "status": 200,
+      "final_url": "https://naroomacharters.com.au/montague-island-tours",
+      "bytes": 219457
+    },
+    {
+      "page": "https://naroomacharters.com.au/snorkelling-with-the-seals",
+      "status": 200,
+      "final_url": "https://naroomacharters.com.au/snorkelling-with-the-seals",
+      "bytes": 141728
+    },
+    {
+      "page": "https://naroomacharters.com.au/narooma-fishing-charters",
+      "status": 200,
+      "final_url": "https://naroomacharters.com.au/narooma-fishing-charters",
+      "bytes": 186253
+    },
+    {
+      "page": "https://naroomacharters.com.au/dive-charter-tours",
+      "status": 200,
+      "final_url": "https://naroomacharters.com.au/dive-charter-tours",
+      "bytes": 138748
+    },
+    {
+      "page": "https://naroomacharters.com.au/montague-island-tours/",
+      "status": 200,
+      "final_url": "https://naroomacharters.com.au/montague-island-tours/",
+      "bytes": 219457
+    },
+    {
+      "page": "https://naroomacharters.com.au/narooma-whale-watching/",
+      "status": 200,
+      "final_url": "https://naroomacharters.com.au/narooma-whale-watching/",
+      "bytes": 179956
+    },
+    {
+      "image": "https://naroomacharters.com.au/wp-content/uploads/2018/07/narooma-fishing-charter-tours-18.jpg",
+      "error": "too small 572x390"
+    },
+    {
+      "image": "https://naroomacharters.com.au/wp-content/uploads/2018/07/narooma-fishing-charter-tours-19.jpg",
+      "error": "too small 572x390"
+    },
+    {
+      "dup": "https://naroomacharters.com.au/wp-content/uploads/2019/11/narooma-fishing-boat-hire-3.jpg"
+    }
+  ]
+}
