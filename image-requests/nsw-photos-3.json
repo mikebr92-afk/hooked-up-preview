@@ -1,0 +1,30 @@
+{
+ "requests": [
+  {
+   "slug": "central-coast-reef-and-game-fishing-charters-site",
+   "pages": [],
+   "images": [
+    "http://www.reefandgamefishing.com/images/pic10a.jpg"
+   ],
+   "text": false,
+   "max": 4,
+   "follow": false
+  },
+  {
+   "slug": "freedom-charters-eden-gallery",
+   "pages": [],
+   "images": [
+    "https://freedomcharters.com.au/media/posts/2/gallery/manwithfish5.jpg",
+    "https://freedomcharters.com.au/media/posts/2/gallery/sportsFishing4.jpg",
+    "https://freedomcharters.com.au/media/posts/2/gallery/sportsFishing3.jpg",
+    "https://freedomcharters.com.au/media/posts/2/gallery/sportsFishing2.jpg",
+    "https://freedomcharters.com.au/media/posts/2/gallery/reefFishing2.jpg",
+    "https://freedomcharters.com.au/media/posts/2/gallery/sportsFishing1.jpg",
+    "https://freedomcharters.com.au/media/posts/10/reefFishing1.jpg"
+   ],
+   "text": false,
+   "max": 10,
+   "follow": false
+  }
+ ]
+}
