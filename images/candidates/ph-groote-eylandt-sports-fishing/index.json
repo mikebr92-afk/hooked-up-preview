@@ -1,0 +1,267 @@
+{
+  "slug": "ph-groote-eylandt-sports-fishing",
+  "request_hash": "16cc56a52e87",
+  "collected_at": "2026-11-09T02:38:46.939Z",
+  "pages_fetched": [
+    "https://www.gelnt.com.au/experiences/private-fishing-charter/",
+    "https://www.gelnt.com.au/contact/",
+    "https://www.gelnt.com.au/experiences/groote-explorer-tour/",
+    "https://www.gelnt.com.au/experiences/groote-explorer-tour"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1171,
+      "height": 780,
+      "original": "1171x780",
+      "source": "https://www.gelnt.com.au/wp-content/uploads/2024/10/894d6c_5c4500fe741c48efb92d2906dbd6c359mv2.webp",
+      "page": "https://www.gelnt.com.au/experiences/private-fishing-charter/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 1171,
+      "height": 780,
+      "original": "1171x780",
+      "source": "https://www.gelnt.com.au/wp-content/uploads/2024/10/894d6c_f3b6d62da6ad4c358052e25575af95abmv2.webp",
+      "page": "https://www.gelnt.com.au/experiences/private-fishing-charter/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1920,
+      "height": 1280,
+      "original": "1920x1280",
+      "source": "https://www.gelnt.com.au/wp-content/uploads/2024/10/Lodge-_SN75635-Edit.webp",
+      "page": "https://www.gelnt.com.au/experiences/private-fishing-charter/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1920,
+      "height": 1280,
+      "original": "1920x1280",
+      "source": "https://www.gelnt.com.au/wp-content/uploads/2024/05/SN78634-HDR-Edit-1920x1280-1.jpg",
+      "page": "https://www.gelnt.com.au/experiences/private-fishing-charter/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 800,
+      "height": 703,
+      "original": "800x703",
+      "source": "https://www.gelnt.com.au/wp-content/uploads/2024/10/IMG_7251-e1729817710869.webp",
+      "page": "https://www.gelnt.com.au/experiences/private-fishing-charter/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1000,
+      "height": 563,
+      "original": "1000x563",
+      "source": "https://www.gelnt.com.au/wp-content/uploads/2024/10/IMG_7254.webp",
+      "page": "https://www.gelnt.com.au/experiences/private-fishing-charter/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 907,
+      "height": 780,
+      "original": "907x780",
+      "source": "https://www.gelnt.com.au/wp-content/uploads/2024/10/894d6c_7bb652d82fe2458e848517616bd5ecb3mv2.webp",
+      "page": "https://www.gelnt.com.au/experiences/private-fishing-charter/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 646,
+      "height": 780,
+      "original": "646x780",
+      "source": "https://www.gelnt.com.au/wp-content/uploads/2024/10/894d6c_39e4c0a103dc4394a32f7164f08aa622mv2.webp",
+      "page": "https://www.gelnt.com.au/experiences/private-fishing-charter/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1920,
+      "height": 1280,
+      "original": "1920x1280",
+      "source": "https://www.gelnt.com.au/wp-content/uploads/2024/05/DJI_0126-1920x1280-1.jpg",
+      "page": "https://www.gelnt.com.au/experiences/private-fishing-charter/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1920,
+      "height": 1280,
+      "original": "1920x1280",
+      "source": "https://www.gelnt.com.au/wp-content/uploads/2024/05/Rex-_SNY3117-Edit-1920x1280-1.jpg",
+      "page": "https://www.gelnt.com.au/experiences/private-fishing-charter/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1920,
+      "height": 1548,
+      "original": "1920x1548",
+      "source": "https://www.gelnt.com.au/wp-content/uploads/2022/11/Lodge-_SNY1232-Edit-1920x1548-1.jpg",
+      "page": "https://www.gelnt.com.au/experiences/private-fishing-charter/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1920,
+      "height": 1280,
+      "original": "1920x1280",
+      "source": "https://www.gelnt.com.au/wp-content/uploads/2024/09/Lodge-food-_R734457-Edit-1920x1280-1.jpg",
+      "page": "https://www.gelnt.com.au/experiences/private-fishing-charter/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1920,
+      "height": 1280,
+      "original": "1920x1280",
+      "source": "https://www.gelnt.com.au/wp-content/uploads/2024/10/Lodge-_SN77255-HDR-Edit.webp",
+      "page": "https://www.gelnt.com.au/experiences/private-fishing-charter/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1092,
+      "height": 780,
+      "original": "1092x780",
+      "source": "https://www.gelnt.com.au/wp-content/uploads/2024/10/894d6c_c32d4fc8bef24cb183ee55bc9ce506bemv2.webp",
+      "page": "https://www.gelnt.com.au/experiences/private-fishing-charter/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 940,
+      "height": 937,
+      "original": "940x937",
+      "source": "https://www.gelnt.com.au/wp-content/uploads/2022/11/fish.jpg",
+      "page": "https://www.gelnt.com.au/experiences/private-fishing-charter/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1920,
+      "height": 1280,
+      "original": "1920x1280",
+      "source": "https://www.gelnt.com.au/wp-content/uploads/2024/10/Lodge-_SN76875-HDR-Edit.webp",
+      "page": "https://www.gelnt.com.au/contact/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.gelnt.com.au/experiences/private-fishing-charter/",
+      "status": 200,
+      "final_url": "https://www.gelnt.com.au/experiences/private-fishing-charter/",
+      "bytes": 337559
+    },
+    {
+      "page": "https://www.gelnt.com.au/contact/",
+      "status": 200,
+      "final_url": "https://www.gelnt.com.au/contact/",
+      "bytes": 289058
+    },
+    {
+      "page": "https://www.gelnt.com.au/experiences/groote-explorer-tour/",
+      "status": 200,
+      "final_url": "https://www.gelnt.com.au/experiences/groote-explorer-tour/",
+      "bytes": 312244
+    },
+    {
+      "page": "https://www.gelnt.com.au/experiences/groote-explorer-tour",
+      "status": 200,
+      "final_url": "https://www.gelnt.com.au/experiences/groote-explorer-tour/",
+      "bytes": 312244
+    },
+    {
+      "image": "https://www.gelnt.com.au/wp-content/uploads/2024/10/894d6c_96408ce1b2cf4f289a7d7e9f40ea79a6mv2.webp",
+      "error": "too small 585x780"
+    },
+    {
+      "dup": "https://www.gelnt.com.au/wp-content/uploads/2024/10/894d6c_c8807eaa786f4f20b9387665332a809amv2.webp"
+    },
+    {
+      "dup": "https://www.gelnt.com.au/wp-content/uploads/2024/10/894d6c_9fc3deec9962460aaca66f95657d0085mv2.webp"
+    },
+    {
+      "image": "https://www.gelnt.com.au/wp-content/uploads/2024/10/894d6c_5c4500fe741c48efb92d2906dbd6c359mv2-300x200.webp",
+      "error": "too small 300x200"
+    },
+    {
+      "dup": "https://www.gelnt.com.au/wp-content/uploads/2024/10/894d6c_5c4500fe741c48efb92d2906dbd6c359mv2-1024x682.webp"
+    },
+    {
+      "dup": "https://www.gelnt.com.au/wp-content/uploads/2024/10/894d6c_5c4500fe741c48efb92d2906dbd6c359mv2-768x512.webp"
+    },
+    {
+      "image": "https://www.gelnt.com.au/wp-content/uploads/2024/10/IMG_7251-e1729817710869-300x264.webp",
+      "error": "too small 300x264"
+    },
+    {
+      "image": "https://www.gelnt.com.au/wp-content/uploads/2024/10/894d6c_96408ce1b2cf4f289a7d7e9f40ea79a6mv2-225x300.webp",
+      "error": "too small 225x300"
+    },
+    {
+      "image": "https://www.gelnt.com.au/wp-content/uploads/2024/10/IMG_7254-300x169.webp",
+      "error": "too small 300x169"
+    },
+    {
+      "image": "https://www.gelnt.com.au/wp-content/uploads/2024/10/894d6c_c8807eaa786f4f20b9387665332a809amv2-300x225.webp",
+      "error": "too small 300x225"
+    },
+    {
+      "image": "https://www.gelnt.com.au/wp-content/uploads/2024/10/894d6c_7bb652d82fe2458e848517616bd5ecb3mv2-300x258.webp",
+      "error": "too small 300x258"
+    },
+    {
+      "image": "https://www.gelnt.com.au/wp-content/uploads/2024/10/894d6c_c32d4fc8bef24cb183ee55bc9ce506bemv2-300x214.webp",
+      "error": "too small 300x214"
+    },
+    {
+      "image": "https://www.gelnt.com.au/wp-content/uploads/2022/11/fish-300x300.jpg",
+      "error": "too small 300x300"
+    },
+    {
+      "image": "https://www.gelnt.com.au/wp-content/uploads/2024/10/894d6c_f3b6d62da6ad4c358052e25575af95abmv2-300x200.webp",
+      "error": "too small 300x200"
+    },
+    {
+      "image": "https://www.gelnt.com.au/wp-content/uploads/2024/10/894d6c_39e4c0a103dc4394a32f7164f08aa622mv2-248x300.webp",
+      "error": "too small 248x300"
+    },
+    {
+      "image": "https://www.gelnt.com.au/wp-content/uploads/2024/10/894d6c_9fc3deec9962460aaca66f95657d0085mv2-300x197.webp",
+      "error": "too small 300x197"
+    },
+    {
+      "image": "https://www.gelnt.com.au/wp-content/uploads/2024/05/DJI_0126-1920x1280-1-300x200.jpg",
+      "error": "too small 300x200"
+    },
+    {
+      "image": "https://www.gelnt.com.au/wp-content/uploads/2024/05/Rex-_SNY3117-Edit-1920x1280-1-300x200.jpg",
+      "error": "too small 300x200"
+    },
+    {
+      "image": "https://www.gelnt.com.au/wp-content/uploads/2024/05/SN78634-HDR-Edit-1920x1280-1-300x200.jpg",
+      "error": "too small 300x200"
+    },
+    {
+      "image": "https://www.gelnt.com.au/wp-content/uploads/2022/11/Lodge-_SNY1232-Edit-1920x1548-1-300x242.jpg",
+      "error": "too small 300x242"
+    },
+    {
+      "image": "https://www.gelnt.com.au/wp-content/uploads/2024/09/Lodge-food-_R734457-Edit-1920x1280-1-300x200.jpg",
+      "error": "too small 300x200"
+    },
+    {
+      "image": "https://www.gelnt.com.au/wp-content/uploads/2024/10/Lodge-_SN77255-HDR-Edit-300x200.webp",
+      "error": "too small 300x200"
+    }
+  ]
+}

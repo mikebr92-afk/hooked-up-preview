@@ -1,0 +1,39 @@
+{
+  "slug": "ph-obsession-fishing-safaris",
+  "request_hash": "c94b33637597",
+  "collected_at": "2026-11-09T02:27:52.725Z",
+  "pages_fetched": [
+    "https://obsessionfishing.com.au/",
+    "https://obsessionfishing.com.au/run-off-barra-fishing/",
+    "https://obsessionfishing.com.au/mothership-fishing-charters/",
+    "https://obsessionfishing.com.au/about-us-2/",
+    "https://obsessionfishing.com.au/contact-us-2/"
+  ],
+  "candidates": [],
+  "log": [
+    {
+      "page": "https://obsessionfishing.com.au/",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "page": "https://obsessionfishing.com.au/run-off-barra-fishing/",
+      "status": 503,
+      "final_url": "https://obsessionfishing.com.au/run-off-barra-fishing/",
+      "bytes": 468
+    },
+    {
+      "page": "https://obsessionfishing.com.au/mothership-fishing-charters/",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "page": "https://obsessionfishing.com.au/about-us-2/",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "page": "https://obsessionfishing.com.au/contact-us-2/",
+      "status": 503,
+      "final_url": "https://obsessionfishing.com.au/contact-us-2/",
+      "bytes": 468
+    }
+  ]
+}

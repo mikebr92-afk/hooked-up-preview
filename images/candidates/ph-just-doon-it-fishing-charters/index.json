@@ -1,0 +1,419 @@
+{
+  "slug": "ph-just-doon-it-fishing-charters",
+  "request_hash": "7f02b0a8ee01",
+  "collected_at": "2026-11-09T02:26:10.362Z",
+  "pages_fetched": [
+    "https://www.justdoonit.com.au/",
+    "https://www.justdoonit.com.au/saltie",
+    "https://www.justdoonit.com.au/about",
+    "https://www.justdoonit.com.au/price-2/copy-of-price",
+    "https://www.justdoonit.com.au/blog",
+    "https://www.justdoonit.com.au/price-2",
+    "https://www.justdoonit.com.au/price-2/copy-of-dry-season-tours",
+    "https://www.justdoonit.com.au/faq",
+    "https://www.justdoonit.com.au/post/why-fishing-trips-make-the-best-mates-getaway"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2268x1701",
+      "source": "https://static.wixstatic.com/media/003dc0_a387c8fbc99d446abfffbee9236b7d99%7Emv2.png",
+      "page": "https://www.justdoonit.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 1563,
+      "height": 1563,
+      "original": "1563x1563",
+      "source": "https://static.wixstatic.com/media/003dc0_efea98932aaf4c76ba362ac8af344973~mv2.png",
+      "page": "https://www.justdoonit.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://static.wixstatic.com/media/003dc0_b2fd2a837b32484bb9635dc7321c184bf000.jpg",
+      "page": "https://www.justdoonit.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 2000,
+      "height": 1110,
+      "original": "2360x1310",
+      "source": "https://static.wixstatic.com/media/003dc0_78657462f2f2442eabd35ae8a6915fcc~mv2.jpg",
+      "page": "https://www.justdoonit.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://static.wixstatic.com/media/003dc0_660e2f31034941df8f707b684e2e3b7df000.jpg",
+      "page": "https://www.justdoonit.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 2000,
+      "height": 1125,
+      "original": "3840x2160",
+      "source": "https://static.wixstatic.com/media/003dc0_28f73bcb43b24e2bbe2df8a10b5b7b10f000.jpg",
+      "page": "https://www.justdoonit.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1563,
+      "height": 1563,
+      "original": "1563x1563",
+      "source": "https://static.wixstatic.com/media/003dc0_bc76872ab1ba49cdbd380c1bf322d9b5~mv2.png",
+      "page": "https://www.justdoonit.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://static.wixstatic.com/media/003dc0_7f6848e7d6d0495aafb9b8e79f6d9ccbf000.jpg",
+      "page": "https://www.justdoonit.com.au/saltie",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "4284x5712",
+      "source": "https://static.wixstatic.com/media/003dc0_0d460fa5439244dab82120a0967b7359~mv2.png",
+      "page": "https://www.justdoonit.com.au/about",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "5712x4284",
+      "source": "https://static.wixstatic.com/media/003dc0_d12db626af8141678be8a4bd1a9045ad~mv2.png",
+      "page": "https://www.justdoonit.com.au/about",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1500,
+      "height": 2000,
+      "original": "2316x3088",
+      "source": "https://static.wixstatic.com/media/003dc0_e9b27575cc4b47b0bf3d799572d2c7b4~mv2.png",
+      "page": "https://www.justdoonit.com.au/about",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1152,
+      "height": 1536,
+      "original": "1152x1536",
+      "source": "https://static.wixstatic.com/media/003dc0_cc19ea48c7864797b906f164be448154~mv2.jpeg",
+      "page": "https://www.justdoonit.com.au/about",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 2000,
+      "height": 1000,
+      "original": "3000x1500",
+      "source": "https://static.wixstatic.com/media/003dc0_1cfa54128c1341359ef5b3df29add253~mv2.jpg",
+      "page": "https://www.justdoonit.com.au/about",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1125,
+      "height": 1500,
+      "original": "1125x1500",
+      "source": "https://static.wixstatic.com/media/003dc0_0eff2c55be74400aa6d08c30b26f9fc1~mv2.jpeg",
+      "page": "https://www.justdoonit.com.au/about",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 624,
+      "height": 624,
+      "original": "624x624",
+      "source": "https://static.wixstatic.com/media/003dc0_d12db626af8141678be8a4bd1a9045ad~mv2.png/v1/crop/x_714,y_0,w_4284,h_4284/fill/w_624,h_624,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_9363_HEIC.png",
+      "page": "https://www.justdoonit.com.au/about",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 964,
+      "height": 1060,
+      "original": "964x1060",
+      "source": "https://static.wixstatic.com/media/003dc0_e9b27575cc4b47b0bf3d799572d2c7b4~mv2.png/v1/crop/x_0,y_271,w_2316,h_2547/fill/w_964,h_1060,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_7926_HEIC.png",
+      "page": "https://www.justdoonit.com.au/about",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.justdoonit.com.au/",
+      "status": 200,
+      "final_url": "https://www.justdoonit.com.au/",
+      "bytes": 1372198
+    },
+    {
+      "page": "https://www.justdoonit.com.au/saltie",
+      "status": 200,
+      "final_url": "https://www.justdoonit.com.au/saltie",
+      "bytes": 1274733
+    },
+    {
+      "page": "https://www.justdoonit.com.au/about",
+      "status": 200,
+      "final_url": "https://www.justdoonit.com.au/about",
+      "bytes": 1357031
+    },
+    {
+      "page": "https://www.justdoonit.com.au/price-2/copy-of-price",
+      "status": 200,
+      "final_url": "https://www.justdoonit.com.au/price-2/copy-of-price",
+      "bytes": 1347402
+    },
+    {
+      "page": "https://www.justdoonit.com.au/blog",
+      "status": 200,
+      "final_url": "https://www.justdoonit.com.au/blog",
+      "bytes": 1604915
+    },
+    {
+      "page": "https://www.justdoonit.com.au/price-2",
+      "status": 200,
+      "final_url": "https://www.justdoonit.com.au/price-2",
+      "bytes": 1256405
+    },
+    {
+      "page": "https://www.justdoonit.com.au/price-2/copy-of-dry-season-tours",
+      "status": 200,
+      "final_url": "https://www.justdoonit.com.au/price-2/copy-of-dry-season-tours",
+      "bytes": 1409161
+    },
+    {
+      "page": "https://www.justdoonit.com.au/faq",
+      "status": 200,
+      "final_url": "https://www.justdoonit.com.au/faq",
+      "bytes": 1514328
+    },
+    {
+      "page": "https://www.justdoonit.com.au/post/why-fishing-trips-make-the-best-mates-getaway",
+      "status": 200,
+      "final_url": "https://www.justdoonit.com.au/post/why-fishing-trips-make-the-best-mates-getaway",
+      "bytes": 1448353
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/003dc0_a387c8fbc99d446abfffbee9236b7d99%7Emv2.png/v1/fit/w_2500,h_1330,al_c/003dc0_a387c8fbc99d446abfffbee9236b7d99%7Emv2.png"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/40898a93cfff4578b1779073137eb1b4.png",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/40898a93cfff4578b1779073137eb1b4.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/40898a93cfff4578b1779073137eb1b4.png",
+      "error": "too small 39x39"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/aebe5b6fd55f471a936c72ff2c8289d7.png",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/aebe5b6fd55f471a936c72ff2c8289d7.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/aebe5b6fd55f471a936c72ff2c8289d7.png",
+      "error": "too small 39x39"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/11062b_c7468ec61d494ead83af6058b76cadc0~mv2.png",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/11062b_c7468ec61d494ead83af6058b76cadc0~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_c7468ec61d494ead83af6058b76cadc0~mv2.png",
+      "error": "too small 39x39"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/e1aa082f7c0747168d9cf43e77046142.png",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/e1aa082f7c0747168d9cf43e77046142.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e1aa082f7c0747168d9cf43e77046142.png",
+      "error": "too small 39x39"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/4057345bcf57474b96976284050c00df.png",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/4057345bcf57474b96976284050c00df.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/4057345bcf57474b96976284050c00df.png",
+      "error": "too small 39x39"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/11062b_66167d61316d4665841f3397360d54a9~mv2.png",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/11062b_66167d61316d4665841f3397360d54a9~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_66167d61316d4665841f3397360d54a9~mv2.png",
+      "error": "too small 39x39"
+    },
+    {
+      "image": "https://www.justdoonit.com.au/quality_auto/hook%202_edited.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.justdoonit.com.au/quality_auto/40898a93cfff4578b1779073137eb1b4.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.justdoonit.com.au/quality_auto/aebe5b6fd55f471a936c72ff2c8289d7.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.justdoonit.com.au/quality_auto/11062b_c7468ec61d494ead83af6058b76cadc0~mv2.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.justdoonit.com.au/quality_auto/IMG_2657.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.justdoonit.com.au/quality_auto/hook_edited.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.justdoonit.com.au/quality_auto/e1aa082f7c0747168d9cf43e77046142.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.justdoonit.com.au/quality_auto/4057345bcf57474b96976284050c00df.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.justdoonit.com.au/quality_auto/11062b_66167d61316d4665841f3397360d54a9~mv2.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/003dc0_2debd983b1cc4157b8c5e2f5a3ee5d81%7Emv2.png",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/003dc0_2debd983b1cc4157b8c5e2f5a3ee5d81%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/003dc0_2debd983b1cc4157b8c5e2f5a3ee5d81%7Emv2.png",
+      "error": "too small 192x192"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/003dc0_2debd983b1cc4157b8c5e2f5a3ee5d81%7Emv2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/003dc0_2debd983b1cc4157b8c5e2f5a3ee5d81%7Emv2.png",
+      "error": "too small 32x32"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/003dc0_2debd983b1cc4157b8c5e2f5a3ee5d81%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/003dc0_2debd983b1cc4157b8c5e2f5a3ee5d81%7Emv2.png",
+      "error": "too small 180x180"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/003dc0_efea98932aaf4c76ba362ac8af344973~mv2.png/v1/fill/w_70,h_70,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/hook%202_edited.png",
+      "error": "too small 70x70"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/003dc0_efea98932aaf4c76ba362ac8af344973~mv2.png/v1/fill/w_140,h_140,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/hook%202_edited.png",
+      "error": "too small 140x140"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/40898a93cfff4578b1779073137eb1b4.png/v1/fill/w_78,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/40898a93cfff4578b1779073137eb1b4.png",
+      "error": "too small 78x78"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/aebe5b6fd55f471a936c72ff2c8289d7.png/v1/fill/w_78,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/aebe5b6fd55f471a936c72ff2c8289d7.png",
+      "error": "too small 78x78"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/11062b_c7468ec61d494ead83af6058b76cadc0~mv2.png/v1/fill/w_78,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_c7468ec61d494ead83af6058b76cadc0~mv2.png",
+      "error": "too small 78x78"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/003dc0_b2fd2a837b32484bb9635dc7321c184bf000.jpg/v1/fill/w_147,h_83,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/003dc0_b2fd2a837b32484bb9635dc7321c184bf000.jpg",
+      "error": "too small 147x83"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/003dc0_78657462f2f2442eabd35ae8a6915fcc~mv2.jpg/v1/fill/w_1911,h_924,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_2657.jpg"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/003dc0_78657462f2f2442eabd35ae8a6915fcc~mv2.jpg/v1/fill/w_2360,h_1141,al_c,q_90,enc_avif,quality_auto/IMG_2657.jpg"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/003dc0_660e2f31034941df8f707b684e2e3b7df000.jpg/v1/fill/w_126,h_71,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/003dc0_660e2f31034941df8f707b684e2e3b7df000.jpg",
+      "error": "too small 126x71"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/003dc0_28f73bcb43b24e2bbe2df8a10b5b7b10f000.jpg/v1/fill/w_146,h_82,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/003dc0_28f73bcb43b24e2bbe2df8a10b5b7b10f000.jpg",
+      "error": "too small 146x82"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/003dc0_bc76872ab1ba49cdbd380c1bf322d9b5~mv2.png/v1/fill/w_76,h_76,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/hook_edited.png",
+      "error": "too small 76x76"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/003dc0_bc76872ab1ba49cdbd380c1bf322d9b5~mv2.png/v1/fill/w_152,h_152,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/hook_edited.png",
+      "error": "too small 152x152"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/e1aa082f7c0747168d9cf43e77046142.png/v1/fill/w_78,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e1aa082f7c0747168d9cf43e77046142.png",
+      "error": "too small 78x78"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/4057345bcf57474b96976284050c00df.png/v1/fill/w_78,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/4057345bcf57474b96976284050c00df.png",
+      "error": "too small 78x78"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/11062b_66167d61316d4665841f3397360d54a9~mv2.png/v1/fill/w_78,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_66167d61316d4665841f3397360d54a9~mv2.png",
+      "error": "too small 78x78"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/003dc0_7f6848e7d6d0495aafb9b8e79f6d9ccbf000.jpg/v1/fill/w_147,h_83,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/003dc0_7f6848e7d6d0495aafb9b8e79f6d9ccbf000.jpg",
+      "error": "too small 147x83"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/003dc0_0d460fa5439244dab82120a0967b7359~mv2.png/v1/fill/w_401,h_537,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/003dc0_0d460fa5439244dab82120a0967b7359~mv2.png",
+      "error": "too small 401x537"
+    },
+    {
+      "image": "https://www.justdoonit.com.au/quality_auto/IMG_9363_HEIC.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.justdoonit.com.au/quality_auto/IMG_7926_HEIC.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.justdoonit.com.au/quality_auto/kings%20canyon%20kate%20and%20jays.jpeg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.justdoonit.com.au/quality_auto/003dc0_0d460fa5439244dab82120a0967b7359~mv2.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.justdoonit.com.au/quality_auto/003dc0_0eff2c55be74400aa6d08c30b26f9fc1~mv2.jpeg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/003dc0_0d460fa5439244dab82120a0967b7359~mv2.png/v1/fill/w_20,h_26,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/003dc0_0d460fa5439244dab82120a0967b7359~mv2.png",
+      "error": "too small 20x26"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/003dc0_d12db626af8141678be8a4bd1a9045ad~mv2.png/v1/crop/x_714,y_0,w_4284,h_4284/fill/w_312,h_312,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_9363_HEIC.png",
+      "error": "too small 312x312"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/003dc0_e9b27575cc4b47b0bf3d799572d2c7b4~mv2.png/v1/crop/x_0,y_271,w_2316,h_2547/fill/w_482,h_530,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_7926_HEIC.png",
+      "error": "too small 482x530"
+    }
+  ]
+}

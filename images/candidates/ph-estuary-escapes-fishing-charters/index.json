@@ -1,0 +1,374 @@
+{
+  "slug": "ph-estuary-escapes-fishing-charters",
+  "request_hash": "fbc062b2cdf0",
+  "collected_at": "2026-11-09T02:28:32.497Z",
+  "pages_fetched": [
+    "https://estuaryescapes.com.au/gallery/",
+    "https://estuaryescapes.com.au/gallery/?page_number_0=2",
+    "https://www.estuaryescapes.com.au/",
+    "https://estuaryescapes.com.au/fishing-reports/",
+    "https://estuaryescapes.com.au/about-us/",
+    "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/imported_from_media_libray/Car-and-Boat-Remote-scaled.jpg?bwg=1790644456",
+    "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/imported_from_media_libray/IMG_0499-scaled.jpg?bwg=1790644456",
+    "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/imported_from_media_libray/Runoff-Big-scaled.jpg?bwg=1790644456",
+    "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/Nick_with_an_89cm_Barra_-_Tommy_Cut_20200307.jpg?bwg=1583578114",
+    "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/Nick_with_an_80cm_Jew_Fish_-_Tommy_Cut_20200307.jpg?bwg=1583578114",
+    "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/IMG_1074.jpg?bwg=1582112071",
+    "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/IMG_1089.jpg?bwg=1582112071"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1200,
+      "height": 900,
+      "original": "1200x900",
+      "source": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/imported_from_media_libray/Car-and-Boat-Remote-scaled.jpg?bwg=1790644456",
+      "page": "https://estuaryescapes.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 1200,
+      "height": 900,
+      "original": "1200x900",
+      "source": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/imported_from_media_libray/IMG_0499-scaled.jpg?bwg=1790644456",
+      "page": "https://estuaryescapes.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1200,
+      "height": 900,
+      "original": "1200x900",
+      "source": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/imported_from_media_libray/Runoff-Big-scaled.jpg?bwg=1790644456",
+      "page": "https://estuaryescapes.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 960,
+      "height": 960,
+      "original": "960x960",
+      "source": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/Nick_with_an_89cm_Barra_-_Tommy_Cut_20200307.jpg?bwg=1583578114",
+      "page": "https://estuaryescapes.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 692,
+      "height": 590,
+      "original": "692x590",
+      "source": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/Nick_with_an_80cm_Jew_Fish_-_Tommy_Cut_20200307.jpg?bwg=1583578114",
+      "page": "https://estuaryescapes.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1200,
+      "height": 800,
+      "original": "1200x800",
+      "source": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/IMG_1074.jpg?bwg=1582112071",
+      "page": "https://estuaryescapes.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1200,
+      "height": 800,
+      "original": "1200x800",
+      "source": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/IMG_1089.jpg?bwg=1582112071",
+      "page": "https://estuaryescapes.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1200,
+      "height": 800,
+      "original": "1200x800",
+      "source": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/IMG_1082.jpg?bwg=1582112071",
+      "page": "https://estuaryescapes.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1200,
+      "height": 801,
+      "original": "1200x801",
+      "source": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/IMG_1124_crop.jpg?bwg=1582112071",
+      "page": "https://estuaryescapes.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1200,
+      "height": 800,
+      "original": "1200x800",
+      "source": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/IMG_1094.jpg?bwg=1582112071",
+      "page": "https://estuaryescapes.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1200,
+      "height": 985,
+      "original": "1200x985",
+      "source": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/IMG_1130_crop.jpg?bwg=1582112071",
+      "page": "https://estuaryescapes.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1200,
+      "height": 779,
+      "original": "1200x779",
+      "source": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/IMG_1149_crop.jpg?bwg=1582112071",
+      "page": "https://estuaryescapes.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1200,
+      "height": 800,
+      "original": "1200x800",
+      "source": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/IMG_1101.jpg?bwg=1582112071",
+      "page": "https://estuaryescapes.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1200,
+      "height": 615,
+      "original": "1200x615",
+      "source": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/IMG_1156_crop.jpg?bwg=1582112071",
+      "page": "https://estuaryescapes.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1200,
+      "height": 800,
+      "original": "1200x800",
+      "source": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/IMG_1105.jpg?bwg=1582112071",
+      "page": "https://estuaryescapes.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1200,
+      "height": 800,
+      "original": "1200x800",
+      "source": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/IMG_1098.jpg?bwg=1582112071",
+      "page": "https://estuaryescapes.com.au/gallery/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://estuaryescapes.com.au/gallery/",
+      "status": 200,
+      "final_url": "https://estuaryescapes.com.au/gallery/",
+      "bytes": 53117
+    },
+    {
+      "page": "https://estuaryescapes.com.au/gallery/?page_number_0=2",
+      "status": 200,
+      "final_url": "https://estuaryescapes.com.au/gallery/?page_number_0=2",
+      "bytes": 53023
+    },
+    {
+      "page": "https://www.estuaryescapes.com.au/",
+      "status": 200,
+      "final_url": "https://estuaryescapes.com.au/",
+      "bytes": 16004
+    },
+    {
+      "page": "https://estuaryescapes.com.au/fishing-reports/",
+      "status": 200,
+      "final_url": "https://estuaryescapes.com.au/fishing-reports/",
+      "bytes": 14642
+    },
+    {
+      "page": "https://estuaryescapes.com.au/about-us/",
+      "status": 200,
+      "final_url": "https://estuaryescapes.com.au/about-us/",
+      "bytes": 12896
+    },
+    {
+      "page": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/imported_from_media_libray/Car-and-Boat-Remote-scaled.jpg?bwg=1790644456",
+      "status": 200,
+      "final_url": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/imported_from_media_libray/Car-and-Boat-Remote-scaled.jpg?bwg=1790644456",
+      "bytes": 159500
+    },
+    {
+      "page": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/imported_from_media_libray/IMG_0499-scaled.jpg?bwg=1790644456",
+      "status": 200,
+      "final_url": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/imported_from_media_libray/IMG_0499-scaled.jpg?bwg=1790644456",
+      "bytes": 114724
+    },
+    {
+      "page": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/imported_from_media_libray/Runoff-Big-scaled.jpg?bwg=1790644456",
+      "status": 200,
+      "final_url": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/imported_from_media_libray/Runoff-Big-scaled.jpg?bwg=1790644456",
+      "bytes": 202364
+    },
+    {
+      "page": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/Nick_with_an_89cm_Barra_-_Tommy_Cut_20200307.jpg?bwg=1583578114",
+      "status": 200,
+      "final_url": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/Nick_with_an_89cm_Barra_-_Tommy_Cut_20200307.jpg?bwg=1583578114",
+      "bytes": 130557
+    },
+    {
+      "page": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/Nick_with_an_80cm_Jew_Fish_-_Tommy_Cut_20200307.jpg?bwg=1583578114",
+      "status": 200,
+      "final_url": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/Nick_with_an_80cm_Jew_Fish_-_Tommy_Cut_20200307.jpg?bwg=1583578114",
+      "bytes": 88843
+    },
+    {
+      "page": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/IMG_1074.jpg?bwg=1582112071",
+      "status": 200,
+      "final_url": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/IMG_1074.jpg?bwg=1582112071",
+      "bytes": 148637
+    },
+    {
+      "page": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/IMG_1089.jpg?bwg=1582112071",
+      "status": 200,
+      "final_url": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/IMG_1089.jpg?bwg=1582112071",
+      "bytes": 170833
+    },
+    {
+      "image": "https://estuaryescapes.com.au/wp-content/uploads/2020/02/gallery-banner.jpg",
+      "error": "banner/strip 1600x419"
+    },
+    {
+      "image": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/Car-and-Boat-Remote-scaled.jpg?bwg=1790644456",
+      "error": "too small 500x375"
+    },
+    {
+      "image": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/IMG_0499-scaled.jpg?bwg=1790644456",
+      "error": "too small 500x375"
+    },
+    {
+      "image": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/Runoff-Big-scaled.jpg?bwg=1790644456",
+      "error": "too small 500x375"
+    },
+    {
+      "image": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/thumb/Nick_with_an_89cm_Barra_-_Tommy_Cut_20200307.jpg?bwg=1583578114",
+      "error": "too small 500x500"
+    },
+    {
+      "image": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/thumb/Nick_with_an_80cm_Jew_Fish_-_Tommy_Cut_20200307.jpg?bwg=1583578114",
+      "error": "too small 500x426"
+    },
+    {
+      "image": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/thumb/IMG_1074.jpg?bwg=1582112071",
+      "error": "too small 500x333"
+    },
+    {
+      "image": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/thumb/IMG_1089.jpg?bwg=1582112071",
+      "error": "too small 500x333"
+    },
+    {
+      "image": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/thumb/IMG_1082.jpg?bwg=1582112071",
+      "error": "too small 500x333"
+    },
+    {
+      "image": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/thumb/IMG_1124_crop.jpg?bwg=1582112071",
+      "error": "too small 500x334"
+    },
+    {
+      "image": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/thumb/IMG_1094.jpg?bwg=1582112071",
+      "error": "too small 500x333"
+    },
+    {
+      "image": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/thumb/IMG_1130_crop.jpg?bwg=1582112071",
+      "error": "too small 500x410"
+    },
+    {
+      "image": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/thumb/IMG_1149_crop.jpg?bwg=1582112071",
+      "error": "too small 500x325"
+    },
+    {
+      "image": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/thumb/IMG_1101.jpg?bwg=1582112071",
+      "error": "too small 500x333"
+    },
+    {
+      "image": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/thumb/IMG_1156_crop.jpg?bwg=1582112071",
+      "error": "too small 500x256"
+    },
+    {
+      "image": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/thumb/IMG_1164_(2).jpg?bwg=1582112071",
+      "error": "too small 393x500"
+    },
+    {
+      "image": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/thumb/IMG_1105.jpg?bwg=1582112071",
+      "error": "too small 500x333"
+    },
+    {
+      "image": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/thumb/IMG_1174.jpg?bwg=1582112071",
+      "error": "too small 500x333"
+    },
+    {
+      "image": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/thumb/IMG_1098.jpg?bwg=1582112071",
+      "error": "too small 500x333"
+    },
+    {
+      "image": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/thumb/IMG_1177.jpg?bwg=1582112067",
+      "error": "too small 500x333"
+    },
+    {
+      "image": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/thumb/IMG_1184.jpg?bwg=1582112067",
+      "error": "too small 500x333"
+    },
+    {
+      "image": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/thumb/IMG_1403.jpg?bwg=1582112067",
+      "error": "too small 500x333"
+    },
+    {
+      "image": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/thumb/IMG_1322.jpg?bwg=1582112067",
+      "error": "too small 500x333"
+    },
+    {
+      "image": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/thumb/IMG_1429.jpg?bwg=1582112067",
+      "error": "too small 500x333"
+    },
+    {
+      "image": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/thumb/IMG_2309.jpg?bwg=1582112067",
+      "error": "too small 500x333"
+    },
+    {
+      "image": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/thumb/IMG_1431.jpg?bwg=1582112067",
+      "error": "too small 500x333"
+    },
+    {
+      "image": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/thumb/IMG_2307.jpg?bwg=1582112067",
+      "error": "too small 500x333"
+    },
+    {
+      "image": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/thumb/IMG_2302.jpg?bwg=1582112067",
+      "error": "too small 500x333"
+    },
+    {
+      "image": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/thumb/IMG_2306.jpg?bwg=1582112067",
+      "error": "too small 500x333"
+    },
+    {
+      "image": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/thumb/IMG_2305.jpg?bwg=1582112067",
+      "error": "too small 500x333"
+    },
+    {
+      "image": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/thumb/MJ.jpg?bwg=1582112067",
+      "error": "too small 200x200"
+    },
+    {
+      "image": "https://estuaryescapes.com.au/wp-content/uploads/2020/02/facebook.png",
+      "error": "too small 24x28"
+    },
+    {
+      "image": "https://estuaryescapes.com.au/wp-content/uploads/2020/02/insta.png",
+      "error": "too small 24x28"
+    },
+    {
+      "dup": "https://estuaryescapes.com.au/wp-content/uploads/photo-gallery/IMG_1174.jpg?bwg=1582112071"
+    }
+  ]
+}

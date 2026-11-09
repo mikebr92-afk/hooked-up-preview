@@ -1,0 +1,561 @@
+{
+  "slug": "ph-barra-or-blue-fishing-charters-darwin",
+  "request_hash": "d808ef9fc17a",
+  "collected_at": "2026-11-09T02:32:50.619Z",
+  "pages_fetched": [
+    "https://barraorblue.com.au/",
+    "https://barraorblue.com.au/about/",
+    "https://barraorblue.com.au/extended-fishing-charters-2/",
+    "https://barraorblue.com.au/day-charters/",
+    "https://barraorblue.com.au/vessels/",
+    "https://barraorblue.com.au/contact/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1000,
+      "height": 1333,
+      "original": "1000x1333",
+      "source": "https://barraorblue.com.au/wp-content/uploads/2026/08/bob-big-barra-update.jpg",
+      "page": "https://barraorblue.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 1000,
+      "height": 750,
+      "original": "1000x750",
+      "source": "https://barraorblue.com.au/wp-content/uploads/2026/08/bob-cod-bluewater.jpg",
+      "page": "https://barraorblue.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1000,
+      "height": 750,
+      "original": "1000x750",
+      "source": "https://barraorblue.com.au/wp-content/uploads/2026/08/bob-group-bluwater-extended.jpg",
+      "page": "https://barraorblue.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1900,
+      "height": 1141,
+      "original": "1900x1141",
+      "source": "https://barraorblue.com.au/wp-content/uploads/2026/08/bob-guide-kurt-with-amy-barra.jpg",
+      "page": "https://barraorblue.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 861,
+      "height": 533,
+      "original": "861x533",
+      "source": "https://barraorblue.com.au/wp-content/uploads/2023/08/bnb-dunde.jpg",
+      "page": "https://barraorblue.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1000,
+      "height": 870,
+      "original": "1000x870",
+      "source": "https://barraorblue.com.au/wp-content/uploads/2026/08/bob-billy-barra-update.jpg",
+      "page": "https://barraorblue.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1470,
+      "height": 775,
+      "original": "1470x775",
+      "source": "https://barraorblue.com.au/wp-content/uploads/2023/08/Fishing-Charters-BG.jpg",
+      "page": "https://barraorblue.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1470,
+      "height": 701,
+      "original": "1470x701",
+      "source": "https://barraorblue.com.au/wp-content/uploads/2023/08/reviews-bg.jpg",
+      "page": "https://barraorblue.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 640,
+      "height": 480,
+      "original": "640x480",
+      "source": "https://barraorblue.com.au/wp-content/uploads/2026/08/Linc-Naomi-red-tag-bus-banner.jpeg",
+      "page": "https://barraorblue.com.au/about/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1320,
+      "height": 688,
+      "original": "1320x688",
+      "source": "https://barraorblue.com.au/wp-content/uploads/2026/08/barra-fishing-charter-experince.jpg",
+      "page": "https://barraorblue.com.au/extended-fishing-charters-2/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://barraorblue.com.au/wp-content/uploads/2023/10/Photo-12-6-2023-6-39-22-pm-1-scaled.jpg",
+      "page": "https://barraorblue.com.au/extended-fishing-charters-2/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://barraorblue.com.au/wp-content/uploads/2023/10/Photo-12-6-2020-10-45-43-am-scaled.jpg",
+      "page": "https://barraorblue.com.au/extended-fishing-charters-2/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 2000,
+      "height": 1500,
+      "original": "2560x1920",
+      "source": "https://barraorblue.com.au/wp-content/uploads/2023/10/Photo-14-6-2023-6-50-01-pm-1-scaled.jpg",
+      "page": "https://barraorblue.com.au/extended-fishing-charters-2/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://barraorblue.com.au/",
+      "status": 200,
+      "final_url": "https://barraorblue.com.au/",
+      "bytes": 227757
+    },
+    {
+      "page": "https://barraorblue.com.au/about/",
+      "status": 200,
+      "final_url": "https://barraorblue.com.au/about/",
+      "bytes": 214128
+    },
+    {
+      "page": "https://barraorblue.com.au/extended-fishing-charters-2/",
+      "status": 200,
+      "final_url": "https://barraorblue.com.au/extended-fishing-charters-2/",
+      "bytes": 320666
+    },
+    {
+      "page": "https://barraorblue.com.au/day-charters/",
+      "status": 200,
+      "final_url": "https://barraorblue.com.au/day-charters/",
+      "bytes": 202258
+    },
+    {
+      "page": "https://barraorblue.com.au/vessels/",
+      "status": 200,
+      "final_url": "https://barraorblue.com.au/vessels/",
+      "bytes": 221784
+    },
+    {
+      "page": "https://barraorblue.com.au/contact/",
+      "status": 200,
+      "final_url": "https://barraorblue.com.au/contact/",
+      "bytes": 231089
+    },
+    {
+      "dup": "https://barraorblue.com.au/wp-content/uploads/2026/08/bob-group-bluwater-update.jpg"
+    },
+    {
+      "dup": "https://barraorblue.com.au/wp-content/uploads/2026/08/bob-big-barra-update-980x1306.jpg"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2026/08/bob-big-barra-update-480x640.jpg",
+      "error": "too small 480x640"
+    },
+    {
+      "dup": "https://barraorblue.com.au/wp-content/uploads/2026/08/bob-cod-bluewater-980x735.jpg"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2026/08/bob-cod-bluewater-480x360.jpg",
+      "error": "too small 480x360"
+    },
+    {
+      "dup": "https://barraorblue.com.au/wp-content/uploads/2026/08/bob-group-bluwater-extended-980x735.jpg"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2026/08/bob-group-bluwater-extended-480x360.jpg",
+      "error": "too small 480x360"
+    },
+    {
+      "dup": "https://barraorblue.com.au/wp-content/uploads/2026/08/bob-guide-kurt-with-amy-barra-1280x769.jpg"
+    },
+    {
+      "dup": "https://barraorblue.com.au/wp-content/uploads/2026/08/bob-guide-kurt-with-amy-barra-980x589.jpg"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2026/08/bob-guide-kurt-with-amy-barra-480x288.jpg",
+      "error": "too small 480x288"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/08/bnb-dunde-480x297.jpg",
+      "error": "too small 480x297"
+    },
+    {
+      "dup": "https://barraorblue.com.au/wp-content/uploads/2026/08/bob-billy-barra-update-980x853.jpg"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2026/08/bob-billy-barra-update-480x418.jpg",
+      "error": "too small 480x418"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/plugins/sassy-social-share/images/close.png",
+      "error": "too small 35x34"
+    },
+    {
+      "dup": "https://barraorblue.com.au/wp-content/uploads/2026/08/bob-group-bluwater-about.jpg"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/09/lincoln.png",
+      "error": "too small 298x298"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2026/08/bob-guide-kurt-profile-modified.png",
+      "error": "too small 298x298"
+    },
+    {
+      "dup": "https://barraorblue.com.au/wp-content/uploads/2026/08/bob-group-bluwater-about-980x668.jpg"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2026/08/bob-group-bluwater-about-480x327.jpg",
+      "error": "too small 480x327"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/09/lincoln-150x150.png",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2026/08/bob-guide-kurt-profile-modified-150x150.png",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/10/Photo-14-6-2023-1-49-54-pm-1-scaled.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/10/Photo-27-4-2023-11-25-15-am-scaled.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/10/Photo-12-6-2023-6-39-22-pm-1.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/10/Photo-12-6-2023-6-39-22-pm-1-400x284.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/10/Photo-14-6-2023-6-50-01-pm-1.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/10/Photo-14-6-2023-6-50-01-pm-1-400x284.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/10/Photo-14-6-2023-1-49-54-pm-1.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/10/Photo-14-6-2023-1-49-54-pm-1-400x284.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/10/Photo-12-6-2020-10-45-43-am.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/10/Photo-12-6-2020-10-45-43-am-400x284.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/10/Photo-27-4-2023-11-25-15-am.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/10/Photo-27-4-2023-11-25-15-am-400x284.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/10/Photo-16-3-2023-11-49-12-am-1.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/10/Photo-16-3-2023-11-49-12-am-1-400x284.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/10/Photo-12-6-2023-6-39-22-pm.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/10/Photo-12-6-2023-6-39-22-pm-400x284.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/10/image1-1-scaled-min.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/10/image1-1-scaled-min-400x284.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/10/image1-2.jpeg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/10/image1-2-400x284.jpeg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/10/image1-1.jpeg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/10/image1-1-400x284.jpeg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/10/image1-scaled-min.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/10/image1-scaled-min-400x284.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/08/blog-1.png",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/08/blog-1-400x284.png",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2026/08/extended-fishing-hero.jpeg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2026/08/barra-fishing-charter-experince-1280x667.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2026/08/barra-fishing-charter-experince-980x511.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2026/08/barra-fishing-charter-experince-480x250.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/10/Photo-12-6-2023-6-39-22-pm-1-1280x960.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/10/Photo-12-6-2023-6-39-22-pm-1-980x735.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/10/Photo-12-6-2023-6-39-22-pm-1-480x360.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/10/Photo-12-6-2020-10-45-43-am-1280x960.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/10/Photo-12-6-2020-10-45-43-am-980x735.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/10/Photo-12-6-2020-10-45-43-am-480x360.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/10/Photo-14-6-2023-6-50-01-pm-1-1280x960.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/10/Photo-14-6-2023-6-50-01-pm-1-980x735.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/10/Photo-14-6-2023-6-50-01-pm-1-480x360.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/10/Photo-14-6-2023-1-49-54-pm-1-1280x947.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/10/Photo-14-6-2023-1-49-54-pm-1-980x725.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/10/Photo-14-6-2023-1-49-54-pm-1-480x355.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/10/Photo-27-4-2023-11-25-15-am-1280x960.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/10/Photo-27-4-2023-11-25-15-am-980x735.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/10/Photo-27-4-2023-11-25-15-am-480x360.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/10/Photo-16-3-2023-11-49-12-am-1-scaled.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/10/Photo-12-6-2023-6-39-22-pm-scaled.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/10/image1-2-scaled.jpeg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/10/image1-1-scaled.jpeg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2026/08/barra-fishing-charter-modified.png",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2026/08/bluewater-fishing-charter-modified.png",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2026/08/private-fishing-charter-modified.png",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2026/08/shared-fisghing-charter-modified.png",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/09/Full-Day-SHARED-Barra-Fishing-Charter-Image.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/09/Half-Day-Private-Barra-Fishing-Charter-Image.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/09/Full-Day-Shared-Barra-Fishing-img.png",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/09/Full-Day-Shared-Bluewater-Fishing-Charter-Image.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/09/Full-Day-PRIVATE-Bluewater-Fishing-Charter-Image.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/09/Half-Day-Shared-Barra-Fishing-Charter-Image.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2026/08/bob-barra-day-charter-banner.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/09/packages-bg-light.png",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/09/quintrex-top-ender-img.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2026/09/BarraorBlue-Boat-Open.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2026/09/unnamed-6.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/09/25t-Contender-featured.png",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2026/09/barra-fishing-charter-1.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/08/charter-boat.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/09/vessels-bg.png",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/09/quintrex-top-ender-img-300x190.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2026/09/BarraorBlue-Boat-Open-1280x1707.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2026/09/BarraorBlue-Boat-Open-980x1307.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2026/09/BarraorBlue-Boat-Open-480x640.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2026/09/unnamed-6-480x360.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/09/25t-Contender-featured-480x328.png",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2026/09/barra-fishing-charter-1-1280x667.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2026/09/barra-fishing-charter-1-980x511.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2026/09/barra-fishing-charter-1-480x250.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2023/08/charter-boat-480x299.jpg",
+      "error": "HTTP 429"
+    },
+    {
+      "image": "https://barraorblue.com.au/wp-content/uploads/2026/08/contact-hero-banner.jpg",
+      "error": "HTTP 429"
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "slug": "ph-anglers-choice-fishing-safaris",
+  "request_hash": "fa8aa11d7de9",
+  "collected_at": "2026-11-09T02:29:19.946Z",
+  "pages_fetched": [
+    "https://www.anglerschoice.com.au/happy-snaps",
+    "https://www.anglerschoice.com.au/boats",
+    "https://www.anglerschoice.com.au/",
+    "https://www.anglerschoice.com.au/the-guides",
+    "https://www.anglerschoice.com.au/contact",
+    "https://www.anglerschoice.com.au/day-tour",
+    "https://www.anglerschoice.com.au/the-fishing"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1200,
+      "height": 900,
+      "original": "1200x900",
+      "source": "https://www.anglerschoice.com.au/uploads/xswW3aF1/IMG_4751-scaled.jpg",
+      "page": "https://www.anglerschoice.com.au/happy-snaps",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 800,
+      "height": 600,
+      "original": "800x600",
+      "source": "https://www.anglerschoice.com.au/uploads/rT8NuDq0/lounge_800_600_cy_c_c_80.jpg",
+      "page": "https://www.anglerschoice.com.au/happy-snaps",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1200,
+      "height": 900,
+      "original": "1200x900",
+      "source": "https://www.anglerschoice.com.au/uploads/isXgZvD3/Fact-Sheet-Pool-life-is-good-at-Beach-House-scaled.jpg",
+      "page": "https://www.anglerschoice.com.au/happy-snaps",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1200,
+      "height": 800,
+      "original": "1200x800",
+      "source": "https://www.anglerschoice.com.au/uploads/iXrb42tL/Accommodation-hero.jpg",
+      "page": "https://www.anglerschoice.com.au/happy-snaps",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1200,
+      "height": 900,
+      "original": "1200x900",
+      "source": "https://www.anglerschoice.com.au/uploads/q8rnLepJ/Fun-time-back-at-the-Beach-House-checking-out-the-days-catch.jpg",
+      "page": "https://www.anglerschoice.com.au/happy-snaps",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1125,
+      "height": 852,
+      "original": "1125x852",
+      "source": "https://www.anglerschoice.com.au/uploads/Tx3wxXG7/C95D886D-BBA2-4B3E-B00E-947FE9BF8ECA.jpg",
+      "page": "https://www.anglerschoice.com.au/happy-snaps",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1200,
+      "height": 811,
+      "original": "1200x811",
+      "source": "https://www.anglerschoice.com.au/uploads/fmdUz1Qp/Get-to-know-our-fleet.jpg",
+      "page": "https://www.anglerschoice.com.au/happy-snaps",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 720,
+      "height": 720,
+      "original": "720x720",
+      "source": "https://www.anglerschoice.com.au/uploads/l9DDHd8O/Big-RED-emporer-fish-with-Girl-1.jpg",
+      "page": "https://www.anglerschoice.com.au/happy-snaps",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 720,
+      "height": 720,
+      "original": "720x720",
+      "source": "https://www.anglerschoice.com.au/uploads/pF2AdU3A/Fact-Sheet-Barra-Couple-2.jpg",
+      "page": "https://www.anglerschoice.com.au/happy-snaps",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1200,
+      "height": 900,
+      "original": "1200x900",
+      "source": "https://www.anglerschoice.com.au/uploads/4QKKJNCM/IMG-1518.jpg",
+      "page": "https://www.anglerschoice.com.au/happy-snaps",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 2000,
+      "height": 1493,
+      "original": "4339x3238",
+      "source": "https://www.anglerschoice.com.au/uploads/A8nRTPnN/IMG_8463__msi___jpg.jpg",
+      "page": "https://www.anglerschoice.com.au/happy-snaps",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 2000,
+      "height": 1221,
+      "original": "3475x2121",
+      "source": "https://www.anglerschoice.com.au/uploads/J3nyKFnV/IMG_8501__msi___jpg.jpg",
+      "page": "https://www.anglerschoice.com.au/happy-snaps",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 2000,
+      "height": 1454,
+      "original": "4201x3054",
+      "source": "https://www.anglerschoice.com.au/uploads/kLcL3WMM/IMG_8477__msi___jpg.jpg",
+      "page": "https://www.anglerschoice.com.au/happy-snaps",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 2000,
+      "height": 1204,
+      "original": "3499x2106",
+      "source": "https://www.anglerschoice.com.au/uploads/KEvABRgU/IMG_8696__msi___jpg.jpg",
+      "page": "https://www.anglerschoice.com.au/happy-snaps",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 2000,
+      "height": 1297,
+      "original": "4238x2749",
+      "source": "https://www.anglerschoice.com.au/uploads/RNzTBP8Z/IMG_8612__msi___jpg.jpg",
+      "page": "https://www.anglerschoice.com.au/happy-snaps",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1154,
+      "height": 2000,
+      "original": "1290x2235",
+      "source": "https://www.anglerschoice.com.au/uploads/YTKKqe3o/IMG_4758__msi___jpg.jpg",
+      "page": "https://www.anglerschoice.com.au/happy-snaps",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.anglerschoice.com.au/happy-snaps",
+      "status": 200,
+      "final_url": "https://www.anglerschoice.com.au/happy-snaps",
+      "bytes": 101140
+    },
+    {
+      "page": "https://www.anglerschoice.com.au/boats",
+      "status": 200,
+      "final_url": "https://www.anglerschoice.com.au/boats",
+      "bytes": 82539
+    },
+    {
+      "page": "https://www.anglerschoice.com.au/",
+      "status": 200,
+      "final_url": "https://www.anglerschoice.com.au/",
+      "bytes": 88157
+    },
+    {
+      "page": "https://www.anglerschoice.com.au/the-guides",
+      "status": 200,
+      "final_url": "https://www.anglerschoice.com.au/the-guides",
+      "bytes": 96616
+    },
+    {
+      "page": "https://www.anglerschoice.com.au/contact",
+      "status": 200,
+      "final_url": "https://www.anglerschoice.com.au/contact",
+      "bytes": 76730
+    },
+    {
+      "page": "https://www.anglerschoice.com.au/day-tour",
+      "status": 200,
+      "final_url": "https://www.anglerschoice.com.au/day-tour",
+      "bytes": 89044
+    },
+    {
+      "page": "https://www.anglerschoice.com.au/the-fishing",
+      "status": 200,
+      "final_url": "https://www.anglerschoice.com.au/the-fishing",
+      "bytes": 85291
+    },
+    {
+      "image": "https://www.anglerschoice.com.au/",
+      "error": "Input buffer contains unsupported image format"
+    },
+    {
+      "image": "https://www.anglerschoice.com.au/uploads/fUVFrOCs/320x0_320x0/Anglers_Choice2-2.png",
+      "error": "too small 320x82"
+    },
+    {
+      "image": "https://www.anglerschoice.com.au/uploads/BYcPq4jf/IMG_2008__msi___jpg.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.anglerschoice.com.au/uploads/J8apEMLm/IMG_2315_542__msi___jpeg.jpeg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.anglerschoice.com.au/uploads/C1NHrKlR/Ocean_Master_Hero_Photo__msi___jpg.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.anglerschoice.com.au/uploads/Xk3VtHlG/Waverider_Drone__msi___jpg.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.anglerschoice.com.au/uploads/Z4tZVOx7/IMG_9339__msi___jpeg.jpeg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.anglerschoice.com.au/uploads/EblWakga/IMG_9093__msi___jpeg.jpeg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.anglerschoice.com.au/uploads/Y410NsYm/IMG_6914__msi___jpg.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.anglerschoice.com.au/uploads/rXBiPJKn/IMG_6715__msi___jpg.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.anglerschoice.com.au/uploads/YNxdjIyt/IMG_6266__msi___jpg.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.anglerschoice.com.au/uploads/Cwv9Cmce/IMG_4211__msi___jpeg.jpeg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.anglerschoice.com.au/uploads/i1xje97x/IMG_2477__msi___jpg.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.anglerschoice.com.au/uploads/kGPZ581U/IMG_0210__msi___jpg.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.anglerschoice.com.au/uploads/jQNtolOC/IMG_2315__msi___jpeg.jpeg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.anglerschoice.com.au/uploads/hrrZ3lUT/IMG_2475__msi___jpg.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.anglerschoice.com.au/uploads/92540AMD/IMG_8546__msi___jpg.jpg",
+      "error": "terminated"
+    },
+    {
+      "image": "https://www.anglerschoice.com.au/uploads/lIWoQles/IMG_8557__msi___jpg.jpg",
+      "error": "terminated"
+    },
+    {
+      "image": "https://www.anglerschoice.com.au/uploads/ekaHP5mH/IMG_8555__msi___jpg.jpg",
+      "error": "terminated"
+    },
+    {
+      "image": "https://www.anglerschoice.com.au/uploads/697v0Bh8/IMG_8742__msi___jpg.jpg",
+      "error": "terminated"
+    }
+  ]
+}

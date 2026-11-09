@@ -1,0 +1,230 @@
+{
+  "slug": "ph-kakadu-fishing-tours",
+  "request_hash": "5553f407b421",
+  "collected_at": "2026-11-09T02:29:34.179Z",
+  "pages_fetched": [
+    "https://www.kakadufishingtours.com.au/photo-gallery/",
+    "https://www.kakadufishingtours.com.au/",
+    "https://www.kakadufishingtours.com.au/our-equipment/",
+    "https://www.kakadufishingtours.com.au/about/",
+    "https://www.kakadufishingtours.com.au/contact-us/",
+    "https://www.kakadufishingtours.com.au/full-day-tours/",
+    "https://www.kakadufishingtours.com.au/half-day-tours/",
+    "https://www.kakadufishingtours.com.au/site-assets/",
+    "https://www.kakadufishingtours.com.au/thank-you/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1097,
+      "height": 731,
+      "original": "1097x731",
+      "source": "https://www.kakadufishingtours.com.au/wp-content/uploads/2018/08/D3S3462-135.jpg",
+      "page": "https://www.kakadufishingtours.com.au/photo-gallery/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 1097,
+      "height": 730,
+      "original": "1097x730",
+      "source": "https://www.kakadufishingtours.com.au/wp-content/uploads/2018/08/D3S3442-129.jpg",
+      "page": "https://www.kakadufishingtours.com.au/photo-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1097,
+      "height": 730,
+      "original": "1097x730",
+      "source": "https://www.kakadufishingtours.com.au/wp-content/uploads/2018/08/D3S3432-123.jpg",
+      "page": "https://www.kakadufishingtours.com.au/photo-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1097,
+      "height": 730,
+      "original": "1097x730",
+      "source": "https://www.kakadufishingtours.com.au/wp-content/uploads/2018/08/D3S3425-118.jpg",
+      "page": "https://www.kakadufishingtours.com.au/photo-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 730,
+      "height": 1097,
+      "original": "730x1097",
+      "source": "https://www.kakadufishingtours.com.au/wp-content/uploads/2018/08/D3S3420-116.jpg",
+      "page": "https://www.kakadufishingtours.com.au/photo-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1024,
+      "height": 576,
+      "original": "1024x576",
+      "source": "https://www.kakadufishingtours.com.au/wp-content/uploads/2018/08/the-boat.jpg",
+      "page": "https://www.kakadufishingtours.com.au/photo-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1024,
+      "height": 1024,
+      "original": "1024x1024",
+      "source": "https://www.kakadufishingtours.com.au/wp-content/uploads/2018/08/photo4jpg.jpg",
+      "page": "https://www.kakadufishingtours.com.au/photo-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1024,
+      "height": 768,
+      "original": "1024x768",
+      "source": "https://www.kakadufishingtours.com.au/wp-content/uploads/2018/08/my-fish-might-not-be.jpg",
+      "page": "https://www.kakadufishingtours.com.au/photo-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1024,
+      "height": 684,
+      "original": "1024x684",
+      "source": "https://www.kakadufishingtours.com.au/wp-content/uploads/2018/08/img-20180425-wa0036-largejpg.jpg",
+      "page": "https://www.kakadufishingtours.com.au/photo-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1097,
+      "height": 732,
+      "original": "1097x732",
+      "source": "https://www.kakadufishingtours.com.au/wp-content/uploads/2018/08/DSC_8077-150.jpg",
+      "page": "https://www.kakadufishingtours.com.au/photo-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1097,
+      "height": 732,
+      "original": "1097x732",
+      "source": "https://www.kakadufishingtours.com.au/wp-content/uploads/2018/08/DSC_8068-148.jpg",
+      "page": "https://www.kakadufishingtours.com.au/photo-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1097,
+      "height": 732,
+      "original": "1097x732",
+      "source": "https://www.kakadufishingtours.com.au/wp-content/uploads/2018/08/DSC_8064-147.jpg",
+      "page": "https://www.kakadufishingtours.com.au/photo-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1097,
+      "height": 732,
+      "original": "1097x732",
+      "source": "https://www.kakadufishingtours.com.au/wp-content/uploads/2018/08/DSC_8059-146.jpg",
+      "page": "https://www.kakadufishingtours.com.au/photo-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1097,
+      "height": 732,
+      "original": "1097x732",
+      "source": "https://www.kakadufishingtours.com.au/wp-content/uploads/2018/08/DSC_8056-145.jpg",
+      "page": "https://www.kakadufishingtours.com.au/photo-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1097,
+      "height": 732,
+      "original": "1097x732",
+      "source": "https://www.kakadufishingtours.com.au/wp-content/uploads/2018/08/DSC_8048-144.jpg",
+      "page": "https://www.kakadufishingtours.com.au/photo-gallery/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1097,
+      "height": 732,
+      "original": "1097x732",
+      "source": "https://www.kakadufishingtours.com.au/wp-content/uploads/2018/08/DSC_8023-138.jpg",
+      "page": "https://www.kakadufishingtours.com.au/photo-gallery/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.kakadufishingtours.com.au/photo-gallery/",
+      "status": 200,
+      "final_url": "https://www.kakadufishingtours.com.au/photo-gallery/",
+      "bytes": 264197
+    },
+    {
+      "page": "https://www.kakadufishingtours.com.au/",
+      "status": 200,
+      "final_url": "https://www.kakadufishingtours.com.au/",
+      "bytes": 210890
+    },
+    {
+      "page": "https://www.kakadufishingtours.com.au/our-equipment/",
+      "status": 200,
+      "final_url": "https://www.kakadufishingtours.com.au/our-equipment/",
+      "bytes": 206049
+    },
+    {
+      "page": "https://www.kakadufishingtours.com.au/about/",
+      "status": 200,
+      "final_url": "https://www.kakadufishingtours.com.au/about/",
+      "bytes": 205022
+    },
+    {
+      "page": "https://www.kakadufishingtours.com.au/contact-us/",
+      "status": 200,
+      "final_url": "https://www.kakadufishingtours.com.au/contact-us/",
+      "bytes": 145128
+    },
+    {
+      "page": "https://www.kakadufishingtours.com.au/full-day-tours/",
+      "status": 200,
+      "final_url": "https://www.kakadufishingtours.com.au/full-day-tours/",
+      "bytes": 194084
+    },
+    {
+      "page": "https://www.kakadufishingtours.com.au/half-day-tours/",
+      "status": 200,
+      "final_url": "https://www.kakadufishingtours.com.au/half-day-tours/",
+      "bytes": 208255
+    },
+    {
+      "page": "https://www.kakadufishingtours.com.au/site-assets/",
+      "status": 200,
+      "final_url": "https://www.kakadufishingtours.com.au/site-assets/",
+      "bytes": 200041
+    },
+    {
+      "page": "https://www.kakadufishingtours.com.au/thank-you/",
+      "status": 200,
+      "final_url": "https://www.kakadufishingtours.com.au/thank-you/",
+      "bytes": 210913
+    },
+    {
+      "image": "https://www.kakadufishingtours.com.au/wp-content/uploads/2018/08/D3S3462-135-150x150.jpg",
+      "error": "too small 150x150"
+    },
+    {
+      "image": "https://www.kakadufishingtours.com.au/wp-content/uploads/2018/08/fish-caught-2.jpg",
+      "error": "too small 450x600"
+    },
+    {
+      "image": "https://www.kakadufishingtours.com.au/wp-content/uploads/2018/08/fish-caught-2-150x150.jpg",
+      "error": "too small 150x150"
+    }
+  ]
+}

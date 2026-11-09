@@ -1,0 +1,214 @@
+{
+  "slug": "ph-tiwi-island-retreat",
+  "request_hash": "693e7128cde2",
+  "collected_at": "2026-11-09T02:30:02.249Z",
+  "pages_fetched": [
+    "https://tiwiislandretreat.com.au/gallery/",
+    "https://tiwiislandretreat.com.au/",
+    "https://tiwiislandretreat.com.au/about/",
+    "https://tiwiislandretreat.com.au/faq",
+    "https://tiwiislandretreat.com.au/p/fishing-adventure/",
+    "https://tiwiislandretreat.com.au/contact/",
+    "https://tiwiislandretreat.com.au/contact",
+    "https://tiwiislandretreat.com.au/faq/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 800,
+      "height": 500,
+      "original": "800x500",
+      "source": "https://tiwiislandretreat.com.au/assets/uploads/2022/05/Credit-Maxandfaye-DJI_0165-thegem-portfolio-metro.jpg",
+      "page": "https://tiwiislandretreat.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 692,
+      "height": 500,
+      "original": "692x500",
+      "source": "https://tiwiislandretreat.com.au/assets/uploads/2022/05/About_sec2_1080x780-thegem-portfolio-metro.jpg",
+      "page": "https://tiwiislandretreat.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 750,
+      "height": 500,
+      "original": "750x500",
+      "source": "https://tiwiislandretreat.com.au/assets/uploads/2022/06/Tiwi-Island-Retreat-Aussie-Fly-Fisher-3247-scaled-thegem-portfolio-metro.jpg",
+      "page": "https://tiwiislandretreat.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 750,
+      "height": 500,
+      "original": "750x500",
+      "source": "https://tiwiislandretreat.com.au/assets/uploads/2020/10/Gallery_LuxuryGlampingTents_1600x1000_002-thegem-portfolio-metro.jpg",
+      "page": "https://tiwiislandretreat.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 692,
+      "height": 500,
+      "original": "692x500",
+      "source": "https://tiwiislandretreat.com.au/assets/uploads/2022/05/Dining_1080x780_00-thegem-portfolio-metro.jpg",
+      "page": "https://tiwiislandretreat.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 800,
+      "height": 500,
+      "original": "800x500",
+      "source": "https://tiwiislandretreat.com.au/assets/uploads/2022/05/243336566_957052768213070_4991527130646333786_n-thegem-portfolio-metro.jpg",
+      "page": "https://tiwiislandretreat.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 800,
+      "height": 500,
+      "original": "800x500",
+      "source": "https://tiwiislandretreat.com.au/assets/uploads/2022/05/TIR-coasline-at-sunset-mandatory-credit-Tourism-NT-and-M-Fitz-Photo-4-thegem-portfolio-metro.jpg",
+      "page": "https://tiwiislandretreat.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 800,
+      "height": 500,
+      "original": "800x500",
+      "source": "https://tiwiislandretreat.com.au/assets/uploads/2020/10/Gallery_experience_1600x1000_204-1-thegem-portfolio-metro.jpg",
+      "page": "https://tiwiislandretreat.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 917,
+      "height": 500,
+      "original": "917x500",
+      "source": "https://tiwiislandretreat.com.au/assets/uploads/2020/10/banner_1320x720-thegem-portfolio-metro.jpg",
+      "page": "https://tiwiislandretreat.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 800,
+      "height": 500,
+      "original": "800x500",
+      "source": "https://tiwiislandretreat.com.au/assets/uploads/2022/05/114405-56-thegem-portfolio-metro.jpg",
+      "page": "https://tiwiislandretreat.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 800,
+      "height": 500,
+      "original": "800x500",
+      "source": "https://tiwiislandretreat.com.au/assets/uploads/2022/05/TIR-coasline-at-sunset-mandatory-credit-Tourism-NT-and-M-Fitz-Photo-9-thegem-portfolio-metro.jpg",
+      "page": "https://tiwiislandretreat.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 800,
+      "height": 500,
+      "original": "800x500",
+      "source": "https://tiwiislandretreat.com.au/assets/uploads/2020/10/Gallery_experience_1600x1000_205-thegem-portfolio-metro.jpg",
+      "page": "https://tiwiislandretreat.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1091,
+      "height": 500,
+      "original": "1091x500",
+      "source": "https://tiwiislandretreat.com.au/assets/uploads/2022/05/hero_008-thegem-portfolio-metro.jpg",
+      "page": "https://tiwiislandretreat.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 800,
+      "height": 500,
+      "original": "800x500",
+      "source": "https://tiwiislandretreat.com.au/assets/uploads/2022/05/039A8697-thegem-portfolio-metro.jpg",
+      "page": "https://tiwiislandretreat.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 800,
+      "height": 500,
+      "original": "800x500",
+      "source": "https://tiwiislandretreat.com.au/assets/uploads/2020/10/Gallery_ocean_rooms_1600x1000_002-thegem-portfolio-metro.jpg",
+      "page": "https://tiwiislandretreat.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 800,
+      "height": 500,
+      "original": "800x500",
+      "source": "https://tiwiislandretreat.com.au/assets/uploads/2022/05/Credit-Maxandfaye-2019-10-27-05.38.28-1-thegem-portfolio-metro.jpg",
+      "page": "https://tiwiislandretreat.com.au/gallery/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://tiwiislandretreat.com.au/gallery/",
+      "status": 200,
+      "final_url": "https://tiwiislandretreat.com.au/gallery/",
+      "bytes": 164252
+    },
+    {
+      "page": "https://tiwiislandretreat.com.au/",
+      "status": 200,
+      "final_url": "https://tiwiislandretreat.com.au/",
+      "bytes": 196393
+    },
+    {
+      "page": "https://tiwiislandretreat.com.au/about/",
+      "status": 200,
+      "final_url": "https://tiwiislandretreat.com.au/about/",
+      "bytes": 114471
+    },
+    {
+      "page": "https://tiwiislandretreat.com.au/faq",
+      "status": 200,
+      "final_url": "https://tiwiislandretreat.com.au/faq/",
+      "bytes": 137651
+    },
+    {
+      "page": "https://tiwiislandretreat.com.au/p/fishing-adventure/",
+      "status": 200,
+      "final_url": "https://tiwiislandretreat.com.au/p/fishing-adventure/",
+      "bytes": 144769
+    },
+    {
+      "page": "https://tiwiislandretreat.com.au/contact/",
+      "status": 200,
+      "final_url": "https://tiwiislandretreat.com.au/contact/",
+      "bytes": 112189
+    },
+    {
+      "page": "https://tiwiislandretreat.com.au/contact",
+      "status": 200,
+      "final_url": "https://tiwiislandretreat.com.au/contact/",
+      "bytes": 112189
+    },
+    {
+      "page": "https://tiwiislandretreat.com.au/faq/",
+      "status": 200,
+      "final_url": "https://tiwiislandretreat.com.au/faq/",
+      "bytes": 137651
+    },
+    {
+      "dup": "https://tiwiislandretreat.com.au/assets/uploads/2022/05/122357-56-thegem-portfolio-metro.jpg"
+    }
+  ]
+}

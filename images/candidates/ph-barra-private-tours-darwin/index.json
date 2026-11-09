@@ -1,0 +1,246 @@
+{
+  "slug": "ph-barra-private-tours-darwin",
+  "request_hash": "2124da68eb0e",
+  "collected_at": "2026-11-09T02:35:23.030Z",
+  "pages_fetched": [
+    "https://barraprivatetours.com.au/",
+    "https://barraprivatetours.com.au/blog/meet-our-vessel-guide/",
+    "https://barraprivatetours.com.au/about-us/",
+    "https://barraprivatetours.com.au/day-charter/",
+    "https://barraprivatetours.com.au/fishing-charters/half-day-shared/",
+    "https://barraprivatetours.com.au/fishing-charters/half-day-private/",
+    "https://barraprivatetours.com.au/fishing-charters/full-day-shared/",
+    "https://barraprivatetours.com.au/fishing-charters/full-day-private/",
+    "https://barraprivatetours.com.au/multiday-charters/",
+    "https://barraprivatetours.com.au/fishing-charters/multi-days-private-charter/",
+    "https://barraprivatetours.com.au/fishing-charters/multi-days-private-charters-dry-season/",
+    "https://barraprivatetours.com.au/fishing-charters/new-caledonia-7-days-6-nights/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 2000,
+      "height": 1124,
+      "original": "2048x1151",
+      "source": "https://barraprivatetours.com.au/wp-content/uploads/2026/10/582514596_1351265063211105_2253057928814366529_n.jpg",
+      "page": "https://barraprivatetours.com.au/",
+      "priority": true
+    },
+    {
+      "file": "c02.webp",
+      "width": 2000,
+      "height": 1126,
+      "original": "2000x1126",
+      "source": "https://barraprivatetours.com.au/wp-content/uploads/2026/10/306770064_159046833398141_1751273770075067275_n.jpg",
+      "page": "https://barraprivatetours.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1658,
+      "height": 933,
+      "original": "1658x933",
+      "source": "https://barraprivatetours.com.au/wp-content/uploads/2026/10/20220920_152505.jpg",
+      "page": "https://barraprivatetours.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1080,
+      "height": 720,
+      "original": "1080x720",
+      "source": "https://barraprivatetours.com.au/wp-content/uploads/2026/11/darwin-bayview-marina-base-bedroom.jpg",
+      "page": "https://barraprivatetours.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1080,
+      "height": 720,
+      "original": "1080x720",
+      "source": "https://barraprivatetours.com.au/wp-content/uploads/2026/11/new-caledonia-mahi-mahi.jpg",
+      "page": "https://barraprivatetours.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1658,
+      "height": 933,
+      "original": "1658x933",
+      "source": "https://barraprivatetours.com.au/wp-content/uploads/2026/10/20220817_154942-1.jpg",
+      "page": "https://barraprivatetours.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1658,
+      "height": 933,
+      "original": "1658x933",
+      "source": "https://barraprivatetours.com.au/wp-content/uploads/2026/10/20221015_161421-1.jpg",
+      "page": "https://barraprivatetours.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 2000,
+      "height": 1126,
+      "original": "2048x1153",
+      "source": "https://barraprivatetours.com.au/wp-content/uploads/2026/10/barramunid.jpg",
+      "page": "https://barraprivatetours.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 698,
+      "height": 698,
+      "original": "698x698",
+      "source": "https://barraprivatetours.com.au/wp-content/uploads/2026/10/IMG_20220825_143124_295.jpg",
+      "page": "https://barraprivatetours.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 2000,
+      "height": 1426,
+      "original": "2048x1460",
+      "source": "https://barraprivatetours.com.au/wp-content/uploads/2026/10/456433845_490275910304772_3368969047273816260_n.jpg",
+      "page": "https://barraprivatetours.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 2000,
+      "height": 1703,
+      "original": "2048x1744",
+      "source": "https://barraprivatetours.com.au/wp-content/uploads/2026/10/barramunid-tour.jpg",
+      "page": "https://barraprivatetours.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 2000,
+      "height": 1597,
+      "original": "2048x1635",
+      "source": "https://barraprivatetours.com.au/wp-content/uploads/2026/10/456241565_490275956971434_4788577775651790431_n.jpg",
+      "page": "https://barraprivatetours.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1389,
+      "height": 1227,
+      "original": "1389x1227",
+      "source": "https://barraprivatetours.com.au/wp-content/uploads/2026/10/barra.jpg",
+      "page": "https://barraprivatetours.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 2000,
+      "height": 1126,
+      "original": "2048x1153",
+      "source": "https://barraprivatetours.com.au/wp-content/uploads/2026/10/456449412_490271586971871_6013126060256340934_n.jpg",
+      "page": "https://barraprivatetours.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 2000,
+      "height": 1126,
+      "original": "2048x1153",
+      "source": "https://barraprivatetours.com.au/wp-content/uploads/2026/10/2-days-charter.jpg",
+      "page": "https://barraprivatetours.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 2000,
+      "height": 1126,
+      "original": "2048x1153",
+      "source": "https://barraprivatetours.com.au/wp-content/uploads/2026/10/456513650_490275456971484_1328713461848995685_n.jpg",
+      "page": "https://barraprivatetours.com.au/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://barraprivatetours.com.au/",
+      "status": 200,
+      "final_url": "https://barraprivatetours.com.au/",
+      "bytes": 189541
+    },
+    {
+      "page": "https://barraprivatetours.com.au/blog/meet-our-vessel-guide/",
+      "status": 200,
+      "final_url": "https://barraprivatetours.com.au/blog/meet-our-vessel-guide/",
+      "bytes": 66020
+    },
+    {
+      "page": "https://barraprivatetours.com.au/about-us/",
+      "status": 200,
+      "final_url": "https://barraprivatetours.com.au/about-us/",
+      "bytes": 106142
+    },
+    {
+      "page": "https://barraprivatetours.com.au/day-charter/",
+      "status": 200,
+      "final_url": "https://barraprivatetours.com.au/day-charter/",
+      "bytes": 82309
+    },
+    {
+      "page": "https://barraprivatetours.com.au/fishing-charters/half-day-shared/",
+      "status": 200,
+      "final_url": "https://barraprivatetours.com.au/fishing-charters/half-day-shared/",
+      "bytes": 89879
+    },
+    {
+      "page": "https://barraprivatetours.com.au/fishing-charters/half-day-private/",
+      "status": 200,
+      "final_url": "https://barraprivatetours.com.au/fishing-charters/half-day-private/",
+      "bytes": 87909
+    },
+    {
+      "page": "https://barraprivatetours.com.au/fishing-charters/full-day-shared/",
+      "status": 200,
+      "final_url": "https://barraprivatetours.com.au/fishing-charters/full-day-shared/",
+      "bytes": 88380
+    },
+    {
+      "page": "https://barraprivatetours.com.au/fishing-charters/full-day-private/",
+      "status": 200,
+      "final_url": "https://barraprivatetours.com.au/fishing-charters/full-day-private/",
+      "bytes": 88779
+    },
+    {
+      "page": "https://barraprivatetours.com.au/multiday-charters/",
+      "status": 200,
+      "final_url": "https://barraprivatetours.com.au/multiday-charters/",
+      "bytes": 84549
+    },
+    {
+      "page": "https://barraprivatetours.com.au/fishing-charters/multi-days-private-charter/",
+      "status": 200,
+      "final_url": "https://barraprivatetours.com.au/fishing-charters/multi-days-private-charter/",
+      "bytes": 95344
+    },
+    {
+      "page": "https://barraprivatetours.com.au/fishing-charters/multi-days-private-charters-dry-season/",
+      "status": 200,
+      "final_url": "https://barraprivatetours.com.au/fishing-charters/multi-days-private-charters-dry-season/",
+      "bytes": 94379
+    },
+    {
+      "page": "https://barraprivatetours.com.au/fishing-charters/new-caledonia-7-days-6-nights/",
+      "status": 200,
+      "final_url": "https://barraprivatetours.com.au/fishing-charters/new-caledonia-7-days-6-nights/",
+      "bytes": 125538
+    },
+    {
+      "dup": "https://barraprivatetours.com.au/wp-content/uploads/2026/10/582514596_1351265063211105_2253057928814366529_n-2000x1124.jpg"
+    },
+    {
+      "image": "https://barraprivatetours.com.au/wp-content/uploads/2026/11/nt-fishing-multiday-trip.png",
+      "error": "too small 561x447"
+    }
+  ]
+}

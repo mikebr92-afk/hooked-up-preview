@@ -1,0 +1,196 @@
+{
+  "slug": "ph-equinox-fishing-charters-darwin",
+  "request_hash": "b3ec1fd06bc8",
+  "collected_at": "2026-11-09T02:32:17.161Z",
+  "pages_fetched": [
+    "https://www.equinoxcharters.com.au/gallery/",
+    "https://www.equinoxcharters.com.au/our-boats/",
+    "https://www.equinoxcharters.com.au/",
+    "https://www.equinoxcharters.com.au/fishing-charters/",
+    "https://www.equinoxcharters.com.au/bookings/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1920,
+      "height": 805,
+      "original": "1920x805",
+      "source": "https://www.equinoxcharters.com.au/wp-content/uploads/Equinox-Fishing-Charters-Darwin.jpg",
+      "page": "https://www.equinoxcharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 1000,
+      "height": 800,
+      "original": "1000x800",
+      "source": "https://www.equinoxcharters.com.au/wp-content/uploads/extended-5.jpg",
+      "page": "https://www.equinoxcharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1000,
+      "height": 800,
+      "original": "1000x800",
+      "source": "https://www.equinoxcharters.com.au/wp-content/uploads/extended-3.jpg",
+      "page": "https://www.equinoxcharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1000,
+      "height": 800,
+      "original": "1000x800",
+      "source": "https://www.equinoxcharters.com.au/wp-content/uploads/extended-2.jpg",
+      "page": "https://www.equinoxcharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1000,
+      "height": 800,
+      "original": "1000x800",
+      "source": "https://www.equinoxcharters.com.au/wp-content/uploads/10-hour-6.jpg",
+      "page": "https://www.equinoxcharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1000,
+      "height": 800,
+      "original": "1000x800",
+      "source": "https://www.equinoxcharters.com.au/wp-content/uploads/10-hour-5.jpg",
+      "page": "https://www.equinoxcharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1000,
+      "height": 800,
+      "original": "1000x800",
+      "source": "https://www.equinoxcharters.com.au/wp-content/uploads/10-hour-4.jpg",
+      "page": "https://www.equinoxcharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1000,
+      "height": 800,
+      "original": "1000x800",
+      "source": "https://www.equinoxcharters.com.au/wp-content/uploads/10-hour-3.jpg",
+      "page": "https://www.equinoxcharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1000,
+      "height": 800,
+      "original": "1000x800",
+      "source": "https://www.equinoxcharters.com.au/wp-content/uploads/10-hour-2.jpg",
+      "page": "https://www.equinoxcharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1000,
+      "height": 800,
+      "original": "1000x800",
+      "source": "https://www.equinoxcharters.com.au/wp-content/uploads/10-hour-1.jpg",
+      "page": "https://www.equinoxcharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1000,
+      "height": 800,
+      "original": "1000x800",
+      "source": "https://www.equinoxcharters.com.au/wp-content/uploads/7-hour-5.jpg",
+      "page": "https://www.equinoxcharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 800,
+      "height": 600,
+      "original": "800x600",
+      "source": "https://www.equinoxcharters.com.au/wp-content/uploads/charter4.jpg",
+      "page": "https://www.equinoxcharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 800,
+      "height": 600,
+      "original": "800x600",
+      "source": "https://www.equinoxcharters.com.au/wp-content/uploads/charter1.jpg",
+      "page": "https://www.equinoxcharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1000,
+      "height": 800,
+      "original": "1000x800",
+      "source": "https://www.equinoxcharters.com.au/wp-content/uploads/7-hour-headerr.jpg",
+      "page": "https://www.equinoxcharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1170,
+      "height": 1282,
+      "original": "1170x1282",
+      "source": "https://www.equinoxcharters.com.au/wp-content/uploads/Coral-Trout-126kb.jpg",
+      "page": "https://www.equinoxcharters.com.au/gallery/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1495,
+      "height": 1503,
+      "original": "1495x1503",
+      "source": "https://www.equinoxcharters.com.au/wp-content/uploads/Coral-Trout.jpg",
+      "page": "https://www.equinoxcharters.com.au/gallery/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.equinoxcharters.com.au/gallery/",
+      "status": 200,
+      "final_url": "https://www.equinoxcharters.com.au/gallery/",
+      "bytes": 207685
+    },
+    {
+      "page": "https://www.equinoxcharters.com.au/our-boats/",
+      "status": 200,
+      "final_url": "https://www.equinoxcharters.com.au/our-boats/",
+      "bytes": 236882
+    },
+    {
+      "page": "https://www.equinoxcharters.com.au/",
+      "status": 200,
+      "final_url": "https://www.equinoxcharters.com.au/",
+      "bytes": 161516
+    },
+    {
+      "page": "https://www.equinoxcharters.com.au/fishing-charters/",
+      "status": 200,
+      "final_url": "https://www.equinoxcharters.com.au/fishing-charters/",
+      "bytes": 184613
+    },
+    {
+      "page": "https://www.equinoxcharters.com.au/bookings/",
+      "status": 200,
+      "final_url": "https://www.equinoxcharters.com.au/bookings/",
+      "bytes": 140511
+    },
+    {
+      "dup": "https://www.equinoxcharters.com.au/wp-content/uploads/full-day-header.jpg"
+    },
+    {
+      "dup": "https://www.equinoxcharters.com.au/wp-content/uploads/charter6.jpg"
+    }
+  ]
+}

@@ -1,0 +1,366 @@
+{
+  "slug": "ph-dhipirri-barra-and-sportfishing-lodge",
+  "request_hash": "8dffd5621e84",
+  "collected_at": "2026-11-09T02:40:29.982Z",
+  "pages_fetched": [
+    "https://dhipirribarra.com.au/",
+    "https://dhipirribarra.com.au/fishing/the-boats-and-tackle/",
+    "https://dhipirribarra.com.au/fishing/",
+    "https://dhipirribarra.com.au/fishing/the-fish/",
+    "https://dhipirribarra.com.au/fishing/the-rivers-and-islands/",
+    "https://dhipirribarra.com.au/fishing/the-team/",
+    "https://dhipirribarra.com.au/contact-us/",
+    "https://dhipirribarra.com.au/2026/10/every-metre-barramundi-caught-at-dhipirri-lodge-in-2026-available-boats/",
+    "https://dhipirribarra.com.au/2026/07/available-boats-at-dhipirri-barra-lodge-for-2nd-half-of-2026/",
+    "https://dhipirribarra.com.au/faqs-for-dhipirri-lodge/"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://dhipirribarra.com.au/wp-content/uploads/2018/12/1920x1080_DhipirriMedia_NewWebsiteBackground_Feb2021.jpg",
+      "page": "https://dhipirribarra.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://dhipirribarra.com.au/wp-content/uploads/2019/01/Team-1MBarra-Front.jpg",
+      "page": "https://dhipirribarra.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://dhipirribarra.com.au/wp-content/uploads/2026/05/1920x1080_DhipirriMedia_MetreClub_2026.jpg",
+      "page": "https://dhipirribarra.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://dhipirribarra.com.au/wp-content/uploads/2026/07/DhipirriMedia_2ndHalfAvailableDates_Header1_July2026.jpg",
+      "page": "https://dhipirribarra.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://dhipirribarra.com.au/wp-content/uploads/2026/05/1920x1080_DhipirriMedia_MontyMagicMetreDay_Header_May2026.jpg",
+      "page": "https://dhipirribarra.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1600,
+      "height": 1200,
+      "original": "1600x1200",
+      "source": "https://dhipirribarra.com.au/wp-content/uploads/2026/07/DhipirriMedia_Barrawrongside_June2026.jpg",
+      "page": "https://dhipirribarra.com.au/fishing/the-boats-and-tackle/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1024,
+      "height": 768,
+      "original": "1024x768",
+      "source": "https://dhipirribarra.com.au/wp-content/uploads/2022/06/1024x768_DhipirriMedia_BarCrusheronGlyde_March2022.jpg",
+      "page": "https://dhipirribarra.com.au/fishing/the-boats-and-tackle/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1600,
+      "height": 1200,
+      "original": "1600x1200",
+      "source": "https://dhipirribarra.com.au/wp-content/uploads/2026/06/DhipirriMedia_Staff_RyanGwynne2_2026.jpg",
+      "page": "https://dhipirribarra.com.au/fishing/the-boats-and-tackle/",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 768,
+      "height": 1024,
+      "original": "768x1024",
+      "source": "https://dhipirribarra.com.au/wp-content/uploads/2019/11/768x1024-DhipirriMedia_Tackle1.jpg",
+      "page": "https://dhipirribarra.com.au/fishing/the-boats-and-tackle/",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1024,
+      "height": 768,
+      "original": "1024x768",
+      "source": "https://dhipirribarra.com.au/wp-content/uploads/2019/11/1024x768-DhipirriMedia_ZerekShads1.jpg",
+      "page": "https://dhipirribarra.com.au/fishing/the-boats-and-tackle/",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 1024,
+      "height": 768,
+      "original": "1024x768",
+      "source": "https://dhipirribarra.com.au/wp-content/uploads/2019/11/1024x768-DhipirriMedia_TackleShop1.jpg",
+      "page": "https://dhipirribarra.com.au/fishing/the-boats-and-tackle/",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 1024,
+      "height": 768,
+      "original": "1024x768",
+      "source": "https://dhipirribarra.com.au/wp-content/uploads/2019/11/1024x768-DhipirriMedia_ZerekVibes1.jpg",
+      "page": "https://dhipirribarra.com.au/fishing/the-boats-and-tackle/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://dhipirribarra.com.au/wp-content/uploads/2019/02/1920-x-1080-Dhipirri-Boats-TrailersTwo.jpg",
+      "page": "https://dhipirribarra.com.au/fishing/the-boats-and-tackle/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://dhipirribarra.com.au/wp-content/uploads/2019/01/1920-x-1080-Dhipirri-Barra-BoatSideOn.jpg",
+      "page": "https://dhipirribarra.com.au/fishing/the-boats-and-tackle/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://dhipirribarra.com.au/wp-content/uploads/2018/12/dhipirri-barra-fishing-boat-arrival.jpg",
+      "page": "https://dhipirribarra.com.au/fishing/the-boats-and-tackle/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 1920,
+      "height": 1080,
+      "original": "1920x1080",
+      "source": "https://dhipirribarra.com.au/wp-content/uploads/2019/06/1920-x-1080-Dhipirri-Blog-BarraDoubleHeader2.jpg",
+      "page": "https://dhipirribarra.com.au/fishing/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://dhipirribarra.com.au/",
+      "status": 200,
+      "final_url": "https://dhipirribarra.com.au/",
+      "bytes": 77245
+    },
+    {
+      "page": "https://dhipirribarra.com.au/fishing/the-boats-and-tackle/",
+      "status": 200,
+      "final_url": "https://dhipirribarra.com.au/fishing/the-boats-and-tackle/",
+      "bytes": 60297
+    },
+    {
+      "page": "https://dhipirribarra.com.au/fishing/",
+      "status": 200,
+      "final_url": "https://dhipirribarra.com.au/fishing/",
+      "bytes": 50056
+    },
+    {
+      "page": "https://dhipirribarra.com.au/fishing/the-fish/",
+      "status": 200,
+      "final_url": "https://dhipirribarra.com.au/fishing/the-fish/",
+      "bytes": 82158
+    },
+    {
+      "page": "https://dhipirribarra.com.au/fishing/the-rivers-and-islands/",
+      "status": 200,
+      "final_url": "https://dhipirribarra.com.au/fishing/the-rivers-and-islands/",
+      "bytes": 76778
+    },
+    {
+      "page": "https://dhipirribarra.com.au/fishing/the-team/",
+      "status": 200,
+      "final_url": "https://dhipirribarra.com.au/fishing/the-team/",
+      "bytes": 88279
+    },
+    {
+      "page": "https://dhipirribarra.com.au/contact-us/",
+      "status": 200,
+      "final_url": "https://dhipirribarra.com.au/contact-us/",
+      "bytes": 66722
+    },
+    {
+      "page": "https://dhipirribarra.com.au/2026/10/every-metre-barramundi-caught-at-dhipirri-lodge-in-2026-available-boats/",
+      "status": 200,
+      "final_url": "https://dhipirribarra.com.au/2026/10/every-metre-barramundi-caught-at-dhipirri-lodge-in-2026-available-boats/",
+      "bytes": 113651
+    },
+    {
+      "page": "https://dhipirribarra.com.au/2026/07/available-boats-at-dhipirri-barra-lodge-for-2nd-half-of-2026/",
+      "status": 200,
+      "final_url": "https://dhipirribarra.com.au/2026/07/available-boats-at-dhipirri-barra-lodge-for-2nd-half-of-2026/",
+      "bytes": 62021
+    },
+    {
+      "page": "https://dhipirribarra.com.au/faqs-for-dhipirri-lodge/",
+      "status": 200,
+      "final_url": "https://dhipirribarra.com.au/2026/01/faqs-for-dhipirri-lodge/",
+      "bytes": 68819
+    },
+    {
+      "dup": "https://dhipirribarra.com.au/wp-content/uploads/2018/12/1920x1080_DhipirriMedia_NewWebsiteBackground_Feb2021-768x432.jpg"
+    },
+    {
+      "image": "https://scontent-syd2-1.cdninstagram.com/v/t51.82787-15/879932564_18349390912284553_6351987266282894961_n.jpg?stp=dst-jpg_e35_tt6&#038;_nc_cat=104&#038;_nc_map=urlgen_bucketless&#038;ccb=7-5&#038;_nc_sid=18de74&#038;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&#038;_nc_ohc=QCKZxB48jewQ7kNvwHKRbAj&#038;_nc_oc=Ado-IX2Ipn4W0Qige4ZCHoaj4B67yE1olk1slQdyW6rgyBGGSJaR9lrth6Os-zWqLZu2JLKn-iRq-Dct5naSBQw_&#038;_nc_zt=23&#038;_nc_ht=scontent-syd2-1.cdninstagram.com&#038;edm=AFF3FJ0EAAAA&#038;_nc_gid=pDUgm7SHP0JTxXELnp4O5Q&#038;oh=00_AQRko_Sysy6XZnONKAi6V7Z6Jn4WO1kta3vxHiMsAja--Q&#038;oe=6AF6CAE7",
+      "error": "HTTP 403"
+    },
+    {
+      "image": "https://scontent-syd2-1.cdninstagram.com/v/t51.71878-15/868258370_2635970916844006_95401579930817673_n.jpg?stp=dst-jpg_e35_tt6&#038;_nc_cat=109&#038;_nc_map=urlgen_bucketless&#038;ccb=7-5&#038;_nc_sid=18de74&#038;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&#038;_nc_ohc=-8Mw3mGg3H0Q7kNvwGyUgGf&#038;_nc_oc=AdpHHVLLRj_bPWm5hH18sTTPP5tWdnYcSUVwddavwqK2HqNyaA8AqQHPurncPjp1tYFFCYjuj4bva4Fcewl7SVv2&#038;_nc_zt=23&#038;_nc_ht=scontent-syd2-1.cdninstagram.com&#038;edm=AFF3FJ0EAAAA&#038;_nc_gid=pDUgm7SHP0JTxXELnp4O5Q&#038;_nc_tpa=Q5bMBQIU5VBwyVfeUbMc55Q9HHjyY3cnidkVMnO-k1C140tujKt2--RqcFI3Nm9Ax9NS-E-EjiIBfvUn&#038;oh=00_AQR52swI__VGGRb-FWHILFThYlGwI-ZT6juHei8PpximnQ&#038;oe=6AF6A3C8",
+      "error": "HTTP 403"
+    },
+    {
+      "image": "https://scontent-syd2-1.cdninstagram.com/v/t51.82787-15/865421055_18348469054284553_2609725703328922446_n.jpg?stp=dst-jpg_e35_tt6&#038;_nc_cat=108&#038;_nc_map=urlgen_bucketless&#038;ccb=7-5&#038;_nc_sid=18de74&#038;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&#038;_nc_ohc=PPwPP0usUA8Q7kNvwHeiP8P&#038;_nc_oc=Adp2uSNyne2QTJnn6MnHTJjkdV7cBHBEWYWIoYz9Ao1WZKiF03jVu2OMMhnVqA3Ig3O1nvciN9ANHj7on3u7khaZ&#038;_nc_zt=23&#038;_nc_ht=scontent-syd2-1.cdninstagram.com&#038;edm=AFF3FJ0EAAAA&#038;_nc_gid=pDUgm7SHP0JTxXELnp4O5Q&#038;oh=00_AQQ3pVBdkPlboMsxQnwBYKuVGFU9rpAi8nvb4u24lb7OGg&#038;oe=6AF6A542",
+      "error": "HTTP 403"
+    },
+    {
+      "image": "https://scontent-syd2-1.cdninstagram.com/v/t51.82787-15/858088210_18347277394284553_8901762350970362338_n.jpg?stp=dst-jpg_e35_tt6&#038;_nc_cat=110&#038;_nc_map=urlgen_bucketless&#038;ccb=7-5&#038;_nc_sid=18de74&#038;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&#038;_nc_ohc=nT3gug1ESoAQ7kNvwEy161a&#038;_nc_oc=Adqb-riBuPc66WA06dIL3Y1ne7lhB88cAWFBkQGsiYKa6rSOy99V5lhMl13Z4l8iM9E7nyhnOuJWf1Ol6jevqo1T&#038;_nc_zt=23&#038;_nc_ht=scontent-syd2-1.cdninstagram.com&#038;edm=AFF3FJ0EAAAA&#038;_nc_gid=pDUgm7SHP0JTxXELnp4O5Q&#038;oh=00_AQQGZD_Ig53b9hUjQXOoapmF2RdkW-ZPao0IhsBvhJAKdg&#038;oe=6AF6AE3B",
+      "error": "HTTP 403"
+    },
+    {
+      "image": "https://dhipirribarra.com.au/wp-content/uploads/2026/05/1920x1080_DhipirriMedia_MetreClub_2026-300x169.jpg",
+      "error": "too small 300x169"
+    },
+    {
+      "image": "https://dhipirribarra.com.au/wp-content/uploads/2026/07/DhipirriMedia_2ndHalfAvailableDates_Header1_July2026-300x169.jpg",
+      "error": "too small 300x169"
+    },
+    {
+      "image": "https://dhipirribarra.com.au/wp-content/uploads/2026/05/1920x1080_DhipirriMedia_MontyMagicMetreDay_Header_May2026-300x169.jpg",
+      "error": "too small 300x169"
+    },
+    {
+      "dup": "https://dhipirribarra.com.au/wp-content/uploads/2019/12/1024x768_DhipirriMedia_TonyMinDhipirriBoat.jpg"
+    },
+    {
+      "image": "http://163.53.230.11/~dhipirri/wp-content/uploads/2019/02/1920-x-1080-Dhipirri-Boats-TrailersTwo.jpg",
+      "error": "fetch failed"
+    },
+    {
+      "image": "http://163.53.230.11/~dhipirri/wp-content/uploads/2019/01/1920-x-1080-Dhipirri-Barra-BoatSideOn.jpg",
+      "error": "fetch failed"
+    },
+    {
+      "image": "http://163.53.230.11/~dhipirri/wp-content/uploads/2018/12/dhipirri-barra-fishing-boat-arrival.jpg",
+      "error": "fetch failed"
+    },
+    {
+      "image": "https://dhipirribarra.com.au/wp-content/uploads/2019/12/1024x768_DhipirriMedia_TonyMinDhipirriBoat-300x225.jpg",
+      "error": "too small 300x225"
+    },
+    {
+      "dup": "https://dhipirribarra.com.au/wp-content/uploads/2019/12/1024x768_DhipirriMedia_TonyMinDhipirriBoat-768x576.jpg"
+    },
+    {
+      "image": "https://dhipirribarra.com.au/wp-content/uploads/2026/07/DhipirriMedia_Barrawrongside_June2026-300x225.jpg",
+      "error": "too small 300x225"
+    },
+    {
+      "dup": "https://dhipirribarra.com.au/wp-content/uploads/2026/07/DhipirriMedia_Barrawrongside_June2026-1024x768.jpg"
+    },
+    {
+      "dup": "https://dhipirribarra.com.au/wp-content/uploads/2026/07/DhipirriMedia_Barrawrongside_June2026-768x576.jpg"
+    },
+    {
+      "dup": "https://dhipirribarra.com.au/wp-content/uploads/2026/07/DhipirriMedia_Barrawrongside_June2026-1536x1152.jpg"
+    },
+    {
+      "image": "https://dhipirribarra.com.au/wp-content/uploads/2022/06/1024x768_DhipirriMedia_BarCrusheronGlyde_March2022-300x225.jpg",
+      "error": "too small 300x225"
+    },
+    {
+      "dup": "https://dhipirribarra.com.au/wp-content/uploads/2022/06/1024x768_DhipirriMedia_BarCrusheronGlyde_March2022-768x576.jpg"
+    },
+    {
+      "image": "https://dhipirribarra.com.au/wp-content/uploads/2019/02/1920-x-1080-Dhipirri-Boats-TrailersTwo-300x169.jpg",
+      "error": "too small 300x169"
+    },
+    {
+      "dup": "https://dhipirribarra.com.au/wp-content/uploads/2019/02/1920-x-1080-Dhipirri-Boats-TrailersTwo-768x432.jpg"
+    },
+    {
+      "dup": "https://dhipirribarra.com.au/wp-content/uploads/2019/02/1920-x-1080-Dhipirri-Boats-TrailersTwo-1024x576.jpg"
+    },
+    {
+      "image": "https://dhipirribarra.com.au/wp-content/uploads/2019/01/1920-x-1080-Dhipirri-Barra-BoatSideOn-300x169.jpg",
+      "error": "too small 300x169"
+    },
+    {
+      "dup": "https://dhipirribarra.com.au/wp-content/uploads/2019/01/1920-x-1080-Dhipirri-Barra-BoatSideOn-768x432.jpg"
+    },
+    {
+      "dup": "https://dhipirribarra.com.au/wp-content/uploads/2019/01/1920-x-1080-Dhipirri-Barra-BoatSideOn-1024x576.jpg"
+    },
+    {
+      "image": "https://dhipirribarra.com.au/wp-content/uploads/2026/06/DhipirriMedia_Staff_RyanGwynne2_2026-300x225.jpg",
+      "error": "too small 300x225"
+    },
+    {
+      "dup": "https://dhipirribarra.com.au/wp-content/uploads/2026/06/DhipirriMedia_Staff_RyanGwynne2_2026-1024x768.jpg"
+    },
+    {
+      "dup": "https://dhipirribarra.com.au/wp-content/uploads/2026/06/DhipirriMedia_Staff_RyanGwynne2_2026-768x576.jpg"
+    },
+    {
+      "dup": "https://dhipirribarra.com.au/wp-content/uploads/2026/06/DhipirriMedia_Staff_RyanGwynne2_2026-1536x1152.jpg"
+    },
+    {
+      "image": "https://dhipirribarra.com.au/wp-content/uploads/2018/12/dhipirri-barra-fishing-boat-arrival-300x169.jpg",
+      "error": "too small 300x169"
+    },
+    {
+      "dup": "https://dhipirribarra.com.au/wp-content/uploads/2018/12/dhipirri-barra-fishing-boat-arrival-768x432.jpg"
+    },
+    {
+      "dup": "https://dhipirribarra.com.au/wp-content/uploads/2018/12/dhipirri-barra-fishing-boat-arrival-1024x576.jpg"
+    },
+    {
+      "image": "https://dhipirribarra.com.au/wp-content/uploads/2019/11/768x1024-DhipirriMedia_Tackle1-225x300.jpg",
+      "error": "too small 225x300"
+    },
+    {
+      "image": "https://dhipirribarra.com.au/wp-content/uploads/2019/11/1024x768-DhipirriMedia_ZerekShads1-300x225.jpg",
+      "error": "too small 300x225"
+    },
+    {
+      "dup": "https://dhipirribarra.com.au/wp-content/uploads/2019/11/1024x768-DhipirriMedia_ZerekShads1-768x576.jpg"
+    },
+    {
+      "image": "https://dhipirribarra.com.au/wp-content/uploads/2019/11/1024x768-DhipirriMedia_TackleShop1-300x225.jpg",
+      "error": "too small 300x225"
+    },
+    {
+      "dup": "https://dhipirribarra.com.au/wp-content/uploads/2019/11/1024x768-DhipirriMedia_TackleShop1-768x576.jpg"
+    },
+    {
+      "image": "https://dhipirribarra.com.au/wp-content/uploads/2019/11/1024x768-DhipirriMedia_ZerekVibes1-300x225.jpg",
+      "error": "too small 300x225"
+    },
+    {
+      "dup": "https://dhipirribarra.com.au/wp-content/uploads/2019/11/1024x768-DhipirriMedia_ZerekVibes1-768x576.jpg"
+    }
+  ]
+}

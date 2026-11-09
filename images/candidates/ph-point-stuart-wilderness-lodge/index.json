@@ -1,0 +1,331 @@
+{
+  "slug": "ph-point-stuart-wilderness-lodge",
+  "request_hash": "e29d46e67653",
+  "collected_at": "2026-11-09T02:28:22.050Z",
+  "pages_fetched": [
+    "https://www.pointstuart.com.au/barramundi-fishing",
+    "https://www.pointstuart.com.au/",
+    "https://www.pointstuart.com.au/boat-tackle-hire",
+    "https://www.pointstuart.com.au/contact",
+    "https://www.pointstuart.com.au/birding-wildlife-tours",
+    "https://www.pointstuart.com.au/4wd-safari-tour",
+    "https://www.pointstuart.com.au/about",
+    "https://www.pointstuart.com.au/tours"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1000,
+      "height": 750,
+      "original": "1000x750",
+      "source": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1549988065813-01MQMDBF2XY17PEKK6XN/Tim+OGrady.jpg?format=2500w",
+      "page": "https://www.pointstuart.com.au/barramundi-fishing",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 1000,
+      "height": 750,
+      "original": "1000x750",
+      "source": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1549988066713-LBSP064UZKQH25WTADYZ/Deans+phone+photos+344.jpg?format=2500w",
+      "page": "https://www.pointstuart.com.au/barramundi-fishing",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1000,
+      "height": 667,
+      "original": "1000x667",
+      "source": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1549982038270-ALIATX83AWR5BON70JNX/Fishing+runoff+2018.jpg?format=2500w",
+      "page": "https://www.pointstuart.com.au/barramundi-fishing",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 1000,
+      "height": 750,
+      "original": "1000x750",
+      "source": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1550549387944-3P4S58U512B3ZELKZYYH/011.jpg?format=2500w",
+      "page": "https://www.pointstuart.com.au/barramundi-fishing",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 1000,
+      "height": 563,
+      "original": "1000x563",
+      "source": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1549988010438-JKS1124P1IUG01M0L3ED/096.jpg?format=2500w",
+      "page": "https://www.pointstuart.com.au/barramundi-fishing",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 1000,
+      "height": 750,
+      "original": "1000x750",
+      "source": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1549988014265-B47S6PKZLBDCILNPENOX/20180410_112446.jpg?format=2500w",
+      "page": "https://www.pointstuart.com.au/barramundi-fishing",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 1000,
+      "height": 750,
+      "original": "1000x750",
+      "source": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1549988017746-5U2JKRYJNS43VDJQ64NN/Deans+phone+photos+274.jpg?format=2500w",
+      "page": "https://www.pointstuart.com.au/barramundi-fishing",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 1400,
+      "height": 788,
+      "original": "1400x788",
+      "source": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1578289462457-9PW5YGKFHMJ0XWXB7BPF/DJI_0034.JPG?format=2500w",
+      "page": "https://www.pointstuart.com.au/barramundi-fishing",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 1239,
+      "height": 823,
+      "original": "1239x823",
+      "source": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1578289658589-2YEDS3G53OUC3UQLS4M2/233.jpg?format=2500w",
+      "page": "https://www.pointstuart.com.au/barramundi-fishing",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 1000,
+      "height": 563,
+      "original": "1000x563",
+      "source": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1549987160868-Y03YCRGMHNKRJQCW5CC4/screen_4801ff82b08190b0_1493528407000.jpg?format=2500w",
+      "page": "https://www.pointstuart.com.au/barramundi-fishing",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 2000,
+      "height": 1334,
+      "original": "2500x1667",
+      "source": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1626064716340-8PKKIRJBFWSZETOSRJ5Q/New+Jumping+Pillow.JPG?format=2500w",
+      "page": "https://www.pointstuart.com.au/barramundi-fishing",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 2000,
+      "height": 855,
+      "original": "2500x1069",
+      "source": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1778460777252-HKRRF1JWOPI7HCZ08MMT/20260313_192211.jpg?format=2500w",
+      "page": "https://www.pointstuart.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 2000,
+      "height": 990,
+      "original": "2500x1237",
+      "source": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1778461142361-07RIZ2OVDGNC9LJZ6QT6/20260326_144548.jpg?format=2500w",
+      "page": "https://www.pointstuart.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 2000,
+      "height": 1125,
+      "original": "2500x1406",
+      "source": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1778461710520-Z9IAE1AXANQVIXGKHAFK/PSWL+6.jpeg?format=2500w",
+      "page": "https://www.pointstuart.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 2000,
+      "height": 1218,
+      "original": "2500x1523",
+      "source": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1778461582792-1FLBMZBYQWL9D49DHS7I/Cruise+early+morning+-+Copy.jpg?format=2500w",
+      "page": "https://www.pointstuart.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 2000,
+      "height": 1157,
+      "original": "2313x1338",
+      "source": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1553751968174-YPEIOFZD2K74ZM3E05KY/Lodge+room.JPG?format=2500w",
+      "page": "https://www.pointstuart.com.au/",
+      "priority": false
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.pointstuart.com.au/barramundi-fishing",
+      "status": 200,
+      "final_url": "https://www.pointstuart.com.au/barramundi-fishing",
+      "bytes": 164416
+    },
+    {
+      "page": "https://www.pointstuart.com.au/",
+      "status": 200,
+      "final_url": "https://www.pointstuart.com.au/",
+      "bytes": 137136
+    },
+    {
+      "page": "https://www.pointstuart.com.au/boat-tackle-hire",
+      "status": 200,
+      "final_url": "https://www.pointstuart.com.au/boat-tackle-hire",
+      "bytes": 113352
+    },
+    {
+      "page": "https://www.pointstuart.com.au/contact",
+      "status": 200,
+      "final_url": "https://www.pointstuart.com.au/contact",
+      "bytes": 135251
+    },
+    {
+      "page": "https://www.pointstuart.com.au/birding-wildlife-tours",
+      "status": 200,
+      "final_url": "https://www.pointstuart.com.au/birding-wildlife-tours",
+      "bytes": 165554
+    },
+    {
+      "page": "https://www.pointstuart.com.au/4wd-safari-tour",
+      "status": 200,
+      "final_url": "https://www.pointstuart.com.au/4wd-safari-tour",
+      "bytes": 143044
+    },
+    {
+      "page": "https://www.pointstuart.com.au/about",
+      "status": 200,
+      "final_url": "https://www.pointstuart.com.au/our-history",
+      "bytes": 139170
+    },
+    {
+      "page": "https://www.pointstuart.com.au/tours",
+      "status": 200,
+      "final_url": "https://www.pointstuart.com.au/barramundi-fishing",
+      "bytes": 164416
+    },
+    {
+      "image": "https://static1.squarespace.com/static/5c5eea3290f904ec7d82ead6/t/5c8138c84e17b66aace2dca7/1791341559081/",
+      "error": "too small 960x323"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1549986301236-GU6Q3O7USH9YB6EWJHY5/Love+Creek+2.jpg?format=2500w",
+      "error": "too small 1000x370"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1549986301236-GU6Q3O7USH9YB6EWJHY5/Love+Creek+2.jpg",
+      "error": "too small 1000x370"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1549988010109-C7NNA3WM0CU54IYJPLMJ/372.jpg?format=2500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1549988065813-01MQMDBF2XY17PEKK6XN/Tim+OGrady.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1549988066713-LBSP064UZKQH25WTADYZ/Deans+phone+photos+344.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1549982038270-ALIATX83AWR5BON70JNX/Fishing+runoff+2018.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1550549387944-3P4S58U512B3ZELKZYYH/011.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1549986301236-GU6Q3O7USH9YB6EWJHY5/Love+Creek+2.jpg?format=100w",
+      "error": "too small 100x37"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1549986301236-GU6Q3O7USH9YB6EWJHY5/Love+Creek+2.jpg?format=300w",
+      "error": "too small 300x111"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1549986301236-GU6Q3O7USH9YB6EWJHY5/Love+Creek+2.jpg?format=500w",
+      "error": "too small 500x185"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1549986301236-GU6Q3O7USH9YB6EWJHY5/Love+Creek+2.jpg?format=750w",
+      "error": "too small 750x278"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1549986301236-GU6Q3O7USH9YB6EWJHY5/Love+Creek+2.jpg?format=1000w",
+      "error": "too small 1000x370"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1549986301236-GU6Q3O7USH9YB6EWJHY5/Love+Creek+2.jpg?format=1500w",
+      "error": "too small 1000x370"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1549988010438-JKS1124P1IUG01M0L3ED/096.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1549988010109-C7NNA3WM0CU54IYJPLMJ/372.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1549988014265-B47S6PKZLBDCILNPENOX/20180410_112446.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1549988017746-5U2JKRYJNS43VDJQ64NN/Deans+phone+photos+274.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1578289462457-9PW5YGKFHMJ0XWXB7BPF/DJI_0034.JPG"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1578289658589-2YEDS3G53OUC3UQLS4M2/233.jpg"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1549987160868-Y03YCRGMHNKRJQCW5CC4/screen_4801ff82b08190b0_1493528407000.jpg"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1549987160868-Y03YCRGMHNKRJQCW5CC4/screen_4801ff82b08190b0_1493528407000.jpg?format=100w",
+      "error": "too small 100x56"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1549987160868-Y03YCRGMHNKRJQCW5CC4/screen_4801ff82b08190b0_1493528407000.jpg?format=300w",
+      "error": "too small 300x169"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1549987160868-Y03YCRGMHNKRJQCW5CC4/screen_4801ff82b08190b0_1493528407000.jpg?format=500w",
+      "error": "too small 500x282"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1549987160868-Y03YCRGMHNKRJQCW5CC4/screen_4801ff82b08190b0_1493528407000.jpg?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1549987160868-Y03YCRGMHNKRJQCW5CC4/screen_4801ff82b08190b0_1493528407000.jpg?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1549987160868-Y03YCRGMHNKRJQCW5CC4/screen_4801ff82b08190b0_1493528407000.jpg?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1626064716340-8PKKIRJBFWSZETOSRJ5Q/New+Jumping+Pillow.JPG"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1626064716340-8PKKIRJBFWSZETOSRJ5Q/New+Jumping+Pillow.JPG?format=100w",
+      "error": "too small 100x67"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1626064716340-8PKKIRJBFWSZETOSRJ5Q/New+Jumping+Pillow.JPG?format=300w",
+      "error": "too small 300x200"
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1626064716340-8PKKIRJBFWSZETOSRJ5Q/New+Jumping+Pillow.JPG?format=500w",
+      "error": "too small 500x333"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1626064716340-8PKKIRJBFWSZETOSRJ5Q/New+Jumping+Pillow.JPG?format=750w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1626064716340-8PKKIRJBFWSZETOSRJ5Q/New+Jumping+Pillow.JPG?format=1000w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1626064716340-8PKKIRJBFWSZETOSRJ5Q/New+Jumping+Pillow.JPG?format=1500w"
+    },
+    {
+      "dup": "https://images.squarespace-cdn.com/content/v1/5c5eea3290f904ec7d82ead6/1778461850598-CKWONK1N3QOCZQTG82G4/PXL_20240519_084653491%7E2.jpg?format=2500w"
+    }
+  ]
+}
