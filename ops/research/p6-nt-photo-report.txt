@@ -1,0 +1,68 @@
+NT photo and details audit (checked 2026-11-09)
+================================================
+Method: fetched every operator's own site (pipeline branch operator-images/state-nt-photos, max:16, follow:true;
+Obsession retried after a 503). Matched every current photo by perceptual hash against today's candidates and the
+earlier NT rounds' candidates, so each photo's origin page is known. All 24 listings have 4-5 accurate photos after this
+round. Hero order is catch first wherever the operator has one. No stock, AI, logos, flyers, watermarks or child-led
+photos are used. WebSearch used: 0 of 10.
+
+PER LISTING (verdict: why)
+--- Mary River (priority) ---
+obsession-fishing-safaris: improve. Hero changed from a wide shot of the boat in floodplain grass to a client with a big barra; added a 5th barra (1940px). All from obsessionfishing.com.au.
+point-stuart-wilderness-lodge: improve. New hero, a sharp big-barra close-up from the Barramundi Fishing page; added a catch shot in a Point Stuart branded boat; dropped the distant netting shot (04).
+estuary-escapes-fishing-charters: improve. New hero, a client with a much bigger barra (1200px gallery photo); added a second barra; saratoga shots kept.
+just-doon-it-fishing-charters: improve (reorder). Hero now the skipper with a big barra (was a distant boat shot); then a second barra, the boat, and the mothership. All on justdoonit.com.au.
+--- Darwin ---
+barra-or-blue-fishing-charters-darwin: improve. Barra catch now leads. Removed 03: a heavily edited image of an unliveried boat (it looks composited) from the NT Tourism listing, not on the operator's site. Added three real catches on the liveried boat or offshore from barraorblue.com.au.
+barra-private-tours-darwin: improve. Already strong; added two 2000px barra catches from the operator's 2026 homepage.
+darwin-harbour-fishing-charters: improve. Hero now a single angler with a big jewfish (was a distant group-on-boat shot); added barra and jewfish from the operator's NT Tourism listing.
+equinox-fishing-charters-darwin: improve (reorder). Hero now a jewfish with a crew member in an Equinox shirt (was an aerial of the boat). All 4 confirmed on equinoxcharters.com.au.
+offshore-boats-darwin: unchanged. Jewfish hero; all 4 confirmed on offshoreboats.com.au.
+river-and-reef-fishing-charters: unchanged. Barra hero; Beagle Gulf boat; all 4 confirmed on riverandreef.com.au.
+yknot-fishing-charters: unchanged. Golden snapper hero; two Yknot liveried boats; all 4 confirmed on yknot.com.au.
+--- Daly River ---
+humbug-fishing-darwin: unchanged. Barra group hero; all 4 confirmed on fishingcharterdarwin.com.au. Skipped the site's "Deadly" boat photos in a gorge (its Kimberley, WA trip).
+nt-fish-and-4x4: improve. Hero now a client with a big barra (911x942; centering raised so the face stays in the card crop); the yard/trailer shot is swapped for the site's 2000px branded rig in the bush.
+--- Dundee ---
+anglers-choice-fishing-safaris: replace. Hero was a boat-wake shot; now a 2000px barra. Dropped the 640px sailfish (too small) and the 960px parrotfish group; added 3 catches (barra, Spanish mackerel, golden snapper) from the Happy Snaps gallery.
+dundee-beach-fishing-charters: improve. Kept the barra hero (sharp; the low sharpness score is shallow depth of field); added a second barra (2000px) from the gallery.
+--- Kakadu ---
+dna-barra-fishing: improve. Hero now a client with a barra beside the D.N.A. branded console (was a small distant jumping fish); added a big barra (5 photos).
+kakadu-fishing-tours: improve. Kept the three 800px barra catches; replaced the 800px boat shot with two 1097px branded-boat action shots from the current gallery.
+--- Tiwi Islands ---
+alure-fishing-charters-nt: unchanged. Jewfish group hero; all 4 confirmed on alurefishingchartersnt.com.au. (The site's own hero image shows a northern pike, not an NT fish, so it was not used.)
+tiwi-island-retreat: improve. Had only one fishing photo. New hero from the Fishing Adventure page (two guests with a big jewfish); added the retreat's boat under the red cliffs. Skipped a photo where a child is a main subject.
+--- Arnhem Land ---
+australian-sportfishing-charters: improve. Added two NT catches (reef fish from a tender, mangrove jack). Skipped the marlin photos, which are from its Cairns (QLD) season.
+cobourg-fishing-safaris: improve. Removed 02: the aerial came from venturenorth.com.au (a related company). Replaced it with the same scene from Cobourg's own 2026 homepage, at 1920px.
+dhipirri-barra-and-sportfishing-lodge: unchanged. Strong barra set; all 4 confirmed on dhipirribarra.com.au.
+obj-adventures-nhulunbuy-fishing-charters: improve. Seated no-fish group shot (04) replaced with a big jewfish from OBJ's photos page.
+--- Gulf ---
+groote-eylandt-sports-fishing: unchanged. Barracuda hero; all 4 confirmed on gelnt.com.au.
+
+DETAILS (details.json)
+- dna-barra-fishing: facebook -> https://www.facebook.com/DNABarraFishing/ (as linked on its own activity pages).
+- Websites, Facebook and Instagram for the other 23 match the links on the operators' own sites. Boat and captain names
+  in records.json all appear on the sites (Obsession owner/operator Steve Bernie confirmed on the retry).
+- Phone/email: no listing on the site stores phone or email (0 of 152), so none were added. Numbers seen on the operators'
+  sites this round, for the owner's enquiry hand-offs:
+  Alure 0419 950 769 | Anglers Choice 0419 849 548, fishing@anglerschoice.com.au | ASC 0428 752 275 |
+  Barra or Blue 0488 426 786 (header also shows 0419 916 638), bookings@barraorblue.com.au | Barra Private Tours 0466 104 870 |
+  Cobourg 0418 375 345 / 08 8927 5500 | Darwin Harbour FC 0428 175 331, info@darwinharbourfishingcharters.com.au |
+  DNA 08 8919 4619, bookings@dnabarrafishing.com.au | Groote Eylandt Lodge 08 8996 4200, res@gelnt.com.au |
+  Humbug info@humbugfishing.com.au | Just Doon It tel link 0409 565 729 but displayed number and flyer 0411 379 048, admin@justdoonit.com.au |
+  Kakadu FT 08 8979 2025, tours@kakadufishingtours.com.au | Obsession 0439 816 931, info@obsessionfishing.com.au |
+  OBJ book@objadventures.com.au / objadventures@gmail.com | Offshore Boats info@offshoreboats.com.au |
+  Point Stuart 08 8978 8914, pointstuart@bigpond.com | River & Reef info@riverandreef.com.au | Yknot info@yknotfishing.com.au |
+  NT Fish & 4x4 info@ntfish4x4.com.
+
+FOR THE OWNER
+- Just Doon It shows two mobiles: the click-to-call link is 0409 565 729, but the number printed on the site and its
+  flyer is 0411 379 048. Confirm which to use for enquiries.
+- Obsession and River & Reef both feature the 47 ft mothership "Beagle Gulf" (Obsession's mothership trips use it). The
+  photo was not used on Obsession; it belongs on River & Reef, where it already is.
+- Cobourg's boat (04) carries Venture North branding. Cobourg's own Black Point page shows it, so the businesses appear to be
+  related; it is kept.
+- Kakadu Fishing Tours: the About page is still signed "Mitch & Anni" above Shannon and Jodi Summerton's older text
+  (© 2026), so the ownership change remains unconfirmed. The new photos show the branded boat only, with no named guide.
+- Obsession's site returned 503 on the first fetch (OK on retry an hour later). Worth a quick look if it recurs.
