@@ -1,7 +1,7 @@
 {
   "slug": "east-gippsland-sportfishing",
   "request_hash": "05da978e072f",
-  "collected_at": "2026-11-09T02:34:19.546Z",
+  "collected_at": "2026-11-09T02:37:47.666Z",
   "pages_fetched": [
     "https://www.egsportfishing.com.au/",
     "https://www.egsportfishing.com.au/charter-locations/gippsland-lakes-charter-fishing",
@@ -197,7 +197,7 @@
       "page": "https://www.egsportfishing.com.au/blog",
       "status": 200,
       "final_url": "https://www.egsportfishing.com.au/blog",
-      "bytes": 1187104
+      "bytes": 1187117
     },
     {
       "page": "https://www.visiteastgippsland.com.au/operator/east-gippsland-sportfishing/",
@@ -209,7 +209,7 @@
       "page": "https://www.egsportfishing.com.au/contactus",
       "status": 200,
       "final_url": "https://www.egsportfishing.com.au/contactus",
-      "bytes": 1652909
+      "bytes": 1653189
     },
     {
       "page": "https://www.egsportfishing.com.au/charter-locations/lake-tyres-charter-fishing",
@@ -221,19 +221,19 @@
       "page": "https://www.egsportfishing.com.au/termsandconditions",
       "status": 200,
       "final_url": "https://www.egsportfishing.com.au/termsandconditions",
-      "bytes": 859143
+      "bytes": 856275
     },
     {
       "page": "https://www.egsportfishing.com.au/faq",
       "status": 200,
       "final_url": "https://www.egsportfishing.com.au/faq",
-      "bytes": 854268
+      "bytes": 854278
     },
     {
       "page": "https://www.egsportfishing.com.au/blog/categories/podcasts",
       "status": 200,
       "final_url": "https://www.egsportfishing.com.au/blog/categories/podcasts",
-      "bytes": 1164526
+      "bytes": 1165073
     },
     {
       "dup": "https://static.wixstatic.com/media/2b108d_ae2cef9d9038451a995d25af53aa7fa1~mv2.jpg/v1/fill/w_768,h_512,al_c/2b108d_ae2cef9d9038451a995d25af53aa7fa1~mv2.jpg"

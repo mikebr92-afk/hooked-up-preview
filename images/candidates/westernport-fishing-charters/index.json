@@ -1,30 +1,267 @@
 {
   "slug": "westernport-fishing-charters",
   "request_hash": "be92cacad915",
-  "collected_at": "2026-11-09T02:33:42.131Z",
+  "collected_at": "2026-11-09T02:37:15.490Z",
   "pages_fetched": [
     "https://www.westernportfishingcharters.com.au/",
     "https://www.westernportfishingcharters.com.au/gallery",
     "https://www.westernportfishingcharters.com.au/about",
-    "https://www.westernportfishingcharters.com.au/video-reports"
+    "https://www.westernportfishingcharters.com.au/video-reports",
+    "https://www.westernportfishingcharters.com.au/index",
+    "https://www.westernportfishingcharters.com.au/about.html",
+    "https://www.westernportfishingcharters.com.au/index.html",
+    "https://www.westernportfishingcharters.com.au/fishing-trip-price",
+    "https://www.westernportfishingcharters.com.au/private",
+    "https://www.westernportfishingcharters.com.au/memorial",
+    "https://www.westernportfishingcharters.com.au/giftandlicence",
+    "https://www.westernportfishingcharters.com.au/booking"
   ],
-  "candidates": [],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 640,
+      "height": 426,
+      "original": "640x426",
+      "source": "https://www.westernportfishingcharters.com.au/data/uploads/images/g1.jpg",
+      "page": "https://www.westernportfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 640,
+      "height": 426,
+      "original": "640x426",
+      "source": "https://www.westernportfishingcharters.com.au/data/uploads/images/g13.jpg",
+      "page": "https://www.westernportfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 640,
+      "height": 426,
+      "original": "640x426",
+      "source": "https://www.westernportfishingcharters.com.au/data/uploads/images/g3.jpg",
+      "page": "https://www.westernportfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 640,
+      "height": 426,
+      "original": "640x426",
+      "source": "https://www.westernportfishingcharters.com.au/data/uploads/images/g17.jpg",
+      "page": "https://www.westernportfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c05.webp",
+      "width": 640,
+      "height": 426,
+      "original": "640x426",
+      "source": "https://www.westernportfishingcharters.com.au/data/uploads/images/g18.jpg",
+      "page": "https://www.westernportfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c06.webp",
+      "width": 640,
+      "height": 426,
+      "original": "640x426",
+      "source": "https://www.westernportfishingcharters.com.au/data/uploads/images/g14.jpg",
+      "page": "https://www.westernportfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c07.webp",
+      "width": 640,
+      "height": 426,
+      "original": "640x426",
+      "source": "https://www.westernportfishingcharters.com.au/data/uploads/images/g16.jpg",
+      "page": "https://www.westernportfishingcharters.com.au/",
+      "priority": false
+    },
+    {
+      "file": "c08.webp",
+      "width": 640,
+      "height": 426,
+      "original": "640x426",
+      "source": "https://www.westernportfishingcharters.com.au/data/uploads/images/g15.jpg",
+      "page": "https://www.westernportfishingcharters.com.au/gallery",
+      "priority": false
+    },
+    {
+      "file": "c09.webp",
+      "width": 640,
+      "height": 426,
+      "original": "640x426",
+      "source": "https://www.westernportfishingcharters.com.au/data/uploads/images/g19.jpg",
+      "page": "https://www.westernportfishingcharters.com.au/gallery",
+      "priority": false
+    },
+    {
+      "file": "c10.webp",
+      "width": 640,
+      "height": 426,
+      "original": "640x426",
+      "source": "https://www.westernportfishingcharters.com.au/data/uploads/images/g5.jpg",
+      "page": "https://www.westernportfishingcharters.com.au/gallery",
+      "priority": false
+    },
+    {
+      "file": "c11.webp",
+      "width": 640,
+      "height": 426,
+      "original": "640x426",
+      "source": "https://www.westernportfishingcharters.com.au/data/uploads/images/g6.jpg",
+      "page": "https://www.westernportfishingcharters.com.au/gallery",
+      "priority": false
+    },
+    {
+      "file": "c12.webp",
+      "width": 640,
+      "height": 426,
+      "original": "640x426",
+      "source": "https://www.westernportfishingcharters.com.au/data/uploads/images/g2.jpg",
+      "page": "https://www.westernportfishingcharters.com.au/gallery",
+      "priority": false
+    },
+    {
+      "file": "c13.webp",
+      "width": 640,
+      "height": 426,
+      "original": "640x426",
+      "source": "https://www.westernportfishingcharters.com.au/data/uploads/images/g7.jpg",
+      "page": "https://www.westernportfishingcharters.com.au/gallery",
+      "priority": false
+    },
+    {
+      "file": "c14.webp",
+      "width": 640,
+      "height": 426,
+      "original": "640x426",
+      "source": "https://www.westernportfishingcharters.com.au/data/uploads/images/g8.jpg",
+      "page": "https://www.westernportfishingcharters.com.au/gallery",
+      "priority": false
+    },
+    {
+      "file": "c15.webp",
+      "width": 640,
+      "height": 426,
+      "original": "640x426",
+      "source": "https://www.westernportfishingcharters.com.au/data/uploads/images/g9.jpg",
+      "page": "https://www.westernportfishingcharters.com.au/gallery",
+      "priority": false
+    },
+    {
+      "file": "c16.webp",
+      "width": 640,
+      "height": 426,
+      "original": "640x426",
+      "source": "https://www.westernportfishingcharters.com.au/data/uploads/images/g10.jpg",
+      "page": "https://www.westernportfishingcharters.com.au/gallery",
+      "priority": false
+    }
+  ],
   "log": [
     {
       "page": "https://www.westernportfishingcharters.com.au/",
-      "error": "fetch failed"
+      "status": 200,
+      "final_url": "https://www.westernportfishingcharters.com.au/",
+      "bytes": 24235
     },
     {
       "page": "https://www.westernportfishingcharters.com.au/gallery",
-      "error": "fetch failed"
+      "status": 200,
+      "final_url": "https://www.westernportfishingcharters.com.au/gallery",
+      "bytes": 14357
     },
     {
       "page": "https://www.westernportfishingcharters.com.au/about",
-      "error": "fetch failed"
+      "status": 200,
+      "final_url": "https://www.westernportfishingcharters.com.au/about",
+      "bytes": 14242
     },
     {
       "page": "https://www.westernportfishingcharters.com.au/video-reports",
-      "error": "fetch failed"
+      "status": 200,
+      "final_url": "https://www.westernportfishingcharters.com.au/video-reports",
+      "bytes": 13379
+    },
+    {
+      "page": "https://www.westernportfishingcharters.com.au/index",
+      "status": 200,
+      "final_url": "https://www.westernportfishingcharters.com.au/index",
+      "bytes": 24235
+    },
+    {
+      "page": "https://www.westernportfishingcharters.com.au/about.html",
+      "status": 404,
+      "final_url": "https://www.westernportfishingcharters.com.au/about.html",
+      "bytes": 12379
+    },
+    {
+      "page": "https://www.westernportfishingcharters.com.au/index.html",
+      "status": 404,
+      "final_url": "https://www.westernportfishingcharters.com.au/index.html",
+      "bytes": 12379
+    },
+    {
+      "page": "https://www.westernportfishingcharters.com.au/fishing-trip-price",
+      "status": 200,
+      "final_url": "https://www.westernportfishingcharters.com.au/fishing-trip-price",
+      "bytes": 12372
+    },
+    {
+      "page": "https://www.westernportfishingcharters.com.au/private",
+      "status": 200,
+      "final_url": "https://www.westernportfishingcharters.com.au/private",
+      "bytes": 12015
+    },
+    {
+      "page": "https://www.westernportfishingcharters.com.au/memorial",
+      "status": 200,
+      "final_url": "https://www.westernportfishingcharters.com.au/memorial",
+      "bytes": 10893
+    },
+    {
+      "page": "https://www.westernportfishingcharters.com.au/giftandlicence",
+      "status": 200,
+      "final_url": "https://www.westernportfishingcharters.com.au/giftandlicence",
+      "bytes": 10419
+    },
+    {
+      "page": "https://www.westernportfishingcharters.com.au/booking",
+      "status": 200,
+      "final_url": "https://www.westernportfishingcharters.com.au/booking",
+      "bytes": 11325
+    },
+    {
+      "image": "https://www.westernportfishingcharters.com.au/images/book.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.westernportfishingcharters.com.au/data/uploads/images/t1.png",
+      "error": "too small 80x80"
+    },
+    {
+      "image": "https://www.westernportfishingcharters.com.au/data/uploads/images/g4.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.westernportfishingcharters.com.au/data/uploads/images/shimno.png",
+      "error": "too small 247x72"
+    },
+    {
+      "image": "https://www.westernportfishingcharters.com.au/data/uploads/images/facebook.png",
+      "error": "too small 500x183"
+    },
+    {
+      "image": "https://www.westernportfishingcharters.com.au/data/uploads/images/rev.png",
+      "error": "too small 177x129"
+    },
+    {
+      "image": "https://www.westernportfishingcharters.com.au/data/uploads/images/rec.png",
+      "error": "too small 170x82"
     }
   ]
 }

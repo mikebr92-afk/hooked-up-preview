@@ -1,0 +1,214 @@
+{
+  "slug": "east-gippsland-sportfishing-p2",
+  "request_hash": "df9da52c2dc9",
+  "collected_at": "2026-11-09T02:37:02.506Z",
+  "pages_fetched": [
+    "https://www.egsportfishing.com.au/post/gippsland-lakes-fishing-charter-what-to-expect-on-your-first-trip",
+    "https://www.egsportfishing.com.au/post/dusky-flathead-on-soft-plastics-what-works-in-gippslands-estuaries",
+    "https://www.egsportfishing.com.au/post/lure-fishing-for-beginners-what-i-teach-every-first-timer",
+    "https://www.egsportfishing.com.au/post/mallacoota-summer-fishing-with-chris-jordan-australian-lure-fishing-episode-652"
+  ],
+  "candidates": [
+    {
+      "file": "c01.webp",
+      "width": 1200,
+      "height": 900,
+      "original": "1200x900",
+      "source": "https://static.wixstatic.com/media/2b108d_48fd0d8eddd54d1bbbae9a1e2d011816~mv2.jpg",
+      "page": "https://www.egsportfishing.com.au/post/gippsland-lakes-fishing-charter-what-to-expect-on-your-first-trip",
+      "priority": false
+    },
+    {
+      "file": "c02.webp",
+      "width": 842,
+      "height": 595,
+      "original": "842x595",
+      "source": "https://static.wixstatic.com/media/2b108d_dd995b39499f49bba3835191bcd6ae41~mv2.png",
+      "page": "https://www.egsportfishing.com.au/post/gippsland-lakes-fishing-charter-what-to-expect-on-your-first-trip",
+      "priority": false
+    },
+    {
+      "file": "c03.webp",
+      "width": 1080,
+      "height": 1080,
+      "original": "1080x1080",
+      "source": "https://static.wixstatic.com/media/2b108d_a28c8ffac7014e97b0d9081a866e8a09~mv2.png",
+      "page": "https://www.egsportfishing.com.au/post/gippsland-lakes-fishing-charter-what-to-expect-on-your-first-trip",
+      "priority": false
+    },
+    {
+      "file": "c04.webp",
+      "width": 608,
+      "height": 609,
+      "original": "608x609",
+      "source": "https://static.wixstatic.com/media/2b108d_2999853bd5204da488410a9e22158630~mv2.jpg",
+      "page": "https://www.egsportfishing.com.au/post/mallacoota-summer-fishing-with-chris-jordan-australian-lure-fishing-episode-652",
+      "priority": true
+    }
+  ],
+  "log": [
+    {
+      "page": "https://www.egsportfishing.com.au/post/gippsland-lakes-fishing-charter-what-to-expect-on-your-first-trip",
+      "status": 200,
+      "final_url": "https://www.egsportfishing.com.au/post/gippsland-lakes-fishing-charter-what-to-expect-on-your-first-trip",
+      "bytes": 1052936
+    },
+    {
+      "page": "https://www.egsportfishing.com.au/post/dusky-flathead-on-soft-plastics-what-works-in-gippslands-estuaries",
+      "status": 200,
+      "final_url": "https://www.egsportfishing.com.au/post/dusky-flathead-on-soft-plastics-what-works-in-gippslands-estuaries",
+      "bytes": 1049501
+    },
+    {
+      "page": "https://www.egsportfishing.com.au/post/lure-fishing-for-beginners-what-i-teach-every-first-timer",
+      "status": 200,
+      "final_url": "https://www.egsportfishing.com.au/post/lure-fishing-for-beginners-what-i-teach-every-first-timer",
+      "bytes": 1053825
+    },
+    {
+      "page": "https://www.egsportfishing.com.au/post/mallacoota-summer-fishing-with-chris-jordan-australian-lure-fishing-episode-652",
+      "status": 200,
+      "final_url": "https://www.egsportfishing.com.au/post/mallacoota-summer-fishing-with-chris-jordan-australian-lure-fishing-episode-652",
+      "bytes": 1034024
+    },
+    {
+      "image": "https://static.wixstatic.com/media/2b108d_1f9b36a89f844203875dfbf6189bc8d6~mv2.png",
+      "error": "too small 100x100"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/2b108d_1f9b36a89f844203875dfbf6189bc8d6~mv2.png/v1/fill/w_24,h_24,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2b108d_1f9b36a89f844203875dfbf6189bc8d6~mv2.png",
+      "error": "too small 24x24"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/2b108d_e511a0a99973419a8acaf56c65afc404~mv2.png",
+      "error": "too small 100x100"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/2b108d_e511a0a99973419a8acaf56c65afc404~mv2.png/v1/fill/w_24,h_24,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2b108d_e511a0a99973419a8acaf56c65afc404~mv2.png",
+      "error": "too small 24x24"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/2b108d_81d26a4d71cb4c7cb7b5b22f7e09e12a~mv2.png",
+      "error": "too small 100x100"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/2b108d_81d26a4d71cb4c7cb7b5b22f7e09e12a~mv2.png/v1/fill/w_24,h_24,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2b108d_81d26a4d71cb4c7cb7b5b22f7e09e12a~mv2.png",
+      "error": "too small 24x24"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/2b108d_ef49cd0ad4e447ff9485325562af57b4~mv2.png",
+      "error": "too small 100x100"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/2b108d_ef49cd0ad4e447ff9485325562af57b4~mv2.png/v1/fill/w_24,h_24,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2b108d_ef49cd0ad4e447ff9485325562af57b4~mv2.png",
+      "error": "too small 24x24"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/2b108d_4f4096a9bb1240e288b15bf83cb3416b~mv2.png",
+      "error": "too small 100x100"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/2b108d_4f4096a9bb1240e288b15bf83cb3416b~mv2.png/v1/fill/w_24,h_24,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2b108d_4f4096a9bb1240e288b15bf83cb3416b~mv2.png",
+      "error": "too small 24x24"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/2b108d_e511a0a99973419a8acaf56c65afc404~mv2.png/v1/fill/w_41,h_41,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2b108d_e511a0a99973419a8acaf56c65afc404~mv2.png",
+      "error": "too small 41x41"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/2b108d_81d26a4d71cb4c7cb7b5b22f7e09e12a~mv2.png/v1/fill/w_41,h_41,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2b108d_81d26a4d71cb4c7cb7b5b22f7e09e12a~mv2.png",
+      "error": "too small 41x41"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/2b108d_ef49cd0ad4e447ff9485325562af57b4~mv2.png/v1/fill/w_41,h_41,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2b108d_ef49cd0ad4e447ff9485325562af57b4~mv2.png",
+      "error": "too small 41x41"
+    },
+    {
+      "image": "https://www.egsportfishing.com.au/post/quality_auto/2b108d_1f9b36a89f844203875dfbf6189bc8d6~mv2.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.egsportfishing.com.au/post/quality_auto/2b108d_e511a0a99973419a8acaf56c65afc404~mv2.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.egsportfishing.com.au/post/quality_auto/2b108d_81d26a4d71cb4c7cb7b5b22f7e09e12a~mv2.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.egsportfishing.com.au/post/quality_auto/2b108d_ef49cd0ad4e447ff9485325562af57b4~mv2.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.egsportfishing.com.au/post/quality_auto/2b108d_4f4096a9bb1240e288b15bf83cb3416b~mv2.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://www.egsportfishing.com.au/post/quality_auto/2b108d_dd995b39499f49bba3835191bcd6ae41~mv2.png",
+      "error": "HTTP 404"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/2b108d_2bae2261fbdf47dc81aadabe462e2a6a%7Emv2.jpg",
+      "error": "too small 16x16"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/2b108d_2bae2261fbdf47dc81aadabe462e2a6a%7Emv2.jpg/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/2b108d_2bae2261fbdf47dc81aadabe462e2a6a%7Emv2.jpg",
+      "error": "too small 192x192"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/2b108d_2bae2261fbdf47dc81aadabe462e2a6a%7Emv2.jpg/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/2b108d_2bae2261fbdf47dc81aadabe462e2a6a%7Emv2.jpg",
+      "error": "too small 32x32"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/2b108d_2bae2261fbdf47dc81aadabe462e2a6a%7Emv2.jpg/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/2b108d_2bae2261fbdf47dc81aadabe462e2a6a%7Emv2.jpg",
+      "error": "too small 180x180"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/2b108d_48fd0d8eddd54d1bbbae9a1e2d011816~mv2.jpg/v1/fill/w_288,h_216,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/2b108d_48fd0d8eddd54d1bbbae9a1e2d011816~mv2.jpg",
+      "error": "too small 288x216"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/2b108d_1f9b36a89f844203875dfbf6189bc8d6~mv2.png/v1/fill/w_48,h_48,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2b108d_1f9b36a89f844203875dfbf6189bc8d6~mv2.png",
+      "error": "too small 48x48"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/2b108d_e511a0a99973419a8acaf56c65afc404~mv2.png/v1/fill/w_48,h_48,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2b108d_e511a0a99973419a8acaf56c65afc404~mv2.png",
+      "error": "too small 48x48"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/2b108d_81d26a4d71cb4c7cb7b5b22f7e09e12a~mv2.png/v1/fill/w_48,h_48,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2b108d_81d26a4d71cb4c7cb7b5b22f7e09e12a~mv2.png",
+      "error": "too small 48x48"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/2b108d_ef49cd0ad4e447ff9485325562af57b4~mv2.png/v1/fill/w_48,h_48,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2b108d_ef49cd0ad4e447ff9485325562af57b4~mv2.png",
+      "error": "too small 48x48"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/2b108d_4f4096a9bb1240e288b15bf83cb3416b~mv2.png/v1/fill/w_48,h_48,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2b108d_4f4096a9bb1240e288b15bf83cb3416b~mv2.png",
+      "error": "too small 48x48"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/2b108d_e511a0a99973419a8acaf56c65afc404~mv2.png/v1/fill/w_82,h_82,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2b108d_e511a0a99973419a8acaf56c65afc404~mv2.png",
+      "error": "too small 82x82"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/2b108d_81d26a4d71cb4c7cb7b5b22f7e09e12a~mv2.png/v1/fill/w_82,h_82,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2b108d_81d26a4d71cb4c7cb7b5b22f7e09e12a~mv2.png",
+      "error": "too small 82x82"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/2b108d_ef49cd0ad4e447ff9485325562af57b4~mv2.png/v1/fill/w_82,h_82,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2b108d_ef49cd0ad4e447ff9485325562af57b4~mv2.png",
+      "error": "too small 82x82"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/2b108d_dd995b39499f49bba3835191bcd6ae41~mv2.png/v1/crop/x_130,y_91,w_588,h_412/fill/w_156,h_85,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2b108d_dd995b39499f49bba3835191bcd6ae41~mv2.png",
+      "error": "too small 156x85"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/2b108d_dd995b39499f49bba3835191bcd6ae41~mv2.png/v1/crop/x_130,y_91,w_588,h_412/fill/w_312,h_170,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2b108d_dd995b39499f49bba3835191bcd6ae41~mv2.png",
+      "error": "too small 312x170"
+    },
+    {
+      "dup": "https://static.wixstatic.com/media/2b108d_2999853bd5204da488410a9e22158630~mv2.jpg/v1/fill/w_608,h_609,al_c,q_85/2b108d_2999853bd5204da488410a9e22158630~mv2.jpg"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "slug": "unreel-fishing-charters",
   "request_hash": "f1eb2bb97ea7",
-  "collected_at": "2026-11-09T02:34:56.326Z",
+  "collected_at": "2026-11-09T02:37:58.897Z",
   "pages_fetched": [
     "https://www.unreelfishingcharters.com.au/",
     "https://www.unreelfishingcharters.com.au/snapper-1",
@@ -196,7 +196,7 @@
       "page": "https://www.unreelfishingcharters.com.au/cart",
       "status": 200,
       "final_url": "https://www.unreelfishingcharters.com.au/cart",
-      "bytes": 719435
+      "bytes": 126035
     },
     {
       "page": "https://www.unreelfishingcharters.com.au/king-fish-1-2",
