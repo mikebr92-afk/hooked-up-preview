@@ -1,0 +1,45 @@
+QLD SOUTH PHOTO AND DETAILS AUDIT (checked 2026-11-09)
+Pipeline branch: operator-images/state-qld-south-photos (candidates under images/candidates/p6*-<slug>/)
+Review sheets: review/<slug>.jpg (before/after). WebSearch used: 4 of 12.
+
+PER LISTING (verdict: why)
+hooked-on-1770-agnes-water: FILL, 0 -> 1. New hero: the operator's own homepage hero image (1770tours.com/hero-boat.jpg, 1800x1200). It shows their white hardtop monohull with rods running near the creek mouth at golden hour, which matches 'Hooked on 2'. No other usable image exists: every other site image is 117-488 px, the QICA/Bookeasy listing has no photos, Facebook is login-walled, and nothing turned up in search. OWNER: ask Damian & Mel Robeck (0428 94 1770, info@1770tours.com) for 3-4 catch/boat photos.
+frenzy-charters-brisbane: NO CHANGE, still 0 photos. The site stores only 150-480 px images (Snapshots gallery max 400x300; fishing-report photos 480x360) plus one 800x450 logo graphic, which can't be used. Facebook is login-walled and no tourism listing with photos exists. OWNER: ask the new management (0421 922 713, mickdragt@gmail.com) for photos of Krabbey Kat and recent catches.
+saltys-fishing-charters-caloundra: REPLACE, 3 -> 4. New hero: their boat (rego 459273) underway at sunrise. Added the site's catch collage and a sunrise-from-deck shot. Dropped the stern/outboard and empty-deck dock shots. Previously there were no catch or action photos.
+bundaberg-river-fishing-charters: REPLACE, 3 -> 4. New hero: a client with an estuary cod, Burnett Heads rock wall behind (landscape, 2000 px original from Recent Catches). Kept the flathead shot, added two cod catches, and dropped two portrait small-bream shots.
+brisbane-fishing-tour: IMPROVE, 3 -> 5. New hero: a client with a big jewfish on their branded boat (square, sharp). Added a snapper shot. The old hero is kept second.
+truansea-charters-bundaberg: IMPROVE, 3 -> 5. Added coral trout and red emperor (2000 px originals from Brag Mat, 2024). Hero kept.
+hooker-1-fishing-charters-gold-coast: IMPROVE, 3 -> 4. Dropped the sunset-marina filler and added two catch shots showing 'HOOKER' on the gunwale (May 2025 uploads, only 600x800, so extras only). Hero (boat underway) kept. The site also uses an AdobeStock whale image, which I excluded.
+fish-the-deep-charters: IMPROVE, 4 -> 5. Added a snapper catch. All site photos are 800 px and look 10+ years old; nothing newer is published. OWNER (optional): request recent photos.
+bks-gold-coast-fishing-charters: IMPROVE, 4 -> 5. Added a spotted mackerel catch. Current 04 (small centre console) is confirmed as their second boat 'Black Betty', a 5.5 m Stacer used for calm-water trips.
+saltwater-playground-hervey-bay: IMPROVE, 4 -> 5. Added a GT catch.
+keely-rose-fishing-charters: IMPROVE, 3 -> 5. Added snapper and mackerel catches. The boat-on-water hero is kept.
+deep-sea-fishing-co-noosa: IMPROVE, 3 -> 5. Added amberjack and tuna (square). Reordered so the docked-fleet shot sits third.
+double-threat-charters-yeppoon: IMPROVE, 3 -> 4. Added a nannygai catch.
+kanimbla-charters-yeppoon: IMPROVE, 4 -> 5. Dropped the silhouetted-rods sunset and added red emperor (three anglers) and Spanish mackerel.
+fish-moreton: NO CHANGE (3). All accurate. The 'Fish Moreton Cruise' boat (02) has the same twin-Honda hull seen in their offshore catch photos, so it is their boat. Site candidate c16 (snapper beside a blue boat lettered '...very ... st Fishing' / '...FISHINGCHARTERS.COM.AU') may be another operator's boat; I did not use it. OWNER: worth a look on fishmoreton.com.au/offshore-fishing.
+moreton-island-fishing-charters: NO CHANGE (4). Strong and accurate; the alternatives on the site were over-processed or small.
+eastern-voyager-gladstone: NO CHANGE (4). Strong catches plus tenders. The only mothership shot on the site is blurry (1000x458).
+mv-mikat-charters-gladstone: NO CHANGE (4). The site set is already used in full.
+night-crossing-fishing-adventures-gladstone: NO CHANGE (4). Strong; the listing is still flagged stale? from round 4.
+true-blue-fishing-charters: NO CHANGE (4). Strong. The site sailfish shot carries a corner watermark, so I didn't use it.
+hervey-bay-fly-and-sportfishing: NO CHANGE (4). Strong (marlin on the flats, fleet running, tuna).
+noosa-bluewater-charters: NO CHANGE (4). Strong.
+what-a-catch-deep-sea-fishing: NO CHANGE (4). Strong mahi hero plus the Prospector boat.
+rainbow-beach-fishing-charters: NO CHANGE (4). Strong.
+
+HEROES: every hero is now a sharp catch, action or boat-on-water shot. Salty's (docked boat) and Bundaberg River (small flathead) were upgraded; Brisbane Fishing Tour's hero was upgraded to a stronger catch.
+
+DETAILS (details.json)
+- true-blue-fishing-charters: departure_address "The Spit Pontoon, 8 Muriel Henchman Drive, Main Beach QLD 4217" becomes "The Spit Pontoon, Muriel Henchman Drive, Main Beach QLD (near Sea World)". The site never gives the street number '8'.
+- Every other website, facebook, instagram, departure address, boat name and captain name matches the operator's own site. Notes:
+  - Hervey Bay Fly: the guides page meta still says "Andrew, Murray and Peter", but the page body lists Andrew Chorley, Peter Fry and Ben Webb, matching the listing.
+  - Hervey Bay Fly: "Urangan Boat Harbour" isn't stated on the fetched pages (set in an earlier round); left unchanged.
+- phone/email are blank on all 152 listings by design, so I did not publish them. Numbers the sites show now, for the owner's enquiry routing:
+  Hooked On 1770 0428 94 1770 / info@1770tours.com; Frenzy 0421 922 713 / mickdragt@gmail.com (new management; old 0427 424 576 still appears on one page); Brisbane Fishing Tour 0433 034 357; Fish Moreton 0421 752 382; Moreton Island FC 0413 128 056; Bundaberg River 0419 767 396; Truansea 0423 015 490; Eastern Voyager and Night Crossing 0436 640 197; MV Mikat +61 400 697 242; BKs 0414 293 034; Fish The Deep 0416 224 412; Hooker 1 0407 286 469; Hervey Bay Fly 0407 627 852; Saltwater Playground 0406 818 625; Keely Rose 0407 146 151; Deep Sea Fishing Co 0411 222 749; Noosa Bluewater 07 5449 9355; Salty's 0459 636 798; What A Catch 0437 836 203; Rainbow Beach FC 0468 007 337; Double Threat 0447 210 099; Kanimbla 0429 159 233.
+
+OWNER CHECKS
+1. Hooked On 1770 (the only Agnes Water listing) has just one photo. Request more from the operator.
+2. Frenzy Charters still has no photos. Request them from the new management.
+3. Deep Sea Fishing Co. Noosa advertises a "NEW BOAT COMING NOVEMBER" (11.6 m charter catamaran). Update the boat fields once it is named and in service.
+4. Fish Moreton: confirm that site image c16 (blue-hulled boat) is theirs before anyone uses it.
