@@ -1,9 +1,13 @@
 {
-  "finished_at": "2026-11-09T02:33:14.966Z",
+  "finished_at": "2026-11-09T02:34:38.802Z",
   "summary": [
     {
       "slug": "birchys-fishing-tours-2",
-      "candidates": 10,
+      "skipped": true
+    },
+    {
+      "slug": "reel-teaser-fishing-adventures-2",
+      "candidates": 17,
       "pages": 0
     },
     {
