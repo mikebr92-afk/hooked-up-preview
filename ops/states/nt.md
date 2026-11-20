@@ -159,7 +159,7 @@ RULES SOURCES (unchanged)
 
 <!-- AUTO:listings:start -->
 
-_Generated 2026-11-08 from data/operators.json: 24 live listings._
+_Generated 2026-11-20 from data/operators.json: 24 live listings._
 
 ### Darwin (`darwin`) — 7 listings, page live
 - `barra-or-blue-fishing-charters-darwin` — Barra or Blue Fishing Charters · Darwin City, Darwin · https://barraorblue.com.au/ · checked 2026-10-29

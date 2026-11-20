@@ -22,6 +22,9 @@ A destination page goes live at 2+ listings.
 | eden | Merimbula & Eden | Twofold Bay (no bar), shelf ~19 nm; game season Nov–Jul |
 | lord-howe-island | Lord Howe Island | Kingfish, Balls Pyramid; marine park |
 
+## Removed at the owner's request
+- **Blue Reef Fishing Charters** (Sydney, Strike Back): removed 20 Nov 2026 at the owner's request. Don't re-add without asking.
+
 ## Held, and leads to confirm by phone
 - **B & L Fishing Charters (Swansea, Lake Macquarie offshore):** news stops in 2021. Strong candidate for Newcastle.
 - **Solitary Island Fishing Charters (Wooli):** 0484 952 543. Wix site broken; Clarence Valley.
@@ -137,11 +140,10 @@ WebSearch used: 18 of 25.
 
 <!-- AUTO:listings:start -->
 
-_Generated 2026-11-08 from data/operators.json: 43 live listings._
+_Generated 2026-11-20 from data/operators.json: 42 live listings._
 
-### Sydney (`sydney`) — 10 listings, page live
+### Sydney (`sydney`) — 9 listings, page live
 - `ambition-charters-sydney` — Ambition Game Fishing Charters · Watsons Bay, Sydney · https://ambitioncharters.com.au/ · checked 2026-10-29
-- `blue-reef-fishing-charters-sydney` — Blue Reef Fishing Charters · Balmain, Sydney · https://www.bluereefcharters.info/ · checked 2026-10-29
 - `cronulla-reef-fishing-charters` — Cronulla Reef Fishing Charters · Cronulla, Sydney · https://cronullareeffishingcharters.com/ · checked 2026-10-29
 - `deep-blue-charters-sydney` — Deep Blue Charters · Rose Bay, Sydney · https://deepbluecharters.com.au/ · checked 2026-10-29
 - `fishabout-tours-sydney` — Fishabout Tours · The Spit, Sydney · https://www.fishaboutsydney.com.au/ · checked 2026-10-29
